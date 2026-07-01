@@ -1,0 +1,70 @@
+:root{
+  --bg:#0e1016; --panel:#161a24; --panel2:#1d2331; --line:#2a3243;
+  --text:#e7ecf3; --muted:#8b97ab; --green:#39d98a; --greendim:#1c5b3f;
+  --accent:#4c8dff; --red:#ff5c6c; --shadow:0 6px 20px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+header{position:sticky;top:0;z-index:20;background:rgba(14,16,22,.92);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:16px;padding:12px 20px;flex-wrap:wrap}
+h1{font-size:17px;margin:0;font-weight:650}
+.controls{margin-left:auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.stat{color:var(--muted);font-variant-numeric:tabular-nums}
+select{background:var(--panel2);color:var(--text);border:1px solid var(--line);
+  border-radius:8px;padding:7px 10px;font-size:13px}
+button{border:1px solid var(--line);background:var(--panel2);color:var(--text);
+  border-radius:8px;padding:7px 13px;font-size:13px;cursor:pointer}
+button:hover{border-color:#3a465c}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+button.send{background:var(--greendim);border-color:var(--green);color:var(--green);font-weight:600}
+button.send:hover{background:var(--green);color:#062}
+button.link{background:none;border:none;color:var(--accent);padding:2px 4px}
+.tokenbar{padding:6px 20px;font-size:12px;display:flex;gap:10px;align-items:center;
+  border-top:1px solid #10131b}
+.muted{color:var(--muted)} .pad{padding:24px}
+main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
+
+.scene{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+  margin-bottom:18px;overflow:hidden;box-shadow:var(--shadow)}
+.scene-head{padding:13px 16px;border-bottom:1px solid var(--line);
+  display:flex;gap:14px;align-items:flex-start}
+.scene-id{font-weight:700;color:var(--accent);font-size:15px;flex:none;
+  background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:3px 9px}
+.scene-meta{flex:1;min-width:0}
+.scene-dir{font-weight:600}
+.scene-line{color:var(--muted);font-size:12.5px;margin-top:2px}
+.scene-side{flex:none;display:flex;flex-direction:column;gap:7px;align-items:flex-end}
+.scene-count{color:var(--muted);font-size:12px}
+.scene-count b{color:var(--green)}
+.reshoot{font-size:12px;padding:5px 10px;white-space:nowrap;color:var(--muted)}
+.reshoot:hover{border-color:#c9862f;color:#f0b45e}
+.reshoot.on{background:#3a2a12;border-color:#e0932e;color:#f0b45e;font-weight:600}
+.reshoot-note{color:#f0b45e;font-size:12px;margin-top:3px}
+.scene.flagged{border-color:#8a5a1e}
+.scene.flagged .scene-head{background:rgba(224,147,46,.06)}
+
+.grid{display:grid;gap:12px;padding:14px 16px;
+  grid-template-columns:repeat(auto-fill,minmax(215px,1fr))}
+.card{background:var(--panel2);border:2px solid var(--line);border-radius:11px;
+  overflow:hidden;cursor:pointer;transition:border-color .12s,transform .12s}
+.card:hover{transform:translateY(-2px)}
+.card.on{border-color:var(--green);box-shadow:0 0 0 1px var(--green)}
+.media{position:relative;aspect-ratio:16/9;background:#000}
+.media img,.media video{width:100%;height:100%;object-fit:cover;display:block}
+.badge{position:absolute;top:7px;left:7px;background:rgba(0,0,0,.68);
+  border-radius:6px;padding:2px 7px;font-size:11px;text-transform:capitalize}
+.tick{position:absolute;top:7px;right:7px;width:26px;height:26px;border-radius:50%;
+  background:rgba(0,0,0,.55);border:1.5px solid #fff;display:flex;align-items:center;
+  justify-content:center;font-size:15px;color:transparent}
+.card.on .tick{background:var(--green);border-color:var(--green);color:#062}
+.type-img .badge::after{content:" · still"}
+.foot{padding:7px 9px;font-size:11px;color:var(--muted);display:flex;
+  justify-content:space-between;gap:6px}
+.foot a{color:var(--muted)}
+.lic{color:#c7d0df}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%) translateY(80px);
+  background:var(--panel2);border:1px solid var(--green);color:var(--text);
+  padding:11px 18px;border-radius:10px;box-shadow:var(--shadow);transition:transform .25s;z-index:50}
+.toast.show{transform:translateX(-50%) translateY(0)}

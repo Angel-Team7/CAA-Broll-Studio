@@ -1,0 +1,718 @@
+{
+  "project": "communication-dont-assume-clarify",
+  "title": "Communication Dont Assume Clarify",
+  "generated": "2026-07-01",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Your manager says 'Please move the chairs.' One moves five, another moves every chair, another none.",
+      "visual_direction": "People moving/stacking chairs in a room, mild confusion about the task.",
+      "clips": [
+        {
+          "id": "pexels_6344438_staff-moving-furniture-event-hal",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/guy-using-chairs-as-prop-for-his-dance-6344438/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S01/pexels_6344438_staff-moving-furniture-event-hal.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S01/pexels_6344438_staff-moving-furniture-event-hal.mp4"
+        },
+        {
+          "id": "pexels_7508814_person-carrying-chairs-setting-u",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-carrying-a-chair-7508814/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S01/pexels_7508814_person-carrying-chairs-setting-u.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S01/pexels_7508814_person-carrying-chairs-setting-u.mp4"
+        },
+        {
+          "id": "pexels_7581202_employees-rearranging-chairs-off",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-working-on-office-using-computer-7581202/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S01/pexels_7581202_employees-rearranging-chairs-off.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S01/pexels_7581202_employees-rearranging-chairs-off.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "Who made the mistake? Maybe the problem wasn't effort. Maybe the problem was communication.",
+      "visual_direction": "A team working hard but pulling in different directions \u2014 a miscommunication moment.",
+      "clips": [
+        {
+          "id": "pexels_7640671_coworkers-puzzled-different-dire",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-talking-about-their-coworker-7640671/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S02/pexels_7640671_coworkers-puzzled-different-dire.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S02/pexels_7640671_coworkers-puzzled-different-dire.mp4"
+        },
+        {
+          "id": "pexels_8135859_employees-frustrated-mixed-up-ta",
+          "type": "video",
+          "source": "pexels",
+          "author": "AI25.Studio  AI GENERATIVE",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-tossing-papers-in-an-office-8135859/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S02/pexels_8135859_employees-frustrated-mixed-up-ta.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S02/pexels_8135859_employees-frustrated-mixed-up-ta.mp4"
+        },
+        {
+          "id": "pexels_8136058_team-looking-confused-misunderst",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-men-having-an-argument-while-talking-8136058/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S02/pexels_8136058_team-looking-confused-misunderst.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S02/pexels_8136058_team-looking-confused-misunderst.mp4"
+        },
+        {
+          "id": "pexels_9077871_busy-workers-miscommunication-of",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sleepy-man-drinking-coffee-at-the-office-9077871/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S02/pexels_9077871_busy-workers-miscommunication-of.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S02/pexels_9077871_busy-workers-miscommunication-of.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "Great teams don't just work hard. Great teams communicate clearly.",
+      "visual_direction": "A team communicating clearly and easily \u2014 open, aligned conversation.",
+      "clips": [
+        {
+          "id": "pexels_35402290_colleagues-open-conversation-off",
+          "type": "video",
+          "source": "pexels",
+          "author": "Giorgio Tomassetti",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/discussion-in-modern-office-environment-35402290/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S03/pexels_35402290_colleagues-open-conversation-off.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S03/pexels_35402290_colleagues-open-conversation-off.mp4"
+        },
+        {
+          "id": "pexels_7504621_team-communicating-clearly-meeti",
+          "type": "video",
+          "source": "pexels",
+          "author": "Moe Magners",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-people-working-together-7504621/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S03/pexels_7504621_team-communicating-clearly-meeti.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S03/pexels_7504621_team-communicating-clearly-meeti.mp4"
+        },
+        {
+          "id": "pexels_7687996_coworkers-discussing-plan-aligne",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/high-angle-shot-of-coworkers-having-a-meeting-7687996/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S03/pexels_7687996_coworkers-discussing-plan-aligne.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S03/pexels_7687996_coworkers-discussing-plan-aligne.mp4"
+        },
+        {
+          "id": "pexels_8632193_team-collaboration-talking-confi",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/colleagues-having-meeting-while-discussing-a-report-paper-8632193/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S03/pexels_8632193_team-collaboration-talking-confi.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S03/pexels_8632193_team-collaboration-talking-confi.mp4"
+        },
+        {
+          "id": "pixabay_87593_coworkers-discussing-plan-aligne",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87593/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S03/pixabay_87593_coworkers-discussing-plan-aligne.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S03/pixabay_87593_coworkers-discussing-plan-aligne.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "It saves time. It prevents mistakes. It builds trust. It helps people enjoy working together.",
+      "visual_direction": "Trust and ease between coworkers \u2014 a warm handshake, a productive chat.",
+      "clips": [
+        {
+          "id": "pexels_4428751_two-colleagues-friendly-conversa",
+          "type": "video",
+          "source": "pexels",
+          "author": "Edmond Dant\u00e8s",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/meeting-new-client-4428751/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_4428751_two-colleagues-friendly-conversa.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_4428751_two-colleagues-friendly-conversa.mp4"
+        },
+        {
+          "id": "pexels_5940522_productive-team-meeting-smiling",
+          "type": "video",
+          "source": "pexels",
+          "author": "Theo  Decker",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-talking-to-each-other-inside-a-office-5940522/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_5940522_productive-team-meeting-smiling.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_5940522_productive-team-meeting-smiling.mp4"
+        },
+        {
+          "id": "pexels_6339872_workplace-trust-collaboration",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/group-doing-fist-bump-together-6339872/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_6339872_workplace-trust-collaboration.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_6339872_workplace-trust-collaboration.mp4"
+        },
+        {
+          "id": "pexels_8136060_coworkers-handshake-trust-office",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-shaking-hands-in-the-office-8136060/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_8136060_coworkers-handshake-trust-office.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_8136060_coworkers-handshake-trust-office.mp4"
+        },
+        {
+          "id": "pixabay_2340_productive-team-meeting-smiling",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-2340/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pixabay_2340_productive-team-meeting-smiling.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pixabay_2340_productive-team-meeting-smiling.mp4"
+        },
+        {
+          "id": "pexels_5961026_coworkers-handshake-trust-office",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-and-woman-shaking-hands-5961026/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_5961026_coworkers-handshake-trust-office.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_5961026_coworkers-handshake-trust-office.jpg"
+        },
+        {
+          "id": "pexels_8102170_two-colleagues-friendly-conversa",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-women-having-coffee-break-at-work-8102170/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_8102170_two-colleagues-friendly-conversa.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_8102170_two-colleagues-friendly-conversa.jpg"
+        },
+        {
+          "id": "pexels_8547289_productive-team-meeting-smiling",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/three-women-chatting-at-work-8547289/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pexels_8547289_productive-team-meeting-smiling.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pexels_8547289_productive-team-meeting-smiling.jpg"
+        },
+        {
+          "id": "pixabay_1979261_coworkers-handshake-trust-office",
+          "type": "image",
+          "source": "pixabay",
+          "author": "089photoshootings",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/people-business-meeting-1979261/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pixabay_1979261_coworkers-handshake-trust-office.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pixabay_1979261_coworkers-handshake-trust-office.jpg"
+        },
+        {
+          "id": "pixabay_4529717_workplace-trust-collaboration",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ua_Bob_Dmyt_ua",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/team-friendship-group-hands-4529717/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S04/pixabay_4529717_workplace-trust-collaboration.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S04/pixabay_4529717_workplace-trust-collaboration.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "The biggest communication mistake is this: We assume.",
+      "visual_direction": "A worker assuming wrongly \u2014 uncertain, puzzled, a wrong mental picture.",
+      "clips": [
+        {
+          "id": "pexels_6031951_employee-uncertain-puzzled-desk",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-playing-chess-alone-6031951/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S05/pexels_6031951_employee-uncertain-puzzled-desk.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S05/pexels_6031951_employee-uncertain-puzzled-desk.mp4"
+        },
+        {
+          "id": "pexels_7597571_confused-worker-scratching-head",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-his-laptop-7597571/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S05/pexels_7597571_confused-worker-scratching-head.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S05/pexels_7597571_confused-worker-scratching-head.mp4"
+        },
+        {
+          "id": "pixabay_271463_confused-worker-scratching-head",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S05/pixabay_271463_confused-worker-scratching-head.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S05/pixabay_271463_confused-worker-scratching-head.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "The solution is simple. Ask clarifying questions.",
+      "visual_direction": "An employee asking a clarifying question, checking understanding with a manager.",
+      "clips": [
+        {
+          "id": "pexels_6671768_colleague-raising-question-at-de",
+          "type": "video",
+          "source": "pexels",
+          "author": "Andy Barbour",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-surrendering-her-phone-before-taking-a-seat-6671768/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S06/pexels_6671768_colleague-raising-question-at-de.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S06/pexels_6671768_colleague-raising-question-at-de.mp4"
+        },
+        {
+          "id": "pexels_7647617_person-asking-clarifying-questio",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-asking-question-during-conference-7647617/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S06/pexels_7647617_person-asking-clarifying-questio.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S06/pexels_7647617_person-asking-clarifying-questio.mp4"
+        },
+        {
+          "id": "pexels_8134417_employee-asking-manager-a-questi",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-talking-while-working-8134417/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S06/pexels_8134417_employee-asking-manager-a-questi.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S06/pexels_8134417_employee-asking-manager-a-questi.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-asking-for-clarification",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S06/pixabay_271463_worker-asking-for-clarification.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S06/pixabay_271463_worker-asking-for-clarification.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "'Please clean the kitchen.' One washes dishes, one cleans the floor, one wipes benches.",
+      "visual_direction": "People cleaning a kitchen in different ways \u2014 dishes, counters, floor, bins.",
+      "clips": [
+        {
+          "id": "pexels_7640949_cleaning-kitchen-floor-mop",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-mopping-the-floor-7640949/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S07/pexels_7640949_cleaning-kitchen-floor-mop.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S07/pexels_7640949_cleaning-kitchen-floor-mop.mp4"
+        },
+        {
+          "id": "pexels_7641640_person-washing-dishes-kitchen",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-washing-the-dishes-7641640/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S07/pexels_7641640_person-washing-dishes-kitchen.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S07/pexels_7641640_person-washing-dishes-kitchen.mp4"
+        },
+        {
+          "id": "pixabay_34091_person-washing-dishes-kitchen",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S07/pixabay_34091_person-washing-dishes-kitchen.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S07/pixabay_34091_person-washing-dishes-kitchen.mp4"
+        },
+        {
+          "id": "pixabay_38116_cleaning-kitchen-floor-mop",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Engin_Akyurt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-38116/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S07/pixabay_38116_cleaning-kitchen-floor-mop.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S07/pixabay_38116_cleaning-kitchen-floor-mop.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "A two-minute conversation could have saved thirty minutes. Good communication is faster than fixing mistakes.",
+      "visual_direction": "A quick, clarifying two-person conversation that heads off confusion.",
+      "clips": [
+        {
+          "id": "pexels_5971448_manager-employee-short-discussio",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-people-talking-together-5971448/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S08/pexels_5971448_manager-employee-short-discussio.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S08/pexels_5971448_manager-employee-short-discussio.mp4"
+        },
+        {
+          "id": "pexels_5977455_two-coworkers-quick-conversation",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jack Sparrow",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/colleagues-discussing-a-documents-while-walking-inside-the-office-5977455/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S08/pexels_5977455_two-coworkers-quick-conversation.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S08/pexels_5977455_two-coworkers-quick-conversation.mp4"
+        },
+        {
+          "id": "pexels_6248579_brief-chat-clarify-workplace",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-talking-in-an-office-6248579/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S08/pexels_6248579_brief-chat-clarify-workplace.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S08/pexels_6248579_brief-chat-clarify-workplace.mp4"
+        },
+        {
+          "id": "pexels_7640704_colleagues-talking-solving-quick",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/angry-woman-talking-to-a-man-7640704/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S08/pexels_7640704_colleagues-talking-solving-quick.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S08/pexels_7640704_colleagues-talking-solving-quick.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "Many people listen so they can answer. Great people listen so they can understand.",
+      "visual_direction": "Genuine, attentive listening \u2014 stopping, eye contact, focus.",
+      "clips": [
+        {
+          "id": "pexels_6339820_person-listening-attentively-col",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/side-view-video-of-a-man-6339820/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S09/pexels_6339820_person-listening-attentively-col.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S09/pexels_6339820_person-listening-attentively-col.mp4"
+        },
+        {
+          "id": "pexels_6952205_employee-active-listening-eye-co",
+          "type": "video",
+          "source": "pexels",
+          "author": "Werner Pfennig",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-in-a-business-conference-6952205/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S09/pexels_6952205_employee-active-listening-eye-co.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S09/pexels_6952205_employee-active-listening-eye-co.mp4"
+        },
+        {
+          "id": "pexels_8135155_worker-focused-listening-convers",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-couple-having-a-conversation-8135155/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S09/pexels_8135155_worker-focused-listening-convers.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S09/pexels_8135155_worker-focused-listening-convers.mp4"
+        },
+        {
+          "id": "pixabay_43459_person-listening-attentively-col",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S09/pixabay_43459_person-listening-attentively-col.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S09/pixabay_43459_person-listening-attentively-col.mp4"
+        },
+        {
+          "id": "pixabay_87593_two-people-attentive-listening-m",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87593/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S09/pixabay_87593_two-people-attentive-listening-m.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S09/pixabay_87593_two-people-attentive-listening-m.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "When they finish, repeat back what you heard. This is called checking your understanding.",
+      "visual_direction": "Confirming understanding \u2014 nodding, repeating back, taking notes.",
+      "clips": [
+        {
+          "id": "pexels_8134510_coworkers-nodding-confirming-und",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-talking-on-the-phone-8134510/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S10/pexels_8134510_coworkers-nodding-confirming-und.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S10/pexels_8134510_coworkers-nodding-confirming-und.mp4"
+        },
+        {
+          "id": "pexels_8547355_employee-taking-notes-confirming",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-writing-on-a-sticky-note-8547355/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S10/pexels_8547355_employee-taking-notes-confirming.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S10/pexels_8547355_employee-taking-notes-confirming.mp4"
+        },
+        {
+          "id": "pixabay_87593_two-people-agreement-nod-meeting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87593/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S10/pixabay_87593_two-people-agreement-nod-meeting.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S10/pixabay_87593_two-people-agreement-nod-meeting.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Another habit is checking in. Send a message. Walk over. 'Is this still the priority?'",
+      "visual_direction": "A quick check-in \u2014 walking over, sending a message, a progress update.",
+      "clips": [
+        {
+          "id": "pexels_18019222_person-sending-message-at-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Josh Tavernier | iCapture Media Digital Marketing Agency",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-is-using-her-laptop-while-sitting-on-a-bench-18019222/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S11/pexels_18019222_person-sending-message-at-work.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S11/pexels_18019222_person-sending-message-at-work.mp4"
+        },
+        {
+          "id": "pexels_7643337_colleague-walking-over-to-ask",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/colleagues-having-a-discussion-7643337/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S11/pexels_7643337_colleague-walking-over-to-ask.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S11/pexels_7643337_colleague-walking-over-to-ask.mp4"
+        },
+        {
+          "id": "pexels_7648401_employee-checking-in-with-manage",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/employee-taking-temperature-at-the-registration-desk-7648401/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S11/pexels_7648401_employee-checking-in-with-manage.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S11/pexels_7648401_employee-checking-in-with-manage.mp4"
+        },
+        {
+          "id": "pexels_8632593_worker-giving-progress-update-de",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-talking-to-women-8632593/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S11/pexels_8632593_worker-giving-progress-update-de.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S11/pexels_8632593_worker-giving-progress-update-de.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "Bad news does not get better with time. Speak up early.",
+      "visual_direction": "Speaking up early and honestly \u2014 raising a concern before it grows.",
+      "clips": [
+        {
+          "id": "pexels_3253879_employee-speaking-up-early-meeti",
+          "type": "video",
+          "source": "pexels",
+          "author": "fauxels",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-greeting-his-colleagues-3253879/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S12/pexels_3253879_employee-speaking-up-early-meeti.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S12/pexels_3253879_employee-speaking-up-early-meeti.mp4"
+        },
+        {
+          "id": "pexels_7448472_worker-raising-concern-to-manage",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-looking-at-laptop-screen-7448472/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S12/pexels_7448472_worker-raising-concern-to-manage.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S12/pexels_7448472_worker-raising-concern-to-manage.mp4"
+        },
+        {
+          "id": "pexels_8460904_colleague-asking-for-help-early",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-asking-a-woman-for-work-advices-8460904/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S12/pexels_8460904_colleague-asking-for-help-early.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S12/pexels_8460904_colleague-asking-for-help-early.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Communication is about respect. Don't assume. Ask. Repeat back. Check in early and often.",
+      "visual_direction": "A respectful, well-communicating team succeeding together.",
+      "clips": [
+        {
+          "id": "pexels_7534730_team-aligned-working-together-of",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-brainstorming-7534730/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_7534730_team-aligned-working-together-of.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_7534730_team-aligned-working-together-of.mp4"
+        },
+        {
+          "id": "pexels_7805033_colleagues-collaborating-respect",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/colleagues-having-discussion-7805033/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_7805033_colleagues-collaborating-respect.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_7805033_colleagues-collaborating-respect.mp4"
+        },
+        {
+          "id": "pexels_8134766_happy-team-meeting-success",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-celebrating-success-8134766/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_8134766_happy-team-meeting-success.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_8134766_happy-team-meeting-success.mp4"
+        },
+        {
+          "id": "pexels_8643644_respectful-diverse-team-communic",
+          "type": "video",
+          "source": "pexels",
+          "author": "Edmond Dant\u00e8s",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/business-people-having-a-meeting-8643644/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_8643644_respectful-diverse-team-communic.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_8643644_respectful-diverse-team-communic.mp4"
+        },
+        {
+          "id": "pixabay_137186_team-aligned-working-together-of",
+          "type": "video",
+          "source": "pixabay",
+          "author": "u_jorg73foes",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-137186/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pixabay_137186_team-aligned-working-together-of.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pixabay_137186_team-aligned-working-together-of.mp4"
+        },
+        {
+          "id": "pexels_12955643_respectful-diverse-team-communic",
+          "type": "image",
+          "source": "pexels",
+          "author": "Atlantic Ambience",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-group-of-people-hands-on-top-of-one-another-12955643/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_12955643_respectful-diverse-team-communic.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_12955643_respectful-diverse-team-communic.jpg"
+        },
+        {
+          "id": "pexels_3863830_team-aligned-working-together-of",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/group-of-people-sitting-on-the-floor-while-working-3863830/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_3863830_team-aligned-working-together-of.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_3863830_team-aligned-working-together-of.jpg"
+        },
+        {
+          "id": "pexels_5668828_colleagues-collaborating-respect",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sora Shimazaki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/group-of-diverse-business-partners-shaking-hands-in-office-5668828/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_5668828_colleagues-collaborating-respect.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_5668828_colleagues-collaborating-respect.jpg"
+        },
+        {
+          "id": "pexels_7793999_happy-team-meeting-success",
+          "type": "image",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/people-celebrating-at-the-office-7793999/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pexels_7793999_happy-team-meeting-success.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pexels_7793999_happy-team-meeting-success.jpg"
+        },
+        {
+          "id": "pixabay_593296_team-aligned-working-together-of",
+          "type": "image",
+          "source": "pixabay",
+          "author": "StartupStockPhotos",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/laptops-meeting-businessmen-593296/",
+          "thumb": "projects/communication-dont-assume-clarify/thumbs/S13/pixabay_593296_team-aligned-working-together-of.jpg",
+          "preview": "projects/communication-dont-assume-clarify/previews/S13/pixabay_593296_team-aligned-working-together-of.jpg"
+        }
+      ]
+    }
+  ]
+}

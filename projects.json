@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "slug": "above-below-the-line",
+      "title": "Above Below The Line",
+      "scenes": 13,
+      "clips": 78
+    },
+    {
+      "slug": "attention-to-detail",
+      "title": "Attention To Detail",
+      "scenes": 13,
+      "clips": 84
+    },
+    {
+      "slug": "be-a-lifelong-learner",
+      "title": "Be A Lifelong Learner",
+      "scenes": 13,
+      "clips": 73
+    },
+    {
+      "slug": "benchmark-excellence",
+      "title": "Benchmark Excellence",
+      "scenes": 13,
+      "clips": 85
+    },
+    {
+      "slug": "communication-dont-assume-clarify",
+      "title": "Communication Dont Assume Clarify",
+      "scenes": 13,
+      "clips": 62
+    },
+    {
+      "slug": "extreme-ownership",
+      "title": "Extreme Ownership",
+      "scenes": 13,
+      "clips": 60
+    },
+    {
+      "slug": "no-failure-only-feedback",
+      "title": "No Failure Only Feedback",
+      "scenes": 11,
+      "clips": 67
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "project": "benchmark-excellence",
+  "title": "Benchmark Excellence",
+  "generated": "2026-07-01",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Have you ever spent an hour doing something someone else could do in ten minutes?",
+      "visual_direction": "Someone laboring slowly/inefficiently, a little frustrated, glancing at the clock.",
+      "clips": [
+        {
+          "id": "pexels_7581344_worker-struggling-with-task-comp",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-sleeping-on-table-7581344/",
+          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_7581344_worker-struggling-with-task-comp.jpg",
+          "preview": "projects/benchmark-excellence/previews/S01/pexels_7581344_worker-struggling-with-task-comp.mp4"
+        },
+        {
+          "id": "pexels_7640083_employee-overwhelmed-by-work-tir",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-receiving-a-lot-of-paperwork-7640083/",
+          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_7640083_employee-overwhelmed-by-work-tir.jpg",
+          "preview": "projects/benchmark-excellence/previews/S01/pexels_7640083_employee-overwhelmed-by-work-tir.mp4"
+        },
+        {
+          "id": "pexels_8322148_person-checking-clock-working-la",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-stethoscope-on-an-antique-clock-8322148/",
+          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_8322148_person-checking-clock-working-la.jpg",
+          "preview": "projects/benchmark-excellence/previews/S01/pexels_8322148_person-checking-clock-working-la.mp4"
+        },
+        {
+          "id": "pexels_8468351_frustrated-worker-slow-task-desk",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/frustrated-man-at-the-office-throwing-papers-in-the-air-8468351/",
+          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_8468351_frustrated-worker-slow-task-desk.jpg",
+          "preview": "projects/benchmark-excellence/previews/S01/pexels_8468351_frustrated-worker-slow-task-desk.mp4"
+        },
+        {
+          "id": "pixabay_215751_person-checking-clock-working-la",
+          "type": "video",
+          "source": "pixabay",
+          "author": "G3Remote",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-215751/",
+          "thumb": "projects/benchmark-excellence/thumbs/S01/pixabay_215751_person-checking-clock-working-la.jpg",
+          "preview": "projects/benchmark-excellence/previews/S01/pixabay_215751_person-checking-clock-working-la.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "Ask one simple question: 'Who already does this better than me?'",
+      "visual_direction": "Looking to a more skilled colleague \u2014 observing, learning from someone better.",
+      "clips": [
+        {
+          "id": "pexels_6964251_employee-watching-skilled-collea",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-discussing-something-on-a-laptop-6964251/",
+          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_6964251_employee-watching-skilled-collea.jpg",
+          "preview": "projects/benchmark-excellence/previews/S02/pexels_6964251_employee-watching-skilled-collea.mp4"
+        },
+        {
+          "id": "pexels_7180371_person-learning-over-coworker-sh",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-drawing-in-a-video-call-7180371/",
+          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_7180371_person-learning-over-coworker-sh.jpg",
+          "preview": "projects/benchmark-excellence/previews/S02/pexels_7180371_person-learning-over-coworker-sh.mp4"
+        },
+        {
+          "id": "pexels_7593574_junior-watching-senior-professio",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-young-woman-and-a-senior-man-working-in-an-office-7593574/",
+          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_7593574_junior-watching-senior-professio.jpg",
+          "preview": "projects/benchmark-excellence/previews/S02/pexels_7593574_junior-watching-senior-professio.mp4"
+        },
+        {
+          "id": "pixabay_40813_employee-watching-skilled-collea",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40813/",
+          "thumb": "projects/benchmark-excellence/thumbs/S02/pixabay_40813_employee-watching-skilled-collea.jpg",
+          "preview": "projects/benchmark-excellence/previews/S02/pixabay_40813_employee-watching-skilled-collea.mp4"
+        },
+        {
+          "id": "pixabay_43459_person-learning-over-coworker-sh",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/benchmark-excellence/thumbs/S02/pixabay_43459_person-learning-over-coworker-sh.jpg",
+          "preview": "projects/benchmark-excellence/previews/S02/pixabay_43459_person-learning-over-coworker-sh.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "The best people in the world don't know everything. They know how to learn.",
+      "visual_direction": "A curious professional actively learning \u2014 studying, taking notes.",
+      "clips": [
+        {
+          "id": "pexels_11025820_person-taking-notes-learning-ski",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-writing-on-a-paper-11025820/",
+          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_11025820_person-taking-notes-learning-ski.jpg",
+          "preview": "projects/benchmark-excellence/previews/S03/pexels_11025820_person-taking-notes-learning-ski.mp4"
+        },
+        {
+          "id": "pexels_5762189_worker-learning-new-technique",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/blond-woman-wearing-blue-tank-top-teaching-elder-woman-the-types-of-brushes-5762189/",
+          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_5762189_worker-learning-new-technique.jpg",
+          "preview": "projects/benchmark-excellence/previews/S03/pexels_5762189_worker-learning-new-technique.mp4"
+        },
+        {
+          "id": "pexels_8134312_professional-studying-focused-no",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-writing-8134312/",
+          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_8134312_professional-studying-focused-no.jpg",
+          "preview": "projects/benchmark-excellence/previews/S03/pexels_8134312_professional-studying-focused-no.mp4"
+        },
+        {
+          "id": "pixabay_110734_person-taking-notes-learning-ski",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JosephSenior",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-110734/",
+          "thumb": "projects/benchmark-excellence/thumbs/S03/pixabay_110734_person-taking-notes-learning-ski.jpg",
+          "preview": "projects/benchmark-excellence/previews/S03/pixabay_110734_person-taking-notes-learning-ski.mp4"
+        },
+        {
+          "id": "pixabay_215472_curious-employee-reading-learnin",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Vacampbe",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-215472/",
+          "thumb": "projects/benchmark-excellence/thumbs/S03/pixabay_215472_curious-employee-reading-learnin.jpg",
+          "preview": "projects/benchmark-excellence/previews/S03/pixabay_215472_curious-employee-reading-learnin.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "The greatest athletes still have coaches. The greatest musicians still have teachers.",
+      "visual_direction": "Coaching and mentoring \u2014 a coach guiding an athlete, a teacher and student.",
+      "clips": [
+        {
+          "id": "pexels_6655844_coach-instructing-trainee",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-teaching-girl-archery-6655844/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6655844_coach-instructing-trainee.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_6655844_coach-instructing-trainee.mp4"
+        },
+        {
+          "id": "pexels_6767493_coach-training-athlete-guidance",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/coach-giving-advice-to-female-basketball-players-6767493/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6767493_coach-training-athlete-guidance.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_6767493_coach-training-athlete-guidance.mp4"
+        },
+        {
+          "id": "pexels_7403128_music-teacher-student-lesson",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/boy-having-a-guitar-lesson-7403128/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_7403128_music-teacher-student-lesson.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_7403128_music-teacher-student-lesson.mp4"
+        },
+        {
+          "id": "pexels_8528987_business-mentor-coaching-employe",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-boss-explaining-to-her-secretary-8528987/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_8528987_business-mentor-coaching-employe.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_8528987_business-mentor-coaching-employe.mp4"
+        },
+        {
+          "id": "pixabay_40813_business-mentor-coaching-employe",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40813/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_40813_business-mentor-coaching-employe.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pixabay_40813_business-mentor-coaching-employe.mp4"
+        },
+        {
+          "id": "pexels_10347891_coach-training-athlete-guidance",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u041c\u0430\u0440\u0438\u043d\u0430  \u0428\u0438\u0448\u043a\u0438\u043d\u0430",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-coaching-a-kid-10347891/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_10347891_coach-training-athlete-guidance.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_10347891_coach-training-athlete-guidance.jpg"
+        },
+        {
+          "id": "pexels_4173366_business-mentor-coaching-employe",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/enthusiastic-colleagues-looking-at-screen-of-laptop-in-modern-workspace-4173366/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_4173366_business-mentor-coaching-employe.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_4173366_business-mentor-coaching-employe.jpg"
+        },
+        {
+          "id": "pexels_6551182_coach-instructing-trainee",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andres  Ayrton",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/ethnic-boxer-training-with-woman-in-boxing-club-6551182/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6551182_coach-instructing-trainee.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pexels_6551182_coach-instructing-trainee.jpg"
+        },
+        {
+          "id": "pixabay_4702060_business-mentor-coaching-employe",
+          "type": "image",
+          "source": "pixabay",
+          "author": "This_is_Engineering",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/woman-work-office-whiteboard-4702060/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_4702060_business-mentor-coaching-employe.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pixabay_4702060_business-mentor-coaching-employe.jpg"
+        },
+        {
+          "id": "pixabay_5914641_coach-training-athlete-guidance",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Gabin_Vallet",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/workout-man-training-sports-5914641/",
+          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_5914641_coach-training-athlete-guidance.jpg",
+          "preview": "projects/benchmark-excellence/previews/S04/pixabay_5914641_coach-training-athlete-guidance.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "Excellence leaves clues. Don't reinvent the wheel. Benchmark it.",
+      "visual_direction": "Studying a proven example \u2014 analyzing a reference, a blueprint, best practice.",
+      "clips": [
+        {
+          "id": "pexels_7580446_worker-analyzing-example-documen",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-laptop-while-working-7580446/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7580446_worker-analyzing-example-documen.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_7580446_worker-analyzing-example-documen.mp4"
+        },
+        {
+          "id": "pexels_9464465_employee-reviewing-best-practice",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/reviewing-of-paperworks-9464465/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9464465_employee-reviewing-best-practice.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_9464465_employee-reviewing-best-practice.mp4"
+        },
+        {
+          "id": "pexels_9617188_person-studying-blueprint-refere",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/top-view-of-a-man-doing-architect-drawing-9617188/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9617188_person-studying-blueprint-refere.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_9617188_person-studying-blueprint-refere.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-analyzing-example-documen",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pixabay_271463_worker-analyzing-example-documen.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pixabay_271463_worker-analyzing-example-documen.mp4"
+        },
+        {
+          "id": "pixabay_43459_person-studying-blueprint-refere",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pixabay_43459_person-studying-blueprint-refere.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pixabay_43459_person-studying-blueprint-refere.mp4"
+        },
+        {
+          "id": "openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans",
+          "type": "image",
+          "source": "openverse",
+          "author": "Archives New Zealand from New Zealand",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/w/index.php?curid=51251349",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans.jpg"
+        },
+        {
+          "id": "pexels_6281130_person-studying-blueprint-refere",
+          "type": "image",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-student-drafting-on-paper-6281130/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_6281130_person-studying-blueprint-refere.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_6281130_person-studying-blueprint-refere.jpg"
+        },
+        {
+          "id": "pexels_7876454_worker-analyzing-example-documen",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-holding-a-white-paper-7876454/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7876454_worker-analyzing-example-documen.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_7876454_worker-analyzing-example-documen.jpg"
+        },
+        {
+          "id": "pexels_7964178_employee-reviewing-best-practice",
+          "type": "image",
+          "source": "pexels",
+          "author": "Felicity Tai",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/female-employee-presenting-a-work-7964178/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7964178_employee-reviewing-best-practice.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_7964178_employee-reviewing-best-practice.jpg"
+        },
+        {
+          "id": "pexels_9034763_hands-examining-reference-plans",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-holding-a-black-pen-writing-on-white-paper-9034763/",
+          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9034763_hands-examining-reference-plans.jpg",
+          "preview": "projects/benchmark-excellence/previews/S05/pexels_9034763_hands-examining-reference-plans.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "Maybe someone on your team writes better emails. Ask them to show you.",
+      "visual_direction": "A colleague sharing a skill \u2014 showing a teammate how they do it at a screen.",
+      "clips": [
+        {
+          "id": "pexels_7428831_colleague-sharing-knowledge-at-d",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-having-a-meeting-7428831/",
+          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7428831_colleague-sharing-knowledge-at-d.jpg",
+          "preview": "projects/benchmark-excellence/previews/S06/pexels_7428831_colleague-sharing-knowledge-at-d.mp4"
+        },
+        {
+          "id": "pexels_7581211_employee-teaching-teammate-techn",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-analyzing-a-graph-7581211/",
+          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7581211_employee-teaching-teammate-techn.jpg",
+          "preview": "projects/benchmark-excellence/previews/S06/pexels_7581211_employee-teaching-teammate-techn.mp4"
+        },
+        {
+          "id": "pexels_7687894_worker-demonstrating-to-coworker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/colleagues-discussing-paperwork-7687894/",
+          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7687894_worker-demonstrating-to-coworker.jpg",
+          "preview": "projects/benchmark-excellence/previews/S06/pexels_7687894_worker-demonstrating-to-coworker.mp4"
+        },
+        {
+          "id": "pexels_8902419_coworker-showing-colleague-on-co",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-couple-working-together-at-an-office-8902419/",
+          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_8902419_coworker-showing-colleague-on-co.jpg",
+          "preview": "projects/benchmark-excellence/previews/S06/pexels_8902419_coworker-showing-colleague-on-co.mp4"
+        },
+        {
+          "id": "pixabay_43559_coworker-showing-colleague-on-co",
+          "type": "video",
+          "source": "pixabay",
+          "author": "PhotoDhaba",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43559/",
+          "thumb": "projects/benchmark-excellence/thumbs/S06/pixabay_43559_coworker-showing-colleague-on-co.jpg",
+          "preview": "projects/benchmark-excellence/previews/S06/pixabay_43559_coworker-showing-colleague-on-co.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "Maybe AI can help. Before sending an email, ask AI: 'Can this be clearer?'",
+      "visual_direction": "Using AI as a tool \u2014 a person working with an AI assistant on a laptop.",
+      "clips": [
+        {
+          "id": "pexels_7682582_person-using-ai-assistant-laptop",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-drinking-coffee-at-work-7682582/",
+          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7682582_person-using-ai-assistant-laptop.jpg",
+          "preview": "projects/benchmark-excellence/previews/S07/pexels_7682582_person-using-ai-assistant-laptop.mp4"
+        },
+        {
+          "id": "pexels_7692788_professional-using-ai-tool-at-de",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-a-laptop-and-checking-the-time-7692788/",
+          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7692788_professional-using-ai-tool-at-de.jpg",
+          "preview": "projects/benchmark-excellence/previews/S07/pexels_7692788_professional-using-ai-tool-at-de.mp4"
+        },
+        {
+          "id": "pexels_7706637_worker-chatting-with-ai-on-lapto",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-working-on-laptops-7706637/",
+          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7706637_worker-chatting-with-ai-on-lapto.jpg",
+          "preview": "projects/benchmark-excellence/previews/S07/pexels_7706637_worker-chatting-with-ai-on-lapto.mp4"
+        },
+        {
+          "id": "pixabay_10822_person-using-ai-assistant-laptop",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-10822/",
+          "thumb": "projects/benchmark-excellence/thumbs/S07/pixabay_10822_person-using-ai-assistant-laptop.jpg",
+          "preview": "projects/benchmark-excellence/previews/S07/pixabay_10822_person-using-ai-assistant-laptop.mp4"
+        },
+        {
+          "id": "pixabay_3174_employee-typing-on-computer-scre",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3174/",
+          "thumb": "projects/benchmark-excellence/thumbs/S07/pixabay_3174_employee-typing-on-computer-scre.jpg",
+          "preview": "projects/benchmark-excellence/previews/S07/pixabay_3174_employee-typing-on-computer-scre.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "Benchmarking requires humility. Pride says 'I already know.' Humility says 'Teach me.'",
+      "visual_direction": "A humble learner open to advice \u2014 asking to be taught, receptive.",
+      "clips": [
+        {
+          "id": "pexels_38057445_employee-receptive-learning-atti",
+          "type": "video",
+          "source": "pexels",
+          "author": "Max Medyk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/friendly-reception-interaction-in-office-38057445/",
+          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_38057445_employee-receptive-learning-atti.jpg",
+          "preview": "projects/benchmark-excellence/previews/S08/pexels_38057445_employee-receptive-learning-atti.mp4"
+        },
+        {
+          "id": "pexels_7278695_person-seeking-guidance-colleagu",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anastasia  Shuraeva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-working-together-7278695/",
+          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_7278695_person-seeking-guidance-colleagu.jpg",
+          "preview": "projects/benchmark-excellence/previews/S08/pexels_7278695_person-seeking-guidance-colleagu.mp4"
+        },
+        {
+          "id": "pexels_7640711_humble-employee-asking-for-help",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-writing-help-on-a-paper-7640711/",
+          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_7640711_humble-employee-asking-for-help.jpg",
+          "preview": "projects/benchmark-excellence/previews/S08/pexels_7640711_humble-employee-asking-for-help.mp4"
+        },
+        {
+          "id": "pexels_8632482_worker-open-to-advice-listening",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-explaining-work-to-her-colleagues-8632482/",
+          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_8632482_worker-open-to-advice-listening.jpg",
+          "preview": "projects/benchmark-excellence/previews/S08/pexels_8632482_worker-open-to-advice-listening.mp4"
+        },
+        {
+          "id": "pixabay_43459_person-seeking-guidance-colleagu",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/benchmark-excellence/thumbs/S08/pixabay_43459_person-seeking-guidance-colleagu.jpg",
+          "preview": "projects/benchmark-excellence/previews/S08/pixabay_43459_person-seeking-guidance-colleagu.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "Imagine two people building the same table. The second asks the best carpenter for advice.",
+      "visual_direction": "Carpentry \u2014 a woodworker building a table, a mentor giving a tip in a workshop.",
+      "clips": [
+        {
+          "id": "pexels_20184480_woodworker-measuring-table-craft",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/measuring-wood-for-cutting-20184480/",
+          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_20184480_woodworker-measuring-table-craft.jpg",
+          "preview": "projects/benchmark-excellence/previews/S09/pexels_20184480_woodworker-measuring-table-craft.mp4"
+        },
+        {
+          "id": "pexels_5967518_craftsman-working-wood-joinery",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-putting-markings-on-the-wood-5967518/",
+          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_5967518_craftsman-working-wood-joinery.jpg",
+          "preview": "projects/benchmark-excellence/previews/S09/pexels_5967518_craftsman-working-wood-joinery.mp4"
+        },
+        {
+          "id": "pexels_7492602_experienced-carpenter-advising-a",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
+          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_7492602_experienced-carpenter-advising-a.jpg",
+          "preview": "projects/benchmark-excellence/previews/S09/pexels_7492602_experienced-carpenter-advising-a.mp4"
+        },
+        {
+          "id": "pexels_7493219_carpenter-building-wooden-table",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-putting-a-wooden-plank-on-a-wood-cutter-7493219/",
+          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_7493219_carpenter-building-wooden-table.jpg",
+          "preview": "projects/benchmark-excellence/previews/S09/pexels_7493219_carpenter-building-wooden-table.mp4"
+        },
+        {
+          "id": "pixabay_73535_craftsman-working-wood-joinery",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Elf-Moondance",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73535/",
+          "thumb": "projects/benchmark-excellence/thumbs/S09/pixabay_73535_craftsman-working-wood-joinery.jpg",
+          "preview": "projects/benchmark-excellence/previews/S09/pixabay_73535_craftsman-working-wood-joinery.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "Ask someone who gives excellent presentations to review it. Five minutes of feedback.",
+      "visual_direction": "Reviewing work together \u2014 a colleague giving quick feedback on a presentation.",
+      "clips": [
+        {
+          "id": "pexels_6248587_colleague-reviewing-presentation",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-explaining-a-business-proposal-6248587/",
+          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_6248587_colleague-reviewing-presentation.jpg",
+          "preview": "projects/benchmark-excellence/previews/S10/pexels_6248587_colleague-reviewing-presentation.mp4"
+        },
+        {
+          "id": "pexels_8298283_manager-giving-feedback-on-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-looking-at-some-documents-8298283/",
+          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8298283_manager-giving-feedback-on-work.jpg",
+          "preview": "projects/benchmark-excellence/previews/S10/pexels_8298283_manager-giving-feedback-on-work.mp4"
+        },
+        {
+          "id": "pexels_8478753_two-people-reviewing-slides-lapt",
+          "type": "video",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-reading-a-contract-8478753/",
+          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8478753_two-people-reviewing-slides-lapt.jpg",
+          "preview": "projects/benchmark-excellence/previews/S10/pexels_8478753_two-people-reviewing-slides-lapt.mp4"
+        },
+        {
+          "id": "pexels_8731453_coworkers-reviewing-document-tog",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/group-of-people-reading-documents-together-8731453/",
+          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8731453_coworkers-reviewing-document-tog.jpg",
+          "preview": "projects/benchmark-excellence/previews/S10/pexels_8731453_coworkers-reviewing-document-tog.mp4"
+        },
+        {
+          "id": "pixabay_18439_colleague-reviewing-presentation",
+          "type": "video",
+          "source": "pixabay",
+          "author": "athree23",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-18439/",
+          "thumb": "projects/benchmark-excellence/thumbs/S10/pixabay_18439_colleague-reviewing-presentation.jpg",
+          "preview": "projects/benchmark-excellence/previews/S10/pixabay_18439_colleague-reviewing-presentation.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Good people work hard. Great people learn fast.",
+      "visual_direction": "A focused professional visibly improving \u2014 momentum, mastery building.",
+      "clips": [
+        {
+          "id": "pexels_7426758_focused-professional-working-con",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-with-facial-hair-looking-at-papers-7426758/",
+          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7426758_focused-professional-working-con.jpg",
+          "preview": "projects/benchmark-excellence/previews/S11/pexels_7426758_focused-professional-working-con.mp4"
+        },
+        {
+          "id": "pexels_7480738_worker-improving-developing-craf",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-carpenter-writing-in-the-counter-7480738/",
+          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7480738_worker-improving-developing-craf.jpg",
+          "preview": "projects/benchmark-excellence/previews/S11/pexels_7480738_worker-improving-developing-craf.mp4"
+        },
+        {
+          "id": "pexels_7744305_person-productive-skilled-desk",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-writing-in-notebook-7744305/",
+          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7744305_person-productive-skilled-desk.jpg",
+          "preview": "projects/benchmark-excellence/previews/S11/pexels_7744305_person-productive-skilled-desk.mp4"
+        },
+        {
+          "id": "pixabay_268230_focused-professional-working-con",
+          "type": "video",
+          "source": "pixabay",
+          "author": "isuruzampa",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-268230/",
+          "thumb": "projects/benchmark-excellence/thumbs/S11/pixabay_268230_focused-professional-working-con.jpg",
+          "preview": "projects/benchmark-excellence/previews/S11/pixabay_268230_focused-professional-working-con.mp4"
+        },
+        {
+          "id": "pixabay_43459_person-productive-skilled-desk",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/benchmark-excellence/thumbs/S11/pixabay_43459_person-productive-skilled-desk.jpg",
+          "preview": "projects/benchmark-excellence/previews/S11/pixabay_43459_person-productive-skilled-desk.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "A culture where asking for help is normal. When one person improves, the whole team improves.",
+      "visual_direction": "A team sharing knowledge and helping each other openly.",
+      "clips": [
+        {
+          "id": "pexels_6672617_team-sharing-knowledge-collabora",
+          "type": "video",
+          "source": "pexels",
+          "author": "Andy Barbour",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/friends-studying-together-6672617/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_6672617_team-sharing-knowledge-collabora.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_6672617_team-sharing-knowledge-collabora.mp4"
+        },
+        {
+          "id": "pexels_7279597_colleagues-learning-together-off",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anastasia  Shuraeva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-resting-her-head-on-a-man-s-shoulder-7279597/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7279597_colleagues-learning-together-off.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_7279597_colleagues-learning-together-off.mp4"
+        },
+        {
+          "id": "pexels_7686628_knowledge-sharing-team-meeting",
+          "type": "video",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-doing-a-presentation-7686628/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7686628_knowledge-sharing-team-meeting.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_7686628_knowledge-sharing-team-meeting.mp4"
+        },
+        {
+          "id": "pexels_9365189_coworkers-helping-each-other-des",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-having-a-meeting-9365189/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_9365189_coworkers-helping-each-other-des.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_9365189_coworkers-helping-each-other-des.mp4"
+        },
+        {
+          "id": "pixabay_2340_knowledge-sharing-team-meeting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-2340/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pixabay_2340_knowledge-sharing-team-meeting.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pixabay_2340_knowledge-sharing-team-meeting.mp4"
+        },
+        {
+          "id": "pexels_5882592_coworkers-helping-each-other-des",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-reaching-of-a-paper-on-the-workspace-5882592/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_5882592_coworkers-helping-each-other-des.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_5882592_coworkers-helping-each-other-des.jpg"
+        },
+        {
+          "id": "pexels_7495486_knowledge-sharing-team-meeting",
+          "type": "image",
+          "source": "pexels",
+          "author": "Moe Magners",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-with-gray-beanie-holding-a-color-pallet-beside-a-woman-holding-a-notebook-7495486/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7495486_knowledge-sharing-team-meeting.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_7495486_knowledge-sharing-team-meeting.jpg"
+        },
+        {
+          "id": "pexels_8837764_colleagues-learning-together-off",
+          "type": "image",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/women-in-the-meeting-room-looking-at-the-brochure-8837764/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_8837764_colleagues-learning-together-off.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_8837764_colleagues-learning-together-off.jpg"
+        },
+        {
+          "id": "pexels_8851457_team-sharing-knowledge-collabora",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/team-of-scientists-working-together-8851457/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_8851457_team-sharing-knowledge-collabora.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pexels_8851457_team-sharing-knowledge-collabora.jpg"
+        },
+        {
+          "id": "pixabay_2277292_colleagues-learning-together-off",
+          "type": "image",
+          "source": "pixabay",
+          "author": "rawpixel",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/action-collaborate-collaboration-2277292/",
+          "thumb": "projects/benchmark-excellence/thumbs/S12/pixabay_2277292_colleagues-learning-together-off.jpg",
+          "preview": "projects/benchmark-excellence/previews/S12/pixabay_2277292_colleagues-learning-together-off.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Excellence is not a destination. It's a habit. The more you learn, the more excellent you become.",
+      "visual_direction": "Quiet pride in excellent, high-quality work \u2014 a polished result.",
+      "clips": [
+        {
+          "id": "pexels_38235450_craftsman-satisfied-excellent-wo",
+          "type": "video",
+          "source": "pexels",
+          "author": "Dinesh kandel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/artisan-crafting-pottery-in-workshop-38235450/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_38235450_craftsman-satisfied-excellent-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_38235450_craftsman-satisfied-excellent-wo.mp4"
+        },
+        {
+          "id": "pexels_7484291_skilled-worker-admiring-finished",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-creating-furniture-7484291/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_7484291_skilled-worker-admiring-finished.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_7484291_skilled-worker-admiring-finished.mp4"
+        },
+        {
+          "id": "pexels_7682677_professional-proud-of-quality-wo",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/call-center-7682677/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_7682677_professional-proud-of-quality-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_7682677_professional-proud-of-quality-wo.mp4"
+        },
+        {
+          "id": "pexels_8102924_confident-accomplished-employee",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-smiling-and-posing-in-the-camera-while-people-are-working-behind-her-8102924/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_8102924_confident-accomplished-employee.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_8102924_confident-accomplished-employee.mp4"
+        },
+        {
+          "id": "pixabay_202987_craftsman-satisfied-excellent-wo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_202987_craftsman-satisfied-excellent-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pixabay_202987_craftsman-satisfied-excellent-wo.mp4"
+        },
+        {
+          "id": "pexels_10256517_craftsman-satisfied-excellent-wo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Diego F. Parra",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-carving-a-wood-10256517/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_10256517_craftsman-satisfied-excellent-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_10256517_craftsman-satisfied-excellent-wo.jpg"
+        },
+        {
+          "id": "pexels_30907896_skilled-worker-admiring-finished",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u0110\u1eadu Photograph",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/craftsman-working-with-traditional-wood-joinery-30907896/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_30907896_skilled-worker-admiring-finished.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_30907896_skilled-worker-admiring-finished.jpg"
+        },
+        {
+          "id": "pexels_8482551_professional-proud-of-quality-wo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/backview-of-an-engineer-holding-a-floor-plan-on-a-wall-8482551/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_8482551_professional-proud-of-quality-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pexels_8482551_professional-proud-of-quality-wo.jpg"
+        },
+        {
+          "id": "pixabay_4524838_craftsman-satisfied-excellent-wo",
+          "type": "image",
+          "source": "pixabay",
+          "author": "endriqstudio",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_4524838_craftsman-satisfied-excellent-wo.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pixabay_4524838_craftsman-satisfied-excellent-wo.jpg"
+        },
+        {
+          "id": "pixabay_5983142_skilled-worker-admiring-finished",
+          "type": "image",
+          "source": "pixabay",
+          "author": "KaweewatT",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/hand-product-finished-goods-5983142/",
+          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_5983142_skilled-worker-admiring-finished.jpg",
+          "preview": "projects/benchmark-excellence/previews/S13/pixabay_5983142_skilled-worker-admiring-finished.jpg"
+        }
+      ]
+    }
+  ]
+}

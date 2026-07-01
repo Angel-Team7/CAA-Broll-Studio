@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edenrise B-roll Cockpit</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>🎬 Edenrise B-roll Cockpit</h1>
+    <div class="controls">
+      <select id="project"></select>
+      <span id="stat" class="stat"></span>
+      <button id="save" class="primary">Save approvals</button>
+      <button id="send" class="send">Send to editor ▸</button>
+    </div>
+  </div>
+  <div id="tokenbar" class="tokenbar">
+    <span class="muted">Saving to: <b id="savemode">local (browser)</b>.</span>
+    <button id="connect" class="link">Connect GitHub…</button>
+  </div>
+</header>
+
+<main id="scenes"><p class="muted pad">Loading…</p></main>
+
+<div id="toast" class="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>
