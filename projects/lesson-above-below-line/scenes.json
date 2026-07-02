@@ -1,0 +1,245 @@
+{
+  "project": "lesson-above-below-line",
+  "title": "Above / Below the Line \u2014 B-roll",
+  "generated": "2026-07-02",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Opener / title",
+      "visual_direction": "Lush green tree-lined garden avenue, morning light, a figure walking in \u2014 inviting intro",
+      "clips": [
+        {
+          "id": "S01_bS01_opener-title",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S01/S01_bS01_opener-title.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S01/S01_bS01_opener-title.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "Every day, something happens",
+      "visual_direction": "Two grounds workers reviewing something on site",
+      "clips": [
+        {
+          "id": "S02_bS03_every-day,-something-happens",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S02/S02_bS03_every-day,-something-happens.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S02/S02_bS03_every-day,-something-happens.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "Below the Line \u2014 something's off",
+      "visual_direction": "A worker bent over a task, tired / concerned",
+      "clips": [
+        {
+          "id": "S03_bS05_below-the-line-somethings-off",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S03/S03_bS05_below-the-line-somethings-off.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S03/S03_bS05_below-the-line-somethings-off.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "Blame \u2014 'someone else should fix it'",
+      "visual_direction": "A figure walking away down a calm garden path",
+      "clips": [
+        {
+          "id": "S04_bS07_blame-someone-else-should-fix-it",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S04/S04_bS07_blame-someone-else-should-fix-it.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S04/S04_bS07_blame-someone-else-should-fix-it.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "Protecting the ego",
+      "visual_direction": "A man outdoors, closed-off, looking away",
+      "clips": [
+        {
+          "id": "S05_bS08_protecting-the-ego",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S05/S05_bS08_protecting-the-ego.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S05/S05_bS08_protecting-the-ego.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "Above the Line \u2014 stepping up",
+      "visual_direction": "A confident worker, arms crossed",
+      "clips": [
+        {
+          "id": "S06_bS10_above-the-line-stepping-up",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S06/S06_bS10_above-the-line-stepping-up.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S06/S06_bS10_above-the-line-stepping-up.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "Listen \u00b7 ask \u00b7 accept feedback",
+      "visual_direction": "A gardener showing / discussing with an apprentice (greenhouse)",
+      "clips": [
+        {
+          "id": "S07_bS12_listen-ask-accept-feedback",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S07/S07_bS12_listen-ask-accept-feedback.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S07/S07_bS12_listen-ask-accept-feedback.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "Seek solutions \u00b7 take responsibility",
+      "visual_direction": "An African craftsman focused on his work",
+      "clips": [
+        {
+          "id": "S08_bS13_seek-solutions-take-responsibility",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S08/S08_bS13_seek-solutions-take-responsibility.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S08/S08_bS13_seek-solutions-take-responsibility.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "Who caused this? / How do we fix this?",
+      "visual_direction": "Two people planting / repotting together",
+      "clips": [
+        {
+          "id": "S09_bS15_who-caused-this?-how-do-we-fix-this?",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S09/S09_bS15_who-caused-this?-how-do-we-fix-this?.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S09/S09_bS15_who-caused-this?-how-do-we-fix-this?.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "Nobody is perfect",
+      "visual_direction": "A worker pausing, reflective",
+      "clips": [
+        {
+          "id": "S10_bS17_nobody-is-perfect",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S10/S10_bS17_nobody-is-perfect.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S10/S10_bS17_nobody-is-perfect.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Three steps \u00b7 growth",
+      "visual_direction": "Cupped hands cradling a seedling (growth)",
+      "clips": [
+        {
+          "id": "S11_bS19_three-steps-growth",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S11/S11_bS19_three-steps-growth.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S11/S11_bS19_three-steps-growth.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "Better every day",
+      "visual_direction": "A gardener content among flowers",
+      "clips": [
+        {
+          "id": "S12_bS20_better-every-day",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S12/S12_bS20_better-every-day.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S12/S12_bS20_better-every-day.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Stop for a moment",
+      "visual_direction": "A man, head bowed, pausing to reflect",
+      "clips": [
+        {
+          "id": "S13_bS23_stop-for-a-moment",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S13/S13_bS23_stop-for-a-moment.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S13/S13_bS23_stop-for-a-moment.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "script_line": "Next lesson",
+      "visual_direction": "A worker walking the resort grounds",
+      "clips": [
+        {
+          "id": "S14_bS26_next-lesson",
+          "type": "video",
+          "source": "pexels/pixabay (royalty-free)",
+          "author": null,
+          "license": "free \u2014 no attribution required",
+          "page_url": null,
+          "thumb": "projects/lesson-above-below-line/thumbs/S14/S14_bS26_next-lesson.jpg",
+          "preview": "projects/lesson-above-below-line/previews/S14/S14_bS26_next-lesson.mp4"
+        }
+      ]
+    }
+  ]
+}

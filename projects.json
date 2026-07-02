@@ -1,12 +1,6 @@
 {
   "projects": [
     {
-      "slug": "above-below-the-line",
-      "title": "Above Below The Line",
-      "scenes": 13,
-      "clips": 78
-    },
-    {
       "slug": "attention-to-detail",
       "title": "Attention To Detail",
       "scenes": 13,
@@ -37,10 +31,16 @@
       "clips": 60
     },
     {
-      "slug": "no-failure-only-feedback",
-      "title": "No Failure Only Feedback",
-      "scenes": 11,
-      "clips": 67
+      "slug": "lesson-above-below-line",
+      "title": "Above / Below the Line \u2014 B-roll",
+      "scenes": 14,
+      "clips": 14
+    },
+    {
+      "slug": "lesson-no-failure-feedback",
+      "title": "No Failure, Only Feedback \u2014 B-roll",
+      "scenes": 8,
+      "clips": 8
     }
   ]
 }
