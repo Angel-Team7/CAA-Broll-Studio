@@ -106,34 +106,64 @@
       "visual_direction": "Instructions given but read differently \u2014 mixed signals. Foreman pointing / worker looking puzzled.",
       "clips": [
         {
-          "id": "pexels_19832500_puzzled-construction-worker",
+          "id": "pexels_4254313_setting-up-chairs",
           "type": "video",
           "source": "pexels",
-          "author": "CP Khanal",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-group-of-men-in-orange-vests-and-hard-hats-working-on-a-construction-site-19832500/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_19832500_puzzled-construction-worker.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_19832500_puzzled-construction-worker.mp4"
+          "page_url": "https://www.pexels.com/video/a-man-is-pouring-wine-into-a-glass-at-a-restaurant-4254313/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_4254313_setting-up-chairs.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_4254313_setting-up-chairs.mp4"
         },
         {
-          "id": "pexels_8471051_builder-confused",
+          "id": "pexels_6344435_moving-chairs",
           "type": "video",
           "source": "pexels",
-          "author": "Thirdman",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_8471051_builder-confused.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_8471051_builder-confused.mp4"
+          "page_url": "https://www.pexels.com/video/young-guy-dancing-in-a-concert-hall-6344435/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_6344435_moving-chairs.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_6344435_moving-chairs.mp4"
         },
         {
-          "id": "pexels_8963857_foreman-giving-instructions",
+          "id": "pexels_6626473_stacking-chairs",
           "type": "video",
           "source": "pexels",
-          "author": "Mikael Blomkvist",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_8963857_foreman-giving-instructions.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_8963857_foreman-giving-instructions.mp4"
+          "page_url": "https://www.pexels.com/video/white-seat-with-a-table-and-books-6626473/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_6626473_stacking-chairs.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_6626473_stacking-chairs.mp4"
+        },
+        {
+          "id": "pexels_7508814_carrying-chairs",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-carrying-a-chair-7508814/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_7508814_carrying-chairs.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_7508814_carrying-chairs.mp4"
+        },
+        {
+          "id": "pexels_7708899_arranging-chairs-room",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-removing-one-of-the-chairs-7708899/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_7708899_arranging-chairs-room.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_7708899_arranging-chairs-room.mp4"
+        },
+        {
+          "id": "pexels_8456044_folding-chairs-event",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/camping-chair-in-the-seashore-8456044/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_8456044_folding-chairs-event.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_8456044_folding-chairs-event.mp4"
         }
       ]
     },
@@ -458,44 +488,74 @@
       "visual_direction": "A crew each busy on their own part of the same job \u2014 effort without alignment. Several workers, different tasks.",
       "clips": [
         {
-          "id": "coverr_hmisd9bkec_busy-construction-workers",
-          "type": "video",
-          "source": "coverr",
-          "author": "Coverr",
-          "license": "Coverr License",
-          "page_url": "https://coverr.co/videos/construction-workers-in-the-city-hmisd9bkec",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/coverr_hmisd9bkec_busy-construction-workers.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/coverr_hmisd9bkec_busy-construction-workers.mp4"
-        },
-        {
-          "id": "pexels_24800203_landscaping-crew-working",
+          "id": "pexels_4109498_wiping-kitchen-counter",
           "type": "video",
           "source": "pexels",
-          "author": "Magda Ehlers",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-group-of-men-are-digging-in-the-dirt-24800203/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_24800203_landscaping-crew-working.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_24800203_landscaping-crew-working.mp4"
+          "page_url": "https://www.pexels.com/video/house-kitchen-apartment-home-4109498/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_4109498_wiping-kitchen-counter.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_4109498_wiping-kitchen-counter.mp4"
         },
         {
-          "id": "pexels_7448386_busy-construction-workers",
+          "id": "pexels_6264732_cleaning-kitchen",
           "type": "video",
           "source": "pexels",
-          "author": "Mike Hongkong",
+          "author": "Jep Gambardella",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/people-working-on-a-construction-site-7448386/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_7448386_busy-construction-workers.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_7448386_busy-construction-workers.mp4"
+          "page_url": "https://www.pexels.com/video/woman-cleaning-a-kitchen-6264732/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_6264732_cleaning-kitchen.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_6264732_cleaning-kitchen.mp4"
         },
         {
-          "id": "pexels_8818338_multiple-builders-working",
+          "id": "pexels_7641640_washing-dishes",
           "type": "video",
           "source": "pexels",
-          "author": "Ron Lach",
+          "author": "MART  PRODUCTION",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_8818338_multiple-builders-working.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_8818338_multiple-builders-working.mp4"
+          "page_url": "https://www.pexels.com/video/a-man-washing-the-dishes-7641640/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_7641640_washing-dishes.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_7641640_washing-dishes.mp4"
+        },
+        {
+          "id": "pexels_8550689_scrubbing-sink",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-washing-on-the-sink-8550689/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_8550689_scrubbing-sink.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_8550689_scrubbing-sink.mp4"
+        },
+        {
+          "id": "pexels_8627107_commercial-kitchen-cleaning",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-chef-washing-the-kitchen-utensils-8627107/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_8627107_commercial-kitchen-cleaning.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_8627107_commercial-kitchen-cleaning.mp4"
+        },
+        {
+          "id": "pixabay_15133_scrubbing-sink",
+          "type": "video",
+          "source": "pixabay",
+          "author": "edsoncowboy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-15133/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pixabay_15133_scrubbing-sink.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pixabay_15133_scrubbing-sink.mp4"
+        },
+        {
+          "id": "pixabay_38116_cleaning-kitchen",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Engin_Akyurt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-38116/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pixabay_38116_cleaning-kitchen.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pixabay_38116_cleaning-kitchen.mp4"
         }
       ]
     },
@@ -706,6 +766,36 @@
           "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_34572320_builder-pointing-at-wall.mp4"
         },
         {
+          "id": "pexels_5977452_two-people-serious-talk",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jack Sparrow",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-talking-to-another-person-5977452/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_5977452_two-people-serious-talk.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_5977452_two-people-serious-talk.mp4"
+        },
+        {
+          "id": "pexels_6129924_raising-a-concern",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/doctor-giving-sad-news-on-hospital-corridor-6129924/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_6129924_raising-a-concern.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_6129924_raising-a-concern.mp4"
+        },
+        {
+          "id": "pexels_6958105_concerned-worker-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/angry-woman-talking-6958105/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_6958105_concerned-worker-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_6958105_concerned-worker-talking.mp4"
+        },
+        {
           "id": "pexels_7581343_pointing-at-defect",
           "type": "video",
           "source": "pexels",
@@ -724,6 +814,16 @@
           "page_url": "https://www.pexels.com/video/a-man-measuring-height-of-ceiling-8293012/",
           "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_8293012_worker-inspecting-crack.jpg",
           "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_8293012_worker-inspecting-crack.mp4"
+        },
+        {
+          "id": "pexels_8487985_foreman-pointing-issue",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/female-engineers-having-a-discussion-8487985/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_8487985_foreman-pointing-issue.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_8487985_foreman-pointing-issue.mp4"
         }
       ]
     },
