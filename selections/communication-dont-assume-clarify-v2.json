@@ -1,0 +1,42 @@
+{
+  "project": "communication-dont-assume-clarify-v2",
+  "updated": "2026-07-03T16:31:54.401Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "pexels_20652974_crew-morning-site"
+    ],
+    "S03": [
+      "pexels_36034181_team-meeting-site"
+    ],
+    "S04": [
+      "pixabay_342533_worker-cooperation"
+    ],
+    "S05": [
+      "pixabay_216597_worker-pausing-thinking"
+    ],
+    "S06": [
+      "pexels_4280923_worker-asking-supervisor"
+    ],
+    "S07": [
+      "pexels_5384977_reviewing-drawings-site"
+    ],
+    "S09": [
+      "pexels_6193855_two-workmates-talking"
+    ],
+    "S10": [
+      "pexels_8964376_two-hivis-workers-talking"
+    ],
+    "S11": [
+      "pexels_8963676_site-manager-tablet"
+    ],
+    "S13": [
+      "pexels_1325717_construction-team-portrait"
+    ]
+  },
+  "needs_broll": {
+    "S02": "cmon 10 brolls with context it says remove the chair.",
+    "S08": "more contextual please it says clean the kitchen",
+    "S12": "oh man c'mon more if you dont find workers find from other environment"
+  }
+}
