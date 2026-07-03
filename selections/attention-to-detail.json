@@ -1,0 +1,43 @@
+{
+  "project": "attention-to-detail",
+  "updated": "2026-07-03T10:31:49.905Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "pexels_8551362_tools-left-on-floor-garage"
+    ],
+    "S02": [
+      "pexels_4488714_neat-professional-workshop-clean"
+    ],
+    "S03": [
+      "pexels_8322275_close-up-hands-precise-careful-w"
+    ],
+    "S04": [
+      "pexels_27365322_tidy-parking-lot-straight-cars"
+    ],
+    "S05": [
+      "pexels_10558372_person-pushing-chair-in-tidy"
+    ],
+    "S06": [
+      "pexels_7484780_clean-organized-tools-on-pegboar"
+    ],
+    "S07": [
+      "pexels_5592547_sweeping-floor-end-of-shift"
+    ],
+    "S09": [
+      "pexels_6183189_professional-proofreading-email"
+    ],
+    "S11": [
+      "pexels_29568794_double-checking-task-before-fini"
+    ],
+    "S12": [
+      "pexels_32243773_consistent-quality-careful-work"
+    ],
+    "S13": [
+      "pixabay_73535_craftsman-finishing-job-with-car"
+    ]
+  },
+  "needs_broll": {
+    "S08": "wall and brush paints being cleaned"
+  }
+}
