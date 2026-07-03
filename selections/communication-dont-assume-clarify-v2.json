@@ -1,7 +1,7 @@
 {
   "project": "communication-dont-assume-clarify-v2",
-  "updated": "2026-07-03T16:31:58.067Z",
-  "ready": true,
+  "updated": "2026-07-03T17:01:21.593Z",
+  "ready": false,
   "approved": {
     "S01": [
       "pexels_20652974_crew-morning-site"
@@ -32,6 +32,15 @@
     ],
     "S13": [
       "pexels_1325717_construction-team-portrait"
+    ],
+    "S02": [
+      "pexels_7508814_carrying-chairs"
+    ],
+    "S08": [
+      "pexels_8627107_commercial-kitchen-cleaning"
+    ],
+    "S12": [
+      "pexels_5977452_two-people-serious-talk"
     ]
   },
   "needs_broll": {
