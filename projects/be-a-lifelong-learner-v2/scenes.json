@@ -1,0 +1,948 @@
+{
+  "project": "be-a-lifelong-learner-v2",
+  "title": "Be a Lifelong Learner",
+  "generated": "2026-07-03",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Two start the same job; five years later one is a leader.",
+      "visual_direction": "Two new workers on site; one grows into a foreman \u2014 divergent paths, aspiration.",
+      "clips": [
+        {
+          "id": "pexels_20663033_new-construction-worker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/house-framer-pulling-nails-out-of-board-with-hammer-20663033/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S01/pexels_20663033_new-construction-worker.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S01/pexels_20663033_new-construction-worker.mp4"
+        },
+        {
+          "id": "pexels_4957784_apprentice-first-day",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sawdust-falling-on-the-floor-4957784/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S01/pexels_4957784_apprentice-first-day.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S01/pexels_4957784_apprentice-first-day.mp4"
+        },
+        {
+          "id": "pexels_8821264_two-builders-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S01/pexels_8821264_two-builders-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S01/pexels_8821264_two-builders-site.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "The fastest growers never stop learning \u2014 better ways to do things.",
+      "visual_direction": "A tradesman improving his craft \u2014 growth, dedication.",
+      "clips": [
+        {
+          "id": "archive_img-20201212121049_craftsman-focused",
+          "type": "video",
+          "source": "archive",
+          "author": "Leading the world leader and human mentor Fangruida who has led the world for 1 million years (Burton)August 2013 2013v3.0 electronic version2020v2.5 revision",
+          "license": "Public Domain",
+          "page_url": "https://archive.org/details/img-20201212121049",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/archive_img-20201212121049_craftsman-focused.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/archive_img-20201212121049_craftsman-focused.mp4"
+        },
+        {
+          "id": "pexels_6282946_worker-studying-plans",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-drawing-on-paper-6282946/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pexels_6282946_worker-studying-plans.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pexels_6282946_worker-studying-plans.mp4"
+        },
+        {
+          "id": "pexels_7479053_craftsman-focused",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-putting-a-wood-plank-on-a-wooden-surface-7479053/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pexels_7479053_craftsman-focused.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pexels_7479053_craftsman-focused.mp4"
+        },
+        {
+          "id": "pexels_7482684_tradesman-practicing-skill",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pexels_7482684_tradesman-practicing-skill.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pexels_7482684_tradesman-practicing-skill.mp4"
+        },
+        {
+          "id": "pexels_8964293_builder-examining-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pexels_8964293_builder-examining-work.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pexels_8964293_builder-examining-work.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-learning",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pixabay_166808_carpenter-learning.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pixabay_166808_carpenter-learning.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-studying-plans",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pixabay_271463_worker-studying-plans.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pixabay_271463_worker-studying-plans.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-examining-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S02/pixabay_40816_builder-examining-work.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S02/pixabay_40816_builder-examining-work.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "They stay curious, ask questions, study, listen.",
+      "visual_direction": "A curious apprentice engaged \u2014 asking, listening on site.",
+      "clips": [
+        {
+          "id": "pexels_32244801_curious-worker-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S03/pexels_32244801_curious-worker-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S03/pexels_32244801_curious-worker-site.mp4"
+        },
+        {
+          "id": "pexels_6339928_trainee-taking-notes",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-6339928/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S03/pexels_6339928_trainee-taking-notes.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S03/pexels_6339928_trainee-taking-notes.mp4"
+        },
+        {
+          "id": "pexels_8821257_young-builder-watching",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-doing-construction-8821257/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S03/pexels_8821257_young-builder-watching.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S03/pexels_8821257_young-builder-watching.mp4"
+        },
+        {
+          "id": "pexels_8964792_worker-listening-foreman",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S03/pexels_8964792_worker-listening-foreman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S03/pexels_8964792_worker-listening-foreman.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-studying-blueprint-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S03/pixabay_271463_worker-studying-blueprint-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S03/pixabay_271463_worker-studying-blueprint-site.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "A lifelong learner asks, 'What can I learn today?'",
+      "visual_direction": "A motivated worker arriving with tools, open to the day.",
+      "clips": [
+        {
+          "id": "pexels_10210999_builder-morning-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nishant Aneja",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-working-with-concrete-10210999/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pexels_10210999_builder-morning-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pexels_10210999_builder-morning-site.mp4"
+        },
+        {
+          "id": "pexels_5434217_worker-walking-to-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pexels_5434217_worker-walking-to-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pexels_5434217_worker-walking-to-site.mp4"
+        },
+        {
+          "id": "pexels_7482684_tradesman-ready-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pexels_7482684_tradesman-ready-work.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pexels_7482684_tradesman-ready-work.mp4"
+        },
+        {
+          "id": "pexels_7715979_builder-tool-belt-walking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Andi  Farruku",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-working-outdoors-7715979/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pexels_7715979_builder-tool-belt-walking.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pexels_7715979_builder-tool-belt-walking.mp4"
+        },
+        {
+          "id": "pixabay_342533_sunrise-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MrWashingt0n",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-342533/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pixabay_342533_sunrise-construction-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pixabay_342533_sunrise-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_87592_tradesman-ready-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87592/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S04/pixabay_87592_tradesman-ready-work.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S04/pixabay_87592_tradesman-ready-work.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "Learn from a skill, a mistake, a teammate, from experience.",
+      "visual_direction": "An experienced worker showing a younger one \u2014 mentorship.",
+      "clips": [
+        {
+          "id": "coverr_yfx3brh85t_worker-learning-coworker",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S05/coverr_yfx3brh85t_worker-learning-coworker.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S05/coverr_yfx3brh85t_worker-learning-coworker.mp4"
+        },
+        {
+          "id": "pexels_5895494_experienced-carpenter-teaching",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S05/pexels_5895494_experienced-carpenter-teaching.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S05/pexels_5895494_experienced-carpenter-teaching.mp4"
+        },
+        {
+          "id": "pexels_8821264_mentor-builder-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S05/pexels_8821264_mentor-builder-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S05/pexels_8821264_mentor-builder-site.mp4"
+        },
+        {
+          "id": "pexels_8964772_foreman-showing-apprentice",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S05/pexels_8964772_foreman-showing-apprentice.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S05/pexels_8964772_foreman-showing-apprentice.mp4"
+        },
+        {
+          "id": "pixabay_166808_experienced-carpenter-teaching",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S05/pixabay_166808_experienced-carpenter-teaching.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S05/pixabay_166808_experienced-carpenter-teaching.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "Asking questions is not weakness \u2014 it's wisdom.",
+      "visual_direction": "A worker confidently asking a question on site \u2014 humble, confident.",
+      "clips": [
+        {
+          "id": "pexels_8487522_worker-raising-hand-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-working-at-a-construction-site-8487522/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pexels_8487522_worker-raising-hand-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pexels_8487522_worker-raising-hand-site.mp4"
+        },
+        {
+          "id": "pexels_8821264_builder-seeking-advice",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pexels_8821264_builder-seeking-advice.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pexels_8821264_builder-seeking-advice.mp4"
+        },
+        {
+          "id": "pexels_8964772_worker-asking-foreman",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pexels_8964772_worker-asking-foreman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pexels_8964772_worker-asking-foreman.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-raising-hand-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pixabay_271463_worker-raising-hand-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pixabay_271463_worker-raising-hand-site.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-seeking-advice",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pixabay_40816_builder-seeking-advice.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pixabay_40816_builder-seeking-advice.mp4"
+        },
+        {
+          "id": "pixabay_73847_worker-raising-hand-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S06/pixabay_73847_worker-raising-hand-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S06/pixabay_73847_worker-raising-hand-site.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "Think about a child \u2014 curious, tries new things.",
+      "visual_direction": "A curious child exploring/building outdoors \u2014 wonder and play.",
+      "clips": [
+        {
+          "id": "pexels_11988771_child-gardening-soil",
+          "type": "video",
+          "source": "pexels",
+          "author": "Eli Pluma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-watering-potted-plants-in-a-greenhouse-11988771/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_11988771_child-gardening-soil.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_11988771_child-gardening-soil.mp4"
+        },
+        {
+          "id": "pexels_5889569_curious-child",
+          "type": "video",
+          "source": "pexels",
+          "author": "Prime Media Photography",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-boy-looking-at-the-camera-5889569/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_5889569_curious-child.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_5889569_curious-child.mp4"
+        },
+        {
+          "id": "pexels_9300026_child-exploring-outdoors",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-young-girl-is-looking-at-a-bug-on-a-rock-9300026/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_9300026_child-exploring-outdoors.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_9300026_child-exploring-outdoors.mp4"
+        },
+        {
+          "id": "pixabay_76515_child-gardening-soil",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-76515/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pixabay_76515_child-gardening-soil.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pixabay_76515_child-gardening-soil.mp4"
+        },
+        {
+          "id": "pexels_14195722_curious-child",
+          "type": "image",
+          "source": "pexels",
+          "author": "rehman yousaf",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/kid-s-face-in-close-up-photography-14195722/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_14195722_curious-child.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_14195722_curious-child.jpg"
+        },
+        {
+          "id": "pexels_7117502_kid-building-blocks",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-kid-playing-toy-blocks-7117502/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_7117502_kid-building-blocks.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_7117502_kid-building-blocks.jpg"
+        },
+        {
+          "id": "pexels_7782160_child-gardening-soil",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-kid-planting-seeds-on-the-ground-7782160/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pexels_7782160_child-gardening-soil.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pexels_7782160_child-gardening-soil.jpg"
+        },
+        {
+          "id": "pixabay_2985781_child-gardening-soil",
+          "type": "image",
+          "source": "pixabay",
+          "author": "rawpixel",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/ecology-environment-garden-2985781/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pixabay_2985781_child-gardening-soil.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pixabay_2985781_child-gardening-soil.jpg"
+        },
+        {
+          "id": "pixabay_503109_kid-building-blocks",
+          "type": "image",
+          "source": "pixabay",
+          "author": "bethL",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/blocks-child-toy-education-game-503109/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pixabay_503109_kid-building-blocks.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pixabay_503109_kid-building-blocks.jpg"
+        },
+        {
+          "id": "pixabay_8209561_curious-child",
+          "type": "image",
+          "source": "pixabay",
+          "author": "RonaldPlett",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/boy-excited-looking-fence-rodeo-8209561/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S07/pixabay_8209561_curious-child.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S07/pixabay_8209561_curious-child.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "At the end of the day, ask: 'What did I learn today?'",
+      "visual_direction": "A worker pausing to reflect at the end of the day \u2014 reflection.",
+      "clips": [
+        {
+          "id": "pexels_36447968_worker-resting-end-day",
+          "type": "video",
+          "source": "pexels",
+          "author": "Alex Moliski",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/peaceful-riverside-fishing-at-sunset-36447968/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pexels_36447968_worker-resting-end-day.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pexels_36447968_worker-resting-end-day.mp4"
+        },
+        {
+          "id": "pexels_7006655_worker-end-of-shift",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-looking-in-the-camera-7006655/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pexels_7006655_worker-end-of-shift.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pexels_7006655_worker-end-of-shift.mp4"
+        },
+        {
+          "id": "pexels_8488277_builder-wiping-brow",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-a-woman-wiping-her-sweat-8488277/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pexels_8488277_builder-wiping-brow.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pexels_8488277_builder-wiping-brow.mp4"
+        },
+        {
+          "id": "pexels_9121277_worker-sitting-sunset-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-his-laptop-on-a-camping-site-9121277/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pexels_9121277_worker-sitting-sunset-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pexels_9121277_worker-sitting-sunset-site.mp4"
+        },
+        {
+          "id": "pixabay_233390_tradesman-tired-break",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Yasir1120",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-233390/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pixabay_233390_tradesman-tired-break.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pixabay_233390_tradesman-tired-break.mp4"
+        },
+        {
+          "id": "pixabay_3741_tradesman-thinking-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "bellergy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3741/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pixabay_3741_tradesman-thinking-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pixabay_3741_tradesman-thinking-site.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-pausing-reflecting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S08/pixabay_40816_builder-pausing-reflecting.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S08/pixabay_40816_builder-pausing-reflecting.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "You learn by reading, listening, watching, doing, asking.",
+      "visual_direction": "Hands-on learning \u2014 watching a demo, practicing the skill.",
+      "clips": [
+        {
+          "id": "pexels_7482684_tradesman-studying-technique",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S09/pexels_7482684_tradesman-studying-technique.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S09/pexels_7482684_tradesman-studying-technique.mp4"
+        },
+        {
+          "id": "pexels_7484289_apprentice-watching-demonstratio",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-looking-at-camera-7484289/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S09/pexels_7484289_apprentice-watching-demonstratio.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S09/pexels_7484289_apprentice-watching-demonstratio.mp4"
+        },
+        {
+          "id": "pexels_8487428_worker-practicing-skill",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-using-a-hammer-8487428/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S09/pexels_8487428_worker-practicing-skill.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S09/pexels_8487428_worker-practicing-skill.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-learning-by-doing",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S09/pixabay_166808_carpenter-learning-by-doing.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S09/pixabay_166808_carpenter-learning-by-doing.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-practicing-skill",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S09/pixabay_271463_worker-practicing-skill.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S09/pixabay_271463_worker-practicing-skill.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "Today you can learn with AI \u2014 a coach anytime.",
+      "visual_direction": "A worker using a tablet ON SITE as a resource \u2014 modern resourcefulness.",
+      "clips": [
+        {
+          "id": "pexels_32244795_builder-tablet-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S10/pexels_32244795_builder-tablet-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S10/pexels_32244795_builder-tablet-site.mp4"
+        },
+        {
+          "id": "pexels_4169470_tradesman-tablet-outdoors",
+          "type": "video",
+          "source": "pexels",
+          "author": "Norma Mortenson",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/city-man-car-work-4169470/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S10/pexels_4169470_tradesman-tablet-outdoors.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S10/pexels_4169470_tradesman-tablet-outdoors.mp4"
+        },
+        {
+          "id": "pexels_6868428_worker-checking-phone-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/courier-checking-address-on-smartphone-6868428/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S10/pexels_6868428_worker-checking-phone-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S10/pexels_6868428_worker-checking-phone-site.mp4"
+        },
+        {
+          "id": "pexels_8964292_foreman-tablet-construction",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S10/pexels_8964292_foreman-tablet-construction.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S10/pexels_8964292_foreman-tablet-construction.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Learn from teammates, leaders, people with experience.",
+      "visual_direction": "A mentor and crew learning together on site \u2014 shared growth.",
+      "clips": [
+        {
+          "id": "pexels_8821264_builder-guiding-team",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S11/pexels_8821264_builder-guiding-team.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S11/pexels_8821264_builder-guiding-team.mp4"
+        },
+        {
+          "id": "pexels_8963857_foreman-teaching-crew",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S11/pexels_8963857_foreman-teaching-crew.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S11/pexels_8963857_foreman-teaching-crew.mp4"
+        },
+        {
+          "id": "pexels_8964379_crew-discussing-work-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S11/pexels_8964379_crew-discussing-work-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S11/pexels_8964379_crew-discussing-work-site.mp4"
+        },
+        {
+          "id": "pixabay_271463_experienced-worker-mentoring",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S11/pixabay_271463_experienced-worker-mentoring.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S11/pixabay_271463_experienced-worker-mentoring.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-guiding-team",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S11/pixabay_40816_builder-guiding-team.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S11/pixabay_40816_builder-guiding-team.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "Your greatest investment is yourself.",
+      "visual_direction": "A worker growing in skill and confidence \u2014 self-worth, mastery.",
+      "clips": [
+        {
+          "id": "pexels_31359850_skilled-worker-proud",
+          "type": "video",
+          "source": "pexels",
+          "author": "EqualStock IN",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/efficient-textile-production-in-action-31359850/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_31359850_skilled-worker-proud.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_31359850_skilled-worker-proud.mp4"
+        },
+        {
+          "id": "pexels_5967514_craftsman-mastery",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-sharpening-blade-5967514/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_5967514_craftsman-mastery.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_5967514_craftsman-mastery.mp4"
+        },
+        {
+          "id": "pexels_6474357_builder-confident-hardhat",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-panning-shot-of-a-man-wearing-hard-hat-6474357/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_6474357_builder-confident-hardhat.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_6474357_builder-confident-hardhat.mp4"
+        },
+        {
+          "id": "pexels_7482684_proud-tradesman-tools",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_7482684_proud-tradesman-tools.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_7482684_proud-tradesman-tools.mp4"
+        },
+        {
+          "id": "pexels_7482685_skilled-carpenter-working",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/carpenter-doing-woodwork-7482685/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_7482685_skilled-carpenter-working.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_7482685_skilled-carpenter-working.mp4"
+        },
+        {
+          "id": "pexels_8818342_builder-developing-skill",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-testing-the-grinder-8818342/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pexels_8818342_builder-developing-skill.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pexels_8818342_builder-developing-skill.mp4"
+        },
+        {
+          "id": "pixabay_271463_skilled-worker-proud",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S12/pixabay_271463_skilled-worker-proud.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S12/pixabay_271463_skilled-worker-proud.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Be curious. Never stop growing \u2014 your potential has no limit.",
+      "visual_direction": "A committed learner-tradesman looking ahead \u2014 aspiration, open horizon.",
+      "clips": [
+        {
+          "id": "archive_img-20201212121049_dedicated-craftsman",
+          "type": "video",
+          "source": "archive",
+          "author": "Leading the world leader and human mentor Fangruida who has led the world for 1 million years (Burton)August 2013 2013v3.0 electronic version2020v2.5 revision",
+          "license": "Public Domain",
+          "page_url": "https://archive.org/details/img-20201212121049",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/archive_img-20201212121049_dedicated-craftsman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/archive_img-20201212121049_dedicated-craftsman.mp4"
+        },
+        {
+          "id": "archive_kingdom-hearts-final-trailer_apprentice-becoming-skilled",
+          "type": "video",
+          "source": "archive",
+          "author": "Kingdom Hearts ( FINAL TRAILER) | Snap Cube's Real Time Fandub",
+          "license": "CC BY 4.0",
+          "page_url": "https://archive.org/details/kingdom-hearts-final-trailer-snap-cubes-real-time-fandub",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/archive_kingdom-hearts-final-trailer_apprentice-becoming-skilled.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/archive_kingdom-hearts-final-trailer_apprentice-becoming-skilled.mp4"
+        },
+        {
+          "id": "pexels_4892018_dedicated-craftsman",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-crafting-a-long-board-4892018/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_4892018_dedicated-craftsman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_4892018_dedicated-craftsman.mp4"
+        },
+        {
+          "id": "pexels_7484289_apprentice-becoming-skilled",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-looking-at-camera-7484289/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_7484289_apprentice-becoming-skilled.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_7484289_apprentice-becoming-skilled.mp4"
+        },
+        {
+          "id": "pexels_8829703_builder-rooftop-looking-out",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-in-a-wooden-house-looking-at-the-camera-8829703/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_8829703_builder-rooftop-looking-out.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_8829703_builder-rooftop-looking-out.mp4"
+        },
+        {
+          "id": "pexels_8964293_sunrise-builder",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_8964293_sunrise-builder.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_8964293_sunrise-builder.mp4"
+        },
+        {
+          "id": "pexels_16840681_builder-rooftop-looking-out",
+          "type": "image",
+          "source": "pexels",
+          "author": "HONG SON",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/standing-man-looking-at-illuminated-night-city-16840681/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_16840681_builder-rooftop-looking-out.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_16840681_builder-rooftop-looking-out.jpg"
+        },
+        {
+          "id": "pexels_19995510_sunrise-builder",
+          "type": "image",
+          "source": "pexels",
+          "author": "Shantum Singh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-worker-on-building-19995510/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_19995510_sunrise-builder.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_19995510_sunrise-builder.jpg"
+        },
+        {
+          "id": "pexels_33925009_dedicated-craftsman",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tahir X\u0259lf\u0259quliyev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/craftsman-working-in-rustic-workshop-mirror-reflection-33925009/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_33925009_dedicated-craftsman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_33925009_dedicated-craftsman.jpg"
+        },
+        {
+          "id": "pexels_8960996_worker-looking-ahead-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-wearing-a-yellow-hard-hat-8960996/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_8960996_worker-looking-ahead-site.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_8960996_worker-looking-ahead-site.jpg"
+        },
+        {
+          "id": "pexels_9242179_apprentice-becoming-skilled",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-young-man-in-safety-glasses-holding-a-soldering-iron-9242179/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pexels_9242179_apprentice-becoming-skilled.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pexels_9242179_apprentice-becoming-skilled.jpg"
+        },
+        {
+          "id": "pixabay_4037680_builder-rooftop-looking-out",
+          "type": "image",
+          "source": "pixabay",
+          "author": "InstagramFOTOGRAFIN",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/in-the-distance-see-mountains-4037680/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pixabay_4037680_builder-rooftop-looking-out.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pixabay_4037680_builder-rooftop-looking-out.jpg"
+        },
+        {
+          "id": "pixabay_4524838_sunrise-builder",
+          "type": "image",
+          "source": "pixabay",
+          "author": "endriqstudio",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pixabay_4524838_sunrise-builder.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pixabay_4524838_sunrise-builder.jpg"
+        },
+        {
+          "id": "pixabay_5680464_dedicated-craftsman",
+          "type": "image",
+          "source": "pixabay",
+          "author": "trilemedia",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/pottery-man-delivery-hoi-an-5680464/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S13/pixabay_5680464_dedicated-craftsman.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S13/pixabay_5680464_dedicated-craftsman.jpg"
+        }
+      ]
+    }
+  ]
+}
