@@ -1,0 +1,41 @@
+{
+  "project": "extreme-ownership-v2",
+  "updated": "2026-07-03T16:43:40.244Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "pixabay_40816_arms-crossed-builder"
+    ],
+    "S02": [
+      "pexels_6474370_foreman-portrait-site"
+    ],
+    "S03": [
+      "pexels_8471051_builder-checking-plans"
+    ],
+    "S04": [
+      "pexels_17311357_storm-clouds-worksite",
+      "pexels_27925020_equipment-breakdown"
+    ],
+    "S06": [
+      "pexels_8482292_team-on-site"
+    ],
+    "S08": [
+      "pexels_5967528_measuring-tape-wood"
+    ],
+    "S09": [
+      "pexels_27514738_crew-teamwork-site"
+    ],
+    "S11": [
+      "pexels_31145800_young-plant-growth"
+    ],
+    "S12": [
+      "pexels_5434220_builder-walking-site"
+    ]
+  },
+  "needs_broll": {
+    "S05": "more please 10 more contextual",
+    "S07": "more please 10 more contextual -- could be semi office fi you dont find",
+    "S10": "generate. 10 more please",
+    "S13": "more please 10 more contextual"
+  }
+}
