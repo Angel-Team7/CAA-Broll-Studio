@@ -1,0 +1,42 @@
+{
+  "project": "benchmark-excellence-v2",
+  "updated": "2026-07-03T16:22:05.830Z",
+  "ready": false,
+  "approved": {
+    "S02": [
+      "pexels_6655832_apprentice-watching"
+    ],
+    "S03": [
+      "pexels_6958237_hands-learning-wood"
+    ],
+    "S04": [
+      "pexels_6249288_coach-athlete"
+    ],
+    "S06": [
+      "pexels_6333710_teaching-apprentice"
+    ],
+    "S07": [
+      "pixabay_202987_worker-checking-phone"
+    ],
+    "S08": [
+      "pexels_8965437_trainee-observing-construction-t"
+    ],
+    "S09": [
+      "coverr_zlcm3xk92m_carpenter-hands"
+    ],
+    "S10": [
+      "pexels_8964792_foreman-reviewing"
+    ],
+    "S12": [
+      "pexels_8818338_builders-lifting-beam-together-t"
+    ],
+    "S13": [
+      "pexels_7493223_craftsman-smiling"
+    ]
+  },
+  "needs_broll": {
+    "S01": "i dont like any please generate 10 more and delete these",
+    "S05": "these are out of context please generate more 10 and delete these.",
+    "S11": "more contextual please generate 10 more"
+  }
+}
