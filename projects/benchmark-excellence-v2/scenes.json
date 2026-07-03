@@ -1,0 +1,918 @@
+{
+  "project": "benchmark-excellence-v2",
+  "title": "Benchmark Excellence",
+  "generated": "2026-07-03",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "An hour on something someone else does in ten minutes.",
+      "visual_direction": "OPENER \u2014 inviting morning on the grounds/site; then a builder working steadily, effortful. Wide establishing + medium worker.",
+      "clips": [
+        {
+          "id": "pexels_6196256_worker-wiping-brow",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-wiping-window-6196256/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pexels_6196256_worker-wiping-brow.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pexels_6196256_worker-wiping-brow.mp4"
+        },
+        {
+          "id": "pexels_8471051_builder-morning-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pexels_8471051_builder-morning-light.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pexels_8471051_builder-morning-light.mp4"
+        },
+        {
+          "id": "pixabay_188595_builder-morning-light",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kanenori",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-188595/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_188595_builder-morning-light.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_188595_builder-morning-light.mp4"
+        },
+        {
+          "id": "pixabay_227567_builder-morning-light",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TatianaTz",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-227567/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_227567_builder-morning-light.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_227567_builder-morning-light.mp4"
+        },
+        {
+          "id": "pixabay_342533_sunrise-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MrWashingt0n",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-342533/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_342533_sunrise-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_342533_sunrise-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_41055_sunrise-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "LadislavBur",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-41055/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_41055_sunrise-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_41055_sunrise-construction-site.mp4"
+        },
+        {
+          "id": "pexels_2217214_sunrise-construction-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ariel Paredes",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/crane-during-sunset-2217214/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pexels_2217214_sunrise-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pexels_2217214_sunrise-construction-site.jpg"
+        },
+        {
+          "id": "pexels_8961555_builder-morning-light",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pexels_8961555_builder-morning-light.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pexels_8961555_builder-morning-light.jpg"
+        },
+        {
+          "id": "pixabay_10165438_builder-morning-light",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Couleur",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/leaves-spring-green-nature-twig-10165438/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_10165438_builder-morning-light.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_10165438_builder-morning-light.jpg"
+        },
+        {
+          "id": "pixabay_3739392_sunrise-construction-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "DenisDoukhan",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/city-construction-site-crane-sunset-3739392/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S01/pixabay_3739392_sunrise-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S01/pixabay_3739392_sunrise-construction-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "Ask: 'Who already does this better than me?'",
+      "visual_direction": "Watching someone more skilled \u2014 an apprentice observing a master. Medium two-shot.",
+      "clips": [
+        {
+          "id": "pexels_4957780_watching-carpenter",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-a-chisel-4957780/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pexels_4957780_watching-carpenter.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pexels_4957780_watching-carpenter.mp4"
+        },
+        {
+          "id": "pexels_6655832_apprentice-watching",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-teaching-girl-archery-6655832/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pexels_6655832_apprentice-watching.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pexels_6655832_apprentice-watching.mp4"
+        },
+        {
+          "id": "pexels_8293012_worker-observing",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-measuring-height-of-ceiling-8293012/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pexels_8293012_worker-observing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pexels_8293012_worker-observing.mp4"
+        },
+        {
+          "id": "pexels_8821264_builder-mentor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pexels_8821264_builder-mentor.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pexels_8821264_builder-mentor.mp4"
+        },
+        {
+          "id": "pexels_8963857_foreman-apprentice",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pexels_8963857_foreman-apprentice.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pexels_8963857_foreman-apprentice.mp4"
+        },
+        {
+          "id": "pixabay_85350_foreman-apprentice",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-85350/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S02/pixabay_85350_foreman-apprentice.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S02/pixabay_85350_foreman-apprentice.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "The best don't know everything \u2014 they know how to learn.",
+      "visual_direction": "A curious tradesman actively learning a technique. Detail hands + medium focused face.",
+      "clips": [
+        {
+          "id": "coverr_99lswjbtpr_learning-skill",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/boy-and-girl-studying-outdoors-99lswjbtpr",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S03/coverr_99lswjbtpr_learning-skill.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S03/coverr_99lswjbtpr_learning-skill.mp4"
+        },
+        {
+          "id": "pexels_6615512_craftsman-studying",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/table-with-plans-6615512/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S03/pexels_6615512_craftsman-studying.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S03/pexels_6615512_craftsman-studying.mp4"
+        },
+        {
+          "id": "pexels_6958237_hands-learning-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/persons-doing-handicrafts-6958237/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S03/pexels_6958237_hands-learning-wood.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S03/pexels_6958237_hands-learning-wood.mp4"
+        },
+        {
+          "id": "pexels_7479053_carpenter-focused",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-putting-a-wood-plank-on-a-wooden-surface-7479053/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S03/pexels_7479053_carpenter-focused.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S03/pexels_7479053_carpenter-focused.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-focused",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S03/pixabay_166808_carpenter-focused.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S03/pixabay_166808_carpenter-focused.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "The greatest athletes still have coaches.",
+      "visual_direction": "A coach guiding a trainee / master coaching apprentice hands-on. Medium.",
+      "clips": [
+        {
+          "id": "pexels_32244799_foreman-explaining-worker-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-on-an-elevated-platform-32244799/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_32244799_foreman-explaining-worker-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_32244799_foreman-explaining-worker-site.mp4"
+        },
+        {
+          "id": "pexels_6249288_coach-athlete",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-talking-at-basketball-court-6249288/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_6249288_coach-athlete.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_6249288_coach-athlete.mp4"
+        },
+        {
+          "id": "pexels_7479048_master-craftsman-apprentice-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-drilling-a-wood-7479048/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_7479048_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_7479048_master-craftsman-apprentice-wood.mp4"
+        },
+        {
+          "id": "pexels_7492602_carpenter-showing-apprentice-tec",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_7492602_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_7492602_carpenter-showing-apprentice-tec.mp4"
+        },
+        {
+          "id": "pexels_8691037_runner-coach",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-jogging-on-the-track-8691037/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_8691037_runner-coach.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_8691037_runner-coach.mp4"
+        },
+        {
+          "id": "pexels_10347891_coach-athlete",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u041c\u0430\u0440\u0438\u043d\u0430  \u0428\u0438\u0448\u043a\u0438\u043d\u0430",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-coaching-a-kid-10347891/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_10347891_coach-athlete.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_10347891_coach-athlete.jpg"
+        },
+        {
+          "id": "pexels_3763864_runner-coach",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/young-athletes-warming-up-on-track-3763864/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pexels_3763864_runner-coach.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pexels_3763864_runner-coach.jpg"
+        },
+        {
+          "id": "pixabay_6252827_runner-coach",
+          "type": "image",
+          "source": "pixabay",
+          "author": "roxanawilliams1920",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/running-woman-fitness-runner-6252827/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S04/pixabay_6252827_runner-coach.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S04/pixabay_6252827_runner-coach.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "Excellence leaves clues. Don't reinvent the wheel.",
+      "visual_direction": "Studying a proven example / blueprint on site. Detail plans + medium builder reading.",
+      "clips": [
+        {
+          "id": "pexels_6279706_reading-blueprint",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/study-material-on-library-desk-6279706/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S05/pexels_6279706_reading-blueprint.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S05/pexels_6279706_reading-blueprint.mp4"
+        },
+        {
+          "id": "pexels_6615508_architect-plans",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-using-compass-to-measure-6615508/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S05/pexels_6615508_architect-plans.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S05/pexels_6615508_architect-plans.mp4"
+        },
+        {
+          "id": "pexels_8471078_site-drawings",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/top-view-of-blueprint-with-measuring-tape-8471078/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S05/pexels_8471078_site-drawings.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S05/pexels_8471078_site-drawings.mp4"
+        },
+        {
+          "id": "pixabay_121409_site-drawings",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-121409/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S05/pixabay_121409_site-drawings.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S05/pixabay_121409_site-drawings.mp4"
+        },
+        {
+          "id": "pixabay_42701_architect-plans",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42701/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S05/pixabay_42701_architect-plans.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S05/pixabay_42701_architect-plans.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "Someone does it better \u2014 ask them to show you.",
+      "visual_direction": "A tradesman showing a colleague how they do it. Medium two-shot, hands demonstrating.",
+      "clips": [
+        {
+          "id": "pexels_27876429_carpenter-demonstrating",
+          "type": "video",
+          "source": "pexels",
+          "author": "Videas Cl",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-measuring-a-piece-of-wood-with-a-ruler-27876429/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S06/pexels_27876429_carpenter-demonstrating.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S06/pexels_27876429_carpenter-demonstrating.mp4"
+        },
+        {
+          "id": "pexels_6333710_teaching-apprentice",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-inside-a-library-6333710/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S06/pexels_6333710_teaching-apprentice.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S06/pexels_6333710_teaching-apprentice.mp4"
+        },
+        {
+          "id": "pexels_7045155_showing-technique",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/master-demonstrating-his-martial-art-skills-7045155/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S06/pexels_7045155_showing-technique.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S06/pexels_7045155_showing-technique.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-demonstrating",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S06/pixabay_166808_carpenter-demonstrating.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S06/pixabay_166808_carpenter-demonstrating.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "Maybe AI can help \u2014 ask before you send.",
+      "visual_direction": "A worker using a tablet/phone ON SITE to check something (never a desk). Medium.",
+      "clips": [
+        {
+          "id": "pexels_4169470_worker-tablet",
+          "type": "video",
+          "source": "pexels",
+          "author": "Norma Mortenson",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/city-man-car-work-4169470/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pexels_4169470_worker-tablet.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pexels_4169470_worker-tablet.mp4"
+        },
+        {
+          "id": "pexels_6868428_worker-checking-phone",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/courier-checking-address-on-smartphone-6868428/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pexels_6868428_worker-checking-phone.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pexels_6868428_worker-checking-phone.mp4"
+        },
+        {
+          "id": "pexels_8963678_engineer-tablet-outdoor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-holding-a-digital-tablet-8963678/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pexels_8963678_engineer-tablet-outdoor.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pexels_8963678_engineer-tablet-outdoor.mp4"
+        },
+        {
+          "id": "pexels_8964793_tablet-construction-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pexels_8964793_tablet-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pexels_8964793_tablet-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_202987_worker-checking-phone",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pixabay_202987_worker-checking-phone.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pixabay_202987_worker-checking-phone.mp4"
+        },
+        {
+          "id": "pixabay_206315_tablet-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S07/pixabay_206315_tablet-construction-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S07/pixabay_206315_tablet-construction-site.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "Benchmarking requires humility \u2014 'Teach me.'",
+      "visual_direction": "A humble apprentice listening / receptive to advice on site. Medium.",
+      "clips": [
+        {
+          "id": "pexels_6333710_mentor-advice",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-inside-a-library-6333710/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S08/pexels_6333710_mentor-advice.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S08/pexels_6333710_mentor-advice.mp4"
+        },
+        {
+          "id": "pexels_8487866_african-construction-workers-tal",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-talking-at-a-construction-site-8487866/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S08/pexels_8487866_african-construction-workers-tal.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S08/pexels_8487866_african-construction-workers-tal.mp4"
+        },
+        {
+          "id": "pexels_8965437_trainee-observing-construction-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-checking-the-walls-of-a-house-8965437/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S08/pexels_8965437_trainee-observing-construction-t.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S08/pexels_8965437_trainee-observing-construction-t.mp4"
+        },
+        {
+          "id": "pixabay_40816_young-builder-learning",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S08/pixabay_40816_young-builder-learning.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S08/pixabay_40816_young-builder-learning.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "Two build a table; one first asks the best carpenter.",
+      "visual_direction": "Carpentry \u2014 hands planing, measuring, sawing in a warm workshop. Detail hands + medium.",
+      "clips": [
+        {
+          "id": "coverr_mw8szu4qpx_carpenter-workshop",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/cutting-wood-with-a-miter-saw-mw8szu4qpx",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/coverr_mw8szu4qpx_carpenter-workshop.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/coverr_mw8szu4qpx_carpenter-workshop.mp4"
+        },
+        {
+          "id": "coverr_zlcm3xk92m_carpenter-hands",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/sawing-wood-zlcm3xk92m",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/coverr_zlcm3xk92m_carpenter-hands.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/coverr_zlcm3xk92m_carpenter-hands.mp4"
+        },
+        {
+          "id": "pexels_20660631_sawing-timber",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/circular-saw-cutting-wood-in-a-woodshop-20660631/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pexels_20660631_sawing-timber.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pexels_20660631_sawing-timber.mp4"
+        },
+        {
+          "id": "pexels_27876429_measuring-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "Videas Cl",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-measuring-a-piece-of-wood-with-a-ruler-27876429/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pexels_27876429_measuring-wood.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pexels_27876429_measuring-wood.mp4"
+        },
+        {
+          "id": "pexels_32727075_woodworker-planing",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ahimsa -  OM",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-of-hands-using-a-woodworking-plane-32727075/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pexels_32727075_woodworker-planing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pexels_32727075_woodworker-planing.mp4"
+        },
+        {
+          "id": "pexels_34508148_sanding-table",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jonathan David",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/efficient-wood-sanding-with-electric-sander-34508148/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pexels_34508148_sanding-table.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pexels_34508148_sanding-table.mp4"
+        },
+        {
+          "id": "pexels_5972632_carpenter-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-a-carpenter-shaving-wood-5972632/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pexels_5972632_carpenter-hands.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pexels_5972632_carpenter-hands.mp4"
+        },
+        {
+          "id": "pixabay_166808_woodworker-planing",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S09/pixabay_166808_woodworker-planing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S09/pixabay_166808_woodworker-planing.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "Ask someone excellent to review it \u2014 five minutes of feedback.",
+      "visual_direction": "Reviewing work together on site \u2014 a quick feedback check. Medium two-shot.",
+      "clips": [
+        {
+          "id": "pexels_13892563_feedback-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Musko io",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-putting-papers-on-table-13892563/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_13892563_feedback-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_13892563_feedback-site.mp4"
+        },
+        {
+          "id": "pexels_8293012_inspecting-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-measuring-height-of-ceiling-8293012/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8293012_inspecting-work.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8293012_inspecting-work.mp4"
+        },
+        {
+          "id": "pexels_8293308_checking-build",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-inspecting-the-door-hinges-8293308/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8293308_checking-build.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8293308_checking-build.mp4"
+        },
+        {
+          "id": "pexels_8482328_builders-checking-spirit-level-w",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-spirit-level-on-the-wall-8482328/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8482328_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8482328_builders-checking-spirit-level-w.mp4"
+        },
+        {
+          "id": "pexels_8964792_foreman-reviewing",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8964792_foreman-reviewing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8964792_foreman-reviewing.mp4"
+        },
+        {
+          "id": "pexels_8964793_construction-workers-inspecting",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8964793_construction-workers-inspecting.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8964793_construction-workers-inspecting.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Good people work hard. Great people learn fast.",
+      "visual_direction": "A skilled tradesman visibly confident \u2014 mastery building. Medium + detail precise hands.",
+      "clips": [
+        {
+          "id": "pexels_27876376_skilled-carpenter",
+          "type": "video",
+          "source": "pexels",
+          "author": "Videas Cl",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-using-a-circular-saw-to-cut-wood-27876376/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_27876376_skilled-carpenter.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_27876376_skilled-carpenter.mp4"
+        },
+        {
+          "id": "pexels_6263174_craftsman-precise",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/jeweler-working-on-a-ring-6263174/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_6263174_craftsman-precise.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_6263174_craftsman-precise.mp4"
+        },
+        {
+          "id": "pexels_7482684_tradesman-working",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_7482684_tradesman-working.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_7482684_tradesman-working.mp4"
+        },
+        {
+          "id": "pexels_7520877_hands-craftsmanship",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-used-in-glass-making-7520877/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_7520877_hands-craftsmanship.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_7520877_hands-craftsmanship.mp4"
+        },
+        {
+          "id": "pexels_8964929_confident-builder",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-wearing-a-hard-hat-8964929/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8964929_confident-builder.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8964929_confident-builder.mp4"
+        },
+        {
+          "id": "pixabay_166808_skilled-carpenter",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pixabay_166808_skilled-carpenter.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pixabay_166808_skilled-carpenter.mp4"
+        },
+        {
+          "id": "wikimedia_148362853_hands-craftsmanship",
+          "type": "video",
+          "source": "wikimedia",
+          "author": "Steve Dieu-veil",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:CREATIVITE_CONGOLAISE_ARTISANALE.webm",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/wikimedia_148362853_hands-craftsmanship.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/wikimedia_148362853_hands-craftsmanship.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "A culture where sharing knowledge is normal.",
+      "visual_direction": "A crew sharing knowledge and helping each other on site/garden. Wide + medium.",
+      "clips": [
+        {
+          "id": "pexels_8818338_builders-lifting-beam-together-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8818338_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8818338_builders-lifting-beam-together-t.mp4"
+        },
+        {
+          "id": "pexels_8818344_construction-team-working-togeth",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-person-cutting-the-wood-8818344/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8818344_construction-team-working-togeth.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8818344_construction-team-working-togeth.mp4"
+        },
+        {
+          "id": "pexels_8821264_builders-together",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8821264_builders-together.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8821264_builders-together.mp4"
+        },
+        {
+          "id": "pexels_8829525_crew-raising-timber-frame-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-going-down-in-the-construction-site-8829525/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8829525_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8829525_crew-raising-timber-frame-wall.mp4"
+        },
+        {
+          "id": "pexels_9464864_crew-teamwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/team-in-a-huddle-9464864/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_9464864_crew-teamwork.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_9464864_crew-teamwork.mp4"
+        },
+        {
+          "id": "pexels_18111488_crew-teamwork",
+          "type": "image",
+          "source": "pexels",
+          "author": "Joaquin Carfagna",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-workers-on-a-street-18111488/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_18111488_crew-teamwork.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_18111488_crew-teamwork.jpg"
+        },
+        {
+          "id": "pexels_8961699_builders-together",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-and-woman-holding-a-red-hose-8961699/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8961699_builders-together.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8961699_builders-together.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Excellence is a habit \u2014 the more you learn the better you become.",
+      "visual_direction": "Quiet pride in an excellent finished build. Detail finished piece + medium proud craftsman.",
+      "clips": [
+        {
+          "id": "pexels_20374770_finished-furniture",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nishant Aneja",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-is-sanding-wood-with-a-sander-20374770/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_20374770_finished-furniture.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_20374770_finished-furniture.mp4"
+        },
+        {
+          "id": "pexels_5973223_polished-woodwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-brushing-a-lumber-wood-5973223/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_5973223_polished-woodwork.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_5973223_polished-woodwork.mp4"
+        },
+        {
+          "id": "pexels_7493223_craftsman-smiling",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-inside-a-workshop-looking-at-camera-7493223/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_7493223_craftsman-smiling.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_7493223_craftsman-smiling.mp4"
+        },
+        {
+          "id": "pixabay_164138_finished-furniture",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Joe_hackney",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-164138/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_164138_finished-furniture.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_164138_finished-furniture.mp4"
+        },
+        {
+          "id": "pixabay_171044_craftsman-smiling",
+          "type": "video",
+          "source": "pixabay",
+          "author": "magicmore",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-171044/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_171044_craftsman-smiling.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_171044_craftsman-smiling.mp4"
+        },
+        {
+          "id": "pixabay_197564_wooden-table-done",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kanenori",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-197564/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_197564_wooden-table-done.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_197564_wooden-table-done.mp4"
+        }
+      ]
+    }
+  ]
+}

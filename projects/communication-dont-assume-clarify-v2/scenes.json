@@ -1,0 +1,808 @@
+{
+  "project": "communication-dont-assume-clarify-v2",
+  "title": "Communication: Don't Assume. Clarify.",
+  "generated": "2026-07-03",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Opener \u2014 great teams communicate; an inviting start to the day on site.",
+      "visual_direction": "Warm, inviting establishing shot: crew arriving / foreman greeting the team at sunrise. Belonging, fresh start. Wide + a welcoming detail.",
+      "clips": [
+        {
+          "id": "pexels_12421171_construction-site-sunrise",
+          "type": "video",
+          "source": "pexels",
+          "author": "Vladyslav Huivyk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sunrise-over-city-under-clouds-12421171/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_12421171_construction-site-sunrise.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_12421171_construction-site-sunrise.mp4"
+        },
+        {
+          "id": "pexels_20652974_crew-morning-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tamoor Ahmed",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-discussing-360-drone-20652974/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_20652974_crew-morning-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_20652974_crew-morning-site.mp4"
+        },
+        {
+          "id": "pexels_5434220_workers-walking-site-morning",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_5434220_workers-walking-site-morning.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_5434220_workers-walking-site-morning.mp4"
+        },
+        {
+          "id": "pixabay_41055_construction-site-sunrise",
+          "type": "video",
+          "source": "pixabay",
+          "author": "LadislavBur",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-41055/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pixabay_41055_construction-site-sunrise.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pixabay_41055_construction-site-sunrise.mp4"
+        },
+        {
+          "id": "pexels_18111488_crew-arriving-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Joaquin Carfagna",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-workers-on-a-street-18111488/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_18111488_crew-arriving-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_18111488_crew-arriving-site.jpg"
+        },
+        {
+          "id": "pexels_5637555_building-site-dawn",
+          "type": "image",
+          "source": "pexels",
+          "author": "Stefan Grage",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/cranes-near-building-during-sunset-5637555/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_5637555_building-site-dawn.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_5637555_building-site-dawn.jpg"
+        },
+        {
+          "id": "pexels_8961066_workers-walking-site-morning",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-workers-walking-near-metal-railings-8961066/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_8961066_workers-walking-site-morning.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_8961066_workers-walking-site-morning.jpg"
+        },
+        {
+          "id": "pixabay_3739392_construction-site-sunrise",
+          "type": "image",
+          "source": "pixabay",
+          "author": "DenisDoukhan",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/city-construction-site-crane-sunset-3739392/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pixabay_3739392_construction-site-sunrise.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pixabay_3739392_construction-site-sunrise.jpg"
+        },
+        {
+          "id": "wikimedia_34438261_sunrise-construction-site",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Dietmar Rabich",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Senden,_Dortmund-Ems-Kanal_--_2014_--_2991-5.jpg",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/wikimedia_34438261_sunrise-construction-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/wikimedia_34438261_sunrise-construction-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "\"Please move the chairs\" \u2014 one task, different pictures. The assumption problem.",
+      "visual_direction": "Instructions given but read differently \u2014 mixed signals. Foreman pointing / worker looking puzzled.",
+      "clips": [
+        {
+          "id": "pexels_19832500_puzzled-construction-worker",
+          "type": "video",
+          "source": "pexels",
+          "author": "CP Khanal",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-men-in-orange-vests-and-hard-hats-working-on-a-construction-site-19832500/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_19832500_puzzled-construction-worker.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_19832500_puzzled-construction-worker.mp4"
+        },
+        {
+          "id": "pexels_8471051_builder-confused",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_8471051_builder-confused.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_8471051_builder-confused.mp4"
+        },
+        {
+          "id": "pexels_8963857_foreman-giving-instructions",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S02/pexels_8963857_foreman-giving-instructions.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/pexels_8963857_foreman-giving-instructions.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "Great teams don't just work hard \u2014 great teams communicate clearly.",
+      "visual_direction": "Crew talking things through together on site \u2014 alignment, shared understanding. Group huddle.",
+      "clips": [
+        {
+          "id": "pexels_36034181_team-meeting-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mh Tonmoy",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/safety-briefing-for-construction-team-outdoors-36034181/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pexels_36034181_team-meeting-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pexels_36034181_team-meeting-site.mp4"
+        },
+        {
+          "id": "pexels_8964793_hard-hat-workers-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pexels_8964793_hard-hat-workers-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pexels_8964793_hard-hat-workers-talking.mp4"
+        },
+        {
+          "id": "pexels_8961030_construction-team-talking",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-hard-hats-talking-at-the-construction-site-8961030/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pexels_8961030_construction-team-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pexels_8961030_construction-team-talking.jpg"
+        },
+        {
+          "id": "pexels_8961071_workers-conversation",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-blue-long-sleeve-shirt-wearing-white-hard-hat-holding-white-clipboard-8961071/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pexels_8961071_workers-conversation.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pexels_8961071_workers-conversation.jpg"
+        },
+        {
+          "id": "pexels_8961300_builders-discussing-plans",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-people-checking-on-a-construction-project-8961300/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pexels_8961300_builders-discussing-plans.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pexels_8961300_builders-discussing-plans.jpg"
+        },
+        {
+          "id": "pixabay_9694128_workers-conversation",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Sergey2025",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-employee-company-people-9694128/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S03/pixabay_9694128_workers-conversation.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S03/pixabay_9694128_workers-conversation.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "Communication saves time, prevents mistakes, builds trust, and people enjoy working together.",
+      "visual_direction": "Two workers collaborating well \u2014 trust and camaraderie. Handshake / working side by side smiling.",
+      "clips": [
+        {
+          "id": "pexels_8487956_construction-workers-smiling",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/female-construction-workers-posing-together-8487956/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pexels_8487956_construction-workers-smiling.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S04/pexels_8487956_construction-workers-smiling.mp4"
+        },
+        {
+          "id": "pexels_8821264_builders-shaking-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pexels_8821264_builders-shaking-hands.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S04/pexels_8821264_builders-shaking-hands.mp4"
+        },
+        {
+          "id": "pexels_8965306_builders-teamwork-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-using-a-drill-on-a-wood-8965306/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pexels_8965306_builders-teamwork-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S04/pexels_8965306_builders-teamwork-site.mp4"
+        },
+        {
+          "id": "pixabay_342533_worker-cooperation",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MrWashingt0n",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-342533/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pixabay_342533_worker-cooperation.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S04/pixabay_342533_worker-cooperation.mp4"
+        },
+        {
+          "id": "pixabay_73847_builders-shaking-hands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pixabay_73847_builders-shaking-hands.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S04/pixabay_73847_builders-shaking-hands.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "The biggest mistake is that we assume \u2014 we assume we understood.",
+      "visual_direction": "A worker heading off on his own assumption \u2014 quiet uncertainty. Solo builder pausing, unsure.",
+      "clips": [
+        {
+          "id": "pexels_34572325_pensive-construction-worker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Sergei Starostin",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/focused-worker-in-green-shirt-indoors-34572325/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S05/pexels_34572325_pensive-construction-worker.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S05/pexels_34572325_pensive-construction-worker.mp4"
+        },
+        {
+          "id": "pixabay_216597_worker-pausing-thinking",
+          "type": "video",
+          "source": "pixabay",
+          "author": "conte_public",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-216597/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S05/pixabay_216597_worker-pausing-thinking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S05/pixabay_216597_worker-pausing-thinking.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-doubt",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S05/pixabay_40816_builder-doubt.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S05/pixabay_40816_builder-doubt.mp4"
+        },
+        {
+          "id": "pixabay_45711_tradesman-looking-away",
+          "type": "video",
+          "source": "pixabay",
+          "author": "sergo75-75",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-45711/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S05/pixabay_45711_tradesman-looking-away.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S05/pixabay_45711_tradesman-looking-away.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "The solution is simple \u2014 ask clarifying questions.",
+      "visual_direction": "An apprentice asking the foreman a question, engaging \u2014 curiosity, professionalism. Pointing at the work.",
+      "clips": [
+        {
+          "id": "pexels_32244795_site-supervisor-worker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S06/pexels_32244795_site-supervisor-worker.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S06/pexels_32244795_site-supervisor-worker.mp4"
+        },
+        {
+          "id": "pexels_4280923_worker-asking-supervisor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tiger Lily",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/working-men-warehouse-job-4280923/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S06/pexels_4280923_worker-asking-supervisor.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S06/pexels_4280923_worker-asking-supervisor.mp4"
+        },
+        {
+          "id": "pexels_8487985_foreman-explaining-apprentice",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/female-engineers-having-a-discussion-8487985/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S06/pexels_8487985_foreman-explaining-apprentice.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S06/pexels_8487985_foreman-explaining-apprentice.mp4"
+        },
+        {
+          "id": "pexels_8964772_apprentice-asking-foreman",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S06/pexels_8964772_apprentice-asking-foreman.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S06/pexels_8964772_apprentice-asking-foreman.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "\"What does success look like? When do you need it finished?\" \u2014 checking the plan.",
+      "visual_direction": "Builders reviewing the drawings/blueprint together \u2014 clarity, shared picture. Plans on site.",
+      "clips": [
+        {
+          "id": "pexels_5384977_reviewing-drawings-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-looking-at-interior-designs-laid-over-the-table-5384977/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_5384977_reviewing-drawings-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_5384977_reviewing-drawings-site.mp4"
+        },
+        {
+          "id": "pexels_6474143_builders-reading-blueprint",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-looking-the-plan-6474143/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_6474143_builders-reading-blueprint.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_6474143_builders-reading-blueprint.mp4"
+        },
+        {
+          "id": "pexels_7816246_construction-plans-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/video-of-floor-plan-7816246/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_7816246_construction-plans-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_7816246_construction-plans-site.mp4"
+        },
+        {
+          "id": "pexels_8964792_foreman-apprentice-plans",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_8964792_foreman-apprentice-plans.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_8964792_foreman-apprentice-plans.mp4"
+        },
+        {
+          "id": "pixabay_91769_construction-plans-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "useche360",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-91769/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pixabay_91769_construction-plans-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pixabay_91769_construction-plans-site.mp4"
+        },
+        {
+          "id": "pexels_8482551_construction-plans-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/backview-of-an-engineer-holding-a-floor-plan-on-a-wall-8482551/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_8482551_construction-plans-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_8482551_construction-plans-site.jpg"
+        },
+        {
+          "id": "pexels_8961025_foreman-apprentice-plans",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_8961025_foreman-apprentice-plans.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_8961025_foreman-apprentice-plans.jpg"
+        },
+        {
+          "id": "pexels_8961298_builders-reading-blueprint",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-showing-a-man-the-construction-plan-8961298/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pexels_8961298_builders-reading-blueprint.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pexels_8961298_builders-reading-blueprint.jpg"
+        },
+        {
+          "id": "pixabay_1857175_builders-reading-blueprint",
+          "type": "image",
+          "source": "pixabay",
+          "author": "3844328",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/floor-plan-construction-building-1857175/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S07/pixabay_1857175_builders-reading-blueprint.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S07/pixabay_1857175_builders-reading-blueprint.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "\"Clean the kitchen\" \u2014 everyone worked hard but had a different picture of the job.",
+      "visual_direction": "A crew each busy on their own part of the same job \u2014 effort without alignment. Several workers, different tasks.",
+      "clips": [
+        {
+          "id": "coverr_hmisd9bkec_busy-construction-workers",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/construction-workers-in-the-city-hmisd9bkec",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/coverr_hmisd9bkec_busy-construction-workers.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/coverr_hmisd9bkec_busy-construction-workers.mp4"
+        },
+        {
+          "id": "pexels_24800203_landscaping-crew-working",
+          "type": "video",
+          "source": "pexels",
+          "author": "Magda Ehlers",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-men-are-digging-in-the-dirt-24800203/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_24800203_landscaping-crew-working.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_24800203_landscaping-crew-working.mp4"
+        },
+        {
+          "id": "pexels_7448386_busy-construction-workers",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mike Hongkong",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-working-on-a-construction-site-7448386/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_7448386_busy-construction-workers.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_7448386_busy-construction-workers.mp4"
+        },
+        {
+          "id": "pexels_8818338_multiple-builders-working",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S08/pexels_8818338_multiple-builders-working.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S08/pexels_8818338_multiple-builders-working.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "A two-minute conversation saves thirty minutes of confusion.",
+      "visual_direction": "Two workers a quick chat by the materials / wheelbarrow \u2014 efficient, easy. Brief exchange.",
+      "clips": [
+        {
+          "id": "pexels_5977119_colleagues-talking-outside",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jack Sparrow",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-having-some-business-arguments-5977119/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S09/pexels_5977119_colleagues-talking-outside.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S09/pexels_5977119_colleagues-talking-outside.mp4"
+        },
+        {
+          "id": "pexels_6193855_two-workmates-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Diva Plavalaguna",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-talking-to-his-co-workers-6193855/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S09/pexels_6193855_two-workmates-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S09/pexels_6193855_two-workmates-talking.mp4"
+        },
+        {
+          "id": "pexels_7278332_colleagues-chatting-outdoor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anastasia  Shuraeva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-a-woman-smoking-7278332/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S09/pexels_7278332_colleagues-chatting-outdoor.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S09/pexels_7278332_colleagues-chatting-outdoor.mp4"
+        },
+        {
+          "id": "pexels_9153820_two-farmers-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/beekeepers-inspecting-a-beehive-9153820/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S09/pexels_9153820_two-farmers-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S09/pexels_9153820_two-farmers-talking.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "Great people listen so they can understand \u2014 stop, look, listen, don't interrupt.",
+      "visual_direction": "Foreman listening attentively to a worker, eye contact \u2014 attention, respect. One talking, one truly listening.",
+      "clips": [
+        {
+          "id": "pexels_8964376_two-hivis-workers-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S10/pexels_8964376_two-hivis-workers-talking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S10/pexels_8964376_two-hivis-workers-talking.mp4"
+        },
+        {
+          "id": "pexels_8964772_foreman-talking-to-worker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S10/pexels_8964772_foreman-talking-to-worker.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S10/pexels_8964772_foreman-talking-to-worker.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Check in \u2014 send a message, walk over: \"This is my progress. Am I on track?\"",
+      "visual_direction": "A worker with a tablet/phone ON SITE, or foreman checking progress \u2014 staying connected.",
+      "clips": [
+        {
+          "id": "pexels_5100043_checking-work-progress",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_5100043_checking-work-progress.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_5100043_checking-work-progress.mp4"
+        },
+        {
+          "id": "pexels_6474150_worker-smartphone-construction",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-smartphone-6474150/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_6474150_worker-smartphone-construction.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_6474150_worker-smartphone-construction.mp4"
+        },
+        {
+          "id": "pexels_8482302_site-manager-tablet",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-using-laptop-while-talking-8482302/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_8482302_site-manager-tablet.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_8482302_site-manager-tablet.mp4"
+        },
+        {
+          "id": "pexels_8963676_site-manager-tablet",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-a-woman-using-tablet-8963676/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_8963676_site-manager-tablet.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_8963676_site-manager-tablet.mp4"
+        },
+        {
+          "id": "pexels_8964793_worker-tablet-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_8964793_worker-tablet-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_8964793_worker-tablet-site.mp4"
+        },
+        {
+          "id": "pixabay_202987_builder-phone-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pixabay_202987_builder-phone-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pixabay_202987_builder-phone-site.mp4"
+        },
+        {
+          "id": "openverse_93b836f4-af6a-4145-89c8-e01a_builder-phone-site",
+          "type": "image",
+          "source": "openverse",
+          "author": "garryknight",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/8176740@N05/40458331212",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/openverse_93b836f4-af6a-4145-89c8-e01a_builder-phone-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/openverse_93b836f4-af6a-4145-89c8-e01a_builder-phone-site.jpg"
+        },
+        {
+          "id": "pexels_10923553_worker-smartphone-construction",
+          "type": "image",
+          "source": "pexels",
+          "author": "Provisionshots LLC",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-yellow-vest-wearing-a-blue-hard-hat-10923553/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_10923553_worker-smartphone-construction.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_10923553_worker-smartphone-construction.jpg"
+        },
+        {
+          "id": "pexels_8960944_site-manager-tablet",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-white-hardhat-holding-silver-touchscreen-device-8960944/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_8960944_site-manager-tablet.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_8960944_site-manager-tablet.jpg"
+        },
+        {
+          "id": "pexels_8961394_builder-phone-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-wearing-yellow-hard-hat-while-standing-by-the-wooden-table-8961394/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S11/pexels_8961394_builder-phone-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S11/pexels_8961394_builder-phone-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "Bad news doesn't get better with time \u2014 speak up early so people can help.",
+      "visual_direction": "A worker pointing out a problem to the foreman \u2014 honesty, courage. Raising a concern, inspecting an issue together.",
+      "clips": [
+        {
+          "id": "pexels_34572319_builder-pointing-issue",
+          "type": "video",
+          "source": "pexels",
+          "author": "Sergei Starostin",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-worker-smoothing-cement-on-wall-34572319/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_34572319_builder-pointing-issue.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_34572319_builder-pointing-issue.mp4"
+        },
+        {
+          "id": "pexels_34572320_builder-pointing-at-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "Sergei Starostin",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-worker-applying-cement-on-wall-outdoors-34572320/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_34572320_builder-pointing-at-wall.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_34572320_builder-pointing-at-wall.mp4"
+        },
+        {
+          "id": "pexels_7581343_pointing-at-defect",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-pointing-on-the-plan-7581343/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_7581343_pointing-at-defect.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_7581343_pointing-at-defect.mp4"
+        },
+        {
+          "id": "pexels_8293012_worker-inspecting-crack",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-measuring-height-of-ceiling-8293012/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S12/pexels_8293012_worker-inspecting-crack.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S12/pexels_8293012_worker-inspecting-crack.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Because great teams don't guess \u2014 great teams communicate. Respect, trust, success.",
+      "visual_direction": "Crew together, satisfied, in front of the finished work \u2014 pride, unity. Wide team + warm detail.",
+      "clips": [
+        {
+          "id": "pexels_11798561_happy-construction-crew",
+          "type": "video",
+          "source": "pexels",
+          "author": "manas patra",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/workers-on-construction-11798561/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pexels_11798561_happy-construction-crew.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pexels_11798561_happy-construction-crew.mp4"
+        },
+        {
+          "id": "pexels_6077445_crew-finished-project",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tom  Shamberger",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-truck-paving-a-road-6077445/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pexels_6077445_crew-finished-project.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pexels_6077445_crew-finished-project.mp4"
+        },
+        {
+          "id": "pixabay_121409_finished-building-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-121409/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pixabay_121409_finished-building-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pixabay_121409_finished-building-site.mp4"
+        },
+        {
+          "id": "pixabay_40816_builders-team-photo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pixabay_40816_builders-team-photo.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pixabay_40816_builders-team-photo.mp4"
+        },
+        {
+          "id": "openverse_6e3d318e-8057-4dc5-b047-4583_builders-team-photo",
+          "type": "image",
+          "source": "openverse",
+          "author": "Alan Stanton",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://www.flickr.com/photos/53921762@N00/6230918947",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/openverse_6e3d318e-8057-4dc5-b047-4583_builders-team-photo.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/openverse_6e3d318e-8057-4dc5-b047-4583_builders-team-photo.jpg"
+        },
+        {
+          "id": "pexels_1325717_construction-team-portrait",
+          "type": "image",
+          "source": "pexels",
+          "author": "Jopwell",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/crossed-armed-men-standing-next-to-each-other-1325717/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pexels_1325717_construction-team-portrait.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pexels_1325717_construction-team-portrait.jpg"
+        },
+        {
+          "id": "pexels_8482547_builders-group-smiling",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-real-estate-agent-having-a-deal-with-clients-8482547/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pexels_8482547_builders-group-smiling.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pexels_8482547_builders-group-smiling.jpg"
+        }
+      ]
+    }
+  ]
+}
