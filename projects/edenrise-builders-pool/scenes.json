@@ -1,0 +1,2454 @@
+{
+  "project": "edenrise-builders-pool",
+  "title": "Edenrise Builders Pool",
+  "generated": "2026-07-02",
+  "scenes": [
+    {
+      "id": "P01",
+      "script_line": "",
+      "visual_direction": "Sunrise/morning over a timber-frame house under construction in a green field; builders arriving with tools in warm light; welcoming, aspirational",
+      "clips": [
+        {
+          "id": "pixabay_66810_timber-frame-house-construction",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-66810/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_66810_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_66810_timber-frame-house-construction.mp4"
+        },
+        {
+          "id": "pexels_8821257_timber-frame-house-construction",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-doing-construction-8821257/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_8821257_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_8821257_timber-frame-house-construction.mp4"
+        },
+        {
+          "id": "pixabay_163560_timber-frame-house-construction",
+          "type": "video",
+          "source": "pixabay",
+          "author": "\u5f20\u4ee3\u6dfb",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-163560/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_163560_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_163560_timber-frame-house-construction.mp4"
+        },
+        {
+          "id": "pixabay_206315_construction-site-sunrise-countr",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_206315_construction-site-sunrise-countr.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_206315_construction-site-sunrise-countr.mp4"
+        },
+        {
+          "id": "pexels_30547917_construction-site-sunrise-countr",
+          "type": "video",
+          "source": "pexels",
+          "author": "Piotr Wojnowski",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-quarry-and-farmland-at-sunrise-30547917/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_30547917_construction-site-sunrise-countr.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_30547917_construction-site-sunrise-countr.mp4"
+        },
+        {
+          "id": "pixabay_225740_construction-site-sunrise-countr",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_225740_construction-site-sunrise-countr.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_225740_construction-site-sunrise-countr.mp4"
+        },
+        {
+          "id": "pixabay_40816_builders-arriving-morning-site-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_40816_builders-arriving-morning-site-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_40816_builders-arriving-morning-site-t.mp4"
+        },
+        {
+          "id": "pexels_5434222_builders-arriving-morning-site-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-using-shovels-and-wheelbarrow-5434222/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_5434222_builders-arriving-morning-site-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_5434222_builders-arriving-morning-site-t.mp4"
+        },
+        {
+          "id": "pixabay_276646_builders-arriving-morning-site-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-276646/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_276646_builders-arriving-morning-site-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_276646_builders-arriving-morning-site-t.mp4"
+        },
+        {
+          "id": "pixabay_205921_wooden-house-frame-building-rura",
+          "type": "video",
+          "source": "pixabay",
+          "author": "ryllium_4",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-205921/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_205921_wooden-house-frame-building-rura.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_205921_wooden-house-frame-building-rura.mp4"
+        },
+        {
+          "id": "pexels_6008081_wooden-house-frame-building-rura",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anastasia  Shuraeva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-wooden-house-under-construction-6008081/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_6008081_wooden-house-frame-building-rura.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_6008081_wooden-house-frame-building-rura.mp4"
+        },
+        {
+          "id": "pixabay_151685_wooden-house-frame-building-rura",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Phile-Rain",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-151685/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_151685_wooden-house-frame-building-rura.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_151685_wooden-house-frame-building-rura.mp4"
+        },
+        {
+          "id": "pixabay_188595_carpenter-walking-site-morning-l",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kanenori",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-188595/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_188595_carpenter-walking-site-morning-l.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_188595_carpenter-walking-site-morning-l.mp4"
+        },
+        {
+          "id": "pexels_8829522_carpenter-walking-site-morning-l",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-looking-around-and-at-the-camera-while-sitting-on-a-hanging-wood-8829522/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_8829522_carpenter-walking-site-morning-l.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_8829522_carpenter-walking-site-morning-l.mp4"
+        },
+        {
+          "id": "pixabay_227567_carpenter-walking-site-morning-l",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TatianaTz",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-227567/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_227567_carpenter-walking-site-morning-l.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_227567_carpenter-walking-site-morning-l.mp4"
+        },
+        {
+          "id": "pexels_8491085_timber-frame-house-construction",
+          "type": "image",
+          "source": "pexels",
+          "author": "Saeed Khokhar",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wooden-frame-of-roof-on-concrete-building-8491085/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_8491085_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_8491085_timber-frame-house-construction.jpg"
+        },
+        {
+          "id": "pixabay_252178_timber-frame-house-construction",
+          "type": "image",
+          "source": "pixabay",
+          "author": "johansenaue",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/wooden-frame-construction-flock-house-252178/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_252178_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_252178_timber-frame-house-construction.jpg"
+        },
+        {
+          "id": "wikimedia_137327968_timber-frame-house-construction",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Friedrich Haag",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Barum_Gotenweg_1_001_2023_04_02.jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/wikimedia_137327968_timber-frame-house-construction.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/wikimedia_137327968_timber-frame-house-construction.jpg"
+        },
+        {
+          "id": "pexels_2217214_construction-site-sunrise-countr",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ariel Paredes",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/crane-during-sunset-2217214/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_2217214_construction-site-sunrise-countr.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_2217214_construction-site-sunrise-countr.jpg"
+        },
+        {
+          "id": "pixabay_474792_construction-site-sunrise-countr",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Hans",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/iron-rods-reinforcing-bars-474792/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_474792_construction-site-sunrise-countr.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_474792_construction-site-sunrise-countr.jpg"
+        },
+        {
+          "id": "pexels_8961555_builders-arriving-morning-site-t",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_8961555_builders-arriving-morning-site-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_8961555_builders-arriving-morning-site-t.jpg"
+        },
+        {
+          "id": "pixabay_6544391_builders-arriving-morning-site-t",
+          "type": "image",
+          "source": "pixabay",
+          "author": "3345557",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-builder-tool-construction-6544391/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_6544391_builders-arriving-morning-site-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_6544391_builders-arriving-morning-site-t.jpg"
+        },
+        {
+          "id": "pexels_18413056_wooden-house-frame-building-rura",
+          "type": "image",
+          "source": "pexels",
+          "author": "BenWithLana \u5c0f\u8c46\u5305\u5988\u5988 Lana",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/fence-behind-window-of-house-in-village-18413056/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_18413056_wooden-house-frame-building-rura.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_18413056_wooden-house-frame-building-rura.jpg"
+        },
+        {
+          "id": "pixabay_8202073_wooden-house-frame-building-rura",
+          "type": "image",
+          "source": "pixabay",
+          "author": "lecreusois",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/window-wooden-old-plants-exterior-8202073/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_8202073_wooden-house-frame-building-rura.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_8202073_wooden-house-frame-building-rura.jpg"
+        },
+        {
+          "id": "pexels_8961521_carpenter-walking-site-morning-l",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-in-plaid-long-sleeve-shirt-holding-a-power-tool-8961521/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pexels_8961521_carpenter-walking-site-morning-l.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pexels_8961521_carpenter-walking-site-morning-l.jpg"
+        },
+        {
+          "id": "pixabay_4605202_carpenter-walking-site-morning-l",
+          "type": "image",
+          "source": "pixabay",
+          "author": "zhangliams",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/bridge-morning-calm-lake-sunrise-4605202/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P01/pixabay_4605202_carpenter-walking-site-morning-l.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P01/pixabay_4605202_carpenter-walking-site-morning-l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "script_line": "",
+      "visual_direction": "Two builders talking calmly about the work on site \u2014 over timber, by a frame, pointing at the structure; friendly pair, African workers preferred",
+      "clips": [
+        {
+          "id": "pixabay_206315_two-construction-workers-talking",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_206315_two-construction-workers-talking.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_206315_two-construction-workers-talking.mp4"
+        },
+        {
+          "id": "pexels_8964376_two-construction-workers-talking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_8964376_two-construction-workers-talking.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_8964376_two-construction-workers-talking.mp4"
+        },
+        {
+          "id": "pixabay_225740_two-construction-workers-talking",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_225740_two-construction-workers-talking.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_225740_two-construction-workers-talking.mp4"
+        },
+        {
+          "id": "pixabay_87593_builders-discussing-timber-frame",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87593/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_87593_builders-discussing-timber-frame.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_87593_builders-discussing-timber-frame.mp4"
+        },
+        {
+          "id": "pexels_8821264_builders-discussing-timber-frame",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_8821264_builders-discussing-timber-frame.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_8821264_builders-discussing-timber-frame.mp4"
+        },
+        {
+          "id": "pixabay_40816_builders-discussing-timber-frame",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_40816_builders-discussing-timber-frame.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_40816_builders-discussing-timber-frame.mp4"
+        },
+        {
+          "id": "pixabay_206315_african-construction-workers-tal",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_206315_african-construction-workers-tal.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_206315_african-construction-workers-tal.mp4"
+        },
+        {
+          "id": "pexels_8487866_african-construction-workers-tal",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-talking-at-a-construction-site-8487866/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_8487866_african-construction-workers-tal.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_8487866_african-construction-workers-tal.mp4"
+        },
+        {
+          "id": "pixabay_225740_african-construction-workers-tal",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_225740_african-construction-workers-tal.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_225740_african-construction-workers-tal.mp4"
+        },
+        {
+          "id": "pixabay_23594_carpenter-and-colleague-conversa",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_23594_carpenter-and-colleague-conversa.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_23594_carpenter-and-colleague-conversa.mp4"
+        },
+        {
+          "id": "pexels_7484281_carpenter-and-colleague-conversa",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-carpenters-in-overalls-talking-7484281/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_7484281_carpenter-and-colleague-conversa.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_7484281_carpenter-and-colleague-conversa.mp4"
+        },
+        {
+          "id": "pixabay_180_carpenter-and-colleague-conversa",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Republica",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-180/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_180_carpenter-and-colleague-conversa.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_180_carpenter-and-colleague-conversa.mp4"
+        },
+        {
+          "id": "pexels_19895874_two-construction-workers-talking",
+          "type": "image",
+          "source": "pexels",
+          "author": "ThisIsEngineering",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-and-man-at-construction-site-19895874/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_19895874_two-construction-workers-talking.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_19895874_two-construction-workers-talking.jpg"
+        },
+        {
+          "id": "pixabay_4754309_two-construction-workers-talking",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_4754309_two-construction-workers-talking.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_4754309_two-construction-workers-talking.jpg"
+        },
+        {
+          "id": "pexels_37499254_builders-discussing-timber-frame",
+          "type": "image",
+          "source": "pexels",
+          "author": "SERHAT  TU\u011e",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-worker-inspecting-roof-frame-outdoors-37499254/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_37499254_builders-discussing-timber-frame.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_37499254_builders-discussing-timber-frame.jpg"
+        },
+        {
+          "id": "pixabay_1748305_builders-discussing-timber-frame",
+          "type": "image",
+          "source": "pixabay",
+          "author": "markusspiske",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/axe-wood-chop-wood-chop-hatchet-1748305/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_1748305_builders-discussing-timber-frame.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_1748305_builders-discussing-timber-frame.jpg"
+        },
+        {
+          "id": "pexels_8961146_african-construction-workers-tal",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-woman-wearing-safety-helmets-8961146/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_8961146_african-construction-workers-tal.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_8961146_african-construction-workers-tal.jpg"
+        },
+        {
+          "id": "pixabay_4754309_african-construction-workers-tal",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_4754309_african-construction-workers-tal.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_4754309_african-construction-workers-tal.jpg"
+        },
+        {
+          "id": "pexels_32357250_carpenter-and-colleague-conversa",
+          "type": "image",
+          "source": "pexels",
+          "author": "HONG SON",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/carpenter-working-with-wood-on-industrial-saw-32357250/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pexels_32357250_carpenter-and-colleague-conversa.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pexels_32357250_carpenter-and-colleague-conversa.jpg"
+        },
+        {
+          "id": "pixabay_5022332_carpenter-and-colleague-conversa",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Sunriseforever",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/master-kids-baby-saw-a-hammer-5022332/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P02/pixabay_5022332_carpenter-and-colleague-conversa.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P02/pixabay_5022332_carpenter-and-colleague-conversa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "script_line": "",
+      "visual_direction": "A foreman or master builder showing an apprentice how to do something \u2014 demonstrating a cut, guiding hands, apprentice watching closely",
+      "clips": [
+        {
+          "id": "pixabay_88231_builder-teaching-apprentice-cons",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_88231_builder-teaching-apprentice-cons.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_88231_builder-teaching-apprentice-cons.mp4"
+        },
+        {
+          "id": "pexels_8821264_builder-teaching-apprentice-cons",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_8821264_builder-teaching-apprentice-cons.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_8821264_builder-teaching-apprentice-cons.mp4"
+        },
+        {
+          "id": "pixabay_67460_builder-teaching-apprentice-cons",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-67460/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_67460_builder-teaching-apprentice-cons.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_67460_builder-teaching-apprentice-cons.mp4"
+        },
+        {
+          "id": "pixabay_23594_carpenter-showing-apprentice-tec",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_23594_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_23594_carpenter-showing-apprentice-tec.mp4"
+        },
+        {
+          "id": "pexels_7492602_carpenter-showing-apprentice-tec",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_7492602_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_7492602_carpenter-showing-apprentice-tec.mp4"
+        },
+        {
+          "id": "pixabay_34091_carpenter-showing-apprentice-tec",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_34091_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_34091_carpenter-showing-apprentice-tec.mp4"
+        },
+        {
+          "id": "pexels_8963857_foreman-explaining-worker-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_8963857_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_8963857_foreman-explaining-worker-site.mp4"
+        },
+        {
+          "id": "pixabay_85350_foreman-explaining-worker-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-85350/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_85350_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_85350_foreman-explaining-worker-site.mp4"
+        },
+        {
+          "id": "pexels_32244799_foreman-explaining-worker-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-on-an-elevated-platform-32244799/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_32244799_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_32244799_foreman-explaining-worker-site.mp4"
+        },
+        {
+          "id": "pixabay_73535_master-craftsman-apprentice-wood",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Elf-Moondance",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73535/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_73535_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_73535_master-craftsman-apprentice-wood.mp4"
+        },
+        {
+          "id": "pexels_7479048_master-craftsman-apprentice-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-drilling-a-wood-7479048/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_7479048_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_7479048_master-craftsman-apprentice-wood.mp4"
+        },
+        {
+          "id": "pixabay_166808_master-craftsman-apprentice-wood",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_166808_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_166808_master-craftsman-apprentice-wood.mp4"
+        },
+        {
+          "id": "pexels_8961555_builder-teaching-apprentice-cons",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_8961555_builder-teaching-apprentice-cons.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_8961555_builder-teaching-apprentice-cons.jpg"
+        },
+        {
+          "id": "pixabay_6544391_builder-teaching-apprentice-cons",
+          "type": "image",
+          "source": "pixabay",
+          "author": "3345557",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-builder-tool-construction-6544391/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_6544391_builder-teaching-apprentice-cons.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_6544391_builder-teaching-apprentice-cons.jpg"
+        },
+        {
+          "id": "pexels_7480736_carpenter-showing-apprentice-tec",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/handyman-looking-at-a-wood-plank-7480736/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_7480736_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_7480736_carpenter-showing-apprentice-tec.jpg"
+        },
+        {
+          "id": "pixabay_1560906_carpenter-showing-apprentice-tec",
+          "type": "image",
+          "source": "pixabay",
+          "author": "TwinBerry_Yuii",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/carved-handicraft-carpenter-1560906/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_1560906_carpenter-showing-apprentice-tec.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_1560906_carpenter-showing-apprentice-tec.jpg"
+        },
+        {
+          "id": "pexels_8961025_foreman-explaining-worker-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_8961025_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_8961025_foreman-explaining-worker-site.jpg"
+        },
+        {
+          "id": "wikimedia_80769691_foreman-explaining-worker-site",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Unknown authorUnknown author or not provided",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:MICROWAVE_AND_COMMUNICATIONS_AREA_WITH_FOREMAN_AND_WORKER_-_NARA_-_17500237.jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/wikimedia_80769691_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/wikimedia_80769691_foreman-explaining-worker-site.jpg"
+        },
+        {
+          "id": "pixabay_4754309_foreman-explaining-worker-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_4754309_foreman-explaining-worker-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_4754309_foreman-explaining-worker-site.jpg"
+        },
+        {
+          "id": "pexels_3846255_master-craftsman-apprentice-wood",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/master-showing-apprentice-how-handling-detail-3846255/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pexels_3846255_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pexels_3846255_master-craftsman-apprentice-wood.jpg"
+        },
+        {
+          "id": "pixabay_2392253_master-craftsman-apprentice-wood",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Youngfoto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/wood-carving-craft-wooden-2392253/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P03/pixabay_2392253_master-craftsman-apprentice-wood.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P03/pixabay_2392253_master-craftsman-apprentice-wood.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "script_line": "",
+      "visual_direction": "A single dignified builder \u2014 calm confident portrait at work, inspecting finished work with pride, warm light; African workers preferred",
+      "clips": [
+        {
+          "id": "pixabay_88231_african-builder-portrait-constru",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_88231_african-builder-portrait-constru.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_88231_african-builder-portrait-constru.mp4"
+        },
+        {
+          "id": "pexels_8488312_african-builder-portrait-constru",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-wearing-ear-plugs-8488312/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_8488312_african-builder-portrait-constru.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_8488312_african-builder-portrait-constru.mp4"
+        },
+        {
+          "id": "pixabay_3741_african-builder-portrait-constru",
+          "type": "video",
+          "source": "pixabay",
+          "author": "bellergy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3741/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_3741_african-builder-portrait-constru.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_3741_african-builder-portrait-constru.mp4"
+        },
+        {
+          "id": "pixabay_23594_carpenter-proud-finished-work-sm",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_23594_carpenter-proud-finished-work-sm.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_23594_carpenter-proud-finished-work-sm.mp4"
+        },
+        {
+          "id": "pexels_20374770_carpenter-proud-finished-work-sm",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nishant Aneja",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-is-sanding-wood-with-a-sander-20374770/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_20374770_carpenter-proud-finished-work-sm.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_20374770_carpenter-proud-finished-work-sm.mp4"
+        },
+        {
+          "id": "pixabay_4973_carpenter-proud-finished-work-sm",
+          "type": "video",
+          "source": "pixabay",
+          "author": "klimkin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-4973/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_4973_carpenter-proud-finished-work-sm.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_4973_carpenter-proud-finished-work-sm.mp4"
+        },
+        {
+          "id": "pixabay_40813_construction-worker-portrait-dig",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40813/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_40813_construction-worker-portrait-dig.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_40813_construction-worker-portrait-dig.mp4"
+        },
+        {
+          "id": "pexels_5083294_construction-worker-portrait-dig",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-in-white-shirt-looking-at-the-camera-5083294/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_5083294_construction-worker-portrait-dig.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_5083294_construction-worker-portrait-dig.mp4"
+        },
+        {
+          "id": "pixabay_42923_construction-worker-portrait-dig",
+          "type": "video",
+          "source": "pixabay",
+          "author": "chuduyen215",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42923/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_42923_construction-worker-portrait-dig.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_42923_construction-worker-portrait-dig.mp4"
+        },
+        {
+          "id": "pixabay_88231_builder-inspecting-finished-hous",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_88231_builder-inspecting-finished-hous.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_88231_builder-inspecting-finished-hous.mp4"
+        },
+        {
+          "id": "pexels_8829702_builder-inspecting-finished-hous",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-walking-in-the-construction-site-8829702/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_8829702_builder-inspecting-finished-hous.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_8829702_builder-inspecting-finished-hous.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-inspecting-finished-hous",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_40816_builder-inspecting-finished-hous.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_40816_builder-inspecting-finished-hous.mp4"
+        },
+        {
+          "id": "pexels_37556462_african-builder-portrait-constru",
+          "type": "image",
+          "source": "pexels",
+          "author": "Galib Rahman Nadim",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-worker-smiling-in-safety-gear-holding-tool-37556462/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_37556462_african-builder-portrait-constru.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_37556462_african-builder-portrait-constru.jpg"
+        },
+        {
+          "id": "pixabay_800996_african-builder-portrait-constru",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Didgeman",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/excavator-construction-site-vehicle-800996/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_800996_african-builder-portrait-constru.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_800996_african-builder-portrait-constru.jpg"
+        },
+        {
+          "id": "pexels_30907892_carpenter-proud-finished-work-sm",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u0110\u1eadu Photograph",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-craftsman-using-hand-tool-in-workshop-30907892/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_30907892_carpenter-proud-finished-work-sm.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_30907892_carpenter-proud-finished-work-sm.jpg"
+        },
+        {
+          "id": "pixabay_2209756_carpenter-proud-finished-work-sm",
+          "type": "image",
+          "source": "pixabay",
+          "author": "wohnblogAt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tools-work-craft-carpenter-wood-2209756/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_2209756_carpenter-proud-finished-work-sm.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_2209756_carpenter-proud-finished-work-sm.jpg"
+        },
+        {
+          "id": "pexels_8961524_construction-worker-portrait-dig",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-wearing-gloves-8961524/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_8961524_construction-worker-portrait-dig.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_8961524_construction-worker-portrait-dig.jpg"
+        },
+        {
+          "id": "pixabay_4754309_construction-worker-portrait-dig",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_4754309_construction-worker-portrait-dig.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_4754309_construction-worker-portrait-dig.jpg"
+        },
+        {
+          "id": "pexels_8961300_builder-inspecting-finished-hous",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-people-checking-on-a-construction-project-8961300/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pexels_8961300_builder-inspecting-finished-hous.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pexels_8961300_builder-inspecting-finished-hous.jpg"
+        },
+        {
+          "id": "pixabay_2897352_builder-inspecting-finished-hous",
+          "type": "image",
+          "source": "pixabay",
+          "author": "paulbr75",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/new-home-construction-builder-2897352/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P04/pixabay_2897352_builder-inspecting-finished-hous.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P04/pixabay_2897352_builder-inspecting-finished-hous.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P05",
+      "script_line": "",
+      "visual_direction": "A young builder watching carefully then trying \u2014 observing a technique, studying the work, hands-on learning on site",
+      "clips": [
+        {
+          "id": "pixabay_23594_apprentice-watching-carpenter-wo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_23594_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_23594_apprentice-watching-carpenter-wo.mp4"
+        },
+        {
+          "id": "pexels_7492602_apprentice-watching-carpenter-wo",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_7492602_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_7492602_apprentice-watching-carpenter-wo.mp4"
+        },
+        {
+          "id": "pixabay_4973_apprentice-watching-carpenter-wo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "klimkin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-4973/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_4973_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_4973_apprentice-watching-carpenter-wo.mp4"
+        },
+        {
+          "id": "pixabay_88231_young-builder-learning-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_88231_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_88231_young-builder-learning-site.mp4"
+        },
+        {
+          "id": "pexels_34528209_young-builder-learning-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jay's Photography",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-construction-site-overview-with-machinery-34528209/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_34528209_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_34528209_young-builder-learning-site.mp4"
+        },
+        {
+          "id": "pixabay_42923_young-builder-learning-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "chuduyen215",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42923/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_42923_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_42923_young-builder-learning-site.mp4"
+        },
+        {
+          "id": "pixabay_34091_trainee-observing-construction-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_34091_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_34091_trainee-observing-construction-t.mp4"
+        },
+        {
+          "id": "pexels_8965437_trainee-observing-construction-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-checking-the-walls-of-a-house-8965437/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_8965437_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_8965437_trainee-observing-construction-t.mp4"
+        },
+        {
+          "id": "pixabay_3741_trainee-observing-construction-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "bellergy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3741/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_3741_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_3741_trainee-observing-construction-t.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-studying-plans-on-site-ou",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_271463_worker-studying-plans-on-site-ou.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_271463_worker-studying-plans-on-site-ou.mp4"
+        },
+        {
+          "id": "pexels_8964376_worker-studying-plans-on-site-ou",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_8964376_worker-studying-plans-on-site-ou.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_8964376_worker-studying-plans-on-site-ou.mp4"
+        },
+        {
+          "id": "pixabay_42923_worker-studying-plans-on-site-ou",
+          "type": "video",
+          "source": "pixabay",
+          "author": "chuduyen215",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42923/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_42923_worker-studying-plans-on-site-ou.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_42923_worker-studying-plans-on-site-ou.mp4"
+        },
+        {
+          "id": "pexels_7480736_apprentice-watching-carpenter-wo",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/handyman-looking-at-a-wood-plank-7480736/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_7480736_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_7480736_apprentice-watching-carpenter-wo.jpg"
+        },
+        {
+          "id": "pixabay_2209756_apprentice-watching-carpenter-wo",
+          "type": "image",
+          "source": "pixabay",
+          "author": "wohnblogAt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tools-work-craft-carpenter-wood-2209756/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_2209756_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_2209756_apprentice-watching-carpenter-wo.jpg"
+        },
+        {
+          "id": "wikimedia_133425694_apprentice-watching-carpenter-wo",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Erica (Thorp) de Berry (1890-1943)",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_29_September_1918_(218dd152-66aa-4d77-8dcf-fd627f736839).jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/wikimedia_133425694_apprentice-watching-carpenter-wo.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/wikimedia_133425694_apprentice-watching-carpenter-wo.jpg"
+        },
+        {
+          "id": "pixabay_2213259_young-builder-learning-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Anemone123",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/girlfriends-friendship-hug-trust-2213259/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_2213259_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_2213259_young-builder-learning-site.jpg"
+        },
+        {
+          "id": "pexels_27738388_young-builder-learning-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Polesie Toys",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-young-boy-is-working-on-a-green-toolbox-27738388/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_27738388_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_27738388_young-builder-learning-site.jpg"
+        },
+        {
+          "id": "wikimedia_50757508_young-builder-learning-site",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Robert Cutts from Bristol, England, UK",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:The_Vaughan_Library,_Harrow_School_(6606031965).jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/wikimedia_50757508_young-builder-learning-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/wikimedia_50757508_young-builder-learning-site.jpg"
+        },
+        {
+          "id": "pexels_33698982_trainee-observing-construction-t",
+          "type": "image",
+          "source": "pexels",
+          "author": "tuan pans",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/community-building-project-in-south-sulawesi-33698982/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_33698982_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_33698982_trainee-observing-construction-t.jpg"
+        },
+        {
+          "id": "pixabay_7913385_trainee-observing-construction-t",
+          "type": "image",
+          "source": "pixabay",
+          "author": "TheOtherKev",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/welding-wheel-repair-weld-tig-mend-7913385/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_7913385_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_7913385_trainee-observing-construction-t.jpg"
+        },
+        {
+          "id": "openverse_cd5730ac-af7e-4e76-b68b-a09c_trainee-observing-construction-t",
+          "type": "image",
+          "source": "openverse",
+          "author": "ResoluteSupportMedia",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/29456680@N06/6285934596",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/openverse_cd5730ac-af7e-4e76-b68b-a09c_trainee-observing-construction-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/openverse_cd5730ac-af7e-4e76-b68b-a09c_trainee-observing-construction-t.jpg"
+        },
+        {
+          "id": "pexels_19895874_worker-studying-plans-on-site-ou",
+          "type": "image",
+          "source": "pexels",
+          "author": "ThisIsEngineering",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-and-man-at-construction-site-19895874/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pexels_19895874_worker-studying-plans-on-site-ou.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pexels_19895874_worker-studying-plans-on-site-ou.jpg"
+        },
+        {
+          "id": "pixabay_2739190_worker-studying-plans-on-site-ou",
+          "type": "image",
+          "source": "pixabay",
+          "author": "igorovsyannykov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/accuracy-apartment-blocks-apartments-2739190/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P05/pixabay_2739190_worker-studying-plans-on-site-ou.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P05/pixabay_2739190_worker-studying-plans-on-site-ou.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "script_line": "",
+      "visual_direction": "A worker walking across the site to a colleague/foreman for a quick word; showing progress on the structure; brief and friendly",
+      "clips": [
+        {
+          "id": "pixabay_206315_worker-walking-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_206315_worker-walking-construction-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_206315_worker-walking-construction-site.mp4"
+        },
+        {
+          "id": "pexels_5434220_worker-walking-construction-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_5434220_worker-walking-construction-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_5434220_worker-walking-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_225740_worker-walking-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_225740_worker-walking-construction-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_225740_worker-walking-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_88231_builder-showing-progress-foreman",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_88231_builder-showing-progress-foreman.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_88231_builder-showing-progress-foreman.mp4"
+        },
+        {
+          "id": "pexels_5423610_builder-showing-progress-foreman",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-construction-worker-walking-inside-a-building-5423610/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_5423610_builder-showing-progress-foreman.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_5423610_builder-showing-progress-foreman.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-showing-progress-foreman",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_40816_builder-showing-progress-foreman.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_40816_builder-showing-progress-foreman.mp4"
+        },
+        {
+          "id": "pexels_5434220_two-builders-walking-site-talkin",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_5434220_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_5434220_two-builders-walking-site-talkin.mp4"
+        },
+        {
+          "id": "pixabay_42923_two-builders-walking-site-talkin",
+          "type": "video",
+          "source": "pixabay",
+          "author": "chuduyen215",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42923/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_42923_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_42923_two-builders-walking-site-talkin.mp4"
+        },
+        {
+          "id": "pexels_8487122_two-builders-walking-site-talkin",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-working-at-a-construction-site-8487122/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_8487122_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_8487122_two-builders-walking-site-talkin.mp4"
+        },
+        {
+          "id": "pixabay_40813_construction-workers-brief-conve",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40813/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_40813_construction-workers-brief-conve.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_40813_construction-workers-brief-conve.mp4"
+        },
+        {
+          "id": "pexels_8964378_construction-workers-brief-conve",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-having-a-discussion-8964378/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_8964378_construction-workers-brief-conve.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_8964378_construction-workers-brief-conve.mp4"
+        },
+        {
+          "id": "pixabay_42923_construction-workers-brief-conve",
+          "type": "video",
+          "source": "pixabay",
+          "author": "chuduyen215",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-42923/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_42923_construction-workers-brief-conve.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_42923_construction-workers-brief-conve.mp4"
+        },
+        {
+          "id": "pexels_8961068_worker-walking-construction-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-with-yellow-hardhat-smiling-at-a-woman-with-ppe-8961068/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_8961068_worker-walking-construction-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_8961068_worker-walking-construction-site.jpg"
+        },
+        {
+          "id": "pixabay_4754309_worker-walking-construction-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_4754309_worker-walking-construction-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_4754309_worker-walking-construction-site.jpg"
+        },
+        {
+          "id": "pexels_32718669_builder-showing-progress-foreman",
+          "type": "image",
+          "source": "pexels",
+          "author": "CK Seng",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-site-with-workers-and-van-32718669/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_32718669_builder-showing-progress-foreman.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_32718669_builder-showing-progress-foreman.jpg"
+        },
+        {
+          "id": "pixabay_2762342_builder-showing-progress-foreman",
+          "type": "image",
+          "source": "pixabay",
+          "author": "jarmoluk",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/building-professional-employee-2762342/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_2762342_builder-showing-progress-foreman.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_2762342_builder-showing-progress-foreman.jpg"
+        },
+        {
+          "id": "pexels_8961030_two-builders-walking-site-talkin",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-hard-hats-talking-at-the-construction-site-8961030/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_8961030_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_8961030_two-builders-walking-site-talkin.jpg"
+        },
+        {
+          "id": "pixabay_1212472_two-builders-walking-site-talkin",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Tama66",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/excavator-construction-machine-1212472/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_1212472_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_1212472_two-builders-walking-site-talkin.jpg"
+        },
+        {
+          "id": "openverse_304df02c-e42f-4887-bbbd-f37c_two-builders-walking-site-talkin",
+          "type": "image",
+          "source": "openverse",
+          "author": "THIRDSTONE",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/49786247@N06/49318816457",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/openverse_304df02c-e42f-4887-bbbd-f37c_two-builders-walking-site-talkin.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/openverse_304df02c-e42f-4887-bbbd-f37c_two-builders-walking-site-talkin.jpg"
+        },
+        {
+          "id": "pexels_8961071_construction-workers-brief-conve",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-blue-long-sleeve-shirt-wearing-white-hard-hat-holding-white-clipboard-8961071/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pexels_8961071_construction-workers-brief-conve.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pexels_8961071_construction-workers-brief-conve.jpg"
+        },
+        {
+          "id": "pixabay_8400990_construction-workers-brief-conve",
+          "type": "image",
+          "source": "pixabay",
+          "author": "KVNSBL",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/crane-construction-site-8400990/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P06/pixabay_8400990_construction-workers-brief-conve.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P06/pixabay_8400990_construction-workers-brief-conve.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P07",
+      "script_line": "",
+      "visual_direction": "Two builders inspecting an issue together \u2014 checking a level, re-measuring a beam, heads together over the work",
+      "clips": [
+        {
+          "id": "pixabay_88231_builders-checking-spirit-level-w",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Digital_Expert",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-88231/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_88231_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_88231_builders-checking-spirit-level-w.mp4"
+        },
+        {
+          "id": "pexels_8482328_builders-checking-spirit-level-w",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-spirit-level-on-the-wall-8482328/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_8482328_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_8482328_builders-checking-spirit-level-w.mp4"
+        },
+        {
+          "id": "pixabay_40816_builders-checking-spirit-level-w",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_40816_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_40816_builders-checking-spirit-level-w.mp4"
+        },
+        {
+          "id": "pixabay_23594_two-carpenters-measuring-beam-to",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_23594_two-carpenters-measuring-beam-to.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_23594_two-carpenters-measuring-beam-to.mp4"
+        },
+        {
+          "id": "pexels_7314252_two-carpenters-measuring-beam-to",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-marking-a-wooden-plank-7314252/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_7314252_two-carpenters-measuring-beam-to.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_7314252_two-carpenters-measuring-beam-to.mp4"
+        },
+        {
+          "id": "pixabay_166808_two-carpenters-measuring-beam-to",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_166808_two-carpenters-measuring-beam-to.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_166808_two-carpenters-measuring-beam-to.mp4"
+        },
+        {
+          "id": "pixabay_206315_construction-workers-inspecting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_206315_construction-workers-inspecting.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_206315_construction-workers-inspecting.mp4"
+        },
+        {
+          "id": "pexels_8964793_construction-workers-inspecting",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_8964793_construction-workers-inspecting.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_8964793_construction-workers-inspecting.mp4"
+        },
+        {
+          "id": "pixabay_225740_construction-workers-inspecting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_225740_construction-workers-inspecting.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_225740_construction-workers-inspecting.mp4"
+        },
+        {
+          "id": "pixabay_23594_carpenter-checking-measurement-w",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_23594_carpenter-checking-measurement-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_23594_carpenter-checking-measurement-w.mp4"
+        },
+        {
+          "id": "pexels_20184480_carpenter-checking-measurement-w",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/measuring-wood-for-cutting-20184480/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_20184480_carpenter-checking-measurement-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_20184480_carpenter-checking-measurement-w.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-checking-measurement-w",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_166808_carpenter-checking-measurement-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_166808_carpenter-checking-measurement-w.mp4"
+        },
+        {
+          "id": "pexels_8470044_builders-checking-spirit-level-w",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-in-black-long-sleeves-checking-the-white-wall-using-spirit-level-8470044/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_8470044_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_8470044_builders-checking-spirit-level-w.jpg"
+        },
+        {
+          "id": "pixabay_7630754_builders-checking-spirit-level-w",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Kranich17",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/christmas-time-christmas-screws-7630754/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_7630754_builders-checking-spirit-level-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_7630754_builders-checking-spirit-level-w.jpg"
+        },
+        {
+          "id": "pexels_9051124_two-carpenters-measuring-beam-to",
+          "type": "image",
+          "source": "pexels",
+          "author": "Musa Ouizo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-men-building-a-structure-9051124/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_9051124_two-carpenters-measuring-beam-to.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_9051124_two-carpenters-measuring-beam-to.jpg"
+        },
+        {
+          "id": "pixabay_3471540_two-carpenters-measuring-beam-to",
+          "type": "image",
+          "source": "pixabay",
+          "author": "MabelAmber",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/person-people-woman-man-couple-3471540/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_3471540_two-carpenters-measuring-beam-to.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_3471540_two-carpenters-measuring-beam-to.jpg"
+        },
+        {
+          "id": "pexels_8961034_construction-workers-inspecting",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-ppe-s-at-a-construction-site-8961034/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_8961034_construction-workers-inspecting.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_8961034_construction-workers-inspecting.jpg"
+        },
+        {
+          "id": "pixabay_4754309_construction-workers-inspecting",
+          "type": "image",
+          "source": "pixabay",
+          "author": "phooto",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-worker-4754309/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_4754309_construction-workers-inspecting.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_4754309_construction-workers-inspecting.jpg"
+        },
+        {
+          "id": "pexels_7285915_carpenter-checking-measurement-w",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-wearing-black-gloves-7285915/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pexels_7285915_carpenter-checking-measurement-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pexels_7285915_carpenter-checking-measurement-w.jpg"
+        },
+        {
+          "id": "pixabay_2209756_carpenter-checking-measurement-w",
+          "type": "image",
+          "source": "pixabay",
+          "author": "wohnblogAt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tools-work-craft-carpenter-wood-2209756/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P07/pixabay_2209756_carpenter-checking-measurement-w.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P07/pixabay_2209756_carpenter-checking-measurement-w.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P08",
+      "script_line": "",
+      "visual_direction": "Close dignified hands at builder craft \u2014 hammering a nail, sawing, driving a screw, laying a brick with a trowel",
+      "clips": [
+        {
+          "id": "pixabay_73847_hammering-nail-wood-hands-closeu",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_73847_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_73847_hammering-nail-wood-hands-closeu.mp4"
+        },
+        {
+          "id": "pexels_8447829_hammering-nail-wood-hands-closeu",
+          "type": "video",
+          "source": "pexels",
+          "author": "Los Muertos Crew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-hammering-a-nail-8447829/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_8447829_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_8447829_hammering-nail-wood-hands-closeu.mp4"
+        },
+        {
+          "id": "pixabay_34091_hammering-nail-wood-hands-closeu",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_34091_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_34091_hammering-nail-wood-hands-closeu.mp4"
+        },
+        {
+          "id": "pixabay_118591_hand-sawing-timber-closeup",
+          "type": "video",
+          "source": "pixabay",
+          "author": "blackmarketmusic",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-118591/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_118591_hand-sawing-timber-closeup.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_118591_hand-sawing-timber-closeup.mp4"
+        },
+        {
+          "id": "pexels_15804506_hand-sawing-timber-closeup",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tan Danh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/nature-15804506/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_15804506_hand-sawing-timber-closeup.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_15804506_hand-sawing-timber-closeup.mp4"
+        },
+        {
+          "id": "pixabay_73847_hand-sawing-timber-closeup",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_73847_hand-sawing-timber-closeup.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_73847_hand-sawing-timber-closeup.mp4"
+        },
+        {
+          "id": "pixabay_73847_laying-bricks-trowel-hands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_73847_laying-bricks-trowel-hands.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_73847_laying-bricks-trowel-hands.mp4"
+        },
+        {
+          "id": "pexels_11355903_laying-bricks-trowel-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "khanhhoangminh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-on-construction-11355903/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_11355903_laying-bricks-trowel-hands.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_11355903_laying-bricks-trowel-hands.mp4"
+        },
+        {
+          "id": "pixabay_34091_laying-bricks-trowel-hands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_34091_laying-bricks-trowel-hands.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_34091_laying-bricks-trowel-hands.mp4"
+        },
+        {
+          "id": "pixabay_73847_drilling-screw-wood-gloved-hand",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_73847_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_73847_drilling-screw-wood-gloved-hand.mp4"
+        },
+        {
+          "id": "pexels_7314251_drilling-screw-wood-gloved-hand",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/video-of-a-man-putting-hinge-7314251/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_7314251_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_7314251_drilling-screw-wood-gloved-hand.mp4"
+        },
+        {
+          "id": "pixabay_65594_drilling-screw-wood-gloved-hand",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kmeel_com",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-65594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_65594_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_65594_drilling-screw-wood-gloved-hand.mp4"
+        },
+        {
+          "id": "pixabay_6674618_hammering-nail-wood-hands-closeu",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Engin_Akyurt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/nail-metal-rust-iron-rusty-wall-6674618/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_6674618_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_6674618_hammering-nail-wood-hands-closeu.jpg"
+        },
+        {
+          "id": "pexels_6920074_hammering-nail-wood-hands-closeu",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-hammering-a-nail-6920074/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_6920074_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_6920074_hammering-nail-wood-hands-closeu.jpg"
+        },
+        {
+          "id": "met_206965_hammering-nail-wood-hands-closeu",
+          "type": "image",
+          "source": "met",
+          "author": "Ferdinand Berthoud",
+          "license": "Public Domain (CC0)",
+          "page_url": "https://www.metmuseum.org/art/collection/search/206965",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/met_206965_hammering-nail-wood-hands-closeu.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/met_206965_hammering-nail-wood-hands-closeu.jpg"
+        },
+        {
+          "id": "pexels_30592259_hand-sawing-timber-closeup",
+          "type": "image",
+          "source": "pexels",
+          "author": "Infinity lifespaces",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-carpenter-using-hand-saw-on-wood-30592259/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_30592259_hand-sawing-timber-closeup.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_30592259_hand-sawing-timber-closeup.jpg"
+        },
+        {
+          "id": "pixabay_3258504_hand-sawing-timber-closeup",
+          "type": "image",
+          "source": "pixabay",
+          "author": "MabelAmber",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tree-chopped-cut-log-year-rings-3258504/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_3258504_hand-sawing-timber-closeup.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_3258504_hand-sawing-timber-closeup.jpg"
+        },
+        {
+          "id": "pixabay_1869621_laying-bricks-trowel-hands",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/adult-alone-bible-denim-pants-1869621/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_1869621_laying-bricks-trowel-hands.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_1869621_laying-bricks-trowel-hands.jpg"
+        },
+        {
+          "id": "pexels_19688828_laying-bricks-trowel-hands",
+          "type": "image",
+          "source": "pexels",
+          "author": "GOWTHAM AGM",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-man-building-bricks-wall-19688828/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_19688828_laying-bricks-trowel-hands.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_19688828_laying-bricks-trowel-hands.jpg"
+        },
+        {
+          "id": "pexels_7285924_drilling-screw-wood-gloved-hand",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-drilling-a-screw-7285924/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_7285924_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_7285924_drilling-screw-wood-gloved-hand.jpg"
+        },
+        {
+          "id": "pixabay_880735_drilling-screw-wood-gloved-hand",
+          "type": "image",
+          "source": "pixabay",
+          "author": "stevepb",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/confused-muddled-illogical-880735/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pixabay_880735_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pixabay_880735_drilling-screw-wood-gloved-hand.jpg"
+        },
+        {
+          "id": "pexels_8821531_drilling-screw-wood-gloved-hand",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-using-a-carpentry-power-tool-8821531/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P08/pexels_8821531_drilling-screw-wood-gloved-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P08/pexels_8821531_drilling-screw-wood-gloved-hand.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P09",
+      "script_line": "",
+      "visual_direction": "A small building crew working together \u2014 lifting a beam as a pair, raising a frame wall, passing materials; cooperative, positive",
+      "clips": [
+        {
+          "id": "pixabay_245932_builders-lifting-beam-together-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "xBriantcx",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-245932/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_245932_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_245932_builders-lifting-beam-together-t.mp4"
+        },
+        {
+          "id": "pexels_8818338_builders-lifting-beam-together-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_8818338_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_8818338_builders-lifting-beam-together-t.mp4"
+        },
+        {
+          "id": "pixabay_1009_builders-lifting-beam-together-t",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-1009/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_1009_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_1009_builders-lifting-beam-together-t.mp4"
+        },
+        {
+          "id": "pixabay_199127_crew-raising-timber-frame-wall",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-199127/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_199127_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_199127_crew-raising-timber-frame-wall.mp4"
+        },
+        {
+          "id": "pexels_8829525_crew-raising-timber-frame-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-going-down-in-the-construction-site-8829525/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_8829525_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_8829525_crew-raising-timber-frame-wall.mp4"
+        },
+        {
+          "id": "pixabay_31851_crew-raising-timber-frame-wall",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ceos_Stock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-31851/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_31851_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_31851_crew-raising-timber-frame-wall.mp4"
+        },
+        {
+          "id": "pexels_8818344_construction-team-working-togeth",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-person-cutting-the-wood-8818344/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_8818344_construction-team-working-togeth.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_8818344_construction-team-working-togeth.mp4"
+        },
+        {
+          "id": "pixabay_3741_construction-team-working-togeth",
+          "type": "video",
+          "source": "pixabay",
+          "author": "bellergy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3741/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_3741_construction-team-working-togeth.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_3741_construction-team-working-togeth.mp4"
+        },
+        {
+          "id": "archive_a-better-tomorrow-a-better-t_construction-team-working-togeth",
+          "type": "video",
+          "source": "archive",
+          "author": "\u82f1\u96c4\u672c\u8272 A Better Tomorrow & A Better Tomorrow II (English Dubbed)",
+          "license": "CC BY 4.0",
+          "page_url": "https://archive.org/details/a-better-tomorrow-a-better-tomorrow-ii-english-dubbed",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/archive_a-better-tomorrow-a-better-t_construction-team-working-togeth.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/archive_a-better-tomorrow-a-better-t_construction-team-working-togeth.mp4"
+        },
+        {
+          "id": "pixabay_98661_two-workers-carrying-wood-plank",
+          "type": "video",
+          "source": "pixabay",
+          "author": "ChristianBodhi",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-98661/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_98661_two-workers-carrying-wood-plank.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_98661_two-workers-carrying-wood-plank.mp4"
+        },
+        {
+          "id": "pexels_8818338_two-workers-carrying-wood-plank",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_8818338_two-workers-carrying-wood-plank.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_8818338_two-workers-carrying-wood-plank.mp4"
+        },
+        {
+          "id": "pixabay_271463_two-workers-carrying-wood-plank",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_271463_two-workers-carrying-wood-plank.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_271463_two-workers-carrying-wood-plank.mp4"
+        },
+        {
+          "id": "pixabay_1181982_builders-lifting-beam-together-t",
+          "type": "image",
+          "source": "pixabay",
+          "author": "danisampa",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-construction-workers-1181982/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_1181982_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_1181982_builders-lifting-beam-together-t.jpg"
+        },
+        {
+          "id": "pexels_29274538_builders-lifting-beam-together-t",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sergei Starostin",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-workers-on-steel-frame-structure-29274538/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_29274538_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_29274538_builders-lifting-beam-together-t.jpg"
+        },
+        {
+          "id": "pexels_38210423_crew-raising-timber-frame-wall",
+          "type": "image",
+          "source": "pexels",
+          "author": "D Goug",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/new-residential-housing-development-under-construction-38210423/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_38210423_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_38210423_crew-raising-timber-frame-wall.jpg"
+        },
+        {
+          "id": "pixabay_1868498_crew-raising-timber-frame-wall",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/frame-border-desk-picture-frame-1868498/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_1868498_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_1868498_crew-raising-timber-frame-wall.jpg"
+        },
+        {
+          "id": "wikimedia_95787975_crew-raising-timber-frame-wall",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "LadyDragonflyCC - &gt;;&lt;",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Manistee_North_Pierhead_Lighthouse_(6054317677).jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/wikimedia_95787975_crew-raising-timber-frame-wall.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/wikimedia_95787975_crew-raising-timber-frame-wall.jpg"
+        },
+        {
+          "id": "pexels_35106289_construction-team-working-togeth",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u0110\u1eadu Photograph",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/teamwork-in-action-on-a-construction-site-35106289/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_35106289_construction-team-working-togeth.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_35106289_construction-team-working-togeth.jpg"
+        },
+        {
+          "id": "pixabay_4946179_construction-team-working-togeth",
+          "type": "image",
+          "source": "pixabay",
+          "author": "educadormarcossv",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/together-working-as-a-team-diversity-4946179/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_4946179_construction-team-working-togeth.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_4946179_construction-team-working-togeth.jpg"
+        },
+        {
+          "id": "pexels_8961624_two-workers-carrying-wood-plank",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-in-black-shirt-carrying-wooden-planks-8961624/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pexels_8961624_two-workers-carrying-wood-plank.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pexels_8961624_two-workers-carrying-wood-plank.jpg"
+        },
+        {
+          "id": "pixabay_3094035_two-workers-carrying-wood-plank",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Alexas_Fotos",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/handyman-construction-site-workers-3094035/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P09/pixabay_3094035_two-workers-carrying-wood-plank.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P09/pixabay_3094035_two-workers-carrying-wood-plank.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "script_line": "",
+      "visual_direction": "A builder caring for tools \u2014 cleaning a saw/trowel, sharpening a chisel, hanging tools neatly on a workshop wall; ordered workbench",
+      "clips": [
+        {
+          "id": "pixabay_23594_carpenter-sharpening-chisel-hand",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_23594_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_23594_carpenter-sharpening-chisel-hand.mp4"
+        },
+        {
+          "id": "pexels_5967508_carpenter-sharpening-chisel-hand",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-sharpening-a-chisel-5967508/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_5967508_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_5967508_carpenter-sharpening-chisel-hand.mp4"
+        },
+        {
+          "id": "pixabay_166808_carpenter-sharpening-chisel-hand",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_166808_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_166808_carpenter-sharpening-chisel-hand.mp4"
+        },
+        {
+          "id": "pixabay_276646_cleaning-construction-tools-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-276646/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_276646_cleaning-construction-tools-work.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_276646_cleaning-construction-tools-work.mp4"
+        },
+        {
+          "id": "pexels_7314024_cleaning-construction-tools-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woodwork-project-7314024/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_7314024_cleaning-construction-tools-work.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_7314024_cleaning-construction-tools-work.mp4"
+        },
+        {
+          "id": "pixabay_115792_cleaning-construction-tools-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-115792/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_115792_cleaning-construction-tools-work.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_115792_cleaning-construction-tools-work.mp4"
+        },
+        {
+          "id": "pixabay_276646_tools-organized-workshop-wall-ca",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-276646/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_276646_tools-organized-workshop-wall-ca.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_276646_tools-organized-workshop-wall-ca.mp4"
+        },
+        {
+          "id": "pexels_7484778_tools-organized-workshop-wall-ca",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-hanging-on-a-wall-7484778/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_7484778_tools-organized-workshop-wall-ca.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_7484778_tools-organized-workshop-wall-ca.mp4"
+        },
+        {
+          "id": "pixabay_23594_tools-organized-workshop-wall-ca",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_23594_tools-organized-workshop-wall-ca.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_23594_tools-organized-workshop-wall-ca.mp4"
+        },
+        {
+          "id": "pixabay_206029_tidy-workbench-woodworking-shop",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Tailorcafe",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206029/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_206029_tidy-workbench-woodworking-shop.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_206029_tidy-workbench-woodworking-shop.mp4"
+        },
+        {
+          "id": "pexels_5967509_tidy-workbench-woodworking-shop",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-holding-tools-5967509/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_5967509_tidy-workbench-woodworking-shop.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_5967509_tidy-workbench-woodworking-shop.mp4"
+        },
+        {
+          "id": "pixabay_6387_tidy-workbench-woodworking-shop",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-6387/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_6387_tidy-workbench-woodworking-shop.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_6387_tidy-workbench-woodworking-shop.mp4"
+        },
+        {
+          "id": "pexels_5974285_carpenter-sharpening-chisel-hand",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woodworker-cutting-wood-with-knife-in-workshop-5974285/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_5974285_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_5974285_carpenter-sharpening-chisel-hand.jpg"
+        },
+        {
+          "id": "pixabay_2268291_carpenter-sharpening-chisel-hand",
+          "type": "image",
+          "source": "pixabay",
+          "author": "JackRPierce",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/wood-carpentry-file-carpenter-work-2268291/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_2268291_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_2268291_carpenter-sharpening-chisel-hand.jpg"
+        },
+        {
+          "id": "met_204587_carpenter-sharpening-chisel-hand",
+          "type": "image",
+          "source": "met",
+          "author": "Antico (Pier Jacopo Alari Bonacolsi)",
+          "license": "Public Domain (CC0)",
+          "page_url": "https://www.metmuseum.org/art/collection/search/204587",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/met_204587_carpenter-sharpening-chisel-hand.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/met_204587_carpenter-sharpening-chisel-hand.jpg"
+        },
+        {
+          "id": "pixabay_5736096_cleaning-construction-tools-work",
+          "type": "image",
+          "source": "pixabay",
+          "author": "jannonivergall",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-grinder-factory-workplace-5736096/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_5736096_cleaning-construction-tools-work.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_5736096_cleaning-construction-tools-work.jpg"
+        },
+        {
+          "id": "pexels_5846253_cleaning-construction-tools-work",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-variety-of-tools-at-a-workshop-5846253/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_5846253_cleaning-construction-tools-work.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_5846253_cleaning-construction-tools-work.jpg"
+        },
+        {
+          "id": "pexels_15060421_tools-organized-workshop-wall-ca",
+          "type": "image",
+          "source": "pexels",
+          "author": "Collab Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-wall-with-many-different-tools-hanging-on-it-15060421/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_15060421_tools-organized-workshop-wall-ca.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_15060421_tools-organized-workshop-wall-ca.jpg"
+        },
+        {
+          "id": "pixabay_2209756_tools-organized-workshop-wall-ca",
+          "type": "image",
+          "source": "pixabay",
+          "author": "wohnblogAt",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tools-work-craft-carpenter-wood-2209756/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_2209756_tools-organized-workshop-wall-ca.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_2209756_tools-organized-workshop-wall-ca.jpg"
+        },
+        {
+          "id": "pexels_6790065_tidy-workbench-woodworking-shop",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-doing-carpentry-6790065/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pexels_6790065_tidy-workbench-woodworking-shop.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pexels_6790065_tidy-workbench-woodworking-shop.jpg"
+        },
+        {
+          "id": "pixabay_865091_tidy-workbench-woodworking-shop",
+          "type": "image",
+          "source": "pixabay",
+          "author": "picjumbo_com",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/office-desk-smartphone-modern-865091/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P11/pixabay_865091_tidy-workbench-woodworking-shop.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P11/pixabay_865091_tidy-workbench-woodworking-shop.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "script_line": "",
+      "visual_direction": "Golden-hour on the building site \u2014 finished timber frame at sunset, builder silhouette packing up, warm light through the structure; hopeful",
+      "clips": [
+        {
+          "id": "pixabay_135658_construction-site-sunset-golden",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-135658/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_135658_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_135658_construction-site-sunset-golden.mp4"
+        },
+        {
+          "id": "pexels_32636373_construction-site-sunset-golden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Zulfugar Karimov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sunset-urban-skyline-with-construction-cranes-32636373/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_32636373_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_32636373_construction-site-sunset-golden.mp4"
+        },
+        {
+          "id": "pixabay_204006_construction-site-sunset-golden",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-204006/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_204006_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_204006_construction-site-sunset-golden.mp4"
+        },
+        {
+          "id": "pixabay_230248_timber-house-frame-sunset-field",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Matthias_Groeneveld",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-230248/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_230248_timber-house-frame-sunset-field.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_230248_timber-house-frame-sunset-field.mp4"
+        },
+        {
+          "id": "pexels_10320597_timber-house-frame-sunset-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tom Fisk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/drone-footage-of-a-abandoned-house-10320597/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_10320597_timber-house-frame-sunset-field.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_10320597_timber-house-frame-sunset-field.mp4"
+        },
+        {
+          "id": "pixabay_66810_timber-house-frame-sunset-field",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-66810/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_66810_timber-house-frame-sunset-field.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_66810_timber-house-frame-sunset-field.mp4"
+        },
+        {
+          "id": "pixabay_204006_carpenter-silhouette-golden-hour",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-204006/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_204006_carpenter-silhouette-golden-hour.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_204006_carpenter-silhouette-golden-hour.mp4"
+        },
+        {
+          "id": "pexels_28769587_carpenter-silhouette-golden-hour",
+          "type": "video",
+          "source": "pexels",
+          "author": "Khanh Hoang Minh 2",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/silhouette-photography-at-sunset-28769587/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_28769587_carpenter-silhouette-golden-hour.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_28769587_carpenter-silhouette-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_218504_carpenter-silhouette-golden-hour",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TonyDias7",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-218504/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_218504_carpenter-silhouette-golden-hour.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_218504_carpenter-silhouette-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_347076_builder-end-of-day-sunset-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-347076/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_347076_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_347076_builder-end-of-day-sunset-site.mp4"
+        },
+        {
+          "id": "pexels_5348782_builder-end-of-day-sunset-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Site Engine",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-backhoe-on-a-construction-site-5348782/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_5348782_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_5348782_builder-end-of-day-sunset-site.mp4"
+        },
+        {
+          "id": "pixabay_22555_builder-end-of-day-sunset-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-22555/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_22555_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_22555_builder-end-of-day-sunset-site.mp4"
+        },
+        {
+          "id": "pexels_15065874_construction-site-sunset-golden",
+          "type": "image",
+          "source": "pexels",
+          "author": "Optical Chemist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/high-rise-buildings-in-the-city-during-sunset-15065874/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_15065874_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_15065874_construction-site-sunset-golden.jpg"
+        },
+        {
+          "id": "pixabay_7288138_construction-site-sunset-golden",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Bluetenkuss",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/grain-agriculture-golden-sunset-7288138/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_7288138_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_7288138_construction-site-sunset-golden.jpg"
+        },
+        {
+          "id": "wikimedia_34438315_construction-site-sunset-golden",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Dietmar Rabich",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Senden,_Dortmund-Ems-Kanal_--_2014_--_2996-3000.jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/wikimedia_34438315_construction-site-sunset-golden.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/wikimedia_34438315_construction-site-sunset-golden.jpg"
+        },
+        {
+          "id": "pexels_10018342_timber-house-frame-sunset-field",
+          "type": "image",
+          "source": "pexels",
+          "author": "Volker Thimm",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-house-surrounded-by-trees-10018342/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_10018342_timber-house-frame-sunset-field.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_10018342_timber-house-frame-sunset-field.jpg"
+        },
+        {
+          "id": "pixabay_5685447_timber-house-frame-sunset-field",
+          "type": "image",
+          "source": "pixabay",
+          "author": "fotomacher_ch",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/sun-sunrise-field-cabin-house-hut-5685447/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_5685447_timber-house-frame-sunset-field.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_5685447_timber-house-frame-sunset-field.jpg"
+        },
+        {
+          "id": "pixabay_2391345_carpenter-silhouette-golden-hour",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Felix-Mittermeier",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/panorama-sunset-heaven-2391345/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_2391345_carpenter-silhouette-golden-hour.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_2391345_carpenter-silhouette-golden-hour.jpg"
+        },
+        {
+          "id": "pexels_18122469_carpenter-silhouette-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u00c7a\u011fr\u0131 Be\u015fli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/silhouettes-of-people-on-bridge-in-city-at-golden-hour-18122469/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_18122469_carpenter-silhouette-golden-hour.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_18122469_carpenter-silhouette-golden-hour.jpg"
+        },
+        {
+          "id": "pexels_8961555_builder-end-of-day-sunset-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pexels_8961555_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pexels_8961555_builder-end-of-day-sunset-site.jpg"
+        },
+        {
+          "id": "pixabay_1359136_builder-end-of-day-sunset-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "joffi",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-site-1359136/",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/pixabay_1359136_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/pixabay_1359136_builder-end-of-day-sunset-site.jpg"
+        },
+        {
+          "id": "wikimedia_108921445_builder-end-of-day-sunset-site",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Memorialman",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Air_Mens_Memorial_St_Edward%27s_Leek.jpg",
+          "thumb": "projects/edenrise-builders-pool/thumbs/P12/wikimedia_108921445_builder-end-of-day-sunset-site.jpg",
+          "preview": "projects/edenrise-builders-pool/previews/P12/wikimedia_108921445_builder-end-of-day-sunset-site.jpg"
+        }
+      ]
+    }
+  ]
+}

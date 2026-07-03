@@ -1,946 +1,1100 @@
 {
   "project": "benchmark-excellence",
   "title": "Benchmark Excellence",
-  "generated": "2026-07-01",
+  "generated": "2026-07-02",
   "scenes": [
     {
-      "id": "S01",
-      "script_line": "Have you ever spent an hour doing something someone else could do in ten minutes?",
-      "visual_direction": "Someone laboring slowly/inefficiently, a little frustrated, glancing at the clock.",
+      "id": "N01",
+      "script_line": "",
+      "visual_direction": "Warm inviting morning \u2014 a single gardener working steadily (raking, digging) on beautiful grounds, dawn light",
       "clips": [
         {
-          "id": "pexels_7581344_worker-struggling-with-task-comp",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-sleeping-on-table-7581344/",
-          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_7581344_worker-struggling-with-task-comp.jpg",
-          "preview": "projects/benchmark-excellence/previews/S01/pexels_7581344_worker-struggling-with-task-comp.mp4"
-        },
-        {
-          "id": "pexels_7640083_employee-overwhelmed-by-work-tir",
-          "type": "video",
-          "source": "pexels",
-          "author": "Yan Krukau",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-receiving-a-lot-of-paperwork-7640083/",
-          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_7640083_employee-overwhelmed-by-work-tir.jpg",
-          "preview": "projects/benchmark-excellence/previews/S01/pexels_7640083_employee-overwhelmed-by-work-tir.mp4"
-        },
-        {
-          "id": "pexels_8322148_person-checking-clock-working-la",
-          "type": "video",
-          "source": "pexels",
-          "author": "Tima Miroshnichenko",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-using-a-stethoscope-on-an-antique-clock-8322148/",
-          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_8322148_person-checking-clock-working-la.jpg",
-          "preview": "projects/benchmark-excellence/previews/S01/pexels_8322148_person-checking-clock-working-la.mp4"
-        },
-        {
-          "id": "pexels_8468351_frustrated-worker-slow-task-desk",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/frustrated-man-at-the-office-throwing-papers-in-the-air-8468351/",
-          "thumb": "projects/benchmark-excellence/thumbs/S01/pexels_8468351_frustrated-worker-slow-task-desk.jpg",
-          "preview": "projects/benchmark-excellence/previews/S01/pexels_8468351_frustrated-worker-slow-task-desk.mp4"
-        },
-        {
-          "id": "pixabay_215751_person-checking-clock-working-la",
+          "id": "pixabay_188595_gardener-raking-leaves-morning-l",
           "type": "video",
           "source": "pixabay",
-          "author": "G3Remote",
+          "author": "Kanenori",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-215751/",
-          "thumb": "projects/benchmark-excellence/thumbs/S01/pixabay_215751_person-checking-clock-working-la.jpg",
-          "preview": "projects/benchmark-excellence/previews/S01/pixabay_215751_person-checking-clock-working-la.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S02",
-      "script_line": "Ask one simple question: 'Who already does this better than me?'",
-      "visual_direction": "Looking to a more skilled colleague \u2014 observing, learning from someone better.",
-      "clips": [
-        {
-          "id": "pexels_6964251_employee-watching-skilled-collea",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-discussing-something-on-a-laptop-6964251/",
-          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_6964251_employee-watching-skilled-collea.jpg",
-          "preview": "projects/benchmark-excellence/previews/S02/pexels_6964251_employee-watching-skilled-collea.mp4"
+          "page_url": "https://pixabay.com/videos/id-188595/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_188595_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_188595_gardener-raking-leaves-morning-l.mp4"
         },
         {
-          "id": "pexels_7180371_person-learning-over-coworker-sh",
-          "type": "video",
-          "source": "pexels",
-          "author": "Thirdman",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-drawing-in-a-video-call-7180371/",
-          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_7180371_person-learning-over-coworker-sh.jpg",
-          "preview": "projects/benchmark-excellence/previews/S02/pexels_7180371_person-learning-over-coworker-sh.mp4"
-        },
-        {
-          "id": "pexels_7593574_junior-watching-senior-professio",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-young-woman-and-a-senior-man-working-in-an-office-7593574/",
-          "thumb": "projects/benchmark-excellence/thumbs/S02/pexels_7593574_junior-watching-senior-professio.jpg",
-          "preview": "projects/benchmark-excellence/previews/S02/pexels_7593574_junior-watching-senior-professio.mp4"
-        },
-        {
-          "id": "pixabay_40813_employee-watching-skilled-collea",
-          "type": "video",
-          "source": "pixabay",
-          "author": "AlexKopeykin",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-40813/",
-          "thumb": "projects/benchmark-excellence/thumbs/S02/pixabay_40813_employee-watching-skilled-collea.jpg",
-          "preview": "projects/benchmark-excellence/previews/S02/pixabay_40813_employee-watching-skilled-collea.mp4"
-        },
-        {
-          "id": "pixabay_43459_person-learning-over-coworker-sh",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Nicolas_Garay",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-43459/",
-          "thumb": "projects/benchmark-excellence/thumbs/S02/pixabay_43459_person-learning-over-coworker-sh.jpg",
-          "preview": "projects/benchmark-excellence/previews/S02/pixabay_43459_person-learning-over-coworker-sh.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S03",
-      "script_line": "The best people in the world don't know everything. They know how to learn.",
-      "visual_direction": "A curious professional actively learning \u2014 studying, taking notes.",
-      "clips": [
-        {
-          "id": "pexels_11025820_person-taking-notes-learning-ski",
+          "id": "pexels_8347922_gardener-raking-leaves-morning-l",
           "type": "video",
           "source": "pexels",
           "author": "ROMAN ODINTSOV",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-writing-on-a-paper-11025820/",
-          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_11025820_person-taking-notes-learning-ski.jpg",
-          "preview": "projects/benchmark-excellence/previews/S03/pexels_11025820_person-taking-notes-learning-ski.mp4"
+          "page_url": "https://www.pexels.com/video/a-person-using-a-rake-to-make-patterns-on-sand-8347922/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_8347922_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_8347922_gardener-raking-leaves-morning-l.mp4"
         },
         {
-          "id": "pexels_5762189_worker-learning-new-technique",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/blond-woman-wearing-blue-tank-top-teaching-elder-woman-the-types-of-brushes-5762189/",
-          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_5762189_worker-learning-new-technique.jpg",
-          "preview": "projects/benchmark-excellence/previews/S03/pexels_5762189_worker-learning-new-technique.mp4"
-        },
-        {
-          "id": "pexels_8134312_professional-studying-focused-no",
-          "type": "video",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-writing-8134312/",
-          "thumb": "projects/benchmark-excellence/thumbs/S03/pexels_8134312_professional-studying-focused-no.jpg",
-          "preview": "projects/benchmark-excellence/previews/S03/pexels_8134312_professional-studying-focused-no.mp4"
-        },
-        {
-          "id": "pixabay_110734_person-taking-notes-learning-ski",
+          "id": "pixabay_227567_gardener-raking-leaves-morning-l",
           "type": "video",
           "source": "pixabay",
-          "author": "JosephSenior",
+          "author": "TatianaTz",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-110734/",
-          "thumb": "projects/benchmark-excellence/thumbs/S03/pixabay_110734_person-taking-notes-learning-ski.jpg",
-          "preview": "projects/benchmark-excellence/previews/S03/pixabay_110734_person-taking-notes-learning-ski.mp4"
+          "page_url": "https://pixabay.com/videos/id-227567/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_227567_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_227567_gardener-raking-leaves-morning-l.mp4"
         },
         {
-          "id": "pixabay_215472_curious-employee-reading-learnin",
+          "id": "pixabay_202743_man-digging-garden-bed-sunrise",
           "type": "video",
           "source": "pixabay",
-          "author": "Vacampbe",
+          "author": "Matthias_Groeneveld",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-215472/",
-          "thumb": "projects/benchmark-excellence/thumbs/S03/pixabay_215472_curious-employee-reading-learnin.jpg",
-          "preview": "projects/benchmark-excellence/previews/S03/pixabay_215472_curious-employee-reading-learnin.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S04",
-      "script_line": "The greatest athletes still have coaches. The greatest musicians still have teachers.",
-      "visual_direction": "Coaching and mentoring \u2014 a coach guiding an athlete, a teacher and student.",
-      "clips": [
-        {
-          "id": "pexels_6655844_coach-instructing-trainee",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-teaching-girl-archery-6655844/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6655844_coach-instructing-trainee.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_6655844_coach-instructing-trainee.mp4"
+          "page_url": "https://pixabay.com/videos/id-202743/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_202743_man-digging-garden-bed-sunrise.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_202743_man-digging-garden-bed-sunrise.mp4"
         },
         {
-          "id": "pexels_6767493_coach-training-athlete-guidance",
+          "id": "pexels_34894001_man-digging-garden-bed-sunrise",
           "type": "video",
           "source": "pexels",
-          "author": "cottonbro studio",
+          "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/coach-giving-advice-to-female-basketball-players-6767493/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6767493_coach-training-athlete-guidance.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_6767493_coach-training-athlete-guidance.mp4"
+          "page_url": "https://www.pexels.com/video/farmer-tilling-soil-in-vegetable-garden-34894001/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_34894001_man-digging-garden-bed-sunrise.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_34894001_man-digging-garden-bed-sunrise.mp4"
         },
         {
-          "id": "pexels_7403128_music-teacher-student-lesson",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/boy-having-a-guitar-lesson-7403128/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_7403128_music-teacher-student-lesson.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_7403128_music-teacher-student-lesson.mp4"
-        },
-        {
-          "id": "pexels_8528987_business-mentor-coaching-employe",
-          "type": "video",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-boss-explaining-to-her-secretary-8528987/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_8528987_business-mentor-coaching-employe.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_8528987_business-mentor-coaching-employe.mp4"
-        },
-        {
-          "id": "pixabay_40813_business-mentor-coaching-employe",
+          "id": "pixabay_302098_man-digging-garden-bed-sunrise",
           "type": "video",
           "source": "pixabay",
-          "author": "AlexKopeykin",
+          "author": "TonyDias7",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-40813/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_40813_business-mentor-coaching-employe.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pixabay_40813_business-mentor-coaching-employe.mp4"
+          "page_url": "https://pixabay.com/videos/id-302098/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_302098_man-digging-garden-bed-sunrise.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_302098_man-digging-garden-bed-sunrise.mp4"
         },
         {
-          "id": "pexels_10347891_coach-training-athlete-guidance",
-          "type": "image",
-          "source": "pexels",
-          "author": "\u041c\u0430\u0440\u0438\u043d\u0430  \u0428\u0438\u0448\u043a\u0438\u043d\u0430",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/man-coaching-a-kid-10347891/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_10347891_coach-training-athlete-guidance.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_10347891_coach-training-athlete-guidance.jpg"
-        },
-        {
-          "id": "pexels_4173366_business-mentor-coaching-employe",
-          "type": "image",
-          "source": "pexels",
-          "author": "Gustavo Fring",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/enthusiastic-colleagues-looking-at-screen-of-laptop-in-modern-workspace-4173366/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_4173366_business-mentor-coaching-employe.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_4173366_business-mentor-coaching-employe.jpg"
-        },
-        {
-          "id": "pexels_6551182_coach-instructing-trainee",
-          "type": "image",
-          "source": "pexels",
-          "author": "Andres  Ayrton",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/ethnic-boxer-training-with-woman-in-boxing-club-6551182/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pexels_6551182_coach-instructing-trainee.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pexels_6551182_coach-instructing-trainee.jpg"
-        },
-        {
-          "id": "pixabay_4702060_business-mentor-coaching-employe",
-          "type": "image",
-          "source": "pixabay",
-          "author": "This_is_Engineering",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/woman-work-office-whiteboard-4702060/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_4702060_business-mentor-coaching-employe.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pixabay_4702060_business-mentor-coaching-employe.jpg"
-        },
-        {
-          "id": "pixabay_5914641_coach-training-athlete-guidance",
-          "type": "image",
-          "source": "pixabay",
-          "author": "Gabin_Vallet",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/workout-man-training-sports-5914641/",
-          "thumb": "projects/benchmark-excellence/thumbs/S04/pixabay_5914641_coach-training-athlete-guidance.jpg",
-          "preview": "projects/benchmark-excellence/previews/S04/pixabay_5914641_coach-training-athlete-guidance.jpg"
-        }
-      ]
-    },
-    {
-      "id": "S05",
-      "script_line": "Excellence leaves clues. Don't reinvent the wheel. Benchmark it.",
-      "visual_direction": "Studying a proven example \u2014 analyzing a reference, a blueprint, best practice.",
-      "clips": [
-        {
-          "id": "pexels_7580446_worker-analyzing-example-documen",
-          "type": "video",
-          "source": "pexels",
-          "author": "Tima Miroshnichenko",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-using-laptop-while-working-7580446/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7580446_worker-analyzing-example-documen.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_7580446_worker-analyzing-example-documen.mp4"
-        },
-        {
-          "id": "pexels_9464465_employee-reviewing-best-practice",
-          "type": "video",
-          "source": "pexels",
-          "author": "Monstera Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/reviewing-of-paperworks-9464465/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9464465_employee-reviewing-best-practice.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_9464465_employee-reviewing-best-practice.mp4"
-        },
-        {
-          "id": "pexels_9617188_person-studying-blueprint-refere",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/top-view-of-a-man-doing-architect-drawing-9617188/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9617188_person-studying-blueprint-refere.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_9617188_person-studying-blueprint-refere.mp4"
-        },
-        {
-          "id": "pixabay_271463_worker-analyzing-example-documen",
+          "id": "pixabay_151295_gardener-working-flower-beds-mor",
           "type": "video",
           "source": "pixabay",
-          "author": "EqualStock",
+          "author": "ghasoub",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-271463/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pixabay_271463_worker-analyzing-example-documen.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pixabay_271463_worker-analyzing-example-documen.mp4"
+          "page_url": "https://pixabay.com/videos/id-151295/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_151295_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_151295_gardener-working-flower-beds-mor.mp4"
         },
         {
-          "id": "pixabay_43459_person-studying-blueprint-refere",
+          "id": "pexels_37391589_gardener-working-flower-beds-mor",
+          "type": "video",
+          "source": "pexels",
+          "author": "ivi nnnnnn",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/elderly-gardener-walking-among-vibrant-flowers-37391589/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_37391589_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_37391589_gardener-working-flower-beds-mor.mp4"
+        },
+        {
+          "id": "pixabay_173522_gardener-working-flower-beds-mor",
           "type": "video",
           "source": "pixabay",
-          "author": "Nicolas_Garay",
+          "author": "Kanenori",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-43459/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pixabay_43459_person-studying-blueprint-refere.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pixabay_43459_person-studying-blueprint-refere.mp4"
+          "page_url": "https://pixabay.com/videos/id-173522/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_173522_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_173522_gardener-working-flower-beds-mor.mp4"
         },
         {
-          "id": "openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans",
-          "type": "image",
-          "source": "openverse",
-          "author": "Archives New Zealand from New Zealand",
-          "license": "CC BY-SA 2.0",
-          "page_url": "https://commons.wikimedia.org/w/index.php?curid=51251349",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/openverse_01f52a41-e7ae-41ca-9f6a-8821_hands-examining-reference-plans.jpg"
-        },
-        {
-          "id": "pexels_6281130_person-studying-blueprint-refere",
-          "type": "image",
-          "source": "pexels",
-          "author": "Yaroslav Shuraev",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-student-drafting-on-paper-6281130/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_6281130_person-studying-blueprint-refere.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_6281130_person-studying-blueprint-refere.jpg"
-        },
-        {
-          "id": "pexels_7876454_worker-analyzing-example-documen",
-          "type": "image",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-woman-holding-a-white-paper-7876454/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7876454_worker-analyzing-example-documen.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_7876454_worker-analyzing-example-documen.jpg"
-        },
-        {
-          "id": "pexels_7964178_employee-reviewing-best-practice",
-          "type": "image",
-          "source": "pexels",
-          "author": "Felicity Tai",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/female-employee-presenting-a-work-7964178/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_7964178_employee-reviewing-best-practice.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_7964178_employee-reviewing-best-practice.jpg"
-        },
-        {
-          "id": "pexels_9034763_hands-examining-reference-plans",
-          "type": "image",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-person-holding-a-black-pen-writing-on-white-paper-9034763/",
-          "thumb": "projects/benchmark-excellence/thumbs/S05/pexels_9034763_hands-examining-reference-plans.jpg",
-          "preview": "projects/benchmark-excellence/previews/S05/pexels_9034763_hands-examining-reference-plans.jpg"
-        }
-      ]
-    },
-    {
-      "id": "S06",
-      "script_line": "Maybe someone on your team writes better emails. Ask them to show you.",
-      "visual_direction": "A colleague sharing a skill \u2014 showing a teammate how they do it at a screen.",
-      "clips": [
-        {
-          "id": "pexels_7428831_colleague-sharing-knowledge-at-d",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/women-having-a-meeting-7428831/",
-          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7428831_colleague-sharing-knowledge-at-d.jpg",
-          "preview": "projects/benchmark-excellence/previews/S06/pexels_7428831_colleague-sharing-knowledge-at-d.mp4"
-        },
-        {
-          "id": "pexels_7581211_employee-teaching-teammate-techn",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-analyzing-a-graph-7581211/",
-          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7581211_employee-teaching-teammate-techn.jpg",
-          "preview": "projects/benchmark-excellence/previews/S06/pexels_7581211_employee-teaching-teammate-techn.mp4"
-        },
-        {
-          "id": "pexels_7687894_worker-demonstrating-to-coworker",
-          "type": "video",
-          "source": "pexels",
-          "author": "Kindel Media",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/colleagues-discussing-paperwork-7687894/",
-          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_7687894_worker-demonstrating-to-coworker.jpg",
-          "preview": "projects/benchmark-excellence/previews/S06/pexels_7687894_worker-demonstrating-to-coworker.mp4"
-        },
-        {
-          "id": "pexels_8902419_coworker-showing-colleague-on-co",
-          "type": "video",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-couple-working-together-at-an-office-8902419/",
-          "thumb": "projects/benchmark-excellence/thumbs/S06/pexels_8902419_coworker-showing-colleague-on-co.jpg",
-          "preview": "projects/benchmark-excellence/previews/S06/pexels_8902419_coworker-showing-colleague-on-co.mp4"
-        },
-        {
-          "id": "pixabay_43559_coworker-showing-colleague-on-co",
+          "id": "pixabay_177223_groundskeeper-sweeping-path-park",
           "type": "video",
           "source": "pixabay",
-          "author": "PhotoDhaba",
+          "author": "Matthias_Groeneveld",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-43559/",
-          "thumb": "projects/benchmark-excellence/thumbs/S06/pixabay_43559_coworker-showing-colleague-on-co.jpg",
-          "preview": "projects/benchmark-excellence/previews/S06/pixabay_43559_coworker-showing-colleague-on-co.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S07",
-      "script_line": "Maybe AI can help. Before sending an email, ask AI: 'Can this be clearer?'",
-      "visual_direction": "Using AI as a tool \u2014 a person working with an AI assistant on a laptop.",
-      "clips": [
-        {
-          "id": "pexels_7682582_person-using-ai-assistant-laptop",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-drinking-coffee-at-work-7682582/",
-          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7682582_person-using-ai-assistant-laptop.jpg",
-          "preview": "projects/benchmark-excellence/previews/S07/pexels_7682582_person-using-ai-assistant-laptop.mp4"
+          "page_url": "https://pixabay.com/videos/id-177223/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_177223_groundskeeper-sweeping-path-park.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_177223_groundskeeper-sweeping-path-park.mp4"
         },
         {
-          "id": "pexels_7692788_professional-using-ai-tool-at-de",
-          "type": "video",
-          "source": "pexels",
-          "author": "Yan Krukau",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-using-a-laptop-and-checking-the-time-7692788/",
-          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7692788_professional-using-ai-tool-at-de.jpg",
-          "preview": "projects/benchmark-excellence/previews/S07/pexels_7692788_professional-using-ai-tool-at-de.mp4"
-        },
-        {
-          "id": "pexels_7706637_worker-chatting-with-ai-on-lapto",
+          "id": "pexels_7884024_groundskeeper-sweeping-path-park",
           "type": "video",
           "source": "pexels",
           "author": "MART  PRODUCTION",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/people-working-on-laptops-7706637/",
-          "thumb": "projects/benchmark-excellence/thumbs/S07/pexels_7706637_worker-chatting-with-ai-on-lapto.jpg",
-          "preview": "projects/benchmark-excellence/previews/S07/pexels_7706637_worker-chatting-with-ai-on-lapto.mp4"
+          "page_url": "https://www.pexels.com/video/man-jogging-outdoors-7884024/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_7884024_groundskeeper-sweeping-path-park.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_7884024_groundskeeper-sweeping-path-park.mp4"
         },
         {
-          "id": "pixabay_10822_person-using-ai-assistant-laptop",
+          "id": "pixabay_231259_groundskeeper-sweeping-path-park",
           "type": "video",
           "source": "pixabay",
-          "author": "Coverr-Free-Footage",
+          "author": "santorihan",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-10822/",
-          "thumb": "projects/benchmark-excellence/thumbs/S07/pixabay_10822_person-using-ai-assistant-laptop.jpg",
-          "preview": "projects/benchmark-excellence/previews/S07/pixabay_10822_person-using-ai-assistant-laptop.mp4"
+          "page_url": "https://pixabay.com/videos/id-231259/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_231259_groundskeeper-sweeping-path-park.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_231259_groundskeeper-sweeping-path-park.mp4"
         },
         {
-          "id": "pixabay_3174_employee-typing-on-computer-scre",
-          "type": "video",
+          "id": "pexels_36886209_gardener-raking-leaves-morning-l",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ali Akdemir",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/elderly-gardener-raking-near-peacock-in-park-36886209/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_36886209_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_36886209_gardener-raking-leaves-morning-l.jpg"
+        },
+        {
+          "id": "pixabay_3701036_gardener-raking-leaves-morning-l",
+          "type": "image",
           "source": "pixabay",
-          "author": "Coverr-Free-Footage",
+          "author": "Alexas_Fotos",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-3174/",
-          "thumb": "projects/benchmark-excellence/thumbs/S07/pixabay_3174_employee-typing-on-computer-scre.jpg",
-          "preview": "projects/benchmark-excellence/previews/S07/pixabay_3174_employee-typing-on-computer-scre.mp4"
+          "page_url": "https://pixabay.com/photos/computing-garden-work-gardening-3701036/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_3701036_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_3701036_gardener-raking-leaves-morning-l.jpg"
+        },
+        {
+          "id": "wikimedia_90131182_gardener-raking-leaves-morning-l",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Unknown",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:A_Monument_for_Tom_K-g._(BM_1868,0808.3595).jpg",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/wikimedia_90131182_gardener-raking-leaves-morning-l.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/wikimedia_90131182_gardener-raking-leaves-morning-l.jpg"
+        },
+        {
+          "id": "pexels_7782975_man-digging-garden-bed-sunrise",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-wearing-green-gloves-holding-garden-tools-7782975/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_7782975_man-digging-garden-bed-sunrise.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_7782975_man-digging-garden-bed-sunrise.jpg"
+        },
+        {
+          "id": "pixabay_8420602_man-digging-garden-bed-sunrise",
+          "type": "image",
+          "source": "pixabay",
+          "author": "sdg_Rai",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/vietnam-man-gardening-8420602/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_8420602_man-digging-garden-bed-sunrise.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_8420602_man-digging-garden-bed-sunrise.jpg"
+        },
+        {
+          "id": "wikimedia_185305384_gardener-working-flower-beds-mor",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "USDAgov",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Urban_Forestry_(20150917-OSEC-LSC-0072).jpg",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/wikimedia_185305384_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/wikimedia_185305384_gardener-working-flower-beds-mor.jpg"
+        },
+        {
+          "id": "pixabay_731894_gardener-working-flower-beds-mor",
+          "type": "image",
+          "source": "pixabay",
+          "author": "stokpic",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/woman-working-bed-laptop-typing-731894/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_731894_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_731894_gardener-working-flower-beds-mor.jpg"
+        },
+        {
+          "id": "pexels_15610790_gardener-working-flower-beds-mor",
+          "type": "image",
+          "source": "pexels",
+          "author": "Quang Nguyen Vinh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/gardeners-among-colorful-trees-in-garden-15610790/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_15610790_gardener-working-flower-beds-mor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_15610790_gardener-working-flower-beds-mor.jpg"
+        },
+        {
+          "id": "pixabay_6126432_groundskeeper-sweeping-path-park",
+          "type": "image",
+          "source": "pixabay",
+          "author": "LUCA_Finardi",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/fog-park-fence-trees-silhouettes-6126432/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pixabay_6126432_groundskeeper-sweeping-path-park.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pixabay_6126432_groundskeeper-sweeping-path-park.jpg"
+        },
+        {
+          "id": "pexels_13992734_groundskeeper-sweeping-path-park",
+          "type": "image",
+          "source": "pexels",
+          "author": "Robert So",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-cleaning-beach-between-palm-trees-13992734/",
+          "thumb": "projects/benchmark-excellence/thumbs/N01/pexels_13992734_groundskeeper-sweeping-path-park.jpg",
+          "preview": "projects/benchmark-excellence/previews/N01/pexels_13992734_groundskeeper-sweeping-path-park.jpg"
         }
       ]
     },
     {
-      "id": "S08",
-      "script_line": "Benchmarking requires humility. Pride says 'I already know.' Humility says 'Teach me.'",
-      "visual_direction": "A humble learner open to advice \u2014 asking to be taught, receptive.",
+      "id": "N03",
+      "script_line": "",
+      "visual_direction": "Generic license-safe athlete training \u2014 runner on a track at sunrise, no identifiable famous person, dignified effort",
       "clips": [
         {
-          "id": "pexels_38057445_employee-receptive-learning-atti",
+          "id": "pixabay_23014_runner-training-track-sunrise-si",
           "type": "video",
-          "source": "pexels",
-          "author": "Max Medyk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/friendly-reception-interaction-in-office-38057445/",
-          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_38057445_employee-receptive-learning-atti.jpg",
-          "preview": "projects/benchmark-excellence/previews/S08/pexels_38057445_employee-receptive-learning-atti.mp4"
+          "source": "pixabay",
+          "author": "Nassau_Yacht_Haven_Marina",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23014/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_23014_runner-training-track-sunrise-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_23014_runner-training-track-sunrise-si.mp4"
         },
         {
-          "id": "pexels_7278695_person-seeking-guidance-colleagu",
+          "id": "pexels_34997644_runner-training-track-sunrise-si",
           "type": "video",
           "source": "pexels",
-          "author": "Anastasia  Shuraeva",
+          "author": "Salim Da",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-working-together-7278695/",
-          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_7278695_person-seeking-guidance-colleagu.jpg",
-          "preview": "projects/benchmark-excellence/previews/S08/pexels_7278695_person-seeking-guidance-colleagu.mp4"
+          "page_url": "https://www.pexels.com/video/dramatic-silhouette-jogging-at-sunrise-34997644/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_34997644_runner-training-track-sunrise-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_34997644_runner-training-track-sunrise-si.mp4"
         },
         {
-          "id": "pexels_7640711_humble-employee-asking-for-help",
+          "id": "pixabay_189730_runner-training-track-sunrise-si",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Amorn_mimi",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-189730/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_189730_runner-training-track-sunrise-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_189730_runner-training-track-sunrise-si.mp4"
+        },
+        {
+          "id": "pixabay_27539_athlete-running-stadium-track-mo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "socialsudo",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-27539/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_27539_athlete-running-stadium-track-mo.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_27539_athlete-running-stadium-track-mo.mp4"
+        },
+        {
+          "id": "pexels_37612704_athlete-running-stadium-track-mo",
           "type": "video",
           "source": "pexels",
-          "author": "Yan Krukau",
+          "author": "Allan Gonz\u00e1lez",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-writing-help-on-a-paper-7640711/",
-          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_7640711_humble-employee-asking-for-help.jpg",
-          "preview": "projects/benchmark-excellence/previews/S08/pexels_7640711_humble-employee-asking-for-help.mp4"
+          "page_url": "https://www.pexels.com/video/aerial-view-of-track-and-field-event-in-mexico-37612704/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_37612704_athlete-running-stadium-track-mo.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_37612704_athlete-running-stadium-track-mo.mp4"
         },
         {
-          "id": "pexels_8632482_worker-open-to-advice-listening",
+          "id": "pixabay_29331_athlete-running-stadium-track-mo",
+          "type": "video",
+          "source": "pixabay",
+          "author": "athletechbrand",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-29331/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_29331_athlete-running-stadium-track-mo.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_29331_athlete-running-stadium-track-mo.mp4"
+        },
+        {
+          "id": "pixabay_192357_runner-sprinting-track-empty-sta",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-192357/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_192357_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_192357_runner-sprinting-track-empty-sta.mp4"
+        },
+        {
+          "id": "pexels_8533447_runner-sprinting-track-empty-sta",
+          "type": "video",
+          "source": "pexels",
+          "author": "KoolShooters",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-running-on-a-field-8533447/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_8533447_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_8533447_runner-sprinting-track-empty-sta.mp4"
+        },
+        {
+          "id": "pixabay_206632_runner-sprinting-track-empty-sta",
+          "type": "video",
+          "source": "pixabay",
+          "author": "ThomasVisuals",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206632/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_206632_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_206632_runner-sprinting-track-empty-sta.mp4"
+        },
+        {
+          "id": "pixabay_50109_athlete-stretching-track-dawn",
+          "type": "video",
+          "source": "pixabay",
+          "author": "xat-ch",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-50109/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_50109_athlete-stretching-track-dawn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_50109_athlete-stretching-track-dawn.mp4"
+        },
+        {
+          "id": "pexels_8691050_athlete-stretching-track-dawn",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-doing-stretch-exercise-8691050/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_8691050_athlete-stretching-track-dawn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_8691050_athlete-stretching-track-dawn.mp4"
+        },
+        {
+          "id": "pixabay_192357_athlete-stretching-track-dawn",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-192357/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_192357_athlete-stretching-track-dawn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_192357_athlete-stretching-track-dawn.mp4"
+        },
+        {
+          "id": "pexels_10141165_runner-training-track-sunrise-si",
+          "type": "image",
+          "source": "pexels",
+          "author": "Dmitry Egorov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/an-athlete-in-the-running-track-10141165/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_10141165_runner-training-track-sunrise-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_10141165_runner-training-track-sunrise-si.jpg"
+        },
+        {
+          "id": "pixabay_2678544_runner-training-track-sunrise-si",
+          "type": "image",
+          "source": "pixabay",
+          "author": "anncapictures",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tartan-track-athletics-2678544/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_2678544_runner-training-track-sunrise-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_2678544_runner-training-track-sunrise-si.jpg"
+        },
+        {
+          "id": "pexels_37927156_athlete-running-stadium-track-mo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Chris L",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/sprinter-in-action-on-outdoor-track-37927156/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_37927156_athlete-running-stadium-track-mo.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_37927156_athlete-running-stadium-track-mo.jpg"
+        },
+        {
+          "id": "pixabay_2678544_athlete-running-stadium-track-mo",
+          "type": "image",
+          "source": "pixabay",
+          "author": "anncapictures",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tartan-track-athletics-2678544/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_2678544_athlete-running-stadium-track-mo.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_2678544_athlete-running-stadium-track-mo.jpg"
+        },
+        {
+          "id": "pixabay_1853520_runner-sprinting-track-empty-sta",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/architecture-bleachers-stadium-1853520/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_1853520_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_1853520_runner-sprinting-track-empty-sta.jpg"
+        },
+        {
+          "id": "pexels_27948294_runner-sprinting-track-empty-sta",
+          "type": "image",
+          "source": "pexels",
+          "author": "Pexels User",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-running-on-a-track-with-a-blue-background-27948294/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_27948294_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_27948294_runner-sprinting-track-empty-sta.jpg"
+        },
+        {
+          "id": "openverse_99556ce2-cb26-4716-a248-1eb4_runner-sprinting-track-empty-sta",
+          "type": "image",
+          "source": "openverse",
+          "author": "MolliferW",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/58816950@N05/5405658020",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/openverse_99556ce2-cb26-4716-a248-1eb4_runner-sprinting-track-empty-sta.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/openverse_99556ce2-cb26-4716-a248-1eb4_runner-sprinting-track-empty-sta.jpg"
+        },
+        {
+          "id": "pexels_3763863_athlete-stretching-track-dawn",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/side-view-photo-of-man-in-red-tank-top-and-black-shorts-stretching-in-indoor-running-track-3763863/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pexels_3763863_athlete-stretching-track-dawn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pexels_3763863_athlete-stretching-track-dawn.jpg"
+        },
+        {
+          "id": "pixabay_1853902_athlete-stretching-track-dawn",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/beach-yoga-athlete-sportive-skinny-1853902/",
+          "thumb": "projects/benchmark-excellence/thumbs/N03/pixabay_1853902_athlete-stretching-track-dawn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N03/pixabay_1853902_athlete-stretching-track-dawn.jpg"
+        }
+      ]
+    },
+    {
+      "id": "N06",
+      "script_line": "",
+      "visual_direction": "A mentor showing an apprentice how to do garden/greenhouse work \u2014 one demonstrates, other watches closely, friendly pair",
+      "clips": [
+        {
+          "id": "pixabay_72884_mentor-showing-apprentice-garden",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-72884/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_72884_mentor-showing-apprentice-garden.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_72884_mentor-showing-apprentice-garden.mp4"
+        },
+        {
+          "id": "pexels_6508491_mentor-showing-apprentice-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-discussing-the-plants-to-a-woman-6508491/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_6508491_mentor-showing-apprentice-garden.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_6508491_mentor-showing-apprentice-garden.mp4"
+        },
+        {
+          "id": "pixabay_211745_mentor-showing-apprentice-garden",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Oliverstar",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-211745/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_211745_mentor-showing-apprentice-garden.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_211745_mentor-showing-apprentice-garden.mp4"
+        },
+        {
+          "id": "pixabay_243239_experienced-farmer-teaching-youn",
+          "type": "video",
+          "source": "pixabay",
+          "author": "ammarvid",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-243239/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_243239_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_243239_experienced-farmer-teaching-youn.mp4"
+        },
+        {
+          "id": "pexels_4928668_experienced-farmer-teaching-youn",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-in-overalls-standing-in-a-field-4928668/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_4928668_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_4928668_experienced-farmer-teaching-youn.mp4"
+        },
+        {
+          "id": "pixabay_231246_experienced-farmer-teaching-youn",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TungArt7",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-231246/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_231246_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_231246_experienced-farmer-teaching-youn.mp4"
+        },
+        {
+          "id": "pexels_7844377_gardener-demonstrating-pruning-t",
           "type": "video",
           "source": "pexels",
           "author": "Kampus Production",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-explaining-work-to-her-colleagues-8632482/",
-          "thumb": "projects/benchmark-excellence/thumbs/S08/pexels_8632482_worker-open-to-advice-listening.jpg",
-          "preview": "projects/benchmark-excellence/previews/S08/pexels_8632482_worker-open-to-advice-listening.mp4"
+          "page_url": "https://www.pexels.com/video/elderly-man-cutting-leaves-7844377/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_7844377_gardener-demonstrating-pruning-t.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_7844377_gardener-demonstrating-pruning-t.mp4"
         },
         {
-          "id": "pixabay_43459_person-seeking-guidance-colleagu",
+          "id": "pixabay_180_gardener-demonstrating-pruning-t",
           "type": "video",
           "source": "pixabay",
-          "author": "Nicolas_Garay",
+          "author": "Republica",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-43459/",
-          "thumb": "projects/benchmark-excellence/thumbs/S08/pixabay_43459_person-seeking-guidance-colleagu.jpg",
-          "preview": "projects/benchmark-excellence/previews/S08/pixabay_43459_person-seeking-guidance-colleagu.mp4"
+          "page_url": "https://pixabay.com/videos/id-180/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_180_gardener-demonstrating-pruning-t.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_180_gardener-demonstrating-pruning-t.mp4"
+        },
+        {
+          "id": "pexels_11122306_gardener-demonstrating-pruning-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "Martina Tom\u0161i\u010d",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-pruning-a-leafless-tree-in-a-garden-11122306/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_11122306_gardener-demonstrating-pruning-t.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_11122306_gardener-demonstrating-pruning-t.mp4"
+        },
+        {
+          "id": "pixabay_111649_two-gardeners-one-teaching-other",
+          "type": "video",
+          "source": "pixabay",
+          "author": "KIMDAEJEUNG",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-111649/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_111649_two-gardeners-one-teaching-other.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_111649_two-gardeners-one-teaching-other.mp4"
+        },
+        {
+          "id": "pexels_7421694_two-gardeners-one-teaching-other",
+          "type": "video",
+          "source": "pexels",
+          "author": "AI25.Studio  Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-talking-to-horticulturist-7421694/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_7421694_two-gardeners-one-teaching-other.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_7421694_two-gardeners-one-teaching-other.mp4"
+        },
+        {
+          "id": "pixabay_7878602_mentor-showing-apprentice-garden",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ignartonosbg",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/strawberry-hand-fruit-kid-hand-7878602/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_7878602_mentor-showing-apprentice-garden.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_7878602_mentor-showing-apprentice-garden.jpg"
+        },
+        {
+          "id": "pexels_5622464_mentor-showing-apprentice-garden",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/mom-and-daughter-holding-potted-plants-5622464/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_5622464_mentor-showing-apprentice-garden.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_5622464_mentor-showing-apprentice-garden.jpg"
+        },
+        {
+          "id": "pexels_30689843_experienced-farmer-teaching-youn",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anil  Sharma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/farmer-tending-calves-in-rural-field-30689843/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_30689843_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_30689843_experienced-farmer-teaching-youn.jpg"
+        },
+        {
+          "id": "pixabay_3787736_experienced-farmer-teaching-youn",
+          "type": "image",
+          "source": "pixabay",
+          "author": "4935210",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/indian-india-poor-farmer-3787736/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_3787736_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_3787736_experienced-farmer-teaching-youn.jpg"
+        },
+        {
+          "id": "met_438779_experienced-farmer-teaching-youn",
+          "type": "image",
+          "source": "met",
+          "author": "Antoine Le Nain",
+          "license": "Public Domain (CC0)",
+          "page_url": "https://www.metmuseum.org/art/collection/search/438779",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/met_438779_experienced-farmer-teaching-youn.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/met_438779_experienced-farmer-teaching-youn.jpg"
+        },
+        {
+          "id": "pexels_5231046_gardener-demonstrating-pruning-t",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anna Shvets",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/colleagues-standing-near-green-trees-and-cutting-branches-5231046/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_5231046_gardener-demonstrating-pruning-t.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_5231046_gardener-demonstrating-pruning-t.jpg"
+        },
+        {
+          "id": "pixabay_593296_gardener-demonstrating-pruning-t",
+          "type": "image",
+          "source": "pixabay",
+          "author": "StartupStockPhotos",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/laptops-meeting-businessmen-593296/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_593296_gardener-demonstrating-pruning-t.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_593296_gardener-demonstrating-pruning-t.jpg"
+        },
+        {
+          "id": "pixabay_4114835_two-gardeners-one-teaching-other",
+          "type": "image",
+          "source": "pixabay",
+          "author": "congerdesign",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/plants-little-plants-sapling-4114835/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pixabay_4114835_two-gardeners-one-teaching-other.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pixabay_4114835_two-gardeners-one-teaching-other.jpg"
+        },
+        {
+          "id": "pexels_7156439_two-gardeners-one-teaching-other",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-gardeners-holding-potted-plants-and-spatulas-7156439/",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/pexels_7156439_two-gardeners-one-teaching-other.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/pexels_7156439_two-gardeners-one-teaching-other.jpg"
+        },
+        {
+          "id": "wikimedia_83792975_two-gardeners-one-teaching-other",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "John F. Smith",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Historical_Geography,_by_John_F._Smith.jpg",
+          "thumb": "projects/benchmark-excellence/thumbs/N06/wikimedia_83792975_two-gardeners-one-teaching-other.jpg",
+          "preview": "projects/benchmark-excellence/previews/N06/wikimedia_83792975_two-gardeners-one-teaching-other.jpg"
         }
       ]
     },
     {
-      "id": "S09",
-      "script_line": "Imagine two people building the same table. The second asks the best carpenter for advice.",
-      "visual_direction": "Carpentry \u2014 a woodworker building a table, a mentor giving a tip in a workshop.",
+      "id": "N09",
+      "script_line": "",
+      "visual_direction": "A carpenter at dignified focused woodwork \u2014 hands planing, measuring, sawing in a warm wood workshop, single craftsman",
       "clips": [
         {
-          "id": "pexels_20184480_woodworker-measuring-table-craft",
+          "id": "pixabay_23594_carpenter-hands-planing-wood-wor",
           "type": "video",
-          "source": "pexels",
-          "author": "Everett Bumstead",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/measuring-wood-for-cutting-20184480/",
-          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_20184480_woodworker-measuring-table-craft.jpg",
-          "preview": "projects/benchmark-excellence/previews/S09/pexels_20184480_woodworker-measuring-table-craft.mp4"
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_23594_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_23594_carpenter-hands-planing-wood-wor.mp4"
         },
         {
-          "id": "pexels_5967518_craftsman-working-wood-joinery",
+          "id": "pexels_5973224_carpenter-hands-planing-wood-wor",
           "type": "video",
           "source": "pexels",
           "author": "Ono  Kosuki",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-putting-markings-on-the-wood-5967518/",
-          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_5967518_craftsman-working-wood-joinery.jpg",
-          "preview": "projects/benchmark-excellence/previews/S09/pexels_5967518_craftsman-working-wood-joinery.mp4"
+          "page_url": "https://www.pexels.com/video/person-planing-wood-5973224/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_5973224_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_5973224_carpenter-hands-planing-wood-wor.mp4"
         },
         {
-          "id": "pexels_7492602_experienced-carpenter-advising-a",
+          "id": "pixabay_166808_carpenter-hands-planing-wood-wor",
           "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
-          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_7492602_experienced-carpenter-advising-a.jpg",
-          "preview": "projects/benchmark-excellence/previews/S09/pexels_7492602_experienced-carpenter-advising-a.mp4"
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_166808_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_166808_carpenter-hands-planing-wood-wor.mp4"
         },
         {
-          "id": "pexels_7493219_carpenter-building-wooden-table",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-putting-a-wooden-plank-on-a-wood-cutter-7493219/",
-          "thumb": "projects/benchmark-excellence/thumbs/S09/pexels_7493219_carpenter-building-wooden-table.jpg",
-          "preview": "projects/benchmark-excellence/previews/S09/pexels_7493219_carpenter-building-wooden-table.mp4"
-        },
-        {
-          "id": "pixabay_73535_craftsman-working-wood-joinery",
+          "id": "pixabay_73535_craftsman-measuring-wood-table-w",
           "type": "video",
           "source": "pixabay",
           "author": "Elf-Moondance",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-73535/",
-          "thumb": "projects/benchmark-excellence/thumbs/S09/pixabay_73535_craftsman-working-wood-joinery.jpg",
-          "preview": "projects/benchmark-excellence/previews/S09/pixabay_73535_craftsman-working-wood-joinery.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S10",
-      "script_line": "Ask someone who gives excellent presentations to review it. Five minutes of feedback.",
-      "visual_direction": "Reviewing work together \u2014 a colleague giving quick feedback on a presentation.",
-      "clips": [
-        {
-          "id": "pexels_6248587_colleague-reviewing-presentation",
-          "type": "video",
-          "source": "pexels",
-          "author": "Kampus Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/women-explaining-a-business-proposal-6248587/",
-          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_6248587_colleague-reviewing-presentation.jpg",
-          "preview": "projects/benchmark-excellence/previews/S10/pexels_6248587_colleague-reviewing-presentation.mp4"
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_73535_craftsman-measuring-wood-table-w.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_73535_craftsman-measuring-wood-table-w.mp4"
         },
         {
-          "id": "pexels_8298283_manager-giving-feedback-on-work",
+          "id": "pexels_5967521_craftsman-measuring-wood-table-w",
           "type": "video",
           "source": "pexels",
-          "author": "Mikhail Nilov",
+          "author": "Ono  Kosuki",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-looking-at-some-documents-8298283/",
-          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8298283_manager-giving-feedback-on-work.jpg",
-          "preview": "projects/benchmark-excellence/previews/S10/pexels_8298283_manager-giving-feedback-on-work.mp4"
+          "page_url": "https://www.pexels.com/video/a-person-marking-a-straight-line-using-a-metal-ruler-5967521/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_5967521_craftsman-measuring-wood-table-w.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_5967521_craftsman-measuring-wood-table-w.mp4"
         },
         {
-          "id": "pexels_8478753_two-people-reviewing-slides-lapt",
-          "type": "video",
-          "source": "pexels",
-          "author": "ArtHouse Studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/people-reading-a-contract-8478753/",
-          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8478753_two-people-reviewing-slides-lapt.jpg",
-          "preview": "projects/benchmark-excellence/previews/S10/pexels_8478753_two-people-reviewing-slides-lapt.mp4"
-        },
-        {
-          "id": "pexels_8731453_coworkers-reviewing-document-tog",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/group-of-people-reading-documents-together-8731453/",
-          "thumb": "projects/benchmark-excellence/thumbs/S10/pexels_8731453_coworkers-reviewing-document-tog.jpg",
-          "preview": "projects/benchmark-excellence/previews/S10/pexels_8731453_coworkers-reviewing-document-tog.mp4"
-        },
-        {
-          "id": "pixabay_18439_colleague-reviewing-presentation",
+          "id": "pixabay_115792_craftsman-measuring-wood-table-w",
           "type": "video",
           "source": "pixabay",
-          "author": "athree23",
+          "author": "AlexKopeykin",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-18439/",
-          "thumb": "projects/benchmark-excellence/thumbs/S10/pixabay_18439_colleague-reviewing-presentation.jpg",
-          "preview": "projects/benchmark-excellence/previews/S10/pixabay_18439_colleague-reviewing-presentation.mp4"
-        }
-      ]
-    },
-    {
-      "id": "S11",
-      "script_line": "Good people work hard. Great people learn fast.",
-      "visual_direction": "A focused professional visibly improving \u2014 momentum, mastery building.",
-      "clips": [
-        {
-          "id": "pexels_7426758_focused-professional-working-con",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-with-facial-hair-looking-at-papers-7426758/",
-          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7426758_focused-professional-working-con.jpg",
-          "preview": "projects/benchmark-excellence/previews/S11/pexels_7426758_focused-professional-working-con.mp4"
+          "page_url": "https://pixabay.com/videos/id-115792/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_115792_craftsman-measuring-wood-table-w.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_115792_craftsman-measuring-wood-table-w.mp4"
         },
         {
-          "id": "pexels_7480738_worker-improving-developing-craf",
+          "id": "pixabay_23594_carpenter-building-wooden-furnit",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TRAPHITHO",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-23594/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_23594_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_23594_carpenter-building-wooden-furnit.mp4"
+        },
+        {
+          "id": "pexels_7493219_carpenter-building-wooden-furnit",
           "type": "video",
           "source": "pexels",
           "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-carpenter-writing-in-the-counter-7480738/",
-          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7480738_worker-improving-developing-craf.jpg",
-          "preview": "projects/benchmark-excellence/previews/S11/pexels_7480738_worker-improving-developing-craf.mp4"
+          "page_url": "https://www.pexels.com/video/man-putting-a-wooden-plank-on-a-wood-cutter-7493219/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_7493219_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_7493219_carpenter-building-wooden-furnit.mp4"
         },
         {
-          "id": "pexels_7744305_person-productive-skilled-desk",
+          "id": "pixabay_166808_carpenter-building-wooden-furnit",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyWolares",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-166808/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_166808_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_166808_carpenter-building-wooden-furnit.mp4"
+        },
+        {
+          "id": "pixabay_227567_woodworker-sanding-table-warm-li",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TatianaTz",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-227567/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_227567_woodworker-sanding-table-warm-li.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_227567_woodworker-sanding-table-warm-li.mp4"
+        },
+        {
+          "id": "pexels_6789566_woodworker-sanding-table-warm-li",
           "type": "video",
           "source": "pexels",
-          "author": "MART  PRODUCTION",
+          "author": "Tima Miroshnichenko",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-writing-in-notebook-7744305/",
-          "thumb": "projects/benchmark-excellence/thumbs/S11/pexels_7744305_person-productive-skilled-desk.jpg",
-          "preview": "projects/benchmark-excellence/previews/S11/pexels_7744305_person-productive-skilled-desk.mp4"
+          "page_url": "https://www.pexels.com/video/a-person-removing-wood-dust-6789566/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_6789566_woodworker-sanding-table-warm-li.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_6789566_woodworker-sanding-table-warm-li.mp4"
         },
         {
-          "id": "pixabay_268230_focused-professional-working-con",
+          "id": "pixabay_201968_woodworker-sanding-table-warm-li",
           "type": "video",
           "source": "pixabay",
-          "author": "isuruzampa",
+          "author": "Visual_Laurence",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-268230/",
-          "thumb": "projects/benchmark-excellence/thumbs/S11/pixabay_268230_focused-professional-working-con.jpg",
-          "preview": "projects/benchmark-excellence/previews/S11/pixabay_268230_focused-professional-working-con.mp4"
+          "page_url": "https://pixabay.com/videos/id-201968/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_201968_woodworker-sanding-table-warm-li.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_201968_woodworker-sanding-table-warm-li.mp4"
         },
         {
-          "id": "pixabay_43459_person-productive-skilled-desk",
-          "type": "video",
+          "id": "openverse_7394b61e-ba5f-4c88-a10f-27f2_carpenter-hands-planing-wood-wor",
+          "type": "image",
+          "source": "openverse",
+          "author": "thegetty",
+          "license": "CC CC0 1.0",
+          "page_url": "https://www.rawpixel.com/image/14274183/carpenter-workshop",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/openverse_7394b61e-ba5f-4c88-a10f-27f2_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/openverse_7394b61e-ba5f-4c88-a10f-27f2_carpenter-hands-planing-wood-wor.jpg"
+        },
+        {
+          "id": "pexels_30907888_carpenter-hands-planing-wood-wor",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u0110\u1eadu Photograph",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-hands-in-woodworking-craftsmanship-30907888/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_30907888_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_30907888_carpenter-hands-planing-wood-wor.jpg"
+        },
+        {
+          "id": "pixabay_7586789_carpenter-hands-planing-wood-wor",
+          "type": "image",
           "source": "pixabay",
-          "author": "Nicolas_Garay",
+          "author": "lpegasu",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-43459/",
-          "thumb": "projects/benchmark-excellence/thumbs/S11/pixabay_43459_person-productive-skilled-desk.jpg",
-          "preview": "projects/benchmark-excellence/previews/S11/pixabay_43459_person-productive-skilled-desk.mp4"
+          "page_url": "https://pixabay.com/photos/carpentry-carpenter-wood-equipment-7586789/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_7586789_carpenter-hands-planing-wood-wor.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_7586789_carpenter-hands-planing-wood-wor.jpg"
+        },
+        {
+          "id": "pexels_15060424_craftsman-measuring-wood-table-w",
+          "type": "image",
+          "source": "pexels",
+          "author": "Collab Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-a-man-using-a-measuring-tape-15060424/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_15060424_craftsman-measuring-wood-table-w.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_15060424_craftsman-measuring-wood-table-w.jpg"
+        },
+        {
+          "id": "pixabay_5736096_craftsman-measuring-wood-table-w",
+          "type": "image",
+          "source": "pixabay",
+          "author": "jannonivergall",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-grinder-factory-workplace-5736096/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_5736096_craftsman-measuring-wood-table-w.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_5736096_craftsman-measuring-wood-table-w.jpg"
+        },
+        {
+          "id": "pexels_32831080_carpenter-building-wooden-furnit",
+          "type": "image",
+          "source": "pexels",
+          "author": "saravut vanset",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/focused-carpenter-measuring-wood-with-precision-32831080/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_32831080_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_32831080_carpenter-building-wooden-furnit.jpg"
+        },
+        {
+          "id": "pixabay_2732939_carpenter-building-wooden-furnit",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ClickerHappy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/living-room-couch-interior-room-2732939/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_2732939_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_2732939_carpenter-building-wooden-furnit.jpg"
+        },
+        {
+          "id": "wikimedia_133442791_carpenter-building-wooden-furnit",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Erica (Thorp) de Berry (1890-1943)",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Erica_(Thorp)_de_Berry_to_Thorp_family,_13_April_1918_(4a63e5a9-be6c-4fff-9e46-4ab4d50e4d5b).jpg",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/wikimedia_133442791_carpenter-building-wooden-furnit.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/wikimedia_133442791_carpenter-building-wooden-furnit.jpg"
+        },
+        {
+          "id": "pixabay_7560392_woodworker-sanding-table-warm-li",
+          "type": "image",
+          "source": "pixabay",
+          "author": "djedj",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/copper-teapots-kitchen-tableware-7560392/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pixabay_7560392_woodworker-sanding-table-warm-li.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pixabay_7560392_woodworker-sanding-table-warm-li.jpg"
+        },
+        {
+          "id": "pexels_5711814_woodworker-sanding-table-warm-li",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anna Shvets",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/crop-artisan-grinding-wooden-detail-5711814/",
+          "thumb": "projects/benchmark-excellence/thumbs/N09/pexels_5711814_woodworker-sanding-table-warm-li.jpg",
+          "preview": "projects/benchmark-excellence/previews/N09/pexels_5711814_woodworker-sanding-table-warm-li.jpg"
         }
       ]
     },
     {
-      "id": "S12",
-      "script_line": "A culture where asking for help is normal. When one person improves, the whole team improves.",
-      "visual_direction": "A team sharing knowledge and helping each other openly.",
+      "id": "N13",
+      "script_line": "",
+      "visual_direction": "A small crew of gardeners working together happily in a greenhouse or garden \u2014 planting together, sharing work, African workers preferred",
       "clips": [
         {
-          "id": "pexels_6672617_team-sharing-knowledge-collabora",
+          "id": "pixabay_72884_gardeners-planting-together-gree",
           "type": "video",
-          "source": "pexels",
-          "author": "Andy Barbour",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/friends-studying-together-6672617/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_6672617_team-sharing-knowledge-collabora.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_6672617_team-sharing-knowledge-collabora.mp4"
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-72884/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_72884_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_72884_gardeners-planting-together-gree.mp4"
         },
         {
-          "id": "pexels_7279597_colleagues-learning-together-off",
+          "id": "pixabay_245932_gardeners-planting-together-gree",
           "type": "video",
-          "source": "pexels",
-          "author": "Anastasia  Shuraeva",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-resting-her-head-on-a-man-s-shoulder-7279597/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7279597_colleagues-learning-together-off.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_7279597_colleagues-learning-together-off.mp4"
+          "source": "pixabay",
+          "author": "xBriantcx",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-245932/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_245932_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_245932_gardeners-planting-together-gree.mp4"
         },
         {
-          "id": "pexels_7686628_knowledge-sharing-team-meeting",
+          "id": "pixabay_211745_gardeners-planting-together-gree",
           "type": "video",
-          "source": "pexels",
-          "author": "ArtHouse Studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-doing-a-presentation-7686628/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7686628_knowledge-sharing-team-meeting.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_7686628_knowledge-sharing-team-meeting.mp4"
+          "source": "pixabay",
+          "author": "Oliverstar",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-211745/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_211745_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_211745_gardeners-planting-together-gree.mp4"
         },
         {
-          "id": "pexels_9365189_coworkers-helping-each-other-des",
+          "id": "pixabay_245932_african-workers-gardening-togeth",
           "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-having-a-meeting-9365189/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_9365189_coworkers-helping-each-other-des.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_9365189_coworkers-helping-each-other-des.mp4"
+          "source": "pixabay",
+          "author": "xBriantcx",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-245932/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_245932_african-workers-gardening-togeth.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_245932_african-workers-gardening-togeth.mp4"
         },
         {
-          "id": "pixabay_2340_knowledge-sharing-team-meeting",
+          "id": "pixabay_271463_african-workers-gardening-togeth",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_271463_african-workers-gardening-togeth.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_271463_african-workers-gardening-togeth.mp4"
+        },
+        {
+          "id": "pixabay_1635_african-workers-gardening-togeth",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-1635/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_1635_african-workers-gardening-togeth.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_1635_african-workers-gardening-togeth.mp4"
+        },
+        {
+          "id": "pixabay_72884_team-planting-seedlings-garden-c",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-72884/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_72884_team-planting-seedlings-garden-c.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_72884_team-planting-seedlings-garden-c.mp4"
+        },
+        {
+          "id": "pixabay_260395_team-planting-seedlings-garden-c",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-260395/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_260395_team-planting-seedlings-garden-c.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_260395_team-planting-seedlings-garden-c.mp4"
+        },
+        {
+          "id": "pixabay_2340_team-planting-seedlings-garden-c",
           "type": "video",
           "source": "pixabay",
           "author": "Life-Of-Vids",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-2340/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pixabay_2340_knowledge-sharing-team-meeting.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pixabay_2340_knowledge-sharing-team-meeting.mp4"
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_2340_team-planting-seedlings-garden-c.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_2340_team-planting-seedlings-garden-c.mp4"
         },
         {
-          "id": "pexels_5882592_coworkers-helping-each-other-des",
-          "type": "image",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-woman-reaching-of-a-paper-on-the-workspace-5882592/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_5882592_coworkers-helping-each-other-des.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_5882592_coworkers-helping-each-other-des.jpg"
-        },
-        {
-          "id": "pexels_7495486_knowledge-sharing-team-meeting",
-          "type": "image",
-          "source": "pexels",
-          "author": "Moe Magners",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-man-with-gray-beanie-holding-a-color-pallet-beside-a-woman-holding-a-notebook-7495486/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_7495486_knowledge-sharing-team-meeting.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_7495486_knowledge-sharing-team-meeting.jpg"
-        },
-        {
-          "id": "pexels_8837764_colleagues-learning-together-off",
-          "type": "image",
-          "source": "pexels",
-          "author": "Yan Krukau",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/women-in-the-meeting-room-looking-at-the-brochure-8837764/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_8837764_colleagues-learning-together-off.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_8837764_colleagues-learning-together-off.jpg"
-        },
-        {
-          "id": "pexels_8851457_team-sharing-knowledge-collabora",
-          "type": "image",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/team-of-scientists-working-together-8851457/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pexels_8851457_team-sharing-knowledge-collabora.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pexels_8851457_team-sharing-knowledge-collabora.jpg"
-        },
-        {
-          "id": "pixabay_2277292_colleagues-learning-together-off",
-          "type": "image",
-          "source": "pixabay",
-          "author": "rawpixel",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/action-collaborate-collaboration-2277292/",
-          "thumb": "projects/benchmark-excellence/thumbs/S12/pixabay_2277292_colleagues-learning-together-off.jpg",
-          "preview": "projects/benchmark-excellence/previews/S12/pixabay_2277292_colleagues-learning-together-off.jpg"
-        }
-      ]
-    },
-    {
-      "id": "S13",
-      "script_line": "Excellence is not a destination. It's a habit. The more you learn, the more excellent you become.",
-      "visual_direction": "Quiet pride in excellent, high-quality work \u2014 a polished result.",
-      "clips": [
-        {
-          "id": "pexels_38235450_craftsman-satisfied-excellent-wo",
-          "type": "video",
-          "source": "pexels",
-          "author": "Dinesh kandel",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/artisan-crafting-pottery-in-workshop-38235450/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_38235450_craftsman-satisfied-excellent-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_38235450_craftsman-satisfied-excellent-wo.mp4"
-        },
-        {
-          "id": "pexels_7484291_skilled-worker-admiring-finished",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-creating-furniture-7484291/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_7484291_skilled-worker-admiring-finished.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_7484291_skilled-worker-admiring-finished.mp4"
-        },
-        {
-          "id": "pexels_7682677_professional-proud-of-quality-wo",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/call-center-7682677/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_7682677_professional-proud-of-quality-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_7682677_professional-proud-of-quality-wo.mp4"
-        },
-        {
-          "id": "pexels_8102924_confident-accomplished-employee",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-smiling-and-posing-in-the-camera-while-people-are-working-behind-her-8102924/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_8102924_confident-accomplished-employee.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_8102924_confident-accomplished-employee.mp4"
-        },
-        {
-          "id": "pixabay_202987_craftsman-satisfied-excellent-wo",
+          "id": "pixabay_25584_two-gardeners-working-side-by-si",
           "type": "video",
           "source": "pixabay",
-          "author": "Natures_Embrace",
+          "author": "JMStaehle",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-202987/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_202987_craftsman-satisfied-excellent-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pixabay_202987_craftsman-satisfied-excellent-wo.mp4"
+          "page_url": "https://pixabay.com/videos/id-25584/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_25584_two-gardeners-working-side-by-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_25584_two-gardeners-working-side-by-si.mp4"
         },
         {
-          "id": "pexels_10256517_craftsman-satisfied-excellent-wo",
-          "type": "image",
-          "source": "pexels",
-          "author": "Diego F. Parra",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/person-carving-a-wood-10256517/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_10256517_craftsman-satisfied-excellent-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_10256517_craftsman-satisfied-excellent-wo.jpg"
+          "id": "pixabay_151707_two-gardeners-working-side-by-si",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JoshuaWoroniecki",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-151707/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_151707_two-gardeners-working-side-by-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_151707_two-gardeners-working-side-by-si.mp4"
         },
         {
-          "id": "pexels_30907896_skilled-worker-admiring-finished",
-          "type": "image",
-          "source": "pexels",
-          "author": "\u0110\u1eadu Photograph",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/craftsman-working-with-traditional-wood-joinery-30907896/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_30907896_skilled-worker-admiring-finished.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_30907896_skilled-worker-admiring-finished.jpg"
-        },
-        {
-          "id": "pexels_8482551_professional-proud-of-quality-wo",
-          "type": "image",
-          "source": "pexels",
-          "author": "Thirdman",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/backview-of-an-engineer-holding-a-floor-plan-on-a-wall-8482551/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pexels_8482551_professional-proud-of-quality-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pexels_8482551_professional-proud-of-quality-wo.jpg"
-        },
-        {
-          "id": "pixabay_4524838_craftsman-satisfied-excellent-wo",
+          "id": "pixabay_2253111_gardeners-planting-together-gree",
           "type": "image",
           "source": "pixabay",
-          "author": "endriqstudio",
+          "author": "JesusLeal",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_4524838_craftsman-satisfied-excellent-wo.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pixabay_4524838_craftsman-satisfied-excellent-wo.jpg"
+          "page_url": "https://pixabay.com/photos/yard-flowerpot-nature-first-leaves-2253111/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_2253111_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_2253111_gardeners-planting-together-gree.jpg"
         },
         {
-          "id": "pixabay_5983142_skilled-worker-admiring-finished",
+          "id": "pexels_5230906_gardeners-planting-together-gree",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anna Shvets",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/gardeners-working-together-in-lush-greenhouse-5230906/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pexels_5230906_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pexels_5230906_gardeners-planting-together-gree.jpg"
+        },
+        {
+          "id": "wikimedia_188894171_gardeners-planting-together-gree",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Shixart1985",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Two_adults_and_a_child_dig_and_plant_seeds_in_a_garden_greenhouse.jpg",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/wikimedia_188894171_gardeners-planting-together-gree.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/wikimedia_188894171_gardeners-planting-together-gree.jpg"
+        },
+        {
+          "id": "pixabay_3256879_african-workers-gardening-togeth",
           "type": "image",
           "source": "pixabay",
-          "author": "KaweewatT",
+          "author": "artsysolomon",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/hand-product-finished-goods-5983142/",
-          "thumb": "projects/benchmark-excellence/thumbs/S13/pixabay_5983142_skilled-worker-admiring-finished.jpg",
-          "preview": "projects/benchmark-excellence/previews/S13/pixabay_5983142_skilled-worker-admiring-finished.jpg"
+          "page_url": "https://pixabay.com/photos/kids-african-kenyan-playing-3256879/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_3256879_african-workers-gardening-togeth.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_3256879_african-workers-gardening-togeth.jpg"
+        },
+        {
+          "id": "pexels_4920272_african-workers-gardening-togeth",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-watering-plants-in-a-garden-4920272/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pexels_4920272_african-workers-gardening-togeth.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pexels_4920272_african-workers-gardening-togeth.jpg"
+        },
+        {
+          "id": "pexels_20339261_team-planting-seedlings-garden-c",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mark Stebnicki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/candid-photo-of-men-working-in-a-greenhouse-20339261/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pexels_20339261_team-planting-seedlings-garden-c.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pexels_20339261_team-planting-seedlings-garden-c.jpg"
+        },
+        {
+          "id": "pixabay_8027884_team-planting-seedlings-garden-c",
+          "type": "image",
+          "source": "pixabay",
+          "author": "GoranH",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/planting-transplanting-cherry-tomato-8027884/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_8027884_team-planting-seedlings-garden-c.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_8027884_team-planting-seedlings-garden-c.jpg"
+        },
+        {
+          "id": "pexels_5029772_two-gardeners-working-side-by-si",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anna Shvets",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-and-man-looking-at-a-potted-plant-5029772/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pexels_5029772_two-gardeners-working-side-by-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pexels_5029772_two-gardeners-working-side-by-si.jpg"
+        },
+        {
+          "id": "pixabay_1335017_two-gardeners-working-side-by-si",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Alexas_Fotos",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/horses-harmony-as-a-couple-wildlife-1335017/",
+          "thumb": "projects/benchmark-excellence/thumbs/N13/pixabay_1335017_two-gardeners-working-side-by-si.jpg",
+          "preview": "projects/benchmark-excellence/previews/N13/pixabay_1335017_two-gardeners-working-side-by-si.jpg"
         }
       ]
     }

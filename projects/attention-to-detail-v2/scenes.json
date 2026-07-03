@@ -1,0 +1,1478 @@
+{
+  "project": "attention-to-detail-v2",
+  "title": "Attention to Detail",
+  "generated": "2026-07-03",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "The first workplace is untidy \u2014 tools on the ground, rubbish, dirty equipment.",
+      "visual_direction": "Messy, neglected site/workshop \u2014 unease, distrust. Wide disorder + detail of tools on the floor.",
+      "clips": [
+        {
+          "id": "pexels_11649490_cluttered-construction-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tolga Durum",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/excavator-on-construction-in-city-11649490/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_11649490_cluttered-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_11649490_cluttered-construction-site.mp4"
+        },
+        {
+          "id": "pexels_34740035_untidy-workbench",
+          "type": "video",
+          "source": "pexels",
+          "author": "Sururi Ball\u0131da\u011f Director",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/skilled-craftsman-performing-leatherwork-in-workshop-34740035/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_34740035_untidy-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_34740035_untidy-workbench.mp4"
+        },
+        {
+          "id": "pexels_35271499_rubbish-building-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Rodolfo Gaion",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-construction-debris-disposal-site-35271499/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_35271499_rubbish-building-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_35271499_rubbish-building-site.mp4"
+        },
+        {
+          "id": "pexels_4489931_dirty-garage",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/car-vehicle-fix-repair-4489931/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_4489931_dirty-garage.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_4489931_dirty-garage.mp4"
+        },
+        {
+          "id": "pexels_5223090_messy-workshop",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/broken-fan-hanging-on-the-wooden-ceiling-5223090/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_5223090_messy-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_5223090_messy-workshop.mp4"
+        },
+        {
+          "id": "pexels_7520877_untidy-workbench",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-used-in-glass-making-7520877/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_7520877_untidy-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_7520877_untidy-workbench.mp4"
+        },
+        {
+          "id": "pixabay_200276_dirty-garage",
+          "type": "video",
+          "source": "pixabay",
+          "author": "LadislavBur",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-200276/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pixabay_200276_dirty-garage.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pixabay_200276_dirty-garage.mp4"
+        },
+        {
+          "id": "pixabay_206315_cluttered-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pixabay_206315_cluttered-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pixabay_206315_cluttered-construction-site.mp4"
+        },
+        {
+          "id": "pixabay_225740_cluttered-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-225740/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pixabay_225740_cluttered-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pixabay_225740_cluttered-construction-site.mp4"
+        },
+        {
+          "id": "openverse_c02b6681-0dcc-4eda-b40e-82b6_tools-scattered-floor",
+          "type": "image",
+          "source": "openverse",
+          "author": "Shixart1985",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/w/index.php?curid=186889539",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/openverse_c02b6681-0dcc-4eda-b40e-82b6_tools-scattered-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/openverse_c02b6681-0dcc-4eda-b40e-82b6_tools-scattered-floor.jpg"
+        },
+        {
+          "id": "pexels_11105139_rubbish-building-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "ritik kothari",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-photo-of-a-junkyard-11105139/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_11105139_rubbish-building-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_11105139_rubbish-building-site.jpg"
+        },
+        {
+          "id": "pexels_133022_untidy-workbench",
+          "type": "image",
+          "source": "pexels",
+          "author": "Alexander Dummer",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/white-printer-paper-near-black-labeled-plastic-container-133022/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_133022_untidy-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_133022_untidy-workbench.jpg"
+        },
+        {
+          "id": "pexels_16243257_messy-workshop",
+          "type": "image",
+          "source": "pexels",
+          "author": "Luis Quintero",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/tools-and-accessories-on-wall-in-workshop-16243257/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_16243257_messy-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_16243257_messy-workshop.jpg"
+        },
+        {
+          "id": "pexels_3822728_dirty-garage",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/retro-radio-tape-recorder-in-workshop-3822728/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_3822728_dirty-garage.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_3822728_dirty-garage.jpg"
+        },
+        {
+          "id": "pexels_5317154_cluttered-construction-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Karl Solano",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-room-under-renovation-5317154/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pexels_5317154_cluttered-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pexels_5317154_cluttered-construction-site.jpg"
+        },
+        {
+          "id": "pixabay_5056492_rubbish-building-site",
+          "type": "image",
+          "source": "pixabay",
+          "author": "manfredrichter",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-site-garbage-can-5056492/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pixabay_5056492_rubbish-building-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pixabay_5056492_rubbish-building-site.jpg"
+        },
+        {
+          "id": "pixabay_5722194_messy-workshop",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Mirekis",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/house-building-interior-abandoned-5722194/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/pixabay_5722194_messy-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/pixabay_5722194_messy-workshop.jpg"
+        },
+        {
+          "id": "wikimedia_190206905_cluttered-construction-site",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "PattayaPatrol",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:DFC_2156_A_cluttered_shipyard_alley_with_wooden_beams_debris_and_a_large_red_boat_on_the_left_leading_toward_trees_and_buildings_in_the_distance.jpg",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S01/wikimedia_190206905_cluttered-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S01/wikimedia_190206905_cluttered-construction-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "The second is clean, everything in its place \u2014 people take pride.",
+      "visual_direction": "Clean, orderly site/workshop \u2014 calm, trust. Wide tidy space + detail of organized tools.",
+      "clips": [
+        {
+          "id": "coverr_qpcdls9heb_tidy-construction-site",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/mobile-home-in-construction-qpcdls9heb",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/coverr_qpcdls9heb_tidy-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/coverr_qpcdls9heb_tidy-construction-site.mp4"
+        },
+        {
+          "id": "pexels_7482684_organized-tool-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_7482684_organized-tool-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_7482684_organized-tool-wall.mp4"
+        },
+        {
+          "id": "pexels_7484780_pegboard-tools",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/video-of-a-hammer-set-7484780/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_7484780_pegboard-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_7484780_pegboard-tools.mp4"
+        },
+        {
+          "id": "pexels_7520877_neat-workbench",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-used-in-glass-making-7520877/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_7520877_neat-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_7520877_neat-workbench.mp4"
+        },
+        {
+          "id": "pexels_8987203_swept-workshop-floor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Artem Podrez",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-person-lifting-a-tire-8987203/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_8987203_swept-workshop-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_8987203_swept-workshop-floor.mp4"
+        },
+        {
+          "id": "pixabay_276646_pegboard-tools",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-276646/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pixabay_276646_pegboard-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pixabay_276646_pegboard-tools.mp4"
+        },
+        {
+          "id": "openverse_2a23a2f1-5d01-4788-b4be-b229_neat-workbench",
+          "type": "image",
+          "source": "openverse",
+          "author": "simonov",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://www.flickr.com/photos/26209464@N00/32216962537",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/openverse_2a23a2f1-5d01-4788-b4be-b229_neat-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/openverse_2a23a2f1-5d01-4788-b4be-b229_neat-workbench.jpg"
+        },
+        {
+          "id": "pexels_12771396_swept-workshop-floor",
+          "type": "image",
+          "source": "pexels",
+          "author": "Kevin Chuang",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/empty-warehouse-with-concrete-floor-12771396/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_12771396_swept-workshop-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_12771396_swept-workshop-floor.jpg"
+        },
+        {
+          "id": "pexels_16679591_neat-workbench",
+          "type": "image",
+          "source": "pexels",
+          "author": "Miguel \u00c1. Padri\u00f1\u00e1n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wrenches-in-black-and-white-16679591/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_16679591_neat-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_16679591_neat-workbench.jpg"
+        },
+        {
+          "id": "pexels_17158671_clean-workshop",
+          "type": "image",
+          "source": "pexels",
+          "author": "hi room",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/machines-in-corner-of-spacious-workshop-17158671/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_17158671_clean-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_17158671_clean-workshop.jpg"
+        },
+        {
+          "id": "pexels_5432282_organized-tool-wall",
+          "type": "image",
+          "source": "pexels",
+          "author": "Chengxin Zhao",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/tools-on-wooden-boards-5432282/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_5432282_organized-tool-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_5432282_organized-tool-wall.jpg"
+        },
+        {
+          "id": "pexels_8661618_pegboard-tools",
+          "type": "image",
+          "source": "pexels",
+          "author": "Victtor Daniel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/stainless-steel-hand-tools-hanging-on-the-shelf-8661618/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pexels_8661618_pegboard-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pexels_8661618_pegboard-tools.jpg"
+        },
+        {
+          "id": "pixabay_2130776_organized-tool-wall",
+          "type": "image",
+          "source": "pixabay",
+          "author": "jonasmtbxdk",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/bike-repair-shop-tool-workshop-table-2130776/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pixabay_2130776_organized-tool-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pixabay_2130776_organized-tool-wall.jpg"
+        },
+        {
+          "id": "pixabay_407186_neat-workbench",
+          "type": "image",
+          "source": "pixabay",
+          "author": "SplitShire",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/motorbike-garage-repairs-workshop-407186/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S02/pixabay_407186_neat-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S02/pixabay_407186_neat-workbench.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "The small things become the big things \u2014 caring about detail.",
+      "visual_direction": "Close, careful handwork \u2014 focus, care. Detail/hands heavy.",
+      "clips": [
+        {
+          "id": "coverr_jucjtlatfm_hand-tools-detail",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/assembling-furniture-jucjtlatfm",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/coverr_jucjtlatfm_hand-tools-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/coverr_jucjtlatfm_hand-tools-detail.mp4"
+        },
+        {
+          "id": "coverr_zlcm3xk92m_carpenter-hands",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/sawing-wood-zlcm3xk92m",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/coverr_zlcm3xk92m_carpenter-hands.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/coverr_zlcm3xk92m_carpenter-hands.mp4"
+        },
+        {
+          "id": "pexels_5967525_measuring-timber",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/measuring-a-piece-of-wood-5967525/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pexels_5967525_measuring-timber.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pexels_5967525_measuring-timber.mp4"
+        },
+        {
+          "id": "pexels_5972632_carpenter-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-a-carpenter-shaving-wood-5972632/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pexels_5972632_carpenter-hands.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pexels_5972632_carpenter-hands.mp4"
+        },
+        {
+          "id": "pexels_6661935_craftsman-close-up",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-grinding-a-bag-6661935/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pexels_6661935_craftsman-close-up.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pexels_6661935_craftsman-close-up.mp4"
+        },
+        {
+          "id": "pexels_7493222_precise-woodwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/wood-working-work-craft-7493222/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pexels_7493222_precise-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pexels_7493222_precise-woodwork.mp4"
+        },
+        {
+          "id": "pexels_7520877_hand-tools-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-used-in-glass-making-7520877/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pexels_7520877_hand-tools-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pexels_7520877_hand-tools-detail.mp4"
+        },
+        {
+          "id": "pixabay_125458_carpenter-hands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "romyrwood",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-125458/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S03/pixabay_125458_carpenter-hands.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S03/pixabay_125458_carpenter-hands.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "How you park your car tells people something \u2014 did you park straight?",
+      "visual_direction": "A work vehicle parked neatly and considerately within the lines.",
+      "clips": [
+        {
+          "id": "pexels_1315986_pickup-parked-straight",
+          "type": "video",
+          "source": "pexels",
+          "author": "Zuzanna Musial",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/parking-lot-at-a-shopping-center-1315986/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_1315986_pickup-parked-straight.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_1315986_pickup-parked-straight.mp4"
+        },
+        {
+          "id": "pexels_4207964_work-truck-parked",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-parked-truck-in-the-parking-lot-4207964/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_4207964_work-truck-parked.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_4207964_work-truck-parked.mp4"
+        },
+        {
+          "id": "pexels_5982899_tidy-parking-lot",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tom Fisk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-footage-of-a-full-parking-lot-5982899/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_5982899_tidy-parking-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_5982899_tidy-parking-lot.mp4"
+        },
+        {
+          "id": "pexels_8345152_vehicle-parked-neatly",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/video-of-a-black-moving-car-8345152/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_8345152_vehicle-parked-neatly.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_8345152_vehicle-parked-neatly.mp4"
+        },
+        {
+          "id": "pexels_9701948_van-parked-lot",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-footage-of-parked-vans-on-an-open-lot-9701948/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_9701948_van-parked-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_9701948_van-parked-lot.mp4"
+        },
+        {
+          "id": "wikimedia_119529517_van-parked-lot",
+          "type": "video",
+          "source": "wikimedia",
+          "author": "PantheraLeo1359531",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Fahrzeugschau_der_FFW_Trogen_20220618_Pt_001.webm",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/wikimedia_119529517_van-parked-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/wikimedia_119529517_van-parked-lot.mp4"
+        },
+        {
+          "id": "openverse_7b40bfee-309c-4746-99ee-456a_tidy-parking-lot",
+          "type": "image",
+          "source": "openverse",
+          "author": "NZ Car Freak",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/64583732@N04/7053033191",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/openverse_7b40bfee-309c-4746-99ee-456a_tidy-parking-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/openverse_7b40bfee-309c-4746-99ee-456a_tidy-parking-lot.jpg"
+        },
+        {
+          "id": "pexels_15252382_vehicle-parked-neatly",
+          "type": "image",
+          "source": "pexels",
+          "author": "Vitali Adutskevich",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/parking-lot-beside-an-apartment-building-15252382/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_15252382_vehicle-parked-neatly.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_15252382_vehicle-parked-neatly.jpg"
+        },
+        {
+          "id": "pexels_18497124_pickup-parked-straight",
+          "type": "image",
+          "source": "pexels",
+          "author": "baran kilic",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/brown-vintage-pickup-truck-parked-by-a-garage-18497124/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_18497124_pickup-parked-straight.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_18497124_pickup-parked-straight.jpg"
+        },
+        {
+          "id": "pexels_34727529_van-parked-lot",
+          "type": "image",
+          "source": "pexels",
+          "author": "Shamshir Lall",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/line-of-vintage-ford-vans-in-taxila-pakistan-34727529/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_34727529_van-parked-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_34727529_van-parked-lot.jpg"
+        },
+        {
+          "id": "pexels_37845136_tidy-parking-lot",
+          "type": "image",
+          "source": "pexels",
+          "author": "umar muazu",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/aerial-view-of-urban-parking-lot-with-trees-37845136/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pexels_37845136_tidy-parking-lot.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pexels_37845136_tidy-parking-lot.jpg"
+        },
+        {
+          "id": "pixabay_2510031_pickup-parked-straight",
+          "type": "image",
+          "source": "pixabay",
+          "author": "fridzema",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/chevrolet-apache-oldtimer-pickup-2510031/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pixabay_2510031_pickup-parked-straight.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pixabay_2510031_pickup-parked-straight.jpg"
+        },
+        {
+          "id": "pixabay_3484527_parked-cars-lines",
+          "type": "image",
+          "source": "pixabay",
+          "author": "MabelAmber",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/car-automobile-vehicle-3484527/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/pixabay_3484527_parked-cars-lines.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/pixabay_3484527_parked-cars-lines.jpg"
+        },
+        {
+          "id": "wikimedia_69268085_pickup-parked-straight",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Greg Gjerdingen from Willmar, USA",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:1954_Chevrolet_3600_Pick-Up_(28320180891).jpg",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S04/wikimedia_69268085_pickup-parked-straight.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S04/wikimedia_69268085_pickup-parked-straight.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "How you leave a room \u2014 lights off, tidy, chair in.",
+      "visual_direction": "Leaving a space in order \u2014 sweeping, tidying, switching off, putting away.",
+      "clips": [
+        {
+          "id": "coverr_4f9imb8znu_sweeping-floor",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/a-robot-vacuum-cleaner-cleans-the-floor-near-a-couch-4f9imb8znu",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/coverr_4f9imb8znu_sweeping-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/coverr_4f9imb8znu_sweeping-floor.mp4"
+        },
+        {
+          "id": "coverr_cygkoo9lxl_cleaning-up-room",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/putting-trash-in-garbage-bag-cygkoo9lxl",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/coverr_cygkoo9lxl_cleaning-up-room.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/coverr_cygkoo9lxl_cleaning-up-room.mp4"
+        },
+        {
+          "id": "coverr_fcrdgtdu4g_putting-tools-away",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/putting-laptop-and-notebook-away-fcrdgtdu4g",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/coverr_fcrdgtdu4g_putting-tools-away.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/coverr_fcrdgtdu4g_putting-tools-away.mp4"
+        },
+        {
+          "id": "coverr_srbyohl25o_broom-sweeping",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/a-woman-sweeps-pet-fur-up-from-the-floor-at-home-srbyohl25o",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/coverr_srbyohl25o_broom-sweeping.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/coverr_srbyohl25o_broom-sweeping.mp4"
+        },
+        {
+          "id": "pexels_5591026_broom-sweeping",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-sweeping-the-floor-5591026/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/pexels_5591026_broom-sweeping.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/pexels_5591026_broom-sweeping.mp4"
+        },
+        {
+          "id": "pexels_6865253_sweeping-floor",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-sweeping-the-floor-6865253/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/pexels_6865253_sweeping-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/pexels_6865253_sweeping-floor.mp4"
+        },
+        {
+          "id": "pexels_7280260_tidying-workshop",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-painting-ceramic-plate-7280260/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/pexels_7280260_tidying-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/pexels_7280260_tidying-workshop.mp4"
+        },
+        {
+          "id": "pexels_7484776_putting-tools-away",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-hang-his-try-square-7484776/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/pexels_7484776_putting-tools-away.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/pexels_7484776_putting-tools-away.mp4"
+        },
+        {
+          "id": "pixabay_34821_broom-sweeping",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jaumeps99",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34821/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S05/pixabay_34821_broom-sweeping.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S05/pixabay_34821_broom-sweeping.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "How you treat your tools \u2014 clean, put back, respected.",
+      "visual_direction": "Well-kept tools returned to their place \u2014 respect. Detail of cleaning/hanging tools.",
+      "clips": [
+        {
+          "id": "coverr_lz6bwkbnye_hanging-tools-workshop",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/set-of-bits-in-a-toolbox-lz6bwkbnye",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/coverr_lz6bwkbnye_hanging-tools-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/coverr_lz6bwkbnye_hanging-tools-workshop.mp4"
+        },
+        {
+          "id": "coverr_pi7csjd5ow_wiping-a-tool",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/piping-bags-and-icing-nozzles-pi7csjd5ow",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/coverr_pi7csjd5ow_wiping-a-tool.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/coverr_pi7csjd5ow_wiping-a-tool.mp4"
+        },
+        {
+          "id": "pexels_4145823_wiping-a-tool",
+          "type": "video",
+          "source": "pexels",
+          "author": "Matilda Wormwood",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-cleaning-a-remote-control-4145823/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_4145823_wiping-a-tool.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_4145823_wiping-a-tool.mp4"
+        },
+        {
+          "id": "pexels_4488714_tools-returned-pegboard",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-is-holding-a-wrench-in-front-of-a-wall-4488714/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_4488714_tools-returned-pegboard.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_4488714_tools-returned-pegboard.mp4"
+        },
+        {
+          "id": "pexels_6957870_organized-toolbox",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-getting-drill-bits-from-a-toolbox-6957870/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_6957870_organized-toolbox.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_6957870_organized-toolbox.mp4"
+        },
+        {
+          "id": "pexels_7482684_hanging-tools-workshop",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_7482684_hanging-tools-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_7482684_hanging-tools-workshop.mp4"
+        },
+        {
+          "id": "pexels_8867151_cleaning-hand-tools",
+          "type": "video",
+          "source": "pexels",
+          "author": "Los Muertos Crew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-cleaning-a-scissors-using-a-white-cloth-8867151/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_8867151_cleaning-hand-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_8867151_cleaning-hand-tools.mp4"
+        },
+        {
+          "id": "pixabay_94444_tools-returned-pegboard",
+          "type": "video",
+          "source": "pixabay",
+          "author": "RoyBuri",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-94444/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pixabay_94444_tools-returned-pegboard.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pixabay_94444_tools-returned-pegboard.mp4"
+        },
+        {
+          "id": "openverse_e3aff85f-91ad-4612-87de-9f2d_mechanic-tidy-tools",
+          "type": "image",
+          "source": "openverse",
+          "author": "nenadstojkovicart",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/202846129@N03/54562323433",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/openverse_e3aff85f-91ad-4612-87de-9f2d_mechanic-tidy-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/openverse_e3aff85f-91ad-4612-87de-9f2d_mechanic-tidy-tools.jpg"
+        },
+        {
+          "id": "pexels_10126655_mechanic-tidy-tools",
+          "type": "image",
+          "source": "pexels",
+          "author": "Auto Records",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/mechanical-tools-in-a-tool-box-10126655/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_10126655_mechanic-tidy-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_10126655_mechanic-tidy-tools.jpg"
+        },
+        {
+          "id": "pexels_16243260_hanging-tools-workshop",
+          "type": "image",
+          "source": "pexels",
+          "author": "Luis Quintero",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wrenches-hanging-on-wall-16243260/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_16243260_hanging-tools-workshop.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_16243260_hanging-tools-workshop.jpg"
+        },
+        {
+          "id": "pexels_4792488_organized-toolbox",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anete Lusina",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/screw-set-with-various-screws-and-dowels-4792488/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_4792488_organized-toolbox.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_4792488_organized-toolbox.jpg"
+        },
+        {
+          "id": "pexels_7565174_cleaning-hand-tools",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-wiping-a-part-of-a-metal-engine-7565174/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_7565174_cleaning-hand-tools.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_7565174_cleaning-hand-tools.jpg"
+        },
+        {
+          "id": "pexels_8478224_wiping-a-tool",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sergey  Meshkov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-wiping-windshield-using-yellow-towel-8478224/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_8478224_wiping-a-tool.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_8478224_wiping-a-tool.jpg"
+        },
+        {
+          "id": "pexels_8661618_tools-returned-pegboard",
+          "type": "image",
+          "source": "pexels",
+          "author": "Victtor Daniel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/stainless-steel-hand-tools-hanging-on-the-shelf-8661618/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pexels_8661618_tools-returned-pegboard.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pexels_8661618_tools-returned-pegboard.jpg"
+        },
+        {
+          "id": "pixabay_2820950_wiping-a-tool",
+          "type": "image",
+          "source": "pixabay",
+          "author": "falconp4",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/tool-repair-work-metal-roulette-2820950/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S06/pixabay_2820950_wiping-a-tool.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S06/pixabay_2820950_wiping-a-tool.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "How you finish a job \u2014 clean the area, remove rubbish, check once more.",
+      "visual_direction": "Cleaning up the work area at the end of a job \u2014 diligence.",
+      "clips": [
+        {
+          "id": "coverr_cygkoo9lxl_cleaning-work-site",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/putting-trash-in-garbage-bag-cygkoo9lxl",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/coverr_cygkoo9lxl_cleaning-work-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/coverr_cygkoo9lxl_cleaning-work-site.mp4"
+        },
+        {
+          "id": "coverr_gp4asywsas_broom-construction-site",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/sweeping-sawdust-gp4asywsas",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/coverr_gp4asywsas_broom-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/coverr_gp4asywsas_broom-construction-site.mp4"
+        },
+        {
+          "id": "coverr_gp4asywsas_sweeping-sawdust",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/sweeping-sawdust-gp4asywsas",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/coverr_gp4asywsas_sweeping-sawdust.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/coverr_gp4asywsas_sweeping-sawdust.mp4"
+        },
+        {
+          "id": "coverr_yfx3brh85t_worker-cleaning-up",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/coverr_yfx3brh85t_worker-cleaning-up.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/coverr_yfx3brh85t_worker-cleaning-up.mp4"
+        },
+        {
+          "id": "pexels_12588031_clearing-debris",
+          "type": "video",
+          "source": "pexels",
+          "author": "Peter Reese",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/excavator-picking-up-building-debris-12588031/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/pexels_12588031_clearing-debris.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/pexels_12588031_clearing-debris.mp4"
+        },
+        {
+          "id": "pexels_4684453_tidying-after-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-sweeping-the-floor-with-a-broom-4684453/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/pexels_4684453_tidying-after-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/pexels_4684453_tidying-after-work.mp4"
+        },
+        {
+          "id": "pexels_6160408_worker-cleaning-up",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-power-spray-6160408/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/pexels_6160408_worker-cleaning-up.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/pexels_6160408_worker-cleaning-up.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-cleaning-up",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S07/pixabay_271463_worker-cleaning-up.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S07/pixabay_271463_worker-cleaning-up.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "Two painters \u2014 one leaves a mess, one leaves it spotless.",
+      "visual_direction": "A painter/decorator working with care \u2014 clean brushes, tape removed, spotless.",
+      "clips": [
+        {
+          "id": "pexels_3801162_wiping-paint-floor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Martina Tom\u0161i\u010d",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-someone-cleaning-the-floor-3801162/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S08/pexels_3801162_wiping-paint-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S08/pexels_3801162_wiping-paint-floor.mp4"
+        },
+        {
+          "id": "pexels_4360165_painter-cleaning-brushes",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-dipping-the-paintbrush-in-the-water-4360165/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S08/pexels_4360165_painter-cleaning-brushes.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S08/pexels_4360165_painter-cleaning-brushes.mp4"
+        },
+        {
+          "id": "pexels_4822718_removing-masking-tape",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-putting-on-masking-tape-on-white-car-4822718/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S08/pexels_4822718_removing-masking-tape.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S08/pexels_4822718_removing-masking-tape.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "A sloppy note vs a clear one \u2014 the details matter.",
+      "visual_direction": "Careful marking/measuring/noting on site \u2014 precise, neat handwork.",
+      "clips": [
+        {
+          "id": "coverr_h3nsabanqr_measuring-and-marking",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/young-man-paying-with-credit-card-at-parking-meter",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/coverr_h3nsabanqr_measuring-and-marking.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/coverr_h3nsabanqr_measuring-and-marking.mp4"
+        },
+        {
+          "id": "pexels_6538450_writing-on-clipboard",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-writing-on-a-paper-6538450/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pexels_6538450_writing-on-clipboard.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pexels_6538450_writing-on-clipboard.mp4"
+        },
+        {
+          "id": "pexels_7314252_carpenter-pencil-mark",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-marking-a-wooden-plank-7314252/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pexels_7314252_carpenter-pencil-mark.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pexels_7314252_carpenter-pencil-mark.mp4"
+        },
+        {
+          "id": "pexels_7314252_measuring-and-marking",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-marking-a-wooden-plank-7314252/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pexels_7314252_measuring-and-marking.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pexels_7314252_measuring-and-marking.mp4"
+        },
+        {
+          "id": "pexels_8820341_marking-timber-pencil",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-measuring-and-marking-a-wood-8820341/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pexels_8820341_marking-timber-pencil.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pexels_8820341_marking-timber-pencil.mp4"
+        },
+        {
+          "id": "pexels_9464475_checklist-clipboard-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/reviewing-of-paperworks-9464475/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pexels_9464475_checklist-clipboard-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pexels_9464475_checklist-clipboard-site.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-taking-notes",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S09/pixabay_40816_builder-taking-notes.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S09/pixabay_40816_builder-taking-notes.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "A small water leak ignored becomes a major repair.",
+      "visual_direction": "Spotting a small defect early \u2014 vigilance. Detail of a drip/leak, then noticing it.",
+      "clips": [
+        {
+          "id": "coverr_ecvbssmzol_leaking-tap",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/dripping-faucet-ecvbssmzol",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/coverr_ecvbssmzol_leaking-tap.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/coverr_ecvbssmzol_leaking-tap.mp4"
+        },
+        {
+          "id": "coverr_tu7brdni2f_pipe-under-sink",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/watering-flowers-with-a-water-hose-tu7brdni2f",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/coverr_tu7brdni2f_pipe-under-sink.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/coverr_tu7brdni2f_pipe-under-sink.mp4"
+        },
+        {
+          "id": "coverr_zg8emwoag6_water-drip",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/water-drops-hitting-the-sink-zg8emwoag6",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/coverr_zg8emwoag6_water-drip.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/coverr_zg8emwoag6_water-drip.mp4"
+        },
+        {
+          "id": "pexels_7584762_pipe-under-sink",
+          "type": "video",
+          "source": "pexels",
+          "author": "Stepan SK",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-doing-plumbing-7584762/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/pexels_7584762_pipe-under-sink.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/pexels_7584762_pipe-under-sink.mp4"
+        },
+        {
+          "id": "pexels_8488162_plumber-pipe",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/plumbers-wrench-hanged-on-wall-8488162/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/pexels_8488162_plumber-pipe.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/pexels_8488162_plumber-pipe.mp4"
+        },
+        {
+          "id": "pixabay_136086_leaking-tap",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kaffees\u00fcchtig",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-136086/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/pixabay_136086_leaking-tap.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/pixabay_136086_leaking-tap.mp4"
+        },
+        {
+          "id": "pixabay_188076_dripping-pipe",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MountainDweller",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-188076/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S10/pixabay_188076_dripping-pipe.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S10/pixabay_188076_dripping-pipe.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "Before you finish, stop a minute: 'What have I missed?'",
+      "visual_direction": "A final quality check \u2014 conscientiousness. Inspecting the work once more.",
+      "clips": [
+        {
+          "id": "pexels_4181140_checking-spirit-level",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ricky Esquivel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/adjusting-a-spirit-level-4181140/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_4181140_checking-spirit-level.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_4181140_checking-spirit-level.mp4"
+        },
+        {
+          "id": "pexels_4957773_carpenter-reviewing-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-doing-woodworks-4957773/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_4957773_carpenter-reviewing-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_4957773_carpenter-reviewing-work.mp4"
+        },
+        {
+          "id": "pexels_6657745_worker-examining-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-scanning-through-postage-stamp-collection-6657745/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_6657745_worker-examining-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_6657745_worker-examining-detail.mp4"
+        },
+        {
+          "id": "pexels_7484778_checking-level-tool",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-hanging-on-a-wall-7484778/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_7484778_checking-level-tool.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_7484778_checking-level-tool.mp4"
+        },
+        {
+          "id": "pexels_8488277_builder-inspecting-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-a-woman-wiping-her-sweat-8488277/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_8488277_builder-inspecting-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_8488277_builder-inspecting-work.mp4"
+        },
+        {
+          "id": "pexels_8964292_foreman-inspecting",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pexels_8964292_foreman-inspecting.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pexels_8964292_foreman-inspecting.mp4"
+        },
+        {
+          "id": "pixabay_271463_worker-examining-detail",
+          "type": "video",
+          "source": "pixabay",
+          "author": "EqualStock",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-271463/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pixabay_271463_worker-examining-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pixabay_271463_worker-examining-detail.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-inspecting-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S11/pixabay_40816_builder-inspecting-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S11/pixabay_40816_builder-inspecting-work.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "Your reputation is built one small action at a time.",
+      "visual_direction": "Small consistent acts of craftsmanship and pride \u2014 precise, focused handwork.",
+      "clips": [
+        {
+          "id": "pexels_28900197_finishing-touch-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nishant Aneja",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/interior-painting-work-in-progress-28900197/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pexels_28900197_finishing-touch-wood.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pexels_28900197_finishing-touch-wood.mp4"
+        },
+        {
+          "id": "pexels_6654039_skilled-hands-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-cutting-an-object-6654039/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pexels_6654039_skilled-hands-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pexels_6654039_skilled-hands-detail.mp4"
+        },
+        {
+          "id": "pexels_7480062_craftsman-precise-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woodworker-man-7480062/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pexels_7480062_craftsman-precise-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pexels_7480062_craftsman-precise-work.mp4"
+        },
+        {
+          "id": "pexels_7482684_tradesman-focused",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pexels_7482684_tradesman-focused.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pexels_7482684_tradesman-focused.mp4"
+        },
+        {
+          "id": "pexels_7505109_quality-woodwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/looking-at-different-wood-planks-7505109/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pexels_7505109_quality-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pexels_7505109_quality-woodwork.mp4"
+        },
+        {
+          "id": "pixabay_197483_quality-woodwork",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Roque_dg",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-197483/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pixabay_197483_quality-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pixabay_197483_quality-woodwork.mp4"
+        },
+        {
+          "id": "pixabay_202987_craftsman-precise-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pixabay_202987_craftsman-precise-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pixabay_202987_craftsman-precise-work.mp4"
+        },
+        {
+          "id": "pixabay_73847_careful-hands-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S12/pixabay_73847_careful-hands-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S12/pixabay_73847_careful-hands-work.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "script_line": "Excellence is thousands of small decisions \u2014 leave every place better.",
+      "visual_direction": "A finished quality build, tidy and complete \u2014 pride, excellence.",
+      "clips": [
+        {
+          "id": "pexels_20184480_completed-woodwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/measuring-wood-for-cutting-20184480/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_20184480_completed-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_20184480_completed-woodwork.mp4"
+        },
+        {
+          "id": "pexels_4892018_craftsman-admiring-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-crafting-a-long-board-4892018/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_4892018_craftsman-admiring-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_4892018_craftsman-admiring-work.mp4"
+        },
+        {
+          "id": "pexels_5972081_completed-woodwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-grabbing-a-plank-of-wood-5972081/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_5972081_completed-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_5972081_completed-woodwork.mp4"
+        },
+        {
+          "id": "pexels_7484291_finished-carpentry",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-creating-furniture-7484291/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_7484291_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_7484291_finished-carpentry.mp4"
+        },
+        {
+          "id": "pexels_8471051_proud-builder",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_8471051_proud-builder.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_8471051_proud-builder.mp4"
+        },
+        {
+          "id": "pexels_8821264_proud-builder-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_8821264_proud-builder-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_8821264_proud-builder-work.mp4"
+        },
+        {
+          "id": "pixabay_40816_proud-builder-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pixabay_40816_proud-builder-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pixabay_40816_proud-builder-work.mp4"
+        },
+        {
+          "id": "wikimedia_71389592_finished-carpentry",
+          "type": "video",
+          "source": "wikimedia",
+          "author": "Van Wey Homes, LLC, CCB 202980",
+          "license": "CC BY 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Modern_Architecture-_Time_Lapse_Construction_Custom_Home_Builder_In_Southern_Oregon.webm",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/wikimedia_71389592_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/wikimedia_71389592_finished-carpentry.mp4"
+        },
+        {
+          "id": "pexels_13005858_completed-woodwork",
+          "type": "image",
+          "source": "pexels",
+          "author": "Brian Magill",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-in-white-long-sleeve-shirt-scraping-wood-plank-13005858/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_13005858_completed-woodwork.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_13005858_completed-woodwork.jpg"
+        },
+        {
+          "id": "pexels_30907892_finished-carpentry",
+          "type": "image",
+          "source": "pexels",
+          "author": "\u0110\u1eadu Photograph",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-craftsman-using-hand-tool-in-workshop-30907892/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_30907892_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_30907892_finished-carpentry.jpg"
+        },
+        {
+          "id": "pexels_32357224_craftsman-admiring-work",
+          "type": "image",
+          "source": "pexels",
+          "author": "HONG SON",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/craftsman-working-on-traditional-wooden-barrel-32357224/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_32357224_craftsman-admiring-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_32357224_craftsman-admiring-work.jpg"
+        },
+        {
+          "id": "pexels_7031603_tidy-finished-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Max Vakhtbovych",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/spacious-empty-room-with-white-walls-7031603/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_7031603_tidy-finished-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_7031603_tidy-finished-site.jpg"
+        },
+        {
+          "id": "pexels_8961555_proud-builder-work",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pexels_8961555_proud-builder-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pexels_8961555_proud-builder-work.jpg"
+        },
+        {
+          "id": "pixabay_3511239_craftsman-admiring-work",
+          "type": "image",
+          "source": "pixabay",
+          "author": "orhanyunus18",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/craftsman-trades-study-work-craft-3511239/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pixabay_3511239_craftsman-admiring-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pixabay_3511239_craftsman-admiring-work.jpg"
+        },
+        {
+          "id": "pixabay_4524838_finished-carpentry",
+          "type": "image",
+          "source": "pixabay",
+          "author": "endriqstudio",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pixabay_4524838_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pixabay_4524838_finished-carpentry.jpg"
+        },
+        {
+          "id": "pixabay_4896056_proud-builder-work",
+          "type": "image",
+          "source": "pixabay",
+          "author": "AhmadArdity",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/construction-building-worker-labor-4896056/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pixabay_4896056_proud-builder-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pixabay_4896056_proud-builder-work.jpg"
+        },
+        {
+          "id": "pixabay_880735_finished-carpentry",
+          "type": "image",
+          "source": "pixabay",
+          "author": "stevepb",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/confused-muddled-illogical-880735/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/pixabay_880735_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/pixabay_880735_finished-carpentry.jpg"
+        },
+        {
+          "id": "wikimedia_154891250_finished-carpentry",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "U.S. Army USACOE-ED by Christopher Gardner",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:U_S_Army_delivering_on_housing_and_quality_of_life_for_Soldiers_and_their_families_at_Rose_Barracks_in_Vilseck_(6670972).jpg",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S13/wikimedia_154891250_finished-carpentry.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S13/wikimedia_154891250_finished-carpentry.jpg"
+        }
+      ]
+    }
+  ]
+}

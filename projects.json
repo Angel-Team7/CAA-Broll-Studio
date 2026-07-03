@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "slug": "attention-to-detail",
-      "title": "Attention To Detail",
+      "slug": "attention-to-detail-v2",
+      "title": "Attention to Detail",
       "scenes": 13,
-      "clips": 84
+      "clips": 138
     },
     {
       "slug": "be-a-lifelong-learner",
@@ -15,14 +15,20 @@
     {
       "slug": "benchmark-excellence",
       "title": "Benchmark Excellence",
-      "scenes": 13,
-      "clips": 85
+      "scenes": 5,
+      "clips": 106
     },
     {
       "slug": "communication-dont-assume-clarify",
       "title": "Communication Dont Assume Clarify",
-      "scenes": 13,
-      "clips": 62
+      "scenes": 7,
+      "clips": 111
+    },
+    {
+      "slug": "edenrise-builders-pool",
+      "title": "Edenrise Builders Pool",
+      "scenes": 11,
+      "clips": 237
     },
     {
       "slug": "extreme-ownership",
@@ -34,7 +40,7 @@
       "slug": "lesson-above-below-line",
       "title": "Above / Below the Line \u2014 B-roll",
       "scenes": 14,
-      "clips": 22
+      "clips": 20
     },
     {
       "slug": "lesson-no-failure-feedback",
