@@ -1,13 +1,15 @@
 {
   "project": "be-a-lifelong-learner-v2",
-  "updated": "2026-07-03T15:58:42.729Z",
+  "updated": "2026-07-05T23:46:35.666Z",
   "ready": false,
   "approved": {
     "S02": [
-      "pexels_7479053_craftsman-focused"
+      "pexels_7479053_craftsman-focused",
+      "coverr_mw8szu4qpx_carpenter-building"
     ],
     "S03": [
-      "pexels_6339928_trainee-taking-notes"
+      "pexels_6339928_trainee-taking-notes",
+      "pexels_8964728_hardhat-workers-talking"
     ],
     "S05": [
       "pexels_5895494_experienced-carpenter-teaching"
@@ -30,14 +32,25 @@
     "S13": [
       "pexels_8964293_sunrise-builder",
       "pexels_7484289_apprentice-becoming-skilled",
-      "pexels_8960996_worker-looking-ahead-site"
+      "pexels_8960996_worker-looking-ahead-site",
+      "pixabay_275983_builder-looking-at-horizon"
+    ],
+    "S01": [
+      "pexels_8964376_two-construction-workers"
+    ],
+    "S06": [
+      "pexels_8487122_builder-discussing-hardhat"
+    ],
+    "S10": [
+      "pexels_8963676_construction-worker-digital-tabl"
     ]
   },
   "needs_broll": {
     "S01": "please generate 7 more showing two workers as int he context",
-    "S04": "more please contexual -- construction and ground workers",
     "S06": "generate more contextual please -- 5 more brolls",
     "S10": "5 more more contextual it's says learn ai - a coach anytime.",
-    "S13": "generate more contextual please."
+    "S13": "generate more contextual please.",
+    "S04": "make it semi office type or but casual outfit -- generate 10 more",
+    "S09": "if give something from the context -- does need to be contruction or land - -semi office yet casual outfit describing the situation"
   }
 }
