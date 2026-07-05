@@ -1,6 +1,6 @@
 {
   "project": "be-a-lifelong-learner-v2",
-  "updated": "2026-07-03T15:58:42.729Z",
+  "updated": "2026-07-05T23:52:24.369Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -15,9 +15,6 @@
     "S07": [
       "pexels_9300026_child-exploring-outdoors"
     ],
-    "S08": [
-      "pexels_8488277_builder-wiping-brow"
-    ],
     "S09": [
       "pexels_8487428_worker-practicing-skill"
     ],
@@ -30,7 +27,14 @@
     "S13": [
       "pexels_8964293_sunrise-builder",
       "pexels_7484289_apprentice-becoming-skilled",
-      "pexels_8960996_worker-looking-ahead-site"
+      "pexels_8960996_worker-looking-ahead-site",
+      "pixabay_275983_builder-looking-at-horizon"
+    ],
+    "S10": [
+      "pexels_8963676_construction-worker-digital-tabl"
+    ],
+    "S08": [
+      "pexels_8488277_builder-wiping-brow"
     ]
   },
   "needs_broll": {
