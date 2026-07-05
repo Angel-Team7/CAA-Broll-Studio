@@ -149,21 +149,27 @@ async function save(ready) {
 // ---- GitHub REST helpers (fine-grained token, contents:write on one repo) ----
 function ghUrl(path) { return `https://api.github.com/repos/${gh.owner}/${gh.repo}/contents/${path}`; }
 async function ghGet(path) {
-  const r = await fetch(ghUrl(path) + `?ref=${gh.branch||"main"}`,
-    { headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" } });
+  // cache:no-store + cache-buster so we always read the CURRENT sha (stale sha => 409 on PUT)
+  const r = await fetch(ghUrl(path) + `?ref=${gh.branch||"main"}&_=${Date.now()}`,
+    { cache: "no-store",
+      headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" } });
   if (r.status === 404) return null;
   if (!r.ok) throw new Error("GET " + r.status);
   return r.json();
 }
 async function ghPut(path, text, message) {
-  const existing = await ghGet(path).catch(() => null);
-  const body = { message, content: b64(text), branch: gh.branch || "main" };
-  if (existing && existing.sha) body.sha = existing.sha;
-  const r = await fetch(ghUrl(path), { method: "PUT",
-    headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" },
-    body: JSON.stringify(body) });
-  if (!r.ok) throw new Error("PUT " + r.status);
-  return r.json();
+  // Retry on 409 (another session/push changed the file since we read its sha).
+  for (let attempt = 0; attempt < 4; attempt++) {
+    const existing = await ghGet(path).catch(() => null);
+    const body = { message, content: b64(text), branch: gh.branch || "main" };
+    if (existing && existing.sha) body.sha = existing.sha;
+    const r = await fetch(ghUrl(path), { method: "PUT",
+      headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" },
+      body: JSON.stringify(body) });
+    if (r.ok) return r.json();
+    if (r.status === 409 && attempt < 3) { await new Promise(res => setTimeout(res, 500)); continue; }
+    throw new Error("PUT " + r.status);
+  }
 }
 
 function connectGitHub() {
