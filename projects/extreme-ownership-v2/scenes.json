@@ -1,6 +1,6 @@
 {
   "project": "extreme-ownership-v2",
-  "title": "Extreme Ownership V2",
+  "title": "Extreme Ownership \u2014 B-roll",
   "generated": "2026-07-06",
   "scenes": [
     {
@@ -721,94 +721,54 @@
       "visual_direction": "A worker telling the foreman early and asking for help. Emotion: honest early communication.",
       "clips": [
         {
-          "id": "pexels_32244795_worker-approaching-supervisor",
+          "id": "pexels_32244795_construction-site-manager-worker",
           "type": "video",
           "source": "pexels",
           "author": "Usman AbdulrasheedGambo",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_32244795_worker-approaching-supervisor.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_32244795_worker-approaching-supervisor.mp4"
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_32244795_construction-site-manager-worker.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_32244795_construction-site-manager-worker.mp4"
         },
         {
-          "id": "pexels_35004913_honest-workplace-conversation",
+          "id": "pexels_5100043_worker-checking-watch-site",
           "type": "video",
           "source": "pexels",
-          "author": "Nkadi OP",
+          "author": "Gustavo Fring",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/confident-african-woman-speaking-on-camera-35004913/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_35004913_honest-workplace-conversation.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_35004913_honest-workplace-conversation.mp4"
+          "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_5100043_worker-checking-watch-site.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_5100043_worker-checking-watch-site.mp4"
         },
         {
-          "id": "pexels_5971448_employee-talking-manager",
+          "id": "pexels_8486728_builder-asking-foreman-question",
           "type": "video",
           "source": "pexels",
-          "author": "cottonbro studio",
+          "author": "Kindel Media",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/two-people-talking-together-5971448/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_5971448_employee-talking-manager.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_5971448_employee-talking-manager.mp4"
+          "page_url": "https://www.pexels.com/video/woman-wearing-protective-gear-looking-at-the-camera-8486728/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8486728_builder-asking-foreman-question.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8486728_builder-asking-foreman-question.mp4"
         },
         {
-          "id": "pexels_7640684_worker-raising-concern",
+          "id": "pexels_8487127_hardhat-workers-discussing-probl",
           "type": "video",
           "source": "pexels",
-          "author": "Yan Krukau",
+          "author": "Kindel Media",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-worried-at-work-7640684/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_7640684_worker-raising-concern.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_7640684_worker-raising-concern.mp4"
+          "page_url": "https://www.pexels.com/video/female-engineers-having-a-discussion-8487127/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8487127_hardhat-workers-discussing-probl.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8487127_hardhat-workers-discussing-probl.mp4"
         },
         {
-          "id": "pexels_7655391_casual-work-meeting",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/coworkers-working-on-a-project-7655391/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_7655391_casual-work-meeting.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_7655391_casual-work-meeting.mp4"
-        },
-        {
-          "id": "pexels_8821264_builders-conversation-site",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8821264_builders-conversation-site.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8821264_builders-conversation-site.mp4"
-        },
-        {
-          "id": "pexels_8963857_worker-foreman-clipboard",
+          "id": "pexels_8963857_worker-explaining-to-supervisor",
           "type": "video",
           "source": "pexels",
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8963857_worker-foreman-clipboard.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8963857_worker-foreman-clipboard.mp4"
-        },
-        {
-          "id": "pexels_8964379_site-manager-talking-crew",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8964379_site-manager-talking-crew.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8964379_site-manager-talking-crew.mp4"
-        },
-        {
-          "id": "pexels_8964728_site-induction-talk",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8964728_site-induction-talk.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8964728_site-induction-talk.mp4"
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8963857_worker-explaining-to-supervisor.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8963857_worker-explaining-to-supervisor.mp4"
         },
         {
           "id": "pexels_8964772_worker-talking-foreman",
@@ -821,34 +781,14 @@
           "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8964772_worker-talking-foreman.mp4"
         },
         {
-          "id": "pexels_8964792_foreman-clipboard-worker",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8964792_foreman-clipboard-worker.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8964792_foreman-clipboard-worker.mp4"
-        },
-        {
-          "id": "pexels_8964793_worker-asking-question-site",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_8964793_worker-asking-question-site.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_8964793_worker-asking-question-site.mp4"
-        },
-        {
-          "id": "pixabay_85350_worker-foreman-clipboard",
+          "id": "pixabay_15629_worker-checking-watch-site",
           "type": "video",
           "source": "pixabay",
-          "author": "AlexKopeykin",
+          "author": "wastedgeneration",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-85350/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pixabay_85350_worker-foreman-clipboard.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S07/pixabay_85350_worker-foreman-clipboard.mp4"
+          "page_url": "https://pixabay.com/videos/id-15629/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pixabay_15629_worker-checking-watch-site.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pixabay_15629_worker-checking-watch-site.mp4"
         }
       ]
     },
