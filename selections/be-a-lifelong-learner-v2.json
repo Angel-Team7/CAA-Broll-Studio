@@ -1,7 +1,7 @@
 {
   "project": "be-a-lifelong-learner-v2",
-  "updated": "2026-07-06T00:10:57.744Z",
-  "ready": true,
+  "updated": "2026-07-06T09:08:09.628Z",
+  "ready": false,
   "approved": {
     "S02": [
       "pexels_7479053_craftsman-focused"
@@ -38,10 +38,10 @@
     ]
   },
   "needs_broll": {
-    "S01": "please generate 7 more showing two workers as int he context",
-    "S04": "more please contexual -- construction and ground workers",
-    "S06": "generate more contextual please -- 5 more brolls",
     "S10": "5 more more contextual it's says learn ai - a coach anytime.",
-    "S13": "generate more contextual please."
+    "S13": "generate more contextual please.",
+    "S01": "please generate more i don't like any of these, delete these",
+    "S04": "i dont like any of these please regeeratre moer and delete theese 7 more",
+    "S06": "please 7 more and dellete these i dont like any of these"
   }
 }
