@@ -1,7 +1,7 @@
 {
   "project": "extreme-ownership-v2",
-  "title": "Extreme Ownership \u2014 B-roll",
-  "generated": "2026-07-03",
+  "title": "Extreme Ownership V2",
+  "generated": "2026-07-06",
   "scenes": [
     {
       "id": "S01",
@@ -497,6 +497,66 @@
           "preview": "projects/extreme-ownership-v2/previews/S05/pexels_6144016_builder-hand-on-chin.mp4"
         },
         {
+          "id": "pexels_6283037_worker-deep-in-thought",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-deeply-thinking-6283037/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_6283037_worker-deep-in-thought.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_6283037_worker-deep-in-thought.mp4"
+        },
+        {
+          "id": "pexels_6473952_worker-looking-at-blueprint-alon",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-looking-the-plan-6473952/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_6473952_worker-looking-at-blueprint-alon.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_6473952_worker-looking-at-blueprint-alon.mp4"
+        },
+        {
+          "id": "pexels_6473959_foreman-studying-plans",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-digital-tablet-6473959/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_6473959_foreman-studying-plans.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_6473959_foreman-studying-plans.mp4"
+        },
+        {
+          "id": "pexels_6684100_worker-calm-reflection",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-of-a-man-s-face-6684100/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_6684100_worker-calm-reflection.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_6684100_worker-calm-reflection.mp4"
+        },
+        {
+          "id": "pexels_7314258_construction-worker-serious-face",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-holding-an-electric-drill-7314258/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_7314258_construction-worker-serious-face.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_7314258_construction-worker-serious-face.mp4"
+        },
+        {
+          "id": "pexels_7482684_tradesman-focused-problem",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_7482684_tradesman-focused-problem.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_7482684_tradesman-focused-problem.mp4"
+        },
+        {
           "id": "pexels_8486728_foreman-surveying-site",
           "type": "video",
           "source": "pexels",
@@ -535,16 +595,6 @@
           "page_url": "https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/",
           "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_8964293_builder-looking-at-work.jpg",
           "preview": "projects/extreme-ownership-v2/previews/S05/pexels_8964293_builder-looking-at-work.mp4"
-        },
-        {
-          "id": "pexels_8964728_planning-on-site",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S05/pexels_8964728_planning-on-site.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S05/pexels_8964728_planning-on-site.mp4"
         },
         {
           "id": "pexels_8964933_site-inspection-walk",
@@ -670,6 +720,56 @@
       "script_line": "Behind schedule \u2014 one hides it, one speaks up early to the foreman.",
       "visual_direction": "A worker telling the foreman early and asking for help. Emotion: honest early communication.",
       "clips": [
+        {
+          "id": "pexels_32244795_worker-approaching-supervisor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_32244795_worker-approaching-supervisor.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_32244795_worker-approaching-supervisor.mp4"
+        },
+        {
+          "id": "pexels_35004913_honest-workplace-conversation",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nkadi OP",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/confident-african-woman-speaking-on-camera-35004913/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_35004913_honest-workplace-conversation.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_35004913_honest-workplace-conversation.mp4"
+        },
+        {
+          "id": "pexels_5971448_employee-talking-manager",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-people-talking-together-5971448/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_5971448_employee-talking-manager.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_5971448_employee-talking-manager.mp4"
+        },
+        {
+          "id": "pexels_7640684_worker-raising-concern",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-worried-at-work-7640684/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_7640684_worker-raising-concern.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_7640684_worker-raising-concern.mp4"
+        },
+        {
+          "id": "pexels_7655391_casual-work-meeting",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/coworkers-working-on-a-project-7655391/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S07/pexels_7655391_casual-work-meeting.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S07/pexels_7655391_casual-work-meeting.mp4"
+        },
         {
           "id": "pexels_8821264_builders-conversation-site",
           "type": "video",
@@ -972,6 +1072,26 @@
           "preview": "projects/extreme-ownership-v2/previews/S10/pexels_10989072_builder-correcting-work.mp4"
         },
         {
+          "id": "pexels_13367963_worker-repairing-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/worker-drilling-brick-wall-13367963/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S10/pexels_13367963_worker-repairing-wall.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S10/pexels_13367963_worker-repairing-wall.mp4"
+        },
+        {
+          "id": "pexels_34038590_fixing-error-construction",
+          "type": "video",
+          "source": "pexels",
+          "author": "\u00d6zg\u00fcr S\u00fcrmeli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/craftsman-hammering-wooden-pieces-outdoors-34038590/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S10/pexels_34038590_fixing-error-construction.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S10/pexels_34038590_fixing-error-construction.mp4"
+        },
+        {
           "id": "pexels_34572318_worker-fixing-site",
           "type": "video",
           "source": "pexels",
@@ -992,6 +1112,16 @@
           "preview": "projects/extreme-ownership-v2/previews/S10/pexels_5895494_mentor-showing-worker.mp4"
         },
         {
+          "id": "pexels_7019389_checking-and-fixing-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-car-mechanic-checking-the-under-chassis-7019389/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S10/pexels_7019389_checking-and-fixing-work.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S10/pexels_7019389_checking-and-fixing-work.mp4"
+        },
+        {
           "id": "pexels_7568443_worker-fixing-work",
           "type": "video",
           "source": "pexels",
@@ -1000,16 +1130,6 @@
           "page_url": "https://www.pexels.com/video/close-up-view-of-a-man-fixing-the-parts-of-a-truck-7568443/",
           "thumb": "projects/extreme-ownership-v2/thumbs/S10/pexels_7568443_worker-fixing-work.jpg",
           "preview": "projects/extreme-ownership-v2/previews/S10/pexels_7568443_worker-fixing-work.mp4"
-        },
-        {
-          "id": "pexels_8487985_mentor-showing-worker",
-          "type": "video",
-          "source": "pexels",
-          "author": "Kindel Media",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/female-engineers-having-a-discussion-8487985/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S10/pexels_8487985_mentor-showing-worker.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S10/pexels_8487985_mentor-showing-worker.mp4"
         },
         {
           "id": "pexels_8964772_foreman-teaching-apprentice",
@@ -1313,6 +1433,16 @@
       "visual_direction": "A trusted worker stepping into leadership \u2014 foreman leading a crew, a handshake of trust, finished build. Emotion: trust, leadership.",
       "clips": [
         {
+          "id": "pexels_10366109_foreman-directing-team",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-having-a-conversation-10366109/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_10366109_foreman-directing-team.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_10366109_foreman-directing-team.mp4"
+        },
+        {
           "id": "pexels_27831586_finished-house-build",
           "type": "video",
           "source": "pexels",
@@ -1343,14 +1473,14 @@
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_6648429_builder-handshake-trust.mp4"
         },
         {
-          "id": "pexels_8471051_builder-team-leader",
+          "id": "pexels_7163092_worker-leading-crew",
           "type": "video",
           "source": "pexels",
-          "author": "Thirdman",
+          "author": "K",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8471051_builder-team-leader.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8471051_builder-team-leader.mp4"
+          "page_url": "https://www.pexels.com/video/construction-workers-fixing-a-road-7163092/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_7163092_worker-leading-crew.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_7163092_worker-leading-crew.mp4"
         },
         {
           "id": "pexels_8487041_construction-handshake-site",
@@ -1373,14 +1503,34 @@
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8487122_site-manager-leading.mp4"
         },
         {
-          "id": "pexels_8963857_foreman-leading-crew",
+          "id": "pexels_8487986_confident-hardhat-portrait",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/handywoman-holding-a-drill-and-hammer-8487986/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8487986_confident-hardhat-portrait.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8487986_confident-hardhat-portrait.mp4"
+        },
+        {
+          "id": "pexels_8829010_team-leader-hard-hat",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-talking-while-looking-at-the-paper-8829010/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8829010_team-leader-hard-hat.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8829010_team-leader-hard-hat.mp4"
+        },
+        {
+          "id": "pexels_8964929_confident-site-manager",
           "type": "video",
           "source": "pexels",
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8963857_foreman-leading-crew.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8963857_foreman-leading-crew.mp4"
+          "page_url": "https://www.pexels.com/video/a-man-wearing-a-hard-hat-8964929/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8964929_confident-site-manager.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8964929_confident-site-manager.mp4"
         },
         {
           "id": "pixabay_14476_finished-house-build",
@@ -1423,6 +1573,16 @@
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_32383134_finished-house-build.jpg"
         },
         {
+          "id": "pexels_32826199_worker-leading-crew",
+          "type": "image",
+          "source": "pexels",
+          "author": "Purvesh Photography",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/indian-construction-workers-at-construction-site-32826199/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_32826199_worker-leading-crew.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_32826199_worker-leading-crew.jpg"
+        },
+        {
           "id": "pexels_3846255_mentor-and-apprentice",
           "type": "image",
           "source": "pexels",
@@ -1433,14 +1593,14 @@
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_3846255_mentor-and-apprentice.jpg"
         },
         {
-          "id": "pexels_7736028_builder-handshake-trust",
+          "id": "pexels_7736028_handshake-construction-deal",
           "type": "image",
           "source": "pexels",
           "author": "Mikhail Nilov",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/close-up-shot-of-a-people-handshake-7736028/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_7736028_builder-handshake-trust.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_7736028_builder-handshake-trust.jpg"
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_7736028_handshake-construction-deal.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_7736028_handshake-construction-deal.jpg"
         },
         {
           "id": "pexels_8469983_team-leader-site",
@@ -1473,6 +1633,16 @@
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8961025_foreman-leading-crew.jpg"
         },
         {
+          "id": "pexels_8961126_confident-site-manager",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-wearing-safety-helmet-and-vest-standing-near-the-steel-structure-8961126/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8961126_confident-site-manager.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8961126_confident-site-manager.jpg"
+        },
+        {
           "id": "pexels_8961260_construction-handshake-site",
           "type": "image",
           "source": "pexels",
@@ -1481,6 +1651,76 @@
           "page_url": "https://www.pexels.com/photo/people-with-hard-hard-standing-on-the-construction-site-8961260/",
           "thumb": "projects/extreme-ownership-v2/thumbs/S13/pexels_8961260_construction-handshake-site.jpg",
           "preview": "projects/extreme-ownership-v2/previews/S13/pexels_8961260_construction-handshake-site.jpg"
+        },
+        {
+          "id": "pixabay_1867185_foreman-directing-team",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/athletes-american-football-players-1867185/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pixabay_1867185_foreman-directing-team.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pixabay_1867185_foreman-directing-team.jpg"
+        },
+        {
+          "id": "pixabay_4835116_handshake-construction-deal",
+          "type": "image",
+          "source": "pixabay",
+          "author": "styles66",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/interview-deal-business-handshake-4835116/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pixabay_4835116_handshake-construction-deal.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pixabay_4835116_handshake-construction-deal.jpg"
+        },
+        {
+          "id": "pixabay_6066661_confident-site-manager",
+          "type": "image",
+          "source": "pixabay",
+          "author": "LEVEL_uP_PICTURES",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/fashion-model-woman-manager-6066661/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pixabay_6066661_confident-site-manager.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pixabay_6066661_confident-site-manager.jpg"
+        },
+        {
+          "id": "pixabay_6745180_worker-leading-crew",
+          "type": "image",
+          "source": "pixabay",
+          "author": "FlowerPower385",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/worker-construction-labor-crew-6745180/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/pixabay_6745180_worker-leading-crew.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/pixabay_6745180_worker-leading-crew.jpg"
+        },
+        {
+          "id": "wikimedia_105494926_worker-leading-crew",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Jacob W. Frank",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Trail_crew_Mt._Washburn_Trail_crib_wall_project_(b9b2b40d-896e-4ca3-840c-dadea729b3a3).jpg",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/wikimedia_105494926_worker-leading-crew.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/wikimedia_105494926_worker-leading-crew.jpg"
+        },
+        {
+          "id": "wikimedia_22542339_foreman-directing-team",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "\u7384\u53f2\u751f",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Mountains_Priceless_Court_Grass_20121104.JPG",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/wikimedia_22542339_foreman-directing-team.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/wikimedia_22542339_foreman-directing-team.jpg"
+        },
+        {
+          "id": "wikimedia_95643017_confident-site-manager",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "NASA/Goddard/University of Arizona/Lockheed Martin",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:OSIRIS-RExStowsAsteroidBennuSample-20201029.png",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S13/wikimedia_95643017_confident-site-manager.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S13/wikimedia_95643017_confident-site-manager.jpg"
         }
       ]
     }
