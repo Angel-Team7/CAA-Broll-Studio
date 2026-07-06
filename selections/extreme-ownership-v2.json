@@ -1,7 +1,7 @@
 {
   "project": "extreme-ownership-v2",
-  "updated": "2026-07-06T09:13:54.659Z",
-  "ready": true,
+  "updated": "2026-07-06T09:30:34.471Z",
+  "ready": false,
   "approved": {
     "S01": [
       "pixabay_40816_arms-crossed-builder"
@@ -39,6 +39,9 @@
     ],
     "S13": [
       "pexels_8487041_construction-handshake-site"
+    ],
+    "S07": [
+      "pexels_8487127_hardhat-workers-discussing-probl"
     ]
   },
   "needs_broll": {
