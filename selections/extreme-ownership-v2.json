@@ -1,6 +1,6 @@
 {
   "project": "extreme-ownership-v2",
-  "updated": "2026-07-03T16:45:17.216Z",
+  "updated": "2026-07-06T00:21:19.111Z",
   "ready": true,
   "approved": {
     "S01": [
@@ -30,12 +30,21 @@
     ],
     "S12": [
       "pexels_5434220_builder-walking-site"
+    ],
+    "S05": [
+      "pexels_6144016_builder-hand-on-chin"
+    ],
+    "S10": [
+      "pexels_34572318_worker-fixing-site"
+    ],
+    "S13": [
+      "pexels_8487041_construction-handshake-site"
     ]
   },
   "needs_broll": {
     "S05": "more please 10 more contextual",
-    "S07": "more please 10 more contextual -- could be semi office fi you dont find",
     "S10": "generate. 10 more please",
-    "S13": "more please 10 more contextual"
+    "S13": "more please 10 more contextual",
+    "S07": "please generate 5 more -- could be semi office - yet cascual dressing"
   }
 }
