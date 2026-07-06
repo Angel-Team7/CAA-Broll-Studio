@@ -20,6 +20,11 @@ button:hover{border-color:#3a465c}
 button.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
 button.send{background:var(--greendim);border-color:var(--green);color:var(--green);font-weight:600}
 button.send:hover{background:var(--green);color:#062}
+button.finalise{border-color:#6b5cff;color:#b3a7ff}
+button.finalise:hover{background:#241f4a}
+button.finalise.on{background:#2e2769;border-color:#8a7bff;color:#cfc6ff;font-weight:700}
+.progressbar{padding:7px 20px;font-size:13px;border-top:1px solid #10131b;background:rgba(107,92,255,.06)}
+.progressbar .pdone{color:#b3a7ff}
 button.link{background:none;border:none;color:var(--accent);padding:2px 4px}
 .tokenbar{padding:6px 20px;font-size:12px;display:flex;gap:10px;align-items:center;
   border-top:1px solid #10131b}

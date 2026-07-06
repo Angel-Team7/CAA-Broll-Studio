@@ -3,7 +3,7 @@
 // is connected, Save/Send also commit selections/<slug>.json to the repo.
 
 const $ = s => document.querySelector(s);
-const state = { slug: null, data: null, approved: {}, reshoot: {} };
+const state = { slug: null, data: null, approved: {}, reshoot: {}, finalised: [], projects: [] };
 const gh = JSON.parse(localStorage.getItem("gh") || "null"); // {owner,repo,token,branch}
 
 function toast(msg) {
@@ -16,10 +16,54 @@ async function loadProjects() {
   const sel = $("#project");
   if (!idx || !idx.projects.length) { $("#scenes").innerHTML =
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
-  sel.innerHTML = idx.projects.map(p =>
-    `<option value="${p.slug}">${p.title} — ${p.scenes} scenes</option>`).join("");
+  state.projects = idx.projects;
+  state.finalised = await loadFinalised();
+  renderProjectSelect();
+  renderProgress();
   sel.onchange = () => loadProject(sel.value);
   loadProject(idx.projects[0].slug);
+}
+
+function renderProjectSelect() {
+  const sel = $("#project"); const cur = sel.value;
+  sel.innerHTML = state.projects.map(p =>
+    `<option value="${p.slug}">${state.finalised.includes(p.slug) ? "✅ " : "◻︎ "}${p.title} — ${p.scenes} scenes</option>`).join("");
+  if (cur) sel.value = cur;
+}
+
+// ---- Finalised tracking (shared list in the repo, like selections) ----
+async function loadFinalised() {
+  if (gh && gh.token) {
+    const got = await ghGet("finalised.json").catch(() => null);
+    if (got) { try { return JSON.parse(atob(got.content)).finalised || []; } catch {} }
+  }
+  return JSON.parse(localStorage.getItem("finalised") || "[]");
+}
+async function saveFinalised() {
+  localStorage.setItem("finalised", JSON.stringify(state.finalised));
+  if (gh && gh.token) {
+    try { await ghPut("finalised.json", JSON.stringify({ finalised: state.finalised }, null, 2), "cockpit: update finalised list"); }
+    catch (e) { toast("GitHub save failed: " + e.message); }
+  }
+}
+function renderProgress() {
+  const total = state.projects.length, done = state.finalised.filter(s => state.projects.some(p => p.slug === s)).length;
+  const remaining = state.projects.filter(p => !state.finalised.includes(p.slug)).map(p => p.title);
+  $("#progressbar").innerHTML = `<b class="pdone">${done}/${total} finalised</b>` +
+    (remaining.length ? ` &nbsp;·&nbsp; <span class="muted">remaining: ${remaining.map(esc).join(" · ")}</span>`
+                      : ` &nbsp;·&nbsp; <span class="pdone">all lessons finalised 🎉</span>`);
+}
+function updateFinaliseBtn() {
+  const on = state.finalised.includes(state.slug);
+  const b = $("#finalise"); if (!b) return;
+  b.textContent = on ? "✅ Finalised" : "✓ Mark finalised"; b.classList.toggle("on", on);
+}
+async function toggleFinalise() {
+  const i = state.finalised.indexOf(state.slug);
+  if (i >= 0) state.finalised.splice(i, 1); else state.finalised.push(state.slug);
+  updateFinaliseBtn(); renderProjectSelect(); renderProgress();
+  await saveFinalised();
+  toast(state.finalised.includes(state.slug) ? "Marked finalised ✅" : "Unmarked");
 }
 
 async function loadProject(slug) {
@@ -29,6 +73,7 @@ async function loadProject(slug) {
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
   render();
+  updateFinaliseBtn();
 }
 
 // Prefer GitHub selections when connected, else localStorage. Returns the full
@@ -196,5 +241,6 @@ function downloadJSON(name, obj) {
 $("#save").onclick = () => save(false);
 $("#send").onclick = () => { if (confirm("Send the approved B-roll to the editor?")) save(true); };
 $("#connect").onclick = connectGitHub;
+$("#finalise").onclick = toggleFinalise;
 if (gh && gh.token) { $("#savemode").textContent = `GitHub (${gh.owner}/${gh.repo})`; $("#connect").textContent = "Reconnect…"; }
 loadProjects();
