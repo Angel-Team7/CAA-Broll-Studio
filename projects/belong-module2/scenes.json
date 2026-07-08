@@ -1,0 +1,690 @@
+{
+  "project": "belong-module2",
+  "title": "Belong \u2014 Module 2: Vision, Mission & Chain",
+  "generated": "2026-07-08",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[Beat B1] Welcome to Module 2 \u2014 Belong: our vision, our mission, and the chain. (OPENER \u2014 establishing the place)",
+      "visual_direction": "Establishing Craveiral / warm Alentejo farmhouse in golden light \u2014 THE PLACE. (client photo lead + stock aerials as backup)",
+      "clips": [
+        {
+          "id": "pexels_17692972_olive-grove-aerial-warm-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "Philippe WEICKMANN",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-bird-s-eye-view-of-the-pool-and-surrounding-area-17692972/",
+          "thumb": "projects/belong-module2/thumbs/S01/pexels_17692972_olive-grove-aerial-warm-light.jpg",
+          "preview": "projects/belong-module2/previews/S01/pexels_17692972_olive-grove-aerial-warm-light.mp4"
+        },
+        {
+          "id": "pexels_36746052_portuguese-farmhouse-rural-lands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Oskar Gross",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-italian-countryside-at-sunset-36746052/",
+          "thumb": "projects/belong-module2/thumbs/S01/pexels_36746052_portuguese-farmhouse-rural-lands.jpg",
+          "preview": "projects/belong-module2/previews/S01/pexels_36746052_portuguese-farmhouse-rural-lands.mp4"
+        },
+        {
+          "id": "pixabay_14333_portuguese-farmhouse-rural-lands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "paulmaunders",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-14333/",
+          "thumb": "projects/belong-module2/thumbs/S01/pixabay_14333_portuguese-farmhouse-rural-lands.jpg",
+          "preview": "projects/belong-module2/previews/S01/pixabay_14333_portuguese-farmhouse-rural-lands.mp4"
+        },
+        {
+          "id": "pexels_10778986_portuguese-farmhouse-rural-lands",
+          "type": "image",
+          "source": "pexels",
+          "author": "Antonio Ram\u00f3n  Cuerva Mag\u00e1n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/old-stone-farm-building-and-tree-in-the-middle-of-the-field-10778986/",
+          "thumb": "projects/belong-module2/thumbs/S01/pexels_10778986_portuguese-farmhouse-rural-lands.jpg",
+          "preview": "projects/belong-module2/previews/S01/pexels_10778986_portuguese-farmhouse-rural-lands.jpg"
+        },
+        {
+          "id": "pexels_20042135_olive-grove-aerial-warm-light",
+          "type": "image",
+          "source": "pexels",
+          "author": "Vash Project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/vineyard-on-hill-among-trees-20042135/",
+          "thumb": "projects/belong-module2/thumbs/S01/pexels_20042135_olive-grove-aerial-warm-light.jpg",
+          "preview": "projects/belong-module2/previews/S01/pexels_20042135_olive-grove-aerial-warm-light.jpg"
+        },
+        {
+          "id": "pixabay_3662627_olive-grove-aerial-warm-light",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ulleo",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/olive-tree-olive-field-mediterranean-3662627/",
+          "thumb": "projects/belong-module2/thumbs/S01/pixabay_3662627_olive-grove-aerial-warm-light.jpg",
+          "preview": "projects/belong-module2/previews/S01/pixabay_3662627_olive-grove-aerial-warm-light.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[Beat B2] A place well cared for cares for those who inhabit it. Belong was born from a simple conviction. (CHANGE requested)",
+      "visual_direction": "Caring for the land \u2014 tending/planting, hands in rich soil, nurturing the farm. NEW alternatives to the seedling shot.",
+      "clips": [
+        {
+          "id": "pexels_34898026_gardener-caring-for-vegetable-ga",
+          "type": "video",
+          "source": "pexels",
+          "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/harvesting-fresh-spinach-in-lush-vegetable-garden-34898026/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_34898026_gardener-caring-for-vegetable-ga.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_34898026_gardener-caring-for-vegetable-ga.mp4"
+        },
+        {
+          "id": "pexels_35036265_farmer-tending-organic-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Panya Niyomtham",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/farmer-tending-lush-green-vegetable-field-35036265/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_35036265_farmer-tending-organic-garden.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_35036265_farmer-tending-organic-garden.mp4"
+        },
+        {
+          "id": "pexels_7944616_hands-cupping-young-plant",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-touching-a-plant-7944616/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_7944616_hands-cupping-young-plant.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_7944616_hands-cupping-young-plant.mp4"
+        },
+        {
+          "id": "pexels_9737847_hands-planting-seedling-soil-gol",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-planting-a-seeds-9737847/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_9737847_hands-planting-seedling-soil-gol.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_9737847_hands-planting-seedling-soil-gol.mp4"
+        },
+        {
+          "id": "pixabay_73847_hands-cupping-young-plant",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/belong-module2/thumbs/S02/pixabay_73847_hands-cupping-young-plant.jpg",
+          "preview": "projects/belong-module2/previews/S02/pixabay_73847_hands-cupping-young-plant.mp4"
+        },
+        {
+          "id": "pexels_32705897_farmer-tending-organic-garden",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anil  Sharma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/crouching-farmer-tending-to-vegetable-garden-32705897/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_32705897_farmer-tending-organic-garden.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_32705897_farmer-tending-organic-garden.jpg"
+        },
+        {
+          "id": "pexels_7728874_hands-planting-seedling-soil-gol",
+          "type": "image",
+          "source": "pexels",
+          "author": "Greta Hoffman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-planting-green-plants-in-ground-7728874/",
+          "thumb": "projects/belong-module2/thumbs/S02/pexels_7728874_hands-planting-seedling-soil-gol.jpg",
+          "preview": "projects/belong-module2/previews/S02/pexels_7728874_hands-planting-seedling-soil-gol.jpg"
+        },
+        {
+          "id": "pixabay_8027884_hands-planting-seedling-soil-gol",
+          "type": "image",
+          "source": "pixabay",
+          "author": "GoranH",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/planting-transplanting-cherry-tomato-8027884/",
+          "thumb": "projects/belong-module2/thumbs/S02/pixabay_8027884_hands-planting-seedling-soil-gol.jpg",
+          "preview": "projects/belong-module2/previews/S02/pixabay_8027884_hands-planting-seedling-soil-gol.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[Beat B3] ...the bar, Praia do Carvalhal, down on the beach, minutes from here.",
+      "visual_direction": "Portuguese coast \u2014 beach with thatched umbrellas at golden hour, relaxed hospitality by the sea.",
+      "clips": [
+        {
+          "id": "pexels_20103699_portugal-beach-thatched-umbrella",
+          "type": "video",
+          "source": "pexels",
+          "author": "Matthias Groeneveld",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/the-sunrise-or-sunset-as-seen-from-the-apartment-or-nearby-20103699/",
+          "thumb": "projects/belong-module2/thumbs/S03/pexels_20103699_portugal-beach-thatched-umbrella.jpg",
+          "preview": "projects/belong-module2/previews/S03/pexels_20103699_portugal-beach-thatched-umbrella.mp4"
+        },
+        {
+          "id": "pexels_27740959_beach-bar-umbrellas-sea",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yasin Ko\u00e7tepe",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-aerial-view-of-a-beach-with-a-large-number-of-umbrellas-27740959/",
+          "thumb": "projects/belong-module2/thumbs/S03/pexels_27740959_beach-bar-umbrellas-sea.jpg",
+          "preview": "projects/belong-module2/previews/S03/pexels_27740959_beach-bar-umbrellas-sea.mp4"
+        },
+        {
+          "id": "pexels_31472062_alentejo-coast-beach-golden-hour",
+          "type": "video",
+          "source": "pexels",
+          "author": "Joem Castillo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/serene-beach-sunset-with-walking-silhouettes-31472062/",
+          "thumb": "projects/belong-module2/thumbs/S03/pexels_31472062_alentejo-coast-beach-golden-hour.jpg",
+          "preview": "projects/belong-module2/previews/S03/pexels_31472062_alentejo-coast-beach-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_160767_portugal-beach-thatched-umbrella",
+          "type": "video",
+          "source": "pixabay",
+          "author": "CREY_zz",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-160767/",
+          "thumb": "projects/belong-module2/thumbs/S03/pixabay_160767_portugal-beach-thatched-umbrella.jpg",
+          "preview": "projects/belong-module2/previews/S03/pixabay_160767_portugal-beach-thatched-umbrella.mp4"
+        },
+        {
+          "id": "pixabay_204565_beach-bar-umbrellas-sea",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MustaKor",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-204565/",
+          "thumb": "projects/belong-module2/thumbs/S03/pixabay_204565_beach-bar-umbrellas-sea.jpg",
+          "preview": "projects/belong-module2/previews/S03/pixabay_204565_beach-bar-umbrellas-sea.mp4"
+        },
+        {
+          "id": "pexels_13005293_portugal-beach-thatched-umbrella",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ahmet Kurt",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-resort-with-lounge-chairs-at-a-beach-13005293/",
+          "thumb": "projects/belong-module2/thumbs/S03/pexels_13005293_portugal-beach-thatched-umbrella.jpg",
+          "preview": "projects/belong-module2/previews/S03/pexels_13005293_portugal-beach-thatched-umbrella.jpg"
+        },
+        {
+          "id": "pexels_13630563_coastal-beach-straw-umbrella-eve",
+          "type": "image",
+          "source": "pexels",
+          "author": "Engin Akyurt",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/straw-umbrella-on-the-beach-13630563/",
+          "thumb": "projects/belong-module2/thumbs/S03/pexels_13630563_coastal-beach-straw-umbrella-eve.jpg",
+          "preview": "projects/belong-module2/previews/S03/pexels_13630563_coastal-beach-straw-umbrella-eve.jpg"
+        },
+        {
+          "id": "pixabay_2705768_beach-bar-umbrellas-sea",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pamjpat",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/sunset-beach-umbrella-ocean-2705768/",
+          "thumb": "projects/belong-module2/thumbs/S03/pixabay_2705768_beach-bar-umbrellas-sea.jpg",
+          "preview": "projects/belong-module2/previews/S03/pixabay_2705768_beach-bar-umbrellas-sea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[Beat B4] Different places, different teams \u2014 Craveiral farmhouse is the heart of it. (CLIENT PHOTO \u2014 dsc0009)",
+      "visual_direction": "The Craveiral farmhouse patio (client photo dsc0009) \u2014 white Alentejo buildings, wooden tables, wild grasses, golden light.",
+      "clips": [
+        {
+          "id": "pexels_36835823_alentejo-farmhouse-terrace-sunse",
+          "type": "image",
+          "source": "pexels",
+          "author": "Shojol Islam",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/scenic-view-from-a-historic-stone-castle-in-portugal-36835823/",
+          "thumb": "projects/belong-module2/thumbs/S04/pexels_36835823_alentejo-farmhouse-terrace-sunse.jpg",
+          "preview": "projects/belong-module2/previews/S04/pexels_36835823_alentejo-farmhouse-terrace-sunse.jpg"
+        },
+        {
+          "id": "pexels_37843776_minimalist-white-farmhouse-portu",
+          "type": "image",
+          "source": "pexels",
+          "author": "Jan van der Wolf",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/blue-shutters-on-white-wall-with-shadow-patterns-37843776/",
+          "thumb": "projects/belong-module2/thumbs/S04/pexels_37843776_minimalist-white-farmhouse-portu.jpg",
+          "preview": "projects/belong-module2/previews/S04/pexels_37843776_minimalist-white-farmhouse-portu.jpg"
+        },
+        {
+          "id": "pexels_9056674_rustic-outdoor-dining-terrace-co",
+          "type": "image",
+          "source": "pexels",
+          "author": "Matheus Bertelli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-brown-wooden-counter-9056674/",
+          "thumb": "projects/belong-module2/thumbs/S04/pexels_9056674_rustic-outdoor-dining-terrace-co.jpg",
+          "preview": "projects/belong-module2/previews/S04/pexels_9056674_rustic-outdoor-dining-terrace-co.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[Beat B5] Regenerate \u2014 giving back more than we take. Soil that gets richer each year because we compost.",
+      "visual_direction": "Circular economy / soil health \u2014 a steaming compost heap, turning compost, rich dark earth on the farm.",
+      "clips": [
+        {
+          "id": "pexels_3046031_steaming-compost-heap-farm",
+          "type": "video",
+          "source": "pexels",
+          "author": "Miguel \u00c1. Padri\u00f1\u00e1n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-earthworm-burrowing-down-the-compost-soil-3046031/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_3046031_steaming-compost-heap-farm.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_3046031_steaming-compost-heap-farm.mp4"
+        },
+        {
+          "id": "pexels_3046312_rich-dark-soil-compost-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Miguel \u00c1. Padri\u00f1\u00e1n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/earthworms-and-bugs-burrowing-in-a-compost-soil-3046312/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_3046312_rich-dark-soil-compost-hands.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_3046312_rich-dark-soil-compost-hands.mp4"
+        },
+        {
+          "id": "pexels_6863600_compost-pile-soil-steam",
+          "type": "video",
+          "source": "pexels",
+          "author": "Alexander Fritz",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-compost-soil-6863600/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_6863600_compost-pile-soil-steam.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_6863600_compost-pile-soil-steam.mp4"
+        },
+        {
+          "id": "pexels_7332178_turning-compost-organic-farm",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anna Tarazevich",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-farming-in-a-greenhouse-7332178/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_7332178_turning-compost-organic-farm.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_7332178_turning-compost-organic-farm.mp4"
+        },
+        {
+          "id": "pixabay_27636_turning-compost-organic-farm",
+          "type": "video",
+          "source": "pixabay",
+          "author": "padrinan",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-27636/",
+          "thumb": "projects/belong-module2/thumbs/S05/pixabay_27636_turning-compost-organic-farm.jpg",
+          "preview": "projects/belong-module2/previews/S05/pixabay_27636_turning-compost-organic-farm.mp4"
+        },
+        {
+          "id": "pexels_11573789_compost-pile-soil-steam",
+          "type": "image",
+          "source": "pexels",
+          "author": "Alfo Medeiros",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/shovel-on-pile-of-soil-11573789/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_11573789_compost-pile-soil-steam.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_11573789_compost-pile-soil-steam.jpg"
+        },
+        {
+          "id": "pexels_7728736_rich-dark-soil-compost-hands",
+          "type": "image",
+          "source": "pexels",
+          "author": "Greta Hoffman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/brown-soil-in-orange-plastic-bucket-7728736/",
+          "thumb": "projects/belong-module2/thumbs/S05/pexels_7728736_rich-dark-soil-compost-hands.jpg",
+          "preview": "projects/belong-module2/previews/S05/pexels_7728736_rich-dark-soil-compost-hands.jpg"
+        },
+        {
+          "id": "pixabay_406217_steaming-compost-heap-farm",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Antranias",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/dung-compost-heap-assembly-point-406217/",
+          "thumb": "projects/belong-module2/thumbs/S05/pixabay_406217_steaming-compost-heap-farm.jpg",
+          "preview": "projects/belong-module2/previews/S05/pixabay_406217_steaming-compost-heap-farm.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[Beat B6] We are in the connection business \u2014 a guest picks a tomato and eats it at the farm table. Connection.",
+      "visual_direction": "Community & connection \u2014 friends and guests gathering around a long outdoor table, sharing a warm farm-to-table meal.",
+      "clips": [
+        {
+          "id": "pexels_26510198_farm-to-table-gathering-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Frank Brown",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/girl-working-on-farm-26510198/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_26510198_farm-to-table-gathering-garden.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_26510198_farm-to-table-gathering-garden.mp4"
+        },
+        {
+          "id": "pexels_36742110_community-table-feast-golden-hou",
+          "type": "video",
+          "source": "pexels",
+          "author": "Beyza Emi\u015fen",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/traditional-turkish-iftar-meal-setting-36742110/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_36742110_community-table-feast-golden-hou.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_36742110_community-table-feast-golden-hou.mp4"
+        },
+        {
+          "id": "pexels_5961379_friends-long-table-outdoor-dinne",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/friends-celebrating-an-event-party-at-the-backyard-5961379/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_5961379_friends-long-table-outdoor-dinne.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_5961379_friends-long-table-outdoor-dinne.mp4"
+        },
+        {
+          "id": "pexels_9578264_people-sharing-meal-outdoors-cou",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-young-man-and-woman-looking-at-each-other-9578264/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_9578264_people-sharing-meal-outdoors-cou.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_9578264_people-sharing-meal-outdoors-cou.mp4"
+        },
+        {
+          "id": "pexels_5638732_friends-long-table-outdoor-dinne",
+          "type": "image",
+          "source": "pexels",
+          "author": "Askar Abayev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/family-gathering-at-festive-table-5638732/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_5638732_friends-long-table-outdoor-dinne.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_5638732_friends-long-table-outdoor-dinne.jpg"
+        },
+        {
+          "id": "pexels_5638752_community-table-feast-golden-hou",
+          "type": "image",
+          "source": "pexels",
+          "author": "Askar Abayev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/food-on-decorated-table-during-party-5638752/",
+          "thumb": "projects/belong-module2/thumbs/S06/pexels_5638752_community-table-feast-golden-hou.jpg",
+          "preview": "projects/belong-module2/previews/S06/pexels_5638752_community-table-feast-golden-hou.jpg"
+        },
+        {
+          "id": "pixabay_2009590_community-table-feast-golden-hou",
+          "type": "image",
+          "source": "pixabay",
+          "author": "buffetcrush",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/christmas-wallpaper-platter-food-2009590/",
+          "thumb": "projects/belong-module2/thumbs/S06/pixabay_2009590_community-table-feast-golden-hou.jpg",
+          "preview": "projects/belong-module2/previews/S06/pixabay_2009590_community-table-feast-golden-hou.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[Beat B7] The protagonist is the chain \u2014 the shepherd, the garden, the vineyard, the community. Before the plate, a grower.",
+      "visual_direction": "The land & its producers \u2014 cork-oak montado aerials, a shepherd and flock on the Alentejo hillside, vineyards.",
+      "clips": [
+        {
+          "id": "pexels_18209578_cork-oak-trees-landscape-golden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Matthias Groeneveld",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-sunset-over-a-field-with-trees-and-grass-18209578/",
+          "thumb": "projects/belong-module2/thumbs/S07/pexels_18209578_cork-oak-trees-landscape-golden.jpg",
+          "preview": "projects/belong-module2/previews/S07/pexels_18209578_cork-oak-trees-landscape-golden.mp4"
+        },
+        {
+          "id": "pexels_31226083_cork-oak-montado-alentejo-aerial",
+          "type": "video",
+          "source": "pexels",
+          "author": "Maurice Supple",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/autumn-aerial-view-of-forest-in-ireland-31226083/",
+          "thumb": "projects/belong-module2/thumbs/S07/pexels_31226083_cork-oak-montado-alentejo-aerial.jpg",
+          "preview": "projects/belong-module2/previews/S07/pexels_31226083_cork-oak-montado-alentejo-aerial.mp4"
+        },
+        {
+          "id": "pexels_32332404_shepherd-flock-sheep-hillside-po",
+          "type": "video",
+          "source": "pexels",
+          "author": "Erhan Anbar",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/flock-of-sheep-grazing-on-a-foggy-hillside-32332404/",
+          "thumb": "projects/belong-module2/thumbs/S07/pexels_32332404_shepherd-flock-sheep-hillside-po.jpg",
+          "preview": "projects/belong-module2/previews/S07/pexels_32332404_shepherd-flock-sheep-hillside-po.mp4"
+        },
+        {
+          "id": "pixabay_240860_shepherd-flock-sheep-hillside-po",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-240860/",
+          "thumb": "projects/belong-module2/thumbs/S07/pixabay_240860_shepherd-flock-sheep-hillside-po.jpg",
+          "preview": "projects/belong-module2/previews/S07/pixabay_240860_shepherd-flock-sheep-hillside-po.mp4"
+        },
+        {
+          "id": "openverse_6d75defe-97dd-4eda-bc9d-4e10_vineyard-rows-countryside-sunset",
+          "type": "image",
+          "source": "openverse",
+          "author": "John-Morgan",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/24742305@N00/2977495250",
+          "thumb": "projects/belong-module2/thumbs/S07/openverse_6d75defe-97dd-4eda-bc9d-4e10_vineyard-rows-countryside-sunset.jpg",
+          "preview": "projects/belong-module2/previews/S07/openverse_6d75defe-97dd-4eda-bc9d-4e10_vineyard-rows-countryside-sunset.jpg"
+        },
+        {
+          "id": "pexels_19181914_cork-oak-trees-landscape-golden",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tori Pezzulla\u2764\ufe0f",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/paso-robles-usa-wine-country-19181914/",
+          "thumb": "projects/belong-module2/thumbs/S07/pexels_19181914_cork-oak-trees-landscape-golden.jpg",
+          "preview": "projects/belong-module2/previews/S07/pexels_19181914_cork-oak-trees-landscape-golden.jpg"
+        },
+        {
+          "id": "pexels_20418912_shepherd-flock-sheep-hillside-po",
+          "type": "image",
+          "source": "pexels",
+          "author": "Emrecan Dora",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/shepherd-and-flock-of-sheep-on-meadow-20418912/",
+          "thumb": "projects/belong-module2/thumbs/S07/pexels_20418912_shepherd-flock-sheep-hillside-po.jpg",
+          "preview": "projects/belong-module2/previews/S07/pexels_20418912_shepherd-flock-sheep-hillside-po.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[Beat B8] These courgettes were picked this morning 80 meters from where you're sitting \u2014 it transforms a meal into a story.",
+      "visual_direction": "Warm hospitality & gastronomy \u2014 a server bringing a dish to guests at a rustic farmhouse restaurant table.",
+      "clips": [
+        {
+          "id": "pexels_5657049_waiter-serving-dish-rustic-resta",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/artistic-food-presentation-on-a-wooden-board-5657049/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_5657049_waiter-serving-dish-rustic-resta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_5657049_waiter-serving-dish-rustic-resta.mp4"
+        },
+        {
+          "id": "pexels_5963647_farmhouse-restaurant-guests-dini",
+          "type": "video",
+          "source": "pexels",
+          "author": "Grisha Grishkoff",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-eating-on-the-table-5963647/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_5963647_farmhouse-restaurant-guests-dini.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_5963647_farmhouse-restaurant-guests-dini.mp4"
+        },
+        {
+          "id": "pexels_6396243_server-bringing-plate-outdoor-ta",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-putting-wine-glasses-on-the-table-6396243/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_6396243_server-bringing-plate-outdoor-ta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_6396243_server-bringing-plate-outdoor-ta.mp4"
+        },
+        {
+          "id": "pexels_7251245_farm-to-table-dish-served-guests",
+          "type": "video",
+          "source": "pexels",
+          "author": "Cedric Fauntleroy",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-serving-dessert-7251245/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_7251245_farm-to-table-dish-served-guests.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_7251245_farm-to-table-dish-served-guests.mp4"
+        },
+        {
+          "id": "pixabay_227128_waiter-serving-dish-rustic-resta",
+          "type": "video",
+          "source": "pixabay",
+          "author": "kurt_BID",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-227128/",
+          "thumb": "projects/belong-module2/thumbs/S08/pixabay_227128_waiter-serving-dish-rustic-resta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pixabay_227128_waiter-serving-dish-rustic-resta.mp4"
+        },
+        {
+          "id": "pexels_10375831_server-bringing-plate-outdoor-ta",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-gloves-preparing-food-10375831/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_10375831_server-bringing-plate-outdoor-ta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_10375831_server-bringing-plate-outdoor-ta.jpg"
+        },
+        {
+          "id": "pexels_25809277_waiter-serving-dish-rustic-resta",
+          "type": "image",
+          "source": "pexels",
+          "author": "Matheus Bertelli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/waiter-carrying-plates-with-salad-25809277/",
+          "thumb": "projects/belong-module2/thumbs/S08/pexels_25809277_waiter-serving-dish-rustic-resta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pexels_25809277_waiter-serving-dish-rustic-resta.jpg"
+        },
+        {
+          "id": "pixabay_3996802_waiter-serving-dish-rustic-resta",
+          "type": "image",
+          "source": "pixabay",
+          "author": "rickbella",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/food-servers-banquet-waitress-3996802/",
+          "thumb": "projects/belong-module2/thumbs/S08/pixabay_3996802_waiter-serving-dish-rustic-resta.jpg",
+          "preview": "projects/belong-module2/previews/S08/pixabay_3996802_waiter-serving-dish-rustic-resta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[Beat B9] We're the ones who set the table. (CLOSING \u2014 CHANGE requested)",
+      "visual_direction": "Warm closing \u2014 a golden-hour gathering of friends at an outdoor table; new alternatives to the sunset-silhouette shot.",
+      "clips": [
+        {
+          "id": "pexels_4877881_friends-outdoor-dinner-golden-ho",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-woman-are-drinking-wine-from-a-bottle-4877881/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_4877881_friends-outdoor-dinner-golden-ho.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_4877881_friends-outdoor-dinner-golden-ho.mp4"
+        },
+        {
+          "id": "pexels_5961965_outdoor-celebration-table-sunset",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/senior-people-making-a-toast-5961965/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_5961965_outdoor-celebration-table-sunset.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_5961965_outdoor-celebration-table-sunset.mp4"
+        },
+        {
+          "id": "pexels_6289663_warm-evening-meal-friends-candle",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-eating-together-6289663/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_6289663_warm-evening-meal-friends-candle.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_6289663_warm-evening-meal-friends-candle.mp4"
+        },
+        {
+          "id": "pixabay_93480_warm-evening-meal-friends-candle",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jrydertr",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-93480/",
+          "thumb": "projects/belong-module2/thumbs/S09/pixabay_93480_warm-evening-meal-friends-candle.jpg",
+          "preview": "projects/belong-module2/previews/S09/pixabay_93480_warm-evening-meal-friends-candle.mp4"
+        },
+        {
+          "id": "pexels_20151745_friends-outdoor-dinner-golden-ho",
+          "type": "image",
+          "source": "pexels",
+          "author": "Nano Erdozain",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/smiling-women-at-party-20151745/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_20151745_friends-outdoor-dinner-golden-ho.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_20151745_friends-outdoor-dinner-golden-ho.jpg"
+        },
+        {
+          "id": "pexels_34677202_outdoor-celebration-table-sunset",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Prochilo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/warm-outdoor-wedding-reception-moments-at-sunset-34677202/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_34677202_outdoor-celebration-table-sunset.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_34677202_outdoor-celebration-table-sunset.jpg"
+        },
+        {
+          "id": "pexels_5638646_warm-evening-meal-friends-candle",
+          "type": "image",
+          "source": "pexels",
+          "author": "Askar Abayev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-holding-a-white-candle-stick-5638646/",
+          "thumb": "projects/belong-module2/thumbs/S09/pexels_5638646_warm-evening-meal-friends-candle.jpg",
+          "preview": "projects/belong-module2/previews/S09/pexels_5638646_warm-evening-meal-friends-candle.jpg"
+        }
+      ]
+    }
+  ]
+}
