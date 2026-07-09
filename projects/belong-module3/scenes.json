@@ -1,0 +1,991 @@
+{
+  "project": "belong-module3",
+  "title": "Belong \u2014 Module 3: Values (HeyGen + stock)",
+  "generated": "2026-07-09",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] Every company has values. Most live on a wall in a meeting room and die there.",
+      "visual_direction": "A minimalist wood-slat wall in warm light (values that just hang on a wall). heygen: 'values wall'",
+      "clips": [
+        {
+          "id": "heygen_values-wall",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S01/heygen_values-wall.jpg",
+          "preview": "projects/belong-module3/previews/S01/heygen_values-wall.mp4"
+        },
+        {
+          "id": "pexels_6376642_minimalist-wood-wall-texture",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/blank-paper-placed-in-a-wooden-wall-6376642/",
+          "thumb": "projects/belong-module3/thumbs/S01/pexels_6376642_minimalist-wood-wall-texture.jpg",
+          "preview": "projects/belong-module3/previews/S01/pexels_6376642_minimalist-wood-wall-texture.mp4"
+        },
+        {
+          "id": "pexels_6376642_wooden-slat-panel-interior",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/blank-paper-placed-in-a-wooden-wall-6376642/",
+          "thumb": "projects/belong-module3/thumbs/S01/pexels_6376642_wooden-slat-panel-interior.jpg",
+          "preview": "projects/belong-module3/previews/S01/pexels_6376642_wooden-slat-panel-interior.mp4"
+        },
+        {
+          "id": "pexels_7402580_wood-slat-wall-warm-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-is-walking-7402580/",
+          "thumb": "projects/belong-module3/thumbs/S01/pexels_7402580_wood-slat-wall-warm-light.jpg",
+          "preview": "projects/belong-module3/previews/S01/pexels_7402580_wood-slat-wall-warm-light.mp4"
+        },
+        {
+          "id": "pexels_35563395_wood-slat-wall-warm-light",
+          "type": "image",
+          "source": "pexels",
+          "author": "Walter Cunha",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/modern-architectural-lighting-with-wooden-slats-35563395/",
+          "thumb": "projects/belong-module3/thumbs/S01/pexels_35563395_wood-slat-wall-warm-light.jpg",
+          "preview": "projects/belong-module3/previews/S01/pexels_35563395_wood-slat-wall-warm-light.jpg"
+        },
+        {
+          "id": "pexels_35563395_wooden-slat-panel-interior",
+          "type": "image",
+          "source": "pexels",
+          "author": "Walter Cunha",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/modern-architectural-lighting-with-wooden-slats-35563395/",
+          "thumb": "projects/belong-module3/thumbs/S01/pexels_35563395_wooden-slat-panel-interior.jpg",
+          "preview": "projects/belong-module3/previews/S01/pexels_35563395_wooden-slat-panel-interior.jpg"
+        },
+        {
+          "id": "wikimedia_170705339_minimalist-wood-wall-texture",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Roman Eisele",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Beilstein_-_Wohngebiet_Ost_-_H%C3%B6hbergstra%C3%9Fe_-_Betonmauer_mit_Holzstruktur_und_Efeuranke_(1).jpg",
+          "thumb": "projects/belong-module3/thumbs/S01/wikimedia_170705339_minimalist-wood-wall-texture.jpg",
+          "preview": "projects/belong-module3/previews/S01/wikimedia_170705339_minimalist-wood-wall-texture.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] Sustainability \u2014 financial, environmental and social.",
+      "visual_direction": "Regenerative Alentejo farm landscape, golden hour, water/lake. heygen: 'alentejo sunset lake'",
+      "clips": [
+        {
+          "id": "heygen_alentejo-sunset-lake",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S02/heygen_alentejo-sunset-lake.jpg",
+          "preview": "projects/belong-module3/previews/S02/heygen_alentejo-sunset-lake.mp4"
+        },
+        {
+          "id": "pexels_20080088_alentejo-countryside-lake-sunset",
+          "type": "video",
+          "source": "pexels",
+          "author": "Matthias Groeneveld",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-river-with-a-small-pond-in-the-middle-of-a-field-20080088/",
+          "thumb": "projects/belong-module3/thumbs/S02/pexels_20080088_alentejo-countryside-lake-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S02/pexels_20080088_alentejo-countryside-lake-sunset.mp4"
+        },
+        {
+          "id": "pexels_28731950_portugal-farmland-sunset-water",
+          "type": "video",
+          "source": "pexels",
+          "author": "Rui Veiga",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/scenic-river-valley-landscape-at-sunset-28731950/",
+          "thumb": "projects/belong-module3/thumbs/S02/pexels_28731950_portugal-farmland-sunset-water.jpg",
+          "preview": "projects/belong-module3/previews/S02/pexels_28731950_portugal-farmland-sunset-water.mp4"
+        },
+        {
+          "id": "pixabay_83621_alentejo-countryside-lake-sunset",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Joe_hackney",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-83621/",
+          "thumb": "projects/belong-module3/thumbs/S02/pixabay_83621_alentejo-countryside-lake-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S02/pixabay_83621_alentejo-countryside-lake-sunset.mp4"
+        },
+        {
+          "id": "openverse_f1bd1f21-a4cf-4aeb-bda9-f303_rural-farm-landscape-golden-hour",
+          "type": "image",
+          "source": "openverse",
+          "author": "Christoph Wurst",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/w/index.php?curid=71408640",
+          "thumb": "projects/belong-module3/thumbs/S02/openverse_f1bd1f21-a4cf-4aeb-bda9-f303_rural-farm-landscape-golden-hour.jpg",
+          "preview": "projects/belong-module3/previews/S02/openverse_f1bd1f21-a4cf-4aeb-bda9-f303_rural-farm-landscape-golden-hour.jpg"
+        },
+        {
+          "id": "pexels_2158824_alentejo-countryside-lake-sunset",
+          "type": "image",
+          "source": "pexels",
+          "author": "Quang Nguyen Vinh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/mountain-reflection-on-body-of-water-2158824/",
+          "thumb": "projects/belong-module3/thumbs/S02/pexels_2158824_alentejo-countryside-lake-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S02/pexels_2158824_alentejo-countryside-lake-sunset.jpg"
+        },
+        {
+          "id": "pexels_30425493_rural-farm-landscape-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "Matt Webster",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/tractor-in-countryside-at-sunset-30425493/",
+          "thumb": "projects/belong-module3/thumbs/S02/pexels_30425493_rural-farm-landscape-golden-hour.jpg",
+          "preview": "projects/belong-module3/previews/S02/pexels_30425493_rural-farm-landscape-golden-hour.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] the four percent footprint, the water recycling, the composting, the regenerative farming.",
+      "visual_direction": "Solar panels & sustainable infrastructure in a green field. heygen: 'solar panel field'",
+      "clips": [
+        {
+          "id": "heygen_solar-panel-field",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S03/heygen_solar-panel-field.jpg",
+          "preview": "projects/belong-module3/previews/S03/heygen_solar-panel-field.mp4"
+        },
+        {
+          "id": "pexels_32966305_solar-farm-renewable-countryside",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jakub Zerdzicki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/drone-view-of-expansive-solar-panel-farm-32966305/",
+          "thumb": "projects/belong-module3/thumbs/S03/pexels_32966305_solar-farm-renewable-countryside.jpg",
+          "preview": "projects/belong-module3/previews/S03/pexels_32966305_solar-farm-renewable-countryside.mp4"
+        },
+        {
+          "id": "pexels_33005014_solar-panels-green-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jakub Zerdzicki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/expansive-solar-panel-field-in-sunny-landscape-33005014/",
+          "thumb": "projects/belong-module3/thumbs/S03/pexels_33005014_solar-panels-green-field.jpg",
+          "preview": "projects/belong-module3/previews/S03/pexels_33005014_solar-panels-green-field.mp4"
+        },
+        {
+          "id": "pixabay_303514_solar-panels-green-field",
+          "type": "video",
+          "source": "pixabay",
+          "author": "YANAPHAT",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-303514/",
+          "thumb": "projects/belong-module3/thumbs/S03/pixabay_303514_solar-panels-green-field.jpg",
+          "preview": "projects/belong-module3/previews/S03/pixabay_303514_solar-panels-green-field.mp4"
+        },
+        {
+          "id": "openverse_66e7a142-3b7c-4258-9c44-1a09_solar-array-rural-landscape",
+          "type": "image",
+          "source": "openverse",
+          "author": "USDAgov",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/41284017@N08/6233307032",
+          "thumb": "projects/belong-module3/thumbs/S03/openverse_66e7a142-3b7c-4258-9c44-1a09_solar-array-rural-landscape.jpg",
+          "preview": "projects/belong-module3/previews/S03/openverse_66e7a142-3b7c-4258-9c44-1a09_solar-array-rural-landscape.jpg"
+        },
+        {
+          "id": "openverse_8142ecdf-7712-4c32-8375-0a21_solar-farm-renewable-countryside",
+          "type": "image",
+          "source": "openverse",
+          "author": "USFWS Mountain Prairie",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/51986662@N05/6008910077",
+          "thumb": "projects/belong-module3/thumbs/S03/openverse_8142ecdf-7712-4c32-8375-0a21_solar-farm-renewable-countryside.jpg",
+          "preview": "projects/belong-module3/previews/S03/openverse_8142ecdf-7712-4c32-8375-0a21_solar-farm-renewable-countryside.jpg"
+        },
+        {
+          "id": "pixabay_2742302_solar-panels-green-field",
+          "type": "image",
+          "source": "pixabay",
+          "author": "mrganso",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/photovoltaic-system-solar-2742302/",
+          "thumb": "projects/belong-module3/thumbs/S03/pixabay_2742302_solar-panels-green-field.jpg",
+          "preview": "projects/belong-module3/previews/S03/pixabay_2742302_solar-panels-green-field.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] Look at our houses: minimalist design, natural materials, nothing shouting for attention.",
+      "visual_direction": "Minimalist interior \u2014 natural wood, zen shelves, warm light. heygen: 'minimalist zen shelves'",
+      "clips": [
+        {
+          "id": "heygen_minimalist-zen-shelves",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S04/heygen_minimalist-zen-shelves.jpg",
+          "preview": "projects/belong-module3/previews/S04/heygen_minimalist-zen-shelves.mp4"
+        },
+        {
+          "id": "pexels_4503962_minimalist-interior-natural-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-shelf-with-two-potted-plants-on-it-4503962/",
+          "thumb": "projects/belong-module3/thumbs/S04/pexels_4503962_minimalist-interior-natural-wood.jpg",
+          "preview": "projects/belong-module3/previews/S04/pexels_4503962_minimalist-interior-natural-wood.mp4"
+        },
+        {
+          "id": "pexels_6857802_scandinavian-minimal-room-warm-l",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-drinking-wine-while-sitting-on-the-couch-6857802/",
+          "thumb": "projects/belong-module3/thumbs/S04/pexels_6857802_scandinavian-minimal-room-warm-l.jpg",
+          "preview": "projects/belong-module3/previews/S04/pexels_6857802_scandinavian-minimal-room-warm-l.mp4"
+        },
+        {
+          "id": "pexels_7404961_zen-minimal-interior-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/living-room-interior-7404961/",
+          "thumb": "projects/belong-module3/thumbs/S04/pexels_7404961_zen-minimal-interior-wood.jpg",
+          "preview": "projects/belong-module3/previews/S04/pexels_7404961_zen-minimal-interior-wood.mp4"
+        },
+        {
+          "id": "pixabay_201968_scandinavian-minimal-room-warm-l",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Visual_Laurence",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-201968/",
+          "thumb": "projects/belong-module3/thumbs/S04/pixabay_201968_scandinavian-minimal-room-warm-l.jpg",
+          "preview": "projects/belong-module3/previews/S04/pixabay_201968_scandinavian-minimal-room-warm-l.mp4"
+        },
+        {
+          "id": "openverse_1bc741c0-7799-4281-b3e4-62fe_minimalist-interior-natural-wood",
+          "type": "image",
+          "source": "openverse",
+          "author": "nenad53",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/202780880@N02/54522167498",
+          "thumb": "projects/belong-module3/thumbs/S04/openverse_1bc741c0-7799-4281-b3e4-62fe_minimalist-interior-natural-wood.jpg",
+          "preview": "projects/belong-module3/previews/S04/openverse_1bc741c0-7799-4281-b3e4-62fe_minimalist-interior-natural-wood.jpg"
+        },
+        {
+          "id": "pexels_7301835_zen-minimal-interior-wood",
+          "type": "image",
+          "source": "pexels",
+          "author": "Cup of  Couple",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/potted-plant-on-top-of-stacked-books-7301835/",
+          "thumb": "projects/belong-module3/thumbs/S04/pexels_7301835_zen-minimal-interior-wood.jpg",
+          "preview": "projects/belong-module3/previews/S04/pexels_7301835_zen-minimal-interior-wood.jpg"
+        },
+        {
+          "id": "pixabay_4779953_scandinavian-minimal-room-warm-l",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Tama66",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/room-space-parquet-salon-4779953/",
+          "thumb": "projects/belong-module3/thumbs/S04/pixabay_4779953_scandinavian-minimal-room-warm-l.jpg",
+          "preview": "projects/belong-module3/previews/S04/pixabay_4779953_scandinavian-minimal-room-warm-l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] Our guests sleep on excellent mattresses.",
+      "visual_direction": "A calm bedroom with soft natural light, premium linen. heygen: 'bedroom with light'",
+      "clips": [
+        {
+          "id": "heygen_bedroom-with-light",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S05/heygen_bedroom-with-light.jpg",
+          "preview": "projects/belong-module3/previews/S05/heygen_bedroom-with-light.mp4"
+        },
+        {
+          "id": "pexels_10061796_minimalist-bedroom-natural-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-reading-a-magazine-in-bed-10061796/",
+          "thumb": "projects/belong-module3/thumbs/S05/pexels_10061796_minimalist-bedroom-natural-light.jpg",
+          "preview": "projects/belong-module3/previews/S05/pexels_10061796_minimalist-bedroom-natural-light.mp4"
+        },
+        {
+          "id": "pexels_4153243_cozy-bedroom-morning-light-linen",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/bed-bedroom-standing-home-4153243/",
+          "thumb": "projects/belong-module3/thumbs/S05/pexels_4153243_cozy-bedroom-morning-light-linen.jpg",
+          "preview": "projects/belong-module3/previews/S05/pexels_4153243_cozy-bedroom-morning-light-linen.mp4"
+        },
+        {
+          "id": "pexels_4153246_made-bed-white-linen-sunlight",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-is-putting-a-pillow-on-a-bed-4153246/",
+          "thumb": "projects/belong-module3/thumbs/S05/pexels_4153246_made-bed-white-linen-sunlight.jpg",
+          "preview": "projects/belong-module3/previews/S05/pexels_4153246_made-bed-white-linen-sunlight.mp4"
+        },
+        {
+          "id": "pixabay_128321_warm-bedroom-window-soft-light",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Leolo212",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-128321/",
+          "thumb": "projects/belong-module3/thumbs/S05/pixabay_128321_warm-bedroom-window-soft-light.jpg",
+          "preview": "projects/belong-module3/previews/S05/pixabay_128321_warm-bedroom-window-soft-light.mp4"
+        },
+        {
+          "id": "openverse_4f35aa20-2b7d-4b64-8283-b14f_warm-bedroom-window-soft-light",
+          "type": "image",
+          "source": "openverse",
+          "author": "nenadstojkovicart",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/202846129@N03/54584125421",
+          "thumb": "projects/belong-module3/thumbs/S05/openverse_4f35aa20-2b7d-4b64-8283-b14f_warm-bedroom-window-soft-light.jpg",
+          "preview": "projects/belong-module3/previews/S05/openverse_4f35aa20-2b7d-4b64-8283-b14f_warm-bedroom-window-soft-light.jpg"
+        },
+        {
+          "id": "pexels_5628406_cozy-bedroom-morning-light-linen",
+          "type": "image",
+          "source": "pexels",
+          "author": "Edgard Motta",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-messy-bed-5628406/",
+          "thumb": "projects/belong-module3/thumbs/S05/pexels_5628406_cozy-bedroom-morning-light-linen.jpg",
+          "preview": "projects/belong-module3/previews/S05/pexels_5628406_cozy-bedroom-morning-light-linen.jpg"
+        },
+        {
+          "id": "pexels_8889733_warm-bedroom-window-soft-light",
+          "type": "image",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-women-in-bed-8889733/",
+          "thumb": "projects/belong-module3/thumbs/S05/pexels_8889733_warm-bedroom-window-soft-light.jpg",
+          "preview": "projects/belong-module3/previews/S05/pexels_8889733_warm-bedroom-window-soft-light.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] The indoor pool is heated.",
+      "visual_direction": "A modern heated indoor pool, glowing water, architectural. heygen: 'indoor pool glow'",
+      "clips": [
+        {
+          "id": "heygen_indoor-pool-glow",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S06/heygen_indoor-pool-glow.jpg",
+          "preview": "projects/belong-module3/previews/S06/heygen_indoor-pool-glow.mp4"
+        },
+        {
+          "id": "pexels_6012515_indoor-pool-reflection-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-indoor-swimming-pool-used-for-training-6012515/",
+          "thumb": "projects/belong-module3/thumbs/S06/pexels_6012515_indoor-pool-reflection-light.jpg",
+          "preview": "projects/belong-module3/previews/S06/pexels_6012515_indoor-pool-reflection-light.mp4"
+        },
+        {
+          "id": "pexels_6616373_spa-indoor-pool-interior",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/",
+          "thumb": "projects/belong-module3/thumbs/S06/pexels_6616373_spa-indoor-pool-interior.jpg",
+          "preview": "projects/belong-module3/previews/S06/pexels_6616373_spa-indoor-pool-interior.mp4"
+        },
+        {
+          "id": "pexels_9634976_modern-indoor-pool-warm-glow",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-dipping-her-hand-in-the-swimming-pool-9634976/",
+          "thumb": "projects/belong-module3/thumbs/S06/pexels_9634976_modern-indoor-pool-warm-glow.jpg",
+          "preview": "projects/belong-module3/previews/S06/pexels_9634976_modern-indoor-pool-warm-glow.mp4"
+        },
+        {
+          "id": "pixabay_211152_heated-indoor-pool-architecture",
+          "type": "video",
+          "source": "pixabay",
+          "author": "nuwaus",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-211152/",
+          "thumb": "projects/belong-module3/thumbs/S06/pixabay_211152_heated-indoor-pool-architecture.jpg",
+          "preview": "projects/belong-module3/previews/S06/pixabay_211152_heated-indoor-pool-architecture.mp4"
+        },
+        {
+          "id": "openverse_54b51991-d172-4c47-b624-3424_indoor-pool-reflection-light",
+          "type": "image",
+          "source": "openverse",
+          "author": "IK's World Trip",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/28238346@N00/313432159",
+          "thumb": "projects/belong-module3/thumbs/S06/openverse_54b51991-d172-4c47-b624-3424_indoor-pool-reflection-light.jpg",
+          "preview": "projects/belong-module3/previews/S06/openverse_54b51991-d172-4c47-b624-3424_indoor-pool-reflection-light.jpg"
+        },
+        {
+          "id": "pexels_7598360_spa-indoor-pool-interior",
+          "type": "image",
+          "source": "pexels",
+          "author": "Max Vakhtbovych",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-small-swimming-pool-indoors-7598360/",
+          "thumb": "projects/belong-module3/thumbs/S06/pexels_7598360_spa-indoor-pool-interior.jpg",
+          "preview": "projects/belong-module3/previews/S06/pexels_7598360_spa-indoor-pool-interior.jpg"
+        },
+        {
+          "id": "wikimedia_138384663_spa-indoor-pool-interior",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Basile Morin",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Indoor_pool_of_spa_with_open_door_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+          "thumb": "projects/belong-module3/thumbs/S06/wikimedia_138384663_spa-indoor-pool-interior.jpg",
+          "preview": "projects/belong-module3/previews/S06/wikimedia_138384663_spa-indoor-pool-interior.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] Free to do everything \u2014 surf lessons...",
+      "visual_direction": "A surfer at a rugged Portuguese beach at dusk. heygen: 'surfer at dusk'",
+      "clips": [
+        {
+          "id": "heygen_surfer-at-dusk",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S07/heygen_surfer-at-dusk.jpg",
+          "preview": "projects/belong-module3/previews/S07/heygen_surfer-at-dusk.mp4"
+        },
+        {
+          "id": "pexels_1093661_surfer-rugged-coast-evening",
+          "type": "video",
+          "source": "pexels",
+          "author": "Peter Fowler",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-holding-surfboard-1093661/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_1093661_surfer-rugged-coast-evening.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_1093661_surfer-rugged-coast-evening.mp4"
+        },
+        {
+          "id": "pexels_30025072_surfer-beach-sunset-silhouette",
+          "type": "video",
+          "source": "pexels",
+          "author": "\uc815\uaddc\uc1a1 Nui MALAMA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/serene-sunset-surfing-silhouettes-and-waves-30025072/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_30025072_surfer-beach-sunset-silhouette.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_30025072_surfer-beach-sunset-silhouette.mp4"
+        },
+        {
+          "id": "pexels_7660617_surfing-golden-hour-portugal",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-surfing-at-the-beach-7660617/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_7660617_surfing-golden-hour-portugal.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_7660617_surfing-golden-hour-portugal.mp4"
+        },
+        {
+          "id": "pexels_8677761_surfer-walking-beach-dusk",
+          "type": "video",
+          "source": "pexels",
+          "author": "Taryn Elliott",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/back-view-of-a-surfer-walking-on-the-beach-8677761/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_8677761_surfer-walking-beach-dusk.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_8677761_surfer-walking-beach-dusk.mp4"
+        },
+        {
+          "id": "openverse_3a5d1845-daf5-4abe-82c0-4a5a_surfer-walking-beach-dusk",
+          "type": "image",
+          "source": "openverse",
+          "author": "Ruth and Dave",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/95142644@N00/8003869171",
+          "thumb": "projects/belong-module3/thumbs/S07/openverse_3a5d1845-daf5-4abe-82c0-4a5a_surfer-walking-beach-dusk.jpg",
+          "preview": "projects/belong-module3/previews/S07/openverse_3a5d1845-daf5-4abe-82c0-4a5a_surfer-walking-beach-dusk.jpg"
+        },
+        {
+          "id": "pexels_14581045_surfer-walking-beach-dusk",
+          "type": "image",
+          "source": "pexels",
+          "author": "William Chen",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-surfer-at-the-beach-14581045/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_14581045_surfer-walking-beach-dusk.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_14581045_surfer-walking-beach-dusk.jpg"
+        },
+        {
+          "id": "pexels_9697556_surfing-golden-hour-portugal",
+          "type": "image",
+          "source": "pexels",
+          "author": "Bert Christiaens",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/people-on-the-beach-9697556/",
+          "thumb": "projects/belong-module3/thumbs/S07/pexels_9697556_surfing-golden-hour-portugal.jpg",
+          "preview": "projects/belong-module3/previews/S07/pexels_9697556_surfing-golden-hour-portugal.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] ...horseback riding...",
+      "visual_direction": "Horseback riding through fields/nature, golden hour. heygen: 'horseback rider'",
+      "clips": [
+        {
+          "id": "heygen_horseback-rider",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S08/heygen_horseback-rider.jpg",
+          "preview": "projects/belong-module3/previews/S08/heygen_horseback-rider.mp4"
+        },
+        {
+          "id": "pexels_31226497_riding-horse-coastal-path",
+          "type": "video",
+          "source": "pexels",
+          "author": "Maurice Supple",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/serene-horseback-ride-on-irish-beach-31226497/",
+          "thumb": "projects/belong-module3/thumbs/S08/pexels_31226497_riding-horse-coastal-path.jpg",
+          "preview": "projects/belong-module3/previews/S08/pexels_31226497_riding-horse-coastal-path.mp4"
+        },
+        {
+          "id": "pexels_7658507_horseback-rider-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-riding-a-horse-in-a-grass-field-7658507/",
+          "thumb": "projects/belong-module3/thumbs/S08/pexels_7658507_horseback-rider-field.jpg",
+          "preview": "projects/belong-module3/previews/S08/pexels_7658507_horseback-rider-field.mp4"
+        },
+        {
+          "id": "pexels_8624895_horse-rider-trail-nature-sunset",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-horseback-riding-touring-around-an-open-field-8624895/",
+          "thumb": "projects/belong-module3/thumbs/S08/pexels_8624895_horse-rider-trail-nature-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S08/pexels_8624895_horse-rider-trail-nature-sunset.mp4"
+        },
+        {
+          "id": "pixabay_122967_horse-rider-trail-nature-sunset",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Boal",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-122967/",
+          "thumb": "projects/belong-module3/thumbs/S08/pixabay_122967_horse-rider-trail-nature-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S08/pixabay_122967_horse-rider-trail-nature-sunset.mp4"
+        },
+        {
+          "id": "pexels_26770605_horseback-riding-countryside-gol",
+          "type": "image",
+          "source": "pexels",
+          "author": "Zeynep Sude  Emek",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/horseback-riding-in-morning-sunlight-26770605/",
+          "thumb": "projects/belong-module3/thumbs/S08/pexels_26770605_horseback-riding-countryside-gol.jpg",
+          "preview": "projects/belong-module3/previews/S08/pexels_26770605_horseback-riding-countryside-gol.jpg"
+        },
+        {
+          "id": "pexels_27061778_horse-rider-trail-nature-sunset",
+          "type": "image",
+          "source": "pexels",
+          "author": "Zeynep Sude  Emek",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-riding-a-horse-in-the-desert-at-sunset-27061778/",
+          "thumb": "projects/belong-module3/thumbs/S08/pexels_27061778_horse-rider-trail-nature-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S08/pexels_27061778_horse-rider-trail-nature-sunset.jpg"
+        },
+        {
+          "id": "pixabay_3432069_horseback-riding-countryside-gol",
+          "type": "image",
+          "source": "pixabay",
+          "author": "nicolagiordano",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/woman-horseback-riding-field-horse-3432069/",
+          "thumb": "projects/belong-module3/thumbs/S08/pixabay_3432069_horseback-riding-countryside-gol.jpg",
+          "preview": "projects/belong-module3/previews/S08/pixabay_3432069_horseback-riding-countryside-gol.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] ...hikes on the Fisherman's Trail...",
+      "visual_direction": "Hikers on a coastal cliff trail (Fisherman's Trail). heygen: 'cliffside hikers'",
+      "clips": [
+        {
+          "id": "heygen_cliffside-hikers",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S09/heygen_cliffside-hikers.jpg",
+          "preview": "projects/belong-module3/previews/S09/heygen_cliffside-hikers.mp4"
+        },
+        {
+          "id": "pexels_19632436_hiking-coastal-path-ocean",
+          "type": "video",
+          "source": "pexels",
+          "author": "Serg Alesenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-walking-down-a-narrow-path-near-the-ocean-19632436/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_19632436_hiking-coastal-path-ocean.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_19632436_hiking-coastal-path-ocean.mp4"
+        },
+        {
+          "id": "pexels_20508053_coastal-hiking-portugal-fisherma",
+          "type": "video",
+          "source": "pexels",
+          "author": "ed1toR \u3164",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sweeping-drone-views-of-magoito-s-cliffs-meeting-the-blue-atlantic-ocean-20508053/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_20508053_coastal-hiking-portugal-fisherma.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_20508053_coastal-hiking-portugal-fisherma.mp4"
+        },
+        {
+          "id": "pexels_5945835_hikers-coastal-cliff-trail",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-hikers-walking-on-a-cliff-5945835/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_5945835_hikers-coastal-cliff-trail.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_5945835_hikers-coastal-cliff-trail.mp4"
+        },
+        {
+          "id": "pexels_5946129_hikers-cliff-sea-sunset",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-standing-on-a-cliff-5946129/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_5946129_hikers-cliff-sea-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_5946129_hikers-cliff-sea-sunset.mp4"
+        },
+        {
+          "id": "pexels_29013208_hikers-cliff-sea-sunset",
+          "type": "image",
+          "source": "pexels",
+          "author": "Stephen Leonardi",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/scenic-coastal-view-with-silhouette-at-sunset-29013208/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_29013208_hikers-cliff-sea-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_29013208_hikers-cliff-sea-sunset.jpg"
+        },
+        {
+          "id": "pexels_31861473_hikers-coastal-cliff-trail",
+          "type": "image",
+          "source": "pexels",
+          "author": "Alina Chernii",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/hikers-on-scenic-cliffside-overlooking-ocean-31861473/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_31861473_hikers-coastal-cliff-trail.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_31861473_hikers-coastal-cliff-trail.jpg"
+        },
+        {
+          "id": "pexels_32224808_hiking-coastal-path-ocean",
+          "type": "image",
+          "source": "pexels",
+          "author": "Adrien Olichon",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/scenic-coastal-path-with-ocean-and-wildflowers-32224808/",
+          "thumb": "projects/belong-module3/thumbs/S09/pexels_32224808_hiking-coastal-path-ocean.jpg",
+          "preview": "projects/belong-module3/previews/S09/pexels_32224808_hiking-coastal-path-ocean.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] The farm is a real farm. The eggs are real eggs from this morning.",
+      "visual_direction": "Fresh organic farm eggs \u2014 a chef/hands with just-collected eggs. heygen: 'chef and eggs'",
+      "clips": [
+        {
+          "id": "heygen_chef-and-eggs",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S10/heygen_chef-and-eggs.jpg",
+          "preview": "projects/belong-module3/previews/S10/heygen_chef-and-eggs.mp4"
+        },
+        {
+          "id": "pexels_10048552_chef-holding-fresh-eggs",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-cracking-an-egg-and-mixing-in-a-flour-10048552/",
+          "thumb": "projects/belong-module3/thumbs/S10/pexels_10048552_chef-holding-fresh-eggs.jpg",
+          "preview": "projects/belong-module3/previews/S10/pexels_10048552_chef-holding-fresh-eggs.mp4"
+        },
+        {
+          "id": "pexels_4911914_collecting-eggs-farm-morning",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-is-holding-eggs-in-a-basket-4911914/",
+          "thumb": "projects/belong-module3/thumbs/S10/pexels_4911914_collecting-eggs-farm-morning.jpg",
+          "preview": "projects/belong-module3/previews/S10/pexels_4911914_collecting-eggs-farm-morning.mp4"
+        },
+        {
+          "id": "pexels_4911915_hands-fresh-eggs-basket-farm",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-is-holding-a-chicken-in-a-cage-4911915/",
+          "thumb": "projects/belong-module3/thumbs/S10/pexels_4911915_hands-fresh-eggs-basket-farm.jpg",
+          "preview": "projects/belong-module3/previews/S10/pexels_4911915_hands-fresh-eggs-basket-farm.mp4"
+        },
+        {
+          "id": "pexels_11722311_fresh-organic-eggs-rustic",
+          "type": "image",
+          "source": "pexels",
+          "author": "Beyza Kaplan",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/eggs-on-tree-trunk-11722311/",
+          "thumb": "projects/belong-module3/thumbs/S10/pexels_11722311_fresh-organic-eggs-rustic.jpg",
+          "preview": "projects/belong-module3/previews/S10/pexels_11722311_fresh-organic-eggs-rustic.jpg"
+        },
+        {
+          "id": "pexels_7966371_chef-holding-fresh-eggs",
+          "type": "image",
+          "source": "pexels",
+          "author": "Felicity Tai",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-holding-bowl-of-fresh-egg-and-fork-7966371/",
+          "thumb": "projects/belong-module3/thumbs/S10/pexels_7966371_chef-holding-fresh-eggs.jpg",
+          "preview": "projects/belong-module3/previews/S10/pexels_7966371_chef-holding-fresh-eggs.jpg"
+        },
+        {
+          "id": "pixabay_1618854_fresh-organic-eggs-rustic",
+          "type": "image",
+          "source": "pixabay",
+          "author": "beernc29",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/egg-white-food-protein-eggshell-1618854/",
+          "thumb": "projects/belong-module3/thumbs/S10/pixabay_1618854_fresh-organic-eggs-rustic.jpg",
+          "preview": "projects/belong-module3/previews/S10/pixabay_1618854_fresh-organic-eggs-rustic.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "[B11] The shop sells our neighbours' honey and wine and olive oil.",
+      "visual_direction": "Local produce \u2014 a bottle of Portuguese olive oil, artisanal. heygen: 'olive oil bottle'",
+      "clips": [
+        {
+          "id": "heygen_olive-oil-bottle",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S11/heygen_olive-oil-bottle.jpg",
+          "preview": "projects/belong-module3/previews/S11/heygen_olive-oil-bottle.mp4"
+        },
+        {
+          "id": "pexels_14527415_olive-oil-bottle-pouring",
+          "type": "video",
+          "source": "pexels",
+          "author": "Towfiqu barbhuiya",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/pouring-oil-from-glass-bottle-14527415/",
+          "thumb": "projects/belong-module3/thumbs/S11/pexels_14527415_olive-oil-bottle-pouring.jpg",
+          "preview": "projects/belong-module3/previews/S11/pexels_14527415_olive-oil-bottle-pouring.mp4"
+        },
+        {
+          "id": "pexels_5897983_olive-oil-golden-bottle-rustic",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/pouring-olive-oil-on-pizza-5897983/",
+          "thumb": "projects/belong-module3/thumbs/S11/pexels_5897983_olive-oil-golden-bottle-rustic.jpg",
+          "preview": "projects/belong-module3/previews/S11/pexels_5897983_olive-oil-golden-bottle-rustic.mp4"
+        },
+        {
+          "id": "pexels_5898242_portuguese-olive-oil-artisanal",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/adding-oil-5898242/",
+          "thumb": "projects/belong-module3/thumbs/S11/pexels_5898242_portuguese-olive-oil-artisanal.jpg",
+          "preview": "projects/belong-module3/previews/S11/pexels_5898242_portuguese-olive-oil-artisanal.mp4"
+        },
+        {
+          "id": "pexels_13247706_portuguese-olive-oil-artisanal",
+          "type": "image",
+          "source": "pexels",
+          "author": "FRANCIANO PUHALES [FF8]",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/bread-near-a-bottle-of-olive-oil-13247706/",
+          "thumb": "projects/belong-module3/thumbs/S11/pexels_13247706_portuguese-olive-oil-artisanal.jpg",
+          "preview": "projects/belong-module3/previews/S11/pexels_13247706_portuguese-olive-oil-artisanal.jpg"
+        },
+        {
+          "id": "pexels_4834307_local-honey-olive-oil-shop",
+          "type": "image",
+          "source": "pexels",
+          "author": "taha balta",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/can-of-olive-oil-and-jars-of-green-olive-spread-4834307/",
+          "thumb": "projects/belong-module3/thumbs/S11/pexels_4834307_local-honey-olive-oil-shop.jpg",
+          "preview": "projects/belong-module3/previews/S11/pexels_4834307_local-honey-olive-oil-shop.jpg"
+        },
+        {
+          "id": "pixabay_968657_olive-oil-bottle-pouring",
+          "type": "image",
+          "source": "pixabay",
+          "author": "stevepb",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/olive-oil-olives-food-oil-natural-968657/",
+          "thumb": "projects/belong-module3/thumbs/S11/pixabay_968657_olive-oil-bottle-pouring.jpg",
+          "preview": "projects/belong-module3/previews/S11/pixabay_968657_olive-oil-bottle-pouring.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "script_line": "[B12] We are of S\u00e3o Teot\u00f3nio, not just in it \u2014 a good neighbour.",
+      "visual_direction": "Community & connection \u2014 a warm handshake at sunset, neighbours/people together. heygen: 'handshake at sunset'",
+      "clips": [
+        {
+          "id": "pexels_34999648_farmers-handshake-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Atikur Rahman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-farmers-in-a-rice-field-34999648/",
+          "thumb": "projects/belong-module3/thumbs/S12/pexels_34999648_farmers-handshake-field.jpg",
+          "preview": "projects/belong-module3/previews/S12/pexels_34999648_farmers-handshake-field.mp4"
+        },
+        {
+          "id": "pexels_8550930_community-people-together-outdoo",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/mother-and-son-having-a-conversation-8550930/",
+          "thumb": "projects/belong-module3/thumbs/S12/pexels_8550930_community-people-together-outdoo.jpg",
+          "preview": "projects/belong-module3/previews/S12/pexels_8550930_community-people-together-outdoo.mp4"
+        },
+        {
+          "id": "pixabay_204006_two-people-handshake-golden-hour",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-204006/",
+          "thumb": "projects/belong-module3/thumbs/S12/pixabay_204006_two-people-handshake-golden-hour.jpg",
+          "preview": "projects/belong-module3/previews/S12/pixabay_204006_two-people-handshake-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_37663_farmers-handshake-field",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ronin_Studio_Munich",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-37663/",
+          "thumb": "projects/belong-module3/thumbs/S12/pixabay_37663_farmers-handshake-field.jpg",
+          "preview": "projects/belong-module3/previews/S12/pixabay_37663_farmers-handshake-field.mp4"
+        },
+        {
+          "id": "heygen_handshake-at-sunset",
+          "type": "image",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module3/thumbs/S12/heygen_handshake-at-sunset.jpg",
+          "preview": "projects/belong-module3/previews/S12/heygen_handshake-at-sunset.jpg"
+        },
+        {
+          "id": "pexels_11678440_farmers-handshake-field",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mark Stebnicki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-men-standing-on-the-broccoli-farm-11678440/",
+          "thumb": "projects/belong-module3/thumbs/S12/pexels_11678440_farmers-handshake-field.jpg",
+          "preview": "projects/belong-module3/previews/S12/pexels_11678440_farmers-handshake-field.jpg"
+        },
+        {
+          "id": "pexels_28494562_community-people-together-outdoo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thomas  Benedetti",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/warm-embrace-among-friends-in-nature-setting-28494562/",
+          "thumb": "projects/belong-module3/thumbs/S12/pexels_28494562_community-people-together-outdoo.jpg",
+          "preview": "projects/belong-module3/previews/S12/pexels_28494562_community-people-together-outdoo.jpg"
+        }
+      ]
+    }
+  ]
+}

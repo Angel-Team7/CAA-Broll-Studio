@@ -1,0 +1,104 @@
+{
+  "project": "belong-module2-heygen",
+  "title": "Belong \u2014 Module 2: HeyGen brolls",
+  "generated": "2026-07-09",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "Client HeyGen-generated brolls for this module \u2014 review.",
+      "visual_direction": "HeyGen brolls \u2014 Module 2 (vision)",
+      "clips": [
+        {
+          "id": "heygen_1e44b60b81794fc7836c626aa9795b",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_1e44b60b81794fc7836c626aa9795b.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_1e44b60b81794fc7836c626aa9795b.mp4"
+        },
+        {
+          "id": "heygen_59c9de777862420ba3942190544b5c",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_59c9de777862420ba3942190544b5c.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_59c9de777862420ba3942190544b5c.mp4"
+        },
+        {
+          "id": "heygen_5dc557c5001a421eaa099b49a40c87",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_5dc557c5001a421eaa099b49a40c87.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_5dc557c5001a421eaa099b49a40c87.mp4"
+        },
+        {
+          "id": "heygen_c6abfc352a71409bad6038a02f32c8",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_c6abfc352a71409bad6038a02f32c8.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_c6abfc352a71409bad6038a02f32c8.mp4"
+        },
+        {
+          "id": "heygen_ca596c10519d4aff9da2ead5b5104d",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_ca596c10519d4aff9da2ead5b5104d.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_ca596c10519d4aff9da2ead5b5104d.mp4"
+        },
+        {
+          "id": "heygen_cfe14ea6f4fd42fb9ab8bd798bd701",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_cfe14ea6f4fd42fb9ab8bd798bd701.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_cfe14ea6f4fd42fb9ab8bd798bd701.mp4"
+        },
+        {
+          "id": "heygen_df1365ceaa3649b69c791561b3cf43",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_df1365ceaa3649b69c791561b3cf43.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_df1365ceaa3649b69c791561b3cf43.mp4"
+        },
+        {
+          "id": "heygen_e59c4089f4db4f91ba993bed7f5aea",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_e59c4089f4db4f91ba993bed7f5aea.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_e59c4089f4db4f91ba993bed7f5aea.mp4"
+        },
+        {
+          "id": "heygen_e7b08d235e964d59a7034866d113b3",
+          "type": "video",
+          "source": "heygen",
+          "author": "Belong (HeyGen)",
+          "license": "Client asset (HeyGen)",
+          "page_url": "",
+          "thumb": "projects/belong-module2-heygen/thumbs/S01/heygen_e7b08d235e964d59a7034866d113b3.jpg",
+          "preview": "projects/belong-module2-heygen/previews/S01/heygen_e7b08d235e964d59a7034866d113b3.mp4"
+        }
+      ]
+    }
+  ]
+}
