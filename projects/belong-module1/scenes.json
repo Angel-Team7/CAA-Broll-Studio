@@ -1,0 +1,527 @@
+{
+  "project": "belong-module1",
+  "title": "Belong \u2014 Module 1: My Story & Craveiral",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] Hello. I'm Pedro. If you're watching this, you're part of Craveiral.",
+      "visual_direction": "Warm opening: a team member walks onto a rustic farm property at first light, greeted with a smile \u2014 the feeling of joining something. Medium shot, golden light.",
+      "clips": [
+        {
+          "id": "pexels_10885104_golden-hour-farmhouse",
+          "type": "video",
+          "source": "pexels",
+          "author": "Justin Stretch",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sheep-in-pasture-at-sunset-10885104/",
+          "thumb": "projects/belong-module1/thumbs/S01/pexels_10885104_golden-hour-farmhouse.jpg",
+          "preview": "projects/belong-module1/previews/S01/pexels_10885104_golden-hour-farmhouse.mp4"
+        },
+        {
+          "id": "pexels_28828093_team-welcome-smile",
+          "type": "video",
+          "source": "pexels",
+          "author": "Sammy Wilson",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/smiling-receptionist-in-corporate-setting-28828093/",
+          "thumb": "projects/belong-module1/thumbs/S01/pexels_28828093_team-welcome-smile.jpg",
+          "preview": "projects/belong-module1/previews/S01/pexels_28828093_team-welcome-smile.mp4"
+        },
+        {
+          "id": "pixabay_66810_farm-worker-morning",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-66810/",
+          "thumb": "projects/belong-module1/thumbs/S01/pixabay_66810_farm-worker-morning.jpg",
+          "preview": "projects/belong-module1/previews/S01/pixabay_66810_farm-worker-morning.mp4"
+        },
+        {
+          "id": "pexels_16880289_golden-hour-farmhouse",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tom Fisk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/an-abandoned-house-in-the-countryside-16880289/",
+          "thumb": "projects/belong-module1/thumbs/S01/pexels_16880289_golden-hour-farmhouse.jpg",
+          "preview": "projects/belong-module1/previews/S01/pexels_16880289_golden-hour-farmhouse.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] Twenty years ago I was a lawyer in Lisbon \u2014 and I kept dreaming about land, about getting my hands in the soil.",
+      "visual_direction": "Contrast beat: Lisbon city rooftops / a man gazing from an office window, then cut-away to hands sinking into dark soil. City-to-land longing.",
+      "clips": [
+        {
+          "id": "coverr_bafkoypmb4_hands-in-soil",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/grabbing-soil-bafkoypmb4",
+          "thumb": "projects/belong-module1/thumbs/S02/coverr_bafkoypmb4_hands-in-soil.jpg",
+          "preview": "projects/belong-module1/previews/S02/coverr_bafkoypmb4_hands-in-soil.mp4"
+        },
+        {
+          "id": "pexels_11902307_lisbon-rooftops",
+          "type": "video",
+          "source": "pexels",
+          "author": "ed1toR \u3164",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/drone-footage-of-friends-partying-on-a-terrace-11902307/",
+          "thumb": "projects/belong-module1/thumbs/S02/pexels_11902307_lisbon-rooftops.jpg",
+          "preview": "projects/belong-module1/previews/S02/pexels_11902307_lisbon-rooftops.mp4"
+        },
+        {
+          "id": "pexels_8718631_pensive-businessman-window",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-having-coffee-while-smoking-a-cigarette-8718631/",
+          "thumb": "projects/belong-module1/thumbs/S02/pexels_8718631_pensive-businessman-window.jpg",
+          "preview": "projects/belong-module1/previews/S02/pexels_8718631_pensive-businessman-window.mp4"
+        },
+        {
+          "id": "pexels_37460428_lisbon-rooftops",
+          "type": "image",
+          "source": "pexels",
+          "author": "Milan Trninic",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/aerial-view-of-lisbon-s-historic-red-rooftop-architecture-37460428/",
+          "thumb": "projects/belong-module1/thumbs/S02/pexels_37460428_lisbon-rooftops.jpg",
+          "preview": "projects/belong-module1/previews/S02/pexels_37460428_lisbon-rooftops.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] I found a field of carnations \u2014 cravos. A field of carnations is a 'craveiral'. That's where the name comes from.",
+      "visual_direction": "The origin image: a wild field of carnations in bloom, close detail of the flowers swaying, honest and unstyled. Detail shot. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_14215801_flower-field-breeze",
+          "type": "video",
+          "source": "pexels",
+          "author": "\ub300\uc815 \uae40",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/flowers-swaying-on-wind-14215801/",
+          "thumb": "projects/belong-module1/thumbs/S03/pexels_14215801_flower-field-breeze.jpg",
+          "preview": "projects/belong-module1/previews/S03/pexels_14215801_flower-field-breeze.mp4"
+        },
+        {
+          "id": "pexels_37904039_carnation-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Marek Ruczaj",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-of-dew-kissed-pink-carnation-flowers-37904039/",
+          "thumb": "projects/belong-module1/thumbs/S03/pexels_37904039_carnation-field.jpg",
+          "preview": "projects/belong-module1/previews/S03/pexels_37904039_carnation-field.mp4"
+        },
+        {
+          "id": "pixabay_182517_carnation-field",
+          "type": "video",
+          "source": "pixabay",
+          "author": "KIMDAEJEUNG",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-182517/",
+          "thumb": "projects/belong-module1/thumbs/S03/pixabay_182517_carnation-field.jpg",
+          "preview": "projects/belong-module1/previews/S03/pixabay_182517_carnation-field.mp4"
+        },
+        {
+          "id": "pexels_38171721_carnation-field",
+          "type": "image",
+          "source": "pexels",
+          "author": "Physical  Pixel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/vibrant-pink-carnations-in-bloom-outdoors-38171721/",
+          "thumb": "projects/belong-module1/thumbs/S03/pexels_38171721_carnation-field.jpg",
+          "preview": "projects/belong-module1/previews/S03/pexels_38171721_carnation-field.jpg"
+        },
+        {
+          "id": "pixabay_7840259_red-carnations-closeup",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Ray_Shrewsberry",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/flower-carnation-red-flower-nature-7840259/",
+          "thumb": "projects/belong-module1/thumbs/S03/pixabay_7840259_red-carnations-closeup.jpg",
+          "preview": "projects/belong-module1/previews/S03/pixabay_7840259_red-carnations-closeup.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] Nine hectares of wild Alentejo, minutes from the most beautiful unspoiled coastline in Europe. Skies so clear guests stop to point at the stars.",
+      "visual_direction": "Sweeping wide: raw Alentejo landscape rolling to dramatic Atlantic cliffs, then a starry night sky over dark countryside. Epic but natural. [image-beat]",
+      "clips": [
+        {
+          "id": "coverr_93o8xv5alh_portugal-coast-aerial",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/the-coast-in-paul-do-mar-portugal-93o8xv5alh",
+          "thumb": "projects/belong-module1/thumbs/S04/coverr_93o8xv5alh_portugal-coast-aerial.jpg",
+          "preview": "projects/belong-module1/previews/S04/coverr_93o8xv5alh_portugal-coast-aerial.mp4"
+        },
+        {
+          "id": "pixabay_174472_wild-atlantic-coastline",
+          "type": "video",
+          "source": "pixabay",
+          "author": "ionela_v",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-174472/",
+          "thumb": "projects/belong-module1/thumbs/S04/pixabay_174472_wild-atlantic-coastline.jpg",
+          "preview": "projects/belong-module1/previews/S04/pixabay_174472_wild-atlantic-coastline.mp4"
+        },
+        {
+          "id": "pixabay_283431_starry-night-countryside",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kanenori",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-283431/",
+          "thumb": "projects/belong-module1/thumbs/S04/pixabay_283431_starry-night-countryside.jpg",
+          "preview": "projects/belong-module1/previews/S04/pixabay_283431_starry-night-countryside.mp4"
+        },
+        {
+          "id": "pixabay_5678549_starry-night-countryside",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Whitechappel79",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/arch-coast-sea-ocean-coastline-5678549/",
+          "thumb": "projects/belong-module1/thumbs/S04/pixabay_5678549_starry-night-countryside.jpg",
+          "preview": "projects/belong-module1/previews/S04/pixabay_5678549_starry-night-countryside.jpg"
+        },
+        {
+          "id": "wikimedia_28363952_alentejo-landscape",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Alvesgaspar",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Alentejo_September_2013-1.jpg",
+          "thumb": "projects/belong-module1/thumbs/S04/wikimedia_28363952_alentejo-landscape.jpg",
+          "preview": "projects/belong-module1/previews/S04/wikimedia_28363952_alentejo-landscape.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] That was 2010. We opened in 2018. Eight years between the dream and the first guest.",
+      "visual_direction": "Perseverance: timber-frame construction in a rural setting, craftsman hands at work, architectural plans on a worn table. Medium and detail shots.",
+      "clips": [
+        {
+          "id": "coverr_vydinjswe0_carpenter-hands-working",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/carpenter-works-with-a-miter-saw-vydinjswe0",
+          "thumb": "projects/belong-module1/thumbs/S05/coverr_vydinjswe0_carpenter-hands-working.jpg",
+          "preview": "projects/belong-module1/previews/S05/coverr_vydinjswe0_carpenter-hands-working.mp4"
+        },
+        {
+          "id": "pexels_31025073_building-wooden-house",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-construction-workers-on-building-site-31025073/",
+          "thumb": "projects/belong-module1/thumbs/S05/pexels_31025073_building-wooden-house.jpg",
+          "preview": "projects/belong-module1/previews/S05/pexels_31025073_building-wooden-house.mp4"
+        },
+        {
+          "id": "pexels_8829526_timber-construction-rural",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-cutting-a-wood-8829526/",
+          "thumb": "projects/belong-module1/thumbs/S05/pexels_8829526_timber-construction-rural.jpg",
+          "preview": "projects/belong-module1/previews/S05/pexels_8829526_timber-construction-rural.mp4"
+        },
+        {
+          "id": "pexels_7109999_carpenter-hands-working",
+          "type": "image",
+          "source": "pexels",
+          "author": "Daniel Reche",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-using-a-wood-planer-7109999/",
+          "thumb": "projects/belong-module1/thumbs/S05/pexels_7109999_carpenter-hands-working.jpg",
+          "preview": "projects/belong-module1/previews/S05/pexels_7109999_carpenter-hands-working.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] Craveiral was not built to be a hotel. It was built to be a relationship with a piece of land. Land first, hotel second.",
+      "visual_direction": "Tactile reverence: weathered hands cupping rich dark earth, a farmer crouched examining soil, low sun flaring through. Intimate detail. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_6863600_regenerative-farming-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "Alexander Fritz",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-compost-soil-6863600/",
+          "thumb": "projects/belong-module1/thumbs/S06/pexels_6863600_regenerative-farming-detail.jpg",
+          "preview": "projects/belong-module1/previews/S06/pexels_6863600_regenerative-farming-detail.mp4"
+        },
+        {
+          "id": "pexels_7781741_farmer-hands-soil",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-putting-on-gloves-7781741/",
+          "thumb": "projects/belong-module1/thumbs/S06/pexels_7781741_farmer-hands-soil.jpg",
+          "preview": "projects/belong-module1/previews/S06/pexels_7781741_farmer-hands-soil.mp4"
+        },
+        {
+          "id": "pixabay_73847_soil-texture-hands",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/belong-module1/thumbs/S06/pixabay_73847_soil-texture-hands.jpg",
+          "preview": "projects/belong-module1/previews/S06/pixabay_73847_soil-texture-hands.mp4"
+        },
+        {
+          "id": "pexels_33303287_farmer-hands-soil",
+          "type": "image",
+          "source": "pexels",
+          "author": "HONG SON",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/farmer-harvesting-root-crops-on-a-sunny-day-33303287/",
+          "thumb": "projects/belong-module1/thumbs/S06/pexels_33303287_farmer-hands-soil.jpg",
+          "preview": "projects/belong-module1/previews/S06/pexels_33303287_farmer-hands-soil.jpg"
+        },
+        {
+          "id": "pixabay_8027884_farmer-hands-soil",
+          "type": "image",
+          "source": "pixabay",
+          "author": "GoranH",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/planting-transplanting-cherry-tomato-8027884/",
+          "thumb": "projects/belong-module1/thumbs/S06/pixabay_8027884_farmer-hands-soil.jpg",
+          "preview": "projects/belong-module1/previews/S06/pixabay_8027884_farmer-hands-soil.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] We have nine hectares. Only four percent is constructed. The emptiness, the space, the silence at night \u2014 that IS the product.",
+      "visual_direction": "Wide aerial over a green estate: a few low buildings dissolved in orchards, gardens and pine forest \u2014 vast open space around tiny footprint.",
+      "clips": [
+        {
+          "id": "pexels_31846104_eco-resort-nature-aerial",
+          "type": "video",
+          "source": "pexels",
+          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-green-forest-and-resort-buildings-31846104/",
+          "thumb": "projects/belong-module1/thumbs/S07/pexels_31846104_eco-resort-nature-aerial.jpg",
+          "preview": "projects/belong-module1/previews/S07/pexels_31846104_eco-resort-nature-aerial.mp4"
+        },
+        {
+          "id": "pexels_32092702_orchard-aerial-view",
+          "type": "video",
+          "source": "pexels",
+          "author": "To\u00e0n BDS",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-lush-farmland-and-rural-landscape-32092702/",
+          "thumb": "projects/belong-module1/thumbs/S07/pexels_32092702_orchard-aerial-view.jpg",
+          "preview": "projects/belong-module1/previews/S07/pexels_32092702_orchard-aerial-view.mp4"
+        },
+        {
+          "id": "pexels_33749474_farm-estate-aerial",
+          "type": "video",
+          "source": "pexels",
+          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/arial-view-of-countryside-estate-with-lush-forest-33749474/",
+          "thumb": "projects/belong-module1/thumbs/S07/pexels_33749474_farm-estate-aerial.jpg",
+          "preview": "projects/belong-module1/previews/S07/pexels_33749474_farm-estate-aerial.mp4"
+        },
+        {
+          "id": "pexels_33790877_orchard-aerial-view",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mark Stebnicki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/picturesque-vineyard-landscape-in-north-carolina-33790877/",
+          "thumb": "projects/belong-module1/thumbs/S07/pexels_33790877_orchard-aerial-view.jpg",
+          "preview": "projects/belong-module1/previews/S07/pexels_33790877_orchard-aerial-view.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] Thirty-eight houses connected by raised wooden walkways \u2014 raised wood lets the land breathe underneath.",
+      "visual_direction": "Ground-level tracking along a raised wooden boardwalk winding through greenery toward whitewashed minimalist houses; plants growing beneath the slats.",
+      "clips": [
+        {
+          "id": "pexels_12444633_wooden-boardwalk-nature",
+          "type": "video",
+          "source": "pexels",
+          "author": "Matthias Groeneveld",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-wooden-path-and-cottongrass-flowers-in-a-wetland-12444633/",
+          "thumb": "projects/belong-module1/thumbs/S08/pexels_12444633_wooden-boardwalk-nature.jpg",
+          "preview": "projects/belong-module1/previews/S08/pexels_12444633_wooden-boardwalk-nature.mp4"
+        },
+        {
+          "id": "pexels_17717619_raised-walkway-forest",
+          "type": "video",
+          "source": "pexels",
+          "author": "Zane Holmes",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-wooden-walkway-through-the-trees-in-a-swamp-17717619/",
+          "thumb": "projects/belong-module1/thumbs/S08/pexels_17717619_raised-walkway-forest.jpg",
+          "preview": "projects/belong-module1/previews/S08/pexels_17717619_raised-walkway-forest.mp4"
+        },
+        {
+          "id": "pexels_35650634_eco-lodge-walkway",
+          "type": "video",
+          "source": "pexels",
+          "author": "NGUY\u1ec4N TH\u00c0NH NH\u01a0N",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-rustic-huts-in-green-landscape-35650634/",
+          "thumb": "projects/belong-module1/thumbs/S08/pexels_35650634_eco-lodge-walkway.jpg",
+          "preview": "projects/belong-module1/previews/S08/pexels_35650634_eco-lodge-walkway.mp4"
+        },
+        {
+          "id": "pixabay_1839000_boardwalk-through-grass",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/path-wetlands-outdoors-1839000/",
+          "thumb": "projects/belong-module1/thumbs/S08/pixabay_1839000_boardwalk-through-grass.jpg",
+          "preview": "projects/belong-module1/previews/S08/pixabay_1839000_boardwalk-through-grass.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] We do not own the land \u2014 we belong to it, for a while. Our job is to leave it better than we found it.",
+      "visual_direction": "The heart of the module: a lone figure walking slowly through an olive grove or cork oak field at golden hour, unhurried, at home in the land. Wide. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_34817022_olive-grove-golden-hour",
+          "type": "video",
+          "source": "pexels",
+          "author": "Earth Photart",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/sunset-over-moroccan-olive-groves-with-water-tower-34817022/",
+          "thumb": "projects/belong-module1/thumbs/S09/pexels_34817022_olive-grove-golden-hour.jpg",
+          "preview": "projects/belong-module1/previews/S09/pexels_34817022_olive-grove-golden-hour.mp4"
+        },
+        {
+          "id": "pexels_9153871_alentejo-golden-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-flower-field-9153871/",
+          "thumb": "projects/belong-module1/thumbs/S09/pexels_9153871_alentejo-golden-light.jpg",
+          "preview": "projects/belong-module1/previews/S09/pexels_9153871_alentejo-golden-light.mp4"
+        },
+        {
+          "id": "pixabay_212476_man-walking-olive-trees",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Matthias_Groeneveld",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-212476/",
+          "thumb": "projects/belong-module1/thumbs/S09/pixabay_212476_man-walking-olive-trees.jpg",
+          "preview": "projects/belong-module1/previews/S09/pixabay_212476_man-walking-olive-trees.mp4"
+        },
+        {
+          "id": "pexels_27295308_man-walking-olive-trees",
+          "type": "image",
+          "source": "pexels",
+          "author": "Plastic Lines",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-walking-through-an-olive-grove-with-a-dog-27295308/",
+          "thumb": "projects/belong-module1/thumbs/S09/pexels_27295308_man-walking-olive-trees.jpg",
+          "preview": "projects/belong-module1/previews/S09/pexels_27295308_man-walking-olive-trees.jpg"
+        },
+        {
+          "id": "pixabay_3803017_man-walking-olive-trees",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ulleo",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/wooden-ladder-rung-olive-tree-3803017/",
+          "thumb": "projects/belong-module1/thumbs/S09/pixabay_3803017_man-walking-olive-trees.jpg",
+          "preview": "projects/belong-module1/previews/S09/pixabay_3803017_man-walking-olive-trees.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] I've watched a child collect eggs and run to show her parents like treasure. So yes \u2014 every single day, it's worth it.",
+      "visual_direction": "Payoff: a child gathering fresh eggs on a farm, running with joy; a couple beneath pines; village workers smiling. Warm human close. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_4911914_fresh-eggs-basket",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-is-holding-eggs-in-a-basket-4911914/",
+          "thumb": "projects/belong-module1/thumbs/S10/pexels_4911914_fresh-eggs-basket.jpg",
+          "preview": "projects/belong-module1/previews/S10/pexels_4911914_fresh-eggs-basket.mp4"
+        },
+        {
+          "id": "pexels_5101557_child-running-joy-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/mom-and-daughter-flying-kite-5101557/",
+          "thumb": "projects/belong-module1/thumbs/S10/pexels_5101557_child-running-joy-field.jpg",
+          "preview": "projects/belong-module1/previews/S10/pexels_5101557_child-running-joy-field.mp4"
+        },
+        {
+          "id": "pexels_7003013_child-collecting-eggs",
+          "type": "video",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/boy-holding-a-tray-of-eggs-7003013/",
+          "thumb": "projects/belong-module1/thumbs/S10/pexels_7003013_child-collecting-eggs.jpg",
+          "preview": "projects/belong-module1/previews/S10/pexels_7003013_child-collecting-eggs.mp4"
+        },
+        {
+          "id": "pexels_19996701_fresh-eggs-basket",
+          "type": "image",
+          "source": "pexels",
+          "author": "Engin Akyurt",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/abundance-of-eggs-in-basket-19996701/",
+          "thumb": "projects/belong-module1/thumbs/S10/pexels_19996701_fresh-eggs-basket.jpg",
+          "preview": "projects/belong-module1/previews/S10/pexels_19996701_fresh-eggs-basket.jpg"
+        },
+        {
+          "id": "pexels_7699201_kids-on-farm",
+          "type": "image",
+          "source": "pexels",
+          "author": "MICHAEL  LINARES",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/little-boy-driving-a-tractor-7699201/",
+          "thumb": "projects/belong-module1/thumbs/S10/pexels_7699201_kids-on-farm.jpg",
+          "preview": "projects/belong-module1/previews/S10/pexels_7699201_kids-on-farm.jpg"
+        }
+      ]
+    }
+  ]
+}

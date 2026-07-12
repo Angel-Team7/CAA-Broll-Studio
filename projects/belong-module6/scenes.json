@@ -1,0 +1,497 @@
+{
+  "project": "belong-module6",
+  "title": "Belong \u2014 Module 6: Houses, Farm & Standards",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] Nine hectares. Thirty-eight independent houses in clusters. Only four percent of the land is built.",
+      "visual_direction": "Establishing aerial: clusters of low whitewashed houses scattered in a sea of orchards, gardens and pine forest \u2014 the 4% footprint made visible. Wide drone. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_28557980_portugal-farmhouse-aerial",
+          "type": "video",
+          "source": "pexels",
+          "author": "Rui Veiga",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/charming-village-in-peneda-geres-national-park-28557980/",
+          "thumb": "projects/belong-module6/thumbs/S01/pexels_28557980_portugal-farmhouse-aerial.jpg",
+          "preview": "projects/belong-module6/previews/S01/pexels_28557980_portugal-farmhouse-aerial.mp4"
+        },
+        {
+          "id": "pexels_31846104_eco-resort-aerial",
+          "type": "video",
+          "source": "pexels",
+          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-green-forest-and-resort-buildings-31846104/",
+          "thumb": "projects/belong-module6/thumbs/S01/pexels_31846104_eco-resort-aerial.jpg",
+          "preview": "projects/belong-module6/previews/S01/pexels_31846104_eco-resort-aerial.mp4"
+        },
+        {
+          "id": "pexels_33749474_farm-estate-drone",
+          "type": "video",
+          "source": "pexels",
+          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/arial-view-of-countryside-estate-with-lush-forest-33749474/",
+          "thumb": "projects/belong-module6/thumbs/S01/pexels_33749474_farm-estate-drone.jpg",
+          "preview": "projects/belong-module6/previews/S01/pexels_33749474_farm-estate-drone.mp4"
+        },
+        {
+          "id": "pexels_31953691_farm-estate-drone",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ben Young",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/aerial-view-of-lush-autumn-vineyards-31953691/",
+          "thumb": "projects/belong-module6/thumbs/S01/pexels_31953691_farm-estate-drone.jpg",
+          "preview": "projects/belong-module6/previews/S01/pexels_31953691_farm-estate-drone.jpg"
+        },
+        {
+          "id": "pexels_816194_portugal-farmhouse-aerial",
+          "type": "image",
+          "source": "pexels",
+          "author": "Kyla Rose Rockola",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/white-concrete-house-surrounded-by-green-grass-816194/",
+          "thumb": "projects/belong-module6/thumbs/S01/pexels_816194_portugal-farmhouse-aerial.jpg",
+          "preview": "projects/belong-module6/previews/S01/pexels_816194_portugal-farmhouse-aerial.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] All stitched together by those raised wooden walkways \u2014 water flows, plants grow, the soil stays alive underneath.",
+      "visual_direction": "Slow glide along a raised timber walkway threading through pines and wild grass, greenery pushing up between and beneath the boards. Ground-level wide. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_27636504_wooden-walkway-pines",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nils Vega",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-wooden-walkway-through-the-woods-27636504/",
+          "thumb": "projects/belong-module6/thumbs/S02/pexels_27636504_wooden-walkway-pines.jpg",
+          "preview": "projects/belong-module6/previews/S02/pexels_27636504_wooden-walkway-pines.mp4"
+        },
+        {
+          "id": "pexels_8235745_raised-boardwalk-grass",
+          "type": "video",
+          "source": "pexels",
+          "author": "Seven Seil",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/spring-flowers-on-the-side-of-a-pathway-8235745/",
+          "thumb": "projects/belong-module6/thumbs/S02/pexels_8235745_raised-boardwalk-grass.jpg",
+          "preview": "projects/belong-module6/previews/S02/pexels_8235745_raised-boardwalk-grass.mp4"
+        },
+        {
+          "id": "pexels_8526577_wooden-deck-pathway",
+          "type": "video",
+          "source": "pexels",
+          "author": "Taryn Elliott",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-walking-on-the-boardwalk-8526577/",
+          "thumb": "projects/belong-module6/thumbs/S02/pexels_8526577_wooden-deck-pathway.jpg",
+          "preview": "projects/belong-module6/previews/S02/pexels_8526577_wooden-deck-pathway.mp4"
+        },
+        {
+          "id": "pexels_19867735_wooden-walkway-pines",
+          "type": "image",
+          "source": "pexels",
+          "author": "Lauri Poldre",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wooden-path-in-a-forest-19867735/",
+          "thumb": "projects/belong-module6/thumbs/S02/pexels_19867735_wooden-walkway-pines.jpg",
+          "preview": "projects/belong-module6/previews/S02/pexels_19867735_wooden-walkway-pines.jpg"
+        },
+        {
+          "id": "pixabay_1500482_timber-path-nature",
+          "type": "image",
+          "source": "pixabay",
+          "author": "markusspiske",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/forest-wood-tree-trunk-nature-1500482/",
+          "thumb": "projects/belong-module6/thumbs/S02/pixabay_1500482_timber-path-nature.jpg",
+          "preview": "projects/belong-module6/previews/S02/pixabay_1500482_timber-path-nature.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] Every house is independent, minimalist but warm \u2014 sustainability, local craftsmanship, homage to Portuguese heritage.",
+      "visual_direction": "Interior beauty pass: minimalist room in natural wood and linen, handmade ceramics, light pouring in, a private terrace beyond. Medium interior. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_7131833_linen-bed-morning-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-prepares-breakfast-in-bed-7131833/",
+          "thumb": "projects/belong-module6/thumbs/S03/pexels_7131833_linen-bed-morning-light.jpg",
+          "preview": "projects/belong-module6/previews/S03/pexels_7131833_linen-bed-morning-light.mp4"
+        },
+        {
+          "id": "pexels_7131839_warm-scandinavian-bedroom",
+          "type": "video",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-putting-a-cup-on-table-7131839/",
+          "thumb": "projects/belong-module6/thumbs/S03/pexels_7131839_warm-scandinavian-bedroom.jpg",
+          "preview": "projects/belong-module6/previews/S03/pexels_7131839_warm-scandinavian-bedroom.mp4"
+        },
+        {
+          "id": "pexels_7303639_minimalist-interior-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "Cup of  Couple",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-getting-a-glass-inside-a-cabinet-7303639/",
+          "thumb": "projects/belong-module6/thumbs/S03/pexels_7303639_minimalist-interior-wood.jpg",
+          "preview": "projects/belong-module6/previews/S03/pexels_7303639_minimalist-interior-wood.mp4"
+        },
+        {
+          "id": "openverse_a8a4032a-f6e9-4fe0-ab03-32bd_natural-materials-interior",
+          "type": "image",
+          "source": "openverse",
+          "author": "PhotoArch1",
+          "license": "CC CC0 1.0",
+          "page_url": "https://commons.wikimedia.org/w/index.php?curid=172033871",
+          "thumb": "projects/belong-module6/thumbs/S03/openverse_a8a4032a-f6e9-4fe0-ab03-32bd_natural-materials-interior.jpg",
+          "preview": "projects/belong-module6/previews/S03/openverse_a8a4032a-f6e9-4fe0-ab03-32bd_natural-materials-interior.jpg"
+        },
+        {
+          "id": "pixabay_3667768_linen-bed-morning-light",
+          "type": "image",
+          "source": "pixabay",
+          "author": "LUM3N",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/read-sunday-bedroom-book-sleep-3667768/",
+          "thumb": "projects/belong-module6/thumbs/S03/pixabay_3667768_linen-bed-morning-light.jpg",
+          "preview": "projects/belong-module6/previews/S03/pixabay_3667768_linen-bed-morning-light.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] Know your unit types. Confidence sells and vagueness kills \u2014 trust is the currency of this whole business.",
+      "visual_direction": "Product-knowledge details: an equipped kitchen, a wood-burning stove, a terrace with table and armchairs, a premium mattress being smoothed. Tight detail series.",
+      "clips": [
+        {
+          "id": "pexels_6848731_cottage-kitchen-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-finding-a-note-of-encouragement-6848731/",
+          "thumb": "projects/belong-module6/thumbs/S04/pexels_6848731_cottage-kitchen-detail.jpg",
+          "preview": "projects/belong-module6/previews/S04/pexels_6848731_cottage-kitchen-detail.mp4"
+        },
+        {
+          "id": "pexels_8967847_wood-burning-stove",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-sitting-near-the-fire-pit-8967847/",
+          "thumb": "projects/belong-module6/thumbs/S04/pexels_8967847_wood-burning-stove.jpg",
+          "preview": "projects/belong-module6/previews/S04/pexels_8967847_wood-burning-stove.mp4"
+        },
+        {
+          "id": "pixabay_15178_wood-burning-stove",
+          "type": "video",
+          "source": "pixabay",
+          "author": "juphotography",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-15178/",
+          "thumb": "projects/belong-module6/thumbs/S04/pixabay_15178_wood-burning-stove.jpg",
+          "preview": "projects/belong-module6/previews/S04/pixabay_15178_wood-burning-stove.mp4"
+        },
+        {
+          "id": "pexels_26224773_wood-burning-stove",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gaspar Zaldo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-a-woman-holding-the-handle-of-a-fireplace-door-26224773/",
+          "thumb": "projects/belong-module6/thumbs/S04/pexels_26224773_wood-burning-stove.jpg",
+          "preview": "projects/belong-module6/previews/S04/pexels_26224773_wood-burning-stove.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] Three pools, the wellness deck raised in the pine forest \u2014 outdoor sauna, hot tub, cold plunge, a real thermal circuit.",
+      "visual_direction": "Amenity beat, modern but natural: steam over a heated pool, a timber sauna among pines, a hot tub with forest light. Wide + medium, serene.",
+      "clips": [
+        {
+          "id": "pexels_5976352_steam-pool-morning",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/hot-water-on-a-tub-5976352/",
+          "thumb": "projects/belong-module6/thumbs/S05/pexels_5976352_steam-pool-morning.jpg",
+          "preview": "projects/belong-module6/previews/S05/pexels_5976352_steam-pool-morning.mp4"
+        },
+        {
+          "id": "pexels_5980027_outdoor-sauna-forest",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-women-sitting-on-bench-5980027/",
+          "thumb": "projects/belong-module6/thumbs/S05/pexels_5980027_outdoor-sauna-forest.jpg",
+          "preview": "projects/belong-module6/previews/S05/pexels_5980027_outdoor-sauna-forest.mp4"
+        },
+        {
+          "id": "pexels_6693841_wellness-spa-wood",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/wooden-pieces-and-dropper-on-the-table-6693841/",
+          "thumb": "projects/belong-module6/thumbs/S05/pexels_6693841_wellness-spa-wood.jpg",
+          "preview": "projects/belong-module6/previews/S05/pexels_6693841_wellness-spa-wood.mp4"
+        },
+        {
+          "id": "pexels_25729721_steam-pool-morning",
+          "type": "image",
+          "source": "pexels",
+          "author": "FAN DENG",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/boardwalk-in-yellowstone-national-park-25729721/",
+          "thumb": "projects/belong-module6/thumbs/S05/pexels_25729721_steam-pool-morning.jpg",
+          "preview": "projects/belong-module6/previews/S05/pexels_25729721_steam-pool-morning.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] The farm provides over seventy percent of what our kitchen serves. Guests harvest produce, meet the animals.",
+      "visual_direction": "Working farm in motion: rows of vegetables, hands pulling produce from the earth, a guest harvesting alongside a farmer, hens ranging free. Medium + detail. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_10041434_hands-picking-vegetables",
+          "type": "video",
+          "source": "pexels",
+          "author": "Los Muertos Crew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-on-man-holding-bundle-of-carrots-10041434/",
+          "thumb": "projects/belong-module6/thumbs/S06/pexels_10041434_hands-picking-vegetables.jpg",
+          "preview": "projects/belong-module6/previews/S06/pexels_10041434_hands-picking-vegetables.mp4"
+        },
+        {
+          "id": "pexels_12354539_vegetable-garden-harvest",
+          "type": "video",
+          "source": "pexels",
+          "author": "fatiha maarouf",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/female-hands-working-in-garden-12354539/",
+          "thumb": "projects/belong-module6/thumbs/S06/pexels_12354539_vegetable-garden-harvest.jpg",
+          "preview": "projects/belong-module6/previews/S06/pexels_12354539_vegetable-garden-harvest.mp4"
+        },
+        {
+          "id": "pexels_31946719_free-range-chickens",
+          "type": "video",
+          "source": "pexels",
+          "author": "Grigoriy Bunkov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/free-range-chickens-in-rustic-farm-setting-31946719/",
+          "thumb": "projects/belong-module6/thumbs/S06/pexels_31946719_free-range-chickens.jpg",
+          "preview": "projects/belong-module6/previews/S06/pexels_31946719_free-range-chickens.mp4"
+        },
+        {
+          "id": "pexels_10606633_organic-garden-rows",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anil  Sharma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/green-plant-on-brown-soil-10606633/",
+          "thumb": "projects/belong-module6/thumbs/S06/pexels_10606633_organic-garden-rows.jpg",
+          "preview": "projects/belong-module6/previews/S06/pexels_10606633_organic-garden-rows.jpg"
+        },
+        {
+          "id": "pexels_9117894_vegetable-garden-harvest",
+          "type": "image",
+          "source": "pexels",
+          "author": "Alexandra Kollstrem",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-harvesting-onions-9117894/",
+          "thumb": "projects/belong-module6/thumbs/S06/pexels_9117894_vegetable-garden-harvest.jpg",
+          "preview": "projects/belong-module6/previews/S06/pexels_9117894_vegetable-garden-harvest.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] The shop: local wines, honey, olive oil, natural soaps. Every product has a story and a producer.",
+      "visual_direction": "Shelf-level still life: artisanal jars of honey and preserves, olive oil bottles, handmade soaps \u2014 labels close enough to feel the craft. Detail, warm light. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_26620441_olive-oil-bottles",
+          "type": "video",
+          "source": "pexels",
+          "author": "khezez  | \u062e\u0632\u0627\u0632",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/italian-bread-26620441/",
+          "thumb": "projects/belong-module6/thumbs/S07/pexels_26620441_olive-oil-bottles.jpg",
+          "preview": "projects/belong-module6/previews/S07/pexels_26620441_olive-oil-bottles.mp4"
+        },
+        {
+          "id": "pexels_6540514_artisanal-products-shelf",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tea-items-on-display-6540514/",
+          "thumb": "projects/belong-module6/thumbs/S07/pexels_6540514_artisanal-products-shelf.jpg",
+          "preview": "projects/belong-module6/previews/S07/pexels_6540514_artisanal-products-shelf.mp4"
+        },
+        {
+          "id": "pexels_7144079_honey-jars-rustic",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/video-of-a-banana-pancakes-putting-honey-7144079/",
+          "thumb": "projects/belong-module6/thumbs/S07/pexels_7144079_honey-jars-rustic.jpg",
+          "preview": "projects/belong-module6/previews/S07/pexels_7144079_honey-jars-rustic.mp4"
+        },
+        {
+          "id": "pexels_33316026_artisanal-products-shelf",
+          "type": "image",
+          "source": "pexels",
+          "author": "Haberdoedas Photography",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/authentic-dutch-local-food-store-shelves-display-33316026/",
+          "thumb": "projects/belong-module6/thumbs/S07/pexels_33316026_artisanal-products-shelf.jpg",
+          "preview": "projects/belong-module6/previews/S07/pexels_33316026_artisanal-products-shelf.jpg"
+        },
+        {
+          "id": "pexels_38164883_honey-jars-rustic",
+          "type": "image",
+          "source": "pexels",
+          "author": "Soly Moses",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/shelf-display-of-honey-jars-in-rustic-setting-38164883/",
+          "thumb": "projects/belong-module6/thumbs/S07/pexels_38164883_honey-jars-rustic.jpg",
+          "preview": "projects/belong-module6/previews/S07/pexels_38164883_honey-jars-rustic.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] The laundry in S\u00e3o Teot\u00f3nio serves our operation and serves the village. Circular economy in its plainest clothes.",
+      "visual_direction": "Honest back-of-house: crisp white linens folded by hand, sheets on a line in the sun, a village street beyond. Medium, unglamorous dignity.",
+      "clips": [
+        {
+          "id": "pexels_10565829_linen-drying-sunshine",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-hanging-laundry-clothes-10565829/",
+          "thumb": "projects/belong-module6/thumbs/S08/pexels_10565829_linen-drying-sunshine.jpg",
+          "preview": "projects/belong-module6/previews/S08/pexels_10565829_linen-drying-sunshine.mp4"
+        },
+        {
+          "id": "pexels_8756625_laundry-hands-sheets",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-a-woman-working-at-a-laundry-facility-8756625/",
+          "thumb": "projects/belong-module6/thumbs/S08/pexels_8756625_laundry-hands-sheets.jpg",
+          "preview": "projects/belong-module6/previews/S08/pexels_8756625_laundry-hands-sheets.mp4"
+        },
+        {
+          "id": "pixabay_3395699_linen-drying-sunshine",
+          "type": "image",
+          "source": "pixabay",
+          "author": "ClickerHappy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/white-laundry-dry-clean-wash-3395699/",
+          "thumb": "projects/belong-module6/thumbs/S08/pixabay_3395699_linen-drying-sunshine.jpg",
+          "preview": "projects/belong-module6/previews/S08/pixabay_3395699_linen-drying-sunshine.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] A standard is a promise. When housekeeping prepares a house, they're not cleaning a room \u2014 they're keeping a promise.",
+      "visual_direction": "Housekeeping as craft: hands smoothing a bed to perfection, aligning amenities, a final look around the room with pride. Tight, tactile, respectful.",
+      "clips": [
+        {
+          "id": "pexels_10555498_housekeeper-making-bed",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-smoothing-a-blanket-10555498/",
+          "thumb": "projects/belong-module6/thumbs/S09/pexels_10555498_housekeeper-making-bed.jpg",
+          "preview": "projects/belong-module6/previews/S09/pexels_10555498_housekeeper-making-bed.mp4"
+        },
+        {
+          "id": "pexels_6466246_hotel-room-preparation",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/housekeeper-placing-fresh-towels-on-bed-6466246/",
+          "thumb": "projects/belong-module6/thumbs/S09/pexels_6466246_hotel-room-preparation.jpg",
+          "preview": "projects/belong-module6/previews/S09/pexels_6466246_hotel-room-preparation.mp4"
+        },
+        {
+          "id": "pexels_35383621_hands-smoothing-sheets",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ruslan Alekso",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/industrial-worker-handling-large-sheets-indoors-35383621/",
+          "thumb": "projects/belong-module6/thumbs/S09/pexels_35383621_hands-smoothing-sheets.jpg",
+          "preview": "projects/belong-module6/previews/S09/pexels_35383621_hands-smoothing-sheets.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] There are two kinds of team members. Be the one who fixes it or reports it within the hour.",
+      "visual_direction": "Ownership in action: a staff member stoops to clear a fallen branch from a walkway, wipes a smudged window, straightens a lantern \u2014 unprompted care. Medium wide.",
+      "clips": [
+        {
+          "id": "pexels_6195140_maintenance-worker-outdoors",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-holding-a-vacuum-cleaner-6195140/",
+          "thumb": "projects/belong-module6/thumbs/S10/pexels_6195140_maintenance-worker-outdoors.jpg",
+          "preview": "projects/belong-module6/previews/S10/pexels_6195140_maintenance-worker-outdoors.mp4"
+        },
+        {
+          "id": "pixabay_357281_maintenance-worker-outdoors",
+          "type": "video",
+          "source": "pixabay",
+          "author": "LiskaRed",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-357281/",
+          "thumb": "projects/belong-module6/thumbs/S10/pixabay_357281_maintenance-worker-outdoors.jpg",
+          "preview": "projects/belong-module6/previews/S10/pixabay_357281_maintenance-worker-outdoors.mp4"
+        },
+        {
+          "id": "pexels_33702993_worker-tending-garden-path",
+          "type": "image",
+          "source": "pexels",
+          "author": "Vishal Singh Gaur",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/gardener-tending-flowers-in-indian-garden-33702993/",
+          "thumb": "projects/belong-module6/thumbs/S10/pexels_33702993_worker-tending-garden-path.jpg",
+          "preview": "projects/belong-module6/previews/S10/pexels_33702993_worker-tending-garden-path.jpg"
+        }
+      ]
+    }
+  ]
+}

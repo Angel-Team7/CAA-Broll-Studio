@@ -1,0 +1,497 @@
+{
+  "project": "belong-module4",
+  "title": "Belong \u2014 Module 4: Hospitality",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] There is a difference between service and hospitality. Service happens to the guest. Hospitality happens inside the guest.",
+      "visual_direction": "A waiter serves with genuine eye contact and a real smile \u2014 the human moment beyond the mechanics. Medium two-shot, warm natural light.",
+      "clips": [
+        {
+          "id": "pexels_8921929_waiter-genuine-smile",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-footage-of-a-waiter-talking-8921929/",
+          "thumb": "projects/belong-module4/thumbs/S01/pexels_8921929_waiter-genuine-smile.jpg",
+          "preview": "projects/belong-module4/previews/S01/pexels_8921929_waiter-genuine-smile.mp4"
+        },
+        {
+          "id": "pexels_8922353_server-guest-eye-contact",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-waiter-on-formal-attire-serving-a-glasses-on-the-table-8922353/",
+          "thumb": "projects/belong-module4/thumbs/S01/pexels_8922353_server-guest-eye-contact.jpg",
+          "preview": "projects/belong-module4/previews/S01/pexels_8922353_server-guest-eye-contact.mp4"
+        },
+        {
+          "id": "pexels_8922357_warm-restaurant-service",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-waiter-serving-wine-on-his-guests-8922357/",
+          "thumb": "projects/belong-module4/thumbs/S01/pexels_8922357_warm-restaurant-service.jpg",
+          "preview": "projects/belong-module4/previews/S01/pexels_8922357_warm-restaurant-service.mp4"
+        },
+        {
+          "id": "pexels_37594386_server-guest-eye-contact",
+          "type": "image",
+          "source": "pexels",
+          "author": "SpotOn POS",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/casual-dining-experience-with-modern-pos-37594386/",
+          "thumb": "projects/belong-module4/thumbs/S01/pexels_37594386_server-guest-eye-contact.jpg",
+          "preview": "projects/belong-module4/previews/S01/pexels_37594386_server-guest-eye-contact.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] Think of your grandmother's house \u2014 nobody in history has ever felt unwelcome at their grandmother's table.",
+      "visual_direction": "Nostalgic warmth: a rustic home table, generations sharing food, an older woman ladling out a dish with love. Homely, unpolished, real. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_36581777_homemade-food-serving",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ahmed \u061c",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/elegant-dinner-party-with-traditional-cuisine-36581777/",
+          "thumb": "projects/belong-module4/thumbs/S02/pexels_36581777_homemade-food-serving.jpg",
+          "preview": "projects/belong-module4/previews/S02/pexels_36581777_homemade-food-serving.mp4"
+        },
+        {
+          "id": "pexels_8481267_generations-sharing-meal",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-taking-selfie-with-family-8481267/",
+          "thumb": "projects/belong-module4/thumbs/S02/pexels_8481267_generations-sharing-meal.jpg",
+          "preview": "projects/belong-module4/previews/S02/pexels_8481267_generations-sharing-meal.mp4"
+        },
+        {
+          "id": "pexels_9243207_cozy-family-dinner",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-family-eating-together-9243207/",
+          "thumb": "projects/belong-module4/thumbs/S02/pexels_9243207_cozy-family-dinner.jpg",
+          "preview": "projects/belong-module4/previews/S02/pexels_9243207_cozy-family-dinner.mp4"
+        },
+        {
+          "id": "pexels_17543143_homemade-food-serving",
+          "type": "image",
+          "source": "pexels",
+          "author": "Nadin Sh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/bowl-with-roasted-potatoes-17543143/",
+          "thumb": "projects/belong-module4/thumbs/S02/pexels_17543143_homemade-food-serving.jpg",
+          "preview": "projects/belong-module4/previews/S02/pexels_17543143_homemade-food-serving.jpg"
+        },
+        {
+          "id": "pexels_36799048_generations-sharing-meal",
+          "type": "image",
+          "source": "pexels",
+          "author": "khezez  | \u062e\u0632\u0627\u0632",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/family-gathering-around-dinner-table-indoors-36799048/",
+          "thumb": "projects/belong-module4/thumbs/S02/pexels_36799048_generations-sharing-meal.jpg",
+          "preview": "projects/belong-module4/previews/S02/pexels_36799048_generations-sharing-meal.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] Guests are guests, not customers. When friends come to your house, you open the door happy to see them.",
+      "visual_direction": "A host swings open the door of a whitewashed house, arms open, delighted \u2014 arrival framed as friendship, not transaction. Medium wide. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_10238036_host-opening-door",
+          "type": "video",
+          "source": "pexels",
+          "author": "Josh Tavernier | iCapture Media Digital Marketing Agency",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-entering-building-10238036/",
+          "thumb": "projects/belong-module4/thumbs/S03/pexels_10238036_host-opening-door.jpg",
+          "preview": "projects/belong-module4/previews/S03/pexels_10238036_host-opening-door.mp4"
+        },
+        {
+          "id": "pexels_6192604_whitewashed-house-entrance",
+          "type": "video",
+          "source": "pexels",
+          "author": "Dimitris Mourousiadis",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/houses-in-santorini-6192604/",
+          "thumb": "projects/belong-module4/thumbs/S03/pexels_6192604_whitewashed-house-entrance.jpg",
+          "preview": "projects/belong-module4/previews/S03/pexels_6192604_whitewashed-house-entrance.mp4"
+        },
+        {
+          "id": "pixabay_201968_warm-welcome-home",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Visual_Laurence",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-201968/",
+          "thumb": "projects/belong-module4/thumbs/S03/pixabay_201968_warm-welcome-home.jpg",
+          "preview": "projects/belong-module4/previews/S03/pixabay_201968_warm-welcome-home.mp4"
+        },
+        {
+          "id": "pexels_6114267_welcoming-guests-doorway",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/photo-of-people-hugging-each-other-6114267/",
+          "thumb": "projects/belong-module4/thumbs/S03/pexels_6114267_welcoming-guests-doorway.jpg",
+          "preview": "projects/belong-module4/previews/S03/pexels_6114267_welcoming-guests-doorway.jpg"
+        },
+        {
+          "id": "pexels_9788371_host-opening-door",
+          "type": "image",
+          "source": "pexels",
+          "author": "Marcus Aurelius",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-shot-of-a-person-opening-a-door-9788371/",
+          "thumb": "projects/belong-module4/thumbs/S03/pexels_9788371_host-opening-door.jpg",
+          "preview": "projects/belong-module4/previews/S03/pexels_9788371_host-opening-door.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] That family drove two and a half hours, children asleep in the back seat. Their holiday starts with your face.",
+      "visual_direction": "Evening arrival: a car pulls up a rural drive at dusk, tired parents lift a sleeping child out, warm lights of the farmhouse waiting. Wide, cinematic dusk.",
+      "clips": [
+        {
+          "id": "pexels_30220797_farmhouse-lights-night",
+          "type": "video",
+          "source": "pexels",
+          "author": "AP Vibes",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/rustic-lanterns-on-wooden-building-30220797/",
+          "thumb": "projects/belong-module4/thumbs/S04/pexels_30220797_farmhouse-lights-night.jpg",
+          "preview": "projects/belong-module4/previews/S04/pexels_30220797_farmhouse-lights-night.mp4"
+        },
+        {
+          "id": "pexels_6181460_family-road-trip-tired",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/mom-and-dad-with-baby-in-a-minivan-6181460/",
+          "thumb": "projects/belong-module4/thumbs/S04/pexels_6181460_family-road-trip-tired.jpg",
+          "preview": "projects/belong-module4/previews/S04/pexels_6181460_family-road-trip-tired.mp4"
+        },
+        {
+          "id": "pexels_6670286_sleeping-child-car",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-curly-girl-sleeping-6670286/",
+          "thumb": "projects/belong-module4/thumbs/S04/pexels_6670286_sleeping-child-car.jpg",
+          "preview": "projects/belong-module4/previews/S04/pexels_6670286_sleeping-child-car.mp4"
+        },
+        {
+          "id": "pexels_9820925_countryside-road-evening",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sami  Aksu",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-red-and-white-double-curve-road-sign-on-a-steel-pole-9820925/",
+          "thumb": "projects/belong-module4/thumbs/S04/pexels_9820925_countryside-road-evening.jpg",
+          "preview": "projects/belong-module4/previews/S04/pexels_9820925_countryside-road-evening.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] Use names. A person who remembers your name is becoming a luxury. We will always offer that luxury.",
+      "visual_direction": "Reception moment: a receptionist greets a returning guest by name \u2014 recognition lighting up the guest's face. Tight medium on the exchange. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_6289652_guest-recognition-smile",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/couple-receiving-guests-6289652/",
+          "thumb": "projects/belong-module4/thumbs/S05/pexels_6289652_guest-recognition-smile.jpg",
+          "preview": "projects/belong-module4/previews/S05/pexels_6289652_guest-recognition-smile.mp4"
+        },
+        {
+          "id": "pixabay_171044_guest-recognition-smile",
+          "type": "video",
+          "source": "pixabay",
+          "author": "magicmore",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-171044/",
+          "thumb": "projects/belong-module4/thumbs/S05/pixabay_171044_guest-recognition-smile.jpg",
+          "preview": "projects/belong-module4/previews/S05/pixabay_171044_guest-recognition-smile.mp4"
+        },
+        {
+          "id": "pexels_5137967_friendly-check-in",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/backpackers-approaching-front-desk-5137967/",
+          "thumb": "projects/belong-module4/thumbs/S05/pexels_5137967_friendly-check-in.jpg",
+          "preview": "projects/belong-module4/previews/S05/pexels_5137967_friendly-check-in.jpg"
+        },
+        {
+          "id": "pexels_7755676_receptionist-greeting-guest",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-female-front-desk-receptionist-smiling-to-a-client-7755676/",
+          "thumb": "projects/belong-module4/thumbs/S05/pexels_7755676_receptionist-greeting-guest.jpg",
+          "preview": "projects/belong-module4/previews/S05/pexels_7755676_receptionist-greeting-guest.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] Anticipate. It's cold tonight \u2014 are the fire pits lit before someone asks? Anticipation is attention plus initiative.",
+      "visual_direction": "Hands lighting a fire pit at blue hour, sparks rising, blankets laid out on chairs before guests appear. Detail shot, glowing warmth.",
+      "clips": [
+        {
+          "id": "pexels_14911365_outdoor-fireplace-evening",
+          "type": "video",
+          "source": "pexels",
+          "author": "Natan Duran",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/burning-logs-in-a-campfire-14911365/",
+          "thumb": "projects/belong-module4/thumbs/S06/pexels_14911365_outdoor-fireplace-evening.jpg",
+          "preview": "projects/belong-module4/previews/S06/pexels_14911365_outdoor-fireplace-evening.mp4"
+        },
+        {
+          "id": "pexels_15607370_hands-tending-fire",
+          "type": "video",
+          "source": "pexels",
+          "author": "Griffin Wooldridge",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-adding-kindling-to-a-fire-pit-15607370/",
+          "thumb": "projects/belong-module4/thumbs/S06/pexels_15607370_hands-tending-fire.jpg",
+          "preview": "projects/belong-module4/previews/S06/pexels_15607370_hands-tending-fire.mp4"
+        },
+        {
+          "id": "pexels_3944847_cozy-terrace-blankets",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/plant-morning-plants-home-3944847/",
+          "thumb": "projects/belong-module4/thumbs/S06/pexels_3944847_cozy-terrace-blankets.jpg",
+          "preview": "projects/belong-module4/previews/S06/pexels_3944847_cozy-terrace-blankets.mp4"
+        },
+        {
+          "id": "pexels_34176198_lighting-fire-pit",
+          "type": "image",
+          "source": "pexels",
+          "author": "David Yu",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/outdoor-campfire-setup-with-hand-lighting-fire-34176198/",
+          "thumb": "projects/belong-module4/thumbs/S06/pexels_34176198_lighting-fire-pit.jpg",
+          "preview": "projects/belong-module4/previews/S06/pexels_34176198_lighting-fire-pit.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] Know the land, tell the land. You are the guest's connection to this territory.",
+      "visual_direction": "A staff member gestures toward the coastline, pointing out the sunset spot to guests on a hilltop; map-of-the-land energy. Wide against landscape.",
+      "clips": [
+        {
+          "id": "pixabay_281640_locals-sharing-knowledge",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Kanenori",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-281640/",
+          "thumb": "projects/belong-module4/thumbs/S07/pixabay_281640_locals-sharing-knowledge.jpg",
+          "preview": "projects/belong-module4/previews/S07/pixabay_281640_locals-sharing-knowledge.mp4"
+        },
+        {
+          "id": "pixabay_348116_showing-coastline-view",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ian5152",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-348116/",
+          "thumb": "projects/belong-module4/thumbs/S07/pixabay_348116_showing-coastline-view.jpg",
+          "preview": "projects/belong-module4/previews/S07/pixabay_348116_showing-coastline-view.mp4"
+        },
+        {
+          "id": "pexels_37816055_sunset-viewpoint-people",
+          "type": "image",
+          "source": "pexels",
+          "author": "Justyna Sieczka",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/peaceful-italian-countryside-view-at-sunset-37816055/",
+          "thumb": "projects/belong-module4/thumbs/S07/pexels_37816055_sunset-viewpoint-people.jpg",
+          "preview": "projects/belong-module4/previews/S07/pexels_37816055_sunset-viewpoint-people.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] The small rituals matter more than grand gestures. Hospitality is compound interest \u2014 tiny deposits made consistently.",
+      "visual_direction": "Detail montage of small care: a stuffed animal arranged on a child's pillow, a remembered wine set at a table, boarding passes handed over. Close, tactile.",
+      "clips": [
+        {
+          "id": "pexels_4153246_housekeeping-detail-pillow",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-is-putting-a-pillow-on-a-bed-4153246/",
+          "thumb": "projects/belong-module4/thumbs/S08/pexels_4153246_housekeeping-detail-pillow.jpg",
+          "preview": "projects/belong-module4/previews/S08/pexels_4153246_housekeeping-detail-pillow.mp4"
+        },
+        {
+          "id": "pexels_5899773_wine-set-table-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-putting-wine-glasses-on-the-table-5899773/",
+          "thumb": "projects/belong-module4/thumbs/S08/pexels_5899773_wine-set-table-detail.jpg",
+          "preview": "projects/belong-module4/previews/S08/pexels_5899773_wine-set-table-detail.mp4"
+        },
+        {
+          "id": "pexels_6466561_thoughtful-hotel-details",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/hotel-maid-arranging-cushions-on-bed-6466561/",
+          "thumb": "projects/belong-module4/thumbs/S08/pexels_6466561_thoughtful-hotel-details.jpg",
+          "preview": "projects/belong-module4/previews/S08/pexels_6466561_thoughtful-hotel-details.mp4"
+        },
+        {
+          "id": "pexels_6660667_hands-arranging-linen",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-pink-knit-sweater-holding-a-white-pillow-6660667/",
+          "thumb": "projects/belong-module4/thumbs/S08/pexels_6660667_hands-arranging-linen.jpg",
+          "preview": "projects/belong-module4/previews/S08/pexels_6660667_hands-arranging-linen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] 'On the third day, I stopped taking photographs. I wasn't trying to prove I was here. I was just... here.'",
+      "visual_direction": "Pure presence: a guest reclined in a hammock or on a terrace, phone nowhere, eyes closed in golden light, pines swaying. Slow, still, wide. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_7935042_woman-hammock-relaxing",
+          "type": "video",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-resting-in-the-hammock-of-the-balcony-7935042/",
+          "thumb": "projects/belong-module4/thumbs/S09/pexels_7935042_woman-hammock-relaxing.jpg",
+          "preview": "projects/belong-module4/previews/S09/pexels_7935042_woman-hammock-relaxing.mp4"
+        },
+        {
+          "id": "pixabay_330529_peaceful-terrace-golden-hour",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Solarselle77",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-330529/",
+          "thumb": "projects/belong-module4/thumbs/S09/pixabay_330529_peaceful-terrace-golden-hour.jpg",
+          "preview": "projects/belong-module4/previews/S09/pixabay_330529_peaceful-terrace-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_41871_woman-hammock-relaxing",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Peggy_Marco",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-41871/",
+          "thumb": "projects/belong-module4/thumbs/S09/pixabay_41871_woman-hammock-relaxing.jpg",
+          "preview": "projects/belong-module4/previews/S09/pixabay_41871_woman-hammock-relaxing.mp4"
+        },
+        {
+          "id": "pexels_13991776_digital-detox-nature",
+          "type": "image",
+          "source": "pexels",
+          "author": "Matheus Bertelli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/men-sitting-together-near-a-lake-13991776/",
+          "thumb": "projects/belong-module4/thumbs/S09/pexels_13991776_digital-detox-nature.jpg",
+          "preview": "projects/belong-module4/previews/S09/pexels_13991776_digital-detox-nature.jpg"
+        },
+        {
+          "id": "pexels_3771832_woman-hammock-relaxing",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-blue-tank-top-lying-on-blue-and-green-stripped-hammock-3771832/",
+          "thumb": "projects/belong-module4/thumbs/S09/pexels_3771832_woman-hammock-relaxing.jpg",
+          "preview": "projects/belong-module4/previews/S09/pexels_3771832_woman-hammock-relaxing.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] Warmth is not servility. We carry ourselves with dignity, always. Walk like it.",
+      "visual_direction": "Dignified close: portraits of hospitality professionals \u2014 chef, housekeeper, gardener \u2014 standing proud in their element, honest faces, soft light. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_10049404_gardener-dignified-portrait",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-holding-bouquet-in-front-of-greenhouse-10049404/",
+          "thumb": "projects/belong-module4/thumbs/S10/pexels_10049404_gardener-dignified-portrait.jpg",
+          "preview": "projects/belong-module4/previews/S10/pexels_10049404_gardener-dignified-portrait.mp4"
+        },
+        {
+          "id": "pexels_7482687_artisan-worker-portrait",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-in-overalls-posing-at-a-workshop-7482687/",
+          "thumb": "projects/belong-module4/thumbs/S10/pexels_7482687_artisan-worker-portrait.jpg",
+          "preview": "projects/belong-module4/previews/S10/pexels_7482687_artisan-worker-portrait.mp4"
+        },
+        {
+          "id": "pexels_3914062_hospitality-worker-portrait",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-holding-stainless-cup-and-ceramic-cup-3914062/",
+          "thumb": "projects/belong-module4/thumbs/S10/pexels_3914062_hospitality-worker-portrait.jpg",
+          "preview": "projects/belong-module4/previews/S10/pexels_3914062_hospitality-worker-portrait.jpg"
+        },
+        {
+          "id": "pexels_4590943_chef-portrait-proud",
+          "type": "image",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-white-chef-uniform-cooking-4590943/",
+          "thumb": "projects/belong-module4/thumbs/S10/pexels_4590943_chef-portrait-proud.jpg",
+          "preview": "projects/belong-module4/previews/S10/pexels_4590943_chef-portrait-proud.jpg"
+        }
+      ]
+    }
+  ]
+}

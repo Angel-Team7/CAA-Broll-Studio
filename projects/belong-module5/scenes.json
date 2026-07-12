@@ -1,0 +1,517 @@
+{
+  "project": "belong-module5",
+  "title": "Belong \u2014 Module 5: Guest Journey",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] The dream: someone at home in Lisbon, Munich or London, scrolling, dreaming of escape.",
+      "visual_direction": "A person curled up at home on a grey evening, scrolling a laptop, screen glow on their face \u2014 longing for somewhere green and slow. Medium, moody-to-warm.",
+      "clips": [
+        {
+          "id": "pexels_17811913_person-scrolling-dreaming",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ali  Alc\u00e1ntara",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-holding-a-cell-phone-in-their-hand-17811913/",
+          "thumb": "projects/belong-module5/thumbs/S01/pexels_17811913_person-scrolling-dreaming.jpg",
+          "preview": "projects/belong-module5/previews/S01/pexels_17811913_person-scrolling-dreaming.mp4"
+        },
+        {
+          "id": "pexels_18041671_woman-laptop-cozy-evening",
+          "type": "video",
+          "source": "pexels",
+          "author": "Khanh Hoang Minh 2",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-sitting-at-a-table-with-a-laptop-18041671/",
+          "thumb": "projects/belong-module5/thumbs/S01/pexels_18041671_woman-laptop-cozy-evening.jpg",
+          "preview": "projects/belong-module5/previews/S01/pexels_18041671_woman-laptop-cozy-evening.mp4"
+        },
+        {
+          "id": "pixabay_107573_woman-laptop-cozy-evening",
+          "type": "video",
+          "source": "pixabay",
+          "author": "soundsrelaxing89",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-107573/",
+          "thumb": "projects/belong-module5/thumbs/S01/pixabay_107573_woman-laptop-cozy-evening.jpg",
+          "preview": "projects/belong-module5/previews/S01/pixabay_107573_woman-laptop-cozy-evening.mp4"
+        },
+        {
+          "id": "pexels_6585976_woman-laptop-cozy-evening",
+          "type": "image",
+          "source": "pexels",
+          "author": "Artem Podrez",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/photo-of-a-woman-smiling-6585976/",
+          "thumb": "projects/belong-module5/thumbs/S01/pexels_6585976_woman-laptop-cozy-evening.jpg",
+          "preview": "projects/belong-module5/previews/S01/pexels_6585976_woman-laptop-cozy-evening.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] From the booking, they're already our guest \u2014 every email answered quickly and warmly builds their confidence.",
+      "visual_direction": "Hands typing a warm, unhurried reply at a wooden desk; a reservation calendar; care in correspondence. Detail shot, soft daylight.",
+      "clips": [
+        {
+          "id": "pexels_4841394_hands-typing-wooden-desk",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-working-on-a-laptop-4841394/",
+          "thumb": "projects/belong-module5/thumbs/S02/pexels_4841394_hands-typing-wooden-desk.jpg",
+          "preview": "projects/belong-module5/previews/S02/pexels_4841394_hands-typing-wooden-desk.mp4"
+        },
+        {
+          "id": "pexels_7706820_writing-email-warm-light",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-typing-on-a-laptop-7706820/",
+          "thumb": "projects/belong-module5/thumbs/S02/pexels_7706820_writing-email-warm-light.jpg",
+          "preview": "projects/belong-module5/previews/S02/pexels_7706820_writing-email-warm-light.mp4"
+        },
+        {
+          "id": "pixabay_43459_writing-email-warm-light",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/belong-module5/thumbs/S02/pixabay_43459_writing-email-warm-light.jpg",
+          "preview": "projects/belong-module5/previews/S02/pixabay_43459_writing-email-warm-light.mp4"
+        },
+        {
+          "id": "pexels_5386485_writing-email-warm-light",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-photo-of-a-person-typing-on-laptop-5386485/",
+          "thumb": "projects/belong-module5/thumbs/S02/pexels_5386485_writing-email-warm-light.jpg",
+          "preview": "projects/belong-module5/previews/S02/pexels_5386485_writing-email-warm-light.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] The arrival: the first fifteen minutes set the emotional tone. A genuine welcome, a cold drink \u2014 you made it, you can let go now.",
+      "visual_direction": "Guests step out of a car and receive cold drinks and real smiles under a pergola; shoulders visibly drop. Medium wide, golden afternoon. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_38298805_guests-arriving-countryside",
+          "type": "video",
+          "source": "pexels",
+          "author": "Wal Vas",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/enchanting-outdoor-wedding-reception-at-sunset-38298805/",
+          "thumb": "projects/belong-module5/thumbs/S03/pexels_38298805_guests-arriving-countryside.jpg",
+          "preview": "projects/belong-module5/previews/S03/pexels_38298805_guests-arriving-countryside.mp4"
+        },
+        {
+          "id": "pexels_6396290_welcome-drink-guests",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-pouring-champagne-on-the-glasses-of-her-friends-6396290/",
+          "thumb": "projects/belong-module5/thumbs/S03/pexels_6396290_welcome-drink-guests.jpg",
+          "preview": "projects/belong-module5/previews/S03/pexels_6396290_welcome-drink-guests.mp4"
+        },
+        {
+          "id": "pixabay_82602_refreshing-drink-terrace",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TPMotion",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-82602/",
+          "thumb": "projects/belong-module5/thumbs/S03/pixabay_82602_refreshing-drink-terrace.jpg",
+          "preview": "projects/belong-module5/previews/S03/pixabay_82602_refreshing-drink-terrace.mp4"
+        },
+        {
+          "id": "pexels_14024974_warm-welcome-resort",
+          "type": "image",
+          "source": "pexels",
+          "author": "Quang Nguyen Vinh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/path-in-garden-on-tropical-resort-14024974/",
+          "thumb": "projects/belong-module5/thumbs/S03/pexels_14024974_warm-welcome-resort.jpg",
+          "preview": "projects/belong-module5/previews/S03/pexels_14024974_warm-welcome-resort.jpg"
+        },
+        {
+          "id": "pexels_18473592_refreshing-drink-terrace",
+          "type": "image",
+          "source": "pexels",
+          "author": "Quang Vuong",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/cocktails-with-straws-standing-on-a-table-18473592/",
+          "thumb": "projects/belong-module5/thumbs/S03/pexels_18473592_refreshing-drink-terrace.jpg",
+          "preview": "projects/belong-module5/previews/S03/pexels_18473592_refreshing-drink-terrace.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] The first morning: waking without an alarm, rosemary in the air, breakfast as a statement of identity.",
+      "visual_direction": "Morning light through linen curtains onto a bed, then a farm breakfast: fresh bread, preserves, eggs laid that morning. Detail-rich, sensory. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_4153243_morning-light-bedroom-linen",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/bed-bedroom-standing-home-4153243/",
+          "thumb": "projects/belong-module5/thumbs/S04/pexels_4153243_morning-light-bedroom-linen.jpg",
+          "preview": "projects/belong-module5/previews/S04/pexels_4153243_morning-light-bedroom-linen.mp4"
+        },
+        {
+          "id": "pexels_6958098_fresh-bread-preserves",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-panning-shot-of-food-on-the-table-6958098/",
+          "thumb": "projects/belong-module5/thumbs/S04/pexels_6958098_fresh-bread-preserves.jpg",
+          "preview": "projects/belong-module5/previews/S04/pexels_6958098_fresh-bread-preserves.mp4"
+        },
+        {
+          "id": "pexels_6958101_rustic-breakfast-spread",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-view-of-food-on-the-table-6958101/",
+          "thumb": "projects/belong-module5/thumbs/S04/pexels_6958101_rustic-breakfast-spread.jpg",
+          "preview": "projects/belong-module5/previews/S04/pexels_6958101_rustic-breakfast-spread.mp4"
+        },
+        {
+          "id": "pexels_3850348_fresh-bread-preserves",
+          "type": "image",
+          "source": "pexels",
+          "author": "ready made",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/bread-beside-knife-on-gray-textile-3850348/",
+          "thumb": "projects/belong-module5/thumbs/S04/pexels_3850348_fresh-bread-preserves.jpg",
+          "preview": "projects/belong-module5/previews/S04/pexels_3850348_fresh-bread-preserves.jpg"
+        },
+        {
+          "id": "pixabay_3667768_morning-light-bedroom-linen",
+          "type": "image",
+          "source": "pixabay",
+          "author": "LUM3N",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/read-sunday-bedroom-book-sleep-3667768/",
+          "thumb": "projects/belong-module5/thumbs/S04/pixabay_3667768_morning-light-bedroom-linen.jpg",
+          "preview": "projects/belong-module5/previews/S04/pixabay_3667768_morning-light-bedroom-linen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] The days: freedom. Surf, horseback riding, hiking \u2014 or pool, book, wine, repeat. Both are perfect stays.",
+      "visual_direction": "The two rhythms: surfers on an Atlantic beach and riders on a trail, intercut with a woman reading by a pool with a glass of wine. Wide + medium. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_32521912_horseback-riding-coastal",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nils Vega",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/horseback-riding-on-serene-beach-at-sunset-32521912/",
+          "thumb": "projects/belong-module5/thumbs/S05/pexels_32521912_horseback-riding-coastal.jpg",
+          "preview": "projects/belong-module5/previews/S05/pexels_32521912_horseback-riding-coastal.mp4"
+        },
+        {
+          "id": "pexels_7348430_coastal-hiking-trail",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/group-of-hikers-on-a-trail-by-the-sea-7348430/",
+          "thumb": "projects/belong-module5/thumbs/S05/pexels_7348430_coastal-hiking-trail.jpg",
+          "preview": "projects/belong-module5/previews/S05/pexels_7348430_coastal-hiking-trail.mp4"
+        },
+        {
+          "id": "pixabay_13772_surfing-atlantic-coast",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Wowa84",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-13772/",
+          "thumb": "projects/belong-module5/thumbs/S05/pixabay_13772_surfing-atlantic-coast.jpg",
+          "preview": "projects/belong-module5/previews/S05/pixabay_13772_surfing-atlantic-coast.mp4"
+        },
+        {
+          "id": "pexels_31238037_relaxing-pool-book-wine",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ahmet \u00c7\u00d6T\u00dcR",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/relaxing-poolside-scene-with-wine-and-berries-31238037/",
+          "thumb": "projects/belong-module5/thumbs/S05/pexels_31238037_relaxing-pool-book-wine.jpg",
+          "preview": "projects/belong-module5/previews/S05/pexels_31238037_relaxing-pool-book-wine.jpg"
+        },
+        {
+          "id": "pexels_33503555_horseback-riding-coastal",
+          "type": "image",
+          "source": "pexels",
+          "author": "Studio Sibly",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/silhouette-of-horse-riding-on-sunlit-beach-33503555/",
+          "thumb": "projects/belong-module5/thumbs/S05/pexels_33503555_horseback-riding-coastal.jpg",
+          "preview": "projects/belong-module5/previews/S05/pexels_33503555_horseback-riding-coastal.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] A child who feeds a goat at eight in the morning has already made the family's holiday.",
+      "visual_direction": "A small child feeding a goat or chickens, parents watching with delight; unforced farm joy. Low angle at child height, morning light. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_5221359_child-feeding-goat",
+          "type": "video",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/young-girl-feeding-a-goat-5221359/",
+          "thumb": "projects/belong-module5/thumbs/S06/pexels_5221359_child-feeding-goat.jpg",
+          "preview": "projects/belong-module5/previews/S06/pexels_5221359_child-feeding-goat.mp4"
+        },
+        {
+          "id": "pexels_6726894_child-feeding-chickens",
+          "type": "video",
+          "source": "pexels",
+          "author": "Dr.Vivasayam  YouTube Channel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-close-up-video-of-chickens-eating-feeds-6726894/",
+          "thumb": "projects/belong-module5/thumbs/S06/pexels_6726894_child-feeding-chickens.jpg",
+          "preview": "projects/belong-module5/previews/S06/pexels_6726894_child-feeding-chickens.mp4"
+        },
+        {
+          "id": "pexels_8838142_family-farm-experience",
+          "type": "video",
+          "source": "pexels",
+          "author": "Los Muertos Crew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-feeding-a-goat-8838142/",
+          "thumb": "projects/belong-module5/thumbs/S06/pexels_8838142_family-farm-experience.jpg",
+          "preview": "projects/belong-module5/previews/S06/pexels_8838142_family-farm-experience.mp4"
+        },
+        {
+          "id": "pexels_36687488_kids-farm-animals",
+          "type": "image",
+          "source": "pexels",
+          "author": "Marie-Claude Vergne",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/young-girl-joyfully-holding-a-baby-goat-36687488/",
+          "thumb": "projects/belong-module5/thumbs/S06/pexels_36687488_kids-farm-animals.jpg",
+          "preview": "projects/belong-module5/previews/S06/pexels_36687488_kids-farm-animals.jpg"
+        },
+        {
+          "id": "pexels_7782394_family-farm-experience",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/girl-with-braided-hair-feeding-a-pig-7782394/",
+          "thumb": "projects/belong-module5/thumbs/S06/pexels_7782394_family-farm-experience.jpg",
+          "preview": "projects/belong-module5/previews/S06/pexels_7782394_family-farm-experience.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] A rainy day at Craveiral should be remembered as the cosiest day of the trip, not the lost one.",
+      "visual_direction": "Rain streaking a window, then inside: a crackling fireplace, a heated indoor pool, a long lazy lunch. Contrast beat \u2014 storm outside, warmth inside.",
+      "clips": [
+        {
+          "id": "pexels_6252535_rain-window-cozy",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROCCO STOPPOLONI",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/candle-burning-by-a-window-6252535/",
+          "thumb": "projects/belong-module5/thumbs/S07/pexels_6252535_rain-window-cozy.jpg",
+          "preview": "projects/belong-module5/previews/S07/pexels_6252535_rain-window-cozy.mp4"
+        },
+        {
+          "id": "pixabay_239514_fireplace-crackling-warm",
+          "type": "video",
+          "source": "pixabay",
+          "author": "BFCMUSIC",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-239514/",
+          "thumb": "projects/belong-module5/thumbs/S07/pixabay_239514_fireplace-crackling-warm.jpg",
+          "preview": "projects/belong-module5/previews/S07/pixabay_239514_fireplace-crackling-warm.mp4"
+        },
+        {
+          "id": "pixabay_260170_rainy-day-comfort",
+          "type": "video",
+          "source": "pixabay",
+          "author": "RainyVibes500",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-260170/",
+          "thumb": "projects/belong-module5/thumbs/S07/pixabay_260170_rainy-day-comfort.jpg",
+          "preview": "projects/belong-module5/previews/S07/pixabay_260170_rainy-day-comfort.mp4"
+        },
+        {
+          "id": "pexels_4641249_reading-by-fireplace",
+          "type": "image",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-reading-book-on-armchair-4641249/",
+          "thumb": "projects/belong-module5/thumbs/S07/pexels_4641249_reading-by-fireplace.jpg",
+          "preview": "projects/belong-module5/previews/S07/pexels_4641249_reading-by-fireplace.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] The farewell: never let a departure be reduced to an invoice. The last image should feel like leaving a friend's house.",
+      "visual_direction": "Hosts wave as a car rolls down the drive; a small gift from the farm handed through the window; a look back in the mirror. Warm wide, late light. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_28713591_rearview-mirror-sunset",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jazz Singh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/reflection-of-stunning-sunset-in-rearview-mirror-28713591/",
+          "thumb": "projects/belong-module5/thumbs/S08/pexels_28713591_rearview-mirror-sunset.jpg",
+          "preview": "projects/belong-module5/previews/S08/pexels_28713591_rearview-mirror-sunset.mp4"
+        },
+        {
+          "id": "pexels_29052723_car-leaving-country-road",
+          "type": "video",
+          "source": "pexels",
+          "author": "Luke Miller",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/scenic-rainy-autumn-drive-on-country-road-29052723/",
+          "thumb": "projects/belong-module5/thumbs/S08/pexels_29052723_car-leaving-country-road.jpg",
+          "preview": "projects/belong-module5/previews/S08/pexels_29052723_car-leaving-country-road.mp4"
+        },
+        {
+          "id": "pexels_5966354_waving-goodbye-car",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-riding-on-a-car-while-waving-outside-the-window-5966354/",
+          "thumb": "projects/belong-module5/thumbs/S08/pexels_5966354_waving-goodbye-car.jpg",
+          "preview": "projects/belong-module5/previews/S08/pexels_5966354_waving-goodbye-car.mp4"
+        },
+        {
+          "id": "pexels_10427489_rearview-mirror-sunset",
+          "type": "image",
+          "source": "pexels",
+          "author": "Jan Kop\u0159iva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-reflection-of-the-road-on-a-side-mirror-of-a-car-10427489/",
+          "thumb": "projects/belong-module5/thumbs/S08/pexels_10427489_rearview-mirror-sunset.jpg",
+          "preview": "projects/belong-module5/previews/S08/pexels_10427489_rearview-mirror-sunset.jpg"
+        },
+        {
+          "id": "pexels_9695851_gift-basket-handover",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sergey  Meshkov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-shot-of-woven-baskets-9695851/",
+          "thumb": "projects/belong-module5/thumbs/S08/pexels_9695851_gift-basket-handover.jpg",
+          "preview": "projects/belong-module5/previews/S08/pexels_9695851_gift-basket-handover.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] After: the review they'll write, the memory that ripens over months, and the return.",
+      "visual_direction": "Back home, a guest smiles at photos on their phone, writes a review, a jar of farm jam on the city kitchen counter \u2014 the stay travelling onward. Medium detail.",
+      "clips": [
+        {
+          "id": "pexels_8907437_looking-phone-photos-smiling",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ivan S",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/women-taking-photos-at-a-sushi-restaurant-8907437/",
+          "thumb": "projects/belong-module5/thumbs/S09/pexels_8907437_looking-phone-photos-smiling.jpg",
+          "preview": "projects/belong-module5/previews/S09/pexels_8907437_looking-phone-photos-smiling.mp4"
+        },
+        {
+          "id": "pixabay_10822_writing-review-laptop",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-10822/",
+          "thumb": "projects/belong-module5/thumbs/S09/pixabay_10822_writing-review-laptop.jpg",
+          "preview": "projects/belong-module5/previews/S09/pixabay_10822_writing-review-laptop.mp4"
+        },
+        {
+          "id": "pixabay_202987_looking-phone-photos-smiling",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/belong-module5/thumbs/S09/pixabay_202987_looking-phone-photos-smiling.jpg",
+          "preview": "projects/belong-module5/previews/S09/pixabay_202987_looking-phone-photos-smiling.mp4"
+        },
+        {
+          "id": "pexels_6588431_jam-jar-kitchen-counter",
+          "type": "image",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-packing-jar-with-orange-jam-6588431/",
+          "thumb": "projects/belong-module5/thumbs/S09/pexels_6588431_jam-jar-kitchen-counter.jpg",
+          "preview": "projects/belong-module5/previews/S09/pexels_6588431_jam-jar-kitchen-counter.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] Nobody is outside the journey. It's a relay \u2014 and the baton is the guest's trust.",
+      "visual_direction": "The team as a chain: housekeeping, kitchen, reception and maintenance in seamless motion, one handing off to the next through the day. Medium tracking energy.",
+      "clips": [
+        {
+          "id": "pexels_3245304_hospitality-team-coordination",
+          "type": "video",
+          "source": "pexels",
+          "author": "fauxels",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/group-of-people-doing-fist-bump-3245304/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_3245304_hospitality-team-coordination.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_3245304_hospitality-team-coordination.mp4"
+        },
+        {
+          "id": "pexels_7507260_relay-handover-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "Danik Prihodko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-people-playing-a-relay-7507260/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_7507260_relay-handover-hands.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_7507260_relay-handover-hands.mp4"
+        },
+        {
+          "id": "pexels_9462786_hotel-team-teamwork",
+          "type": "image",
+          "source": "pexels",
+          "author": "Liliana Drew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-women-making-the-bed-9462786/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_9462786_hotel-team-teamwork.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_9462786_hotel-team-teamwork.jpg"
+        }
+      ]
+    }
+  ]
+}
