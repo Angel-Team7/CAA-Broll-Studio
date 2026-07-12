@@ -1,0 +1,467 @@
+{
+  "project": "belong-module10",
+  "title": "Belong \u2014 Module 10: Daily Sustainability",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] Sustainability at Craveiral isn't a chapter in a report. It's a hundred small physical actions, every day, done by you.",
+      "visual_direction": "Working hands montage: opening shutters at dawn, carrying harvest crates, coiling a hose, sorting jars \u2014 the mission in work clothes. Detail series, morning light.",
+      "clips": [
+        {
+          "id": "pexels_36624076_opening-wooden-shutters",
+          "type": "video",
+          "source": "pexels",
+          "author": "Alex Moisieiev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/opening-window-blinds-to-view-italian-street-36624076/",
+          "thumb": "projects/belong-module10/thumbs/S01/pexels_36624076_opening-wooden-shutters.jpg",
+          "preview": "projects/belong-module10/previews/S01/pexels_36624076_opening-wooden-shutters.mp4"
+        },
+        {
+          "id": "pexels_4911881_morning-farm-chores",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-is-petting-a-chicken-in-a-barn-4911881/",
+          "thumb": "projects/belong-module10/thumbs/S01/pexels_4911881_morning-farm-chores.jpg",
+          "preview": "projects/belong-module10/previews/S01/pexels_4911881_morning-farm-chores.mp4"
+        },
+        {
+          "id": "pixabay_73847_working-hands-montage",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JustY\u00f8u",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-73847/",
+          "thumb": "projects/belong-module10/thumbs/S01/pixabay_73847_working-hands-montage.jpg",
+          "preview": "projects/belong-module10/previews/S01/pixabay_73847_working-hands-montage.mp4"
+        },
+        {
+          "id": "pexels_10922962_carrying-harvest-crate",
+          "type": "image",
+          "source": "pexels",
+          "author": "Gonzalo Acu\u00f1a",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-carrying-a-plastic-crate-10922962/",
+          "thumb": "projects/belong-module10/thumbs/S01/pexels_10922962_carrying-harvest-crate.jpg",
+          "preview": "projects/belong-module10/previews/S01/pexels_10922962_carrying-harvest-crate.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] Start with water. We're in the Alentejo \u2014 water here is the limiting factor of everything. Every drop matters.",
+      "visual_direction": "Water as treasure: drip irrigation beading on soil, a single tap closed firmly, sun through a fine spray over vegetable rows. Macro detail, precious feel. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_5234937_garden-watering-sunrise",
+          "type": "video",
+          "source": "pexels",
+          "author": "Taryn Elliott",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-flowers-with-cobwebs-5234937/",
+          "thumb": "projects/belong-module10/thumbs/S02/pexels_5234937_garden-watering-sunrise.jpg",
+          "preview": "projects/belong-module10/previews/S02/pexels_5234937_garden-watering-sunrise.mp4"
+        },
+        {
+          "id": "pixabay_17013_drip-irrigation-closeup",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jeanvdmeulen",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-17013/",
+          "thumb": "projects/belong-module10/thumbs/S02/pixabay_17013_drip-irrigation-closeup.jpg",
+          "preview": "projects/belong-module10/previews/S02/pixabay_17013_drip-irrigation-closeup.mp4"
+        },
+        {
+          "id": "pixabay_48233_irrigation-vegetable-rows",
+          "type": "video",
+          "source": "pixabay",
+          "author": "NickyPe",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-48233/",
+          "thumb": "projects/belong-module10/thumbs/S02/pixabay_48233_irrigation-vegetable-rows.jpg",
+          "preview": "projects/belong-module10/previews/S02/pixabay_48233_irrigation-vegetable-rows.mp4"
+        },
+        {
+          "id": "pexels_10606633_drip-irrigation-closeup",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anil  Sharma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/green-plant-on-brown-soil-10606633/",
+          "thumb": "projects/belong-module10/thumbs/S02/pexels_10606633_drip-irrigation-closeup.jpg",
+          "preview": "projects/belong-module10/previews/S02/pexels_10606633_drip-irrigation-closeup.jpg"
+        },
+        {
+          "id": "pixabay_7110591_water-drops-soil",
+          "type": "image",
+          "source": "pixabay",
+          "author": "onehundredseventyfive",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/seedlings-soil-spring-flowers-bloom-7110591/",
+          "thumb": "projects/belong-module10/thumbs/S02/pixabay_7110591_water-drops-soil.jpg",
+          "preview": "projects/belong-module10/previews/S02/pixabay_7110591_water-drops-soil.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] Report every leak the hour you see it. Washing routines exist for a reason \u2014 follow the dosing, full loads always.",
+      "visual_direction": "Laundry discipline: hands loading a washing machine properly to a full load, measured dosing of detergent, a dripping tap being fixed. Practical detail shots.",
+      "clips": [
+        {
+          "id": "pexels_7641504_measuring-detergent-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-washing-a-plate-7641504/",
+          "thumb": "projects/belong-module10/thumbs/S03/pexels_7641504_measuring-detergent-hands.jpg",
+          "preview": "projects/belong-module10/previews/S03/pexels_7641504_measuring-detergent-hands.mp4"
+        },
+        {
+          "id": "pexels_8756639_loading-washing-machine",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/set-of-white-clothes-spinning-inside-a-washing-machine-8756639/",
+          "thumb": "projects/belong-module10/thumbs/S03/pexels_8756639_loading-washing-machine.jpg",
+          "preview": "projects/belong-module10/previews/S03/pexels_8756639_loading-washing-machine.mp4"
+        },
+        {
+          "id": "pixabay_34091_loading-washing-machine",
+          "type": "video",
+          "source": "pixabay",
+          "author": "jLasWilson",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-34091/",
+          "thumb": "projects/belong-module10/thumbs/S03/pixabay_34091_loading-washing-machine.jpg",
+          "preview": "projects/belong-module10/previews/S03/pixabay_34091_loading-washing-machine.mp4"
+        },
+        {
+          "id": "pexels_5591642_loading-washing-machine",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-wearing-a-white-shirt-doing-a-laundry-kneeling-5591642/",
+          "thumb": "projects/belong-module10/thumbs/S03/pexels_5591642_loading-washing-machine.jpg",
+          "preview": "projects/belong-module10/previews/S03/pexels_5591642_loading-washing-machine.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] Energy, same logic. Air conditioning in an empty house is money and carbon evaporating together \u2014 check, switch off, close.",
+      "visual_direction": "The closing ritual: a hand flicks off a light switch, adjusts a thermostat down, pulls a window shut, draws a shade against the heat. Tight sequential details.",
+      "clips": [
+        {
+          "id": "pixabay_11722_closing-window-shutters",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Iconikmg",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-11722/",
+          "thumb": "projects/belong-module10/thumbs/S04/pixabay_11722_closing-window-shutters.jpg",
+          "preview": "projects/belong-module10/previews/S04/pixabay_11722_closing-window-shutters.mp4"
+        },
+        {
+          "id": "pixabay_124947_energy-saving-home",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AttilaPergel",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-124947/",
+          "thumb": "projects/belong-module10/thumbs/S04/pixabay_124947_energy-saving-home.jpg",
+          "preview": "projects/belong-module10/previews/S04/pixabay_124947_energy-saving-home.mp4"
+        },
+        {
+          "id": "pexels_6000686_hand-light-switch",
+          "type": "image",
+          "source": "pexels",
+          "author": "D\u01b0\u01a1ng Nh\u00e2n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-light-switches-6000686/",
+          "thumb": "projects/belong-module10/thumbs/S04/pexels_6000686_hand-light-switch.jpg",
+          "preview": "projects/belong-module10/previews/S04/pexels_6000686_hand-light-switch.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] At Craveiral there's no such thing as 'throwing away'. There is only routing. You're sending a carrot top on a round trip.",
+      "visual_direction": "The route begins: kitchen scraps swept into a compost caddy, peelings and trimmings carried out to the compost heap, steam rising off it at dawn. Medium + detail. [image-beat]",
+      "clips": [
+        {
+          "id": "pixabay_147075_food-waste-sorting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "mariya_m",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-147075/",
+          "thumb": "projects/belong-module10/thumbs/S05/pixabay_147075_food-waste-sorting.jpg",
+          "preview": "projects/belong-module10/previews/S05/pixabay_147075_food-waste-sorting.mp4"
+        },
+        {
+          "id": "pixabay_27636_compost-bin-kitchen",
+          "type": "video",
+          "source": "pixabay",
+          "author": "padrinan",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-27636/",
+          "thumb": "projects/belong-module10/thumbs/S05/pixabay_27636_compost-bin-kitchen.jpg",
+          "preview": "projects/belong-module10/previews/S05/pixabay_27636_compost-bin-kitchen.mp4"
+        },
+        {
+          "id": "pexels_7512959_kitchen-scraps-compost",
+          "type": "image",
+          "source": "pexels",
+          "author": "SHVETS production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-putting-banana-peel-on-a-bin-7512959/",
+          "thumb": "projects/belong-module10/thumbs/S05/pexels_7512959_kitchen-scraps-compost.jpg",
+          "preview": "projects/belong-module10/previews/S05/pexels_7512959_kitchen-scraps-compost.jpg"
+        },
+        {
+          "id": "pixabay_3663514_kitchen-scraps-compost",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Couleur",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/compost-garbage-biological-waste-3663514/",
+          "thumb": "projects/belong-module10/thumbs/S05/pixabay_3663514_kitchen-scraps-compost.jpg",
+          "preview": "projects/belong-module10/previews/S05/pixabay_3663514_kitchen-scraps-compost.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] Compost routes to the farm, and the farm routes to the kitchen. That's the circle.",
+      "visual_direction": "The circle closes: dark finished compost crumbled between fingers, forked into a garden bed, seedlings going into that same enriched soil. Tactile macro. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_3045871_soil-fertility-closeup",
+          "type": "video",
+          "source": "pexels",
+          "author": "Miguel \u00c1. Padri\u00f1\u00e1n",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-earthworm-burrowing-on-a-compost-soil-3045871/",
+          "thumb": "projects/belong-module10/thumbs/S06/pexels_3045871_soil-fertility-closeup.jpg",
+          "preview": "projects/belong-module10/previews/S06/pexels_3045871_soil-fertility-closeup.mp4"
+        },
+        {
+          "id": "pexels_31145888_spreading-compost-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/gardener-handling-rich-compost-in-wheelbarrow-31145888/",
+          "thumb": "projects/belong-module10/thumbs/S06/pexels_31145888_spreading-compost-garden.jpg",
+          "preview": "projects/belong-module10/previews/S06/pexels_31145888_spreading-compost-garden.mp4"
+        },
+        {
+          "id": "pixabay_341309_planting-seedlings-soil",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Solarselle77",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-341309/",
+          "thumb": "projects/belong-module10/thumbs/S06/pixabay_341309_planting-seedlings-soil.jpg",
+          "preview": "projects/belong-module10/previews/S06/pixabay_341309_planting-seedlings-soil.mp4"
+        },
+        {
+          "id": "pixabay_8027884_planting-seedlings-soil",
+          "type": "image",
+          "source": "pixabay",
+          "author": "GoranH",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/planting-transplanting-cherry-tomato-8027884/",
+          "thumb": "projects/belong-module10/thumbs/S06/pixabay_8027884_planting-seedlings-soil.jpg",
+          "preview": "projects/belong-module10/previews/S06/pixabay_8027884_planting-seedlings-soil.jpg"
+        },
+        {
+          "id": "pixabay_9642478_compost-hands-soil",
+          "type": "image",
+          "source": "pixabay",
+          "author": "AmbreVEGA",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/hands-plant-care-compost-9642478/",
+          "thumb": "projects/belong-module10/thumbs/S06/pixabay_9642478_compost-hands-soil.jpg",
+          "preview": "projects/belong-module10/previews/S06/pixabay_9642478_compost-hands-soil.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] Purchasing. Every euro we spend is a vote for the world we want. Local first, seasonal first, real first.",
+      "visual_direction": "The territory's suppliers: a handshake with a local honey producer, crates of just-caught fish, a winemaker in his cellar \u2014 money staying home. Medium, human. [image-beat]",
+      "clips": [
+        {
+          "id": "wikimedia_188256581_local-producer-delivery",
+          "type": "video",
+          "source": "wikimedia",
+          "author": "Achhai Chaudhary / Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:OpenSpeaks-thq-Eastern_Tharu-Achhai_Chaudhary-SC-Medicinal_Plants_01.webm",
+          "thumb": "projects/belong-module10/thumbs/S07/wikimedia_188256581_local-producer-delivery.jpg",
+          "preview": "projects/belong-module10/previews/S07/wikimedia_188256581_local-producer-delivery.mp4"
+        },
+        {
+          "id": "pexels_16547190_winemaker-cellar-barrels",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tim Durand",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wooden-wine-kegs-16547190/",
+          "thumb": "projects/belong-module10/thumbs/S07/pexels_16547190_winemaker-cellar-barrels.jpg",
+          "preview": "projects/belong-module10/previews/S07/pexels_16547190_winemaker-cellar-barrels.jpg"
+        },
+        {
+          "id": "pexels_7844010_local-producer-delivery",
+          "type": "image",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-carrying-a-basket-with-vegetables-7844010/",
+          "thumb": "projects/belong-module10/thumbs/S07/pexels_7844010_local-producer-delivery.jpg",
+          "preview": "projects/belong-module10/previews/S07/pexels_7844010_local-producer-delivery.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] Four percent built, ninety-six percent alive \u2014 and the ninety-six percent needs allies. Stay on the walkways. Soil is capital.",
+      "visual_direction": "Guardianship: feet on the timber walkway with wild land untouched either side, a gardener tending beds by hand, no chemicals in sight. Wide + medium.",
+      "clips": [
+        {
+          "id": "pexels_37019468_hands-weeding-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/gardener-digging-in-the-garden-patch-37019468/",
+          "thumb": "projects/belong-module10/thumbs/S08/pexels_37019468_hands-weeding-garden.jpg",
+          "preview": "projects/belong-module10/previews/S08/pexels_37019468_hands-weeding-garden.mp4"
+        },
+        {
+          "id": "pixabay_287510_natural-landscape-path",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Thamnguyen_TBVN",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-287510/",
+          "thumb": "projects/belong-module10/thumbs/S08/pixabay_287510_natural-landscape-path.jpg",
+          "preview": "projects/belong-module10/previews/S08/pixabay_287510_natural-landscape-path.mp4"
+        },
+        {
+          "id": "pixabay_45140_walking-wooden-boardwalk",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AndyFaeth",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-45140/",
+          "thumb": "projects/belong-module10/thumbs/S08/pixabay_45140_walking-wooden-boardwalk.jpg",
+          "preview": "projects/belong-module10/previews/S08/pixabay_45140_walking-wooden-boardwalk.mp4"
+        },
+        {
+          "id": "pexels_35877495_walking-wooden-boardwalk",
+          "type": "image",
+          "source": "pexels",
+          "author": "Silvia Marcoschamer",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/peaceful-wooden-pathway-through-lush-forest-35877495/",
+          "thumb": "projects/belong-module10/thumbs/S08/pexels_35877495_walking-wooden-boardwalk.jpg",
+          "preview": "projects/belong-module10/previews/S08/pexels_35877495_walking-wooden-boardwalk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] We never lecture. Our way is to make the sustainable choice the beautiful choice.",
+      "visual_direction": "Beauty as persuasion: organic amenities arranged on linen, a stunning seasonal dish, a lovely footpath toward the beach \u2014 sustainability you want to touch. Editorial stills. [image-beat]",
+      "clips": [
+        {
+          "id": "pixabay_150344_natural-soap-linen",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-150344/",
+          "thumb": "projects/belong-module10/thumbs/S09/pixabay_150344_natural-soap-linen.jpg",
+          "preview": "projects/belong-module10/previews/S09/pixabay_150344_natural-soap-linen.mp4"
+        },
+        {
+          "id": "pexels_17517943_seasonal-dish-beautiful",
+          "type": "image",
+          "source": "pexels",
+          "author": "Nadin Sh",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/fried-meat-with-sauce-and-carrots-17517943/",
+          "thumb": "projects/belong-module10/thumbs/S09/pexels_17517943_seasonal-dish-beautiful.jpg",
+          "preview": "projects/belong-module10/previews/S09/pexels_17517943_seasonal-dish-beautiful.jpg"
+        },
+        {
+          "id": "pexels_18210707_natural-soap-linen",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ylanite Koppens",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/soap-bars-in-a-bowl-standing-next-to-dried-flowers-a-candle-and-old-newspapers-18210707/",
+          "thumb": "projects/belong-module10/thumbs/S09/pexels_18210707_natural-soap-linen.jpg",
+          "preview": "projects/belong-module10/previews/S09/pexels_18210707_natural-soap-linen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] At the end of any shift, ask: did the place end my shift a little better or a little worse because I was here?",
+      "visual_direction": "Closing reflection: a worker pauses at day's end, surveying the land in low golden light, tools cleaned and hung, quiet satisfaction. Wide, contemplative.",
+      "clips": [
+        {
+          "id": "pexels_15909398_worker-sunset-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Vadim Starling",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-in-a-hat-stands-in-a-corn-field-15909398/",
+          "thumb": "projects/belong-module10/thumbs/S10/pexels_15909398_worker-sunset-field.jpg",
+          "preview": "projects/belong-module10/previews/S10/pexels_15909398_worker-sunset-field.mp4"
+        },
+        {
+          "id": "pexels_5674558_contemplative-person-golden-hour",
+          "type": "video",
+          "source": "pexels",
+          "author": "ROMAN ODINTSOV",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-sitting-on-the-edge-of-a-jetty-5674558/",
+          "thumb": "projects/belong-module10/thumbs/S10/pexels_5674558_contemplative-person-golden-hour.jpg",
+          "preview": "projects/belong-module10/previews/S10/pexels_5674558_contemplative-person-golden-hour.mp4"
+        },
+        {
+          "id": "pixabay_347076_farmer-end-of-day",
+          "type": "video",
+          "source": "pixabay",
+          "author": "adege",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-347076/",
+          "thumb": "projects/belong-module10/thumbs/S10/pixabay_347076_farmer-end-of-day.jpg",
+          "preview": "projects/belong-module10/previews/S10/pixabay_347076_farmer-end-of-day.mp4"
+        },
+        {
+          "id": "pexels_9153598_contemplative-person-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "Vlad Vasnetsov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/silhouette-of-person-in-the-beach-during-sunset-9153598/",
+          "thumb": "projects/belong-module10/thumbs/S10/pexels_9153598_contemplative-person-golden-hour.jpg",
+          "preview": "projects/belong-module10/previews/S10/pexels_9153598_contemplative-person-golden-hour.jpg"
+        }
+      ]
+    }
+  ]
+}

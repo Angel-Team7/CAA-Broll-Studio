@@ -1,0 +1,367 @@
+{
+  "project": "belong-module9",
+  "title": "Belong \u2014 Module 9: Service Recovery",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] Let's talk about the moments nobody puts on Instagram. The complaint at the front desk. The guest who arrives already angry.",
+      "visual_direction": "Honest tension: a guest at a reception desk, visibly frustrated but not cartoonish; the staff member composed, present. Medium two-shot, real.",
+      "clips": [
+        {
+          "id": "pexels_3768095_frustrated-guest-reception",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/selective-focus-photo-of-reception-signage-3768095/",
+          "thumb": "projects/belong-module9/thumbs/S01/pexels_3768095_frustrated-guest-reception.jpg",
+          "preview": "projects/belong-module9/previews/S01/pexels_3768095_frustrated-guest-reception.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] A reframe that took me years to believe: a complaint is a gift \u2014 information, and a second chance.",
+      "visual_direction": "The turn: a staff member receives criticism with open posture, nodding, no defensiveness \u2014 feedback landing as something valuable. Tight medium. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_6339820_attentive-nodding-conversation",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/side-view-video-of-a-man-6339820/",
+          "thumb": "projects/belong-module9/thumbs/S02/pexels_6339820_attentive-nodding-conversation.jpg",
+          "preview": "projects/belong-module9/previews/S02/pexels_6339820_attentive-nodding-conversation.mp4"
+        },
+        {
+          "id": "pixabay_349094_receiving-feedback-calmly",
+          "type": "video",
+          "source": "pixabay",
+          "author": "MuhammadAhmad10",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-349094/",
+          "thumb": "projects/belong-module9/thumbs/S02/pixabay_349094_receiving-feedback-calmly.jpg",
+          "preview": "projects/belong-module9/previews/S02/pixabay_349094_receiving-feedback-calmly.mp4"
+        },
+        {
+          "id": "pexels_3862603_staff-feedback-gracious",
+          "type": "image",
+          "source": "pexels",
+          "author": "ThisIsEngineering",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/female-engineer-holding-presentation-3862603/",
+          "thumb": "projects/belong-module9/thumbs/S02/pexels_3862603_staff-feedback-gracious.jpg",
+          "preview": "projects/belong-module9/previews/S02/pexels_3862603_staff-feedback-gracious.jpg"
+        },
+        {
+          "id": "pexels_9065242_attentive-nodding-conversation",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-sitting-on-the-chair-9065242/",
+          "thumb": "projects/belong-module9/thumbs/S02/pexels_9065242_attentive-nodding-conversation.jpg",
+          "preview": "projects/belong-module9/previews/S02/pexels_9065242_attentive-nodding-conversation.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] The dangerous guest is the silent one: says everything is fine, goes home, writes the review, never returns.",
+      "visual_direction": "Quiet warning: a guest packing and leaving with a polite, unreadable expression; later, at home, typing a review by lamplight. Medium, subdued tones.",
+      "clips": [
+        {
+          "id": "pexels_34402453_guest-leaving-suitcase",
+          "type": "video",
+          "source": "pexels",
+          "author": "Aamir Somewhere",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-organizing-luggage-in-a-hotel-room-34402453/",
+          "thumb": "projects/belong-module9/thumbs/S03/pexels_34402453_guest-leaving-suitcase.jpg",
+          "preview": "projects/belong-module9/previews/S03/pexels_34402453_guest-leaving-suitcase.mp4"
+        },
+        {
+          "id": "pixabay_43459_writing-online-review",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Nicolas_Garay",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-43459/",
+          "thumb": "projects/belong-module9/thumbs/S03/pixabay_43459_writing-online-review.jpg",
+          "preview": "projects/belong-module9/previews/S03/pixabay_43459_writing-online-review.mp4"
+        },
+        {
+          "id": "pexels_3923502_guest-leaving-suitcase",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-pulling-her-luggage-3923502/",
+          "thumb": "projects/belong-module9/thumbs/S03/pexels_3923502_guest-leaving-suitcase.jpg",
+          "preview": "projects/belong-module9/previews/S03/pexels_3923502_guest-leaving-suitcase.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] Listen \u2014 completely. Don't defend, don't interrupt. An upset person cannot hear solutions until they feel heard.",
+      "visual_direction": "The heart of recovery: close on genuine listening \u2014 steady eye contact, patient stillness while the other person talks with their hands. Intimate close-up. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_7953512_two-people-talking-earnest",
+          "type": "video",
+          "source": "pexels",
+          "author": "Felicity Tai",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-a-woman-having-a-conversation-while-holding-coffee-cups-7953512/",
+          "thumb": "projects/belong-module9/thumbs/S04/pexels_7953512_two-people-talking-earnest.jpg",
+          "preview": "projects/belong-module9/previews/S04/pexels_7953512_two-people-talking-earnest.mp4"
+        },
+        {
+          "id": "pixabay_119698_patient-listening-conversation",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Marsel_beijing",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-119698/",
+          "thumb": "projects/belong-module9/thumbs/S04/pixabay_119698_patient-listening-conversation.jpg",
+          "preview": "projects/belong-module9/previews/S04/pixabay_119698_patient-listening-conversation.mp4"
+        },
+        {
+          "id": "pexels_6255808_patient-listening-conversation",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/two-women-talking-at-home-6255808/",
+          "thumb": "projects/belong-module9/thumbs/S04/pexels_6255808_patient-listening-conversation.jpg",
+          "preview": "projects/belong-module9/previews/S04/pexels_6255808_patient-listening-conversation.jpg"
+        },
+        {
+          "id": "pexels_8518732_two-people-talking-earnest",
+          "type": "image",
+          "source": "pexels",
+          "author": "Artem Podrez",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-and-woman-having-a-conversation-8518732/",
+          "thumb": "projects/belong-module9/thumbs/S04/pexels_8518732_two-people-talking-earnest.jpg",
+          "preview": "projects/belong-module9/previews/S04/pexels_8518732_two-people-talking-earnest.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] Acknowledge the feeling: 'I'm sorry \u2014 that's not the stay we wanted you to have.' And never, ever say 'but'.",
+      "visual_direction": "Sincerity made visible: a warm apologetic gesture \u2014 hand to heart, a slight lean-in, softened brow; the guest's shoulders easing. Tight medium, tender light. [image-beat]",
+      "clips": [
+        {
+          "id": "pixabay_174008_sincere-apology-gesture",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Amorn_mimi",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-174008/",
+          "thumb": "projects/belong-module9/thumbs/S05/pixabay_174008_sincere-apology-gesture.jpg",
+          "preview": "projects/belong-module9/previews/S05/pixabay_174008_sincere-apology-gesture.mp4"
+        },
+        {
+          "id": "pexels_6135156_empathetic-conversation-warm",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/women-having-conversation-on-couch-6135156/",
+          "thumb": "projects/belong-module9/thumbs/S05/pexels_6135156_empathetic-conversation-warm.jpg",
+          "preview": "projects/belong-module9/previews/S05/pexels_6135156_empathetic-conversation-warm.jpg"
+        },
+        {
+          "id": "pexels_7659453_reassuring-gesture-kind",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-people-holding-their-hands-7659453/",
+          "thumb": "projects/belong-module9/thumbs/S05/pexels_7659453_reassuring-gesture-kind.jpg",
+          "preview": "projects/belong-module9/previews/S05/pexels_7659453_reassuring-gesture-kind.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] Fix it \u2014 bigger than expected. The cold dish comes back hot, with a glass of wine. You have autonomy.",
+      "visual_direction": "Generous recovery: a waiter arrives with the corrected dish plus an unasked-for glass of wine, set down with a smile \u2014 surprise flickering on the guest's face. Medium. [image-beat]",
+      "clips": [
+        {
+          "id": "pixabay_202004_generous-gesture-restaurant",
+          "type": "video",
+          "source": "pixabay",
+          "author": "BackgroundsCHAIR",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202004/",
+          "thumb": "projects/belong-module9/thumbs/S06/pixabay_202004_generous-gesture-restaurant.jpg",
+          "preview": "projects/belong-module9/previews/S06/pixabay_202004_generous-gesture-restaurant.mp4"
+        },
+        {
+          "id": "pixabay_3152_wine-glass-table-gift",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3152/",
+          "thumb": "projects/belong-module9/thumbs/S06/pixabay_3152_wine-glass-table-gift.jpg",
+          "preview": "projects/belong-module9/previews/S06/pixabay_3152_wine-glass-table-gift.mp4"
+        },
+        {
+          "id": "pexels_36701452_server-bringing-dish-smile",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anil  Sharma",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/smiling-waitress-holding-plate-of-colorful-food-36701452/",
+          "thumb": "projects/belong-module9/thumbs/S06/pexels_36701452_server-bringing-dish-smile.jpg",
+          "preview": "projects/belong-module9/previews/S06/pexels_36701452_server-bringing-dish-smile.jpg"
+        },
+        {
+          "id": "pexels_6322489_generous-gesture-restaurant",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-woman-eating-together-6322489/",
+          "thumb": "projects/belong-module9/thumbs/S06/pexels_6322489_generous-gesture-restaurant.jpg",
+          "preview": "projects/belong-module9/previews/S06/pexels_6322489_generous-gesture-restaurant.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] Follow up. The next morning: 'how was everything, after we sorted things out?' That question tells the guest the care was real.",
+      "visual_direction": "Morning check-in: staff pauses at a breakfast table for a brief, warm exchange with yesterday's guest; smiles that say it's resolved. Medium, bright morning.",
+      "clips": [
+        {
+          "id": "pexels_4353611_staff-chatting-breakfast-guest",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ketut Subiyanto",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/cheerful-baristas-in-aprons-chatting-at-counter-4353611/",
+          "thumb": "projects/belong-module9/thumbs/S07/pexels_4353611_staff-chatting-breakfast-guest.jpg",
+          "preview": "projects/belong-module9/previews/S07/pexels_4353611_staff-chatting-breakfast-guest.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] Report it \u2014 every complaint goes into the system. Three guests mentioning the same thing is one broken process wearing three costumes.",
+      "visual_direction": "Calm operations: a short team huddle reviewing notes, someone logging an issue on a tablet, a whiteboard of fixes \u2014 blameless problem-solving. Medium, workmanlike.",
+      "clips": [
+        {
+          "id": "pixabay_132_problem-solving-whiteboard",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-132/",
+          "thumb": "projects/belong-module9/thumbs/S08/pixabay_132_problem-solving-whiteboard.jpg",
+          "preview": "projects/belong-module9/previews/S08/pixabay_132_problem-solving-whiteboard.mp4"
+        },
+        {
+          "id": "pixabay_2340_small-team-discussion",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-2340/",
+          "thumb": "projects/belong-module9/thumbs/S08/pixabay_2340_small-team-discussion.jpg",
+          "preview": "projects/belong-module9/previews/S08/pixabay_2340_small-team-discussion.mp4"
+        },
+        {
+          "id": "pixabay_87593_staff-debrief-meeting",
+          "type": "video",
+          "source": "pixabay",
+          "author": "oybekostanov",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-87593/",
+          "thumb": "projects/belong-module9/thumbs/S08/pixabay_87593_staff-debrief-meeting.jpg",
+          "preview": "projects/belong-module9/previews/S08/pixabay_87593_staff-debrief-meeting.mp4"
+        },
+        {
+          "id": "pixabay_4941162_problem-solving-whiteboard",
+          "type": "image",
+          "source": "pixabay",
+          "author": "This_is_Engineering",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/engineer-engineering-office-4941162/",
+          "thumb": "projects/belong-module9/thumbs/S08/pixabay_4941162_problem-solving-whiteboard.jpg",
+          "preview": "projects/belong-module9/previews/S08/pixabay_4941162_problem-solving-whiteboard.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] You never have to accept abuse. Protecting your dignity is part of my job, and I take it seriously.",
+      "visual_direction": "Care for the team: a manager steps in beside a team member, a steadying hand on the shoulder, a calm private word afterwards. Medium, protective warmth.",
+      "clips": [
+        {
+          "id": "pexels_7640792_manager-supporting-employee",
+          "type": "image",
+          "source": "pexels",
+          "author": "Yan Krukau",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/men-sitting-at-the-table-7640792/",
+          "thumb": "projects/belong-module9/thumbs/S09/pexels_7640792_manager-supporting-employee.jpg",
+          "preview": "projects/belong-module9/previews/S09/pexels_7640792_manager-supporting-employee.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] The mistake wasn't the story. The recovery was. That family has come back every single year since.",
+      "visual_direction": "The payoff: a returning family greeted like old friends \u2014 hugs at arrival, kids running ahead to a familiar place, golden late light. Wide warm. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_5899775_family-reunion-hug",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-hugging-each-other-5899775/",
+          "thumb": "projects/belong-module9/thumbs/S10/pexels_5899775_family-reunion-hug.jpg",
+          "preview": "projects/belong-module9/previews/S10/pexels_5899775_family-reunion-hug.mp4"
+        },
+        {
+          "id": "pexels_8499697_kids-running-excited-arrival",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-children-going-in-the-school-8499697/",
+          "thumb": "projects/belong-module9/thumbs/S10/pexels_8499697_kids-running-excited-arrival.jpg",
+          "preview": "projects/belong-module9/previews/S10/pexels_8499697_kids-running-excited-arrival.mp4"
+        },
+        {
+          "id": "pexels_37119543_family-arriving-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "M M\u00fcnzevi",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/family-walk-by-the-harbor-at-sunset-37119543/",
+          "thumb": "projects/belong-module9/thumbs/S10/pexels_37119543_family-arriving-golden-hour.jpg",
+          "preview": "projects/belong-module9/previews/S10/pexels_37119543_family-arriving-golden-hour.jpg"
+        },
+        {
+          "id": "pexels_5638465_family-reunion-hug",
+          "type": "image",
+          "source": "pexels",
+          "author": "Askar Abayev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-people-hugging-together-5638465/",
+          "thumb": "projects/belong-module9/thumbs/S10/pexels_5638465_family-reunion-hug.jpg",
+          "preview": "projects/belong-module9/previews/S10/pexels_5638465_family-reunion-hug.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "project": "belong-module12",
+  "title": "Belong \u2014 Module 12: Leadership & Team",
+  "generated": "2026-07-12",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[B1] I've saved the most important conversation for the end: how we work together. Not the org chart \u2014 the real thing.",
+      "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light \u2014 leadership as dialogue. Tight two-shot. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_7123932_sincere-discussion-morning",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monstera Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/parents-talking-to-their-daughter-7123932/",
+          "thumb": "projects/belong-module12/thumbs/S01/pexels_7123932_sincere-discussion-morning.jpg",
+          "preview": "projects/belong-module12/previews/S01/pexels_7123932_sincere-discussion-morning.mp4"
+        },
+        {
+          "id": "pexels_7953512_two-people-honest-talk",
+          "type": "video",
+          "source": "pexels",
+          "author": "Felicity Tai",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-and-a-woman-having-a-conversation-while-holding-coffee-cups-7953512/",
+          "thumb": "projects/belong-module12/thumbs/S01/pexels_7953512_two-people-honest-talk.jpg",
+          "preview": "projects/belong-module12/previews/S01/pexels_7953512_two-people-honest-talk.mp4"
+        },
+        {
+          "id": "pixabay_180_conversation-wooden-table",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Republica",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-180/",
+          "thumb": "projects/belong-module12/thumbs/S01/pixabay_180_conversation-wooden-table.jpg",
+          "preview": "projects/belong-module12/previews/S01/pixabay_180_conversation-wooden-table.mp4"
+        },
+        {
+          "id": "pexels_4051137_sincere-discussion-morning",
+          "type": "image",
+          "source": "pexels",
+          "author": "KATRIN  BOLOVTSOVA",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/photo-of-women-talking-to-each-other-4051137/",
+          "thumb": "projects/belong-module12/thumbs/S01/pexels_4051137_sincere-discussion-morning.jpg",
+          "preview": "projects/belong-module12/previews/S01/pexels_4051137_sincere-discussion-morning.jpg"
+        },
+        {
+          "id": "pexels_7490773_mentor-coffee-meeting",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-in-business-attire-sitting-on-a-couch-while-holding-a-coffee-7490773/",
+          "thumb": "projects/belong-module12/thumbs/S01/pexels_7490773_mentor-coffee-meeting.jpg",
+          "preview": "projects/belong-module12/previews/S01/pexels_7490773_mentor-coffee-meeting.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[B2] Nobody taught me hospitality management. I was a lawyer who fell in love with a field of carnations. I learned by doing \u2014 and by getting it wrong first.",
+      "visual_direction": "The founder's road: a man walking his farmland alone at golden hour, weathered and thoughtful, the land that taught him stretching around. Wide contemplative. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_11521918_thoughtful-walk-countryside",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ruslan Sikunov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-walking-away-in-grass-11521918/",
+          "thumb": "projects/belong-module12/thumbs/S02/pexels_11521918_thoughtful-walk-countryside.jpg",
+          "preview": "projects/belong-module12/previews/S02/pexels_11521918_thoughtful-walk-countryside.mp4"
+        },
+        {
+          "id": "pexels_8795191_mature-man-field",
+          "type": "video",
+          "source": "pexels",
+          "author": "Anastasia  Shuraeva",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/back-view-of-a-man-looking-at-the-nature-in-a-field-8795191/",
+          "thumb": "projects/belong-module12/thumbs/S02/pexels_8795191_mature-man-field.jpg",
+          "preview": "projects/belong-module12/previews/S02/pexels_8795191_mature-man-field.mp4"
+        },
+        {
+          "id": "pixabay_62390_contemplative-farmer-sunset",
+          "type": "video",
+          "source": "pixabay",
+          "author": "JoshuaWoroniecki",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-62390/",
+          "thumb": "projects/belong-module12/thumbs/S02/pixabay_62390_contemplative-farmer-sunset.jpg",
+          "preview": "projects/belong-module12/previews/S02/pixabay_62390_contemplative-farmer-sunset.mp4"
+        },
+        {
+          "id": "pexels_160636_thoughtful-walk-countryside",
+          "type": "image",
+          "source": "pexels",
+          "author": "Pixabay",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-walking-in-the-forest-160636/",
+          "thumb": "projects/belong-module12/thumbs/S02/pexels_160636_thoughtful-walk-countryside.jpg",
+          "preview": "projects/belong-module12/previews/S02/pexels_160636_thoughtful-walk-countryside.jpg"
+        },
+        {
+          "id": "pexels_29472840_landowner-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "Micha\u0142 Robak",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/scenic-landscape-with-wind-turbines-at-sunset-29472840/",
+          "thumb": "projects/belong-module12/thumbs/S02/pexels_29472840_landowner-golden-hour.jpg",
+          "preview": "projects/belong-module12/previews/S02/pexels_29472840_landowner-golden-hour.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[B3] I'd rather correct your decision than make all the decisions. When the guest is in front of you and something needs solving, solve it.",
+      "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot \u2014 no phone call upward, no hesitation, just judgment. Medium, decisive energy.",
+      "clips": [
+        {
+          "id": "pixabay_132_waiter-solving-problem",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Coverr-Free-Footage",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-132/",
+          "thumb": "projects/belong-module12/thumbs/S03/pixabay_132_waiter-solving-problem.jpg",
+          "preview": "projects/belong-module12/previews/S03/pixabay_132_waiter-solving-problem.mp4"
+        },
+        {
+          "id": "pexels_5999818_decisive-worker-moment",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ono  Kosuki",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/pensive-ethnic-woman-touching-chin-while-thinking-on-problem-5999818/",
+          "thumb": "projects/belong-module12/thumbs/S03/pexels_5999818_decisive-worker-moment.jpg",
+          "preview": "projects/belong-module12/previews/S03/pexels_5999818_decisive-worker-moment.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[B4] If your solution costs a bottle of wine to save a guest's evening: do it, tell your manager after. I will never punish a generous decision made in good faith.",
+      "visual_direction": "Sanctioned generosity: a server carries an unasked-for bottle of wine and dessert to a table, easy confidence in the gesture. Medium warm.",
+      "clips": [
+        {
+          "id": "pixabay_132583_gifting-wine-guest",
+          "type": "video",
+          "source": "pixabay",
+          "author": "NickyPe",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-132583/",
+          "thumb": "projects/belong-module12/thumbs/S04/pixabay_132583_gifting-wine-guest.jpg",
+          "preview": "projects/belong-module12/previews/S04/pixabay_132583_gifting-wine-guest.mp4"
+        },
+        {
+          "id": "pexels_16125870_server-wine-bottle-table",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tim Durand",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wineglasses-on-a-table-16125870/",
+          "thumb": "projects/belong-module12/thumbs/S04/pexels_16125870_server-wine-bottle-table.jpg",
+          "preview": "projects/belong-module12/previews/S04/pexels_16125870_server-wine-bottle-table.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[B5] A mistake caught early is an anecdote; a mistake hidden is a crisis. Speak early. Always.",
+      "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered \u2014 zero drama, problem shrinking as it's spoken. Medium two-shot.",
+      "clips": [
+        {
+          "id": "pexels_8135155_reassuring-manager-listening",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-couple-having-a-conversation-8135155/",
+          "thumb": "projects/belong-module12/thumbs/S05/pexels_8135155_reassuring-manager-listening.jpg",
+          "preview": "projects/belong-module12/previews/S05/pexels_8135155_reassuring-manager-listening.mp4"
+        },
+        {
+          "id": "pexels_5324913_reassuring-manager-listening",
+          "type": "image",
+          "source": "pexels",
+          "author": "Anna Shvets",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/serious-woman-listening-to-colleague-in-office-5324913/",
+          "thumb": "projects/belong-module12/thumbs/S05/pexels_5324913_reassuring-manager-listening.jpg",
+          "preview": "projects/belong-module12/previews/S05/pexels_5324913_reassuring-manager-listening.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[B6] High standards are a form of respect. In a place like this, everything touches everything.",
+      "visual_direction": "Craft pride: extreme detail of meticulous work \u2014 a knife sharpened, a hem pressed, a hinge oiled, a table set exactly \u2014 excellence as respect made visible. Macro series. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_6661935_craftsman-hands-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-grinding-a-bag-6661935/",
+          "thumb": "projects/belong-module12/thumbs/S06/pexels_6661935_craftsman-hands-detail.jpg",
+          "preview": "projects/belong-module12/previews/S06/pexels_6661935_craftsman-hands-detail.mp4"
+        },
+        {
+          "id": "pexels_7199617_precise-table-setting",
+          "type": "video",
+          "source": "pexels",
+          "author": "olia danilevich",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-elderly-woman-transferring-the-egg-on-a-bowl-7199617/",
+          "thumb": "projects/belong-module12/thumbs/S06/pexels_7199617_precise-table-setting.jpg",
+          "preview": "projects/belong-module12/previews/S06/pexels_7199617_precise-table-setting.mp4"
+        },
+        {
+          "id": "pixabay_125458_craftsman-hands-detail",
+          "type": "video",
+          "source": "pixabay",
+          "author": "romyrwood",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-125458/",
+          "thumb": "projects/belong-module12/thumbs/S06/pixabay_125458_craftsman-hands-detail.jpg",
+          "preview": "projects/belong-module12/previews/S06/pixabay_125458_craftsman-hands-detail.mp4"
+        },
+        {
+          "id": "pexels_17057034_precise-table-setting",
+          "type": "image",
+          "source": "pexels",
+          "author": "Matheus Bertelli",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/table-in-restaurant-17057034/",
+          "thumb": "projects/belong-module12/thumbs/S06/pexels_17057034_precise-table-setting.jpg",
+          "preview": "projects/belong-module12/previews/S06/pexels_17057034_precise-table-setting.jpg"
+        },
+        {
+          "id": "pexels_33753659_craftsman-hands-detail",
+          "type": "image",
+          "source": "pexels",
+          "author": "GOWTHAM AGM",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-artisan-sculpting-stone-column-33753659/",
+          "thumb": "projects/belong-module12/thumbs/S06/pexels_33753659_craftsman-hands-detail.jpg",
+          "preview": "projects/belong-module12/previews/S06/pexels_33753659_craftsman-hands-detail.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[B7] We grow people, not just vegetables. The person cleaning houses today can be running housekeeping in three years.",
+      "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one \u2014 in the kitchen, the garden, at the desk \u2014 knowledge passing between generations. Medium warm. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_38487305_mentorship-kitchen-garden",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jelly Marketing",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/intergenerational-gardening-experience-38487305/",
+          "thumb": "projects/belong-module12/thumbs/S07/pexels_38487305_mentorship-kitchen-garden.jpg",
+          "preview": "projects/belong-module12/previews/S07/pexels_38487305_mentorship-kitchen-garden.mp4"
+        },
+        {
+          "id": "pexels_7782156_mentorship-kitchen-garden",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-and-a-child-planting-seeds-on-the-ground-7782156/",
+          "thumb": "projects/belong-module12/thumbs/S07/pexels_7782156_mentorship-kitchen-garden.jpg",
+          "preview": "projects/belong-module12/previews/S07/pexels_7782156_mentorship-kitchen-garden.jpg"
+        },
+        {
+          "id": "pexels_8527773_mentor-teaching-apprentice",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/women-holding-white-papers-sitting-by-the-table-8527773/",
+          "thumb": "projects/belong-module12/thumbs/S07/pexels_8527773_mentor-teaching-apprentice.jpg",
+          "preview": "projects/belong-module12/previews/S07/pexels_8527773_mentor-teaching-apprentice.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[B8] Well-being is non-negotiable. Exhausted people can't give warmth, and warmth is our entire product. The team is the first community we regenerate.",
+      "visual_direction": "The team's own table: staff sharing a relaxed meal together outdoors after service, laughter, plates passed, guard fully down. Wide golden evening. [image-beat]",
+      "clips": [
+        {
+          "id": "pexels_5961379_staff-dinner-outdoors",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/friends-celebrating-an-event-party-at-the-backyard-5961379/",
+          "thumb": "projects/belong-module12/thumbs/S08/pexels_5961379_staff-dinner-outdoors.jpg",
+          "preview": "projects/belong-module12/previews/S08/pexels_5961379_staff-dinner-outdoors.mp4"
+        },
+        {
+          "id": "pixabay_2339_family-meal-restaurant-staff",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-2339/",
+          "thumb": "projects/belong-module12/thumbs/S08/pixabay_2339_family-meal-restaurant-staff.jpg",
+          "preview": "projects/belong-module12/previews/S08/pixabay_2339_family-meal-restaurant-staff.mp4"
+        },
+        {
+          "id": "pixabay_1853958_coworkers-eating-laughing",
+          "type": "image",
+          "source": "pixabay",
+          "author": "Pexels",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/girls-bench-laugh-laughing-friends-1853958/",
+          "thumb": "projects/belong-module12/thumbs/S08/pixabay_1853958_coworkers-eating-laughing.jpg",
+          "preview": "projects/belong-module12/previews/S08/pixabay_1853958_coworkers-eating-laughing.jpg"
+        },
+        {
+          "id": "pixabay_2009590_family-meal-restaurant-staff",
+          "type": "image",
+          "source": "pixabay",
+          "author": "buffetcrush",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/christmas-wallpaper-platter-food-2009590/",
+          "thumb": "projects/belong-module12/thumbs/S08/pixabay_2009590_family-meal-restaurant-staff.jpg",
+          "preview": "projects/belong-module12/previews/S08/pixabay_2009590_family-meal-restaurant-staff.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[B9] Sixteen years ago there was a field of carnations and a lawyer with a dream. Today there are thirty-eight houses full of stories, a farm, a beach bar, a table inside a museum.",
+      "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate \u2014 houses in the trees, farm rows, walkways \u2014 everything the dream became. Grand wide.",
+      "clips": [
+        {
+          "id": "pixabay_174452_farm-resort-sunset-drone",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Ponnguyenduy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-174452/",
+          "thumb": "projects/belong-module12/thumbs/S09/pixabay_174452_farm-resort-sunset-drone.jpg",
+          "preview": "projects/belong-module12/previews/S09/pixabay_174452_farm-resort-sunset-drone.mp4"
+        },
+        {
+          "id": "pexels_7279569_estate-aerial-golden-hour",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ollie Craig",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/ancient-castle-in-autumn-forest-landscape-7279569/",
+          "thumb": "projects/belong-module12/thumbs/S09/pexels_7279569_estate-aerial-golden-hour.jpg",
+          "preview": "projects/belong-module12/previews/S09/pexels_7279569_estate-aerial-golden-hour.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[B10] Fica. Pertence. Stay. Belong. Now \u2014 let's get to work.",
+      "visual_direction": "Closing unity: the team gathered outdoors for a morning briefing in soft first light, nods, smiles, then everyone moves off to work with purpose. Wide to medium, rousing.",
+      "clips": [
+        {
+          "id": "pexels_10350201_team-briefing-outdoors",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/volunteers-reading-a-missing-poster-10350201/",
+          "thumb": "projects/belong-module12/thumbs/S10/pexels_10350201_team-briefing-outdoors.jpg",
+          "preview": "projects/belong-module12/previews/S10/pexels_10350201_team-briefing-outdoors.mp4"
+        },
+        {
+          "id": "pixabay_59291_team-gathering-sunrise",
+          "type": "video",
+          "source": "pixabay",
+          "author": "trilemedia",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-59291/",
+          "thumb": "projects/belong-module12/thumbs/S10/pixabay_59291_team-gathering-sunrise.jpg",
+          "preview": "projects/belong-module12/previews/S10/pixabay_59291_team-gathering-sunrise.mp4"
+        },
+        {
+          "id": "pexels_30396772_team-briefing-outdoors",
+          "type": "image",
+          "source": "pexels",
+          "author": "AMORIE SAM",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/men-having-a-discussion-outdoors-under-clear-sky-30396772/",
+          "thumb": "projects/belong-module12/thumbs/S10/pexels_30396772_team-briefing-outdoors.jpg",
+          "preview": "projects/belong-module12/previews/S10/pexels_30396772_team-briefing-outdoors.jpg"
+        }
+      ]
+    }
+  ]
+}
