@@ -1,7 +1,7 @@
 {
   "project": "attention-to-detail-v2",
-  "title": "Attention To Detail V2",
-  "generated": "2026-07-03",
+  "title": "Attention to Detail",
+  "generated": "2026-07-13",
   "scenes": [
     {
       "id": "S01",
@@ -941,6 +941,559 @@
           "page_url": "https://commons.wikimedia.org/wiki/File:U_S_Army_delivering_on_housing_and_quality_of_life_for_Soldiers_and_their_families_at_Rose_Barracks_in_Vilseck_(6670972).jpg",
           "thumb": "projects/attention-to-detail-v2/thumbs/S13/wikimedia_154891250_finished-carpentry.jpg",
           "preview": "projects/attention-to-detail-v2/previews/S13/wikimedia_154891250_finished-carpentry.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "coverr_7ncoblajs8_worker-walking-away-site",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/construction-worker-walking-7ncoblajs8",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/coverr_7ncoblajs8_worker-walking-away-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/coverr_7ncoblajs8_worker-walking-away-site.mp4"
+        },
+        {
+          "id": "pexels_5434217_worker-walking-away-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/pexels_5434217_worker-walking-away-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/pexels_5434217_worker-walking-away-site.mp4"
+        },
+        {
+          "id": "pexels_8488277_builder-inspecting-finished-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-shot-of-a-woman-wiping-her-sweat-8488277/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/pexels_8488277_builder-inspecting-finished-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/pexels_8488277_builder-inspecting-finished-work.mp4"
+        },
+        {
+          "id": "pixabay_40816_builder-inspecting-finished-work",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/pixabay_40816_builder-inspecting-finished-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/pixabay_40816_builder-inspecting-finished-work.mp4"
+        },
+        {
+          "id": "pexels_8961552_worker-leaving-job-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-and-blue-denim-jeans-standing-beside-scaffolding-8961552/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/pexels_8961552_worker-leaving-job-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/pexels_8961552_worker-leaving-job-site.jpg"
+        },
+        {
+          "id": "pexels_9322216_worker-walking-away-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mathias Reding",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-wearing-a-safety-helmet-walking-9322216/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S14/pexels_9322216_worker-walking-away-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S14/pexels_9322216_worker-walking-away-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_6800078_dirty-paint-brushes-left",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ivan S",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/assorted-of-used-small-paint-brushes-6800078/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S15/pexels_6800078_dirty-paint-brushes-left.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S15/pexels_6800078_dirty-paint-brushes-left.mp4"
+        },
+        {
+          "id": "pexels_7605302_paint-spill-on-floor",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-liquid-paint-7605302/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S15/pexels_7605302_paint-spill-on-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S15/pexels_7605302_paint-spill-on-floor.mp4"
+        },
+        {
+          "id": "pexels_7896748_messy-painting-job",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-pouring-paint-on-pants-7896748/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S15/pexels_7896748_messy-painting-job.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S15/pexels_7896748_messy-painting-job.mp4"
+        },
+        {
+          "id": "pexels_5641676_paint-spill-on-floor",
+          "type": "image",
+          "source": "pexels",
+          "author": "Nataliya Vaitkevich",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-shot-of-painting-materials-5641676/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S15/pexels_5641676_paint-spill-on-floor.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S15/pexels_5641676_paint-spill-on-floor.jpg"
+        },
+        {
+          "id": "pexels_8481703_dirty-paint-brushes-left",
+          "type": "image",
+          "source": "pexels",
+          "author": "Sergey  Meshkov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-painting-a-wall-8481703/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S15/pexels_8481703_dirty-paint-brushes-left.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S15/pexels_8481703_dirty-paint-brushes-left.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S16",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_5083058_typing-mistake-laptop-closeup",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pexels_5083058_typing-mistake-laptop-closeup.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pexels_5083058_typing-mistake-laptop-closeup.mp4"
+        },
+        {
+          "id": "pexels_5981447_frustrated-reading-email-screen",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-face-looks-worried-5981447/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pexels_5981447_frustrated-reading-email-screen.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pexels_5981447_frustrated-reading-email-screen.mp4"
+        },
+        {
+          "id": "pexels_5981979_worker-checking-phone-confused",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-using-her-iphone-5981979/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pexels_5981979_worker-checking-phone-confused.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pexels_5981979_worker-checking-phone-confused.mp4"
+        },
+        {
+          "id": "pixabay_202987_worker-checking-phone-confused",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pixabay_202987_worker-checking-phone-confused.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pixabay_202987_worker-checking-phone-confused.mp4"
+        },
+        {
+          "id": "pexels_3822335_typing-mistake-laptop-closeup",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ilya Klimenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-photo-of-macbook-keyboard-3822335/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pexels_3822335_typing-mistake-laptop-closeup.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pexels_3822335_typing-mistake-laptop-closeup.jpg"
+        },
+        {
+          "id": "pixabay_1891732_typing-mistake-laptop-closeup",
+          "type": "image",
+          "source": "pixabay",
+          "author": "congerdesign",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/pencil-notebook-crumpled-paper-1891732/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S16/pixabay_1891732_typing-mistake-laptop-closeup.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S16/pixabay_1891732_typing-mistake-laptop-closeup.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S17",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_5083058_careful-typing-closeup-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pexels_5083058_careful-typing-closeup-hands.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pexels_5083058_careful-typing-closeup-hands.mp4"
+        },
+        {
+          "id": "pexels_7439141_clean-email-on-screen",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/typing-in-a-laptop-7439141/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pexels_7439141_clean-email-on-screen.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pexels_7439141_clean-email-on-screen.mp4"
+        },
+        {
+          "id": "pexels_7706820_professional-writing-email-lapto",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-typing-on-a-laptop-7706820/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pexels_7706820_professional-writing-email-lapto.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pexels_7706820_professional-writing-email-lapto.mp4"
+        },
+        {
+          "id": "pixabay_203260_professional-writing-email-lapto",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-203260/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pixabay_203260_professional-writing-email-lapto.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pixabay_203260_professional-writing-email-lapto.mp4"
+        },
+        {
+          "id": "pexels_5386485_professional-writing-email-lapto",
+          "type": "image",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-photo-of-a-person-typing-on-laptop-5386485/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pexels_5386485_professional-writing-email-lapto.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pexels_5386485_professional-writing-email-lapto.jpg"
+        },
+        {
+          "id": "pexels_7821760_clean-email-on-screen",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/black-laptop-on-the-table-7821760/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S17/pexels_7821760_clean-email-on-screen.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S17/pexels_7821760_clean-email-on-screen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S18",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_12191462_trip-hazard-construction-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "utopia 36",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-in-tunnel-of-chernobyl-nuclear-power-plant-12191462/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pexels_12191462_trip-hazard-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pexels_12191462_trip-hazard-construction-site.mp4"
+        },
+        {
+          "id": "pexels_20374744_tool-left-on-floor-hazard",
+          "type": "video",
+          "source": "pexels",
+          "author": "Nishant Aneja",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-is-working-in-a-wood-shop-with-a-saw-20374744/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pexels_20374744_tool-left-on-floor-hazard.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pexels_20374744_tool-left-on-floor-hazard.mp4"
+        },
+        {
+          "id": "pexels_3752421_tape-measure-wrong-measurement",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ricky Esquivel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-metric-tape-measure-3752421/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pexels_3752421_tape-measure-wrong-measurement.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pexels_3752421_tape-measure-wrong-measurement.mp4"
+        },
+        {
+          "id": "pixabay_206315_trip-hazard-construction-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "fokus_media",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-206315/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pixabay_206315_trip-hazard-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pixabay_206315_trip-hazard-construction-site.mp4"
+        },
+        {
+          "id": "pexels_12223295_trip-hazard-construction-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Connor Scott McManus",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-photo-of-a-signage-in-a-chain-link-fence-12223295/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pexels_12223295_trip-hazard-construction-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pexels_12223295_trip-hazard-construction-site.jpg"
+        },
+        {
+          "id": "pexels_30413398_tape-measure-wrong-measurement",
+          "type": "image",
+          "source": "pexels",
+          "author": "Christina & Peter",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/close-up-of-tape-measure-on-construction-site-30413398/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S18/pexels_30413398_tape-measure-wrong-measurement.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S18/pexels_30413398_tape-measure-wrong-measurement.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S19",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_31802191_damp-wall-peeling-paint",
+          "type": "video",
+          "source": "pexels",
+          "author": "Dominik Z\u00edtka",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/abandoned-building-corridor-with-graffiti-31802191/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S19/pexels_31802191_damp-wall-peeling-paint.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S19/pexels_31802191_damp-wall-peeling-paint.mp4"
+        },
+        {
+          "id": "pexels_5571839_water-leak-damage-wall",
+          "type": "video",
+          "source": "pexels",
+          "author": "Monsieur  Sylvain",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/water-dripping-on-welded-metal-pipes-5571839/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S19/pexels_5571839_water-leak-damage-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S19/pexels_5571839_water-leak-damage-wall.mp4"
+        },
+        {
+          "id": "pixabay_135765_water-leak-damage-wall",
+          "type": "video",
+          "source": "pixabay",
+          "author": "TravelingOnTheGoYoutubeCh",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-135765/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S19/pixabay_135765_water-leak-damage-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S19/pixabay_135765_water-leak-damage-wall.mp4"
+        },
+        {
+          "id": "pexels_18644891_water-leak-damage-wall",
+          "type": "image",
+          "source": "pexels",
+          "author": "Amar  Preciado",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/damaged-walls-in-abandoned-room-18644891/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S19/pexels_18644891_water-leak-damage-wall.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S19/pexels_18644891_water-leak-damage-wall.jpg"
+        },
+        {
+          "id": "pexels_4819796_water-damage-ceiling-stain",
+          "type": "image",
+          "source": "pexels",
+          "author": "Rachel Claire",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/old-shabby-weathered-concrete-wall-4819796/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S19/pexels_4819796_water-damage-ceiling-stain.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S19/pexels_4819796_water-damage-ceiling-stain.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S20",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_5090782_securing-cable-hands-closeup",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-is-working-on-a-table-with-a-bunch-of-wires-5090782/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S20/pexels_5090782_securing-cable-hands-closeup.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S20/pexels_5090782_securing-cable-hands-closeup.mp4"
+        },
+        {
+          "id": "pexels_6957870_organizing-tools-neatly-hands",
+          "type": "video",
+          "source": "pexels",
+          "author": "www.kaboompics.com",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-getting-drill-bits-from-a-toolbox-6957870/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S20/pexels_6957870_organizing-tools-neatly-hands.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S20/pexels_6957870_organizing-tools-neatly-hands.mp4"
+        },
+        {
+          "id": "pexels_7520877_tidying-tools-workbench",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/tools-used-in-glass-making-7520877/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S20/pexels_7520877_tidying-tools-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S20/pexels_7520877_tidying-tools-workbench.mp4"
+        },
+        {
+          "id": "openverse_e3aff85f-91ad-4612-87de-9f2d_tidying-tools-workbench",
+          "type": "image",
+          "source": "openverse",
+          "author": "nenadstojkovicart",
+          "license": "CC BY 2.0",
+          "page_url": "https://www.flickr.com/photos/202846129@N03/54562323433",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S20/openverse_e3aff85f-91ad-4612-87de-9f2d_tidying-tools-workbench.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S20/openverse_e3aff85f-91ad-4612-87de-9f2d_tidying-tools-workbench.jpg"
+        },
+        {
+          "id": "pexels_12000095_securing-cable-hands-closeup",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mario Am\u00e9",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-repairing-a-motorcycle-12000095/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S20/pexels_12000095_securing-cable-hands-closeup.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S20/pexels_12000095_securing-cable-hands-closeup.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S21",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_4489798_worker-alone-fixing-detail",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-is-using-a-drill-to-repair-a-car-4489798/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S21/pexels_4489798_worker-alone-fixing-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S21/pexels_4489798_worker-alone-fixing-detail.mp4"
+        },
+        {
+          "id": "pexels_7541927_worker-checking-work-alone",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-checking-the-engine-of-a-truck-7541927/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S21/pexels_7541927_worker-checking-work-alone.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S21/pexels_7541927_worker-checking-work-alone.mp4"
+        },
+        {
+          "id": "pexels_8321998_craftsman-adjusting-carefully",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-view-of-a-man-sharpening-an-object-8321998/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S21/pexels_8321998_craftsman-adjusting-carefully.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S21/pexels_8321998_craftsman-adjusting-carefully.mp4"
+        },
+        {
+          "id": "pexels_13201071_worker-alone-fixing-detail",
+          "type": "image",
+          "source": "pexels",
+          "author": "Miguel Gonz\u00e1lez",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-in-white-long-sleeve-shirt-standing-outside-window-with-grills-on-a-wooden-scaffolding-13201071/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S21/pexels_13201071_worker-alone-fixing-detail.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S21/pexels_13201071_worker-alone-fixing-detail.jpg"
+        },
+        {
+          "id": "pexels_37668427_worker-checking-work-alone",
+          "type": "image",
+          "source": "pexels",
+          "author": "abdo alshreef",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/industrial-worker-repairing-equipment-in-libya-37668427/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S21/pexels_37668427_worker-checking-work-alone.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S21/pexels_37668427_worker-checking-work-alone.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S22",
+      "script_line": "",
+      "visual_direction": "",
+      "clips": [
+        {
+          "id": "pexels_34831847_team-inspecting-finished-constru",
+          "type": "video",
+          "source": "pexels",
+          "author": "TR Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-construction-site-with-workers-34831847/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S22/pexels_34831847_team-inspecting-finished-constru.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S22/pexels_34831847_team-inspecting-finished-constru.mp4"
+        },
+        {
+          "id": "pexels_8488069_construction-team-checking-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-holding-project-plan-8488069/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S22/pexels_8488069_construction-team-checking-work.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S22/pexels_8488069_construction-team-checking-work.mp4"
+        },
+        {
+          "id": "pexels_8964793_workers-communicating-on-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S22/pexels_8964793_workers-communicating-on-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S22/pexels_8964793_workers-communicating-on-site.mp4"
+        },
+        {
+          "id": "pexels_19895874_workers-communicating-on-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "ThisIsEngineering",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-and-man-at-construction-site-19895874/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S22/pexels_19895874_workers-communicating-on-site.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S22/pexels_19895874_workers-communicating-on-site.jpg"
+        },
+        {
+          "id": "pexels_8482865_team-inspecting-finished-constru",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/people-in-hard-hats-looking-at-a-blueprint-on-a-laptop-8482865/",
+          "thumb": "projects/attention-to-detail-v2/thumbs/S22/pexels_8482865_team-inspecting-finished-constru.jpg",
+          "preview": "projects/attention-to-detail-v2/previews/S22/pexels_8482865_team-inspecting-finished-constru.jpg"
         }
       ]
     }
