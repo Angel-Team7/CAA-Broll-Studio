@@ -1717,27 +1717,37 @@
     {
       "id": "S14",
       "script_line": "Behind on a Friday deadline \u2014 an unfinished report, time running out.",
-      "visual_direction": "Deadline pressure \u2014 a calendar/planner with a Friday deadline, an unfinished report, a clock. Emotion: time pressure.",
+      "visual_direction": "Deadline pressure on site \u2014 a worker checking the time / a foreman looking at the schedule, a marked deadline. Emotion: time pressure.",
       "clips": [
         {
-          "id": "pexels_8086203_wall-planner-friday",
+          "id": "pexels_16943545_worker-checking-time-site",
           "type": "video",
           "source": "pexels",
-          "author": "Ron Lach",
+          "author": "Videas Cl",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-writing-using-a-ballpen-8086203/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_8086203_wall-planner-friday.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_8086203_wall-planner-friday.mp4"
+          "page_url": "https://www.pexels.com/video/a-man-in-a-safety-vest-is-using-a-laptop-16943545/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_16943545_worker-checking-time-site.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_16943545_worker-checking-time-site.mp4"
         },
         {
-          "id": "pexels_8322046_clock-ticking-desk",
+          "id": "pexels_6036763_builder-checking-watch",
           "type": "video",
           "source": "pexels",
-          "author": "Tima Miroshnichenko",
+          "author": "Gustavo Fring",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/close-up-view-of-an-alarm-clock-8322046/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_8322046_clock-ticking-desk.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_8322046_clock-ticking-desk.mp4"
+          "page_url": "https://www.pexels.com/video/a-man-wearing-goggles-and-holding-a-drill-6036763/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_6036763_builder-checking-watch.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_6036763_builder-checking-watch.mp4"
+        },
+        {
+          "id": "pexels_8964292_foreman-looking-at-schedule",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_8964292_foreman-looking-at-schedule.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_8964292_foreman-looking-at-schedule.mp4"
         },
         {
           "id": "pexels_9057559_calendar-deadline-mark",
@@ -1750,36 +1760,6 @@
           "preview": "projects/extreme-ownership-v2/previews/S14/pexels_9057559_calendar-deadline-mark.mp4"
         },
         {
-          "id": "pixabay_15629_clock-ticking-desk",
-          "type": "video",
-          "source": "pixabay",
-          "author": "wastedgeneration",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-15629/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pixabay_15629_clock-ticking-desk.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pixabay_15629_clock-ticking-desk.mp4"
-        },
-        {
-          "id": "pixabay_21223_calendar-deadline-mark",
-          "type": "video",
-          "source": "pixabay",
-          "author": "ha11ok",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-21223/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pixabay_21223_calendar-deadline-mark.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pixabay_21223_calendar-deadline-mark.mp4"
-        },
-        {
-          "id": "pexels_28891928_wall-planner-friday",
-          "type": "image",
-          "source": "pexels",
-          "author": "K",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/whiteboard-calendar-highlighting-fall-break-in-october-28891928/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_28891928_wall-planner-friday.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_28891928_wall-planner-friday.jpg"
-        },
-        {
           "id": "pexels_7580856_calendar-deadline-mark",
           "type": "image",
           "source": "pexels",
@@ -1790,22 +1770,52 @@
           "preview": "projects/extreme-ownership-v2/previews/S14/pexels_7580856_calendar-deadline-mark.jpg"
         },
         {
-          "id": "pixabay_4720870_calendar-deadline-mark",
+          "id": "pexels_8961025_foreman-looking-at-schedule",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pexels_8961025_foreman-looking-at-schedule.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S14/pexels_8961025_foreman-looking-at-schedule.jpg"
+        },
+        {
+          "id": "pixabay_410328_builder-checking-watch",
           "type": "image",
           "source": "pixabay",
-          "author": "eliza28diamonds",
+          "author": "JESHOOTS-com",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/year-end-new-calendar-done-over-4720870/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pixabay_4720870_calendar-deadline-mark.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S14/pixabay_4720870_calendar-deadline-mark.jpg"
+          "page_url": "https://pixabay.com/photos/waiting-wristwatch-man-watch-410328/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S14/pixabay_410328_builder-checking-watch.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S14/pixabay_410328_builder-checking-watch.jpg"
         }
       ]
     },
     {
       "id": "S15",
       "script_line": "One person stays quiet and hopes the problem disappears \u2014 avoiding it.",
-      "visual_direction": "A worker avoiding messages / ignoring the phone, hoping a problem goes away. Emotion: avoidance, quiet worry.",
+      "visual_direction": "A worker avoiding messages / ignoring the phone on site, hoping a problem goes away. Emotion: avoidance, quiet worry.",
       "clips": [
+        {
+          "id": "pexels_5434217_worker-walking-away-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Everett Bumstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_5434217_worker-walking-away-site.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_5434217_worker-walking-away-site.mp4"
+        },
+        {
+          "id": "pexels_6474150_construction-worker-smartphone",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-using-smartphone-6474150/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_6474150_construction-worker-smartphone.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_6474150_construction-worker-smartphone.mp4"
+        },
         {
           "id": "pexels_6943539_stressed-looking-at-phone",
           "type": "video",
@@ -1817,34 +1827,24 @@
           "preview": "projects/extreme-ownership-v2/previews/S15/pexels_6943539_stressed-looking-at-phone.mp4"
         },
         {
-          "id": "pexels_6963828_ignoring-phone-notification",
+          "id": "pexels_7567654_tradesman-phone-break",
           "type": "video",
           "source": "pexels",
-          "author": "cottonbro studio",
+          "author": "Ivan S",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-snoozing-her-alarm-6963828/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_6963828_ignoring-phone-notification.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_6963828_ignoring-phone-notification.mp4"
+          "page_url": "https://www.pexels.com/video/man-using-cellphone-while-drinking-coffee-7567654/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_7567654_tradesman-phone-break.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_7567654_tradesman-phone-break.mp4"
         },
         {
-          "id": "pexels_6963977_avoiding-phone-call",
+          "id": "pexels_8488312_hi-vis-worker-phone",
           "type": "video",
           "source": "pexels",
-          "author": "Mikhail Nilov",
+          "author": "Kindel Media",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-having-a-conversation-on-the-phone-6963977/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_6963977_avoiding-phone-call.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_6963977_avoiding-phone-call.mp4"
-        },
-        {
-          "id": "pexels_8134512_worried-worker-phone",
-          "type": "video",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-disappointed-man-talking-on-the-phone-8134512/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8134512_worried-worker-phone.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8134512_worried-worker-phone.mp4"
+          "page_url": "https://www.pexels.com/video/a-woman-wearing-ear-plugs-8488312/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8488312_hi-vis-worker-phone.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8488312_hi-vis-worker-phone.mp4"
         },
         {
           "id": "pixabay_202987_worried-worker-phone",
@@ -1857,24 +1857,14 @@
           "preview": "projects/extreme-ownership-v2/previews/S15/pixabay_202987_worried-worker-phone.mp4"
         },
         {
-          "id": "pexels_1552636_avoiding-phone-call",
+          "id": "pexels_31387781_worker-ignoring-phone-site",
           "type": "image",
           "source": "pexels",
-          "author": "Engin Akyurt",
+          "author": "CK Seng",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/selective-focus-photography-of-woman-holding-smartphone-on-her-left-ear-1552636/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_1552636_avoiding-phone-call.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_1552636_avoiding-phone-call.jpg"
-        },
-        {
-          "id": "pexels_4467783_worried-worker-phone",
-          "type": "image",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/anxious-woman-having-phone-conversation-in-office-4467783/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_4467783_worried-worker-phone.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_4467783_worried-worker-phone.jpg"
+          "page_url": "https://www.pexels.com/photo/construction-worker-at-urban-project-site-31387781/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_31387781_worker-ignoring-phone-site.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_31387781_worker-ignoring-phone-site.jpg"
         },
         {
           "id": "pexels_7821755_ignoring-phone-notification",
@@ -1885,6 +1875,26 @@
           "page_url": "https://www.pexels.com/photo/cellphone-on-a-wooden-surface-7821755/",
           "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_7821755_ignoring-phone-notification.jpg",
           "preview": "projects/extreme-ownership-v2/previews/S15/pexels_7821755_ignoring-phone-notification.jpg"
+        },
+        {
+          "id": "pexels_8961703_builder-avoiding-call",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-t-shirt-and-blue-denim-jeans-holding-a-concrete-wall-8961703/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8961703_builder-avoiding-call.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8961703_builder-avoiding-call.jpg"
+        },
+        {
+          "id": "wikimedia_54702893_builder-avoiding-call",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Acabashi\n\n\nObject location51\u00b0\u00a035\u2032\u00a045.97\u2033\u00a0N, 0\u00b0\u00a004\u2032\u00a054.68\u2033\u00a0W\u00a0View this and other nearby images on: OpenStreetMap 51.596103;   -0.081856",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Broadwater_Farm_Primary_School_(The_Willow),_redevelopment_116_-_July_2011.jpg",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/wikimedia_54702893_builder-avoiding-call.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/wikimedia_54702893_builder-avoiding-call.jpg"
         }
       ]
     }
