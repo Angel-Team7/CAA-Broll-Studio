@@ -109,6 +109,7 @@ function render() {
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
           <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Needs different"}</button>
+          <button class="addbroll" data-scene="${sc.id}">＋ Add B-roll</button>
         </div>
       </div>
       <div class="grid">${cards || '<p class="muted">No clips.</p>'}</div>
@@ -118,6 +119,8 @@ function render() {
     el.onclick = e => { if (e.target.tagName !== "A") toggle(el); });
   wrap.querySelectorAll(".reshoot").forEach(el =>
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
+  wrap.querySelectorAll(".addbroll").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
   wrap.querySelectorAll("video").forEach(v => {
     const p = v.closest(".media");
     p.onmouseenter = () => v.play().catch(()=>{});
@@ -126,14 +129,19 @@ function render() {
   updateStat();
 }
 
+const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded" };
 function card(sid, c, on) {
   const media = c.type === "video"
-    ? `<video src="${c.preview}" muted loop playsinline preload="none" poster="${c.thumb}"></video>`
+    ? `<video src="${c.preview}" muted loop playsinline preload="none" poster="${c.thumb || ""}"></video>`
     : `<img src="${c.preview}" loading="lazy" alt="">`;
-  const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${c.source}</a>` : c.source;
+  const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
+  const srcTag = SRC_LABEL[c.source]
+    ? `<span class="srcbadge src-${c.source}">${SRC_LABEL[c.source]}</span>` : "";
+  const note = c.note ? `<div class="clip-note">${esc(c.note)}</div>` : "";
   return `<div class="card ${on ? "on" : ""} type-${c.type === "video" ? "vid" : "img"}"
       data-id="${c.id}" data-scene="${sid}">
-    <div class="media"><span class="badge">${c.type}</span><span class="tick">✓</span>${media}</div>
+    <div class="media"><span class="badge">${c.type}</span>${srcTag}<span class="tick">✓</span>${media}</div>
+    ${note}
     <div class="foot"><span>${src}</span><span class="lic">${esc(c.license || "")}</span></div>
   </div>`;
 }
@@ -207,6 +215,74 @@ async function ghPut(path, text, message) {
   for (let attempt = 0; attempt < 4; attempt++) {
     const existing = await ghGet(path).catch(() => null);
     const body = { message, content: b64(text), branch: gh.branch || "main" };
+    if (existing && existing.sha) body.sha = existing.sha;
+    const r = await fetch(ghUrl(path), { method: "PUT",
+      headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" },
+      body: JSON.stringify(body) });
+    if (r.ok) return r.json();
+    if (r.status === 409 && attempt < 3) { await new Promise(res => setTimeout(res, 500)); continue; }
+    throw new Error("PUT " + r.status);
+  }
+}
+
+// ---- Per-scene B-roll upload: commit the file, then register it in scenes.json ----
+// Reuses the connected GitHub token (contents:write). Uploaded clips are tagged
+// source:"upload" so they're identifiable next to gathered + HeyGen footage.
+function startUpload(sid) {
+  if (!(gh && gh.token)) { toast("Connect GitHub first (top-right) to upload B-roll."); return; }
+  let inp = $("#uploader");
+  if (!inp) {
+    inp = document.createElement("input");
+    inp.type = "file"; inp.id = "uploader"; inp.accept = "video/*,image/*";
+    inp.style.display = "none"; document.body.appendChild(inp);
+  }
+  inp.onchange = () => { const f = inp.files[0]; inp.value = ""; if (f) handleUpload(sid, f); };
+  inp.click();
+}
+
+async function handleUpload(sid, file) {
+  const isVid = file.type.startsWith("video") || /\.(mp4|webm|mov|m4v)$/i.test(file.name);
+  if (file.size > 40 * 1024 * 1024) {
+    if (!confirm(`"${file.name}" is ${(file.size/1048576).toFixed(0)} MB. Large files upload slowly through the GitHub API and bloat the repo. Continue?`)) return;
+  }
+  const clean = file.name.replace(/[^a-zA-Z0-9._-]/g, "-").replace(/-+/g, "-");
+  const hasExt = isVid ? /\.(mp4|webm|mov|m4v)$/i.test(clean) : /\.(jpe?g|png|webp|gif)$/i.test(clean);
+  const stem = `upload_${Date.now()}_${clean}${hasExt ? "" : (isVid ? ".mp4" : ".jpg")}`;
+  const path = `projects/${state.slug}/previews/${sid}/${stem}`;
+  toast("Uploading " + file.name + " …");
+  try {
+    const b64content = await fileToB64(file);
+    await ghPutBinary(path, b64content, `cockpit: add B-roll to ${state.slug} ${sid}`);
+    const clip = { id: stem.replace(/\.[^.]+$/, ""), type: isVid ? "video" : "image",
+      source: "upload", author: "Uploaded", license: "Client-provided",
+      note: file.name, thumb: isVid ? "" : path, preview: path };
+    // register in the repo's scenes.json (read latest, prepend, write back)
+    const got = await ghGet(`projects/${state.slug}/scenes.json`);
+    const data = JSON.parse(decodeURIComponent(escape(atob(got.content))));
+    const scenes = data.scenes || data;
+    (scenes.find(s => s.id === sid) || {}).clips.unshift(clip);
+    await ghPut(`projects/${state.slug}/scenes.json`, JSON.stringify(data, null, 2),
+      `cockpit: register uploaded B-roll (${sid})`);
+    // reflect immediately in the current view
+    const ls = state.data.scenes.find(s => s.id === sid); if (ls) ls.clips.unshift(clip);
+    render();
+    toast(`✓ Added to ${sid} — visible to everyone after the Pages rebuild`);
+  } catch (e) { toast("Upload failed: " + e.message); }
+}
+
+function fileToB64(file) {
+  return new Promise((res, rej) => {
+    const r = new FileReader();
+    r.onload = () => res(String(r.result).split(",")[1]); // strip the data: URL prefix
+    r.onerror = () => rej(new Error("read error")); r.readAsDataURL(file);
+  });
+}
+
+// Like ghPut but the content is already base64 (binary media, not text).
+async function ghPutBinary(path, b64content, message) {
+  for (let attempt = 0; attempt < 4; attempt++) {
+    const existing = await ghGet(path).catch(() => null);
+    const body = { message, content: b64content, branch: gh.branch || "main" };
     if (existing && existing.sha) body.sha = existing.sha;
     const r = await fetch(ghUrl(path), { method: "PUT",
       headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github+json" },

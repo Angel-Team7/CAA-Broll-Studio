@@ -1,12 +1,12 @@
 {
   "project": "belong-module1",
-  "title": "Belong \u2014 Module 1: My Story & Craveiral",
+  "title": "Belong — Module 1: My Story & Craveiral",
   "generated": "2026-07-12",
   "scenes": [
     {
       "id": "S01",
       "script_line": "[B1] Hello. I'm Pedro. If you're watching this, you're part of Craveiral.",
-      "visual_direction": "Warm opening: a team member walks onto a rustic farm property at first light, greeted with a smile \u2014 the feeling of joining something. Medium shot, golden light.",
+      "visual_direction": "Warm opening: a team member walks onto a rustic farm property at first light, greeted with a smile — the feeling of joining something. Medium shot, golden light.",
       "clips": [
         {
           "id": "pexels_10885104_golden-hour-farmhouse",
@@ -32,7 +32,7 @@
           "id": "pixabay_66810_farm-worker-morning",
           "type": "video",
           "source": "pixabay",
-          "author": "JustY\u00f8u",
+          "author": "JustYøu",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-66810/",
           "thumb": "projects/belong-module1/thumbs/S01/pixabay_66810_farm-worker-morning.jpg",
@@ -52,9 +52,19 @@
     },
     {
       "id": "S02",
-      "script_line": "[B2] Twenty years ago I was a lawyer in Lisbon \u2014 and I kept dreaming about land, about getting my hands in the soil.",
+      "script_line": "[B2] Twenty years ago I was a lawyer in Lisbon — and I kept dreaming about land, about getting my hands in the soil.",
       "visual_direction": "Contrast beat: Lisbon city rooftops / a man gazing from an office window, then cut-away to hands sinking into dark soil. City-to-land longing.",
       "clips": [
+        {
+          "id": "heygen_28b241f696454dada337902353a1fa",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Lisbon city aerial",
+          "thumb": "projects/belong-module1/thumbs/S02/heygen_28b241f696454dada337902353a1fa.jpg",
+          "preview": "projects/belong-module1/previews/S02/heygen_28b241f696454dada337902353a1fa.mp4"
+        },
         {
           "id": "coverr_bafkoypmb4_hands-in-soil",
           "type": "video",
@@ -69,7 +79,7 @@
           "id": "pexels_11902307_lisbon-rooftops",
           "type": "video",
           "source": "pexels",
-          "author": "ed1toR \u3164",
+          "author": "ed1toR ㅤ",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/drone-footage-of-friends-partying-on-a-terrace-11902307/",
           "thumb": "projects/belong-module1/thumbs/S02/pexels_11902307_lisbon-rooftops.jpg",
@@ -99,14 +109,24 @@
     },
     {
       "id": "S03",
-      "script_line": "[B3] I found a field of carnations \u2014 cravos. A field of carnations is a 'craveiral'. That's where the name comes from.",
+      "script_line": "[B3] I found a field of carnations — cravos. A field of carnations is a 'craveiral'. That's where the name comes from.",
       "visual_direction": "The origin image: a wild field of carnations in bloom, close detail of the flowers swaying, honest and unstyled. Detail shot. [image-beat]",
       "clips": [
+        {
+          "id": "heygen_en_-pink-carnation-field",
+          "type": "image",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Pink carnation field",
+          "thumb": "projects/belong-module1/thumbs/S03/heygen_en_-pink-carnation-field.jpg",
+          "preview": "projects/belong-module1/previews/S03/heygen_en_-pink-carnation-field.jpg"
+        },
         {
           "id": "pexels_14215801_flower-field-breeze",
           "type": "video",
           "source": "pexels",
-          "author": "\ub300\uc815 \uae40",
+          "author": "대정 김",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/flowers-swaying-on-wind-14215801/",
           "thumb": "projects/belong-module1/thumbs/S03/pexels_14215801_flower-field-breeze.jpg",
@@ -159,6 +179,36 @@
       "script_line": "[B4] Nine hectares of wild Alentejo, minutes from the most beautiful unspoiled coastline in Europe. Skies so clear guests stop to point at the stars.",
       "visual_direction": "Sweeping wide: raw Alentejo landscape rolling to dramatic Atlantic cliffs, then a starry night sky over dark countryside. Epic but natural. [image-beat]",
       "clips": [
+        {
+          "id": "heygen_e78061b00470491e95edf9e8daac27",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Wild Alentejo aerial",
+          "thumb": "projects/belong-module1/thumbs/S04/heygen_e78061b00470491e95edf9e8daac27.jpg",
+          "preview": "projects/belong-module1/previews/S04/heygen_e78061b00470491e95edf9e8daac27.mp4"
+        },
+        {
+          "id": "heygen_0a98415eb0ea45d097ba5e7742790e",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Atlantic coastline at sunset",
+          "thumb": "projects/belong-module1/thumbs/S04/heygen_0a98415eb0ea45d097ba5e7742790e.jpg",
+          "preview": "projects/belong-module1/previews/S04/heygen_0a98415eb0ea45d097ba5e7742790e.mp4"
+        },
+        {
+          "id": "heygen_837ec9664d854b2e81ea56921fb95a",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Clear night sky over pines",
+          "thumb": "projects/belong-module1/thumbs/S04/heygen_837ec9664d854b2e81ea56921fb95a.jpg",
+          "preview": "projects/belong-module1/previews/S04/heygen_837ec9664d854b2e81ea56921fb95a.mp4"
+        },
         {
           "id": "coverr_93o8xv5alh_portugal-coast-aerial",
           "type": "video",
@@ -287,7 +337,7 @@
           "id": "pixabay_73847_soil-texture-hands",
           "type": "video",
           "source": "pixabay",
-          "author": "JustY\u00f8u",
+          "author": "JustYøu",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-73847/",
           "thumb": "projects/belong-module1/thumbs/S06/pixabay_73847_soil-texture-hands.jpg",
@@ -317,14 +367,24 @@
     },
     {
       "id": "S07",
-      "script_line": "[B7] We have nine hectares. Only four percent is constructed. The emptiness, the space, the silence at night \u2014 that IS the product.",
-      "visual_direction": "Wide aerial over a green estate: a few low buildings dissolved in orchards, gardens and pine forest \u2014 vast open space around tiny footprint.",
+      "script_line": "[B7] We have nine hectares. Only four percent is constructed. The emptiness, the space, the silence at night — that IS the product.",
+      "visual_direction": "Wide aerial over a green estate: a few low buildings dissolved in orchards, gardens and pine forest — vast open space around tiny footprint.",
       "clips": [
+        {
+          "id": "heygen_rural-retreats-sunset",
+          "type": "image",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "A few houses in vast land (4%)",
+          "thumb": "projects/belong-module1/thumbs/S07/heygen_rural-retreats-sunset.jpg",
+          "preview": "projects/belong-module1/previews/S07/heygen_rural-retreats-sunset.jpg"
+        },
         {
           "id": "pexels_31846104_eco-resort-nature-aerial",
           "type": "video",
           "source": "pexels",
-          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "author": "David Pickup |  Advertising & Marketing  🇬🇧",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/aerial-view-of-green-forest-and-resort-buildings-31846104/",
           "thumb": "projects/belong-module1/thumbs/S07/pexels_31846104_eco-resort-nature-aerial.jpg",
@@ -334,7 +394,7 @@
           "id": "pexels_32092702_orchard-aerial-view",
           "type": "video",
           "source": "pexels",
-          "author": "To\u00e0n BDS",
+          "author": "Toàn BDS",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/aerial-view-of-lush-farmland-and-rural-landscape-32092702/",
           "thumb": "projects/belong-module1/thumbs/S07/pexels_32092702_orchard-aerial-view.jpg",
@@ -344,7 +404,7 @@
           "id": "pexels_33749474_farm-estate-aerial",
           "type": "video",
           "source": "pexels",
-          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "author": "David Pickup |  Advertising & Marketing  🇬🇧",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/arial-view-of-countryside-estate-with-lush-forest-33749474/",
           "thumb": "projects/belong-module1/thumbs/S07/pexels_33749474_farm-estate-aerial.jpg",
@@ -364,9 +424,19 @@
     },
     {
       "id": "S08",
-      "script_line": "[B8] Thirty-eight houses connected by raised wooden walkways \u2014 raised wood lets the land breathe underneath.",
+      "script_line": "[B8] Thirty-eight houses connected by raised wooden walkways — raised wood lets the land breathe underneath.",
       "visual_direction": "Ground-level tracking along a raised wooden boardwalk winding through greenery toward whitewashed minimalist houses; plants growing beneath the slats.",
       "clips": [
+        {
+          "id": "heygen_a118ede1af0848c58b690eb239a6d0",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Raised walkway through pine forest",
+          "thumb": "projects/belong-module1/thumbs/S08/heygen_a118ede1af0848c58b690eb239a6d0.jpg",
+          "preview": "projects/belong-module1/previews/S08/heygen_a118ede1af0848c58b690eb239a6d0.mp4"
+        },
         {
           "id": "pexels_12444633_wooden-boardwalk-nature",
           "type": "video",
@@ -391,7 +461,7 @@
           "id": "pexels_35650634_eco-lodge-walkway",
           "type": "video",
           "source": "pexels",
-          "author": "NGUY\u1ec4N TH\u00c0NH NH\u01a0N",
+          "author": "NGUYỄN THÀNH NHƠN",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/aerial-view-of-rustic-huts-in-green-landscape-35650634/",
           "thumb": "projects/belong-module1/thumbs/S08/pexels_35650634_eco-lodge-walkway.jpg",
@@ -411,9 +481,19 @@
     },
     {
       "id": "S09",
-      "script_line": "[B9] We do not own the land \u2014 we belong to it, for a while. Our job is to leave it better than we found it.",
+      "script_line": "[B9] We do not own the land — we belong to it, for a while. Our job is to leave it better than we found it.",
       "visual_direction": "The heart of the module: a lone figure walking slowly through an olive grove or cork oak field at golden hour, unhurried, at home in the land. Wide. [image-beat]",
       "clips": [
+        {
+          "id": "heygen_393cb3dcb4454462b8d5a724695155",
+          "type": "video",
+          "source": "heygen",
+          "author": "HeyGen (client)",
+          "license": "Client-provided",
+          "note": "Hands tending a seedling in soil",
+          "thumb": "projects/belong-module1/thumbs/S09/heygen_393cb3dcb4454462b8d5a724695155.jpg",
+          "preview": "projects/belong-module1/previews/S09/heygen_393cb3dcb4454462b8d5a724695155.mp4"
+        },
         {
           "id": "pexels_34817022_olive-grove-golden-hour",
           "type": "video",
@@ -468,7 +548,7 @@
     },
     {
       "id": "S10",
-      "script_line": "[B10] I've watched a child collect eggs and run to show her parents like treasure. So yes \u2014 every single day, it's worth it.",
+      "script_line": "[B10] I've watched a child collect eggs and run to show her parents like treasure. So yes — every single day, it's worth it.",
       "visual_direction": "Payoff: a child gathering fresh eggs on a farm, running with joy; a couple beneath pines; village workers smiling. Warm human close. [image-beat]",
       "clips": [
         {
