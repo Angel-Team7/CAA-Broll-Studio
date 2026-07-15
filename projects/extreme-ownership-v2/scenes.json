@@ -1,7 +1,7 @@
 {
   "project": "extreme-ownership-v2",
   "title": "Extreme Ownership V2",
-  "generated": "2026-07-13",
+  "generated": "2026-07-15",
   "scenes": [
     {
       "id": "S01",
@@ -1797,14 +1797,24 @@
       "visual_direction": "A worker avoiding messages / ignoring the phone on site, hoping a problem goes away. Emotion: avoidance, quiet worry.",
       "clips": [
         {
-          "id": "pexels_5434217_worker-walking-away-site",
+          "id": "pexels_36917627_site-worker-phone-ringing-pocket",
           "type": "video",
           "source": "pexels",
-          "author": "Everett Bumstead",
+          "author": "Paul Bill",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_5434217_worker-walking-away-site.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_5434217_worker-walking-away-site.mp4"
+          "page_url": "https://www.pexels.com/video/construction-workers-resting-on-subway-train-36917627/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_36917627_site-worker-phone-ringing-pocket.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_36917627_site-worker-phone-ringing-pocket.mp4"
+        },
+        {
+          "id": "pexels_5544576_construction-worker-frustrated-h",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-shouting-in-grief-5544576/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_5544576_construction-worker-frustrated-h.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_5544576_construction-worker-frustrated-h.mp4"
         },
         {
           "id": "pexels_6474150_construction-worker-smartphone",
@@ -1827,14 +1837,14 @@
           "preview": "projects/extreme-ownership-v2/previews/S15/pexels_6943539_stressed-looking-at-phone.mp4"
         },
         {
-          "id": "pexels_7567654_tradesman-phone-break",
+          "id": "pexels_7006122_hi-vis-worker-head-in-hands",
           "type": "video",
           "source": "pexels",
-          "author": "Ivan S",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-using-cellphone-while-drinking-coffee-7567654/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_7567654_tradesman-phone-break.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_7567654_tradesman-phone-break.mp4"
+          "page_url": "https://www.pexels.com/video/woman-working-at-auto-repair-shop-7006122/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_7006122_hi-vis-worker-head-in-hands.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_7006122_hi-vis-worker-head-in-hands.mp4"
         },
         {
           "id": "pexels_8488312_hi-vis-worker-phone",
@@ -1847,24 +1857,24 @@
           "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8488312_hi-vis-worker-phone.mp4"
         },
         {
-          "id": "pixabay_202987_worried-worker-phone",
+          "id": "pexels_8963855_hard-hat-worker-rubbing-neck-str",
           "type": "video",
-          "source": "pixabay",
-          "author": "Natures_Embrace",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-202987/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pixabay_202987_worried-worker-phone.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pixabay_202987_worried-worker-phone.mp4"
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-construction-worker-putting-on-goggles-8963855/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8963855_hard-hat-worker-rubbing-neck-str.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8963855_hard-hat-worker-rubbing-neck-str.mp4"
         },
         {
-          "id": "pexels_31387781_worker-ignoring-phone-site",
+          "id": "pexels_35300838_worker-walking-away-unfinished",
           "type": "image",
           "source": "pexels",
-          "author": "CK Seng",
+          "author": "Mahmut Y\u0131lmaz",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/construction-worker-at-urban-project-site-31387781/",
-          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_31387781_worker-ignoring-phone-site.jpg",
-          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_31387781_worker-ignoring-phone-site.jpg"
+          "page_url": "https://www.pexels.com/photo/construction-worker-on-building-framework-in-denizli-35300838/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_35300838_worker-walking-away-unfinished.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_35300838_worker-walking-away-unfinished.jpg"
         },
         {
           "id": "pexels_7821755_ignoring-phone-notification",
@@ -1875,6 +1885,26 @@
           "page_url": "https://www.pexels.com/photo/cellphone-on-a-wooden-surface-7821755/",
           "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_7821755_ignoring-phone-notification.jpg",
           "preview": "projects/extreme-ownership-v2/previews/S15/pexels_7821755_ignoring-phone-notification.jpg"
+        },
+        {
+          "id": "pexels_8961524_construction-worker-stressed-alo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-wearing-gloves-8961524/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8961524_construction-worker-stressed-alo.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8961524_construction-worker-stressed-alo.jpg"
+        },
+        {
+          "id": "pexels_8961528_hard-hat-worker-rubbing-neck-str",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-yellow-hard-hat-8961528/",
+          "thumb": "projects/extreme-ownership-v2/thumbs/S15/pexels_8961528_hard-hat-worker-rubbing-neck-str.jpg",
+          "preview": "projects/extreme-ownership-v2/previews/S15/pexels_8961528_hard-hat-worker-rubbing-neck-str.jpg"
         },
         {
           "id": "pexels_8961703_builder-avoiding-call",
