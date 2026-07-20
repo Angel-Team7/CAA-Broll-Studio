@@ -1,7 +1,7 @@
 {
   "project": "be-a-lifelong-learner-v2",
-  "updated": "2026-07-17T15:11:59.882Z",
-  "ready": true,
+  "updated": "2026-07-20T14:04:49.204Z",
+  "ready": false,
   "approved": {
     "S02": [
       "pexels_7479053_craftsman-focused",
@@ -53,11 +53,11 @@
     "S14": [
       "pexels_6913247_mentor-reassuring-young-worker"
     ],
-    "S16": [
-      "wikimedia_169574048_learning-next-skill-construction"
-    ],
     "S15": [
       "pexels_32525235_thoughtful-worker-golden-hour"
+    ],
+    "S16b": [
+      "pexels_8487986_happy-construction-worker-smilin"
     ]
   },
   "needs_broll": {
