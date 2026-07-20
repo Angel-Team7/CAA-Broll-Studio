@@ -1,7 +1,7 @@
 {
   "project": "be-a-lifelong-learner-v2",
-  "title": "Be a Lifelong Learner",
-  "generated": "2026-07-17",
+  "title": "Be A Lifelong Learner V2",
+  "generated": "2026-07-20",
   "scenes": [
     {
       "id": "S01",
@@ -1892,6 +1892,63 @@
           "page_url": "https://commons.wikimedia.org/wiki/File:US_Navy_Seabees_work_at_a_construction_site_in_Cartagena,_Colombia_(8585896).jpg",
           "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16/wikimedia_169574048_learning-next-skill-construction.jpg",
           "preview": "projects/be-a-lifelong-learner-v2/previews/S16/wikimedia_169574048_learning-next-skill-construction.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S16b",
+      "script_line": "[S16] Closing \u2014 happy worker, openness to learn (pick one)",
+      "visual_direction": "A happy, confident worker \u2014 open and eager to learn.",
+      "clips": [
+        {
+          "id": "pexels_5020289_young-worker-curious-learning-me",
+          "type": "video",
+          "source": "pexels",
+          "author": "AI25.Studio  Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-looking-at-laptop-screens-5020289/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16b/pexels_5020289_young-worker-curious-learning-me.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S16b/pexels_5020289_young-worker-curious-learning-me.mp4"
+        },
+        {
+          "id": "pexels_7484287_worker-eager-to-learn-new-skill",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-men-in-overalls-standing-while-looking-at-the-camera-7484287/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16b/pexels_7484287_worker-eager-to-learn-new-skill.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S16b/pexels_7484287_worker-eager-to-learn-new-skill.mp4"
+        },
+        {
+          "id": "pexels_8487986_happy-construction-worker-smilin",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/handywoman-holding-a-drill-and-hammer-8487986/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16b/pexels_8487986_happy-construction-worker-smilin.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S16b/pexels_8487986_happy-construction-worker-smilin.mp4"
+        },
+        {
+          "id": "pexels_8487987_young-builder-smiling-proud",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-wearing-a-hardhat-and-holding-a-hand-drill-and-a-hammer-8487987/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16b/pexels_8487987_young-builder-smiling-proud.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S16b/pexels_8487987_young-builder-smiling-proud.mp4"
+        },
+        {
+          "id": "pexels_9034495_worker-nodding-listening-to-ment",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-nodding-while-listening-to-a-coworker-9034495/",
+          "thumb": "projects/be-a-lifelong-learner-v2/thumbs/S16b/pexels_9034495_worker-nodding-listening-to-ment.jpg",
+          "preview": "projects/be-a-lifelong-learner-v2/previews/S16b/pexels_9034495_worker-nodding-listening-to-ment.mp4"
         }
       ]
     }
