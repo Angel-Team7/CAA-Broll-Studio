@@ -1,105 +1,8 @@
 {
   "project": "communication-dont-assume-clarify-v2",
   "title": "Communication: Don't Assume. Clarify.",
-  "generated": "2026-07-03",
+  "generated": "2026-07-21",
   "scenes": [
-    {
-      "id": "S01",
-      "script_line": "Opener \u2014 great teams communicate; an inviting start to the day on site.",
-      "visual_direction": "Warm, inviting establishing shot: crew arriving / foreman greeting the team at sunrise. Belonging, fresh start. Wide + a welcoming detail.",
-      "clips": [
-        {
-          "id": "pexels_12421171_construction-site-sunrise",
-          "type": "video",
-          "source": "pexels",
-          "author": "Vladyslav Huivyk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/sunrise-over-city-under-clouds-12421171/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_12421171_construction-site-sunrise.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_12421171_construction-site-sunrise.mp4"
-        },
-        {
-          "id": "pexels_20652974_crew-morning-site",
-          "type": "video",
-          "source": "pexels",
-          "author": "Tamoor Ahmed",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/engineers-discussing-360-drone-20652974/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_20652974_crew-morning-site.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_20652974_crew-morning-site.mp4"
-        },
-        {
-          "id": "pexels_5434220_workers-walking-site-morning",
-          "type": "video",
-          "source": "pexels",
-          "author": "Everett Bumstead",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_5434220_workers-walking-site-morning.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_5434220_workers-walking-site-morning.mp4"
-        },
-        {
-          "id": "pixabay_41055_construction-site-sunrise",
-          "type": "video",
-          "source": "pixabay",
-          "author": "LadislavBur",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-41055/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pixabay_41055_construction-site-sunrise.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pixabay_41055_construction-site-sunrise.mp4"
-        },
-        {
-          "id": "pexels_18111488_crew-arriving-site",
-          "type": "image",
-          "source": "pexels",
-          "author": "Joaquin Carfagna",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/construction-workers-on-a-street-18111488/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_18111488_crew-arriving-site.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_18111488_crew-arriving-site.jpg"
-        },
-        {
-          "id": "pexels_5637555_building-site-dawn",
-          "type": "image",
-          "source": "pexels",
-          "author": "Stefan Grage",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/cranes-near-building-during-sunset-5637555/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_5637555_building-site-dawn.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_5637555_building-site-dawn.jpg"
-        },
-        {
-          "id": "pexels_8961066_workers-walking-site-morning",
-          "type": "image",
-          "source": "pexels",
-          "author": "Mikael Blomkvist",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/construction-workers-walking-near-metal-railings-8961066/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pexels_8961066_workers-walking-site-morning.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pexels_8961066_workers-walking-site-morning.jpg"
-        },
-        {
-          "id": "pixabay_3739392_construction-site-sunrise",
-          "type": "image",
-          "source": "pixabay",
-          "author": "DenisDoukhan",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/city-construction-site-crane-sunset-3739392/",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/pixabay_3739392_construction-site-sunrise.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/pixabay_3739392_construction-site-sunrise.jpg"
-        },
-        {
-          "id": "wikimedia_34438261_sunrise-construction-site",
-          "type": "image",
-          "source": "wikimedia",
-          "author": "Dietmar Rabich",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File:Senden,_Dortmund-Ems-Kanal_--_2014_--_2991-5.jpg",
-          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S01/wikimedia_34438261_sunrise-construction-site.jpg",
-          "preview": "projects/communication-dont-assume-clarify-v2/previews/S01/wikimedia_34438261_sunrise-construction-site.jpg"
-        }
-      ]
-    },
     {
       "id": "S02",
       "script_line": "\"Please move the chairs\" \u2014 one task, different pictures. The assumption problem.",
@@ -901,6 +804,244 @@
           "page_url": "https://www.pexels.com/photo/a-real-estate-agent-having-a-deal-with-clients-8482547/",
           "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S13/pexels_8482547_builders-group-smiling.jpg",
           "preview": "projects/communication-dont-assume-clarify-v2/previews/S13/pexels_8482547_builders-group-smiling.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "script_line": "[S14] Good communicators notice what has NOT been said \u2014 unclear deadline, changed priority, missing information.",
+      "visual_direction": "A worker reviews incomplete instructions, notices missing details, asks the manager to confirm deadline/priority/result.",
+      "clips": [
+        {
+          "id": "pexels_26281515_worker-reading-plans-confused",
+          "type": "video",
+          "source": "pexels",
+          "author": "Rozariyo Reodan",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/confusion-26281515/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S14/pexels_26281515_worker-reading-plans-confused.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S14/pexels_26281515_worker-reading-plans-confused.mp4"
+        },
+        {
+          "id": "pexels_7191312_incomplete-instructions-checking",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-finger-pointing-a-document-while-talking-7191312/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S14/pexels_7191312_incomplete-instructions-checking.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S14/pexels_7191312_incomplete-instructions-checking.mp4"
+        },
+        {
+          "id": "pixabay_121409_checking-unclear-document-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-121409/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S14/pixabay_121409_checking-unclear-document-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S14/pixabay_121409_checking-unclear-document-site.mp4"
+        },
+        {
+          "id": "pexels_8482546_worker-reading-plans-confused",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-wearing-a-hard-hat-and-a-face-mask-while-looking-at-a-blueprint-8482546/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S14/pexels_8482546_worker-reading-plans-confused.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S14/pexels_8482546_worker-reading-plans-confused.jpg"
+        },
+        {
+          "id": "pexels_8961111_worker-asking-manager-clarificat",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-talking-to-the-woman-wearing-safety-vest-8961111/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S14/pexels_8961111_worker-asking-manager-clarificat.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S14/pexels_8961111_worker-asking-manager-clarificat.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "script_line": "[S15] A task can begin correctly and still move in the wrong direction \u2014 priorities change, new information arrives.",
+      "visual_direction": "A worker progresses, receives updated information, checks with the manager, adjusts before wasting time.",
+      "clips": [
+        {
+          "id": "pexels_37335840_worker-adjusting-work-plan",
+          "type": "video",
+          "source": "pexels",
+          "author": "YIHAI LASER",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/technicians-assembling-high-precision-welding-tool-37335840/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pexels_37335840_worker-adjusting-work-plan.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pexels_37335840_worker-adjusting-work-plan.mp4"
+        },
+        {
+          "id": "pexels_8964772_foreman-redirecting-worker-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pexels_8964772_foreman-redirecting-worker-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pexels_8964772_foreman-redirecting-worker-site.mp4"
+        },
+        {
+          "id": "pixabay_202987_worker-receiving-phone-update-si",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pixabay_202987_worker-receiving-phone-update-si.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pixabay_202987_worker-receiving-phone-update-si.mp4"
+        },
+        {
+          "id": "pixabay_85350_foreman-redirecting-worker-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-85350/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pixabay_85350_foreman-redirecting-worker-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pixabay_85350_foreman-redirecting-worker-site.mp4"
+        },
+        {
+          "id": "pexels_8482551_worker-adjusting-work-plan",
+          "type": "image",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/backview-of-an-engineer-holding-a-floor-plan-on-a-wall-8482551/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pexels_8482551_worker-adjusting-work-plan.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pexels_8482551_worker-adjusting-work-plan.jpg"
+        },
+        {
+          "id": "pexels_8961025_foreman-redirecting-worker-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S15/pexels_8961025_foreman-redirecting-worker-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/pexels_8961025_foreman-redirecting-worker-site.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S16",
+      "script_line": "[S16] Some messages should be sent immediately; some discussed face to face; some written down.",
+      "visual_direction": "Sequence: urgent phone call \u2192 face-to-face discussion \u2192 written instructions confirmed by message.",
+      "clips": [
+        {
+          "id": "pexels_6474392_worker-texting-phone-hardhat",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/interior-designer-using-application-on-smartphone-6474392/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S16/pexels_6474392_worker-texting-phone-hardhat.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/pexels_6474392_worker-texting-phone-hardhat.mp4"
+        },
+        {
+          "id": "pexels_7191312_writing-instructions-clipboard-s",
+          "type": "video",
+          "source": "pexels",
+          "author": "Pavel Danilyuk",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-finger-pointing-a-document-while-talking-7191312/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S16/pexels_7191312_writing-instructions-clipboard-s.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/pexels_7191312_writing-instructions-clipboard-s.mp4"
+        },
+        {
+          "id": "pixabay_202987_worker-texting-phone-hardhat",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Natures_Embrace",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202987/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S16/pixabay_202987_worker-texting-phone-hardhat.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/pixabay_202987_worker-texting-phone-hardhat.mp4"
+        },
+        {
+          "id": "pexels_8961068_worker-texting-phone-hardhat",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-with-yellow-hardhat-smiling-at-a-woman-with-ppe-8961068/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S16/pexels_8961068_worker-texting-phone-hardhat.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/pexels_8961068_worker-texting-phone-hardhat.jpg"
+        },
+        {
+          "id": "pexels_9064789_writing-instructions-clipboard-s",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-wearing-black-bracelet-filling-up-the-form-on-the-clipboard-9064789/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S16/pexels_9064789_writing-instructions-clipboard-s.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/pexels_9064789_writing-instructions-clipboard-s.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S17",
+      "script_line": "[S17] The message is not complete when it is spoken \u2014 it is complete when it is UNDERSTOOD.",
+      "visual_direction": "One worker gives instructions, the second repeats them back correctly, then completes the task as intended.",
+      "clips": [
+        {
+          "id": "pexels_8963857_worker-nodding-confirming-instru",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S17/pexels_8963857_worker-nodding-confirming-instru.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/pexels_8963857_worker-nodding-confirming-instru.mp4"
+        },
+        {
+          "id": "pexels_8964376_two-workers-confirming-task-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S17/pexels_8964376_two-workers-confirming-task-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/pexels_8964376_two-workers-confirming-task-site.mp4"
+        },
+        {
+          "id": "pixabay_121409_thumbs-up-understood-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "D-GM",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-121409/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S17/pixabay_121409_thumbs-up-understood-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/pixabay_121409_thumbs-up-understood-site.mp4"
+        },
+        {
+          "id": "pexels_8961524_worker-nodding-confirming-instru",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-wearing-gloves-8961524/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S17/pexels_8961524_worker-nodding-confirming-instru.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/pexels_8961524_worker-nodding-confirming-instru.jpg"
+        },
+        {
+          "id": "pexels_8961552_two-workers-confirming-task-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-and-blue-denim-jeans-standing-beside-scaffolding-8961552/",
+          "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S17/pexels_8961552_two-workers-confirming-task-site.jpg",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/pexels_8961552_two-workers-confirming-task-site.jpg"
         }
       ]
     }
