@@ -940,6 +940,16 @@
       "visual_direction": "A worker progresses, receives updated information, checks with the manager, adjusts before wasting time.",
       "clips": [
         {
+          "id": "upload_1784645162686_d8c62e1225c747a7b9462876c070c9d0",
+          "type": "video",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "d8c62e1225c747a7b9462876c070c9d0.mp4",
+          "thumb": "",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S15/upload_1784645162686_d8c62e1225c747a7b9462876c070c9d0.mp4"
+        },
+        {
           "id": "pexels_37335840_worker-adjusting-work-plan",
           "type": "video",
           "source": "pexels",
