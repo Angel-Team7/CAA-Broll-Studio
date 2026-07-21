@@ -1084,6 +1084,16 @@
       "visual_direction": "One worker gives instructions, the second repeats them back correctly, then completes the task as intended.",
       "clips": [
         {
+          "id": "upload_1784645481823_bac886fb2b98434db663d2fbc8922664",
+          "type": "video",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "bac886fb2b98434db663d2fbc8922664.mp4",
+          "thumb": "",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S17/upload_1784645481823_bac886fb2b98434db663d2fbc8922664.mp4"
+        },
+        {
           "id": "pexels_8963857_worker-nodding-confirming-instru",
           "type": "video",
           "source": "pexels",
