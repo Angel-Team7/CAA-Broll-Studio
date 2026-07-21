@@ -1017,6 +1017,16 @@
       "visual_direction": "Sequence: urgent phone call → face-to-face discussion → written instructions confirmed by message.",
       "clips": [
         {
+          "id": "upload_1784645211785_6350f095b79f4e55a5006115d02d049a",
+          "type": "video",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "6350f095b79f4e55a5006115d02d049a.mp4",
+          "thumb": "",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S16/upload_1784645211785_6350f095b79f4e55a5006115d02d049a.mp4"
+        },
+        {
           "id": "pexels_6474392_worker-texting-phone-hardhat",
           "type": "video",
           "source": "pexels",
