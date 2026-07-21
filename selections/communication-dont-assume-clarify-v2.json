@@ -1,6 +1,6 @@
 {
   "project": "communication-dont-assume-clarify-v2",
-  "updated": "2026-07-21T15:17:39.477Z",
+  "updated": "2026-07-21T15:18:09.700Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -50,6 +50,9 @@
     ],
     "S05": [
       "upload_1784646730221_19c1e6cfd3264531a1c29a1d60d0470a"
+    ],
+    "S02": [
+      "upload_1784647030660_1dd2515a216d4c5b92ff1315046d78c3"
     ]
   },
   "needs_broll": {
