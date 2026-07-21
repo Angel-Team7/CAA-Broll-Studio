@@ -5,9 +5,19 @@
   "scenes": [
     {
       "id": "S02",
-      "script_line": "\"Please move the chairs\" \u2014 one task, different pictures. The assumption problem.",
-      "visual_direction": "Instructions given but read differently \u2014 mixed signals. Foreman pointing / worker looking puzzled.",
+      "script_line": "\"Please move the chairs\" — one task, different pictures. The assumption problem.",
+      "visual_direction": "Instructions given but read differently — mixed signals. Foreman pointing / worker looking puzzled.",
       "clips": [
+        {
+          "id": "upload_1784643240327_S01-Imagine-this...-",
+          "type": "video",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "S01 — “Imagine this...”.mp4",
+          "thumb": "",
+          "preview": "projects/communication-dont-assume-clarify-v2/previews/S02/upload_1784643240327_S01-Imagine-this...-.mp4"
+        },
         {
           "id": "pexels_4254313_setting-up-chairs",
           "type": "video",
@@ -72,8 +82,8 @@
     },
     {
       "id": "S03",
-      "script_line": "Great teams don't just work hard \u2014 great teams communicate clearly.",
-      "visual_direction": "Crew talking things through together on site \u2014 alignment, shared understanding. Group huddle.",
+      "script_line": "Great teams don't just work hard — great teams communicate clearly.",
+      "visual_direction": "Crew talking things through together on site — alignment, shared understanding. Group huddle.",
       "clips": [
         {
           "id": "pexels_36034181_team-meeting-site",
@@ -140,7 +150,7 @@
     {
       "id": "S04",
       "script_line": "Communication saves time, prevents mistakes, builds trust, and people enjoy working together.",
-      "visual_direction": "Two workers collaborating well \u2014 trust and camaraderie. Handshake / working side by side smiling.",
+      "visual_direction": "Two workers collaborating well — trust and camaraderie. Handshake / working side by side smiling.",
       "clips": [
         {
           "id": "pexels_8487956_construction-workers-smiling",
@@ -186,7 +196,7 @@
           "id": "pixabay_73847_builders-shaking-hands",
           "type": "video",
           "source": "pixabay",
-          "author": "JustY\u00f8u",
+          "author": "JustYøu",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-73847/",
           "thumb": "projects/communication-dont-assume-clarify-v2/thumbs/S04/pixabay_73847_builders-shaking-hands.jpg",
@@ -196,8 +206,8 @@
     },
     {
       "id": "S05",
-      "script_line": "The biggest mistake is that we assume \u2014 we assume we understood.",
-      "visual_direction": "A worker heading off on his own assumption \u2014 quiet uncertainty. Solo builder pausing, unsure.",
+      "script_line": "The biggest mistake is that we assume — we assume we understood.",
+      "visual_direction": "A worker heading off on his own assumption — quiet uncertainty. Solo builder pausing, unsure.",
       "clips": [
         {
           "id": "pexels_34572325_pensive-construction-worker",
@@ -243,8 +253,8 @@
     },
     {
       "id": "S06",
-      "script_line": "The solution is simple \u2014 ask clarifying questions.",
-      "visual_direction": "An apprentice asking the foreman a question, engaging \u2014 curiosity, professionalism. Pointing at the work.",
+      "script_line": "The solution is simple — ask clarifying questions.",
+      "visual_direction": "An apprentice asking the foreman a question, engaging — curiosity, professionalism. Pointing at the work.",
       "clips": [
         {
           "id": "pexels_32244795_site-supervisor-worker",
@@ -290,8 +300,8 @@
     },
     {
       "id": "S07",
-      "script_line": "\"What does success look like? When do you need it finished?\" \u2014 checking the plan.",
-      "visual_direction": "Builders reviewing the drawings/blueprint together \u2014 clarity, shared picture. Plans on site.",
+      "script_line": "\"What does success look like? When do you need it finished?\" — checking the plan.",
+      "visual_direction": "Builders reviewing the drawings/blueprint together — clarity, shared picture. Plans on site.",
       "clips": [
         {
           "id": "pexels_5384977_reviewing-drawings-site",
@@ -387,8 +397,8 @@
     },
     {
       "id": "S08",
-      "script_line": "\"Clean the kitchen\" \u2014 everyone worked hard but had a different picture of the job.",
-      "visual_direction": "A crew each busy on their own part of the same job \u2014 effort without alignment. Several workers, different tasks.",
+      "script_line": "\"Clean the kitchen\" — everyone worked hard but had a different picture of the job.",
+      "visual_direction": "A crew each busy on their own part of the same job — effort without alignment. Several workers, different tasks.",
       "clips": [
         {
           "id": "pexels_4109498_wiping-kitchen-counter",
@@ -465,7 +475,7 @@
     {
       "id": "S09",
       "script_line": "A two-minute conversation saves thirty minutes of confusion.",
-      "visual_direction": "Two workers a quick chat by the materials / wheelbarrow \u2014 efficient, easy. Brief exchange.",
+      "visual_direction": "Two workers a quick chat by the materials / wheelbarrow — efficient, easy. Brief exchange.",
       "clips": [
         {
           "id": "pexels_5977119_colleagues-talking-outside",
@@ -511,8 +521,8 @@
     },
     {
       "id": "S10",
-      "script_line": "Great people listen so they can understand \u2014 stop, look, listen, don't interrupt.",
-      "visual_direction": "Foreman listening attentively to a worker, eye contact \u2014 attention, respect. One talking, one truly listening.",
+      "script_line": "Great people listen so they can understand — stop, look, listen, don't interrupt.",
+      "visual_direction": "Foreman listening attentively to a worker, eye contact — attention, respect. One talking, one truly listening.",
       "clips": [
         {
           "id": "pexels_8964376_two-hivis-workers-talking",
@@ -538,8 +548,8 @@
     },
     {
       "id": "S11",
-      "script_line": "Check in \u2014 send a message, walk over: \"This is my progress. Am I on track?\"",
-      "visual_direction": "A worker with a tablet/phone ON SITE, or foreman checking progress \u2014 staying connected.",
+      "script_line": "Check in — send a message, walk over: \"This is my progress. Am I on track?\"",
+      "visual_direction": "A worker with a tablet/phone ON SITE, or foreman checking progress — staying connected.",
       "clips": [
         {
           "id": "pexels_5100043_checking-work-progress",
@@ -645,8 +655,8 @@
     },
     {
       "id": "S12",
-      "script_line": "Bad news doesn't get better with time \u2014 speak up early so people can help.",
-      "visual_direction": "A worker pointing out a problem to the foreman \u2014 honesty, courage. Raising a concern, inspecting an issue together.",
+      "script_line": "Bad news doesn't get better with time — speak up early so people can help.",
+      "visual_direction": "A worker pointing out a problem to the foreman — honesty, courage. Raising a concern, inspecting an issue together.",
       "clips": [
         {
           "id": "pexels_34572319_builder-pointing-issue",
@@ -732,8 +742,8 @@
     },
     {
       "id": "S13",
-      "script_line": "Because great teams don't guess \u2014 great teams communicate. Respect, trust, success.",
-      "visual_direction": "Crew together, satisfied, in front of the finished work \u2014 pride, unity. Wide team + warm detail.",
+      "script_line": "Because great teams don't guess — great teams communicate. Respect, trust, success.",
+      "visual_direction": "Crew together, satisfied, in front of the finished work — pride, unity. Wide team + warm detail.",
       "clips": [
         {
           "id": "pexels_11798561_happy-construction-crew",
@@ -809,7 +819,7 @@
     },
     {
       "id": "S14",
-      "script_line": "[S14] Good communicators notice what has NOT been said \u2014 unclear deadline, changed priority, missing information.",
+      "script_line": "[S14] Good communicators notice what has NOT been said — unclear deadline, changed priority, missing information.",
       "visual_direction": "A worker reviews incomplete instructions, notices missing details, asks the manager to confirm deadline/priority/result.",
       "clips": [
         {
@@ -866,7 +876,7 @@
     },
     {
       "id": "S15",
-      "script_line": "[S15] A task can begin correctly and still move in the wrong direction \u2014 priorities change, new information arrives.",
+      "script_line": "[S15] A task can begin correctly and still move in the wrong direction — priorities change, new information arrives.",
       "visual_direction": "A worker progresses, receives updated information, checks with the manager, adjusts before wasting time.",
       "clips": [
         {
@@ -934,7 +944,7 @@
     {
       "id": "S16",
       "script_line": "[S16] Some messages should be sent immediately; some discussed face to face; some written down.",
-      "visual_direction": "Sequence: urgent phone call \u2192 face-to-face discussion \u2192 written instructions confirmed by message.",
+      "visual_direction": "Sequence: urgent phone call → face-to-face discussion → written instructions confirmed by message.",
       "clips": [
         {
           "id": "pexels_6474392_worker-texting-phone-hardhat",
@@ -990,7 +1000,7 @@
     },
     {
       "id": "S17",
-      "script_line": "[S17] The message is not complete when it is spoken \u2014 it is complete when it is UNDERSTOOD.",
+      "script_line": "[S17] The message is not complete when it is spoken — it is complete when it is UNDERSTOOD.",
       "visual_direction": "One worker gives instructions, the second repeats them back correctly, then completes the task as intended.",
       "clips": [
         {
