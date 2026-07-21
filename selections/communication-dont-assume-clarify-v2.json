@@ -1,6 +1,6 @@
 {
   "project": "communication-dont-assume-clarify-v2",
-  "updated": "2026-07-06T00:17:09.887Z",
+  "updated": "2026-07-21T11:58:10.156Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -41,11 +41,17 @@
     ],
     "S12": [
       "pexels_5977452_two-people-serious-talk"
+    ],
+    "S14": [
+      "pexels_7191312_incomplete-instructions-checking"
     ]
   },
   "needs_broll": {
     "S02": "cmon 10 brolls with context it says remove the chair.",
     "S08": "more contextual please it says clean the kitchen",
-    "S12": "oh man c'mon more if you dont find workers find from other environment"
+    "S12": "oh man c'mon more if you dont find workers find from other environment",
+    "S17": "NOT RELEVANT AT AT ALL PLEAse delete these and replace with 5 more",
+    "S16": "please delete these and generate and replace with 10 more.",
+    "S15": "deltele all these and generate more relevant. replace them with 10 more"
   }
 }
