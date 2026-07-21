@@ -1,7 +1,7 @@
 {
   "project": "communication-dont-assume-clarify-v2",
-  "updated": "2026-07-21T11:58:19.697Z",
-  "ready": true,
+  "updated": "2026-07-21T15:17:35.043Z",
+  "ready": false,
   "approved": {
     "S01": [
       "pexels_20652974_crew-morning-site"
@@ -12,38 +12,44 @@
     "S04": [
       "pixabay_342533_worker-cooperation"
     ],
-    "S05": [
-      "pixabay_216597_worker-pausing-thinking"
-    ],
     "S06": [
       "pexels_4280923_worker-asking-supervisor"
     ],
-    "S07": [
-      "pexels_5384977_reviewing-drawings-site"
-    ],
-    "S09": [
-      "pexels_6193855_two-workmates-talking"
-    ],
-    "S10": [
-      "pexels_8964376_two-hivis-workers-talking"
-    ],
     "S11": [
-      "pexels_8963676_site-manager-tablet"
+      "upload_1784644836142_S11-For-example...-So...-if-I-understand-correctly...-"
     ],
     "S13": [
       "pexels_1325717_construction-team-portrait"
     ],
-    "S02": [
-      "pexels_7508814_carrying-chairs"
-    ],
     "S08": [
       "pexels_8627107_commercial-kitchen-cleaning"
     ],
-    "S12": [
-      "pexels_5977452_two-people-serious-talk"
-    ],
     "S14": [
       "pexels_7191312_incomplete-instructions-checking"
+    ],
+    "S17": [
+      "upload_1784645481823_bac886fb2b98434db663d2fbc8922664"
+    ],
+    "S16": [
+      "upload_1784645211785_6350f095b79f4e55a5006115d02d049a"
+    ],
+    "S15": [
+      "upload_1784645162686_d8c62e1225c747a7b9462876c070c9d0"
+    ],
+    "S12": [
+      "upload_1784645868522_a5b3485c1f394f548118fa9cf65282bb"
+    ],
+    "S09": [
+      "upload_1784644551717_S09-A-short-conversation-at-the-beginning...-could-prevent-confusion-later.-"
+    ],
+    "S07": [
+      "upload_1784644064562_S07-Imagine-your-manager-says...-Please-clean-the-kitchen.-"
+    ],
+    "S10": [
+      "upload_1784645996218_S05-The-solution-is-simple...-Clarify.-Ask-questions.-"
+    ],
+    "S05": [
+      "upload_1784646730221_19c1e6cfd3264531a1c29a1d60d0470a"
     ]
   },
   "needs_broll": {
