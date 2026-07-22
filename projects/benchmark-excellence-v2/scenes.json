@@ -1,11 +1,11 @@
 {
   "project": "benchmark-excellence-v2",
   "title": "Benchmark Excellence",
-  "generated": "2026-07-03",
+  "generated": "2026-07-22",
   "scenes": [
     {
       "id": "S01",
-      "script_line": "Opener \u2014 inviting morning; a worker starting the day on site/grounds.",
+      "script_line": "Worker begins the day with a slow, inefficient method \u2014 an hour on what takes ten minutes.",
       "visual_direction": "Construction/land dawn; bricklayer, landscaper, surveyor beginning work.",
       "clips": [
         {
@@ -102,7 +102,7 @@
     },
     {
       "id": "S02",
-      "script_line": "Who already does this better than me?",
+      "script_line": "Pause, observe a more skilled colleague \u2014 'Who already does this better than me?'",
       "visual_direction": "Observing a highly skilled construction/land worker.",
       "clips": [
         {
@@ -189,7 +189,7 @@
     },
     {
       "id": "S03",
-      "script_line": "The best know how to learn \u2014 hands learning a technique.",
+      "script_line": "This is called BENCHMARKING \u2014 finding an excellent example and learning from it; compare your result with the excellent one.",
       "visual_direction": "Construction/land hands learning: laying bricks, plastering, planting.",
       "clips": [
         {
@@ -256,7 +256,7 @@
     },
     {
       "id": "S04",
-      "script_line": "The greatest still have coaches \u2014 a foreman guiding a worker.",
+      "script_line": "The greatest still have coaches \u2014 an experienced foreman demonstrates a better technique.",
       "visual_direction": "Foreman/site supervisor guiding a worker; gardener teaching.",
       "clips": [
         {
@@ -343,7 +343,7 @@
     },
     {
       "id": "S05",
-      "script_line": "Excellence leaves clues \u2014 study the proven example / plans.",
+      "script_line": "Excellence leaves clues \u2014 study proven plans, measurements, a high-quality example.",
       "visual_direction": "Surveying, measuring, reading site plans, setting out foundations.",
       "clips": [
         {
@@ -450,7 +450,7 @@
     },
     {
       "id": "S06",
-      "script_line": "Someone does it better \u2014 ask them to show you.",
+      "script_line": "The best example is close \u2014 clearer emails, better file systems, excellent customer interactions.",
       "visual_direction": "A builder/landscaper demonstrating a technique to a colleague.",
       "clips": [
         {
@@ -557,7 +557,7 @@
     },
     {
       "id": "S07",
-      "script_line": "Maybe a tablet can help \u2014 check before you commit.",
+      "script_line": "AI helps you benchmark \u2014 'Can this be clearer? Simpler? Is there a better method?' on a tablet.",
       "visual_direction": "Worker with tablet/phone/clipboard ON a construction or land site.",
       "clips": [
         {
@@ -634,7 +634,7 @@
     },
     {
       "id": "S08",
-      "script_line": "Benchmarking needs humility \u2014 'teach me.'",
+      "script_line": "Benchmarking requires humility \u2014 put pride aside, ask, listen. 'Teach me.'",
       "visual_direction": "A young apprentice on site, receptive/listening.",
       "clips": [
         {
@@ -741,7 +741,7 @@
     },
     {
       "id": "S09",
-      "script_line": "Two build the same thing \u2014 one asks the best first.",
+      "script_line": "Two workers build the same table \u2014 SETUP: one starts immediately, the other first asks the experienced carpenter.",
       "visual_direction": "Building work: bricklaying, blockwork, timber framing, hands-on construction.",
       "clips": [
         {
@@ -848,7 +848,84 @@
     },
     {
       "id": "S10",
-      "script_line": "Ask someone excellent to review it \u2014 a quick feedback check.",
+      "script_line": "COMPARISON: first worker struggles 4 hours with mistakes; second works efficiently 3 hours, better table.",
+      "visual_direction": "Split-contrast: one worker struggling/redoing errors vs another working smoothly producing a better result.",
+      "clips": [
+        {
+          "id": "pexels_27876429_carpenter-redoing-error",
+          "type": "video",
+          "source": "pexels",
+          "author": "Videas Cl",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-measuring-a-piece-of-wood-with-a-ruler-27876429/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_27876429_carpenter-redoing-error.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_27876429_carpenter-redoing-error.mp4"
+        },
+        {
+          "id": "pexels_34508148_comparing-two-finished-tables",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jonathan David",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/efficient-wood-sanding-with-electric-sander-34508148/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_34508148_comparing-two-finished-tables.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_34508148_comparing-two-finished-tables.mp4"
+        },
+        {
+          "id": "pexels_6789895_efficient-carpenter-smooth-work",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/working-on-wood-using-plane-6789895/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_6789895_efficient-carpenter-smooth-work.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_6789895_efficient-carpenter-smooth-work.mp4"
+        },
+        {
+          "id": "pexels_7480740_worker-struggling-mistakes-works",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-back-view-of-a-man-working-7480740/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_7480740_worker-struggling-mistakes-works.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_7480740_worker-struggling-mistakes-works.mp4"
+        },
+        {
+          "id": "pexels_7484291_frustrated-worker-workbench",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-creating-furniture-7484291/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_7484291_frustrated-worker-workbench.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_7484291_frustrated-worker-workbench.mp4"
+        },
+        {
+          "id": "pexels_32357250_carpenter-redoing-error",
+          "type": "image",
+          "source": "pexels",
+          "author": "HONG SON",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/carpenter-working-with-wood-on-industrial-saw-32357250/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_32357250_carpenter-redoing-error.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_32357250_carpenter-redoing-error.jpg"
+        },
+        {
+          "id": "pexels_7109999_efficient-carpenter-smooth-work",
+          "type": "image",
+          "source": "pexels",
+          "author": "Daniel Reche",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-using-a-wood-planer-7109999/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_7109999_efficient-carpenter-smooth-work.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_7109999_efficient-carpenter-smooth-work.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "script_line": "The presentation example \u2014 compare with a strong example, get feedback from someone skilled.",
       "visual_direction": "Inspection/feedback on a construction or land site.",
       "clips": [
         {
@@ -858,8 +935,8 @@
           "author": "cottonbro studio",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/looking-at-different-wood-planks-7505109/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_7505109_quality-check-wall.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_7505109_quality-check-wall.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_7505109_quality-check-wall.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_7505109_quality-check-wall.mp4"
         },
         {
           "id": "pexels_8471051_builders-inspecting",
@@ -868,8 +945,8 @@
           "author": "Thirdman",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8471051_builders-inspecting.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8471051_builders-inspecting.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8471051_builders-inspecting.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8471051_builders-inspecting.mp4"
         },
         {
           "id": "pexels_8964376_two-workers-reviewing",
@@ -878,8 +955,8 @@
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8964376_two-workers-reviewing.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8964376_two-workers-reviewing.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8964376_two-workers-reviewing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8964376_two-workers-reviewing.mp4"
         },
         {
           "id": "pexels_8964792_foreman-reviewing",
@@ -888,8 +965,8 @@
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8964792_foreman-reviewing.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8964792_foreman-reviewing.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8964792_foreman-reviewing.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8964792_foreman-reviewing.mp4"
         },
         {
           "id": "pexels_8964793_site-inspection",
@@ -898,8 +975,8 @@
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pexels_8964793_site-inspection.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pexels_8964793_site-inspection.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8964793_site-inspection.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8964793_site-inspection.mp4"
         },
         {
           "id": "pixabay_85350_foreman-checking",
@@ -908,14 +985,14 @@
           "author": "AlexKopeykin",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-85350/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S10/pixabay_85350_foreman-checking.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S10/pixabay_85350_foreman-checking.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pixabay_85350_foreman-checking.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S11/pixabay_85350_foreman-checking.mp4"
         }
       ]
     },
     {
-      "id": "S11",
-      "script_line": "Good work hard; great learn fast \u2014 mastery on site.",
+      "id": "S12",
+      "script_line": "Good people work hard, great people learn fast \u2014 skilled efficient work guided by a clear standard.",
       "visual_direction": "A skilled, confident construction/land worker at the peak of their craft.",
       "clips": [
         {
@@ -925,8 +1002,8 @@
           "author": "Hleb U",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/a-person-sawing-the-wood-10517204/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_10517204_landscaper-skilled.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_10517204_landscaper-skilled.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_10517204_landscaper-skilled.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_10517204_landscaper-skilled.mp4"
         },
         {
           "id": "pexels_13367963_mason-craftsmanship",
@@ -935,8 +1012,8 @@
           "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/worker-drilling-brick-wall-13367963/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_13367963_mason-craftsmanship.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_13367963_mason-craftsmanship.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_13367963_mason-craftsmanship.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_13367963_mason-craftsmanship.mp4"
         },
         {
           "id": "pexels_2675565_roofer-working",
@@ -945,8 +1022,8 @@
           "author": "Jorge Serrano",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/a-hard-working-man-2675565/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_2675565_roofer-working.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_2675565_roofer-working.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_2675565_roofer-working.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_2675565_roofer-working.mp4"
         },
         {
           "id": "pexels_31458496_concrete-finisher",
@@ -955,8 +1032,8 @@
           "author": "Ethan Raven",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/concrete-slab-construction-process-close-up-31458496/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_31458496_concrete-finisher.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_31458496_concrete-finisher.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_31458496_concrete-finisher.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_31458496_concrete-finisher.mp4"
         },
         {
           "id": "pexels_8964929_confident-builder",
@@ -965,8 +1042,8 @@
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/a-man-wearing-a-hard-hat-8964929/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8964929_confident-builder.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8964929_confident-builder.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8964929_confident-builder.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8964929_confident-builder.mp4"
         },
         {
           "id": "pixabay_148541_concrete-finisher",
@@ -975,8 +1052,8 @@
           "author": "Joko_Narimo",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-148541/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pixabay_148541_concrete-finisher.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pixabay_148541_concrete-finisher.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pixabay_148541_concrete-finisher.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pixabay_148541_concrete-finisher.mp4"
         },
         {
           "id": "pexels_33404080_roofer-working",
@@ -985,8 +1062,8 @@
           "author": "Ryan  Stephens",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/roof-installation-on-brick-house-in-fort-worth-33404080/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_33404080_roofer-working.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_33404080_roofer-working.jpg"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_33404080_roofer-working.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_33404080_roofer-working.jpg"
         },
         {
           "id": "pexels_4920276_landscaper-skilled",
@@ -995,8 +1072,8 @@
           "author": "Gustavo Fring",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/a-man-trimming-plants-in-a-garden-4920276/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_4920276_landscaper-skilled.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_4920276_landscaper-skilled.jpg"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_4920276_landscaper-skilled.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_4920276_landscaper-skilled.jpg"
         },
         {
           "id": "pexels_8961155_confident-builder",
@@ -1005,14 +1082,14 @@
           "author": "Mikael Blomkvist",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/man-in-blue-polo-shirt-and-yellow-hard-hat-smiling-8961155/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S11/pexels_8961155_confident-builder.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S11/pexels_8961155_confident-builder.jpg"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8961155_confident-builder.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8961155_confident-builder.jpg"
         }
       ]
     },
     {
-      "id": "S12",
-      "script_line": "A culture where sharing knowledge is normal \u2014 the crew.",
+      "id": "S13",
+      "script_line": "Asking for help is normal, sharing knowledge is normal \u2014 the team teaches one another.",
       "visual_direction": "A construction/landscaping crew helping each other on site.",
       "clips": [
         {
@@ -1022,8 +1099,8 @@
           "author": "Magda Ehlers",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/a-group-of-men-are-digging-in-the-dirt-24800203/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_24800203_landscaping-crew.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_24800203_landscaping-crew.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_24800203_landscaping-crew.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_24800203_landscaping-crew.mp4"
         },
         {
           "id": "pexels_3620821_crew-lifting",
@@ -1032,8 +1109,8 @@
           "author": "Steve B",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/people-on-a-construction-elevator-lift-3620821/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_3620821_crew-lifting.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_3620821_crew-lifting.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_3620821_crew-lifting.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_3620821_crew-lifting.mp4"
         },
         {
           "id": "pexels_5434220_construction-crew",
@@ -1042,8 +1119,8 @@
           "author": "Everett Bumstead",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_5434220_construction-crew.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_5434220_construction-crew.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_5434220_construction-crew.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_5434220_construction-crew.mp4"
         },
         {
           "id": "pexels_8818338_builders-lifting-beam-together-t",
@@ -1052,8 +1129,8 @@
           "author": "Ron Lach",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8818338_builders-lifting-beam-together-t.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8818338_builders-lifting-beam-together-t.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_8818338_builders-lifting-beam-together-t.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_8818338_builders-lifting-beam-together-t.mp4"
         },
         {
           "id": "pexels_8821264_builders-team",
@@ -1062,8 +1139,8 @@
           "author": "Ron Lach",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pexels_8821264_builders-team.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pexels_8821264_builders-team.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_8821264_builders-team.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_8821264_builders-team.mp4"
         },
         {
           "id": "pixabay_342533_workers-cooperating",
@@ -1072,14 +1149,81 @@
           "author": "MrWashingt0n",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-342533/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S12/pixabay_342533_workers-cooperating.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S12/pixabay_342533_workers-cooperating.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_342533_workers-cooperating.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_342533_workers-cooperating.mp4"
         }
       ]
     },
     {
-      "id": "S13",
-      "script_line": "Excellence is a habit \u2014 pride in a finished build.",
+      "id": "S14",
+      "script_line": "Before starting an important task, ask: who does this well? What does an excellent result look like?",
+      "visual_direction": "A worker reviews an excellent example/reference before beginning an important task \u2014 learn first, then act.",
+      "clips": [
+        {
+          "id": "pexels_35379333_worker-preparing-before-starting",
+          "type": "video",
+          "source": "pexels",
+          "author": "S\u00c0I G\u00d2N C\u00d4NG TY CP S\u1ea2N XU\u1ea4T - TH\u01af\u01a0NG M\u1ea0I",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/nighttime-construction-site-with-concrete-mixer-35379333/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pexels_35379333_worker-preparing-before-starting.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pexels_35379333_worker-preparing-before-starting.mp4"
+        },
+        {
+          "id": "pexels_8255726_worker-studying-example-before-t",
+          "type": "video",
+          "source": "pexels",
+          "author": "ArtHouse Studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-writing-in-sticky-note-8255726/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pexels_8255726_worker-studying-example-before-t.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pexels_8255726_worker-studying-example-before-t.mp4"
+        },
+        {
+          "id": "pexels_8482292_reviewing-reference-plans-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Thirdman",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-explaining-the-floor-plan-to-the-clients-8482292/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pexels_8482292_reviewing-reference-plans-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pexels_8482292_reviewing-reference-plans-site.mp4"
+        },
+        {
+          "id": "pixabay_3741_reviewing-reference-plans-site",
+          "type": "video",
+          "source": "pixabay",
+          "author": "bellergy",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-3741/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pixabay_3741_reviewing-reference-plans-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pixabay_3741_reviewing-reference-plans-site.mp4"
+        },
+        {
+          "id": "pexels_3862384_reviewing-reference-plans-site",
+          "type": "image",
+          "source": "pexels",
+          "author": "ThisIsEngineering",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/civil-engineer-planning-dam-3862384/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pexels_3862384_reviewing-reference-plans-site.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pexels_3862384_reviewing-reference-plans-site.jpg"
+        },
+        {
+          "id": "pexels_8961624_builder-examining-model-example",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-in-black-shirt-carrying-wooden-planks-8961624/",
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S14/pexels_8961624_builder-examining-model-example.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S14/pexels_8961624_builder-examining-model-example.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "script_line": "Never stop benchmarking \u2014 closing montage: observing, asking, learning, improving, pride in excellent work.",
       "visual_direction": "A finished house/wall/landscaped grounds; proud builder.",
       "clips": [
         {
@@ -1089,18 +1233,8 @@
           "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/the-new-homes-are-being-built-on-a-site-27831586/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_27831586_new-build-home.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_27831586_new-build-home.mp4"
-        },
-        {
-          "id": "pexels_35281467_landscaped-garden",
-          "type": "video",
-          "source": "pexels",
-          "author": "Sandeep  Solanki",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/gardener-mowing-backyard-lawn-in-summer-35281467/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_35281467_landscaped-garden.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_35281467_landscaped-garden.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pexels_27831586_new-build-home.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pexels_27831586_new-build-home.mp4"
         },
         {
           "id": "pexels_7065837_completed-brickwork",
@@ -1109,8 +1243,8 @@
           "author": "Laura Tancredi",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/push-in-shot-of-brick-wall-7065837/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_7065837_completed-brickwork.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_7065837_completed-brickwork.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pexels_7065837_completed-brickwork.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pexels_7065837_completed-brickwork.mp4"
         },
         {
           "id": "pexels_7493223_craftsman-smiling",
@@ -1119,8 +1253,8 @@
           "author": "cottonbro studio",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/man-inside-a-workshop-looking-at-camera-7493223/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_7493223_craftsman-smiling.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_7493223_craftsman-smiling.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pexels_7493223_craftsman-smiling.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pexels_7493223_craftsman-smiling.mp4"
         },
         {
           "id": "pixabay_206315_finished-construction",
@@ -1129,18 +1263,8 @@
           "author": "fokus_media",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-206315/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_206315_finished-construction.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_206315_finished-construction.mp4"
-        },
-        {
-          "id": "pixabay_242228_landscaped-garden",
-          "type": "video",
-          "source": "pixabay",
-          "author": "KIMDAEJEUNG",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-242228/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_242228_landscaped-garden.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_242228_landscaped-garden.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pixabay_206315_finished-construction.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pixabay_206315_finished-construction.mp4"
         },
         {
           "id": "pixabay_307719_new-build-home",
@@ -1149,8 +1273,8 @@
           "author": "aerofotografialincoln",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-307719/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pixabay_307719_new-build-home.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pixabay_307719_new-build-home.mp4"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pixabay_307719_new-build-home.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pixabay_307719_new-build-home.mp4"
         },
         {
           "id": "pexels_29821815_landscaped-garden",
@@ -1159,8 +1283,8 @@
           "author": "Piotr Wojnowski",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/intricate-topiary-design-in-lush-garden-setting-29821815/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_29821815_landscaped-garden.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_29821815_landscaped-garden.jpg"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pexels_29821815_landscaped-garden.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pexels_29821815_landscaped-garden.jpg"
         },
         {
           "id": "pexels_32383134_finished-house",
@@ -1169,18 +1293,8 @@
           "author": "hawraz Arts",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/modern-architectural-home-in-erbil-iraq-32383134/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_32383134_finished-house.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_32383134_finished-house.jpg"
-        },
-        {
-          "id": "pexels_7937748_new-build-home",
-          "type": "image",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-man-posting-a-for-sale-sign-near-a-house-7937748/",
-          "thumb": "projects/benchmark-excellence-v2/thumbs/S13/pexels_7937748_new-build-home.jpg",
-          "preview": "projects/benchmark-excellence-v2/previews/S13/pexels_7937748_new-build-home.jpg"
+          "thumb": "projects/benchmark-excellence-v2/thumbs/S15/pexels_32383134_finished-house.jpg",
+          "preview": "projects/benchmark-excellence-v2/previews/S15/pexels_32383134_finished-house.jpg"
         }
       ]
     }

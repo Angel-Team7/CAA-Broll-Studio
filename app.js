@@ -109,7 +109,8 @@ function render() {
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
           <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Needs different"}</button>
-          <button class="addbroll" data-scene="${sc.id}">＋ Add B-roll</button>
+          <button class="addbroll" data-scene="${sc.id}" title="Upload a video or image — or drag &amp; drop files here">＋ Add B-roll</button>
+          <div class="drophint">or drag &amp; drop files here</div>
         </div>
       </div>
       <div class="grid">${cards || '<p class="muted">No clips.</p>'}</div>
@@ -121,6 +122,7 @@ function render() {
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
     el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
+  wireDropZones(wrap);
   wrap.querySelectorAll("video").forEach(v => {
     const p = v.closest(".media");
     p.onmouseenter = () => v.play().catch(()=>{});
@@ -269,6 +271,50 @@ async function handleUpload(sid, file) {
     toast(`✓ Added to ${sid} — visible to everyone after the Pages rebuild`);
   } catch (e) { toast("Upload failed: " + e.message); }
 }
+
+// ---- Drag & drop upload: each scene section is a drop zone that routes files
+// through the SAME handleUpload flow the ＋ Add B-roll button uses.
+const dragHasFiles = e => e.dataTransfer && Array.from(e.dataTransfer.types || []).includes("Files");
+const isMediaFile = f => f.type.startsWith("video") || f.type.startsWith("image") ||
+  /\.(mp4|webm|mov|m4v|jpe?g|png|webp|gif)$/i.test(f.name);
+
+function wireDropZones(wrap) {
+  wrap.querySelectorAll(".scene").forEach(sec => {
+    const sid = sec.dataset.scene;
+    let depth = 0; // dragenter/leave also fire on children; count to avoid flicker
+    sec.addEventListener("dragenter", e => {
+      if (!dragHasFiles(e)) return;
+      e.preventDefault(); depth++;
+      sec.classList.add("dropping");
+    });
+    sec.addEventListener("dragover", e => {
+      if (!dragHasFiles(e)) return;
+      e.preventDefault();
+      e.dataTransfer.dropEffect = "copy";
+    });
+    sec.addEventListener("dragleave", () => {
+      if (--depth <= 0) { depth = 0; sec.classList.remove("dropping"); }
+    });
+    sec.addEventListener("drop", e => {
+      if (!dragHasFiles(e)) return;
+      e.preventDefault();
+      depth = 0; sec.classList.remove("dropping");
+      handleDrop(sid, Array.from(e.dataTransfer.files));
+    });
+  });
+}
+
+async function handleDrop(sid, files) {
+  if (!(gh && gh.token)) { toast("Connect GitHub first (top-right) to upload B-roll."); return; }
+  const media = files.filter(isMediaFile);
+  if (!media.length) { toast("Only video or image files can be added as B-roll."); return; }
+  if (media.length < files.length) toast(`Skipping ${files.length - media.length} non-media file(s)…`);
+  for (const f of media) await handleUpload(sid, f); // sequential — same flow as the ＋ button
+}
+
+// Don't let a stray drop outside a scene navigate the browser away.
+["dragover", "drop"].forEach(ev =>
+  window.addEventListener(ev, e => { if (dragHasFiles(e)) e.preventDefault(); }));
 
 function fileToB64(file) {
   return new Promise((res, rej) => {
