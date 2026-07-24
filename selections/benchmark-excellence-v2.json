@@ -1,7 +1,7 @@
 {
   "project": "benchmark-excellence-v2",
-  "updated": "2026-07-06T00:15:16.482Z",
-  "ready": true,
+  "updated": "2026-07-24T09:29:59.727Z",
+  "ready": false,
   "approved": {
     "S02": [
       "pexels_6655832_apprentice-watching"
@@ -25,22 +25,28 @@
       "coverr_zlcm3xk92m_carpenter-hands"
     ],
     "S10": [
-      "pexels_8964792_foreman-reviewing"
+      "pexels_8964792_foreman-reviewing",
+      "pexels_7484291_frustrated-worker-workbench"
     ],
     "S12": [
-      "pexels_8818338_builders-lifting-beam-together-t"
+      "pexels_8818338_builders-lifting-beam-together-t",
+      "pexels_2675565_roofer-working"
     ],
     "S13": [
       "pexels_7493223_craftsman-smiling"
     ],
     "S01": [
-      "pexels_7655580_groundskeeper-garden"
+      "coverr_notd8gz9li_construction-dawn"
     ],
     "S05": [
       "pexels_7816246_reading-site-plans"
     ],
     "S11": [
-      "pexels_31458496_concrete-finisher"
+      "pexels_31458496_concrete-finisher",
+      "pexels_7505109_quality-check-wall"
+    ],
+    "S14": [
+      "pexels_35379333_worker-preparing-before-starting"
     ]
   },
   "needs_broll": {
