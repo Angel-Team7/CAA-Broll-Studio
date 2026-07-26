@@ -1,12 +1,12 @@
 {
   "project": "belong-module4",
-  "title": "Belong \u2014 Module 4: Hospitality",
+  "title": "Belong — Module 4: Hospitality",
   "generated": "2026-07-12",
   "scenes": [
     {
       "id": "S01",
       "script_line": "[B1] There is a difference between service and hospitality. Service happens to the guest. Hospitality happens inside the guest.",
-      "visual_direction": "A waiter serves with genuine eye contact and a real smile \u2014 the human moment beyond the mechanics. Medium two-shot, warm natural light.",
+      "visual_direction": "A waiter serves with genuine eye contact and a real smile — the human moment beyond the mechanics. Medium two-shot, warm natural light.",
       "clips": [
         {
           "id": "pexels_8921929_waiter-genuine-smile",
@@ -52,14 +52,14 @@
     },
     {
       "id": "S02",
-      "script_line": "[B2] Think of your grandmother's house \u2014 nobody in history has ever felt unwelcome at their grandmother's table.",
+      "script_line": "[B2] Think of your grandmother's house — nobody in history has ever felt unwelcome at their grandmother's table.",
       "visual_direction": "Nostalgic warmth: a rustic home table, generations sharing food, an older woman ladling out a dish with love. Homely, unpolished, real. [image-beat]",
       "clips": [
         {
           "id": "pexels_36581777_homemade-food-serving",
           "type": "video",
           "source": "pexels",
-          "author": "Ahmed \u061c",
+          "author": "Ahmed ؜",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/elegant-dinner-party-with-traditional-cuisine-36581777/",
           "thumb": "projects/belong-module4/thumbs/S02/pexels_36581777_homemade-food-serving.jpg",
@@ -99,7 +99,7 @@
           "id": "pexels_36799048_generations-sharing-meal",
           "type": "image",
           "source": "pexels",
-          "author": "khezez  | \u062e\u0632\u0627\u0632",
+          "author": "khezez  | خزاز",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/photo/family-gathering-around-dinner-table-indoors-36799048/",
           "thumb": "projects/belong-module4/thumbs/S02/pexels_36799048_generations-sharing-meal.jpg",
@@ -110,7 +110,7 @@
     {
       "id": "S03",
       "script_line": "[B3] Guests are guests, not customers. When friends come to your house, you open the door happy to see them.",
-      "visual_direction": "A host swings open the door of a whitewashed house, arms open, delighted \u2014 arrival framed as friendship, not transaction. Medium wide. [image-beat]",
+      "visual_direction": "A host swings open the door of a whitewashed house, arms open, delighted — arrival framed as friendship, not transaction. Medium wide. [image-beat]",
       "clips": [
         {
           "id": "pexels_10238036_host-opening-door",
@@ -214,7 +214,7 @@
     {
       "id": "S05",
       "script_line": "[B5] Use names. A person who remembers your name is becoming a luxury. We will always offer that luxury.",
-      "visual_direction": "Reception moment: a receptionist greets a returning guest by name \u2014 recognition lighting up the guest's face. Tight medium on the exchange. [image-beat]",
+      "visual_direction": "Reception moment: a receptionist greets a returning guest by name — recognition lighting up the guest's face. Tight medium on the exchange. [image-beat]",
       "clips": [
         {
           "id": "pexels_6289652_guest-recognition-smile",
@@ -260,7 +260,7 @@
     },
     {
       "id": "S06",
-      "script_line": "[B6] Anticipate. It's cold tonight \u2014 are the fire pits lit before someone asks? Anticipation is attention plus initiative.",
+      "script_line": "[B6] Anticipate. It's cold tonight — are the fire pits lit before someone asks? Anticipation is attention plus initiative.",
       "visual_direction": "Hands lighting a fire pit at blue hour, sparks rising, blankets laid out on chairs before guests appear. Detail shot, glowing warmth.",
       "clips": [
         {
@@ -311,6 +311,16 @@
       "visual_direction": "A staff member gestures toward the coastline, pointing out the sunset spot to guests on a hilltop; map-of-the-land energy. Wide against landscape.",
       "clips": [
         {
+          "id": "upload_1785080868969_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann_dsc1852",
+          "type": "image",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann_dsc1852.jpg",
+          "thumb": "projects/belong-module4/previews/S07/upload_1785080868969_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann_dsc1852.jpg",
+          "preview": "projects/belong-module4/previews/S07/upload_1785080868969_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann_dsc1852.jpg"
+        },
+        {
           "id": "pixabay_281640_locals-sharing-knowledge",
           "type": "video",
           "source": "pixabay",
@@ -344,7 +354,7 @@
     },
     {
       "id": "S08",
-      "script_line": "[B8] The small rituals matter more than grand gestures. Hospitality is compound interest \u2014 tiny deposits made consistently.",
+      "script_line": "[B8] The small rituals matter more than grand gestures. Hospitality is compound interest — tiny deposits made consistently.",
       "visual_direction": "Detail montage of small care: a stuffed animal arranged on a child's pillow, a remembered wine set at a table, boarding passes handed over. Close, tactile.",
       "clips": [
         {
@@ -449,7 +459,7 @@
     {
       "id": "S10",
       "script_line": "[B10] Warmth is not servility. We carry ourselves with dignity, always. Walk like it.",
-      "visual_direction": "Dignified close: portraits of hospitality professionals \u2014 chef, housekeeper, gardener \u2014 standing proud in their element, honest faces, soft light. [image-beat]",
+      "visual_direction": "Dignified close: portraits of hospitality professionals — chef, housekeeper, gardener — standing proud in their element, honest faces, soft light. [image-beat]",
       "clips": [
         {
           "id": "pexels_10049404_gardener-dignified-portrait",
