@@ -1,7 +1,7 @@
 {
   "project": "belong-module5",
   "title": "Belong \u2014 Module 5: Guest Journey",
-  "generated": "2026-07-12",
+  "generated": "2026-07-27",
   "scenes": [
     {
       "id": "S01",
@@ -492,6 +492,56 @@
           "preview": "projects/belong-module5/previews/S10/pexels_3245304_hospitality-team-coordination.mp4"
         },
         {
+          "id": "pexels_37804847_restaurant-team-service-busy",
+          "type": "video",
+          "source": "pexels",
+          "author": "Jessica Bonafede",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/busy-kitchen-scene-with-chefs-cooking-sandwiches-37804847/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_37804847_restaurant-team-service-busy.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_37804847_restaurant-team-service-busy.mp4"
+        },
+        {
+          "id": "pexels_4253334_hotel-kitchen-team-pass",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/two-men-in-aprons-are-cooking-in-a-kitchen-4253334/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_4253334_hotel-kitchen-team-pass.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_4253334_hotel-kitchen-team-pass.mp4"
+        },
+        {
+          "id": "pexels_5372868_hotel-staff-walking-corridor",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/bellboy-pushing-a-luggage-trolley-in-the-hallway-5372868/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_5372868_hotel-staff-walking-corridor.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_5372868_hotel-staff-walking-corridor.mp4"
+        },
+        {
+          "id": "pexels_6466243_housekeeping-team-hotel",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-housekeeper-putting-folded-towels-on-bed-6466243/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_6466243_housekeeping-team-hotel.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_6466243_housekeeping-team-hotel.mp4"
+        },
+        {
+          "id": "pexels_7224354_resort-staff-teamwork",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/group-posing-for-a-photo-7224354/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_7224354_resort-staff-teamwork.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_7224354_resort-staff-teamwork.mp4"
+        },
+        {
           "id": "pexels_7507260_relay-handover-hands",
           "type": "video",
           "source": "pexels",
@@ -500,6 +550,36 @@
           "page_url": "https://www.pexels.com/video/a-group-of-people-playing-a-relay-7507260/",
           "thumb": "projects/belong-module5/thumbs/S10/pexels_7507260_relay-handover-hands.jpg",
           "preview": "projects/belong-module5/previews/S10/pexels_7507260_relay-handover-hands.mp4"
+        },
+        {
+          "id": "pexels_13971183_hospitality-team-coordination",
+          "type": "image",
+          "source": "pexels",
+          "author": "Aqil Faisal Halfid",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/people-cooking-in-industrial-kitchen-13971183/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_13971183_hospitality-team-coordination.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_13971183_hospitality-team-coordination.jpg"
+        },
+        {
+          "id": "pexels_3770107_resort-staff-smiling-energetic",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/hotel-servant-carrying-coffee-to-guest-3770107/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_3770107_resort-staff-smiling-energetic.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_3770107_resort-staff-smiling-energetic.jpg"
+        },
+        {
+          "id": "pexels_9462326_housekeeping-team-hotel",
+          "type": "image",
+          "source": "pexels",
+          "author": "Liliana Drew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/housekeepers-changing-bed-sheets-9462326/",
+          "thumb": "projects/belong-module5/thumbs/S10/pexels_9462326_housekeeping-team-hotel.jpg",
+          "preview": "projects/belong-module5/previews/S10/pexels_9462326_housekeeping-team-hotel.jpg"
         },
         {
           "id": "pexels_9462786_hotel-team-teamwork",
