@@ -1,13 +1,23 @@
 {
   "project": "belong-module6",
-  "title": "Belong \u2014 Module 6: Houses, Farm & Standards",
+  "title": "Belong — Module 6: Houses, Farm & Standards",
   "generated": "2026-07-12",
   "scenes": [
     {
       "id": "S01",
       "script_line": "[B1] Nine hectares. Thirty-eight independent houses in clusters. Only four percent of the land is built.",
-      "visual_direction": "Establishing aerial: clusters of low whitewashed houses scattered in a sea of orchards, gardens and pine forest \u2014 the 4% footprint made visible. Wide drone. [image-beat]",
+      "visual_direction": "Establishing aerial: clusters of low whitewashed houses scattered in a sea of orchards, gardens and pine forest — the 4% footprint made visible. Wide drone. [image-beat]",
       "clips": [
+        {
+          "id": "upload_1785941781569_craveiral-vista-aera",
+          "type": "image",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "craveiral-vista-aera.jpg",
+          "thumb": "projects/belong-module6/previews/S01/upload_1785941781569_craveiral-vista-aera.jpg",
+          "preview": "projects/belong-module6/previews/S01/upload_1785941781569_craveiral-vista-aera.jpg"
+        },
         {
           "id": "pexels_28557980_portugal-farmhouse-aerial",
           "type": "video",
@@ -22,7 +32,7 @@
           "id": "pexels_31846104_eco-resort-aerial",
           "type": "video",
           "source": "pexels",
-          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "author": "David Pickup |  Advertising & Marketing  🇬🇧",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/aerial-view-of-green-forest-and-resort-buildings-31846104/",
           "thumb": "projects/belong-module6/thumbs/S01/pexels_31846104_eco-resort-aerial.jpg",
@@ -32,7 +42,7 @@
           "id": "pexels_33749474_farm-estate-drone",
           "type": "video",
           "source": "pexels",
-          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "author": "David Pickup |  Advertising & Marketing  🇬🇧",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/arial-view-of-countryside-estate-with-lush-forest-33749474/",
           "thumb": "projects/belong-module6/thumbs/S01/pexels_33749474_farm-estate-drone.jpg",
@@ -62,7 +72,7 @@
     },
     {
       "id": "S02",
-      "script_line": "[B2] All stitched together by those raised wooden walkways \u2014 water flows, plants grow, the soil stays alive underneath.",
+      "script_line": "[B2] All stitched together by those raised wooden walkways — water flows, plants grow, the soil stays alive underneath.",
       "visual_direction": "Slow glide along a raised timber walkway threading through pines and wild grass, greenery pushing up between and beneath the boards. Ground-level wide. [image-beat]",
       "clips": [
         {
@@ -119,7 +129,7 @@
     },
     {
       "id": "S03",
-      "script_line": "[B3] Every house is independent, minimalist but warm \u2014 sustainability, local craftsmanship, homage to Portuguese heritage.",
+      "script_line": "[B3] Every house is independent, minimalist but warm — sustainability, local craftsmanship, homage to Portuguese heritage.",
       "visual_direction": "Interior beauty pass: minimalist room in natural wood and linen, handmade ceramics, light pouring in, a private terrace beyond. Medium interior. [image-beat]",
       "clips": [
         {
@@ -176,7 +186,7 @@
     },
     {
       "id": "S04",
-      "script_line": "[B4] Know your unit types. Confidence sells and vagueness kills \u2014 trust is the currency of this whole business.",
+      "script_line": "[B4] Know your unit types. Confidence sells and vagueness kills — trust is the currency of this whole business.",
       "visual_direction": "Product-knowledge details: an equipped kitchen, a wood-burning stove, a terrace with table and armchairs, a premium mattress being smoothed. Tight detail series.",
       "clips": [
         {
@@ -223,7 +233,7 @@
     },
     {
       "id": "S05",
-      "script_line": "[B5] Three pools, the wellness deck raised in the pine forest \u2014 outdoor sauna, hot tub, cold plunge, a real thermal circuit.",
+      "script_line": "[B5] Three pools, the wellness deck raised in the pine forest — outdoor sauna, hot tub, cold plunge, a real thermal circuit.",
       "visual_direction": "Amenity beat, modern but natural: steam over a heated pool, a timber sauna among pines, a hot tub with forest light. Wide + medium, serene.",
       "clips": [
         {
@@ -328,13 +338,13 @@
     {
       "id": "S07",
       "script_line": "[B7] The shop: local wines, honey, olive oil, natural soaps. Every product has a story and a producer.",
-      "visual_direction": "Shelf-level still life: artisanal jars of honey and preserves, olive oil bottles, handmade soaps \u2014 labels close enough to feel the craft. Detail, warm light. [image-beat]",
+      "visual_direction": "Shelf-level still life: artisanal jars of honey and preserves, olive oil bottles, handmade soaps — labels close enough to feel the craft. Detail, warm light. [image-beat]",
       "clips": [
         {
           "id": "pexels_26620441_olive-oil-bottles",
           "type": "video",
           "source": "pexels",
-          "author": "khezez  | \u062e\u0632\u0627\u0632",
+          "author": "khezez  | خزاز",
           "license": "Pexels License",
           "page_url": "https://www.pexels.com/video/italian-bread-26620441/",
           "thumb": "projects/belong-module6/thumbs/S07/pexels_26620441_olive-oil-bottles.jpg",
@@ -384,7 +394,7 @@
     },
     {
       "id": "S08",
-      "script_line": "[B8] The laundry in S\u00e3o Teot\u00f3nio serves our operation and serves the village. Circular economy in its plainest clothes.",
+      "script_line": "[B8] The laundry in São Teotónio serves our operation and serves the village. Circular economy in its plainest clothes.",
       "visual_direction": "Honest back-of-house: crisp white linens folded by hand, sheets on a line in the sun, a village street beyond. Medium, unglamorous dignity.",
       "clips": [
         {
@@ -421,7 +431,7 @@
     },
     {
       "id": "S09",
-      "script_line": "[B9] A standard is a promise. When housekeeping prepares a house, they're not cleaning a room \u2014 they're keeping a promise.",
+      "script_line": "[B9] A standard is a promise. When housekeeping prepares a house, they're not cleaning a room — they're keeping a promise.",
       "visual_direction": "Housekeeping as craft: hands smoothing a bed to perfection, aligning amenities, a final look around the room with pride. Tight, tactile, respectful.",
       "clips": [
         {
@@ -459,7 +469,7 @@
     {
       "id": "S10",
       "script_line": "[B10] There are two kinds of team members. Be the one who fixes it or reports it within the hour.",
-      "visual_direction": "Ownership in action: a staff member stoops to clear a fallen branch from a walkway, wipes a smudged window, straightens a lantern \u2014 unprompted care. Medium wide.",
+      "visual_direction": "Ownership in action: a staff member stoops to clear a fallen branch from a walkway, wipes a smudged window, straightens a lantern — unprompted care. Medium wide.",
       "clips": [
         {
           "id": "pexels_6195140_maintenance-worker-outdoors",
