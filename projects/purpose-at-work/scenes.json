@@ -1,0 +1,357 @@
+{
+  "project": "purpose-at-work",
+  "title": "Purpose at Work",
+  "generated": "2026-08-10",
+  "scenes": [
+    {
+      "id": "S01",
+      "script_line": "[S01] A person arriving at work in the morning, entering, preparing to begin the day.",
+      "visual_direction": "A construction/ground worker arriving at the site in morning light, gearing up to start.",
+      "clips": [
+        {
+          "id": "pexels_18190633_construction-worker-arriving-mor",
+          "type": "video",
+          "source": "pexels",
+          "author": "Santiago Balbuena",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-black-and-white-photo-of-a-beach-with-a-bulldozer-18190633/",
+          "thumb": "projects/purpose-at-work/thumbs/S01/pexels_18190633_construction-worker-arriving-mor.jpg",
+          "preview": "projects/purpose-at-work/previews/S01/pexels_18190633_construction-worker-arriving-mor.mp4"
+        },
+        {
+          "id": "pexels_6474370_builder-putting-on-hardhat",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/guy-wearing-hard-hat-6474370/",
+          "thumb": "projects/purpose-at-work/thumbs/S01/pexels_6474370_builder-putting-on-hardhat.jpg",
+          "preview": "projects/purpose-at-work/previews/S01/pexels_6474370_builder-putting-on-hardhat.mp4"
+        },
+        {
+          "id": "pixabay_202743_worker-walking-to-site-sunrise",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Matthias_Groeneveld",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-202743/",
+          "thumb": "projects/purpose-at-work/thumbs/S01/pixabay_202743_worker-walking-to-site-sunrise.jpg",
+          "preview": "projects/purpose-at-work/previews/S01/pixabay_202743_worker-walking-to-site-sunrise.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "script_line": "[S02] Entering with confident posture, greeting colleagues, beginning with positive energy.",
+      "visual_direction": "A worker arriving upbeat \u2014 greeting the crew, fist bump, energy and readiness.",
+      "clips": [
+        {
+          "id": "pexels_10349940_crew-good-morning-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-people-wearing-safety-vests-10349940/",
+          "thumb": "projects/purpose-at-work/thumbs/S02/pexels_10349940_crew-good-morning-site.jpg",
+          "preview": "projects/purpose-at-work/previews/S02/pexels_10349940_crew-good-morning-site.mp4"
+        },
+        {
+          "id": "pexels_8488305_worker-confident-walk-hardhat",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-in-yellow-hardhat-8488305/",
+          "thumb": "projects/purpose-at-work/thumbs/S02/pexels_8488305_worker-confident-walk-hardhat.jpg",
+          "preview": "projects/purpose-at-work/previews/S02/pexels_8488305_worker-confident-walk-hardhat.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "script_line": "[S03] Split contrast: one disengaged (clock-watching, no energy) vs one deciding to make today count.",
+      "visual_direction": "CONTRAST \u2014 a disengaged worker going through the motions vs an engaged worker attacking the day.",
+      "clips": [
+        {
+          "id": "pexels_32244801_energetic-worker-focused-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Usman AbdulrasheedGambo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/",
+          "thumb": "projects/purpose-at-work/thumbs/S03/pexels_32244801_energetic-worker-focused-site.jpg",
+          "preview": "projects/purpose-at-work/previews/S03/pexels_32244801_energetic-worker-focused-site.mp4"
+        },
+        {
+          "id": "pexels_6474089_motivated-builder-working-fast",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-pouring-cement-in-a-bucket-6474089/",
+          "thumb": "projects/purpose-at-work/thumbs/S03/pexels_6474089_motivated-builder-working-fast.jpg",
+          "preview": "projects/purpose-at-work/previews/S03/pexels_6474089_motivated-builder-working-fast.mp4"
+        },
+        {
+          "id": "pixabay_40816_motivated-builder-working-fast",
+          "type": "video",
+          "source": "pixabay",
+          "author": "AlexKopeykin",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-40816/",
+          "thumb": "projects/purpose-at-work/thumbs/S03/pixabay_40816_motivated-builder-working-fast.jpg",
+          "preview": "projects/purpose-at-work/previews/S03/pixabay_40816_motivated-builder-working-fast.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "script_line": "[S04] Helping a colleague, smiling with a customer, learning a new task.",
+      "visual_direction": "An engaged worker helping a teammate, serving well, learning something new on site.",
+      "clips": [
+        {
+          "id": "pexels_6646618_worker-helping-colleague-carry",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-passing-boxes-of-donations-6646618/",
+          "thumb": "projects/purpose-at-work/thumbs/S04/pexels_6646618_worker-helping-colleague-carry.jpg",
+          "preview": "projects/purpose-at-work/previews/S04/pexels_6646618_worker-helping-colleague-carry.mp4"
+        },
+        {
+          "id": "pexels_8818338_builder-teaching-coworker",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/men-working-in-the-construction-site-8818338/",
+          "thumb": "projects/purpose-at-work/thumbs/S04/pexels_8818338_builder-teaching-coworker.jpg",
+          "preview": "projects/purpose-at-work/previews/S04/pexels_8818338_builder-teaching-coworker.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "script_line": "[S05] Noticing what needs attention and fixing it without being asked.",
+      "visual_direction": "A worker spots something off \u2014 a tool, a hazard, a detail \u2014 and fixes it unprompted.",
+      "clips": [
+        {
+          "id": "pexels_4888900_worker-picking-up-tool-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/picking-a-goggles-to-protect-the-eye-in-working-4888900/",
+          "thumb": "projects/purpose-at-work/thumbs/S05/pexels_4888900_worker-picking-up-tool-site.jpg",
+          "preview": "projects/purpose-at-work/previews/S05/pexels_4888900_worker-picking-up-tool-site.mp4"
+        },
+        {
+          "id": "pexels_6196263_worker-tidying-site-unprompted",
+          "type": "video",
+          "source": "pexels",
+          "author": "Tima Miroshnichenko",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-wiping-the-table-6196263/",
+          "thumb": "projects/purpose-at-work/thumbs/S05/pexels_6196263_worker-tidying-site-unprompted.jpg",
+          "preview": "projects/purpose-at-work/previews/S05/pexels_6196263_worker-tidying-site-unprompted.mp4"
+        },
+        {
+          "id": "pexels_8488108_builder-fixing-small-problem",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kindel Media",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-handywoman-drilling-a-wall-8488108/",
+          "thumb": "projects/purpose-at-work/thumbs/S05/pexels_8488108_builder-fixing-small-problem.jpg",
+          "preview": "projects/purpose-at-work/previews/S05/pexels_8488108_builder-fixing-small-problem.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "script_line": "[S06] Fast sequence of small choices \u2014 arrive ready, greet properly, organize tools, clean, help.",
+      "visual_direction": "Quick montage of small purposeful actions: gear ready, greeting, organizing tools, sweeping, helping.",
+      "clips": [
+        {
+          "id": "coverr_gp4asywsas_worker-sweeping-workspace",
+          "type": "video",
+          "source": "coverr",
+          "author": "Coverr",
+          "license": "Coverr License",
+          "page_url": "https://coverr.co/videos/sweeping-sawdust-gp4asywsas",
+          "thumb": "projects/purpose-at-work/thumbs/S06/coverr_gp4asywsas_worker-sweeping-workspace.jpg",
+          "preview": "projects/purpose-at-work/previews/S06/coverr_gp4asywsas_worker-sweeping-workspace.mp4"
+        },
+        {
+          "id": "pexels_7744313_organizing-tools-morning-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "MART  PRODUCTION",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/stationery-tool-7744313/",
+          "thumb": "projects/purpose-at-work/thumbs/S06/pexels_7744313_organizing-tools-morning-site.jpg",
+          "preview": "projects/purpose-at-work/previews/S06/pexels_7744313_organizing-tools-morning-site.mp4"
+        },
+        {
+          "id": "pexels_8273668_worker-sweeping-workspace",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-sweeping-a-floor-8273668/",
+          "thumb": "projects/purpose-at-work/thumbs/S06/pexels_8273668_worker-sweeping-workspace.jpg",
+          "preview": "projects/purpose-at-work/previews/S06/pexels_8273668_worker-sweeping-workspace.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "script_line": "[S07] Team in sync \u2014 one lifts another, someone steps in, solving together. We've got each other's backs.",
+      "visual_direction": "A dynamic crew working in sync \u2014 helping through a hard task, gathering to solve a problem, positive atmosphere.",
+      "clips": [
+        {
+          "id": "pexels_8818344_construction-team-working-togeth",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/close-up-video-of-a-person-cutting-the-wood-8818344/",
+          "thumb": "projects/purpose-at-work/thumbs/S07/pexels_8818344_construction-team-working-togeth.jpg",
+          "preview": "projects/purpose-at-work/previews/S07/pexels_8818344_construction-team-working-togeth.mp4"
+        },
+        {
+          "id": "pexels_8853463_team-energy-construction-site",
+          "type": "video",
+          "source": "pexels",
+          "author": "Los Muertos Crew",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/three-men-safely-carrying-up-a-solar-panel-8853463/",
+          "thumb": "projects/purpose-at-work/thumbs/S07/pexels_8853463_team-energy-construction-site.jpg",
+          "preview": "projects/purpose-at-work/previews/S07/pexels_8853463_team-energy-construction-site.mp4"
+        },
+        {
+          "id": "pexels_9991145_workers-lifting-together-beam",
+          "type": "video",
+          "source": "pexels",
+          "author": "James Cheney",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-working-at-a-construction-site-9991145/",
+          "thumb": "projects/purpose-at-work/thumbs/S07/pexels_9991145_workers-lifting-together-beam.jpg",
+          "preview": "projects/purpose-at-work/previews/S07/pexels_9991145_workers-lifting-together-beam.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "script_line": "[S08] Tired in the morning but still preparing professionally, entering work with intention.",
+      "visual_direction": "IMAGE \u2014 a tired but resolute worker at dawn, gearing up with quiet intention.",
+      "clips": [
+        {
+          "id": "pexels_37816356_tired-worker-dawn-portrait",
+          "type": "image",
+          "source": "pexels",
+          "author": "Devang Upadhyay",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/tired-hotel-bellman-resting-indoors-37816356/",
+          "thumb": "projects/purpose-at-work/thumbs/S08/pexels_37816356_tired-worker-dawn-portrait.jpg",
+          "preview": "projects/purpose-at-work/previews/S08/pexels_37816356_tired-worker-dawn-portrait.jpg"
+        },
+        {
+          "id": "pexels_8961555_worker-preparing-gear-morning",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mikael Blomkvist",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-in-black-shirt-holding-gray-and-orange-wheelbarrow-8961555/",
+          "thumb": "projects/purpose-at-work/thumbs/S08/pexels_8961555_worker-preparing-gear-morning.jpg",
+          "preview": "projects/purpose-at-work/previews/S08/pexels_8961555_worker-preparing-gear-morning.jpg"
+        },
+        {
+          "id": "pixabay_8499901_worker-preparing-gear-morning",
+          "type": "image",
+          "source": "pixabay",
+          "author": "This_is_Engineering",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/solar-panel-solar-panels-8499901/",
+          "thumb": "projects/purpose-at-work/thumbs/S08/pixabay_8499901_worker-preparing-gear-morning.jpg",
+          "preview": "projects/purpose-at-work/previews/S08/pixabay_8499901_worker-preparing-gear-morning.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "script_line": "[S09] Writing one word in a notebook before the shift \u2014 'Excellence', 'Calm', 'Service'.",
+      "visual_direction": "IMAGE \u2014 close-up of a worker writing a single word in a small notebook before starting.",
+      "clips": [
+        {
+          "id": "pexels_5915193_writing-in-small-notebook-closeu",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/person-writing-on-spiral-notebook-5915193/",
+          "thumb": "projects/purpose-at-work/thumbs/S09/pexels_5915193_writing-in-small-notebook-closeu.jpg",
+          "preview": "projects/purpose-at-work/previews/S09/pexels_5915193_writing-in-small-notebook-closeu.jpg"
+        },
+        {
+          "id": "pexels_6829535_worker-notebook-pencil-hands",
+          "type": "image",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-person-writing-on-a-notebook-6829535/",
+          "thumb": "projects/purpose-at-work/thumbs/S09/pexels_6829535_worker-notebook-pencil-hands.jpg",
+          "preview": "projects/purpose-at-work/previews/S09/pexels_6829535_worker-notebook-pencil-hands.jpg"
+        },
+        {
+          "id": "pexels_7663255_one-word-written-notebook",
+          "type": "image",
+          "source": "pexels",
+          "author": "Tara Winstead",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/brown-book-on-glass-table-7663255/",
+          "thumb": "projects/purpose-at-work/thumbs/S09/pexels_7663255_one-word-written-notebook.jpg",
+          "preview": "projects/purpose-at-work/previews/S09/pexels_7663255_one-word-written-notebook.jpg"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "script_line": "[S10] Team gathering at the start of a shift; collaboration, service, celebrating a result together.",
+      "visual_direction": "IMAGE \u2014 a crew gathered at shift start / celebrating a completed job together.",
+      "clips": [
+        {
+          "id": "pexels_30674593_construction-crew-huddle",
+          "type": "image",
+          "source": "pexels",
+          "author": "Mad Knoxx Deluxe",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/construction-workers-on-site-in-daylight-30674593/",
+          "thumb": "projects/purpose-at-work/thumbs/S10/pexels_30674593_construction-crew-huddle.jpg",
+          "preview": "projects/purpose-at-work/previews/S10/pexels_30674593_construction-crew-huddle.jpg"
+        },
+        {
+          "id": "pexels_35082106_workers-gathered-briefing-mornin",
+          "type": "image",
+          "source": "pexels",
+          "author": "Safi Erneste",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/industrial-worker-in-safety-gear-at-factory-35082106/",
+          "thumb": "projects/purpose-at-work/thumbs/S10/pexels_35082106_workers-gathered-briefing-mornin.jpg",
+          "preview": "projects/purpose-at-work/previews/S10/pexels_35082106_workers-gathered-briefing-mornin.jpg"
+        },
+        {
+          "id": "wikimedia_72539262_workers-gathered-briefing-mornin",
+          "type": "image",
+          "source": "wikimedia",
+          "author": "Coconino National Forest",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Mogollon_Rim_Ranger_District_Work_Day_2017_(36763191354).jpg",
+          "thumb": "projects/purpose-at-work/thumbs/S10/wikimedia_72539262_workers-gathered-briefing-mornin.jpg",
+          "preview": "projects/purpose-at-work/previews/S10/wikimedia_72539262_workers-gathered-briefing-mornin.jpg"
+        }
+      ]
+    }
+  ]
+}
