@@ -87,3 +87,8 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
   background:var(--panel2);border:1px solid var(--green);color:var(--text);
   padding:11px 18px;border-radius:10px;box-shadow:var(--shadow);transition:transform .25s;z-index:50}
 .toast.show{transform:translateX(-50%) translateY(0)}
+
+/* SEARCH 10 MORE — queue a fresh round for one shot (factory reads topup_requests) */
+.topup{font-size:12px;padding:5px 10px;white-space:nowrap;color:var(--muted)}
+.topup:hover{border-color:#3f8ea3;color:#7fd0e3}
+.topup.on{background:#12313a;border-color:#3f8ea3;color:#7fd0e3;font-weight:600}

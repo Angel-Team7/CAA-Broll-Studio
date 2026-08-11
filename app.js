@@ -72,6 +72,7 @@ async function loadProject(slug) {
   const sel = await loadSelections(slug);
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
+  state.topup = sel.topup_requests || {};
   render();
   updateFinaliseBtn();
 }
@@ -88,7 +89,8 @@ async function loadSelections(slug) {
 
 function persistLocal() {
   localStorage.setItem(`sel:${state.slug}`,
-    JSON.stringify({ approved: state.approved, needs_broll: state.reshoot }));
+    JSON.stringify({ approved: state.approved, needs_broll: state.reshoot,
+                     topup_requests: state.topup }));
 }
 
 function render() {
@@ -109,6 +111,8 @@ function render() {
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
           <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Needs different"}</button>
+          <button class="topup ${sc.id in (state.topup||{}) ? "on" : ""}" data-scene="${sc.id}"
+            title="Queue another 10 fresh clips for this shot — excludes everything already shown">${sc.id in (state.topup||{}) ? "🔎 10 more queued" : "🔎 Search 10 more"}</button>
           <button class="addbroll" data-scene="${sc.id}" title="Upload a video or image — or drag &amp; drop files here">＋ Add B-roll</button>
           <div class="drophint">or drag &amp; drop files here</div>
         </div>
@@ -122,6 +126,8 @@ function render() {
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
     el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
+  wrap.querySelectorAll(".topup").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); requestTopup(el.dataset.scene); });
   wireDropZones(wrap);
   wrap.querySelectorAll("video").forEach(v => {
     const p = v.closest(".media");
@@ -174,6 +180,26 @@ function toggleReshoot(sid) {
   render();
 }
 
+// Queue another 10 fresh clips for one shot. The factory reads topup_requests and runs
+// `broll_factory.py topup --scene <id>`, which excludes every asset already shown here —
+// so a second round is genuinely NEW footage, never a reshuffle of the same pool.
+function requestTopup(sid) {
+  state.topup = state.topup || {};
+  if (sid in state.topup) {
+    delete state.topup[sid];
+  } else {
+    const note = prompt(
+      `Search 10 more for ${sid}. What should the new footage show?\n` +
+      `(optional — e.g. "more hands-in-soil, less plated food")`, "");
+    if (note === null) return;                  // cancelled
+    state.topup[sid] = { requested: new Date().toISOString(), note: note.trim(), done: false };
+  }
+  persistLocal();
+  render();
+  toast(sid in state.topup ? `${sid}: 10 more queued — save to send it to the factory`
+                           : `${sid}: request removed`);
+}
+
 function updateStat() {
   const total = Object.values(state.approved).reduce((n, a) => n + a.length, 0);
   const scenes = state.data.scenes.length;
@@ -186,7 +212,8 @@ function updateStat() {
 async function save(ready) {
   persistLocal();
   const payload = { project: state.slug, updated: new Date().toISOString(),
-    ready: !!ready, approved: state.approved, needs_broll: state.reshoot };
+    ready: !!ready, approved: state.approved, needs_broll: state.reshoot,
+    topup_requests: state.topup || {} };
   if (gh && gh.token) {
     try {
       await ghPut(`selections/${state.slug}.json`, JSON.stringify(payload, null, 2),

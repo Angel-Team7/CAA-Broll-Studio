@@ -1,497 +1,2481 @@
 {
-  "project": "belong-module7",
-  "title": "Belong \u2014 Module 7: FarmTable",
-  "generated": "2026-07-12",
-  "scenes": [
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "If Craveiral has a soul, you can taste it. Literally. This module is about the FarmTable, and about food — which, if you know me at all, you know is the part of this project I could talk about for six hours instead of te",
+   "visual_direction": "",
+   "t": 0.0,
+   "end": 18.53,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
-      "id": "S01",
-      "script_line": "[B1] The philosophy fits in one sentence: before the plate, there is a grower.",
-      "visual_direction": "Opening portrait: a grower standing in the vegetable garden at golden hour, soil on hands, unposed and dignified. Medium portrait, shallow depth. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_8540438_organic-farmer-proud",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/elderly-man-selling-fruits-and-vegetables-8540438/",
-          "thumb": "projects/belong-module7/thumbs/S01/pexels_8540438_organic-farmer-proud.jpg",
-          "preview": "projects/belong-module7/previews/S01/pexels_8540438_organic-farmer-proud.mp4"
-        },
-        {
-          "id": "pixabay_231246_organic-farmer-proud",
-          "type": "video",
-          "source": "pixabay",
-          "author": "TungArt7",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-231246/",
-          "thumb": "projects/belong-module7/thumbs/S01/pixabay_231246_organic-farmer-proud.jpg",
-          "preview": "projects/belong-module7/previews/S01/pixabay_231246_organic-farmer-proud.mp4"
-        },
-        {
-          "id": "pixabay_37663_farmer-standing-field",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Ronin_Studio_Munich",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-37663/",
-          "thumb": "projects/belong-module7/thumbs/S01/pixabay_37663_farmer-standing-field.jpg",
-          "preview": "projects/belong-module7/previews/S01/pixabay_37663_farmer-standing-field.mp4"
-        },
-        {
-          "id": "pexels_11842131_farmer-portrait-garden",
-          "type": "image",
-          "source": "pexels",
-          "author": "manas patra",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/elderly-woman-in-pink-shirt-wearing-plaid-bandana-standing-in-a-farmland-11842131/",
-          "thumb": "projects/belong-module7/thumbs/S01/pexels_11842131_farmer-portrait-garden.jpg",
-          "preview": "projects/belong-module7/previews/S01/pexels_11842131_farmer-portrait-garden.jpg"
-        },
-        {
-          "id": "pixabay_9152739_farmer-standing-field",
-          "type": "image",
-          "source": "pixabay",
-          "author": "MrBinZ",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/women-farmer-field-agriculture-9152739/",
-          "thumb": "projects/belong-module7/thumbs/S01/pixabay_9152739_farmer-standing-field.jpg",
-          "preview": "projects/belong-module7/previews/S01/pixabay_9152739_farmer-standing-field.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "krzys16",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-2642/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V01.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V01.mp4",
+     "score": 18.98,
+     "categories": [
+      "cooking",
+      "kitchen",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "rustic food closeup"
     },
     {
-      "id": "S02",
-      "script_line": "[B2] Over seventy percent of what we serve is grown on this property. The herbs were cut this morning.",
-      "visual_direction": "A chef walks the garden at dawn with a harvest crate, snipping herbs and pulling vegetables for today's menu \u2014 kitchen begins in the field. Medium tracking. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_11025565_chef-picking-herbs",
-          "type": "video",
-          "source": "pexels",
-          "author": "ROMAN ODINTSOV",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-in-apron-with-vegetables-11025565/",
-          "thumb": "projects/belong-module7/thumbs/S02/pexels_11025565_chef-picking-herbs.jpg",
-          "preview": "projects/belong-module7/previews/S02/pexels_11025565_chef-picking-herbs.mp4"
-        },
-        {
-          "id": "pexels_4519933_cook-garden-morning",
-          "type": "video",
-          "source": "pexels",
-          "author": "Akshay Dalvi",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/green-plants-4519933/",
-          "thumb": "projects/belong-module7/thumbs/S02/pexels_4519933_cook-garden-morning.jpg",
-          "preview": "projects/belong-module7/previews/S02/pexels_4519933_cook-garden-morning.mp4"
-        },
-        {
-          "id": "pixabay_11606_kitchen-garden-chef",
-          "type": "video",
-          "source": "pixabay",
-          "author": "XiaosKitchen",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-11606/",
-          "thumb": "projects/belong-module7/thumbs/S02/pixabay_11606_kitchen-garden-chef.jpg",
-          "preview": "projects/belong-module7/previews/S02/pixabay_11606_kitchen-garden-chef.mp4"
-        },
-        {
-          "id": "pexels_4750313_chef-picking-herbs",
-          "type": "image",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/person-wearing-floral-gloves-holding-green-plants-4750313/",
-          "thumb": "projects/belong-module7/thumbs/S02/pexels_4750313_chef-picking-herbs.jpg",
-          "preview": "projects/belong-module7/previews/S02/pexels_4750313_chef-picking-herbs.jpg"
-        },
-        {
-          "id": "pexels_9025047_chef-harvesting-garden",
-          "type": "image",
-          "source": "pexels",
-          "author": "\u0410\u043d\u0434\u0440\u0435\u0439",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/person-cutting-green-leaves-with-a-knife-9025047/",
-          "thumb": "projects/belong-module7/thumbs/S02/pexels_9025047_chef-harvesting-garden.jpg",
-          "preview": "projects/belong-module7/previews/S02/pexels_9025047_chef-harvesting-garden.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chayka1270",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11547/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V02.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V02.mp4",
+     "score": 18.38,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "chef plating food"
     },
     {
-      "id": "S03",
-      "script_line": "[B3] The menu rotates with the seasons. A tomato in August tastes like a different food. Our guests come to remember what food actually tastes like.",
-      "visual_direction": "Sensory produce macro: sun-ripened tomatoes on the vine, water droplets, a hand twisting one free; seasonal abundance in a basket. Extreme detail. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_11154659_ripe-tomatoes-vine",
-          "type": "video",
-          "source": "pexels",
-          "author": "Leslie Rowe",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/close-up-on-tomatoes-11154659/",
-          "thumb": "projects/belong-module7/thumbs/S03/pexels_11154659_ripe-tomatoes-vine.jpg",
-          "preview": "projects/belong-module7/previews/S03/pexels_11154659_ripe-tomatoes-vine.mp4"
-        },
-        {
-          "id": "pixabay_130690_ripe-tomatoes-vine",
-          "type": "video",
-          "source": "pixabay",
-          "author": "NickyPe",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-130690/",
-          "thumb": "projects/belong-module7/thumbs/S03/pixabay_130690_ripe-tomatoes-vine.jpg",
-          "preview": "projects/belong-module7/previews/S03/pixabay_130690_ripe-tomatoes-vine.mp4"
-        },
-        {
-          "id": "pixabay_223334_heirloom-tomatoes-closeup",
-          "type": "video",
-          "source": "pixabay",
-          "author": "adege",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-223334/",
-          "thumb": "projects/belong-module7/thumbs/S03/pixabay_223334_heirloom-tomatoes-closeup.jpg",
-          "preview": "projects/belong-module7/previews/S03/pixabay_223334_heirloom-tomatoes-closeup.mp4"
-        },
-        {
-          "id": "pexels_24595916_heirloom-tomatoes-closeup",
-          "type": "image",
-          "source": "pexels",
-          "author": "Engin Akyurt",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/heap-of-fresh-tomatoes-24595916/",
-          "thumb": "projects/belong-module7/thumbs/S03/pexels_24595916_heirloom-tomatoes-closeup.jpg",
-          "preview": "projects/belong-module7/previews/S03/pexels_24595916_heirloom-tomatoes-closeup.jpg"
-        },
-        {
-          "id": "pixabay_7433786_heirloom-tomatoes-closeup",
-          "type": "image",
-          "source": "pixabay",
-          "author": "Myriams-Fotos",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/tomatoes-vegetables-fresh-tomatoes-7433786/",
-          "thumb": "projects/belong-module7/thumbs/S03/pixabay_7433786_heirloom-tomatoes-closeup.jpg",
-          "preview": "projects/belong-module7/previews/S03/pixabay_7433786_heirloom-tomatoes-closeup.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-chef-preparing-a-fresh-vegetable-salad-3981705/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V03.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V03.mp4",
+     "score": 17.68,
+     "categories": [
+      "chef",
+      "table",
+      "vegetable"
+     ],
+     "title": "video chef preparing fresh vegetable salad",
+     "query": "farm to table plate"
     },
     {
-      "id": "S04",
-      "script_line": "[B4] Breakfast is a statement of identity: house-made breads, our own preserves, farm eggs cooked to order.",
-      "visual_direction": "Generous breakfast tableau: crusty bread torn open, jam spooned from a jar, golden-yolk eggs, morning light across a wooden table. Overhead + detail. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_7226911_breakfast-table-overhead",
-          "type": "video",
-          "source": "pexels",
-          "author": "Thirdman",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/high-angle-shot-of-a-couple-making-a-happy-face-on-a-plate-7226911/",
-          "thumb": "projects/belong-module7/thumbs/S04/pexels_7226911_breakfast-table-overhead.jpg",
-          "preview": "projects/belong-module7/previews/S04/pexels_7226911_breakfast-table-overhead.mp4"
-        },
-        {
-          "id": "pixabay_326949_breakfast-table-overhead",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Solarselle77",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-326949/",
-          "thumb": "projects/belong-module7/thumbs/S04/pixabay_326949_breakfast-table-overhead.jpg",
-          "preview": "projects/belong-module7/previews/S04/pixabay_326949_breakfast-table-overhead.mp4"
-        },
-        {
-          "id": "pixabay_63066_fresh-baked-bread-morning",
-          "type": "video",
-          "source": "pixabay",
-          "author": "AlexKopeykin",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-63066/",
-          "thumb": "projects/belong-module7/thumbs/S04/pixabay_63066_fresh-baked-bread-morning.jpg",
-          "preview": "projects/belong-module7/previews/S04/pixabay_63066_fresh-baked-bread-morning.mp4"
-        },
-        {
-          "id": "pexels_6588620_homemade-jam-spoon",
-          "type": "image",
-          "source": "pexels",
-          "author": "ROMAN ODINTSOV",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/spoon-in-jar-of-jam-6588620/",
-          "thumb": "projects/belong-module7/thumbs/S04/pexels_6588620_homemade-jam-spoon.jpg",
-          "preview": "projects/belong-module7/previews/S04/pexels_6588620_homemade-jam-spoon.jpg"
-        },
-        {
-          "id": "pixabay_9865309_artisan-bread-rustic",
-          "type": "image",
-          "source": "pixabay",
-          "author": "terski",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/sourdough-bread-food-homemade-9865309/",
-          "thumb": "projects/belong-module7/thumbs/S04/pixabay_9865309_artisan-bread-rustic.jpg",
-          "preview": "projects/belong-module7/previews/S04/pixabay_9865309_artisan-bread-rustic.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11672/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V04.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V04.mp4",
+     "score": 17.07,
+     "categories": [
+      "cooking",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "plated dish restaurant"
     },
     {
-      "id": "S05",
-      "script_line": "[B5] The outdoor wood-fired oven is one of the most beloved things on this property. Children make their own pizza and eat it with pride.",
-      "visual_direction": "Fire and joy: flames rolling in a wood-fired oven, a pizza sliding in on a peel, kids in flour-dusted aprons topping their own creations. Medium, lively.",
-      "clips": [
-        {
-          "id": "pexels_7091442_wood-fired-pizza-oven",
-          "type": "video",
-          "source": "pexels",
-          "author": "Brixiv",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/burning-logs-in-a-fireplace-7091442/",
-          "thumb": "projects/belong-module7/thumbs/S05/pexels_7091442_wood-fired-pizza-oven.jpg",
-          "preview": "projects/belong-module7/previews/S05/pexels_7091442_wood-fired-pizza-oven.mp4"
-        },
-        {
-          "id": "pexels_8191017_outdoor-oven-fire",
-          "type": "video",
-          "source": "pexels",
-          "author": "ROMAN ODINTSOV",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-food-baking-in-the-oven-8191017/",
-          "thumb": "projects/belong-module7/thumbs/S05/pexels_8191017_outdoor-oven-fire.jpg",
-          "preview": "projects/belong-module7/previews/S05/pexels_8191017_outdoor-oven-fire.mp4"
-        },
-        {
-          "id": "pixabay_17177_kids-making-pizza",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Citor3",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-17177/",
-          "thumb": "projects/belong-module7/thumbs/S05/pixabay_17177_kids-making-pizza.jpg",
-          "preview": "projects/belong-module7/previews/S05/pixabay_17177_kids-making-pizza.mp4"
-        },
-        {
-          "id": "pexels_32293382_pizza-peel-flames",
-          "type": "image",
-          "source": "pexels",
-          "author": "Yusuf \u00c7elik",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/wood-fired-pizza-baking-in-stone-oven-32293382/",
-          "thumb": "projects/belong-module7/thumbs/S05/pexels_32293382_pizza-peel-flames.jpg",
-          "preview": "projects/belong-module7/previews/S05/pexels_32293382_pizza-peel-flames.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11640/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V05.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V05.mp4",
+     "score": 17.07,
+     "categories": [
+      "cooking",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "plated dish restaurant"
     },
     {
-      "id": "S06",
-      "script_line": "[B6] Wine. Three sentences per wine: where it's from, what it's like, what it loves to be eaten with.",
-      "visual_direction": "Alentejo wine moment: a bottle presented and poured at a warm table, vineyard rows in low sun, an easy conversation over the glass. Medium + landscape.",
-      "clips": [
-        {
-          "id": "coverr_jhzjguwrux_wine-glasses-dinner",
-          "type": "video",
-          "source": "coverr",
-          "author": "Coverr",
-          "license": "Coverr License",
-          "page_url": "https://coverr.co/videos/woman-pouring-a-glass-of-wine-jhzjguwrux",
-          "thumb": "projects/belong-module7/thumbs/S06/coverr_jhzjguwrux_wine-glasses-dinner.jpg",
-          "preview": "projects/belong-module7/previews/S06/coverr_jhzjguwrux_wine-glasses-dinner.mp4"
-        },
-        {
-          "id": "pixabay_180191_alentejo-vineyard",
-          "type": "video",
-          "source": "pixabay",
-          "author": "NickyPe",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-180191/",
-          "thumb": "projects/belong-module7/thumbs/S06/pixabay_180191_alentejo-vineyard.jpg",
-          "preview": "projects/belong-module7/previews/S06/pixabay_180191_alentejo-vineyard.mp4"
-        },
-        {
-          "id": "pixabay_3152_wine-glasses-dinner",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Life-Of-Vids",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-3152/",
-          "thumb": "projects/belong-module7/thumbs/S06/pixabay_3152_wine-glasses-dinner.jpg",
-          "preview": "projects/belong-module7/previews/S06/pixabay_3152_wine-glasses-dinner.mp4"
-        },
-        {
-          "id": "pexels_10422324_pouring-red-wine-table",
-          "type": "image",
-          "source": "pexels",
-          "author": "\uc900\uc12d \uc724",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/wine-being-poured-into-a-glass-10422324/",
-          "thumb": "projects/belong-module7/thumbs/S06/pexels_10422324_pouring-red-wine-table.jpg",
-          "preview": "projects/belong-module7/previews/S06/pexels_10422324_pouring-red-wine-table.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-eating-at-a-restaurant-7244293/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V06.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V06.mp4",
+     "score": 14.08,
+     "categories": [],
+     "title": "video man eating restaurant",
+     "query": "farm to table plate"
     },
     {
-      "id": "S07",
-      "script_line": "[B7] Fermentation, preservation \u2014 the old arts. This jam exists because the orchard gave us more fruit in July than we could serve fresh.",
-      "visual_direction": "Pantry craft: hands filling and sealing preserve jars, shelves of jewel-coloured jams and pickles, fruit simmering in a copper pot. Tactile detail.",
-      "clips": [
-        {
-          "id": "pexels_5559614_pickle-jars-shelf",
-          "type": "video",
-          "source": "pexels",
-          "author": "Bonus Studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/clear-glass-jars-on-the-table-5559614/",
-          "thumb": "projects/belong-module7/thumbs/S07/pexels_5559614_pickle-jars-shelf.jpg",
-          "preview": "projects/belong-module7/previews/S07/pexels_5559614_pickle-jars-shelf.mp4"
-        },
-        {
-          "id": "pixabay_63066_canning-homemade-preserves",
-          "type": "video",
-          "source": "pixabay",
-          "author": "AlexKopeykin",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-63066/",
-          "thumb": "projects/belong-module7/thumbs/S07/pixabay_63066_canning-homemade-preserves.jpg",
-          "preview": "projects/belong-module7/previews/S07/pixabay_63066_canning-homemade-preserves.mp4"
-        },
-        {
-          "id": "pexels_19951488_pickle-jars-shelf",
-          "type": "image",
-          "source": "pexels",
-          "author": "mehmet uzut",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/jars-of-seasoned-food-19951488/",
-          "thumb": "projects/belong-module7/thumbs/S07/pexels_19951488_pickle-jars-shelf.jpg",
-          "preview": "projects/belong-module7/previews/S07/pexels_19951488_pickle-jars-shelf.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/chef-preparing-food-on-a-plate-in-a-kitchen-19905875/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-V07.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-V07.mp4",
+     "score": 14.08,
+     "categories": [
+      "chef",
+      "kitchen"
+     ],
+     "title": "video chef preparing food plate kitchen",
+     "query": "chef plating food"
     },
     {
-      "id": "S08",
-      "script_line": "[B8] Never rush a table. The long meal is the ceremony of this place \u2014 the table under the stars, the second bottle.",
-      "visual_direction": "The signature image: a long farm table at night under string lights and stars, candles, laughter, nobody checking the time. Wide, warm, cinematic. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_5617372_outdoor-dinner-string-lights",
-          "type": "video",
-          "source": "pexels",
-          "author": "Askar Abayev",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/family-having-a-backyard-dinner-5617372/",
-          "thumb": "projects/belong-module7/thumbs/S08/pexels_5617372_outdoor-dinner-string-lights.jpg",
-          "preview": "projects/belong-module7/previews/S08/pexels_5617372_outdoor-dinner-string-lights.mp4"
-        },
-        {
-          "id": "pixabay_172686_long-table-dinner-night",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Eaktas06",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-172686/",
-          "thumb": "projects/belong-module7/thumbs/S08/pixabay_172686_long-table-dinner-night.jpg",
-          "preview": "projects/belong-module7/previews/S08/pixabay_172686_long-table-dinner-night.mp4"
-        },
-        {
-          "id": "pexels_16120148_long-table-dinner-night",
-          "type": "image",
-          "source": "pexels",
-          "author": "Matheus Bertelli",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/long-table-in-restaurant-decorated-with-flowers-16120148/",
-          "thumb": "projects/belong-module7/thumbs/S08/pexels_16120148_long-table-dinner-night.jpg",
-          "preview": "projects/belong-module7/previews/S08/pexels_16120148_long-table-dinner-night.jpg"
-        },
-        {
-          "id": "pexels_3937878_candlelit-table-friends",
-          "type": "image",
-          "source": "pexels",
-          "author": "Andrea Piacquadio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/women-having-dinner-3937878/",
-          "thumb": "projects/belong-module7/thumbs/S08/pexels_3937878_candlelit-table-friends.jpg",
-          "preview": "projects/belong-module7/previews/S08/pexels_3937878_candlelit-table-friends.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-I01.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-I01.jpg",
+     "score": 14.67,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "meal"
+     ],
+     "title": "photos restaurant cooking chef kitchen",
+     "query": "chef plating food"
     },
     {
-      "id": "S09",
-      "script_line": "[B9] Dietary needs are hospitality, not hassle. Every one of these is a person hoping not to be a problem.",
-      "visual_direction": "Kitchen care: a chef composes a beautiful vegetarian plate with visible attention, garnishing with just-picked herbs \u2014 improvisation as generosity. Detail, hands.",
-      "clips": [
-        {
-          "id": "pexels_4252301_chef-plating-vegetables",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-in-a-chef-s-uniform-is-cooking-in-a-kitchen-4252301/",
-          "thumb": "projects/belong-module7/thumbs/S09/pexels_4252301_chef-plating-vegetables.jpg",
-          "preview": "projects/belong-module7/previews/S09/pexels_4252301_chef-plating-vegetables.mp4"
-        },
-        {
-          "id": "pexels_7243905_vegetarian-plate-gourmet",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/close-up-view-of-a-dish-on-a-plate-in-the-restaurant-7243905/",
-          "thumb": "projects/belong-module7/thumbs/S09/pexels_7243905_vegetarian-plate-gourmet.jpg",
-          "preview": "projects/belong-module7/previews/S09/pexels_7243905_vegetarian-plate-gourmet.mp4"
-        },
-        {
-          "id": "pixabay_11665_plating-dish-herbs",
-          "type": "video",
-          "source": "pixabay",
-          "author": "XiaosKitchen",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-11665/",
-          "thumb": "projects/belong-module7/thumbs/S09/pixabay_11665_plating-dish-herbs.jpg",
-          "preview": "projects/belong-module7/previews/S09/pixabay_11665_plating-dish-herbs.mp4"
-        },
-        {
-          "id": "pexels_37923425_chef-plating-vegetables",
-          "type": "image",
-          "source": "pexels",
-          "author": "Mad Knoxx Deluxe",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/chef-seasoning-avocado-dish-in-kitchen-37923425/",
-          "thumb": "projects/belong-module7/thumbs/S09/pexels_37923425_chef-plating-vegetables.jpg",
-          "preview": "projects/belong-module7/previews/S09/pexels_37923425_chef-plating-vegetables.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Eva Bronzini",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/sliced-fruits-and-vegetables-on-a-wooden-plate-5502772/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-I02.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-I02.jpg",
+     "score": 14.08,
+     "categories": [
+      "rustic",
+      "table",
+      "vegetable"
+     ],
+     "title": "A rustic flatlay showing fresh organic vegetables including beets, cucumbers, and peas.",
+     "query": "farm to table plate"
     },
     {
-      "id": "S10",
-      "script_line": "[B10] Food is where trust becomes physical. Feed people like you mean it. Because here, we do.",
-      "visual_direction": "Closing warmth: a dish set down before a guest with a smile, hands passing plates family-style down the table, first bite delight. Medium, human.",
-      "clips": [
-        {
-          "id": "pexels_5866464_warm-meal-served",
-          "type": "video",
-          "source": "pexels",
-          "author": "olia danilevich",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-serving-a-slice-of-pie-5866464/",
-          "thumb": "projects/belong-module7/thumbs/S10/pexels_5866464_warm-meal-served.jpg",
-          "preview": "projects/belong-module7/previews/S10/pexels_5866464_warm-meal-served.mp4"
-        },
-        {
-          "id": "pixabay_148537_passing-food-family-style",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Joko_Narimo",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-148537/",
-          "thumb": "projects/belong-module7/thumbs/S10/pixabay_148537_passing-food-family-style.jpg",
-          "preview": "projects/belong-module7/previews/S10/pixabay_148537_passing-food-family-style.mp4"
-        },
-        {
-          "id": "pexels_17543143_warm-meal-served",
-          "type": "image",
-          "source": "pexels",
-          "author": "Nadin Sh",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/bowl-with-roasted-potatoes-17543143/",
-          "thumb": "projects/belong-module7/thumbs/S10/pexels_17543143_warm-meal-served.jpg",
-          "preview": "projects/belong-module7/previews/S10/pexels_17543143_warm-meal-served.jpg"
-        }
-      ]
+     "id": "belong-m7-S01-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Loifotos",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/top-view-of-gourmet-steak-with-vegetables-on-plate-35546719/",
+     "thumb": "projects/belong-module7/thumbs/S01/belong-m7-S01-I03.jpg",
+     "preview": "projects/belong-module7/previews/S01/belong-m7-S01-I03.jpg",
+     "score": 13.98,
+     "categories": [
+      "table",
+      "vegetable"
+     ],
+     "title": "Elegant gourmet steak dish with vegetables on a sleek black background for a minimalist food styling.",
+     "query": "farm to table plate"
     }
-  ]
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "Let me start with the philosophy, and it fits in one sentence: before the plate, there is a grower. Everything else follows from that. Over seventy percent of what we serve is grown on this property. The vegetables ripen",
+   "visual_direction": "",
+   "t": 19.6,
+   "end": 38.19,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S02-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "TungArt7",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-231246/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V01.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V01.mp4",
+     "score": 26.28,
+     "categories": [
+      "countryside",
+      "farm",
+      "farmer",
+      "field",
+      "harvest",
+      "outdoor"
+     ],
+     "title": "videos",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "JoshuaWoroniecki",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-62390/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V02.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V02.mp4",
+     "score": 24.48,
+     "categories": [
+      "countryside",
+      "farm",
+      "farmer",
+      "field",
+      "harvest",
+      "rural"
+     ],
+     "title": "videos",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V03",
+     "type": "video",
+     "source": "coverr",
+     "author": "Coverr",
+     "license": "Coverr License",
+     "page_url": "https://coverr.co/videos/a-man-harvesting-cabbage-from-the-garden-bio8wbwkb5",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V03.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V03.mp4",
+     "score": 22.34,
+     "categories": [
+      "garden",
+      "harvest"
+     ],
+     "title": "videos man harvesting cabbage from the garden bio8wbwkb5",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Juncala",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-130226/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V04.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V04.mp4",
+     "score": 21.94,
+     "categories": [
+      "field",
+      "harvest",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/packing-carrots-to-bag-on-field-10787014/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V05.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V05.mp4",
+     "score": 21.28,
+     "categories": [
+      "field"
+     ],
+     "title": "video packing carrots bag field",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Dr.Vivasayam  YouTube Channel",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-working-with-green-plants-10847025/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V06.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V06.mp4",
+     "score": 20.68,
+     "categories": [
+      "working"
+     ],
+     "title": "video woman working with green plants",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/women-working-and-carrying-baskets-with-vegetables-13534810/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-V07.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-V07.mp4",
+     "score": 20.68,
+     "categories": [
+      "table",
+      "vegetable",
+      "working"
+     ],
+     "title": "video women working and carrying baskets with vegetables",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Deden R",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmers-working-on-field-26690966/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-I01.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-I01.jpg",
+     "score": 21.28,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "rural",
+      "table",
+      "vegetable"
+     ],
+     "title": "Indonesian farmers packing vegetables in a rural field. Clear sky provides bright lighting.",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Maria Turkmani",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-working-on-field-and-in-orchard-14515285/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-I02.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-I02.jpg",
+     "score": 21.28,
+     "categories": [
+      "farm",
+      "farmer",
+      "field"
+     ],
+     "title": "Elderly farmer picking radishes in a lush Syrian field surrounded by trees and mountains.",
+     "query": "farmer harvesting vegetables"
+    },
+    {
+     "id": "belong-m7-S02-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/potatoes-natural-soil-gardening-1866415/",
+     "thumb": "projects/belong-module7/thumbs/S02/belong-m7-S02-I03.jpg",
+     "preview": "projects/belong-module7/previews/S02/belong-m7-S02-I03.jpg",
+     "score": 21.06,
+     "categories": [
+      "farm",
+      "garden",
+      "harvest",
+      "soil",
+      "table",
+      "vegetable"
+     ],
+     "title": "photos potatoes natural soil gardening",
+     "query": "hands in soil garden"
+    }
+   ]
+  },
+  {
+   "id": "S12",
+   "script_line": "Own that identity with pride. The guest who wants a Michelin performance has other addresses; the guest who wants to taste a territory has us — and there are many, many more of the second kind. Dietary needs are hospital",
+   "visual_direction": "",
+   "t": 277.7,
+   "end": 306.89,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S12-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Polina ⠀",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-preparing-a-vegetable-salad-5645038/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V01.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V01.mp4",
+     "score": 21.79,
+     "categories": [
+      "table",
+      "vegetable"
+     ],
+     "title": "video person preparing vegetable salad",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11638/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V02.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V02.mp4",
+     "score": 20.47,
+     "categories": [
+      "cooking",
+      "kitchen",
+      "meal",
+      "rustic",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlekseiyPovar",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-14421/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V03.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V03.mp4",
+     "score": 20.19,
+     "categories": [
+      "cooking",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "KATRIN  BOLOVTSOVA",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/top-view-of-cooking-vegetables-5615158/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V04.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V04.mp4",
+     "score": 19.96,
+     "categories": [
+      "cooking",
+      "table",
+      "vegetable"
+     ],
+     "title": "video top view cooking vegetables",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-view-of-vegetables-on-the-table-5084540/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V05.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V05.mp4",
+     "score": 19.96,
+     "categories": [
+      "table",
+      "vegetable"
+     ],
+     "title": "video close view vegetables the table",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "haruudu",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-350338/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V06.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V06.mp4",
+     "score": 19.59,
+     "categories": [
+      "chef",
+      "cooking",
+      "hands",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "chef hands preparing food"
+    },
+    {
+     "id": "belong-m7-S12-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Klaus Nielsen",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-arranging-the-tomatoes-in-the-table-6286086/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-V07.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-V07.mp4",
+     "score": 19.07,
+     "categories": [
+      "table"
+     ],
+     "title": "video person arranging the tomatoes the table",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Kristina  Snowasp",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/person-slicing-vegetable-on-brown-wooden-chopping-board-9986228/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-I01.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-I01.jpg",
+     "score": 18.79,
+     "categories": [
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "Adult preparing a fresh vegetable salad in a cozy kitchen with various ingredients and kitchenware.",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Engin Akyurt",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/red-tomatoes-and-garlics-in-cooking-pot-1487510/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-I02.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-I02.jpg",
+     "score": 18.16,
+     "categories": [
+      "mediterranean",
+      "table",
+      "vegetable"
+     ],
+     "title": "A vivid display of fresh Mediterranean vegetables on a wooden table with a pan.",
+     "query": "rustic farm kitchen cooking"
+    },
+    {
+     "id": "belong-m7-S12-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Van3ssa_",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/figs-grapes-vine-leaves-fresh-fruit-7396482/",
+     "thumb": "projects/belong-module7/thumbs/S12/belong-m7-S12-I03.jpg",
+     "preview": "projects/belong-module7/previews/S12/belong-m7-S12-I03.jpg",
+     "score": 18.07,
+     "categories": [
+      "farm",
+      "harvest",
+      "kitchen",
+      "mediterranean",
+      "rustic",
+      "table"
+     ],
+     "title": "photos figs grapes vine leaves fresh fruit",
+     "query": "country kitchen food"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "You know my weakness. Our list celebrates Alentejo — the bold reds, the balanced whites, the artisanal blends — and I want every front-of-house person to be able to guide a guest through it without fear. You don't need t",
+   "visual_direction": "",
+   "t": 160.39,
+   "end": 193.39,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S07-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Positive_Hedgehog",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-276356/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V01.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V01.mp4",
+     "score": 16.17,
+     "categories": [
+      "farm",
+      "field",
+      "harvest",
+      "landscape",
+      "rural",
+      "vineyard"
+     ],
+     "title": "videos",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Czapp Árpád",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/drone-footage-of-a-farm-fields-12321501/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V02.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V02.mp4",
+     "score": 14.55,
+     "categories": [
+      "farm",
+      "field"
+     ],
+     "title": "video drone footage farm fields",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Integrofilms",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40334/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V03.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V03.mp4",
+     "score": 13.55,
+     "categories": [
+      "farm",
+      "harvest",
+      "vineyard"
+     ],
+     "title": "videos",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Fernando Sánchez Aranguren",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-green-vineyards-in-summer-37296000/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V04.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V04.mp4",
+     "score": 11.17,
+     "categories": [
+      "vineyard"
+     ],
+     "title": "video aerial view green vineyards summer",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Morne Kemp",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-a-vineyard-with-sun-shining-through-the-trees-19571397/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V05.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V05.mp4",
+     "score": 11.17,
+     "categories": [
+      "vineyard"
+     ],
+     "title": "video aerial view vineyard with sun shining through the trees",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "_ MARROS _",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-rolling-vineyards-at-sunset-32889119/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V06.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V06.mp4",
+     "score": 11.17,
+     "categories": [
+      "vineyard"
+     ],
+     "title": "video aerial view rolling vineyards sunset",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SerajKaram",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-201308/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-V07.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-V07.mp4",
+     "score": 11.15,
+     "categories": [
+      "outdoor",
+      "sunrise"
+     ],
+     "title": "videos",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Van3ssa_",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/vineyard-sunset-sky-wine-field-6777817/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-I01.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-I01.jpg",
+     "score": 19.17,
+     "categories": [
+      "countryside",
+      "farm",
+      "field",
+      "harvest",
+      "landscape",
+      "rural"
+     ],
+     "title": "photos vineyard sunset sky wine field",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Foto_Rudi",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/vineyard-grapes-symmetry-vine-10005761/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-I02.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-I02.jpg",
+     "score": 15.78,
+     "categories": [
+      "countryside",
+      "farm",
+      "field",
+      "harvest",
+      "vineyard"
+     ],
+     "title": "photos vineyard grapes symmetry vine",
+     "query": "vineyard rows sunset"
+    },
+    {
+     "id": "belong-m7-S07-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/rural-fields-on-hills-at-sunset-19061950/",
+     "thumb": "projects/belong-module7/thumbs/S07/belong-m7-S07-I03.jpg",
+     "preview": "projects/belong-module7/previews/S07/belong-m7-S07-I03.jpg",
+     "score": 12.58,
+     "categories": [
+      "vineyard"
+     ],
+     "title": "Scenic aerial view of vineyards rolling through the hills of Alba, Piemonte, Italy during sunset.",
+     "query": "vineyard rows sunset"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "The eggs were laid today, by hens you can walk over and meet. What we don't grow, we source as close as possible: cheeses from the region, fish from this coast, wines from Alentejo and from the Vicentino vineyards up the",
+   "visual_direction": "",
+   "t": 38.88,
+   "end": 75.51,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S03-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "izhar-ahamed",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-303928/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V01.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V01.mp4",
+     "score": 20.94,
+     "categories": [
+      "countryside",
+      "farm",
+      "garden",
+      "harvest",
+      "outdoor",
+      "table"
+     ],
+     "title": "videos",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "izhar-ahamed",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-292292/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V02.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V02.mp4",
+     "score": 20.55,
+     "categories": [
+      "farm",
+      "garden",
+      "harvest",
+      "orchard"
+     ],
+     "title": "videos",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Panya Niyomtham",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farmer-tending-lush-green-vegetable-field-35036265/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V03.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V03.mp4",
+     "score": 20.53,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "table",
+      "vegetable"
+     ],
+     "title": "video farmer tending lush green vegetable field",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "HONG SON",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farmers-harvesting-in-lush-green-fields-32340495/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V04.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V04.mp4",
+     "score": 19.03,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "harvest"
+     ],
+     "title": "video farmers harvesting lush green fields",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-on-picking-carrots-on-field-10787013/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V05.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V05.mp4",
+     "score": 16.54,
+     "categories": [
+      "field"
+     ],
+     "title": "video close picking carrots field",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-on-field-10787017/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V06.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V06.mp4",
+     "score": 15.73,
+     "categories": [
+      "field"
+     ],
+     "title": "video people field",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "iwsky",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-234313/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-V07.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-V07.mp4",
+     "score": 14.25,
+     "categories": [
+      "cooking",
+      "harvest",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Emrehan  Çolak",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-harvesting-leeks-in-field-36719724/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-I01.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-I01.jpg",
+     "score": 19.54,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "harvest",
+      "outdoor"
+     ],
+     "title": "A female farmer sitting outdoors, harvesting fresh leeks in a field during the day.",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Emrehan  Çolak",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/field-worker-harvesting-leeks-in-sunny-farm-36719725/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-I02.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-I02.jpg",
+     "score": 17.74,
+     "categories": [
+      "field",
+      "harvest"
+     ],
+     "title": "A person sitting in a field, harvesting and bundling leeks under sunlight in an agriculture field.",
+     "query": "seasonal vegetable harvest"
+    },
+    {
+     "id": "belong-m7-S03-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "congerdesign",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/tomatoes-vine-tomatoes-vegetarian-3544442/",
+     "thumb": "projects/belong-module7/thumbs/S03/belong-m7-S03-I03.jpg",
+     "preview": "projects/belong-module7/previews/S03/belong-m7-S03-I03.jpg",
+     "score": 16.16,
+     "categories": [
+      "garden",
+      "harvest",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "photos tomatoes vine tomatoes vegetarian",
+     "query": "ripe tomatoes vine"
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "script_line": "This is ancestral intelligence: the circular economy existed in every Alentejo pantry long before anyone gave it a name. When you explain to a guest that this jam exists because the orchard gave us more fruit in July tha",
+   "visual_direction": "",
+   "t": 213.75,
+   "end": 238.66,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S09-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kris_Shtern_6786",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-367009/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V01.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V01.mp4",
+     "score": 21.08,
+     "categories": [
+      "countryside",
+      "farm",
+      "garden",
+      "harvest",
+      "landscape",
+      "orchard"
+     ],
+     "title": "videos",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kris_Shtern_6786",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-367010/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V02.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V02.mp4",
+     "score": 21.08,
+     "categories": [
+      "countryside",
+      "farm",
+      "garden",
+      "harvest",
+      "landscape",
+      "orchard"
+     ],
+     "title": "videos",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "izhar-ahamed",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-292289/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V03.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V03.mp4",
+     "score": 18.4,
+     "categories": [
+      "farm",
+      "garden",
+      "harvest",
+      "orchard",
+      "outdoor"
+     ],
+     "title": "videos",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SurkhabAhmad-786",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-365300/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V04.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V04.mp4",
+     "score": 17.2,
+     "categories": [
+      "farm",
+      "garden",
+      "harvest",
+      "orchard"
+     ],
+     "title": "videos",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "azra melek",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/harvesting-fresh-yellow-plums-outdoors-38480043/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V05.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V05.mp4",
+     "score": 15.2,
+     "categories": [
+      "harvest",
+      "outdoor"
+     ],
+     "title": "video harvesting fresh yellow plums outdoors",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "INNA BELAND",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/picking-fresh-lemons-from-tree-in-springtime-31269105/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V06.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V06.mp4",
+     "score": 14.0,
+     "categories": [],
+     "title": "video picking fresh lemons from tree springtime",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Soil Film",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-picking-up-oranges-14086016/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-V07.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-V07.mp4",
+     "score": 13.08,
+     "categories": [],
+     "title": "video man picking oranges",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "lumix2004",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/apples-orchard-apple-trees-1873078/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-I01.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-I01.jpg",
+     "score": 17.8,
+     "categories": [
+      "countryside",
+      "farm",
+      "harvest",
+      "landscape",
+      "orchard",
+      "outdoor"
+     ],
+     "title": "photos apples orchard apple trees",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "M1DDL3  M7N",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-picking-oranges-14766853/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-I02.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-I02.jpg",
+     "score": 14.28,
+     "categories": [
+      "farm",
+      "rural"
+     ],
+     "title": "Two men picking oranges on a farm using baskets, showcasing rural agriculture.",
+     "query": "orchard fruit harvest"
+    },
+    {
+     "id": "belong-m7-S09-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "lumix2004",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/apples-fruits-orchard-nature-trees-1872997/",
+     "thumb": "projects/belong-module7/thumbs/S09/belong-m7-S09-I03.jpg",
+     "preview": "projects/belong-module7/previews/S09/belong-m7-S09-I03.jpg",
+     "score": 14.2,
+     "categories": [
+      "farm",
+      "garden",
+      "harvest",
+      "orchard"
+     ],
+     "title": "photos apples fruits orchard nature trees",
+     "query": "orchard fruit harvest"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "This is what root-to-table means when we say it. Not a marketing garnish — a supply chain you can walk in five minutes. Breakfast. I said it before and I'll say it again: breakfast is a statement of identity. House-made ",
+   "visual_direction": "",
+   "t": 76.32,
+   "end": 94.48,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S04-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11634/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V01.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V01.mp4",
+     "score": 16.17,
+     "categories": [
+      "bread",
+      "cooking",
+      "meal",
+      "rustic",
+      "table"
+     ],
+     "title": "videos",
+     "query": "rustic breakfast table"
+    },
+    {
+     "id": "belong-m7-S04-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlekseiyPovar",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-14239/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V02.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V02.mp4",
+     "score": 15.57,
+     "categories": [
+      "bread",
+      "cooking",
+      "table"
+     ],
+     "title": "videos",
+     "query": "artisan bread loaves"
+    },
+    {
+     "id": "belong-m7-S04-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11606/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V03.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V03.mp4",
+     "score": 15.16,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "table"
+     ],
+     "title": "videos",
+     "query": "homemade preserves jars"
+    },
+    {
+     "id": "belong-m7-S04-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/bread-food-plate-wood-3943589/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V04.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V04.mp4",
+     "score": 13.76,
+     "categories": [
+      "bread"
+     ],
+     "title": "video bread food plate wood",
+     "query": "rustic breakfast table"
+    },
+    {
+     "id": "belong-m7-S04-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-freshly-baked-breads-7405929/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V05.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V05.mp4",
+     "score": 13.16,
+     "categories": [
+      "bread"
+     ],
+     "title": "video freshly baked breads",
+     "query": "artisan bread loaves"
+    },
+    {
+     "id": "belong-m7-S04-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/various-breads-representing-diversity-10203034/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V06.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V06.mp4",
+     "score": 13.16,
+     "categories": [
+      "bread"
+     ],
+     "title": "video various breads representing diversity",
+     "query": "artisan bread loaves"
+    },
+    {
+     "id": "belong-m7-S04-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-footage-of-a-breads-inside-an-oven-7405932/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-V07.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-V07.mp4",
+     "score": 13.16,
+     "categories": [
+      "bread"
+     ],
+     "title": "video close footage breads inside oven",
+     "query": "artisan bread loaves"
+    },
+    {
+     "id": "belong-m7-S04-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "frank minjarez",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/artisanal-bread-varieties-at-farmer-s-market-32440558/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-I01.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-I01.jpg",
+     "score": 14.96,
+     "categories": [
+      "artisan",
+      "bread"
+     ],
+     "title": "Assorted artisanal breads on display at a market stall, labeled with prices and ingredients.",
+     "query": "artisan bread loaves"
+    },
+    {
+     "id": "belong-m7-S04-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "ThorstenF",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/basil-food-vegetables-cheese-3077929/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-I02.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-I02.jpg",
+     "score": 14.14,
+     "categories": [
+      "guest",
+      "kitchen",
+      "meal",
+      "olive",
+      "rustic",
+      "table"
+     ],
+     "title": "photos basil food vegetables cheese",
+     "query": "cheese board rustic"
+    },
+    {
+     "id": "belong-m7-S04-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Jonathan Borba",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/exquisite-charcuterie-board-with-artisan-cheese-and-bread-29068723/",
+     "thumb": "projects/belong-module7/thumbs/S04/belong-m7-S04-I03.jpg",
+     "preview": "projects/belong-module7/previews/S04/belong-m7-S04-I03.jpg",
+     "score": 13.39,
+     "categories": [
+      "bread"
+     ],
+     "title": "A beautifully arranged charcuterie board featuring cheeses, meats, and bread, perfect for gourmet dining.",
+     "query": "cheese board rustic"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "The outdoor wood-fired oven is one of the most beloved things on this property. Sun-ripened tomatoes, just-picked herbs, local cheeses, fire. Children make their own in the pizza classes and eat their creation with a pri",
+   "visual_direction": "",
+   "t": 129.21,
+   "end": 159.58,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S06-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Caleb Oquendo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/artisan-pizza-making-in-rustic-italian-kitchen-34539082/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V01.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V01.mp4",
+     "score": 15.23,
+     "categories": [
+      "artisan",
+      "kitchen",
+      "rustic"
+     ],
+     "title": "video artisan pizza making rustic italian kitchen",
+     "query": "wood fired pizza oven"
+    },
+    {
+     "id": "belong-m7-S06-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "TPMotion",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-79635/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V02.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V02.mp4",
+     "score": 11.56,
+     "categories": [
+      "kitchen"
+     ],
+     "title": "videos",
+     "query": "pizza fresh herbs"
+    },
+    {
+     "id": "belong-m7-S06-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3612/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V03.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V03.mp4",
+     "score": 11.5,
+     "categories": [
+      "worker"
+     ],
+     "title": "videos",
+     "query": "child making pizza dough"
+    },
+    {
+     "id": "belong-m7-S06-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "juphotography",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-15178/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V04.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V04.mp4",
+     "score": 11.43,
+     "categories": [],
+     "title": "videos",
+     "query": "wood fired pizza oven"
+    },
+    {
+     "id": "belong-m7-S06-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Efrem  Efre",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/professional-chef-preparing-delicious-calzone-36965347/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V05.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V05.mp4",
+     "score": 11.36,
+     "categories": [
+      "chef"
+     ],
+     "title": "video professional chef preparing delicious calzone",
+     "query": "child making pizza dough"
+    },
+    {
+     "id": "belong-m7-S06-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-making-pizza-5899332/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V06.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V06.mp4",
+     "score": 11.36,
+     "categories": [],
+     "title": "video person making pizza",
+     "query": "pizza fresh herbs"
+    },
+    {
+     "id": "belong-m7-S06-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-putting-fresh-herbs-on-the-pizza-dough-5898126/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-V07.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-V07.mp4",
+     "score": 11.36,
+     "categories": [
+      "herbs"
+     ],
+     "title": "video person putting fresh herbs the pizza dough",
+     "query": "pizza fresh herbs"
+    },
+    {
+     "id": "belong-m7-S06-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "ponce_photography",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/pizza-garlic-cutting-board-1442946/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-I01.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-I01.jpg",
+     "score": 16.9,
+     "categories": [
+      "cooking",
+      "herbs",
+      "meal",
+      "mediterranean",
+      "rustic",
+      "table"
+     ],
+     "title": "photos pizza garlic cutting board",
+     "query": "pizza fresh herbs"
+    },
+    {
+     "id": "belong-m7-S06-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "tehzeebkazmii",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/ai-generated-pizza-cooking-chef-10340041/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-I02.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-I02.jpg",
+     "score": 16.23,
+     "categories": [
+      "chef",
+      "cooking",
+      "herbs",
+      "kitchen",
+      "stone"
+     ],
+     "title": "photos generated pizza cooking chef",
+     "query": "child making pizza dough"
+    },
+    {
+     "id": "belong-m7-S06-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Engin Akyurt",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/baked-eggplant-with-sliced-tomatoes-and-spinach-1437812/",
+     "thumb": "projects/belong-module7/thumbs/S06/belong-m7-S06-I03.jpg",
+     "preview": "projects/belong-module7/previews/S06/belong-m7-S06-I03.jpg",
+     "score": 12.56,
+     "categories": [
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "Delicious vegetable pizza featuring fresh eggplant, basil, and tomatoes for a healthy meal.",
+     "query": "pizza fresh herbs"
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "script_line": "Not a lecture, one line: the courgettes are from the garden, picked this morning. One line changes the meal. Honesty about what we are. We're not a gastronomic temple with tweezers and foam. We are honest, excellent, sou",
+   "visual_direction": "",
+   "t": 261.18,
+   "end": 277.1,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S11-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11664/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V01.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V01.mp4",
+     "score": 21.87,
+     "categories": [
+      "harvest",
+      "kitchen",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "picking courgettes garden"
+    },
+    {
+     "id": "belong-m7-S11-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-a-chef-s-uniform-is-cooking-in-a-kitchen-4252301/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V02.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V02.mp4",
+     "score": 18.88,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen"
+     ],
+     "title": "video man chef uniform cooking kitchen",
+     "query": "vegetables kitchen counter"
+    },
+    {
+     "id": "belong-m7-S11-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11665/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V03.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V03.mp4",
+     "score": 18.38,
+     "categories": [
+      "herbs",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "picking courgettes garden"
+    },
+    {
+     "id": "belong-m7-S11-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Engin_Akyurt",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-61669/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V04.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V04.mp4",
+     "score": 16.08,
+     "categories": [
+      "harvest",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "vegetables kitchen counter"
+    },
+    {
+     "id": "belong-m7-S11-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Eleonora Vokueva",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/harvesting-fresh-strawberries-in-lush-garden-37654938/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V05.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V05.mp4",
+     "score": 15.28,
+     "categories": [
+      "garden",
+      "harvest"
+     ],
+     "title": "video harvesting fresh strawberries lush garden",
+     "query": "picking courgettes garden"
+    },
+    {
+     "id": "belong-m7-S11-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Engin_Akyurt",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-61672/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V06.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V06.mp4",
+     "score": 14.88,
+     "categories": [
+      "kitchen",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "vegetables kitchen counter"
+    },
+    {
+     "id": "belong-m7-S11-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/freshly-harvested-vegetables-5104191/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-V07.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-V07.mp4",
+     "score": 14.79,
+     "categories": [
+      "harvest",
+      "table",
+      "vegetable"
+     ],
+     "title": "video freshly harvested vegetables",
+     "query": "fresh vegetables basket"
+    },
+    {
+     "id": "belong-m7-S11-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Cheerfully_lost",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/tomato-healthy-health-produce-2556426/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-I01.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-I01.jpg",
+     "score": 28.76,
+     "categories": [
+      "cooking",
+      "farm",
+      "farmer",
+      "garden",
+      "harvest",
+      "kitchen"
+     ],
+     "title": "photos tomato healthy health produce",
+     "query": "fresh vegetables basket"
+    },
+    {
+     "id": "belong-m7-S11-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gu Bra",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/cucumber-on-a-ground-17836758/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-I02.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-I02.jpg",
+     "score": 16.38,
+     "categories": [
+      "garden",
+      "harvest",
+      "table",
+      "vegetable"
+     ],
+     "title": "Close-up of a zucchini plant with blossoms in a garden, showing fresh vegetables ready for harvest.",
+     "query": "picking courgettes garden"
+    },
+    {
+     "id": "belong-m7-S11-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Phenyo Deluxe",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/photo-of-vegetables-beside-gray-electric-kettle-1370082/",
+     "thumb": "projects/belong-module7/thumbs/S11/belong-m7-S11-I03.jpg",
+     "preview": "projects/belong-module7/previews/S11/belong-m7-S11-I03.jpg",
+     "score": 15.18,
+     "categories": [
+      "cooking",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "A modern home kitchen counter displaying fresh vegetables and appliances, ideal for healthy cooking.",
+     "query": "vegetables kitchen counter"
+    }
+   ]
+  },
+  {
+   "id": "S10",
+   "script_line": "We are the antidote to the city, and the long meal is the ceremony of this place. The table under the stars, the second bottle, the conversation that stretches — protect it. Efficiency matters in the kitchen; at the tabl",
+   "visual_direction": "",
+   "t": 239.26,
+   "end": 260.57,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S10-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11610/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V01.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V01.mp4",
+     "score": 14.09,
+     "categories": [
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "videos",
+     "query": "dinner under stars"
+    },
+    {
+     "id": "belong-m7-S10-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-eating-bread-while-a-woman-is-getting-a-mussel-from-the-bowl-6840121/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V02.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V02.mp4",
+     "score": 12.93,
+     "categories": [
+      "bread"
+     ],
+     "title": "video man eating bread while woman getting mussel from the bowl",
+     "query": "candlelit outdoor table"
+    },
+    {
+     "id": "belong-m7-S10-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11620/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V03.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V03.mp4",
+     "score": 12.89,
+     "categories": [
+      "cooking",
+      "meal"
+     ],
+     "title": "videos",
+     "query": "dinner under stars"
+    },
+    {
+     "id": "belong-m7-S10-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-long-table-filled-with-christmas-decoration-and-food-6184541/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V04.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V04.mp4",
+     "score": 12.81,
+     "categories": [
+      "table"
+     ],
+     "title": "video long table filled with christmas decoration and food",
+     "query": "candlelit outdoor table"
+    },
+    {
+     "id": "belong-m7-S10-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Askar Abayev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/happy-family-talking-at-a-dinner-table-5617394/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V05.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V05.mp4",
+     "score": 12.81,
+     "categories": [
+      "table"
+     ],
+     "title": "video happy family talking dinner table",
+     "query": "candlelit outdoor table"
+    },
+    {
+     "id": "belong-m7-S10-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-sitting-at-a-table-with-food-in-front-of-him-5019322/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V06.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V06.mp4",
+     "score": 12.69,
+     "categories": [
+      "table"
+     ],
+     "title": "video man sitting table with food front him",
+     "query": "friends long dinner night"
+    },
+    {
+     "id": "belong-m7-S10-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Motionwell",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-22609/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-V07.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-V07.mp4",
+     "score": 12.53,
+     "categories": [
+      "landscape",
+      "outdoor",
+      "sunrise"
+     ],
+     "title": "videos",
+     "query": "candlelit outdoor table"
+    },
+    {
+     "id": "belong-m7-S10-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Compose_the_Seen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/starrail-star-trails-field-stars-10213533/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-I01.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-I01.jpg",
+     "score": 13.49,
+     "categories": [
+      "farm",
+      "farmer",
+      "field"
+     ],
+     "title": "photos starrail star trails field stars",
+     "query": "friends long dinner night"
+    },
+    {
+     "id": "belong-m7-S10-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/women-eating-with-candlelight-on-table-6555002/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-I02.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-I02.jpg",
+     "score": 12.92,
+     "categories": [],
+     "title": "Four friends enjoying a candlelit dinner indoors with wine and conversation.",
+     "query": "friends long dinner night"
+    },
+    {
+     "id": "belong-m7-S10-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Boris Ivas",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/tables-and-chairs-on-restaurant-terrace-18823961/",
+     "thumb": "projects/belong-module7/thumbs/S10/belong-m7-S10-I03.jpg",
+     "preview": "projects/belong-module7/previews/S10/belong-m7-S10-I03.jpg",
+     "score": 12.09,
+     "categories": [
+      "outdoor",
+      "table",
+      "terrace"
+     ],
+     "title": "Cozy outdoor restaurant terrace with ambient lighting and elegant table setup.",
+     "query": "dinner under stars"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Generous, honest, unhurried. Many guests will tell you at checkout that breakfast was their favourite part of the day — that's normal, and it's a compliment to protect. Lunch and dinner: seasonal, simple, satisfying — di",
+   "visual_direction": "",
+   "t": 95.08,
+   "end": 128.25,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S05-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Ronin_Studio_Munich",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-37664/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V01.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V01.mp4",
+     "score": 17.33,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "landscape",
+      "terrace"
+     ],
+     "title": "videos",
+     "query": "outdoor terrace dining"
+    },
+    {
+     "id": "belong-m7-S05-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-serving-lunch-on-a-table-outdoor-5961377/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V02.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V02.mp4",
+     "score": 15.83,
+     "categories": [
+      "outdoor",
+      "table"
+     ],
+     "title": "video woman serving lunch table outdoor",
+     "query": "warm evening light meal"
+    },
+    {
+     "id": "belong-m7-S05-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Vimeo-Free-Videos",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1192/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V03.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V03.mp4",
+     "score": 15.1,
+     "categories": [
+      "meal"
+     ],
+     "title": "videos",
+     "query": "outdoor terrace dining"
+    },
+    {
+     "id": "belong-m7-S05-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Askar Abayev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/family-having-a-dinner-outdoors-5617347/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V04.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V04.mp4",
+     "score": 13.75,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "video family having dinner outdoors",
+     "query": "warm evening light meal"
+    },
+    {
+     "id": "belong-m7-S05-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/restaurant-landscape-lights-hotel-6010309/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V05.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V05.mp4",
+     "score": 13.53,
+     "categories": [
+      "hotel",
+      "landscape"
+     ],
+     "title": "video restaurant landscape lights hotel",
+     "query": "garden restaurant evening"
+    },
+    {
+     "id": "belong-m7-S05-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "shahfaisalkhan6676",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-82789/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V06.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V06.mp4",
+     "score": 13.35,
+     "categories": [
+      "meal",
+      "table"
+     ],
+     "title": "videos",
+     "query": "long table dinner outdoors"
+    },
+    {
+     "id": "belong-m7-S05-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "shahfaisalkhan6676",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-82787/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-V07.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-V07.mp4",
+     "score": 13.35,
+     "categories": [
+      "meal",
+      "table"
+     ],
+     "title": "videos",
+     "query": "long table dinner outdoors"
+    },
+    {
+     "id": "belong-m7-S05-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Matheus Bertelli",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/hot-fondue-with-dishware-on-table-7510728/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-I01.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-I01.jpg",
+     "score": 14.35,
+     "categories": [
+      "bread",
+      "garden",
+      "table"
+     ],
+     "title": "Small fondue pot and skewers with cups placed on woodn and glass table with served bread pieces for picnic in night gard",
+     "query": "warm evening light meal"
+    },
+    {
+     "id": "belong-m7-S05-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Pew Nguyen",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/table-and-chairs-outside-restaurant-7800281/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-I02.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-I02.jpg",
+     "score": 14.03,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "Inviting outdoor dining area with wooden chairs and lush greenery.",
+     "query": "garden restaurant evening"
+    },
+    {
+     "id": "belong-m7-S05-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "TheUjulala",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/restaurant-tables-dining-room-1626983/",
+     "thumb": "projects/belong-module7/thumbs/S05/belong-m7-S05-I03.jpg",
+     "preview": "projects/belong-module7/previews/S05/belong-m7-S05-I03.jpg",
+     "score": 13.63,
+     "categories": [
+      "garden",
+      "outdoor",
+      "table",
+      "terrace"
+     ],
+     "title": "photos restaurant tables dining room",
+     "query": "outdoor terrace dining"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "That's it. That sentence sells the wine, honours the winemaker, and deepens the guest's connection to the territory. Three sentences. And fermentation, preservation — the old arts. Our preserves, our jams, the pickles, t",
+   "visual_direction": "",
+   "t": 193.71,
+   "end": 213.06,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S08-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Aida Shukuhi",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/waitstaff-serves-meal-at-cozy-restaurant-table-33462592/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V01.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V01.mp4",
+     "score": 13.94,
+     "categories": [
+      "meal",
+      "table"
+     ],
+     "title": "video waitstaff serves meal cozy restaurant table",
+     "query": "waiter pouring guest"
+    },
+    {
+     "id": "belong-m7-S08-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Josh_Malic",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-62078/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V02.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V02.mp4",
+     "score": 12.94,
+     "categories": [
+      "harvest",
+      "vineyard"
+     ],
+     "title": "videos",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-waiter-serving-wine-on-his-guests-8922357/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V03.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V03.mp4",
+     "score": 12.6,
+     "categories": [
+      "guest"
+     ],
+     "title": "video waiter serving wine his guests",
+     "query": "waiter pouring guest"
+    },
+    {
+     "id": "belong-m7-S08-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kmeel_com",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-84226/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V04.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V04.mp4",
+     "score": 12.34,
+     "categories": [
+      "field",
+      "vineyard"
+     ],
+     "title": "videos",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Vadim Starling",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-holding-a-glass-of-wine-in-his-hand-15909395/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V05.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V05.mp4",
+     "score": 12.14,
+     "categories": [],
+     "title": "video man holding glass wine his hand",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Taiki Clochette",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/harvesting-grapes-in-a-vineyard-during-autumn-34543000/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V06.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V06.mp4",
+     "score": 11.98,
+     "categories": [
+      "harvest",
+      "vineyard"
+     ],
+     "title": "video harvesting grapes vineyard during autumn",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "NickyPe",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-180191/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-V07.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-V07.mp4",
+     "score": 11.74,
+     "categories": [
+      "landscape",
+      "vineyard"
+     ],
+     "title": "videos",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Reinhard Bruckner",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-harvesting-grapes-in-vineyard-35741222/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-I01.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-I01.jpg",
+     "score": 15.28,
+     "categories": [
+      "farm",
+      "farmer",
+      "harvest",
+      "vineyard"
+     ],
+     "title": "A farmer carefully picks grapes in a vineyard during harvest season.",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mark Stebnicki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-taking-care-of-crops-8287363/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-I02.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-I02.jpg",
+     "score": 12.88,
+     "categories": [
+      "farm",
+      "farmer",
+      "vineyard"
+     ],
+     "title": "A farmer tends to grapevines in a North Carolina vineyard during the day.",
+     "query": "winemaker vineyard portrait"
+    },
+    {
+     "id": "belong-m7-S08-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "stephanfredthielen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/mosel-vintner-man-winemaker-grapes-5776370/",
+     "thumb": "projects/belong-module7/thumbs/S08/belong-m7-S08-I03.jpg",
+     "preview": "projects/belong-module7/previews/S08/belong-m7-S08-I03.jpg",
+     "score": 12.34,
+     "categories": [
+      "farm",
+      "harvest",
+      "vineyard"
+     ],
+     "title": "photos mosel vintner man winemaker grapes",
+     "query": "winemaker vineyard portrait"
+    }
+   ]
+  },
+  {
+   "id": "S13",
+   "script_line": "The kitchen that improvises a beautiful vegetarian plate without sighing has just won a family's loyalty forever. And remember the FarmTable is also the village's table, in a sense — the restaurant, the events, the cater",
+   "visual_direction": "",
+   "t": 307.84,
+   "end": 362.14,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "belong-m7-S13-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Cemrecan Yurtman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/traditional-iftar-meal-with-family-gathering-36587277/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V01.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V01.mp4",
+     "score": 12.58,
+     "categories": [
+      "meal"
+     ],
+     "title": "video traditional iftar meal with family gathering",
+     "query": "long communal table feast"
+    },
+    {
+     "id": "belong-m7-S13-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-about-to-eat-3255109/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V02.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V02.mp4",
+     "score": 12.58,
+     "categories": [],
+     "title": "video people about eat",
+     "query": "people sharing meal table"
+    },
+    {
+     "id": "belong-m7-S13-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-people-having-a-working-lunch-over-a-wooden-table-3253797/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V03.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V03.mp4",
+     "score": 12.42,
+     "categories": [
+      "table",
+      "working"
+     ],
+     "title": "video group people having working lunch over wooden table",
+     "query": "people sharing meal table"
+    },
+    {
+     "id": "belong-m7-S13-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Beyza Emişen",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/traditional-turkish-iftar-meal-setting-36742110/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V04.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V04.mp4",
+     "score": 11.9,
+     "categories": [
+      "meal"
+     ],
+     "title": "video traditional turkish iftar meal setting",
+     "query": "long communal table feast"
+    },
+    {
+     "id": "belong-m7-S13-V05",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V05.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V05.mp4",
+     "score": 5.34,
+     "categories": [],
+     "title": "free stock video",
+     "query": "vegetarian plate colourful"
+    },
+    {
+     "id": "belong-m7-S13-V06",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V06.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V06.mp4",
+     "score": 5.34,
+     "categories": [],
+     "title": "free stock video",
+     "query": "vegetarian plate colourful"
+    },
+    {
+     "id": "belong-m7-S13-V07",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-V07.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-V07.mp4",
+     "score": 5.34,
+     "categories": [],
+     "title": "free stock video",
+     "query": "vegetarian plate colourful"
+    },
+    {
+     "id": "belong-m7-S13-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Caio Mantovani",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/elegant-outdoor-table-setup-for-garden-event-32179374/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-I01.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-I01.jpg",
+     "score": 12.66,
+     "categories": [
+      "garden",
+      "outdoor",
+      "table"
+     ],
+     "title": "Long outdoor dining table elegantly set in garden setting, perfect for weddings or parties.",
+     "query": "long communal table feast"
+    },
+    {
+     "id": "belong-m7-S13-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Taha Samet Arslan",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/delicious-veggie-dish-with-crispy-bread-on-table-in-kitchen-7627437/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-I02.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-I02.jpg",
+     "score": 12.5,
+     "categories": [
+      "bread",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "High angle of healthy vegetable tartar served on white ceramic plate with salad and crispy bread near scattered fresh in",
+     "query": "vegetarian plate colourful"
+    },
+    {
+     "id": "belong-m7-S13-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "ponce_photography",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/appetizer-summer-organic-colorful-1424760/",
+     "thumb": "projects/belong-module7/thumbs/S13/belong-m7-S13-I03.jpg",
+     "preview": "projects/belong-module7/previews/S13/belong-m7-S13-I03.jpg",
+     "score": 10.98,
+     "categories": [
+      "meal",
+      "olive",
+      "table",
+      "vegetable"
+     ],
+     "title": "photos appetizer summer organic colorful",
+     "query": "vegetarian plate colourful"
+    }
+   ]
+  }
+ ]
 }
