@@ -1,13 +1,23 @@
 {
   "project": "belong-module8",
-  "title": "Belong \u2014 Module 8: The Constellation",
+  "title": "Belong — Module 8: The Constellation",
   "generated": "2026-07-12",
   "scenes": [
     {
       "id": "S01",
-      "script_line": "[B1] In this module I want to lift your eyes to the whole constellation \u2014 because Belong is bigger than the property line.",
-      "visual_direction": "Scale-setting panorama: from farm fields the view sweeps to the Atlantic coastline \u2014 one territory holding many places. Wide aerial, golden light. [image-beat]",
+      "script_line": "[B1] In this module I want to lift your eyes to the whole constellation — because Belong is bigger than the property line.",
+      "visual_direction": "Scale-setting panorama: from farm fields the view sweeps to the Atlantic coastline — one territory holding many places. Wide aerial, golden light. [image-beat]",
       "clips": [
+        {
+          "id": "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx",
+          "type": "image",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
+          "thumb": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
+          "preview": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg"
+        },
         {
           "id": "pixabay_132321_farmland-to-sea",
           "type": "video",
@@ -62,7 +72,7 @@
     },
     {
       "id": "S02",
-      "script_line": "[B2] Bar da Praia do Carvalhal \u2014 on the sand, minutes from Craveiral. Craveiral's philosophy in flip-flops.",
+      "script_line": "[B2] Bar da Praia do Carvalhal — on the sand, minutes from Craveiral. Craveiral's philosophy in flip-flops.",
       "visual_direction": "Barefoot hospitality: a rustic timber beach bar on the sand, cold drinks passed over the counter, ocean glittering behind. Medium wide, relaxed. [image-beat]",
       "clips": [
         {
@@ -119,7 +129,7 @@
     },
     {
       "id": "S03",
-      "script_line": "[B3] It's also where surf lessons happen \u2014 the beach our guests use most, the family favourite.",
+      "script_line": "[B3] It's also where surf lessons happen — the beach our guests use most, the family favourite.",
       "visual_direction": "Atlantic play: surfers walking boards to the water, a family with kids splashing in shallows, instructor coaching a beginner wave. Wide action.",
       "clips": [
         {
@@ -223,7 +233,7 @@
     },
     {
       "id": "S05",
-      "script_line": "[B5] A Mesa do CAM \u2014 the cuisine of this territory, served inside a museum in Lisbon. The land at the city's table.",
+      "script_line": "[B5] A Mesa do CAM — the cuisine of this territory, served inside a museum in Lisbon. The land at the city's table.",
       "visual_direction": "Cultural elegance: a light-filled modern museum restaurant, refined plates of honest food, diners against contemporary architecture. Medium interior, calm. [image-beat]",
       "clips": [
         {
@@ -280,7 +290,7 @@
     },
     {
       "id": "S06",
-      "script_line": "[B6] Catering and events \u2014 we take the table wherever it's asked for. Tell us the place, we bring the land.",
+      "script_line": "[B6] Catering and events — we take the table wherever it's asked for. Tell us the place, we bring the land.",
       "visual_direction": "The travelling table: a long-table dinner being dressed in a private garden, crates of farm produce arriving, hands laying linen and ceramics. Medium prep energy.",
       "clips": [
         {
@@ -327,7 +337,7 @@
     },
     {
       "id": "S07",
-      "script_line": "[B7] Weddings \u2014 someone's most important day, one chance, no rehearsal. Everyone is on the wedding team.",
+      "script_line": "[B7] Weddings — someone's most important day, one chance, no rehearsal. Everyone is on the wedding team.",
       "visual_direction": "Wedding under the pines: a ceremony arch among trees, a couple exchanging vows in dappled light, guests seated on wooden benches. Wide romantic. [image-beat]",
       "clips": [
         {
@@ -384,7 +394,7 @@
     },
     {
       "id": "S08",
-      "script_line": "[B8] Corporate retreats \u2014 companies come here to think, reconnect and breathe. Nature does half the work.",
+      "script_line": "[B8] Corporate retreats — companies come here to think, reconnect and breathe. Nature does half the work.",
       "visual_direction": "Work, unstiffened: a small team in casual clothes around an outdoor table with notebooks, a walking conversation on a trail, deep breaths in the pines. Medium natural.",
       "clips": [
         {
@@ -412,7 +422,7 @@
     {
       "id": "S09",
       "script_line": "[B9] Cross-recommendation is how the circle turns. You're connecting people to more of what they already love.",
-      "visual_direction": "The connective moment: a staff member leans in over a map or points down the coast, guest nodding with lit-up interest \u2014 hospitality with a longer memory. Tight medium.",
+      "visual_direction": "The connective moment: a staff member leans in over a map or points down the coast, guest nodding with lit-up interest — hospitality with a longer memory. Tight medium.",
       "clips": [
         {
           "id": "pixabay_180_concierge-conversation-warm",
@@ -475,7 +485,7 @@
           "id": "pixabay_73847_planting-sapling-hands",
           "type": "video",
           "source": "pixabay",
-          "author": "JustY\u00f8u",
+          "author": "JustYøu",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-73847/",
           "thumb": "projects/belong-module8/thumbs/S10/pixabay_73847_planting-sapling-hands.jpg",
