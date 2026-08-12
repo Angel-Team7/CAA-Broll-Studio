@@ -1,7 +1,7 @@
 {
   "project": "belong-module8",
-  "updated": "2026-08-12T09:22:59.973Z",
-  "ready": true,
+  "updated": "2026-08-12T15:26:21.593Z",
+  "ready": false,
   "approved": {
     "S01": [
       "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx"
@@ -25,11 +25,26 @@
       "pixabay_360175_wedding-celebration-golden"
     ],
     "S10": [
-      "pexels_4503303_roots-soil-closeup"
+      "belong-m8-S10-V06"
+    ],
+    "S12": [
+      "belong-m8-S12-V01"
     ]
   },
   "needs_broll": {
     "S08": "please generate more brolls 7 more videos",
     "S09": "more videos please 7 mre"
+  },
+  "topup_requests": {
+    "S11": {
+      "requested": "2026-08-12T15:24:52.239Z",
+      "note": "they are not relevant it should more like for Belong and craveiral business model type",
+      "done": false
+    },
+    "S13": {
+      "requested": "2026-08-12T15:26:17.588Z",
+      "note": "more contextual please this is for resort such as belong and craveiral - also delte these existing ones",
+      "done": false
+    }
   }
 }
