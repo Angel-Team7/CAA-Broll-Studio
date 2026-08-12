@@ -12,7 +12,10 @@ function toast(msg) {
 }
 
 async function loadProjects() {
-  const idx = await fetch("projects.json").then(r => r.json()).catch(() => null);
+  // cache-bust: GitHub Pages + the browser will happily serve a stale index for hours,
+  // which makes a freshly published project look like it never arrived.
+  const idx = await fetch("projects.json?v=" + Date.now(), { cache: "no-store" })
+    .then(r => r.json()).catch(() => null);
   const sel = $("#project");
   if (!idx || !idx.projects.length) { $("#scenes").innerHTML =
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
@@ -20,8 +23,21 @@ async function loadProjects() {
   state.finalised = await loadFinalised();
   renderProjectSelect();
   renderProgress();
-  sel.onchange = () => loadProject(sel.value);
-  loadProject(idx.projects[0].slug);
+  sel.onchange = () => { loadProject(sel.value); setDeepLink(sel.value); };
+  // DEEP LINK: ?p=<slug> or #<slug> opens that project directly, so a link can be
+  // handed to someone and land on the right board instead of whatever sorts first.
+  const want = new URLSearchParams(location.search).get("p")
+            || decodeURIComponent(location.hash.replace(/^#/, ""));
+  const hit = state.projects.find(p => p.slug === want);
+  const start = hit ? hit.slug : idx.projects[0].slug;
+  sel.value = start;
+  loadProject(start);
+}
+
+function setDeepLink(slug) {
+  const u = new URL(location.href);
+  u.searchParams.set("p", slug); u.hash = "";
+  history.replaceState(null, "", u);        // shareable URL, no reload
 }
 
 function renderProjectSelect() {
