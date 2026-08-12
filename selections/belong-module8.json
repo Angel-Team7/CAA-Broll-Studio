@@ -1,7 +1,7 @@
 {
   "project": "belong-module8",
-  "updated": "2026-08-11T14:24:21.167Z",
-  "ready": false,
+  "updated": "2026-08-12T09:22:59.973Z",
+  "ready": true,
   "approved": {
     "S01": [
       "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx"
@@ -23,7 +23,13 @@
     ],
     "S07": [
       "pixabay_360175_wedding-celebration-golden"
+    ],
+    "S10": [
+      "pexels_4503303_roots-soil-closeup"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {
+    "S08": "please generate more brolls 7 more videos",
+    "S09": "more videos please 7 mre"
+  }
 }
