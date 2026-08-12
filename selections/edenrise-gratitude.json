@@ -1,7 +1,54 @@
 {
- "project": "edenrise-gratitude",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-gratitude",
+  "updated": "2026-08-12T17:25:38.262Z",
+  "ready": false,
+  "approved": {
+    "S05": [
+      "edenrise-gratitude-S05-V07"
+    ],
+    "S11": [
+      "edenrise-gratitude-S11-V03"
+    ],
+    "S04": [
+      "edenrise-gratitude-S04-V03"
+    ],
+    "S09": [
+      "edenrise-gratitude-S09-V03"
+    ],
+    "S10": [
+      "edenrise-gratitude-S10-V01"
+    ],
+    "S02": [
+      "edenrise-gratitude-S02-V02"
+    ],
+    "S06": [
+      "edenrise-gratitude-S06-V02"
+    ],
+    "S03": [
+      "edenrise-gratitude-S03-V01"
+    ],
+    "S07": [
+      "edenrise-gratitude-S07-V02"
+    ],
+    "S01": [
+      "edenrise-gratitude-S01-V03"
+    ],
+    "S08": [
+      "edenrise-gratitude-S08-V02"
+    ],
+    "S13": [
+      "edenrise-gratitude-S13-V03"
+    ],
+    "S16": [
+      "edenrise-gratitude-S16-V01"
+    ],
+    "S14": [
+      "edenrise-gratitude-S14-V03"
+    ],
+    "S15": [
+      "edenrise-gratitude-S15-V06"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {}
 }
