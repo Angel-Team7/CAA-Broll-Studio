@@ -1,0 +1,3199 @@
+{
+ "scenes": [
+  {
+   "id": "S09",
+   "script_line": "You can celebrate what a company has achieved while wanting it to grow. Gratitude doesn't mean saying everything is perfect. It means saying there is value here, even while we continue to grow. There is a profound differ",
+   "visual_direction": "Growing from appreciation — building on what already exists",
+   "t": 212.98,
+   "end": 240.5,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S09-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Adventure Studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-working-as-a-team-7165701/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V01.mp4",
+     "score": 12.64,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "video coworkers working team",
+     "query": "team celebrating finished work"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/tree-nursery-worker-checking-baby-trees-for-weeds-19654543/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V02.mp4",
+     "score": 11.75,
+     "categories": [
+      "worker"
+     ],
+     "title": "video tree nursery worker checking baby trees for weeds",
+     "query": "seedling growing hands"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-celebrating-and-stacking-hands-3256548/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V03.mp4",
+     "score": 11.72,
+     "categories": [
+      "hands"
+     ],
+     "title": "video colleagues celebrating and stacking hands",
+     "query": "team celebrating finished work"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-5635/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V04.mp4",
+     "score": 11.64,
+     "categories": [
+      "garden"
+     ],
+     "title": "plant  watering  grow  gardening  ewer  watering can  watering pot  water  nature  green  care  garden  spring  ecology ",
+     "query": "seedling growing hands"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "utopia 36",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-workers-on-a-concrete-building-under-construction-14055246/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V05.mp4",
+     "score": 11.44,
+     "categories": [
+      "worker"
+     ],
+     "title": "video aerial view workers concrete building under construction",
+     "query": "building under construction progress"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "NickyPe",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-132583/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V06.mp4",
+     "score": 10.75,
+     "categories": [
+      "harvest"
+     ],
+     "title": "grapes  blue  wine harvest  wine growing  grapevine  fruit  food  rebstock  nature",
+     "query": "seedling growing hands"
+    },
+    {
+     "id": "edenrise-gratitude-S09-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "D-GM",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-199127/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-V07.mp4",
+     "score": 10.75,
+     "categories": [
+      "landscape",
+      "rural"
+     ],
+     "title": "great wall  wall  ruins  tower  mountains  summit  peak  trees  sky  futuyu  bricks  ancient  old  architecture  rural  ",
+     "query": "stone wall being built"
+    },
+    {
+     "id": "edenrise-gratitude-S09-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Danang DKW",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-planting-on-paddy-field-13839277/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-I01.jpg",
+     "score": 13.55,
+     "categories": [
+      "farm",
+      "farmer",
+      "field"
+     ],
+     "title": "Close-up of a farmer planting rice seedlings by hand in a muddy paddy field.",
+     "query": "seedling growing hands"
+    },
+    {
+     "id": "edenrise-gratitude-S09-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/gardener-planting-seeds-on-a-tray-of-soil-6508835/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-I02.jpg",
+     "score": 12.95,
+     "categories": [
+      "garden",
+      "greenhouse"
+     ],
+     "title": "Top view of gardener with orange gloves planting seeds in a tray inside a greenhouse.",
+     "query": "seedling growing hands"
+    },
+    {
+     "id": "edenrise-gratitude-S09-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "congerdesign",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/plant-little-plants-sow-grow-4036191/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S09/edenrise-gratitude-S09-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S09/edenrise-gratitude-S09-I03.jpg",
+     "score": 10.44,
+     "categories": [
+      "garden",
+      "soil"
+     ],
+     "title": "plant  little plants  sow  grow  cultivate  sapling  seedling  nature  gardening  green  plant pot  garden soil  hobby g",
+     "query": "seedling growing hands"
+    }
+   ]
+  },
+  {
+   "id": "S10",
+   "script_line": "There is a beautiful example in the biblical account of Jesus feeding a crowd of thousands. There isn't enough food. There are only five loaves and two fish. The obvious response would be to focus on the shortage. But th",
+   "visual_direction": "Five loaves and two fish — the shortage, and the simple food",
+   "t": 240.5,
+   "end": 261.92,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S10-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlekseiyPovar",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-14239/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V01.mp4",
+     "score": 14.97,
+     "categories": [
+      "bread",
+      "cooking",
+      "table"
+     ],
+     "title": "bread  cook  fresh bread  bakery  cutting board  cooking  table  dish  knife  loaf  food  wheat bread  slicing  nutritio",
+     "query": "rustic bread loaves"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1015/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V02.mp4",
+     "score": 14.97,
+     "categories": [
+      "bread",
+      "meal",
+      "table",
+      "vegetable"
+     ],
+     "title": "hamburger  eggs  food  burger  meal  lunch  bread  cuisine  tomato  sandwich  delicious  bun  vegetable  snack  gourmet ",
+     "query": "simple bread fish meal"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11606/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V03.mp4",
+     "score": 14.14,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "table"
+     ],
+     "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh",
+     "query": "sharing food table"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-8247/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V04.mp4",
+     "score": 13.96,
+     "categories": [
+      "bread",
+      "rustic",
+      "table",
+      "vegetable"
+     ],
+     "title": "guacamole  bread  sandwich  food  avocado  green  snack  vegetable  appetizer  mexican  rustic  lunch  fresh  egg  eatin",
+     "query": "rustic bread loaves"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-bread-and-cookies-on-a-table-5814218/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V05.mp4",
+     "score": 13.76,
+     "categories": [
+      "bread",
+      "table"
+     ],
+     "title": "video close bread and cookies table",
+     "query": "rustic bread loaves"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/bread-food-hands-art-3943588/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V06.mp4",
+     "score": 12.56,
+     "categories": [
+      "bread",
+      "hands"
+     ],
+     "title": "video bread food hands art",
+     "query": "breaking bread hands"
+    },
+    {
+     "id": "edenrise-gratitude-S10-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Cemrecan Yurtman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/traditional-iftar-meal-with-family-gathering-36587277/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-V07.mp4",
+     "score": 12.56,
+     "categories": [
+      "meal"
+     ],
+     "title": "video traditional iftar meal with family gathering",
+     "query": "sharing food table"
+    },
+    {
+     "id": "edenrise-gratitude-S10-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Helena Lopes",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-eating-appetizers-in-a-restaurant-27177298/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-I01.jpg",
+     "score": 16.39,
+     "categories": [
+      "bread",
+      "hands",
+      "meal",
+      "mediterranean",
+      "olive"
+     ],
+     "title": "A lively Mediterranean meal with various dishes, showcasing hands reaching for olives and bread.",
+     "query": "sharing food table"
+    },
+    {
+     "id": "edenrise-gratitude-S10-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "alleksana",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-healthy-meal-of-bread-with-anchovies-olives-and-vegetables-6399849/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-I02.jpg",
+     "score": 14.96,
+     "categories": [
+      "bread",
+      "mediterranean",
+      "olive"
+     ],
+     "title": "A gourmet Mediterranean dish featuring anchovies, olives, bread, and fresh salad on a plate.",
+     "query": "simple bread fish meal"
+    },
+    {
+     "id": "edenrise-gratitude-S10-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Couleur",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/loaf-bread-loaf-of-bread-fresh-3471667/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S10/edenrise-gratitude-S10-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S10/edenrise-gratitude-S10-I03.jpg",
+     "score": 12.76,
+     "categories": [
+      "bread",
+      "farm",
+      "farmer"
+     ],
+     "title": "loaf  bread  loaf of bread  fresh  baked  bread crust  crispy  natural product  food  baked goods  calories  carbohydrat",
+     "query": "breaking bread hands"
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "script_line": "Before. And then comes the multiplication. Whatever your personal beliefs, there is a powerful principle in that ancient story. Begin by appreciating what is already in your hands. This is not a scientific claim that gra",
+   "visual_direction": "Give thanks before, not after — what is already in your hands",
+   "t": 261.92,
+   "end": 285.39,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S11-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Ivan267",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-232561/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V01.mp4",
+     "score": 18.72,
+     "categories": [
+      "farm",
+      "field",
+      "harvest",
+      "landscape"
+     ],
+     "title": "tractor  field  wheat  harvest  combine  agriculture  grain  farming  summer  machine  technology  equipment  landscape",
+     "query": "open hands holding grain"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-harvesting-vegetables-from-the-field-7456581/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V02.mp4",
+     "score": 16.59,
+     "categories": [
+      "field",
+      "harvest",
+      "table",
+      "vegetable"
+     ],
+     "title": "video people harvesting vegetables from the field",
+     "query": "harvest in hands"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-holding-basket-full-of-vegetables-7782528/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V03.mp4",
+     "score": 15.83,
+     "categories": [
+      "table",
+      "vegetable"
+     ],
+     "title": "video person holding basket full vegetables",
+     "query": "harvest in hands"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "fatiha maarouf",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/female-hands-working-in-garden-12354539/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V04.mp4",
+     "score": 15.39,
+     "categories": [
+      "garden",
+      "hands",
+      "working"
+     ],
+     "title": "video female hands working garden",
+     "query": "harvest in hands"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-bread-8775756/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V05.mp4",
+     "score": 13.72,
+     "categories": [
+      "bread"
+     ],
+     "title": "video person holding bread",
+     "query": "hands cupped offering"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Thomas_Ritter",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-369222/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V06.mp4",
+     "score": 13.03,
+     "categories": [
+      "field",
+      "harvest"
+     ],
+     "title": "combine harvester  harvest  agriculture  tractor  grain  threshing  summer  heat  cornfield  grain harvest  agricultural",
+     "query": "harvest in hands"
+    },
+    {
+     "id": "edenrise-gratitude-S11-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Thomas_Ritter",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-86118/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-V07.mp4",
+     "score": 13.03,
+     "categories": [
+      "field",
+      "harvest"
+     ],
+     "title": "harvest  grain harvest  agriculture  field  combine harvester  summer  agricultural machine  grain field  harvester  thr",
+     "query": "harvest in hands"
+    },
+    {
+     "id": "edenrise-gratitude-S11-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Elkhan  Ganiyev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-holding-grain-15153676/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-I01.jpg",
+     "score": 16.88,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "rural"
+     ],
+     "title": "A farmer joyfully holding grain in an agricultural field with a red truck, symbolizing rural life.",
+     "query": "open hands holding grain"
+    },
+    {
+     "id": "edenrise-gratitude-S11-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tymur Khakimov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/person-holding-brown-dried-wheat-on-his-hands-6412600/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-I02.jpg",
+     "score": 13.72,
+     "categories": [
+      "field",
+      "hands",
+      "harvest"
+     ],
+     "title": "Close-up of hands holding wheat ears in a sunlit field, depicting harvest and agriculture.",
+     "query": "open hands holding grain"
+    },
+    {
+     "id": "edenrise-gratitude-S11-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "sahinsezerdincer",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/seeds-man-hand-han-hand-food-man-4936558/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S11/edenrise-gratitude-S11-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S11/edenrise-gratitude-S11-I03.jpg",
+     "score": 13.48,
+     "categories": [
+      "bread",
+      "harvest",
+      "table",
+      "vegetable"
+     ],
+     "title": "seeds  man hand  han  hand  food  man  autumn  leaf  pumpkin  vegetable  plate  table  harvest  give thanks  holding  me",
+     "query": "hands holding bread"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Modern research gives us another window into why this matters. Studies of gratitude practices have found small but meaningful improvements in measures of wellbeing, including life satisfaction and positive emotion. Resea",
+   "visual_direction": "No organisation is built by one person — the team behind everything",
+   "t": 101.44,
+   "end": 141.86,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S05-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-construction-workers-standing-on-the-side-of-the-road-19559851/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V01.mp4",
+     "score": 12.33,
+     "categories": [
+      "worker"
+     ],
+     "title": "video group construction workers standing the side the road",
+     "query": "crew walking site"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V02.mp4",
+     "score": 12.33,
+     "categories": [
+      "worker"
+     ],
+     "title": "video back view workers walking construction site",
+     "query": "construction crew together"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-worker-is-working-on-a-construction-site-19563153/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V03.mp4",
+     "score": 12.05,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "video worker working construction site",
+     "query": "crew walking site"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/workers-are-working-on-a-railroad-track-16222742/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V04.mp4",
+     "score": 12.05,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "video workers are working railroad track",
+     "query": "construction crew together"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "TR Studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-site-with-workers-and-steel-rods-38588484/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V05.mp4",
+     "score": 11.59,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction site with workers and steel rods",
+     "query": "crew walking site"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/group-of-people-discussing-project-close-up-5923505/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V06.mp4",
+     "score": 10.99,
+     "categories": [],
+     "title": "video group people discussing project close",
+     "query": "team planning outdoors"
+    },
+    {
+     "id": "edenrise-gratitude-S05-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-V07.mp4",
+     "score": 10.99,
+     "categories": [],
+     "title": "video man and woman having conversation the construction site",
+     "query": "team planning outdoors"
+    },
+    {
+     "id": "edenrise-gratitude-S05-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-I01.jpg",
+     "score": 11.73,
+     "categories": [
+      "worker"
+     ],
+     "title": "Construction workers engaged in a discussion at a construction site wearing safety gear.",
+     "query": "team planning outdoors"
+    },
+    {
+     "id": "edenrise-gratitude-S05-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "wal_ 172619",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-workers-on-building-site-37636256/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-I03.jpg",
+     "score": 10.53,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "A group of construction workers in safety gear actively working on a high-rise building site.",
+     "query": "construction crew together"
+    },
+    {
+     "id": "edenrise-gratitude-S05-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Bornil Sarker",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/three-workers-in-shipyard-construction-scene-37663550/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S05/edenrise-gratitude-S05-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S05/edenrise-gratitude-S05-I03.jpg",
+     "score": 9.79,
+     "categories": [
+      "working"
+     ],
+     "title": "Men working at a shipyard construction site with large metal structures.",
+     "query": "crew walking site"
+    }
+   ]
+  },
+  {
+   "id": "S12",
+   "script_line": "We may care for it differently, use it differently, and notice possibilities and contributions we were previously overlooking. So how do we actually practice gratitude? Three simple habits. First, notice. Each day, delib",
+   "visual_direction": "When we appreciate something we care for it differently",
+   "t": 285.39,
+   "end": 306.4,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S12-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Panya Niyomtham",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farmer-tending-lush-green-cabbage-field-outdoors-35035963/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V01.mp4",
+     "score": 18.1,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "outdoor"
+     ],
+     "title": "video farmer tending lush green cabbage field outdoors",
+     "query": "tending plants hands"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/artisan-hand-weaving-on-a-loom-close-up-33350998/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V02.mp4",
+     "score": 13.1,
+     "categories": [
+      "artisan"
+     ],
+     "title": "video artisan hand weaving loom close",
+     "query": "careful hands craft detail"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "srikanth explore",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/artisan-creating-detailed-gold-jewelry-by-hand-35822699/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V03.mp4",
+     "score": 13.1,
+     "categories": [
+      "artisan"
+     ],
+     "title": "video artisan creating detailed gold jewelry hand",
+     "query": "careful hands craft detail"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chayka1270",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11749/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V04.mp4",
+     "score": 12.7,
+     "categories": [
+      "hands",
+      "table",
+      "worker"
+     ],
+     "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  wor",
+     "query": "polishing tool care"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chayka1270",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11750/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V05.mp4",
+     "score": 12.7,
+     "categories": [
+      "hands",
+      "table",
+      "worker"
+     ],
+     "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  wor",
+     "query": "polishing tool care"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gary  Barnes",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/high-angle-shot-of-plants-on-the-table-6230913/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V06.mp4",
+     "score": 11.5,
+     "categories": [
+      "table"
+     ],
+     "title": "video high angle shot plants the table",
+     "query": "tending plants hands"
+    },
+    {
+     "id": "edenrise-gratitude-S12-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "mephala1980",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-38079/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-V07.mp4",
+     "score": 10.7,
+     "categories": [
+      "hands"
+     ],
+     "title": "hands  hand cream  cream  health  skin  care",
+     "query": "careful hands craft detail"
+    },
+    {
+     "id": "edenrise-gratitude-S12-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anna Shvets",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-person-coloring-the-leather-5894284/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-I01.jpg",
+     "score": 13.1,
+     "categories": [
+      "artisan",
+      "craftsman",
+      "hands",
+      "table"
+     ],
+     "title": "Close-up of gloved artisan hands applying ink to leather piece on a worktable, showcasing craftsmanship.",
+     "query": "careful hands craft detail"
+    },
+    {
+     "id": "edenrise-gratitude-S12-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Julia Filirovska",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/gardener-planting-seedling-of-flower-in-greenhouse-7141193/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-I02.jpg",
+     "score": 12.7,
+     "categories": [
+      "working"
+     ],
+     "title": "High angle of crop anonymous female horticulturist with sprout of tulip working in hothouse",
+     "query": "tending plants hands"
+    },
+    {
+     "id": "edenrise-gratitude-S12-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "thophilong",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/soil-plants-grow-agriculture-green-8080788/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S12/edenrise-gratitude-S12-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S12/edenrise-gratitude-S12-I03.jpg",
+     "score": 9.9,
+     "categories": [
+      "garden",
+      "soil"
+     ],
+     "title": "soil  plants  grow  agriculture  green  life  seed  tree  seeding  leaves  sprout  garden  environmental  ecology  growt",
+     "query": "tending plants hands"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "Someone builds something carefully because they care about the quality of what they leave behind. Someone checks the numbers. Someone prepares food. Someone notices a safety issue. Someone helps a colleague under pressur",
+   "visual_direction": "The contributions easy to overlook — care, checking, cooking, safety",
+   "t": 141.86,
+   "end": 164.03,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S06-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Vimeo-Free-Videos",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-587/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V01.mp4",
+     "score": 16.9,
+     "categories": [
+      "chef",
+      "cooking",
+      "herbs",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "cooking  food  preparation  cook  vegetables  cutting  chef  kitchen  preparing food  salad  healthy  herbs  knife  1371",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-8259/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V02.mp4",
+     "score": 16.6,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "table",
+      "vegetable"
+     ],
+     "title": "cucumber  cutting  slices  slicing  cooking  chef  preparing  cut  knife  kitchen  chopping  organic  vegetable  vegetar",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "conolan",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-29887/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V03.mp4",
+     "score": 16.0,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "meal",
+      "table"
+     ],
+     "title": "recipes  food  cooking  chef  ingredient  preparation  homemade  cuisine  kitchen  ipad  table  search  web  culinary  c",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/video-of-a-chef-cooking-8094279/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V04.mp4",
+     "score": 15.2,
+     "categories": [
+      "chef",
+      "cooking"
+     ],
+     "title": "video video chef cooking",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-apron-cooking-in-a-kitchen-4253148/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V05.mp4",
+     "score": 15.2,
+     "categories": [
+      "cooking",
+      "kitchen"
+     ],
+     "title": "video man apron cooking kitchen",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "anya.mp5",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/skilled-artisan-carving-stone-in-workshop-30195176/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V06.mp4",
+     "score": 15.2,
+     "categories": [
+      "artisan",
+      "stone"
+     ],
+     "title": "video skilled artisan carving stone workshop",
+     "query": "craftsman careful hands work"
+    },
+    {
+     "id": "edenrise-gratitude-S06-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "XiaosKitchen",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11657/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-V07.mp4",
+     "score": 14.8,
+     "categories": [
+      "chef",
+      "cooking",
+      "kitchen",
+      "meal"
+     ],
+     "title": "cooking  prawn  in  sauce  food  seafood  shrimp  meal  cuisine  dinner  fresh  restaurant  nutrition  healthy  dish  ki",
+     "query": "chef preparing food kitchen"
+    },
+    {
+     "id": "edenrise-gratitude-S06-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-person-glass-cutting-7219193/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-I01.jpg",
+     "score": 14.65,
+     "categories": [
+      "artisan",
+      "hands",
+      "table"
+     ],
+     "title": "Close-up of artisan hands carefully cutting glass on a workshop table.",
+     "query": "craftsman careful hands work"
+    },
+    {
+     "id": "edenrise-gratitude-S06-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Duc Nguyen",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-person-is-working-on-a-map-with-a-pen-18582525/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-I02.jpg",
+     "score": 13.73,
+     "categories": [
+      "artisan"
+     ],
+     "title": "Close-up of a skilled artisan creating detailed art using hand tools on paper.",
+     "query": "craftsman careful hands work"
+    },
+    {
+     "id": "edenrise-gratitude-S06-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Mitrey",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/hand-work-tool-metal-car-people-5906358/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S06/edenrise-gratitude-S06-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S06/edenrise-gratitude-S06-I03.jpg",
+     "score": 13.05,
+     "categories": [
+      "craftsman",
+      "worker",
+      "working"
+     ],
+     "title": "hand  work  tool  metal  car  people  car wallpapers  working  worker  mechanic  person  men  industry  blacksmith  wood",
+     "query": "craftsman careful hands work"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "If I'm grateful for what I have, won't I become complacent? Shouldn't I want things to improve? Of course. Gratitude and ambition are not opposites. You can appreciate the work you've done today and want tomorrow's work ",
+   "visual_direction": "Gratitude and ambition are not opposites — striving while appreciating",
+   "t": 188.62,
+   "end": 212.98,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S08-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "yucelozel",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-33565/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V01.mp4",
+     "score": 12.71,
+     "categories": [
+      "landscape",
+      "outdoor",
+      "sunrise"
+     ],
+     "title": "cello  instrument  peak  mountain  landscape  nature  success  climbing  hiking  sunrise  summit  snow  sky  cliff  top ",
+     "query": "worker climbing ladder"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Guadalupe Aizaga",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-on-scaffolding-building-exterior-32228166/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V02.mp4",
+     "score": 12.59,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction worker scaffolding building exterior",
+     "query": "builder reaching upward"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sergei Starostin",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-applying-cement-on-wall-outdoors-34572320/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V03.mp4",
+     "score": 12.29,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "video construction worker applying cement wall outdoors",
+     "query": "builder reaching upward"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40813/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V04.mp4",
+     "score": 11.92,
+     "categories": [
+      "worker"
+     ],
+     "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
+     "query": "builder reaching upward"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Arunangshu Banerjee",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/electrical-technicians-working-on-utility-pole-31651129/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V05.mp4",
+     "score": 11.91,
+     "categories": [
+      "working"
+     ],
+     "title": "video electrical technicians working utility pole",
+     "query": "worker climbing ladder"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-going-up-the-stairs-while-carrying-a-toolbox-8487664/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V06.mp4",
+     "score": 11.65,
+     "categories": [],
+     "title": "video woman going the stairs while carrying toolbox",
+     "query": "worker climbing ladder"
+    },
+    {
+     "id": "edenrise-gratitude-S08-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40816/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-V07.mp4",
+     "score": 10.99,
+     "categories": [
+      "worker"
+     ],
+     "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
+     "query": "builder reaching upward"
+    },
+    {
+     "id": "edenrise-gratitude-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "HONG SON",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-picking-lychees-from-tree-in-orchard-32530108/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-I01.jpg",
+     "score": 14.31,
+     "categories": [
+      "farm",
+      "farmer",
+      "orchard"
+     ],
+     "title": "A farmer stands on a ladder picking ripe lychees from lush trees in a green orchard.",
+     "query": "worker climbing ladder"
+    },
+    {
+     "id": "edenrise-gratitude-S08-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "David Brown",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-worker-handing-tool-to-co-worker-17410515/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-I02.jpg",
+     "score": 10.79,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "Two construction workers framing a wooden structure outdoors at a building site.",
+     "query": "builder reaching upward"
+    },
+    {
+     "id": "edenrise-gratitude-S08-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "endriqstudio",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S08/edenrise-gratitude-S08-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S08/edenrise-gratitude-S08-I03.jpg",
+     "score": 10.12,
+     "categories": [
+      "craftsman",
+      "working"
+     ],
+     "title": "workshop  instrument  wood  craftsman  guitar  repair  builder  craft  assemble  work  electric  woodworking  rock  carp",
+     "query": "builder reaching upward"
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "The second person walks into exactly the same environment, but notices something different. Someone came in early to help. A colleague solved a problem nobody else had noticed. Someone took extra care with their work. So",
+   "visual_direction": "The second arrives and sees what is right — someone came early, a colleague helped",
+   "t": 14.71,
+   "end": 34.82,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S02-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1635/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V01.mp4",
+     "score": 16.53,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "garden",
+      "worker"
+     ],
+     "title": "worker  early  morning  people  person  field work  field worker  farmer  india  asia  shiva  man  male  labor  hard  ga",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "SweeMing YOUNG",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/serene-sunrise-over-rural-landscape-38954323/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V02.mp4",
+     "score": 15.94,
+     "categories": [
+      "landscape",
+      "rural",
+      "sunrise"
+     ],
+     "title": "video serene sunrise over rural landscape",
+     "query": "early morning site workers"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Roktim | রক্তিম   🇧🇩",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/foggy-rural-pathway-with-two-people-walking-bikes-35665669/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V03.mp4",
+     "score": 13.54,
+     "categories": [
+      "rural"
+     ],
+     "title": "video foggy rural pathway with two people walking bikes",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "bellergy",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3741/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V04.mp4",
+     "score": 13.26,
+     "categories": [
+      "working"
+     ],
+     "title": "working site  excavator  construction  site  equipment  digger  machine  develop  industrial  construction site  constru",
+     "query": "early morning site workers"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Diva Plavalaguna",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/handshake-6193006/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V05.mp4",
+     "score": 12.94,
+     "categories": [
+      "hands"
+     ],
+     "title": "video handshake",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-view-of-two-people-shaking-their-hands-5977121/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V06.mp4",
+     "score": 12.94,
+     "categories": [
+      "hands"
+     ],
+     "title": "video close view two people shaking their hands",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "badzhoo",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-12127/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-V07.mp4",
+     "score": 12.0,
+     "categories": [
+      "landscape",
+      "sunrise"
+     ],
+     "title": "footage  dawn  city  sunrise  sun  beach  sky  river  nature  water  early morning  clouds  landscape  morning  at dawn",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Quang Nguyen Vinh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmers-harvesting-grass-at-sunrise-amid-smoke-33285520/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-I01.jpg",
+     "score": 18.1,
+     "categories": [
+      "farm",
+      "farmer",
+      "sunrise"
+     ],
+     "title": "Two farmers work amidst bundled grass at sunrise, creating a dramatic scene with smoke.",
+     "query": "two workers greeting morning"
+    },
+    {
+     "id": "edenrise-gratitude-S02-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Sayeed Chowdhury",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/silhouette-of-farmer-in-misty-morning-field-35823853/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-I02.jpg",
+     "score": 17.14,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "rural"
+     ],
+     "title": "A farmer carries bundles on head in a foggy field at dawn, symbolizing rural life.",
+     "query": "early morning site workers"
+    },
+    {
+     "id": "edenrise-gratitude-S02-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Quangpraha",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/salt-field-province-vietnam-work-3344508/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S02/edenrise-gratitude-S02-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S02/edenrise-gratitude-S02-I03.jpg",
+     "score": 14.7,
+     "categories": [
+      "farm",
+      "field",
+      "harvest",
+      "worker"
+     ],
+     "title": "salt  field  province  vietnam  work  sunlight  workers  farm  morning  tradition  labor  harvest  evaporation  salt  sa",
+     "query": "two workers greeting morning"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "The beautiful surroundings become normal. The equipment that works, the people who show up, the problems that get solved, the countless things that go right every day, can gradually become invisible. And we begin noticin",
+   "visual_direction": "What becomes invisible — tools that work, people who show up, the beautiful ordinary",
+   "t": 62.75,
+   "end": 101.44,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S04-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "aerofotografialincoln",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-206883/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V01.mp4",
+     "score": 14.66,
+     "categories": [
+      "countryside",
+      "field",
+      "landscape",
+      "rural",
+      "sunrise"
+     ],
+     "title": "country road  scenic road  argentine countryside  drone aerial view  dawn landscape  rural argentina  sunrise over field",
+     "query": "sunrise over landscape"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ahto Palmre",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/serene-morning-landscape-with-mist-covered-fields-29057811/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V02.mp4",
+     "score": 12.66,
+     "categories": [
+      "field",
+      "landscape"
+     ],
+     "title": "video serene morning landscape with mist covered fields",
+     "query": "sunrise over landscape"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-worker-6195151/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V03.mp4",
+     "score": 12.25,
+     "categories": [
+      "worker"
+     ],
+     "title": "video man handing out cleaning equipment his worker",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/team-of-cleaners-walking-with-equipment-6195142/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V04.mp4",
+     "score": 12.25,
+     "categories": [],
+     "title": "video team cleaners walking with equipment",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Vimeo-Free-Videos",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-6294/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V05.mp4",
+     "score": 11.85,
+     "categories": [
+      "farm",
+      "rural"
+     ],
+     "title": "heavy machinery  machine  agriculture  industry  equipment  vehicle  agricultural  farming  tractor  rural  agronomy  ma",
+     "query": "machinery running smoothly"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "WestNL",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-47901/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V06.mp4",
+     "score": 11.85,
+     "categories": [
+      "landscape"
+     ],
+     "title": "travel  road  car  landscape  bmw  leaving  welcome  sky view  calm  france  driving  traveling  arriving  arrive  leave",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "WestNL",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-47902/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-V07.mp4",
+     "score": 11.85,
+     "categories": [
+      "landscape"
+     ],
+     "title": "driving  car  road  travel  landscape  france  bmw  leaving  sky view  calm  traveling  arriving  arrive  welcome  leave",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "aamiraimer",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/farmer-wheat-crop-agriculture-2260636/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-I01.jpg",
+     "score": 22.65,
+     "categories": [
+      "bread",
+      "countryside",
+      "farm",
+      "farmer",
+      "field",
+      "harvest"
+     ],
+     "title": "farmer  wheat  crop  agriculture  field  nature  harvest  farm  plant  farming  rural  farmland  worker  man  food  agri",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Thành Peter",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-carrying-their-harvested-crops-through-a-paddy-field-8194974/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-I02.jpg",
+     "score": 19.26,
+     "categories": [
+      "countryside",
+      "farm",
+      "farmer",
+      "field",
+      "harvest",
+      "sunrise"
+     ],
+     "title": "A scenic view of farmers carrying harvest baskets through a verdant field at sunrise in a mountainous countryside.",
+     "query": "workers arriving sunrise"
+    },
+    {
+     "id": "edenrise-gratitude-S04-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Long Bà Mùi",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/two-people-with-sticks-pushing-the-snow-on-a-cropland-21032968/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S04/edenrise-gratitude-S04-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S04/edenrise-gratitude-S04-I03.jpg",
+     "score": 16.45,
+     "categories": [
+      "farm",
+      "farmer",
+      "harvest"
+     ],
+     "title": "Salt farmers harvesting with reflections in Ho Chi Minh City, Vietnam at dawn.",
+     "query": "workers arriving sunrise"
+    }
+   ]
+  },
+  {
+   "id": "S01",
+   "script_line": "Imagine two people arriving at work. The first walks in noticing everything that is wrong. Someone didn't finish something properly. We're behind schedule. Something has broken. There is too much to do. Someone made a mi",
+   "visual_direction": "The first person arrives seeing only what is wrong — unfinished work, breakage, pressure",
+   "t": 0.0,
+   "end": 14.71,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S01-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V02.mp4",
+     "score": 12.21,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction worker securing scaffolding cables",
+     "query": "frustrated worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V03.mp4",
+     "score": 12.21,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction worker entering building basement",
+     "query": "frustrated worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/workers-walking-in-construction-site-5434223/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V04.mp4",
+     "score": 12.21,
+     "categories": [
+      "worker"
+     ],
+     "title": "video workers walking construction site",
+     "query": "frustrated worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "eroyka",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-12714/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V07.mp4",
+     "score": 9.41,
+     "categories": [
+      "stone"
+     ],
+     "title": "rocks  worksite  i unload  truck  boulders  work  equipment  stones  the hydraulic defence",
+     "query": "broken equipment worksite"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/worker-walking-in-construction-site-5434221/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V05.mp4",
+     "score": 12.21,
+     "categories": [
+      "worker"
+     ],
+     "title": "video worker walking construction site",
+     "query": "unfinished construction site"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "manas patra",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/excavator-working-at-construction-12007917/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V06.mp4",
+     "score": 11.61,
+     "categories": [
+      "working"
+     ],
+     "title": "video excavator working construction",
+     "query": "broken equipment worksite"
+    },
+    {
+     "id": "edenrise-gratitude-S01-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Val А",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/powerful-excavator-in-action-at-construction-site-35649966/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-V07.mp4",
+     "score": 11.49,
+     "categories": [],
+     "title": "video powerful excavator action construction site",
+     "query": "broken equipment worksite"
+    },
+    {
+     "id": "edenrise-gratitude-S01-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-with-hard-hard-standing-on-the-construction-site-8961260/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-I01.jpg",
+     "score": 11.37,
+     "categories": [
+      "worker"
+     ],
+     "title": "Two workers discussing plans on a sandy construction site, wearing safety gear.",
+     "query": "frustrated worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S01-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "bridgesward",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-worker-safety-2578410/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-I03.jpg",
+     "score": 9.77,
+     "categories": [
+      "worker"
+     ],
+     "title": "construction  worker  safety  construction workers  male  site  helmet  industrial  contractor  teamwork  concrete truck",
+     "query": "broken equipment worksite"
+    },
+    {
+     "id": "edenrise-gratitude-S01-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Viktorya  Sergeeva 🫂",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/sun-over-street-and-dust-from-construction-14730555/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S01/edenrise-gratitude-S01-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S01/edenrise-gratitude-S01-I03.jpg",
+     "score": 9.69,
+     "categories": [
+      "sunrise"
+     ],
+     "title": "A dramatic scene of construction work on a city street with machinery and steam at sunrise.",
+     "query": "broken equipment worksite"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "But together, they create the organization. And when we notice those contributions and express genuine appreciation, we communicate something powerful. I see you. What you did mattered. When that happens repeatedly, grat",
+   "visual_direction": "Recognition — I see you, what you did mattered",
+   "t": 164.03,
+   "end": 188.62,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S07-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kiwi and Camera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V01.mp4",
+     "score": 12.83,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction workers communicating site",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-business-people-working-in-unity-6774847/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V02.mp4",
+     "score": 11.25,
+     "categories": [
+      "working"
+     ],
+     "title": "video group business people working unity",
+     "query": "encouraging colleague work"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/business-people-doing-handshake-8426047/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V03.mp4",
+     "score": 11.25,
+     "categories": [
+      "hands"
+     ],
+     "title": "video business people doing handshake",
+     "query": "recognition handshake site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yan Krukau",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-people-talking-together-7791996/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V04.mp4",
+     "score": 11.03,
+     "categories": [],
+     "title": "video two people talking together",
+     "query": "encouraging colleague work"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/boss-training-at-job-7592065/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V05.mp4",
+     "score": 10.86,
+     "categories": [],
+     "title": "video boss training job",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-phrase-printed-on-a-sign-7563933/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V06.mp4",
+     "score": 10.86,
+     "categories": [],
+     "title": "video phrase printed sign",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/male-boss-showing-a-thumbs-up-sign-to-a-female-employee-7592079/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V07.mp4",
+     "score": 10.86,
+     "categories": [],
+     "title": "video male boss showing thumbs sign female employee",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-using-digital-tablet-6473959/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V01.mp4",
+     "score": 13.84,
+     "categories": [
+      "table"
+     ],
+     "title": "video man using digital tablet",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V02.mp4",
+     "score": 13.59,
+     "categories": [],
+     "title": "video engineers looking the construction site while having discussion",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-on-an-elevated-platform-32244799/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V03.mp4",
+     "score": 13.59,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction workers elevated platform",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V04.mp4",
+     "score": 13.59,
+     "categories": [],
+     "title": "video foreman the construction site",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85350/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V05.mp4",
+     "score": 12.94,
+     "categories": [
+      "worker"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85351/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V06.mp4",
+     "score": 12.94,
+     "categories": [
+      "worker"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85349/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-V07.mp4",
+     "score": 12.94,
+     "categories": [
+      "worker"
+     ],
+     "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-ppe-s-at-a-construction-site-8961034/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I01.jpg",
+     "score": 11.03,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "Two construction workers in safety gear discussing site plans at an outdoor construction site.",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "dimitrisvetsikas1969",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/worker-construction-site-helmet-1895691/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I03.jpg",
+     "score": 8.45,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "worker  construction site  helmet  uniform  safety  development  engineering  hardhat  working  construction  engineer  ",
+     "query": "supervisor thanking worker"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-talking-to-the-woman-wearing-safety-vest-8961111/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I03.jpg",
+     "score": 9.06,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "Male and female construction workers discussing safety on a sunny day outdoors.",
+     "query": "appreciative conversation workers"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "stevepb",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/work-boots-footwear-protection-889816/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I01.jpg",
+     "score": 13.19,
+     "categories": [
+      "artisan",
+      "table",
+      "worker",
+      "working"
+     ],
+     "title": "work boots  footwear  protection  leather  safety  boot  work  brown  rough  old  protective  construction  heavy  pair ",
+     "query": "worker patting colleague back"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-wearing-yellow-hard-hat-while-standing-by-the-wooden-table-8961394/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I02.jpg",
+     "score": 12.74,
+     "categories": [
+      "worker"
+     ],
+     "title": "Focused construction worker with safety gear at a woodwork site.",
+     "query": "foreman shaking hand worker site"
+    },
+    {
+     "id": "edenrise-gratitude-S07-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Malú Pérez",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-on-a-construction-field-19643543/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S07/edenrise-gratitude-S07-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S07/edenrise-gratitude-S07-I03.jpg",
+     "score": 12.39,
+     "categories": [
+      "worker"
+     ],
+     "title": "Construction workers building a structure in Ballenita, Ecuador under a clear sky.",
+     "query": "foreman shaking hand worker site"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "And eventually, a very different atmosphere. This is the power of gratitude. Gratitude isn't simply saying thank you. It is the ability to recognize and appreciate the value that is already present. And that matters beca",
+   "visual_direction": "Same workplace, different attention — the moment of genuine appreciation",
+   "t": 34.82,
+   "end": 62.75,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S03-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-shaking-hands-with-another-man-7651776/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V01.mp4",
+     "score": 12.72,
+     "categories": [
+      "hands"
+     ],
+     "title": "video man shaking hands with another man",
+     "query": "handshake workers site"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/congratulating-colleague-for-proposal-7413685/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V02.mp4",
+     "score": 12.72,
+     "categories": [],
+     "title": "video congratulating colleague for proposal",
+     "query": "handshake workers site"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kanenori",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-283431/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V03.mp4",
+     "score": 12.61,
+     "categories": [
+      "farm",
+      "field",
+      "terrace"
+     ],
+     "title": "night view  yamada's rice fields  rice farming  rice terraces  starry sky  milky way  reflection on the water surface  j",
+     "query": "pat on back work"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/businessmen-shaking-hands-7688001/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V04.mp4",
+     "score": 11.81,
+     "categories": [
+      "hands"
+     ],
+     "title": "video businessmen shaking hands",
+     "query": "handshake workers site"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/female-engineers-doing-a-handshake-8487041/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V05.mp4",
+     "score": 11.81,
+     "categories": [
+      "hands"
+     ],
+     "title": "video female engineers doing handshake",
+     "query": "handshake workers site"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "NickyPe",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-186195/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V06.mp4",
+     "score": 10.81,
+     "categories": [
+      "farm",
+      "landscape"
+     ],
+     "title": "cow  ruminant  pasture  meadow  nature  animals on the farm  dairy cows  group  landscape",
+     "query": "pat on back work"
+    },
+    {
+     "id": "edenrise-gratitude-S03-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3612/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-V07.mp4",
+     "score": 9.92,
+     "categories": [
+      "worker"
+     ],
+     "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worke",
+     "query": "warm greeting workers"
+    },
+    {
+     "id": "edenrise-gratitude-S03-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Dương Phước Tiến",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-in-hat-working-on-mud-field-20452668/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-I01.png",
+     "score": 16.32,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "rural"
+     ],
+     "title": "A farmer in Can Tho, Vietnam, works in a muddy field during the day, showcasing rural agriculture.",
+     "query": "pat on back work"
+    },
+    {
+     "id": "edenrise-gratitude-S03-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Natalia Sevruk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/elderly-man-gardening-outdoors-in-summer-35233253/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-I02.jpg",
+     "score": 10.61,
+     "categories": [
+      "garden",
+      "outdoor",
+      "working"
+     ],
+     "title": "An elderly man working on garden tasks outdoors during summer.",
+     "query": "pat on back work"
+    },
+    {
+     "id": "edenrise-gratitude-S03-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "satynek",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/way-building-excavator-viaduct-3659608/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S03/edenrise-gratitude-S03-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S03/edenrise-gratitude-S03-I03.jpg",
+     "score": 8.12,
+     "categories": [
+      "worker"
+     ],
+     "title": "way  building  excavator  viaduct  road  cities  work  digging  builder  a worker at the construction site  construction",
+     "query": "handshake workers site"
+    }
+   ]
+  },
+  {
+   "id": "S13",
+   "script_line": "Instead, I'm grateful that someone noticed that problem this morning and fixed it before it became a bigger one. Second, express it. Don't only feel appreciation. Say it. Instead of thanks for today, try, thank you for t",
+   "visual_direction": "Express it — say the specific thing out loud",
+   "t": 306.4,
+   "end": 331.67,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S13-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-meeting-outdoors-7652192/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V01.mp4",
+     "score": 12.72,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "video coworkers meeting outdoors",
+     "query": "workers discussing work"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-discussing-a-document-while-walking-5977049/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V02.mp4",
+     "score": 12.72,
+     "categories": [],
+     "title": "video people discussing document while walking",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-talking-outdoors-7652193/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V03.mp4",
+     "score": 12.72,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "video people talking outdoors",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/men-wearing-harness-having-a-conversation-8964931/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V04.mp4",
+     "score": 12.42,
+     "categories": [],
+     "title": "video men wearing harness having conversation",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-8252/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V05.mp4",
+     "score": 6.02,
+     "categories": [
+      "table",
+      "worker"
+     ],
+     "title": "discussion  desk  people  office  team  meeting  business  businessman  brainstorming  group  table  workplace  worker  ",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V07",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/street-with-people-walking-at-dusk-3428/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V07.mp4",
+     "score": 5.11,
+     "categories": [],
+     "title": "street with people walking at dusk",
+     "query": "speaking with colleague"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "ammarvid",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-243239/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V01.mp4",
+     "score": 21.61,
+     "categories": [
+      "countryside",
+      "farm",
+      "farmer",
+      "field",
+      "harvest",
+      "rural"
+     ],
+     "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
+     "query": "workers discussing work"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V02.mp4",
+     "score": 12.72,
+     "categories": [],
+     "title": "video man and woman having conversation the construction site",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V03.mp4",
+     "score": 12.42,
+     "categories": [],
+     "title": "video people wearing harness having conversation",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8965268/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V04.mp4",
+     "score": 12.42,
+     "categories": [],
+     "title": "video man and woman having conversation",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V05.mp4",
+     "score": 11.81,
+     "categories": [
+      "worker"
+     ],
+     "title": "video woman explaining plan the coworkers",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chuduyen215",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-42923/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V06.mp4",
+     "score": 9.92,
+     "categories": [
+      "worker"
+     ],
+     "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Joko_Narimo",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-148540/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-V07.mp4",
+     "score": 9.31,
+     "categories": [
+      "rural",
+      "worker"
+     ],
+     "title": "cement  batter  development  building  machine  worker  work  rural",
+     "query": "workers discussing work"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961028/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I01.jpg",
+     "score": 11.82,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "Engineers in safety gear discussing a construction project outdoors with visible scaffolding.",
+     "query": "workers discussing work"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "ThisIsEngineering",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/woman-and-man-at-construction-site-19895874/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I02.jpg",
+     "score": 10.62,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "Two construction workers in safety gear collaborate on a project outdoors.",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Trinity_Elektroroller",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/electric-scooter-scooter-street-4983759/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I03.jpg",
+     "score": 7.21,
+     "categories": [],
+     "title": "electric scooter  scooter  street  rain  nature  umbrella  woman  cafe  conversation  retro",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-talking-to-the-woman-wearing-safety-vest-8961111/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I01.jpg",
+     "score": 11.53,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "Male and female construction workers discussing safety on a sunny day outdoors.",
+     "query": "two workers talking site"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-with-yellow-hardhat-smiling-at-a-woman-with-ppe-8961068/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I02.jpg",
+     "score": 11.53,
+     "categories": [
+      "worker"
+     ],
+     "title": "Two construction workers in hardhats smiling and talking on a sunny day at a site.",
+     "query": "conversation outdoors workers"
+    },
+    {
+     "id": "edenrise-gratitude-S13-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "TruongDinhAnh",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/work-labor-farmer-vietnam-people-9856357/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S13/edenrise-gratitude-S13-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S13/edenrise-gratitude-S13-I03.jpg",
+     "score": 10.81,
+     "categories": [
+      "farm",
+      "farmer",
+      "worker"
+     ],
+     "title": "work  labor  farmer  vietnam  people  worker  workers  farm  hard  woman  brick  building",
+     "query": "workers discussing work"
+    }
+   ]
+  },
+  {
+   "id": "S14",
+   "script_line": "Third, practice gratitude when things aren't perfect. When something difficult happens, gratitude doesn't require pretending it isn't difficult. You can ask, what is still good here? What can this teach me? What resource",
+   "visual_direction": "Gratitude when things aren't perfect — difficulty without denial",
+   "t": 331.67,
+   "end": 352.73,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S14-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Imad Clicks",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farm-workers-picking-saffron-in-a-field-14319210/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V01.mp4",
+     "score": 16.1,
+     "categories": [
+      "farm",
+      "field",
+      "worker"
+     ],
+     "title": "video farm workers picking saffron field",
+     "query": "perseverance manual work"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "源 梁",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/worker-in-hardhat-working-on-lift-at-night-9792408/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V02.mp4",
+     "score": 13.1,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "video worker hardhat working lift night",
+     "query": "perseverance manual work"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Abdul Wali Khan",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/efficient-loading-of-agricultural-machinery-in-farm-setting-35095382/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V03.mp4",
+     "score": 12.7,
+     "categories": [
+      "farm"
+     ],
+     "title": "video efficient loading agricultural machinery farm setting",
+     "query": "difficult working conditions"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Khanh Hoang Minh 2",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-people-are-working-on-a-tree-19115716/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V04.mp4",
+     "score": 12.3,
+     "categories": [
+      "working"
+     ],
+     "title": "video group people are working tree",
+     "query": "perseverance manual work"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Progga Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-on-roof-beam-in-fog-34704438/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V05.mp4",
+     "score": 12.1,
+     "categories": [
+      "worker"
+     ],
+     "title": "video construction worker roof beam fog",
+     "query": "difficult working conditions"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Eren Ataselim",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/rainy-construction-scene-with-worker-31022747/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V06.mp4",
+     "score": 12.1,
+     "categories": [
+      "worker"
+     ],
+     "title": "video rainy construction scene with worker",
+     "query": "difficult working conditions"
+    },
+    {
+     "id": "edenrise-gratitude-S14-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "addy dajah",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/worker-sewing-machine-18092483/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-V07.mp4",
+     "score": 12.1,
+     "categories": [
+      "worker"
+     ],
+     "title": "video worker sewing machine",
+     "query": "difficult working conditions"
+    },
+    {
+     "id": "edenrise-gratitude-S14-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Saikat Hazra",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/farmer-working-in-rice-field-during-rain-32928919/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-I01.jpg",
+     "score": 16.7,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "working"
+     ],
+     "title": "A dedicated farmer working in a rice field during rain in Chandrakona, India.",
+     "query": "workers in rain site"
+    },
+    {
+     "id": "edenrise-gratitude-S14-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Abdul Kayum",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/rural-farmer-working-in-a-field-at-sunset-35338527/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-I02.jpg",
+     "score": 16.7,
+     "categories": [
+      "farm",
+      "farmer",
+      "rural"
+     ],
+     "title": "A rural farmer carrying a tool and sack on his head, set against a vibrant sunset backdrop.",
+     "query": "perseverance manual work"
+    },
+    {
+     "id": "edenrise-gratitude-S14-I03",
+     "type": "image",
+     "source": "openverse",
+     "author": "US Army Africa",
+     "license": "CC BY 2.0",
+     "page_url": "https://www.flickr.com/photos/36281822@N08/15495427242",
+     "thumb": "projects/edenrise-gratitude/thumbs/S14/edenrise-gratitude-S14-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S14/edenrise-gratitude-S14-I03.jpg",
+     "score": 5.7,
+     "categories": [
+      "landscape",
+      "outdoor"
+     ],
+     "title": "Monrovia Medical Unit Construtcion",
+     "query": "workers in rain site"
+    }
+   ]
+  },
+  {
+   "id": "S16",
+   "script_line": "When people regularly express genuine appreciation, contributions that might otherwise go unnoticed become visible. People understand that what they do matters. And that can help create an atmosphere in which appreciatio",
+   "visual_direction": "Every trade affects another — building, repairing, cleaning, growing, cooking",
+   "t": 377.11,
+   "end": 433.37,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S16-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Panya Niyomtham",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farmer-tending-lush-green-vegetable-field-35036265/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V01.mp4",
+     "score": 17.82,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "table",
+      "vegetable"
+     ],
+     "title": "video farmer tending lush green vegetable field",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ucundinamarca Virtual",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-harvesting-coffee-beans-17191112/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V02.mp4",
+     "score": 17.22,
+     "categories": [
+      "harvest"
+     ],
+     "title": "video woman harvesting coffee beans",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Andi  Farruku",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-doing-gardening-5766085/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V03.mp4",
+     "score": 17.22,
+     "categories": [
+      "garden"
+     ],
+     "title": "video person doing gardening",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Panya Niyomtham",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/serene-farmer-harvesting-in-golden-rice-field-34781953/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V04.mp4",
+     "score": 17.22,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "harvest"
+     ],
+     "title": "video serene farmer harvesting golden rice field",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Panya Niyomtham",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/rural-farmer-tending-fields-on-a-sunny-day-35036261/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V05.mp4",
+     "score": 16.62,
+     "categories": [
+      "farm",
+      "farmer",
+      "field",
+      "rural"
+     ],
+     "title": "video rural farmer tending fields sunny day",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Riaz Uddin",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/traditional-rice-cultivation-in-rural-bangladesh-32312323/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V06.mp4",
+     "score": 15.12,
+     "categories": [
+      "rural"
+     ],
+     "title": "video traditional rice cultivation rural bangladesh",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ashik Rahman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/farmer-19578125/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-V07.mp4",
+     "score": 14.82,
+     "categories": [
+      "farm",
+      "farmer"
+     ],
+     "title": "video farmer",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Azraf Mohammod Nakib",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/elderly-farmer-working-in-a-field-on-a-sunny-day-35281176/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-I01.jpg",
+     "score": 16.02,
+     "categories": [
+      "field",
+      "outdoor",
+      "rural"
+     ],
+     "title": "Elderly man tending to a field outdoors, showcasing traditional agriculture in rural setting.",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Jeffry Surianto",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/rural-farmer-working-in-lush-green-rice-field-36775904/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-I02.jpg",
+     "score": 14.82,
+     "categories": [
+      "farm",
+      "farmer",
+      "field"
+     ],
+     "title": "A solitary farmer tending to rice fields surrounded by verdant greenery and distant mountains.",
+     "query": "farmer tending field"
+    },
+    {
+     "id": "edenrise-gratitude-S16-I03",
+     "type": "image",
+     "source": "openverse",
+     "author": "NASA Goddard Photo and Video",
+     "license": "CC BY 2.0",
+     "page_url": "https://www.flickr.com/photos/24662369@N07/48049632383",
+     "thumb": "projects/edenrise-gratitude/thumbs/S16/edenrise-gratitude-S16-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S16/edenrise-gratitude-S16-I03.jpg",
+     "score": 8.62,
+     "categories": [
+      "harvest"
+     ],
+     "title": "Improving the Harvest During Drought",
+     "query": "farmer tending field"
+    }
+   ]
+  },
+  {
+   "id": "S15",
+   "script_line": "And gratitude doesn't remove accountability. We can be grateful and still have difficult conversations. We can appreciate someone's contribution and still correct a mistake. We can recognize how far we've come and still ",
+   "visual_direction": "High standards and gratitude together — the honest conversation",
+   "t": 352.73,
+   "end": 377.11,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-gratitude-S15-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-a-woman-working-while-eating-at-a-cafe-5977265/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V01.mp4",
+     "score": 12.99,
+     "categories": [
+      "working"
+     ],
+     "title": "video man and woman working while eating cafe",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-a-woman-collaborating-their-work-5977259/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V02.mp4",
+     "score": 12.77,
+     "categories": [],
+     "title": "video man and woman collaborating their work",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-talking-to-his-colleague-at-work-7593777/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V03.mp4",
+     "score": 12.77,
+     "categories": [],
+     "title": "video man talking his colleague work",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-talking-to-another-person-5977452/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V04.mp4",
+     "score": 11.79,
+     "categories": [],
+     "title": "video man talking another person",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-a-meeting-in-a-cafe-5977268/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V05.mp4",
+     "score": 11.79,
+     "categories": [],
+     "title": "video man and woman having meeting cafe",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jack Sparrow",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-and-discussing-documents-5977458/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V06.mp4",
+     "score": 11.79,
+     "categories": [],
+     "title": "video man and woman talking and discussing documents",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "olia danilevich",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-listening-to-his-female-boss-5311250/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-V07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-V07.mp4",
+     "score": 11.79,
+     "categories": [],
+     "title": "video man listening his female boss",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-gratitude-S15-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Vitaly Gariev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/elderly-potter-teaching-young-boy-in-workshop-36731486/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-I01.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-I01.jpg",
+     "score": 9.99,
+     "categories": [
+      "artisan",
+      "working"
+     ],
+     "title": "An elderly man and a child working together on clay pottery in an artisan workshop.",
+     "query": "mentor teaching apprentice"
+    },
+    {
+     "id": "edenrise-gratitude-S15-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-handling-detail-by-pneumatic-tool-in-workshop-3846262/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-I02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-I02.jpg",
+     "score": 9.77,
+     "categories": [],
+     "title": "Side view of senior foreman in eyeglasses showing to trainee how handling detail in workshop",
+     "query": "mentor teaching apprentice"
+    },
+    {
+     "id": "edenrise-gratitude-S15-I03",
+     "type": "image",
+     "source": "openverse",
+     "author": "ResoluteSupportMedia",
+     "license": "CC BY 2.0",
+     "page_url": "https://www.flickr.com/photos/29456680@N06/3988872599",
+     "thumb": "projects/edenrise-gratitude/thumbs/S15/edenrise-gratitude-S15-I03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S15/edenrise-gratitude-S15-I03.jpg",
+     "score": 3.42,
+     "categories": [
+      "vineyard",
+      "working"
+     ],
+     "title": "090925-A-4422M-001",
+     "query": "quality inspection work"
+    }
+   ]
+  }
+ ]
+}
