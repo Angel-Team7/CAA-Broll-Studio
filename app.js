@@ -84,7 +84,10 @@ async function toggleFinalise() {
 
 async function loadProject(slug) {
   state.slug = slug;
-  state.data = await fetch(`projects/${slug}/scenes.json`).then(r => r.json());
+  // no-store + cache-bust: a republished pool kept showing the OLD clips because the
+  // browser served a cached scenes.json (2026-08-12).
+  state.data = await fetch(`projects/${slug}/scenes.json?v=${Date.now()}`,
+                           { cache: "no-store" }).then(r => r.json());
   const sel = await loadSelections(slug);
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
