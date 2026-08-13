@@ -5085,62 +5085,27 @@
      "id": "edenrise-gratitude-S17-V01",
      "type": "video",
      "source": "pexels",
-     "author": "Askar Abayev",
+     "author": "RDNE Stock project",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/man-talking-in-front-of-a-food-gathering-5617273/",
+     "page_url": "https://www.pexels.com/video/man-tearing-loaf-of-bread-7781826/",
      "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V01.jpg",
      "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V01.mp4",
-     "score": 14.49,
+     "score": 11.97,
      "categories": [
-      "man",
-      "talking"
+      "man"
      ],
-     "title": "video man talking front food gathering",
-     "query": "large group dinner long table night"
+     "title": "video man tearing loaf bread",
+     "query": "hands tearing bread"
     },
     {
      "id": "edenrise-gratitude-S17-V02",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-eating-together-6289663/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V02.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V02.mp4",
-     "score": 15.63,
-     "categories": [
-      "people",
-      "together"
-     ],
-     "title": "video people eating together",
-     "query": "long table shared meal candlelight"
-    },
-    {
-     "id": "edenrise-gratitude-S17-V03",
-     "type": "video",
-     "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-group-of-people-are-having-a-meal-together-4781524/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V03.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V03.mp4",
-     "score": 16.83,
-     "categories": [
-      "people",
-      "together"
-     ],
-     "title": "video group people are having meal together",
-     "query": "communal meal many people long table"
-    },
-    {
-     "id": "edenrise-gratitude-S17-V04",
-     "type": "video",
-     "source": "pexels",
      "author": "MART  PRODUCTION",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/homeless-man-and-woman-eating-bread-together-8077312/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V04.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V04.mp4",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V02.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V02.mp4",
      "score": 14.97,
      "categories": [
       "man",
@@ -5151,38 +5116,72 @@
      "query": "giving bread to poor"
     },
     {
-     "id": "edenrise-gratitude-S17-V05",
+     "id": "edenrise-gratitude-S17-V03",
      "type": "video",
-     "source": "coverr",
-     "author": "Coverr",
-     "license": "Coverr License",
-     "page_url": "https://coverr.co/videos/woman-making-a-dough-ybiunpqmpg",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V05.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V05.mp4",
-     "score": 12.96,
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-doing-picnic-together-8153649/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V03.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V03.mp4",
+     "score": 14.75,
+     "categories": [
+      "people",
+      "together"
+     ],
+     "title": "video people doing picnic together",
+     "query": "sharing bread outdoors"
+    },
+    {
+     "id": "edenrise-gratitude-S17-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Askar Abayev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-talking-in-front-of-a-food-gathering-5617273/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V04.mp4",
+     "score": 14.49,
      "categories": [
       "man",
-      "woman"
+      "talking"
      ],
-     "title": "videos woman making dough ybiunpqmpg",
-     "query": "hands breaking bread"
+     "title": "video man talking front food gathering",
+     "query": "large group dinner long table night"
+    },
+    {
+     "id": "edenrise-gratitude-S17-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-eating-together-6289663/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V05.mp4",
+     "score": 15.63,
+     "categories": [
+      "people",
+      "together"
+     ],
+     "title": "video people eating together",
+     "query": "long table shared meal candlelight"
     },
     {
      "id": "edenrise-gratitude-S17-V06",
      "type": "video",
-     "source": "coverr",
-     "author": "Coverr",
-     "license": "Coverr License",
-     "page_url": "https://coverr.co/videos/woman-sprinkling-flour-on-dough-b5uhjmor2r",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-people-are-having-a-meal-together-4781524/",
      "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V06.jpg",
      "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V06.mp4",
-     "score": 12.96,
+     "score": 16.83,
      "categories": [
-      "man",
-      "woman"
+      "people",
+      "together"
      ],
-     "title": "videos woman sprinkling flour dough b5uhjmor2r",
-     "query": "hands breaking bread"
+     "title": "video group people are having meal together",
+     "query": "communal meal many people long table"
     },
     {
      "id": "edenrise-gratitude-S17-V07",
@@ -5207,51 +5206,50 @@
      "source": "pexels",
      "author": "Kampus Production",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-doing-picnic-together-8153649/",
+     "page_url": "https://www.pexels.com/video/two-people-holding-hands-7077317/",
      "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V08.jpg",
      "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V08.mp4",
-     "score": 14.75,
+     "score": 11.07,
      "categories": [
-      "people",
-      "together"
+      "hands",
+      "people"
      ],
-     "title": "video people doing picnic together",
-     "query": "sharing bread outdoors"
+     "title": "video two people holding hands",
+     "query": "hands holding broken bread"
     },
     {
      "id": "edenrise-gratitude-S17-V09",
      "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-talking-while-at-the-dining-area-6948941/",
+     "source": "coverr",
+     "author": "Coverr",
+     "license": "Coverr License",
+     "page_url": "https://coverr.co/videos/woman-making-a-dough-ybiunpqmpg",
      "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V09.jpg",
      "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V09.mp4",
-     "score": 15.63,
+     "score": 12.96,
      "categories": [
-      "people",
-      "talking"
+      "man",
+      "woman"
      ],
-     "title": "video people talking while the dining area",
-     "query": "communal meal many people long table"
+     "title": "videos woman making dough ybiunpqmpg",
+     "query": "hands breaking bread"
     },
     {
      "id": "edenrise-gratitude-S17-V10",
      "type": "video",
-     "source": "pexels",
-     "author": "RDNE Stock project",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-family-celebrating-thanksgiving-together-5848374/",
+     "source": "coverr",
+     "author": "Coverr",
+     "license": "Coverr License",
+     "page_url": "https://coverr.co/videos/woman-sprinkling-flour-on-dough-b5uhjmor2r",
      "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-V10.jpg",
      "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-V10.mp4",
-     "score": 19.64,
+     "score": 12.96,
      "categories": [
-      "celebrating",
-      "thanks",
-      "together"
+      "man",
+      "woman"
      ],
-     "title": "video family celebrating thanksgiving together",
-     "query": "friends dinner warm light"
+     "title": "videos woman sprinkling flour dough b5uhjmor2r",
+     "query": "hands breaking bread"
     },
     {
      "id": "edenrise-gratitude-S17-I01",
@@ -5307,14 +5305,14 @@
      "query": "long table shared meal candlelight"
     },
     {
-     "id": "edenrise-gratitude-S17-I01",
+     "id": "edenrise-gratitude-S17-I04",
      "type": "image",
      "source": "pexels",
      "author": "Katerina Holmes",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/crop-young-lady-breaking-eggs-in-flour-for-dough-5907549/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I01.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I01.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I04.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I04.jpg",
      "score": 15.8,
      "categories": [
       "help",
@@ -5324,14 +5322,14 @@
      "query": "bread baking hands"
     },
     {
-     "id": "edenrise-gratitude-S17-I02",
+     "id": "edenrise-gratitude-S17-I05",
      "type": "image",
      "source": "pexels",
      "author": "Gül Işık",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/woman-serving-cake-to-the-family-20488563/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I02.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I02.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I05.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I05.jpg",
      "score": 14.12,
      "categories": [
       "together"
@@ -5340,14 +5338,14 @@
      "query": "breaking bread together"
     },
     {
-     "id": "edenrise-gratitude-S17-I03",
+     "id": "edenrise-gratitude-S17-I06",
      "type": "image",
      "source": "openverse",
      "author": "Kheel Center, Cornell University Library",
      "license": "CC BY 2.0",
      "page_url": "https://www.flickr.com/photos/38445726@N04/5279890076",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I03.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I03.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I06.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I06.jpg",
      "score": 9.97,
      "categories": [
       "man",
@@ -5359,14 +5357,14 @@
      "query": "sharing meal table"
     },
     {
-     "id": "edenrise-gratitude-S17-I01",
+     "id": "edenrise-gratitude-S17-I07",
      "type": "image",
      "source": "pexels",
      "author": "Askar Abayev",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/crop-man-pouring-wine-to-people-on-family-dinner-5638747/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I01.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I01.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I07.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I07.jpg",
      "score": 20.57,
      "categories": [
       "face",
@@ -5378,14 +5376,14 @@
      "query": "large group dinner long table night"
     },
     {
-     "id": "edenrise-gratitude-S17-I02",
+     "id": "edenrise-gratitude-S17-I08",
      "type": "image",
      "source": "pixabay",
      "author": "1857643",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/photos/hands-together-community-touch-5216585/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I02.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I02.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I08.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I08.jpg",
      "score": 16.32,
      "categories": [
       "hands",
@@ -5397,20 +5395,78 @@
      "query": "many hands reaching food table"
     },
     {
-     "id": "edenrise-gratitude-S17-I03",
+     "id": "edenrise-gratitude-S17-I09",
      "type": "image",
      "source": "pexels",
      "author": "Enes Çelik",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/group-of-people-sitting-at-the-table-together-7748468/",
-     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I03.jpg",
-     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I03.jpg",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I09.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I09.jpg",
      "score": 15.69,
      "categories": [
       "conversation"
      ],
      "title": "Warm and intimate family dinner with conversation and candlelight ambiance.",
      "query": "friends dinner warm light"
+    },
+    {
+     "id": "edenrise-gratitude-S17-I10",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/hands-holding-adults-bracelets-1867428/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I10.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I10.jpg",
+     "score": 14.69,
+     "categories": [
+      "hands",
+      "man",
+      "people",
+      "together",
+      "woman"
+     ],
+     "title": "hands  holding  adults  bracelets  jewelries  accessories  accessorize  couple  lovers  man  woman  holding hands  love ",
+     "query": "hands holding broken bread"
+    },
+    {
+     "id": "edenrise-gratitude-S17-I11",
+     "type": "image",
+     "source": "pixabay",
+     "author": "5688709",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/couple-together-holding-hands-2424928/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I11.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I11.jpg",
+     "score": 13.97,
+     "categories": [
+      "hands",
+      "man",
+      "people",
+      "together",
+      "woman"
+     ],
+     "title": "couple  together  holding hands  lovers  affection  love  standing  man  woman  pair  people  romantic  romance  girlfri",
+     "query": "hands holding broken bread"
+    },
+    {
+     "id": "edenrise-gratitude-S17-I12",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/crop-unrecognizable-people-eating-meat-stew-and-nachos-5738309/",
+     "thumb": "projects/edenrise-gratitude/thumbs/S17/edenrise-gratitude-S17-I12.jpg",
+     "preview": "projects/edenrise-gratitude/previews/S17/edenrise-gratitude-S17-I12.jpg",
+     "score": 13.05,
+     "categories": [
+      "man",
+      "outdoor",
+      "together"
+     ],
+     "title": "Crop anonymous man dipping crispy nacho chip into bowl with yummy meat stew while having lunch with family members and s",
+     "query": "breaking bread fresco"
     }
    ]
   }
