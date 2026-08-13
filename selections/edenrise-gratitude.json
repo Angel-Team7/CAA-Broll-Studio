@@ -1,57 +1,55 @@
 {
-  "project": "edenrise-gratitude",
-  "updated": "2026-08-13T14:46:50.835Z",
-  "ready": false,
-  "approved": {
-    "S02": [
-      "edenrise-gratitude-S02-V12"
-    ],
-    "S08": [
-      "edenrise-gratitude-S08-V01"
-    ],
-    "S13": [
-      "edenrise-gratitude-S13-V03"
-    ],
-    "S16": [
-      "edenrise-gratitude-S16-V01"
-    ],
-    "S14": [
-      "edenrise-gratitude-S14-V09"
-    ],
-    "S06": [
-      "edenrise-gratitude-S06-V08"
-    ],
-    "S05": [
-      "edenrise-gratitude-S05-V01"
-    ],
-    "S11": [
-      "edenrise-gratitude-S11-V03"
-    ],
-    "S10": [
-      "edenrise-gratitude-S10-V03"
-    ],
-    "S03": [
-      "edenrise-gratitude-S03-V01"
-    ],
-    "S07": [
-      "edenrise-gratitude-S07-V05"
-    ],
-    "S01": [
-      "edenrise-gratitude-S01-V01"
-    ],
-    "S12": [
-      "edenrise-gratitude-S12-V08"
-    ],
-    "S15": [
-      "edenrise-gratitude-S15-V06"
-    ],
-    "S09": [
-      "edenrise-gratitude-S09-V03"
-    ],
-    "S04": [
-      "edenrise-gratitude-S04-V03"
-    ]
-  },
-  "needs_broll": {},
-  "topup_requests": {}
+ "project": "edenrise-gratitude",
+ "updated": "2026-08-13T14:33:10.481Z",
+ "ready": false,
+ "approved": {
+  "S02": [
+   "edenrise-gratitude-S02-V12"
+  ],
+  "S08": [
+   "edenrise-gratitude-S08-V01"
+  ],
+  "S13": [
+   "edenrise-gratitude-S13-V03"
+  ],
+  "S16": [
+   "edenrise-gratitude-S16-V01"
+  ],
+  "S14": [
+   "edenrise-gratitude-S14-V09"
+  ],
+  "S06": [
+   "edenrise-gratitude-S06-V08"
+  ],
+  "S05": [
+   "edenrise-gratitude-S05-V01"
+  ],
+  "S11": [
+   "edenrise-gratitude-S11-V03"
+  ],
+  "S10": [
+   "edenrise-gratitude-S10-V03"
+  ],
+  "S03": [
+   "edenrise-gratitude-S03-V01"
+  ],
+  "S07": [
+   "edenrise-gratitude-S07-V01",
+   "edenrise-gratitude-S07-V05"
+  ],
+  "S01": [
+   "edenrise-gratitude-S01-V01"
+  ],
+  "S12": [
+   "edenrise-gratitude-S12-V08"
+  ],
+  "S09": [
+   "edenrise-gratitude-S09-V03"
+  ],
+  "S04": [
+   "edenrise-gratitude-S04-V03"
+  ]
+ },
+ "needs_broll": {},
+ "topup_requests": {}
 }
