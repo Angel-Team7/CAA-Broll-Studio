@@ -1,7 +1,41 @@
 {
- "project": "belong-module10",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "belong-module10",
+  "updated": "2026-08-17T11:45:43.726Z",
+  "ready": false,
+  "approved": {
+    "S02": [
+      "belong-m10-S02-V02"
+    ],
+    "S01": [
+      "belong-m10-S01-V03"
+    ],
+    "S12": [
+      "belong-m10-S12-V01"
+    ],
+    "S11": [
+      "belong-m10-S11-V02"
+    ],
+    "S08": [
+      "belong-m10-S08-V01"
+    ],
+    "S10": [
+      "upload_1786966437757_craveiral-vista-aera"
+    ],
+    "S05": [
+      "belong-m10-S05-V04"
+    ],
+    "S06": [
+      "upload_1786966760883_1e44b60b81794fc7836c626aa9795b8d"
+    ],
+    "S07": [
+      "belong-m10-S07-V04"
+    ]
+  },
+  "needs_broll": {
+    "S09": "10 more contexutal, read well the lines of the brolls please",
+    "S03": "could you do 10 more, drought, water, alenteju plese",
+    "S04": "10 more contexutal please explaing the situation",
+    "S13": "10 more videos contexutal explaining the situations"
+  },
+  "topup_requests": {}
 }
