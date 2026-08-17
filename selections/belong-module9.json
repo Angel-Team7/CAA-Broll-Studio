@@ -1,7 +1,37 @@
 {
- "project": "belong-module9",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "belong-module9",
+  "updated": "2026-08-17T11:27:02.736Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "belong-m9-S01-V01"
+    ],
+    "S02": [
+      "belong-m9-S02-V01"
+    ],
+    "S05": [
+      "belong-m9-S05-V01"
+    ],
+    "S11": [
+      "belong-m9-S11-V03"
+    ]
+  },
+  "needs_broll": {
+    "S03": "this is not aligned at all  -c'mon this is is for hospitality industry generat 10 more",
+    "S12": "cm0n this is not aliged, generate 10 more contextual in the hospitality industry",
+    "S09": "these are not contexual for hospitality please generate 10 more",
+    "S07": "we need more contextual brolls for hospitality please generate 10 more.",
+    "S10": "genereate 10 more pleaes these are not contexual at all for hospitality.",
+    "S04": "these brolls are not contextual at all please do 10 more hospitality industry.",
+    "S06": "10 more contexutal in hospitality industry.",
+    "S08": "10 more contexutal in hospitality industry.",
+    "S13": "10 more contexutal in hospitality industry."
+  },
+  "topup_requests": {
+    "S03": {
+      "requested": "2026-08-17T11:16:09.391Z",
+      "note": "",
+      "done": false
+    }
+  }
 }
