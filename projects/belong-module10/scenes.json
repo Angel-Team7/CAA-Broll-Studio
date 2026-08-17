@@ -1317,6 +1317,16 @@
       },
       "clips": [
         {
+          "id": "upload_1786966760883_1e44b60b81794fc7836c626aa9795b8d",
+          "type": "video",
+          "source": "upload",
+          "author": "Uploaded",
+          "license": "Client-provided",
+          "note": "1e44b60b81794fc7836c626aa9795b8d.mp4",
+          "thumb": "",
+          "preview": "projects/belong-module10/previews/S06/upload_1786966760883_1e44b60b81794fc7836c626aa9795b8d.mp4"
+        },
+        {
           "id": "belong-m10-S06-V01",
           "type": "video",
           "source": "pixabay",
