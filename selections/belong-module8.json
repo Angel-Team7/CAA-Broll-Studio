@@ -1,52 +1,64 @@
 {
- "project": "belong-module8",
- "updated": "2026-08-12T15:26:21.593Z",
- "ready": false,
- "approved": {
-  "S01": [
-   "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx"
-  ],
-  "S02": [
-   "pixabay_236123_rustic-beach-bar"
-  ],
-  "S03": [
-   "pixabay_36609_surf-lesson-beach"
-  ],
-  "S04": [
-   "pixabay_186560_morning-farm-light"
-  ],
-  "S05": [
-   "pexels_7243900_refined-plate-restaurant"
-  ],
-  "S06": [
-   "pixabay_200139_catering-event-setup"
-  ],
-  "S07": [
-   "pixabay_360175_wedding-celebration-golden"
-  ],
-  "S10": [
-   "belong-m8-S10-V06"
-  ],
-  "S12": [
-   "belong-m8-S12-V01"
-  ]
- },
- "needs_broll": {
-  "S08": "please generate more brolls 7 more videos",
-  "S09": "more videos please 7 mre"
- },
- "topup_requests": {
-  "S11": {
-   "requested": "2026-08-12T15:24:52.239Z",
-   "note": "they are not relevant it should more like for Belong and craveiral business model type",
-   "done": true,
-   "fulfilled": "2026-08-12T15:44:22+00:00"
+  "project": "belong-module8",
+  "updated": "2026-08-17T12:45:16.497Z",
+  "ready": true,
+  "approved": {
+    "S01": [
+      "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx"
+    ],
+    "S02": [
+      "pixabay_236123_rustic-beach-bar"
+    ],
+    "S03": [
+      "pixabay_36609_surf-lesson-beach"
+    ],
+    "S04": [
+      "pixabay_186560_morning-farm-light"
+    ],
+    "S05": [
+      "pexels_7243900_refined-plate-restaurant"
+    ],
+    "S06": [
+      "pixabay_200139_catering-event-setup"
+    ],
+    "S07": [
+      "pixabay_360175_wedding-celebration-golden"
+    ],
+    "S10": [
+      "belong-m8-S10-V06"
+    ],
+    "S12": [
+      "belong-m8-S12-V01"
+    ],
+    "S08": [
+      "belong-m8-S08-V12"
+    ],
+    "S09": [
+      "belong-m8-S09-V23"
+    ],
+    "S11": [
+      "belong-m8-S11-V14"
+    ],
+    "S13": [
+      "belong-m8-S13-V24"
+    ]
   },
-  "S13": {
-   "requested": "2026-08-12T15:26:17.588Z",
-   "note": "more contextual please this is for resort such as belong and craveiral - also delte these existing ones",
-   "done": true,
-   "fulfilled": "2026-08-12T15:44:22+00:00"
+  "needs_broll": {
+    "S08": "please generate more brolls 7 more videos",
+    "S09": "more videos please 7 mre"
+  },
+  "topup_requests": {
+    "S11": {
+      "requested": "2026-08-12T15:24:52.239Z",
+      "note": "they are not relevant it should more like for Belong and craveiral business model type",
+      "done": true,
+      "fulfilled": "2026-08-12T15:44:22+00:00"
+    },
+    "S13": {
+      "requested": "2026-08-12T15:26:17.588Z",
+      "note": "more contextual please this is for resort such as belong and craveiral - also delte these existing ones",
+      "done": true,
+      "fulfilled": "2026-08-12T15:44:22+00:00"
+    }
   }
- }
 }
