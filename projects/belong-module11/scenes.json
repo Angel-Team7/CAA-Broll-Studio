@@ -1,7 +1,7 @@
 {
   "project": "belong-module11",
   "title": "Belong \u2014 Module 11: The Craveiral Voice",
-  "generated": "2026-07-12",
+  "generated": "2026-08-17",
   "scenes": [
     {
       "id": "S01",
@@ -17,6 +17,36 @@
           "page_url": "https://coverr.co/videos/a-man-laughing-with-his-friend-on-a-phone-call-while-sitting-in-the-shade-npys1adgor",
           "thumb": "projects/belong-module11/thumbs/S01/coverr_npys1adgor_people-talking-laughing.jpg",
           "preview": "projects/belong-module11/previews/S01/coverr_npys1adgor_people-talking-laughing.mp4"
+        },
+        {
+          "id": "pexels_5961380_guests-chatting-dinner-terrace",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/elderly-people-having-conversation-in-an-event-outdoors-5961380/",
+          "thumb": "projects/belong-module11/thumbs/S01/pexels_5961380_guests-chatting-dinner-terrace.jpg",
+          "preview": "projects/belong-module11/previews/S01/pexels_5961380_guests-chatting-dinner-terrace.mp4"
+        },
+        {
+          "id": "pexels_8922357_waiter-chatting-with-guests-tabl",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-waiter-serving-wine-on-his-guests-8922357/",
+          "thumb": "projects/belong-module11/thumbs/S01/pexels_8922357_waiter-chatting-with-guests-tabl.jpg",
+          "preview": "projects/belong-module11/previews/S01/pexels_8922357_waiter-chatting-with-guests-tabl.mp4"
+        },
+        {
+          "id": "pexels_9588552_friends-talking-farm-table-outdo",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/friends-sitting-at-the-table-9588552/",
+          "thumb": "projects/belong-module11/thumbs/S01/pexels_9588552_friends-talking-farm-table-outdo.jpg",
+          "preview": "projects/belong-module11/previews/S01/pexels_9588552_friends-talking-farm-table-outdo.mp4"
         },
         {
           "id": "pexels_9808304_conversation-outdoor-table",
@@ -37,6 +67,26 @@
           "page_url": "https://www.pexels.com/photo/elderly-couple-relaxing-in-da-nang-park-34594291/",
           "thumb": "projects/belong-module11/thumbs/S01/pexels_34594291_candid-conversation-garden.jpg",
           "preview": "projects/belong-module11/previews/S01/pexels_34594291_candid-conversation-garden.jpg"
+        },
+        {
+          "id": "pexels_5638644_people-laughing-dinner-garden",
+          "type": "image",
+          "source": "pexels",
+          "author": "Askar Abayev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/happy-family-enjoying-dinner-in-garden-5638644/",
+          "thumb": "projects/belong-module11/thumbs/S01/pexels_5638644_people-laughing-dinner-garden.jpg",
+          "preview": "projects/belong-module11/previews/S01/pexels_5638644_people-laughing-dinner-garden.jpg"
+        },
+        {
+          "id": "pexels_8841608_friends-talking-farm-table-outdo",
+          "type": "image",
+          "source": "pexels",
+          "author": "Julia M Cameron",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-man-and-woman-sitting-at-the-table-8841608/",
+          "thumb": "projects/belong-module11/thumbs/S01/pexels_8841608_friends-talking-farm-table-outdo.jpg",
+          "preview": "projects/belong-module11/previews/S01/pexels_8841608_friends-talking-farm-table-outdo.jpg"
         }
       ]
     },
@@ -46,24 +96,84 @@
       "visual_direction": "The tone embodied: a host leans against a doorway chatting with guests on a terrace, relaxed posture, no script anywhere \u2014 genuine ease. Medium, golden light. [image-beat]",
       "clips": [
         {
-          "id": "pixabay_171044_genuine-hospitality-smile",
+          "id": "pexels_3760754_host-serving-guests-on-terrace",
           "type": "video",
-          "source": "pixabay",
-          "author": "magicmore",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-171044/",
-          "thumb": "projects/belong-module11/thumbs/S02/pixabay_171044_genuine-hospitality-smile.jpg",
-          "preview": "projects/belong-module11/previews/S02/pixabay_171044_genuine-hospitality-smile.mp4"
+          "source": "pexels",
+          "author": "Alexy Almond",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/host-is-setting-up-food-on-the-table-for-their-guests-3760754/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_3760754_host-serving-guests-on-terrace.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_3760754_host-serving-guests-on-terrace.mp4"
         },
         {
-          "id": "pixabay_180_warm-conversation-doorway",
+          "id": "pexels_5138022_smiling-receptionist-welcoming-c",
           "type": "video",
-          "source": "pixabay",
-          "author": "Republica",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-180/",
-          "thumb": "projects/belong-module11/thumbs/S02/pixabay_180_warm-conversation-doorway.jpg",
-          "preview": "projects/belong-module11/previews/S02/pixabay_180_warm-conversation-doorway.mp4"
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/couple-talking-to-a-woman-in-front-desk-5138022/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_5138022_smiling-receptionist-welcoming-c.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_5138022_smiling-receptionist-welcoming-c.mp4"
+        },
+        {
+          "id": "pexels_6276335_innkeeper-greeting-travelers-smi",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-couple-welcoming-friends-at-home-during-christmas-6276335/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_6276335_innkeeper-greeting-travelers-smi.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_6276335_innkeeper-greeting-travelers-smi.mp4"
+        },
+        {
+          "id": "pexels_6518105_friends-arriving-dinner-party-hu",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/visitors-arriving-at-christmas-party-6518105/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_6518105_friends-arriving-dinner-party-hu.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_6518105_friends-arriving-dinner-party-hu.mp4"
+        },
+        {
+          "id": "pexels_8160998_host-serving-guests-on-terrace",
+          "type": "video",
+          "source": "pexels",
+          "author": "Alena Darmel",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-preparing-mexican-foods-on-a-table-8160998/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_8160998_host-serving-guests-on-terrace.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_8160998_host-serving-guests-on-terrace.mp4"
+        },
+        {
+          "id": "pexels_8815381_bed-and-breakfast-owner-welcome",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/home-owners-saying-goodbye-to-the-realtor-8815381/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_8815381_bed-and-breakfast-owner-welcome.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_8815381_bed-and-breakfast-owner-welcome.mp4"
+        },
+        {
+          "id": "pexels_5737827_guests-arriving-country-house-we",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-in-orange-dress-knocking-on-the-door-5737827/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_5737827_guests-arriving-country-house-we.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_5737827_guests-arriving-country-house-we.jpg"
+        },
+        {
+          "id": "pexels_5737831_host-welcoming-guests-house-door",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-woman-standing-on-a-doorway-in-front-of-people-bringing-flowers-5737831/",
+          "thumb": "projects/belong-module11/thumbs/S02/pexels_5737831_host-welcoming-guests-house-door.jpg",
+          "preview": "projects/belong-module11/previews/S02/pexels_5737831_host-welcoming-guests-house-door.jpg"
         },
         {
           "id": "pexels_5737833_warm-conversation-doorway",
@@ -93,24 +203,54 @@
       "visual_direction": "The words made physical: a whitewashed house with its door open in welcome, a real working farm behind it \u2014 nouns you can stand inside. Wide, honest. [image-beat]",
       "clips": [
         {
-          "id": "pixabay_174452_farm-cottage-entrance",
+          "id": "pexels_19999735_whitewashed-house-portugal-villa",
           "type": "video",
-          "source": "pixabay",
-          "author": "Ponnguyenduy",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-174452/",
-          "thumb": "projects/belong-module11/thumbs/S03/pixabay_174452_farm-cottage-entrance.jpg",
-          "preview": "projects/belong-module11/previews/S03/pixabay_174452_farm-cottage-entrance.mp4"
+          "source": "pexels",
+          "author": "Herv\u00e9 Piglowski",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/the-building-where-the-apartment-is-located-19999735/",
+          "thumb": "projects/belong-module11/thumbs/S03/pexels_19999735_whitewashed-house-portugal-villa.jpg",
+          "preview": "projects/belong-module11/previews/S03/pexels_19999735_whitewashed-house-portugal-villa.mp4"
         },
         {
-          "id": "pixabay_28237_whitewashed-house-door",
+          "id": "pexels_34336883_mediterranean-village-white-hous",
+          "type": "video",
+          "source": "pexels",
+          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/aerial-view-of-mediterranean-village-34336883/",
+          "thumb": "projects/belong-module11/thumbs/S03/pexels_34336883_mediterranean-village-white-hous.jpg",
+          "preview": "projects/belong-module11/previews/S03/pexels_34336883_mediterranean-village-white-hous.mp4"
+        },
+        {
+          "id": "pexels_34640006_rustic-farmhouse-open-door",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ray Raimundo",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/charming-mediterranean-country-home-tour-34640006/",
+          "thumb": "projects/belong-module11/thumbs/S03/pexels_34640006_rustic-farmhouse-open-door.jpg",
+          "preview": "projects/belong-module11/previews/S03/pexels_34640006_rustic-farmhouse-open-door.mp4"
+        },
+        {
+          "id": "pixabay_10685_country-house-entrance-flowers",
           "type": "video",
           "source": "pixabay",
-          "author": "Jacques_Barrette",
+          "author": "klimkin",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-28237/",
-          "thumb": "projects/belong-module11/thumbs/S03/pixabay_28237_whitewashed-house-door.jpg",
-          "preview": "projects/belong-module11/previews/S03/pixabay_28237_whitewashed-house-door.mp4"
+          "page_url": "https://pixabay.com/videos/id-10685/",
+          "thumb": "projects/belong-module11/thumbs/S03/pixabay_10685_country-house-entrance-flowers.jpg",
+          "preview": "projects/belong-module11/previews/S03/pixabay_10685_country-house-entrance-flowers.mp4"
+        },
+        {
+          "id": "pexels_19310450_rustic-farmhouse-open-door",
+          "type": "image",
+          "source": "pexels",
+          "author": "- landsmann -",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/wooden-door-in-stable-19310450/",
+          "thumb": "projects/belong-module11/thumbs/S03/pexels_19310450_rustic-farmhouse-open-door.jpg",
+          "preview": "projects/belong-module11/previews/S03/pexels_19310450_rustic-farmhouse-open-door.jpg"
         },
         {
           "id": "pexels_20141378_farmhouse-open-door",
@@ -121,6 +261,16 @@
           "page_url": "https://www.pexels.com/photo/painting-of-a-winter-landscape-hanging-in-the-doorway-of-a-stone-building-20141378/",
           "thumb": "projects/belong-module11/thumbs/S03/pexels_20141378_farmhouse-open-door.jpg",
           "preview": "projects/belong-module11/previews/S03/pexels_20141378_farmhouse-open-door.jpg"
+        },
+        {
+          "id": "pexels_30820126_mediterranean-village-white-hous",
+          "type": "image",
+          "source": "pexels",
+          "author": "Marian Florinel Condruz",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/charming-whitewashed-village-street-in-spain-30820126/",
+          "thumb": "projects/belong-module11/thumbs/S03/pexels_30820126_mediterranean-village-white-hous.jpg",
+          "preview": "projects/belong-module11/previews/S03/pexels_30820126_mediterranean-village-white-hous.jpg"
         },
         {
           "id": "pexels_37044509_whitewashed-house-door",
@@ -187,44 +337,84 @@
       "visual_direction": "Anti-corporate warmth: unguarded laughter between staff and guest, a shared joke over the counter, human connection with zero performance. Candid medium. [image-beat]",
       "clips": [
         {
-          "id": "pexels_8975056_authentic-smile-candid",
+          "id": "pexels_15171891_friends-laughing-wine-terrace-ev",
           "type": "video",
           "source": "pexels",
-          "author": "KoolShooters",
+          "author": "Matheus Bertelli",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-looking-sideways-in-front-of-the-camera-8975056/",
-          "thumb": "projects/belong-module11/thumbs/S05/pexels_8975056_authentic-smile-candid.jpg",
-          "preview": "projects/belong-module11/previews/S05/pexels_8975056_authentic-smile-candid.mp4"
+          "page_url": "https://www.pexels.com/video/group-of-friends-at-a-party-15171891/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_15171891_friends-laughing-wine-terrace-ev.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_15171891_friends-laughing-wine-terrace-ev.mp4"
         },
         {
-          "id": "pixabay_171044_authentic-smile-candid",
+          "id": "pexels_28802381_restaurant-owner-chatting-with-c",
           "type": "video",
+          "source": "pexels",
+          "author": "LayG Traveller",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/cozy-asian-cafe-interior-in-luang-prabang-28802381/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_28802381_restaurant-owner-chatting-with-c.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_28802381_restaurant-owner-chatting-with-c.mp4"
+        },
+        {
+          "id": "pexels_3981581_waiter-joking-with-guests-outdoo",
+          "type": "video",
+          "source": "pexels",
+          "author": "Gustavo Fring",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/person-serving-drinks-3981581/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_3981581_waiter-joking-with-guests-outdoo.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_3981581_waiter-joking-with-guests-outdoo.mp4"
+        },
+        {
+          "id": "pexels_4795361_barista-joking-with-customer-caf",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-and-woman-are-standing-in-front-of-a-coffee-shop-4795361/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_4795361_barista-joking-with-customer-caf.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_4795361_barista-joking-with-customer-caf.mp4"
+        },
+        {
+          "id": "pexels_6829135_restaurant-owner-chatting-with-c",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-waiter-serving-drinks-6829135/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_6829135_restaurant-owner-chatting-with-c.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_6829135_restaurant-owner-chatting-with-c.mp4"
+        },
+        {
+          "id": "pexels_6961519_friends-laughing-wine-terrace-ev",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-man-pouring-wine-on-a-glass-6961519/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_6961519_friends-laughing-wine-terrace-ev.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_6961519_friends-laughing-wine-terrace-ev.mp4"
+        },
+        {
+          "id": "pexels_9782813_genuine-laughter-restaurant-frie",
+          "type": "video",
+          "source": "pexels",
+          "author": "Mikhail Nilov",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-birthday-celebrant-receiving-gifts-from-her-friends-9782813/",
+          "thumb": "projects/belong-module11/thumbs/S05/pexels_9782813_genuine-laughter-restaurant-frie.jpg",
+          "preview": "projects/belong-module11/previews/S05/pexels_9782813_genuine-laughter-restaurant-frie.mp4"
+        },
+        {
+          "id": "pixabay_5055060_barista-joking-with-customer-caf",
+          "type": "image",
           "source": "pixabay",
-          "author": "magicmore",
+          "author": "picturexphotobnb",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-171044/",
-          "thumb": "projects/belong-module11/thumbs/S05/pixabay_171044_authentic-smile-candid.jpg",
-          "preview": "projects/belong-module11/previews/S05/pixabay_171044_authentic-smile-candid.mp4"
-        },
-        {
-          "id": "pexels_13373905_authentic-smile-candid",
-          "type": "image",
-          "source": "pexels",
-          "author": "\u1f10\u03bc\u03bc\u03b1\u03bd\u03c5\u03b5\u03bb  \uf8ff",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/photo-of-a-pretty-girl-smiling-13373905/",
-          "thumb": "projects/belong-module11/thumbs/S05/pexels_13373905_authentic-smile-candid.jpg",
-          "preview": "projects/belong-module11/previews/S05/pexels_13373905_authentic-smile-candid.jpg"
-        },
-        {
-          "id": "pexels_19894154_real-human-connection",
-          "type": "image",
-          "source": "pexels",
-          "author": "Sachu Zayn",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/woman-and-man-hands-reaching-each-other-19894154/",
-          "thumb": "projects/belong-module11/thumbs/S05/pexels_19894154_real-human-connection.jpg",
-          "preview": "projects/belong-module11/previews/S05/pexels_19894154_real-human-connection.jpg"
+          "page_url": "https://pixabay.com/photos/barista-coffee-pouring-espresso-5055060/",
+          "thumb": "projects/belong-module11/thumbs/S05/pixabay_5055060_barista-joking-with-customer-caf.jpg",
+          "preview": "projects/belong-module11/previews/S05/pixabay_5055060_barista-joking-with-customer-caf.jpg"
         }
       ]
     },
@@ -244,6 +434,16 @@
           "preview": "projects/belong-module11/previews/S06/pexels_4625292_multicultural-exchange-friendly.mp4"
         },
         {
+          "id": "pexels_5137841_hotel-staff-explaining-map-touri",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/woman-talking-through-the-phone-while-taking-notes-5137841/",
+          "thumb": "projects/belong-module11/thumbs/S06/pexels_5137841_hotel-staff-explaining-map-touri.jpg",
+          "preview": "projects/belong-module11/previews/S06/pexels_5137841_hotel-staff-explaining-map-touri.mp4"
+        },
+        {
           "id": "pexels_6180910_travelers-asking-local",
           "type": "video",
           "source": "pexels",
@@ -254,14 +454,34 @@
           "preview": "projects/belong-module11/previews/S06/pexels_6180910_travelers-asking-local.mp4"
         },
         {
-          "id": "pixabay_19706_tourists-conversation-local",
+          "id": "pexels_8629575_tourist-conversation-local-guide",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-couple-looking-at-a-map-8629575/",
+          "thumb": "projects/belong-module11/thumbs/S06/pexels_8629575_tourist-conversation-local-guide.jpg",
+          "preview": "projects/belong-module11/previews/S06/pexels_8629575_tourist-conversation-local-guide.mp4"
+        },
+        {
+          "id": "pixabay_19706_tourist-conversation-local-guide",
           "type": "video",
           "source": "pixabay",
           "author": "Hans",
           "license": "Pixabay Content License",
           "page_url": "https://pixabay.com/videos/id-19706/",
-          "thumb": "projects/belong-module11/thumbs/S06/pixabay_19706_tourists-conversation-local.jpg",
-          "preview": "projects/belong-module11/previews/S06/pixabay_19706_tourists-conversation-local.mp4"
+          "thumb": "projects/belong-module11/thumbs/S06/pixabay_19706_tourist-conversation-local-guide.jpg",
+          "preview": "projects/belong-module11/previews/S06/pixabay_19706_tourist-conversation-local-guide.mp4"
+        },
+        {
+          "id": "pexels_6140459_hotel-staff-explaining-map-touri",
+          "type": "image",
+          "source": "pexels",
+          "author": "William  Fortunato",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/young-focused-diverse-students-exploring-map-in-railway-station-6140459/",
+          "thumb": "projects/belong-module11/thumbs/S06/pexels_6140459_hotel-staff-explaining-map-touri.jpg",
+          "preview": "projects/belong-module11/previews/S06/pexels_6140459_hotel-staff-explaining-map-touri.jpg"
         },
         {
           "id": "pexels_6181057_travelers-asking-local",
@@ -272,6 +492,16 @@
           "page_url": "https://www.pexels.com/photo/a-couple-looking-at-the-map-6181057/",
           "thumb": "projects/belong-module11/thumbs/S06/pexels_6181057_travelers-asking-local.jpg",
           "preview": "projects/belong-module11/previews/S06/pexels_6181057_travelers-asking-local.jpg"
+        },
+        {
+          "id": "pexels_6181059_tourists-asking-directions-local",
+          "type": "image",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/a-couple-standing-on-the-street-6181059/",
+          "thumb": "projects/belong-module11/thumbs/S06/pexels_6181059_tourists-asking-directions-local.jpg",
+          "preview": "projects/belong-module11/previews/S06/pexels_6181059_tourists-asking-directions-local.jpg"
         }
       ]
     },
@@ -281,14 +511,84 @@
       "visual_direction": "The gift of words: a guest practicing a Portuguese word, delighted laughter at the attempt, a carnation offered as the story of the name is told. Warm close medium. [image-beat]",
       "clips": [
         {
-          "id": "pexels_8108708_teaching-word-tourist",
+          "id": "pexels_3188992_tourists-cheers-glasses-laughing",
           "type": "video",
           "source": "pexels",
-          "author": "www.kaboompics.com",
+          "author": "cottonbro studio",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/teacher-using-laptop-8108708/",
-          "thumb": "projects/belong-module11/thumbs/S07/pexels_8108708_teaching-word-tourist.jpg",
-          "preview": "projects/belong-module11/previews/S07/pexels_8108708_teaching-word-tourist.mp4"
+          "page_url": "https://www.pexels.com/video/people-raising-their-glasses-for-a-toss-with-confetti-dropping-from-above-3188992/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_3188992_tourists-cheers-glasses-laughing.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_3188992_tourists-cheers-glasses-laughing.mp4"
+        },
+        {
+          "id": "pexels_6289671_guest-trying-local-food-laughing",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-showing-a-magazine-to-her-guests-6289671/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_6289671_guest-trying-local-food-laughing.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_6289671_guest-trying-local-food-laughing.mp4"
+        },
+        {
+          "id": "pexels_6948629_woman-laughing-dinner-conversati",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-video-of-a-woman-smiling-6948629/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_6948629_woman-laughing-dinner-conversati.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_6948629_woman-laughing-dinner-conversati.mp4"
+        },
+        {
+          "id": "pexels_6948636_guest-trying-local-food-laughing",
+          "type": "video",
+          "source": "pexels",
+          "author": "Kampus Production",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-woman-serving-a-platter-of-food-6948636/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_6948636_guest-trying-local-food-laughing.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_6948636_guest-trying-local-food-laughing.mp4"
+        },
+        {
+          "id": "pexels_7781812_delighted-laughter-conversation",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-talking-at-the-table-7781812/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_7781812_delighted-laughter-conversation.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_7781812_delighted-laughter-conversation.mp4"
+        },
+        {
+          "id": "pexels_7823729_locals-and-tourists-laughing-tog",
+          "type": "video",
+          "source": "pexels",
+          "author": "George Pak",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/footage-of-a-happy-couple-talking-7823729/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_7823729_locals-and-tourists-laughing-tog.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_7823729_locals-and-tourists-laughing-tog.mp4"
+        },
+        {
+          "id": "pexels_8922360_guests-toasting-laughing-dinner",
+          "type": "video",
+          "source": "pexels",
+          "author": "Ron Lach",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-clinking-glasses-while-having-conversation-8922360/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_8922360_guests-toasting-laughing-dinner.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_8922360_guests-toasting-laughing-dinner.mp4"
+        },
+        {
+          "id": "pexels_9756049_tourists-cheers-glasses-laughing",
+          "type": "video",
+          "source": "pexels",
+          "author": "KoolShooters",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-toasting-their-glasses-of-white-wine-9756049/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_9756049_tourists-cheers-glasses-laughing.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_9756049_tourists-cheers-glasses-laughing.mp4"
         },
         {
           "id": "pexels_10031326_learning-language-laughing",
@@ -301,14 +601,14 @@
           "preview": "projects/belong-module11/previews/S07/pexels_10031326_learning-language-laughing.jpg"
         },
         {
-          "id": "pexels_7588661_carnation-flower-hand",
+          "id": "pexels_7221225_guests-toasting-laughing-dinner",
           "type": "image",
           "source": "pexels",
-          "author": "www.kaboompics.com",
+          "author": "Cedric Fauntleroy",
           "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/hands-holding-carnations-7588661/",
-          "thumb": "projects/belong-module11/thumbs/S07/pexels_7588661_carnation-flower-hand.jpg",
-          "preview": "projects/belong-module11/previews/S07/pexels_7588661_carnation-flower-hand.jpg"
+          "page_url": "https://www.pexels.com/photo/men-having-a-toast-7221225/",
+          "thumb": "projects/belong-module11/thumbs/S07/pexels_7221225_guests-toasting-laughing-dinner.jpg",
+          "preview": "projects/belong-module11/previews/S07/pexels_7221225_guests-toasting-laughing-dinner.jpg"
         }
       ]
     },
@@ -375,14 +675,84 @@
       "visual_direction": "Backstage grace: a busy kitchen moving fast but calm \u2014 quiet coordination, a nod instead of a shout, respect at full speed. Medium, kinetic but composed.",
       "clips": [
         {
-          "id": "pixabay_213748_brigade-kitchen-respect",
+          "id": "pexels_19905887_chef-plating-dish-service-pass",
+          "type": "video",
+          "source": "pexels",
+          "author": "K",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-chef-is-preparing-food-on-plates-19905887/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_19905887_chef-plating-dish-service-pass.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_19905887_chef-plating-dish-service-pass.mp4"
+        },
+        {
+          "id": "pexels_3768941_busy-restaurant-kitchen-calm",
+          "type": "video",
+          "source": "pexels",
+          "author": "Taryn Elliott",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-chefs-busy-working-in-the-restaurant-kitchen-3768941/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_3768941_busy-restaurant-kitchen-calm.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_3768941_busy-restaurant-kitchen-calm.mp4"
+        },
+        {
+          "id": "pexels_4253330_kitchen-brigade-cooking-coordina",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-person-is-cooking-food-on-a-stove-4253330/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_4253330_kitchen-brigade-cooking-coordina.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_4253330_kitchen-brigade-cooking-coordina.mp4"
+        },
+        {
+          "id": "pexels_4253337_chefs-working-together-kitchen-l",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/man-chef-kitchen-portrait-4253337/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_4253337_chefs-working-together-kitchen-l.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_4253337_chefs-working-together-kitchen-l.mp4"
+        },
+        {
+          "id": "pexels_4253721_restaurant-kitchen-team-working",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/food-chef-kitchen-cooking-4253721/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_4253721_restaurant-kitchen-team-working.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_4253721_restaurant-kitchen-team-working.mp4"
+        },
+        {
+          "id": "pixabay_11606_chefs-working-together-kitchen-l",
           "type": "video",
           "source": "pixabay",
-          "author": "KunalKapoor7",
+          "author": "XiaosKitchen",
           "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-213748/",
-          "thumb": "projects/belong-module11/thumbs/S09/pixabay_213748_brigade-kitchen-respect.jpg",
-          "preview": "projects/belong-module11/previews/S09/pixabay_213748_brigade-kitchen-respect.mp4"
+          "page_url": "https://pixabay.com/videos/id-11606/",
+          "thumb": "projects/belong-module11/thumbs/S09/pixabay_11606_chefs-working-together-kitchen-l.jpg",
+          "preview": "projects/belong-module11/previews/S09/pixabay_11606_chefs-working-together-kitchen-l.mp4"
+        },
+        {
+          "id": "pixabay_267_kitchen-brigade-cooking-coordina",
+          "type": "video",
+          "source": "pixabay",
+          "author": "Life-Of-Vids",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/videos/id-267/",
+          "thumb": "projects/belong-module11/thumbs/S09/pixabay_267_kitchen-brigade-cooking-coordina.jpg",
+          "preview": "projects/belong-module11/previews/S09/pixabay_267_kitchen-brigade-cooking-coordina.mp4"
+        },
+        {
+          "id": "pexels_12203611_restaurant-kitchen-team-working",
+          "type": "image",
+          "source": "pexels",
+          "author": "Ali  Alc\u00e1ntara",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/workers-in-restaurant-12203611/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_12203611_restaurant-kitchen-team-working.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_12203611_restaurant-kitchen-team-working.jpg"
         },
         {
           "id": "pexels_26733059_restaurant-team-focused",
@@ -393,6 +763,26 @@
           "page_url": "https://www.pexels.com/photo/cooks-working-in-kitchen-26733059/",
           "thumb": "projects/belong-module11/thumbs/S09/pexels_26733059_restaurant-team-focused.jpg",
           "preview": "projects/belong-module11/previews/S09/pexels_26733059_restaurant-team-focused.jpg"
+        },
+        {
+          "id": "pexels_5779775_chefs-working-together-kitchen-l",
+          "type": "image",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/man-and-woman-standing-at-the-table-5779775/",
+          "thumb": "projects/belong-module11/thumbs/S09/pexels_5779775_chefs-working-together-kitchen-l.jpg",
+          "preview": "projects/belong-module11/previews/S09/pexels_5779775_chefs-working-together-kitchen-l.jpg"
+        },
+        {
+          "id": "pixabay_5282718_busy-restaurant-kitchen-calm",
+          "type": "image",
+          "source": "pixabay",
+          "author": "MatteoPhotoPro2020",
+          "license": "Pixabay Content License",
+          "page_url": "https://pixabay.com/photos/food-kitchen-restaurant-nutrition-5282718/",
+          "thumb": "projects/belong-module11/thumbs/S09/pixabay_5282718_busy-restaurant-kitchen-calm.jpg",
+          "preview": "projects/belong-module11/previews/S09/pixabay_5282718_busy-restaurant-kitchen-calm.jpg"
         }
       ]
     },
@@ -401,6 +791,46 @@
       "script_line": "[B10] The stories you tell about this place are the most credible marketing we will ever have. Tell the true ones. Especially the funny ones.",
       "visual_direction": "Story hour: someone holding a table rapt over dinner, candlelight, hands mid-gesture, the whole table leaning in laughing. Warm wide, evening.",
       "clips": [
+        {
+          "id": "pexels_5848442_storytelling-dinner-table-candle",
+          "type": "video",
+          "source": "pexels",
+          "author": "RDNE Stock project",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/an-elderly-woman-talking-while-at-the-dinner-table-5848442/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_5848442_storytelling-dinner-table-candle.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_5848442_storytelling-dinner-table-candle.mp4"
+        },
+        {
+          "id": "pexels_6054024_evening-gathering-table-stories",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/people-celebrating-hanukkah-6054024/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_6054024_evening-gathering-table-stories.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_6054024_evening-gathering-table-stories.mp4"
+        },
+        {
+          "id": "pexels_6184977_friends-listening-story-dinner",
+          "type": "video",
+          "source": "pexels",
+          "author": "Yaroslav Shuraev",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/a-group-of-friends-talking-while-eating-6184977/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_6184977_friends-listening-story-dinner.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_6184977_friends-listening-story-dinner.mp4"
+        },
+        {
+          "id": "pexels_6840120_candlelit-dinner-conversation-wi",
+          "type": "video",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/video/elderly-man-talking-while-drinking-wine-6840120/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_6840120_candlelit-dinner-conversation-wi.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_6840120_candlelit-dinner-conversation-wi.mp4"
+        },
         {
           "id": "pixabay_143419_candlelight-table-laughing",
           "type": "video",
@@ -412,14 +842,14 @@
           "preview": "projects/belong-module11/previews/S10/pixabay_143419_candlelight-table-laughing.mp4"
         },
         {
-          "id": "pixabay_172686_storytelling-dinner-table",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Eaktas06",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-172686/",
-          "thumb": "projects/belong-module11/thumbs/S10/pixabay_172686_storytelling-dinner-table.jpg",
-          "preview": "projects/belong-module11/previews/S10/pixabay_172686_storytelling-dinner-table.mp4"
+          "id": "pexels_3937880_candlelit-dinner-conversation-wi",
+          "type": "image",
+          "source": "pexels",
+          "author": "Andrea Piacquadio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-drinking-wine-3937880/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_3937880_candlelit-dinner-conversation-wi.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_3937880_candlelit-dinner-conversation-wi.jpg"
         },
         {
           "id": "pexels_3940486_candlelight-table-laughing",
@@ -430,6 +860,16 @@
           "page_url": "https://www.pexels.com/photo/group-of-women-having-dinner-3940486/",
           "thumb": "projects/belong-module11/thumbs/S10/pexels_3940486_candlelight-table-laughing.jpg",
           "preview": "projects/belong-module11/previews/S10/pexels_3940486_candlelight-table-laughing.jpg"
+        },
+        {
+          "id": "pexels_6153895_storytelling-dinner-table-candle",
+          "type": "image",
+          "source": "pexels",
+          "author": "cottonbro studio",
+          "license": "Pexels License",
+          "page_url": "https://www.pexels.com/photo/woman-in-white-dress-shirt-sitting-at-table-6153895/",
+          "thumb": "projects/belong-module11/thumbs/S10/pexels_6153895_storytelling-dinner-table-candle.jpg",
+          "preview": "projects/belong-module11/previews/S10/pexels_6153895_storytelling-dinner-table-candle.jpg"
         }
       ]
     }

@@ -1,142 +1,142 @@
 {
- "projects": [
-  {
-   "slug": "attention-to-detail-v2",
-   "title": "Attention to Detail",
-   "scenes": 22,
-   "clips": 134
-  },
-  {
-   "slug": "be-a-lifelong-learner-v2",
-   "title": "Be A Lifelong Learner V2",
-   "scenes": 17,
-   "clips": 183
-  },
-  {
-   "slug": "belong-module1",
-   "title": "Belong — Module 1: My Story & Craveiral",
-   "scenes": 10,
-   "clips": 53
-  },
-  {
-   "slug": "belong-module10",
-   "title": "Belong — Module 10: Sustainability",
-   "scenes": 13,
-   "clips": 128
-  },
-  {
-   "slug": "belong-module11",
-   "title": "Belong — Module 11: The Craveiral Voice",
-   "scenes": 10,
-   "clips": 36
-  },
-  {
-   "slug": "belong-module12",
-   "title": "Belong — Module 12: Leadership & Team",
-   "scenes": 10,
-   "clips": 33
-  },
-  {
-   "slug": "belong-module2",
-   "title": "Belong — Module 2: Vision, Mission & Chain",
-   "scenes": 9,
-   "clips": 62
-  },
-  {
-   "slug": "belong-module2-heygen",
-   "title": "Belong — Module 2: HeyGen brolls",
-   "scenes": 1,
-   "clips": 9
-  },
-  {
-   "slug": "belong-module3",
-   "title": "Belong — Module 3: Values (HeyGen + stock)",
-   "scenes": 12,
-   "clips": 90
-  },
-  {
-   "slug": "belong-module4",
-   "title": "Belong — Module 4: Hospitality",
-   "scenes": 10,
-   "clips": 42
-  },
-  {
-   "slug": "belong-module5",
-   "title": "Belong — Module 5: Guest Journey",
-   "scenes": 10,
-   "clips": 52
-  },
-  {
-   "slug": "belong-module6",
-   "title": "Belong — Module 6: Houses, Farm & Standards",
-   "scenes": 10,
-   "clips": 42
-  },
-  {
-   "slug": "belong-module7",
-   "title": "Belong — Module 7: FarmTable",
-   "scenes": 13,
-   "clips": 130
-  },
-  {
-   "slug": "belong-module8",
-   "title": "Belong — Module 8: The Constellation",
-   "scenes": 13,
-   "clips": 202
-  },
-  {
-   "slug": "belong-module9",
-   "title": "Belong — Module 9: Service Recovery",
-   "scenes": 13,
-   "clips": 130
-  },
-  {
-   "slug": "benchmark-excellence-v2",
-   "title": "Benchmark Excellence",
-   "scenes": 15,
-   "clips": 119
-  },
-  {
-   "slug": "communication-dont-assume-clarify-v2",
-   "title": "Communication: Don't Assume. Clarify.",
-   "scenes": 16,
-   "clips": 93
-  },
-  {
-   "slug": "edenrise-builders-pool",
-   "title": "Edenrise Builders Pool",
-   "scenes": 11,
-   "clips": 237
-  },
-  {
-   "slug": "edenrise-gratitude",
-   "title": "The Power of Gratitude",
-   "scenes": 17,
-   "clips": 288
-  },
-  {
-   "slug": "extreme-ownership-v2",
-   "title": "Extreme Ownership — B-roll",
-   "scenes": 15,
-   "clips": 182
-  },
-  {
-   "slug": "lesson-above-below-line",
-   "title": "Above / Below the Line — B-roll",
-   "scenes": 14,
-   "clips": 20
-  },
-  {
-   "slug": "lesson-no-failure-feedback",
-   "title": "No Failure, Only Feedback — B-roll",
-   "scenes": 8,
-   "clips": 8
-  },
-  {
-   "slug": "purpose-at-work",
-   "title": "Purpose at Work",
-   "scenes": 10,
-   "clips": 118
-  }
- ]
+  "projects": [
+    {
+      "slug": "attention-to-detail-v2",
+      "title": "Attention to Detail",
+      "scenes": 22,
+      "clips": 134
+    },
+    {
+      "slug": "be-a-lifelong-learner-v2",
+      "title": "Be A Lifelong Learner V2",
+      "scenes": 17,
+      "clips": 183
+    },
+    {
+      "slug": "belong-module1",
+      "title": "Belong \u2014 Module 1: My Story & Craveiral",
+      "scenes": 10,
+      "clips": 53
+    },
+    {
+      "slug": "belong-module10",
+      "title": "Belong \u2014 Module 10: Daily Sustainability",
+      "scenes": 13,
+      "clips": 164
+    },
+    {
+      "slug": "belong-module11",
+      "title": "Belong \u2014 Module 11: The Craveiral Voice",
+      "scenes": 10,
+      "clips": 80
+    },
+    {
+      "slug": "belong-module12",
+      "title": "Belong \u2014 Module 12: Leadership & Team",
+      "scenes": 10,
+      "clips": 94
+    },
+    {
+      "slug": "belong-module2",
+      "title": "Belong \u2014 Module 2: Vision, Mission & Chain",
+      "scenes": 9,
+      "clips": 62
+    },
+    {
+      "slug": "belong-module2-heygen",
+      "title": "Belong \u2014 Module 2: HeyGen brolls",
+      "scenes": 1,
+      "clips": 9
+    },
+    {
+      "slug": "belong-module3",
+      "title": "Belong \u2014 Module 3: Values (HeyGen + stock)",
+      "scenes": 12,
+      "clips": 90
+    },
+    {
+      "slug": "belong-module4",
+      "title": "Belong \u2014 Module 4: Hospitality",
+      "scenes": 10,
+      "clips": 42
+    },
+    {
+      "slug": "belong-module5",
+      "title": "Belong \u2014 Module 5: Guest Journey",
+      "scenes": 10,
+      "clips": 52
+    },
+    {
+      "slug": "belong-module6",
+      "title": "Belong \u2014 Module 6: Houses, Farm & Standards",
+      "scenes": 10,
+      "clips": 42
+    },
+    {
+      "slug": "belong-module7",
+      "title": "Belong \u2014 Module 7: FarmTable",
+      "scenes": 13,
+      "clips": 130
+    },
+    {
+      "slug": "belong-module8",
+      "title": "Belong \u2014 Module 8: The Constellation",
+      "scenes": 13,
+      "clips": 202
+    },
+    {
+      "slug": "belong-module9",
+      "title": "Belong \u2014 Module 9: Service Recovery",
+      "scenes": 13,
+      "clips": 218
+    },
+    {
+      "slug": "benchmark-excellence-v2",
+      "title": "Benchmark Excellence",
+      "scenes": 15,
+      "clips": 119
+    },
+    {
+      "slug": "communication-dont-assume-clarify-v2",
+      "title": "Communication: Don't Assume. Clarify.",
+      "scenes": 16,
+      "clips": 93
+    },
+    {
+      "slug": "edenrise-builders-pool",
+      "title": "Edenrise Builders Pool",
+      "scenes": 11,
+      "clips": 237
+    },
+    {
+      "slug": "edenrise-gratitude",
+      "title": "The Power of Gratitude",
+      "scenes": 17,
+      "clips": 288
+    },
+    {
+      "slug": "extreme-ownership-v2",
+      "title": "Extreme Ownership \u2014 B-roll",
+      "scenes": 15,
+      "clips": 182
+    },
+    {
+      "slug": "lesson-above-below-line",
+      "title": "Above / Below the Line \u2014 B-roll",
+      "scenes": 14,
+      "clips": 20
+    },
+    {
+      "slug": "lesson-no-failure-feedback",
+      "title": "No Failure, Only Feedback \u2014 B-roll",
+      "scenes": 8,
+      "clips": 8
+    },
+    {
+      "slug": "purpose-at-work",
+      "title": "Purpose at Work",
+      "scenes": 10,
+      "clips": 118
+    }
+  ]
 }
