@@ -1,0 +1,1767 @@
+{
+ "scenes": [
+  {
+   "id": "S02",
+   "script_line": "Something happens at work. You interpret it — you think about what it means. That thought shapes what you do next. And what you do produces the result you see. Event, interpretation, action, result.",
+   "visual_direction": "A cause-and-effect sequence: a workplace event (something breaks, an instruction arrives), a thoughtful worker pausing to interpret, then acting, then seeing a result. Contemplative but dignified — no dark-stare portraits.",
+   "t": 18.0,
+   "end": 36.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/carpenter-in-the-workshop-6789586/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V00.mp4",
+     "score": 18.37,
+     "categories": [
+      "carpenter",
+      "workshop"
+     ],
+     "title": "video carpenter the workshop",
+     "query": "craftsman looking at finished work"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Artem Podrez",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-looking-at-tools-in-the-garage-8986477/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V01.mp4",
+     "score": 17.17,
+     "categories": [
+      "tools"
+     ],
+     "title": "video person looking tools the garage",
+     "query": "worker pausing thinking workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/pensive-man-at-work-7687975/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V02.mp4",
+     "score": 17.3,
+     "categories": [
+      "man"
+     ],
+     "title": "video pensive man work",
+     "query": "worker pausing thinking workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Vlada Karpovich",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-male-leatherworker-working-at-a-table-4452795/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V07.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V07.mp4",
+     "score": 18.23,
+     "categories": [
+      "worker",
+      "working"
+     ],
+     "title": "video male leatherworker working table",
+     "query": "man thinking looking at tools bench"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V08",
+     "type": "video",
+     "source": "pixabay",
+     "author": "ammarvid",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-243239/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V08.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V08.mp4",
+     "score": 17.79,
+     "categories": [
+      "land",
+      "man",
+      "worker"
+     ],
+     "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
+     "query": "farmer checking harvest crate result"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V09",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-carpenter-writing-in-the-counter-7480738/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V09.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V09.mp4",
+     "score": 17.63,
+     "categories": [
+      "carpenter"
+     ],
+     "title": "video carpenter writing the counter",
+     "query": "man thinking looking at tools bench"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/young-man-looking-out-of-window-6756334/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-V03.mp4",
+     "score": 17.3,
+     "categories": [
+      "man"
+     ],
+     "title": "video young man looking out window",
+     "query": "worker pensive thinking workshop window"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-I00",
+     "type": "image",
+     "source": "pixabay",
+     "author": "AKA-Ralph",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/gardening-gardener-vegetables-475350/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-I00.jpg",
+     "score": 22.3,
+     "categories": [
+      "care",
+      "gardener",
+      "outdoor",
+      "people",
+      "soil",
+      "tools"
+     ],
+     "title": "gardening  gardener  vegetables  garden  nature  spring  green  plant  outdoors  summer  growth  work  hobby  people  ho",
+     "query": "seedling growing soil hands"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/photo-of-man-standing-inside-his-workshop-3817858/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-I01.jpg",
+     "score": 19.39,
+     "categories": [
+      "craftsman",
+      "machinery",
+      "man",
+      "tools",
+      "workshop"
+     ],
+     "title": "A craftsman stands inside a sunlit workshop, surrounded by tools and machinery.",
+     "query": "worker pensive thinking workshop window"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S02-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Yupanqui Pepper",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-carrying-black-crates-13882947/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S02/edenrise-c2-winning-beliefs-S02-I03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S02/edenrise-c2-winning-beliefs-S02-I03.jpg",
+     "score": 18.83,
+     "categories": [
+      "outdoor",
+      "smile",
+      "team",
+      "teamwork"
+     ],
+     "title": "Group of farmers in outdoor field harvesting yupanqui peppercorns with smiles and teamwork.",
+     "query": "farmer checking harvest crate result"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "Five steps: catch the thought as it happens. Pause. Question it. Choose a more useful interpretation. Then act small — write it down, ask, attempt the first piece.",
+   "visual_direction": "One person catching themselves mid-thought: pausing mid-task, reflecting, breathing, then a small deliberate action — writing something down, asking a question, attempting the first piece of a task. Intimate, quiet, human.",
+   "t": 108.0,
+   "end": 126.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Diva Plavalaguna",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-talking-to-his-co-workers-6193855/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V00.mp4",
+     "score": 19.49,
+     "categories": [
+      "man",
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video man talking his workers",
+     "query": "worker asking colleague question"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/light-landscape-man-couple-7463912/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V01.mp4",
+     "score": 19.59,
+     "categories": [
+      "land",
+      "man"
+     ],
+     "title": "video light landscape man couple",
+     "query": "hands starting careful task attempt"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Dx21",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-131993/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V02.mp4",
+     "score": 16.89,
+     "categories": [],
+     "title": "to write  to study  task  job  issue  question  study  student  hand  ballpoint  pen",
+     "query": "hands starting careful task attempt"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V03.mp4",
+     "score": 18.25,
+     "categories": [
+      "construction",
+      "man",
+      "site"
+     ],
+     "title": "video man looking the construction site",
+     "query": "worker pausing looking into distance"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-wearing-safety-gear-looking-around-8487482/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V04.mp4",
+     "score": 17.95,
+     "categories": [
+      "man",
+      "safety",
+      "woman"
+     ],
+     "title": "video woman wearing safety gear looking around",
+     "query": "worker pausing looking into distance"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Nishant Aneja",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-gloves-and-goggles-is-using-a-grinder-20455991/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V05.mp4",
+     "score": 17.63,
+     "categories": [
+      "gloves",
+      "man"
+     ],
+     "title": "video man gloves and goggles using grinder",
+     "query": "worker trying new tool first time"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-132/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-V06.mp4",
+     "score": 15.48,
+     "categories": [
+      "man",
+      "people",
+      "woman"
+     ],
+     "title": "puzzle  puzzling  game  play  playing  people  girl  woman  problem solving  puzzle pieces  matching  thinking  intellig",
+     "query": "woman gardener pause thinking garden"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "~* gEm  *~",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/gardener-planting-a-young-seedling-with-gloves-38987376/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-I00.jpg",
+     "score": 20.89,
+     "categories": [
+      "gloves",
+      "outdoor"
+     ],
+     "title": "A person planting a small seedling outdoors, wearing protective gloves for gardening.",
+     "query": "hands starting careful task attempt"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "JayHugh",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-worker-framework-facade-1715667/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-I01.jpg",
+     "score": 22.95,
+     "categories": [
+      "building",
+      "construction",
+      "electrician",
+      "man",
+      "scaffolding",
+      "site"
+     ],
+     "title": "construction worker  framework  facade  housewall  electrician  to build  construction site  tool  architecture  convers",
+     "query": "worker trying new tool first time"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S07-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anil  Sharma",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-worker-pouring-concrete-on-site-34842259/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S07/edenrise-c2-winning-beliefs-S07-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S07/edenrise-c2-winning-beliefs-S07-I02.jpg",
+     "score": 22.15,
+     "categories": [
+      "building",
+      "concrete",
+      "construction",
+      "safety",
+      "site",
+      "worker"
+     ],
+     "title": "A construction worker kneels to pour concrete at a building site, wearing safety gear.",
+     "query": "worker trying new tool first time"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "A winning belief is not a pose. It is grounded and action-oriented: preparing for the day, learning the skill, asking the question, taking the next practical step — not empty positivity.",
+   "visual_direction": "Grounded practical action: workers preparing tools for the day, learning a skill hands-on, asking questions in training, taking concrete next steps. Contrast with empty-positivity poses — nothing staged or motivational-poster.",
+   "t": 72.0,
+   "end": 90.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-teaching-elderly-people-how-to-use-computers-7999351/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V00.mp4",
+     "score": 21.3,
+     "categories": [
+      "man",
+      "people",
+      "teaching"
+     ],
+     "title": "video man teaching elderly people how use computers",
+     "query": "employee learning skill hands on training"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-putting-soil-in-the-pot-6508942/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V01.mp4",
+     "score": 20.39,
+     "categories": [
+      "man",
+      "soil",
+      "woman"
+     ],
+     "title": "video woman putting soil the pot",
+     "query": "gardener planting seedlings carefully"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-talking-to-his-colleagues-9034509/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V02.mp4",
+     "score": 23.1,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "man",
+      "talking"
+     ],
+     "title": "video man talking his colleagues",
+     "query": "employee learning skill hands on training"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-wearing-safety-gear-talking-and-doing-hand-gestures-8487481/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V03.mp4",
+     "score": 23.65,
+     "categories": [
+      "man",
+      "safety",
+      "talking",
+      "woman"
+     ],
+     "title": "video woman wearing safety gear talking and doing hand gestures",
+     "query": "construction worker putting on gloves"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-wearing-safety-gear-putting-on-a-dust-mask-8487452/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V04.mp4",
+     "score": 21.25,
+     "categories": [
+      "man",
+      "safety",
+      "woman"
+     ],
+     "title": "video woman wearing safety gear putting dust mask",
+     "query": "construction worker putting on gloves"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-67463/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V05.mp4",
+     "score": 20.85,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "worker"
+     ],
+     "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
+     "query": "construction worker putting on gloves"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Luiz-Jorge-Artista",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-7376/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-V06.mp4",
+     "score": 22.1,
+     "categories": [
+      "brick",
+      "building",
+      "construction",
+      "helmet",
+      "man",
+      "mason"
+     ],
+     "title": "construction  remodeling  home  apartment  constructions  tool  hammer  mason  constructor  sledgehammer  demolition  br",
+     "query": "worker preparing tools morning"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "Đậu Photograph",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-and-elders-collaborating-at-a-construction-site-35106290/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-I00.jpg",
+     "score": 25.1,
+     "categories": [
+      "construction",
+      "outdoor",
+      "together",
+      "working"
+     ],
+     "title": "Adults and a senior working together on a construction project outdoors.",
+     "query": "worker preparing tools morning"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Helena Lopes",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/hands-of-a-woman-planting-in-a-garden-27176769/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-I01.jpg",
+     "score": 26.46,
+     "categories": [
+      "gloves",
+      "hands",
+      "outdoor",
+      "soil",
+      "tools"
+     ],
+     "title": "Hands wearing gloves planting seedlings in garden soil. Gardening tools visible. Outdoors, daytime.",
+     "query": "gardener planting seedlings carefully"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S05-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "3345557",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/worker-builder-tool-construction-6544391/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S05/edenrise-c2-winning-beliefs-S05-I02.jpg",
+     "score": 22.39,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "man",
+      "safety",
+      "worker"
+     ],
+     "title": "worker  builder  tool  construction  safety  contractor  industry  man  building  builder  builder  builder  builder  co",
+     "query": "worker sharpening tools bench"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "Composed under pressure. Technical work that cannot be rushed, outdoor work in hard conditions, operational decisions, difficult conversations, time-sensitive problem-solving — the belief that holds keeps you working the",
+   "visual_direction": "Composure under real pressure: precise technical work, outdoor work in hard weather, an operational decision being made, a difficult but respectful conversation, urgent problem-solving. NO combat/military imagery, no shouting.",
+   "t": 90.0,
+   "end": 108.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/women-talking-at-a-construction-site-8487866/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V00.mp4",
+     "score": 25.81,
+     "categories": [
+      "construction",
+      "site",
+      "talking"
+     ],
+     "title": "video women talking construction site",
+     "query": "serious conversation two workers site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V01.mp4",
+     "score": 25.81,
+     "categories": [
+      "construction",
+      "talking",
+      "worker"
+     ],
+     "title": "video engineer talking construction worker",
+     "query": "serious conversation two workers site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kiwi and Camera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/telecom-tower-installation-with-workers-on-scaffolding-38854078/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V02.mp4",
+     "score": 24.19,
+     "categories": [
+      "scaffolding",
+      "worker",
+      "workers"
+     ],
+     "title": "video telecom tower installation with workers scaffolding",
+     "query": "roofer working carefully height"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-having-a-conversation-6568696/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V04.mp4",
+     "score": 24.01,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "conversation"
+     ],
+     "title": "video colleagues having conversation",
+     "query": "team solving problem construction site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Guadalupe Aizaga",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-on-scaffolding-restoring-building-32228167/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V05.mp4",
+     "score": 27.19,
+     "categories": [
+      "building",
+      "construction",
+      "scaffolding",
+      "worker"
+     ],
+     "title": "video construction worker scaffolding restoring building",
+     "query": "roofer working carefully height"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-construction-workers-on-steel-frame-33880927/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V06.mp4",
+     "score": 24.79,
+     "categories": [
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video aerial view construction workers steel frame",
+     "query": "roofer working carefully height"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4729/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-V03.mp4",
+     "score": 29.29,
+     "categories": [
+      "builder",
+      "carpenter",
+      "construction",
+      "crew",
+      "man",
+      "manual"
+     ],
+     "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
+     "query": "plumber fixing leaking pipe urgent"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-talking-to-the-woman-wearing-safety-vest-8961111/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-I00.jpg",
+     "score": 28.21,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "worker",
+      "workers"
+     ],
+     "title": "Male and female construction workers discussing safety on a sunny day outdoors.",
+     "query": "serious conversation two workers site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-woman-wearing-safety-helmets-8961146/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-I01.jpg",
+     "score": 27.79,
+     "categories": [
+      "construction",
+      "site",
+      "team",
+      "teamwork"
+     ],
+     "title": "Male and female engineers discussing blueprints at a construction site, promoting teamwork and planning.",
+     "query": "two workers serious discussion plans"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S06-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Rajesh S  Balouria",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-on-roof-16164823/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S06/edenrise-c2-winning-beliefs-S06-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S06/edenrise-c2-winning-beliefs-S06-I02.jpg",
+     "score": 25.04,
+     "categories": [
+      "building",
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "Two workers engaged in painting and renovating a building roof, showcasing a construction scene.",
+     "query": "roofer working carefully height"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "The old cycle avoids: pass the problem on, look away, hope it resolves. The new cycle engages: define the problem, gather the facts, try one step, learn from what happens.",
+   "visual_direction": "Contrast: avoidance (worker looking away from a problem, handing it off, leaving it) vs engagement (kneeling to inspect the fault, measuring, checking facts on a clipboard, trying one repair step, examining the outcome).",
+   "t": 126.0,
+   "end": 144.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V00.mp4",
+     "score": 22.34,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video back view workers walking construction site",
+     "query": "worker kneeling inspecting fault closely"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V02.mp4",
+     "score": 24.69,
+     "categories": [
+      "building",
+      "construction",
+      "scaffolding",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers inspecting building site scaffolding",
+     "query": "worker kneeling inspecting fault closely"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85350/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V05.mp4",
+     "score": 27.84,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "worker attempting repair first step"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-talking-6197077/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V03.mp4",
+     "score": 24.04,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video man and woman talking",
+     "query": "two workers examining problem together"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85349/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V04.mp4",
+     "score": 27.84,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
+     "query": "worker attempting repair first step"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85351/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V01.mp4",
+     "score": 27.84,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "worker attempting repair first step"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-V06.mp4",
+     "score": 22.51,
+     "categories": [
+      "conversation",
+      "people"
+     ],
+     "title": "video close footage people holding folder while having conversation",
+     "query": "two workers examining problem together"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-ppe-s-at-a-construction-site-8961034/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-I00.jpg",
+     "score": 23.79,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in safety gear discussing site plans at an outdoor construction site.",
+     "query": "worker measuring checking clipboard"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "David Brown",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-in-safety-helmet-walking-on-house-construction-17410518/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-I01.jpg",
+     "score": 28.81,
+     "categories": [
+      "building",
+      "care",
+      "construction",
+      "safety",
+      "site",
+      "worker"
+     ],
+     "title": "Construction worker balances carefully on a wooden frame at a building site, emphasizing safety and skill.",
+     "query": "builder examining foundation problem"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S08-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "joffi",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-site-1359136/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S08/edenrise-c2-winning-beliefs-S08-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S08/edenrise-c2-winning-beliefs-S08-I02.jpg",
+     "score": 25.72,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "helmet",
+      "safety",
+      "site"
+     ],
+     "title": "construction site  construction workers  building  hard work  safety  project  working  engineer  builder  helmet  under",
+     "query": "builder examining foundation problem"
+    }
+   ]
+  },
+  {
+   "id": "S01",
+   "script_line": "Two workers receive the same feedback. One withdraws — steps back from the task, avoids it. The other takes notes, asks a question, practices, and returns. Same words, two completely different outcomes.",
+   "visual_direction": "Both halves needed: a worker receiving feedback and withdrawing (head down, stepping back, walking away from the task) AND a worker engaging (taking notes, asking a question, practicing a skill, returning to the work). Dignified trades/land/technical settings.",
+   "t": 0.0,
+   "end": 18.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Waleed Talat",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V00.mp4",
+     "score": 24.66,
+     "categories": [
+      "construction",
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video workers talking construction",
+     "query": "worker walking away head down site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kiwi and Camera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V01.mp4",
+     "score": 23.12,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers communicating site",
+     "query": "supervisor giving instructions worker site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V02.mp4",
+     "score": 27.01,
+     "categories": [
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video two wood workers talking each other",
+     "query": "carpenter teaching apprentice wood"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-writing-on-her-notebook-while-listening-8716583/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V03.mp4",
+     "score": 22.78,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman writing her notebook while listening",
+     "query": "apprentice taking notes mentor workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-carpenters-in-overalls-talking-7484281/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V04.mp4",
+     "score": 21.32,
+     "categories": [
+      "carpenter",
+      "talking"
+     ],
+     "title": "video two carpenters overalls talking",
+     "query": "carpenter teaching apprentice wood"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V05.mp4",
+     "score": 23.39,
+     "categories": [
+      "construction",
+      "foreman",
+      "man",
+      "site"
+     ],
+     "title": "video foreman the construction site",
+     "query": "supervisor giving instructions worker site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sergei Starostin",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-cutting-materials-for-building-34572309/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-V06.mp4",
+     "score": 24.29,
+     "categories": [
+      "building",
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers cutting materials for building",
+     "query": "tired worker sitting pause site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-with-hard-hard-standing-on-the-construction-site-8961260/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-I00.jpg",
+     "score": 24.66,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two workers discussing plans on a sandy construction site, wearing safety gear.",
+     "query": "supervisor giving instructions worker site"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-working-on-the-wooden-board-in-the-workshop-6790978/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-I01.jpg",
+     "score": 24.61,
+     "categories": [
+      "craftsman",
+      "man",
+      "tools",
+      "working",
+      "workshop"
+     ],
+     "title": "A skilled craftsman working with hand tools in a well-equipped workshop.",
+     "query": "carpenter teaching apprentice wood"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S01-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-in-helmets-and-reflective-vests-walking-on-a-construction-site-8961259/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S01/edenrise-c2-winning-beliefs-S01-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S01/edenrise-c2-winning-beliefs-S01-I02.jpg",
+     "score": 28.0,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two workers in safety gear walking across a construction site under a clear sky.",
+     "query": "supervisor giving instructions worker site"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "A belief is like a table. The tabletop is the idea; the legs are the experiences holding it up. Inspect the legs. Some are sturdy. Some were bolted on after one mistake, one criticism — and the whole table wobbles.",
+   "visual_direction": "Real table/workbench material: carpenter building a wooden table, hands inspecting table legs, checking sturdiness, close-ups of joinery — PLUS a worker reconsidering after a mistake or criticism (pausing, looking again at the work).",
+   "t": 36.0,
+   "end": 54.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ono  Kosuki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-inspecting-wood-5972087/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V00.mp4",
+     "score": 21.0,
+     "categories": [
+      "man"
+     ],
+     "title": "video man inspecting wood",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4973/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V01.mp4",
+     "score": 20.19,
+     "categories": [
+      "carpenter",
+      "construction"
+     ],
+     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4974/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V02.mp4",
+     "score": 20.19,
+     "categories": [
+      "building",
+      "carpenter",
+      "construction"
+     ],
+     "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "romyrwood",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-125458/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V03.mp4",
+     "score": 18.69,
+     "categories": [
+      "carpenter",
+      "craftsman",
+      "man",
+      "working"
+     ],
+     "title": "board  carpenter  carpentry  circular  craftsman  detail  furniture  hand  handmade  industry  joinery  make  person  pl",
+     "query": "woodworker assembling furniture joinery"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-cutting-wood-using-circular-saw-7492607/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V04.mp4",
+     "score": 19.74,
+     "categories": [
+      "man"
+     ],
+     "title": "video man cutting wood using circular saw",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/carpenter-working-with-a-drill-6789900/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V05.mp4",
+     "score": 18.77,
+     "categories": [
+      "carpenter",
+      "working"
+     ],
+     "title": "video carpenter working with drill",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ono  Kosuki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-grabbing-a-plank-of-wood-5972083/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-V06.mp4",
+     "score": 19.99,
+     "categories": [
+      "man"
+     ],
+     "title": "video man grabbing plank wood",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-looking-at-a-piece-of-wood-7484154/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-I00.jpg",
+     "score": 20.59,
+     "categories": [
+      "carpenter",
+      "together",
+      "working",
+      "workshop"
+     ],
+     "title": "Two male carpenters working together in a well-equipped workshop.",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/person-in-gray-long-sleeve-shirt-holding-brown-wooden-tool-7480451/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-I01.jpg",
+     "score": 20.11,
+     "categories": [
+      "carpenter",
+      "tools",
+      "working",
+      "workshop"
+     ],
+     "title": "Carpenter working with tools and wood on a table in an industrial workshop.",
+     "query": "carpenter building wooden table workshop"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S03-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Yudha Aprilian",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/craftsman-marking-a-piece-of-wood-11127339/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S03/edenrise-c2-winning-beliefs-S03-I02.jpg",
+     "score": 21.79,
+     "categories": [
+      "carpenter",
+      "face",
+      "working"
+     ],
+     "title": "Carpenter woodworking with a hand plane on a wooden surface indoors.",
+     "query": "carpenter building wooden table workshop"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "The same change arrives for everyone. Through one filter a person sees only confusion and difficulty. Through another, someone finds the information, asks for support, and takes the next manageable step.",
+   "visual_direction": "Two filters on the same change: one person confused/stuck over plans or a task; another finding information (reading a manual, checking plans), asking a colleague for support, taking one clear next step. Dignified, no despair clichés.",
+   "t": 54.0,
+   "end": 72.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-holding-a-blueprint-while-looking-at-construction-site-8964796/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V00.mp4",
+     "score": 27.32,
+     "categories": [
+      "construction",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman holding blueprint while looking construction site",
+     "query": "two workers reviewing plans together"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-discussing-the-plants-to-a-woman-6508491/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V10.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V10.mp4",
+     "score": 17.87,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man discussing the plants woman",
+     "query": "two workers greenhouse discussing plants"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleague-talking-to-each-other-8731468/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V01.mp4",
+     "score": 23.72,
+     "categories": [
+      "colleague",
+      "talking"
+     ],
+     "title": "video colleague talking each other",
+     "query": "two workers reviewing plans together"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-talking-while-in-the-greenhouse-7101064/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V02.mp4",
+     "score": 26.08,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video man and woman talking while the greenhouse",
+     "query": "gardener helping colleague greenhouse"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-checking-the-plants-in-the-greenhouse-7101057/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V03.mp4",
+     "score": 22.8,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman checking the plants the greenhouse",
+     "query": "gardener helping colleague greenhouse"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-a-woman-working-in-a-greenhouse-7101051/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V08.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V08.mp4",
+     "score": 19.07,
+     "categories": [
+      "man",
+      "woman",
+      "working"
+     ],
+     "title": "video man and woman working greenhouse",
+     "query": "two workers greenhouse discussing plants"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-V09",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-checking-the-plants-6508711/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-V09.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-V09.mp4",
+     "score": 17.87,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman checking the plants",
+     "query": "two workers greenhouse discussing plants"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-I00",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anna Shvets",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/gardeners-taking-care-of-potted-plants-in-greenhouse-5230948/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-I00.jpg",
+     "score": 29.68,
+     "categories": [
+      "smiling",
+      "together",
+      "working"
+     ],
+     "title": "Crop farmers working with green seedlings growing in greenhouse and smiling during occupation together",
+     "query": "gardener helping colleague greenhouse"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-looking-at-a-potted-plant-4920246/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-I01.jpg",
+     "score": 29.35,
+     "categories": [
+      "outdoor",
+      "people",
+      "together",
+      "working"
+     ],
+     "title": "Two people working together in a garden, arranging potted plants outdoors on a sunny day.",
+     "query": "gardener helping colleague greenhouse"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S04-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/maintenance-man-walking-alongside-a-gardener-4920285/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S04/edenrise-c2-winning-beliefs-S04-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S04/edenrise-c2-winning-beliefs-S04-I02.jpg",
+     "score": 27.5,
+     "categories": [
+      "gardener",
+      "man",
+      "team",
+      "teamwork",
+      "together",
+      "woman"
+     ],
+     "title": "Two gardeners, a man and a woman, work together in a nursery garden, promoting teamwork and diversity.",
+     "query": "two workers greenhouse discussing plants"
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "script_line": "The challenge: write down the old belief. Sketch its table — the experiences holding it up. Cross out one interpretation that no longer serves you. Write the new belief. Then take one visible action on it today.",
+   "visual_direction": "A person doing the written exercise: writing in a journal, sketching a diagram, crossing out a line, writing a new line — then closing the notebook and taking one visible action (standing up, picking up tools, making the call, starting the task).",
+   "t": 144.0,
+   "end": 162.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V00",
+     "type": "video",
+     "source": "pexels",
+     "author": "Marta Nogueira",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-s-hand-with-beautiful-polished-fingernails-writing-down-thoughts-and-ideas-on-notebook-with-a-pen-slow-motion-video-of-creative-woman-taking-notes-concept-of-lifestyle-planning-or-20421936/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V00.mp4",
+     "score": 17.35,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman hand with beautiful polished fingernails writing down thoughts and ideas notebook with pen slow motion video",
+     "query": "woman journaling notebook morning table"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-working-on-a-car-in-a-garage-4489808/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V01.mp4",
+     "score": 17.09,
+     "categories": [
+      "man",
+      "working"
+     ],
+     "title": "video man working car garage",
+     "query": "worker picking up tools starting"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Anastasia  Shuraeva",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-picking-tools-from-a-toolbox-9606885/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V02.mp4",
+     "score": 15.64,
+     "categories": [
+      "tools"
+     ],
+     "title": "video person picking tools from toolbox",
+     "query": "worker picking up tools starting"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-picking-up-a-wrench-from-the-ground-8551365/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V03.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V03.mp4",
+     "score": 15.64,
+     "categories": [],
+     "title": "video person picking wrench from the ground",
+     "query": "worker picking up tools starting"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chayka1270",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-12040/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V04.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V04.mp4",
+     "score": 14.86,
+     "categories": [],
+     "title": "on the table lies a thick textbook  homework  textbook  tutorial  pen  notebook  write  writing  create  record  enter  ",
+     "query": "man writing notebook workshop bench"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-woman-writing-in-notebook-11025392/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V05.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V05.mp4",
+     "score": 14.69,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video close woman writing notebook",
+     "query": "hand writing journal pen paper"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Dziana Hasanbekava",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-writing-on-a-notebook-5480587/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-V06.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-V06.mp4",
+     "score": 14.69,
+     "categories": [],
+     "title": "video person writing notebook",
+     "query": "woman journaling notebook morning table"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-I00",
+     "type": "image",
+     "source": "pixabay",
+     "author": "StockSnap",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/writing-writer-notes-pen-notebook-923882/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-I00.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-I00.jpg",
+     "score": 14.39,
+     "categories": [
+      "hands",
+      "man",
+      "outdoor",
+      "people",
+      "woman"
+     ],
+     "title": "writing  writer  notes  pen  notebook  nature  book  girl  woman  people  hands  grass  outdoors",
+     "query": "person sketching diagram notebook"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "jarmoluk",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/architect-building-joy-planning-1080589/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-I01.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-I01.jpg",
+     "score": 19.41,
+     "categories": [
+      "builder",
+      "building",
+      "man",
+      "people",
+      "worker"
+     ],
+     "title": "architect  building  joy  planning  plans  professional  employee  builder  worker  repair  contractor  man  people  mal",
+     "query": "worker putting on gloves starting work"
+    },
+    {
+     "id": "edenrise-c2-winning-beliefs-S09-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/person-people-building-construction-6615233/",
+     "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S09/edenrise-c2-winning-beliefs-S09-I02.jpg",
+     "preview": "projects/edenrise-c2-winning-beliefs/previews/S09/edenrise-c2-winning-beliefs-S09-I02.jpg",
+     "score": 17.44,
+     "categories": [
+      "tools"
+     ],
+     "title": "Detailed architectural sketches with drawing tools on a desk, perfect for design projects.",
+     "query": "person sketching diagram notebook"
+    }
+   ]
+  }
+ ]
+}
