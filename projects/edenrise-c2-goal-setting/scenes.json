@@ -1,0 +1,1596 @@
+{
+ "scenes": [
+  {
+   "id": "S06",
+   "script_line": "Growth exists in any role. Land care, technical work, administration, planning, collaboration, leadership, hands-on tasks — every role has a next level.",
+   "visual_direction": "Wide variety of dignified roles: landscaper, technician, administrator with documents, team planning at a table, a leader guiding a team, craftsman hands-on.",
+   "t": 100.0,
+   "end": 120.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S06-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-wearing-gardening-gloves-digging-in-the-dirt-20521979/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V03.mp4",
+     "score": 19.94,
+     "categories": [
+      "digging",
+      "gloves"
+     ],
+     "title": "video person wearing gardening gloves digging the dirt",
+     "query": "landscaper working garden grounds"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kiwi and Camera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V10.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V10.mp4",
+     "score": 23.63,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers communicating site",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V13",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-a-construction-site-using-walkie-talkie-8963859/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V13.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V13.mp4",
+     "score": 18.53,
+     "categories": [
+      "construction",
+      "man",
+      "site"
+     ],
+     "title": "video man construction site using walkie talkie",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V15",
+     "type": "video",
+     "source": "pexels",
+     "author": "Thirdman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V15.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V15.mp4",
+     "score": 18.23,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman looking the floor plan",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V09",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chuduyen215",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-42923/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V09.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V09.mp4",
+     "score": 29.62,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "man",
+      "site",
+      "worker"
+     ],
+     "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Martina Tomšič",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-with-gloves-spreading-tree-bark-on-a-garden-ground-3363138/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V04.mp4",
+     "score": 19.94,
+     "categories": [
+      "gloves",
+      "man",
+      "woman"
+     ],
+     "title": "video woman with gloves spreading tree bark garden ground",
+     "query": "landscaper working garden grounds"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-V08",
+     "type": "video",
+     "source": "coverr",
+     "author": "Coverr",
+     "license": "Coverr License",
+     "page_url": "https://coverr.co/videos/carpenter-works-with-a-miter-saw-vydinjswe0",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-V08.mp4",
+     "score": 18.88,
+     "categories": [
+      "carpenter"
+     ],
+     "title": "videos carpenter works with miter saw vydinjswe0",
+     "query": "craftsman working with hands"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-ppe-s-at-a-construction-site-8961034/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-I06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-I06.jpg",
+     "score": 26.03,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in safety gear discussing site plans at an outdoor construction site.",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "dimitrisvetsikas1969",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/worker-construction-site-helmet-1895691/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-I04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-I04.jpg",
+     "score": 27.22,
+     "categories": [
+      "building",
+      "construction",
+      "hardhat",
+      "helmet",
+      "safety",
+      "site"
+     ],
+     "title": "worker  construction site  helmet  uniform  safety  development  engineering  hardhat  working  construction  engineer  ",
+     "query": "supervisor showing plans team site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S06-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Greta Hoffman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/crop-gardener-on-grassy-ground-7728053/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S06/edenrise-c2-goal-setting-S06-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S06/edenrise-c2-goal-setting-S06-I03.jpg",
+     "score": 18.74,
+     "categories": [
+      "gardener",
+      "gloves",
+      "soil"
+     ],
+     "title": "Crop unrecognizable gardener in casual clothes and gloves sitting on grassy ground while preparing soil for planting in ",
+     "query": "landscaper working garden grounds"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Focus on what you can control. Not the weather, not other people — your skills and your habits: learning, helping colleagues, solving problems, organizing your work.",
+   "visual_direction": "People building skills and habits: practicing a skill, helping a coworker, solving a problem, organizing tools and work areas.",
+   "t": 80.0,
+   "end": 100.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S05-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-women-smiling-in-agreement-on-what-they-see-in-the-computer-3044694/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V07.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V07.mp4",
+     "score": 25.12,
+     "categories": [
+      "smiling"
+     ],
+     "title": "video two women smiling agreement what they see the computer",
+     "query": "colleague helping coworker task"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "TRIZ85",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-150592/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V01.mp4",
+     "score": 30.67,
+     "categories": [
+      "care",
+      "help",
+      "helping",
+      "man",
+      "people",
+      "together"
+     ],
+     "title": "plantation  children  caring  earth  environmental  global warming  grow  growth  help  helping  humanity  saving  susta",
+     "query": "colleague helping coworker task"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-working-and-discussing-ideas-6913865/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V05.mp4",
+     "score": 26.87,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "working"
+     ],
+     "title": "video colleagues working and discussing ideas",
+     "query": "colleague helping coworker task"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "AI25.Studio  AI GENERATIVE",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-disturbing-a-coworker-while-working-8135863/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V06.mp4",
+     "score": 26.87,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "worker",
+      "working"
+     ],
+     "title": "video colleagues disturbing coworker while working",
+     "query": "colleague helping coworker task"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-workers-building-a-wooden-house-frame-31025079/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V08.mp4",
+     "score": 32.12,
+     "categories": [
+      "building",
+      "worker",
+      "workers"
+     ],
+     "title": "video aerial view workers building wooden house frame",
+     "query": "construction worker helping colleague carry beam"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V14",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Luiz-Jorge-Artista",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3522/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V14.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V14.mp4",
+     "score": 21.56,
+     "categories": [
+      "construction",
+      "welder",
+      "worker"
+     ],
+     "title": "weld  hardware  construction  welder  locksmith  spark  fire  flame  to paste  amend  job  worker  electricity  electrod",
+     "query": "construction worker helping colleague carry beam"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "khanhhoangminh",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-working-in-vietnam-8720485/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-V11.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-V11.mp4",
+     "score": 30.92,
+     "categories": [
+      "construction",
+      "worker",
+      "workers",
+      "working"
+     ],
+     "title": "video construction workers working vietnam",
+     "query": "construction worker helping colleague carry beam"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-working-together-on-laptop-5908718/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-I03.jpg",
+     "score": 27.52,
+     "categories": [
+      "man",
+      "team",
+      "teamwork",
+      "woman",
+      "working"
+     ],
+     "title": "Woman working on a laptop with a man pointing, showing teamwork in action.",
+     "query": "colleague helping coworker task"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-I06",
+     "type": "image",
+     "source": "pixabay",
+     "author": "dianebutts",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/man-worker-builder-5556152/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-I06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-I06.jpg",
+     "score": 25.86,
+     "categories": [
+      "builder",
+      "construction",
+      "man",
+      "worker"
+     ],
+     "title": "man  worker  builder  construction worker  construction  labor",
+     "query": "construction worker helping colleague carry beam"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S05-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-worker-supporting-an-injured-co-worker-8961556/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S05/edenrise-c2-goal-setting-S05-I05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S05/edenrise-c2-goal-setting-S05-I05.jpg",
+     "score": 33.79,
+     "categories": [
+      "construction",
+      "safety",
+      "team",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers with hard hats assist an injured team member, highlighting workplace safety.",
+     "query": "construction worker helping colleague carry beam"
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "Setting goals means taking ownership of your own growth. You learn from a colleague, take notes, train hands-on, review a process, ask questions — because you decided where you are going.",
+   "visual_direction": "Learning from a colleague: apprentice with a mentor, taking notes, hands-on training, reviewing a process, asking questions. Real trades and land work.",
+   "t": 20.0,
+   "end": 40.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S02-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V05.mp4",
+     "score": 24.33,
+     "categories": [
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video two wood workers talking each other",
+     "query": "apprentice learning from carpenter"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-young-man-helping-an-elderly-7517702/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V03.mp4",
+     "score": 27.81,
+     "categories": [
+      "help",
+      "helping",
+      "man"
+     ],
+     "title": "video young man helping elderly",
+     "query": "mentor teaching young worker"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V06",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-talking-6197077/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V06.mp4",
+     "score": 24.21,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video man and woman talking",
+     "query": "mentor teaching young worker"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-talking-while-holding-ceramic-pots-6023345/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V11.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V11.mp4",
+     "score": 22.64,
+     "categories": [
+      "people",
+      "talking"
+     ],
+     "title": "video people talking while holding ceramic pots",
+     "query": "mentor showing apprentice technique workshop"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V14",
+     "type": "video",
+     "source": "pexels",
+     "author": "Allan González",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/teamwork-in-engineering-classroom-setting-31474687/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V14.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V14.mp4",
+     "score": 22.04,
+     "categories": [
+      "team",
+      "teamwork"
+     ],
+     "title": "video teamwork engineering classroom setting",
+     "query": "apprentice watching mentor demonstrate"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V07.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V07.mp4",
+     "score": 21.81,
+     "categories": [
+      "man",
+      "working",
+      "workshop"
+     ],
+     "title": "video man working carpentry workshop",
+     "query": "apprentice learning from carpenter"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-V12",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/carpenter-with-woodworking-equipment-5895495/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-V12.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-V12.mp4",
+     "score": 22.64,
+     "categories": [
+      "carpenter",
+      "working"
+     ],
+     "title": "video carpenter with woodworking equipment",
+     "query": "mentor showing apprentice technique workshop"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "rcrobinson110",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/shop-mentor-construction-saw-2649775/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-I03.jpg",
+     "score": 21.29,
+     "categories": [
+      "construction",
+      "mentor"
+     ],
+     "title": "shop  mentor  construction  saw  woodwork  mentor  mentor  mentor  mentor  mentor  woodwork",
+     "query": "apprentice learning from carpenter"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-handling-detail-by-pneumatic-tool-in-workshop-3846262/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-I04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-I04.jpg",
+     "score": 25.9,
+     "categories": [
+      "foreman",
+      "man",
+      "workshop"
+     ],
+     "title": "Side view of senior foreman in eyeglasses showing to trainee how handling detail in workshop",
+     "query": "apprentice watching mentor demonstrate"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S02-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Lintang  Samudera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-in-red-polo-holding-metal-frame-10932214/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S02/edenrise-c2-goal-setting-S02-I02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S02/edenrise-c2-goal-setting-S02-I02.jpg",
+     "score": 24.81,
+     "categories": [
+      "craftsman",
+      "man",
+      "team",
+      "teamwork",
+      "worker",
+      "workers"
+     ],
+     "title": "Two workers assembling a metal frame on a street, showcasing teamwork and craftsmanship in Indonesia.",
+     "query": "hands-on training construction worker"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "A wish is not a goal. 'I want to get better' is a wish. 'I will learn to operate the irrigation system by the end of the month' is a goal — clear, written, specific.",
+   "visual_direction": "Vague intention becoming a clear written goal: hand writing a specific goal, team members practicing and communicating clearly on site.",
+   "t": 40.0,
+   "end": 60.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S03-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V01.mp4",
+     "score": 27.21,
+     "categories": [
+      "construction",
+      "conversation",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman having conversation the construction site",
+     "query": "workers talking clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V02.mp4",
+     "score": 24.81,
+     "categories": [
+      "construction",
+      "conversation",
+      "site"
+     ],
+     "title": "video engineers construction site having conversation",
+     "query": "workers talking clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-walking-at-the-construction-site-8964731/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V03.mp4",
+     "score": 24.81,
+     "categories": [
+      "construction",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman walking the construction site",
+     "query": "workers talking clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V04.mp4",
+     "score": 23.61,
+     "categories": [
+      "conversation",
+      "people"
+     ],
+     "title": "video people wearing harness having conversation",
+     "query": "workers talking clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V10.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V10.mp4",
+     "score": 18.06,
+     "categories": [
+      "conversation",
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman having conversation",
+     "query": "worker writing on clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V08",
+     "type": "video",
+     "source": "coverr",
+     "author": "Coverr",
+     "license": "Coverr License",
+     "page_url": "https://coverr.co/videos/focused-writing-session-outdoors",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V08.mp4",
+     "score": 12.21,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "videos focused writing session outdoors",
+     "query": "person writing plan notebook"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-V15",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-writing-on-the-clipboard-7463957/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-V15.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-V15.mp4",
+     "score": 15.96,
+     "categories": [
+      "man"
+     ],
+     "title": "video man writing the clipboard",
+     "query": "worker writing on clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-woman-wearing-hard-hat-while-talking-8961130/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-I01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-I01.jpg",
+     "score": 28.64,
+     "categories": [
+      "building",
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Male and female construction workers discussing plans at a building site.",
+     "query": "worker explaining plan to colleague"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-talking-face-to-face-8961003/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-I03.jpg",
+     "score": 26.61,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "site",
+      "talking",
+      "worker"
+     ],
+     "title": "Male and female construction workers talking with safety gear at an outdoor site.",
+     "query": "workers talking clipboard site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S03-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "11066063",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-site-engineer-4020496/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S03/edenrise-c2-goal-setting-S03-I04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S03/edenrise-c2-goal-setting-S03-I04.jpg",
+     "score": 19.07,
+     "categories": [
+      "construction",
+      "helmet",
+      "machinery",
+      "man",
+      "site",
+      "worker"
+     ],
+     "title": "construction site  engineer  construction machinery  construction worker  helmet  construction manager  construction man",
+     "query": "site manager noting checklist"
+    }
+   ]
+  },
+  {
+   "id": "S01",
+   "script_line": "Two people start the same job on the same day. Both work hard. But one works with direction — before starting, they pause and write down a goal. Months later the difference is visible.",
+   "visual_direction": "Varied team members in different roles starting the work day; one pauses to write down a goal in a notebook. Dignified working people, natural light, no corporate cliché.",
+   "t": 0.0,
+   "end": 20.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S01-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8965268/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V02.mp4",
+     "score": 26.67,
+     "categories": [
+      "conversation",
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman having conversation",
+     "query": "construction workers morning briefing site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Waleed Talat",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V04.mp4",
+     "score": 23.24,
+     "categories": [
+      "construction",
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video workers talking construction",
+     "query": "construction workers morning briefing site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-wearing-hard-hats-8964375/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V11.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V11.mp4",
+     "score": 20.8,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman wearing hard hats",
+     "query": "two workers starting morning site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "manas patra",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-working-on-building-construction-11733685/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V08.mp4",
+     "score": 28.3,
+     "categories": [
+      "building",
+      "construction",
+      "people",
+      "working"
+     ],
+     "title": "video people working building construction",
+     "query": "two workers starting morning site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V09",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V09.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V09.mp4",
+     "score": 25.3,
+     "categories": [
+      "construction",
+      "scaffolding",
+      "worker"
+     ],
+     "title": "video construction worker securing scaffolding cables",
+     "query": "two workers starting morning site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V10.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V10.mp4",
+     "score": 22.6,
+     "categories": [
+      "conversation",
+      "people"
+     ],
+     "title": "video close footage people holding folder while having conversation",
+     "query": "two workers starting morning site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-V03.mp4",
+     "score": 24.14,
+     "categories": [
+      "building",
+      "construction",
+      "scaffolding",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers inspecting building site scaffolding",
+     "query": "construction workers morning briefing site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/woman-in-yellow-hardhat-8487409/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-I01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-I01.jpg",
+     "score": 27.27,
+     "categories": [
+      "construction",
+      "helmet",
+      "safety",
+      "worker",
+      "workers"
+     ],
+     "title": "Close-up of African American construction workers wearing safety gear, including helmets and vests.",
+     "query": "construction workers morning briefing site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-with-ppe-s-talking-at-a-construction-site-8961065/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-I02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-I02.jpg",
+     "score": 27.1,
+     "categories": [
+      "construction",
+      "hardhat",
+      "site"
+     ],
+     "title": "Two engineers in hardhats discuss projects at a busy construction site.",
+     "query": "construction workers morning briefing site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S01-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-in-yellow-hard-hats-working-using-industrial-tools-8961334/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S01/edenrise-c2-goal-setting-S01-I04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S01/edenrise-c2-goal-setting-S01-I04.jpg",
+     "score": 27.96,
+     "categories": [
+      "construction",
+      "tools",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers using power tools on a sunny day.",
+     "query": "two workers starting morning site"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "Your challenge: choose one goal. Write it down. Act on it today. Different team members, different roles — writing, practicing, learning, collaborating, improving.",
+   "visual_direction": "Different team members writing goals, practicing, learning, collaborating, improving — a montage of dignified people in varied roles taking action.",
+   "t": 140.0,
+   "end": 160.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S08-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "eloguers",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-159029/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V06.mp4",
+     "score": 19.68,
+     "categories": [
+      "team",
+      "teamwork"
+     ],
+     "title": "students  books  papers  text  study  studying  library  research  academic  college  university  desk  teamwork  collab",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V02.mp4",
+     "score": 22.98,
+     "categories": [
+      "construction",
+      "talking",
+      "worker"
+     ],
+     "title": "video engineer talking construction worker",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "eloguers",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-159024/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V04.mp4",
+     "score": 20.78,
+     "categories": [
+      "team",
+      "teamwork"
+     ],
+     "title": "students  university  college  academic  school  project  team  teamwork  group project  collaboration  research  readin",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Dunmarx Photography",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-men-discussing-construction-outside-building-35904575/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V03.mp4",
+     "score": 21.88,
+     "categories": [
+      "building",
+      "construction"
+     ],
+     "title": "video two men discussing construction outside building",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "aksinfo7 universe",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-collaborating-on-site-30331740/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V05.mp4",
+     "score": 19.78,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers collaborating site",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "Progga Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-building-wooden-structure-outdoors-34704437/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V08.mp4",
+     "score": 25.43,
+     "categories": [
+      "building",
+      "construction",
+      "outdoor",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers building wooden structure outdoors",
+     "query": "team high five construction site"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-V12",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40816/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-V12.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-V12.mp4",
+     "score": 20.83,
+     "categories": [
+      "builder",
+      "building",
+      "man",
+      "worker",
+      "workers"
+     ],
+     "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
+     "query": "worker tying boots preparing work"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "FURKAN GÜNEŞ",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-working-on-construction-site-7461108/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-I01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-I01.jpg",
+     "score": 28.98,
+     "categories": [
+      "construction",
+      "safety",
+      "team",
+      "teamwork",
+      "working"
+     ],
+     "title": "Construction team in Türkiye working on steel framework, showcasing safety and teamwork.",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anil  Sharma",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-workers-inspecting-tunnel-entrance-34842260/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-I02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-I02.jpg",
+     "score": 23.08,
+     "categories": [
+      "construction",
+      "safety",
+      "team",
+      "teamwork",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers examine a tunnel entrance, highlighting safety and teamwork in infrastructure projects.",
+     "query": "workers collaborating project outdoors"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S08-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "joffi",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-site-1359136/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S08/edenrise-c2-goal-setting-S08-I04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S08/edenrise-c2-goal-setting-S08-I04.jpg",
+     "score": 28.42,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "helmet",
+      "safety",
+      "site"
+     ],
+     "title": "construction site  construction workers  building  hard work  safety  project  working  engineer  builder  helmet  under",
+     "query": "team high five construction site"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "Miss the goal? That is data, not defeat. Review your progress. Learn what happened. Adjust the plan. Continue working.",
+   "visual_direction": "Review → learn → adjust → continue: reviewing progress on a clipboard or checklist, making notes, adjusting a plan, then back to work with determination.",
+   "t": 120.0,
+   "end": 140.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S07-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-42701/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V07.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V07.mp4",
+     "score": 15.9,
+     "categories": [
+      "building",
+      "construction"
+     ],
+     "title": "the plan of the building  construction  work  building  house  plan  the structure of the  architecture  design  the faç",
+     "query": "adjusting plan notes rewriting"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V01.mp4",
+     "score": 21.7,
+     "categories": [
+      "construction",
+      "man",
+      "site",
+      "working"
+     ],
+     "title": "video man working the construction site",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-on-site-during-building-phase-32244797/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V04.mp4",
+     "score": 20.5,
+     "categories": [
+      "building",
+      "construction",
+      "site",
+      "worker"
+     ],
+     "title": "video construction worker site during building phase",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "mostafa meraji",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/low-angle-footage-of-a-construction-worker-securing-the-steel-scaffolding-on-the-building-exterior-3078521/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V02.mp4",
+     "score": 21.1,
+     "categories": [
+      "building",
+      "construction",
+      "scaffolding",
+      "worker"
+     ],
+     "title": "video low angle footage construction worker securing the steel scaffolding the building exterior",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V03.mp4",
+     "score": 20.5,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video back view workers walking construction site",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Joko_Narimo",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-148541/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V05.mp4",
+     "score": 17.4,
+     "categories": [
+      "building",
+      "concrete",
+      "labourer",
+      "worker"
+     ],
+     "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Life-Of-Vids",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3140/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-V06.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-V06.mp4",
+     "score": 17.1,
+     "categories": [
+      "building",
+      "construction",
+      "worker"
+     ],
+     "title": "construction worker  angle grinder  grinder  worker  construction  tool  work  industrial  cut  building  grinding  meta",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Azraf Mohammod Nakib",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/manual-laborers-digging-in-a-muddy-site-35281196/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-I01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-I01.jpg",
+     "score": 25.3,
+     "categories": [
+      "construction",
+      "digging",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two workers engaged in intensive digging at a construction site under blue skies.",
+     "query": "determined worker continuing work"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "annawaldl",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/tool-construction-worker-room-hammer-2222458/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-I03.jpg",
+     "score": 21.3,
+     "categories": [
+      "building",
+      "construction",
+      "man",
+      "people",
+      "site",
+      "worker"
+     ],
+     "title": "tool  construction worker  room hammer  handyman  diy  people  craft  mechanic  work  construction work  construction si",
+     "query": "worker checking work progress"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S07-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Infinity lifespaces",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-workers-at-a-building-site-in-delhi-30592257/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S07/edenrise-c2-goal-setting-S07-I02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S07/edenrise-c2-goal-setting-S07-I02.jpg",
+     "score": 21.7,
+     "categories": [
+      "building",
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Construction workers wearing safety gear at an indoor building site in Delhi.",
+     "query": "worker checking work progress"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "Work backwards: six months, ninety days, this week, today. Calendar, weekly plan, a question to an experienced colleague, one small immediate action.",
+   "visual_direction": "Planning progression — marking a calendar, writing a weekly plan, asking an experienced colleague, then one small immediate action of real work.",
+   "t": 60.0,
+   "end": 80.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-goal-setting-S04-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Anastasia  Shuraeva",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-working-together-7278695/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V01.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V01.mp4",
+     "score": 22.04,
+     "categories": [
+      "man",
+      "together",
+      "woman",
+      "working"
+     ],
+     "title": "video man and woman working together",
+     "query": "worker asking experienced colleague advice"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Theo  Decker",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-drinking-coffee-while-working-5944681/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V04.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V04.mp4",
+     "score": 18.44,
+     "categories": [
+      "man",
+      "woman",
+      "working"
+     ],
+     "title": "video woman drinking coffee while working",
+     "query": "worker asking experienced colleague advice"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-discussing-about-work-8124122/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V11.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V11.mp4",
+     "score": 18.46,
+     "categories": [
+      "worker",
+      "workers"
+     ],
+     "title": "video coworkers discussing about work",
+     "query": "worker consulting senior colleague plan"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-working-together-8631867/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V02.mp4",
+     "score": 22.04,
+     "categories": [
+      "man",
+      "together",
+      "woman",
+      "working"
+     ],
+     "title": "video man and woman working together",
+     "query": "worker asking experienced colleague advice"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V14",
+     "type": "video",
+     "source": "pixabay",
+     "author": "EnchantedStudios",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-197974/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V14.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V14.mp4",
+     "score": 11.92,
+     "categories": [],
+     "title": "calendar  months  flipping  beautiful wallpaper  loop  countdown  diary  schedule  white  business  event  background",
+     "query": "flipping planner pages writing"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-talking-to-his-colleague-at-work-7593777/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V10.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V10.mp4",
+     "score": 19.66,
+     "categories": [
+      "colleague",
+      "man",
+      "talking"
+     ],
+     "title": "video man talking his colleague work",
+     "query": "worker consulting senior colleague plan"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "Thirdman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/elderly-women-working-together-8485159/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-V08.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-V08.mp4",
+     "score": 19.8,
+     "categories": [
+      "together",
+      "working"
+     ],
+     "title": "video elderly women working together",
+     "query": "worker consulting senior colleague plan"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Jonathan Borba",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-and-woman-talking-at-work-13450787/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-I02.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-I02.jpg",
+     "score": 19.47,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "team",
+      "teamwork"
+     ],
+     "title": "Professional interaction between colleagues in a well-lit office environment, fostering teamwork.",
+     "query": "worker asking experienced colleague advice"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "aamiraimer",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/farmer-wheat-crop-agriculture-2260636/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-I03.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-I03.jpg",
+     "score": 18.3,
+     "categories": [
+      "land",
+      "man",
+      "outdoor",
+      "people",
+      "worker"
+     ],
+     "title": "farmer  wheat  crop  agriculture  field  nature  harvest  farm  plant  farming  rural  farmland  worker  man  food  agri",
+     "query": "worker asking experienced colleague advice"
+    },
+    {
+     "id": "edenrise-c2-goal-setting-S04-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-an-elderly-woman-having-a-discussion-7413974/",
+     "thumb": "projects/edenrise-c2-goal-setting/thumbs/S04/edenrise-c2-goal-setting-S04-I05.jpg",
+     "preview": "projects/edenrise-c2-goal-setting/previews/S04/edenrise-c2-goal-setting-S04-I05.jpg",
+     "score": 15.0,
+     "categories": [
+      "man",
+      "meeting",
+      "woman"
+     ],
+     "title": "An elderly woman and a man in a professional meeting discussing documents indoors.",
+     "query": "worker consulting senior colleague plan"
+    }
+   ]
+  }
+ ],
+ "title": "Edenrise C2 — M2: Goal Setting",
+ "project": "edenrise-c2-goal-setting"
+}
