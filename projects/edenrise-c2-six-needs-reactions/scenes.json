@@ -1,0 +1,1454 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "Calm work shifts into pressure: plans change, a disagreement flares, a deadline looms, the same task repeats again. The needs get threatened — and reactions follow.",
+   "visual_direction": "Calm scenes tilting into tension: a schedule ripped up, a serious discussion, clock pressure, repetitive strain. Neutral-to-tense valence, dignified real workers.",
+   "t": 0.0,
+   "end": 20.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yan Krukau",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-talking-to-a-woman-at-work-7640681/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V04.mp4",
+     "score": 23.07,
+     "categories": [
+      "man",
+      "people",
+      "talking",
+      "woman"
+     ],
+     "title": "video people talking woman work",
+     "query": "worker under pressure deadline site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-drinking-coffee-while-looking-at-the-papers-9080631/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V07.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V07.mp4",
+     "score": 18.87,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman drinking coffee while looking the papers",
+     "query": "worker under pressure deadline site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V09",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V09.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V09.mp4",
+     "score": 23.72,
+     "categories": [
+      "construction",
+      "conversation",
+      "site"
+     ],
+     "title": "video engineers construction site having conversation",
+     "query": "construction workers discussing problem plans"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V11.mp4",
+     "score": 21.89,
+     "categories": [
+      "conversation",
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman having conversation",
+     "query": "construction workers discussing problem plans"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V14",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Luiz-Jorge-Artista",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3522/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V14.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V14.mp4",
+     "score": 13.62,
+     "categories": [
+      "construction",
+      "welder",
+      "worker"
+     ],
+     "title": "weld  hardware  construction  welder  locksmith  spark  fire  flame  to paste  amend  job  worker  electricity  electrod",
+     "query": "welder sparks working fast"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-while-looking-at-the-construction-site-8964771/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V08.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V08.mp4",
+     "score": 27.06,
+     "categories": [
+      "construction",
+      "conversation",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman having conversation while looking the construction site",
+     "query": "construction workers discussing problem plans"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-while-using-tablet-8964795/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-V10.mp4",
+     "score": 21.89,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video man and woman talking while using tablet",
+     "query": "construction workers discussing problem plans"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-hard-hats-talking-at-the-construction-site-8961030/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-I02.jpg",
+     "score": 25.47,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in safety gear discussing plans at a construction site.",
+     "query": "serious discussion two workers"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-I05",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Mrleyli",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/kids-labour-labour-hard-work-labor-3571864/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-I05.jpg",
+     "score": 29.13,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "laborer",
+      "man",
+      "safety"
+     ],
+     "title": "kids labour  labour  hard work  labor  worker  industry  work  hard  construction  man  laborer  site  building  occupat",
+     "query": "tired worker wiping sweat brow"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S01-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Emmanuel Codden",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/builders-working-at-construction-site-15794759/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S01/edenrise-c2-six-needs-reactions-S01-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S01/edenrise-c2-six-needs-reactions-S01-I04.jpg",
+     "score": 30.66,
+     "categories": [
+      "building",
+      "construction",
+      "site",
+      "team",
+      "teamwork",
+      "worker"
+     ],
+     "title": "Two construction workers analyzing plans at a building site, emphasizing teamwork.",
+     "query": "construction workers discussing problem plans"
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "Certainty threatened: the schedule changes without warning. A flash of frustration — then reviewing the information and adapting the plan.",
+   "visual_direction": "A worker meets an unexpected change: brief frustration, then calmly reviewing documents/plans and adapting. Recovery, not drama.",
+   "t": 20.0,
+   "end": 40.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40816/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V03.mp4",
+     "score": 21.47,
+     "categories": [
+      "builder",
+      "building",
+      "man",
+      "worker",
+      "workers"
+     ],
+     "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-holding-a-blueprint-while-looking-at-construction-site-8964796/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V08.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V08.mp4",
+     "score": 23.01,
+     "categories": [
+      "construction",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman holding blueprint while looking construction site",
+     "query": "foreman reviewing blueprint closely site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V11.mp4",
+     "score": 20.77,
+     "categories": [
+      "construction",
+      "site"
+     ],
+     "title": "video engineers looking the construction site while having discussion",
+     "query": "foreman reviewing blueprint closely site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85350/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V01.mp4",
+     "score": 28.67,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40813/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V02.mp4",
+     "score": 25.07,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "people",
+      "worker",
+      "workers"
+     ],
+     "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-67460/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V04.mp4",
+     "score": 20.87,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "worker"
+     ],
+     "title": "worker  car  building  shovel  pour in  builder  wheelbarrow  construction  fill",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-67461/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-V05.mp4",
+     "score": 20.87,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "worker"
+     ],
+     "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-woman-showing-a-man-the-construction-plan-8961298/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-I02.jpg",
+     "score": 24.79,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Construction workers reviewing blueprints indoors at a renovation site with wooden walls.",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-with-ppe-s-looking-at-a-blue-print-8961133/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-I01.jpg",
+     "score": 25.56,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "site",
+      "team",
+      "together"
+     ],
+     "title": "Engineering team analyzing blueprints together at an outdoor construction site with safety gear.",
+     "query": "builder re-checking plans calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S02-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961025/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S02/edenrise-c2-six-needs-reactions-S02-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S02/edenrise-c2-six-needs-reactions-S02-I04.jpg",
+     "score": 26.77,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Construction workers engaged in a discussion at a construction site wearing safety gear.",
+     "query": "foreman reviewing blueprint closely site"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Connection threatened: the hesitation before a hard conversation. Then the respectful, direct talk that clears the air.",
+   "visual_direction": "A person hesitates outside a conversation, gathers courage, then a direct respectful one-on-one talk with real eye contact, ending lighter.",
+   "t": 80.0,
+   "end": 100.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-6387/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V03.mp4",
+     "score": 19.5,
+     "categories": [
+      "people"
+     ],
+     "title": "people  commerce  shop  busy  mall  walking",
+     "query": "workers walking talking resolving"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V06",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/hands-of-a-person-typing-on-a-cell-phone-4915/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V06.mp4",
+     "score": 9.9,
+     "categories": [
+      "hands"
+     ],
+     "title": "hands of a person typing on a cell phone",
+     "query": "person hesitating before speaking"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V09",
+     "type": "video",
+     "source": "pixabay",
+     "author": "32215527",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-329674/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V09.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V09.mp4",
+     "score": 19.24,
+     "categories": [
+      "land"
+     ],
+     "title": "snow  winter  nature  river  wharf  dock  girl  walking  snowy  cold  landscape",
+     "query": "colleagues walking and talking site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SAHN_VIT",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-21782/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V04.mp4",
+     "score": 19.5,
+     "categories": [
+      "people"
+     ],
+     "title": "walking  busy  people  pace  step  bike  way  street  legs  live wallpaper",
+     "query": "workers walking talking resolving"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V05",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/street-with-people-walking-at-dusk-3428/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V05.mp4",
+     "score": 14.7,
+     "categories": [
+      "people"
+     ],
+     "title": "street with people walking at dusk",
+     "query": "two people direct conversation calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V10",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3171/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V10.mp4",
+     "score": 18.64,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "walking  sneakers  nike  shoes  walk  path  outdoors  lifestyle  young  boy  legs  foot  jeans  adult  summer  style  fe",
+     "query": "colleagues walking and talking site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V11",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/gigantic-field-of-sunflowers-on-a-sunny-day-4881/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V11.mp4",
+     "score": 11.37,
+     "categories": [],
+     "title": "gigantic field of sunflowers on a sunny day",
+     "query": "two farmers talking by fence field"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "mikkelwejdemann",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/india-colorful-culture-discussion-4622280/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I02.jpg",
+     "score": 22.5,
+     "categories": [
+      "man",
+      "people",
+      "portrait",
+      "talking",
+      "woman",
+      "worker"
+     ],
+     "title": "india  colorful  culture  discussion  color  asia  hinduism  religion  people  hindu  worker  tourism  traditional  trav",
+     "query": "workers walking talking resolving"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "MabelAmber",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/people-man-woman-couple-sitting-3163556/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
+     "score": 22.5,
+     "categories": [
+      "conversation",
+      "man",
+      "people",
+      "talking",
+      "together",
+      "woman"
+     ],
+     "title": "people  man  woman  couple  sitting  together  bench  talking  close  conversation  brown talk  brown talking  brown con",
+     "query": "two people direct conversation calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-I03",
+     "type": "image",
+     "source": "openverse",
+     "author": "Rawpixel Ltd",
+     "license": "CC BY 2.0",
+     "page_url": "https://www.flickr.com/photos/147875007@N03/45789231771",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I03.jpg",
+     "score": 5.3,
+     "categories": [
+      "man",
+      "meeting",
+      "woman"
+     ],
+     "title": "Japanese woman in a business meeting",
+     "query": "one on one talk workplace"
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "script_line": "Write it down, choose the response. Reflective notes — then calmer, constructive interactions for the rest of the day.",
+   "visual_direction": "Reflective note-writing about reactions, then calm constructive interactions: measured conversations, steady work, a settled team.",
+   "t": 160.0,
+   "end": 180.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4952/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V07.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V07.mp4",
+     "score": 11.97,
+     "categories": [
+      "hands"
+     ],
+     "title": "book  write  pen  diary  letter  hands  girl  notebook",
+     "query": "writing reflective notes notebook"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4973/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V04.mp4",
+     "score": 15.04,
+     "categories": [
+      "carpenter",
+      "construction"
+     ],
+     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
+     "query": "steady focused work peaceful"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-129427/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V02.mp4",
+     "score": 18.64,
+     "categories": [
+      "care",
+      "face",
+      "man",
+      "portrait",
+      "woman"
+     ],
+     "title": "businesswoman  headache  stress  business  career  close-up  employee  expression  face  focused  girl  serious  portrai",
+     "query": "steady focused work peaceful"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "Variety takes over: jumping between tasks, nothing finishing. The correction — slowing down, prioritizing, completing one thing.",
+   "visual_direction": "Scattered multitasking, half-done jobs; then a person slows down, writes priorities, finishes a single task with care.",
+   "t": 40.0,
+   "end": 60.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4974/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V01.mp4",
+     "score": 20.37,
+     "categories": [
+      "building",
+      "carpenter",
+      "construction"
+     ],
+     "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
+     "query": "half finished work bench tools"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Dx21",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-131990/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V06.mp4",
+     "score": 15.39,
+     "categories": [],
+     "title": "student  to write  to study  work  task  issue  question  study",
+     "query": "finishing one task carefully hands"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V14",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-130645/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V14.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V14.mp4",
+     "score": 15.5,
+     "categories": [
+      "man",
+      "woman",
+      "working"
+     ],
+     "title": "woman  model  notebook  book  creator  desk  businesswoman  young  writing  working  paper  lifestyle  laptop  computer ",
+     "query": "messy desk many papers tools"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-115792/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V05.mp4",
+     "score": 15.57,
+     "categories": [
+      "man",
+      "woman",
+      "workshop"
+     ],
+     "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  human  employee  shop",
+     "query": "half finished work bench tools"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V15",
+     "type": "video",
+     "source": "pixabay",
+     "author": "eloguers",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-159024/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V15.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V15.mp4",
+     "score": 14.3,
+     "categories": [
+      "team",
+      "teamwork"
+     ],
+     "title": "students  university  college  academic  school  project  team  teamwork  group project  collaboration  research  readin",
+     "query": "tidy workbench single project wood"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V13",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-pondering-while-looking-at-a-script-on-a-table-8085788/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V13.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V13.mp4",
+     "score": 15.9,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman pondering while looking script table",
+     "query": "messy desk many papers tools"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "loilamtan",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-31654/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-V04.mp4",
+     "score": 16.17,
+     "categories": [
+      "hands",
+      "people"
+     ],
+     "title": "hands  girl  people  young  female  table  hand  white  go  sad",
+     "query": "finishing one task carefully hands"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "enricsagarra",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/industry-business-expression-3079371/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-I02.jpg",
+     "score": 15.39,
+     "categories": [
+      "craftsman",
+      "man",
+      "worker"
+     ],
+     "title": "industry  business  expression  capacity  job  craftsman  handbook  male  worker  work bench  crafts  tool  capacity  jo",
+     "query": "half finished work bench tools"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Dj Shiflet",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-working-at-table-with-vice-on-it-14357246/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-I05.jpg",
+     "score": 19.3,
+     "categories": [
+      "craftsman",
+      "man",
+      "tools",
+      "working",
+      "workshop"
+     ],
+     "title": "Black and white photo of a craftsman working with tools in a Bangkok workshop.",
+     "query": "worker focused one task bench"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S03-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/hammer-tools-carpentry-carpenter-1868956/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S03/edenrise-c2-six-needs-reactions-S03-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S03/edenrise-c2-six-needs-reactions-S03-I04.jpg",
+     "score": 17.02,
+     "categories": [
+      "carpenter",
+      "construction",
+      "tools"
+     ],
+     "title": "hammer  tools  carpentry  carpenter  repairs  construction  work  equipment  wood  tools  tools  carpentry  carpentry  c",
+     "query": "cluttered workbench many tools mess"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "Growth blocked: the work feels repetitive. The reframe — going deeper: technique, quality, mastery inside the same task.",
+   "visual_direction": "Repetitive task transformed by depth: close-ups of refining technique, checking quality, mastering details of the same work.",
+   "t": 100.0,
+   "end": 120.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Luiz-Jorge-Artista",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-7376/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-V02.mp4",
+     "score": 20.58,
+     "categories": [
+      "brick",
+      "building",
+      "construction",
+      "helmet",
+      "man",
+      "mason"
+     ],
+     "title": "construction  remodeling  home  apartment  constructions  tool  hammer  mason  constructor  sledgehammer  demolition  br",
+     "query": "mason precise mortar detail"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Elf-Moondance",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-73535/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-V05.mp4",
+     "score": 13.38,
+     "categories": [
+      "craftsman",
+      "man"
+     ],
+     "title": "man  board  craftsman  wood  work  person  handwork  environment  shelves",
+     "query": "craftsman perfecting technique close"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-11006/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-V03.mp4",
+     "score": 14.01,
+     "categories": [
+      "gardener",
+      "man",
+      "woman"
+     ],
+     "title": "gardener  pour  heat  garden  young woman  water  hose  flowers  summer  the park",
+     "query": "gardener pruning precise detail"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-V09",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Faderproduction",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-36911/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-V09.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-V09.mp4",
+     "score": 15.99,
+     "categories": [],
+     "title": "joint  fish  water  holiday  relaxation  weekend  tourism  lake",
+     "query": "mason pointing brick joints trowel detail"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "ELIZABETED",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/worker-gardener-gardening-garden-4083485/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-I02.jpg",
+     "score": 18.76,
+     "categories": [
+      "gardener",
+      "land",
+      "man",
+      "worker",
+      "workers"
+     ],
+     "title": "worker  gardener  gardening  garden  work  workers  pruning  shovel  lawn  horticulture  the man  plants  use  spring  n",
+     "query": "gardener pruning precise detail"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "artursfoto",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/rose-pruning-garden-cut-gardening-1744950/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-I04.jpg",
+     "score": 21.61,
+     "categories": [
+      "care",
+      "gardener",
+      "hands",
+      "land",
+      "landscaping"
+     ],
+     "title": "rose  flower background  pruning  garden  beautiful flowers  cut  gardening  cutting  work  gardener  flower  bush  gree",
+     "query": "gardener pruning roses secateurs closeup"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S06-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Paul Groom Photography Bristol",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/close-up-of-hands-painting-pottery-in-bristol-29136894/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S06/edenrise-c2-six-needs-reactions-S06-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S06/edenrise-c2-six-needs-reactions-S06-I06.jpg",
+     "score": 15.46,
+     "categories": [
+      "artisan",
+      "land",
+      "workshop"
+     ],
+     "title": "Artisan painting pottery at a ceramic workshop in Bristol, England.",
+     "query": "artisan painting ceramic brush detail"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "Significance threatened: feedback lands hard. A breath of defensiveness — then listening, asking a question, replying constructively.",
+   "visual_direction": "Receiving feedback: a moment of guarded body language, then genuine listening and a constructive reply between colleagues. Respectful, adult.",
+   "t": 60.0,
+   "end": 80.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85351/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V01.mp4",
+     "score": 30.12,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "foreman talking calmly worker"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85349/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V02.mp4",
+     "score": 30.12,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
+     "query": "foreman talking calmly worker"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Dx21",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-131161/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V04.mp4",
+     "score": 15.72,
+     "categories": [
+      "conversation"
+     ],
+     "title": "mobile  cellular  technology  communications  iphone  talk  friends  message  conversation  smartphone",
+     "query": "two colleagues honest conversation"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961028/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
+     "score": 27.97,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "scaffolding"
+     ],
+     "title": "Engineers in safety gear discussing a construction project outdoors with visible scaffolding.",
+     "query": "foreman giving apprentice feedback pointing"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ihsan Adityawarman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-a-yellow-vest-holding-a-hard-hat-28196526/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
+     "score": 27.81,
+     "categories": [
+      "construction",
+      "helmet",
+      "portrait",
+      "safety",
+      "worker"
+     ],
+     "title": "Portrait of a construction worker in safety gear holding a helmet inside an industrial setting.",
+     "query": "foreman giving apprentice feedback pointing"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I06",
+     "type": "image",
+     "source": "pixabay",
+     "author": "igorovsyannykov",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/accuracy-apartment-blocks-apartments-2739190/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I06.jpg",
+     "score": 56.7,
+     "categories": [
+      "builder",
+      "building",
+      "care",
+      "construction",
+      "crane",
+      "digger"
+     ],
+     "title": "accuracy  apartment-blocks  apartments  builders  building-site  building-workers  bulldozers  construction  industry  c",
+     "query": "engineer explaining to construction worker"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "Over-contribution: taking on everyone's tasks. The correction — coaching instead of doing, letting someone else complete it.",
+   "visual_direction": "One person carrying too much, then stepping back: guiding a colleague who completes the task themselves, hands off, trust.",
+   "t": 120.0,
+   "end": 140.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-V08",
+     "type": "video",
+     "source": "pixabay",
+     "author": "JustYøu",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-73847/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-V08.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-V08.mp4",
+     "score": 17.44,
+     "categories": [],
+     "title": "sand  hand  beach  dessert  sea  live wallpaper",
+     "query": "foreman watching apprentice hands off"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "aframeinmotion",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-95122/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-V03.mp4",
+     "score": 20.88,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "man",
+      "people",
+      "talking",
+      "team"
+     ],
+     "title": "office  corporate  business  attractive  businessman  business people  businesswoman  colleagues  employees  confident  ",
+     "query": "colleague encouraging teammate"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "aframeinmotion",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-95123/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-V07.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-V07.mp4",
+     "score": 20.88,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "man",
+      "people",
+      "talking",
+      "team"
+     ],
+     "title": "office  corporate  business  attractive  businessman  business people  businesswoman  colleagues  employees  confident  ",
+     "query": "colleague encouraging teammate"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "dimitrisvetsikas1969",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/worker-construction-site-helmet-1895691/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-I02.jpg",
+     "score": 25.4,
+     "categories": [
+      "building",
+      "construction",
+      "hardhat",
+      "helmet",
+      "safety",
+      "site"
+     ],
+     "title": "worker  construction site  helmet  uniform  safety  development  engineering  hardhat  working  construction  engineer  ",
+     "query": "supervisor watching trainee work"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-cutting-wood-using-circular-saw-8820182/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-I05.jpg",
+     "score": 20.84,
+     "categories": [
+      "carpenter",
+      "construction",
+      "outdoor",
+      "site"
+     ],
+     "title": "A carpenter using a circular saw at an outdoor construction site.",
+     "query": "trainee using saw supervised learning"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S07-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Mohamed_hassan",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/men-mentor-help-climbing-mountain-3610255/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S07/edenrise-c2-six-needs-reactions-S07-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S07/edenrise-c2-six-needs-reactions-S07-I01.jpg",
+     "score": 29.6,
+     "categories": [
+      "friendship",
+      "help",
+      "mentor",
+      "people",
+      "team",
+      "teamwork"
+     ],
+     "title": "men  mentor  help  climbing  mountain  stars  hand  adventure  sky  mountain top  night sky  teamwork  people  nature  a",
+     "query": "mentor guiding colleague hands off"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "THE PAUSE: a tense moment, one breath, a beat of reflection — then a calmer, chosen response.",
+   "visual_direction": "The pivotal pause: a worker stops in a tense moment, breathes, eyes close briefly, shoulders drop — then re-engages calm and deliberate.",
+   "t": 140.0,
+   "end": 160.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "pnepalensis",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-35590/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V03.mp4",
+     "score": 13.98,
+     "categories": [
+      "man",
+      "portrait"
+     ],
+     "title": "thoughtful  person  thinking  male  head  calm  idea  alone  brain  thoughts  portrait  man  think  peaceful  beard",
+     "query": "person closing eyes calm moment"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V12",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1049/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V12.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V12.mp4",
+     "score": 16.47,
+     "categories": [
+      "outdoor",
+      "people"
+     ],
+     "title": "relaxing  sitting  lake  shore  outdoors  beach  people  young  person  lifestyle  relaxation  relax  leisure",
+     "query": "worker sitting quietly lunch break"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Engin_Akyurt",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-44645/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V01.mp4",
+     "score": 19.96,
+     "categories": [
+      "face",
+      "man",
+      "people",
+      "portrait",
+      "woman"
+     ],
+     "title": "portrait  woman  wind  face  girl  human  hair  person  beautiful  young  beauty  people  eyes  natural  eye  adult",
+     "query": "person closing eyes calm moment"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V14",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-58142/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V14.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V14.mp4",
+     "score": 15.77,
+     "categories": [
+      "man",
+      "outdoor",
+      "woman"
+     ],
+     "title": "woman  flowers  plants  field  garden  nature  gardening  petals  floral  flora  blossom  blooming  fresh  spring  park ",
+     "query": "calm breath fresh air field"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1027/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V02.mp4",
+     "score": 14.01,
+     "categories": [
+      "building"
+     ],
+     "title": "home  house  returning  real estate  family  coming home  evening  nightfall  building  shelter  property  residential",
+     "query": "worker composed returning task"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V11",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/worried-and-sad-woman-outdoors-8739/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V11.mp4",
+     "score": 12.12,
+     "categories": [
+      "man",
+      "outdoor",
+      "woman"
+     ],
+     "title": "worried and sad woman outdoors",
+     "query": "man breathing deeply calm outdoors"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-V15",
+     "type": "video",
+     "source": "pixabay",
+     "author": "asifsharif",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-326081/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-V15.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-V15.mp4",
+     "score": 14.07,
+     "categories": [
+      "land",
+      "outdoor"
+     ],
+     "title": "nature  autumn  river  water  stream  forest  landscape  fall  leaves  rocks  flowing  peaceful  beautiful wallpaper  re",
+     "query": "calm breath fresh air field"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-in-blue-and-white-checkered-shirt-and-a-hardhat-8961621/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-I05.jpg",
+     "score": 25.06,
+     "categories": [
+      "construction",
+      "hardhat",
+      "man",
+      "outdoor",
+      "site",
+      "woman"
+     ],
+     "title": "A woman construction worker in a hardhat takes a break at an outdoor site.",
+     "query": "worker resting against wall calm break"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "RobinHiggins",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/flattered-woman-happy-female-adult-2385793/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-I01.jpg",
+     "score": 22.94,
+     "categories": [
+      "face",
+      "man",
+      "portrait",
+      "smile",
+      "smiling",
+      "woman"
+     ],
+     "title": "flattered  woman  happy  female  adult  lady  young  girl  person  cute  flattering  expression  smiling  attractive  fa",
+     "query": "hand on chest breath calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S08-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "satynek",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/way-building-excavator-viaduct-3659608/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S08/edenrise-c2-six-needs-reactions-S08-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S08/edenrise-c2-six-needs-reactions-S08-I04.jpg",
+     "score": 24.12,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "digging",
+      "excavator",
+      "site"
+     ],
+     "title": "way  building  excavator  viaduct  road  cities  work  digging  builder  a worker at the construction site  construction",
+     "query": "worker pausing wiping brow site"
+    }
+   ]
+  }
+ ]
+}

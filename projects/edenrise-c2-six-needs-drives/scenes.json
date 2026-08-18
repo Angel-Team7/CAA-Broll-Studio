@@ -1,0 +1,1708 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "People are driven by six human needs — and you see them at work everywhere: outdoors on the land, in technical work, in meetings, in teams, and working alone.",
+   "visual_direction": "Varied dignified people working in varied environments: land work outdoors, technical hands-on work, a small planning meeting, a team together, one person focused alone.",
+   "t": 0.0,
+   "end": 20.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-working-together-7655297/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V01.mp4",
+     "score": 26.01,
+     "categories": [
+      "together",
+      "worker",
+      "workers",
+      "working"
+     ],
+     "title": "video coworkers working together",
+     "query": "small team meeting workshop table"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "manas patra",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/workers-on-construction-11798561/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V02.mp4",
+     "score": 25.28,
+     "categories": [
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video workers construction",
+     "query": "construction crew working together"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-fixing-a-road-7163092/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V03.mp4",
+     "score": 25.28,
+     "categories": [
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers fixing road",
+     "query": "construction crew working together"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1039/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V06.mp4",
+     "score": 24.22,
+     "categories": [
+      "care",
+      "gardener",
+      "land",
+      "landscaping",
+      "outdoor"
+     ],
+     "title": "lawn mower  mowing  lawn  outdoors  janitor  grass  lawn mowing  summer  yard  garden  green  mow  cut  backyard  lawn c",
+     "query": "landscaper mowing lawn grounds"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V07",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-taking-notes-while-talking-to-a-coworker-8487483/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V07.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V07.mp4",
+     "score": 24.02,
+     "categories": [
+      "man",
+      "talking",
+      "woman",
+      "worker"
+     ],
+     "title": "video woman taking notes while talking coworker",
+     "query": "toolbox talk morning crew hardhats"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V10.mp4",
+     "score": 20.12,
+     "categories": [
+      "conversation",
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman having conversation",
+     "query": "toolbox talk morning crew hardhats"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-V04.mp4",
+     "score": 27.08,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video back view workers walking construction site",
+     "query": "construction crew working together"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Denniz Futalan",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/group-of-people-wearing-hard-hats-standing-on-a-roof-4956920/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-I01.jpg",
+     "score": 35.01,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "team",
+      "teamwork",
+      "worker"
+     ],
+     "title": "Construction workers in safety gear work on a structure outdoors, emphasizing teamwork and safety.",
+     "query": "construction crew working together"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-blue-shirt-talking-to-the-woman-wearing-safety-vest-8961111/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-I03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-I03.jpg",
+     "score": 30.4,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "worker",
+      "workers"
+     ],
+     "title": "Male and female construction workers discussing safety on a sunny day outdoors.",
+     "query": "toolbox talk morning crew hardhats"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S01-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-hard-hats-talking-at-the-construction-site-8961030/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S01/edenrise-c2-six-needs-drives-S01-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S01/edenrise-c2-six-needs-drives-S01-I04.jpg",
+     "score": 30.02,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in safety gear discussing plans at a construction site.",
+     "query": "toolbox talk morning crew hardhats"
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Connection: collaboration, helping a colleague, truly listening — even disagreeing with respect and resolving it.",
+   "visual_direction": "Real connection at work: two people collaborating, one helping another, attentive listening, a respectful disagreement that ends resolved with a handshake or nod.",
+   "t": 80.0,
+   "end": 100.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-while-looking-at-the-construction-site-8964771/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V01.mp4",
+     "score": 30.1,
+     "categories": [
+      "construction",
+      "conversation",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman having conversation while looking the construction site",
+     "query": "two workers discussing respectfully site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V02.mp4",
+     "score": 33.7,
+     "categories": [
+      "construction",
+      "conversation",
+      "man",
+      "site",
+      "woman"
+     ],
+     "title": "video man and woman having conversation the construction site",
+     "query": "workers helping each other lift"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-a-woman-shaking-hands-6648429/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V03.mp4",
+     "score": 29.5,
+     "categories": [
+      "hands",
+      "man",
+      "shaking hands",
+      "woman"
+     ],
+     "title": "video man and woman shaking hands",
+     "query": "handshake workers agreement outdoors"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V08",
+     "type": "video",
+     "source": "pixabay",
+     "author": "JustYøu",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-73847/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V08.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V08.mp4",
+     "score": 22.77,
+     "categories": [],
+     "title": "sand  hand  beach  dessert  sea  live wallpaper",
+     "query": "workers shaking hands site agreement"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-and-a-woman-working-together-7469814/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V04.mp4",
+     "score": 30.1,
+     "categories": [
+      "man",
+      "together",
+      "woman",
+      "working"
+     ],
+     "title": "video man and woman working together",
+     "query": "workers helping each other lift"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1009/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V05.mp4",
+     "score": 35.7,
+     "categories": [
+      "builder",
+      "building",
+      "concrete",
+      "construction",
+      "safety",
+      "site"
+     ],
+     "title": "construction site  elevator  building  build  architecture  construction  industrial  industry  structure  concrete  eng",
+     "query": "workers helping each other lift"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "chuduyen215",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-42923/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-V06.mp4",
+     "score": 29.1,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "man",
+      "site",
+      "worker"
+     ],
+     "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
+     "query": "two workers discussing respectfully site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-worker-supporting-an-injured-co-worker-8961551/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-I01.jpg",
+     "score": 36.1,
+     "categories": [
+      "building",
+      "construction",
+      "site",
+      "team",
+      "teamwork",
+      "worker"
+     ],
+     "title": "Two construction workers in hard hats assisting each other at a building site, highlighting teamwork.",
+     "query": "workers helping each other lift"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S05-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "igorovsyannykov",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/accuracy-apartment-blocks-apartments-2739190/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S05/edenrise-c2-six-needs-drives-S05-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S05/edenrise-c2-six-needs-drives-S05-I04.jpg",
+     "score": 61.7,
+     "categories": [
+      "builder",
+      "building",
+      "care",
+      "construction",
+      "crane",
+      "digger"
+     ],
+     "title": "accuracy  apartment-blocks  apartments  builders  building-site  building-workers  bulldozers  construction  industry  c",
+     "query": "construction workers handshake hardhats"
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "Growth: learning from a colleague, practicing a skill, reading the instructions, taking feedback, improving.",
+   "visual_direction": "Learning in motion: apprentice watching a mentor, practicing a technique, reading a manual or instructions, receiving feedback and applying it, visible improvement.",
+   "t": 100.0,
+   "end": 120.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/elderly-woman-talking-to-a-woman-8527524/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V01.mp4",
+     "score": 26.0,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video elderly woman talking woman",
+     "query": "mentor teaching apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/an-elderly-man-instructing-at-a-computer-skills-training-class-7999456/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V02.mp4",
+     "score": 23.62,
+     "categories": [
+      "man"
+     ],
+     "title": "video elderly man instructing computer skills training class",
+     "query": "mentor teaching apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-talking-while-holding-ceramic-pots-6023345/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V03.mp4",
+     "score": 25.4,
+     "categories": [
+      "people",
+      "talking"
+     ],
+     "title": "video people talking while holding ceramic pots",
+     "query": "mentor teaching apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85350/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V04.mp4",
+     "score": 28.0,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "foreman giving feedback worker"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85351/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V05.mp4",
+     "score": 28.0,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
+     "query": "foreman giving feedback worker"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-85349/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V06.mp4",
+     "score": 28.0,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "foreman",
+      "man",
+      "safety"
+     ],
+     "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
+     "query": "foreman giving feedback worker"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-V09",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4729/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-V09.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-V09.mp4",
+     "score": 25.92,
+     "categories": [
+      "builder",
+      "carpenter",
+      "construction",
+      "crew",
+      "man",
+      "manual"
+     ],
+     "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
+     "query": "worker reading instruction manual"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/senior-male-artisan-creating-bag-together-with-female-assistant-3814571/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-I01.jpg",
+     "score": 29.0,
+     "categories": [
+      "craftsman",
+      "help",
+      "man",
+      "workshop"
+     ],
+     "title": "Concentrated elderly craftsman in casual clothes standing at table in workshop and making leather accessory with help of",
+     "query": "mentor teaching apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-teaching-a-woman-on-pottery-5197789/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-I05.jpg",
+     "score": 20.92,
+     "categories": [
+      "craftsman",
+      "man",
+      "together"
+     ],
+     "title": "A couple creating pottery together in a cozy, well-lit studio, conveying love and craftsmanship.",
+     "query": "woman learning pottery teacher"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S06-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-handling-detail-by-pneumatic-tool-in-workshop-3846262/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S06/edenrise-c2-six-needs-drives-S06-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S06/edenrise-c2-six-needs-drives-S06-I02.jpg",
+     "score": 27.82,
+     "categories": [
+      "foreman",
+      "man",
+      "workshop"
+     ],
+     "title": "Side view of senior foreman in eyeglasses showing to trainee how handling detail in workshop",
+     "query": "mentor teaching apprentice workshop"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "Variety: the pull toward switching tasks and new ideas — brainstorming, trying something different — and then the discipline of returning to finish one thing properly.",
+   "visual_direction": "Energy of variety: switching between tasks, a lively idea exchange; then returning to one task and finishing it properly, tools down, job complete.",
+   "t": 40.0,
+   "end": 60.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ahmet Kurt",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/landscape-architecture-workers-19851306/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V01.mp4",
+     "score": 19.1,
+     "categories": [
+      "land",
+      "worker",
+      "workers"
+     ],
+     "title": "video landscape architecture workers",
+     "query": "gardener completing planting row"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-in-a-meeting-7683084/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V02.mp4",
+     "score": 17.7,
+     "categories": [
+      "meeting",
+      "worker",
+      "workers"
+     ],
+     "title": "video coworkers meeting",
+     "query": "team brainstorm ideas sticky notes"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Nishant Aneja",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-gloves-and-goggles-is-using-a-grinder-20455991/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V03.mp4",
+     "score": 17.7,
+     "categories": [
+      "gloves",
+      "man"
+     ],
+     "title": "video man gloves and goggles using grinder",
+     "query": "worker switching between tasks workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V10",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1019/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V10.mp4",
+     "score": 11.9,
+     "categories": [],
+     "title": "fruit salad  bowl  fruits  fruit  healthy  food  fresh  kiwi  strawberry  diet  dessert  orange  tropical  breakfast  ju",
+     "query": "gardener planting flower varieties"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Burak Bahadır  Büyükkılınç",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/craftsman-using-hand-plane-in-workshop-35170033/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V04.mp4",
+     "score": 19.3,
+     "categories": [
+      "craftsman",
+      "man",
+      "workshop"
+     ],
+     "title": "video craftsman using hand plane workshop",
+     "query": "carpenter finishing final sanding piece"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V08",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4973/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V08.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V08.mp4",
+     "score": 14.5,
+     "categories": [
+      "carpenter",
+      "construction"
+     ],
+     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
+     "query": "carpenter sanding finishing furniture"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-V09",
+     "type": "video",
+     "source": "pixabay",
+     "author": "FMFA",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-3654/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V09.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-V09.mp4",
+     "score": 12.1,
+     "categories": [
+      "man"
+     ],
+     "title": "rose  red rose  flower  blossom  bloom  rose blooms  garden rose  nature  rose flower  rose red  red  to flourish  rose ",
+     "query": "gardener planting flower varieties"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/wood-person-working-industry-6790812/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-I01.jpg",
+     "score": 19.1,
+     "categories": [
+      "carpenter",
+      "colleague",
+      "tools",
+      "workshop"
+     ],
+     "title": "Carpenter using tools in a workshop with a colleague in the background.",
+     "query": "person trying new tool technique"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Sunriseforever",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-master-architect-5181119/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-I02.jpg",
+     "score": 18.3,
+     "categories": [
+      "builder",
+      "carpenter",
+      "construction",
+      "gloves"
+     ],
+     "title": "construction  master  architect  builder  a carpenter  drill  tool  tinkering  build  to build the walls  carcass  osb  ",
+     "query": "carpenter finishing final sanding piece"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S03-I05",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Sunriseforever",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/construction-master-architect-5181118/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S03/edenrise-c2-six-needs-drives-S03-I05.jpg",
+     "score": 17.3,
+     "categories": [
+      "builder",
+      "carpenter",
+      "construction",
+      "gloves"
+     ],
+     "title": "construction  master  architect  builder  a carpenter  drill  tool  tinkering  build  to build the walls  carcass  osb  ",
+     "query": "carpenter sanding finishing furniture"
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "All six needs show up in everyday workplace behavior — certainty, variety, significance, connection, growth, contribution — woven through one working day.",
+   "visual_direction": "Montage across one working day: order and checklists, task variety, quiet mastery, human connection, learning, and generous contribution — varied dignified roles.",
+   "t": 140.0,
+   "end": 160.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-talking-on-the-phone-7816448/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V01.mp4",
+     "score": 21.9,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video woman talking the phone",
+     "query": "team day construction site sunrise"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-worker-securing-rebar-on-site-32244802/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V02.mp4",
+     "score": 22.7,
+     "categories": [
+      "construction",
+      "site",
+      "worker"
+     ],
+     "title": "video construction worker securing rebar site",
+     "query": "montage workers various trades day"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Everett Bumstead",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-using-shovels-and-wheelbarrow-5434222/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V03.mp4",
+     "score": 19.9,
+     "categories": [
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers using shovels and wheelbarrow",
+     "query": "montage workers various trades day"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V14",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/gigantic-field-of-sunflowers-on-a-sunny-day-4881/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V14.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V14.mp4",
+     "score": 11.3,
+     "categories": [],
+     "title": "gigantic field of sunflowers on a sunny day",
+     "query": "farmers group working field photo"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "adege",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-260397/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V04.mp4",
+     "score": 18.3,
+     "categories": [
+      "land"
+     ],
+     "title": "fog  sun  sunshine  mist  ripe  hoarfrost  winter's day  winter morning  sunrise  sunlight  sunbeams  fog ceiling  sea o",
+     "query": "team day construction site sunrise"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V13",
+     "type": "video",
+     "source": "pixabay",
+     "author": "D-GM",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-204006/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V13.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V13.mp4",
+     "score": 15.57,
+     "categories": [],
+     "title": "sky  clouds  fluffy  sunset  golden hour  travel  sun  4k",
+     "query": "construction crew golden hour photo"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mike Sangma",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/building-construction-timelapse-19479036/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-V05.mp4",
+     "score": 20.5,
+     "categories": [
+      "building",
+      "construction"
+     ],
+     "title": "video building construction timelapse",
+     "query": "team day construction site sunrise"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Đậu Photograph",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/teamwork-in-action-on-a-construction-site-35106289/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-I01.jpg",
+     "score": 28.9,
+     "categories": [
+      "construction",
+      "digging",
+      "outdoor",
+      "site",
+      "trench",
+      "worker"
+     ],
+     "title": "Group of workers digging foundation trenches at a construction site outdoors.",
+     "query": "team day construction site sunrise"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S08-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Ralphs_Fotos",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/housebuilding-construction-site-3370969/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S08/edenrise-c2-six-needs-drives-S08-I02.jpg",
+     "score": 28.1,
+     "categories": [
+      "building",
+      "construction",
+      "man",
+      "scaffolding",
+      "site",
+      "support"
+     ],
+     "title": "housebuilding  construction site  construction work  building  framework  house  support  shell  to build  work  maurer ",
+     "query": "montage workers various trades day"
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "Contribution: helping without being asked, teaching what you know, improving a shared space, preparing things for the next shift.",
+   "visual_direction": "Quiet generosity: helping unasked, teaching a colleague, tidying or improving a shared space, setting up tools and materials ready for the next shift.",
+   "t": 120.0,
+   "end": 140.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-V01",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40816/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-V01.mp4",
+     "score": 24.3,
+     "categories": [
+      "builder",
+      "building",
+      "man",
+      "worker",
+      "workers"
+     ],
+     "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
+     "query": "preparing tools for next shift"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Republica",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-180/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-V02.mp4",
+     "score": 17.4,
+     "categories": [
+      "colleague",
+      "colleagues",
+      "conversation"
+     ],
+     "title": "conversation  talk  dialogue  coffee  colleagues  discussion  discuss",
+     "query": "teaching colleague new skill"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/an-elderly-man-talking-to-his-colleague-8719400/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-V03.mp4",
+     "score": 25.3,
+     "categories": [
+      "colleague",
+      "man",
+      "talking"
+     ],
+     "title": "video elderly man talking his colleague",
+     "query": "worker helping colleague unasked"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yan Krukau",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-talking-to-a-woman-at-work-7640681/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-V04.mp4",
+     "score": 28.3,
+     "categories": [
+      "man",
+      "people",
+      "talking",
+      "woman"
+     ],
+     "title": "video people talking woman work",
+     "query": "worker helping colleague unasked"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-V05",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/men-with-face-masks-are-having-a-meeting-6930518/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-V05.mp4",
+     "score": 24.1,
+     "categories": [
+      "face",
+      "meeting"
+     ],
+     "title": "video men with face masks are having meeting",
+     "query": "worker helping colleague unasked"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-I07",
+     "type": "image",
+     "source": "pexels",
+     "author": "Vitaly Gariev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/elderly-potter-teaching-young-boy-in-workshop-36731486/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-I07.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-I07.jpg",
+     "score": 24.97,
+     "categories": [
+      "artisan",
+      "man",
+      "together",
+      "working",
+      "workshop"
+     ],
+     "title": "An elderly man and a child working together on clay pottery in an artisan workshop.",
+     "query": "craftsman showing apprentice technique"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Andrea Piacquadio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/foreman-teaching-apprentice-working-with-tools-3846258/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-I06.jpg",
+     "score": 25.12,
+     "categories": [
+      "apprentice",
+      "artisan",
+      "workshop"
+     ],
+     "title": "Side view of senior artisan in eyeglasses handling detail in workshop while apprentice looking at process",
+     "query": "craftsman showing apprentice technique"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S07-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "sasint",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/sunset-men-silhouettes-helping-1807524/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S07/edenrise-c2-six-needs-drives-S07-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S07/edenrise-c2-six-needs-drives-S07-I01.jpg",
+     "score": 30.9,
+     "categories": [
+      "friendship",
+      "hands",
+      "help",
+      "helping",
+      "outdoor",
+      "support"
+     ],
+     "title": "sunset  men  silhouettes  helping  helping hand  adventure  height  climbing  mountain  peak  summit  help  teamwork  su",
+     "query": "worker helping colleague unasked"
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "script_line": "Significance: some chase attention loudly. Others earn it quietly — excellent work, problems solved, no fuss.",
+   "visual_direction": "Contrast: someone performing for attention versus a quiet excellent worker solving a real problem with skill. Dignity in mastery, not noise.",
+   "t": 60.0,
+   "end": 80.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sharafat Ali Shawkat",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/bricklaying-process-on-construction-site-30037263/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V01.mp4",
+     "score": 24.44,
+     "categories": [
+      "brick",
+      "construction",
+      "site"
+     ],
+     "title": "video bricklaying process construction site",
+     "query": "mason laying brick careful precision"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sergei Starostin",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-applying-cement-to-wall-34572321/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V02.mp4",
+     "score": 25.94,
+     "categories": [
+      "construction",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers applying cement wall",
+     "query": "mason laying brick careful precision"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kost9n4",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-262188/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V03.mp4",
+     "score": 19.84,
+     "categories": [
+      "gloves"
+     ],
+     "title": "scientist  laboratory  biology  science  researcher  specimen  experiment  chemistry  research  testing  medical  precis",
+     "query": "mason laying brick careful precision"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Kost9n4",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-262187/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V04.mp4",
+     "score": 19.84,
+     "categories": [
+      "gloves"
+     ],
+     "title": "scientist  laboratory  biology  science  researcher  specimen  experiment  chemistry  research  testing  medical  precis",
+     "query": "mason laying brick careful precision"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V10",
+     "type": "video",
+     "source": "pixabay",
+     "author": "taliibaer",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-41392/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V10.mp4",
+     "score": 13.77,
+     "categories": [
+      "workshop"
+     ],
+     "title": "modeling  clay  pottery  craft  art  ceramic  handmade  workshop  potter  skill  artist  bowl  creativity  making  work ",
+     "query": "potter shaping clay wheel hands"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Luiz-Jorge-Artista",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-7376/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V05.mp4",
+     "score": 23.87,
+     "categories": [
+      "brick",
+      "building",
+      "construction",
+      "helmet",
+      "man",
+      "mason"
+     ],
+     "title": "construction  remodeling  home  apartment  constructions  tool  hammer  mason  constructor  sledgehammer  demolition  br",
+     "query": "mason laying brick careful precision"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-V11",
+     "type": "video",
+     "source": "pixabay",
+     "author": "taliibaer",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-41391/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-V11.mp4",
+     "score": 13.77,
+     "categories": [
+      "workshop"
+     ],
+     "title": "modeling  clay  pottery  craft  art  dirty  ceramic  handmade  workshop  potter  skill  artist  bowl  creativity  making",
+     "query": "potter shaping clay wheel hands"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "ranjeet .",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-is-working-on-an-electrical-panel-27928761/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-I06.jpg",
+     "score": 14.32,
+     "categories": [
+      "electrician",
+      "safety"
+     ],
+     "title": "Skilled electrician using a drill to repair electrical equipment indoors. Focus on precision and safety.",
+     "query": "electrician wiring panel neatly"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-I04",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Sid74",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/electrician-wiring-mounting-tool-3273340/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-I04.jpg",
+     "score": 18.72,
+     "categories": [
+      "building",
+      "crew",
+      "electrician",
+      "man",
+      "manual",
+      "tools"
+     ],
+     "title": "electrician  wiring  mounting  tool  tools  manual  repair  work  building  wire  screwdriver  electrician  electrician ",
+     "query": "electrician wiring panel neatly"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S04-I05",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Sid74",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/electrician-wiring-mounting-tool-3273337/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S04/edenrise-c2-six-needs-drives-S04-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S04/edenrise-c2-six-needs-drives-S04-I05.jpg",
+     "score": 18.72,
+     "categories": [
+      "building",
+      "crew",
+      "electrician",
+      "man",
+      "manual",
+      "tools"
+     ],
+     "title": "electrician  wiring  mounting  tool  tools  manual  repair  work  building  wire  screwdriver  electrician  electrician ",
+     "query": "electrician wiring panel neatly"
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "Certainty: the comfort of a checklist, a schedule, an organized space. Then a change is introduced — and the skill is calm adaptation.",
+   "visual_direction": "Order first: checklist ticked, schedule on wall, tidy organized workspace. Then a change arrives and a worker adapts calmly, re-planning without panic.",
+   "t": 20.0,
+   "end": 40.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-at-work-in-a-construction-6473950/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V01.mp4",
+     "score": 17.16,
+     "categories": [
+      "construction",
+      "man"
+     ],
+     "title": "video man work construction",
+     "query": "worker adjusting plan calmly"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V02",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Life-Of-Vids",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-2340/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V02.mp4",
+     "score": 13.67,
+     "categories": [
+      "meeting",
+      "people",
+      "talking",
+      "team",
+      "teamwork"
+     ],
+     "title": "meeting  planning  marketing  business  team  people  office  teamwork  group  discussion  business meeting  group meeti",
+     "query": "wall calendar schedule planning"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-writing-on-paper-while-talking-6631456/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V10.mp4",
+     "score": 16.47,
+     "categories": [
+      "man",
+      "talking",
+      "woman"
+     ],
+     "title": "video woman writing paper while talking",
+     "query": "farmer checking field notes clipboard"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-getting-hand-tools-7280332/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V03.mp4",
+     "score": 17.67,
+     "categories": [
+      "man",
+      "tools",
+      "woman"
+     ],
+     "title": "video woman getting hand tools",
+     "query": "tidy organized workshop shelves"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V11",
+     "type": "video",
+     "source": "pexels",
+     "author": "Anastasia  Shuraeva",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-video-of-woman-opening-a-toolbox-9606773/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V11.mp4",
+     "score": 14.07,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video close video woman opening toolbox",
+     "query": "opening organized tool drawer"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Usman AbdulrasheedGambo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V04.mp4",
+     "score": 23.46,
+     "categories": [
+      "building",
+      "construction",
+      "scaffolding",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "video construction workers inspecting building site scaffolding",
+     "query": "worker adjusting plan calmly"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40813/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-V06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-V06.mp4",
+     "score": 26.19,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "people",
+      "worker",
+      "workers"
+     ],
+     "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
+     "query": "builder checking plan tablet calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-worker-in-yellow-safety-vest-and-helmet-checking-glass-window-of-a-house-8293699/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-I05.jpg",
+     "score": 21.79,
+     "categories": [
+      "construction",
+      "worker"
+     ],
+     "title": "Construction worker with hard hat and vest inspecting window indoors, side view.",
+     "query": "builder checking plan tablet calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Burst",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/person-holding-drafting-paper-544971/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-I01.jpg",
+     "score": 18.96,
+     "categories": [
+      "construction",
+      "safety",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Construction workers in safety vests holding blueprints at a site during the day.",
+     "query": "worker adjusting plan calmly"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S02-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "José Carlos Alexandre",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/construction-workers-in-helmets-and-reflective-vests-17797264/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S02/edenrise-c2-six-needs-drives-S02-I04.jpg",
+     "score": 23.07,
+     "categories": [
+      "construction",
+      "helmet",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in helmets and vests review blueprints on a site.",
+     "query": "builder checking plan tablet calm"
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "script_line": "Know what drives you. A person pauses, reflects, writes it down — then rejoins their colleagues with clearer direction.",
+   "visual_direction": "Reflection: a person alone pausing to think and write in a notebook, then standing and rejoining colleagues warmly, direction found.",
+   "t": 160.0,
+   "end": 180.0,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "magicmore",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-171044/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V05.mp4",
+     "score": 30.41,
+     "categories": [
+      "man",
+      "outdoor",
+      "portrait",
+      "smile",
+      "smiling"
+     ],
+     "title": "man  smile  smiling  happy  male  person  outdoors  portrait",
+     "query": "colleagues greeting welcoming smiling"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-woman-writing-in-notebook-11025403/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V01.mp4",
+     "score": 15.07,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video close woman writing notebook",
+     "query": "person reflecting writing notebook quiet"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-woman-reading-notebook-11025488/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V02.mp4",
+     "score": 15.07,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video close woman reading notebook",
+     "query": "person reflecting writing notebook quiet"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-sitting-on-sofa-while-writing-on-a-notebook-6890220/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V04.mp4",
+     "score": 15.07,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman sitting sofa while writing notebook",
+     "query": "person reflecting writing notebook quiet"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V03",
+     "type": "video",
+     "source": "pixabay",
+     "author": "dem_photography",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-146632/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V03.mp4",
+     "score": 20.18,
+     "categories": [
+      "land",
+      "together"
+     ],
+     "title": "couple  beach  ocean  sea  walking  calm  travel  honeymoon  love  together  water  nature  landscape",
+     "query": "workers walking together end of day"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V10",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/stunning-sunset-seen-from-the-sea-4119/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V10.mp4",
+     "score": 15.12,
+     "categories": [],
+     "title": "stunning sunset seen from the sea",
+     "query": "team walking together sunset site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-V11",
+     "type": "video",
+     "source": "mixkit",
+     "author": "Mixkit",
+     "license": "Mixkit Free License",
+     "page_url": "https://mixkit.co/free-stock-video/bright-orange-sunset-on-beach-2168/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-V11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-V11.mp4",
+     "score": 15.12,
+     "categories": [],
+     "title": "bright orange sunset on beach",
+     "query": "team walking together sunset site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Komet Flicker",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/workers-having-a-break-20541452/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-I06.jpg",
+     "score": 24.37,
+     "categories": [
+      "construction",
+      "safety",
+      "smiling",
+      "worker",
+      "workers"
+     ],
+     "title": "Group of smiling construction workers in safety gear taking a break outside.",
+     "query": "worker sitting break thinking site"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "susanne906",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/team-woman-dog-human-portrait-4451672/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-I01.jpg",
+     "score": 23.18,
+     "categories": [
+      "man",
+      "portrait",
+      "team",
+      "teamwork",
+      "together",
+      "woman"
+     ],
+     "title": "team  woman  animal  dog  human  portrait  a dog-human team  pet  teamwork  together",
+     "query": "person rejoining team greeting"
+    },
+    {
+     "id": "edenrise-c2-six-needs-drives-S09-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-shaking-hands-doing-business-7413999/",
+     "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S09/edenrise-c2-six-needs-drives-S09-I03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-drives/previews/S09/edenrise-c2-six-needs-drives-S09-I03.jpg",
+     "score": 21.88,
+     "categories": [
+      "greeting",
+      "hands",
+      "handshake",
+      "team",
+      "teamwork"
+     ],
+     "title": "Business professionals greeting with a handshake in an office setting, promoting teamwork and cooperation.",
+     "query": "person rejoining team greeting"
+    }
+   ]
+  }
+ ]
+}
