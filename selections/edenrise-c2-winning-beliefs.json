@@ -1,7 +1,39 @@
 {
- "project": "edenrise-c2-winning-beliefs",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-c2-winning-beliefs",
+  "updated": "2026-08-18T16:34:37.445Z",
+  "ready": false,
+  "approved": {
+    "S02": [
+      "edenrise-c2-winning-beliefs-S02-V03"
+    ],
+    "S07": [
+      "edenrise-c2-winning-beliefs-S07-V02"
+    ],
+    "S05": [
+      "edenrise-c2-winning-beliefs-S05-V04"
+    ],
+    "S06": [
+      "edenrise-c2-winning-beliefs-S06-V06"
+    ],
+    "S08": [
+      "edenrise-c2-winning-beliefs-S08-V00"
+    ],
+    "S01": [
+      "edenrise-c2-winning-beliefs-S01-V06"
+    ],
+    "S04": [
+      "edenrise-c2-winning-beliefs-S04-V01"
+    ],
+    "S09": [
+      "edenrise-c2-winning-beliefs-S09-V06"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {
+    "S03": {
+      "requested": "2026-08-18T16:32:09.015Z",
+      "note": "generates more contextual videos",
+      "done": false
+    }
+  }
 }

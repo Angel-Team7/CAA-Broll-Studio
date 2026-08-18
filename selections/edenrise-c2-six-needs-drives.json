@@ -1,7 +1,43 @@
 {
- "project": "edenrise-c2-six-needs-drives",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-c2-six-needs-drives",
+  "updated": "2026-08-18T15:36:30.125Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "edenrise-c2-six-needs-drives-S01-V03"
+    ],
+    "S06": [
+      "edenrise-c2-six-needs-drives-S06-V02"
+    ],
+    "S08": [
+      "edenrise-c2-six-needs-drives-S08-V03"
+    ],
+    "S04": [
+      "edenrise-c2-six-needs-drives-S04-V01"
+    ],
+    "S02": [
+      "edenrise-c2-six-needs-drives-S02-V01"
+    ],
+    "S09": [
+      "edenrise-c2-six-needs-drives-S09-V01"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {
+    "S05": {
+      "requested": "2026-08-18T15:00:51.784Z",
+      "note": "generates more contextual videos",
+      "done": false
+    },
+    "S03": {
+      "requested": "2026-08-18T15:18:01.045Z",
+      "note": "generates more contextual videos",
+      "done": false
+    },
+    "S07": {
+      "requested": "2026-08-18T15:28:12.934Z",
+      "note": "generates more contextual videos",
+      "done": false
+    }
+  }
 }

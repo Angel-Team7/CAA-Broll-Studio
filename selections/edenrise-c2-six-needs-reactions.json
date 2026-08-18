@@ -1,7 +1,43 @@
 {
- "project": "edenrise-c2-six-needs-reactions",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-c2-six-needs-reactions",
+  "updated": "2026-08-18T16:14:39.425Z",
+  "ready": false,
+  "approved": {
+    "S01": [
+      "edenrise-c2-six-needs-reactions-S01-V04"
+    ],
+    "S02": [
+      "edenrise-c2-six-needs-reactions-S02-V08"
+    ],
+    "S03": [
+      "edenrise-c2-six-needs-reactions-S03-V05"
+    ],
+    "S06": [
+      "edenrise-c2-six-needs-reactions-S06-V02"
+    ],
+    "S07": [
+      "edenrise-c2-six-needs-reactions-S07-V03"
+    ],
+    "S08": [
+      "edenrise-c2-six-needs-reactions-S08-V11"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {
+    "S05": {
+      "requested": "2026-08-18T15:51:29.088Z",
+      "note": "generates more contextual videos",
+      "done": false
+    },
+    "S09": {
+      "requested": "2026-08-18T15:52:44.237Z",
+      "note": "generates more contextual videos",
+      "done": false
+    },
+    "S04": {
+      "requested": "2026-08-18T16:11:44.794Z",
+      "note": "generates more contextual videos",
+      "done": false
+    }
+  }
 }
