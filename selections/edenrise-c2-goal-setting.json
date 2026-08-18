@@ -1,7 +1,33 @@
 {
- "project": "edenrise-c2-goal-setting",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-c2-goal-setting",
+  "updated": "2026-08-18T10:23:05.871Z",
+  "ready": false,
+  "approved": {
+    "S06": [
+      "edenrise-c2-goal-setting-S06-V03"
+    ],
+    "S05": [
+      "edenrise-c2-goal-setting-S05-V07"
+    ],
+    "S02": [
+      "edenrise-c2-goal-setting-S02-V05"
+    ],
+    "S03": [
+      "edenrise-c2-goal-setting-S03-V15"
+    ],
+    "S01": [
+      "edenrise-c2-goal-setting-S01-V02"
+    ],
+    "S08": [
+      "edenrise-c2-goal-setting-S08-V06"
+    ],
+    "S07": [
+      "edenrise-c2-goal-setting-S07-V07"
+    ],
+    "S04": [
+      "edenrise-c2-goal-setting-S04-V08"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {}
 }
