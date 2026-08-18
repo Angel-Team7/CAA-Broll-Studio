@@ -1,7 +1,12 @@
 {
- "project": "edenrise-c2-kaizen",
- "ready": false,
- "approved": {},
- "needs_broll": {},
- "topup_requests": {}
+  "project": "edenrise-c2-kaizen",
+  "updated": "2026-08-18T13:44:37.645Z",
+  "ready": false,
+  "approved": {
+    "S04": [
+      "edenrise-c2-kaizen-S04-V12"
+    ]
+  },
+  "needs_broll": {},
+  "topup_requests": {}
 }
