@@ -1,28 +1,10 @@
 {
  "projects": [
   {
-   "slug": "lesson-above-below-line",
-   "title": "Edenrise C1 — Above / Below the Line",
-   "scenes": 14,
-   "clips": 20
-  },
-  {
-   "slug": "lesson-no-failure-feedback",
-   "title": "Edenrise C1 — No Failure, Only Feedback",
-   "scenes": 8,
-   "clips": 8
-  },
-  {
-   "slug": "communication-dont-assume-clarify-v2",
-   "title": "Edenrise C1 — Communication: Don't Assume. Clarify.",
-   "scenes": 16,
-   "clips": 93
-  },
-  {
-   "slug": "benchmark-excellence-v2",
-   "title": "Edenrise C1 — Benchmark Excellence",
-   "scenes": 15,
-   "clips": 119
+   "slug": "attention-to-detail-v2",
+   "title": "Edenrise C1 — Attention to Detail",
+   "scenes": 22,
+   "clips": 134
   },
   {
    "slug": "be-a-lifelong-learner-v2",
@@ -31,70 +13,28 @@
    "clips": 183
   },
   {
-   "slug": "extreme-ownership-v2",
-   "title": "Edenrise C1 — Extreme Ownership",
-   "scenes": 15,
-   "clips": 182
-  },
-  {
-   "slug": "attention-to-detail-v2",
-   "title": "Edenrise C1 — Attention to Detail",
-   "scenes": 22,
-   "clips": 134
-  },
-  {
-   "slug": "purpose-at-work",
-   "title": "Edenrise C2 — M1: Ultimate Purpose",
-   "scenes": 10,
-   "clips": 118
-  },
-  {
-   "slug": "edenrise-c2-goal-setting",
-   "title": "Edenrise C2 — M2: Goal Setting",
-   "scenes": 8,
-   "clips": 80
-  },
-  {
-   "slug": "edenrise-c2-kaizen",
-   "title": "Edenrise C2 — M3: Always Find a Better Way (Kaizen)",
-   "scenes": 8,
-   "clips": 80
-  },
-  {
-   "slug": "edenrise-c2-six-needs-drives",
-   "title": "Edenrise C2 — M4: Six Needs — Know What Drives You",
-   "scenes": 9,
-   "clips": 86
-  },
-  {
-   "slug": "edenrise-c2-six-needs-reactions",
-   "title": "Edenrise C2 — M5: Six Needs — Master Your Reactions",
-   "scenes": 9,
-   "clips": 72
-  },
-  {
-   "slug": "edenrise-c2-winning-beliefs",
-   "title": "Edenrise C2 — M6: Winning Beliefs",
-   "scenes": 9,
-   "clips": 90
-  },
-  {
-   "slug": "edenrise-gratitude",
-   "title": "Edenrise — The Power of Gratitude",
-   "scenes": 17,
-   "clips": 288
-  },
-  {
-   "slug": "edenrise-builders-pool",
-   "title": "Edenrise — Builders Pool",
-   "scenes": 11,
-   "clips": 237
-  },
-  {
    "slug": "belong-module1",
    "title": "Belong — Module 1: My Story & Craveiral",
    "scenes": 10,
    "clips": 53
+  },
+  {
+   "slug": "belong-module10",
+   "title": "Belong — Module 10: Daily Sustainability",
+   "scenes": 13,
+   "clips": 164
+  },
+  {
+   "slug": "belong-module11",
+   "title": "Belong — Module 11: The Craveiral Voice",
+   "scenes": 10,
+   "clips": 80
+  },
+  {
+   "slug": "belong-module12",
+   "title": "Belong — Module 12: Leadership & Team",
+   "scenes": 10,
+   "clips": 94
   },
   {
    "slug": "belong-module2",
@@ -151,22 +91,82 @@
    "clips": 218
   },
   {
-   "slug": "belong-module10",
-   "title": "Belong — Module 10: Daily Sustainability",
-   "scenes": 13,
-   "clips": 164
+   "slug": "benchmark-excellence-v2",
+   "title": "Edenrise C1 — Benchmark Excellence",
+   "scenes": 15,
+   "clips": 119
   },
   {
-   "slug": "belong-module11",
-   "title": "Belong — Module 11: The Craveiral Voice",
-   "scenes": 10,
+   "slug": "communication-dont-assume-clarify-v2",
+   "title": "Edenrise C1 — Communication: Don't Assume. Clarify.",
+   "scenes": 16,
+   "clips": 93
+  },
+  {
+   "slug": "edenrise-builders-pool",
+   "title": "Edenrise — Builders Pool",
+   "scenes": 11,
+   "clips": 237
+  },
+  {
+   "slug": "edenrise-c2-goal-setting",
+   "title": "Edenrise C2 — M2: Goal Setting",
+   "scenes": 8,
    "clips": 80
   },
   {
-   "slug": "belong-module12",
-   "title": "Belong — Module 12: Leadership & Team",
+   "slug": "edenrise-c2-kaizen",
+   "title": "Edenrise C2 — M3: Always Find a Better Way (Kaizen)",
+   "scenes": 8,
+   "clips": 104
+  },
+  {
+   "slug": "edenrise-c2-six-needs-drives",
+   "title": "Edenrise C2 — M4: Six Needs — Know What Drives You",
+   "scenes": 9,
+   "clips": 86
+  },
+  {
+   "slug": "edenrise-c2-six-needs-reactions",
+   "title": "Edenrise C2 — M5: Six Needs — Master Your Reactions",
+   "scenes": 9,
+   "clips": 72
+  },
+  {
+   "slug": "edenrise-c2-winning-beliefs",
+   "title": "Edenrise C2 — M6: Winning Beliefs",
+   "scenes": 9,
+   "clips": 90
+  },
+  {
+   "slug": "edenrise-gratitude",
+   "title": "Edenrise — The Power of Gratitude",
+   "scenes": 17,
+   "clips": 288
+  },
+  {
+   "slug": "extreme-ownership-v2",
+   "title": "Edenrise C1 — Extreme Ownership",
+   "scenes": 15,
+   "clips": 182
+  },
+  {
+   "slug": "lesson-above-below-line",
+   "title": "Edenrise C1 — Above / Below the Line",
+   "scenes": 14,
+   "clips": 20
+  },
+  {
+   "slug": "lesson-no-failure-feedback",
+   "title": "Edenrise C1 — No Failure, Only Feedback",
+   "scenes": 8,
+   "clips": 8
+  },
+  {
+   "slug": "purpose-at-work",
+   "title": "Edenrise C2 — M1: Ultimate Purpose",
    "scenes": 10,
-   "clips": 94
+   "clips": 118
   }
  ]
 }

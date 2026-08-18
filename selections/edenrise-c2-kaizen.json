@@ -33,12 +33,12 @@
     "S05": {
       "requested": "2026-08-18T14:22:28.685Z",
       "note": "generates more contextual",
-      "done": false
+      "done": true
     },
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vídeo",
-      "done": false
+      "note": "generates more contextual v\u00eddeo",
+      "done": true
     }
   }
 }
