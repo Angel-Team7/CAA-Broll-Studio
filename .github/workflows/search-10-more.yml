@@ -1,0 +1,87 @@
+name: Search 10 more
+
+# Fires when the cockpit commits a top-up request (the üîé button), and can be
+# run by hand from the Actions tab. Never fires on its own commits.
+on:
+  push:
+    branches: [main]
+    paths: ['selections/**.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search-10-more        # queue runs; never let two rewrite scenes.json at once
+  cancel-in-progress: false
+
+jobs:
+  topup:
+    if: "!contains(github.event.head_commit.message, '[topup-bot]')"
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout (sparse ‚Äî the repo is ~2 GB of previews)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            selections
+            tools
+            .github
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --quiet requests
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Fetch fresh candidates
+        id: bot
+        env:
+          PEXELS_API_KEY:  ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          COVERR_API_KEY:  ${{ secrets.COVERR_API_KEY }}
+          TOPUP_VIDEOS: '10'
+        run: |
+          python tools/topup_bot.py | tee /tmp/bot.log
+          echo "added=$(grep -oP 'TOTAL_ADDED=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.bot.outputs.added != '0'
+        run: |
+          git config user.name  "broll-bot"
+          git config user.email "bot@edenrise.com"
+          git add selections projects
+          git commit -m "[topup-bot] Search 10 more: +${{ steps.bot.outputs.added }} candidates"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then echo "pushed"; exit 0; fi
+            echo "push rejected ‚Äî rebasing on origin/main (attempt $i)"
+            git fetch origin main && git rebase origin/main || git rebase --abort
+            sleep $((i * 5))
+          done
+          echo "::error::could not push after 5 attempts"; exit 1
+
+      - name: Summary
+        run: |
+          {
+            echo "### Search 10 more"
+            echo ""
+            if [ "${{ steps.bot.outputs.added }}" = "0" ]; then
+              echo "No pending requests, or no new candidates were found."
+            else
+              echo "Added **${{ steps.bot.outputs.added }}** fresh video candidates."
+              echo ""
+              echo "They appear on the cockpit card once GitHub Pages rebuilds (a few minutes)."
+              echo "New clips carry a **NEW** badge until you approve or replace them."
+            fi
+            echo ""
+            echo '```'
+            tail -40 /tmp/bot.log 2>/dev/null || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
