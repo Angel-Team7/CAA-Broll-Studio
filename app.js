@@ -129,9 +129,9 @@ function render() {
         </div>
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
-          <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Needs different"}</button>
+          <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Direction is wrong"}</button>
           <button class="topup ${sc.id in (state.topup||{}) ? "on" : ""}" data-scene="${sc.id}"
-            title="Queue another 10 fresh clips for this shot — excludes everything already shown">${sc.id in (state.topup||{}) ? "🔎 10 more queued" : "🔎 Search 10 more"}</button>
+            title="Queue another 10 fresh clips for this shot — excludes everything already shown">${sc.id in (state.topup||{}) ? "🔎 10 more queued" : "🔎 Need more"}</button>
           <button class="addbroll" data-scene="${sc.id}" title="Upload a video or image — or drag &amp; drop files here">＋ Add B-roll</button>
           <div class="drophint">or drag &amp; drop files here</div>
         </div>
@@ -205,7 +205,7 @@ function toggleReshoot(sid) {
 // without a save step. Everything already shown here is excluded, so a second
 // round is genuinely NEW footage, never a reshuffle of the same pool.
 // No prompt on purpose: this button means "more of this kind". When the
-// DIRECTION is wrong, use 🔁 Needs different instead — that one takes a reason.
+// DIRECTION is wrong, use 🔁 Direction is wrong instead — that one takes a reason.
 async function requestTopup(sid) {
   state.topup = state.topup || {};
   if (sid in state.topup) {

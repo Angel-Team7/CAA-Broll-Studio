@@ -15,6 +15,81 @@ green screen, wildlife, sewing factories, corporate/office stock.
 import json, os, pathlib, re, subprocess, sys, tempfile, time
 import requests
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from build_library import classify, toks, VOCAB, facet, SCALE, PEOPLE
+
+LIBRARY_MAX_SHARE = float(os.environ.get("TOPUP_LIBRARY_SHARE", "0.4"))
+LIBRARY_URL = os.environ.get(
+    "LIBRARY_URL",
+    "https://raw.githubusercontent.com/Angel-Team7/CAA-Broll-Studio/main/library/index.json")
+
+
+def load_library():
+    """The stock we already own. Reusing one of these costs no download and no
+    transcode — its preview is already committed to this repo."""
+    local = ROOT / "library" / "index.json"
+    try:
+        if local.exists():
+            return json.load(open(local))["assets"]
+        r = requests.get(LIBRARY_URL, timeout=60)
+        r.raise_for_status()
+        return r.json()["assets"]
+    except Exception as e:
+        print(f"  ! library unavailable ({str(e)[:60]}) — going straight to the sources")
+        return []
+
+
+def scene_facets(scene, note):
+    qs = " ".join((c.get("query") or "") for c in scene.get("clips", [])[:20])
+    text = " ".join([scene.get("visual_direction", ""), scene.get("script_line", ""),
+                     note or "", qs])
+    t = toks(text)
+    return {
+        "subjects": facet(t, VOCAB["subjects"]),
+        "actions": facet(t, VOCAB["actions"]),
+        "setting": facet(t, VOCAB["setting"]),
+        "tokens": t,
+    }
+
+
+def library_picks(scene, note, brand, seen, want):
+    """Score owned footage against this beat. Facets first (what it shows), then
+    raw word overlap as a tiebreak. Anything already on this card is excluded."""
+    assets = load_library()
+    if not assets:
+        return []
+    want_f = scene_facets(scene, note)
+    scored = []
+    for a in assets:
+        if a.get("type") != "video":
+            continue
+        if a["key"] in seen or (a.get("page_url") or "").rstrip("/") in seen:
+            continue
+        if not a.get("preview"):
+            continue
+        if blocked(f"{a.get('title','')} {a.get('query','')}", brand):
+            continue
+        act_hits = len(set(a.get("actions", [])) & set(want_f["actions"]))
+        if not act_hits:
+            continue            # the VERB is the meaning. Matching "worker + site"
+                                # without it is how generic footage gets in.
+        sc = 0
+        sc += 3 * len(set(a.get("subjects", [])) & set(want_f["subjects"]))
+        sc += 4 * act_hits
+        sc += 2 * len(set(a.get("setting", [])) & set(want_f["setting"]))
+        facet_hits = sc                   # subjects/actions/setting only, so far
+        sc += min(6, len(set(a.get("tags", [])) & want_f["tokens"]))
+        if a.get("brand") == brand:
+            sc += 1                       # same client's world, gentle preference
+        used = len(a.get("used_in", []))
+        sc -= min(3, max(0, used - 1))     # spread the load; no clip everywhere
+        # must genuinely depict the beat, not merely share vocabulary
+        if facet_hits >= 5 and sc >= 8:
+            scored.append((sc, a))
+    scored.sort(key=lambda x: -x[0])
+    return [a for _, a in scored[:want]]
+
+
 ROOT = pathlib.Path(os.environ.get("TOPUP_ROOT")
                     or pathlib.Path(__file__).resolve().parent.parent)
 TIMEOUT = 30
@@ -284,12 +359,20 @@ def run_scene(slug, scene_id, note, profile):
         return 0
 
     seen = seen_keys(card)
+
+    # 1) shop our own shelves first — instant, free, and it builds continuity
+    from_lib = library_picks(scene, note, profile, seen,
+                             max(1, int(WANT_VIDEOS * LIBRARY_MAX_SHARE)))
+    need_web = WANT_VIDEOS - len(from_lib)
+    if from_lib:
+        print(f"  library: {len(from_lib)} owned clip(s) fit this beat")
     qs = queries_for(scene, note)
     print(f"  queries: {qs[:6]}{'…' if len(qs) > 6 else ''}")
 
     # start deep enough in the result pages that we are not re-offering page 1
     start_page = 1 + max(1, len(scene.get("clips", [])) // 8)
     picks, tried = [], set()
+    WEB_TARGET = max(0, need_web)
     # collect per source first, then round-robin so one library cannot fill the
     # whole batch — variety of look matters as much as count
     buckets = {}
@@ -297,7 +380,7 @@ def run_scene(slug, scene_id, note, profile):
         for q in qs:
             for src in SOURCES:
                 name = src.__name__.replace("search_", "")
-                if len(buckets.get(name, [])) >= WANT_VIDEOS:
+                if len(buckets.get(name, [])) >= WEB_TARGET:
                     continue
                 for c in src(q, page):
                     key = f"{c['source']}:{c['src_id']}"
@@ -316,20 +399,20 @@ def run_scene(slug, scene_id, note, profile):
                     if c.get("duration") and c["duration"] > 180:
                         continue
                     buckets.setdefault(name, []).append(c)
-            if sum(len(v) for v in buckets.values()) >= WANT_VIDEOS * 2:
+            if sum(len(v) for v in buckets.values()) >= WEB_TARGET * 2:
                 break
-        if sum(len(v) for v in buckets.values()) >= WANT_VIDEOS * 2:
+        if sum(len(v) for v in buckets.values()) >= WEB_TARGET * 2:
             break
     order = [n for n in ("pexels", "pixabay", "coverr", "wikimedia") if buckets.get(n)]
-    while order and len(picks) < WANT_VIDEOS:
+    while order and len(picks) < WEB_TARGET:
         for name in list(order):
             if not buckets[name]:
                 order.remove(name); continue
             picks.append(buckets[name].pop(0))
-            if len(picks) >= WANT_VIDEOS:
+            if len(picks) >= WEB_TARGET:
                 break
 
-    if not picks:
+    if not picks and not from_lib:
         print("  ! nothing new found")
         return 0
 
@@ -340,6 +423,24 @@ def run_scene(slug, scene_id, note, profile):
 
     idx = next_index(scene, "V")
     added, credits = 0, []
+
+    # library hits cost nothing: the preview and thumb are already committed here,
+    # so we just point a new card entry at the files we already own.
+    for a in from_lib:
+        stem = f"{slug}-{scene_id}-V{idx:02d}"
+        scene.setdefault("clips", []).append({
+            "id": stem, "type": "video", "source": a["source"],
+            "author": a.get("author", ""), "license": a.get("license", ""),
+            "page_url": a.get("page_url", ""),
+            "thumb": a.get("thumb", ""), "preview": a.get("preview", ""),
+            "score": 0, "categories": a.get("subjects", []),
+            "title": a.get("title", ""), "query": a.get("query", ""),
+            "src_id": a.get("src_id", ""), "download_url": a.get("download_url", ""),
+            "fresh": True, "added_by": "library",
+        })
+        credits.append(credit_line({**a, "license": a.get("license", "")}))
+        idx += 1
+        added += 1
     with tempfile.TemporaryDirectory() as td:
         for c in picks:
             stem = f"{slug}-{scene_id}-V{idx:02d}"
