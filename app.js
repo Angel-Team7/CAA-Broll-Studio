@@ -200,24 +200,33 @@ function toggleReshoot(sid) {
   render();
 }
 
-// Queue another 10 fresh clips for one shot. The factory reads topup_requests and runs
-// `broll_factory.py topup --scene <id>`, which excludes every asset already shown here —
-// so a second round is genuinely NEW footage, never a reshuffle of the same pool.
-function requestTopup(sid) {
+// One click = 10 more. Fires the GitHub Action immediately (it watches
+// selections/*.json), so fresh candidates land on this card in a few minutes
+// without a save step. Everything already shown here is excluded, so a second
+// round is genuinely NEW footage, never a reshuffle of the same pool.
+// No prompt on purpose: this button means "more of this kind". When the
+// DIRECTION is wrong, use 🔁 Needs different instead — that one takes a reason.
+async function requestTopup(sid) {
   state.topup = state.topup || {};
   if (sid in state.topup) {
     delete state.topup[sid];
-  } else {
-    const note = prompt(
-      `Search 10 more for ${sid}. What should the new footage show?\n` +
-      `(optional — e.g. "more hands-in-soil, less plated food")`, "");
-    if (note === null) return;                  // cancelled
-    state.topup[sid] = { requested: new Date().toISOString(), note: note.trim(), done: false };
+    persistLocal(); render();
+    toast(`${sid}: request removed`);
+    return;
   }
-  persistLocal();
-  render();
-  toast(sid in state.topup ? `${sid}: 10 more queued — save to send it to the factory`
-                           : `${sid}: request removed`);
+  state.topup[sid] = { requested: new Date().toISOString(), note: "", done: false };
+  persistLocal(); render();
+  if (gh && gh.token) {
+    toast(`${sid}: fetching 10 more…`);
+    try {
+      await save(false);
+      toast(`${sid}: 10 more on the way — refresh in ~5 min`);
+    } catch (e) {
+      toast(`${sid}: queued, but saving failed — hit Save approvals`);
+    }
+  } else {
+    toast(`${sid}: queued — connect GitHub or hit Save approvals to send it`);
+  }
 }
 
 function updateStat() {
