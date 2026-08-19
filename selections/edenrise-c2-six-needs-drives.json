@@ -27,17 +27,17 @@
     "S05": {
       "requested": "2026-08-18T15:00:51.784Z",
       "note": "generates more contextual videos",
-      "done": false
+      "done": true
     },
     "S03": {
       "requested": "2026-08-18T15:18:01.045Z",
       "note": "generates more contextual videos",
-      "done": false
+      "done": true
     },
     "S07": {
       "requested": "2026-08-18T15:28:12.934Z",
       "note": "generates more contextual videos",
-      "done": false
+      "done": true
     }
   }
 }
