@@ -92,3 +92,5 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .topup{font-size:12px;padding:5px 10px;white-space:nowrap;color:var(--muted)}
 .topup:hover{border-color:#3f8ea3;color:#7fd0e3}
 .topup.on{background:#12313a;border-color:#3f8ea3;color:#7fd0e3;font-weight:600}
+
+.srcbadge.src-fresh{background:#1c7c3f;color:#eafff0;}

@@ -164,10 +164,11 @@ function card(sid, c, on) {
   const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
   const srcTag = SRC_LABEL[c.source]
     ? `<span class="srcbadge src-${c.source}">${SRC_LABEL[c.source]}</span>` : "";
+  const freshTag = c.fresh ? `<span class="srcbadge src-fresh">NEW</span>` : "";
   const note = c.note ? `<div class="clip-note">${esc(c.note)}</div>` : "";
   return `<div class="card ${on ? "on" : ""} type-${c.type === "video" ? "vid" : "img"}"
       data-id="${c.id}" data-scene="${sid}">
-    <div class="media"><span class="badge">${c.type}</span>${srcTag}<span class="tick">✓</span>${media}</div>
+    <div class="media"><span class="badge">${c.type}</span>${srcTag}${freshTag}<span class="tick">✓</span>${media}</div>
     ${note}
     <div class="foot"><span>${src}</span><span class="lic">${esc(c.license || "")}</span></div>
   </div>`;
