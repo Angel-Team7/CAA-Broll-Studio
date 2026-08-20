@@ -426,51 +426,56 @@ async function ghPutBinary(path, b64content, message) {
   }
 }
 
-async function connectGitHub() {
+function openConnect() {
   const cur = gh || {};
-  const dlg = $("#connectdlg"), msg = $("#c_msg");
   $("#c_owner").value = cur.owner || "Angel-Team7";
   $("#c_repo").value = cur.repo || "CAA-Broll-Studio";
   $("#c_branch").value = cur.branch || "main";
   $("#c_token").value = "";
-  msg.textContent = ""; msg.className = "cmsg";
-  dlg.hidden = false;
-  $("#c_token").focus();
-
-  $("#c_cancel").onclick = () => { dlg.hidden = true; };
-  $("#c_go").onclick = async () => {
-    const owner = $("#c_owner").value.trim(), repo = $("#c_repo").value.trim();
-    const branch = $("#c_branch").value.trim() || "main";
-    // strip anything a paste may have dragged along (quotes, spaces, newlines)
-    const token = $("#c_token").value.replace(/[\s"']/g, "");
-    if (!owner || !repo) { msg.className = "cmsg err"; msg.textContent = "Owner and repository are required."; return; }
-    if (!token) { msg.className = "cmsg err"; msg.textContent = "No key pasted — tap the box and paste it."; return; }
-    if (!/^gh[ps]_|^github_pat_/.test(token)) {
-      msg.className = "cmsg err";
-      msg.textContent = "That does not look like a GitHub key (it should start with github_pat_). Paste the whole string.";
-      return;
-    }
-    msg.className = "cmsg busy"; msg.textContent = `Checking… (key length ${token.length})`;
-    try {
-      const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/projects.json`,
-        { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } });
-      if (r.status === 401) { msg.className = "cmsg err"; msg.textContent = "Key rejected (401) — expired, or only part of it was pasted."; return; }
-      if (r.status === 404) { msg.className = "cmsg err"; msg.textContent = `Cannot see ${owner}/${repo} (404) — check the key lists this repository.`; return; }
-      if (!r.ok) { msg.className = "cmsg err"; msg.textContent = `GitHub said ${r.status}.`; return; }
-    } catch (e) { msg.className = "cmsg err"; msg.textContent = "Could not reach GitHub: " + e.message; return; }
-
-    try {
-      localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
-      if (!localStorage.getItem("gh")) throw new Error("blocked");
-    } catch (e) {
-      msg.className = "cmsg err";
-      msg.textContent = "This browser blocks storage (Private Browsing?). Open a normal tab and try again.";
-      return;
-    }
-    msg.className = "cmsg ok"; msg.textContent = "Connected ✓ reloading…";
-    setTimeout(() => location.reload(), 700);
-  };
+  const msg = $("#c_msg"); msg.textContent = ""; msg.className = "cmsg";
+  $("#connectdlg").hidden = false;
 }
+const connectGitHub = openConnect;
+
+async function doConnect() {
+  const msg = $("#c_msg");
+  const owner = $("#c_owner").value.trim(), repo = $("#c_repo").value.trim();
+  const branch = $("#c_branch").value.trim() || "main";
+  const token = $("#c_token").value.replace(/[\s"']/g, "");
+  const fail = m => { msg.className = "cmsg err"; msg.textContent = m; };
+  if (!owner || !repo) return fail("Owner and repository are required.");
+  if (!token) return fail("No key pasted — tap the box and paste it.");
+  if (!/^gh[ps]_|^github_pat_/.test(token))
+    return fail("That does not look like a GitHub key — paste the whole github_pat_… string.");
+
+  msg.className = "cmsg busy"; msg.textContent = `Checking… (key length ${token.length})`;
+  try {
+    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/projects.json`,
+      { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } });
+    if (r.status === 401) return fail("Key rejected (401) — expired, or only part of it pasted.");
+    if (r.status === 404) return fail(`Cannot see ${owner}/${repo} (404) — check the key lists this repository.`);
+    if (!r.ok) return fail(`GitHub said ${r.status}.`);
+  } catch (e) { return fail("Could not reach GitHub: " + e.message); }
+
+  try {
+    localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
+    if (!localStorage.getItem("gh")) throw new Error("blocked");
+  } catch (e) {
+    return fail("This browser blocks storage (Private Browsing?). Use a normal tab.");
+  }
+  msg.className = "cmsg ok"; msg.textContent = "Connected ✓ reloading…";
+  setTimeout(() => location.reload(), 700);
+}
+
+// Bound once at load — a form that is on screen must always respond, whatever
+// path put it there.
+document.addEventListener("DOMContentLoaded", () => {
+  const go = document.getElementById("c_go"), cancel = document.getElementById("c_cancel");
+  if (go) go.addEventListener("click", doConnect);
+  if (cancel) cancel.addEventListener("click", () => { document.getElementById("connectdlg").hidden = true; });
+  const dlg = document.getElementById("connectdlg");
+  if (dlg) dlg.hidden = true;
+});
 
 // ---- utils ----
 const esc = s => (s || "").replace(/[&<>"]/g, m => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[m]));

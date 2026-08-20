@@ -100,6 +100,7 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .localwarn{display:block;margin-top:6px;padding:6px 10px;border-radius:6px;
   background:#3d2b00;color:#ffd479;font-size:12.5px;}
 
+.dlg[hidden]{display:none !important;}
 .dlg{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;
   justify-content:center;z-index:99;padding:16px;}
 .dlgbox{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:18px;
