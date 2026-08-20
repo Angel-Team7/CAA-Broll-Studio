@@ -37,13 +37,15 @@
     },
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vídeo",
+      "note": "generates more contextual v\u00eddeo",
       "done": true
     },
     "S08": {
       "requested": "2026-08-20T11:41:17.914Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-20T11:42:29Z",
+      "added": 10
     }
   }
 }
