@@ -428,35 +428,48 @@ async function ghPutBinary(path, b64content, message) {
 
 async function connectGitHub() {
   const cur = gh || {};
-  const owner = (prompt("GitHub owner (user/org):", cur.owner || "Angel-Team7") || "").trim();
-  if (!owner) return;
-  const repo = (prompt("Repo name:", cur.repo || "CAA-Broll-Studio") || "").trim();
-  if (!repo) return;
-  const branch = (prompt("Branch:", cur.branch || "main") || "main").trim();
-  const token = (prompt("Access key (paste it here):") || "").trim();
-  if (!token) { alert("No key pasted — still saving locally only."); return; }
+  const dlg = $("#connectdlg"), msg = $("#c_msg");
+  $("#c_owner").value = cur.owner || "Angel-Team7";
+  $("#c_repo").value = cur.repo || "CAA-Broll-Studio";
+  $("#c_branch").value = cur.branch || "main";
+  $("#c_token").value = "";
+  msg.textContent = ""; msg.className = "cmsg";
+  dlg.hidden = false;
+  $("#c_token").focus();
 
-  // Verify before trusting it. A silent failure here is what leaves someone
-  // ticking clips for an hour that never reach the repo.
-  toast("Checking your access key…");
-  try {
-    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/projects.json`,
-      { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } });
-    if (r.status === 401) { alert("That key was rejected (401).\n\nIt may be mistyped, expired, or only partly pasted. Generate a new one and paste the whole github_pat_… string."); return; }
-    if (r.status === 404) { alert(`Cannot see ${owner}/${repo} (404).\n\nCheck the owner and repo spelling, and that the key lists this repository under "Only select repositories".`); return; }
-    if (!r.ok) { alert(`GitHub said ${r.status}. Not connected.`); return; }
-  } catch (e) {
-    alert("Could not reach GitHub: " + e.message); return;
-  }
+  $("#c_cancel").onclick = () => { dlg.hidden = true; };
+  $("#c_go").onclick = async () => {
+    const owner = $("#c_owner").value.trim(), repo = $("#c_repo").value.trim();
+    const branch = $("#c_branch").value.trim() || "main";
+    // strip anything a paste may have dragged along (quotes, spaces, newlines)
+    const token = $("#c_token").value.replace(/[\s"']/g, "");
+    if (!owner || !repo) { msg.className = "cmsg err"; msg.textContent = "Owner and repository are required."; return; }
+    if (!token) { msg.className = "cmsg err"; msg.textContent = "No key pasted — tap the box and paste it."; return; }
+    if (!/^gh[ps]_|^github_pat_/.test(token)) {
+      msg.className = "cmsg err";
+      msg.textContent = "That does not look like a GitHub key (it should start with github_pat_). Paste the whole string.";
+      return;
+    }
+    msg.className = "cmsg busy"; msg.textContent = `Checking… (key length ${token.length})`;
+    try {
+      const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/projects.json`,
+        { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } });
+      if (r.status === 401) { msg.className = "cmsg err"; msg.textContent = "Key rejected (401) — expired, or only part of it was pasted."; return; }
+      if (r.status === 404) { msg.className = "cmsg err"; msg.textContent = `Cannot see ${owner}/${repo} (404) — check the key lists this repository.`; return; }
+      if (!r.ok) { msg.className = "cmsg err"; msg.textContent = `GitHub said ${r.status}.`; return; }
+    } catch (e) { msg.className = "cmsg err"; msg.textContent = "Could not reach GitHub: " + e.message; return; }
 
-  try {
-    localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
-    if (!localStorage.getItem("gh")) throw new Error("storage blocked");
-  } catch (e) {
-    alert("This browser is blocking storage — usually Private Browsing.\n\nOpen the cockpit in a normal (non-private) tab and connect again."); return;
-  }
-  alert("Connected ✓ Your ticks will now save straight to the repo.");
-  location.reload();
+    try {
+      localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
+      if (!localStorage.getItem("gh")) throw new Error("blocked");
+    } catch (e) {
+      msg.className = "cmsg err";
+      msg.textContent = "This browser blocks storage (Private Browsing?). Open a normal tab and try again.";
+      return;
+    }
+    msg.className = "cmsg ok"; msg.textContent = "Connected ✓ reloading…";
+    setTimeout(() => location.reload(), 700);
+  };
 }
 
 // ---- utils ----

@@ -31,5 +31,24 @@
 
 <div id="toast" class="toast"></div>
 <script src="app.js"></script>
+
+  <div id="connectdlg" class="dlg" hidden>
+    <div class="dlgbox">
+      <h3>Connect this device</h3>
+      <p class="muted">Paste the access key so your ticks save straight to the repo.
+         Stored only in this browser.</p>
+      <label>Owner<input id="c_owner" value="Angel-Team7" autocapitalize="off" autocorrect="off" spellcheck="false"></label>
+      <label>Repository<input id="c_repo" value="CAA-Broll-Studio" autocapitalize="off" autocorrect="off" spellcheck="false"></label>
+      <label>Branch<input id="c_branch" value="main" autocapitalize="off" autocorrect="off" spellcheck="false"></label>
+      <label>Access key
+        <textarea id="c_token" rows="3" placeholder="github_pat_…"
+          autocapitalize="off" autocorrect="off" spellcheck="false"></textarea></label>
+      <p id="c_msg" class="cmsg"></p>
+      <div class="dlgrow">
+        <button id="c_cancel" class="link">Cancel</button>
+        <button id="c_go" class="primary">Connect</button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
