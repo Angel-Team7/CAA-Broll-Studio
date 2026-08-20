@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-winning-beliefs",
-  "updated": "2026-08-18T16:34:37.445Z",
+  "updated": "2026-08-20T12:32:43.262Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -31,9 +31,9 @@
   "needs_broll": {},
   "topup_requests": {
     "S03": {
-      "requested": "2026-08-18T16:32:09.015Z",
-      "note": "generates more contextual videos",
-      "done": true
+      "requested": "2026-08-20T12:32:43.235Z",
+      "note": "",
+      "done": false
     }
   }
 }
