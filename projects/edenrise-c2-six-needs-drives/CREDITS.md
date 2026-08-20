@@ -32,3 +32,13 @@
 | pixabay | fields  corn  farming  cob  food  nature  harvest  cornfield | elioavila | Pixabay Content License | https://pixabay.com/videos/id-268554/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-woman-checking-on-the-plants-6508925/ |
 | pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pexels | video young man helping elderly | Kampus Production | Pexels License | https://www.pexels.com/video/a-young-man-helping-an-elderly-7517702/ |
+| pixabay | woman  fast food  workshop  safety  convenience  lifestyle   | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-130651/ |
+| pexels | video woman teaching man while wearing goggles | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-teaching-a-man-while-wearing-goggles-9431322/ |
+| pexels | video male professor helping his students | Yan Krukau | Pexels License | https://www.pexels.com/video/male-professor-helping-his-students-8199374/ |
+| pexels |  | binary Ego | Pexels License | https://www.pexels.com/video/a-barman-placing-an-empty-glass-on-the-counter-14058797/ |
+| pixabay | man  fabric  cutter  knives  cutting table  tool  work  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115788/ |
+| pexels |  | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/industrial-metal-grinding-with-sparks-30456163/ |
+| pixabay | drill  board  hole  repair  construction  square  carpenter  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4974/ |
+| pexels |  | 23  Audiovisual | Pexels License | https://www.pexels.com/video/aerial-view-of-construction-site-with-heavy-machinery-38895155/ |
+| pixabay | cooking  rice  dumplings  asian  chinese  recipe  bamboo  pa | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11562/ |

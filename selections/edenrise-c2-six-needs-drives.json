@@ -40,7 +40,9 @@
     "S07": {
       "requested": "2026-08-20T12:24:05.991Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-20T12:25:02Z",
+      "added": 10
     }
   }
 }
