@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S03",
-   "script_line": "A guest who complains is giving us two things. Information — something in our operation is broken, and now we know. And a second chance — because the guest who complains to us is the guest who still wants the stay to wor",
-   "visual_direction": "A complaint is a gift — information, and a second chance",
+   "script_line": "A guest who complains is giving us two things. Information \u2014 something in our operation is broken, and now we know. And a second chance \u2014 because the guest who complains to us is the guest who still wants the stay to wor",
+   "visual_direction": "A complaint is a gift \u2014 information, and a second chance",
    "t": 34.73,
    "end": 67.7,
    "quota": {
@@ -295,7 +295,7 @@
      "categories": [
       "hospitality"
      ],
-     "title": "Smiling barista in café, engaging positively with customer, signifying hospitality.",
+     "title": "Smiling barista in caf\u00e9, engaging positively with customer, signifying hospitality.",
      "query": "restaurant manager apologizing to customer"
     },
     {
@@ -336,7 +336,7 @@
   {
    "id": "S12",
    "script_line": "I understand this ruined your morning is true even when we did nothing wrong. Second: you never have to accept abuse. Rudeness we absorb professionally; genuine aggression toward the team we do not. If a guest crosses th",
-   "visual_direction": "Reviews — read the harsh ones, respond always with class",
+   "visual_direction": "Reviews \u2014 read the harsh ones, respond always with class",
    "t": 235.25,
    "end": 261.25,
    "quota": {
@@ -1005,7 +1005,7 @@
   {
    "id": "S01",
    "script_line": "Let's talk about the moments nobody puts on Instagram. The complaint at the front desk. The dish sent back. The guest who arrives already angry. The review that stings.",
-   "visual_direction": "The moments nobody photographs — the complaint at the desk, the dish sent back",
+   "visual_direction": "The moments nobody photographs \u2014 the complaint at the desk, the dish sent back",
    "t": 0.0,
    "end": 12.59,
    "quota": {
@@ -1171,8 +1171,8 @@
   },
   {
    "id": "S07",
-   "script_line": "I'm sorry, but — erases the apology. If there's context to explain, it can come later, once things are calm. Fix it — bigger than expected. And here's a rule I'll come back to in the final module: you have autonomy. The ",
-   "visual_direction": "Never say but — it erases the apology",
+   "script_line": "I'm sorry, but \u2014 erases the apology. If there's context to explain, it can come later, once things are calm. Fix it \u2014 bigger than expected. And here's a rule I'll come back to in the final module: you have autonomy. The ",
+   "visual_direction": "Never say but \u2014 it erases the apology",
    "t": 123.04,
    "end": 143.19,
    "quota": {
@@ -1354,7 +1354,7 @@
      "preview": "projects/belong-module9/previews/S07/belong-m9-S07-I01.jpg",
      "score": 11.17,
      "categories": [],
-     "title": "Two business professionals engage in a serious conversation while seated in a modern café.",
+     "title": "Two business professionals engage in a serious conversation while seated in a modern caf\u00e9.",
      "query": "serious discussion table"
     },
     {
@@ -1423,7 +1423,7 @@
       "outdoor",
       "table"
      ],
-     "title": "Two customers engaging with a waiter at an outdoor café table, reviewing the menu.",
+     "title": "Two customers engaging with a waiter at an outdoor caf\u00e9 table, reviewing the menu.",
      "query": "restaurant staff guest conversation table"
     },
     {
@@ -1462,7 +1462,7 @@
      "id": "belong-m9-S07-I08",
      "type": "image",
      "source": "pexels",
-     "author": "khezez  | خزاز",
+     "author": "khezez  | \u062e\u0632\u0627\u0632",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/professional-waiter-taking-order-at-restaurant-36799159/",
      "thumb": "projects/belong-module9/thumbs/S07/belong-m9-S07-I08.jpg",
@@ -1497,7 +1497,7 @@
   {
    "id": "S10",
    "script_line": "Every complaint goes into the system, however small, however resolved. Not to blame anyone. Because a complaint that reaches me as data is how we fix the root cause. If three guests in a month mention the same thing, tha",
-   "visual_direction": "Report it — a complaint that reaches me as data is how we fix the root cause",
+   "visual_direction": "Report it \u2014 a complaint that reaches me as data is how we fix the root cause",
    "t": 189.29,
    "end": 216.66,
    "quota": {
@@ -1601,7 +1601,7 @@
      "id": "belong-m9-S10-V07",
      "type": "video",
      "source": "pixabay",
-     "author": "JustYøu",
+     "author": "JustY\u00f8u",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "projects/belong-module9/thumbs/S10/belong-m9-S10-V07.jpg",
@@ -1788,7 +1788,7 @@
      "id": "belong-m9-S10-I04",
      "type": "image",
      "source": "pexels",
-     "author": "Ali  Alcántara",
+     "author": "Ali  Alc\u00e1ntara",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/men-in-white-chef-uniforms-working-in-a-food-stall-12203618/",
      "thumb": "projects/belong-module9/thumbs/S10/belong-m9-S10-I04.jpg",
@@ -1806,7 +1806,7 @@
      "id": "belong-m9-S10-I05",
      "type": "image",
      "source": "pexels",
-     "author": "Nguyễn Du",
+     "author": "Nguy\u1ec5n Du",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/chef-at-work-in-a-japanese-restaurant-kitchen-29511216/",
      "thumb": "projects/belong-module9/thumbs/S10/belong-m9-S10-I05.jpg",
@@ -1840,8 +1840,8 @@
   },
   {
    "id": "S02",
-   "script_line": "If you work in hospitality long enough — and I hope you will — these moments are guaranteed. So instead of pretending they won't happen, let's get genuinely good at them. First, a reframe that took me years to truly beli",
-   "visual_direction": "These moments are guaranteed in hospitality — so get good at them",
+   "script_line": "If you work in hospitality long enough \u2014 and I hope you will \u2014 these moments are guaranteed. So instead of pretending they won't happen, let's get genuinely good at them. First, a reframe that took me years to truly beli",
+   "visual_direction": "These moments are guaranteed in hospitality \u2014 so get good at them",
    "t": 13.19,
    "end": 34.12,
    "quota": {
@@ -1870,7 +1870,7 @@
      "id": "belong-m9-S02-V02",
      "type": "video",
      "source": "pexels",
-     "author": "João  Pavese",
+     "author": "Jo\u00e3o  Pavese",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/busy-ice-cream-shop-with-staff-serving-customers-36362888/",
      "thumb": "projects/belong-module9/thumbs/S02/belong-m9-S02-V02.jpg",
@@ -2016,12 +2016,196 @@
      ],
      "title": "food  dinner  chicken  enjoy the meal  hot  having lunch  flesh  pike  refreshment  kitchen  dish  restaurant  warmth  c",
      "query": "restaurant service busy"
+    },
+    {
+     "id": "belong-module9-S02-V08",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/artistic-food-presentation-on-a-wooden-board-5657049/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_5657049_waiter-carrying-tray-desserts-re.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_5657049_waiter-carrying-tray-desserts-re.mp4",
+     "score": 0,
+     "categories": [
+      "host"
+     ],
+     "title": "",
+     "query": "",
+     "src_id": "",
+     "download_url": "",
+     "fresh": true,
+     "added_by": "library"
+    },
+    {
+     "id": "belong-module9-S02-V09",
+     "type": "video",
+     "source": "pexels",
+     "author": "ranjeet .",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/construction-work-with-crane-unloading-metal-36772580/",
+     "thumb": "projects/extreme-ownership-v2/thumbs/S09/pexels_36772580_hi-vis-team-hauling.jpg",
+     "preview": "projects/extreme-ownership-v2/previews/S09/pexels_36772580_hi-vis-team-hauling.mp4",
+     "score": 0,
+     "categories": [
+      "team"
+     ],
+     "title": "",
+     "query": "",
+     "src_id": "",
+     "download_url": "",
+     "fresh": true,
+     "added_by": "library"
+    },
+    {
+     "id": "belong-module9-S02-V10",
+     "type": "video",
+     "source": "pexels",
+     "author": "MART  PRODUCTION",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-sitting-at-the-table-7534728/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V10.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V10.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "",
+     "query": "hospitality team work",
+     "src_id": "7534728",
+     "download_url": "https://videos.pexels.com/video-files/7534728/7534728-hd_2048_1080_25fps.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V11",
+     "type": "video",
+     "source": "pixabay",
+     "author": "oybekostanov",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-87593/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V11.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V11.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "work  office  people  working  discussing  meeting",
+     "query": "hospitality team work",
+     "src_id": "87593",
+     "download_url": "https://cdn.pixabay.com/video/2021/09/05/87593-602317653_large.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V12",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/group-of-people-doing-fist-bump-3245304/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V12.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V12.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "",
+     "query": "hospitality team work",
+     "src_id": "3245304",
+     "download_url": "https://videos.pexels.com/video-files/3245304/3245304-hd_1920_1080_25fps.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V13",
+     "type": "video",
+     "source": "pixabay",
+     "author": "8385",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-822/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V13.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V13.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "gears  mechanics  gear  transmission  bikes  drive  technology  iron  industry  engine  teamwork  symbol  mechanically  metal  together  gearings  group  mechanic  stole  team  mesh  move  how works",
+     "query": "hospitality team work",
+     "src_id": "822",
+     "download_url": "https://cdn.pixabay.com/video/2015/09/22/822-140182088_medium.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V14",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-couple-checking-in-at-a-hotel-7820553/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V14.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V14.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "",
+     "query": "hospitality team work",
+     "src_id": "7820553",
+     "download_url": "https://videos.pexels.com/video-files/7820553/7820553-hd_1920_1080_25fps.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V15",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4973/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V15.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V15.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
+     "query": "hospitality team work",
+     "src_id": "4973",
+     "download_url": "https://cdn.pixabay.com/video/2016/09/06/4973-181688494_large.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V16",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/group-doing-fist-bump-together-6339872/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V16.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V16.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "",
+     "query": "hospitality team work",
+     "src_id": "6339872",
+     "download_url": "https://videos.pexels.com/video-files/6339872/6339872-hd_1920_1080_30fps.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
+    },
+    {
+     "id": "belong-module9-S02-V17",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-40816/",
+     "thumb": "projects/belong-module9/thumbs/S02/belong-module9-S02-V17.jpg",
+     "preview": "projects/belong-module9/previews/S02/belong-module9-S02-V17.mp4",
+     "score": 0,
+     "categories": [],
+     "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
+     "query": "hospitality team work",
+     "src_id": "40816",
+     "download_url": "https://cdn.pixabay.com/video/2020/06/01/40816-426939512_large.mp4",
+     "fresh": true,
+     "added_by": "search-10-more"
     }
    ]
   },
   {
    "id": "S04",
-   "script_line": "Breathe, and receive it like the useful thing it is. Now, the method. When a guest is upset, there's a sequence, and the order matters. Listen — completely. Don't defend, don't explain, don't interrupt, don't reach for t",
+   "script_line": "Breathe, and receive it like the useful thing it is. Now, the method. When a guest is upset, there's a sequence, and the order matters. Listen \u2014 completely. Don't defend, don't explain, don't interrupt, don't reach for t",
    "visual_direction": "The dangerous guest is the silent one who never tells you",
    "t": 68.07,
    "end": 87.5,
@@ -2066,7 +2250,7 @@
      "id": "belong-m9-S04-V03",
      "type": "video",
      "source": "pexels",
-     "author": "Sururi Ballıdağ Director",
+     "author": "Sururi Ball\u0131da\u011f Director",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/quiet-street-with-empty-cafes-and-restaurants-35573206/",
      "thumb": "projects/belong-module9/thumbs/S04/belong-m9-S04-V03.jpg",
@@ -2359,7 +2543,7 @@
   {
    "id": "S05",
    "script_line": "An upset person cannot hear solutions until they feel heard. Let them finish. Look at them. Nod. Sometimes thirty seconds of real listening solves half the problem, because half the problem was feeling ignored.",
-   "visual_direction": "Listen completely — thirty seconds of real listening solves half the problem",
+   "visual_direction": "Listen completely \u2014 thirty seconds of real listening solves half the problem",
    "t": 88.02,
    "end": 103.62,
    "quota": {
@@ -2531,8 +2715,8 @@
   },
   {
    "id": "S06",
-   "script_line": "Acknowledge the feeling — honestly. I'm sorry — that's not the stay we wanted you to have. You're not admitting legal fault, you're recognising a human being's disappointment. It costs nothing and it changes everything. ",
-   "visual_direction": "Acknowledge the feeling honestly — recognising a human being's disappointment",
+   "script_line": "Acknowledge the feeling \u2014 honestly. I'm sorry \u2014 that's not the stay we wanted you to have. You're not admitting legal fault, you're recognising a human being's disappointment. It costs nothing and it changes everything. ",
+   "visual_direction": "Acknowledge the feeling honestly \u2014 recognising a human being's disappointment",
    "t": 104.43,
    "end": 122.44,
    "quota": {
@@ -2798,7 +2982,7 @@
   {
    "id": "S11",
    "script_line": "A word about unfair complaints, because they exist. Sometimes the guest is wrong. Sometimes the weather is our fault in their eyes, or the expectation was impossible. Two things. First: you can acknowledge a feeling with",
-   "visual_direction": "Unfair complaints exist — you never have to accept abuse",
+   "visual_direction": "Unfair complaints exist \u2014 you never have to accept abuse",
    "t": 217.18,
    "end": 234.44,
    "quota": {
@@ -2971,7 +3155,7 @@
   {
    "id": "S08",
    "script_line": "The room that wasn't ready earns a proper gesture, not a shrug. The recovery should be slightly larger than the failure. Why? Because psychology is real: a problem beautifully recovered creates more loyalty than no probl",
-   "visual_direction": "Fix it bigger than expected — the cold dish comes back with a glass of wine",
+   "visual_direction": "Fix it bigger than expected \u2014 the cold dish comes back with a glass of wine",
    "t": 144.0,
    "end": 163.08,
    "quota": {
@@ -3292,8 +3476,8 @@
   },
   {
    "id": "S13",
-   "script_line": "Read them — even the harsh ones, especially the harsh ones. A review is a complaint we didn't get to hear in person, so hear it now. We respond to every one, always with class, never defensively. A future guest reading o",
-   "visual_direction": "The recovery was the story — the family who came back every year since",
+   "script_line": "Read them \u2014 even the harsh ones, especially the harsh ones. A review is a complaint we didn't get to hear in person, so hear it now. We respond to every one, always with class, never defensively. A future guest reading o",
+   "visual_direction": "The recovery was the story \u2014 the family who came back every year since",
    "t": 261.52,
    "end": 347.56,
    "quota": {
@@ -3595,7 +3779,7 @@
      "id": "belong-m9-S13-I04",
      "type": "image",
      "source": "pexels",
-     "author": "Clément Proust",
+     "author": "Cl\u00e9ment Proust",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/people-working-on-a-farm-in-france-during-harvest-38135183/",
      "thumb": "projects/belong-module9/thumbs/S13/belong-m9-S13-I04.jpg",
@@ -3700,6 +3884,6 @@
    ]
   }
  ],
- "title": "Belong — Module 9: Service Recovery",
+ "title": "Belong \u2014 Module 9: Service Recovery",
  "project": "belong-module9"
 }
