@@ -35,12 +35,16 @@
     "S05": {
       "requested": "2026-08-20T11:53:24.844Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-20T11:59:31Z",
+      "added": 10
     },
     "S03": {
       "requested": "2026-08-20T11:56:04.274Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-20T12:00:08Z",
+      "added": 10
     }
   }
 }
