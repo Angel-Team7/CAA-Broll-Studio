@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-reactions",
-  "updated": "2026-08-20T12:20:31.294Z",
+  "updated": "2026-08-20T12:23:28.510Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -26,6 +26,9 @@
     ],
     "S09": [
       "edenrise-c2-six-needs-reactions-S09-V25"
+    ],
+    "S04": [
+      "edenrise-c2-six-needs-reactions-S04-V17"
     ]
   },
   "needs_broll": {},
