@@ -33,7 +33,9 @@
     "S03": {
       "requested": "2026-08-20T12:32:43.235Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-20T12:33:42Z",
+      "added": 10
     }
   }
 }
