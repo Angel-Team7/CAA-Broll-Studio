@@ -12,3 +12,13 @@
 | pixabay | jigsaw  board  construction  repair  square  pencil  to nag  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4973/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/group-doing-fist-bump-together-6339872/ |
 | pixabay | worker  hard work  man  builder  work  workers  building  en | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40816/ |
+| pexels | video hotel receptionist talking guest | Mikhail Nilov | Pexels License | https://www.pexels.com/video/hotel-receptionist-talking-to-a-guest-7820514/ |
+| pexels | video man talking the hotel receptionist | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-and-woman-ordering-in-a-restaurant-6816117/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-guest-7820469/ |
+| pixabay | pyramid  hotel  building  architecture  city  glass  tourism | useche360 | Pixabay Content License | https://pixabay.com/videos/id-204588/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/guests-and-a-receptionist-wearing-face-mask-in-a-hotel-7820550/ |
+| pixabay | ai generated  hotel  architecture  building  vacation  resor | mycuppatea | Pixabay Content License | https://pixabay.com/videos/id-362909/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-client-in-the-hotel-7820474/ |
+| pixabay | woman  computer  job  desk  sick  face mask  concentration | Juanpablodia | Pixabay Content License | https://pixabay.com/videos/id-158961/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-hotel-desk-bell-5378937/ |
