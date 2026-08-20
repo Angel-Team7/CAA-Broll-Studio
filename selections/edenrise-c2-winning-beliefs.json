@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-winning-beliefs",
-  "updated": "2026-08-20T12:32:43.262Z",
+  "updated": "2026-08-20T12:44:07.290Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -26,6 +26,9 @@
     ],
     "S09": [
       "edenrise-c2-winning-beliefs-S09-V06"
+    ],
+    "S03": [
+      "edenrise-c2-winning-beliefs-S03-V20"
     ]
   },
   "needs_broll": {},
