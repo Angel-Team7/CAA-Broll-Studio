@@ -94,3 +94,8 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .topup.on{background:#12313a;border-color:#3f8ea3;color:#7fd0e3;font-weight:600}
 
 .srcbadge.src-fresh{background:#1c7c3f;color:#eafff0;}
+
+.syncstate{font-size:12px;color:#8b98a5;margin-right:10px;}
+.syncstate.saving{color:#d8a800;} .syncstate.saved{color:#3fb950;} .syncstate.error{color:#f85149;}
+.localwarn{display:block;margin-top:6px;padding:6px 10px;border-radius:6px;
+  background:#3d2b00;color:#ffd479;font-size:12.5px;}

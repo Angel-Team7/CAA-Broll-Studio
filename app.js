@@ -23,6 +23,7 @@ async function loadProjects() {
   state.finalised = await loadFinalised();
   renderProjectSelect();
   renderProgress();
+  refreshConnBanner();
   sel.onchange = () => { loadProject(sel.value); setDeepLink(sel.value); };
   // DEEP LINK: ?p=<slug> or #<slug> opens that project directly, so a link can be
   // handed to someone and land on the right board instead of whatever sorts first.
@@ -62,6 +63,11 @@ async function saveFinalised() {
     catch (e) { toast("GitHub save failed: " + e.message); }
   }
 }
+function refreshConnBanner() {
+  const w = document.getElementById("localwarn");
+  if (w) w.hidden = !!(gh && gh.token);
+}
+
 function renderProgress() {
   const total = state.projects.length, done = state.finalised.filter(s => state.projects.some(p => p.slug === s)).length;
   const remaining = state.projects.filter(p => !state.finalised.includes(p.slug)).map(p => p.title);
@@ -174,6 +180,27 @@ function card(sid, c, on) {
   </div>`;
 }
 
+// Debounced auto-commit. A reviewer ticking clips should never have to remember
+// a Save button — every decision lands in the repo on its own. Without a token
+// we stay local-only and the banner says so plainly.
+let autosaveTimer = null;
+function autosave() {
+  if (!(gh && gh.token)) return;
+  clearTimeout(autosaveTimer);
+  setSyncState("saving");
+  autosaveTimer = setTimeout(async () => {
+    try { await save(false, true); setSyncState("saved"); }
+    catch (e) { setSyncState("error"); }
+  }, 1500);
+}
+
+function setSyncState(k) {
+  const el = document.getElementById("syncstate");
+  if (!el) return;
+  el.textContent = { saving: "saving…", saved: "all changes saved ✓", error: "save failed — retry" }[k] || "";
+  el.className = "syncstate " + k;
+}
+
 function toggle(el) {
   const sid = el.dataset.scene, id = el.dataset.id;
   const list = state.approved[sid] = state.approved[sid] || [];
@@ -185,6 +212,7 @@ function toggle(el) {
   cnt.textContent = (state.approved[sid] || []).length;
   persistLocal();
   updateStat();
+  autosave();
 }
 
 // Flag/unflag a scene as needing different B-roll (with an optional reason).
@@ -198,6 +226,7 @@ function toggleReshoot(sid) {
   }
   persistLocal();
   render();
+  autosave();
 }
 
 // One click = 10 more. Fires the GitHub Action immediately (it watches
@@ -238,7 +267,7 @@ function updateStat() {
     (flags ? ` · ${flags} flagged 🔁` : "");
 }
 
-async function save(ready) {
+async function save(ready, quiet) {
   persistLocal();
   const payload = { project: state.slug, updated: new Date().toISOString(),
     ready: !!ready, approved: state.approved, needs_broll: state.reshoot,
@@ -247,13 +276,15 @@ async function save(ready) {
     try {
       await ghPut(`selections/${state.slug}.json`, JSON.stringify(payload, null, 2),
         ready ? "cockpit: send to editor" : "cockpit: save approvals");
-      toast(ready ? "Sent to editor ▸ committed to GitHub" : "Saved to GitHub ✓");
-    } catch (e) { toast("GitHub save failed: " + e.message); }
+      if (!quiet) toast(ready ? "Sent to editor ▸ committed to GitHub" : "Saved to GitHub ✓");
+    } catch (e) { toast("GitHub save failed: " + e.message); throw e; }
   } else {
     // local mode: also drop a downloadable file so the handoff script can read it
-    downloadJSON(`${state.slug}.selection.json`, payload);
-    toast(ready ? "Downloaded selection (ready) — no GitHub connected"
-                : "Saved locally + downloaded selection.json");
+    if (ready || !quiet) {
+      downloadJSON(`${state.slug}.selection.json`, payload);
+      toast(ready ? "Downloaded selection — send this file to Vic (no GitHub access)"
+                  : "Saved in this browser + downloaded a copy");
+    }
   }
 }
 

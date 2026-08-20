@@ -13,6 +13,7 @@
     <div class="controls">
       <select id="project"></select>
       <span id="stat" class="stat"></span>
+      <span id="syncstate" class="syncstate"></span>
       <button id="save" class="primary">Save approvals</button>
       <button id="send" class="send">Send to editor ▸</button>
       <button id="finalise" class="finalise">✓ Mark finalised</button>
@@ -21,6 +22,7 @@
   <div id="progressbar" class="progressbar"></div>
   <div id="tokenbar" class="tokenbar">
     <span class="muted">Saving to: <b id="savemode">local (browser)</b>.</span>
+    <span id="localwarn" class="localwarn" hidden>⚠️ Not connected — your ticks stay in this browser only. Ask Vic for an access key, or press <b>Send to editor</b> to download a file and email it.</span>
     <button id="connect" class="link">Connect GitHub…</button>
   </div>
 </header>
