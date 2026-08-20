@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-drives",
-  "updated": "2026-08-18T15:36:30.125Z",
+  "updated": "2026-08-20T11:53:13.782Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -24,11 +24,6 @@
   },
   "needs_broll": {},
   "topup_requests": {
-    "S05": {
-      "requested": "2026-08-18T15:00:51.784Z",
-      "note": "generates more contextual videos",
-      "done": true
-    },
     "S03": {
       "requested": "2026-08-18T15:18:01.045Z",
       "note": "generates more contextual videos",
@@ -38,6 +33,11 @@
       "requested": "2026-08-18T15:28:12.934Z",
       "note": "generates more contextual videos",
       "done": true
+    },
+    "S05": {
+      "requested": "2026-08-20T11:53:13.761Z",
+      "note": "",
+      "done": false
     }
   }
 }
