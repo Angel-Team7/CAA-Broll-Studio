@@ -426,15 +426,36 @@ async function ghPutBinary(path, b64content, message) {
   }
 }
 
-function connectGitHub() {
+async function connectGitHub() {
   const cur = gh || {};
-  const owner = prompt("GitHub owner (user/org):", cur.owner || "edenrise");
+  const owner = (prompt("GitHub owner (user/org):", cur.owner || "Angel-Team7") || "").trim();
   if (!owner) return;
-  const repo = prompt("Repo name:", cur.repo || "edenrise-broll-cockpit");
-  const branch = prompt("Branch:", cur.branch || "main") || "main";
-  const token = prompt("Fine-grained token (contents:write on this repo). Stored in this browser only:");
-  if (!token) return;
-  localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
+  const repo = (prompt("Repo name:", cur.repo || "CAA-Broll-Studio") || "").trim();
+  if (!repo) return;
+  const branch = (prompt("Branch:", cur.branch || "main") || "main").trim();
+  const token = (prompt("Access key (paste it here):") || "").trim();
+  if (!token) { alert("No key pasted — still saving locally only."); return; }
+
+  // Verify before trusting it. A silent failure here is what leaves someone
+  // ticking clips for an hour that never reach the repo.
+  toast("Checking your access key…");
+  try {
+    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/projects.json`,
+      { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } });
+    if (r.status === 401) { alert("That key was rejected (401).\n\nIt may be mistyped, expired, or only partly pasted. Generate a new one and paste the whole github_pat_… string."); return; }
+    if (r.status === 404) { alert(`Cannot see ${owner}/${repo} (404).\n\nCheck the owner and repo spelling, and that the key lists this repository under "Only select repositories".`); return; }
+    if (!r.ok) { alert(`GitHub said ${r.status}. Not connected.`); return; }
+  } catch (e) {
+    alert("Could not reach GitHub: " + e.message); return;
+  }
+
+  try {
+    localStorage.setItem("gh", JSON.stringify({ owner, repo, branch, token }));
+    if (!localStorage.getItem("gh")) throw new Error("storage blocked");
+  } catch (e) {
+    alert("This browser is blocking storage — usually Private Browsing.\n\nOpen the cockpit in a normal (non-private) tab and connect again."); return;
+  }
+  alert("Connected ✓ Your ticks will now save straight to the repo.");
   location.reload();
 }
 
