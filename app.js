@@ -129,8 +129,14 @@ function render() {
       <div class="scene-head">
         <span class="scene-id">${sc.id}</span>
         <div class="scene-meta">
-          <div class="scene-dir">${esc(sc.visual_direction)}</div>
-          <div class="scene-line">“${esc(sc.script_line)}”</div>
+          ${sc.t !== undefined ? `<div class="scene-when">${fmtClock(sc.t)} – ${fmtClock(sc.end)}
+             <span class="dur">${Math.round(sc.end - sc.t)}s on screen</span>
+             ${sc.timing_source === "narration" ? '<span class="verified" title="Anchored to the recorded narration">✓ timed to audio</span>' : '<span class="unverified" title="Not yet anchored to the recorded audio — treat as approximate">≈ estimated</span>'}</div>` : ""}
+          <div class="scene-heard"><span class="tag">VIEWER HEARS</span>
+            <span class="heard-txt">“${esc(sc.script_line)}”</span></div>
+          <div class="scene-show"><span class="tag show">PICK FOOTAGE THAT SHOWS</span>
+            <span class="show-txt">${esc(sc.visual_direction)}</span></div>
+          ${sc.onscreen ? `<div class="scene-onscreen"><span class="tag os">ON-SCREEN TEXT</span> ${esc(sc.onscreen)}</div>` : ""}
           ${flagged ? `<div class="reshoot-note">🔁 flagged for new footage${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}</div>` : ""}
         </div>
         <div class="scene-side">
@@ -478,6 +484,10 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // ---- utils ----
+const fmtClock = t => {
+  const n = Math.max(0, Math.round(Number(t) || 0));
+  return `${Math.floor(n / 60)}:${String(n % 60).padStart(2, "0")}`;
+};
 const esc = s => (s || "").replace(/[&<>"]/g, m => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[m]));
 const b64 = s => btoa(unescape(encodeURIComponent(s)));
 function downloadJSON(name, obj) {
