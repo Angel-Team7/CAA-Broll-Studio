@@ -131,24 +131,6 @@
      "query": "woodworker planing wood workshop"
     },
     {
-     "id": "edenrise-c2-kaizen-S01-V14",
-     "type": "video",
-     "source": "pexels",
-     "author": "Burak Bahadır  Büyükkılınç",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/craftsman-using-hand-plane-in-workshop-35170033/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-V14.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-V14.mp4",
-     "score": 16.45,
-     "categories": [
-      "craftsman",
-      "man",
-      "workshop"
-     ],
-     "title": "video craftsman using hand plane workshop",
-     "query": "woodworker planing wood workshop"
-    },
-    {
      "id": "edenrise-c2-kaizen-S01-V15",
      "type": "video",
      "source": "pexels",
@@ -199,20 +181,55 @@
      "query": "electrician organized van tools"
     },
     {
-     "id": "edenrise-c2-kaizen-S01-V18",
+     "id": "edenrise-c2-kaizen-S01-V20",
      "type": "video",
      "source": "pexels",
-     "author": "Tima Miroshnichenko",
+     "author": "MART  PRODUCTION",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/man-taking-out-cleaning-equipment-from-the-car-6195147/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-V18.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-V18.mp4",
+     "page_url": "https://www.pexels.com/video/man-changing-a-light-bulb-7641514/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-V20.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-V20.mp4",
      "score": 15.25,
      "categories": [
       "man"
      ],
-     "title": "video man taking out cleaning equipment from the car",
+     "title": "video man changing light bulb",
      "query": "electrician organized van tools"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S01-V21",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mumtaz  Niazi",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/electrician-working-on-industrial-battery-bank-36167827/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-V21.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-V21.mp4",
+     "score": 15.25,
+     "categories": [
+      "electrician",
+      "working"
+     ],
+     "title": "video electrician working industrial battery bank",
+     "query": "electrician organized van tools"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S01-V22",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sururi Ballıdağ Director",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/craftsman-in-workshop-making-leather-goods-34799297/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-V22.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-V22.mp4",
+     "score": 14.69,
+     "categories": [
+      "craftsman",
+      "man",
+      "workshop"
+     ],
+     "title": "video craftsman workshop making leather goods",
+     "query": "artisan leather craft workbench"
     },
     {
      "id": "edenrise-c2-kaizen-S01-I01",
@@ -234,27 +251,6 @@
      "query": "worker organizing tools workbench"
     },
     {
-     "id": "edenrise-c2-kaizen-S01-I04",
-     "type": "image",
-     "source": "pixabay",
-     "author": "JayHugh",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/construction-worker-framework-facade-1715667/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-I04.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-I04.jpg",
-     "score": 24.79,
-     "categories": [
-      "building",
-      "construction",
-      "electrician",
-      "man",
-      "scaffolding",
-      "site"
-     ],
-     "title": "construction worker  framework  facade  housewall  electrician  to build  construction site  tool  architecture  convers",
-     "query": "electrician organized van tools"
-    },
-    {
      "id": "edenrise-c2-kaizen-S01-I06",
      "type": "image",
      "source": "pixabay",
@@ -272,6 +268,47 @@
       "working"
      ],
      "title": "wood working  plane  carpentry  wood  carpenter  work  equipment  tool  plank  craft  woodwork  planing  craftsman  hand",
+     "query": "woodworker planing wood workshop"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S01-I08",
+     "type": "image",
+     "source": "pixabay",
+     "author": "endriqstudio",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/workshop-instrument-wood-craftsman-4524838/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-I08.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-I08.jpg",
+     "score": 19.99,
+     "categories": [
+      "builder",
+      "construction",
+      "craftsman",
+      "man",
+      "working",
+      "workshop"
+     ],
+     "title": "workshop  instrument  wood  craftsman  guitar  repair  builder  craft  assemble  work  electric  woodworking  rock  carp",
+     "query": "woodworker planing wood workshop"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S01-I09",
+     "type": "image",
+     "source": "pixabay",
+     "author": "LPArt",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/tool-wood-to-carve-tools-work-3809177/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S01/edenrise-c2-kaizen-S01-I09.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S01/edenrise-c2-kaizen-S01-I09.jpg",
+     "score": 19.99,
+     "categories": [
+      "building",
+      "carpenter",
+      "man",
+      "tools",
+      "working"
+     ],
+     "title": "tool  wood  to carve  tools  work  equipment  carpenter  table  carpentry  handyman  building  hammer  woodwork  woodwor",
      "query": "woodworker planing wood workshop"
     }
    ],
@@ -397,25 +434,6 @@
      "query": "worker pensive looking at project"
     },
     {
-     "id": "edenrise-c2-kaizen-S02-V04",
-     "type": "video",
-     "source": "pexels",
-     "author": "Waleed Talat",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-V04.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-V04.mp4",
-     "score": 24.67,
-     "categories": [
-      "construction",
-      "talking",
-      "worker",
-      "workers"
-     ],
-     "title": "video workers talking construction",
-     "query": "worker pausing looking at work site"
-    },
-    {
      "id": "edenrise-c2-kaizen-S02-V15",
      "type": "video",
      "source": "pexels",
@@ -449,42 +467,6 @@
       "woman"
      ],
      "title": "video woman hard hat and safety vest posing while holding tablet",
-     "query": "engineer studying site tablet outdoors"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S02-V17",
-     "type": "video",
-     "source": "pixabay",
-     "author": "JoteF",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-19657/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-V17.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-V17.mp4",
-     "score": 16.7,
-     "categories": [
-      "building",
-      "worker",
-      "workers"
-     ],
-     "title": "building  house  architecture  project  workers  employees  modern",
-     "query": "worker pensive looking at project"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S02-V18",
-     "type": "video",
-     "source": "pixabay",
-     "author": "bellergy",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-3992/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-V18.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-V18.mp4",
-     "score": 16.7,
-     "categories": [
-      "construction",
-      "site",
-      "working"
-     ],
-     "title": "working site  construction  site  equipment  machine  develop  construction site  construction equipment  under construc",
      "query": "engineer studying site tablet outdoors"
     },
     {
@@ -554,6 +536,38 @@
      "query": "carpenter examining wood joint closely"
     },
     {
+     "id": "edenrise-c2-kaizen-S02-V25",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-checking-the-wood-7480744/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-V25.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-V25.mp4",
+     "score": 15.3,
+     "categories": [
+      "man"
+     ],
+     "title": "video man checking the wood",
+     "query": "carpenter examining wood joint closely"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S02-V27",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-using-digital-tablet-6474139/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-V27.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-V27.mp4",
+     "score": 15.3,
+     "categories": [
+      "man"
+     ],
+     "title": "video man using digital tablet",
+     "query": "engineer studying site tablet outdoors"
+    },
+    {
      "id": "edenrise-c2-kaizen-S02-I01",
      "type": "image",
      "source": "pexels",
@@ -612,6 +626,24 @@
      ],
      "title": "Serious adult bearded workman wearing workwear standing near window and browsing tablet while working in workshop",
      "query": "engineer studying site tablet outdoors"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S02-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/woman-in-white-hardhat-holding-silver-touchscreen-device-8960944/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S02/edenrise-c2-kaizen-S02-I06.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S02/edenrise-c2-kaizen-S02-I06.jpg",
+     "score": 20.7,
+     "categories": [
+      "construction",
+      "site",
+      "workwear"
+     ],
+     "title": "A female engineer in workwear checks her tablet on a construction site, highlighting modern engineering practices.",
+     "query": "engineer studying site tablet outdoors"
     }
    ],
    "onscreen": "Don't only do the work. Improve how the work gets done.",
@@ -667,44 +699,6 @@
      ],
      "title": "worker  car  building  shovel  pour in  builder  wheelbarrow  construction  fill",
      "query": "landscaper pushing wheelbarrow garden"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S03-V01",
-     "type": "video",
-     "source": "pexels",
-     "author": "Usman AbdulrasheedGambo",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/construction-workers-operating-on-building-site-32245123/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V01.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V01.mp4",
-     "score": 25.8,
-     "categories": [
-      "building",
-      "construction",
-      "site",
-      "worker",
-      "workers"
-     ],
-     "title": "video construction workers operating building site",
-     "query": "worker walking carrying tools site"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S03-V11",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/man-digging-in-the-soil-to-plant-vegetables-7655280/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V11.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V11.mp4",
-     "score": 18.08,
-     "categories": [
-      "digging",
-      "man",
-      "soil"
-     ],
-     "title": "video man digging the soil plant vegetables",
-     "query": "gardener tool shed organized"
     },
     {
      "id": "edenrise-c2-kaizen-S03-V02",
@@ -764,27 +758,6 @@
      "query": "carpenter reaching for tool bench"
     },
     {
-     "id": "edenrise-c2-kaizen-S03-V12",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Coverr-Free-Footage",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-4728/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V12.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V12.mp4",
-     "score": 28.77,
-     "categories": [
-      "builder",
-      "carpenter",
-      "construction",
-      "crew",
-      "man",
-      "manual"
-     ],
-     "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
-     "query": "handyman tool belt working"
-    },
-    {
      "id": "edenrise-c2-kaizen-S03-V14",
      "type": "video",
      "source": "pixabay",
@@ -802,42 +775,6 @@
      ],
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "landscaper pushing wheelbarrow garden"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S03-V15",
-     "type": "video",
-     "source": "pixabay",
-     "author": "AlexKopeykin",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-115790/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V15.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V15.mp4",
-     "score": 19.17,
-     "categories": [
-      "man",
-      "woman",
-      "worker",
-      "workshop"
-     ],
-     "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  person  worker  shop  sewing equipment  ",
-     "query": "tools hanging pegboard wall workshop"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S03-V18",
-     "type": "video",
-     "source": "pixabay",
-     "author": "D-GM",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-199127/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V18.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V18.mp4",
-     "score": 17.52,
-     "categories": [
-      "brick",
-      "land"
-     ],
-     "title": "great wall  wall  ruins  tower  mountains  summit  peak  trees  sky  futuyu  bricks  ancient  old  architecture  rural  ",
-     "query": "tools hanging pegboard wall workshop"
     },
     {
      "id": "edenrise-c2-kaizen-S03-V20",
@@ -872,6 +809,93 @@
       "woman"
      ],
      "title": "video stylish young woman grabbing hay fork",
+     "query": "gardener tool shed organized"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-V22",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AlexKopeykin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-67461/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V22.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V22.mp4",
+     "score": 21.28,
+     "categories": [
+      "builder",
+      "building",
+      "construction",
+      "worker"
+     ],
+     "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
+     "query": "landscaper pushing wheelbarrow garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-V24",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/gardening-tools-hanging-over-a-wooden-wall-8889792/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V24.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V24.mp4",
+     "score": 18.21,
+     "categories": [
+      "tools"
+     ],
+     "title": "video gardening tools hanging over wooden wall",
+     "query": "gardener tool shed organized"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-V25",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4974/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V25.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V25.mp4",
+     "score": 17.08,
+     "categories": [
+      "building",
+      "carpenter",
+      "construction"
+     ],
+     "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
+     "query": "carpenter reaching for tool bench"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-V26",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ono  Kosuki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-putting-on-safety-gears-5972116/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V26.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V26.mp4",
+     "score": 16.28,
+     "categories": [
+      "man",
+      "safety"
+     ],
+     "title": "video man putting safety gears",
+     "query": "carpenter reaching for tool bench"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-V28",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-planting-vegetables-7655272/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-V28.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-V28.mp4",
+     "score": 15.08,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video man and woman planting vegetables",
      "query": "gardener tool shed organized"
     },
     {
@@ -934,6 +958,47 @@
      ],
      "title": "tool belt  roof  belt  tool  construction  work  worker  nature  building  home  professional  handyman  industry  equip",
      "query": "handyman tool belt working"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/maintenance-man-walking-alongside-a-gardener-4920285/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-I05.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-I05.jpg",
+     "score": 23.32,
+     "categories": [
+      "gardener",
+      "man",
+      "team",
+      "teamwork",
+      "together",
+      "woman"
+     ],
+     "title": "Two gardeners, a man and a woman, work together in a nursery garden, promoting teamwork and diversity.",
+     "query": "landscaper pushing wheelbarrow garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S03-I07",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ono  Kosuki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/professional-carpenter-with-electric-screwdriver-in-workplace-5974365/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S03/edenrise-c2-kaizen-S03-I07.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S03/edenrise-c2-kaizen-S03-I07.jpg",
+     "score": 20.17,
+     "categories": [
+      "craftsman",
+      "crew",
+      "man",
+      "working",
+      "workshop"
+     ],
+     "title": "Unrecognizable craftsman in casual clothes standing with electric screwdriver and piece of wood while working in profess",
+     "query": "handyman tool belt working"
     }
    ],
    "onscreen": "Efficiency is not rushing. Efficiency = Less Waste + Better Results",
@@ -969,23 +1034,6 @@
      ],
      "title": "video man and woman having conversation the construction site",
      "query": "two workers reviewing clipboard together"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S04-V10",
-     "type": "video",
-     "source": "pexels",
-     "author": "Thirdman",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/woman-showing-the-floor-plan-8471063/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V10.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V10.mp4",
-     "score": 16.57,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman showing the floor plan",
-     "query": "builder consulting plans question"
     },
     {
      "id": "edenrise-c2-kaizen-S04-V11",
@@ -1059,26 +1107,6 @@
      "query": "builder consulting plans question"
     },
     {
-     "id": "edenrise-c2-kaizen-S04-V03",
-     "type": "video",
-     "source": "pexels",
-     "author": "Mikael Blomkvist",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-at-the-construction-site-8964773/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V03.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V03.mp4",
-     "score": 24.3,
-     "categories": [
-      "construction",
-      "man",
-      "site",
-      "talking",
-      "woman"
-     ],
-     "title": "video man and woman talking the construction site",
-     "query": "worker asking colleague question site"
-    },
-    {
      "id": "edenrise-c2-kaizen-S04-V15",
      "type": "video",
      "source": "pexels",
@@ -1110,22 +1138,6 @@
      ],
      "title": "video woman looking papers",
      "query": "hands flipping binder documents"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S04-V17",
-     "type": "video",
-     "source": "pexels",
-     "author": "Artem Podrez",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/person-looking-at-tools-in-the-garage-8986477/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V17.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V17.mp4",
-     "score": 14.96,
-     "categories": [
-      "tools"
-     ],
-     "title": "video person looking tools the garage",
-     "query": "worker searching toolbox rummaging"
     },
     {
      "id": "edenrise-c2-kaizen-S04-V18",
@@ -1176,21 +1188,36 @@
      "query": "builder consulting plans question"
     },
     {
-     "id": "edenrise-c2-kaizen-S04-V21",
+     "id": "edenrise-c2-kaizen-S04-V23",
      "type": "video",
-     "source": "pixabay",
-     "author": "AttilaPergel",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-143683/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V21.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V21.mp4",
-     "score": 13.96,
+     "source": "pexels",
+     "author": "Artem Podrez",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-opening-and-closing-drawers-from-a-cabinet-8987274/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V23.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V23.mp4",
+     "score": 14.77,
      "categories": [
-      "learning",
       "man"
      ],
-     "title": "novel  flip  page  flipping  chapter  education  book  turning  letters  writing  dictionary  tale  medicine  inspiratio",
-     "query": "hands flipping binder documents"
+     "title": "video man opening and closing drawers from cabinet",
+     "query": "worker searching toolbox rummaging"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S04-V26",
+     "type": "video",
+     "source": "pexels",
+     "author": "Thirdman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-explaining-the-floor-plan-to-the-clients-8482292/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-V26.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-V26.mp4",
+     "score": 14.36,
+     "categories": [
+      "man"
+     ],
+     "title": "video man explaining the floor plan the clients",
+     "query": "builder consulting plans question"
     },
     {
      "id": "edenrise-c2-kaizen-S04-I05",
@@ -1250,6 +1277,46 @@
      ],
      "title": "Male and female construction workers discussing plans at a building site.",
      "query": "worker asking colleague question site"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S04-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/people-planning-together-6285148/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-I06.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-I06.jpg",
+     "score": 24.56,
+     "categories": [
+      "construction",
+      "team",
+      "teamwork",
+      "together",
+      "working"
+     ],
+     "title": "Engineers and architects working together on a construction plan, demonstrating teamwork and professionalism.",
+     "query": "builder consulting plans question"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S04-I08",
+     "type": "image",
+     "source": "pixabay",
+     "author": "jarmoluk",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/architect-building-joy-planning-1080589/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S04/edenrise-c2-kaizen-S04-I08.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S04/edenrise-c2-kaizen-S04-I08.jpg",
+     "score": 18.39,
+     "categories": [
+      "builder",
+      "building",
+      "man",
+      "people",
+      "worker"
+     ],
+     "title": "architect  building  joy  planning  plans  professional  employee  builder  worker  repair  contractor  man  people  mal",
+     "query": "builder consulting plans question"
     }
    ],
    "onscreen": "Friction is a clue.",
@@ -1301,55 +1368,6 @@
      "query": "gardener potting plants methodically row"
     },
     {
-     "id": "edenrise-c2-kaizen-S05-V08",
-     "type": "video",
-     "source": "pexels",
-     "author": "https://kaboompics.com/",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/person-preparing-soil-for-small-pot-plants-4769013/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V08.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V08.mp4",
-     "score": 16.14,
-     "categories": [
-      "soil"
-     ],
-     "title": "video person preparing soil for small pot plants",
-     "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V10",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Coverr-Free-Footage",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-5635/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V10.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V10.mp4",
-     "score": 14.77,
-     "categories": [
-      "care"
-     ],
-     "title": "plant  watering  grow  gardening  ewer  watering can  watering pot  water  nature  green  care  garden  spring  ecology ",
-     "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V12",
-     "type": "video",
-     "source": "pixabay",
-     "author": "deeanaarts",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-47551/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V12.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V12.mp4",
-     "score": 13.64,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "pot  flowers  hand  woman  garden  nature  gardening  holding  smelling flowers  springtime  green  natural  flower pot ",
-     "query": "gardener potting plants methodically row"
-    },
-    {
      "id": "edenrise-c2-kaizen-S05-V02",
      "type": "video",
      "source": "pexels",
@@ -1381,23 +1399,6 @@
      "query": "hands folding sorting linen laundry"
     },
     {
-     "id": "edenrise-c2-kaizen-S05-V13",
-     "type": "video",
-     "source": "pexels",
-     "author": "Tima Miroshnichenko",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-checking-on-the-plants-6508925/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V13.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V13.mp4",
-     "score": 15.77,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman checking the plants",
-     "query": "gardener potting plants methodically row"
-    },
-    {
      "id": "edenrise-c2-kaizen-S05-V14",
      "type": "video",
      "source": "pexels",
@@ -1415,73 +1416,6 @@
      "query": "gardener potting plants methodically row"
     },
     {
-     "id": "edenrise-c2-kaizen-S05-V15",
-     "type": "video",
-     "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-is-sitting-on-the-floor-with-plants-4503286/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V15.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V15.mp4",
-     "score": 15.77,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman sitting the floor with plants",
-     "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V16",
-     "type": "video",
-     "source": "pexels",
-     "author": "RDNE Stock project",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-stacking-shirts-7308220/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V16.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V16.mp4",
-     "score": 15.17,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman stacking shirts",
-     "query": "hands folding sorting linen laundry"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V20",
-     "type": "video",
-     "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-sweeping-the-floor-6865253/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V20.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V20.mp4",
-     "score": 14.79,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman sweeping the floor",
-     "query": "worker sweeping cleaning workbench"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V21",
-     "type": "video",
-     "source": "pexels",
-     "author": "Ahmet Kurt",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/an-aerial-view-of-a-large-greenhouse-with-many-plants-19121085/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V21.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V21.mp4",
-     "score": 14.57,
-     "categories": [
-      "man"
-     ],
-     "title": "video aerial view large greenhouse with many plants",
-     "query": "gardener potting plants methodically row"
-    },
-    {
      "id": "edenrise-c2-kaizen-S05-V22",
      "type": "video",
      "source": "pexels",
@@ -1494,50 +1428,6 @@
      "categories": [],
      "title": "video person planting plants",
      "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V23",
-     "type": "video",
-     "source": "pexels",
-     "author": "Anna Shvets",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-person-panting-on-the-glass-pot-5910441/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V23.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V23.mp4",
-     "score": 14.34,
-     "categories": [],
-     "title": "video person panting the glass pot",
-     "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V24",
-     "type": "video",
-     "source": "pexels",
-     "author": "Tima Miroshnichenko",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/man-getting-towels-from-a-cart-8756711/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V24.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V24.mp4",
-     "score": 13.97,
-     "categories": [
-      "man"
-     ],
-     "title": "video man getting towels from cart",
-     "query": "hands folding sorting linen laundry"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-V26",
-     "type": "video",
-     "source": "pexels",
-     "author": "Tima Miroshnichenko",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/person-separating-clothes-8756894/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V26.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V26.mp4",
-     "score": 13.74,
-     "categories": [],
-     "title": "video person separating clothes",
-     "query": "hands folding sorting linen laundry"
     },
     {
      "id": "edenrise-c2-kaizen-S05-V27",
@@ -1572,44 +1462,18 @@
      "query": "worker sweeping cleaning workbench"
     },
     {
-     "id": "edenrise-c2-kaizen-S05-I01",
-     "type": "image",
+     "id": "edenrise-c2-kaizen-S05-V33",
+     "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "Anastasia  Shuraeva",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/woman-in-white-crew-neck-t-shirt-holding-red-and-white-plastic-toy-4554421/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I01.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I01.jpg",
-     "score": 17.42,
-     "categories": [
-      "crew",
-      "man",
-      "smiling",
-      "woman"
-     ],
-     "title": "Woman smiling while assembling a table using a screwdriver in a home setting.",
-     "query": "methodical hands assembling step by step"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-I03",
-     "type": "image",
-     "source": "pixabay",
-     "author": "rawpixel",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/ecology-environment-garden-2985781/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I03.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I03.jpg",
-     "score": 18.74,
-     "categories": [
-      "hands",
-      "man",
-      "people",
-      "soil",
-      "woman",
-      "working"
-     ],
-     "title": "ecology  environment  garden  gardening  green  hobby  nature  plant  pots  working  woman  people  closeup  hands  pott",
-     "query": "gardener potting plants methodically row"
+     "page_url": "https://www.pexels.com/video/person-get-the-protective-goggles-8470011/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-V33.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-V33.mp4",
+     "score": 13.37,
+     "categories": [],
+     "title": "video person get the protective goggles",
+     "query": "worker sweeping cleaning workbench"
     },
     {
      "id": "edenrise-c2-kaizen-S05-I04",
@@ -1629,88 +1493,18 @@
      "query": "gardener potting plants methodically row"
     },
     {
-     "id": "edenrise-c2-kaizen-S05-I06",
+     "id": "edenrise-c2-kaizen-S05-I13",
      "type": "image",
      "source": "pexels",
-     "author": "Thirdman",
+     "author": "Mark Stebnicki",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-hand-putting-soil-on-a-brown-pot-using-a-trowel-7655916/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I06.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I06.jpg",
-     "score": 15.91,
-     "categories": [
-      "gardener",
-      "gloves",
-      "soil"
-     ],
-     "title": "Gardener planting a young plant into a biodegradable pot with soil using a trowel and gloves.",
-     "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-I07",
-     "type": "image",
-     "source": "pixabay",
-     "author": "viarami",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/woman-broom-workers-street-cleaner-7494708/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I07.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I07.jpg",
-     "score": 15.37,
-     "categories": [
-      "land",
-      "man",
-      "woman",
-      "worker",
-      "workers"
-     ],
-     "title": "woman  broom  workers  street cleaner  thai  thailand  bangkok  asia  to travel  local  neighborhood  cleanser  cleaning",
-     "query": "worker sweeping cleaning workbench"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-I08",
-     "type": "image",
-     "source": "pexels",
-     "author": "Towfiqu barbhuiya",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/woman-putting-laundry-in-a-basket-11309673/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I08.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I08.jpg",
-     "score": 14.11,
+     "page_url": "https://www.pexels.com/photo/green-cactus-plant-on-brown-soil-11678306/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I13.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I13.jpg",
+     "score": 13.14,
      "categories": [],
-     "title": "A hand reaches into a wicker basket filled with vibrant colored towels.",
-     "query": "hands folding sorting linen laundry"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-I09",
-     "type": "image",
-     "source": "pexels",
-     "author": "Anna Tarazevich",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-person-touching-the-green-plant-on-a-small-pot-7299974/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I09.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I09.jpg",
-     "score": 14.11,
-     "categories": [
-      "hands"
-     ],
-     "title": "Close-up of hands nurturing a young strawberry plant in a hydroponic setup.",
+     "title": "Aerial view of neatly arranged cactus plants in pots at a nursery garden.",
      "query": "gardener potting plants methodically row"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S05-I10",
-     "type": "image",
-     "source": "pexels",
-     "author": "Nothing Ahead",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/crop-workman-in-rubber-boots-priming-concrete-floor-5777354/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S05/edenrise-c2-kaizen-S05-I10.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S05/edenrise-c2-kaizen-S05-I10.jpg",
-     "score": 13.97,
-     "categories": [
-      "worker"
-     ],
-     "title": "Side view of crop anonymous male worker in gumboots with brush priming cement floor at work",
-     "query": "worker sweeping cleaning workbench"
     }
    ],
    "onscreen": "1. Why? 2. Eliminate? 3. Simplify? 4. Systemize? 5. Improve the result?",
@@ -2004,20 +1798,6 @@
      "query": "worker organizing warehouse shelf boxes"
     },
     {
-     "id": "edenrise-c2-kaizen-S06-V25",
-     "type": "video",
-     "source": "pexels",
-     "author": "Soil Film",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/cherries-in-boxes-14078813/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-V25.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-V25.mp4",
-     "score": 14.59,
-     "categories": [],
-     "title": "video cherries boxes",
-     "query": "worker sorting vegetables crates farm"
-    },
-    {
      "id": "edenrise-c2-kaizen-S06-V26",
      "type": "video",
      "source": "pexels",
@@ -2066,6 +1846,73 @@
      "query": "worker organizing warehouse shelf boxes"
     },
     {
+     "id": "edenrise-c2-kaizen-S06-V29",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-taking-care-of-plants-6510771/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-V29.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-V29.mp4",
+     "score": 15.56,
+     "categories": [
+      "care"
+     ],
+     "title": "video person taking care plants",
+     "query": "gardener tidying greenhouse plants"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S06-V30",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-wearing-hard-hat-holding-a-box-5100055/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-V30.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-V30.mp4",
+     "score": 13.39,
+     "categories": [
+      "man"
+     ],
+     "title": "video man wearing hard hat holding box",
+     "query": "worker organizing warehouse shelf boxes"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S06-V31",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tiger Lily",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-doing-inventory-at-the-warehouse-in-his-digital-tablet-4292582/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-V31.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-V31.mp4",
+     "score": 13.39,
+     "categories": [
+      "man",
+      "warehouse"
+     ],
+     "title": "video man doing inventory the warehouse his digital tablet",
+     "query": "worker organizing warehouse shelf boxes"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S06-V32",
+     "type": "video",
+     "source": "pexels",
+     "author": "23  Audiovisual",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-working-on-a-warehouse-14910119/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-V32.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-V32.mp4",
+     "score": 13.09,
+     "categories": [
+      "man",
+      "warehouse",
+      "working"
+     ],
+     "title": "video man working warehouse",
+     "query": "worker organizing warehouse shelf boxes"
+    },
+    {
      "id": "edenrise-c2-kaizen-S06-I04",
      "type": "image",
      "source": "pexels",
@@ -2101,25 +1948,6 @@
      ],
      "title": "A gardener works in a greenhouse, potting plants with tools and soil.",
      "query": "gardener tidying greenhouse plants"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S06-I01",
-     "type": "image",
-     "source": "pexels",
-     "author": "Mehmet Turgut  Kirkgoz",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/photo-of-a-group-of-men-working-with-paving-stones-14557577/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-I01.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-I01.jpg",
-     "score": 23.7,
-     "categories": [
-      "brick",
-      "construction",
-      "worker",
-      "workers"
-     ],
-     "title": "Top view of workers aligning clay bricks in a construction setting.",
-     "query": "worker stacking materials neatly site"
     },
     {
      "id": "edenrise-c2-kaizen-S06-I07",
@@ -2194,6 +2022,22 @@
      ],
      "title": "Farm workers loading vegetables onto a truck in a field under a clear blue sky.",
      "query": "worker sorting vegetables crates farm"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S06-I13",
+     "type": "image",
+     "source": "pexels",
+     "author": "Emrehan  Çolak",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/worker-organizing-bagged-turnips-outdoors-36719739/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S06/edenrise-c2-kaizen-S06-I13.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S06/edenrise-c2-kaizen-S06-I13.jpg",
+     "score": 13.8,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "A person arranging bags of turnips in an outdoor agricultural setting.",
+     "query": "worker sorting vegetables crates farm"
     }
    ],
    "onscreen": "Small improvements. Repeated consistently.",
@@ -2228,26 +2072,6 @@
      ],
      "title": "video man and woman holding blueprint while looking construction site",
      "query": "workers looking at plans together outdoors"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-V02",
-     "type": "video",
-     "source": "pexels",
-     "author": "fauxels",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-smiling-while-in-a-conversation-with-a-group-of-people-3253967/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V02.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V02.mp4",
-     "score": 28.22,
-     "categories": [
-      "conversation",
-      "man",
-      "people",
-      "smiling",
-      "woman"
-     ],
-     "title": "video woman smiling while conversation with group people",
-     "query": "colleagues talking friendly workshop"
     },
     {
      "id": "edenrise-c2-kaizen-S07-V10",
@@ -2328,90 +2152,6 @@
      "query": "foreman showing apprentice technique"
     },
     {
-     "id": "edenrise-c2-kaizen-S07-V04",
-     "type": "video",
-     "source": "pixabay",
-     "author": "AlexKopeykin",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-85351/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V04.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V04.mp4",
-     "score": 30.64,
-     "categories": [
-      "builder",
-      "building",
-      "construction",
-      "foreman",
-      "man",
-      "safety"
-     ],
-     "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
-     "query": "foreman showing apprentice technique"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-V13",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Coverr-Free-Footage",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-1009/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V13.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V13.mp4",
-     "score": 33.57,
-     "categories": [
-      "builder",
-      "building",
-      "concrete",
-      "construction",
-      "safety",
-      "site"
-     ],
-     "title": "construction site  elevator  building  build  architecture  construction  industrial  industry  structure  concrete  eng",
-     "query": "construction workers planning teamwork site"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-V17",
-     "type": "video",
-     "source": "pixabay",
-     "author": "chuduyen215",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-42923/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V17.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V17.mp4",
-     "score": 30.57,
-     "categories": [
-      "builder",
-      "building",
-      "construction",
-      "man",
-      "site",
-      "worker"
-     ],
-     "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
-     "query": "construction workers planning teamwork site"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-V18",
-     "type": "video",
-     "source": "pixabay",
-     "author": "chuduyen215",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-42926/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V18.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V18.mp4",
-     "score": 30.57,
-     "categories": [
-      "builder",
-      "building",
-      "construction",
-      "man",
-      "site",
-      "worker"
-     ],
-     "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
-     "query": "construction workers planning teamwork site"
-    },
-    {
      "id": "edenrise-c2-kaizen-S07-V19",
      "type": "video",
      "source": "pexels",
@@ -2427,27 +2167,6 @@
       "woman"
      ],
      "title": "video man and woman having conversation",
-     "query": "construction workers planning teamwork site"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-V20",
-     "type": "video",
-     "source": "pexels",
-     "author": "Usman AbdulrasheedGambo",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V20.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V20.mp4",
-     "score": 28.87,
-     "categories": [
-      "building",
-      "construction",
-      "scaffolding",
-      "site",
-      "worker",
-      "workers"
-     ],
-     "title": "video construction workers inspecting building site scaffolding",
      "query": "construction workers planning teamwork site"
     },
     {
@@ -2487,6 +2206,62 @@
      "query": "team huddle workers outdoors hardhats"
     },
     {
+     "id": "edenrise-c2-kaizen-S07-V26",
+     "type": "video",
+     "source": "pixabay",
+     "author": "TRIZ85",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-150592/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V26.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V26.mp4",
+     "score": 27.76,
+     "categories": [
+      "care",
+      "help",
+      "helping",
+      "man",
+      "people",
+      "together"
+     ],
+     "title": "plantation  children  caring  earth  environmental  global warming  grow  growth  help  helping  humanity  saving  susta",
+     "query": "gardeners planting together helping"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S07-V27",
+     "type": "video",
+     "source": "pexels",
+     "author": "This Viktọ",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/time-lapse-of-construction-site-10202777/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V27.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V27.mp4",
+     "score": 27.6,
+     "categories": [
+      "construction",
+      "site"
+     ],
+     "title": "video time lapse construction site",
+     "query": "team huddle workers outdoors hardhats"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S07-V28",
+     "type": "video",
+     "source": "pexels",
+     "author": "This Viktọ",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/men-working-on-construction-site-10810476/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-V28.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-V28.mp4",
+     "score": 26.77,
+     "categories": [
+      "construction",
+      "site",
+      "working"
+     ],
+     "title": "video men working construction site",
+     "query": "construction workers planning teamwork site"
+    },
+    {
      "id": "edenrise-c2-kaizen-S07-I01",
      "type": "image",
      "source": "pexels",
@@ -2504,27 +2279,6 @@
      ],
      "title": "Male and female engineers discussing blueprints at a construction site, promoting teamwork and planning.",
      "query": "workers looking at plans together outdoors"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S07-I02",
-     "type": "image",
-     "source": "pixabay",
-     "author": "trapezemike",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/welder-welding-work-labor-job-car-3018425/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-I02.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-I02.jpg",
-     "score": 32.44,
-     "categories": [
-      "builder",
-      "building",
-      "construction",
-      "helmet",
-      "laborer",
-      "man"
-     ],
-     "title": "welder  welding  work  labor  job  car  industry  worker  safety  construction  tool  technology  occupation  profession",
-     "query": "worker demonstrating tool colleague"
     },
     {
      "id": "edenrise-c2-kaizen-S07-I03",
@@ -2546,6 +2300,48 @@
      ],
      "title": "Two workers in forest at a construction site, showcasing teamwork and outdoor work.",
      "query": "workers looking at plans together outdoors"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S07-I05",
+     "type": "image",
+     "source": "pixabay",
+     "author": "cocoparisienne",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/hands-cohesion-together-people-2888625/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-I05.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-I05.jpg",
+     "score": 36.16,
+     "categories": [
+      "friendship",
+      "hands",
+      "handshake",
+      "help",
+      "helping",
+      "man"
+     ],
+     "title": "hands  cohesion  together  people  support  help  community  trust  friendship  friends  integration  human  connectedne",
+     "query": "gardeners planting together helping"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S07-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-with-ppe-s-looking-at-a-blue-print-8961133/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S07/edenrise-c2-kaizen-S07-I06.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S07/edenrise-c2-kaizen-S07-I06.jpg",
+     "score": 33.6,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "site",
+      "team",
+      "together"
+     ],
+     "title": "Engineering team analyzing blueprints together at an outdoor construction site with safety gear.",
+     "query": "construction workers planning teamwork site"
     }
    ],
    "onscreen": "Move from criticism to contribution.",
@@ -2595,24 +2391,6 @@
      ],
      "title": "video artisan working sculpture",
      "query": "proud craftsman portrait workshop"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V02",
-     "type": "video",
-     "source": "pixabay",
-     "author": "SYG_Anime",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-58142/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V02.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V02.mp4",
-     "score": 18.16,
-     "categories": [
-      "man",
-      "outdoor",
-      "woman"
-     ],
-     "title": "woman  flowers  plants  field  garden  nature  gardening  petals  floral  flora  blossom  blooming  fresh  spring  park ",
-     "query": "gardener proud finished garden"
     },
     {
      "id": "edenrise-c2-kaizen-S08-V11",
@@ -2668,24 +2446,6 @@
      ],
      "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
      "query": "craftsman finishing work satisfied"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V14",
-     "type": "video",
-     "source": "pixabay",
-     "author": "AlexKopeykin",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-115792/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V14.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V14.mp4",
-     "score": 20.97,
-     "categories": [
-      "man",
-      "woman",
-      "workshop"
-     ],
-     "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  human  employee  shop",
-     "query": "proud craftsman portrait workshop"
     },
     {
      "id": "edenrise-c2-kaizen-S08-V16",
@@ -2836,6 +2596,92 @@
      "query": "gardener smiling portrait garden"
     },
     {
+     "id": "edenrise-c2-kaizen-S08-V37",
+     "type": "video",
+     "source": "pexels",
+     "author": "Centre for Ageing Better",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/older-man-laughing-outside-27333441/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V37.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V37.mp4",
+     "score": 22.76,
+     "categories": [
+      "laughing",
+      "man"
+     ],
+     "title": "video older man laughing outside",
+     "query": "gardener smiling portrait garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S08-V38",
+     "type": "video",
+     "source": "pexels",
+     "author": "Vasilii Kovbasiuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-holding-plant-6268584/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V38.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V38.mp4",
+     "score": 20.96,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman holding plant",
+     "query": "gardener smiling portrait garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S08-V39",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-smiling-wearing-eyewear-8513266/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V39.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V39.mp4",
+     "score": 20.96,
+     "categories": [
+      "man",
+      "smiling",
+      "woman"
+     ],
+     "title": "video woman smiling wearing eyewear",
+     "query": "gardener smiling portrait garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S08-V40",
+     "type": "video",
+     "source": "pexels",
+     "author": "Marcus Aurelius",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-smelling-a-flower-in-the-garden-6785542/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V40.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V40.mp4",
+     "score": 20.96,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman smelling flower the garden",
+     "query": "gardener smiling portrait garden"
+    },
+    {
+     "id": "edenrise-c2-kaizen-S08-V41",
+     "type": "video",
+     "source": "pixabay",
+     "author": "FnBTV",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-74594/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V41.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V41.mp4",
+     "score": 19.96,
+     "categories": [
+      "portrait",
+      "smile"
+     ],
+     "title": "boy  child  young  happy  cute  funny  smile  person  relaxed  relaxing  grass  garden  portrait",
+     "query": "gardener smiling portrait garden"
+    },
+    {
      "id": "edenrise-c2-kaizen-S08-I01",
      "type": "image",
      "source": "pexels",
@@ -2894,184 +2740,45 @@
      "query": "worker admiring finished work site"
     },
     {
-     "id": "edenrise-c2-kaizen-S08-V25",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/elderly-man-giving-a-basket-of-vegetables-to-the-elderly-woman-7655581/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V25.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V25.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "",
-     "query": "gardener proud finished garden",
-     "src_id": "7655581",
-     "download_url": "https://videos.pexels.com/video-files/7655581/7655581-hd_1920_1080_25fps.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V26",
-     "type": "video",
+     "id": "edenrise-c2-kaizen-S08-I06",
+     "type": "image",
      "source": "pixabay",
-     "author": "bandialo",
+     "author": "2704056",
      "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-12583/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V26.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V26.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "nature  garden  puhatestő  snail",
-     "query": "gardener proud finished garden",
-     "src_id": "12583",
-     "download_url": "https://cdn.pixabay.com/video/2017/10/23/12583-240358908_large.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
+     "page_url": "https://pixabay.com/photos/people-talking-father-mr-man-1876726/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-I06.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-I06.jpg",
+     "score": 24.99,
+     "categories": [
+      "man",
+      "people",
+      "portrait",
+      "smile",
+      "smiling",
+      "talking"
+     ],
+     "title": "people talking  father  mr  man  vintage  people  beautiful  portrait  human  retro  happiness  boy  joy  happy  photo  ",
+     "query": "carpenter satisfied finished furniture"
     },
     {
-     "id": "edenrise-c2-kaizen-S08-V27",
-     "type": "video",
+     "id": "edenrise-c2-kaizen-S08-I07",
+     "type": "image",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
+     "author": "Mehmet Turgut  Kirkgoz",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/aerial-view-of-quaint-english-neighborhood-29593497/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V27.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V27.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "",
-     "query": "gardener proud finished garden",
-     "src_id": "29593497",
-     "download_url": "https://videos.pexels.com/video-files/29593497/12738138_1920_1080_30fps.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V28",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Jahhoo",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-3251/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V28.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V28.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "snail  nature  garden",
-     "query": "gardener proud finished garden",
-     "src_id": "3251",
-     "download_url": "https://cdn.pixabay.com/video/2016/05/21/3251-167599916_large.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V29",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/man-showing-green-bell-pepper-7655640/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V29.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V29.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "",
-     "query": "gardener proud finished garden",
-     "src_id": "7655640",
-     "download_url": "https://videos.pexels.com/video-files/7655640/7655640-hd_1920_1080_25fps.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V30",
-     "type": "video",
-     "source": "pixabay",
-     "author": "xtrovarts",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-275172/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V30.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V30.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "trader  woman  portrait  people  selling  africa  face  female  nigerian  lagos",
-     "query": "proud craftsman portrait workshop",
-     "src_id": "275172",
-     "download_url": "https://cdn.pixabay.com/video/2025/04/27/275172_large.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V31",
-     "type": "video",
-     "source": "pexels",
-     "author": "Eli Pluma",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-watering-potted-plants-in-a-greenhouse-11988771/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V31.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V31.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "",
-     "query": "gardener proud finished garden",
-     "src_id": "11988771",
-     "download_url": "https://videos.pexels.com/video-files/11988771/11988771-hd_1922_1080_60fps.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V32",
-     "type": "video",
-     "source": "pixabay",
-     "author": "videomoon",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-9740/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V32.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V32.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "garden  read  roundup  garden villa",
-     "query": "gardener smiling portrait garden",
-     "src_id": "9740",
-     "download_url": "https://cdn.pixabay.com/video/2017/06/09/9740-221158546_large.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V33",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/planting-vegetables-7655266/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V33.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V33.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "",
-     "query": "gardener proud finished garden",
-     "src_id": "7655266",
-     "download_url": "https://videos.pexels.com/video-files/7655266/7655266-hd_1920_1080_25fps.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
-    },
-    {
-     "id": "edenrise-c2-kaizen-S08-V34",
-     "type": "video",
-     "source": "pixabay",
-     "author": "GregReese",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-75239/",
-     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-V34.jpg",
-     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-V34.mp4",
-     "score": 0,
-     "categories": [],
-     "title": "gardening  garden  new tiller  community  nature  plant  agriculture",
-     "query": "gardener smiling portrait garden",
-     "src_id": "75239",
-     "download_url": "https://cdn.pixabay.com/video/2021/05/25/75239-555034933_large.mp4",
-     "fresh": true,
-     "added_by": "search-10-more"
+     "page_url": "https://www.pexels.com/photo/close-up-shot-of-a-man-s-face-11822709/",
+     "thumb": "projects/edenrise-c2-kaizen/thumbs/S08/edenrise-c2-kaizen-S08-I07.jpg",
+     "preview": "projects/edenrise-c2-kaizen/previews/S08/edenrise-c2-kaizen-S08-I07.jpg",
+     "score": 24.97,
+     "categories": [
+      "craftsman",
+      "man",
+      "smiling",
+      "working",
+      "workshop"
+     ],
+     "title": "Senior Asian craftsman smiling in a traditional woodworking workshop, capturing a moment of craftsmanship and joy.",
+     "query": "proud craftsman portrait workshop"
     }
    ],
    "onscreen": "See it, Improve it, Test it, Repeat",
