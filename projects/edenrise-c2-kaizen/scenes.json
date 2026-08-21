@@ -2,7 +2,7 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Imagine someone on your team performing the same task every day. It takes twenty minutes. They have done it that way for a year. Then, one day, someone asks a simple question: “Why do we do it this way?” They move one piece of equipment, remove two unnecessary steps, and create a simple checklist. Now, the same task takes twelve minutes. The quality is better. There are fewer mistakes. And no one has to work harder. That is the power of continuous improvement. This approach is often called Kaizen. Kaizen means always looking for a better way.",
+   "script_line": "Imagine someone on your team performing the same task every day. It takes twenty minutes. They have done it that way for a year. Then, one day, someone asks a simple question: “Why do we do it this way?” They move one piece of equipment, remove two unnecessary steps, and create a simple checklist. Now, the same task takes twelve minutes. The quality is better. There are fewer mistakes. And no one has to work harder. …",
    "visual_direction": "Repeated task shown the old way, with extra movement and unnecessary steps. Then a streamlined version with better organization and smoother flow.",
    "t": 0.0,
    "end": 39.44,
@@ -317,7 +317,7 @@
   },
   {
    "id": "S02",
-   "script_line": "There are two ways to approach work. The first is: “This is how we do it.” The second is: “This is how we do it today. Could it be better?” That small difference in thinking can have a significant impact. A continuous-improvement mindset means that you do not simply complete the work. You also pay attention to how the work gets done. You notice unnecessary steps. Repeated mistakes. Poor organization. Confusing instructions. Tasks that take longer than they should. And work that constantly needs to be done again. Instead of simply accepting these problems, you become curious. Why are we doing t",
+   "script_line": "There are two ways to approach work. The first is: “This is how we do it.” The second is: “This is how we do it today. Could it be better?” That small difference in thinking can have a significant impact. A continuous-improvement mindset means that you do not simply complete the work. You also pay attention to how the work gets done. You notice unnecessary steps. Repeated mistakes. Poor organization. …",
    "visual_direction": "Different employees completing tasks, noticing inefficiencies, pausing, observing, and thinking through improvements.",
    "t": 39.44,
    "end": 82.95,
@@ -651,7 +651,7 @@
   },
   {
    "id": "S03",
-   "script_line": "Efficiency is sometimes misunderstood. Efficiency does not mean rushing. It does not mean cutting corners. And it does not mean sacrificing quality just to finish faster. Real efficiency means removing unnecessary effort while maintaining, or improving, the result. Imagine that you regularly need five tools to complete a task. But those tools are stored in five different places. You could become very fast at walking back and forth. Or you could ask: “Why aren’t the tools we regularly use kept together?” The goal is not to work harder at an inefficient process. The goal is to improve the proces",
+   "script_line": "Efficiency is sometimes misunderstood. Efficiency does not mean rushing. It does not mean cutting corners. And it does not mean sacrificing quality just to finish faster. Real efficiency means removing unnecessary effort while maintaining, or improving, the result. Imagine that you regularly need five tools to complete a task. But those tools are stored in five different places. …",
    "visual_direction": "Someone repeatedly walking to collect equipment, then a better-organized setup with everything needed nearby.",
    "t": 82.95,
    "end": 122.18,
@@ -1006,7 +1006,7 @@
   },
   {
    "id": "S04",
-   "script_line": "One of the easiest ways to find opportunities for improvement is to look for friction. Friction is anything that makes a task more difficult than it needs to be. Maybe information is difficult to find. Maybe the same information is entered twice. Maybe equipment is stored in the wrong place. Maybe people regularly have to ask the same question. Maybe a process has six steps when it could have three. Or perhaps a simple checklist could prevent something from being forgotten. Pay attention whenever you catch yourself thinking: “This always takes too long.” “Why does this keep happening?” Or: “Th",
+   "script_line": "One of the easiest ways to find opportunities for improvement is to look for friction. Friction is anything that makes a task more difficult than it needs to be. Maybe information is difficult to find. Maybe the same information is entered twice. Maybe equipment is stored in the wrong place. Maybe people regularly have to ask the same question. Maybe a process has six steps when it could have three. …",
    "visual_direction": "Searching for information, duplicate work, repeated questions, unnecessary movement, followed by cleaner processes.",
    "t": 122.18,
    "end": 165.45,
@@ -1324,7 +1324,7 @@
   },
   {
    "id": "S05",
-   "script_line": "When you notice something that could be improved, ask five simple questions. Number one: Why are we doing this? What purpose does this step actually serve? Number two: Can we eliminate it? Sometimes, the best way to improve a process is to remove a step that is not needed. Number three: Can we simplify it? Could five actions become three? Number four: Can we systemize it? Would a checklist, a template, a clearer process, better organization, or automation make it easier? And number five: Can we improve the result at the same time? The best improvements do more than save time. They can also imp",
+   "script_line": "When you notice something that could be improved, ask five simple questions. Number one: Why are we doing this? What purpose does this step actually serve? Number two: Can we eliminate it? Sometimes, the best way to improve a process is to remove a step that is not needed. …",
    "visual_direction": "Each question appears as a process visually becomes simpler, cleaner, and more reliable.",
    "t": 165.45,
    "end": 216.6,
@@ -1512,7 +1512,7 @@
   },
   {
    "id": "S06",
-   "script_line": "Kaizen is not about waiting for one enormous breakthrough. Most improvements are small. You save two minutes on a repeated task. You create a clearer checklist. You reorganize a workspace. You change the order of a process. You make instructions easier to understand. You prevent a common mistake from happening again. One small improvement may not seem significant. But imagine every person in an organization making small improvements throughout the year. The effect compounds. Work becomes smoother. Mistakes are reduced. Time is saved. Quality improves. And people spend less energy dealing with ",
+   "script_line": "Kaizen is not about waiting for one enormous breakthrough. Most improvements are small. You save two minutes on a repeated task. You create a clearer checklist. You reorganize a workspace. You change the order of a process. You make instructions easier to understand. You prevent a common mistake from happening again. One small improvement may not seem significant. …",
    "visual_direction": "Multiple team members making small improvements across different types of work.",
    "t": 216.6,
    "end": 258.69,
@@ -2045,7 +2045,7 @@
   },
   {
    "id": "S07",
-   "script_line": "Continuous improvement also changes the way we respond to problems. It is easy to say: “This process does not work.” “This is inefficient.” Or: “Someone should fix this.” But Kaizen asks us to go one step further. Instead of only identifying the problem, ask: “What could make it better?” Perhaps you do not have the authority to change the process yourself. That is okay. You can still observe carefully, understand the problem, and offer a thoughtful suggestion. Instead of saying: “This process is terrible.” Try saying: “I’ve noticed that we lose time here. I think there may be a simpler way. Wh",
+   "script_line": "Continuous improvement also changes the way we respond to problems. It is easy to say: “This process does not work.” “This is inefficient.” Or: “Someone should fix this.” But Kaizen asks us to go one step further. Instead of only identifying the problem, ask: “What could make it better?” Perhaps you do not have the authority to change the process yourself. That is okay. …",
    "visual_direction": "Team member observing a problem, discussing it constructively, suggesting a solution, and testing an improvement.",
    "t": 258.69,
    "end": 303.95,
@@ -2349,7 +2349,7 @@
   },
   {
    "id": "S08",
-   "script_line": "Here is your challenge. Think about something you do repeatedly. Something you do every day, every week, or every month. Then, look at it with fresh eyes. Ask: Why do we do it this way? Is every step necessary? Can anything be simplified? Can anything be organized better? Could we prevent a mistake before it happens? Could we save time without reducing quality? Then, choose one small improvement and test it. You do not need to redesign everything. Improve one thing. Then improve another. That is Kaizen. Always looking for a better way. Excellence is not only about doing your work well. It is a",
+   "script_line": "Here is your challenge. Think about something you do repeatedly. Something you do every day, every week, or every month. Then, look at it with fresh eyes. Ask: Why do we do it this way? Is every step necessary? Can anything be simplified? Can anything be organized better? Could we prevent a mistake before it happens? Could we save time without reducing quality? Then, choose one small improvement and test it. …",
    "visual_direction": "Person reviewing a repeated task, making one small change, testing it, and seeing a better result.",
    "t": 303.95,
    "end": 357.91,

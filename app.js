@@ -133,7 +133,8 @@ function render() {
              <span class="dur">${Math.round(sc.end - sc.t)}s on screen</span>
              ${sc.timing_source === "narration" ? '<span class="verified" title="Anchored to the recorded narration">✓ timed to audio</span>' : '<span class="unverified" title="Not yet anchored to the recorded audio — treat as approximate">≈ estimated</span>'}</div>` : ""}
           <div class="scene-heard"><span class="tag">VIEWER HEARS</span>
-            <span class="heard-txt">“${esc(sc.script_line)}”</span></div>
+            <span class="heard-txt clamp" title="Click to show the whole line"
+              >“${esc(sc.script_line)}”</span></div>
           <div class="scene-show"><span class="tag show">PICK FOOTAGE THAT SHOWS</span>
             <span class="show-txt">${esc(sc.visual_direction)}</span></div>
           ${sc.onscreen ? `<div class="scene-onscreen"><span class="tag os">ON-SCREEN TEXT</span> ${esc(sc.onscreen)}</div>` : ""}
@@ -151,6 +152,8 @@ function render() {
       <div class="grid">${cards || '<p class="muted">No clips.</p>'}</div>
     </section>`;
   }).join("");
+  wrap.querySelectorAll(".heard-txt").forEach(el =>
+    el.onclick = () => el.classList.toggle("clamp"));
   wrap.querySelectorAll(".card").forEach(el =>
     el.onclick = e => { if (e.target.tagName !== "A") toggle(el); });
   wrap.querySelectorAll(".reshoot").forEach(el =>
