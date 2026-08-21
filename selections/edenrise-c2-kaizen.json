@@ -1,11 +1,8 @@
 {
   "project": "edenrise-c2-kaizen",
-  "updated": "2026-08-21T13:16:27.870Z",
-  "ready": true,
+  "updated": "2026-08-21T15:39:38.603Z",
+  "ready": false,
   "approved": {
-    "S04": [
-      "edenrise-c2-kaizen-S04-V12"
-    ],
     "S08": [
       "edenrise-c2-kaizen-S08-V10"
     ],
@@ -37,7 +34,7 @@
     },
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vÃ­deo",
+      "note": "generates more contextual vÃÂ­deo",
       "done": true
     },
     "S08": {
