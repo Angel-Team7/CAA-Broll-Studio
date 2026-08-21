@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-kaizen",
-  "updated": "2026-08-21T15:40:20.182Z",
+  "updated": "2026-08-21T15:40:22.082Z",
   "ready": false,
   "approved": {
     "S08": [
@@ -23,6 +23,9 @@
     ],
     "S07": [
       "edenrise-c2-kaizen-S07-V01"
+    ],
+    "S04": [
+      "edenrise-c2-kaizen-S04-V23"
     ]
   },
   "needs_broll": {},
