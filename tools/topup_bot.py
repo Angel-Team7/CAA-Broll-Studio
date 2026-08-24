@@ -289,6 +289,30 @@ SOURCES = (search_pexels, search_pixabay, search_coverr, search_wikimedia)
 def sh(*args, **kw):
     return subprocess.run(args, capture_output=True, text=True, **kw)
 
+def parse_note(note):
+    """Split "more hands in soil, less plated food" into what to chase and what to bar.
+
+    A direction complaint is mostly about what must STOP appearing, and that half
+    was previously thrown away — the note was flattened into loose keywords, so
+    the same rejected footage came straight back.
+    """
+    text = (note or "").lower()
+    want, avoid = [], []
+    for chunk in re.split(r"[,;.]| and | but ", text):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        neg = re.match(r"(?:less|no|not|without|fewer|avoid|stop|instead of|too|too much|drop)\s+(.*)", chunk)
+        pos = re.match(r"(?:more|want|prefer|show|need)\s+(.*)", chunk)
+        if neg:
+            avoid += [w for w in re.findall(r"[a-z]{3,}", neg.group(1))]
+        elif pos:
+            want.append(pos.group(1).strip())
+        else:
+            want.append(chunk)
+    return [w for w in want if w], avoid
+
+
 def queries_for(scene, note):
     """Reuse the scene's own proven queries, then widen with its visual direction."""
     seen, qs = set(), []
@@ -347,7 +371,7 @@ def credit_line(c):
     return f"| {c['source']} | {c.get('title','')[:60]} | {c.get('author','')} | {c['license']} | {c.get('page_url','')} |"
 
 # ---------------------------------------------------------------------- main
-def run_scene(slug, scene_id, note, profile):
+def run_scene(slug, scene_id, note, profile, reason=""):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
         print(f"  ! no scenes.json for {slug} — skipped")
@@ -359,14 +383,24 @@ def run_scene(slug, scene_id, note, profile):
         return 0
 
     seen = seen_keys(card)
+    want, avoid = parse_note(note)
+    direction = reason == "direction"
+    if direction:
+        print(f"  direction change — chasing {want or ['(note)']}, barring {avoid or ['-']}")
 
-    # 1) shop our own shelves first — instant, free, and it builds continuity
-    from_lib = library_picks(scene, note, profile, seen,
-                             max(1, int(WANT_VIDEOS * LIBRARY_MAX_SHARE)))
+    # Owned footage is exactly what is being rejected, so skip the library when the
+    # direction is wrong; only top-ups for "need more" shop our own shelves.
+    from_lib = [] if direction else library_picks(
+        scene, note, profile, seen, max(1, int(WANT_VIDEOS * LIBRARY_MAX_SHARE)))
     need_web = WANT_VIDEOS - len(from_lib)
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat")
-    qs = queries_for(scene, note)
+    if direction and want:
+        subject = " ".join(sorted(VOCAB["subjects"])[:0]) or ""
+        qs = [w if has_signal(w) else f"worker {w}" for w in want]
+        qs += [f"{w} close up" for w in want[:2]]
+    else:
+        qs = queries_for(scene, note)
     print(f"  queries: {qs[:6]}{'…' if len(qs) > 6 else ''}")
 
     # start deep enough in the result pages that we are not re-offering page 1
@@ -391,6 +425,8 @@ def run_scene(slug, scene_id, note, profile):
                     desc = (c.get("title") or "").strip()
                     if blocked(f"{desc} {c.get('query','')}", profile):
                         continue
+                    if avoid and (_tok(desc) & set(avoid)):
+                        continue                    # the reviewer said: not this
                     # A tagged candidate must EARN its place: its own words have to
                     # show a person, their hands or their work. Untagged ones (pexels
                     # often has no alt text) fall back to query relevance.
@@ -498,20 +534,20 @@ def main():
         slug = sel.get("project") or p.stem
         for sid, req in (sel.get("topup_requests") or {}).items():
             if isinstance(req, dict) and not req.get("done"):
-                pending.append((p, slug, sid, req.get("note", "")))
+                pending.append((p, slug, sid, req.get("note", ""), req.get("reason", "")))
 
     if not pending:
         print("no pending top-up requests")
         return 0
-    print(f"pending top-ups: {[(s, i) for _, s, i, _ in pending]}")
+    print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r in pending]}")
 
     total = 0
-    for path, slug, sid, note in pending[:MAX_SCENES_PER_RUN]:
+    for path, slug, sid, note, reason in pending[:MAX_SCENES_PER_RUN]:
         profile = "belong" if slug.startswith("belong") else "edenrise"
         print(f"→ {slug} {sid}  ({note!r})")
         # materialise this project in the sparse checkout
         sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
-        n = run_scene(slug, sid, note, profile)
+        n = run_scene(slug, sid, note, profile, reason)
         if n:
             sel = json.load(open(path))
             sel["topup_requests"][sid]["done"] = True

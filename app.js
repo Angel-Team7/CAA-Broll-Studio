@@ -225,17 +225,34 @@ function toggle(el) {
 }
 
 // Flag/unflag a scene as needing different B-roll (with an optional reason).
-function toggleReshoot(sid) {
+// "Direction is wrong" = the pool is off-target, not merely small. It records the
+// reason AND fires a fresh search steered by that reason, so a wrong direction is
+// corrected in minutes instead of waiting for a human pass.
+async function toggleReshoot(sid) {
   if (sid in state.reshoot) {
     delete state.reshoot[sid];
-  } else {
-    const why = prompt(`What's wrong with ${sid}'s footage? (optional — e.g. "too office, want outdoor grounds crew")`, "");
-    if (why === null) return;            // cancelled
-    state.reshoot[sid] = why.trim();
+    if (state.topup && state.topup[sid] && state.topup[sid].reason === "direction")
+      delete state.topup[sid];
+    persistLocal(); render(); autosave();
+    toast(`${sid}: flag removed`);
+    return;
   }
-  persistLocal();
-  render();
-  autosave();
+  const why = prompt(
+    `What should ${sid} show instead?\n` +
+    `Say what you want and what you don't — e.g. "more hands in soil, less plated food"`, "");
+  if (why === null) return;                       // cancelled
+  state.reshoot[sid] = why.trim();
+  state.topup = state.topup || {};
+  state.topup[sid] = { requested: new Date().toISOString(), note: why.trim(),
+                       reason: "direction", done: false };
+  persistLocal(); render();
+  if (gh && gh.token) {
+    toast(`${sid}: searching for that instead…`);
+    try { await save(false); toast(`${sid}: 10 new options on the way — refresh in a few min`); }
+    catch (e) { toast(`${sid}: flagged, but saving failed — hit Save approvals`); }
+  } else {
+    toast(`${sid}: flagged — connect GitHub or hit Save approvals to send it`);
+  }
 }
 
 // One click = 10 more. Fires the GitHub Action immediately (it watches
