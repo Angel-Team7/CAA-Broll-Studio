@@ -32,7 +32,7 @@
   "topup_requests": {
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vÃÂÃÂ­deo",
+      "note": "generates more contextual v\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00addeo",
       "done": true
     },
     "S08": {
@@ -53,7 +53,9 @@
     "S05": {
       "requested": "2026-08-24T10:04:17.813Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-24T10:05:13Z",
+      "added": 10
     }
   }
 }
