@@ -1,7 +1,7 @@
 {
   "project": "edenrise-c2-kaizen",
-  "updated": "2026-08-24T10:32:34.249Z",
-  "ready": true,
+  "updated": "2026-08-24T10:45:27.533Z",
+  "ready": false,
   "approved": {
     "S08": [
       "edenrise-c2-kaizen-S08-V10"
@@ -22,7 +22,8 @@
       "edenrise-c2-kaizen-S04-V23"
     ],
     "S05": [
-      "edenrise-c2-kaizen-S05-V14"
+      "edenrise-c2-kaizen-S05-V14",
+      "edenrise-c2-kaizen-S05-V44"
     ],
     "S02": [
       "edenrise-c2-kaizen-S02-V02"
@@ -34,7 +35,7 @@
   "topup_requests": {
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual v\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00addeo",
+      "note": "generates more contextual vÃÂÃÂÃÂÃÂ­deo",
       "done": true
     },
     "S08": {
