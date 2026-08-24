@@ -28,19 +28,19 @@
       "edenrise-c2-kaizen-S02-V02"
     ]
   },
-  "needs_broll": {
-    "S04": "more pleaes",
-    "S05": "pleae 10 more contextual"
-  },
+  "needs_broll": {},
   "topup_requests": {
     "S05": {
-      "requested": "2026-08-18T14:22:28.685Z",
-      "note": "generates more contextual",
-      "done": true
+      "requested": "2026-08-24T09:06:00Z",
+      "note": "pleae 10 more contextual",
+      "done": true,
+      "fulfilled": "2026-08-24T12:00:00Z",
+      "added": 1,
+      "exhausted": "free stock has no more for this beat"
     },
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vÃÂÃÂ­deo",
+      "note": "generates more contextual v\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00addeo",
       "done": true
     },
     "S08": {
@@ -49,6 +49,14 @@
       "done": true,
       "fulfilled": "2026-08-20T11:42:29Z",
       "added": 10
+    },
+    "S04": {
+      "requested": "2026-08-24T09:06:00Z",
+      "note": "more pleaes",
+      "done": true,
+      "fulfilled": "2026-08-24T12:00:00Z",
+      "added": 1,
+      "exhausted": "free stock has no more for this beat"
     }
   }
 }
