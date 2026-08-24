@@ -22,3 +22,13 @@
 | pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
 | pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/woman-putting-beans-in-jar-7772703/ |
 | pixabay | wash your hands  water  soap  water tap  hygiene  hand  clea | wollschu | Pixabay Content License | https://pixabay.com/videos/id-33742/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/men-working-in-a-warehouse-4281405/ |
+| pixabay | woman  fast food  workshop  safety  convenience  lifestyle   | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-130651/ |
+| pexels |  | Declan Conor | Pexels License | https://www.pexels.com/video/people-walking-down-the-street-with-their-dogs-25747363/ |
+| pixabay | highway  road  car  transportation  vehicle  asphalt  aerial | mds524680 | Pixabay Content License | https://pixabay.com/videos/id-70856/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/ |
+| pixabay | machine  asphalt paver  new road  building  asphalt  roads   | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-42698/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-looking-at-his-destination-7010565/ |
+| pixabay | woman  smile  communication  gesture  expression  asian  clo | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174008/ |
+| pexels |  | benedicto 13 | Pexels License | https://www.pexels.com/video/rural-tractor-ride-on-a-dirt-road-37611943/ |
+| pixabay | bumblebee  garden  nature  close up | Nightwolfone | Pixabay Content License | https://pixabay.com/videos/id-42356/ |
