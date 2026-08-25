@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S02",
-   "script_line": "Something happens at work. You interpret it \u2014 you think about what it means. That thought shapes what you do next. And what you do produces the result you see. Event, interpretation, action, result.",
-   "visual_direction": "A cause-and-effect sequence: a workplace event (something breaks, an instruction arrives), a thoughtful worker pausing to interpret, then acting, then seeing a result. Contemplative but dignified \u2014 no dark-stare portraits.",
+   "script_line": "",
+   "visual_direction": "A cause-and-effect sequence: a workplace event (something breaks, an instruction arrives), a thoughtful worker pausing to interpret, then acting, then seeing a result. Contemplative but dignified — no dark-stare portraits. — Something happens at work. You interpret it — you think about what it means. That thought shapes what you do next. And what you do produces the result you see. Event, interpretation, action, result.",
    "t": 18.0,
    "end": 36.0,
    "quota": {
@@ -187,12 +187,13 @@
      "title": "Group of farmers in outdoor field harvesting yupanqui peppercorns with smiles and teamwork.",
      "query": "farmer checking harvest crate result"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S07",
-   "script_line": "Five steps: catch the thought as it happens. Pause. Question it. Choose a more useful interpretation. Then act small \u2014 write it down, ask, attempt the first piece.",
-   "visual_direction": "One person catching themselves mid-thought: pausing mid-task, reflecting, breathing, then a small deliberate action \u2014 writing something down, asking a question, attempting the first piece of a task. Intimate, quiet, human.",
+   "script_line": "",
+   "visual_direction": "One person catching themselves mid-thought: pausing mid-task, reflecting, breathing, then a small deliberate action — writing something down, asking a question, attempting the first piece of a task. Intimate, quiet, human. — Five steps: catch the thought as it happens. Pause. Question it. Choose a more useful interpretation. Then act small — write it down, ask, attempt the first piece.",
    "t": 108.0,
    "end": 126.0,
    "quota": {
@@ -380,12 +381,13 @@
      "title": "A construction worker kneels to pour concrete at a building site, wearing safety gear.",
      "query": "worker trying new tool first time"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S05",
-   "script_line": "A winning belief is not a pose. It is grounded and action-oriented: preparing for the day, learning the skill, asking the question, taking the next practical step \u2014 not empty positivity.",
-   "visual_direction": "Grounded practical action: workers preparing tools for the day, learning a skill hands-on, asking questions in training, taking concrete next steps. Contrast with empty-positivity poses \u2014 nothing staged or motivational-poster.",
+   "script_line": "",
+   "visual_direction": "Grounded practical action: workers preparing tools for the day, learning a skill hands-on, asking questions in training, taking concrete next steps. Contrast with empty-positivity poses — nothing staged or motivational-poster. — A winning belief is not a pose. It is grounded and action-oriented: preparing for the day, learning the skill, asking the question, taking the next practical step — not empty positivity.",
    "t": 72.0,
    "end": 90.0,
    "quota": {
@@ -529,7 +531,7 @@
      "id": "edenrise-c2-winning-beliefs-S05-I00",
      "type": "image",
      "source": "pexels",
-     "author": "\u0110\u1eadu Photograph",
+     "author": "Đậu Photograph",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/workers-and-elders-collaborating-at-a-construction-site-35106290/",
      "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S05/edenrise-c2-winning-beliefs-S05-I00.jpg",
@@ -585,12 +587,13 @@
      "title": "worker  builder  tool  construction  safety  contractor  industry  man  building  builder  builder  builder  builder  co",
      "query": "worker sharpening tools bench"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S06",
-   "script_line": "Composed under pressure. Technical work that cannot be rushed, outdoor work in hard conditions, operational decisions, difficult conversations, time-sensitive problem-solving \u2014 the belief that holds keeps you working the",
-   "visual_direction": "Composure under real pressure: precise technical work, outdoor work in hard weather, an operational decision being made, a difficult but respectful conversation, urgent problem-solving. NO combat/military imagery, no shouting.",
+   "script_line": "",
+   "visual_direction": "Composure under real pressure: precise technical work, outdoor work in hard weather, an operational decision being made, a difficult but respectful conversation, urgent problem-solving. NO combat/military imagery, no shouting. — Composed under pressure. Technical work that cannot be rushed, outdoor work in hard conditions, operational decisions, difficult conversations, time-sensitive problem-solving — the belief that holds keeps you working the",
    "t": 90.0,
    "end": 108.0,
    "quota": {
@@ -786,12 +789,13 @@
      "title": "Two workers engaged in painting and renovating a building roof, showcasing a construction scene.",
      "query": "roofer working carefully height"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S08",
-   "script_line": "The old cycle avoids: pass the problem on, look away, hope it resolves. The new cycle engages: define the problem, gather the facts, try one step, learn from what happens.",
-   "visual_direction": "Contrast: avoidance (worker looking away from a problem, handing it off, leaving it) vs engagement (kneeling to inspect the fault, measuring, checking facts on a clipboard, trying one repair step, examining the outcome).",
+   "script_line": "",
+   "visual_direction": "Contrast: avoidance (worker looking away from a problem, handing it off, leaving it) vs engagement (kneeling to inspect the fault, measuring, checking facts on a clipboard, trying one repair step, examining the outcome). — The old cycle avoids: pass the problem on, look away, hope it resolves. The new cycle engages: define the problem, gather the facts, try one step, learn from what happens.",
    "t": 126.0,
    "end": 144.0,
    "quota": {
@@ -1000,12 +1004,13 @@
      "title": "construction site  construction workers  building  hard work  safety  project  working  engineer  builder  helmet  under",
      "query": "builder examining foundation problem"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S01",
-   "script_line": "Two workers receive the same feedback. One withdraws \u2014 steps back from the task, avoids it. The other takes notes, asks a question, practices, and returns. Same words, two completely different outcomes.",
-   "visual_direction": "Both halves needed: a worker receiving feedback and withdrawing (head down, stepping back, walking away from the task) AND a worker engaging (taking notes, asking a question, practicing a skill, returning to the work). Dignified trades/land/technical settings.",
+   "script_line": "",
+   "visual_direction": "Both halves needed: a worker receiving feedback and withdrawing (head down, stepping back, walking away from the task) AND a worker engaging (taking notes, asking a question, practicing a skill, returning to the work). Dignified trades/land/technical settings. — Two workers receive the same feedback. One withdraws — steps back from the task, avoids it. The other takes notes, asks a question, practices, and returns. Same words, two completely different outcomes.",
    "t": 0.0,
    "end": 18.0,
    "quota": {
@@ -1201,12 +1206,13 @@
      "title": "Two workers in safety gear walking across a construction site under a clear sky.",
      "query": "supervisor giving instructions worker site"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S03",
-   "script_line": "A belief is like a table. The tabletop is the idea; the legs are the experiences holding it up. Inspect the legs. Some are sturdy. Some were bolted on after one mistake, one criticism \u2014 and the whole table wobbles.",
-   "visual_direction": "Real table/workbench material: carpenter building a wooden table, hands inspecting table legs, checking sturdiness, close-ups of joinery \u2014 PLUS a worker reconsidering after a mistake or criticism (pausing, looking again at the work).",
+   "script_line": "",
+   "visual_direction": "Real table/workbench material: carpenter building a wooden table, hands inspecting table legs, checking sturdiness, close-ups of joinery — PLUS a worker reconsidering after a mistake or criticism (pausing, looking again at the work). — A belief is like a table. The tabletop is the idea; the legs are the experiences holding it up. Inspect the legs. Some are sturdy. Some were bolted on after one mistake, one criticism — and the whole table wobbles.",
    "t": 36.0,
    "end": 54.0,
    "quota": {
@@ -1387,7 +1393,7 @@
      "id": "edenrise-c2-winning-beliefs-S03-V11",
      "type": "video",
      "source": "pexels",
-     "author": "Burak Bahad\u0131r  B\u00fcy\u00fckk\u0131l\u0131n\u00e7",
+     "author": "Burak Bahadır  Büyükkılınç",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/woodworker-polishing-timber-in-workshop-35323766/",
      "thumb": "projects/edenrise-c2-winning-beliefs/thumbs/S03/edenrise-c2-winning-beliefs-S03-V11.jpg",
@@ -1705,12 +1711,13 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S04",
-   "script_line": "The same change arrives for everyone. Through one filter a person sees only confusion and difficulty. Through another, someone finds the information, asks for support, and takes the next manageable step.",
-   "visual_direction": "Two filters on the same change: one person confused/stuck over plans or a task; another finding information (reading a manual, checking plans), asking a colleague for support, taking one clear next step. Dignified, no despair clich\u00e9s.",
+   "script_line": "",
+   "visual_direction": "Two filters on the same change: one person confused/stuck over plans or a task; another finding information (reading a manual, checking plans), asking a colleague for support, taking one clear next step. Dignified, no despair clichés. — The same change arrives for everyone. Through one filter a person sees only confusion and difficulty. Through another, someone finds the information, asks for support, and takes the next manageable step.",
    "t": 54.0,
    "end": 72.0,
    "quota": {
@@ -1899,12 +1906,13 @@
      "title": "Two gardeners, a man and a woman, work together in a nursery garden, promoting teamwork and diversity.",
      "query": "two workers greenhouse discussing plants"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S09",
-   "script_line": "The challenge: write down the old belief. Sketch its table \u2014 the experiences holding it up. Cross out one interpretation that no longer serves you. Write the new belief. Then take one visible action on it today.",
-   "visual_direction": "A person doing the written exercise: writing in a journal, sketching a diagram, crossing out a line, writing a new line \u2014 then closing the notebook and taking one visible action (standing up, picking up tools, making the call, starting the task).",
+   "script_line": "",
+   "visual_direction": "A person doing the written exercise: writing in a journal, sketching a diagram, crossing out a line, writing a new line — then closing the notebook and taking one visible action (standing up, picking up tools, making the call, starting the task). — The challenge: write down the old belief. Sketch its table — the experiences holding it up. Cross out one interpretation that no longer serves you. Write the new belief. Then take one visible action on it today.",
    "t": 144.0,
    "end": 162.0,
    "quota": {
@@ -2077,7 +2085,8 @@
      "title": "Detailed architectural sketches with drawing tools on a desk, perfect for design projects.",
      "query": "person sketching diagram notebook"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   }
  ]
 }

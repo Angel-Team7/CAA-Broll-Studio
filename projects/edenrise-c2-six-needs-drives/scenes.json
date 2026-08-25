@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "People are driven by six human needs \u2014 and you see them at work everywhere: outdoors on the land, in technical work, in meetings, in teams, and working alone.",
-   "visual_direction": "Varied dignified people working in varied environments: land work outdoors, technical hands-on work, a small planning meeting, a team together, one person focused alone.",
+   "script_line": "",
+   "visual_direction": "Varied dignified people working in varied environments: land work outdoors, technical hands-on work, a small planning meeting, a team together, one person focused alone. — People are driven by six human needs — and you see them at work everywhere: outdoors on the land, in technical work, in meetings, in teams, and working alone.",
    "t": 0.0,
    "end": 20.0,
    "quota": {
@@ -203,12 +203,13 @@
      "title": "Two construction workers in safety gear discussing plans at a construction site.",
      "query": "toolbox talk morning crew hardhats"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S05",
-   "script_line": "Connection: collaboration, helping a colleague, truly listening \u2014 even disagreeing with respect and resolving it.",
-   "visual_direction": "Real connection at work: two people collaborating, one helping another, attentive listening, a respectful disagreement that ends resolved with a handshake or nod.",
+   "script_line": "",
+   "visual_direction": "Real connection at work: two people collaborating, one helping another, attentive listening, a respectful disagreement that ends resolved with a handshake or nod. — Connection: collaboration, helping a colleague, truly listening — even disagreeing with respect and resolving it.",
    "t": 80.0,
    "end": 100.0,
    "quota": {
@@ -823,12 +824,13 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S06",
-   "script_line": "Growth: learning from a colleague, practicing a skill, reading the instructions, taking feedback, improving.",
-   "visual_direction": "Learning in motion: apprentice watching a mentor, practicing a technique, reading a manual or instructions, receiving feedback and applying it, visible improvement.",
+   "script_line": "",
+   "visual_direction": "Learning in motion: apprentice watching a mentor, practicing a technique, reading a manual or instructions, receiving feedback and applying it, visible improvement. — Growth: learning from a colleague, practicing a skill, reading the instructions, taking feedback, improving.",
    "t": 100.0,
    "end": 120.0,
    "quota": {
@@ -1026,12 +1028,13 @@
      "title": "Side view of senior foreman in eyeglasses showing to trainee how handling detail in workshop",
      "query": "mentor teaching apprentice workshop"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S03",
-   "script_line": "Variety: the pull toward switching tasks and new ideas \u2014 brainstorming, trying something different \u2014 and then the discipline of returning to finish one thing properly.",
-   "visual_direction": "Energy of variety: switching between tasks, a lively idea exchange; then returning to one task and finishing it properly, tools down, job complete.",
+   "script_line": "",
+   "visual_direction": "Energy of variety: switching between tasks, a lively idea exchange; then returning to one task and finishing it properly, tools down, job complete. — Variety: the pull toward switching tasks and new ideas — brainstorming, trying something different — and then the discipline of returning to finish one thing properly.",
    "t": 40.0,
    "end": 60.0,
    "quota": {
@@ -1096,7 +1099,7 @@
      "id": "edenrise-c2-six-needs-drives-S03-V04",
      "type": "video",
      "source": "pexels",
-     "author": "Burak Bahad\u0131r  B\u00fcy\u00fckk\u0131l\u0131n\u00e7",
+     "author": "Burak Bahadır  Büyükkılınç",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/craftsman-using-hand-plane-in-workshop-35170033/",
      "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-V04.jpg",
@@ -1206,7 +1209,7 @@
      "id": "edenrise-c2-six-needs-drives-S03-I07",
      "type": "image",
      "source": "pexels",
-     "author": "D\u039bV\u039e G\u039bRCI\u039b",
+     "author": "DΛVΞ GΛRCIΛ",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/construction-workers-painting-interior-walls-36153946/",
      "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S03/edenrise-c2-six-needs-drives-S03-I07.jpg",
@@ -1415,12 +1418,13 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S08",
-   "script_line": "All six needs show up in everyday workplace behavior \u2014 certainty, variety, significance, connection, growth, contribution \u2014 woven through one working day.",
-   "visual_direction": "Montage across one working day: order and checklists, task variety, quiet mastery, human connection, learning, and generous contribution \u2014 varied dignified roles.",
+   "script_line": "",
+   "visual_direction": "Montage across one working day: order and checklists, task variety, quiet mastery, human connection, learning, and generous contribution — varied dignified roles. — All six needs show up in everyday workplace behavior — certainty, variety, significance, connection, growth, contribution — woven through one working day.",
    "t": 140.0,
    "end": 160.0,
    "quota": {
@@ -1547,7 +1551,7 @@
      "id": "edenrise-c2-six-needs-drives-S08-I01",
      "type": "image",
      "source": "pexels",
-     "author": "\u0110\u1eadu Photograph",
+     "author": "Đậu Photograph",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/teamwork-in-action-on-a-construction-site-35106289/",
      "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S08/edenrise-c2-six-needs-drives-S08-I01.jpg",
@@ -1585,12 +1589,13 @@
      "title": "housebuilding  construction site  construction work  building  framework  house  support  shell  to build  work  maurer ",
      "query": "montage workers various trades day"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S07",
-   "script_line": "Contribution: helping without being asked, teaching what you know, improving a shared space, preparing things for the next shift.",
-   "visual_direction": "Quiet generosity: helping unasked, teaching a colleague, tidying or improving a shared space, setting up tools and materials ready for the next shift.",
+   "script_line": "",
+   "visual_direction": "Quiet generosity: helping unasked, teaching a colleague, tidying or improving a shared space, setting up tools and materials ready for the next shift. — Contribution: helping without being asked, teaching what you know, improving a shared space, preparing things for the next shift.",
    "t": 120.0,
    "end": 140.0,
    "quota": {
@@ -1965,12 +1970,13 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S04",
-   "script_line": "Significance: some chase attention loudly. Others earn it quietly \u2014 excellent work, problems solved, no fuss.",
-   "visual_direction": "Contrast: someone performing for attention versus a quiet excellent worker solving a real problem with skill. Dignity in mastery, not noise.",
+   "script_line": "",
+   "visual_direction": "Contrast: someone performing for attention versus a quiet excellent worker solving a real problem with skill. Dignity in mastery, not noise. — Significance: some chase attention loudly. Others earn it quietly — excellent work, problems solved, no fuss.",
    "t": 60.0,
    "end": 80.0,
    "quota": {
@@ -2158,12 +2164,13 @@
      "title": "electrician  wiring  mounting  tool  tools  manual  repair  work  building  wire  screwdriver  electrician  electrician ",
      "query": "electrician wiring panel neatly"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S02",
-   "script_line": "Certainty: the comfort of a checklist, a schedule, an organized space. Then a change is introduced \u2014 and the skill is calm adaptation.",
-   "visual_direction": "Order first: checklist ticked, schedule on wall, tidy organized workspace. Then a change arrives and a worker adapts calmly, re-planning without panic.",
+   "script_line": "",
+   "visual_direction": "Order first: checklist ticked, schedule on wall, tidy organized workspace. Then a change arrives and a worker adapts calmly, re-planning without panic. — Certainty: the comfort of a checklist, a schedule, an organized space. Then a change is introduced — and the skill is calm adaptation.",
    "t": 20.0,
    "end": 40.0,
    "quota": {
@@ -2344,7 +2351,7 @@
      "id": "edenrise-c2-six-needs-drives-S02-I04",
      "type": "image",
      "source": "pexels",
-     "author": "Jos\u00e9 Carlos Alexandre",
+     "author": "José Carlos Alexandre",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/construction-workers-in-helmets-and-reflective-vests-17797264/",
      "thumb": "projects/edenrise-c2-six-needs-drives/thumbs/S02/edenrise-c2-six-needs-drives-S02-I04.jpg",
@@ -2360,12 +2367,13 @@
      "title": "Two construction workers in helmets and vests review blueprints on a site.",
      "query": "builder checking plan tablet calm"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S09",
-   "script_line": "Know what drives you. A person pauses, reflects, writes it down \u2014 then rejoins their colleagues with clearer direction.",
-   "visual_direction": "Reflection: a person alone pausing to think and write in a notebook, then standing and rejoining colleagues warmly, direction found.",
+   "script_line": "",
+   "visual_direction": "Reflection: a person alone pausing to think and write in a notebook, then standing and rejoining colleagues warmly, direction found. — Know what drives you. A person pauses, reflects, writes it down — then rejoins their colleagues with clearer direction.",
    "t": 160.0,
    "end": 180.0,
    "quota": {
@@ -2550,7 +2558,8 @@
      "title": "Business professionals greeting with a handshake in an office setting, promoting teamwork and cooperation.",
      "query": "person rejoining team greeting"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   }
  ]
 }

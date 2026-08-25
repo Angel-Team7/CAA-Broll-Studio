@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Calm work shifts into pressure: plans change, a disagreement flares, a deadline looms, the same task repeats again. The needs get threatened — and reactions follow.",
-   "visual_direction": "Calm scenes tilting into tension: a schedule ripped up, a serious discussion, clock pressure, repetitive strain. Neutral-to-tense valence, dignified real workers.",
+   "script_line": "",
+   "visual_direction": "Calm scenes tilting into tension: a schedule ripped up, a serious discussion, clock pressure, repetitive strain. Neutral-to-tense valence, dignified real workers. — Calm work shifts into pressure: plans change, a disagreement flares, a deadline looms, the same task repeats again. The needs get threatened — and reactions follow.",
    "t": 0.0,
    "end": 20.0,
    "quota": {
@@ -201,12 +201,13 @@
      "title": "Two construction workers analyzing plans at a building site, emphasizing teamwork.",
      "query": "construction workers discussing problem plans"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S02",
-   "script_line": "Certainty threatened: the schedule changes without warning. A flash of frustration — then reviewing the information and adapting the plan.",
-   "visual_direction": "A worker meets an unexpected change: brief frustration, then calmly reviewing documents/plans and adapting. Recovery, not drama.",
+   "script_line": "",
+   "visual_direction": "A worker meets an unexpected change: brief frustration, then calmly reviewing documents/plans and adapting. Recovery, not drama. — Certainty threatened: the schedule changes without warning. A flash of frustration — then reviewing the information and adapting the plan.",
    "t": 20.0,
    "end": 40.0,
    "quota": {
@@ -410,12 +411,13 @@
      "title": "Construction workers engaged in a discussion at a construction site wearing safety gear.",
      "query": "foreman reviewing blueprint closely site"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S05",
-   "script_line": "Connection threatened: the hesitation before a hard conversation. Then the respectful, direct talk that clears the air.",
-   "visual_direction": "A person hesitates outside a conversation, gathers courage, then a direct respectful one-on-one talk with real eye contact, ending lighter.",
+   "script_line": "",
+   "visual_direction": "A person hesitates outside a conversation, gathers courage, then a direct respectful one-on-one talk with real eye contact, ending lighter. — Connection threatened: the hesitation before a hard conversation. Then the respectful, direct talk that clears the air.",
    "t": 80.0,
    "end": 100.0,
    "quota": {
@@ -535,12 +537,13 @@
      "title": "Two women in a warehouse organizing containers with smiles, promoting teamwork.",
      "query": "workers relaxed conversation warehouse"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S09",
-   "script_line": "Write it down, choose the response. Reflective notes — then calmer, constructive interactions for the rest of the day.",
-   "visual_direction": "Reflective note-writing about reactions, then calm constructive interactions: measured conversations, steady work, a settled team.",
+   "script_line": "",
+   "visual_direction": "Reflective note-writing about reactions, then calm constructive interactions: measured conversations, steady work, a settled team. — Write it down, choose the response. Reflective notes — then calmer, constructive interactions for the rest of the day.",
    "t": 160.0,
    "end": 180.0,
    "quota": {
@@ -656,12 +659,13 @@
      "title": "Two male workers loading packages into a delivery van, teamwork in logistics.",
      "query": "team loading van evening calm"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S03",
-   "script_line": "Variety takes over: jumping between tasks, nothing finishing. The correction — slowing down, prioritizing, completing one thing.",
-   "visual_direction": "Scattered multitasking, half-done jobs; then a person slows down, writes priorities, finishes a single task with care.",
+   "script_line": "",
+   "visual_direction": "Scattered multitasking, half-done jobs; then a person slows down, writes priorities, finishes a single task with care. — Variety takes over: jumping between tasks, nothing finishing. The correction — slowing down, prioritizing, completing one thing.",
    "t": 40.0,
    "end": 60.0,
    "quota": {
@@ -844,12 +848,13 @@
      "title": "hammer  tools  carpentry  carpenter  repairs  construction  work  equipment  wood  tools  tools  carpentry  carpentry  c",
      "query": "cluttered workbench many tools mess"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S06",
-   "script_line": "Growth blocked: the work feels repetitive. The reframe — going deeper: technique, quality, mastery inside the same task.",
-   "visual_direction": "Repetitive task transformed by depth: close-ups of refining technique, checking quality, mastering details of the same work.",
+   "script_line": "",
+   "visual_direction": "Repetitive task transformed by depth: close-ups of refining technique, checking quality, mastering details of the same work. — Growth blocked: the work feels repetitive. The reframe — going deeper: technique, quality, mastery inside the same task.",
    "t": 100.0,
    "end": 120.0,
    "quota": {
@@ -985,12 +990,13 @@
      "title": "Artisan painting pottery at a ceramic workshop in Bristol, England.",
      "query": "artisan painting ceramic brush detail"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S04",
-   "script_line": "Significance threatened: feedback lands hard. A breath of defensiveness — then listening, asking a question, replying constructively.",
-   "visual_direction": "Receiving feedback: a moment of guarded body language, then genuine listening and a constructive reply between colleagues. Respectful, adult.",
+   "script_line": "",
+   "visual_direction": "Receiving feedback: a moment of guarded body language, then genuine listening and a constructive reply between colleagues. Respectful, adult. — Significance threatened: feedback lands hard. A breath of defensiveness — then listening, asking a question, replying constructively.",
    "t": 60.0,
    "end": 80.0,
    "quota": {
@@ -1111,12 +1117,13 @@
      "title": "Two engineers in safety helmets reviewing construction plans at a worksite.",
      "query": "builders conversation on scaffolding"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S07",
-   "script_line": "Over-contribution: taking on everyone's tasks. The correction — coaching instead of doing, letting someone else complete it.",
-   "visual_direction": "One person carrying too much, then stepping back: guiding a colleague who completes the task themselves, hands off, trust.",
+   "script_line": "",
+   "visual_direction": "One person carrying too much, then stepping back: guiding a colleague who completes the task themselves, hands off, trust. — Over-contribution: taking on everyone's tasks. The correction — coaching instead of doing, letting someone else complete it.",
    "t": 120.0,
    "end": 140.0,
    "quota": {
@@ -1241,12 +1248,13 @@
      "title": "men  mentor  help  climbing  mountain  stars  hand  adventure  sky  mountain top  night sky  teamwork  people  nature  a",
      "query": "mentor guiding colleague hands off"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   },
   {
    "id": "S08",
-   "script_line": "THE PAUSE: a tense moment, one breath, a beat of reflection — then a calmer, chosen response.",
-   "visual_direction": "The pivotal pause: a worker stops in a tense moment, breathes, eyes close briefly, shoulders drop — then re-engages calm and deliberate.",
+   "script_line": "",
+   "visual_direction": "The pivotal pause: a worker stops in a tense moment, breathes, eyes close briefly, shoulders drop — then re-engages calm and deliberate. — THE PAUSE: a tense moment, one breath, a beat of reflection — then a calmer, chosen response.",
    "t": 140.0,
    "end": 160.0,
    "quota": {
@@ -1440,7 +1448,8 @@
      "title": "way  building  excavator  viaduct  road  cities  work  digging  builder  a worker at the construction site  construction",
      "query": "worker pausing wiping brow site"
     }
-   ]
+   ],
+   "timing_source": "unrecorded"
   }
  ]
 }

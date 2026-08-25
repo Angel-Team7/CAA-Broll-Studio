@@ -130,3 +130,5 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .scene-onscreen{font-size:12.5px;color:var(--muted)}
 
 .srcbadge.src-belong-original{background:#7a3b1f;color:#ffe6d2;}
+
+.tag.warn{background:#3d2b00;color:#ffd479}

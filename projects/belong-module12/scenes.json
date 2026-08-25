@@ -1,1017 +1,1027 @@
 {
-  "project": "belong-module12",
-  "title": "Belong \u2014 Module 12: Leadership & Team",
-  "generated": "2026-08-17",
-  "scenes": [
+ "project": "belong-module12",
+ "title": "Belong — Module 12: Leadership & Team",
+ "generated": "2026-08-17",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "",
+   "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light — leadership as dialogue. Tight two-shot. [image-beat] — I've saved the most important conversation for the end: how we work together. Not the org chart — the real thing.",
+   "clips": [
     {
-      "id": "S01",
-      "script_line": "[B1] I've saved the most important conversation for the end: how we work together. Not the org chart \u2014 the real thing.",
-      "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light \u2014 leadership as dialogue. Tight two-shot. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_5971448_mentor-listening-younger-colleag",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/two-people-talking-together-5971448/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_5971448_mentor-listening-younger-colleag.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_5971448_mentor-listening-younger-colleag.mp4"
-        },
-        {
-          "id": "pexels_6975636_two-people-coffee-conversation-w",
-          "type": "video",
-          "source": "pexels",
-          "author": "T Leish",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/people-reading-a-newspaper-while-drinking-coffee-6975636/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_6975636_two-people-coffee-conversation-w.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_6975636_two-people-coffee-conversation-w.mp4"
-        },
-        {
-          "id": "pexels_7123932_sincere-discussion-morning",
-          "type": "video",
-          "source": "pexels",
-          "author": "Monstera Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/parents-talking-to-their-daughter-7123932/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_7123932_sincere-discussion-morning.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_7123932_sincere-discussion-morning.mp4"
-        },
-        {
-          "id": "pexels_7426761_manager-employee-conversation-re",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-sitting-at-the-table-7426761/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_7426761_manager-employee-conversation-re.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_7426761_manager-employee-conversation-re.mp4"
-        },
-        {
-          "id": "pexels_7643334_serious-conversation-across-wood",
-          "type": "video",
-          "source": "pexels",
-          "author": "MART  PRODUCTION",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/businesswomen-in-meeting-room-7643334/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_7643334_serious-conversation-across-wood.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_7643334_serious-conversation-across-wood.mp4"
-        },
-        {
-          "id": "pexels_7953512_two-people-honest-talk",
-          "type": "video",
-          "source": "pexels",
-          "author": "Felicity Tai",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-a-woman-having-a-conversation-while-holding-coffee-cups-7953512/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_7953512_two-people-honest-talk.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_7953512_two-people-honest-talk.mp4"
-        },
-        {
-          "id": "pexels_8089930_two-people-talking-terrace-eveni",
-          "type": "video",
-          "source": "pexels",
-          "author": "Yaroslav Shuraev",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-talking-in-the-window-8089930/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_8089930_two-people-talking-terrace-eveni.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_8089930_two-people-talking-terrace-eveni.mp4"
-        },
-        {
-          "id": "pexels_9810153_two-colleagues-talking-cafe-tabl",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/amateur-director-discussing-script-with-actor-9810153/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_9810153_two-colleagues-talking-cafe-tabl.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_9810153_two-colleagues-talking-cafe-tabl.mp4"
-        },
-        {
-          "id": "pixabay_180_conversation-wooden-table",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Republica",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-180/",
-          "thumb": "projects/belong-module12/thumbs/S01/pixabay_180_conversation-wooden-table.jpg",
-          "preview": "projects/belong-module12/previews/S01/pixabay_180_conversation-wooden-table.mp4"
-        },
-        {
-          "id": "pexels_4051137_sincere-discussion-morning",
-          "type": "image",
-          "source": "pexels",
-          "author": "KATRIN  BOLOVTSOVA",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/photo-of-women-talking-to-each-other-4051137/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_4051137_sincere-discussion-morning.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_4051137_sincere-discussion-morning.jpg"
-        },
-        {
-          "id": "pexels_7490773_mentor-coffee-meeting",
-          "type": "image",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/a-woman-in-business-attire-sitting-on-a-couch-while-holding-a-coffee-7490773/",
-          "thumb": "projects/belong-module12/thumbs/S01/pexels_7490773_mentor-coffee-meeting.jpg",
-          "preview": "projects/belong-module12/previews/S01/pexels_7490773_mentor-coffee-meeting.jpg"
-        }
-      ]
+     "id": "pexels_5971448_mentor-listening-younger-colleag",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-people-talking-together-5971448/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_5971448_mentor-listening-younger-colleag.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_5971448_mentor-listening-younger-colleag.mp4"
     },
     {
-      "id": "S02",
-      "script_line": "[B2] Nobody taught me hospitality management. I was a lawyer who fell in love with a field of carnations. I learned by doing \u2014 and by getting it wrong first.",
-      "visual_direction": "The founder's road: a man walking his farmland alone at golden hour, weathered and thoughtful, the land that taught him stretching around. Wide contemplative. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_10312634_man-walking-through-vineyard-row",
-          "type": "video",
-          "source": "pexels",
-          "author": "Videas Cl",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/green-plants-in-vineyard-10312634/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_10312634_man-walking-through-vineyard-row.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_10312634_man-walking-through-vineyard-row.mp4"
-        },
-        {
-          "id": "pexels_11521918_thoughtful-walk-countryside",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ruslan Sikunov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-walking-away-in-grass-11521918/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_11521918_thoughtful-walk-countryside.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_11521918_thoughtful-walk-countryside.mp4"
-        },
-        {
-          "id": "pexels_15909398_farmer-walking-his-land-sunset",
-          "type": "video",
-          "source": "pexels",
-          "author": "Vadim Starling",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-in-a-hat-stands-in-a-corn-field-15909398/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_15909398_farmer-walking-his-land-sunset.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_15909398_farmer-walking-his-land-sunset.mp4"
-        },
-        {
-          "id": "pexels_17190661_older-man-walking-farm-path",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ucundinamarca Virtual",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-walking-down-a-dirt-path-in-a-field-17190661/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_17190661_older-man-walking-farm-path.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_17190661_older-man-walking-farm-path.mp4"
-        },
-        {
-          "id": "pexels_18089239_silhouette-man-walking-field-gol",
-          "type": "video",
-          "source": "pexels",
-          "author": "Matthias Groeneveld",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-walking-down-a-dirt-road-at-sunrise-18089239/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_18089239_silhouette-man-walking-field-gol.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_18089239_silhouette-man-walking-field-gol.mp4"
-        },
-        {
-          "id": "pexels_20750159_older-man-walking-rural-road-sun",
-          "type": "video",
-          "source": "pexels",
-          "author": "Tacettin Veli \u00c7etin",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-is-standing-in-a-field-at-sunset-20750159/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_20750159_older-man-walking-rural-road-sun.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_20750159_older-man-walking-rural-road-sun.mp4"
-        },
-        {
-          "id": "pexels_27134194_farmer-inspecting-crops-walking",
-          "type": "video",
-          "source": "pexels",
-          "author": "Khanh Hoang Minh 2",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-in-a-hat-is-standing-in-a-corn-field-27134194/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_27134194_farmer-inspecting-crops-walking.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_27134194_farmer-inspecting-crops-walking.mp4"
-        },
-        {
-          "id": "pexels_5694893_man-walking-through-vineyard-row",
-          "type": "video",
-          "source": "pexels",
-          "author": "Tjasa Strehar",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-walking-on-a-farmland-5694893/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_5694893_man-walking-through-vineyard-row.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_5694893_man-walking-through-vineyard-row.mp4"
-        },
-        {
-          "id": "pexels_8296579_man-walking-alone-olive-grove",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-standing-8296579/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_8296579_man-walking-alone-olive-grove.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_8296579_man-walking-alone-olive-grove.mp4"
-        },
-        {
-          "id": "pexels_8540544_man-standing-looking-over-his-fa",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-farmer-waving-his-hand-8540544/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_8540544_man-standing-looking-over-his-fa.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_8540544_man-standing-looking-over-his-fa.mp4"
-        },
-        {
-          "id": "pexels_8659307_farmer-inspecting-crops-walking",
-          "type": "video",
-          "source": "pexels",
-          "author": "FRANK MERI\u00d1O",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-checking-the-corn-plant-8659307/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_8659307_farmer-inspecting-crops-walking.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_8659307_farmer-inspecting-crops-walking.mp4"
-        },
-        {
-          "id": "pexels_8795191_mature-man-field",
-          "type": "video",
-          "source": "pexels",
-          "author": "Anastasia  Shuraeva",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/back-view-of-a-man-looking-at-the-nature-in-a-field-8795191/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_8795191_mature-man-field.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_8795191_mature-man-field.mp4"
-        },
-        {
-          "id": "pixabay_62390_contemplative-farmer-sunset",
-          "type": "video",
-          "source": "pixabay",
-          "author": "JoshuaWoroniecki",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-62390/",
-          "thumb": "projects/belong-module12/thumbs/S02/pixabay_62390_contemplative-farmer-sunset.jpg",
-          "preview": "projects/belong-module12/previews/S02/pixabay_62390_contemplative-farmer-sunset.mp4"
-        },
-        {
-          "id": "pexels_160636_thoughtful-walk-countryside",
-          "type": "image",
-          "source": "pexels",
-          "author": "Pixabay",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/man-walking-in-the-forest-160636/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_160636_thoughtful-walk-countryside.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_160636_thoughtful-walk-countryside.jpg"
-        },
-        {
-          "id": "pexels_29472840_landowner-golden-hour",
-          "type": "image",
-          "source": "pexels",
-          "author": "Micha\u0142 Robak",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/scenic-landscape-with-wind-turbines-at-sunset-29472840/",
-          "thumb": "projects/belong-module12/thumbs/S02/pexels_29472840_landowner-golden-hour.jpg",
-          "preview": "projects/belong-module12/previews/S02/pexels_29472840_landowner-golden-hour.jpg"
-        }
-      ]
+     "id": "pexels_6975636_two-people-coffee-conversation-w",
+     "type": "video",
+     "source": "pexels",
+     "author": "T Leish",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-reading-a-newspaper-while-drinking-coffee-6975636/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_6975636_two-people-coffee-conversation-w.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_6975636_two-people-coffee-conversation-w.mp4"
     },
     {
-      "id": "S03",
-      "script_line": "[B3] I'd rather correct your decision than make all the decisions. When the guest is in front of you and something needs solving, solve it.",
-      "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot \u2014 no phone call upward, no hesitation, just judgment. Medium, decisive energy.",
-      "clips": [
-        {
-          "id": "pexels_31099748_gardener-working-alone-pruning",
-          "type": "video",
-          "source": "pexels",
-          "author": "Burak Bahad\u0131r  B\u00fcy\u00fckk\u0131l\u0131n\u00e7",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-pruning-tree-branches-with-power-tool-outdoors-31099748/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_31099748_gardener-working-alone-pruning.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_31099748_gardener-working-alone-pruning.mp4"
-        },
-        {
-          "id": "pexels_4254302_waiter-acting-quickly-restaurant",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/restaurant-sign-typography-cafe-4254302/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_4254302_waiter-acting-quickly-restaurant.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_4254302_waiter-acting-quickly-restaurant.mp4"
-        },
-        {
-          "id": "pexels_5138025_receptionist-helping-guest-confi",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-reading-and-signing-a-waiver-5138025/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_5138025_receptionist-helping-guest-confi.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_5138025_receptionist-helping-guest-confi.mp4"
-        },
-        {
-          "id": "pexels_6466243_hotel-housekeeper-working-indepe",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-housekeeper-putting-folded-towels-on-bed-6466243/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_6466243_hotel-housekeeper-working-indepe.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_6466243_hotel-housekeeper-working-indepe.mp4"
-        },
-        {
-          "id": "pexels_6474562_staff-member-carrying-supplies-h",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/concierge-pushing-trolley-loaded-with-white-boxes-6474562/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_6474562_staff-member-carrying-supplies-h.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_6474562_staff-member-carrying-supplies-h.mp4"
-        },
-        {
-          "id": "pexels_8430969_barista-preparing-order-confiden",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-ordering-at-a-cafe-8430969/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_8430969_barista-preparing-order-confiden.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_8430969_barista-preparing-order-confiden.mp4"
-        },
-        {
-          "id": "pixabay_132_waiter-solving-problem",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Coverr-Free-Footage",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-132/",
-          "thumb": "projects/belong-module12/thumbs/S03/pixabay_132_waiter-solving-problem.jpg",
-          "preview": "projects/belong-module12/previews/S03/pixabay_132_waiter-solving-problem.mp4"
-        },
-        {
-          "id": "pexels_5999818_decisive-worker-moment",
-          "type": "image",
-          "source": "pexels",
-          "author": "Ono  Kosuki",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/pensive-ethnic-woman-touching-chin-while-thinking-on-problem-5999818/",
-          "thumb": "projects/belong-module12/thumbs/S03/pexels_5999818_decisive-worker-moment.jpg",
-          "preview": "projects/belong-module12/previews/S03/pexels_5999818_decisive-worker-moment.jpg"
-        }
-      ]
+     "id": "pexels_7123932_sincere-discussion-morning",
+     "type": "video",
+     "source": "pexels",
+     "author": "Monstera Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/parents-talking-to-their-daughter-7123932/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_7123932_sincere-discussion-morning.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_7123932_sincere-discussion-morning.mp4"
     },
     {
-      "id": "S04",
-      "script_line": "[B4] If your solution costs a bottle of wine to save a guest's evening: do it, tell your manager after. I will never punish a generous decision made in good faith.",
-      "visual_direction": "Sanctioned generosity: a server carries an unasked-for bottle of wine and dessert to a table, easy confidence in the gesture. Medium warm.",
-      "clips": [
-        {
-          "id": "pexels_5657049_waiter-carrying-tray-desserts-re",
-          "type": "video",
-          "source": "pexels",
-          "author": "ROMAN ODINTSOV",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/artistic-food-presentation-on-a-wooden-board-5657049/",
-          "thumb": "projects/belong-module12/thumbs/S04/pexels_5657049_waiter-carrying-tray-desserts-re.jpg",
-          "preview": "projects/belong-module12/previews/S04/pexels_5657049_waiter-carrying-tray-desserts-re.mp4"
-        },
-        {
-          "id": "pexels_6396243_server-pouring-wine-generously",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-woman-putting-wine-glasses-on-the-table-6396243/",
-          "thumb": "projects/belong-module12/thumbs/S04/pexels_6396243_server-pouring-wine-generously.jpg",
-          "preview": "projects/belong-module12/previews/S04/pexels_6396243_server-pouring-wine-generously.mp4"
-        },
-        {
-          "id": "pexels_8764323_sommelier-presenting-bottle-gues",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-person-holding-a-wine-8764323/",
-          "thumb": "projects/belong-module12/thumbs/S04/pexels_8764323_sommelier-presenting-bottle-gues.jpg",
-          "preview": "projects/belong-module12/previews/S04/pexels_8764323_sommelier-presenting-bottle-gues.mp4"
-        },
-        {
-          "id": "pexels_8922357_waiter-bringing-wine-bottle-to-t",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-waiter-serving-wine-on-his-guests-8922357/",
-          "thumb": "projects/belong-module12/thumbs/S04/pexels_8922357_waiter-bringing-wine-bottle-to-t.jpg",
-          "preview": "projects/belong-module12/previews/S04/pexels_8922357_waiter-bringing-wine-bottle-to-t.mp4"
-        },
-        {
-          "id": "pixabay_132583_gifting-wine-guest",
-          "type": "video",
-          "source": "pixabay",
-          "author": "NickyPe",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-132583/",
-          "thumb": "projects/belong-module12/thumbs/S04/pixabay_132583_gifting-wine-guest.jpg",
-          "preview": "projects/belong-module12/previews/S04/pixabay_132583_gifting-wine-guest.mp4"
-        },
-        {
-          "id": "pixabay_1633_waiter-bringing-wine-bottle-to-t",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Coverr-Free-Footage",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-1633/",
-          "thumb": "projects/belong-module12/thumbs/S04/pixabay_1633_waiter-bringing-wine-bottle-to-t.jpg",
-          "preview": "projects/belong-module12/previews/S04/pixabay_1633_waiter-bringing-wine-bottle-to-t.mp4"
-        },
-        {
-          "id": "pexels_16125870_server-wine-bottle-table",
-          "type": "image",
-          "source": "pexels",
-          "author": "Tim Durand",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/wineglasses-on-a-table-16125870/",
-          "thumb": "projects/belong-module12/thumbs/S04/pexels_16125870_server-wine-bottle-table.jpg",
-          "preview": "projects/belong-module12/previews/S04/pexels_16125870_server-wine-bottle-table.jpg"
-        }
-      ]
+     "id": "pexels_7426761_manager-employee-conversation-re",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-sitting-at-the-table-7426761/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_7426761_manager-employee-conversation-re.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_7426761_manager-employee-conversation-re.mp4"
     },
     {
-      "id": "S05",
-      "script_line": "[B5] A mistake caught early is an anecdote; a mistake hidden is a crisis. Speak early. Always.",
-      "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered \u2014 zero drama, problem shrinking as it's spoken. Medium two-shot.",
-      "clips": [
-        {
-          "id": "pexels_5971599_two-coworkers-honest-conversatio",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/two-coworkers-talking-during-coffee-break-5971599/",
-          "thumb": "projects/belong-module12/thumbs/S05/pexels_5971599_two-coworkers-honest-conversatio.jpg",
-          "preview": "projects/belong-module12/previews/S05/pexels_5971599_two-coworkers-honest-conversatio.mp4"
-        },
-        {
-          "id": "pexels_6816117_waiter-talking-with-restaurant-m",
-          "type": "video",
-          "source": "pexels",
-          "author": "Yan Krukau",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/man-and-woman-ordering-in-a-restaurant-6816117/",
-          "thumb": "projects/belong-module12/thumbs/S05/pexels_6816117_waiter-talking-with-restaurant-m.jpg",
-          "preview": "projects/belong-module12/previews/S05/pexels_6816117_waiter-talking-with-restaurant-m.mp4"
-        },
-        {
-          "id": "pexels_7845412_young-employee-talking-manager-c",
-          "type": "video",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/women-talking-about-work-7845412/",
-          "thumb": "projects/belong-module12/thumbs/S05/pexels_7845412_young-employee-talking-manager-c.jpg",
-          "preview": "projects/belong-module12/previews/S05/pexels_7845412_young-employee-talking-manager-c.mp4"
-        },
-        {
-          "id": "pexels_8135155_reassuring-manager-listening",
-          "type": "video",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-couple-having-a-conversation-8135155/",
-          "thumb": "projects/belong-module12/thumbs/S05/pexels_8135155_reassuring-manager-listening.jpg",
-          "preview": "projects/belong-module12/previews/S05/pexels_8135155_reassuring-manager-listening.mp4"
-        },
-        {
-          "id": "pixabay_202135_young-employee-talking-manager-c",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Samidurrakzai",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-202135/",
-          "thumb": "projects/belong-module12/thumbs/S05/pixabay_202135_young-employee-talking-manager-c.jpg",
-          "preview": "projects/belong-module12/previews/S05/pixabay_202135_young-employee-talking-manager-c.mp4"
-        },
-        {
-          "id": "pexels_5324913_reassuring-manager-listening",
-          "type": "image",
-          "source": "pexels",
-          "author": "Anna Shvets",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/serious-woman-listening-to-colleague-in-office-5324913/",
-          "thumb": "projects/belong-module12/thumbs/S05/pexels_5324913_reassuring-manager-listening.jpg",
-          "preview": "projects/belong-module12/previews/S05/pexels_5324913_reassuring-manager-listening.jpg"
-        }
-      ]
+     "id": "pexels_7643334_serious-conversation-across-wood",
+     "type": "video",
+     "source": "pexels",
+     "author": "MART  PRODUCTION",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/businesswomen-in-meeting-room-7643334/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_7643334_serious-conversation-across-wood.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_7643334_serious-conversation-across-wood.mp4"
     },
     {
-      "id": "S06",
-      "script_line": "[B6] High standards are a form of respect. In a place like this, everything touches everything.",
-      "visual_direction": "Craft pride: extreme detail of meticulous work \u2014 a knife sharpened, a hem pressed, a hinge oiled, a table set exactly \u2014 excellence as respect made visible. Macro series. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_18366463_carpenter-sanding-wood-detail",
-          "type": "video",
-          "source": "pexels",
-          "author": "Yusif Jalil",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/mastering-woodwork-a-carpenter-s-craft-18366463/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_18366463_carpenter-sanding-wood-detail.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_18366463_carpenter-sanding-wood-detail.mp4"
-        },
-        {
-          "id": "pexels_2909914_barista-latte-art-close-up",
-          "type": "video",
-          "source": "pexels",
-          "author": "K",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/coffee-making-art-by-a-bartender-2909914/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_2909914_barista-latte-art-close-up.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_2909914_barista-latte-art-close-up.mp4"
-        },
-        {
-          "id": "pexels_4510946_knife-sharpening-close-up",
-          "type": "video",
-          "source": "pexels",
-          "author": "\u0418\u043b\u044c\u044f \u0418\u0441\u0430\u0435\u0432",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-sharpening-his-knife-4510946/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_4510946_knife-sharpening-close-up.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_4510946_knife-sharpening-close-up.mp4"
-        },
-        {
-          "id": "pexels_5901665_ironing-linen-close-up-hands",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/close-up-clothes-iron-5901665/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_5901665_ironing-linen-close-up-hands.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_5901665_ironing-linen-close-up-hands.mp4"
-        },
-        {
-          "id": "pexels_6661935_craftsman-hands-detail",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-grinding-a-bag-6661935/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_6661935_craftsman-hands-detail.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_6661935_craftsman-hands-detail.mp4"
-        },
-        {
-          "id": "pexels_6958178_folding-napkins-precise-hands",
-          "type": "video",
-          "source": "pexels",
-          "author": "https://kaboompics.com/",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-folding-a-table-napkin-6958178/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_6958178_folding-napkins-precise-hands.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_6958178_folding-napkins-precise-hands.mp4"
-        },
-        {
-          "id": "pexels_7199617_precise-table-setting",
-          "type": "video",
-          "source": "pexels",
-          "author": "olia danilevich",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/an-elderly-woman-transferring-the-egg-on-a-bowl-7199617/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_7199617_precise-table-setting.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_7199617_precise-table-setting.mp4"
-        },
-        {
-          "id": "pexels_7220979_polishing-wine-glass-close-up",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/person-sanding-the-rim-of-a-glass-cup-7220979/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_7220979_polishing-wine-glass-close-up.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_7220979_polishing-wine-glass-close-up.mp4"
-        },
-        {
-          "id": "pixabay_125458_craftsman-hands-detail",
-          "type": "video",
-          "source": "pixabay",
-          "author": "romyrwood",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-125458/",
-          "thumb": "projects/belong-module12/thumbs/S06/pixabay_125458_craftsman-hands-detail.jpg",
-          "preview": "projects/belong-module12/previews/S06/pixabay_125458_craftsman-hands-detail.mp4"
-        },
-        {
-          "id": "pixabay_166808_carpenter-sanding-wood-detail",
-          "type": "video",
-          "source": "pixabay",
-          "author": "AndyWolares",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-166808/",
-          "thumb": "projects/belong-module12/thumbs/S06/pixabay_166808_carpenter-sanding-wood-detail.jpg",
-          "preview": "projects/belong-module12/previews/S06/pixabay_166808_carpenter-sanding-wood-detail.mp4"
-        },
-        {
-          "id": "pixabay_330339_barista-latte-art-close-up",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Solarselle77",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-330339/",
-          "thumb": "projects/belong-module12/thumbs/S06/pixabay_330339_barista-latte-art-close-up.jpg",
-          "preview": "projects/belong-module12/previews/S06/pixabay_330339_barista-latte-art-close-up.mp4"
-        },
-        {
-          "id": "pexels_17057034_precise-table-setting",
-          "type": "image",
-          "source": "pexels",
-          "author": "Matheus Bertelli",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/table-in-restaurant-17057034/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_17057034_precise-table-setting.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_17057034_precise-table-setting.jpg"
-        },
-        {
-          "id": "pexels_33753659_craftsman-hands-detail",
-          "type": "image",
-          "source": "pexels",
-          "author": "GOWTHAM AGM",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/close-up-of-artisan-sculpting-stone-column-33753659/",
-          "thumb": "projects/belong-module12/thumbs/S06/pexels_33753659_craftsman-hands-detail.jpg",
-          "preview": "projects/belong-module12/previews/S06/pexels_33753659_craftsman-hands-detail.jpg"
-        }
-      ]
+     "id": "pexels_7953512_two-people-honest-talk",
+     "type": "video",
+     "source": "pexels",
+     "author": "Felicity Tai",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-a-woman-having-a-conversation-while-holding-coffee-cups-7953512/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_7953512_two-people-honest-talk.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_7953512_two-people-honest-talk.mp4"
     },
     {
-      "id": "S07",
-      "script_line": "[B7] We grow people, not just vegetables. The person cleaning houses today can be running housekeeping in three years.",
-      "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one \u2014 in the kitchen, the garden, at the desk \u2014 knowledge passing between generations. Medium warm. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_10413022_experienced-farmer-teaching-youn",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/close-up-of-a-man-and-his-grandson-fishing-together-10413022/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_10413022_experienced-farmer-teaching-youn.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_10413022_experienced-farmer-teaching-youn.mp4"
-        },
-        {
-          "id": "pexels_38487305_mentorship-kitchen-garden",
-          "type": "video",
-          "source": "pexels",
-          "author": "Jelly Marketing",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/intergenerational-gardening-experience-38487305/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_38487305_mentorship-kitchen-garden.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_38487305_mentorship-kitchen-garden.mp4"
-        },
-        {
-          "id": "pexels_5960699_gardener-showing-apprentice-plan",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-grandmother-showing-her-granddaughters-how-to-do-flower-arrangement-5960699/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_5960699_gardener-showing-apprentice-plan.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_5960699_gardener-showing-apprentice-plan.mp4"
-        },
-        {
-          "id": "pexels_6829135_training-new-employee-restaurant",
-          "type": "video",
-          "source": "pexels",
-          "author": "Kampus Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-waiter-serving-drinks-6829135/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_6829135_training-new-employee-restaurant.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_6829135_training-new-employee-restaurant.mp4"
-        },
-        {
-          "id": "pexels_8508153_chef-teaching-young-cook-kitchen",
-          "type": "video",
-          "source": "pexels",
-          "author": "Kampus Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-boy-in-chef-uniform-working-in-the-kitchen-8508153/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_8508153_chef-teaching-young-cook-kitchen.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_8508153_chef-teaching-young-cook-kitchen.mp4"
-        },
-        {
-          "id": "pexels_7782156_mentorship-kitchen-garden",
-          "type": "image",
-          "source": "pexels",
-          "author": "RDNE Stock project",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/woman-and-a-child-planting-seeds-on-the-ground-7782156/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_7782156_mentorship-kitchen-garden.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_7782156_mentorship-kitchen-garden.jpg"
-        },
-        {
-          "id": "pexels_8527773_mentor-teaching-apprentice",
-          "type": "image",
-          "source": "pexels",
-          "author": "www.kaboompics.com",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/women-holding-white-papers-sitting-by-the-table-8527773/",
-          "thumb": "projects/belong-module12/thumbs/S07/pexels_8527773_mentor-teaching-apprentice.jpg",
-          "preview": "projects/belong-module12/previews/S07/pexels_8527773_mentor-teaching-apprentice.jpg"
-        }
-      ]
+     "id": "pexels_8089930_two-people-talking-terrace-eveni",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yaroslav Shuraev",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-talking-in-the-window-8089930/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_8089930_two-people-talking-terrace-eveni.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_8089930_two-people-talking-terrace-eveni.mp4"
     },
     {
-      "id": "S08",
-      "script_line": "[B8] Well-being is non-negotiable. Exhausted people can't give warmth, and warmth is our entire product. The team is the first community we regenerate.",
-      "visual_direction": "The team's own table: staff sharing a relaxed meal together outdoors after service, laughter, plates passed, guard fully down. Wide golden evening. [image-beat]",
-      "clips": [
-        {
-          "id": "pexels_3253797_team-sharing-food-outdoors-long",
-          "type": "video",
-          "source": "pexels",
-          "author": "fauxels",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-group-of-people-having-a-working-lunch-over-a-wooden-table-3253797/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_3253797_team-sharing-food-outdoors-long.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_3253797_team-sharing-food-outdoors-long.mp4"
-        },
-        {
-          "id": "pexels_5961379_staff-dinner-outdoors",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/friends-celebrating-an-event-party-at-the-backyard-5961379/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_5961379_staff-dinner-outdoors.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_5961379_staff-dinner-outdoors.mp4"
-        },
-        {
-          "id": "pexels_5961961_coworkers-sharing-meal-outdoors",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-man-serving-his-friend-a-glass-of-white-wine-5961961/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_5961961_coworkers-sharing-meal-outdoors.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_5961961_coworkers-sharing-meal-outdoors.mp4"
-        },
-        {
-          "id": "pexels_6715318_staff-dinner-long-table-laughing",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/renaissance-men-talking-and-drinking-at-the-table-6715318/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_6715318_staff-dinner-long-table-laughing.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_6715318_staff-dinner-long-table-laughing.mp4"
-        },
-        {
-          "id": "pexels_7594441_restaurant-staff-eating-together",
-          "type": "video",
-          "source": "pexels",
-          "author": "cottonbro studio",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/couple-eating-noodles-7594441/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_7594441_restaurant-staff-eating-together.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_7594441_restaurant-staff-eating-together.mp4"
-        },
-        {
-          "id": "pexels_8102988_kitchen-team-lunch-together",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/colleagues-eating-noodles-from-a-box-8102988/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_8102988_kitchen-team-lunch-together.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_8102988_kitchen-team-lunch-together.mp4"
-        },
-        {
-          "id": "pexels_9761222_restaurant-staff-eating-together",
-          "type": "video",
-          "source": "pexels",
-          "author": "Mikhail Nilov",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/friends-eating-a-birthday-cake-9761222/",
-          "thumb": "projects/belong-module12/thumbs/S08/pexels_9761222_restaurant-staff-eating-together.jpg",
-          "preview": "projects/belong-module12/previews/S08/pexels_9761222_restaurant-staff-eating-together.mp4"
-        },
-        {
-          "id": "pixabay_2339_family-meal-restaurant-staff",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Life-Of-Vids",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-2339/",
-          "thumb": "projects/belong-module12/thumbs/S08/pixabay_2339_family-meal-restaurant-staff.jpg",
-          "preview": "projects/belong-module12/previews/S08/pixabay_2339_family-meal-restaurant-staff.mp4"
-        },
-        {
-          "id": "pixabay_1853958_coworkers-eating-laughing",
-          "type": "image",
-          "source": "pixabay",
-          "author": "Pexels",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/girls-bench-laugh-laughing-friends-1853958/",
-          "thumb": "projects/belong-module12/thumbs/S08/pixabay_1853958_coworkers-eating-laughing.jpg",
-          "preview": "projects/belong-module12/previews/S08/pixabay_1853958_coworkers-eating-laughing.jpg"
-        },
-        {
-          "id": "pixabay_2009590_family-meal-restaurant-staff",
-          "type": "image",
-          "source": "pixabay",
-          "author": "buffetcrush",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/photos/christmas-wallpaper-platter-food-2009590/",
-          "thumb": "projects/belong-module12/thumbs/S08/pixabay_2009590_family-meal-restaurant-staff.jpg",
-          "preview": "projects/belong-module12/previews/S08/pixabay_2009590_family-meal-restaurant-staff.jpg"
-        }
-      ]
+     "id": "pexels_9810153_two-colleagues-talking-cafe-tabl",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/amateur-director-discussing-script-with-actor-9810153/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_9810153_two-colleagues-talking-cafe-tabl.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_9810153_two-colleagues-talking-cafe-tabl.mp4"
     },
     {
-      "id": "S09",
-      "script_line": "[B9] Sixteen years ago there was a field of carnations and a lawyer with a dream. Today there are thirty-eight houses full of stories, a farm, a beach bar, a table inside a museum.",
-      "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate \u2014 houses in the trees, farm rows, walkways \u2014 everything the dream became. Grand wide.",
-      "clips": [
-        {
-          "id": "pexels_27308490_drone-rural-hotel-property",
-          "type": "video",
-          "source": "pexels",
-          "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/drone-flight-over-roger-thorpe-manor-27308490/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_27308490_drone-rural-hotel-property.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_27308490_drone-rural-hotel-property.mp4"
-        },
-        {
-          "id": "pexels_29127878_drone-vineyard-sunset",
-          "type": "video",
-          "source": "pexels",
-          "author": "Denis LEFEVRE",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/golden-fall-vineyard-at-sunset-drone-view-29127878/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_29127878_drone-vineyard-sunset.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_29127878_drone-vineyard-sunset.mp4"
-        },
-        {
-          "id": "pexels_29487912_aerial-countryside-villa-golden",
-          "type": "video",
-          "source": "pexels",
-          "author": "S\u00e9rgio Souza",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/peaceful-hillside-chateau-at-sunset-29487912/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_29487912_aerial-countryside-villa-golden.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_29487912_aerial-countryside-villa-golden.mp4"
-        },
-        {
-          "id": "pexels_29615502_aerial-olive-grove-sunset",
-          "type": "video",
-          "source": "pexels",
-          "author": "Maciej Chojnacki",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/aerial-view-of-scenic-tuscany-olive-groves-29615502/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_29615502_aerial-olive-grove-sunset.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_29615502_aerial-olive-grove-sunset.mp4"
-        },
-        {
-          "id": "pexels_34350685_drone-farmhouse-estate-sunset",
-          "type": "video",
-          "source": "pexels",
-          "author": "Oskar Gross",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/aerial-view-of-tuscan-villa-surrounded-by-hills-34350685/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_34350685_drone-farmhouse-estate-sunset.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_34350685_drone-farmhouse-estate-sunset.mp4"
-        },
-        {
-          "id": "pexels_857250_aerial-farm-buildings-fields-eve",
-          "type": "video",
-          "source": "pexels",
-          "author": "Taylor Grote",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/aerial-drone-footage-of-countryside-857250/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_857250_aerial-farm-buildings-fields-eve.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_857250_aerial-farm-buildings-fields-eve.mp4"
-        },
-        {
-          "id": "pixabay_174452_farm-resort-sunset-drone",
-          "type": "video",
-          "source": "pixabay",
-          "author": "Ponnguyenduy",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-174452/",
-          "thumb": "projects/belong-module12/thumbs/S09/pixabay_174452_farm-resort-sunset-drone.jpg",
-          "preview": "projects/belong-module12/previews/S09/pixabay_174452_farm-resort-sunset-drone.mp4"
-        },
-        {
-          "id": "pexels_7279569_estate-aerial-golden-hour",
-          "type": "image",
-          "source": "pexels",
-          "author": "Ollie Craig",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/ancient-castle-in-autumn-forest-landscape-7279569/",
-          "thumb": "projects/belong-module12/thumbs/S09/pexels_7279569_estate-aerial-golden-hour.jpg",
-          "preview": "projects/belong-module12/previews/S09/pexels_7279569_estate-aerial-golden-hour.jpg"
-        }
-      ]
+     "id": "pixabay_180_conversation-wooden-table",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Republica",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-180/",
+     "thumb": "projects/belong-module12/thumbs/S01/pixabay_180_conversation-wooden-table.jpg",
+     "preview": "projects/belong-module12/previews/S01/pixabay_180_conversation-wooden-table.mp4"
     },
     {
-      "id": "S10",
-      "script_line": "[B10] Fica. Pertence. Stay. Belong. Now \u2014 let's get to work.",
-      "visual_direction": "Closing unity: the team gathered outdoors for a morning briefing in soft first light, nods, smiles, then everyone moves off to work with purpose. Wide to medium, rousing.",
-      "clips": [
-        {
-          "id": "pexels_10350201_team-briefing-outdoors",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/volunteers-reading-a-missing-poster-10350201/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_10350201_team-briefing-outdoors.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_10350201_team-briefing-outdoors.mp4"
-        },
-        {
-          "id": "pexels_10495016_friends-standing-hill-sunrise-to",
-          "type": "video",
-          "source": "pexels",
-          "author": "Ron Lach",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/friends-standing-in-a-beach-10495016/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_10495016_friends-standing-hill-sunrise-to.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_10495016_friends-standing-hill-sunrise-to.mp4"
-        },
-        {
-          "id": "pexels_3256548_staff-group-meeting-garden",
-          "type": "video",
-          "source": "pexels",
-          "author": "fauxels",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/colleagues-celebrating-and-stacking-hands-3256548/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_3256548_staff-group-meeting-garden.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_3256548_staff-group-meeting-garden.mp4"
-        },
-        {
-          "id": "pexels_3981540_team-gathering-before-service-re",
-          "type": "video",
-          "source": "pexels",
-          "author": "Gustavo Fring",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/a-waitress-writing-down-orders-3981540/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_3981540_team-gathering-before-service-re.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_3981540_team-gathering-before-service-re.mp4"
-        },
-        {
-          "id": "pexels_5359716_staff-meeting-outdoors-garden",
-          "type": "video",
-          "source": "pexels",
-          "author": "Pavel Danilyuk",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_5359716_staff-meeting-outdoors-garden.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_5359716_staff-meeting-outdoors-garden.mp4"
-        },
-        {
-          "id": "pexels_9465172_team-standing-together-sunrise",
-          "type": "video",
-          "source": "pexels",
-          "author": "Monstera Production",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/video/group-of-people-holding-each-other-s-arm-9465172/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_9465172_team-standing-together-sunrise.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_9465172_team-standing-together-sunrise.mp4"
-        },
-        {
-          "id": "pixabay_27111_team-huddle-outdoors-morning",
-          "type": "video",
-          "source": "pixabay",
-          "author": "adege",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-27111/",
-          "thumb": "projects/belong-module12/thumbs/S10/pixabay_27111_team-huddle-outdoors-morning.jpg",
-          "preview": "projects/belong-module12/previews/S10/pixabay_27111_team-huddle-outdoors-morning.mp4"
-        },
-        {
-          "id": "pixabay_59291_team-gathering-sunrise",
-          "type": "video",
-          "source": "pixabay",
-          "author": "trilemedia",
-          "license": "Pixabay Content License",
-          "page_url": "https://pixabay.com/videos/id-59291/",
-          "thumb": "projects/belong-module12/thumbs/S10/pixabay_59291_team-gathering-sunrise.jpg",
-          "preview": "projects/belong-module12/previews/S10/pixabay_59291_team-gathering-sunrise.mp4"
-        },
-        {
-          "id": "pexels_30396772_team-briefing-outdoors",
-          "type": "image",
-          "source": "pexels",
-          "author": "AMORIE SAM",
-          "license": "Pexels License",
-          "page_url": "https://www.pexels.com/photo/men-having-a-discussion-outdoors-under-clear-sky-30396772/",
-          "thumb": "projects/belong-module12/thumbs/S10/pexels_30396772_team-briefing-outdoors.jpg",
-          "preview": "projects/belong-module12/previews/S10/pexels_30396772_team-briefing-outdoors.jpg"
-        }
-      ]
+     "id": "pexels_4051137_sincere-discussion-morning",
+     "type": "image",
+     "source": "pexels",
+     "author": "KATRIN  BOLOVTSOVA",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/photo-of-women-talking-to-each-other-4051137/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_4051137_sincere-discussion-morning.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_4051137_sincere-discussion-morning.jpg"
+    },
+    {
+     "id": "pexels_7490773_mentor-coffee-meeting",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-woman-in-business-attire-sitting-on-a-couch-while-holding-a-coffee-7490773/",
+     "thumb": "projects/belong-module12/thumbs/S01/pexels_7490773_mentor-coffee-meeting.jpg",
+     "preview": "projects/belong-module12/previews/S01/pexels_7490773_mentor-coffee-meeting.jpg"
     }
-  ]
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S02",
+   "script_line": "",
+   "visual_direction": "The founder's road: a man walking his farmland alone at golden hour, weathered and thoughtful, the land that taught him stretching around. Wide contemplative. [image-beat] — Nobody taught me hospitality management. I was a lawyer who fell in love with a field of carnations. I learned by doing — and by getting it wrong first.",
+   "clips": [
+    {
+     "id": "pexels_10312634_man-walking-through-vineyard-row",
+     "type": "video",
+     "source": "pexels",
+     "author": "Videas Cl",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/green-plants-in-vineyard-10312634/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_10312634_man-walking-through-vineyard-row.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_10312634_man-walking-through-vineyard-row.mp4"
+    },
+    {
+     "id": "pexels_11521918_thoughtful-walk-countryside",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ruslan Sikunov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-walking-away-in-grass-11521918/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_11521918_thoughtful-walk-countryside.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_11521918_thoughtful-walk-countryside.mp4"
+    },
+    {
+     "id": "pexels_15909398_farmer-walking-his-land-sunset",
+     "type": "video",
+     "source": "pexels",
+     "author": "Vadim Starling",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-in-a-hat-stands-in-a-corn-field-15909398/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_15909398_farmer-walking-his-land-sunset.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_15909398_farmer-walking-his-land-sunset.mp4"
+    },
+    {
+     "id": "pexels_17190661_older-man-walking-farm-path",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ucundinamarca Virtual",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-walking-down-a-dirt-path-in-a-field-17190661/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_17190661_older-man-walking-farm-path.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_17190661_older-man-walking-farm-path.mp4"
+    },
+    {
+     "id": "pexels_18089239_silhouette-man-walking-field-gol",
+     "type": "video",
+     "source": "pexels",
+     "author": "Matthias Groeneveld",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-walking-down-a-dirt-road-at-sunrise-18089239/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_18089239_silhouette-man-walking-field-gol.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_18089239_silhouette-man-walking-field-gol.mp4"
+    },
+    {
+     "id": "pexels_20750159_older-man-walking-rural-road-sun",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tacettin Veli Çetin",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-standing-in-a-field-at-sunset-20750159/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_20750159_older-man-walking-rural-road-sun.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_20750159_older-man-walking-rural-road-sun.mp4"
+    },
+    {
+     "id": "pexels_27134194_farmer-inspecting-crops-walking",
+     "type": "video",
+     "source": "pexels",
+     "author": "Khanh Hoang Minh 2",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-in-a-hat-is-standing-in-a-corn-field-27134194/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_27134194_farmer-inspecting-crops-walking.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_27134194_farmer-inspecting-crops-walking.mp4"
+    },
+    {
+     "id": "pexels_5694893_man-walking-through-vineyard-row",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tjasa Strehar",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-walking-on-a-farmland-5694893/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_5694893_man-walking-through-vineyard-row.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_5694893_man-walking-through-vineyard-row.mp4"
+    },
+    {
+     "id": "pexels_8296579_man-walking-alone-olive-grove",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-standing-8296579/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_8296579_man-walking-alone-olive-grove.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_8296579_man-walking-alone-olive-grove.mp4"
+    },
+    {
+     "id": "pexels_8540544_man-standing-looking-over-his-fa",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-farmer-waving-his-hand-8540544/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_8540544_man-standing-looking-over-his-fa.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_8540544_man-standing-looking-over-his-fa.mp4"
+    },
+    {
+     "id": "pexels_8659307_farmer-inspecting-crops-walking",
+     "type": "video",
+     "source": "pexels",
+     "author": "FRANK MERIÑO",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-checking-the-corn-plant-8659307/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_8659307_farmer-inspecting-crops-walking.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_8659307_farmer-inspecting-crops-walking.mp4"
+    },
+    {
+     "id": "pexels_8795191_mature-man-field",
+     "type": "video",
+     "source": "pexels",
+     "author": "Anastasia  Shuraeva",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/back-view-of-a-man-looking-at-the-nature-in-a-field-8795191/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_8795191_mature-man-field.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_8795191_mature-man-field.mp4"
+    },
+    {
+     "id": "pixabay_62390_contemplative-farmer-sunset",
+     "type": "video",
+     "source": "pixabay",
+     "author": "JoshuaWoroniecki",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-62390/",
+     "thumb": "projects/belong-module12/thumbs/S02/pixabay_62390_contemplative-farmer-sunset.jpg",
+     "preview": "projects/belong-module12/previews/S02/pixabay_62390_contemplative-farmer-sunset.mp4"
+    },
+    {
+     "id": "pexels_160636_thoughtful-walk-countryside",
+     "type": "image",
+     "source": "pexels",
+     "author": "Pixabay",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/man-walking-in-the-forest-160636/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_160636_thoughtful-walk-countryside.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_160636_thoughtful-walk-countryside.jpg"
+    },
+    {
+     "id": "pexels_29472840_landowner-golden-hour",
+     "type": "image",
+     "source": "pexels",
+     "author": "Michał Robak",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/scenic-landscape-with-wind-turbines-at-sunset-29472840/",
+     "thumb": "projects/belong-module12/thumbs/S02/pexels_29472840_landowner-golden-hour.jpg",
+     "preview": "projects/belong-module12/previews/S02/pexels_29472840_landowner-golden-hour.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S03",
+   "script_line": "",
+   "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot — no phone call upward, no hesitation, just judgment. Medium, decisive energy. — I'd rather correct your decision than make all the decisions. When the guest is in front of you and something needs solving, solve it.",
+   "clips": [
+    {
+     "id": "pexels_31099748_gardener-working-alone-pruning",
+     "type": "video",
+     "source": "pexels",
+     "author": "Burak Bahadır  Büyükkılınç",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-pruning-tree-branches-with-power-tool-outdoors-31099748/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_31099748_gardener-working-alone-pruning.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_31099748_gardener-working-alone-pruning.mp4"
+    },
+    {
+     "id": "pexels_4254302_waiter-acting-quickly-restaurant",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/restaurant-sign-typography-cafe-4254302/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_4254302_waiter-acting-quickly-restaurant.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_4254302_waiter-acting-quickly-restaurant.mp4"
+    },
+    {
+     "id": "pexels_5138025_receptionist-helping-guest-confi",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-reading-and-signing-a-waiver-5138025/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_5138025_receptionist-helping-guest-confi.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_5138025_receptionist-helping-guest-confi.mp4"
+    },
+    {
+     "id": "pexels_6466243_hotel-housekeeper-working-indepe",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-housekeeper-putting-folded-towels-on-bed-6466243/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_6466243_hotel-housekeeper-working-indepe.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_6466243_hotel-housekeeper-working-indepe.mp4"
+    },
+    {
+     "id": "pexels_6474562_staff-member-carrying-supplies-h",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/concierge-pushing-trolley-loaded-with-white-boxes-6474562/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_6474562_staff-member-carrying-supplies-h.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_6474562_staff-member-carrying-supplies-h.mp4"
+    },
+    {
+     "id": "pexels_8430969_barista-preparing-order-confiden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-ordering-at-a-cafe-8430969/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_8430969_barista-preparing-order-confiden.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_8430969_barista-preparing-order-confiden.mp4"
+    },
+    {
+     "id": "pixabay_132_waiter-solving-problem",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-132/",
+     "thumb": "projects/belong-module12/thumbs/S03/pixabay_132_waiter-solving-problem.jpg",
+     "preview": "projects/belong-module12/previews/S03/pixabay_132_waiter-solving-problem.mp4"
+    },
+    {
+     "id": "pexels_5999818_decisive-worker-moment",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ono  Kosuki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/pensive-ethnic-woman-touching-chin-while-thinking-on-problem-5999818/",
+     "thumb": "projects/belong-module12/thumbs/S03/pexels_5999818_decisive-worker-moment.jpg",
+     "preview": "projects/belong-module12/previews/S03/pexels_5999818_decisive-worker-moment.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S04",
+   "script_line": "",
+   "visual_direction": "Sanctioned generosity: a server carries an unasked-for bottle of wine and dessert to a table, easy confidence in the gesture. Medium warm. — If your solution costs a bottle of wine to save a guest's evening: do it, tell your manager after. I will never punish a generous decision made in good faith.",
+   "clips": [
+    {
+     "id": "pexels_5657049_waiter-carrying-tray-desserts-re",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/artistic-food-presentation-on-a-wooden-board-5657049/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_5657049_waiter-carrying-tray-desserts-re.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_5657049_waiter-carrying-tray-desserts-re.mp4"
+    },
+    {
+     "id": "pexels_6396243_server-pouring-wine-generously",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-putting-wine-glasses-on-the-table-6396243/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_6396243_server-pouring-wine-generously.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_6396243_server-pouring-wine-generously.mp4"
+    },
+    {
+     "id": "pexels_8764323_sommelier-presenting-bottle-gues",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-wine-8764323/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_8764323_sommelier-presenting-bottle-gues.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_8764323_sommelier-presenting-bottle-gues.mp4"
+    },
+    {
+     "id": "pexels_8922357_waiter-bringing-wine-bottle-to-t",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-waiter-serving-wine-on-his-guests-8922357/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_8922357_waiter-bringing-wine-bottle-to-t.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_8922357_waiter-bringing-wine-bottle-to-t.mp4"
+    },
+    {
+     "id": "pixabay_132583_gifting-wine-guest",
+     "type": "video",
+     "source": "pixabay",
+     "author": "NickyPe",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-132583/",
+     "thumb": "projects/belong-module12/thumbs/S04/pixabay_132583_gifting-wine-guest.jpg",
+     "preview": "projects/belong-module12/previews/S04/pixabay_132583_gifting-wine-guest.mp4"
+    },
+    {
+     "id": "pixabay_1633_waiter-bringing-wine-bottle-to-t",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Coverr-Free-Footage",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-1633/",
+     "thumb": "projects/belong-module12/thumbs/S04/pixabay_1633_waiter-bringing-wine-bottle-to-t.jpg",
+     "preview": "projects/belong-module12/previews/S04/pixabay_1633_waiter-bringing-wine-bottle-to-t.mp4"
+    },
+    {
+     "id": "pexels_16125870_server-wine-bottle-table",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tim Durand",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/wineglasses-on-a-table-16125870/",
+     "thumb": "projects/belong-module12/thumbs/S04/pexels_16125870_server-wine-bottle-table.jpg",
+     "preview": "projects/belong-module12/previews/S04/pexels_16125870_server-wine-bottle-table.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S05",
+   "script_line": "",
+   "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered — zero drama, problem shrinking as it's spoken. Medium two-shot. — A mistake caught early is an anecdote; a mistake hidden is a crisis. Speak early. Always.",
+   "clips": [
+    {
+     "id": "pexels_5971599_two-coworkers-honest-conversatio",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-coworkers-talking-during-coffee-break-5971599/",
+     "thumb": "projects/belong-module12/thumbs/S05/pexels_5971599_two-coworkers-honest-conversatio.jpg",
+     "preview": "projects/belong-module12/previews/S05/pexels_5971599_two-coworkers-honest-conversatio.mp4"
+    },
+    {
+     "id": "pexels_6816117_waiter-talking-with-restaurant-m",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yan Krukau",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-and-woman-ordering-in-a-restaurant-6816117/",
+     "thumb": "projects/belong-module12/thumbs/S05/pexels_6816117_waiter-talking-with-restaurant-m.jpg",
+     "preview": "projects/belong-module12/previews/S05/pexels_6816117_waiter-talking-with-restaurant-m.mp4"
+    },
+    {
+     "id": "pexels_7845412_young-employee-talking-manager-c",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/women-talking-about-work-7845412/",
+     "thumb": "projects/belong-module12/thumbs/S05/pexels_7845412_young-employee-talking-manager-c.jpg",
+     "preview": "projects/belong-module12/previews/S05/pexels_7845412_young-employee-talking-manager-c.mp4"
+    },
+    {
+     "id": "pexels_8135155_reassuring-manager-listening",
+     "type": "video",
+     "source": "pexels",
+     "author": "www.kaboompics.com",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-couple-having-a-conversation-8135155/",
+     "thumb": "projects/belong-module12/thumbs/S05/pexels_8135155_reassuring-manager-listening.jpg",
+     "preview": "projects/belong-module12/previews/S05/pexels_8135155_reassuring-manager-listening.mp4"
+    },
+    {
+     "id": "pixabay_202135_young-employee-talking-manager-c",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Samidurrakzai",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-202135/",
+     "thumb": "projects/belong-module12/thumbs/S05/pixabay_202135_young-employee-talking-manager-c.jpg",
+     "preview": "projects/belong-module12/previews/S05/pixabay_202135_young-employee-talking-manager-c.mp4"
+    },
+    {
+     "id": "pexels_5324913_reassuring-manager-listening",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anna Shvets",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/serious-woman-listening-to-colleague-in-office-5324913/",
+     "thumb": "projects/belong-module12/thumbs/S05/pexels_5324913_reassuring-manager-listening.jpg",
+     "preview": "projects/belong-module12/previews/S05/pexels_5324913_reassuring-manager-listening.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S06",
+   "script_line": "",
+   "visual_direction": "Craft pride: extreme detail of meticulous work — a knife sharpened, a hem pressed, a hinge oiled, a table set exactly — excellence as respect made visible. Macro series. [image-beat] — High standards are a form of respect. In a place like this, everything touches everything.",
+   "clips": [
+    {
+     "id": "pexels_18366463_carpenter-sanding-wood-detail",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yusif Jalil",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/mastering-woodwork-a-carpenter-s-craft-18366463/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_18366463_carpenter-sanding-wood-detail.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_18366463_carpenter-sanding-wood-detail.mp4"
+    },
+    {
+     "id": "pexels_2909914_barista-latte-art-close-up",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coffee-making-art-by-a-bartender-2909914/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_2909914_barista-latte-art-close-up.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_2909914_barista-latte-art-close-up.mp4"
+    },
+    {
+     "id": "pexels_4510946_knife-sharpening-close-up",
+     "type": "video",
+     "source": "pexels",
+     "author": "Илья Исаев",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-sharpening-his-knife-4510946/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_4510946_knife-sharpening-close-up.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_4510946_knife-sharpening-close-up.mp4"
+    },
+    {
+     "id": "pexels_5901665_ironing-linen-close-up-hands",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-clothes-iron-5901665/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_5901665_ironing-linen-close-up-hands.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_5901665_ironing-linen-close-up-hands.mp4"
+    },
+    {
+     "id": "pexels_6661935_craftsman-hands-detail",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-grinding-a-bag-6661935/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_6661935_craftsman-hands-detail.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_6661935_craftsman-hands-detail.mp4"
+    },
+    {
+     "id": "pexels_6958178_folding-napkins-precise-hands",
+     "type": "video",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-folding-a-table-napkin-6958178/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_6958178_folding-napkins-precise-hands.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_6958178_folding-napkins-precise-hands.mp4"
+    },
+    {
+     "id": "pexels_7199617_precise-table-setting",
+     "type": "video",
+     "source": "pexels",
+     "author": "olia danilevich",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/an-elderly-woman-transferring-the-egg-on-a-bowl-7199617/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_7199617_precise-table-setting.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_7199617_precise-table-setting.mp4"
+    },
+    {
+     "id": "pexels_7220979_polishing-wine-glass-close-up",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-sanding-the-rim-of-a-glass-cup-7220979/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_7220979_polishing-wine-glass-close-up.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_7220979_polishing-wine-glass-close-up.mp4"
+    },
+    {
+     "id": "pixabay_125458_craftsman-hands-detail",
+     "type": "video",
+     "source": "pixabay",
+     "author": "romyrwood",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-125458/",
+     "thumb": "projects/belong-module12/thumbs/S06/pixabay_125458_craftsman-hands-detail.jpg",
+     "preview": "projects/belong-module12/previews/S06/pixabay_125458_craftsman-hands-detail.mp4"
+    },
+    {
+     "id": "pixabay_166808_carpenter-sanding-wood-detail",
+     "type": "video",
+     "source": "pixabay",
+     "author": "AndyWolares",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-166808/",
+     "thumb": "projects/belong-module12/thumbs/S06/pixabay_166808_carpenter-sanding-wood-detail.jpg",
+     "preview": "projects/belong-module12/previews/S06/pixabay_166808_carpenter-sanding-wood-detail.mp4"
+    },
+    {
+     "id": "pixabay_330339_barista-latte-art-close-up",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Solarselle77",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-330339/",
+     "thumb": "projects/belong-module12/thumbs/S06/pixabay_330339_barista-latte-art-close-up.jpg",
+     "preview": "projects/belong-module12/previews/S06/pixabay_330339_barista-latte-art-close-up.mp4"
+    },
+    {
+     "id": "pexels_17057034_precise-table-setting",
+     "type": "image",
+     "source": "pexels",
+     "author": "Matheus Bertelli",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/table-in-restaurant-17057034/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_17057034_precise-table-setting.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_17057034_precise-table-setting.jpg"
+    },
+    {
+     "id": "pexels_33753659_craftsman-hands-detail",
+     "type": "image",
+     "source": "pexels",
+     "author": "GOWTHAM AGM",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/close-up-of-artisan-sculpting-stone-column-33753659/",
+     "thumb": "projects/belong-module12/thumbs/S06/pexels_33753659_craftsman-hands-detail.jpg",
+     "preview": "projects/belong-module12/previews/S06/pexels_33753659_craftsman-hands-detail.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S07",
+   "script_line": "",
+   "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one — in the kitchen, the garden, at the desk — knowledge passing between generations. Medium warm. [image-beat] — We grow people, not just vegetables. The person cleaning houses today can be running housekeeping in three years.",
+   "clips": [
+    {
+     "id": "pexels_10413022_experienced-farmer-teaching-youn",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-a-man-and-his-grandson-fishing-together-10413022/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_10413022_experienced-farmer-teaching-youn.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_10413022_experienced-farmer-teaching-youn.mp4"
+    },
+    {
+     "id": "pexels_38487305_mentorship-kitchen-garden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jelly Marketing",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/intergenerational-gardening-experience-38487305/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_38487305_mentorship-kitchen-garden.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_38487305_mentorship-kitchen-garden.mp4"
+    },
+    {
+     "id": "pexels_5960699_gardener-showing-apprentice-plan",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-grandmother-showing-her-granddaughters-how-to-do-flower-arrangement-5960699/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_5960699_gardener-showing-apprentice-plan.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_5960699_gardener-showing-apprentice-plan.mp4"
+    },
+    {
+     "id": "pexels_6829135_training-new-employee-restaurant",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-waiter-serving-drinks-6829135/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_6829135_training-new-employee-restaurant.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_6829135_training-new-employee-restaurant.mp4"
+    },
+    {
+     "id": "pexels_8508153_chef-teaching-young-cook-kitchen",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-boy-in-chef-uniform-working-in-the-kitchen-8508153/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_8508153_chef-teaching-young-cook-kitchen.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_8508153_chef-teaching-young-cook-kitchen.mp4"
+    },
+    {
+     "id": "pexels_7782156_mentorship-kitchen-garden",
+     "type": "image",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/woman-and-a-child-planting-seeds-on-the-ground-7782156/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_7782156_mentorship-kitchen-garden.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_7782156_mentorship-kitchen-garden.jpg"
+    },
+    {
+     "id": "pexels_8527773_mentor-teaching-apprentice",
+     "type": "image",
+     "source": "pexels",
+     "author": "www.kaboompics.com",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/women-holding-white-papers-sitting-by-the-table-8527773/",
+     "thumb": "projects/belong-module12/thumbs/S07/pexels_8527773_mentor-teaching-apprentice.jpg",
+     "preview": "projects/belong-module12/previews/S07/pexels_8527773_mentor-teaching-apprentice.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S08",
+   "script_line": "",
+   "visual_direction": "The team's own table: staff sharing a relaxed meal together outdoors after service, laughter, plates passed, guard fully down. Wide golden evening. [image-beat] — Well-being is non-negotiable. Exhausted people can't give warmth, and warmth is our entire product. The team is the first community we regenerate.",
+   "clips": [
+    {
+     "id": "pexels_3253797_team-sharing-food-outdoors-long",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-people-having-a-working-lunch-over-a-wooden-table-3253797/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_3253797_team-sharing-food-outdoors-long.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_3253797_team-sharing-food-outdoors-long.mp4"
+    },
+    {
+     "id": "pexels_5961379_staff-dinner-outdoors",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/friends-celebrating-an-event-party-at-the-backyard-5961379/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_5961379_staff-dinner-outdoors.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_5961379_staff-dinner-outdoors.mp4"
+    },
+    {
+     "id": "pexels_5961961_coworkers-sharing-meal-outdoors",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-serving-his-friend-a-glass-of-white-wine-5961961/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_5961961_coworkers-sharing-meal-outdoors.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_5961961_coworkers-sharing-meal-outdoors.mp4"
+    },
+    {
+     "id": "pexels_6715318_staff-dinner-long-table-laughing",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/renaissance-men-talking-and-drinking-at-the-table-6715318/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_6715318_staff-dinner-long-table-laughing.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_6715318_staff-dinner-long-table-laughing.mp4"
+    },
+    {
+     "id": "pexels_7594441_restaurant-staff-eating-together",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/couple-eating-noodles-7594441/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_7594441_restaurant-staff-eating-together.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_7594441_restaurant-staff-eating-together.mp4"
+    },
+    {
+     "id": "pexels_8102988_kitchen-team-lunch-together",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-eating-noodles-from-a-box-8102988/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_8102988_kitchen-team-lunch-together.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_8102988_kitchen-team-lunch-together.mp4"
+    },
+    {
+     "id": "pexels_9761222_restaurant-staff-eating-together",
+     "type": "video",
+     "source": "pexels",
+     "author": "Mikhail Nilov",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/friends-eating-a-birthday-cake-9761222/",
+     "thumb": "projects/belong-module12/thumbs/S08/pexels_9761222_restaurant-staff-eating-together.jpg",
+     "preview": "projects/belong-module12/previews/S08/pexels_9761222_restaurant-staff-eating-together.mp4"
+    },
+    {
+     "id": "pixabay_2339_family-meal-restaurant-staff",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Life-Of-Vids",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-2339/",
+     "thumb": "projects/belong-module12/thumbs/S08/pixabay_2339_family-meal-restaurant-staff.jpg",
+     "preview": "projects/belong-module12/previews/S08/pixabay_2339_family-meal-restaurant-staff.mp4"
+    },
+    {
+     "id": "pixabay_1853958_coworkers-eating-laughing",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/girls-bench-laugh-laughing-friends-1853958/",
+     "thumb": "projects/belong-module12/thumbs/S08/pixabay_1853958_coworkers-eating-laughing.jpg",
+     "preview": "projects/belong-module12/previews/S08/pixabay_1853958_coworkers-eating-laughing.jpg"
+    },
+    {
+     "id": "pixabay_2009590_family-meal-restaurant-staff",
+     "type": "image",
+     "source": "pixabay",
+     "author": "buffetcrush",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/christmas-wallpaper-platter-food-2009590/",
+     "thumb": "projects/belong-module12/thumbs/S08/pixabay_2009590_family-meal-restaurant-staff.jpg",
+     "preview": "projects/belong-module12/previews/S08/pixabay_2009590_family-meal-restaurant-staff.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S09",
+   "script_line": "",
+   "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate — houses in the trees, farm rows, walkways — everything the dream became. Grand wide. — Sixteen years ago there was a field of carnations and a lawyer with a dream. Today there are thirty-eight houses full of stories, a farm, a beach bar, a table inside a museum.",
+   "clips": [
+    {
+     "id": "pexels_27308490_drone-rural-hotel-property",
+     "type": "video",
+     "source": "pexels",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/drone-flight-over-roger-thorpe-manor-27308490/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_27308490_drone-rural-hotel-property.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_27308490_drone-rural-hotel-property.mp4"
+    },
+    {
+     "id": "pexels_29127878_drone-vineyard-sunset",
+     "type": "video",
+     "source": "pexels",
+     "author": "Denis LEFEVRE",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/golden-fall-vineyard-at-sunset-drone-view-29127878/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_29127878_drone-vineyard-sunset.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_29127878_drone-vineyard-sunset.mp4"
+    },
+    {
+     "id": "pexels_29487912_aerial-countryside-villa-golden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Sérgio Souza",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/peaceful-hillside-chateau-at-sunset-29487912/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_29487912_aerial-countryside-villa-golden.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_29487912_aerial-countryside-villa-golden.mp4"
+    },
+    {
+     "id": "pexels_29615502_aerial-olive-grove-sunset",
+     "type": "video",
+     "source": "pexels",
+     "author": "Maciej Chojnacki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-scenic-tuscany-olive-groves-29615502/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_29615502_aerial-olive-grove-sunset.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_29615502_aerial-olive-grove-sunset.mp4"
+    },
+    {
+     "id": "pexels_34350685_drone-farmhouse-estate-sunset",
+     "type": "video",
+     "source": "pexels",
+     "author": "Oskar Gross",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-view-of-tuscan-villa-surrounded-by-hills-34350685/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_34350685_drone-farmhouse-estate-sunset.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_34350685_drone-farmhouse-estate-sunset.mp4"
+    },
+    {
+     "id": "pexels_857250_aerial-farm-buildings-fields-eve",
+     "type": "video",
+     "source": "pexels",
+     "author": "Taylor Grote",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/aerial-drone-footage-of-countryside-857250/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_857250_aerial-farm-buildings-fields-eve.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_857250_aerial-farm-buildings-fields-eve.mp4"
+    },
+    {
+     "id": "pixabay_174452_farm-resort-sunset-drone",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Ponnguyenduy",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-174452/",
+     "thumb": "projects/belong-module12/thumbs/S09/pixabay_174452_farm-resort-sunset-drone.jpg",
+     "preview": "projects/belong-module12/previews/S09/pixabay_174452_farm-resort-sunset-drone.mp4"
+    },
+    {
+     "id": "pexels_7279569_estate-aerial-golden-hour",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ollie Craig",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/ancient-castle-in-autumn-forest-landscape-7279569/",
+     "thumb": "projects/belong-module12/thumbs/S09/pexels_7279569_estate-aerial-golden-hour.jpg",
+     "preview": "projects/belong-module12/previews/S09/pexels_7279569_estate-aerial-golden-hour.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  },
+  {
+   "id": "S10",
+   "script_line": "",
+   "visual_direction": "Closing unity: the team gathered outdoors for a morning briefing in soft first light, nods, smiles, then everyone moves off to work with purpose. Wide to medium, rousing. — Fica. Pertence. Stay. Belong. Now — let's get to work.",
+   "clips": [
+    {
+     "id": "pexels_10350201_team-briefing-outdoors",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/volunteers-reading-a-missing-poster-10350201/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_10350201_team-briefing-outdoors.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_10350201_team-briefing-outdoors.mp4"
+    },
+    {
+     "id": "pexels_10495016_friends-standing-hill-sunrise-to",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/friends-standing-in-a-beach-10495016/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_10495016_friends-standing-hill-sunrise-to.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_10495016_friends-standing-hill-sunrise-to.mp4"
+    },
+    {
+     "id": "pexels_3256548_staff-group-meeting-garden",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/colleagues-celebrating-and-stacking-hands-3256548/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_3256548_staff-group-meeting-garden.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_3256548_staff-group-meeting-garden.mp4"
+    },
+    {
+     "id": "pexels_3981540_team-gathering-before-service-re",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-waitress-writing-down-orders-3981540/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_3981540_team-gathering-before-service-re.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_3981540_team-gathering-before-service-re.mp4"
+    },
+    {
+     "id": "pexels_5359716_staff-meeting-outdoors-garden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_5359716_staff-meeting-outdoors-garden.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_5359716_staff-meeting-outdoors-garden.mp4"
+    },
+    {
+     "id": "pexels_9465172_team-standing-together-sunrise",
+     "type": "video",
+     "source": "pexels",
+     "author": "Monstera Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/group-of-people-holding-each-other-s-arm-9465172/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_9465172_team-standing-together-sunrise.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_9465172_team-standing-together-sunrise.mp4"
+    },
+    {
+     "id": "pixabay_27111_team-huddle-outdoors-morning",
+     "type": "video",
+     "source": "pixabay",
+     "author": "adege",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-27111/",
+     "thumb": "projects/belong-module12/thumbs/S10/pixabay_27111_team-huddle-outdoors-morning.jpg",
+     "preview": "projects/belong-module12/previews/S10/pixabay_27111_team-huddle-outdoors-morning.mp4"
+    },
+    {
+     "id": "pixabay_59291_team-gathering-sunrise",
+     "type": "video",
+     "source": "pixabay",
+     "author": "trilemedia",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-59291/",
+     "thumb": "projects/belong-module12/thumbs/S10/pixabay_59291_team-gathering-sunrise.jpg",
+     "preview": "projects/belong-module12/previews/S10/pixabay_59291_team-gathering-sunrise.mp4"
+    },
+    {
+     "id": "pexels_30396772_team-briefing-outdoors",
+     "type": "image",
+     "source": "pexels",
+     "author": "AMORIE SAM",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-having-a-discussion-outdoors-under-clear-sky-30396772/",
+     "thumb": "projects/belong-module12/thumbs/S10/pexels_30396772_team-briefing-outdoors.jpg",
+     "preview": "projects/belong-module12/previews/S10/pexels_30396772_team-briefing-outdoors.jpg"
+    }
+   ],
+   "timing_source": "unrecorded"
+  }
+ ]
 }
