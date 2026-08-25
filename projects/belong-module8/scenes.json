@@ -2,69 +2,16 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "[B1] In this module I want to lift your eyes to the whole constellation — because Belong is bigger than the property line.",
-   "visual_direction": "Scale-setting panorama: from farm fields the view sweeps to the Atlantic coastline — one territory holding many places. Wide aerial, golden light. [image-beat]",
+   "script_line": "So far we've mostly stood on the farm. In this module I want to lift your eyes to the whole constellation — because Belong is bigger than the property line, and whichever unit you work in, you're part of all of it. Bar da Praia do Carvalhal. On the sand of the Costa Vicentina, minutes from Craveiral, at the beach our guests use most — easiest access on this stretch of coast, the family favourite.",
+   "visual_direction": "Lifting the eyes from the farm to the whole territory — coast, land, wider world",
+   "t": 0.0,
+   "end": 29.79,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
    "clips": [
-    {
-     "id": "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx",
-     "type": "image",
-     "source": "upload",
-     "author": "Uploaded",
-     "license": "Client-provided",
-     "note": "craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
-     "thumb": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
-     "preview": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg"
-    },
-    {
-     "id": "pixabay_132321_farmland-to-sea",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Matthias_Groeneveld",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-132321/",
-     "thumb": "projects/belong-module8/thumbs/S01/pixabay_132321_farmland-to-sea.jpg",
-     "preview": "projects/belong-module8/previews/S01/pixabay_132321_farmland-to-sea.mp4"
-    },
-    {
-     "id": "pixabay_13772_portugal-coast-drone",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Wowa84",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-13772/",
-     "thumb": "projects/belong-module8/thumbs/S01/pixabay_13772_portugal-coast-drone.jpg",
-     "preview": "projects/belong-module8/previews/S01/pixabay_13772_portugal-coast-drone.mp4"
-    },
-    {
-     "id": "pixabay_67201_coastline-panorama-aerial",
-     "type": "video",
-     "source": "pixabay",
-     "author": "mariancroitoru",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-67201/",
-     "thumb": "projects/belong-module8/thumbs/S01/pixabay_67201_coastline-panorama-aerial.jpg",
-     "preview": "projects/belong-module8/previews/S01/pixabay_67201_coastline-panorama-aerial.mp4"
-    },
-    {
-     "id": "pexels_27832049_portugal-coast-drone",
-     "type": "image",
-     "source": "pexels",
-     "author": "Matej Simko",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/sintra-27832049/",
-     "thumb": "projects/belong-module8/thumbs/S01/pexels_27832049_portugal-coast-drone.jpg",
-     "preview": "projects/belong-module8/previews/S01/pexels_27832049_portugal-coast-drone.jpg"
-    },
-    {
-     "id": "pexels_33382684_farmland-to-sea",
-     "type": "image",
-     "source": "pexels",
-     "author": "Howard Senton",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/aerial-view-of-cornish-coastline-and-farmlands-33382684/",
-     "thumb": "projects/belong-module8/thumbs/S01/pexels_33382684_farmland-to-sea.jpg",
-     "preview": "projects/belong-module8/previews/S01/pexels_33382684_farmland-to-sea.jpg"
-    },
     {
      "id": "belong-m8-S01-V01",
      "type": "video",
@@ -242,20 +189,67 @@
      ],
      "title": "Idyllic rural landscape in Grömitz, Germany with rolling fields and trees under a blue sky.",
      "query": "rural landscape wide"
-    }
-   ],
-   "t": 0.0,
-   "end": 29.79,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S02",
-   "script_line": "[B2] Bar da Praia do Carvalhal — on the sand, minutes from Craveiral. Craveiral's philosophy in flip-flops.",
-   "visual_direction": "Barefoot hospitality: a rustic timber beach bar on the sand, cold drinks passed over the counter, ocean glittering behind. Medium wide, relaxed. [image-beat]",
-   "clips": [
+    },
+    {
+     "id": "upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx",
+     "type": "image",
+     "source": "upload",
+     "author": "Uploaded",
+     "license": "Client-provided",
+     "note": "craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
+     "thumb": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg",
+     "preview": "projects/belong-module8/previews/S01/upload_1786456020361_craveiral-farmhouse-by-belong-staying-and-feeling-gallerycraveiral-portugal-photo-martin-kaufmann-_dsc7193_bx.jpg"
+    },
+    {
+     "id": "pixabay_132321_farmland-to-sea",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Matthias_Groeneveld",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-132321/",
+     "thumb": "projects/belong-module8/thumbs/S01/pixabay_132321_farmland-to-sea.jpg",
+     "preview": "projects/belong-module8/previews/S01/pixabay_132321_farmland-to-sea.mp4"
+    },
+    {
+     "id": "pixabay_13772_portugal-coast-drone",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Wowa84",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-13772/",
+     "thumb": "projects/belong-module8/thumbs/S01/pixabay_13772_portugal-coast-drone.jpg",
+     "preview": "projects/belong-module8/previews/S01/pixabay_13772_portugal-coast-drone.mp4"
+    },
+    {
+     "id": "pixabay_67201_coastline-panorama-aerial",
+     "type": "video",
+     "source": "pixabay",
+     "author": "mariancroitoru",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-67201/",
+     "thumb": "projects/belong-module8/thumbs/S01/pixabay_67201_coastline-panorama-aerial.jpg",
+     "preview": "projects/belong-module8/previews/S01/pixabay_67201_coastline-panorama-aerial.mp4"
+    },
+    {
+     "id": "pexels_27832049_portugal-coast-drone",
+     "type": "image",
+     "source": "pexels",
+     "author": "Matej Simko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/sintra-27832049/",
+     "thumb": "projects/belong-module8/thumbs/S01/pexels_27832049_portugal-coast-drone.jpg",
+     "preview": "projects/belong-module8/previews/S01/pexels_27832049_portugal-coast-drone.jpg"
+    },
+    {
+     "id": "pexels_33382684_farmland-to-sea",
+     "type": "image",
+     "source": "pexels",
+     "author": "Howard Senton",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/aerial-view-of-cornish-coastline-and-farmlands-33382684/",
+     "thumb": "projects/belong-module8/thumbs/S01/pexels_33382684_farmland-to-sea.jpg",
+     "preview": "projects/belong-module8/previews/S01/pexels_33382684_farmland-to-sea.jpg"
+    },
     {
      "id": "pexels_5601391_rustic-beach-bar",
      "type": "video",
@@ -305,7 +299,21 @@
      "page_url": "https://pixabay.com/photos/beach-bar-beach-vacations-summer-5298364/",
      "thumb": "projects/belong-module8/thumbs/S02/pixabay_5298364_rustic-beach-bar.jpg",
      "preview": "projects/belong-module8/previews/S02/pixabay_5298364_rustic-beach-bar.jpg"
-    },
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "script_line": "The Beach Bar is Craveiral's philosophy in flip-flops: honest food and drinks, the sea, slow time, the same care. It's also where surf lessons happen, arranged through reception. For many guests, the rhythm of a perfect day is exactly this: morning on the farm, lunch and afternoon at Carvalhal, dinner under the stars back home. When you recommend the beach, you're not sending guests away from the business — you're mo",
+   "visual_direction": "The Beach Bar — sand, sea, honest food and drinks, slow time",
+   "t": 30.43,
+   "end": 61.38,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
      "id": "belong-m8-S02-V01",
      "type": "video",
@@ -468,20 +476,7 @@
      ],
      "title": "Elegant outdoor bar and restaurant by the ocean, perfect for a luxury vacation.",
      "query": "beach bar sand"
-    }
-   ],
-   "t": 30.43,
-   "end": 61.38,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S03",
-   "script_line": "[B3] It's also where surf lessons happen — the beach our guests use most, the family favourite.",
-   "visual_direction": "Atlantic play: surfers walking boards to the water, a family with kids splashing in shallows, instructor coaching a beginner wave. Wide action.",
-   "clips": [
+    },
     {
      "id": "coverr_acxkpqyipb_surfers-walking-boards",
      "type": "video",
@@ -522,6 +517,70 @@
      "thumb": "projects/belong-module8/thumbs/S03/pexels_8926065_kids-beach-splashing.jpg",
      "preview": "projects/belong-module8/previews/S03/pexels_8926065_kids-beach-splashing.jpg"
     },
+    {
+     "id": "pixabay_186560_morning-farm-light",
+     "type": "video",
+     "source": "pixabay",
+     "author": "NickyPe",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-186560/",
+     "thumb": "projects/belong-module8/thumbs/S04/pixabay_186560_morning-farm-light.jpg",
+     "preview": "projects/belong-module8/previews/S04/pixabay_186560_morning-farm-light.mp4"
+    },
+    {
+     "id": "pixabay_223459_sunset-beach-silhouette",
+     "type": "video",
+     "source": "pixabay",
+     "author": "TonyDias7",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-223459/",
+     "thumb": "projects/belong-module8/thumbs/S04/pixabay_223459_sunset-beach-silhouette.jpg",
+     "preview": "projects/belong-module8/previews/S04/pixabay_223459_sunset-beach-silhouette.mp4"
+    },
+    {
+     "id": "pixabay_268562_golden-hour-beach-walk",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Radds",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-268562/",
+     "thumb": "projects/belong-module8/thumbs/S04/pixabay_268562_golden-hour-beach-walk.jpg",
+     "preview": "projects/belong-module8/previews/S04/pixabay_268562_golden-hour-beach-walk.mp4"
+    },
+    {
+     "id": "pexels_32887177_golden-hour-beach-walk",
+     "type": "image",
+     "source": "pexels",
+     "author": "Lorenzo Manera",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/romantic-couple-walking-on-sunset-beach-32887177/",
+     "thumb": "projects/belong-module8/thumbs/S04/pexels_32887177_golden-hour-beach-walk.jpg",
+     "preview": "projects/belong-module8/previews/S04/pexels_32887177_golden-hour-beach-walk.jpg"
+    },
+    {
+     "id": "pexels_34387507_morning-farm-light",
+     "type": "image",
+     "source": "pexels",
+     "author": "Damir K .",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/tranquil-sunrise-over-serene-rural-field-34387507/",
+     "thumb": "projects/belong-module8/thumbs/S04/pexels_34387507_morning-farm-light.jpg",
+     "preview": "projects/belong-module8/previews/S04/pexels_34387507_morning-farm-light.jpg"
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "script_line": "And for the Beach Bar team: you are Craveiral to everyone who walks off that beach. Same standards, same warmth, with sand between your toes. A Mesa do CAM. In Lisbon, at the Modern Art Centre of the Calouste Gulbenkian Foundation — one of the most respected cultural institutions in the country.",
+   "visual_direction": "You are Craveiral to everyone who walks off that beach — same warmth, sand between toes",
+   "t": 62.08,
+   "end": 81.91,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
      "id": "belong-m8-S03-V01",
      "type": "video",
@@ -686,69 +745,20 @@
      "title": "Side view of happy young ethnic waiter in uniform standing near food van and smiling while greeting diverse customers ea",
      "query": "friendly server outdoors"
     }
-   ],
-   "t": 62.08,
-   "end": 81.91,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
+   ]
   },
   {
    "id": "S04",
-   "script_line": "[B4] The rhythm of a perfect day: morning on the farm, lunch and afternoon at Carvalhal, dinner under the stars back home.",
-   "visual_direction": "Day-arc triptych: farm morning light, beach afternoon glow, and a golden-hour walk back along the coast toward evening. Wide, editorial. [image-beat]",
+   "script_line": "Think about what that pairing means: the cuisine of this territory, served at the table of the city, inside a museum. The land at the city's table. I'm deeply proud of this one, because it completes the circle in a way nothing else does: a person has lunch at the CAM, asks where these flavours come from, and three months later they're sleeping in a house in São Teotónio. Or the reverse — a guest goes home to Lisbon a",
+   "visual_direction": "The land at the city's table — museum dining, cuisine served in Lisbon",
+   "t": 82.72,
+   "end": 116.44,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
    "clips": [
-    {
-     "id": "pixabay_186560_morning-farm-light",
-     "type": "video",
-     "source": "pixabay",
-     "author": "NickyPe",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-186560/",
-     "thumb": "projects/belong-module8/thumbs/S04/pixabay_186560_morning-farm-light.jpg",
-     "preview": "projects/belong-module8/previews/S04/pixabay_186560_morning-farm-light.mp4"
-    },
-    {
-     "id": "pixabay_223459_sunset-beach-silhouette",
-     "type": "video",
-     "source": "pixabay",
-     "author": "TonyDias7",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-223459/",
-     "thumb": "projects/belong-module8/thumbs/S04/pixabay_223459_sunset-beach-silhouette.jpg",
-     "preview": "projects/belong-module8/previews/S04/pixabay_223459_sunset-beach-silhouette.mp4"
-    },
-    {
-     "id": "pixabay_268562_golden-hour-beach-walk",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Radds",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-268562/",
-     "thumb": "projects/belong-module8/thumbs/S04/pixabay_268562_golden-hour-beach-walk.jpg",
-     "preview": "projects/belong-module8/previews/S04/pixabay_268562_golden-hour-beach-walk.mp4"
-    },
-    {
-     "id": "pexels_32887177_golden-hour-beach-walk",
-     "type": "image",
-     "source": "pexels",
-     "author": "Lorenzo Manera",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/romantic-couple-walking-on-sunset-beach-32887177/",
-     "thumb": "projects/belong-module8/thumbs/S04/pexels_32887177_golden-hour-beach-walk.jpg",
-     "preview": "projects/belong-module8/previews/S04/pexels_32887177_golden-hour-beach-walk.jpg"
-    },
-    {
-     "id": "pexels_34387507_morning-farm-light",
-     "type": "image",
-     "source": "pexels",
-     "author": "Damir K .",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/tranquil-sunrise-over-serene-rural-field-34387507/",
-     "thumb": "projects/belong-module8/thumbs/S04/pexels_34387507_morning-farm-light.jpg",
-     "preview": "projects/belong-module8/previews/S04/pexels_34387507_morning-farm-light.jpg"
-    },
     {
      "id": "belong-m8-S04-V01",
      "type": "video",
@@ -906,20 +916,7 @@
      "categories": [],
      "title": "Inviting restaurant interior overlooking cityscape in Cluj-Napoca, perfect for dining with a view.",
      "query": "elegant city dining"
-    }
-   ],
-   "t": 82.72,
-   "end": 116.44,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S05",
-   "script_line": "[B5] A Mesa do CAM — the cuisine of this territory, served inside a museum in Lisbon. The land at the city's table.",
-   "visual_direction": "Cultural elegance: a light-filled modern museum restaurant, refined plates of honest food, diners against contemporary architecture. Medium interior, calm. [image-beat]",
-   "clips": [
+    },
     {
      "id": "pexels_31631562_museum-restaurant-interior",
      "type": "video",
@@ -969,7 +966,21 @@
      "page_url": "https://www.pexels.com/photo/wine-glasses-lined-in-row-on-table-8856555/",
      "thumb": "projects/belong-module8/thumbs/S05/pexels_8856555_refined-plate-restaurant.jpg",
      "preview": "projects/belong-module8/previews/S05/pexels_8856555_refined-plate-restaurant.jpg"
-    },
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "script_line": "Each place feeds the other. Catering and events. The purpose doesn't stay on the farm — we take the table wherever it's asked for: long-table dinners in private homes, team experiences for companies, celebrations. Tell us the place — we bring the land.",
+   "visual_direction": "Catering that travels — the table taken wherever it is asked for",
+   "t": 117.1,
+   "end": 134.03,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
      "id": "belong-m8-S05-V01",
      "type": "video",
@@ -1146,20 +1157,7 @@
      ],
      "title": "restaurant  cooking  chef  kitchen  food  professional  preparation  meal  dish  appetizer  cook  lunch  plate  prepare ",
      "query": "chef plating event"
-    }
-   ],
-   "t": 117.1,
-   "end": 134.03,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S06",
-   "script_line": "[B6] Catering and events — we take the table wherever it's asked for. Tell us the place, we bring the land.",
-   "visual_direction": "The travelling table: a long-table dinner being dressed in a private garden, crates of farm produce arriving, hands laying linen and ceramics. Medium prep energy.",
-   "clips": [
+    },
     {
      "id": "pixabay_172667_long-table-garden-event",
      "type": "video",
@@ -1199,7 +1197,21 @@
      "page_url": "https://www.pexels.com/photo/elegant-outdoor-table-setup-for-garden-event-32179374/",
      "thumb": "projects/belong-module8/thumbs/S06/pexels_32179374_long-table-garden-event.jpg",
      "preview": "projects/belong-module8/previews/S06/pexels_32179374_long-table-garden-event.jpg"
-    },
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "script_line": "Same root-to-table kitchen, same chain, same care, wherever it happens. And the events at Craveiral itself deserve their own moment, because they're becoming a bigger part of who we are. Weddings — from intimate ceremonies under the pines to full weekend celebrations, with the Interpretation Center for up to eighty standing, the restaurant and terrace, the playground area for the big ones, up to three or four hundred",
+   "visual_direction": "Weddings under the pines — ceremony, celebration, everyone together",
+   "t": 135.14,
+   "end": 180.01,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
      "id": "belong-m8-S06-V01",
      "type": "video",
@@ -1363,20 +1375,7 @@
      ],
      "title": "picnic  wine  cheers  toas  celebrate  celebration  red wine  wine glasses  glassware  stemware  alcohol  blanket  coupl",
      "query": "celebration guests toast"
-    }
-   ],
-   "t": 135.14,
-   "end": 180.01,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S07",
-   "script_line": "[B7] Weddings — someone's most important day, one chance, no rehearsal. Everyone is on the wedding team.",
-   "visual_direction": "Wedding under the pines: a ceremony arch among trees, a couple exchanging vows in dappled light, guests seated on wooden benches. Wide romantic. [image-beat]",
-   "clips": [
+    },
     {
      "id": "pexels_37921514_wedding-pine-forest",
      "type": "video",
@@ -1426,7 +1425,21 @@
      "page_url": "https://www.pexels.com/photo/elegant-outdoor-wedding-altar-in-sao-paulo-35279310/",
      "thumb": "projects/belong-module8/thumbs/S07/pexels_35279310_outdoor-ceremony-trees.jpg",
      "preview": "projects/belong-module8/previews/S07/pexels_35279310_outdoor-ceremony-trees.jpg"
-    },
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "script_line": "When there's a wedding on the property, everyone — whatever your role — is on the wedding team. Corporate retreats — companies come here to think, reconnect and breathe; nature does half the work, we do the other half. Family celebrations, wellness getaways, retreats at the Interpretation Center — every one of these is the same product underneath: this land, this food, this care, shaped to a moment. Now, why am I sho",
+   "visual_direction": "Everyone is on the wedding team — the highest-stakes hospitality there is",
+   "t": 180.96,
+   "end": 215.29,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
     {
      "id": "belong-m8-S07-V01",
      "type": "video",
@@ -1600,20 +1613,7 @@
      ],
      "title": "cooking  kitchen  chef  profession  hotel  cuisine  plate  preparing  gray kitchen  gray cooking  gray chef  gray hotel ",
      "query": "hotel staff preparing event"
-    }
-   ],
-   "t": 180.96,
-   "end": 215.29,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
-  },
-  {
-   "id": "S08",
-   "script_line": "[B8] Corporate retreats — companies come here to think, reconnect and breathe. Nature does half the work.",
-   "visual_direction": "Work, unstiffened: a small team in casual clothes around an outdoor table with notebooks, a walking conversation on a trail, deep breaths in the pines. Medium natural.",
-   "clips": [
+    },
     {
      "id": "pixabay_286879_team-retreat-outdoors",
      "type": "video",
@@ -1633,168 +1633,6 @@
      "page_url": "https://www.pexels.com/photo/youth-group-enjoying-outdoor-picnic-in-forest-33854482/",
      "thumb": "projects/belong-module8/thumbs/S08/pexels_33854482_team-retreat-outdoors.jpg",
      "preview": "projects/belong-module8/previews/S08/pexels_33854482_team-retreat-outdoors.jpg"
-    },
-    {
-     "id": "belong-m8-S08-V01",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kindel Media",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/coworkers-meeting-outdoors-7652192/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V01.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V01.mp4",
-     "score": 15.81,
-     "categories": [
-      "outdoor",
-      "worker"
-     ],
-     "title": "video coworkers meeting outdoors",
-     "query": "group discussion garden"
-    },
-    {
-     "id": "belong-m8-S08-V02",
-     "type": "video",
-     "source": "pexels",
-     "author": "fauxels",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-group-of-people-raises-their-hands-in-unison-inside-a-greenhouse-3252651/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V02.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V02.mp4",
-     "score": 15.81,
-     "categories": [
-      "greenhouse",
-      "hands"
-     ],
-     "title": "video group people raises their hands unison inside greenhouse",
-     "query": "group discussion garden"
-    },
-    {
-     "id": "belong-m8-S08-V03",
-     "type": "video",
-     "source": "pexels",
-     "author": "George Pak",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-looking-at-papers-and-talking-7969383/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V03.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V03.mp4",
-     "score": 13.89,
-     "categories": [],
-     "title": "video people looking papers and talking",
-     "query": "group discussion garden"
-    },
-    {
-     "id": "belong-m8-S08-V04",
-     "type": "video",
-     "source": "pexels",
-     "author": "Pavel Danilyuk",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V04.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V04.mp4",
-     "score": 13.53,
-     "categories": [
-      "worker"
-     ],
-     "title": "video woman explaining plan the coworkers",
-     "query": "group discussion garden"
-    },
-    {
-     "id": "belong-m8-S08-V05",
-     "type": "video",
-     "source": "pixabay",
-     "author": "SYG_Anime",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-129425/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V05.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V05.mp4",
-     "score": 11.09,
-     "categories": [
-      "outdoor"
-     ],
-     "title": "meditation  spiritual  yoga  woman  concentration  exercise  healthy  lifestyle  nature  outdoor  people  person  prayer",
-     "query": "yoga retreat outdoor"
-    },
-    {
-     "id": "belong-m8-S08-V06",
-     "type": "video",
-     "source": "pixabay",
-     "author": "SYG_Anime",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-129423/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V06.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V06.mp4",
-     "score": 11.09,
-     "categories": [
-      "outdoor"
-     ],
-     "title": "woman  yoga  exercise  concentration  healthy  lifestyle  meditation  nature  outdoor  people  person  prayer  relax  re",
-     "query": "yoga retreat outdoor"
-    },
-    {
-     "id": "belong-m8-S08-V07",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Life-Of-Vids",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-6409/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V07.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V07.mp4",
-     "score": 10.97,
-     "categories": [],
-     "title": "restaurant  couple  bokeh  blur  background  talking  relaxed  cafe  beautiful wallpaper  bar  meeting  people  relaxati",
-     "query": "people talking nature retreat"
-    },
-    {
-     "id": "belong-m8-S08-I01",
-     "type": "image",
-     "source": "pexels",
-     "author": "Ivan S",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/colleagues-having-a-team-building-5429024/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I01.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I01.jpg",
-     "score": 14.37,
-     "categories": [
-      "outdoor",
-      "table"
-     ],
-     "title": "Two young women engaged in a collaborative discussion at an outdoor picnic table.",
-     "query": "group discussion garden"
-    },
-    {
-     "id": "belong-m8-S08-I02",
-     "type": "image",
-     "source": "pexels",
-     "author": "Daniel Camargo",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/group-of-people-sitting-in-front-of-campfire-13836520/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I02.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I02.jpg",
-     "score": 14.24,
-     "categories": [
-      "garden",
-      "outdoor"
-     ],
-     "title": "A diverse group enjoying a warm campfire in an outdoor garden setting in Bogotá, Colombia.",
-     "query": "people talking nature retreat"
-    },
-    {
-     "id": "belong-m8-S08-I03",
-     "type": "image",
-     "source": "pixabay",
-     "author": "Pexels",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/vw-bus-vw-bully-volkswagen-sea-1845719/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I03.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I03.jpg",
-     "score": 11.09,
-     "categories": [
-      "landscape",
-      "outdoor",
-      "rural"
-     ],
-     "title": "vw bus  vw bully  volkswagen  sea  nature  grasslands  camper  landscape  outdoors  rural  scenery  travel  vehicle",
-     "query": "people talking nature retreat"
     },
     {
      "id": "belong-m8-S08-V09",
@@ -1962,49 +1800,196 @@
      "title": "A diverse group of colleagues having an informal discussion outdoors on a sunny day.",
      "query": "team talking garden terrace"
     }
-   ],
+   ]
+  },
+  {
+   "id": "S08",
+   "script_line": "Two reasons. First, practical: cross-recommendation is how the circle turns. The guest at the pool should hear about the Beach Bar. The couple who loved dinner should know we do weddings.",
+   "visual_direction": "Cross-recommendation — a team member telling a guest about the other places: reception pointing the way, staff recommending the beach bar, a guest given a tip",
    "t": 216.03,
    "end": 229.02,
+   "timing_source": "narration",
    "quota": {
     "video": 7,
     "image": 3
-   }
+   },
+   "clips": [
+    {
+     "id": "belong-m8-S08-V01",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kindel Media",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/coworkers-meeting-outdoors-7652192/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V01.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V01.mp4",
+     "score": 15.81,
+     "categories": [
+      "outdoor",
+      "worker"
+     ],
+     "title": "video coworkers meeting outdoors",
+     "query": "group discussion garden"
+    },
+    {
+     "id": "belong-m8-S08-V02",
+     "type": "video",
+     "source": "pexels",
+     "author": "fauxels",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-group-of-people-raises-their-hands-in-unison-inside-a-greenhouse-3252651/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V02.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V02.mp4",
+     "score": 15.81,
+     "categories": [
+      "greenhouse",
+      "hands"
+     ],
+     "title": "video group people raises their hands unison inside greenhouse",
+     "query": "group discussion garden"
+    },
+    {
+     "id": "belong-m8-S08-V03",
+     "type": "video",
+     "source": "pexels",
+     "author": "George Pak",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-looking-at-papers-and-talking-7969383/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V03.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V03.mp4",
+     "score": 13.89,
+     "categories": [],
+     "title": "video people looking papers and talking",
+     "query": "group discussion garden"
+    },
+    {
+     "id": "belong-m8-S08-V04",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V04.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V04.mp4",
+     "score": 13.53,
+     "categories": [
+      "worker"
+     ],
+     "title": "video woman explaining plan the coworkers",
+     "query": "group discussion garden"
+    },
+    {
+     "id": "belong-m8-S08-V05",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-129425/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V05.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V05.mp4",
+     "score": 11.09,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "meditation  spiritual  yoga  woman  concentration  exercise  healthy  lifestyle  nature  outdoor  people  person  prayer",
+     "query": "yoga retreat outdoor"
+    },
+    {
+     "id": "belong-m8-S08-V06",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-129423/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V06.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V06.mp4",
+     "score": 11.09,
+     "categories": [
+      "outdoor"
+     ],
+     "title": "woman  yoga  exercise  concentration  healthy  lifestyle  meditation  nature  outdoor  people  person  prayer  relax  re",
+     "query": "yoga retreat outdoor"
+    },
+    {
+     "id": "belong-m8-S08-V07",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Life-Of-Vids",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-6409/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V07.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V07.mp4",
+     "score": 10.97,
+     "categories": [],
+     "title": "restaurant  couple  bokeh  blur  background  talking  relaxed  cafe  beautiful wallpaper  bar  meeting  people  relaxati",
+     "query": "people talking nature retreat"
+    },
+    {
+     "id": "belong-m8-S08-I01",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ivan S",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/colleagues-having-a-team-building-5429024/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I01.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I01.jpg",
+     "score": 14.37,
+     "categories": [
+      "outdoor",
+      "table"
+     ],
+     "title": "Two young women engaged in a collaborative discussion at an outdoor picnic table.",
+     "query": "group discussion garden"
+    },
+    {
+     "id": "belong-m8-S08-I02",
+     "type": "image",
+     "source": "pexels",
+     "author": "Daniel Camargo",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/group-of-people-sitting-in-front-of-campfire-13836520/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I02.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I02.jpg",
+     "score": 14.24,
+     "categories": [
+      "garden",
+      "outdoor"
+     ],
+     "title": "A diverse group enjoying a warm campfire in an outdoor garden setting in Bogotá, Colombia.",
+     "query": "people talking nature retreat"
+    },
+    {
+     "id": "belong-m8-S08-I03",
+     "type": "image",
+     "source": "pixabay",
+     "author": "Pexels",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/vw-bus-vw-bully-volkswagen-sea-1845719/",
+     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-I03.jpg",
+     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-I03.jpg",
+     "score": 11.09,
+     "categories": [
+      "landscape",
+      "outdoor",
+      "rural"
+     ],
+     "title": "vw bus  vw bully  volkswagen  sea  nature  grasslands  camper  landscape  outdoors  rural  scenery  travel  vehicle",
+     "query": "people talking nature retreat"
+    }
+   ]
   },
   {
    "id": "S09",
-   "script_line": "[B9] Cross-recommendation is how the circle turns. You're connecting people to more of what they already love.",
-   "visual_direction": "The connective moment: a staff member leans in over a map or points down the coast, guest nodding with lit-up interest — hospitality with a longer memory. Tight medium.",
+   "script_line": "The Lisbon diner at the CAM should learn there's a farm behind those flavours, with beds. Nobody is pushing sales — you're connecting people to more of what they already love. That's not selling; that's hospitality with a longer memory. Second, deeper: I want you to understand the shape of what we're building.",
+   "visual_direction": "Cross-recommendation — connecting guests to more of what they already love",
+   "t": 229.53,
+   "end": 252.61,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
    "clips": [
-    {
-     "id": "pixabay_180_concierge-conversation-warm",
-     "type": "video",
-     "source": "pixabay",
-     "author": "Republica",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-180/",
-     "thumb": "projects/belong-module8/thumbs/S09/pixabay_180_concierge-conversation-warm.jpg",
-     "preview": "projects/belong-module8/previews/S09/pixabay_180_concierge-conversation-warm.mp4"
-    },
-    {
-     "id": "pixabay_87449_pointing-direction-guest",
-     "type": "video",
-     "source": "pixabay",
-     "author": "ForYouMuchMore",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-87449/",
-     "thumb": "projects/belong-module8/thumbs/S09/pixabay_87449_pointing-direction-guest.jpg",
-     "preview": "projects/belong-module8/previews/S09/pixabay_87449_pointing-direction-guest.mp4"
-    },
-    {
-     "id": "pexels_6140449_showing-map-travelers",
-     "type": "image",
-     "source": "pexels",
-     "author": "William  Fortunato",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/anonymous-diverse-tourists-exploring-map-during-trip-6140449/",
-     "thumb": "projects/belong-module8/thumbs/S09/pexels_6140449_showing-map-travelers.jpg",
-     "preview": "projects/belong-module8/previews/S09/pexels_6140449_showing-map-travelers.jpg"
-    },
     {
      "id": "belong-m8-S09-V01",
      "type": "video",
@@ -2170,6 +2155,36 @@
      "query": "hotel concierge advice"
     },
     {
+     "id": "pixabay_180_concierge-conversation-warm",
+     "type": "video",
+     "source": "pixabay",
+     "author": "Republica",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-180/",
+     "thumb": "projects/belong-module8/thumbs/S09/pixabay_180_concierge-conversation-warm.jpg",
+     "preview": "projects/belong-module8/previews/S09/pixabay_180_concierge-conversation-warm.mp4"
+    },
+    {
+     "id": "pixabay_87449_pointing-direction-guest",
+     "type": "video",
+     "source": "pixabay",
+     "author": "ForYouMuchMore",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-87449/",
+     "thumb": "projects/belong-module8/thumbs/S09/pixabay_87449_pointing-direction-guest.jpg",
+     "preview": "projects/belong-module8/previews/S09/pixabay_87449_pointing-direction-guest.mp4"
+    },
+    {
+     "id": "pexels_6140449_showing-map-travelers",
+     "type": "image",
+     "source": "pexels",
+     "author": "William  Fortunato",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/anonymous-diverse-tourists-exploring-map-during-trip-6140449/",
+     "thumb": "projects/belong-module8/thumbs/S09/pexels_6140449_showing-map-travelers.jpg",
+     "preview": "projects/belong-module8/previews/S09/pexels_6140449_showing-map-travelers.jpg"
+    },
+    {
      "id": "belong-m8-S09-V12",
      "type": "video",
      "source": "pexels",
@@ -2312,59 +2327,20 @@
      "title": "Friendly young Asian waitress in apron and hat standing near table and talking to female customer while working in cozy ",
      "query": "guest asking staff"
     }
-   ],
-   "t": 229.53,
-   "end": 252.61,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
+   ]
   },
   {
    "id": "S10",
-   "script_line": "[B10] We grow the way the farm grows: season by season, roots first.",
-   "visual_direction": "Closing metaphor: hands planting a young tree, firming soil around roots, water poured at the base, saplings in rows toward the horizon. Detail to wide. ",
+   "script_line": "One idea — a place well cared for cares for those who inhabit it — expressed at a farm, on a beach, in a museum, at a wedding. Different stages, same play. If you ever wonder whether some decision fits Belong, test it against the gesture: does this bring those who eat closer to those who grow? Does it make the territory stronger?",
+   "visual_direction": "One idea expressed in many places — a place well cared for cares for those in it",
+   "t": 253.31,
+   "end": 278.08,
+   "timing_source": "narration",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
    "clips": [
-    {
-     "id": "pexels_4503303_roots-soil-closeup",
-     "type": "video",
-     "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-person-holding-a-plant-with-roots-4503303/",
-     "thumb": "projects/belong-module8/thumbs/S10/pexels_4503303_roots-soil-closeup.jpg",
-     "preview": "projects/belong-module8/previews/S10/pexels_4503303_roots-soil-closeup.mp4"
-    },
-    {
-     "id": "pixabay_280286_young-tree-soil",
-     "type": "video",
-     "source": "pixabay",
-     "author": "adege",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-280286/",
-     "thumb": "projects/belong-module8/thumbs/S10/pixabay_280286_young-tree-soil.jpg",
-     "preview": "projects/belong-module8/previews/S10/pixabay_280286_young-tree-soil.mp4"
-    },
-    {
-     "id": "pixabay_73847_planting-sapling-hands",
-     "type": "video",
-     "source": "pixabay",
-     "author": "JustYøu",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-73847/",
-     "thumb": "projects/belong-module8/thumbs/S10/pixabay_73847_planting-sapling-hands.jpg",
-     "preview": "projects/belong-module8/previews/S10/pixabay_73847_planting-sapling-hands.mp4"
-    },
-    {
-     "id": "pexels_6963537_planting-sapling-hands",
-     "type": "image",
-     "source": "pexels",
-     "author": "Cup of  Couple",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-person-holding-a-plant-6963537/",
-     "thumb": "projects/belong-module8/thumbs/S10/pexels_6963537_planting-sapling-hands.jpg",
-     "preview": "projects/belong-module8/previews/S10/pexels_6963537_planting-sapling-hands.jpg"
-    },
     {
      "id": "belong-m8-S10-V01",
      "type": "video",
@@ -2541,20 +2517,15 @@
      "title": "Mature female gardener watering planted seeds near man standing near green plants during work in hothouse on summer day ",
      "query": "tending garden care"
     }
-   ],
-   "t": 253.31,
-   "end": 278.08,
-   "quota": {
-    "video": 7,
-    "image": 3
-   }
+   ]
   },
   {
    "id": "S11",
-   "script_line": "Does it keep the value circulating here? If yes, it's us. If no, it isn't — however profitable it looks. And one honest word about growth, because you'll hear things and I prefer you hear them from me: yes, we have ambit",
+   "script_line": "Does it keep the value circulating here? If yes, it's us. If no, it isn't — however profitable it looks. And one honest word about growth, because you'll hear things and I prefer you hear them from me: yes, we have ambitions.",
    "visual_direction": "Value circulating here — local producers, the territory made stronger",
    "t": 278.36,
    "end": 297.31,
+   "timing_source": "narration",
    "quota": {
     "video": 7,
     "image": 3
@@ -2935,10 +2906,11 @@
   },
   {
    "id": "S12",
-   "script_line": "New projects, new partnerships, ideas at various stages — some will happen, some won't. What I can promise you is that growth, for us, is never expansion for its own sake. Every new point in the constellation has to rege",
+   "script_line": "New projects, new partnerships, ideas at various stages — some will happen, some won't. What I can promise you is that growth, for us, is never expansion for its own sake. Every new point in the constellation has to regenerate something — a building, a community, a piece of land — or we don't do it. We grow the way the farm grows: season by season, roots first.",
    "visual_direction": "Growth the way the farm grows — season by season, roots first",
    "t": 297.89,
    "end": 326.0,
+   "timing_source": "narration",
    "quota": {
     "video": 7,
     "image": 3
@@ -3134,15 +3106,56 @@
      ],
      "title": "Close-up of hands picking freshly harvested peanuts, highlighting manual agriculture.",
      "query": "roots earth hands"
+    },
+    {
+     "id": "pexels_4503303_roots-soil-closeup",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-plant-with-roots-4503303/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4503303_roots-soil-closeup.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4503303_roots-soil-closeup.mp4"
+    },
+    {
+     "id": "pixabay_280286_young-tree-soil",
+     "type": "video",
+     "source": "pixabay",
+     "author": "adege",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-280286/",
+     "thumb": "projects/belong-module8/thumbs/S10/pixabay_280286_young-tree-soil.jpg",
+     "preview": "projects/belong-module8/previews/S10/pixabay_280286_young-tree-soil.mp4"
+    },
+    {
+     "id": "pixabay_73847_planting-sapling-hands",
+     "type": "video",
+     "source": "pixabay",
+     "author": "JustYøu",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-73847/",
+     "thumb": "projects/belong-module8/thumbs/S10/pixabay_73847_planting-sapling-hands.jpg",
+     "preview": "projects/belong-module8/previews/S10/pixabay_73847_planting-sapling-hands.mp4"
+    },
+    {
+     "id": "pexels_6963537_planting-sapling-hands",
+     "type": "image",
+     "source": "pexels",
+     "author": "Cup of  Couple",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-person-holding-a-plant-6963537/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_6963537_planting-sapling-hands.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_6963537_planting-sapling-hands.jpg"
     }
    ]
   },
   {
    "id": "S13",
-   "script_line": "You joined a company that is trying to prove something to an entire industry: that hospitality can give back more than it takes. Every unit in this constellation is an argument in that proof. And every shift you work is ",
+   "script_line": "You joined a company that is trying to prove something to an entire industry: that hospitality can give back more than it takes. Every unit in this constellation is an argument in that proof. And every shift you work is a line in the argument. Next module: the moment every hospitality career is really tested — when things go wrong.",
    "visual_direction": "Proving hospitality can give back more than it takes — every shift a line in the argument",
    "t": 326.81,
    "end": 350.57,
+   "timing_source": "narration",
    "quota": {
     "video": 7,
     "image": 3
@@ -3325,6 +3338,5 @@
     }
    ]
   }
- ],
- "title": "Belong — Module 8: The Constellation"
+ ]
 }
