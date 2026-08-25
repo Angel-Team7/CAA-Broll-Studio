@@ -128,3 +128,5 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .scene-show .show-txt{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .show-txt{color:#e6edf3;font-weight:600}
 .scene-onscreen{font-size:12.5px;color:var(--muted)}
+
+.srcbadge.src-belong-original{background:#7a3b1f;color:#ffe6d2;}

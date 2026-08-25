@@ -171,7 +171,7 @@ function render() {
   updateStat();
 }
 
-const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded" };
+const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded", "belong-original": "BELONG ORIGINAL" };
 function card(sid, c, on) {
   const media = c.type === "video"
     ? `<video src="${c.preview}" muted loop playsinline preload="none" poster="${c.thumb || ""}"></video>`
