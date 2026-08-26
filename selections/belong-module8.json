@@ -1,6 +1,6 @@
 {
   "project": "belong-module8",
-  "updated": "2026-08-26T14:12:59.628Z",
+  "updated": "2026-08-26T14:14:26.262Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -42,6 +42,9 @@
     "S03": [
       "coverr_acxkpqyipb_surfers-walking-boards",
       "pexels_5657164_beach-bar-service"
+    ],
+    "S11": [
+      "belong-m8-S11-V16"
     ]
   },
   "needs_broll": {
