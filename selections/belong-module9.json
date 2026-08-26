@@ -1,6 +1,6 @@
 {
   "project": "belong-module9",
-  "updated": "2026-08-26T15:38:46.439Z",
+  "updated": "2026-08-26T16:13:21.950Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -31,6 +31,9 @@
     ],
     "S08": [
       "belong-m9-S08-V06"
+    ],
+    "S09": [
+      "belong-module9-S09-V21"
     ]
   },
   "needs_broll": {
