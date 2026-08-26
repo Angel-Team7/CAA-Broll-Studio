@@ -744,6 +744,86 @@
      "categories": [],
      "title": "Side view of happy young ethnic waiter in uniform standing near food van and smiling while greeting diverse customers ea",
      "query": "friendly server outdoors"
+    },
+    {
+     "id": "pexels_9199136_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-bartender-cleaning-a-glass-9199136/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_9199136_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_9199136_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_9199135_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/bartender-serving-a-drink-9199135/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_9199135_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_9199135_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_5657164_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-serving-food-5657164/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_5657164_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_5657164_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_9750708_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-walking-barefooted-on-the-sand-9750708/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_9750708_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_9750708_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_10139702_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-running-barefooted-at-the-beach-10139702/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_10139702_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_10139702_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_8371385_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/barefoot-person-on-sand-8371385/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_8371385_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_8371385_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_8363293_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "https://kaboompics.com/",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-standing-on-a-beach-8363293/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_8363293_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_8363293_beach-bar-service.mp4"
+    },
+    {
+     "id": "pexels_4254313_beach-bar-service",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-pouring-wine-into-a-glass-at-a-restaurant-4254313/",
+     "thumb": "projects/belong-module8/thumbs/S03/pexels_4254313_beach-bar-service.jpg",
+     "preview": "projects/belong-module8/previews/S03/pexels_4254313_beach-bar-service.mp4"
     }
    ]
   },
@@ -1203,7 +1283,7 @@
   {
    "id": "S06",
    "script_line": "Same root-to-table kitchen, same chain, same care, wherever it happens. And the events at Craveiral itself deserve their own moment, because they're becoming a bigger part of who we are. Weddings \u2014 from intimate ceremonies under the pines to full weekend celebrations, with the Interpretation Center for up to eighty standing, the restaurant and terrace, the playground area for the big ones, up to three or four hundred",
-   "visual_direction": "Weddings under the pines \u2014 ceremony, celebration, everyone together",
+   "visual_direction": "Same care wherever it happens \u2014 events at Craveiral: intimate ceremonies under the pines through to full weekend celebrations",
    "t": 135.14,
    "end": 180.01,
    "timing_source": "narration",
@@ -1425,13 +1505,113 @@
      "page_url": "https://www.pexels.com/photo/elegant-outdoor-wedding-altar-in-sao-paulo-35279310/",
      "thumb": "projects/belong-module8/thumbs/S07/pexels_35279310_outdoor-ceremony-trees.jpg",
      "preview": "projects/belong-module8/previews/S07/pexels_35279310_outdoor-ceremony-trees.jpg"
+    },
+    {
+     "id": "pexels_5961377_wedding-service-outdoor",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/woman-serving-lunch-on-a-table-outdoor-5961377/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_5961377_wedding-service-outdoor.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_5961377_wedding-service-outdoor.mp4"
+    },
+    {
+     "id": "pexels_4253329_catering-team-plating",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-men-in-aprons-cooking-in-a-kitchen-4253329/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_4253329_catering-team-plating.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_4253329_catering-team-plating.mp4"
+    },
+    {
+     "id": "pexels_6718809_banquet-staff-plates",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-sitting-together-with-the-soldiers-6718809/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_6718809_banquet-staff-plates.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_6718809_banquet-staff-plates.mp4"
+    },
+    {
+     "id": "pexels_5961961_wedding-service-outdoor",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-serving-his-friend-a-glass-of-white-wine-5961961/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_5961961_wedding-service-outdoor.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_5961961_wedding-service-outdoor.mp4"
+    },
+    {
+     "id": "pexels_5961970_wedding-service-outdoor",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-trying-white-wine-at-a-dinner-party-5961970/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_5961970_wedding-service-outdoor.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_5961970_wedding-service-outdoor.mp4"
+    },
+    {
+     "id": "pexels_5961383_wedding-service-outdoor",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961383/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_5961383_wedding-service-outdoor.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_5961383_wedding-service-outdoor.mp4"
+    },
+    {
+     "id": "pexels_28119326_wedding-setup-garden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Yasin Ko\u00e7tepe",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/an-aerial-view-of-a-wedding-reception-with-tables-and-chairs-28119326/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_28119326_wedding-setup-garden.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_28119326_wedding-setup-garden.mp4"
+    },
+    {
+     "id": "pexels_38298786_wedding-reception-tables",
+     "type": "video",
+     "source": "pexels",
+     "author": "Wal Vas",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/elegant-outdoor-evening-wedding-reception-38298786/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_38298786_wedding-reception-tables.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_38298786_wedding-reception-tables.mp4"
+    },
+    {
+     "id": "pexels_29956462_wedding-setup-garden",
+     "type": "video",
+     "source": "pexels",
+     "author": "Marian Croitoru",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/elegant-outdoor-wedding-table-in-tuscan-villa-29956462/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_29956462_wedding-setup-garden.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_29956462_wedding-setup-garden.mp4"
+    },
+    {
+     "id": "pexels_5498730_banquet-staff-plates",
+     "type": "video",
+     "source": "pexels",
+     "author": "Bonus Studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-pouring-wine-in-the-glas-5498730/",
+     "thumb": "projects/belong-module8/thumbs/S06/pexels_5498730_banquet-staff-plates.jpg",
+     "preview": "projects/belong-module8/previews/S06/pexels_5498730_banquet-staff-plates.mp4"
     }
    ]
   },
   {
    "id": "S07",
    "script_line": "When there's a wedding on the property, everyone \u2014 whatever your role \u2014 is on the wedding team. Corporate retreats \u2014 companies come here to think, reconnect and breathe; nature does half the work, we do the other half. Family celebrations, wellness getaways, retreats at the Interpretation Center \u2014 every one of these is the same product underneath: this land, this food, this care, shaped to a moment. Now, why am I sho",
-   "visual_direction": "Everyone is on the wedding team \u2014 the highest-stakes hospitality there is",
+   "visual_direction": "Corporate retreats and family celebrations \u2014 companies thinking and reconnecting in nature, wellness getaways, groups at the Interpretation Center",
    "t": 180.96,
    "end": 215.29,
    "timing_source": "narration",
@@ -1801,104 +1981,84 @@
      "query": "team talking garden terrace"
     },
     {
-     "id": "pexels_5961377_wedding-service-outdoor",
+     "id": "pexels_7414975_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/woman-serving-lunch-on-a-table-outdoor-5961377/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_5961377_wedding-service-outdoor.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_5961377_wedding-service-outdoor.mp4"
+     "page_url": "https://www.pexels.com/video/man-and-woman-holding-each-others-hand-7414975/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7414975_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7414975_retreat-group.mp4"
     },
     {
-     "id": "pexels_4253329_catering-team-plating",
+     "id": "pexels_7414973_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/two-men-in-aprons-cooking-in-a-kitchen-4253329/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_4253329_catering-team-plating.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_4253329_catering-team-plating.mp4"
+     "page_url": "https://www.pexels.com/video/people-meditating-7414973/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7414973_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7414973_retreat-group.mp4"
     },
     {
-     "id": "pexels_6718809_banquet-staff-plates",
+     "id": "pexels_7414979_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-sitting-together-with-the-soldiers-6718809/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_6718809_banquet-staff-plates.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_6718809_banquet-staff-plates.mp4"
+     "page_url": "https://www.pexels.com/video/people-meditating-on-the-mountain-7414979/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7414979_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7414979_retreat-group.mp4"
     },
     {
-     "id": "pexels_5961961_wedding-service-outdoor",
+     "id": "pexels_7414980_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-man-serving-his-friend-a-glass-of-white-wine-5961961/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_5961961_wedding-service-outdoor.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_5961961_wedding-service-outdoor.mp4"
+     "page_url": "https://www.pexels.com/video/people-meditating-outdoors-7414980/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7414980_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7414980_retreat-group.mp4"
     },
     {
-     "id": "pexels_5961970_wedding-service-outdoor",
+     "id": "pexels_5390478_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "Monstera Production",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-man-trying-white-wine-at-a-dinner-party-5961970/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_5961970_wedding-service-outdoor.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_5961970_wedding-service-outdoor.mp4"
+     "page_url": "https://www.pexels.com/video/three-people-meditating-outdoors-5390478/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_5390478_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_5390478_retreat-group.mp4"
     },
     {
-     "id": "pexels_5961383_wedding-service-outdoor",
+     "id": "pexels_7935038_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "cottonbro studio",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961383/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_5961383_wedding-service-outdoor.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_5961383_wedding-service-outdoor.mp4"
+     "page_url": "https://www.pexels.com/video/group-of-women-sitting-on-the-floor-7935038/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7935038_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7935038_retreat-group.mp4"
     },
     {
-     "id": "pexels_28119326_wedding-setup-garden",
+     "id": "pexels_7935058_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "Yasin Ko\u00e7tepe",
+     "author": "ArtHouse Studio",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/an-aerial-view-of-a-wedding-reception-with-tables-and-chairs-28119326/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_28119326_wedding-setup-garden.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_28119326_wedding-setup-garden.mp4"
+     "page_url": "https://www.pexels.com/video/group-of-women-meditating-in-a-room-7935058/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_7935058_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_7935058_retreat-group.mp4"
     },
     {
-     "id": "pexels_38298786_wedding-reception-tables",
+     "id": "pexels_10036906_retreat-group",
      "type": "video",
      "source": "pexels",
-     "author": "Wal Vas",
+     "author": "Ron Lach",
      "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/elegant-outdoor-evening-wedding-reception-38298786/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_38298786_wedding-reception-tables.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_38298786_wedding-reception-tables.mp4"
-    },
-    {
-     "id": "pexels_29956462_wedding-setup-garden",
-     "type": "video",
-     "source": "pexels",
-     "author": "Marian Croitoru",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/elegant-outdoor-wedding-table-in-tuscan-villa-29956462/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_29956462_wedding-setup-garden.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_29956462_wedding-setup-garden.mp4"
-    },
-    {
-     "id": "pexels_5498730_banquet-staff-plates",
-     "type": "video",
-     "source": "pexels",
-     "author": "Bonus Studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-person-pouring-wine-in-the-glas-5498730/",
-     "thumb": "projects/belong-module8/thumbs/S07/pexels_5498730_banquet-staff-plates.jpg",
-     "preview": "projects/belong-module8/previews/S07/pexels_5498730_banquet-staff-plates.mp4"
+     "page_url": "https://www.pexels.com/video/a-woman-cutting-cake-at-a-birthday-party-10036906/",
+     "thumb": "projects/belong-module8/thumbs/S07/pexels_10036906_retreat-group.jpg",
+     "preview": "projects/belong-module8/previews/S07/pexels_10036906_retreat-group.mp4"
     }
    ]
   },
@@ -2616,13 +2776,93 @@
      ],
      "title": "Mature female gardener watering planted seeds near man standing near green plants during work in hothouse on summer day ",
      "query": "tending garden care"
+    },
+    {
+     "id": "pexels_4253350_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-plate-of-food-on-a-counter-in-a-restaurant-4253350/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4253350_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4253350_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_7244293_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-eating-at-a-restaurant-7244293/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_7244293_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_7244293_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4254313_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-is-pouring-wine-into-a-glass-at-a-restaurant-4254313/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4254313_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4254313_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4254301_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-standing-in-front-of-a-table-and-chairs-4254301/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4254301_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4254301_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4255439_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-people-sitting-at-a-table-in-a-restaurant-4255439/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4255439_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4255439_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4255443_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-couple-sitting-at-a-table-in-a-restaurant-4255443/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4255443_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4255443_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4254306_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-in-a-suit-is-standing-in-front-of-a-bar-4254306/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4254306_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4254306_one-idea-many-places.mp4"
+    },
+    {
+     "id": "pexels_4255438_one-idea-many-places",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/menu-restaurant-couple-bar-4255438/",
+     "thumb": "projects/belong-module8/thumbs/S10/pexels_4255438_one-idea-many-places.jpg",
+     "preview": "projects/belong-module8/previews/S10/pexels_4255438_one-idea-many-places.mp4"
     }
    ]
   },
   {
    "id": "S11",
    "script_line": "Does it keep the value circulating here? If yes, it's us. If no, it isn't \u2014 however profitable it looks. And one honest word about growth, because you'll hear things and I prefer you hear them from me: yes, we have ambitions.",
-   "visual_direction": "Value circulating here \u2014 local producers, the territory made stronger",
+   "visual_direction": "An honest word about growth \u2014 ambitions, new projects and partnerships at various stages",
    "t": 278.36,
    "end": 297.31,
    "timing_source": "narration",
@@ -3001,6 +3241,86 @@
      ],
      "title": "market  vegetables  fresh  wooden crate  tomato  bell pepper  carrot  lettuce  garlic  herbs  heirloom  agriculture  har",
      "query": "local farmers market produce"
+    },
+    {
+     "id": "pexels_9617518_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-looking-at-the-blueprints-9617518/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_9617518_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_9617518_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_8829011_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/women-looking-at-the-laptop-8829011/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_8829011_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_8829011_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_10349943_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/volunteers-wearing-reflective-vest-having-a-meeting-10349943/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_10349943_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_10349943_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_10350199_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-taking-notes-beside-a-man-talking-10350199/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_10350199_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_10350199_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_9305958_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Monstera Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-in-a-meeting-discussing-documents-on-a-corkboard-9305958/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_9305958_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_9305958_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_8725793_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-video-of-a-floor-plan-8725793/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_8725793_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_8725793_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_6474265_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-house-layout-6474265/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_6474265_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_6474265_growth-ambitions.mp4"
+    },
+    {
+     "id": "pexels_6473950_growth-ambitions",
+     "type": "video",
+     "source": "pexels",
+     "author": "Tima Miroshnichenko",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/man-at-work-in-a-construction-6473950/",
+     "thumb": "projects/belong-module8/thumbs/S11/pexels_6473950_growth-ambitions.jpg",
+     "preview": "projects/belong-module8/previews/S11/pexels_6473950_growth-ambitions.mp4"
     }
    ]
   },
