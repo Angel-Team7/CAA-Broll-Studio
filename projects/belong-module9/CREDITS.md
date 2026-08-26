@@ -52,3 +52,23 @@
 | pixabay | glass maker  glass blower  melting  making  molten  hot  glo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3612/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-having-a-discussion-at-the-office-7593776/ |
 | pixabay | blue-collar workers  worker  textile  cotton | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-262468/ |
+| pexels | video people shaking hands meeting | Kampus Production | Pexels License | https://www.pexels.com/video/people-shaking-hands-in-a-meeting-8170609/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/women-having-conversation-at-the-cafe-9808304/ |
+| pixabay | conversation  talking  chatting  meet up  communication  peo | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75999/ |
+| pixabay | woman  welcome  social media  hello  girl  reading  teach  e | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/men-having-business-meeting-7593782/ |
+| pixabay | construction worker  angle grinder  grinder  worker  constru | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3140/ |
+| pexels |  | Edmond Dantès | Pexels License | https://www.pexels.com/video/meeting-with-the-bosses-4432816/ |
+| pixabay | cement  concrete  cast  concrete dough  development  boat sh | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148541/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/corporate-colleagues-brainstorming-in-the-office-6563855/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85350/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/family-member-toasting-drinks-at-dinner-party-5617261/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85351/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-celebrating-hanukkah-6054024/ |
+| pixabay | mushrooms  knife  cut  vegetables  food  cook  dinner  prepa | Amina_Salim | Pixabay Content License | https://pixabay.com/videos/id-141853/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/woman-talking-to-a-man-5617172/ |
+| pixabay | worker  cut  building  grinder  pour in  builder  wheelbarro | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67461/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961960/ |
+| pixabay | balloons  celebration  balloon video  people  family | TamieFarris | Pixabay Content License | https://pixabay.com/videos/id-32132/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/happy-woman-raising-toast-at-a-family-dinner-5617291/ |
+| pixabay | child  kid  family  father  mother  people | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212512/ |

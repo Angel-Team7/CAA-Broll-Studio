@@ -81,12 +81,16 @@
     "S07": {
       "requested": "2026-08-26T15:17:24.366Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-26T15:42:31Z",
+      "added": 10
     },
     "S13": {
       "requested": "2026-08-26T15:37:14.691Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-26T15:43:05Z",
+      "added": 10
     }
   }
 }
