@@ -1,6 +1,6 @@
 {
   "project": "belong-module12",
-  "updated": "2026-08-26T16:24:37.671Z",
+  "updated": "2026-08-26T16:25:22.723Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -10,11 +10,14 @@
       "pexels_15909398_farmer-walking-his-land-sunset"
     ]
   },
-  "needs_broll": {},
+  "needs_broll": {
+    "S03": "generates more contextual videos"
+  },
   "topup_requests": {
     "S03": {
-      "requested": "2026-08-26T16:24:37.652Z",
-      "note": "",
+      "requested": "2026-08-26T16:25:22.713Z",
+      "note": "generates more contextual videos",
+      "reason": "direction",
       "done": false
     }
   }
