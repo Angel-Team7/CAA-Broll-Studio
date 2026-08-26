@@ -42,3 +42,13 @@
 | pixabay | sewing machine  sewing  tailor  stitching  needle  cloth  cl | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1111/ |
 | pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-and-a-waiter-talking-in-the-restaurant-6816192/ |
 | pixabay | paperwork  office  copier  worker  working  office job  prin | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4737/ |
+| pexels | video man shaking hands with his client | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-shaking-hands-with-his-client-7821623/ |
+| pexels | video two businessmen shaking hands | Max Medyk | Pexels License | https://www.pexels.com/video/two-businessmen-shaking-hands-15616104/ |
+| pexels | video coworkers shaking hands and talking office | Mikhail Nilov | Pexels License | https://www.pexels.com/video/coworkers-shaking-hands-and-talking-at-an-office-6930836/ |
+| pexels | video group people standing and shaking hands the end busine | fauxels | Pexels License | https://www.pexels.com/video/group-of-people-standing-and-shaking-hands-at-the-end-of-a-business-meeting-3251910/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/people-having-a-conversation-7534471/ |
+| pixabay | worker  early  morning  people  person  field work  field wo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1635/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/person-having-a-meeting-on-the-conference-room-7147799/ |
+| pixabay | glass maker  glass blower  melting  making  molten  hot  glo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3612/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-having-a-discussion-at-the-office-7593776/ |
+| pixabay | blue-collar workers  worker  textile  cotton | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-262468/ |
