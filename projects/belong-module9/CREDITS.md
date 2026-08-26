@@ -22,3 +22,13 @@
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-client-in-the-hotel-7820474/ |
 | pixabay | woman  computer  job  desk  sick  face mask  concentration | Juanpablodia | Pixabay Content License | https://pixabay.com/videos/id-158961/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-hotel-desk-bell-5378937/ |
+| pexels | video colleague talking each other | Mikhail Nilov | Pexels License | https://www.pexels.com/video/colleague-talking-to-each-other-8731468/ |
+| pexels | video colleagues working together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/colleagues-working-together-8847932/ |
+| pexels | video group people reading documents together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/group-of-people-reading-documents-together-8731453/ |
+| pexels | video woman discussing document her colleagues | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-discussing-a-document-to-her-colleagues-8298179/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/businesswoman-using-phone-and-laptop-10040738/ |
+| pixabay | man  phone  smartphone  mobile | u_etjkkdz15b | Pixabay Content License | https://pixabay.com/videos/id-142641/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-using-mobile-phone-8052381/ |
+| pixabay | guy  phone  city  street  mobile phone  wait  italy | Yoniteck | Pixabay Content License | https://pixabay.com/videos/id-6590/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-smartphone-6474150/ |
+| pixabay | spring  book  lilac  garden  literature  education  reading  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-277042/ |

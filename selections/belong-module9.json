@@ -53,7 +53,9 @@
     "S12": {
       "requested": "2026-08-26T14:24:00.878Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-26T14:25:21Z",
+      "added": 10
     }
   }
 }
