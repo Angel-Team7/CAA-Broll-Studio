@@ -32,3 +32,13 @@
 | pixabay | guy  phone  city  street  mobile phone  wait  italy | Yoniteck | Pixabay Content License | https://pixabay.com/videos/id-6590/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-smartphone-6474150/ |
 | pixabay | spring  book  lilac  garden  literature  education  reading  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-277042/ |
+| pexels |  | Darlene Alderson | Pexels License | https://www.pexels.com/video/a-bartender-talking-to-a-customer-7039142/ |
+| pixabay | worker  plate  building  lay  pour in  builder  wheelbarrow  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67463/ |
+| pexels |  | Adventist Asia | Pexels License | https://www.pexels.com/video/caring-nurse-assisting-patient-in-hospital-room-30141930/ |
+| pixabay | builder  worker  building  repair  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85349/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/woman-serving-food-to-a-man-8441765/ |
+| pixabay | man  farmer  agriculture  countryside  field  rural  farming | ammarvid | Pixabay Content License | https://pixabay.com/videos/id-243239/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-man-at-a-coffee-shop-6602329/ |
+| pixabay | sewing machine  sewing  tailor  stitching  needle  cloth  cl | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1111/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-and-a-waiter-talking-in-the-restaurant-6816192/ |
+| pixabay | paperwork  office  copier  worker  working  office job  prin | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4737/ |
