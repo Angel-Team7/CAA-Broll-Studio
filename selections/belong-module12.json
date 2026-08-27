@@ -42,12 +42,16 @@
       "requested": "2026-08-26T16:25:22.713Z",
       "note": "generates more contextual videos",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-27T13:11:09Z",
+      "added": 10
     },
     "S10": {
       "requested": "2026-08-26T16:34:17.500Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-27T13:11:33Z",
+      "added": 10
     }
   }
 }

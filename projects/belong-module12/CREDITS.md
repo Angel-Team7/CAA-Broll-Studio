@@ -22,3 +22,23 @@
 | pixabay | business  office  computer  man  laptop  company  corporate  | isuruzampa | Pixabay Content License | https://pixabay.com/videos/id-268230/ |
 | pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/office-team-huddling-6558232/ |
 | pixabay | american football  sport  american  game  helmet  recreation | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5613/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-workers-on-an-elevated-platform-32244799/ |
+| pixabay | cement  concrete  cast  concrete dough  development  boat sh | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148541/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/men-having-a-conversation-while-at-work-4293960/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85350/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-digital-tablet-6473959/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85351/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/interior-designer-using-application-on-smartphone-6474392/ |
+| pixabay | worker  cut  building  grinder  pour in  builder  wheelbarro | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67461/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-using-a-grinder-8987012/ |
+| pixabay | worker  plate  building  lay  pour in  builder  wheelbarrow  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67463/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/men-putting-their-hands-together-9710116/ |
+| pixabay | diversity  teamwork  unity  hands  friends  together  busine | Mohamed_hassan | Pixabay Content License | https://pixabay.com/videos/id-48991/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/office-team-huddling-6339871/ |
+| pixabay | goalkeeper  soccer  sports  team  ball  sport  football  goa | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10827/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/office-team-huddling-6339866/ |
+| pixabay | gears  mechanics  gear  transmission  bikes  drive  technolo | 8385 | Pixabay Content License | https://pixabay.com/videos/id-822/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-group-of-people-putting-their-hands-together-8124282/ |
+| pixabay | board  chalk  smiley  pleasure  positive  study  school  tra | athree23 | Pixabay Content License | https://pixabay.com/videos/id-18439/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/fists-together-7659843/ |
+| pixabay | dice  points  roll the dice  to play  toy  random  number  r | betexion | Pixabay Content License | https://pixabay.com/videos/id-65807/ |
