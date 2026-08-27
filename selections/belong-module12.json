@@ -1,6 +1,6 @@
 {
   "project": "belong-module12",
-  "updated": "2026-08-26T16:34:17.527Z",
+  "updated": "2026-08-27T13:10:00.416Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -26,6 +26,9 @@
     ],
     "S09": [
       "pexels_29615502_aerial-olive-grove-sunset"
+    ],
+    "S03": [
+      "pexels_6466243_hotel-housekeeper-working-indepe"
     ]
   },
   "needs_broll": {
@@ -36,16 +39,12 @@
       "requested": "2026-08-26T16:25:22.713Z",
       "note": "generates more contextual videos",
       "reason": "direction",
-      "done": true,
-      "fulfilled": "2026-08-26T16:59:31Z",
-      "added": 10
+      "done": false
     },
     "S10": {
       "requested": "2026-08-26T16:34:17.500Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-08-26T17:00:07Z",
-      "added": 10
+      "done": false
     }
   }
 }
