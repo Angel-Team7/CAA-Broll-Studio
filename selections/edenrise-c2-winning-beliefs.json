@@ -46,7 +46,9 @@
       "requested": "2026-08-31T14:49:06.960Z",
       "note": "can you do more like US Army or soldiers",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-08-31T14:53:00Z",
+      "added": 10
     }
   }
 }

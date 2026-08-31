@@ -12,3 +12,13 @@
 | pixabay | automobile  black  antique car  vehicle  luxury  car  dare   | raffalel | Pixabay Content License | https://pixabay.com/videos/id-24387/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-cutting-wood-using-circular-saw-6789578/ |
 | pixabay | woman  fast food  workshop  safety  convenience  lifestyle   | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-130651/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/video-of-soldier-sharing-his-stories-to-his-comrades-7467737/ |
+| pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/video-of-soldiers-talking-to-a-therapist-7467591/ |
+| pixabay | worker  hard work  man  builder  work  workers  building  en | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40816/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/video-of-soldier-sharing-stories-to-his-comrades-7467770/ |
+| pixabay | worker  shiva  early  morning  people  person  field work  f | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1635/ |
+| pexels |  | Gonzalo Garcia | Pexels License | https://www.pexels.com/video/tactical-team-in-training-exercise-outdoors-34055227/ |
+| pixabay | glass maker  glass blower  melting  making  molten  hot  glo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3612/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/outdoor-military-gear-on-a-sunny-day-38313921/ |
+| pixabay | street  man  worker  vietnam  life | bianhpro1st | Pixabay Content License | https://pixabay.com/videos/id-45686/ |
