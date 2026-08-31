@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-winning-beliefs",
-  "updated": "2026-08-31T14:46:48.287Z",
+  "updated": "2026-08-31T14:49:06.965Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -31,7 +31,9 @@
       "edenrise-c2-winning-beliefs-S03-V06"
     ]
   },
-  "needs_broll": {},
+  "needs_broll": {
+    "S06": "can you do more like US Army or soldiers"
+  },
   "topup_requests": {
     "S03": {
       "requested": "2026-08-20T12:32:43.235Z",
@@ -39,6 +41,12 @@
       "done": true,
       "fulfilled": "2026-08-20T12:33:42Z",
       "added": 10
+    },
+    "S06": {
+      "requested": "2026-08-31T14:49:06.960Z",
+      "note": "can you do more like US Army or soldiers",
+      "reason": "direction",
+      "done": false
     }
   }
 }
