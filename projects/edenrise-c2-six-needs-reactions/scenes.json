@@ -2,10 +2,10 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "",
-   "visual_direction": "Calm scenes tilting into tension: a schedule ripped up, a serious discussion, clock pressure, repetitive strain. Neutral-to-tense valence, dignified real workers. — Calm work shifts into pressure: plans change, a disagreement flares, a deadline looms, the same task repeats again. The needs get threatened — and reactions follow.",
+   "script_line": "Most of us are fairly easy to understand when things are going well. The more interesting question is: what happens to you when things are not going well? When plans change. When you feel ignored. When someone disagrees with you. When work becomes repetitive. When you feel disconnected from the team. Or when you feel like you are not growing. Pressure often reveals which human needs matter most to us. And when one of those needs feels threatened, our behavior can change quickly. The goal is not to stop having needs. The goal is to recognize what is happening inside us before we react automatic",
+   "visual_direction": "Calm workplace scenes shifting into changing plans, disagreement, deadlines, repeated tasks, or uncertainty.",
    "t": 0.0,
-   "end": 20.0,
+   "end": 43.45,
    "quota": {
     "video": 7,
     "image": 3
@@ -202,14 +202,15 @@
      "query": "construction workers discussing problem plans"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Pressure reveals patterns."
   },
   {
    "id": "S02",
-   "script_line": "",
-   "visual_direction": "A worker meets an unexpected change: brief frustration, then calmly reviewing documents/plans and adapting. Recovery, not drama. — Certainty threatened: the schedule changes without warning. A flash of frustration — then reviewing the information and adapting the plan.",
-   "t": 20.0,
-   "end": 40.0,
+   "script_line": "If certainty is important to you, change can feel uncomfortable. A new process. A different schedule. Unexpected information. A plan that suddenly changes. Under pressure, your first reaction might be: \"Why are we changing this?\" You may become more rigid. More controlling. Or more focused on getting everything back to the way it was. The healthier question is: \"What do I know, what do I not know, and what can I do next?\" Certainty does not have to come from everything staying the same. It can come from preparation, communication, skill, and your confidence that you can adapt.",
+   "visual_direction": "Schedule changes, new instructions, employee initially frustrated, then reviewing information and adapting.",
+   "t": 43.45,
+   "end": 84.0,
    "quota": {
     "video": 7,
     "image": 3
@@ -412,262 +413,15 @@
      "query": "foreman reviewing blueprint closely site"
     }
    ],
-   "timing_source": "unrecorded"
-  },
-  {
-   "id": "S05",
-   "script_line": "",
-   "visual_direction": "A person hesitates outside a conversation, gathers courage, then a direct respectful one-on-one talk with real eye contact, ending lighter. — Connection threatened: the hesitation before a hard conversation. Then the respectful, direct talk that clears the air.",
-   "t": 80.0,
-   "end": 100.0,
-   "quota": {
-    "video": 7,
-    "image": 3
-   },
-   "clips": [
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-V15",
-     "type": "video",
-     "source": "pixabay",
-     "author": "SYG_Anime",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-130651/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V15.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V15.mp4",
-     "score": 24.64,
-     "categories": [
-      "man",
-      "people",
-      "safety",
-      "woman",
-      "worker",
-      "workshop"
-     ],
-     "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  perso",
-     "query": "mentor listening to apprentice workshop"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-V16",
-     "type": "video",
-     "source": "pexels",
-     "author": "MART  PRODUCTION",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-having-a-conversation-at-the-pantry-7534424/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V16.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V16.mp4",
-     "score": 24.3,
-     "categories": [
-      "conversation",
-      "people"
-     ],
-     "title": "video people having conversation the pantry",
-     "query": "two workers coffee break talking"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-V19",
-     "type": "video",
-     "source": "pexels",
-     "author": "Pavel Danilyuk",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-man-sitting-while-talking-8716581/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V19.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V19.mp4",
-     "score": 22.57,
-     "categories": [
-      "man",
-      "talking"
-     ],
-     "title": "video man sitting while talking",
-     "query": "mentor listening to apprentice workshop"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-V27",
-     "type": "video",
-     "source": "pexels",
-     "author": "Kampus Production",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-inside-a-cafe-6828870/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V27.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V27.mp4",
-     "score": 21.37,
-     "categories": [
-      "meeting",
-      "people"
-     ],
-     "title": "video people having business meeting inside cafe",
-     "query": "two workers coffee break talking"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-I01",
-     "type": "image",
-     "source": "pixabay",
-     "author": "MabelAmber",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/people-man-woman-couple-sitting-3163556/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
-     "score": 22.5,
-     "categories": [
-      "conversation",
-      "man",
-      "people",
-      "talking",
-      "together",
-      "woman"
-     ],
-     "title": "people  man  woman  couple  sitting  together  bench  talking  close  conversation  brown talk  brown talking  brown con",
-     "query": "two people direct conversation calm"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S05-I05",
-     "type": "image",
-     "source": "pexels",
-     "author": "Centre for Ageing Better",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/women-standing-in-a-warehouse-next-to-a-shelf-with-boxes-and-smiling-13804482/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I05.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I05.jpg",
-     "score": 24.97,
-     "categories": [
-      "smile",
-      "team",
-      "teamwork",
-      "warehouse"
-     ],
-     "title": "Two women in a warehouse organizing containers with smiles, promoting teamwork.",
-     "query": "workers relaxed conversation warehouse"
-    }
-   ],
-   "timing_source": "unrecorded"
-  },
-  {
-   "id": "S09",
-   "script_line": "",
-   "visual_direction": "Reflective note-writing about reactions, then calm constructive interactions: measured conversations, steady work, a settled team. — Write it down, choose the response. Reflective notes — then calmer, constructive interactions for the rest of the day.",
-   "t": 160.0,
-   "end": 180.0,
-   "quota": {
-    "video": 7,
-    "image": 3
-   },
-   "clips": [
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-V04",
-     "type": "video",
-     "source": "pixabay",
-     "author": "klimkin",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/videos/id-4973/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V04.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V04.mp4",
-     "score": 15.04,
-     "categories": [
-      "carpenter",
-      "construction"
-     ],
-     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
-     "query": "steady focused work peaceful"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-V24",
-     "type": "video",
-     "source": "pexels",
-     "author": "RDNE Stock project",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-woman-sitting-on-a-bench-and-writing-in-a-notebook-6413980/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V24.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V24.mp4",
-     "score": 17.4,
-     "categories": [
-      "man",
-      "woman"
-     ],
-     "title": "video woman sitting bench and writing notebook",
-     "query": "worker writing journal outdoors"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-V25",
-     "type": "video",
-     "source": "pexels",
-     "author": "Ketut Subiyanto",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/a-man-taking-notes-on-his-notebook-4569940/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V25.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V25.mp4",
-     "score": 17.26,
-     "categories": [
-      "man"
-     ],
-     "title": "video man taking notes his notebook",
-     "query": "worker writing journal outdoors"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-I02",
-     "type": "image",
-     "source": "pixabay",
-     "author": "StockSnap",
-     "license": "Pixabay Content License",
-     "page_url": "https://pixabay.com/photos/writing-writer-notes-pen-notebook-923882/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I02.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I02.jpg",
-     "score": 18.52,
-     "categories": [
-      "hands",
-      "man",
-      "outdoor",
-      "people",
-      "woman"
-     ],
-     "title": "writing  writer  notes  pen  notebook  nature  book  girl  woman  people  hands  grass  outdoors",
-     "query": "worker writing journal outdoors"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-I03",
-     "type": "image",
-     "source": "pexels",
-     "author": "Gustavo Fring",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-watering-plants-in-a-garden-4920272/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I03.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I03.jpg",
-     "score": 19.94,
-     "categories": [
-      "care",
-      "gardener",
-      "team",
-      "teamwork"
-     ],
-     "title": "Two gardeners watering plants in a greenhouse, promoting teamwork and horticulture care.",
-     "query": "gardener watering plants sunset"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S09-I06",
-     "type": "image",
-     "source": "pexels",
-     "author": "Tiger Lily",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/men-holding-cardboard-boxes-4487484/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I06.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I06.jpg",
-     "score": 18.0,
-     "categories": [
-      "team",
-      "teamwork",
-      "worker",
-      "workers"
-     ],
-     "title": "Two male workers loading packages into a delivery van, teamwork in logistics.",
-     "query": "team loading van evening calm"
-    }
-   ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Certainty under pressure - create clarity."
   },
   {
    "id": "S03",
-   "script_line": "",
-   "visual_direction": "Scattered multitasking, half-done jobs; then a person slows down, writes priorities, finishes a single task with care. — Variety takes over: jumping between tasks, nothing finishing. The correction — slowing down, prioritizing, completing one thing.",
-   "t": 40.0,
-   "end": 60.0,
+   "script_line": "If variety is one of your stronger needs, pressure can show up differently. Routine may begin to feel frustrating. You may want to change things quickly. Start something new. Jump between tasks. Or solve the problem by doing something completely different. Variety can make you creative and flexible. But under pressure, it can also pull you away from consistency. Ask yourself: \"Do we actually need a change, or do I just need stimulation?\" Sometimes the best response is innovation. Sometimes the best response is simply finishing what you started.",
+   "visual_direction": "Employee jumping between tasks or ideas, then slowing down, prioritizing, and completing one thing.",
+   "t": 84.0,
+   "end": 120.83,
    "quota": {
     "video": 7,
     "image": 3
@@ -849,14 +603,270 @@
      "query": "cluttered workbench many tools mess"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Variety under pressure - stay flexible, not scattered."
+  },
+  {
+   "id": "S04",
+   "script_line": "Significance can become especially visible when we feel challenged. Maybe someone disagrees with your idea. Maybe you receive feedback. Maybe someone else gets recognition. Maybe you feel like your contribution has not been noticed. Under pressure, significance can turn into defensiveness. Needing to prove yourself. Needing to be right. Or comparing yourself with someone else. When you notice that happening, ask: \"Am I trying to solve the problem, or am I trying to prove my value?\" Your value does not need to be protected in every conversation. You can meet significance through contribution, e",
+   "visual_direction": "Team discussion, someone receiving feedback, brief defensive reaction, then listening and responding constructively.",
+   "t": 120.83,
+   "end": 162.62,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-V16",
+     "type": "video",
+     "source": "pexels",
+     "author": "cottonbro studio",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-carpenters-in-overalls-talking-7484281/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V16.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V16.mp4",
+     "score": 22.9,
+     "categories": [
+      "carpenter",
+      "talking"
+     ],
+     "title": "video two carpenters overalls talking",
+     "query": "older worker advising younger workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-V17",
+     "type": "video",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V17.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V17.mp4",
+     "score": 22.3,
+     "categories": [
+      "talking",
+      "worker",
+      "workers"
+     ],
+     "title": "video two wood workers talking each other",
+     "query": "older worker advising younger workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I04",
+     "type": "image",
+     "source": "pexels",
+     "author": "Mikael Blomkvist",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961028/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
+     "score": 27.97,
+     "categories": [
+      "construction",
+      "outdoor",
+      "safety",
+      "scaffolding"
+     ],
+     "title": "Engineers in safety gear discussing a construction project outdoors with visible scaffolding.",
+     "query": "foreman giving apprentice feedback pointing"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ihsan Adityawarman",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-in-a-yellow-vest-holding-a-hard-hat-28196526/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
+     "score": 27.81,
+     "categories": [
+      "construction",
+      "helmet",
+      "portrait",
+      "safety",
+      "worker"
+     ],
+     "title": "Portrait of a construction worker in safety gear holding a helmet inside an industrial setting.",
+     "query": "foreman giving apprentice feedback pointing"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I10",
+     "type": "image",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/two-men-building-a-house-in-the-woods-8821536/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I10.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I10.jpg",
+     "score": 29.59,
+     "categories": [
+      "construction",
+      "site",
+      "worker",
+      "workers"
+     ],
+     "title": "Two construction workers in protective gear at a forest site with wooden structure.",
+     "query": "builders conversation on scaffolding"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S04-I11",
+     "type": "image",
+     "source": "pexels",
+     "author": "Anamul Rezwan",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/two-man-holding-white-paper-1216589/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I11.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I11.jpg",
+     "score": 29.07,
+     "categories": [
+      "construction",
+      "helmet",
+      "safety",
+      "site",
+      "worksite"
+     ],
+     "title": "Two engineers in safety helmets reviewing construction plans at a worksite.",
+     "query": "builders conversation on scaffolding"
+    }
+   ],
+   "timing_source": "estimated",
+   "onscreen": "Significance under pressure - choose value over ego."
+  },
+  {
+   "id": "S05",
+   "script_line": "If connection matters deeply to you, conflict can feel particularly uncomfortable. You may worry that someone is upset with you. You may avoid saying what needs to be said. You may agree when you actually disagree. Or you may take someone’s tone more personally than they intended. The desire for connection is healthy. But healthy connection is not the same as keeping everyone happy. Sometimes the strongest relationships require honesty. Ask: \"Am I protecting the relationship, or am I avoiding discomfort?\" Trust grows when people can communicate clearly, respectfully, and honestly.",
+   "visual_direction": "Awkward team interaction, someone hesitating to speak, then having a respectful direct conversation.",
+   "t": 162.62,
+   "end": 200.69,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V15",
+     "type": "video",
+     "source": "pixabay",
+     "author": "SYG_Anime",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-130651/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V15.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V15.mp4",
+     "score": 24.64,
+     "categories": [
+      "man",
+      "people",
+      "safety",
+      "woman",
+      "worker",
+      "workshop"
+     ],
+     "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  perso",
+     "query": "mentor listening to apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V16",
+     "type": "video",
+     "source": "pexels",
+     "author": "MART  PRODUCTION",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-having-a-conversation-at-the-pantry-7534424/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V16.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V16.mp4",
+     "score": 24.3,
+     "categories": [
+      "conversation",
+      "people"
+     ],
+     "title": "video people having conversation the pantry",
+     "query": "two workers coffee break talking"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V19",
+     "type": "video",
+     "source": "pexels",
+     "author": "Pavel Danilyuk",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-sitting-while-talking-8716581/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V19.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V19.mp4",
+     "score": 22.57,
+     "categories": [
+      "man",
+      "talking"
+     ],
+     "title": "video man sitting while talking",
+     "query": "mentor listening to apprentice workshop"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-V27",
+     "type": "video",
+     "source": "pexels",
+     "author": "Kampus Production",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-inside-a-cafe-6828870/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-V27.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-V27.mp4",
+     "score": 21.37,
+     "categories": [
+      "meeting",
+      "people"
+     ],
+     "title": "video people having business meeting inside cafe",
+     "query": "two workers coffee break talking"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-I01",
+     "type": "image",
+     "source": "pixabay",
+     "author": "MabelAmber",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/people-man-woman-couple-sitting-3163556/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I01.jpg",
+     "score": 22.5,
+     "categories": [
+      "conversation",
+      "man",
+      "people",
+      "talking",
+      "together",
+      "woman"
+     ],
+     "title": "people  man  woman  couple  sitting  together  bench  talking  close  conversation  brown talk  brown talking  brown con",
+     "query": "two people direct conversation calm"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S05-I05",
+     "type": "image",
+     "source": "pexels",
+     "author": "Centre for Ageing Better",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/women-standing-in-a-warehouse-next-to-a-shelf-with-boxes-and-smiling-13804482/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S05/edenrise-c2-six-needs-reactions-S05-I05.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S05/edenrise-c2-six-needs-reactions-S05-I05.jpg",
+     "score": 24.97,
+     "categories": [
+      "smile",
+      "team",
+      "teamwork",
+      "warehouse"
+     ],
+     "title": "Two women in a warehouse organizing containers with smiles, promoting teamwork.",
+     "query": "workers relaxed conversation warehouse"
+    }
+   ],
+   "timing_source": "estimated",
+   "onscreen": "Connection under pressure - choose trust over approval."
   },
   {
    "id": "S06",
-   "script_line": "",
-   "visual_direction": "Repetitive task transformed by depth: close-ups of refining technique, checking quality, mastering details of the same work. — Growth blocked: the work feels repetitive. The reframe — going deeper: technique, quality, mastery inside the same task.",
-   "t": 100.0,
-   "end": 120.0,
+   "script_line": "If growth is a major driver for you, you may become frustrated when you feel stuck. Maybe the work feels repetitive. Maybe you are not learning as quickly as you want. Maybe you are doing something you already know how to do. Under pressure, you may become impatient. Disengaged. Or decide that there is nothing left to learn. But growth is not always given to us through a new task. Sometimes growth comes from going deeper. Doing something with greater skill. Improving quality. Becoming more efficient. Learning to communicate better. Or mastering something you previously only knew how to do adeq",
+   "visual_direction": "Repetitive work, then closer attention to quality, technique, efficiency, and mastery.",
+   "t": 200.69,
+   "end": 248.69,
    "quota": {
     "video": 7,
     "image": 3
@@ -991,141 +1001,15 @@
      "query": "artisan painting ceramic brush detail"
     }
    ],
-   "timing_source": "unrecorded"
-  },
-  {
-   "id": "S04",
-   "script_line": "",
-   "visual_direction": "Receiving feedback: a moment of guarded body language, then genuine listening and a constructive reply between colleagues. Respectful, adult. — Significance threatened: feedback lands hard. A breath of defensiveness — then listening, asking a question, replying constructively.",
-   "t": 60.0,
-   "end": 80.0,
-   "quota": {
-    "video": 7,
-    "image": 3
-   },
-   "clips": [
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-V16",
-     "type": "video",
-     "source": "pexels",
-     "author": "cottonbro studio",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/two-carpenters-in-overalls-talking-7484281/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V16.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V16.mp4",
-     "score": 22.9,
-     "categories": [
-      "carpenter",
-      "talking"
-     ],
-     "title": "video two carpenters overalls talking",
-     "query": "older worker advising younger workshop"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-V17",
-     "type": "video",
-     "source": "pexels",
-     "author": "Gustavo Fring",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-V17.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-V17.mp4",
-     "score": 22.3,
-     "categories": [
-      "talking",
-      "worker",
-      "workers"
-     ],
-     "title": "video two wood workers talking each other",
-     "query": "older worker advising younger workshop"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-I04",
-     "type": "image",
-     "source": "pexels",
-     "author": "Mikael Blomkvist",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-at-a-construction-site-8961028/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I04.jpg",
-     "score": 27.97,
-     "categories": [
-      "construction",
-      "outdoor",
-      "safety",
-      "scaffolding"
-     ],
-     "title": "Engineers in safety gear discussing a construction project outdoors with visible scaffolding.",
-     "query": "foreman giving apprentice feedback pointing"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-I05",
-     "type": "image",
-     "source": "pexels",
-     "author": "Ihsan Adityawarman",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/a-man-in-a-yellow-vest-holding-a-hard-hat-28196526/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I05.jpg",
-     "score": 27.81,
-     "categories": [
-      "construction",
-      "helmet",
-      "portrait",
-      "safety",
-      "worker"
-     ],
-     "title": "Portrait of a construction worker in safety gear holding a helmet inside an industrial setting.",
-     "query": "foreman giving apprentice feedback pointing"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-I10",
-     "type": "image",
-     "source": "pexels",
-     "author": "Ron Lach",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/two-men-building-a-house-in-the-woods-8821536/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I10.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I10.jpg",
-     "score": 29.59,
-     "categories": [
-      "construction",
-      "site",
-      "worker",
-      "workers"
-     ],
-     "title": "Two construction workers in protective gear at a forest site with wooden structure.",
-     "query": "builders conversation on scaffolding"
-    },
-    {
-     "id": "edenrise-c2-six-needs-reactions-S04-I11",
-     "type": "image",
-     "source": "pexels",
-     "author": "Anamul Rezwan",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/photo/two-man-holding-white-paper-1216589/",
-     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S04/edenrise-c2-six-needs-reactions-S04-I11.jpg",
-     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S04/edenrise-c2-six-needs-reactions-S04-I11.jpg",
-     "score": 29.07,
-     "categories": [
-      "construction",
-      "helmet",
-      "safety",
-      "site",
-      "worksite"
-     ],
-     "title": "Two engineers in safety helmets reviewing construction plans at a worksite.",
-     "query": "builders conversation on scaffolding"
-    }
-   ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Growth under pressure - look deeper."
   },
   {
    "id": "S07",
-   "script_line": "",
-   "visual_direction": "One person carrying too much, then stepping back: guiding a colleague who completes the task themselves, hands off, trust. — Over-contribution: taking on everyone's tasks. The correction — coaching instead of doing, letting someone else complete it.",
-   "t": 120.0,
-   "end": 140.0,
+   "script_line": "Contribution can also have an unhealthy side. If helping others is very important to you, you may start taking on everything. Fixing problems that belong to someone else. Always saying yes. Doing other people’s work because it feels easier than allowing them to learn. You may have good intentions. But over-contributing can create dependency, frustration, and exhaustion. Sometimes contribution means helping. Sometimes contribution means teaching. And sometimes contribution means allowing another person to take responsibility. Ask: \"Am I truly helping, or am I taking over?\"",
+   "visual_direction": "Employee taking on multiple colleagues tasks, then shifting to coaching, explaining, and allowing someone else to complete the work.",
+   "t": 248.69,
+   "end": 284.69,
    "quota": {
     "video": 7,
     "image": 3
@@ -1249,14 +1133,15 @@
      "query": "mentor guiding colleague hands off"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Contribution under pressure - help without taking over."
   },
   {
    "id": "S08",
-   "script_line": "",
-   "visual_direction": "The pivotal pause: a worker stops in a tense moment, breathes, eyes close briefly, shoulders drop — then re-engages calm and deliberate. — THE PAUSE: a tense moment, one breath, a beat of reflection — then a calmer, chosen response.",
-   "t": 140.0,
-   "end": 160.0,
+   "script_line": "The most useful skill here is simple: pause before you react. When you notice yourself becoming frustrated, defensive, controlling, distracted, withdrawn, or overwhelmed, ask: \"Which need am I trying to meet right now?\" Then ask: \"Is the way I am meeting it helping me?\" That small pause creates choice. Instead of reacting automatically, you can respond intentionally. Maybe you need more information. Maybe you need a challenge. Maybe you need to let go of being right. Maybe you need to have an honest conversation. Maybe you need to find a new opportunity to learn. Or maybe you need to stop taki",
+   "visual_direction": "Employee pausing during a tense moment, breathing, reflecting, then choosing a calmer response.",
+   "t": 284.69,
+   "end": 329.79,
    "quota": {
     "video": 7,
     "image": 3
@@ -1449,7 +1334,131 @@
      "query": "worker pausing wiping brow site"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "estimated",
+   "onscreen": "Pause. Identify the need. Choose your response."
+  },
+  {
+   "id": "S09",
+   "script_line": "Think about the last time you felt frustrated or under pressure at work. What happened? And then ask yourself: which human need felt threatened? Was it certainty? Variety? Significance? Connection? Growth? Contribution? Then ask: how did I respond? And what might a healthier response have looked like? The more you recognize your patterns, the less those patterns control you. Pressure will happen. Change will happen. Difficult conversations will happen. What matters is becoming better at choosing how you respond.",
+   "visual_direction": "Reflective employee writing notes, followed by several calm, constructive workplace interactions.",
+   "t": 329.79,
+   "end": 362.48,
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V04",
+     "type": "video",
+     "source": "pixabay",
+     "author": "klimkin",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/videos/id-4973/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V04.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V04.mp4",
+     "score": 15.04,
+     "categories": [
+      "carpenter",
+      "construction"
+     ],
+     "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
+     "query": "steady focused work peaceful"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V24",
+     "type": "video",
+     "source": "pexels",
+     "author": "RDNE Stock project",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-woman-sitting-on-a-bench-and-writing-in-a-notebook-6413980/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V24.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V24.mp4",
+     "score": 17.4,
+     "categories": [
+      "man",
+      "woman"
+     ],
+     "title": "video woman sitting bench and writing notebook",
+     "query": "worker writing journal outdoors"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-V25",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ketut Subiyanto",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-man-taking-notes-on-his-notebook-4569940/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-V25.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-V25.mp4",
+     "score": 17.26,
+     "categories": [
+      "man"
+     ],
+     "title": "video man taking notes his notebook",
+     "query": "worker writing journal outdoors"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-I02",
+     "type": "image",
+     "source": "pixabay",
+     "author": "StockSnap",
+     "license": "Pixabay Content License",
+     "page_url": "https://pixabay.com/photos/writing-writer-notes-pen-notebook-923882/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I02.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I02.jpg",
+     "score": 18.52,
+     "categories": [
+      "hands",
+      "man",
+      "outdoor",
+      "people",
+      "woman"
+     ],
+     "title": "writing  writer  notes  pen  notebook  nature  book  girl  woman  people  hands  grass  outdoors",
+     "query": "worker writing journal outdoors"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-I03",
+     "type": "image",
+     "source": "pexels",
+     "author": "Gustavo Fring",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/a-man-and-a-woman-watering-plants-in-a-garden-4920272/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I03.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I03.jpg",
+     "score": 19.94,
+     "categories": [
+      "care",
+      "gardener",
+      "team",
+      "teamwork"
+     ],
+     "title": "Two gardeners watering plants in a greenhouse, promoting teamwork and horticulture care.",
+     "query": "gardener watering plants sunset"
+    },
+    {
+     "id": "edenrise-c2-six-needs-reactions-S09-I06",
+     "type": "image",
+     "source": "pexels",
+     "author": "Tiger Lily",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/photo/men-holding-cardboard-boxes-4487484/",
+     "thumb": "projects/edenrise-c2-six-needs-reactions/thumbs/S09/edenrise-c2-six-needs-reactions-S09-I06.jpg",
+     "preview": "projects/edenrise-c2-six-needs-reactions/previews/S09/edenrise-c2-six-needs-reactions-S09-I06.jpg",
+     "score": 18.0,
+     "categories": [
+      "team",
+      "teamwork",
+      "worker",
+      "workers"
+     ],
+     "title": "Two male workers loading packages into a delivery van, teamwork in logistics.",
+     "query": "team loading van evening calm"
+    }
+   ],
+   "timing_source": "estimated",
+   "onscreen": "Awareness creates choice."
   }
  ]
 }
