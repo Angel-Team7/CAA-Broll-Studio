@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-reactions",
-  "updated": "2026-09-02T15:10:45.274Z",
+  "updated": "2026-09-02T15:11:54.742Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -32,7 +32,8 @@
     ]
   },
   "needs_broll": {
-    "S02": "generate 10 more direction is wrong"
+    "S02": "generate 10 more direction is wrong",
+    "S06": "10 more pleaes direction is wrong"
   },
   "topup_requests": {
     "S05": {
@@ -58,6 +59,12 @@
     "S02": {
       "requested": "2026-09-02T14:58:19.942Z",
       "note": "generate 10 more direction is wrong",
+      "reason": "direction",
+      "done": false
+    },
+    "S06": {
+      "requested": "2026-09-02T15:11:54.734Z",
+      "note": "10 more pleaes direction is wrong",
       "reason": "direction",
       "done": false
     }
