@@ -371,7 +371,7 @@ def credit_line(c):
     return f"| {c['source']} | {c.get('title','')[:60]} | {c.get('author','')} | {c['license']} | {c.get('page_url','')} |"
 
 # ---------------------------------------------------------------------- main
-def run_scene(slug, scene_id, note, profile, reason=""):
+def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
         print(f"  ! no scenes.json for {slug} — skipped")
@@ -384,6 +384,7 @@ def run_scene(slug, scene_id, note, profile, reason=""):
 
     seen = seen_keys(card)
     want, avoid = parse_note(note)
+    avoid += [w for w in (auto_avoid or []) if w not in avoid]
     direction = reason == "direction"
     if direction:
         print(f"  direction change — chasing {want or ['(note)']}, barring {avoid or ['-']}")
@@ -395,6 +396,10 @@ def run_scene(slug, scene_id, note, profile, reason=""):
     need_web = WANT_VIDEOS - len(from_lib)
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat")
+    if direction and not want:
+        vd = scene.get("visual_direction", "")
+        want = [" ".join(w) for w in [re.findall(r"[a-zA-Z]{4,}", vd)[i:i+3]
+                                      for i in range(0, 9, 3)] if w]
     if direction and want:
         subject = " ".join(sorted(VOCAB["subjects"])[:0]) or ""
         qs = [w if has_signal(w) else f"worker {w}" for w in want]
@@ -534,20 +539,21 @@ def main():
         slug = sel.get("project") or p.stem
         for sid, req in (sel.get("topup_requests") or {}).items():
             if isinstance(req, dict) and not req.get("done"):
-                pending.append((p, slug, sid, req.get("note", ""), req.get("reason", "")))
+                pending.append((p, slug, sid, req.get("note", ""), req.get("reason", ""),
+                                req.get("avoid") or []))
 
     if not pending:
         print("no pending top-up requests")
         return 0
-    print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r in pending]}")
+    print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r, _a in pending]}")
 
     total = 0
-    for path, slug, sid, note, reason in pending[:MAX_SCENES_PER_RUN]:
+    for path, slug, sid, note, reason, auto_avoid in pending[:MAX_SCENES_PER_RUN]:
         profile = "belong" if slug.startswith("belong") else "edenrise"
         print(f"→ {slug} {sid}  ({note!r})")
         # materialise this project in the sparse checkout
         sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
-        n = run_scene(slug, sid, note, profile, reason)
+        n = run_scene(slug, sid, note, profile, reason, auto_avoid)
         if n:
             sel = json.load(open(path))
             sel["topup_requests"][sid]["done"] = True

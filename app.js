@@ -141,7 +141,8 @@ function render() {
           <div class="scene-show"><span class="tag show">PICK FOOTAGE THAT SHOWS</span>
             <span class="show-txt">${esc(sc.visual_direction)}</span></div>
           ${sc.onscreen ? `<div class="scene-onscreen"><span class="tag os">ON-SCREEN TEXT</span> ${esc(sc.onscreen)}</div>` : ""}
-          ${flagged ? `<div class="reshoot-note">🔁 flagged for new footage${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}</div>` : ""}
+          ${flagged ? `<div class="reshoot-note">🔁 finding a different direction${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
+             <button class="linkbtn addreason" data-scene="${sc.id}">${state.reshoot[sc.id] ? "edit reason" : "+ add a reason"}</button></div>` : ""}
         </div>
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
@@ -159,6 +160,8 @@ function render() {
     el.onclick = () => el.classList.toggle("clamp"));
   wrap.querySelectorAll(".card").forEach(el =>
     el.onclick = e => { if (e.target.tagName !== "A") toggle(el); });
+  wrap.querySelectorAll(".addreason").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); addReason(el.dataset.scene); });
   wrap.querySelectorAll(".reshoot").forEach(el =>
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
@@ -228,9 +231,10 @@ function toggle(el) {
 }
 
 // Flag/unflag a scene as needing different B-roll (with an optional reason).
-// "Direction is wrong" = the pool is off-target, not merely small. It records the
-// reason AND fires a fresh search steered by that reason, so a wrong direction is
-// corrected in minutes instead of waiting for a human pass.
+// One click, no dialog. "Direction is wrong" means: not this kind — so the search
+// is steered AWAY from what this pool already contains (its own dominant words
+// become negatives) and toward the scene's direction. A note is optional and can
+// be added afterwards; it must never stand between the click and the fetch.
 async function toggleReshoot(sid) {
   if (sid in state.reshoot) {
     delete state.reshoot[sid];
@@ -240,51 +244,42 @@ async function toggleReshoot(sid) {
     toast(`${sid}: flag removed`);
     return;
   }
-  const why = prompt(
-    `What should ${sid} show instead?\n` +
-    `Say what you want and what you don't — e.g. "more hands in soil, less plated food"`, "");
-  if (why === null) return;                       // cancelled
-  state.reshoot[sid] = why.trim();
+  state.reshoot[sid] = "";                       // reason optional, added later
   state.topup = state.topup || {};
-  state.topup[sid] = { requested: new Date().toISOString(), note: why.trim(),
-                       reason: "direction", done: false };
+  state.topup[sid] = { requested: new Date().toISOString(), note: "",
+                       reason: "direction", avoid: poolSignature(sid), done: false };
   persistLocal(); render();
   if (gh && gh.token) {
-    toast(`${sid}: searching for that instead…`);
-    try { await save(false); toast(`${sid}: 10 new options on the way — refresh in a few min`); }
+    toast(`${sid}: finding a different direction…`);
+    try { await save(false); toast(`${sid}: 10 different options on the way`); }
     catch (e) { toast(`${sid}: flagged, but saving failed — hit Save approvals`); }
   } else {
-    toast(`${sid}: flagged — connect GitHub or hit Save approvals to send it`);
+    toast(`${sid}: flagged — connect GitHub to send it`);
   }
 }
 
-// One click = 10 more. Fires the GitHub Action immediately (it watches
-// selections/*.json), so fresh candidates land on this card in a few minutes
-// without a save step. Everything already shown here is excluded, so a second
-// round is genuinely NEW footage, never a reshuffle of the same pool.
-// No prompt on purpose: this button means "more of this kind". When the
-// DIRECTION is wrong, use 🔁 Direction is wrong instead — that one takes a reason.
-async function requestTopup(sid) {
-  state.topup = state.topup || {};
-  if (sid in state.topup) {
-    delete state.topup[sid];
-    persistLocal(); render();
-    toast(`${sid}: request removed`);
-    return;
+// What this pool is "about" right now, so the next search can avoid it.
+function poolSignature(sid) {
+  const sc = (state.data.scenes || []).find(s => s.id === sid);
+  if (!sc) return [];
+  const stop = new Set(["video","with","that","this","from","their","them","working","work",
+                        "people","person","man","woman","the","and","for","two"]);
+  const freq = {};
+  for (const c of sc.clips) {
+    const words = ((c.title || "") + " " + (c.query || "")).toLowerCase().match(/[a-z]{4,}/g) || [];
+    for (const w of new Set(words)) if (!stop.has(w)) freq[w] = (freq[w] || 0) + 1;
   }
-  state.topup[sid] = { requested: new Date().toISOString(), note: "", done: false };
-  persistLocal(); render();
-  if (gh && gh.token) {
-    toast(`${sid}: fetching 10 more…`);
-    try {
-      await save(false);
-      toast(`${sid}: 10 more on the way — refresh in ~5 min`);
-    } catch (e) {
-      toast(`${sid}: queued, but saving failed — hit Save approvals`);
-    }
-  } else {
-    toast(`${sid}: queued — connect GitHub or hit Save approvals to send it`);
-  }
+  return Object.entries(freq).filter(([, n]) => n >= Math.max(2, sc.clips.length * 0.25))
+               .sort((a, b) => b[1] - a[1]).slice(0, 8).map(([w]) => w);
+}
+
+// Optional: attach a reason to an already-flagged scene without blocking anything.
+async function addReason(sid) {
+  const why = prompt(`What should ${sid} show instead? (optional)`, state.reshoot[sid] || "");
+  if (why === null) return;
+  state.reshoot[sid] = why.trim();
+  if (state.topup && state.topup[sid]) state.topup[sid].note = why.trim();
+  persistLocal(); render(); autosave();
 }
 
 function updateStat() {

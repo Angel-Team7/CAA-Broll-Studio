@@ -132,3 +132,5 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .srcbadge.src-belong-original{background:#7a3b1f;color:#ffe6d2;}
 
 .tag.warn{background:#3d2b00;color:#ffd479}
+
+.linkbtn{background:none;border:0;color:#6cb6ff;cursor:pointer;font-size:12px;padding:0 4px}
