@@ -55,19 +55,25 @@
       "requested": "2026-09-02T17:06:01.960Z",
       "note": "direction is wrong please i need situation that describes the script here",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-02T17:15:06Z",
+      "added": 10
     },
     "S04": {
       "requested": "2026-09-02T17:08:14.293Z",
       "note": "need more 10 brolls",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-02T17:16:08Z",
+      "added": 10
     },
     "S08": {
       "requested": "2026-09-02T17:11:10.333Z",
       "note": "10 more please",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-02T17:16:49Z",
+      "added": 10
     }
   }
 }
