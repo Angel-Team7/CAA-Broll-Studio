@@ -53,13 +53,17 @@
     "S01": {
       "requested": "2026-09-02T14:57:26.245Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-02T15:02:23Z",
+      "added": 10
     },
     "S02": {
       "requested": "2026-09-02T14:58:19.942Z",
       "note": "generate 10 more direction is wrong",
       "reason": "direction",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-02T15:03:02Z",
+      "added": 10
     }
   }
 }
