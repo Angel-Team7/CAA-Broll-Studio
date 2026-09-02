@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-drives",
-  "updated": "2026-09-02T17:07:20.738Z",
+  "updated": "2026-09-02T17:08:14.299Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -32,7 +32,8 @@
     ]
   },
   "needs_broll": {
-    "S01": "direction is wrong please i need situation that describes the script here"
+    "S01": "direction is wrong please i need situation that describes the script here",
+    "S04": "need more 10 brolls"
   },
   "topup_requests": {
     "S03": {
@@ -52,6 +53,12 @@
     "S01": {
       "requested": "2026-09-02T17:06:01.960Z",
       "note": "direction is wrong please i need situation that describes the script here",
+      "reason": "direction",
+      "done": false
+    },
+    "S04": {
+      "requested": "2026-09-02T17:08:14.293Z",
+      "note": "need more 10 brolls",
       "reason": "direction",
       "done": false
     }
