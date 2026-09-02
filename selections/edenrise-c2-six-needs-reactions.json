@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-reactions",
-  "updated": "2026-09-02T14:58:19.950Z",
+  "updated": "2026-09-02T15:10:45.274Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -28,7 +28,7 @@
       "edenrise-c2-six-needs-reactions-S09-V25"
     ],
     "S04": [
-      "edenrise-c2-six-needs-reactions-S04-V17"
+      "edenrise-c2-six-needs-reactions-S04-V16"
     ]
   },
   "needs_broll": {
@@ -53,17 +53,13 @@
     "S01": {
       "requested": "2026-09-02T14:57:26.245Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-02T15:02:23Z",
-      "added": 10
+      "done": false
     },
     "S02": {
       "requested": "2026-09-02T14:58:19.942Z",
       "note": "generate 10 more direction is wrong",
       "reason": "direction",
-      "done": true,
-      "fulfilled": "2026-09-02T15:03:02Z",
-      "added": 10
+      "done": false
     }
   }
 }
