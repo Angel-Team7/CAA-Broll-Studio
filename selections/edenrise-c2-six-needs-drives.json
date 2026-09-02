@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-drives",
-  "updated": "2026-08-20T12:30:14.243Z",
+  "updated": "2026-09-02T17:06:01.969Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -31,7 +31,9 @@
       "edenrise-c2-six-needs-drives-S07-V10"
     ]
   },
-  "needs_broll": {},
+  "needs_broll": {
+    "S01": "direction is wrong please i need situation that describes the script here"
+  },
   "topup_requests": {
     "S03": {
       "requested": "2026-08-20T11:56:04.274Z",
@@ -46,6 +48,12 @@
       "done": true,
       "fulfilled": "2026-08-20T12:25:02Z",
       "added": 10
+    },
+    "S01": {
+      "requested": "2026-09-02T17:06:01.960Z",
+      "note": "direction is wrong please i need situation that describes the script here",
+      "reason": "direction",
+      "done": false
     }
   }
 }
