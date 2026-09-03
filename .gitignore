@@ -2,3 +2,5 @@
 *.selection.json
 __pycache__/
 *.pyc
+projects/*/previews/
+projects/*/thumbs/
