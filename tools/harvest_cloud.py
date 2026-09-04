@@ -111,8 +111,9 @@ def main():
                         got += 1; added += 1
                         print(f"  + [{t['brand']}] {desc[:48] or q}  ← {t['direction'][:40]}")
                         master.unlink(missing_ok=True); pv.unlink(missing_ok=True); th.unlink(missing_ok=True)
-    lib["count"] = len(assets); lib["generated"] = "harvest_cloud.py"
-    json.dump(lib, open(LIB_PATH, "w"), separators=(",", ":"))
+    if added:                                   # a zero run must not churn the index
+        lib["count"] = len(assets); lib["generated"] = "harvest_cloud.py"
+        json.dump(lib, open(LIB_PATH, "w"), separators=(",", ":"))
     if credits:
         cf = ROOT / "library" / "CREDITS.md"
         if not cf.exists():
