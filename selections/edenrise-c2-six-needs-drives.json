@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-six-needs-drives",
-  "updated": "2026-09-04T10:12:08.390Z",
+  "updated": "2026-09-04T10:12:35.497Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -26,6 +26,9 @@
     ],
     "S07": [
       "edenrise-c2-six-needs-drives-S07-V10"
+    ],
+    "S08": [
+      "edenrise-c2-six-needs-drives-S08-V20"
     ]
   },
   "needs_broll": {
