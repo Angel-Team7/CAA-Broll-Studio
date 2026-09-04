@@ -17,6 +17,7 @@ import requests
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from build_library import classify, toks, VOCAB, facet, SCALE, PEOPLE
+import release_media
 
 LIBRARY_MAX_SHARE = float(os.environ.get("TOPUP_LIBRARY_SHARE", "0.4"))
 LIBRARY_URL = os.environ.get(
@@ -502,11 +503,17 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
             if not make_preview(master, pv, th):
                 pv.unlink(missing_ok=True)
                 continue
+            tag, rel_id = release_media.ensure_release(slug)
+            pv_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "preview", pv), pv)
+            th_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "thumb", th), th)
+            if not (pv_url and th_url):
+                print(f"    release upload failed for {stem} — skipped")
+                continue
             scene.setdefault("clips", []).append({
                 "id": stem, "type": "video", "source": c["source"],
                 "author": c.get("author", ""), "license": c["license"],
                 "page_url": c.get("page_url", ""),
-                "thumb": str(th.relative_to(ROOT)), "preview": str(pv.relative_to(ROOT)),
+                "thumb": th_url, "preview": pv_url,
                 "score": 0, "categories": [], "title": c.get("title", ""),
                 "query": c.get("query", ""),
                 # re-download the full-res master at render time:

@@ -75,18 +75,7 @@
    "id": "S05",
    "script_line": "The second person — 'How can I improve?'",
    "visual_direction": "Hands taking notes / listening to feedback",
-   "clips": [
-    {
-     "id": "S05_b06_the-second-person-how-can-i-improve?",
-     "type": "video",
-     "source": "pexels/pixabay (royalty-free)",
-     "author": null,
-     "license": "free — no attribution required",
-     "page_url": null,
-     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S05__thumb__S05_b06_the-second-person-how-can-i-improve?.jpg",
-     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S05__preview__S05_b06_the-second-person-how-can-i-improve?.mp4"
-    }
-   ]
+   "clips": []
   },
   {
    "id": "S06",
@@ -126,18 +115,7 @@
    "id": "S08",
    "script_line": "'What is this teaching me?'",
    "visual_direction": "A worker pausing, reflective",
-   "clips": [
-    {
-     "id": "S08_b09_what-is-this-teaching-me?",
-     "type": "video",
-     "source": "pexels/pixabay (royalty-free)",
-     "author": null,
-     "license": "free — no attribution required",
-     "page_url": null,
-     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S08__thumb__S08_b09_what-is-this-teaching-me?.jpg",
-     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S08__preview__S08_b09_what-is-this-teaching-me?.mp4"
-    }
-   ]
+   "clips": []
   }
  ]
 }
