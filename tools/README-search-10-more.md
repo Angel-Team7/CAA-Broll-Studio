@@ -1,14 +1,28 @@
-# 🔎 Search 10 more — automated
+# 🔎 Need more · 🔁 Direction is wrong — automated
 
-Clicking **Search 10 more** on a cockpit card writes a `topup_request` into
-`selections/<slug>.json`. That commit triggers `.github/workflows/search-10-more.yml`,
-which fetches 10 fresh video candidates for that scene on GitHub's servers and commits
-them back. New options appear on the card a few minutes later — no Mac, no chat.
+Both buttons on a cockpit card are one click, no dialog. Each writes a request into
+`selections/<slug>.json`; that commit triggers `.github/workflows/search-10-more.yml`, which
+finds 10 fresh video candidates for that scene on GitHub's servers and commits them back.
+New options appear under the existing ones a few minutes later — no Mac, no chat.
 
-## One-time setup — add the API keys as repo Secrets
+| Button | Request | What the bot does |
+|---|---|---|
+| **🔎 Need more** | `topup_request` | more of the *same* kind. Library first, then the internet. |
+| **🔁 Direction is wrong** | `reshoot` with `reason:"direction"` | a *different* kind. Skips the library, lets the reviewer's note lead the query, and carries an **avoid** list built from the words that describe what is already on the card, so it cannot bring back the same look. |
+
+The reviewer's note is parsed: `less X` / `no X` / `not X` / `too X` become avoid terms;
+anything else is chased.
+
+## Library first
+`library/index.json` holds every clip we already own, faceted by subject, action, setting,
+scale, people and brand. A 🔎 click first promotes matching library clips whose *action*
+matches the beat (at most 40 % of the batch), then fills the rest from the internet. That is
+why clicks are fast and why footage recurs across lessons in a consistent voice. The library
+is stocked hourly by `harvest.yml`.
+
+## One-time setup — API keys as repo Secrets
 
 Repo → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**.
-Add these three (names must match exactly):
 
 | Secret name | Where it comes from |
 |---|---|
@@ -16,47 +30,41 @@ Add these three (names must match exactly):
 | `PIXABAY_API_KEY` | pixabay.com/api/docs |
 | `COVERR_API_KEY`  | coverr.co/api |
 
-To print your existing values locally:
-
-    grep -E 'PEXELS|PIXABAY|COVERR' ~/Broll-Studio/config/.env
-
-Secrets are never exposed in logs or to forks. Until they are set the Action still runs,
-falling back to keyless Wikimedia Commons — far fewer and weaker results.
+Secrets are never exposed in logs or to forks. Without them the Action still runs, falling
+back to keyless Wikimedia Commons — far fewer and weaker results.
 
 ## What it does / does not do
 
-- **Does**: 10 fresh videos per request, round-robin across Pexels/Pixabay/Coverr so no
-  single library fills the batch; skips anything already on the card (by source id and
-  page URL); starts deep in the result pages so you get new material, not page 1 again;
-  builds a 480p preview (20s cap) + thumb; appends to `scenes.json`; appends attribution
-  to the project's `CREDITS.md`; marks the request `done`.
-- **Does not**: curate. These are raw candidates — you are the curator at that moment.
-  A taste filter removes the known junk classes (end-cards, cartoons, green screen,
-  wildlife, flowers, abstract texture, office/corporate, ruins). Anything with tags must
-  positively show a person, their hands, or their work to be admitted at all.
+- **Does**: 10 fresh videos per request, round-robin across Pexels / Pixabay / Coverr so no
+  single source fills the batch; skips anything already on the card (by source id and page
+  URL); starts deep in the result pages; builds a 480p preview (20 s cap) + thumb and uploads
+  them to the lesson's Release; appends to `scenes.json` with a green **NEW** badge; appends
+  attribution to the project's `CREDITS.md`; marks the request `done`.
+- **Does not**: curate, or touch ticks. These are raw candidates — the reviewer is the curator.
+  An evidence-based taste filter admits a clip only if its title or tags positively show a
+  person, their hands, or their work, and rejects the known junk classes (end-cards, cartoons,
+  green screen, wildlife, flowers, abstract texture, office/corporate, ruins, factory crowds).
+  Profile is chosen from the slug: `belong-*` (warm Alentejo hospitality) vs Edenrise
+  (land and hands workers).
 - **Masters are never committed.** Each clip records `source`, `src_id`, `page_url` and
-  `download_url`, so the full-resolution file is re-fetchable by id at render time.
-  That keeps the repo (already ~2 GB of previews) from growing fast.
-
-New clips carry a green **NEW** badge in the cockpit until you act on them.
+  `download_url`; the full-resolution file is fetched per approved clip at render time.
 
 ## Safety rails
 
-- `concurrency: search-10-more` — runs queue, so two clicks can never rewrite the same
-  `scenes.json` at once.
-- The job skips its own commits (`[topup-bot]`), so it cannot loop.
-- Sparse checkout (`selections`, `tools`, `.github` + the one project it touches) keeps
-  the 2 GB repo from being cloned in full on every run.
-- Push retries with rebase 5× in case a human pushes at the same moment.
-- Max 8 scenes per run; anything beyond that is reported and picked up on the next run.
+- `concurrency: search-10-more` — runs queue, so two clicks never rewrite the same `scenes.json`.
+- The job skips its own commits (`[topup-bot]`) and the harvester's (`[harvest-bot]`), so it cannot loop.
+- Sparse, blobless checkout of `selections`, `tools`, `library`, `.github` plus the one project it touches.
+- Push retries with rebase 5× in case a human saves at the same moment.
+- Max 8 scenes per run; anything beyond is reported and picked up on the next run.
+- ffmpeg comes from a cached static build (`~/ffbin`), apt as fallback, so a run is ~90 s.
 
 ## Manual run
 
-Actions tab → **Search 10 more** → **Run workflow**. It processes every pending request
-in `selections/`, so it doubles as a catch-up if a click was missed.
+Actions tab → **Search 10 more** → **Run workflow**. It processes every pending request in
+`selections/`, so it doubles as a catch-up if a click was missed.
 
 ## Tuning
 
-Edit the `TOPUP_VIDEOS` env in the workflow (default 10). The taste lists live at the top
-of `topup_bot.py` — `POSITIVE` is the earn-your-place vocabulary, `JUNK` / `EDENRISE_BLOCK`
-/ `BELONG_BLOCK` are the exclusions. Profile is chosen from the slug (`belong-*` vs the rest).
+`TOPUP_VIDEOS` env in the workflow (default 10). Taste lists live at the top of
+`tools/topup_bot.py` — `POSITIVE` is the earn-your-place vocabulary, `JUNK` /
+`EDENRISE_BLOCK` / `BELONG_BLOCK` the exclusions. Library share cap is `LIB_SHARE`.
