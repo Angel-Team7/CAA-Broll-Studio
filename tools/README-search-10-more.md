@@ -67,4 +67,4 @@ Actions tab → **Search 10 more** → **Run workflow**. It processes every pend
 
 `TOPUP_VIDEOS` env in the workflow (default 10). Taste lists live at the top of
 `tools/topup_bot.py` — `POSITIVE` is the earn-your-place vocabulary, `JUNK` /
-`EDENRISE_BLOCK` / `BELONG_BLOCK` the exclusions. Library share cap is `LIB_SHARE`.
+`EDENRISE_BLOCK` / `BELONG_BLOCK` the exclusions. Library share cap is the `TOPUP_LIBRARY_SHARE` env (default 0.4).
