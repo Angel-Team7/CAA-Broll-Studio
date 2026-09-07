@@ -206,7 +206,7 @@
   {
    "id": "S02",
    "script_line": "Your self-talk is your beliefs speaking in sentences. \"I always get this wrong.\" \"I can learn this.\" But beliefs do not usually begin as proven facts. Something happens. You interpret what it means. That interpretation becomes a belief. The belief becomes self-talk. Self-talk influences action. Action creates a result. And the result becomes new evidence. So the pattern is: Event. Interpretation. Belief. Self-talk. Action. Result. If you want a different result, examine the pattern before the action.",
-   "visual_direction": "The sequence as a connected loop: a workplace event moving through interpretation, belief, internal dialogue, behaviour, result — then the result looping back as new evidence.",
+   "visual_direction": "The sequence as a connected loop — a workplace event moving through interpretation, belief, internal dialogue, behaviour, result; then the result looping back as new evidence.",
    "t": 29.79,
    "end": 63.31,
    "quota": {
@@ -392,7 +392,7 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Event to Interpretation to Belief to Self-Talk to Action to Result. Result becomes new evidence."
+   "onscreen": "Event → Interpretation → Belief → Self-Talk → Action → Result. Result becomes new evidence."
   },
   {
    "id": "S03",
@@ -1098,7 +1098,7 @@
   },
   {
    "id": "S05",
-   "script_line": "A winning belief is not fantasy. It is not \"I never make mistakes.\" Or \"Everything will be easy.\" A winning belief respects reality while putting you in the strongest position to respond. \"I can learn from mistakes.\" \"I can prepare for difficult conversations.\" \"I may not know yet, but I can find the next step.\" Do not choose a belief merely because it sounds positive. Choose it because it creates the thinking and actions most likely to produce the outcome you want. Ask: does this belief help me see clearly? Does it lead toward responsibility and useful action? And where will it take me if I r",
+   "script_line": "A winning belief is not fantasy. It is not \"I never make mistakes.\" Or \"Everything will be easy.\" A winning belief respects reality while putting you in the strongest position to respond. \"I can learn from mistakes.\" \"I can prepare for difficult conversations.\" \"I may not know yet, but I can find the next step.\" Do not choose a belief merely because it sounds positive. Choose it because it creates the thinking and actions most likely to produce the outcome you want. Ask: \"Does this belief help me see clearly?\" \"Does it lead toward responsibility and useful action?\" And: \"Where will it take me ",
    "visual_direction": "Contrast unrealistic positive statements with grounded, action-oriented beliefs. Employees preparing, learning, asking questions, taking practical next steps.",
    "t": 138.21,
    "end": 184.97,
@@ -1306,7 +1306,7 @@
   {
    "id": "S06",
    "script_line": "In U.S. Special Operations performance resources, effective self-talk is treated as a trainable skill that can support performance, learning, and motivation. It is not empty hype. It directs attention. Compare \"I can't handle this\" with \"Slow down. What is the next useful action?\" Compare \"I always mess things up\" with \"Review it. Correct it. Continue.\" Self-talk is belief in sentence form.",
-   "visual_direction": "People remaining composed in demanding professional situations: technical work, outdoor work, operational decisions, difficult conversations, time-sensitive problem-solving. Avoid combat imagery.",
+   "visual_direction": "People remaining composed in demanding professional situations — technical work, outdoor work, operational decisions, difficult conversations, time-sensitive problem-solving. Avoid combat imagery.",
    "t": 184.97,
    "end": 211.45,
    "quota": {
@@ -1688,7 +1688,7 @@
   },
   {
    "id": "S07",
-   "script_line": "So how do you change a belief? Use five steps. First: catch it. Listen for absolute self-talk. Always. Never. Can't. Or \"that's just who I am.\" Second: trace it. What belief is beneath the sentence? What experience — and what interpretation — helped create it? Third: test it. Which parts are facts? Which are interpretations? What evidence are you overlooking? Could someone else reach a different conclusion? Fourth: choose it. Choose a belief that is truthful, useful, and action-oriented. Not \"I'm already excellent at this\" but \"I can improve through practice, preparation, and feedback.\" Fifth:",
+   "script_line": "So how do you change a belief? Use five steps. First: Catch it. Listen for absolute self-talk: Always. Never. Can't. Or \"that's just who I am.\" Second: Trace it. What belief is beneath the sentence? What experience — and what interpretation — helped create it? Third: Test it. Which parts are facts? Which are interpretations? What evidence are you overlooking? Could someone else reach a different conclusion? Fourth: Choose it. Choose a belief that is truthful, useful, and action-oriented. Not \"I'm already excellent at this\" but \"I can improve through practice, preparation, and feedback.\" Fifth:",
    "visual_direction": "Each step appearing one at a time. As the person moves through the process, remove legs from the limiting-belief table and build a stronger table beneath the new belief.",
    "t": 211.45,
    "end": 265.24,
@@ -1879,12 +1879,12 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "1. Catch it 2. Trace it 3. Test it 4. Choose it 5. Prove it"
+   "onscreen": "1. Catch it  2. Trace it  3. Test it  4. Choose it  5. Prove it"
   },
   {
    "id": "S08",
-   "script_line": "Suppose someone believes \"I'm bad at solving problems.\" Their self-talk says \"I won't know what to do.\" So they avoid the problem or pass it on. They gain less experience, and the belief appears to be confirmed. Now replace it with \"I can break problems into steps and ask for input when I need it.\" That leads to a different response. Define the problem. Gather the facts. Try one step. Learn from the result. Each action creates new evidence. You do not have to feel completely certain before acting. Act in a way that gives the stronger belief a chance to become credible.",
-   "visual_direction": "The old cycle first: limiting belief, avoidance, lack of practice, apparent confirmation. Then reversed: winning belief, practical action, learning, new evidence.",
+   "script_line": "Suppose someone believes: \"I'm bad at solving problems.\" Their self-talk says: \"I won't know what to do.\" So they avoid the problem or pass it on. They gain less experience, and the belief appears to be confirmed. Now replace it with: \"I can break problems into steps and ask for input when I need it.\" That leads to a different response: Define the problem. Gather the facts. Try one step. Learn from the result. Each action creates new evidence. You do not have to feel completely certain before acting. Act in a way that gives the stronger belief a chance to become credible.",
+   "visual_direction": "The old cycle first — limiting belief, avoidance, lack of practice, apparent confirmation. Then reversed — winning belief, practical action, learning, new evidence.",
    "t": 265.24,
    "end": 308.28,
    "quota": {
@@ -2095,14 +2095,14 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Old belief to avoidance to less experience to more old evidence. Winning belief to action to learning to new evidence."
+   "onscreen": "Old belief → Avoidance → Less experience → More old evidence. Winning belief → Action → Learning → New evidence."
   },
   {
    "id": "S09",
-   "script_line": "Here is your challenge. Write down one limiting sentence you regularly say to yourself. Identify the belief beneath it. Imagine it as the top of a table. What are the legs? Which are facts, and which are interpretations? Now choose a winning belief that would help you create a better outcome. Then take one action within the next twenty-four hours to begin building evidence for it. For example, old belief: \"I'm not confident.\" Winning belief: \"Confidence grows when I prepare and act.\" New evidence: prepare one useful contribution — and say it. Beliefs are not fixed possessions. They are conclus",
+   "script_line": "Here is your challenge. Write down one limiting sentence you regularly say to yourself. Identify the belief beneath it. Imagine it as the top of a table. What are the legs? Which are facts, and which are interpretations? Now choose a winning belief that would help you create a better outcome. Then take one action within the next 24 hours to begin building evidence for it. For example — Old belief: \"I'm not confident.\" Winning belief: \"Confidence grows when I prepare and act.\" New evidence: Prepare one useful contribution — and say it. Beliefs are not fixed possessions. They are conclusions you",
    "visual_direction": "Person writes down an old belief, draws the table and its legs, crosses out an unhelpful interpretation, writes a winning belief, and takes one visible action.",
    "t": 308.28,
-   "end": 361.66,
+   "end": 361.24,
    "quota": {
     "video": 7,
     "image": 3
