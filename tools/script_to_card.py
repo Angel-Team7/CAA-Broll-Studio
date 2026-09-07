@@ -74,9 +74,16 @@ def parse_prose(text):
     return scenes
 
 def card_is_audio_timed(slug):
+    """A card is authoritative over a plain-prose doc when it is timed to the
+    recorded narration, or when it is a legacy card that already carries lines
+    for most of its scenes (built from the real narration before timing_source
+    existed). Only empty or mostly-empty cards get rebuilt from prose."""
     card_p = ROOT / "projects" / slug / "scenes.json"
     if not card_p.exists(): return False
-    return any(s.get("timing_source") == "narration" for s in json.load(open(card_p))["scenes"])
+    sc = json.load(open(card_p))["scenes"]
+    if any(s.get("timing_source") == "narration" for s in sc): return True
+    with_lines = sum(1 for s in sc if (s.get("script_line") or "").strip())
+    return bool(sc) and with_lines * 2 >= len(sc)
 
 def apply(slug, scenes, title=None):
     card_p = ROOT / "projects" / slug / "scenes.json"
@@ -117,7 +124,7 @@ if __name__ == "__main__":
     scenes = parse(text)
     if not scenes:
         if card_is_audio_timed(slug):
-            print(f"{slug}: plain-prose script, card already timed to the recorded narration — card is authoritative, nothing written")
+            print(f"{slug}: plain-prose script, card already carries the narration — card is authoritative, nothing written")
             sys.exit(0)
         scenes = parse_prose(text)
         if not scenes: sys.exit("no narration found in the script")

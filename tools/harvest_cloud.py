@@ -120,6 +120,14 @@ def main():
             cf.write_text("# Credits — shared library\n\n| source | title | author | license | page |\n|---|---|---|---|---|\n")
         with open(cf, "a") as fh: fh.write("\n".join(credits) + "\n")
     print(f"HARVESTED={added}  library now {len(assets)} assets")
+    # one line per run so the week's stocking can be tracked without reading Actions logs
+    log = ROOT / "library" / "harvest_log.jsonl"
+    brands = {}
+    for a in assets[-added:] if added else []:
+        brands[a.get("brand", "?")] = brands.get(a.get("brand", "?"), 0) + 1
+    with open(log, "a") as fh:
+        fh.write(json.dumps({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "added": added,
+                             "themes": len(ths), "thin": len(thin), "library": len(assets), "by_brand": brands}) + "\n")
 
 if __name__ == "__main__":
     main()
