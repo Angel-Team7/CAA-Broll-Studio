@@ -1,14 +1,14 @@
 name: Harvest B-roll
 
 # Stocks the shared library ahead of demand so 🔎 / 🔁 promote off the shelf.
-# Hourly, working hours Mon–Fri (UTC). Runs entirely on GitHub; no Mac involved.
+# Hourly, every day (UTC). Runs entirely on GitHub; no Mac involved.
 on:
   # a script intake (the Claude routine committing new/changed cards) starts a gather
   push:
     branches: [main]
     paths: ['projects/**/scenes.json']
   schedule:
-    - cron: '17 7-18 * * 1-5'
+    - cron: '17 * * * *'
   workflow_dispatch:
     inputs:
       budget:
