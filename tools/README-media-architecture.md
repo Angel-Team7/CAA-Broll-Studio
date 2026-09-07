@@ -22,8 +22,8 @@
 
 | Job | Runs where | Trigger | Does |
 |---|---|---|---|
-| **Script intake** (`tools/script_to_card.py`) | Claude cloud routine "B-roll script intake — Drive → cockpit", weekdays 08:17–19:17 Lisbon, hourly | schedule | reads the Drive folder through the Google Drive connector, cards every new/changed EN doc that has `SCENE` headers, records what it saw in `library/drive_seen.json`, commits `[intake-bot]`. Plain-prose docs (no SCENE structure) are skipped and named in the run report — it never guesses a split. Clips untouched. |
-| **Harvest** (`tools/harvest_cloud.py`, `.github/workflows/harvest.yml`) | GitHub Action | hourly Mon–Fri + any `scenes.json` push | stocks the shared library by every beat on every card, thin beats first, so clicks promote off the shelf instead of hitting the internet. Budgeted per run; masters never stored. |
+| **Script intake** (`tools/script_to_card.py`) | Claude cloud routine "B-roll script intake — Drive → cockpit", hourly, every day (minute 17) | schedule | reads the Drive folder through the Google Drive connector, cards every new/changed EN doc that has `SCENE` headers, records what it saw in `library/drive_seen.json`, commits `[intake-bot]`. Plain-prose docs (no SCENE structure) are skipped and named in the run report — it never guesses a split. Clips untouched. |
+| **Harvest** (`tools/harvest_cloud.py`, `.github/workflows/harvest.yml`) | GitHub Action | hourly, every day + any `scenes.json` push | stocks the shared library by every beat on every card, thin beats first, so clicks promote off the shelf instead of hitting the internet. Budgeted per run (30 clips, thin beats first); masters never stored. Each run appends one line to `library/harvest_log.jsonl` — the week's stocking record. |
 | **Search 10 more / Direction is wrong** (`tools/topup_bot.py`, `.github/workflows/search-10-more.yml`) | GitHub Action | a click (push to `selections/**.json`) | see `README-search-10-more.md` |
 | `tools/fetch_masters.py` | the Mac | before a render | downloads the master of every approved clip to the SSD |
 
@@ -34,7 +34,9 @@
   routine reads Drive fine but every push is refused with 403 and the commit is lost with the sandbox.
   Manage the routine at https://claude.ai/code/routines .
 - **Workflow files** need a token with `workflow` scope to push. The everyday push token does not
-  have it, so new or edited `.github/workflows/*.yml` are pasted in through the GitHub web editor.
+  have it. Stage new or edited yml under `tools/workflows-pending/` and run the routine
+  "Cockpit — install workflow files" (https://claude.ai/code/routines); the Claude GitHub App has the
+  permission and moves them into `.github/workflows/`.
 
 ## Adding a lesson
 1. Put the script in the right Drive folder as `<Title> — EN`, using `SCENE n —` headers with
