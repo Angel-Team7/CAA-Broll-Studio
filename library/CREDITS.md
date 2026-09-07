@@ -77,3 +77,33 @@
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-making-jewelry-6263170/ |
 | pexels |  | Basit Manzoor | Pexels License | https://www.pexels.com/video/traditional-ironing-in-a-local-workshop-37631408/ |
 | pexels |  | Emre Vonal | Pexels License | https://www.pexels.com/video/snapshots-from-ironworks-14146429/ |
+| pexels |  | Israel Torres | Pexels License | https://www.pexels.com/video/a-group-of-people-sitting-at-tables-in-a-restaurant-20559735/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/public-speaking-at-event-18192463/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/event-artificial-intelligence-18192389/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/aerial-view-of-countryside-with-small-buildings-35663997/ |
+| pexels |  | Akey jarwal | Pexels License | https://www.pexels.com/video/man-walking-in-peacful-outdoor-park-aerial-view-38985320/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/aerial-view-of-agricultural-field-and-buildings-35663991/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-joiner-using-a-grinding-machine-to-smoothen-the-wooden-tabletop-4957774/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-using-a-grinding-machine-to-smoothen-the-wooden-surface-4957770/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/craft-workshop-cut-handmade-4455878/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-checking-the-engine-of-the-car-8986475/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-person-holding-a-car-engine-8986879/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-road-construction-process-34100762/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/man-walking-towards-the-forklift-inside-the-warehouse-4294434/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/warehouse-female-employee-preparing-order-6169090/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/a-man-pulling-a-pallet-crate-full-of-stocks-4281235/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/man-packing-knives-11344093/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/man-holding-tools-8987218/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-putting-power-tool-on-table-7541835/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-putting-towels-in-a-washing-machine-8756941/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-wiping-the-wall-in-living-room-6197074/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-cleaning-the-wall-6197555/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/man-using-painting-knife-for-painting-6931945/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/a-woman-painting-the-wall-while-drinking-glass-of-water-5799478/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/building-painter-in-overalls-and-face-mask-6474184/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-using-a-tailors-chalk-6764970/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/drilling-a-hole-on-wood-855422/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/marking-a-piece-of-wood-with-chalk-5972124/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/factory-textile-worker-operating-machinery-31369405/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-worker-operating-machinery-31007055/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/worker-operating-industrial-textile-machine-32243777/ |
