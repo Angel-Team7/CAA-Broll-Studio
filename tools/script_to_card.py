@@ -20,6 +20,8 @@ WPM = 145.0
 
 def parse(text):
     text = text.replace("\r", "")
+    # the checkpoint / closing block is not a scene — cut it off before splitting
+    text = re.split(r"\n\s*(?:🎥\s*)?CHECKPOINT\b", "\n" + text, maxsplit=1)[0]
     # split on scene headers of either style
     parts = re.split(r"\n\s*(?:🎥\s*)?(?:\[SCENE\s*(\d+)\]|SCENE\s+(\d+)\s*[—-])", "\n" + text)
     scenes = []
