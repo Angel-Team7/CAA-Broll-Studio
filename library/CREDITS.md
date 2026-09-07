@@ -47,3 +47,33 @@
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/skilled-textile-worker-operating-machine-in-factory-31373754/ |
 | pexels |  | Mohamed  Saied | Pexels License | https://www.pexels.com/video/street-market-scene-with-two-vendors-working-39148959/ |
 | pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/person-operating-industrial-textile-machine-32244733/ |
+| pixabay | site  work  construction site  excavators | _Leon | Pixabay Content License | https://pixabay.com/videos/id-40132/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/creepy-clown-with-hammer-running-in-corridor-5427489/ |
+| pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/team-workshop-presentation-in-modern-workspace-38749409/ |
+| pexels |  | Thanh Văn | Pexels License | https://www.pexels.com/video/urban-waste-pile-outdoors-in-sunny-day-28827630/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-landscape-with-houses-and-garden-35664085/ |
+| pexels |  | Waqas Ahmad Wicky | Pexels License | https://www.pexels.com/video/a-group-of-people-cleaning-up-the-tree-branches-6582751/ |
+| pexels |  | Om Prakash | Pexels License | https://www.pexels.com/video/industrial-welding-process-in-factory-setting-38533876/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-craftsman-using-a-drilling-machine-in-making-a-skateboard-4889118/ |
+| pexels |  | Dmitriy Steinke | Pexels License | https://www.pexels.com/video/efficient-textile-fabric-cutting-at-factory-38343242/ |
+| pexels |  | Eric Skaggs | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-school-with-a-roof-20731379/ |
+| pexels |  | Denis Gvozdov | Pexels License | https://www.pexels.com/video/workers-cleaning-parking-lot-with-power-washer-31563933/ |
+| pexels |  | Site Engine | Pexels License | https://www.pexels.com/video/time-lapse-video-of-a-construction-site-8598730/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/frustrated-worker-checking-logistics-5100047/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-guy-grabbing-the-paper-bag-from-the-van-6406107/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-with-orange-helmet-getting-into-forklift-5100048/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/tools-in-sculpting-on-a-wooden-surface-6719217/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/close-up-video-of-a-tools-8470004/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/tools-to-shape-wood-5215224/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-wiping-glass-window-6197561/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-wiping-a-glass-window-6196262/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-cleaning-car-wheel-4822723/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/using-a-roller-to-paint-the-wall-5500752/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-painting-with-a-paint-brush-6957408/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-holding-a-brush-and-a-paint-roller-5583186/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-measuring-the-wood-6789595/ |
+| pexels |  | Anil  Sharma | Pexels License | https://www.pexels.com/video/precision-woodworking-marking-and-drilling-guide-30590786/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-leveling-a-wall-7816449/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-making-jewelry-6263170/ |
+| pexels |  | Basit Manzoor | Pexels License | https://www.pexels.com/video/traditional-ironing-in-a-local-workshop-37631408/ |
+| pexels |  | Emre Vonal | Pexels License | https://www.pexels.com/video/snapshots-from-ironworks-14146429/ |
