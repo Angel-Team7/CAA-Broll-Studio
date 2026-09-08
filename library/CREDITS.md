@@ -107,3 +107,33 @@
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/factory-textile-worker-operating-machinery-31369405/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-worker-operating-machinery-31007055/ |
 | pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/worker-operating-industrial-textile-machine-32243777/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-hiding-behind-a-wall-6756332/ |
+| pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/university-team-meeting-with-diverse-staff-38493699/ |
+| pexels |  | Matheus Bertelli | Pexels License | https://www.pexels.com/video/a-group-of-people-sitting-at-tables-in-a-room-19229819/ |
+| pexels |  | Erkan Avanoğlu | Pexels License | https://www.pexels.com/video/group-of-people-cleaning-the-floor-5983927/ |
+| pexels |  | Mustafa  Fatemi | Pexels License | https://www.pexels.com/video/aerial-view-of-residential-development-area-39367220/ |
+| pexels |  | Finn McGuire | Pexels License | https://www.pexels.com/video/drone-footage-of-cars-in-a-parking-lot-8171135/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-melting-materials-6263478/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-measuring-a-piece-of-leather-5963506/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-joiner-using-a-grinding-machine-to-smoothen-the-wooden-surface-4957772/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-mechanic-at-work-7541838/ |
+| pexels |  | Josh Tavernier | iCapture Media Digital Marketing Agency | Pexels License | https://www.pexels.com/video/construction-worker-leading-heavy-road-repair-machinery-18676765/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-assisting-a-truck-mechanic-7018510/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-counting-package-7835669/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-delivery-man-going-up-the-stair-while-carrying-a-thermal-bag-7702057/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-woman-carrying-a-thermal-bag-7702042/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/closeup-video-of-tools-5637833/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/person-get-the-protective-goggles-8470011/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/hammer-rack-in-smithy-workshop-5846397/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/person-cleaning-the-gear-shifter-4822919/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-with-face-mask-and-gloves-vacuuming-floor-6197567/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/front-view-of-woman-wiping-6196254/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-video-of-a-paint-brush-6957578/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/person-wiping-white-paint-on-a-paint-brush-7280049/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-carrying-a-bucket-with-painting-materials-5583187/ |
+| pexels |  | Ethan Ngure | Pexels License | https://www.pexels.com/video/skilled-welder-at-work-with-precision-tools-37318145/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/men-working-together-5391399/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-using-level-ruler-6474281/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/professional-worker-in-modern-textile-factory-31007054/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-handling-textile-rolls-31529027/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-repairing-a-broken-phone-6754828/ |
