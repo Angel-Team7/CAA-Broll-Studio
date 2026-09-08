@@ -197,3 +197,33 @@
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/jeweler-working-with-equipment-6263476/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-sorting-clothes-31360108/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-work-in-action-31656805/ |
+| pexels |  | Musko io | Pexels License | https://www.pexels.com/video/women-discussing-about-documents-13892558/ |
+| pixabay | wood  timber  wooden  tools  production workshop  woodworkin | AliceSilver | Pixabay Content License | https://pixabay.com/videos/id-91376/ |
+| pixabay | garage  workshop  mechanic  service  car  auto  repair  main | VariousPhotography | Pixabay Content License | https://pixabay.com/videos/id-11576/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-man-drinking-in-a-glass-7538436/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-doing-a-ritual-7521804/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-group-of-people-meditating-at-the-mountain-top-7424288/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/panning-shot-of-a-person-s-hand-7298375/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-man-applying-shaving-gel-7686561/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-shot-of-hands-with-soil-6628029/ |
+| pexels |  | Emrul Kausar Emon | Pexels License | https://www.pexels.com/video/motorcycle-factory-worker-operating-computer-30075965/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-worker-in-action-31369302/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-folding-fabric-efficiently-31369299/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-mother-and-her-daughter-doing-housework-together-10558008/ |
+| pexels |  | David Smith | Pexels License | https://www.pexels.com/video/a-person-mopping-clean-a-comfort-room-2517780/ |
+| pexels |  | Marc Curtis | Pexels License | https://www.pexels.com/video/traditional-rice-drying-process-with-broom-948399/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150317/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150331/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150348/ |
+| pexels |  | Diego Castro Calderon | Pexels License | https://www.pexels.com/video/worker-cleaning-machinery-in-industrial-setting-35548151/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-makeup-brush-in-a-mirror-4718660/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-a-stack-of-bath-products-8297367/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-writing-on-a-sticky-note-7844882/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-of-a-person-writing-in-a-notebook-8554164/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-writing-on-pink-sticky-notes-7429485/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-looking-at-camera-8387577/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/police-officer-drinking-coffee-in-car-10466306/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/man-and-woman-running-at-night-8101852/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-worker-at-modern-factory-31529055/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-modern-factory-31465188/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-worker-operating-machinery-31370993/ |
