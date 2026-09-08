@@ -167,3 +167,33 @@
 | pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/a-defective-television-with-a-cracked-screen-6955107/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/young-man-measuring-metal-piece-5846651/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-working-pencil-paper-5846462/ |
+| pexels |  | Airam Dato-on | Pexels License | https://www.pexels.com/video/engaging-conference-room-presentation-with-audience-34013015/ |
+| pexels |  | Henri Mathieu-Saint-Laurent | Pexels License | https://www.pexels.com/video/man-discussing-on-the-stage-8244203/ |
+| pexels |  | osama naser | Pexels License | https://www.pexels.com/video/drone-footage-of-a-town-in-ruins-8012092/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-woman-receiving-reiki-energy-healing-9737990/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-spending-time-with-her-daughter-6958242/ |
+| pexels |  | Antoni Shkraba | Pexels License | https://www.pexels.com/video/a-group-of-people-in-therapy-7525398/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-removing-a-watch-on-the-wrist-6328385/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/extreme-close-up-shot-of-a-person-s-fingers-7298020/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-buttoning-a-fabric-9057923/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135892/ |
+| pixabay | welder  industry  industrial  metal  steel  vehicle  technol | messden | Pixabay Content License | https://pixabay.com/videos/id-135851/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135891/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-sweeping-the-floor-3967259/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-person-cleaning-outdoors-using-broom-8125970/ |
+| pexels |  | Phillips Vinegar | Pexels License | https://www.pexels.com/video/elderly-woman-sweeping-in-school-6390313/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150353/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150364/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150347/ |
+| pixabay | airport  slide  slider  passengers  plane  gate  waiting  si | Activedia | Pixabay Content License | https://pixabay.com/videos/id-1383/ |
+| pixabay | paint  colorful  drops  slow  painting  creative  artist  pa | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-22910/ |
+| pixabay | paint  art  acrylic  bg  backdrop  colorful  colors  paintin | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-38660/ |
+| pixabay | internet cafe  library  workstations  computers  notebooks   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-156/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/a-person-writing-on-white-board-12283364/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-sticky-note-9057503/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/notes-7651767/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/police-officers-wearing-sunglasses-7713978/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/police-officer-with-flashlight-at-night-10482448/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/jeweler-working-with-equipment-6263476/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-sorting-clothes-31360108/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-work-in-action-31656805/ |
