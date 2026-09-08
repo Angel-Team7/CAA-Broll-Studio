@@ -137,3 +137,33 @@
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/professional-worker-in-modern-textile-factory-31007054/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-handling-textile-rolls-31529027/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-repairing-a-broken-phone-6754828/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/presenting-16873580/ |
+| pexels |  | Vitalis Nwenyi | Pexels License | https://www.pexels.com/video/vibrant-art-gathering-in-lagos-outdoor-lounge-28599279/ |
+| pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/interactive-workshop-in-modern-classroom-setting-38749411/ |
+| pexels |  | Bhupal Shrestha | Pexels License | https://www.pexels.com/video/aerial-view-of-industrial-buildings-and-greenery-31677214/ |
+| pixabay | wash  hands  soap  tap  water  clean  bath | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4906/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-and-woman-are-working-on-a-car-4482068/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-drawing-a-plan-on-a-sketchpad-4957776/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-person-using-a-beveler-on-a-piece-of-leather-4452760/ |
+| pixabay | street  man  worker  vietnam  life | bianhpro1st | Pixabay Content License | https://pixabay.com/videos/id-45686/ |
+| pexels |  | Site Engine | Pexels License | https://www.pexels.com/video/time-lapse-of-a-construction-area-7825539/ |
+| pexels |  | Dimaorco Ortiz | Pexels License | https://www.pexels.com/video/aerial-view-of-construction-workers-working-on-a-road-27808937/ |
+| pexels |  | Аман Смагулов | Pexels License | https://www.pexels.com/video/a-truck-is-being-used-to-move-a-road-27104367/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/warehouse-worker-placing-boxes-in-shelves-5100052/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/guy-posing-with-mop-6196257/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-mopping-the-floor-6195526/ |
+| pixabay | fabric  cutter  knives  cutting table  tool  work  man  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115789/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150362/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150341/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/man-cleaning-the-sidewalk-with-a-power-spray-6160414/ |
+| pexels |  | thiago rizardi | Pexels License | https://www.pexels.com/video/man-cleaning-a-comfort-romm-1191928/ |
+| pixabay | industry  factory  steel  iron  iron bars  workers  hard wor | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40054/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-painting-with-a-paint-brush-6957616/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-painting-the-wall-6764455/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/young-man-posing-with-toolbox-6474366/ |
+| pexels |  | Startup MrParag | Pexels License | https://www.pexels.com/video/man-grinding-pipes-10723792/ |
+| pixabay | worker  early  morning  people  shiva  person  field work  f | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1635/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-sticky-notes-7392969/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/a-defective-television-with-a-cracked-screen-6955107/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/young-man-measuring-metal-piece-5846651/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-working-pencil-paper-5846462/ |
