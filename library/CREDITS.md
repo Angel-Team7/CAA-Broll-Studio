@@ -227,3 +227,33 @@
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-worker-at-modern-factory-31529055/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-modern-factory-31465188/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-worker-operating-machinery-31370993/ |
+| pixabay | auto parts  manufacturing  workshop | we-o_rd35pxa9_zqvu1rca | Pixabay Content License | https://pixabay.com/videos/id-141581/ |
+| pixabay | welding  tig welding  stainless steel  acid-resistant steel  | ArturLuczka | Pixabay Content License | https://pixabay.com/videos/id-15476/ |
+| pixabay | car  station  service  auto  garage  vehicle  transportation | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-177401/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-group-of-people-meditating-on-top-of-a-mountain-7424290/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/woman-on-a-session-with-therapist-7200201/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-holding-watering-can-9157973/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-s-hands-with-red-nails-and-a-ring-4661347/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-rolling-a-cannabis-10477475/ |
+| pexels |  | Ahimsa -  OM | Pexels License | https://www.pexels.com/video/makeup-application-tutorial-with-cosmetic-products-34719957/ |
+| pixabay | agriculture  tractor  planting  field  farm  machine  indust | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1098/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-worker-folding-red-fabrics-31371174/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/skilled-textile-worker-in-modern-factory-31352803/ |
+| pexels |  | Obzen Marketing | Pexels License | https://www.pexels.com/video/a-person-mopping-the-floor-8354418/ |
+| pexels |  | Shahbaz Ali | Pexels License | https://www.pexels.com/video/woman-sweeping-the-street-9004319/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150316/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150367/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150339/ |
+| pixabay | architect  construction  builder  engineer  architecture  wo | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-192703/ |
+| pixabay | woman  coffe  tea  drink  room  comfortable  working  busine | atiqurrahman0047 | Pixabay Content License | https://pixabay.com/videos/id-86867/ |
+| pixabay | paint  art  acrylic  backdrop  colorful  colors  painting  w | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-38653/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/close-up-video-of-paint-brushes-8158272/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/creative-workspace-with-sticky-notes-and-planner-32090009/ |
+| pexels |  | Bonus Studio | Pexels License | https://www.pexels.com/video/office-people-writing-notes-on-post-its-6062525/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-on-a-notepad-8134336/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/volunteers-looking-for-a-missing-boy-10366106/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/a-police-officer-talking-on-the-radio-7784742/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-woman-making-jewelry-6263748/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/skilled-textile-worker-operating-machinery-31369724/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-checking-the-engine-of-the-car-8986485/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-repairing-a-truck-6685026/ |
