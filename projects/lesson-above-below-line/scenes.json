@@ -960,7 +960,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S14__thumb__S14_bS26_next-lesson.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S14__preview__S14_bS26_next-lesson.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S14__strip__S14_bS26_next-lesson.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat and vest watches a large fenced building site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-fenced-site-observer",
+     "score": 1.35,
+     "judged_at": "2026-09-09T20:05:56Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -991,7 +1001,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:05:56Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:05:56Z"
   }
  ]
 }

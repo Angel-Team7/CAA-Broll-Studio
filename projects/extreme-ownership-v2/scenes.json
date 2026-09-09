@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_5100051_hardhat-man-thinking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_5100051_hardhat-man-thinking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pexels_5100051_hardhat-man-thinking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a warehouse worker checks a clipboard beside a forklift",
+     "violation": "warehouse/forklift industrial setting, not the brand's world",
+     "shot": "",
+     "shoot": "pexels-warehouse-clipboard",
+     "score": 0.0,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pexels_6195151_two-workers-looking-at-mistake",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_6473959_construction-worker-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_6473959_construction-worker-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pexels_6473959_construction-worker-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a bearded worker in a hard hat looks up thoughtfully holding a tablet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-thoughtful-worker",
+     "score": 2.05,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8488068_worker-pointing-blame",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_8488068_worker-pointing-blame.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_8488068_worker-pointing-blame.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pexels_8488068_worker-pointing-blame.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two workers in hard hats and goggles look closely at something together",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-workers-inspecting",
+     "score": 2.7,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8829703_builder-serious-face",
@@ -64,7 +94,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_8829703_builder-serious-face.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_8829703_builder-serious-face.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pexels_8829703_builder-serious-face.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "a young builder reaches up to a wooden roof frame among trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-roof-frame-builder",
+     "score": 1.75,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8963858_arms-crossed-builder",
@@ -76,7 +116,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_8963858_arms-crossed-builder.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_8963858_arms-crossed-builder.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pexels_8963858_arms-crossed-builder.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "a worker stands with arms crossed before a large industrial crane structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-arms-crossed-crane",
+     "score": 2.95,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_122389_hardhat-man-thinking",
@@ -88,7 +138,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pixabay_122389_hardhat-man-thinking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pixabay_122389_hardhat-man-thinking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pixabay_122389_hardhat-man-thinking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a man gestures toward his chest while speaking in a studio interview",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-studio-interview",
+     "score": 1.65,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_40816_builder-serious-face",
@@ -100,7 +160,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pixabay_40816_builder-serious-face.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pixabay_40816_builder-serious-face.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pixabay_40816_builder-serious-face.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "an older worker in a hi-vis vest bends to work on a street with a tool",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-worker",
+     "score": 1.4,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pixabay_42923_construction-worker-portrait",
@@ -112,7 +182,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pixabay_42923_construction-worker-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pixabay_42923_construction-worker-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pixabay_42923_construction-worker-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of workers on scaffolding across a large multi-story building",
+     "violation": "large-scale high-rise construction with scaffolding gangs, explicit never-list items",
+     "shot": "",
+     "shoot": "pixabay-highrise-scaffold-aerial",
+     "score": 0.0,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "pixabay_50019_disappointed-tradesman",
@@ -124,7 +204,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pixabay_50019_disappointed-tradesman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pixabay_50019_disappointed-tradesman.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__strip__pixabay_50019_disappointed-tradesman.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a young couple looks at phones at an outdoor picnic table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-picnic-phones",
+     "score": 0.35,
+     "judged_at": "2026-09-09T20:04:56Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_6566822_frustrated-builder-pointing",
@@ -196,7 +286,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:04:56Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:04:56Z"
   },
   {
    "id": "S02",
@@ -213,7 +309,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_31193232_site-supervisor-hi-vis.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_31193232_site-supervisor-hi-vis.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_31193232_site-supervisor-hi-vis.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in a hi-vis vest confidently smooths fresh concrete on a small site",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-concrete-trowel-site",
+     "score": 6.0,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6473959_construction-foreman-portrait",
@@ -225,7 +331,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_6473959_construction-foreman-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_6473959_construction-foreman-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_6473959_construction-foreman-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a bearded worker in a hard hat looks up thoughtfully holding a tablet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-thoughtful-worker",
+     "score": 3.7,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_6474357_hardhat-worker-confident",
@@ -237,7 +353,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_6474357_hardhat-worker-confident.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_6474357_hardhat-worker-confident.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_6474357_hardhat-worker-confident.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a worker in a hard hat stands tall and calm facing the camera indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-standing-tall-worker",
+     "score": 6.65,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6474370_foreman-portrait-site",
@@ -259,7 +385,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_8487987_determined-builder.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_8487987_determined-builder.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_8487987_determined-builder.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a smiling worker in a hard hat holds up a power drill",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-smiling-drill-worker",
+     "score": 5.35,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8488305_hardhat-worker-confident",
@@ -271,7 +407,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_8488305_hardhat-worker-confident.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_8488305_hardhat-worker-confident.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_8488305_hardhat-worker-confident.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a close-up of a worker's calm, resolved face in a hard hat indoors",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-resolved-face-worker",
+     "score": 6.0,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8963857_foreman-portrait-site",
@@ -283,7 +429,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_8963857_foreman-portrait-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_8963857_foreman-portrait-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_8963857_foreman-portrait-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a worker with a radio points and directs amid a huge crane structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-crane-directing",
+     "score": 2.3,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_8964296_worker-standing-tall",
@@ -295,7 +451,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_8964296_worker-standing-tall.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_8964296_worker-standing-tall.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pexels_8964296_worker-standing-tall.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "a worker stands facing the camera amid a huge yellow crane structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-crane-directing",
+     "score": 3.95,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_85350_construction-foreman-portrait",
@@ -307,7 +473,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pixabay_85350_construction-foreman-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pixabay_85350_construction-foreman-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__strip__pixabay_85350_construction-foreman-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a worker shovels sand while laying stone pavers outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-construction-pavers",
+     "score": 2.7,
+     "judged_at": "2026-09-09T20:05:39Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "openverse_e2ef2271-74a7-44fe-b0ad-6e30_construction-foreman-portrait",
@@ -399,7 +575,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "judged_at": "2026-09-09T20:05:39Z"
   },
   {
    "id": "S03",
