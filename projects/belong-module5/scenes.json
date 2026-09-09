@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__thumb__pexels_17811913_person-scrolling-dreaming.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__preview__pexels_17811913_person-scrolling-dreaming.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__strip__pexels_17811913_person-scrolling-dreaming.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands scroll through photos on a smartphone",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-scrolling-phone",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:42:33Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_18041671_woman-laptop-cozy-evening",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__thumb__pixabay_107573_woman-laptop-cozy-evening.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__preview__pixabay_107573_woman-laptop-cozy-evening.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__strip__pixabay_107573_woman-laptop-cozy-evening.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a cozy cabin bedroom glows warmly as snow falls outside",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cozy-cabin-evening",
+     "score": 3.35,
+     "judged_at": "2026-09-09T17:42:33Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6585976_woman-laptop-cozy-evening",
@@ -82,7 +102,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:42:33Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:42:33Z"
   },
   {
    "id": "S02",
