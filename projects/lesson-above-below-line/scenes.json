@@ -18,7 +18,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S01__thumb__S01_bS01_opener-title.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S01__preview__S01_bS01_opener-title.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "lush tree-lined garden avenue in morning light, a figure walking in",
+     "pexels": "tree lined garden avenue morning light walking",
+     "pixabay": "garden avenue trees morning path",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "sunrise over resort grounds",
+     "pexels": "sunrise over garden grounds",
+     "pixabay": "sunrise garden grounds",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of dappled light on a path",
+     "pexels": "dappled light on garden path close",
+     "pixabay": "dappled light path",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "intense portrait",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S02",
@@ -35,7 +65,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S02__thumb__S02_bS03_every-day.-something-happens.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S02__preview__S02_bS03_every-day.-something-happens.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two grounds workers reviewing a job on site",
+     "pexels": "two grounds workers reviewing job",
+     "pixabay": "grounds workers reviewing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a broken sprinkler head",
+     "pexels": "broken sprinkler head close",
+     "pixabay": "broken sprinkler close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a yard where something has gone wrong, a fallen pot",
+     "pexels": "fallen pot yard wide",
+     "pixabay": "fallen pot garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S03",
@@ -52,7 +111,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S03__thumb__S03_bS05_below-the-line-somethings-off.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S03__preview__S03_bS05_below-the-line-somethings-off.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker bent over a task, tired, concerned",
+     "pexels": "worker bent over task tired concerned",
+     "pixabay": "worker tired concerned",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand rubbing a brow",
+     "pexels": "hand rubbing brow close outdoors",
+     "pixabay": "hand brow tired close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a worker sitting on a step, head down",
+     "pexels": "worker sitting on step head down",
+     "pixabay": "worker sitting head down",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S04",
@@ -99,7 +188,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__thumb__S04_opt4_dismissive-walk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__preview__S04_opt4_dismissive-walk.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a figure walking away down a calm garden path",
+     "pexels": "figure walking away garden path",
+     "pixabay": "walking away garden path",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker shrugging and turning away from a task",
+     "pexels": "worker shrugging turning away",
+     "pixabay": "worker shrug turning away",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a tool left on the ground",
+     "pexels": "tool left on ground close",
+     "pixabay": "tool ground left close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S05",
@@ -146,7 +264,38 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__thumb__S05_opt4_arms-crossed-frown.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__preview__S05_opt4_arms-crossed-frown.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "man outdoors, closed-off, looking away",
+     "pexels": "man outdoors closed off looking away",
+     "pixabay": "man looking away closed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of crossed arms",
+     "pexels": "crossed arms close up outdoors",
+     "pixabay": "crossed arms close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of two people apart, not talking",
+     "pexels": "two people apart not talking outdoors",
+     "pixabay": "two people apart silent",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "intense stare",
+    "hoodie",
+    "fence or bars",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S06",
@@ -163,7 +312,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S06__thumb__S06_bS10_above-the-line-stepping-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S06__preview__S06_bS10_above-the-line-stepping-up.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "confident worker stepping forward to a task",
+     "pexels": "confident worker stepping forward task",
+     "pixabay": "confident worker forward",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of sleeves rolled up",
+     "pexels": "rolling up sleeves close",
+     "pixabay": "sleeves rolling up close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker picking up the tool",
+     "pexels": "worker picking up tool wide",
+     "pixabay": "worker tool pick up",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "intense stare",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S07",
@@ -180,7 +359,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S07__thumb__S07_bS12_listen-ask-accept-feedback.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S07__preview__S07_bS12_listen-ask-accept-feedback.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener discussing with an apprentice in a greenhouse",
+     "pexels": "gardener discussing apprentice greenhouse",
+     "pixabay": "gardener apprentice greenhouse",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of listening face nodding",
+     "pexels": "listening face nodding close",
+     "pixabay": "listening nod close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the greenhouse with the two at work",
+     "pexels": "greenhouse two workers wide",
+     "pixabay": "greenhouse workers wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S08",
@@ -197,13 +405,72 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S08__thumb__S08_bS13_seek-solutions-take-responsibility.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S08__preview__S08_bS13_seek-solutions-take-responsibility.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "African craftsman focused on woodwork",
+     "pexels": "african craftsman focused woodwork",
+     "pixabay": "craftsman woodwork focused",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands solving a fitting",
+     "pexels": "hands solving fitting close",
+     "pixabay": "hands fitting solve",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the craftsman's workshop",
+     "pexels": "craftsman workshop wide",
+     "pixabay": "craftsman workshop",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S09",
    "script_line": "Who caused this? / How do we fix this?",
    "visual_direction": "Two people planting / repotting together",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two people repotting plants together",
+     "pexels": "two people repotting plants together",
+     "pixabay": "repotting together plants",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of four hands in soil",
+     "pexels": "four hands in soil close",
+     "pixabay": "hands soil together close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two at a potting bench",
+     "pexels": "two at potting bench wide",
+     "pixabay": "potting bench two",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S10",
@@ -220,7 +487,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S10__thumb__S10_bS17_nobody-is-perfect.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S10__preview__S10_bS17_nobody-is-perfect.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing, reflective, leaning on a spade",
+     "pexels": "worker pausing reflective spade",
+     "pixabay": "worker reflective spade",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a thoughtful face in soft light",
+     "pexels": "thoughtful face soft light close",
+     "pixabay": "thoughtful face soft",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker alone in a garden",
+     "pexels": "worker alone in garden wide",
+     "pixabay": "worker garden alone",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S11",
@@ -237,7 +533,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__thumb__S11_bS19_three-steps-growth.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__preview__S11_bS19_three-steps-growth.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "cupped hands cradling a seedling",
+     "pexels": "cupped hands cradling seedling",
+     "pixabay": "hands seedling cradle",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "planting the seedling in a bed",
+     "pexels": "planting seedling in bed",
+     "pixabay": "planting seedling bed",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of young plants in rows",
+     "pexels": "young plants in rows wide",
+     "pixabay": "young plants rows",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S12",
@@ -254,7 +579,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__thumb__S12_bS20_better-every-day.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__preview__S12_bS20_better-every-day.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener content among flowers",
+     "pexels": "gardener content among flowers",
+     "pixabay": "gardener flowers content",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands touching blooms",
+     "pexels": "hands touching blooms close",
+     "pixabay": "hands flowers touch close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a flowering garden with the gardener",
+     "pexels": "flowering garden gardener wide",
+     "pixabay": "flower garden gardener",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S13",
@@ -271,7 +625,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S13__thumb__S13_bS23_stop-for-a-moment.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S13__preview__S13_bS23_stop-for-a-moment.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "man with head bowed, pausing to reflect outdoors",
+     "pexels": "man head bowed reflecting outdoors",
+     "pixabay": "man reflecting head bowed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands clasped",
+     "pexels": "hands clasped close outdoors",
+     "pixabay": "hands clasped close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a quiet garden bench",
+     "pexels": "quiet garden bench wide",
+     "pixabay": "garden bench quiet",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "intense stare",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S14",
@@ -288,7 +672,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S14__thumb__S14_bS26_next-lesson.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S14__preview__S14_bS26_next-lesson.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker walking resort grounds in warm light",
+     "pexels": "worker walking garden grounds warm light",
+     "pixabay": "worker walking grounds",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of boots on a gravel path",
+     "pexels": "boots on gravel path close",
+     "pixabay": "boots gravel path",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium of a worker looking ahead",
+     "pexels": "worker looking ahead medium",
+     "pixabay": "worker looking ahead",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   }
  ]
 }

@@ -18,7 +18,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S01__thumb__S01_b01_opener-a-baby-learning-to-walk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S01__preview__S01_b01_opener-a-baby-learning-to-walk.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "toddler's first steps, falling and getting up",
+     "pexels": "toddler first steps falling getting up",
+     "pixabay": "toddler first steps",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of small feet on grass",
+     "pexels": "toddler feet on grass close",
+     "pixabay": "toddler feet grass",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a child walking toward a parent in a garden",
+     "pexels": "child walking to parent garden",
+     "pixabay": "child walking parent garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S02",
@@ -35,7 +64,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S02__thumb__S02_b03_michael-jordan-greatness-from-failure.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S02__preview__S02_b03_michael-jordan-greatness-from-failure.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "basketball hoop against a dramatic sky, no players",
+     "pexels": "basketball hoop dramatic sky",
+     "pixabay": "basketball hoop sky",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a net moving in wind",
+     "pexels": "basketball net moving wind close",
+     "pixabay": "basketball net close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium of a ball resting on an empty court",
+     "pexels": "basketball on empty court",
+     "pixabay": "basketball empty court",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "famous players",
+    "logos",
+    "crowds"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S03",
@@ -52,7 +111,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S03__thumb__S03_b04_every-failure-became-feedback.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S03__preview__S03_b04_every-failure-became-feedback.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "empty basketball court at dusk",
+     "pexels": "empty basketball court dusk",
+     "pixabay": "empty basketball court",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of court lines",
+     "pexels": "basketball court lines close",
+     "pixabay": "court lines close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium of a hoop with light behind",
+     "pexels": "basketball hoop backlight",
+     "pixabay": "hoop backlight",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "famous players",
+    "logos",
+    "crowds"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S04",
@@ -69,13 +158,71 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S04__thumb__S04_b05_youre-not-failing-youre-learning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S04__preview__S04_b05_youre-not-failing-youre-learning.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands practising a skill, improving a cut",
+     "pexels": "hands practicing skill improving",
+     "pixabay": "hands practicing skill",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker trying again after a mistake",
+     "pexels": "worker trying again after mistake",
+     "pixabay": "worker trying again",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a workbench with attempts laid out",
+     "pexels": "workbench with attempts laid out",
+     "pixabay": "workbench attempts",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S05",
    "script_line": "The second person — 'How can I improve?'",
    "visual_direction": "Hands taking notes / listening to feedback",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands taking notes while listening to feedback",
+     "pexels": "hands taking notes listening feedback",
+     "pixabay": "hands notes feedback",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker listening to a colleague, open face",
+     "pexels": "worker listening colleague open face",
+     "pixabay": "worker listening colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two beside the work",
+     "pexels": "two workers beside work wide",
+     "pixabay": "two workers work wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S06",
@@ -92,7 +239,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S06__thumb__S06_b07_learn-from-those-ahead-of-you.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S06__preview__S06_b07_learn-from-those-ahead-of-you.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced gardener teaching a younger one",
+     "pexels": "experienced gardener teaching younger",
+     "pixabay": "gardener teaching younger",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of guided hands on a plant",
+     "pexels": "guided hands on plant close",
+     "pixabay": "hands plant guided",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two in a garden",
+     "pexels": "two gardeners in garden wide",
+     "pixabay": "gardeners garden wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S07",
@@ -109,13 +286,71 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S07__thumb__S07_b08_people-enjoy-working-with-learners.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S07__preview__S07_b08_people-enjoy-working-with-learners.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "team collaborating in a garden, smiling",
+     "pexels": "team collaborating garden smiling",
+     "pixabay": "team garden smiling",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two workers laughing over a task",
+     "pexels": "two workers laughing over task",
+     "pixabay": "workers laughing task",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a shared smile",
+     "pexels": "shared smile workers close",
+     "pixabay": "shared smile close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   },
   {
    "id": "S08",
    "script_line": "'What is this teaching me?'",
    "visual_direction": "A worker pausing, reflective",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing, reflective, looking at a task",
+     "pexels": "worker pausing reflective task",
+     "pixabay": "worker reflective pause",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a thoughtful face outdoors",
+     "pexels": "thoughtful face outdoors close",
+     "pixabay": "thoughtful face outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker alone with the work",
+     "pexels": "worker alone with work wide",
+     "pixabay": "worker alone work",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:39:20Z"
   }
  ]
 }
