@@ -827,7 +827,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__thumb__pexels_28713591_rearview-mirror-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__preview__pexels_28713591_rearview-mirror-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__strip__pexels_28713591_rearview-mirror-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a side mirror reflects a suburban street at sunset",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-sidemirror-suburban-sunset",
+     "score": 3.65,
+     "judged_at": "2026-09-09T17:48:34Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_29052723_car-leaving-country-road",
@@ -839,7 +849,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__thumb__pexels_29052723_car-leaving-country-road.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__preview__pexels_29052723_car-leaving-country-road.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__strip__pexels_29052723_car-leaving-country-road.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a car drives away down a misty rural country road",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-car-rural-road-departure",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:48:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5966354_waving-goodbye-car",
@@ -901,7 +921,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:48:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:48:34Z"
   },
   {
    "id": "S09",
