@@ -597,7 +597,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__thumb__pexels_5221359_child-feeding-goat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__preview__pexels_5221359_child-feeding-goat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__strip__pexels_5221359_child-feeding-goat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a girl in a white dress feeds a goat from a bowl against a plain backdrop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-studio-child-goat",
+     "score": 4.95,
+     "judged_at": "2026-09-09T17:47:25Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6726894_child-feeding-chickens",
@@ -609,7 +619,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__thumb__pexels_6726894_child-feeding-chickens.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__preview__pexels_6726894_child-feeding-chickens.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__strip__pexels_6726894_child-feeding-chickens.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "chickens gather around a red feeder in a coop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chickens-feeder",
+     "score": 4.05,
+     "judged_at": "2026-09-09T17:47:25Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8838142_family-farm-experience",
@@ -670,7 +690,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:47:25Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:47:25Z"
   },
   {
    "id": "S07",
