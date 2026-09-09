@@ -213,3 +213,80 @@
 | pexels | lonely figure with umbrella walking on green hill | Salim Da | Pexels License | https://www.pexels.com/video/lonely-figure-with-umbrella-walking-on-green-hill-36149877/ |
 | pexels | workers repair sleepers at a railroad crossing | SuperEVG | Pexels License | https://www.pexels.com/video/workers-repair-sleepers-at-a-railroad-crossing-19478306/ |
 | pixabay | fog  trees  road  path  mist  morning | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-67031/ |
+| pexels | close up footage of employees stacking hands together | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-footage-of-employees-stacking-hands-together-7844939/ |
+| pexels | happy people working together as a team | fauxels | Pexels License | https://www.pexels.com/video/happy-people-working-together-as-a-team-3249902/ |
+| pexels | group of people stacking hands together | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/group-of-people-stacking-hands-together-6193976/ |
+| pexels | a man and woman planning together | SHVETS production | Pexels License | https://www.pexels.com/video/a-man-and-woman-planning-together-9056560/ |
+| pexels | hands together | Alena Darmel | Pexels License | https://www.pexels.com/video/hands-together-7659853/ |
+| pexels | people putting their hands together | Yan Krukau | Pexels License | https://www.pexels.com/video/people-putting-their-hands-together-8836117/ |
+| pexels | a team huddle | Kindel Media | Pexels License | https://www.pexels.com/video/a-team-huddle-7687795/ |
+| pexels | woman showing her smartphone | Edmond Dantès | Pexels License | https://www.pexels.com/video/woman-showing-her-smartphone-4436059/ |
+| pexels | group of people holding each other s arm | Monstera Production | Pexels License | https://www.pexels.com/video/group-of-people-holding-each-other-s-arm-9465172/ |
+| pexels | people having a team building | fauxels | Pexels License | https://www.pexels.com/video/people-having-a-team-building-3246359/ |
+| pexels | man listening to his female boss | olia danilevich | Pexels License | https://www.pexels.com/video/man-listening-to-his-female-boss-5311250/ |
+| pexels | a man and a woman looking at documents on a table | K | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-looking-at-documents-on-a-table-6079418/ |
+| pexels | a man and woman working together | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-man-and-woman-working-together-7279016/ |
+| pexels | man asking a woman for work advices | Kampus Production | Pexels License | https://www.pexels.com/video/man-asking-a-woman-for-work-advices-8460904/ |
+| pixabay | conversation  talk  dialogue  coffee  colleagues  discussion | Republica | Pixabay Content License | https://pixabay.com/videos/id-180/ |
+| pexels | vintage 1950s woman raking outdoors | J.S. McDuff | Pexels License | https://www.pexels.com/video/vintage-1950s-woman-raking-outdoors-31966141/ |
+| pexels | person writing in journal at home desk | Sergei Starostin | Pexels License | https://www.pexels.com/video/person-writing-in-journal-at-home-desk-39426039/ |
+| pexels | a person is holding a pen in front of an open book | Адам Аушев | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-pen-in-front-of-an-open-book-28405799/ |
+| pexels | a person writing in the planner | Polina ⠀ | Pexels License | https://www.pexels.com/video/a-person-writing-in-the-planner-6541138/ |
+| pexels | tattooed hand writing in a notebook | K | Pexels License | https://www.pexels.com/video/tattooed-hand-writing-in-a-notebook-33350921/ |
+| pexels | scenic view through a window frame | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/scenic-view-through-a-window-frame-31412571/ |
+| pexels | elderly woman working at home | Mikhail Nilov | Pexels License | https://www.pexels.com/video/elderly-woman-working-at-home-6970373/ |
+| pexels | elderly woman working at home | Mikhail Nilov | Pexels License | https://www.pexels.com/video/elderly-woman-working-at-home-6970370/ |
+| pexels | pensive young man reading at sundown | Nishant Das | Pexels License | https://www.pexels.com/video/pensive-young-man-reading-at-sundown-32082601/ |
+| pexels | close up video of a person writing on a notebook | ArtHouse Studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-notebook-8478113/ |
+| pexels | person saving a date on his planner | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/person-saving-a-date-on-his-planner-1793371/ |
+| pexels | woman writing on the notebook | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-writing-on-the-notebook-4393233/ |
+| pexels | scenic aerial view of train in indonesian countryside | Editra Pro Bandung | Pexels License | https://www.pexels.com/video/scenic-aerial-view-of-train-in-indonesian-countryside-31893118/ |
+| pexels | farmer walking in tranquil rice field | Patusi 19 | Pexels License | https://www.pexels.com/video/farmer-walking-in-tranquil-rice-field-35802989/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pixabay | on the table lies a thick textbook  homework  textbook  tuto | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-12040/ |
+| pixabay | billet  bank  debt  pen | andrepazleal | Pixabay Content License | https://pixabay.com/videos/id-13477/ |
+| pixabay | happy new year  christmas  christmas tree  winter  lights  e | Skylent | Pixabay Content License | https://pixabay.com/videos/id-3565/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | school  scribble  student  drawing  notepad  sketchbook  pup | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-80/ |
+| pexels | a person writing on notebook | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-writing-on-notebook-10474629/ |
+| pexels | a person writing on a notebook | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-notebook-8873338/ |
+| pexels | sharpening a pencil | Coverr | Pexels License | https://www.pexels.com/video/sharpening-a-pencil-854165/ |
+| pexels | person writing | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-8134312/ |
+| pexels | black and white video of person working | Coverr | Pexels License | https://www.pexels.com/video/black-and-white-video-of-person-working-853979/ |
+| pexels | a person writing in a notebook | Ivan S | Pexels License | https://www.pexels.com/video/a-person-writing-in-a-notebook-8503445/ |
+| pexels | close up video of a person writing on sticky notes | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-sticky-notes-7392969/ |
+| pexels | person writing on notebook | Mikhail Nilov | Pexels License | https://www.pexels.com/video/person-writing-on-notebook-8731583/ |
+| pexels | person writing on a notebook | Los Muertos Crew | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-7586499/ |
+| pexels | a close up video of a colleagues discussing notes | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-close-up-video-of-a-colleagues-discussing-notes-6931211/ |
+| pexels | writing materials on the table | Ron Lach | Pexels License | https://www.pexels.com/video/writing-materials-on-the-table-9903160/ |
+| pexels | person turning planner with a red cover | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-turning-planner-with-a-red-cover-6186873/ |
+| pexels | a woman getting a file | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-getting-a-file-6538597/ |
+| pexels | close up shot of a man drawing in the notebook | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-man-drawing-in-the-notebook-6789584/ |
+| pixabay | carpenter  tool  handmade  industry  factory  wood  woodwork | AndyWolares | Pixabay Content License | https://pixabay.com/videos/id-166808/ |
+| pixabay | industry  factory  steel  iron  iron bars  workers  hard wor | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40054/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4729/ |
+| pixabay | machine  asphalt paver  new road  building  asphalt  roads   | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-42698/ |
+| pixabay | people  commerce  shop  busy  mall  walking | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-6387/ |
+| pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
+| pexels | colleagues happy on their creative workspace | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/colleagues-happy-on-their-creative-workspace-7279399/ |
+| pexels | man having a video call on his smartphone | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-having-a-video-call-on-his-smartphone-6510770/ |
+| pexels | a farmer harvesting agave | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-farmer-harvesting-agave-10040036/ |
+| pexels | man and woman checking the plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-checking-the-plants-6508711/ |
+| pexels | tree nursery worker checking baby trees for weeds | Everett Bumstead | Pexels License | https://www.pexels.com/video/tree-nursery-worker-checking-baby-trees-for-weeds-19654543/ |
+| pexels | woman touching the plants | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/woman-touching-the-plants-8515038/ |
+| pexels | a man putting soil in the pot | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-putting-soil-in-the-pot-6508492/ |
+| pexels | tree nursery worker picking weeds | Everett Bumstead | Pexels License | https://www.pexels.com/video/tree-nursery-worker-picking-weeds-20663025/ |
+| pexels | a man is working in a greenhouse with plants | Bofforss | Pexels License | https://www.pexels.com/video/a-man-is-working-in-a-greenhouse-with-plants-20179473/ |
+| pexels | man having a video call on his smartphone | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-having-a-video-call-on-his-smartphone-6508716/ |
+| pexels | close up of a smiling woman | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-a-smiling-woman-7297977/ |
+| pexels | close up shot of a boy wearing eyeglasses smiling at camera | Norma Mortenson | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-boy-wearing-eyeglasses-smiling-at-camera-8441310/ |
+| pexels | confident man welcoming with open door | Frank Litschel | Pexels License | https://www.pexels.com/video/confident-man-welcoming-with-open-door-36593024/ |
+| pexels | a woman with curly hair smiling in the woods | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-with-curly-hair-smiling-in-the-woods-4443803/ |
+| pixabay | smile  face  girl  young  happy  woman  person  smiling  hap | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43631/ |
+| pixabay | hosing  watering  gardening  garden  water  sprinkler  hose  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-145/ |
+| pixabay | child  child smiling  baby  kid  happy  smile  childhood  pe | nassimohmd | Pixabay Content License | https://pixabay.com/videos/id-33631/ |
+| pixabay | man  smile  smiling  happy  male  person  outdoors  portrait | magicmore | Pixabay Content License | https://pixabay.com/videos/id-171044/ |
+| pixabay | australia  outback  rocks  cliff face  nature  landscape  bu | Ian5152 | Pixabay Content License | https://pixabay.com/videos/id-317982/ |
+| pixabay | happy  child  childhood  portrait  fun  happiness  kid  cute | fajarbudi86 | Pixabay Content License | https://pixabay.com/videos/id-44223/ |
+| pixabay | man  smiling  farmer  happy  young  culture  senior  woman   | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76888/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |

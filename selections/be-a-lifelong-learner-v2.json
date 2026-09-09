@@ -153,26 +153,34 @@
     "S14": {
       "requested": "2026-09-09T21:22:41Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:03:25Z",
+      "added": 15
     },
     "S15": {
       "requested": "2026-09-09T21:22:42Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:05:22Z",
+      "added": 20
     },
     "S16": {
       "requested": "2026-09-09T21:22:43Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:07:17Z",
+      "added": 20
     },
     "S16b": {
       "requested": "2026-09-09T21:22:44Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:09:35Z",
+      "added": 22
     }
   }
 }
