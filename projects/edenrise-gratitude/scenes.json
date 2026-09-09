@@ -112,7 +112,37 @@
      "title": "Mature man in red t shirt being in shock after getting news standing with closed eyes near gray wall in room",
      "query": "man frustrated arriving at work morning face"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker arriving on site and frowning at a broken wheelbarrow",
+     "pexels": "worker frowning at broken wheelbarrow",
+     "pixabay": "worker broken wheelbarrow frown",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide of a site with delays: materials piled, nobody moving",
+     "pexels": "work site materials piled waiting",
+     "pixabay": "site materials pile waiting",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand pointing at a mistake in a wall",
+     "pexels": "hand pointing at crack in wall",
+     "pixabay": "hand crack wall pointing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "smiling crew",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S02",
@@ -353,7 +383,36 @@
      "title": "Smiling colleagues wearing headsets working together at a call center in a modern office setting.",
      "query": "colleague helping another person at work"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "colleague already at work early, watering at dawn",
+     "pexels": "worker watering garden at dawn early",
+     "pixabay": "worker dawn watering early",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "colleague solving a problem with a pipe, quietly",
+     "pexels": "worker fixing pipe quietly",
+     "pixabay": "worker pipe fixing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of careful work: a straight line of planted seedlings",
+     "pexels": "straight line planted seedlings close",
+     "pixabay": "seedlings row straight close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S03",
@@ -638,7 +697,36 @@
      "title": "A diverse group of young adults volunteering at a donation center sorting clothes.",
      "query": "warm atmosphere team working together"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "same yard, worker greeting a colleague with a nod and a smile",
+     "pexels": "worker greeting colleague nod smile",
+     "pixabay": "workers greeting nod smile",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide of a crew at ease working together in good light",
+     "pexels": "crew working together good light",
+     "pixabay": "crew working together light",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand on a colleague's shoulder",
+     "pexels": "hand on colleague shoulder close",
+     "pixabay": "hand shoulder colleague",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S04",
@@ -939,7 +1027,36 @@
      "title": "A man and woman in coats discussing documents outside a modern building.",
      "query": "coworkers passing by without noticing"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "tools that simply work: a sharp spade cutting soil",
+     "pexels": "sharp spade cutting soil close",
+     "pixabay": "spade soil digging close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "crew turning up at the gate on time, morning",
+     "pexels": "crew arriving at gate on time morning",
+     "pixabay": "crew gate morning arrival",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "worker not looking up as a colleague passes, routine",
+     "pexels": "worker absorbed routine colleague passing",
+     "pixabay": "worker routine absorbed",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S05",
@@ -1039,7 +1156,38 @@
      "title": "Close-up of a focused architect working on a scale model with concentration.",
      "query": "overlooked person in a busy room"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "neutral wide of a crew building a wall together, no one looking at camera",
+     "pexels": "crew building stone wall together",
+     "pixabay": "workers stone wall building",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "hands of several workers passing stones",
+     "pexels": "hands passing stones workers",
+     "pixabay": "passing stones hands workers",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "one worker looking at the others' work, thoughtful",
+     "pexels": "worker looking at colleagues work thoughtful",
+     "pixabay": "worker thoughtful colleagues",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "hi-vis crowd",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S06",
@@ -1461,7 +1609,44 @@
      "title": "Two women with brown hair smiling and sitting together outdoors, conveying friendship.",
      "query": "friends laughing genuine connection"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "repairing a fence quietly",
+     "pexels": "worker repairing fence quietly",
+     "pixabay": "fence repair worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "cook preparing food for a crew in a simple kitchen",
+     "pexels": "cook preparing food for workers simple kitchen",
+     "pixabay": "cook kitchen workers food",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "someone sweeping a workshop floor",
+     "pexels": "sweeping workshop floor",
+     "pixabay": "sweeping workshop floor",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a safety check on a ladder",
+     "pexels": "checking ladder safety close",
+     "pixabay": "ladder safety check hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S07",
@@ -1761,7 +1946,37 @@
      "title": "Confident female construction worker inspecting site with clipboard and helmet.",
      "query": "inspection checklist"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman telling a worker 'I saw what you did', hand on arm",
+     "pexels": "foreman appreciating worker hand on arm",
+     "pixabay": "foreman worker appreciation",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a face being thanked, quiet pride",
+     "pexels": "worker face thanked quiet pride close",
+     "pixabay": "worker proud face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of two workers at the end of a job shaking hands",
+     "pexels": "two workers shaking hands end of job",
+     "pixabay": "workers handshake end job",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "awards",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S08",
@@ -2014,7 +2229,36 @@
      "title": "Side view of senior artisan in eyeglasses handling detail in workshop while apprentice looking at process",
      "query": "experienced worker teaching young"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker looking at good work done, then picking up the tool again",
+     "pexels": "worker admiring work then continuing",
+     "pixabay": "worker work continue tool",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a level on a wall, precise",
+     "pexels": "spirit level on wall close",
+     "pixabay": "spirit level wall close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a garden half done, half to go",
+     "pexels": "garden half planted half to go",
+     "pixabay": "garden half planted wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S09",
@@ -2359,7 +2603,36 @@
      "title": "attractive  beautiful  girl  model  person  portrait  woman  black people  person  person  person  person  person",
      "query": "confident face looking to the future"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener admiring a bed, then planning the next with a stake",
+     "pexels": "gardener planning next bed with stake",
+     "pixabay": "gardener stake planning bed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand on a well-made gate",
+     "pexels": "hand on well made wooden gate close",
+     "pixabay": "hand wooden gate close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a finished terrace with space beyond",
+     "pexels": "finished terrace with open land beyond",
+     "pixabay": "terrace finished land beyond",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S10",
@@ -3107,7 +3380,37 @@
      "title": "Volunteers wearing masks distribute meals indoors, promoting safety and care.",
      "query": "distributing food to people"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands breaking bread at a simple crew lunch",
+     "pexels": "hands breaking bread crew lunch",
+     "pixabay": "breaking bread hands lunch",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "crew sharing a simple meal outdoors, heads bowed a moment",
+     "pexels": "workers sharing simple meal outdoors",
+     "pixabay": "workers meal outdoor share",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "a basket with a few loaves and fish on a wooden table",
+     "pexels": "basket of bread and fish wooden table",
+     "pixabay": "bread fish basket table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "church interiors",
+    "stained glass",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S11",
@@ -3571,7 +3874,36 @@
      "title": "A close-up captures a hand of an adult gently holding the tiny hand of a sleeping newborn",
      "query": "close up gentle careful hands"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "open hands holding seeds",
+     "pexels": "open hands holding seeds",
+     "pixabay": "hands seeds open close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker looking at what tools he has, laying them out",
+     "pexels": "worker laying out tools he has",
+     "pixabay": "worker tools laying out",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a small plot being started with simple tools",
+     "pexels": "starting small plot simple tools",
+     "pixabay": "small plot start tools",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S12",
@@ -3841,7 +4173,36 @@
      "title": "hikers",
      "query": "hands writing notebook morning light"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker oiling and cleaning a tool with care",
+     "pexels": "worker oiling cleaning tool care",
+     "pixabay": "cleaning tool oil care",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "gardener tending a plant he is proud of",
+     "pexels": "gardener tending plant proud",
+     "pixabay": "gardener plant tending",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a cared-for yard",
+     "pexels": "cared for work yard wide",
+     "pixabay": "work yard cared for",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S13",
@@ -4110,7 +4471,36 @@
      "title": "THE OB IN CHARGE ...",
      "query": "honest conversation face to face"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker noticing a colleague's good work and saying so, pointing",
+     "pexels": "worker praising colleague pointing at work",
+     "pixabay": "worker praising colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of two faces in a short specific exchange",
+     "pexels": "two workers talking close faces",
+     "pixabay": "workers talking faces close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of three things done well in a yard: rows, fence, tools",
+     "pexels": "tidy yard rows fence tools wide",
+     "pixabay": "tidy yard fence rows",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S14",
@@ -4398,7 +4788,37 @@
      "title": "'Exercise Red Flag-Alaska 11-3'",
      "query": "crew working difficult conditions"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "work continuing in rain, worker steady",
+     "pexels": "worker steady in rain",
+     "pixabay": "worker rain steady",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a setback: a collapsed stack of pots, worker starting again",
+     "pexels": "worker restacking fallen pots",
+     "pixabay": "fallen pots worker restack",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of rain on a hand holding a tool",
+     "pexels": "rain on hand holding tool close",
+     "pixabay": "rain hand tool close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S15",
@@ -4843,7 +5263,37 @@
      "title": "Volunteer of the Week",
      "query": "person smiling after being thanked"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman correcting a worker calmly, pointing at a detail",
+     "pexels": "foreman correcting worker calmly detail",
+     "pixabay": "foreman correcting worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker redoing the detail carefully",
+     "pexels": "worker redoing detail carefully",
+     "pixabay": "worker redo careful",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a job passing a final check",
+     "pexels": "foreman final check job wide",
+     "pixabay": "foreman check job wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shouting",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S16",
@@ -5068,7 +5518,45 @@
      "title": "First Avenue from Cherry, Seattle, 1905",
      "query": "group moving forward together"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "builder handing over to a painter at a doorway",
+     "pexels": "builder handing over to painter",
+     "pixabay": "builder painter handover",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "cleaner and manager passing each other with a nod",
+     "pexels": "cleaner and manager nod corridor",
+     "pixabay": "cleaner manager nod",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of many trades on one site working",
+     "pexels": "several trades working one site",
+     "pixabay": "trades working site",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands serving a crew water",
+     "pexels": "hands serving water to workers",
+     "pixabay": "serving water workers hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hi-vis crowd",
+    "factory",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S17",
@@ -5241,7 +5729,37 @@
      "title": "bread  loaf  pasta  baker  food  nourishment  oven",
      "query": "breaking bread"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "bread broken and handed to another at a table",
+     "pexels": "bread broken handed to another table",
+     "pixabay": "bread broken handed table",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "crew passing bread around an outdoor table",
+     "pexels": "workers passing bread outdoor table",
+     "pixabay": "workers bread table outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a shared table at dusk",
+     "pexels": "shared table dusk workers",
+     "pixabay": "shared table dusk",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "church interior",
+    "stained glass",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   }
  ],
  "title": "Edenrise — The Power of Gratitude",

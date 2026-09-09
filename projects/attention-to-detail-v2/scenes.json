@@ -98,7 +98,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__thumb__pixabay_5056492_rubbish-building-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__preview__pixabay_5056492_rubbish-building-site.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "untidy workshop: tools on the floor, rubbish, dirty equipment",
+     "pexels": "messy workshop tools on floor",
+     "pixabay": "messy workshop tools floor",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a dirty tool left on the ground",
+     "pexels": "dirty tool left on ground close",
+     "pixabay": "dirty tool ground close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker stepping over clutter, uneasy",
+     "pexels": "worker stepping over clutter",
+     "pixabay": "worker clutter stepping",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S02",
@@ -185,7 +214,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__thumb__pexels_8661618_pegboard-tools.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__preview__pexels_8661618_pegboard-tools.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "clean orderly workshop, everything in its place",
+     "pexels": "clean orderly workshop tools in place",
+     "pixabay": "clean workshop organized tools",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of organised tools on a pegboard",
+     "pexels": "organized tools pegboard close",
+     "pixabay": "pegboard tools organized",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker walking calmly through a tidy space",
+     "pexels": "worker walking through tidy workshop",
+     "pixabay": "worker tidy workshop walking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S03",
@@ -252,7 +310,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__pixabay_125458_carpenter-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__pixabay_125458_carpenter-hands.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close careful handwork: sanding an edge",
+     "pexels": "hands sanding wood edge close",
+     "pixabay": "sanding wood hands close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "hands aligning tiles with a spacer",
+     "pexels": "hands aligning tiles spacer",
+     "pixabay": "tiles spacer hands aligning",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium of a craftsman leaning in with focus",
+     "pexels": "craftsman leaning in focus",
+     "pixabay": "craftsman focus close work",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S04",
@@ -349,7 +437,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__pixabay_2510031_pickup-parked-straight.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__pixabay_2510031_pickup-parked-straight.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "work van parked straight within lines",
+     "pexels": "work van parked straight lines",
+     "pixabay": "van parked straight lines",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a tyre exactly on the line",
+     "pexels": "tyre on parking line close",
+     "pixabay": "tire parking line close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker stepping out of a neatly parked truck",
+     "pexels": "worker stepping out of parked truck",
+     "pixabay": "worker truck stepping out",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "luxury cars",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S05",
@@ -406,7 +524,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__pixabay_34821_broom-sweeping.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__pixabay_34821_broom-sweeping.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "switching off a light in a workshop and closing the door",
+     "pexels": "switching off workshop light closing door",
+     "pixabay": "light switch door closing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "pushing a chair in at a simple table",
+     "pexels": "pushing chair in table close",
+     "pixabay": "chair table pushing in",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a tidy room left in order",
+     "pexels": "tidy room left in order wide",
+     "pixabay": "tidy room order",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S06",
@@ -513,7 +660,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__pexels_7565174_cleaning-hand-tools.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__pexels_7565174_cleaning-hand-tools.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "cleaning a tool after use, close",
+     "pexels": "cleaning tool after use close",
+     "pixabay": "cleaning tool close hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "hanging tools back on a rack",
+     "pexels": "hanging tools back on rack",
+     "pixabay": "tools rack hanging",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a well-kept tool store",
+     "pexels": "well kept tool store wide",
+     "pixabay": "tool store organized",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S07",
@@ -570,7 +746,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__pexels_4684453_tidying-after-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__pexels_4684453_tidying-after-work.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "sweeping a work area at end of job",
+     "pexels": "sweeping work area end of job",
+     "pixabay": "sweeping site end job",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "bagging rubbish and carrying it off",
+     "pexels": "worker bagging rubbish carrying",
+     "pixabay": "worker rubbish bag carry",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a last look-over, hand on hip",
+     "pexels": "worker final look over site",
+     "pixabay": "worker final check site",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S08",
@@ -607,7 +812,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__thumb__pexels_4822718_removing-masking-tape.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__preview__pexels_4822718_removing-masking-tape.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "painter removing tape cleanly from an edge",
+     "pexels": "painter removing masking tape edge",
+     "pixabay": "painter tape removing edge",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "painter cleaning brushes in a bucket",
+     "pexels": "painter cleaning brushes bucket",
+     "pixabay": "painter brushes cleaning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a spotless painted room",
+     "pexels": "spotless freshly painted room",
+     "pixabay": "painted room clean wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S09",
@@ -664,7 +898,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pixabay_40816_builder-taking-notes.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pixabay_40816_builder-taking-notes.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "careful pencil marking on timber with a square",
+     "pexels": "pencil marking timber with square",
+     "pixabay": "pencil timber square marking",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "measuring tape read precisely",
+     "pexels": "reading measuring tape precisely",
+     "pixabay": "measuring tape reading close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker writing a neat note on a board",
+     "pexels": "worker writing neat note board",
+     "pixabay": "worker note board writing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S10",
@@ -721,7 +984,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__pixabay_188076_dripping-pipe.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__pixabay_188076_dripping-pipe.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a small drip from a pipe joint, close",
+     "pexels": "small drip from pipe joint close",
+     "pixabay": "drip pipe joint close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker noticing the drip and crouching to look",
+     "pexels": "worker noticing leak crouching",
+     "pixabay": "worker leak crouching",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of water damage on a wall, later",
+     "pexels": "water damage on wall wide",
+     "pixabay": "water damage wall",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S11",
@@ -778,7 +1070,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_8964292_foreman-inspecting.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_8964292_foreman-inspecting.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker stopping to inspect finished work once more",
+     "pexels": "worker inspecting finished work",
+     "pixabay": "worker inspecting finished",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand running along a finished surface",
+     "pexels": "hand running along finished surface",
+     "pixabay": "hand surface check close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the job with the worker standing back",
+     "pexels": "worker standing back from job",
+     "pixabay": "worker standing back job",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S12",
@@ -835,7 +1156,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pixabay_73847_careful-hands-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pixabay_73847_careful-hands-work.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "precise handwork: fitting a hinge",
+     "pexels": "fitting hinge precise handwork",
+     "pixabay": "hinge fitting hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker focused at a bench, pride",
+     "pexels": "worker focused bench pride",
+     "pixabay": "worker bench focus",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a series of small jobs done well",
+     "pexels": "row of finished small jobs workshop",
+     "pixabay": "finished work row workshop",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S13",
@@ -942,7 +1292,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S13__thumb__wikimedia_154891250_finished-carpentry.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S13__preview__wikimedia_154891250_finished-carpentry.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "finished quality build, tidy and complete, wide",
+     "pexels": "finished quality build tidy complete",
+     "pixabay": "finished build tidy wide",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker packing up leaving the place better",
+     "pexels": "worker packing up leaving site clean",
+     "pixabay": "worker packing site clean",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand closing a gate on a clean site",
+     "pexels": "hand closing gate clean site close",
+     "pixabay": "hand gate closing close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:35:33Z"
   },
   {
    "id": "S14",
