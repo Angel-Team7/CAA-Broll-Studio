@@ -64,18 +64,26 @@ def asset_urls(rel_id):
             out[a["name"]] = a["browser_download_url"]
         page += 1
 
-def upload(rel_id, name, path, tries=4):
+def upload(rel_id, name, path, tries=6):
     """Upload one asset; return the URL GitHub serves it from, or None.
 
     GitHub rewrites characters it dislikes in asset names, and a constructed URL
     with a '?' or ',' in it 404s — so the returned URL is the only safe one.
+    Uploads are serial; a 403/429 is the secondary rate limit and is waited out
+    (Retry-After when given, else a minute), never hammered.
     """
     ct = mimetypes.guess_type(str(path))[0] or "application/octet-stream"
+    data = pathlib.Path(path).read_bytes()
+    last = ""
     for i in range(tries):
-        r = requests.post(f"https://uploads.github.com/repos/{REPO}/releases/{rel_id}/assets",
-                          headers={**_h(), "Content-Type": ct}, params={"name": name},
-                          data=pathlib.Path(path).read_bytes(), timeout=300)
+        try:
+            r = requests.post(f"https://uploads.github.com/repos/{REPO}/releases/{rel_id}/assets",
+                              headers={**_h(), "Content-Type": ct}, params={"name": name},
+                              data=data, timeout=300)
+        except Exception as e:
+            last = f"network: {str(e)[:80]}"; time.sleep(10 * (i + 1)); continue
         if r.status_code == 201:
+            time.sleep(0.8)                   # be a polite serial uploader
             return r.json()["browser_download_url"]
         if r.status_code == 422:               # already there — look it up
             urls = asset_urls(rel_id)
@@ -84,8 +92,14 @@ def upload(rel_id, name, path, tries=4):
             for n, u in urls.items():
                 if re.sub(r"[^A-Za-z0-9._-]", ".", n) == key:
                     return u
-            return None
-        time.sleep((i + 1) * 20)
+            last = "422 but no matching asset"; break
+        last = f"{r.status_code} {r.text[:120]}"
+        if r.status_code in (403, 429):
+            wait = int(r.headers.get("Retry-After") or 0) or 60
+            print(f"    upload rate-limited ({name}) — waiting {wait}s"); time.sleep(wait)
+        else:
+            time.sleep((i + 1) * 15)
+    print(f"    upload failed ({name}): {last}")
     return None
 
 def rewrite_scenes(slug, cock_root, scenes, keep_local=True):

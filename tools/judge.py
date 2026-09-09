@@ -73,10 +73,21 @@ def strips(slug, sid):
         if url:
             ext = ".jpg" if not url.lower().endswith(".png") else ".png"
             path = tmp / (c["id"] + ext)
-            try:
-                urllib.request.urlretrieve(proxy(url), path)
-            except Exception as e:
-                path = f"(download failed: {e})"
+            # The cloud sandbox's egress policy may refuse the Cloudflare host; github.com
+            # is always reachable there. Try the Release URL first, then the proxy.
+            err = None
+            for u in (url, proxy(url)):
+                try:
+                    req = urllib.request.Request(u, headers={"User-Agent": "broll-judge/1.0"})
+                    with urllib.request.urlopen(req, timeout=60) as r, open(path, "wb") as fh:
+                        fh.write(r.read())
+                    if pathlib.Path(path).stat().st_size > 2000:
+                        err = None; break
+                    err = "empty file"
+                except Exception as e:
+                    err = f"{type(e).__name__}: {str(e)[:60]}"
+            if err:
+                path = f"(download failed: {err})"
         print(f"  {c['id']}  {path}  {c.get('source','')}  {(c.get('title') or c.get('query') or '')[:70]!r}  {c.get('duration','')}s  [{kind}]")
     print(f"\nframes in {tmp}")
 
