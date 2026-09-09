@@ -1592,8 +1592,8 @@
  "pexels:https://www.pexels.com/video/man-explaining-the-floor-plan-to-the-clients-8482292/": {
   "brand": "edenrise",
   "reason": "face masks",
-  "at": "2026-09-09T17:59:12Z",
-  "from": "edenrise-c2-kaizen/S04"
+  "at": "2026-09-09T18:37:37Z",
+  "from": "benchmark-excellence-v2/S14"
  },
  "pexels:https://www.pexels.com/video/women-looking-at-the-laptop-8829011/": {
   "brand": "belong",
@@ -2086,5 +2086,17 @@
   "reason": "textile mills",
   "at": "2026-09-09T18:39:06Z",
   "from": "be-a-lifelong-learner-v2/S12"
+ },
+ "pexels:https://www.pexels.com/video/woman-writing-in-sticky-note-8255726/": {
+  "brand": "edenrise",
+  "reason": "offices, laptops",
+  "at": "2026-09-09T18:37:37Z",
+  "from": "benchmark-excellence-v2/S14"
+ },
+ "pixabay:https://pixabay.com/videos/id-3741/": {
+  "brand": "edenrise",
+  "reason": "factories, assembly lines",
+  "at": "2026-09-09T18:37:37Z",
+  "from": "benchmark-excellence-v2/S14"
  }
 }
