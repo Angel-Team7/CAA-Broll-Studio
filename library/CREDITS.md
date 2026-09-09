@@ -917,3 +917,33 @@
 | pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/forestry-worker-operating-heavy-machinery-outdoors-36130782/ |
 | pexels |  | Kartik Malviya | Pexels License | https://www.pexels.com/video/silhouetted-street-vendor-at-sunset-roadside-34104867/ |
 | pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-sitting-on-an-ambulance-6520438/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/man-working-on-his-table-4456112/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-leatherworker-cleaning-his-work-area-before-starting-his-work-4452793/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/woman-getting-fired-from-a-job-8135742/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/working-industry-business-wooden-7480743/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/focused-craftsmanship-in-a-woodworking-workshop-35222301/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/carpenter-working-on-a-piece-of-wood-6790427/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-delivering-boxes-6169106/ |
+| pexels |  | EJ Merl | Pexels License | https://www.pexels.com/video/aerial-view-of-largest-truckstop-in-iowa-31885444/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-looking-at-cleaning-products-while-carrying-a-hamper-10566653/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/housekeeper-placing-folded-bathrobe-on-bed-6466242/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/bed-bedroom-door-window-7641379/ |
+| pixabay | woman  female  room  phone  candle  pose  modeling  bed  tir | Yasir1120 | Pixabay Content License | https://pixabay.com/videos/id-233390/ |
+| pixabay | guitarist  music  playing  guitar player  room  studio  musi | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1651/ |
+| pexels |  | VIDEOS2B Amazon Productions | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-piece-of-paper-with-holes-in-it-27981588/ |
+| pexels |  | Waddle Aero | Pexels License | https://www.pexels.com/video/aerial-view-of-ferry-navigating-wide-river-33289101/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/splash-of-water-falling-from-the-roof-on-a-rainy-day-3999402/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-woman-making-jewelry-6262809/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-shaving-a-wood-using-a-hand-plane-5972626/ |
+| pixabay | woman  card  shopping  communication  smartphone  phone  fem | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-83865/ |
+| pexels |  | Nicola Narracci | Pexels License | https://www.pexels.com/video/stunning-abstract-geometric-animation-33523164/ |
+| pexels |  | Google DeepMind | Pexels License | https://www.pexels.com/video/an-artist-s-depiction-of-artificial-intelligence-ai-this-video-explores-how-humans-can-creatively-collaborate-with-artificial-general-intelligence-agi-in-the-future-and-how-it-can-off-18069862/ |
+| pexels |  | Adis Resic | Pexels License | https://www.pexels.com/video/futuristic-spacecraft-orbiting-ringed-planet-35448579/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/mother-and-daughter-doing-gardening-5450544/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-woman-and-child-digging-soil-4625728/ |
+| pixabay | chick  poultry  chicken  farm yard  cute  fluffy  cub  pluma | Dan_Kaesler | Pixabay Content License | https://pixabay.com/videos/id-29874/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/man-hanging-on-the-truck-3967192/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/silhouette-of-people-4451493/ |
+| pexels |  | Alex Moliski | Pexels License | https://www.pexels.com/video/vanlife-adventure-in-utah-s-desert-landscape-36433662/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/person-fixing-wires-6079417/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-view-of-barbed-wire-11490316/ |
