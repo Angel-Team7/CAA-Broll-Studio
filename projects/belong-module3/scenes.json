@@ -1777,7 +1777,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__thumb__pexels_8550930_community-people-together-outdoo.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__preview__pexels_8550930_community-people-together-outdoo.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__strip__pexels_8550930_community-people-together-outdoo.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two friends sit and chat at an outdoor picnic table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-picnic-table-friends",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:51:25Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_204006_two-people-handshake-golden-hour",
@@ -1789,7 +1799,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__thumb__pixabay_204006_two-people-handshake-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__preview__pixabay_204006_two-people-handshake-golden-hour.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__strip__pixabay_204006_two-people-handshake-golden-hour.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "golden sunset light glows above a sea of clouds",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cloudscape-sunset",
+     "score": 1.75,
+     "judged_at": "2026-09-09T17:51:25Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_37663_farmers-handshake-field",
@@ -1801,7 +1821,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__thumb__pixabay_37663_farmers-handshake-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__preview__pixabay_37663_farmers-handshake-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__strip__pixabay_37663_farmers-handshake-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial view of a person walking through green rice terraces",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-rice-terrace-aerial",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:51:25Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "heygen_handshake-at-sunset",
@@ -1863,7 +1893,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:51:25Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:51:25Z"
   }
  ]
 }
