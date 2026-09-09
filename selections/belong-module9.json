@@ -1,6 +1,6 @@
 {
   "project": "belong-module9",
-  "updated": "2026-09-09T11:40:28.322Z",
+  "updated": "2026-09-09T11:45:49.662Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -16,7 +16,7 @@
       "belong-m9-S10-V01"
     ],
     "S04": [
-      "belong-module9-S04-V31"
+      "belong-module9-S04-V38"
     ],
     "S08": [
       "belong-m9-S08-V06"
@@ -124,9 +124,7 @@
         "countryside",
         "staff"
       ],
-      "done": true,
-      "fulfilled": "2026-09-09T11:41:45Z",
-      "added": 10
+      "done": false
     },
     "S10": {
       "requested": "2026-09-09T09:20:00Z",
