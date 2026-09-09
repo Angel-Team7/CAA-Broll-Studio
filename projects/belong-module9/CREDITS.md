@@ -72,3 +72,83 @@
 | pixabay | balloons  celebration  balloon video  people  family | TamieFarris | Pixabay Content License | https://pixabay.com/videos/id-32132/ |
 | pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/happy-woman-raising-toast-at-a-family-dinner-5617291/ |
 | pixabay | child  kid  family  father  mother  people | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212512/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-factory-setting-31369403/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4729/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-sorting-fabrics-31352804/ |
+| pixabay | construction site  elevator  building  build  architecture   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1009/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-textile-worker-in-factory-setting-31656803/ |
+| pixabay | construction site  development  infrastructure  real estate  | AminRajput21 | Pixabay Content License | https://pixabay.com/videos/id-206692/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/business-people-hugging-in-the-restaurant-7426834/ |
+| pixabay | construction site  development  infrastructure  real estate  | AminRajput21 | Pixabay Content License | https://pixabay.com/videos/id-206694/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-sorting-textiles-31359973/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135892/ |
+| pexels |  | Sammy Wilson | Pexels License | https://www.pexels.com/video/smiling-receptionist-in-corporate-setting-28828093/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135887/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-signing-a-document-at-the-front-desk-7820466/ |
+| pixabay | business office  conversation  talking  speaking  instructor | MrStockboto | Pixabay Content License | https://pixabay.com/videos/id-17333/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-production-in-action-31580819/ |
+| pixabay | job  creativity  buildings  architecture  worker  cement  co | mplace_911 | Pixabay Content License | https://pixabay.com/videos/id-109166/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/waitress-spaying-disinfectant-on-a-table-8440523/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135889/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/waiter-serving-drinks-6829134/ |
+| pixabay | ai generated  worker  miniature  bruschetta  food | NiKneT_Art | Pixabay Content License | https://pixabay.com/videos/id-263807/ |
+| pexels |  | Andrey Kirievskiy | Pexels License | https://www.pexels.com/video/person-operating-a-medical-equipment-4976474/ |
+| pixabay | woman  fast food  workshop  safety  convenience  lifestyle   | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-130651/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/bearded-man-preparing-food-for-the-two-people-standing-in-front-5920249/ |
+| pixabay | highway  road  car  transportation  vehicle  asphalt  aerial | mds524680 | Pixabay Content License | https://pixabay.com/videos/id-70856/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-manufacturing-blue-collar-workers-31529030/ |
+| pixabay | machine  asphalt paver  new road  building  asphalt  roads   | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-42698/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/hotel-receptionist-talking-to-a-guest-7820514/ |
+| pixabay | fabric  sewing machine  seamstress  workshop  cutting table  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115790/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/industrial-textile-workers-in-action-31373748/ |
+| pixabay | fabric  sewing machine  seamstress  workshop  cutting table  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115791/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-on-textile-production-line-31007048/ |
+| pixabay | hard work  worker  tractor  road  builder  work  workers  bu | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40812/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-woman-at-cashier-counter-3970167/ |
+| pixabay | bumblebee  garden  nature  close up | Nightwolfone | Pixabay Content License | https://pixabay.com/videos/id-42356/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-sorting-clothes-31360108/ |
+| pixabay | machine  gears  metal  old  wheel  industry  industrial  equ | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-212001/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-textile-worker-in-factory-setting-31657636/ |
+| pixabay | machine  gears  metal  old  wheel  industry  industrial  equ | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-212000/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-manufacturing-process-in-action-31465187/ |
+| pixabay | technology  manufacturing  equipment  process  production  m | harishs | Pixabay Content License | https://pixabay.com/videos/id-154902/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-indian-textile-factory-worker-31580813/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150346/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-work-in-action-31656805/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-factory-setting-31465189/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-factory-worker-arranging-fabrics-31580820/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-production-line-31580821/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-worker-at-sewing-station-31359565/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-worker-operating-sewing-machine-31373751/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-factory-workers-sewing-31359192/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-close-up-of-a-woman-placing-a-menu-on-a-stand-8426099/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-opening-a-bottle-of-white-wine-8764785/ |
+| pixabay | construction site  excavator  digging  industry  machinery   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-10877/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/beer-dispenser-at-a-bar-5847832/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11749/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-to-the-hotel-receptionist-7820476/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150365/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-is-making-a-drink-in-a-bar-4667171/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150362/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/concierge-pushing-trolley-loaded-with-white-boxes-6474562/ |
+| pixabay | man  mechanic  tractor  repair  motor  metal  speed  mechani | Kmeel_com | Pixabay Content License | https://pixabay.com/videos/id-83178/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/bellboy-pushing-a-luggage-trolley-in-the-hallway-5372866/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150353/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-a-modern-factory-31656804/ |
+| pixabay | field  paddy field  plantation  agriculture  rural  rice  pl | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-231246/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-worker-handling-yarn-spools-31370997/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150364/ |
+| pexels |  | Kiwi and Camera | Pexels License | https://www.pexels.com/video/female-brewer-inspecting-large-steel-brewing-vats-38806069/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189731/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-paying-using-his-credit-card-on-a-restaurant-6816190/ |
+| pixabay | motor  tractor  metal  mechanic  speed  mechanism  function  | Kmeel_com | Pixabay Content License | https://pixabay.com/videos/id-83170/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-looking-at-the-magazine-8279673/ |
+| pixabay | school  student  studies  to read  book  young woman  cabine | klimkin | Pixabay Content License | https://pixabay.com/videos/id-12897/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/ |
+| pixabay | man  student  library  books  shelves  study  read | Sang_Soi | Pixabay Content License | https://pixabay.com/videos/id-139802/ |
+| pexels |  | Arunangshu Banerjee | Pexels License | https://www.pexels.com/video/electrical-technicians-working-on-utility-pole-31651129/ |
+| pixabay | board  chalk  feedback  review  study  school  university  t | athree23 | Pixabay Content License | https://pixabay.com/videos/id-18398/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/man-working-warehouse-talking-4293956/ |
+| pixabay | man  student  library  books  shelves  study  read | Sang_Soi | Pixabay Content License | https://pixabay.com/videos/id-139804/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-while-holding-a-binder-6964428/ |
+| pixabay | weld  hardware  construction  welder  locksmith  spark  fire | Luiz-Jorge-Artista | Pixabay Content License | https://pixabay.com/videos/id-3522/ |

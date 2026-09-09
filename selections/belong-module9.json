@@ -73,56 +73,72 @@
       "note": "generates more contextual videos",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:05:52Z",
+      "added": 10
     },
     "S09": {
       "requested": "2026-09-09T06:00:00Z",
       "note": "these are not contexual for hospitality please generate 10 more",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T08:58:53Z",
+      "added": 10
     },
     "S07": {
       "requested": "2026-09-09T06:00:01Z",
       "note": "we need more contextual brolls for hospitality please generate 10 more.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T08:59:55Z",
+      "added": 10
     },
     "S13": {
       "requested": "2026-09-09T06:00:06Z",
       "note": "10 more contexutal in hospitality industry.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:04:55Z",
+      "added": 10
     },
     "S10": {
       "requested": "2026-09-09T06:00:02Z",
       "note": "genereate 10 more pleaes these are not contexual at all for hospitality.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:00:43Z",
+      "added": 10
     },
     "S04": {
       "requested": "2026-09-09T06:00:03Z",
       "note": "these brolls are not contextual at all please do 10 more hospitality industry.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:01:43Z",
+      "added": 10
     },
     "S06": {
       "requested": "2026-09-09T06:00:04Z",
       "note": "10 more contexutal in hospitality industry.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:02:51Z",
+      "added": 10
     },
     "S08": {
       "requested": "2026-09-09T06:00:05Z",
       "note": "10 more contexutal in hospitality industry.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:03:46Z",
+      "added": 10
     }
   }
 }
