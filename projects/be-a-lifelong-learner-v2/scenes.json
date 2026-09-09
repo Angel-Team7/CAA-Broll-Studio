@@ -3493,7 +3493,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S14__thumb__pexels_11194553_worker-uncertain-asking-help.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S14__preview__pexels_11194553_worker-uncertain-asking-help.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S14__strip__pexels_11194553_worker-uncertain-asking-help.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "a man in a polo shirt shrugs against a plain white studio backdrop",
+     "violation": "green screen",
+     "shot": "A",
+     "shoot": "pexels-studio-actor-shrug-whitebg",
+     "score": 2.95,
+     "judged_at": "2026-09-09T18:35:23Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pexels_6913247_mentor-reassuring-young-worker",
@@ -3554,7 +3564,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:35:23Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:35:23Z"
   },
   {
    "id": "S15",
@@ -3675,7 +3691,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__thumb__pexels_10605112_closing-notebook-moving-on.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__preview__pexels_10605112_closing-notebook-moving-on.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__strip__pexels_10605112_closing-notebook-moving-on.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "hands decorate a notebook page with stickers and washi tape",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-notebook-crafting-hands",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:35:23Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7853953_learning-next-skill-construction",
@@ -3687,7 +3713,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__thumb__pexels_7853953_learning-next-skill-construction.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__preview__pexels_7853953_learning-next-skill-construction.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__strip__pexels_7853953_learning-next-skill-construction.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "an older man hammers a nail into a board with two children watching",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-grandfather-children-hammering",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:35:23Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_2306471_closing-notebook-moving-on",
@@ -3738,7 +3774,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:35:23Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:35:23Z"
   },
   {
    "id": "S16b",
