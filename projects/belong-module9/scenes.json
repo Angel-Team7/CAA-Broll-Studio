@@ -890,7 +890,7 @@
      "shoot": "pexels-realtor-suburbanhouse",
      "score": 3.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 5
+     "rank": 11
     },
     {
      "id": "belong-module9-S03-V53",
@@ -920,7 +920,7 @@
      "shoot": "pexels-office-teal",
      "score": 1.95,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 12
+     "rank": 25
     },
     {
      "id": "belong-module9-S03-V54",
@@ -950,7 +950,7 @@
      "shoot": "pexels-office-startup",
      "score": 1.95,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 13
+     "rank": 26
     },
     {
      "id": "belong-module9-S03-V55",
@@ -972,7 +972,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:43Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 2,
      "caption": "a man in a tie shakes hands with another man outside a house",
@@ -980,7 +980,7 @@
      "shoot": "pexels-realtor-suburbanhouse",
      "score": 3.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 6
+     "rank": 12
     },
     {
      "id": "belong-module9-S03-V56",
@@ -1010,7 +1010,7 @@
      "shoot": "pexels-street-corporate",
      "score": 2.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 11
+     "rank": 22
     },
     {
      "id": "belong-module9-S03-V59",
@@ -1040,7 +1040,7 @@
      "shoot": "pexels-office-handshake-lawyer",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 22
+     "rank": 39
     },
     {
      "id": "belong-module9-S03-V60",
@@ -1070,7 +1070,7 @@
      "shoot": "pexels-formal-event-handshake",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 23
+     "rank": 40
     },
     {
      "id": "belong-module9-S03-V61",
@@ -1100,7 +1100,7 @@
      "shoot": "pexels-hotel-lobby-masks",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 14
+     "rank": 27
     },
     {
      "id": "belong-module9-S03-V62",
@@ -1130,7 +1130,7 @@
      "shoot": "pexels-office-handshake-women",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 24
+     "rank": 41
     },
     {
      "id": "belong-module9-S03-V63",
@@ -1160,7 +1160,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 15
+     "rank": 28
     },
     {
      "id": "belong-module9-S03-V64",
@@ -1190,7 +1190,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 16
+     "rank": 29
     },
     {
      "id": "belong-module9-S03-V65",
@@ -1212,7 +1212,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:53:39Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a man in a vest presents a wine bottle at a dinner table",
@@ -1220,7 +1220,7 @@
      "shoot": "pexels-finedining-wine-presentation",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 7
+     "rank": 14
     },
     {
      "id": "belong-module9-S03-V66",
@@ -1280,7 +1280,7 @@
      "shoot": "pexels-office-notebook-desk",
      "score": 3.65,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 4
+     "rank": 10
     },
     {
      "id": "belong-module9-S03-V68",
@@ -1310,7 +1310,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 17
+     "rank": 30
     },
     {
      "id": "belong-module9-S03-V69",
@@ -1332,7 +1332,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:54:05Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a man addresses guests seated at a formal dinner table",
@@ -1340,7 +1340,7 @@
      "shoot": "pexels-finedining-wine-presentation",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 8
+     "rank": 15
     },
     {
      "id": "belong-module9-S03-V70",
@@ -1370,7 +1370,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 25
+     "rank": 42
     },
     {
      "id": "belong-module9-S03-V71",
@@ -1392,7 +1392,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:54:18Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a hand writes in a diary beside a teddy bear",
@@ -1400,7 +1400,7 @@
      "shoot": "pixabay-diary-teddybear",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 9
+     "rank": 16
     },
     {
      "id": "belong-module9-S03-V72",
@@ -1430,7 +1430,7 @@
      "shoot": "pixabay-notebook-worn-wood",
      "score": 5.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 2
+     "rank": 6
     },
     {
      "id": "belong-module9-S03-V73",
@@ -1460,7 +1460,7 @@
      "shoot": "pixabay-laptop-keyboard-notebooks",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 18
+     "rank": 34
     },
     {
      "id": "belong-module9-S03-V74",
@@ -1490,7 +1490,7 @@
      "shoot": "pixabay-laptop-keyboard-closeup",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 19
+     "rank": 35
     },
     {
      "id": "belong-module9-S03-V75",
@@ -1520,7 +1520,7 @@
      "shoot": "pixabay-laptop-keyboard-green",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 20
+     "rank": 36
     },
     {
      "id": "belong-module9-S03-V76",
@@ -1550,7 +1550,7 @@
      "shoot": "pixabay-pencil-paper-closeup",
      "score": 4.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 3
+     "rank": 9
     },
     {
      "id": "belong-module9-S03-V77",
@@ -1580,7 +1580,7 @@
      "shoot": "pixabay-laptop-keyboard-overhead",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 21
+     "rank": 37
     },
     {
      "id": "belong-module9-S03-V78",
@@ -1602,7 +1602,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:55:05Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 5,
      "caption": "a woman in a white dress spins in a wheat field",
@@ -1610,7 +1610,7 @@
      "shoot": "pixabay-wheatfield-dress",
      "score": 2.4,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 10
+     "rank": 20
     },
     {
      "id": "belong-module9-S03-V79",
@@ -1624,15 +1624,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V79.strip.jpg",
      "title": "woman writing on a notebook",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "C",
      "duration": 24,
      "src_id": "6755017",
      "download_url": "https://videos.pexels.com/video-files/6755017/6755017-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:59:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a woman writes in a notebook at a modern reception desk",
+     "violation": "corporate hotel chains, glass lobbies",
+     "shoot": "pexels-corporate-reception-desk",
+     "score": 3.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 13
     },
     {
      "id": "belong-module9-S03-V80",
@@ -1646,15 +1654,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V80.strip.jpg",
      "title": "a man talking while pointing his fingers",
      "query": "waiter listening to guest at table",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "5676109",
      "download_url": "https://videos.pexels.com/video-files/5676109/5676109-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T15:59:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man gestures while talking indoors",
+     "violation": "",
+     "shoot": "pexels-man-talking-indoors",
+     "score": 2.7,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 18
     },
     {
      "id": "belong-module9-S03-V81",
@@ -1675,8 +1691,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a receptionist shows a tablet to a guest at a counter",
+     "violation": "luxury spa clichés",
+     "shoot": "pexels-spa-reception-tablet",
+     "score": 4.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 7
     },
     {
      "id": "belong-module9-S03-V82",
@@ -1690,15 +1714,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V82.strip.jpg",
      "title": "a woman entering a beauty salon",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "7754471",
      "download_url": "https://videos.pexels.com/video-files/7754471/7754471-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman enters a boutique as a masked employee approaches",
+     "violation": "face masks",
+     "shoot": "pexels-boutique-mask-entry",
+     "score": 0.65,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 44
     },
     {
      "id": "belong-module9-S03-V83",
@@ -1719,8 +1751,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a woman pays with a card at a hotel reception counter",
+     "violation": "",
+     "shoot": "pexels-hotel-lobby-card-payment",
+     "score": 3.0,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 17
     },
     {
      "id": "belong-module9-S03-V84",
@@ -1734,15 +1774,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V84.strip.jpg",
      "title": "man inside a dental clinic",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "",
      "duration": 29,
      "src_id": "6755025",
      "download_url": "https://videos.pexels.com/video-files/6755025/6755025-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two men talk at a dental clinic reception",
+     "violation": "",
+     "shoot": "pexels-dental-clinic-reception",
+     "score": 0.0,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 46
     },
     {
      "id": "belong-module9-S03-V85",
@@ -1756,15 +1804,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V85.strip.jpg",
      "title": "man signing on a document",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "C",
      "duration": 40,
      "src_id": "8465133",
      "download_url": "https://videos.pexels.com/video-files/8465133/8465133-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a man signs a document at a glass office desk",
+     "violation": "corporate hotel chains, glass lobbies",
+     "shoot": "pexels-glass-office-signing",
+     "score": 1.65,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 33
     },
     {
      "id": "belong-module9-S03-V86",
@@ -1778,15 +1834,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V86.strip.jpg",
      "title": "receptionist showing room to guest",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "",
      "duration": 27,
      "src_id": "7820516",
      "download_url": "https://videos.pexels.com/video-files/7820516/7820516-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two guests walk through a hotel lobby wearing face masks",
+     "violation": "face masks",
+     "shoot": "pexels-luxury-hotel-lobby-masks",
+     "score": 1.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 43
     },
     {
      "id": "belong-module9-S03-V87",
@@ -1807,8 +1871,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a hand writes in an open notebook with a pen",
+     "violation": "",
+     "shoot": "pexels-handwriting-notebook-warm",
+     "score": 7.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 2
     },
     {
      "id": "belong-module9-S03-V88",
@@ -1829,8 +1901,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand tucks a colored note into an open notebook",
+     "violation": "",
+     "shoot": "pexels-notebook-sticky-note",
+     "score": 6.0,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 5
     },
     {
      "id": "belong-module9-S03-V89",
@@ -1844,15 +1924,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V89.strip.jpg",
      "title": "a senior woman buying medicine",
      "query": "receptionist listening to upset guest",
-     "shot": "A",
+     "shot": "",
      "duration": 44,
      "src_id": "8657624",
      "download_url": "https://videos.pexels.com/video-files/8657624/8657624-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:00:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman shows a product bottle during a consultation",
+     "violation": "",
+     "shoot": "pexels-consultation-product-bottle",
+     "score": 1.35,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 38
     },
     {
      "id": "belong-module9-S03-V90",
@@ -1873,8 +1961,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a waitress writes down an order for guests at an outdoor table",
+     "violation": "",
+     "shoot": "pexels-patio-waitress-order",
+     "score": 6.65,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 4
     },
     {
      "id": "belong-module9-S03-V91",
@@ -1895,8 +1991,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a tuxedoed waiter serves guests at a formal dinner table",
+     "violation": "",
+     "shoot": "pexels-finedining-waiter-serving",
+     "score": 4.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 8
     },
     {
      "id": "belong-module9-S03-V92",
@@ -1917,8 +2021,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a masked waiter serves drinks at a restaurant table",
+     "violation": "face masks",
+     "shoot": "pexels-finedining-waiter-mask",
+     "score": 1.95,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 31
     },
     {
      "id": "belong-module9-S03-V93",
@@ -1939,8 +2051,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a hand writes notes in an open notebook close up",
+     "violation": "",
+     "shoot": "pixabay-handwriting-notebook-study",
+     "score": 7.3,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 3
     },
     {
      "id": "belong-module9-S03-V94",
@@ -1954,15 +2074,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V94.strip.jpg",
      "title": "school  scribble  student  drawing  notepad  sketchbook  pupil  learning  pen  write  doodle",
      "query": "hand writing notebook pen",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "80",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/80-135733160_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand sketches on paper beside a laptop keyboard",
+     "violation": "",
+     "shoot": "pixabay-sketch-laptop-desk",
+     "score": 2.7,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 19
     },
     {
      "id": "belong-module9-S03-V95",
@@ -1976,15 +2104,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V95.strip.jpg",
      "title": "sketch  draw  pencil  drawing  design  hand  paper  creative  artist  pen  sketching  artistic  artwork  paint  creativity  school  painting  designer",
      "query": "hand writing notebook pen",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "10824",
      "download_url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand draws with colored pencils on a cutting mat",
+     "violation": "",
+     "shoot": "pixabay-craft-sketch-pencils",
+     "score": 2.05,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 23
     },
     {
      "id": "belong-module9-S03-V96",
@@ -1998,15 +2134,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V96.strip.jpg",
      "title": "foosball table  football  game  sport  action  table football",
      "query": "waiter guest table talking",
-     "shot": "B",
+     "shot": "",
      "duration": 29,
      "src_id": "28376",
      "download_url": "https://cdn.pixabay.com/video/2019/10/28/28376-369325503_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a foosball table with yellow and green players",
+     "violation": "dice or game imagery",
+     "shoot": "pixabay-foosball-table",
+     "score": 0.0,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 47
     },
     {
      "id": "belong-module9-S03-V97",
@@ -2020,15 +2164,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V97.strip.jpg",
      "title": "beer  brewery  tavern  waiter",
      "query": "waiter guest table talking",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "26373",
      "download_url": "https://cdn.pixabay.com/video/2019/08/29/26373-357839133_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a bartender pours a beer at a lit bar counter",
+     "violation": "",
+     "shoot": "pixabay-bartender-pouring-beer",
+     "score": 2.05,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 24
     },
     {
      "id": "belong-module9-S03-V98",
@@ -2042,15 +2194,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V98.strip.jpg",
      "title": "table  meal  dishes  food  cuisine",
      "query": "waiter guest table talking",
-     "shot": "B",
+     "shot": "",
      "duration": 5,
      "src_id": "149935",
      "download_url": "https://cdn.pixabay.com/video/2023/02/09/149935-797511795_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "an overhead spread of plated mezze dishes on a table",
+     "violation": "",
+     "shoot": "pixabay-overhead-mezze-spread",
+     "score": 2.4,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 21
     },
     {
      "id": "belong-module9-S03-V99",
@@ -2064,15 +2224,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V99.strip.jpg",
      "title": "book  wind  literature  education  writing  reading  poetry  novel  author",
      "query": "hand writing notebook pen",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "185092",
      "download_url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:01:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an open book rests on sand at a sunlit beach",
+     "violation": "resort pools and beaches",
+     "shoot": "pixabay-book-beach-sunset",
+     "score": 0.65,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 45
     },
     {
      "id": "belong-module9-S03-V100",
@@ -2086,15 +2254,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V100.strip.jpg",
      "title": "billet  bank  debt  pen",
      "query": "hand writing notebook pen",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "13477",
      "download_url": "https://cdn.pixabay.com/video/2017/12/19/13477-248644896_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:02:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a pen rests on printed bank forms on a dark table",
+     "violation": "",
+     "shoot": "pixabay-bank-forms-pen",
+     "score": 1.7,
+     "judged_at": "2026-09-09T16:04:41Z",
+     "rank": 32
     }
    ],
    "shots": [
@@ -2136,12 +2312,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T15:57:20Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T15:57:20Z"
+   "judged_at": "2026-09-09T16:04:41Z"
   },
   {
    "id": "S12",
