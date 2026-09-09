@@ -28,7 +28,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__thumb__pexels_28557980_portugal-farmhouse-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__preview__pexels_28557980_portugal-farmhouse-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__strip__pexels_28557980_portugal-farmhouse-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "aerial view of a stone-house village surrounded by green walled fields",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-stonevillage-terraces-aerial",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:29:15Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_31846104_eco-resort-aerial",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__thumb__pexels_31846104_eco-resort-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__preview__pexels_31846104_eco-resort-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__strip__pexels_31846104_eco-resort-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "aerial view of low green-roofed buildings dissolved among dense trees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-lodge-forest-aerial",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:29:15Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_33749474_farm-estate-drone",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__thumb__pexels_33749474_farm-estate-drone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__preview__pexels_33749474_farm-estate-drone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__strip__pexels_33749474_farm-estate-drone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "aerial view of a house with a swimming pool nestled in woodland beside farm fields",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pexels-estate-pool-aerial",
+     "score": 3.25,
+     "judged_at": "2026-09-09T17:29:15Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_31953691_farm-estate-drone",
@@ -104,7 +134,13 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:29:15Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:29:15Z"
   },
   {
    "id": "S02",
@@ -131,7 +167,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__thumb__pexels_8235745_raised-boardwalk-grass.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__preview__pexels_8235745_raised-boardwalk-grass.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__strip__pexels_8235745_raised-boardwalk-grass.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a wooden boardwalk winds through a wild grassy bog with sparse pines",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-boardwalk-bog-cottongrass",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:29:36Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8526577_wooden-deck-pathway",
@@ -143,7 +189,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__thumb__pexels_8526577_wooden-deck-pathway.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__preview__pexels_8526577_wooden-deck-pathway.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__strip__pexels_8526577_wooden-deck-pathway.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "feet walk across sunlit wooden deck planks",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-feet-walking-deck-planks",
+     "score": 5.05,
+     "judged_at": "2026-09-09T17:29:36Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_19867735_wooden-walkway-pines",
@@ -195,7 +251,13 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:29:36Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:29:36Z"
   },
   {
    "id": "S03",
