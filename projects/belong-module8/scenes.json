@@ -4308,14 +4308,23 @@
      "page_url": "https://www.pexels.com/video/bellboy-showing-guests-to-elevator-5378936/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V14.mp4",
-     "score": 12.66,
+     "score": 0.0,
      "categories": [
       "guest"
      ],
      "title": "video bellboy showing guests elevator",
      "query": "hotel staff showing map guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a uniformed bellboy leads guests through a marble hotel lobby to the elevator",
+     "violation": "corporate hotel chains",
+     "shot": "",
+     "shoot": "pexels-luxurylobby-bellboy",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V18",
@@ -4490,7 +4499,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool",
      "judged_at": "2026-09-09T17:11:04Z",
-     "rank": 20,
+     "rank": 21,
      "shown": false
     },
     {
@@ -4606,7 +4615,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool",
      "judged_at": "2026-09-09T17:11:04Z",
-     "rank": 21,
+     "rank": 22,
      "shown": false
     },
     {
@@ -4635,7 +4644,7 @@
      "shot": "",
      "shoot": "pexels-formal-meeting-chandelier",
      "judged_at": "2026-09-09T17:11:04Z",
-     "rank": 22,
+     "rank": 23,
      "shown": false
     },
     {
@@ -4664,7 +4673,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool-floats",
      "judged_at": "2026-09-09T17:11:04Z",
-     "rank": 23,
+     "rank": 24,
      "shown": false
     },
     {
@@ -4765,10 +4774,10 @@
    "shots_at": "2026-09-09T14:25:20Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T17:11:04Z",
+    "at": "2026-09-09T17:39:53Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:11:04Z"
+   "judged_at": "2026-09-09T17:39:53Z"
   },
   {
    "id": "S10",
@@ -5819,7 +5828,7 @@
      "page_url": "https://pixabay.com/videos/id-245684/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V02.mp4",
-     "score": 20.04,
+     "score": 3.05,
      "categories": [
       "farm",
       "field",
@@ -5830,7 +5839,16 @@
      "title": "man  young  cultivation  person  agriculture  wheat  farming  farm  field  harvest  green  food  growth  grain  rural  s",
      "query": "sunrise field growth",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a farmer carries a bundle of corn stalks across a furrowed field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cornharvest-field",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-V03",
@@ -5841,7 +5859,7 @@
      "page_url": "https://pixabay.com/videos/id-200514/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V03.mp4",
-     "score": 18.24,
+     "score": 6.35,
      "categories": [
       "countryside",
       "farm",
@@ -5852,7 +5870,16 @@
      "title": "building  farm  plantation  countryside  tree  olives  young  oil  plant  drone  olio d'oliva  agricultural  harvest  me",
      "query": "young tree planting",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "aerial view of an old stone farmhouse under restoration among olive trees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-stonebuilding-aerial",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-V04",
@@ -5863,7 +5890,7 @@
      "page_url": "https://pixabay.com/videos/id-324138/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V04.mp4",
-     "score": 17.59,
+     "score": 3.4,
      "categories": [
       "farm",
       "field",
@@ -5875,7 +5902,16 @@
      "title": "wheat  field  grain  agriculture  nature  dew  water  drops  morning  sunrise  golden  farm  harvest  summer  crop  food",
      "query": "sunrise field growth",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "dew glistens on golden wheat ears at sunrise",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheatfield-dew",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-V05",
@@ -5886,7 +5922,7 @@
      "page_url": "https://www.pexels.com/video/a-person-pouring-garden-soil-on-the-ground-8544137/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V05.mp4",
-     "score": 14.09,
+     "score": 5.35,
      "categories": [
       "garden",
       "soil"
@@ -5894,7 +5930,16 @@
      "title": "video person pouring garden soil the ground",
      "query": "young tree planting",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a hand pours dark soil around a young planted vine",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-soilpour-vine",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-V06",
@@ -5905,14 +5950,23 @@
      "page_url": "https://www.pexels.com/video/hands-planting-seeds-11915510/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V06.mp4",
-     "score": 13.84,
+     "score": 7.65,
      "categories": [
       "hands"
      ],
      "title": "video hands planting seeds",
      "query": "seedling growing soil",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a hand presses soil around seedlings planted in a row",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-seedlingrow-hand",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-V07",
@@ -5923,7 +5977,7 @@
      "page_url": "https://www.pexels.com/video/female-hands-working-in-garden-12354539/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__belong-m8-S12-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__belong-m8-S12-V07.mp4",
-     "score": 13.75,
+     "score": 5.05,
      "categories": [
       "garden",
       "hands",
@@ -5932,7 +5986,16 @@
      "title": "video female hands working garden",
      "query": "roots earth hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__belong-m8-S12-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "hands pull fresh radishes from a garden bed",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-gardenharvest-radish",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S12-I01",
@@ -6003,7 +6066,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__pexels_4503303_roots-soil-closeup.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__pexels_4503303_roots-soil-closeup.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__pexels_4503303_roots-soil-closeup.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands hold a young plant with exposed roots and soil",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-rootball-houseplant",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_280286_young-tree-soil",
@@ -6015,7 +6088,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__pixabay_280286_young-tree-soil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__pixabay_280286_young-tree-soil.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__pixabay_280286_young-tree-soil.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a green seedling sprouts against a black studio background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-seedling-studio",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pixabay_73847_planting-sapling-hands",
@@ -6027,7 +6110,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__thumb__pixabay_73847_planting-sapling-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S12__preview__pixabay_73847_planting-sapling-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S12__strip__pixabay_73847_planting-sapling-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "sand falls through an open hand",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-hand",
+     "score": 1.35,
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_6963537_planting-sapling-hands",
@@ -6076,7 +6169,8 @@
     "corporate expansion imagery"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "judged_at": "2026-09-09T17:39:53Z"
   },
   {
    "id": "S13",
@@ -6099,7 +6193,7 @@
      "page_url": "https://pixabay.com/videos/id-168271/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V22.mp4",
-     "score": 20.87,
+     "score": 4.05,
      "categories": [
       "countryside",
       "farm",
@@ -6111,7 +6205,16 @@
      "title": "round hay bales  flying over  countryside  agriculture  farmland  rural landscape  summer  field  harvest  nature  sceni",
      "query": "sunrise over farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hay bales dot a golden field under a wide open sky",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-haybales-field",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-V09",
@@ -6122,7 +6225,7 @@
      "page_url": "https://www.pexels.com/video/chef-with-vegetables-in-kitchen-11025688/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V09.mp4",
-     "score": 18.61,
+     "score": 4.4,
      "categories": [
       "chef",
       "kitchen",
@@ -6132,7 +6235,16 @@
      "title": "video chef with vegetables kitchen",
      "query": "chef picking herbs garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a chef in an apron sorts fresh herbs at a rustic kitchen counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rustickitchen-herbs",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-V10",
@@ -6143,7 +6255,7 @@
      "page_url": "https://www.pexels.com/video/person-harvesting-herbs-5391454/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V10.mp4",
-     "score": 17.71,
+     "score": 2.35,
      "categories": [
       "harvest",
       "herbs"
@@ -6151,7 +6263,16 @@
      "title": "video person harvesting herbs",
      "query": "chef picking herbs garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "gloved hands trim microgreens on a steel table in a greenhouse",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-greenhouse-microgreens",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-V11",
@@ -6162,7 +6283,7 @@
      "page_url": "https://www.pexels.com/video/tractor-harvesting-at-sunrise-in-open-field-38344768/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V11.mp4",
-     "score": 16.31,
+     "score": 3.05,
      "categories": [
       "field",
       "harvest",
@@ -6171,7 +6292,16 @@
      "title": "video tractor harvesting sunrise open field",
      "query": "sunrise over farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a tractor works an open field at sunrise",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tractor-sunrise",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-V24",
@@ -6196,12 +6326,21 @@
      "page_url": "https://www.pexels.com/video/a-person-picking-the-leaves-of-the-mint-6663175/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V26.mp4",
-     "score": 14.67,
+     "score": 4.4,
      "categories": [],
      "title": "video person picking the leaves the mint",
      "query": "chef picking herbs garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "hands pick fresh mint leaves into a glass",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-mintpick-glass",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-V28",
@@ -6212,12 +6351,21 @@
      "page_url": "https://www.pexels.com/video/woman-plucking-mint-leaves-4721925/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__thumb__belong-m8-S13-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S13__preview__belong-m8-S13-V28.mp4",
-     "score": 14.67,
+     "score": 4.4,
      "categories": [],
      "title": "video woman plucking mint leaves",
      "query": "chef picking herbs garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-m8-S13-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "an arm reaches to pick mint from a garden bush by an old well",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-mintpick-garden",
+     "judged_at": "2026-09-09T17:39:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S13-I04",
@@ -6314,7 +6462,13 @@
     "resort pool"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:39:53Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:39:53Z"
   }
  ]
 }
