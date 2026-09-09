@@ -68,7 +68,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__thumb__pexels_816194_portugal-farmhouse-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S01__preview__pexels_816194_portugal-farmhouse-aerial.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial of clusters of low white houses among orchards and pine forest",
+     "pexels": "aerial white houses orchards pine forest",
+     "pixabay": "aerial white houses orchard pines",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "drone rising to reveal how little is built",
+     "pexels": "drone rising over countryside houses",
+     "pixabay": "drone countryside houses rising",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a white wall corner against pine green",
+     "pexels": "white wall corner pine trees close",
+     "pixabay": "white wall pines close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "city",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S02",
@@ -125,7 +155,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__thumb__pixabay_1500482_timber-path-nature.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S02__preview__pixabay_1500482_timber-path-nature.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "slow glide along a raised timber walkway through pines and wild grass",
+     "pexels": "timber walkway through pines wild grass",
+     "pixabay": "wooden walkway pines grass",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "greenery pushing up between boards, close",
+     "pexels": "grass between wooden boards close",
+     "pixabay": "grass wooden boards close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "water flowing under a wooden path after rain",
+     "pexels": "water flowing under wooden path",
+     "pixabay": "water under boardwalk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "city pier",
+    "resort pool",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S03",
@@ -192,7 +252,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__thumb__pixabay_3667768_linen-bed-morning-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__preview__pixabay_3667768_linen-bed-morning-light.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "minimalist room in natural wood and linen with light pouring in",
+     "pexels": "minimalist room wood linen light",
+     "pixabay": "minimalist room wood linen",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "handmade ceramics on a wooden shelf",
+     "pexels": "handmade ceramics wooden shelf",
+     "pixabay": "ceramics handmade shelf",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "private terrace with chairs beyond an open door",
+     "pexels": "private terrace beyond open door",
+     "pixabay": "terrace open door chairs",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "luxury gold decor",
+    "hotel chain room",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S04",
@@ -239,7 +329,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__thumb__pexels_26224773_wood-burning-stove.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__preview__pexels_26224773_wood-burning-stove.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "equipped kitchen in a holiday house, wooden counters",
+     "pexels": "holiday house kitchen wooden counters",
+     "pixabay": "kitchen wooden counters house",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wood-burning stove lit in a small living room",
+     "pexels": "wood burning stove lit living room",
+     "pixabay": "wood stove fire living room",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "terrace table and armchairs in morning light",
+     "pexels": "terrace table armchairs morning",
+     "pixabay": "terrace armchairs morning",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "hands smoothing a premium mattress sheet",
+     "pexels": "hands smoothing mattress sheet",
+     "pixabay": "hands bed sheet smoothing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "luxury gold decor",
+    "showroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S05",
@@ -286,7 +413,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__thumb__pexels_25729721_steam-pool-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__preview__pexels_25729721_steam-pool-morning.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "steam over a heated pool at dawn",
+     "pexels": "steam over heated pool dawn",
+     "pixabay": "pool steam dawn",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "timber sauna cabin among pines",
+     "pexels": "timber sauna cabin pines",
+     "pixabay": "sauna cabin pines wood",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "hot tub with forest light, close on water",
+     "pexels": "hot tub forest light water close",
+     "pixabay": "hot tub forest water",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool party",
+    "water park",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S06",
@@ -343,7 +500,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__thumb__pexels_9117894_vegetable-garden-harvest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__preview__pexels_9117894_vegetable-garden-harvest.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "rows of vegetables on a working farm",
+     "pexels": "vegetable rows working farm",
+     "pixabay": "vegetable rows farm",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "hands pulling produce from the earth",
+     "pexels": "hands pulling vegetables from soil",
+     "pixabay": "harvest hands soil vegetables",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guest harvesting alongside a farmer",
+     "pexels": "guest harvesting with farmer",
+     "pixabay": "harvest farmer visitor together",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "hens ranging free in an orchard",
+     "pexels": "free range hens orchard",
+     "pixabay": "hens orchard free range",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "industrial farm",
+    "supermarket",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S07",
@@ -400,7 +594,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__thumb__pexels_38164883_honey-jars-rustic.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__preview__pexels_38164883_honey-jars-rustic.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "jars of honey and preserves on a shelf with handwritten labels",
+     "pexels": "honey preserves jars handwritten labels",
+     "pixabay": "honey jars labels shelf",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "olive oil bottles and handmade soaps on a wooden table",
+     "pexels": "olive oil bottles handmade soaps table",
+     "pixabay": "olive oil soap table craft",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "small shop interior with local products in warm light",
+     "pexels": "small shop local products warm light",
+     "pixabay": "small shop local products",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "supermarket",
+    "corporate branding"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S08",
@@ -437,7 +660,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S08__thumb__pixabay_3395699_linen-drying-sunshine.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S08__preview__pixabay_3395699_linen-drying-sunshine.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crisp white linens folded by hand",
+     "pexels": "folding white linens by hand",
+     "pixabay": "folding linen white hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "sheets drying on a line in the sun",
+     "pexels": "sheets drying on line sun",
+     "pixabay": "sheets clothesline sun",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "village street with a small laundry doorway",
+     "pexels": "village street small laundry",
+     "pixabay": "village street laundry",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "industrial laundry plant",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S09",
@@ -474,7 +726,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S09__thumb__pexels_35383621_hands-smoothing-sheets.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S09__preview__pexels_35383621_hands-smoothing-sheets.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands smoothing a bed to perfection",
+     "pexels": "hands smoothing bed perfectly",
+     "pixabay": "housekeeping bed hands smoothing",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper aligning amenities on a shelf",
+     "pexels": "housekeeper aligning amenities shelf",
+     "pixabay": "housekeeping amenities aligning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "housekeeper taking a final look around a room with pride",
+     "pexels": "housekeeper final look room pride",
+     "pixabay": "housekeeper room finished look",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel chain uniform",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S10",
@@ -511,7 +792,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S10__thumb__pexels_33702993_worker-tending-garden-path.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S10__preview__pexels_33702993_worker-tending-garden-path.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff member clearing a fallen branch from a walkway",
+     "pexels": "clearing fallen branch walkway",
+     "pixabay": "branch path clearing worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "hand wiping a smudged window",
+     "pexels": "hand wiping window close",
+     "pixabay": "wiping window hand",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "staff member straightening a lantern on a terrace",
+     "pexels": "straightening lantern terrace",
+     "pixabay": "lantern terrace hand",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a tidy walkway in evening light",
+     "pexels": "tidy wooden walkway evening light",
+     "pixabay": "walkway evening tidy",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hi-vis crew",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   }
  ]
 }

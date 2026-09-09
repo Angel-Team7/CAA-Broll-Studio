@@ -48,7 +48,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__thumb__pexels_37594386_server-guest-eye-contact.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__preview__pexels_37594386_server-guest-eye-contact.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "waiter serving with genuine eye contact and a real smile, medium two-shot",
+     "pexels": "waiter serving guest eye contact smile",
+     "pixabay": "waiter guest smile serving",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a plate set down and a guest looking up",
+     "pexels": "plate set down guest looks up",
+     "pixabay": "plate served guest close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a rustic dining terrace at lunch",
+     "pexels": "rustic dining terrace lunch wide",
+     "pixabay": "terrace restaurant lunch rustic",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate restaurant",
+    "face masks",
+    "fast food"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S02",
@@ -105,7 +135,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__thumb__pexels_36799048_generations-sharing-meal.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__preview__pexels_36799048_generations-sharing-meal.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "older woman ladling a dish onto plates at a family table",
+     "pexels": "grandmother serving food family table",
+     "pixabay": "grandmother table food family",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "generations sharing food at a rustic home table",
+     "pexels": "family generations sharing meal rustic",
+     "pixabay": "family meal generations home",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a wrinkled hand passing bread",
+     "pexels": "elderly hand passing bread close",
+     "pixabay": "elderly hand bread close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "restaurant chain",
+    "polished catalog kitchen",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S03",
@@ -162,7 +222,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__thumb__pexels_9788371_host-opening-door.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__preview__pexels_9788371_host-opening-door.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host opening the door of a whitewashed house, arms open, delighted",
+     "pexels": "host opening door welcoming guests delighted",
+     "pixabay": "host door welcome open arms",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "friends hugging on a doorstep",
+     "pexels": "friends hugging on doorstep",
+     "pixabay": "hug doorstep friends",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a white house with its door open and a lantern lit",
+     "pexels": "white house door open lantern",
+     "pixabay": "white house open door lantern",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel check-in counter",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S04",
@@ -209,7 +299,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__thumb__pexels_9820925_countryside-road-evening.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__preview__pexels_9820925_countryside-road-evening.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "car pulling up a rural drive at dusk, farmhouse lights on",
+     "pexels": "car arriving rural house dusk lights",
+     "pixabay": "car arrival countryside dusk",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "parent lifting a sleeping child out of a car",
+     "pexels": "parent lifting sleeping child from car",
+     "pixabay": "sleeping child car parent",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of tired parents' faces relaxing on arrival",
+     "pexels": "tired parents relieved arrival",
+     "pixabay": "parents tired relieved faces",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "airport",
+    "hotel chain lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S05",
@@ -256,7 +376,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__thumb__pexels_7755676_receptionist-greeting-guest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__preview__pexels_7755676_receptionist-greeting-guest.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "receptionist greeting a returning guest warmly, guest's face lighting up",
+     "pexels": "receptionist greeting returning guest warmly",
+     "pixabay": "receptionist guest greeting warm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a smile of recognition",
+     "pexels": "smile of recognition close up",
+     "pixabay": "smile recognition face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "host walking toward a guest with open hand at a courtyard",
+     "pexels": "host walking to greet guest courtyard",
+     "pixabay": "host greeting courtyard guest",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "name badge close-ups",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S06",
@@ -303,7 +453,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__thumb__pexels_34176198_lighting-fire-pit.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__preview__pexels_34176198_lighting-fire-pit.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands lighting a fire pit at blue hour, sparks rising",
+     "pexels": "hands lighting fire pit blue hour",
+     "pixabay": "fire pit lighting sparks dusk",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "blankets laid on chairs around a fire pit before guests arrive",
+     "pexels": "blankets on chairs fire pit empty",
+     "pixabay": "fire pit chairs blankets",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a glowing fire pit in a garden at night",
+     "pexels": "fire pit glowing garden night",
+     "pixabay": "fire pit night garden glow",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "bonfire party crowd",
+    "fireworks",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S07",
@@ -350,7 +530,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__thumb__pexels_37816055_sunset-viewpoint-people.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__preview__pexels_37816055_sunset-viewpoint-people.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff member on a hilltop pointing toward the coastline for guests",
+     "pexels": "guide pointing at coastline hilltop guests",
+     "pixabay": "guide pointing coast hill",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "host tracing a route on a paper map with guests",
+     "pexels": "host showing map to guests outdoors",
+     "pixabay": "map guests outdoor showing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand pointing at a distant sunset spot",
+     "pexels": "hand pointing at horizon sunset",
+     "pixabay": "hand pointing horizon sunset",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "tour bus",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S08",
@@ -397,7 +607,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__thumb__pexels_6660667_hands-arranging-linen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__preview__pexels_6660667_hands-arranging-linen.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "stuffed animal arranged on a child's pillow",
+     "pexels": "stuffed animal on child pillow bed",
+     "pixabay": "teddy bear pillow bed",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "a remembered bottle of wine set at a table for two",
+     "pexels": "wine bottle set on table for two",
+     "pixabay": "wine bottle table two",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "host handing a small envelope to a guest at a desk",
+     "pexels": "host handing envelope to guest",
+     "pixabay": "envelope handing guest desk",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a quiet room prepared with small touches, flowers on a table",
+     "pexels": "room prepared flowers table quiet",
+     "pixabay": "room flowers table prepared",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "luxury spa cliché",
+    "gift wrapping stock",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S09",
@@ -464,7 +711,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__thumb__pexels_3771832_woman-hammock-relaxing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__preview__pexels_3771832_woman-hammock-relaxing.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest reclined in a hammock, eyes closed, golden light, pines",
+     "pexels": "person hammock eyes closed golden light pines",
+     "pixabay": "hammock relax pines golden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "guest on a terrace with a book, phone nowhere",
+     "pexels": "person reading on terrace relaxed",
+     "pixabay": "terrace reading relaxed",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of pine branches swaying in light",
+     "pexels": "pine branches swaying sunlight close",
+     "pixabay": "pine branches sunlight",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "phone in hand",
+    "resort pool loungers",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S10",
@@ -511,7 +788,45 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__thumb__pexels_4590943_chef-portrait-proud.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__preview__pexels_4590943_chef-portrait-proud.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "chef standing proud in a kitchen, honest face, soft light",
+     "pexels": "chef portrait proud kitchen soft light",
+     "pixabay": "chef portrait kitchen proud",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper standing in a doorway with dignity",
+     "pexels": "housekeeper portrait doorway dignity",
+     "pixabay": "housekeeper portrait doorway",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "gardener standing in a garden, hands on a tool, calm face",
+     "pexels": "gardener portrait garden calm",
+     "pixabay": "gardener portrait garden tool",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a calm face looking slightly off camera",
+     "pexels": "calm face portrait soft light",
+     "pixabay": "portrait calm face soft",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "servile bowing",
+    "corporate headshots",
+    "face masks",
+    "intense stare into camera"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   }
  ]
 }

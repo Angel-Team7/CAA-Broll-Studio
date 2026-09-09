@@ -48,7 +48,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__thumb__pexels_6585976_woman-laptop-cozy-evening.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S01__preview__pexels_6585976_woman-laptop-cozy-evening.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "person at home on a grey evening scrolling a laptop, screen glow",
+     "pexels": "person scrolling laptop grey evening home",
+     "pixabay": "laptop evening home scrolling",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "rain on a city window, apartment interior",
+     "pexels": "rain on city window apartment",
+     "pixabay": "rain window city apartment",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a face lit by a screen, longing",
+     "pexels": "face lit by screen close up",
+     "pixabay": "face screen glow close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S02",
@@ -95,7 +125,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__thumb__pexels_5386485_writing-email-warm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__preview__pexels_5386485_writing-email-warm-light.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands typing a warm reply at a wooden desk in daylight",
+     "pexels": "hands typing at wooden desk daylight",
+     "pixabay": "hands typing desk wood",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "paper reservation calendar with handwritten names",
+     "pexels": "handwritten reservation book",
+     "pixabay": "reservation book handwritten",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "receptionist at a small wooden reception writing",
+     "pexels": "receptionist writing small wooden reception",
+     "pixabay": "receptionist writing wooden desk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "call centre",
+    "corporate office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S03",
@@ -152,7 +212,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__thumb__pexels_18473592_refreshing-drink-terrace.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__preview__pexels_18473592_refreshing-drink-terrace.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guests stepping out of a car and receiving cold drinks under a pergola",
+     "pexels": "guests welcomed with drinks under pergola",
+     "pixabay": "guests arrival drinks pergola",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "host handing a cold glass to a guest, both smiling",
+     "pexels": "host handing cold drink to guest",
+     "pixabay": "host drink guest smile",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of shoulders dropping, a relieved sigh",
+     "pexels": "relieved sigh close up",
+     "pixabay": "relief sigh face close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hotel chain lobby",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S04",
@@ -209,7 +299,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__thumb__pixabay_3667768_morning-light-bedroom-linen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__preview__pixabay_3667768_morning-light-bedroom-linen.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "morning light through linen curtains onto a bed",
+     "pexels": "morning light linen curtains bed",
+     "pixabay": "morning light curtains bed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "farm breakfast: fresh bread, preserves, eggs",
+     "pexels": "farm breakfast bread preserves eggs",
+     "pixabay": "breakfast bread eggs jam rustic",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "rosemary bush close with morning dew",
+     "pexels": "rosemary bush morning dew close",
+     "pixabay": "rosemary dew morning",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a breakfast table on a terrace in morning sun",
+     "pexels": "breakfast table terrace morning sun",
+     "pixabay": "breakfast terrace morning",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel buffet",
+    "alarm clock",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S05",
@@ -266,7 +393,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__thumb__pexels_33503555_horseback-riding-coastal.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__preview__pexels_33503555_horseback-riding-coastal.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "surfers on an Atlantic beach",
+     "pexels": "surfers atlantic beach portugal",
+     "pixabay": "surfers beach portugal",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "riders on a countryside trail",
+     "pexels": "horse riders countryside trail",
+     "pixabay": "horse riders trail",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "woman reading by a pool with a glass of wine",
+     "pexels": "woman reading by pool with wine",
+     "pixabay": "woman reading pool wine",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a book and wine glass on a wooden ledge",
+     "pexels": "book and wine glass wooden ledge",
+     "pixabay": "book wine glass wood",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool party",
+    "crowds",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S06",
@@ -323,7 +487,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__thumb__pexels_7782394_family-farm-experience.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S06__preview__pexels_7782394_family-farm-experience.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "small child feeding a goat, low angle, morning light",
+     "pexels": "child feeding goat morning",
+     "pixabay": "child goat feeding farm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "child feeding chickens with parents watching delighted",
+     "pexels": "child feeding chickens parents watching",
+     "pixabay": "child chickens parents farm",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a child's hand offering feed to an animal",
+     "pexels": "child hand feeding animal close",
+     "pixabay": "child hand animal feed",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "petting zoo crowds",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S07",
@@ -370,7 +563,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__thumb__pexels_4641249_reading-by-fireplace.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__preview__pexels_4641249_reading-by-fireplace.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "rain streaking a window, countryside beyond",
+     "pexels": "rain on window countryside",
+     "pixabay": "rain window countryside",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "crackling fireplace with a person reading nearby",
+     "pexels": "fireplace crackling person reading",
+     "pixabay": "fireplace reading cozy",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "long lazy lunch indoors with friends, rain outside",
+     "pexels": "long lunch indoors friends rainy day",
+     "pixabay": "lunch indoors friends rain",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "steam over a heated indoor pool",
+     "pexels": "steam heated indoor pool",
+     "pixabay": "indoor pool steam",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "storm disaster footage",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S08",
@@ -427,7 +657,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__thumb__pexels_9695851_gift-basket-handover.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S08__preview__pexels_9695851_gift-basket-handover.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hosts waving as a car rolls down a drive, late light",
+     "pexels": "hosts waving goodbye car driveway",
+     "pixabay": "waving goodbye car driveway",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a jar of jam handed through a car window",
+     "pexels": "gift handed through car window",
+     "pixabay": "gift car window handing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "rear-view mirror with a house receding",
+     "pexels": "rear view mirror house receding",
+     "pixabay": "rear mirror road house",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "invoice or receipt close-ups",
+    "airport",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S09",
@@ -474,7 +734,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__thumb__pexels_6588431_jam-jar-kitchen-counter.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__preview__pexels_6588431_jam-jar-kitchen-counter.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest at home smiling at photos on a phone",
+     "pexels": "person smiling at photos on phone home",
+     "pixabay": "phone photos smiling home",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "jar of farm jam on a city kitchen counter",
+     "pexels": "jam jar on kitchen counter",
+     "pixabay": "jam jar kitchen counter",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "hands typing a review on a laptop at home",
+     "pexels": "typing review laptop home",
+     "pixabay": "laptop typing home review",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   },
   {
    "id": "S10",
@@ -591,7 +881,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_9462786_hotel-team-teamwork.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_9462786_hotel-team-teamwork.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "housekeeper handing linen to a colleague in a corridor",
+     "pexels": "housekeeper handing linen colleague",
+     "pixabay": "housekeeping linen colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "kitchen pass: cook handing a plate to a waiter",
+     "pexels": "cook handing plate to waiter pass",
+     "pixabay": "kitchen pass plate waiter",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "maintenance worker and receptionist exchanging a key",
+     "pexels": "maintenance worker receptionist exchanging key",
+     "pixabay": "key handover staff",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide tracking of staff moving through a farmhouse during the day",
+     "pexels": "staff moving through farmhouse day",
+     "pixabay": "staff hotel movement day",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "relay race track",
+    "corporate office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:30:48Z"
   }
  ]
 }
