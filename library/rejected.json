@@ -1592,8 +1592,8 @@
  "pexels:https://www.pexels.com/video/man-explaining-the-floor-plan-to-the-clients-8482292/": {
   "brand": "edenrise",
   "reason": "face masks",
-  "at": "2026-09-09T17:59:12Z",
-  "from": "edenrise-c2-kaizen/S04"
+  "at": "2026-09-09T20:09:09Z",
+  "from": "extreme-ownership-v2/S03"
  },
  "pexels:https://www.pexels.com/video/women-looking-at-the-laptop-8829011/": {
   "brand": "belong",
@@ -1885,9 +1885,9 @@
  },
  "pixabay:https://pixabay.com/videos/id-42923/": {
   "brand": "edenrise",
-  "reason": "large-scale high-rise construction with scaffolding gangs, explicit never-list items",
-  "at": "2026-09-09T20:04:56Z",
-  "from": "extreme-ownership-v2/S01"
+  "reason": "scaffolding gangs",
+  "at": "2026-09-09T20:17:29Z",
+  "from": "extreme-ownership-v2/S09"
  },
  "pixabay:https://pixabay.com/videos/id-8252/": {
   "brand": "edenrise",
@@ -1927,9 +1927,9 @@
  },
  "pexels:https://www.pexels.com/video/people-working-on-building-construction-11733685/": {
   "brand": "edenrise",
-  "reason": "crowds doing the same manual task",
-  "at": "2026-09-09T18:40:48Z",
-  "from": "purpose-at-work/S04"
+  "reason": "forced-labour or slave-like framing",
+  "at": "2026-09-09T20:17:29Z",
+  "from": "extreme-ownership-v2/S09"
  },
  "pexels:https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/": {
   "brand": "edenrise",
@@ -2029,9 +2029,9 @@
  },
  "pixabay:192703": {
   "brand": "edenrise",
-  "reason": "cartoons, suits",
-  "at": "2026-09-09T18:33:15Z",
-  "from": "be-a-lifelong-learner-v2/S01"
+  "reason": "cartoons",
+  "at": "2026-09-09T20:23:33Z",
+  "from": "extreme-ownership-v2/S13"
  },
  "archive:https://archive.org/details/img-20201212121049": {
   "brand": "edenrise",
@@ -2240,8 +2240,8 @@
  "pixabay:3140": {
   "brand": "edenrise",
   "reason": "welding sparks",
-  "at": "2026-09-09T19:37:19Z",
-  "from": "edenrise-c2-six-needs-reactions/S06"
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
  },
  "pexels:8135792": {
   "brand": "edenrise",
@@ -2629,9 +2629,9 @@
  },
  "pixabay:40813": {
   "brand": "edenrise",
-  "reason": "welding-style sparks, industrial power-tool close-up not in brief",
-  "at": "2026-09-09T19:03:06Z",
-  "from": "communication-dont-assume-clarify-v2/S02"
+  "reason": "welding sparks",
+  "at": "2026-09-09T20:12:42Z",
+  "from": "extreme-ownership-v2/S05"
  },
  "pexels:https://www.pexels.com/video/people-using-laptop-while-talking-8482302/": {
   "brand": "edenrise",
@@ -3514,5 +3514,113 @@
   "reason": "warehouse/forklift industrial setting, not the brand's world",
   "at": "2026-09-09T20:04:56Z",
   "from": "extreme-ownership-v2/S01"
+ },
+ "pexels:https://www.pexels.com/video/a-bulldozer-is-demolishing-an-old-building-18437071/": {
+  "brand": "edenrise",
+  "reason": "ruins/abandoned",
+  "at": "2026-09-09T20:10:16Z",
+  "from": "extreme-ownership-v2/S04"
+ },
+ "pexels:https://www.pexels.com/video/close-up-of-a-man-s-face-6684100/": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-09T20:12:42Z",
+  "from": "extreme-ownership-v2/S05"
+ },
+ "pexels:31529080": {
+  "brand": "edenrise",
+  "reason": "factory",
+  "at": "2026-09-09T20:12:42Z",
+  "from": "extreme-ownership-v2/S05"
+ },
+ "pexels:31369301": {
+  "brand": "edenrise",
+  "reason": "factory",
+  "at": "2026-09-09T20:12:42Z",
+  "from": "extreme-ownership-v2/S05"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-taking-notes-beside-a-man-talking-10350199/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-handing-a-walkie-talkie-to-a-man-10350204/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T20:13:42Z",
+  "from": "extreme-ownership-v2/S06"
+ },
+ "pexels:https://www.pexels.com/video/workers-are-working-on-a-concrete-slab-20109885/": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T20:17:29Z",
+  "from": "extreme-ownership-v2/S09"
+ },
+ "pexels:6193916": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pexels:7252819": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pexels:6193208": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pexels:7592079": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pexels:8061368": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-09T20:19:20Z",
+  "from": "extreme-ownership-v2/S10"
+ },
+ "pixabay:https://pixabay.com/videos/id-72884/": {
+  "brand": "edenrise",
+  "reason": "flowers-only",
+  "at": "2026-09-09T20:20:26Z",
+  "from": "extreme-ownership-v2/S11"
+ },
+ "pexels:https://www.pexels.com/video/a-man-and-a-woman-shaking-hands-6648429/": {
+  "brand": "edenrise",
+  "reason": "suits",
+  "at": "2026-09-09T20:23:33Z",
+  "from": "extreme-ownership-v2/S13"
+ },
+ "pexels:https://www.pexels.com/video/construction-workers-fixing-a-road-7163092/": {
+  "brand": "edenrise",
+  "reason": "hi-vis crowd",
+  "at": "2026-09-09T20:23:33Z",
+  "from": "extreme-ownership-v2/S13"
+ },
+ "pexels:https://www.pexels.com/video/women-talking-while-looking-at-the-paper-8829010/": {
+  "brand": "edenrise",
+  "reason": "suits",
+  "at": "2026-09-09T20:23:33Z",
+  "from": "extreme-ownership-v2/S13"
+ },
+ "pixabay:3522": {
+  "brand": "edenrise",
+  "reason": "welding sparks",
+  "at": "2026-09-09T20:23:33Z",
+  "from": "extreme-ownership-v2/S13"
+ },
+ "pexels:https://www.pexels.com/video/a-man-in-a-safety-vest-is-using-a-laptop-16943545/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T20:24:08Z",
+  "from": "extreme-ownership-v2/S14"
  }
 }
