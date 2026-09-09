@@ -587,3 +587,33 @@
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-woman-in-blue-gloves-is-working-on-a-conveyor-belt-19905377/ |
 | pexels |  | Matilda Wormwood | Pexels License | https://www.pexels.com/video/woman-putting-on-her-face-mask-4145804/ |
 | pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/man-using-face-mask-6630250/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/car-tool-kits-14514408/ |
+| pexels |  | Tom Jurman | Pexels License | https://www.pexels.com/video/outdoor-gear-storage-and-retrieval-in-workshop-34308333/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/man-looking-for-wrench-and-socket-14514417/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/wood-man-hands-texture-5972643/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/working-on-a-wooden-plank-with-sandpaper-5973238/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-sanding-a-wood-plank-7165543/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-parking-lot-with-cars-30638888/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/aerial-footage-of-parked-vans-on-an-open-lot-9701948/ |
+| pexels |  | Eduardo  Cano Photo Co. | Pexels License | https://www.pexels.com/video/drone-view-of-person-running-in-slow-motion-19314766/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/luthier-workshop-evening-jam-session-35140397/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/father-catches-her-daughter-watching-porn-6473437/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/person-operating-button-panel-6442796/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/uv-teeth-whitening-tools-at-dentist-clinic-5356841/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/blue-clothespins-856874/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-on-collecting-trash-from-sand-10391096/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-video-of-person-applying-masking-tape-4808771/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/video-of-people-applying-masking-tape-on-road-4808637/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-marking-the-street-with-masking-tape-4771149/ |
+| pexels |  | Engin Akyurt | Pexels License | https://www.pexels.com/video/macro-view-of-moss-covered-rock-surface-38053795/ |
+| pexels |  | Arctic Bell | Pexels License | https://www.pexels.com/video/close-up-view-of-a-droplets-4837254/ |
+| pexels |  | Zaonar Saizainalin | Pexels License | https://www.pexels.com/video/raindrops-17843344/ |
+| pexels |  | manas patra | Pexels License | https://www.pexels.com/video/carving-spinning-wood-11903829/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-making-pattern-5963503/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-putting-glue-on-a-piece-of-leather-5963507/ |
+| pexels |  | Amar  Preciado | Pexels License | https://www.pexels.com/video/charming-courtyard-with-stone-architecture-39025627/ |
+| pexels |  | M.Emin  BİLİR | Pexels License | https://www.pexels.com/video/a-man-walking-down-a-rocky-path-in-the-desert-18761157/ |
+| pexels |  | Coverr | Pexels License | https://www.pexels.com/video/woman-walking-854062/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-putting-on-goggles-8539452/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-wearing-gloves-7338499/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-wearing-medical-gloves-6998083/ |
