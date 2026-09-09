@@ -187,46 +187,21 @@ function render() {
   wrap.querySelectorAll(".topup").forEach(el =>
     el.onclick = e => { e.stopPropagation(); requestTopup(el.dataset.scene); });
   wireDropZones(wrap);
-  wrap.querySelectorAll("video").forEach(v => wirePreview(v));
+  wrap.querySelectorAll(".media[data-preview]").forEach(m => wirePreview(m));
   updateStat();
 }
 
 let previewWarned = false;
-async function startPreview(v) {
-  const p = v.closest(".media");
-  p.classList.add("loading");
-  try {
-    if (v.preload !== "auto") v.preload = "auto";
-    if (v.readyState === 0 && v.networkState !== 2) v.load();
-    v._play = v.play();
-    await v._play;
-    p.classList.add("playing");
-  } catch (e) {
-    // AbortError = the pointer left before the clip had started. Not a failure.
-    if (e && e.name === "AbortError") return;
-    if (!previewWarned) { previewWarned = true; toast(`Preview could not start: ${e.name} — ${e.message}`, 8000); }
-  } finally { p.classList.remove("loading"); }
-}
-function stopPreview(v) {
-  const p = v.closest(".media");
-  // wait for a pending play() to settle so pause() does not interrupt it
-  (v._play || Promise.resolve()).catch(() => {}).then(() => {
-    v.pause(); try { v.currentTime = 0; } catch {}
-    p.classList.remove("playing");
-  });
-}
-function wirePreview(v) {
-  const p = v.closest(".media");
-  if (!p || p.dataset.wired) return;
-  p.dataset.wired = "1";
-  if (!p.querySelector(".playbtn")) {
-    const b = document.createElement("button");
-    b.className = "playbtn"; b.type = "button"; b.title = "Play preview"; b.textContent = "▶";
-    b.onclick = e => { e.stopPropagation(); v.paused ? startPreview(v) : stopPreview(v); };
-    p.appendChild(b);
-  }
-  p.addEventListener("pointerenter", e => { if (e.pointerType !== "touch") startPreview(v); });
-  p.addEventListener("pointerleave", e => { if (e.pointerType !== "touch") stopPreview(v); });
+// A grid can hold 300 clips. A <video> per card is what turned Safari black once the
+// proxy made every file loadable — 300 players in one tab. So a card is only a poster
+// image until it is hovered or its ▶ is pressed; the player is created then and
+// discarded when the pointer leaves. The proxy + browser cache make the second start fast.
+function ensureVideo(m) {
+  let v = m.querySelector("video");
+  if (v) return v;
+  v = document.createElement("video");
+  v.src = m.dataset.preview; v.muted = true; v.loop = true; v.playsInline = true; v.preload = "auto";
+  const poster = m.querySelector("img.poster"); if (poster) v.poster = poster.src;
   v.addEventListener("error", () => {
     const code = v.error && v.error.code;
     if (previewWarned) return;
@@ -234,14 +209,49 @@ function wirePreview(v) {
     if (IS_SAFARI && !state.mediaProxy)
       toast("Safari cannot play previews straight from GitHub Releases (they are served as a generic download). Open this page in Chrome, or switch on the media proxy — see tools/README-media-architecture.md.", 12000);
     else
-      toast(`Preview file failed to load (media error ${code}). Tell Vic which clip.`);
+      toast(`Preview file failed to load (media error ${code}). Tell Vic which clip.`, 8000);
   });
+  m.insertBefore(v, m.querySelector(".playbtn"));
+  return v;
+}
+async function startPreview(m) {
+  const v = ensureVideo(m);
+  m.classList.add("loading");
+  try {
+    v._play = v.play();
+    await v._play;
+    m.classList.add("playing");
+  } catch (e) {
+    if (e && e.name === "AbortError") return;          // pointer left before it started
+    if (!previewWarned) { previewWarned = true; toast(`Preview could not start: ${e.name} — ${e.message}`, 8000); }
+  } finally { m.classList.remove("loading"); }
+}
+function stopPreview(m) {
+  const v = m.querySelector("video");
+  if (!v) return;
+  (v._play || Promise.resolve()).catch(() => {}).then(() => {
+    v.pause(); v.removeAttribute("src"); try { v.load(); } catch {}   // free the decoder
+    v.remove();
+    m.classList.remove("playing", "loading");
+  });
+}
+function wirePreview(m) {
+  if (!m || m.dataset.wired) return;
+  m.dataset.wired = "1";
+  if (!m.querySelector(".playbtn")) {
+    const b = document.createElement("button");
+    b.className = "playbtn"; b.type = "button"; b.title = "Play preview"; b.textContent = "▶";
+    b.onclick = e => { e.stopPropagation(); m.classList.contains("playing") ? stopPreview(m) : startPreview(m); };
+    m.appendChild(b);
+  }
+  m.addEventListener("pointerenter", e => { if (e.pointerType !== "touch") startPreview(m); });
+  m.addEventListener("pointerleave", e => { if (e.pointerType !== "touch") stopPreview(m); });
 }
 
 const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded", "belong-original": "BELONG ORIGINAL" };
 function card(sid, c, on) {
   const media = c.type === "video"
-    ? `<video src="${mediaUrl(c.preview)}" muted loop playsinline preload="metadata" poster="${mediaUrl(c.thumb)}"></video>`
+    ? `<img class="poster" src="${mediaUrl(c.thumb)}" loading="lazy" alt="">`
     : `<img src="${mediaUrl(c.preview)}" loading="lazy" alt="">`;
   const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
   const srcTag = SRC_LABEL[c.source]
@@ -250,7 +260,7 @@ function card(sid, c, on) {
   const note = c.note ? `<div class="clip-note">${esc(c.note)}</div>` : "";
   return `<div class="card ${on ? "on" : ""} type-${c.type === "video" ? "vid" : "img"}"
       data-id="${c.id}" data-scene="${sid}">
-    <div class="media"><span class="badge">${c.type}</span>${srcTag}${freshTag}<span class="tick">✓</span>${media}</div>
+    <div class="media"${c.type === "video" ? ` data-preview="${mediaUrl(c.preview)}"` : ""}><span class="badge">${c.type}</span>${srcTag}${freshTag}<span class="tick">✓</span>${media}</div>
     ${note}
     <div class="foot"><span>${src}</span><span class="lic">${esc(c.license || "")}</span></div>
   </div>`;
