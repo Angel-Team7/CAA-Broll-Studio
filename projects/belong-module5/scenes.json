@@ -723,7 +723,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__thumb__pixabay_239514_fireplace-crackling-warm.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__preview__pixabay_239514_fireplace-crackling-warm.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__strip__pixabay_239514_fireplace-crackling-warm.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "logs crackle and burn in a glowing fireplace",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-fireplace-crackling",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:48:00Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_260170_rainy-day-comfort",
@@ -735,7 +745,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__thumb__pixabay_260170_rainy-day-comfort.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__preview__pixabay_260170_rainy-day-comfort.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S07__strip__pixabay_260170_rainy-day-comfort.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "rain streaks down floor-to-ceiling windows overlooking trees and a pool",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-rain-glasswindow-pool",
+     "score": 4.95,
+     "judged_at": "2026-09-09T17:48:00Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4641249_reading-by-fireplace",
@@ -784,7 +804,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:48:00Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:48:00Z"
   },
   {
    "id": "S08",
