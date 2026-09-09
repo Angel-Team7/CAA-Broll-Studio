@@ -1,11 +1,11 @@
 {
  "project": "extreme-ownership-v2",
- "title": "Edenrise C1 \u2014 Extreme Ownership",
+ "title": "Edenrise C1 — Extreme Ownership",
  "generated": "2026-07-15",
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Two make the same mistake \u2014 one blames, one owns it.",
+   "script_line": "Two make the same mistake — one blames, one owns it.",
    "visual_direction": "Contrast: a defensive/blaming builder (arms crossed, frustrated) vs one calmly owning it. Emotion: excuse vs accountability.",
    "clips": [
     {
@@ -148,11 +148,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__thumb__pexels_8961394_arms-crossed-builder.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S01__preview__pexels_8961394_arms-crossed-builder.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker with arms crossed, frustrated, blaming",
+     "pexels": "worker arms crossed frustrated",
+     "pixabay": "worker arms crossed frustrated",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "another worker calmly owning a mistake, hand on chest",
+     "pexels": "worker calmly owning mistake",
+     "pixabay": "worker calm owning mistake",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a broken tile at their feet",
+     "pexels": "broken tile at feet close",
+     "pixabay": "broken tile close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S02",
-   "script_line": "Extreme ownership \u2014 responsibility for actions and results.",
+   "script_line": "Extreme ownership — responsibility for actions and results.",
    "visual_direction": "A confident, accountable builder standing tall, taking charge on site. Emotion: pride, resolve.",
    "clips": [
     {
@@ -305,12 +335,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__thumb__pexels_8961394_construction-foreman-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S02__preview__pexels_8961394_construction-foreman-portrait.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "accountable worker standing tall on site",
+     "pexels": "worker standing tall on site",
+     "pixabay": "worker standing tall site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of resolved face",
+     "pexels": "resolved face worker close",
+     "pixabay": "resolved face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker taking charge of a task",
+     "pexels": "worker taking charge task wide",
+     "pixabay": "worker taking charge",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "intense stare",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S03",
    "script_line": "It means asking: 'What can I do to make this better?'",
-   "visual_direction": "Solution-focused worker figuring out a fix \u2014 checking plans, measuring, adjusting. Emotion: resourceful.",
+   "visual_direction": "Solution-focused worker figuring out a fix — checking plans, measuring, adjusting. Emotion: resourceful.",
    "clips": [
     {
      "id": "pexels_10639858_groundworker-digging",
@@ -412,12 +472,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S03__thumb__pixabay_166808_tradesman-fixing-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S03__preview__pixabay_166808_tradesman-fixing-tool.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker checking plans and measuring to fix a problem",
+     "pexels": "worker measuring to fix problem",
+     "pixabay": "worker measuring fix",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of adjusting a fitting",
+     "pexels": "adjusting fitting close",
+     "pixabay": "adjusting fitting hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the fix done",
+     "pexels": "repair done wide worker",
+     "pixabay": "repair done wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S04",
-   "script_line": "Sometimes it isn't your fault \u2014 a machine breaks, a supplier is late, weather changes.",
-   "visual_direction": "Site setbacks \u2014 broken machinery, rain over the work, delayed materials. Emotion: adversity outside your control.",
+   "script_line": "Sometimes it isn't your fault — a machine breaks, a supplier is late, weather changes.",
+   "visual_direction": "Site setbacks — broken machinery, rain over the work, delayed materials. Emotion: adversity outside your control.",
    "clips": [
     {
      "id": "pexels_17311357_storm-clouds-worksite",
@@ -453,7 +542,7 @@
      "id": "pexels_29568378_muddy-construction-site",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-construction-site-with-excavators-29568378/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__thumb__pexels_29568378_muddy-construction-site.jpg",
@@ -529,12 +618,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__thumb__pixabay_112957_storm-clouds-worksite.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__preview__pixabay_112957_storm-clouds-worksite.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "broken machine on site, worker looking at it",
+     "pexels": "broken machine on site worker",
+     "pixabay": "broken machine site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "rain falling over unfinished work",
+     "pexels": "rain over unfinished work site",
+     "pixabay": "rain site unfinished",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of an empty delivery bay, waiting",
+     "pexels": "empty delivery area waiting close",
+     "pixabay": "empty delivery waiting",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S05",
    "script_line": "You can complain, or ask 'What is the best next step?'",
-   "visual_direction": "A worker choosing calm, decisive action over complaint \u2014 pausing, deciding on site. Emotion: composure.",
+   "visual_direction": "A worker choosing calm, decisive action over complaint — pausing, deciding on site. Emotion: composure.",
    "clips": [
     {
      "id": "pexels_6144016_builder-hand-on-chin",
@@ -856,12 +974,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing, calm, deciding on site",
+     "pexels": "worker pausing calm deciding",
+     "pixabay": "worker pause decide calm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a composed face",
+     "pexels": "composed face worker close",
+     "pixabay": "composed face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker starting the next step",
+     "pexels": "worker starting next step wide",
+     "pixabay": "worker next step",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S06",
    "script_line": "People who take ownership look for solutions, not blame.",
-   "visual_direction": "A crew solving a problem together \u2014 discussing, pointing at the work. Emotion: constructive teamwork.",
+   "visual_direction": "A crew solving a problem together — discussing, pointing at the work. Emotion: constructive teamwork.",
    "clips": [
     {
      "id": "pexels_10350199_hi-vis-crew-planning",
@@ -943,11 +1090,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S06__thumb__pixabay_42923_site-workers-huddle.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S06__preview__pixabay_42923_site-workers-huddle.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew solving a problem together, pointing at the work",
+     "pexels": "crew solving problem pointing",
+     "pixabay": "crew problem pointing",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two workers discussing a solution calmly",
+     "pexels": "two workers discussing solution",
+     "pixabay": "workers solution discuss",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands testing a fix",
+     "pexels": "hands testing fix close",
+     "pixabay": "hands fix testing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S07",
-   "script_line": "Behind schedule \u2014 one hides it, one speaks up early to the foreman.",
+   "script_line": "Behind schedule — one hides it, one speaks up early to the foreman.",
    "visual_direction": "A worker telling the foreman early and asking for help. Emotion: honest early communication.",
    "clips": [
     {
@@ -1200,12 +1376,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker telling the foreman early, asking for help",
+     "pexels": "worker telling foreman early help",
+     "pixabay": "worker foreman help early",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an honest face",
+     "pexels": "honest face worker close",
+     "pixabay": "honest face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the foreman sending a second worker to help",
+     "pexels": "foreman sending worker to help",
+     "pixabay": "foreman help worker",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S08",
-   "script_line": "Building a fence \u2014 you notice a measurement looks wrong, so you check.",
-   "visual_direction": "Checking work before continuing \u2014 measuring twice, spirit level on a fence. Emotion: diligence.",
+   "script_line": "Building a fence — you notice a measurement looks wrong, so you check.",
+   "visual_direction": "Checking work before continuing — measuring twice, spirit level on a fence. Emotion: diligence.",
    "clips": [
     {
      "id": "pexels_27876427_measuring-tape-wood",
@@ -1287,11 +1492,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S08__thumb__pixabay_166808_carpenter-tape-measure.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S08__preview__pixabay_166808_carpenter-tape-measure.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "measuring a fence post twice",
+     "pexels": "measuring fence post twice",
+     "pixabay": "measuring fence post",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "spirit level on a fence rail, close",
+     "pexels": "spirit level on fence rail close",
+     "pixabay": "spirit level fence",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a fence line being checked",
+     "pexels": "fence line being checked wide",
+     "pixabay": "fence line check",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S09",
-   "script_line": "Ownership is contagious \u2014 the whole team gets stronger.",
+   "script_line": "Ownership is contagious — the whole team gets stronger.",
    "visual_direction": "A crew collectively taking responsibility, supporting each other. Emotion: unity, shared strength.",
    "clips": [
     {
@@ -1328,7 +1562,7 @@
      "id": "pexels_27514738_crew-teamwork-site",
      "type": "video",
      "source": "pexels",
-     "author": "Sururi Ball\u0131da\u011f Director",
+     "author": "Sururi Ballıdağ Director",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/two-men-in-hard-hats-and-safety-vests-are-working-on-a-truck-27514738/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S09__thumb__pexels_27514738_crew-teamwork-site.jpg",
@@ -1384,12 +1618,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S09__thumb__pixabay_42923_site-workers-cooperation.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S09__preview__pixabay_42923_site-workers-cooperation.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew supporting each other on a heavy lift",
+     "pexels": "crew supporting each other heavy lift",
+     "pixabay": "crew heavy lift support",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one worker stepping in to help unasked",
+     "pexels": "worker stepping in to help",
+     "pixabay": "worker helping stepping in",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands together on a beam",
+     "pexels": "hands together on beam close",
+     "pixabay": "hands beam together",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S10",
    "script_line": "Admit it, learn from it, fix it. People respect honesty.",
-   "visual_direction": "A worker honestly admitting and fixing a mistake \u2014 mentor showing, correcting the work. Emotion: honesty, respect.",
+   "visual_direction": "A worker honestly admitting and fixing a mistake — mentor showing, correcting the work. Emotion: honesty, respect.",
    "clips": [
     {
      "id": "coverr_azpdphjcoj_worker-fixing-work",
@@ -1425,7 +1689,7 @@
      "id": "pexels_13367963_worker-repairing-wall",
      "type": "video",
      "source": "pexels",
-     "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+     "author": "FÁBIO REIS DE ABREU (PORTUGA)",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/worker-drilling-brick-wall-13367963/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S10__thumb__pexels_13367963_worker-repairing-wall.jpg",
@@ -1435,7 +1699,7 @@
      "id": "pexels_34038590_fixing-error-construction",
      "type": "video",
      "source": "pexels",
-     "author": "\u00d6zg\u00fcr S\u00fcrmeli",
+     "author": "Özgür Sürmeli",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/craftsman-hammering-wooden-pieces-outdoors-34038590/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S10__thumb__pexels_34038590_fixing-error-construction.jpg",
@@ -1671,12 +1935,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker admitting a mistake to a mentor",
+     "pexels": "worker admitting mistake mentor",
+     "pixabay": "worker mentor mistake",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "mentor showing the correction, hands",
+     "pexels": "mentor showing correction hands",
+     "pixabay": "mentor correction hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the corrected work",
+     "pexels": "corrected work wide site",
+     "pixabay": "corrected work wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S11",
    "script_line": "Excuses stop growth. Ownership creates growth.",
-   "visual_direction": "Growth through responsibility \u2014 a seedling cradled in worker's hands, an apprentice advancing. Emotion: growth (land metaphor).",
+   "visual_direction": "Growth through responsibility — a seedling cradled in worker's hands, an apprentice advancing. Emotion: growth (land metaphor).",
    "clips": [
     {
      "id": "pexels_11960802_soil-growth-hands",
@@ -1848,12 +2141,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S11__thumb__pixabay_8027884_seedling-in-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S11__preview__pixabay_8027884_seedling-in-hands.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "seedling in a worker's cupped hands",
+     "pexels": "seedling in cupped hands worker",
+     "pixabay": "seedling hands cupped",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "apprentice advancing to a harder task",
+     "pexels": "apprentice advancing harder task",
+     "pixabay": "apprentice harder task",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of young trees growing in rows",
+     "pexels": "young trees growing rows wide",
+     "pixabay": "young trees rows",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S12",
    "script_line": "Look for your next action. Communicate early. Keep moving forward.",
-   "visual_direction": "Proactive forward motion \u2014 a builder taking the next action, walking the site with tools. Emotion: momentum.",
+   "visual_direction": "Proactive forward motion — a builder taking the next action, walking the site with tools. Emotion: momentum.",
    "clips": [
     {
      "id": "coverr_c2hn7iuucu_worker-walking-site-tools",
@@ -1955,12 +2277,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S12__thumb__pixabay_348897_worker-walking-site-tools.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S12__preview__pixabay_348897_worker-walking-site-tools.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "builder walking the site with tools, purposeful",
+     "pexels": "builder walking site tools purposeful",
+     "pixabay": "builder walking site tools",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "taking the next action: picking up the next post",
+     "pexels": "worker picking up next post",
+     "pixabay": "worker next post",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of boots moving forward",
+     "pexels": "boots moving forward close",
+     "pixabay": "boots forward close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S13",
-   "script_line": "People who take ownership become trusted \u2014 and become leaders.",
-   "visual_direction": "A trusted worker stepping into leadership \u2014 foreman leading a crew, a handshake of trust, finished build. Emotion: trust, leadership.",
+   "script_line": "People who take ownership become trusted — and become leaders.",
+   "visual_direction": "A trusted worker stepping into leadership — foreman leading a crew, a handshake of trust, finished build. Emotion: trust, leadership.",
    "clips": [
     {
      "id": "pexels_10366109_foreman-directing-team",
@@ -1976,7 +2327,7 @@
      "id": "pexels_27831586_finished-house-build",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/the-new-homes-are-being-built-on-a-site-27831586/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S13__thumb__pexels_27831586_finished-house-build.jpg",
@@ -2236,7 +2587,7 @@
      "id": "wikimedia_22542339_foreman-directing-team",
      "type": "image",
      "source": "wikimedia",
-     "author": "\u7384\u53f2\u751f",
+     "author": "玄史生",
      "license": "CC BY-SA 3.0",
      "page_url": "https://commons.wikimedia.org/wiki/File:Mountains_Priceless_Court_Grass_20121104.JPG",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S13__thumb__wikimedia_22542339_foreman-directing-team.jpg",
@@ -2256,7 +2607,7 @@
      "id": "extreme-ownership-v2-S13-V00",
      "type": "video",
      "source": "pexels",
-     "author": "Martina Tom\u0161i\u010d",
+     "author": "Martina Tomšič",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/woman-carrying-a-tree-branch-8125917/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S13__thumb__extreme-ownership-v2-S13-V00.jpg",
@@ -2432,12 +2783,42 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "trusted worker leading a small crew",
+     "pexels": "worker leading small crew",
+     "pixabay": "worker leading crew",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "handshake of trust with the foreman",
+     "pexels": "handshake trust foreman worker",
+     "pixabay": "handshake foreman trust",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a finished build detail",
+     "pexels": "finished build detail close",
+     "pixabay": "finished build detail",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S14",
-   "script_line": "Behind on a Friday deadline \u2014 an unfinished report, time running out.",
-   "visual_direction": "Deadline pressure on site \u2014 a worker checking the time / a foreman looking at the schedule, a marked deadline. Emotion: time pressure.",
+   "script_line": "Behind on a Friday deadline — an unfinished report, time running out.",
+   "visual_direction": "Deadline pressure on site — a worker checking the time / a foreman looking at the schedule, a marked deadline. Emotion: time pressure.",
    "clips": [
     {
      "id": "pexels_16943545_worker-checking-time-site",
@@ -2509,11 +2890,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S14__thumb__pixabay_410328_builder-checking-watch.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S14__preview__pixabay_410328_builder-checking-watch.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker checking the time on site, pressure",
+     "pexels": "worker checking time on site",
+     "pixabay": "worker checking time site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "foreman looking at a schedule board",
+     "pexels": "foreman looking schedule board",
+     "pixabay": "foreman schedule board",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a deadline circled on a calendar",
+     "pexels": "deadline circled calendar close",
+     "pixabay": "calendar deadline circled",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office cubicles",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S15",
-   "script_line": "One person stays quiet and hopes the problem disappears \u2014 avoiding it.",
+   "script_line": "One person stays quiet and hopes the problem disappears — avoiding it.",
    "visual_direction": "A worker avoiding messages / ignoring the phone on site, hoping a problem goes away. Emotion: avoidance, quiet worry.",
    "clips": [
     {
@@ -2590,7 +3000,7 @@
      "id": "pexels_35300838_worker-walking-away-unfinished",
      "type": "image",
      "source": "pexels",
-     "author": "Mahmut Y\u0131lmaz",
+     "author": "Mahmut Yılmaz",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/construction-worker-on-building-framework-in-denizli-35300838/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_35300838_worker-walking-away-unfinished.jpg",
@@ -2640,13 +3050,42 @@
      "id": "wikimedia_54702893_builder-avoiding-call",
      "type": "image",
      "source": "wikimedia",
-     "author": "Acabashi\n\n\nObject location51\u00b0\u00a035\u2032\u00a045.97\u2033\u00a0N, 0\u00b0\u00a004\u2032\u00a054.68\u2033\u00a0W\u00a0View this and other nearby images on: OpenStreetMap 51.596103;   -0.081856",
+     "author": "Acabashi\n\n\nObject location51° 35′ 45.97″ N, 0° 04′ 54.68″ W View this and other nearby images on: OpenStreetMap 51.596103;   -0.081856",
      "license": "CC BY-SA 4.0",
      "page_url": "https://commons.wikimedia.org/wiki/File:Broadwater_Farm_Primary_School_(The_Willow),_redevelopment_116_-_July_2011.jpg",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__wikimedia_54702893_builder-avoiding-call.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__wikimedia_54702893_builder-avoiding-call.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker ignoring a ringing phone on a bench",
+     "pexels": "worker ignoring ringing phone bench",
+     "pixabay": "worker ignoring phone",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker looking away, worried",
+     "pexels": "worker looking away worried",
+     "pixabay": "worker worried looking away",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a worker alone at the far end of a site",
+     "pexels": "worker alone far end site",
+     "pixabay": "worker alone site far",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   }
  ]
 }

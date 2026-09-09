@@ -1,12 +1,12 @@
 {
  "project": "communication-dont-assume-clarify-v2",
- "title": "Edenrise C1 \u2014 Communication: Don't Assume. Clarify.",
+ "title": "Edenrise C1 — Communication: Don't Assume. Clarify.",
  "generated": "2026-07-21",
  "scenes": [
   {
    "id": "S02",
-   "script_line": "\"Please move the chairs\" \u2014 one task, different pictures. The assumption problem.",
-   "visual_direction": "Instructions given but read differently \u2014 mixed signals. Foreman pointing / worker looking puzzled.",
+   "script_line": "\"Please move the chairs\" — one task, different pictures. The assumption problem.",
+   "visual_direction": "Instructions given but read differently — mixed signals. Foreman pointing / worker looking puzzled.",
    "clips": [
     {
      "id": "upload_1784722430838_87e922eaa82f4131bd72607b7cf8eac0",
@@ -94,7 +94,7 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S01 \u2014 \u201cImagine this...\u201d.mp4",
+     "note": "S01 — “Imagine this...”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__upload_1784643240327_S01-Imagine-this.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__upload_1784643240327_S01-Imagine-this.-.mp4"
     },
@@ -278,12 +278,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman pointing at a stack of chairs, worker looking puzzled",
+     "pexels": "foreman pointing worker puzzled outdoors",
+     "pixabay": "foreman pointing worker puzzled",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two workers carrying chairs in opposite directions",
+     "pexels": "two workers carrying chairs opposite directions",
+     "pixabay": "workers carrying chairs",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a confused face",
+     "pexels": "confused face worker close",
+     "pixabay": "confused face close worker",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S03",
-   "script_line": "Great teams don't just work hard \u2014 great teams communicate clearly.",
-   "visual_direction": "Crew talking things through together on site \u2014 alignment, shared understanding. Group huddle.",
+   "script_line": "Great teams don't just work hard — great teams communicate clearly.",
+   "visual_direction": "Crew talking things through together on site — alignment, shared understanding. Group huddle.",
    "clips": [
     {
      "id": "upload_1784643662477_S03-Great-teams-do-not-only-work-hard.-Great-teams-communicate-clearly.-",
@@ -291,7 +320,7 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S03 \u2014 \u201cGreat teams do not only work hard. Great teams communicate clearly.\u201d.mp4",
+     "note": "S03 — “Great teams do not only work hard. Great teams communicate clearly.”.mp4",
      "thumb": "",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__preview__upload_1784643662477_S03-Great-teams-do-not-only-work-hard.-Great-teams-communicate-clearly.-.mp4"
     },
@@ -355,12 +384,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__thumb__pixabay_9694128_workers-conversation.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__preview__pixabay_9694128_workers-conversation.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew huddle on site talking a job through",
+     "pexels": "crew huddle on site talking",
+     "pixabay": "crew huddle site talk",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman explaining with hands, crew nodding",
+     "pexels": "foreman explaining crew nodding",
+     "pixabay": "foreman crew nodding",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand drawing the plan in the dirt",
+     "pexels": "hand drawing plan in dirt close",
+     "pixabay": "hand drawing dirt plan",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S04",
    "script_line": "Communication saves time, prevents mistakes, builds trust, and people enjoy working together.",
-   "visual_direction": "Two workers collaborating well \u2014 trust and camaraderie. Handshake / working side by side smiling.",
+   "visual_direction": "Two workers collaborating well — trust and camaraderie. Handshake / working side by side smiling.",
    "clips": [
     {
      "id": "pexels_8487956_construction-workers-smiling",
@@ -406,18 +464,47 @@
      "id": "pixabay_73847_builders-shaking-hands",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__thumb__pixabay_73847_builders-shaking-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__preview__pixabay_73847_builders-shaking-hands.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers working side by side, smiling",
+     "pexels": "two workers side by side smiling",
+     "pixabay": "workers side by side smile",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "handshake by a finished fence",
+     "pexels": "handshake by finished fence",
+     "pixabay": "handshake fence workers",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a crew enjoying a break together",
+     "pexels": "crew enjoying break together",
+     "pixabay": "crew break together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S05",
-   "script_line": "The biggest mistake is that we assume \u2014 we assume we understood.",
-   "visual_direction": "A worker heading off on his own assumption \u2014 quiet uncertainty. Solo builder pausing, unsure.",
+   "script_line": "The biggest mistake is that we assume — we assume we understood.",
+   "visual_direction": "A worker heading off on his own assumption — quiet uncertainty. Solo builder pausing, unsure.",
    "clips": [
     {
      "id": "upload_1784646730221_19c1e6cfd3264531a1c29a1d60d0470a",
@@ -475,16 +562,45 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S05 \u2014 \u201cThe solution is simple... Clarify. Ask questions.\u201d.mp4",
+     "note": "S05 — “The solution is simple... Clarify. Ask questions.”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__upload_1784643929048_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__upload_1784643929048_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "solo worker walking off with a plan in his head, uncertain",
+     "pexels": "solo worker walking off uncertain",
+     "pixabay": "worker alone uncertain walking",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker pausing mid-task, unsure, looking back",
+     "pexels": "worker pausing unsure looking back",
+     "pixabay": "worker pause unsure",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands hesitating over a tool",
+     "pexels": "hands hesitating over tool close",
+     "pixabay": "hands hesitate tool",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S06",
-   "script_line": "The solution is simple \u2014 ask clarifying questions.",
-   "visual_direction": "An apprentice asking the foreman a question, engaging \u2014 curiosity, professionalism. Pointing at the work.",
+   "script_line": "The solution is simple — ask clarifying questions.",
+   "visual_direction": "An apprentice asking the foreman a question, engaging — curiosity, professionalism. Pointing at the work.",
    "clips": [
     {
      "id": "pexels_32244795_site-supervisor-worker",
@@ -532,16 +648,45 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S06 \u2014 \u201cThese questions are not signs of weakness. They are signs of professionalism..mp4",
+     "note": "S06 — “These questions are not signs of weakness. They are signs of professionalism..mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice asking the foreman a question, pointing at the work",
+     "pexels": "apprentice asking foreman pointing at work",
+     "pixabay": "apprentice foreman question pointing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an engaged, curious face",
+     "pexels": "engaged curious face worker close",
+     "pixabay": "curious face worker close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two beside the job",
+     "pexels": "two workers beside job wide",
+     "pixabay": "two workers job wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S07",
-   "script_line": "\"What does success look like? When do you need it finished?\" \u2014 checking the plan.",
-   "visual_direction": "Builders reviewing the drawings/blueprint together \u2014 clarity, shared picture. Plans on site.",
+   "script_line": "\"What does success look like? When do you need it finished?\" — checking the plan.",
+   "visual_direction": "Builders reviewing the drawings/blueprint together — clarity, shared picture. Plans on site.",
    "clips": [
     {
      "id": "pexels_5384977_reviewing-drawings-site",
@@ -639,16 +784,45 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S07 \u2014 \u201cImagine your manager says... \u2018Please clean the kitchen.\u2019\u201d.mp4",
+     "note": "S07 — “Imagine your manager says... ‘Please clean the kitchen.’”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__upload_1784644064562_S07-Imagine-your-manager-says.-Please-clean-the-kitchen.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__upload_1784644064562_S07-Imagine-your-manager-says.-Please-clean-the-kitchen.-.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "builders reviewing a drawing together on site",
+     "pexels": "builders reviewing drawing on site",
+     "pixabay": "builders drawing site review",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a finger tracing a line on a plan",
+     "pexels": "finger tracing line on plan close",
+     "pixabay": "finger plan tracing close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the plan spread on a tailgate, crew around",
+     "pexels": "plan on tailgate crew around",
+     "pixabay": "plan tailgate crew",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S08",
-   "script_line": "\"Clean the kitchen\" \u2014 everyone worked hard but had a different picture of the job.",
-   "visual_direction": "A crew each busy on their own part of the same job \u2014 effort without alignment. Several workers, different tasks.",
+   "script_line": "\"Clean the kitchen\" — everyone worked hard but had a different picture of the job.",
+   "visual_direction": "A crew each busy on their own part of the same job — effort without alignment. Several workers, different tasks.",
    "clips": [
     {
      "id": "pexels_4109498_wiping-kitchen-counter",
@@ -778,7 +952,7 @@
      "id": "communication-dont-assume-clarify-v2-S08-V03",
      "type": "video",
      "source": "pixabay",
-     "author": "Dantegr\u00e1fico",
+     "author": "Dantegráfico",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-123629/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V03.jpg",
@@ -900,12 +1074,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "several workers each busy on a different part of a yard",
+     "pexels": "several workers different tasks yard",
+     "pixabay": "workers different tasks yard",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one sweeping while another moves the same pile back",
+     "pexels": "workers undoing each others work",
+     "pixabay": "workers sweeping pile",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands scrubbing a kitchen counter",
+     "pexels": "hands scrubbing kitchen counter close",
+     "pixabay": "scrubbing counter hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S09",
    "script_line": "A two-minute conversation saves thirty minutes of confusion.",
-   "visual_direction": "Two workers a quick chat by the materials / wheelbarrow \u2014 efficient, easy. Brief exchange.",
+   "visual_direction": "Two workers a quick chat by the materials / wheelbarrow — efficient, easy. Brief exchange.",
    "clips": [
     {
      "id": "pexels_5977119_colleagues-talking-outside",
@@ -953,16 +1156,45 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S09 \u2014 \u201cA short conversation at the beginning... could prevent confusion later.\u201d.mp4",
+     "note": "S09 — “A short conversation at the beginning... could prevent confusion later.”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__upload_1784644551717_S09-A-short-conversation-at-the-beginning.-could-prevent-confusion-later.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__upload_1784644551717_S09-A-short-conversation-at-the-beginning.-could-prevent-confusion-later.-.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers having a quick chat by a wheelbarrow",
+     "pexels": "two workers quick chat wheelbarrow",
+     "pixabay": "workers chat wheelbarrow",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a nod and a thumbs up",
+     "pexels": "nod thumbs up worker close",
+     "pixabay": "thumbs up worker close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two going back to work",
+     "pexels": "two workers going back to work",
+     "pixabay": "workers back to work",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S10",
-   "script_line": "Great people listen so they can understand \u2014 stop, look, listen, don't interrupt.",
-   "visual_direction": "Foreman listening attentively to a worker, eye contact \u2014 attention, respect. One talking, one truly listening.",
+   "script_line": "Great people listen so they can understand — stop, look, listen, don't interrupt.",
+   "visual_direction": "Foreman listening attentively to a worker, eye contact — attention, respect. One talking, one truly listening.",
    "clips": [
     {
      "id": "pexels_8964376_two-hivis-workers-talking",
@@ -990,16 +1222,45 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S05 \u2014 \u201cThe solution is simple... Clarify. Ask questions.\u201d.mp4",
+     "note": "S05 — “The solution is simple... Clarify. Ask questions.”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__preview__upload_1784645996218_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__preview__upload_1784645996218_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman listening attentively to a worker, eye contact",
+     "pexels": "foreman listening attentively worker",
+     "pixabay": "foreman listening worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a listening face, not interrupting",
+     "pexels": "listening face not interrupting close",
+     "pixabay": "listening face close outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two standing still while one talks",
+     "pexels": "two workers one talking one listening",
+     "pixabay": "workers talking listening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S11",
-   "script_line": "Check in \u2014 send a message, walk over: \"This is my progress. Am I on track?\"",
-   "visual_direction": "A worker with a tablet/phone ON SITE, or foreman checking progress \u2014 staying connected.",
+   "script_line": "Check in — send a message, walk over: \"This is my progress. Am I on track?\"",
+   "visual_direction": "A worker with a tablet/phone ON SITE, or foreman checking progress — staying connected.",
    "clips": [
     {
      "id": "pexels_5100043_checking-work-progress",
@@ -1107,16 +1368,46 @@
      "source": "upload",
      "author": "Uploaded",
      "license": "Client-provided",
-     "note": "S11 \u2014 \u201cFor example... \u2018So... if I understand correctly...\u2019\u201d.mp4",
+     "note": "S11 — “For example... ‘So... if I understand correctly...’”.mp4",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__upload_1784644836142_S11-For-example.-So.-if-I-understand-correctly.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__upload_1784644836142_S11-For-example.-So.-if-I-understand-correctly.-.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker on site sending a message from a phone",
+     "pexels": "worker on site sending message phone",
+     "pixabay": "worker phone site message",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker walking over to the foreman to show progress",
+     "pexels": "worker walking to foreman show progress",
+     "pixabay": "worker foreman progress",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a phone with a progress photo",
+     "pexels": "phone showing progress photo close",
+     "pixabay": "phone photo progress close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office desk",
+    "laptop indoors",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S12",
-   "script_line": "Bad news doesn't get better with time \u2014 speak up early so people can help.",
-   "visual_direction": "A worker pointing out a problem to the foreman \u2014 honesty, courage. Raising a concern, inspecting an issue together.",
+   "script_line": "Bad news doesn't get better with time — speak up early so people can help.",
+   "visual_direction": "A worker pointing out a problem to the foreman — honesty, courage. Raising a concern, inspecting an issue together.",
    "clips": [
     {
      "id": "upload_1784645868522_a5b3485c1f394f548118fa9cf65282bb",
@@ -1388,12 +1679,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pointing out a problem to the foreman",
+     "pexels": "worker pointing out problem to foreman",
+     "pixabay": "worker problem foreman pointing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "both inspecting a cracked post together",
+     "pexels": "two workers inspecting cracked post",
+     "pixabay": "workers inspecting post",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two deciding a fix",
+     "pexels": "two workers deciding fix wide",
+     "pixabay": "workers deciding fix",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S13",
-   "script_line": "Because great teams don't guess \u2014 great teams communicate. Respect, trust, success.",
-   "visual_direction": "Crew together, satisfied, in front of the finished work \u2014 pride, unity. Wide team + warm detail.",
+   "script_line": "Because great teams don't guess — great teams communicate. Respect, trust, success.",
+   "visual_direction": "Crew together, satisfied, in front of the finished work — pride, unity. Wide team + warm detail.",
    "clips": [
     {
      "id": "upload_1784718270465_1427d240443a45089c62884458675eba",
@@ -1475,11 +1795,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__thumb__pexels_8482547_builders-group-smiling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__preview__pexels_8482547_builders-group-smiling.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew together in front of finished work, satisfied",
+     "pexels": "crew in front of finished work satisfied",
+     "pixabay": "crew finished work satisfied",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a proud smile",
+     "pexels": "proud smile worker close",
+     "pixabay": "proud smile worker",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers shaking hands at the end",
+     "pexels": "two workers shaking hands finished",
+     "pixabay": "workers handshake finished",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S14",
-   "script_line": "[S14] Good communicators notice what has NOT been said \u2014 unclear deadline, changed priority, missing information.",
+   "script_line": "[S14] Good communicators notice what has NOT been said — unclear deadline, changed priority, missing information.",
    "visual_direction": "A worker reviews incomplete instructions, notices missing details, asks the manager to confirm deadline/priority/result.",
    "clips": [
     {
@@ -1532,11 +1882,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__thumb__pexels_8961111_worker-asking-manager-clarificat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__preview__pexels_8961111_worker-asking-manager-clarificat.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker reading a short note with missing details, frowning",
+     "pexels": "worker reading note frowning outdoors",
+     "pixabay": "worker note frowning",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker asking a manager to confirm, pointing at the note",
+     "pexels": "worker asking manager confirm note",
+     "pixabay": "worker manager note confirm",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a note with blanks",
+     "pexels": "note with blanks close up",
+     "pixabay": "note paper blank close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S15",
-   "script_line": "[S15] A task can begin correctly and still move in the wrong direction \u2014 priorities change, new information arrives.",
+   "script_line": "[S15] A task can begin correctly and still move in the wrong direction — priorities change, new information arrives.",
    "visual_direction": "A worker progresses, receives updated information, checks with the manager, adjusts before wasting time.",
    "clips": [
     {
@@ -1789,12 +2168,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker progressing on a wall",
+     "pexels": "worker building wall progress",
+     "pixabay": "worker wall progress",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "manager arriving with new information, both checking",
+     "pexels": "manager arriving new information worker",
+     "pixabay": "manager worker information",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a plan being adjusted with a pencil",
+     "pexels": "plan adjusted with pencil close",
+     "pixabay": "plan pencil adjust close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S16",
    "script_line": "[S16] Some messages should be sent immediately; some discussed face to face; some written down.",
-   "visual_direction": "Sequence: urgent phone call \u2192 face-to-face discussion \u2192 written instructions confirmed by message.",
+   "visual_direction": "Sequence: urgent phone call → face-to-face discussion → written instructions confirmed by message.",
    "clips": [
     {
      "id": "upload_1784645211785_6350f095b79f4e55a5006115d02d049a",
@@ -2036,11 +2444,40 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "urgent phone call on site",
+     "pexels": "worker urgent phone call site",
+     "pixabay": "worker phone call site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "face-to-face discussion by a truck",
+     "pexels": "face to face discussion by truck",
+     "pixabay": "discussion truck workers",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of written instructions on a board",
+     "pexels": "written instructions on board close",
+     "pixabay": "instructions board writing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   },
   {
    "id": "S17",
-   "script_line": "[S17] The message is not complete when it is spoken \u2014 it is complete when it is UNDERSTOOD.",
+   "script_line": "[S17] The message is not complete when it is spoken — it is complete when it is UNDERSTOOD.",
    "visual_direction": "One worker gives instructions, the second repeats them back correctly, then completes the task as intended.",
    "clips": [
     {
@@ -2215,7 +2652,7 @@
      "id": "communication-dont-assume-clarify-v2-S17-V06",
      "type": "video",
      "source": "pexels",
-     "author": "Sururi Ball\u0131da\u011f Director",
+     "author": "Sururi Ballıdağ Director",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/men-working-at-a-construction-site-16106604/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V06.jpg",
@@ -2283,7 +2720,36 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "one worker giving instructions, the other repeating them back",
+     "pexels": "worker repeating instructions back",
+     "pixabay": "workers instructions repeat",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a nod of understanding",
+     "pexels": "nod of understanding close",
+     "pixabay": "nod understanding close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the task completed as intended",
+     "pexels": "task completed as intended wide",
+     "pixabay": "task completed wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:38:19Z"
   }
  ]
 }
