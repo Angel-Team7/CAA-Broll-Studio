@@ -677,3 +677,33 @@
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-making-leather-belt-6654772/ |
 | pexels |  | Juan Pablo GÃ³mez | Pexels License | https://www.pexels.com/video/man-putting-a-l-square-in-a-table-8148632/ |
 | pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-bartender-putting-a-liquid-in-a-stainless-cup-3783006/ |
+| pixabay | automobile  black  antique car  vehicle  luxury  car  dare   | raffalel | Pixabay Content License | https://pixabay.com/videos/id-24386/ |
+| pexels |  | Fabián Arturo Sosa García | Pexels License | https://www.pexels.com/video/broken-handle-of-a-spade-5241409/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-spreading-the-soil-using-a-rake-4132632/ |
+| pixabay | puppet  puppet show  street  show  doll  toy  traditional  m | Activedia | Pixabay Content License | https://pixabay.com/videos/id-1365/ |
+| pixabay | campfire  flames  night  fire  camp  burn  burning  wood  ou | JoshuaWoroniecki | Pixabay Content License | https://pixabay.com/videos/id-257593/ |
+| pixabay | onion  cut  hands  knife  cook  prepare  food  kitchen  clos | klimkin | Pixabay Content License | https://pixabay.com/videos/id-11230/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-black-nissan-skyline-in-urban-setting-30391329/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-wheel-of-an-aston-martin-5309318/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-black-sports-car-with-reflective-detailing-30391325/ |
+| pixabay | door  gate  castle  fortress  nexus  passage  wall  stone  w | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-214855/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-setting-up-the-kitchen-table-7119592/ |
+| pexels |  | Max Vakhtbovych | Pexels License | https://www.pexels.com/video/furniture-inside-a-house-7614420/ |
+| pexels |  | Abby Chung | Pexels License | https://www.pexels.com/video/blue-clothes-pins-1362720/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-standing-in-a-room-with-clothes-4620479/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/video-of-hanged-clothes-9084212/ |
+| pexels |  | olia danilevich | Pexels License | https://www.pexels.com/video/close-up-view-of-person-holding-a-paintbrush-6607459/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/different-kinds-of-brushes-8251892/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-holding-a-paintbrush-8037249/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-delivery-man-leaving-package-at-the-front-door-6667244/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/paramedic-getting-a-bag-6520290/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-group-of-men-working-on-a-roof-16222744/ |
+| pixabay | shoes  laces  tying  wrestling  sport  fitness  man  fighter | evagd02 | Pixabay Content License | https://pixabay.com/videos/id-8294/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189730/ |
+| pixabay | people  running  sprinting  sport  event  race  running race | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-120450/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/marking-a-piece-of-wood-with-pencil-5967523/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/artisan-crafting-wood-in-workshop-35323776/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/craftsman-operating-bandsaw-in-woodworking-workshop-35323775/ |
+| pexels |  | Orhan Pergel | Pexels License | https://www.pexels.com/video/a-man-is-holding-a-typewriter-in-his-hand-20413417/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-shovel-and-worker-outdoors-38045743/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-craftsman-working-in-workshop-39310419/ |
