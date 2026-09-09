@@ -28,7 +28,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__thumb__pexels_17692972_olive-grove-aerial-warm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__preview__pexels_17692972_olive-grove-aerial-warm-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__strip__pexels_17692972_olive-grove-aerial-warm-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial view of a villa with a swimming pool and volleyball court",
+     "violation": "resort pool",
+     "shot": "A",
+     "shoot": "pexels-olive-grove-aerial-warm-light",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:34:38Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_36746052_portuguese-farmhouse-rural-lands",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__thumb__pexels_36746052_portuguese-farmhouse-rural-lands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__preview__pexels_36746052_portuguese-farmhouse-rural-lands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__strip__pexels_36746052_portuguese-farmhouse-rural-lands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "aerial view of rolling farmland toward a village at dusk",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-portuguese-farmhouse-rural-lands",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:34:38Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_14333_portuguese-farmhouse-rural-lands",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__thumb__pixabay_14333_portuguese-farmhouse-rural-lands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__preview__pixabay_14333_portuguese-farmhouse-rural-lands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__strip__pixabay_14333_portuguese-farmhouse-rural-lands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "aerial view of a stone farmhouse compound beside a tilled garden",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-portuguese-farmhouse-rural-lands",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:34:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_10778986_portuguese-farmhouse-rural-lands",
@@ -114,7 +144,13 @@
     "corporate"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:34:38Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:34:38Z"
   },
   {
    "id": "S02",
