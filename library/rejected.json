@@ -2018,8 +2018,8 @@
  "pexels:https://www.pexels.com/video/a-group-of-men-in-orange-vests-and-hard-hats-working-on-a-construction-site-19832500/": {
   "brand": "edenrise",
   "reason": "face masks",
-  "at": "2026-09-09T18:33:15Z",
-  "from": "be-a-lifelong-learner-v2/S01"
+  "at": "2026-09-09T18:57:26Z",
+  "from": "benchmark-excellence-v2/S09"
  },
  "pexels:30810442": {
   "brand": "edenrise",
@@ -2491,8 +2491,26 @@
  },
  "pexels:https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/": {
   "brand": "edenrise",
-  "reason": "office-like polished interior, professional attire",
-  "at": "2026-09-09T18:53:40Z",
-  "from": "benchmark-excellence-v2/S06"
+  "reason": "office",
+  "at": "2026-09-09T18:57:26Z",
+  "from": "benchmark-excellence-v2/S11"
+ },
+ "pexels:https://www.pexels.com/video/a-man-using-a-spirit-level-on-the-wall-8482328/": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-09T18:57:26Z",
+  "from": "benchmark-excellence-v2/S08"
+ },
+ "pexels:https://www.pexels.com/video/men-working-on-construction-site-10810476/": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:57:26Z",
+  "from": "benchmark-excellence-v2/S09"
+ },
+ "pexels:20653095": {
+  "brand": "edenrise",
+  "reason": "hi-vis crowd",
+  "at": "2026-09-09T18:57:26Z",
+  "from": "benchmark-excellence-v2/S11"
  }
 }
