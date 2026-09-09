@@ -632,14 +632,23 @@
      "page_url": "https://www.pexels.com/video/a-man-inspecting-wood-5972087/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V00.mp4",
-     "score": 21.0,
+     "score": 5.05,
      "categories": [
       "man"
      ],
      "title": "video man inspecting wood",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a man inspects a long wooden board in a workshop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-inspecting-wood-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V01",
@@ -650,7 +659,7 @@
      "page_url": "https://pixabay.com/videos/id-4973/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V01.mp4",
-     "score": 20.19,
+     "score": 6.05,
      "categories": [
       "carpenter",
       "construction"
@@ -658,7 +667,16 @@
      "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "hands mark a wood plank with a ruler then cut it with a jigsaw",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-jigsaw-woodcut",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V02",
@@ -669,7 +687,7 @@
      "page_url": "https://pixabay.com/videos/id-4974/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V02.mp4",
-     "score": 20.19,
+     "score": 6.05,
      "categories": [
       "building",
       "carpenter",
@@ -678,7 +696,16 @@
      "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "hands mark a wood plank with a ruler then drill it",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-drill-mark-wood",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V03",
@@ -689,7 +716,7 @@
      "page_url": "https://pixabay.com/videos/id-125458/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V03.mp4",
-     "score": 18.69,
+     "score": 5.7,
      "categories": [
       "carpenter",
       "craftsman",
@@ -699,7 +726,16 @@
      "title": "board  carpenter  carpentry  circular  craftsman  detail  furniture  hand  handmade  industry  joinery  make  person  pl",
      "query": "woodworker assembling furniture joinery",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a circular saw cuts through a wooden board in close-up",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-circularsaw-board",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V04",
@@ -710,14 +746,23 @@
      "page_url": "https://www.pexels.com/video/a-man-cutting-wood-using-circular-saw-7492607/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V04.mp4",
-     "score": 19.74,
+     "score": 6.7,
      "categories": [
       "man"
      ],
      "title": "video man cutting wood using circular saw",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a bearded carpenter feeds a board through a table saw in his workshop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-tablesaw-bearded-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V05",
@@ -728,7 +773,7 @@
      "page_url": "https://www.pexels.com/video/carpenter-working-with-a-drill-6789900/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V05.mp4",
-     "score": 18.77,
+     "score": 7.7,
      "categories": [
       "carpenter",
       "working"
@@ -736,7 +781,16 @@
      "title": "video carpenter working with drill",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 9,
+     "caption": "a carpenter drills into a wood plank at his workbench",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-africanman-drill-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V06",
@@ -763,14 +817,23 @@
      "page_url": "https://www.pexels.com/video/a-man-holding-a-wood-plank-5759817/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V08.mp4",
-     "score": 20.71,
+     "score": 4.35,
      "categories": [
       "man"
      ],
      "title": "video man holding wood plank",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "an older man works on a wood plank under a single workshop lamp",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-darkmood-carpenter",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V09",
@@ -781,7 +844,7 @@
      "page_url": "https://www.pexels.com/video/carpenter-sanding-wood-surface-in-workshop-28930929/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V09.mp4",
-     "score": 19.89,
+     "score": 4.7,
      "categories": [
       "carpenter",
       "face",
@@ -790,7 +853,16 @@
      "title": "video carpenter sanding wood surface workshop",
      "query": "wooden table furniture workshop finished",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "close-up of a board being sanded, dust flying",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sanding-closeup-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V10",
@@ -801,14 +873,23 @@
      "page_url": "https://www.pexels.com/video/man-putting-a-wooden-plank-on-a-wood-cutter-7493219/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V10.mp4",
-     "score": 19.74,
+     "score": 4.7,
      "categories": [
       "man"
      ],
      "title": "video man putting wooden plank wood cutter",
      "query": "carpenter building wooden table workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a man feeds a wood plank into a thicknesser in a workshop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-planer-feed-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V11",
@@ -819,7 +900,7 @@
      "page_url": "https://www.pexels.com/video/woodworker-polishing-timber-in-workshop-35323766/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V11.mp4",
-     "score": 19.51,
+     "score": 4.05,
      "categories": [
       "worker",
       "workshop"
@@ -827,7 +908,16 @@
      "title": "video woodworker polishing timber workshop",
      "query": "craftsman examining wooden chair leg",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands sand a length of timber on a workbench",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-polish-timber-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-I00",
@@ -950,7 +1040,7 @@
      "page_url": "https://pixabay.com/videos/id-277/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-kaizen-S01-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-kaizen-S01-V10.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [
       "worker",
       "carpenter"
@@ -962,7 +1052,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hand places a wood plank among stacked pallet pieces",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-hammer-nail-pallet",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V13",
@@ -973,7 +1072,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-on-site-during-building-phase-32244797/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-goal-setting-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-goal-setting-S07-V04.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [
       "worker",
       "builder"
@@ -985,7 +1084,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat kneels among rebar at a large site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rebar-hardhat-site",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V14",
@@ -996,7 +1104,7 @@
      "page_url": "https://www.pexels.com/video/low-angle-footage-of-a-construction-worker-securing-the-steel-scaffolding-on-the-building-exterior-3078521/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-goal-setting-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-goal-setting-S07-V02.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [
       "worker",
       "builder"
@@ -1008,7 +1116,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a man climbs scaffolding on an unfinished concrete building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-scaffold-climb",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V15",
@@ -1019,7 +1136,7 @@
      "page_url": "https://www.pexels.com/video/nail-gun-construction-worker-framing-house-building-19654640/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-gratitude-S11-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-gratitude-S11-V02.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [
       "worker",
       "builder",
@@ -1032,7 +1149,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker nail-guns sheathing panels onto a roof frame",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-nailgun-framing-roof",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V16",
@@ -1043,7 +1169,7 @@
      "page_url": "https://www.pexels.com/video/a-person-putting-a-wood-plank-on-a-wooden-surface-7479053/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V16.mp4",
-     "score": 0,
+     "score": 8.0,
      "categories": [],
      "title": "",
      "query": "carpenter building wooden table workshop",
@@ -1052,7 +1178,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "hands test the surface of a finished wooden tabletop",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hands-table-test",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V17",
@@ -1063,7 +1198,7 @@
      "page_url": "https://pixabay.com/videos/id-91376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V17.mp4",
-     "score": 0,
+     "score": 4.7,
      "categories": [],
      "title": "wood  timber  wooden  tools  production workshop  woodworking  machine-tool  production  factory",
      "query": "carpenter building wooden table workshop",
@@ -1072,7 +1207,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand guides a plank through a planer, shavings flying",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-planer-shavings-hand",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V18",
@@ -1083,7 +1227,7 @@
      "page_url": "https://www.pexels.com/video/a-person-getting-the-hammer-from-the-wooden-suface-4957779/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V18.mp4",
-     "score": 0,
+     "score": 5.35,
      "categories": [],
      "title": "",
      "query": "carpenter building wooden table workshop",
@@ -1092,7 +1236,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a hand taps a small hammer against a pale tabletop",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hammer-tabletop-tap",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V19",
@@ -1103,7 +1256,7 @@
      "page_url": "https://pixabay.com/videos/id-24387/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V19.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "automobile  black  antique car  vehicle  luxury  car  dare  vintage  dynamics  glittering  workshop  dark  service",
      "query": "carpenter building wooden table workshop",
@@ -1112,7 +1265,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an abstract close-up of dark chrome car trim",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chrome-abstract",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V20",
@@ -1123,7 +1285,7 @@
      "page_url": "https://www.pexels.com/video/a-man-cutting-wood-using-circular-saw-6789578/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V20.mp4",
-     "score": 0,
+     "score": 3.25,
      "categories": [],
      "title": "",
      "query": "carpenter building wooden table workshop",
@@ -1132,7 +1294,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a masked carpenter operates a table saw in a large workshop",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-masked-tablesaw-shop",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S03-V21",
@@ -1143,7 +1314,7 @@
      "page_url": "https://pixabay.com/videos/id-130651/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__thumb__edenrise-c2-winning-beliefs-S03-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__preview__edenrise-c2-winning-beliefs-S03-V21.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  person  people",
      "query": "carpenter building wooden table workshop",
@@ -1152,7 +1323,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S03__strip__edenrise-c2-winning-beliefs-S03-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a woman in a mustard sweater holds a plastic bag indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-lifestyle",
+     "judged_at": "2026-09-09T19:40:13Z",
+     "rank": 18,
+     "shown": false
     }
    ],
    "timing_source": "estimated",
@@ -1193,7 +1373,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "judged_at": "2026-09-09T19:40:13Z"
   },
   {
    "id": "S04",
@@ -1215,7 +1396,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-holding-a-blueprint-while-looking-at-construction-site-8964796/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V00.mp4",
-     "score": 27.32,
+     "score": 3.0,
      "categories": [
       "construction",
       "man",
@@ -1225,7 +1406,16 @@
      "title": "video man and woman holding blueprint while looking construction site",
      "query": "two workers reviewing plans together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers in hard hats review a blueprint at a large construction site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-blueprint-crane-site",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-V10",
@@ -1236,7 +1426,7 @@
      "page_url": "https://www.pexels.com/video/a-man-discussing-the-plants-to-a-woman-6508491/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V10.mp4",
-     "score": 17.87,
+     "score": 6.05,
      "categories": [
       "man",
       "woman"
@@ -1244,7 +1434,16 @@
      "title": "video man discussing the plants woman",
      "query": "two workers greenhouse discussing plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two greenhouse workers check a tablet among rows of seedlings",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-greenhouse-couple-tablet",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-V01",
@@ -1272,7 +1471,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-talking-while-in-the-greenhouse-7101064/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V02.mp4",
-     "score": 26.08,
+     "score": 4.75,
      "categories": [
       "man",
       "talking",
@@ -1281,7 +1480,16 @@
      "title": "video man and woman talking while the greenhouse",
      "query": "gardener helping colleague greenhouse",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "two greenhouse workers chat warmly in an aisle of plants",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-greenhouse-couple-chat",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-V03",
@@ -1292,7 +1500,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-checking-the-plants-in-the-greenhouse-7101057/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V03.mp4",
-     "score": 22.8,
+     "score": 5.4,
      "categories": [
       "man",
       "woman"
@@ -1300,7 +1508,16 @@
      "title": "video man and woman checking the plants the greenhouse",
      "query": "gardener helping colleague greenhouse",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "two greenhouse workers lean over a phone beside seedling trays",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-greenhouse-couple-tablet",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-V08",
@@ -1311,7 +1528,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-a-woman-working-in-a-greenhouse-7101051/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V08.mp4",
-     "score": 19.07,
+     "score": 3.75,
      "categories": [
       "man",
       "woman",
@@ -1320,7 +1537,16 @@
      "title": "video man and woman working greenhouse",
      "query": "two workers greenhouse discussing plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "two greenhouse workers examine a bouquet of tulips together",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-greenhouse-couple-tulips",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-V09",
@@ -1331,7 +1557,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-checking-the-plants-6508711/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__thumb__edenrise-c2-winning-beliefs-S04-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__preview__edenrise-c2-winning-beliefs-S04-V09.mp4",
-     "score": 17.87,
+     "score": 6.05,
      "categories": [
       "man",
       "woman"
@@ -1339,7 +1565,16 @@
      "title": "video man and woman checking the plants",
      "query": "two workers greenhouse discussing plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S04__strip__edenrise-c2-winning-beliefs-S04-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two workers check a notebook among rows of greenhouse plants",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-greenhouse-couple-tablet",
+     "judged_at": "2026-09-09T19:40:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S04-I00",
@@ -1438,7 +1673,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:40:53Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:40:53Z"
   },
   {
    "id": "S05",

@@ -3360,7 +3360,7 @@
      "page_url": "https://pixabay.com/videos/id-40816/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V01.mp4",
-     "score": 24.3,
+     "score": 2.35,
      "categories": [
       "builder",
       "building",
@@ -3371,7 +3371,16 @@
      "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
      "query": "preparing tools for next shift",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "an elderly man leans on a shovel on a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-roadworker",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V03",
@@ -3382,7 +3391,7 @@
      "page_url": "https://www.pexels.com/video/an-elderly-man-talking-to-his-colleague-8719400/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V03.mp4",
-     "score": 25.3,
+     "score": 1.3,
      "categories": [
       "colleague",
       "man",
@@ -3391,7 +3400,16 @@
      "title": "video elderly man talking his colleague",
      "query": "worker helping colleague unasked",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a young employee hands a form to an older manager in an office",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-elderly",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V06",
@@ -3402,7 +3420,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-cutting-materials-for-building-34572309/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V06.mp4",
-     "score": 21.52,
+     "score": 3.0,
      "categories": [
       "building",
       "construction",
@@ -3412,7 +3430,16 @@
      "title": "video construction workers cutting materials for building",
      "query": "worker organizing tool wall evening",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a man kneels using a cutting tool amid stacked warehouse boxes",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-warehouse-boxes",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V09",
@@ -3423,7 +3450,7 @@
      "page_url": "https://www.pexels.com/video/carpenter-with-woodworking-equipment-5895495/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V09.mp4",
-     "score": 19.88,
+     "score": 6.35,
      "categories": [
       "carpenter",
       "working"
@@ -3431,7 +3458,16 @@
      "title": "video carpenter with woodworking equipment",
      "query": "craftsman showing apprentice technique",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a bearded carpenter shapes wood with a hand plane in a workshop",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-carpenter-workshop",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-I07",
@@ -3561,7 +3597,7 @@
      "page_url": "https://pixabay.com/videos/id-130651/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-goal-setting-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-goal-setting-S02-V01.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [
       "worker",
       "woman",
@@ -3574,7 +3610,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman in a mustard sweater holds a plastic bag indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-lifestyle",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V12",
@@ -3585,7 +3630,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-teaching-a-man-while-wearing-goggles-9431322/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-goal-setting-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-goal-setting-S04-V02.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [
       "worker",
       "hands",
@@ -3599,7 +3644,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two office workers in suits review a document at a desk",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-suits",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V13",
@@ -3610,7 +3664,7 @@
      "page_url": "https://www.pexels.com/video/male-professor-helping-his-students-8199374/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-gratitude-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-gratitude-S08-V07.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [
       "worker",
       "man"
@@ -3622,7 +3676,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a bearded man points at an open book for two students in a library",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-library-teaching",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V14",
@@ -3633,7 +3696,7 @@
      "page_url": "https://www.pexels.com/video/a-barman-placing-an-empty-glass-on-the-counter-14058797/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V14.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "preparing tools for next shift",
@@ -3642,7 +3705,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a bartender pours and garnishes a drink at a bar",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bartender",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 13,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V15",
@@ -3653,7 +3725,7 @@
      "page_url": "https://pixabay.com/videos/id-115788/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V15.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "man  fabric  cutter  knives  cutting table  tool  work  human  employee  drawing",
      "query": "preparing tools for next shift",
@@ -3662,7 +3734,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man operates a stitching machine over fabric in a tailoring workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-tailor-workshop",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V16",
@@ -3673,7 +3754,7 @@
      "page_url": "https://www.pexels.com/video/industrial-metal-grinding-with-sparks-30456163/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V16.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "preparing tools for next shift",
@@ -3682,7 +3763,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an angle grinder cuts metal throwing sparks in close-up",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-grinder-sparks",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V17",
@@ -3693,7 +3783,7 @@
      "page_url": "https://pixabay.com/videos/id-4974/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V17.mp4",
-     "score": 0,
+     "score": 6.7,
      "categories": [],
      "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
      "query": "preparing tools for next shift",
@@ -3702,7 +3792,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "hands mark a wood plank with a ruler then drill it",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-woodworking-closeup",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V18",
@@ -3713,7 +3812,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-construction-site-with-heavy-machinery-38895155/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V18.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "preparing tools for next shift",
@@ -3722,7 +3821,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial view of excavators working a large quarry site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-quarry-aerial",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V19",
@@ -3733,7 +3841,7 @@
      "page_url": "https://pixabay.com/videos/id-11562/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__thumb__edenrise-c2-six-needs-drives-S07-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__preview__edenrise-c2-six-needs-drives-S07-V19.mp4",
-     "score": 0,
+     "score": 2.05,
      "categories": [],
      "title": "cooking  rice  dumplings  asian  chinese  recipe  bamboo  parcels  sticky rice  making  preparing  boiling  how to  kitchen  baking  steaming  recipes  people  demonstration  eating  dinning  snack  party  buffet",
      "query": "preparing tools for next shift",
@@ -3742,7 +3850,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "hands mix chopped dried fruit into a bowl on a wooden counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-food-prep",
+     "judged_at": "2026-09-09T19:30:06Z",
+     "rank": 7,
+     "shown": true
     }
    ],
    "timing_source": "estimated",
@@ -3783,7 +3900,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T19:30:06Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:30:06Z"
   },
   {
    "id": "S08",
@@ -3805,7 +3928,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-on-the-phone-7816448/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V01.mp4",
-     "score": 21.9,
+     "score": 0.65,
      "categories": [
       "man",
       "talking",
@@ -3814,7 +3937,16 @@
      "title": "video woman talking the phone",
      "query": "team day construction site sunrise",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a site manager in a blazer and hard hat talks on the phone",
+     "violation": "suit",
+     "shot": "",
+     "shoot": "pexels-manager-suit-phone",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V02",
@@ -3825,7 +3957,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-securing-rebar-on-site-32244802/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V02.mp4",
-     "score": 22.7,
+     "score": 2.35,
      "categories": [
       "construction",
       "site",
@@ -3834,7 +3966,16 @@
      "title": "video construction worker securing rebar site",
      "query": "montage workers various trades day",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker in a vest ties rebar at a construction site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-rebar-worker",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V03",
@@ -3845,7 +3986,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-using-shovels-and-wheelbarrow-5434222/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V03.mp4",
-     "score": 19.9,
+     "score": 4.0,
      "categories": [
       "construction",
       "worker",
@@ -3854,7 +3995,16 @@
      "title": "video construction workers using shovels and wheelbarrow",
      "query": "montage workers various trades day",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "two workers push loaded wheelbarrows along a city street",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-wheelbarrow-street",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V14",
@@ -3865,12 +4015,21 @@
      "page_url": "https://mixkit.co/free-stock-video/gigantic-field-of-sunflowers-on-a-sunny-day-4881/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V14.mp4",
-     "score": 11.3,
+     "score": 0.0,
      "categories": [],
      "title": "gigantic field of sunflowers on a sunny day",
      "query": "farmers group working field photo",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a wide sunflower field stretches to the horizon",
+     "violation": "flowers-only",
+     "shot": "",
+     "shoot": "mixkit-sunflower-field",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V04",
@@ -3881,14 +4040,23 @@
      "page_url": "https://pixabay.com/videos/id-260397/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V04.mp4",
-     "score": 18.3,
+     "score": 0.7,
      "categories": [
       "land"
      ],
      "title": "fog  sun  sunshine  mist  ripe  hoarfrost  winter's day  winter morning  sunrise  sunlight  sunbeams  fog ceiling  sea o",
      "query": "team day construction site sunrise",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "sun rises over a foggy mountain valley",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-misty-sunrise",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V13",
@@ -3899,12 +4067,21 @@
      "page_url": "https://pixabay.com/videos/id-204006/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V13.mp4",
-     "score": 15.57,
+     "score": 0.35,
      "categories": [],
      "title": "sky  clouds  fluffy  sunset  golden hour  travel  sun  4k",
      "query": "construction crew golden hour photo",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "clouds drift over a golden sunset sky",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-clouds-sunset",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V05",
@@ -3915,7 +4092,7 @@
      "page_url": "https://www.pexels.com/video/building-construction-timelapse-19479036/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V05.mp4",
-     "score": 20.5,
+     "score": 0.35,
      "categories": [
       "building",
       "construction"
@@ -3923,7 +4100,16 @@
      "title": "video building construction timelapse",
      "query": "team day construction site sunrise",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a high-rise building under construction at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-building-timelapse",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-I01",
@@ -3976,7 +4162,7 @@
      "page_url": "https://www.pexels.com/video/road-construction-crew-working-with-paver-28670311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V15.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "worker 10 more please",
@@ -3985,7 +4171,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "road crew works beside a large asphalt paving machine",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-asphalt-crew",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V16",
@@ -3996,7 +4191,7 @@
      "page_url": "https://pixabay.com/videos/id-70856/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V16.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "highway  road  car  transportation  vehicle  asphalt  aerial  view  drive  driving  fast  flight  flying  freeway  journey  transport  truck  worker  aerial view",
      "query": "worker 10 more please",
@@ -4005,7 +4200,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an empty desert highway stretches toward red rock formations",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-desert-road",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V17",
@@ -4016,7 +4220,7 @@
      "page_url": "https://www.pexels.com/video/urban-construction-worker-on-site-in-auckland-38885276/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V17.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker 10 more please",
@@ -4025,7 +4229,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat stands behind safety netting on a high-rise site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-netting",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V18",
@@ -4036,7 +4249,7 @@
      "page_url": "https://pixabay.com/videos/id-42698/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V18.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "machine  asphalt paver  new road  building  asphalt  roads  worker  work  heavy  cars  equipment  filthy  street",
      "query": "worker 10 more please",
@@ -4045,7 +4258,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a yellow road roller drives along a paved road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-road-roller",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V19",
@@ -4056,7 +4278,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-on-a-roof-16393893/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V19.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker 10 more please",
@@ -4065,7 +4287,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial view of workers laying rebar on a building floor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-rebar",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V20",
@@ -4094,7 +4325,7 @@
      "page_url": "https://www.pexels.com/video/pensive-man-working-indoors-in-natural-light-34572311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V21.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker 10 more please",
@@ -4103,7 +4334,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a young man in a cap crouches on a city sidewalk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-street-crouch",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V22",
@@ -4114,7 +4354,7 @@
      "page_url": "https://pixabay.com/videos/id-42356/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "bumblebee  garden  nature  close up",
      "query": "10 more please close up",
@@ -4123,7 +4363,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a bee lands on a purple thistle flower",
+     "violation": "wildlife",
+     "shot": "",
+     "shoot": "pixabay-bee-flower",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V23",
@@ -4134,7 +4383,7 @@
      "page_url": "https://www.pexels.com/video/old-local-artisan-at-work-27785914/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V23.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker 10 more please",
@@ -4143,7 +4392,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a shirtless man grinds metal with an angle grinder, sparks flying",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-shirtless-grinder",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V24",
@@ -4154,7 +4412,7 @@
      "page_url": "https://pixabay.com/videos/id-11749/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__thumb__edenrise-c2-six-needs-drives-S08-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__preview__edenrise-c2-six-needs-drives-S08-V24.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  works  workshop  hands",
      "query": "worker 10 more please",
@@ -4163,7 +4421,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "close-up of a sanding disc spinning against a wooden edge",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-sanding-closeup",
+     "judged_at": "2026-09-09T19:31:13Z",
+     "rank": 2,
+     "shown": true
     }
    ],
    "timing_source": "estimated",
@@ -4204,7 +4471,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:31:13Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:31:13Z"
   },
   {
    "id": "S09",
@@ -4226,7 +4499,7 @@
      "page_url": "https://pixabay.com/videos/id-171044/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V05.mp4",
-     "score": 30.41,
+     "score": 3.4,
      "categories": [
       "man",
       "outdoor",
@@ -4237,7 +4510,16 @@
      "title": "man  smile  smiling  happy  male  person  outdoors  portrait",
      "query": "colleagues greeting welcoming smiling",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a young man smiles warmly at the camera against green foliage",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-man-portrait-green",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V01",
@@ -4265,7 +4547,7 @@
      "page_url": "https://www.pexels.com/video/close-up-of-woman-reading-notebook-11025488/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V02.mp4",
-     "score": 15.07,
+     "score": 5.65,
      "categories": [
       "man",
       "woman"
@@ -4273,7 +4555,16 @@
      "title": "video close woman reading notebook",
      "query": "person reflecting writing notebook quiet",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes in an open notebook resting on the lap",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-notebook-closeup",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V04",
@@ -4284,7 +4575,7 @@
      "page_url": "https://www.pexels.com/video/woman-sitting-on-sofa-while-writing-on-a-notebook-6890220/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V04.mp4",
-     "score": 15.07,
+     "score": 2.0,
      "categories": [
       "man",
       "woman"
@@ -4292,7 +4583,16 @@
      "title": "video woman sitting sofa while writing notebook",
      "query": "person reflecting writing notebook quiet",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman sits on a couch by a window writing in a notebook",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-apartment-writing",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V03",
@@ -4303,7 +4603,7 @@
      "page_url": "https://pixabay.com/videos/id-146632/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V03.mp4",
-     "score": 20.18,
+     "score": 1.7,
      "categories": [
       "land",
       "together"
@@ -4311,7 +4611,16 @@
      "title": "couple  beach  ocean  sea  walking  calm  travel  honeymoon  love  together  water  nature  landscape",
      "query": "workers walking together end of day",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two people walk along a palm-lined beach at a resort",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-beach-couple",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V10",
@@ -4322,12 +4631,21 @@
      "page_url": "https://mixkit.co/free-stock-video/stunning-sunset-seen-from-the-sea-4119/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V10.mp4",
-     "score": 15.12,
+     "score": 0.7,
      "categories": [],
      "title": "stunning sunset seen from the sea",
      "query": "team walking together sunset site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "the sun sets over a calm sea horizon",
+     "violation": "",
+     "shot": "",
+     "shoot": "mixkit-sea-sunset",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V11",
@@ -4338,12 +4656,21 @@
      "page_url": "https://mixkit.co/free-stock-video/bright-orange-sunset-on-beach-2168/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__thumb__edenrise-c2-six-needs-drives-S09-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__preview__edenrise-c2-six-needs-drives-S09-V11.mp4",
-     "score": 15.12,
+     "score": 0.7,
      "categories": [],
      "title": "bright orange sunset on beach",
      "query": "team walking together sunset site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an orange sunset glows behind silhouetted beach palm trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "mixkit-beach-sunset",
+     "judged_at": "2026-09-09T19:31:52Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-I06",
@@ -4437,7 +4764,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:31:52Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:31:52Z"
   }
  ]
 }

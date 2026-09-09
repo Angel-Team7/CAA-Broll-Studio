@@ -20,7 +20,7 @@
      "page_url": "https://www.pexels.com/video/people-talking-to-a-woman-at-work-7640681/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V04.mp4",
-     "score": 23.07,
+     "score": 0.65,
      "categories": [
       "man",
       "people",
@@ -30,7 +30,16 @@
      "title": "video people talking woman work",
      "query": "worker under pressure deadline site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "coworkers crowd a desk in an office as one holds a HELP sign",
+     "violation": "office",
+     "shot": "C",
+     "shoot": "pexels-office-help-sign",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V07",
@@ -41,7 +50,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-drinking-coffee-while-looking-at-the-papers-9080631/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V07.mp4",
-     "score": 18.87,
+     "score": 0.65,
      "categories": [
       "man",
       "woman"
@@ -49,7 +58,16 @@
      "title": "video woman drinking coffee while looking the papers",
      "query": "worker under pressure deadline site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman reviews papers at a desk under a studio lamp",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-desk-lamp-papers",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V09",
@@ -60,7 +78,7 @@
      "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V09.mp4",
-     "score": 23.72,
+     "score": 3.0,
      "categories": [
       "construction",
       "conversation",
@@ -69,7 +87,16 @@
      "title": "video engineers construction site having conversation",
      "query": "construction workers discussing problem plans",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers in hard hats talk on a high-rise construction site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-crane-talk",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V11",
@@ -80,7 +107,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V11.mp4",
-     "score": 21.89,
+     "score": 3.0,
      "categories": [
       "conversation",
       "man",
@@ -89,7 +116,16 @@
      "title": "video man and woman having conversation",
      "query": "construction workers discussing problem plans",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers in hard hats discuss plans on scaffolding",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-crane-talk",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V14",
@@ -100,7 +136,7 @@
      "page_url": "https://pixabay.com/videos/id-3522/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V14.mp4",
-     "score": 13.62,
+     "score": 0.0,
      "categories": [
       "construction",
       "welder",
@@ -109,7 +145,16 @@
      "title": "weld  hardware  construction  welder  locksmith  spark  fire  flame  to paste  amend  job  worker  electricity  electrod",
      "query": "welder sparks working fast",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a welder's torch throws bright sparks in close-up",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-welding-sparks",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V08",
@@ -120,7 +165,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-while-looking-at-the-construction-site-8964771/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V08.mp4",
-     "score": 27.06,
+     "score": 3.0,
      "categories": [
       "construction",
       "conversation",
@@ -131,7 +176,16 @@
      "title": "video man and woman having conversation while looking the construction site",
      "query": "construction workers discussing problem plans",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers in vests and hard hats talk on an elevated site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-crane-talk",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V10",
@@ -142,7 +196,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-while-using-tablet-8964795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V10.mp4",
-     "score": 21.89,
+     "score": 3.0,
      "categories": [
       "man",
       "talking",
@@ -151,7 +205,16 @@
      "title": "video man and woman talking while using tablet",
      "query": "construction workers discussing problem plans",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers on a platform look at a tablet together",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hardhat-platform-tablet",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-I02",
@@ -224,7 +287,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-at-the-construction-site-8964773/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S03-V04.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [
       "worker",
       "builder",
@@ -239,7 +302,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a worker shields his eyes while a colleague looks on at a site",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hardhat-platform-tablet",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V16",
@@ -250,7 +322,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-discussing-about-work-8124122/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S04-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S04-V11.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [
       "worker",
       "team"
@@ -262,7 +334,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in suits review a folder by a glass office window",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-suits-office-glass",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V17",
@@ -273,7 +354,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-and-a-man-talking-at-a-construction-site-8964769/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-kaizen-S07-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-kaizen-S07-V10.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [
       "worker",
       "builder",
@@ -288,7 +369,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers talk over paperwork on a wooden platform railing",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-crane-talk",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V18",
@@ -299,7 +389,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S06-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S06-V10.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [
       "worker",
       "builder",
@@ -313,7 +403,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two workers in high-vis gear face off tensely by a car",
+     "violation": "shouting",
+     "shot": "",
+     "shoot": "pexels-hivis-confrontation",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V19",
@@ -324,7 +423,7 @@
      "page_url": "https://www.pexels.com/video/woman-receiving-a-lot-of-paperwork-7640083/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V19.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -333,7 +432,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman sits at a stark white office desk with papers",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-white-desk",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V20",
@@ -344,7 +452,7 @@
      "page_url": "https://pixabay.com/videos/id-206692/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V20.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction site  development  infrastructure  real estate  suburb  structure  growth  engineering  tower  tall  high  rooftop  connected  architect  information  working  scene  sunlight  construction worker  pakistan  drone  aerial view",
      "query": "worker under pressure deadline site",
@@ -353,7 +461,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a large housing development under construction",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-development",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 20,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V21",
@@ -364,7 +481,7 @@
      "page_url": "https://www.pexels.com/video/man-typing-on-his-laptop-at-home-8135468/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V21.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -373,7 +490,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a stressed man at a laptop has papers fly off his desk",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-laptop-stress",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V22",
@@ -384,7 +510,7 @@
      "page_url": "https://pixabay.com/videos/id-206694/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V22.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction site  development  infrastructure  real estate  suburb  structure  growth  engineering  tower  tall  high  rooftop  connected  architect  information  working  scene  sunlight  construction worker  pakistan  drone  aerial view",
      "query": "worker under pressure deadline site",
@@ -393,7 +519,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a large housing development under construction",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-development",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V23",
@@ -404,7 +539,7 @@
      "page_url": "https://www.pexels.com/video/an-exhausted-man-working-in-front-of-a-computer-8048330/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V23.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -413,7 +548,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a headset-wearing call center worker rubs his temple at a monitor",
+     "violation": "office",
+     "shot": "D",
+     "shoot": "pexels-callcenter-stress",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V24",
@@ -424,7 +568,7 @@
      "page_url": "https://pixabay.com/videos/id-1635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V24.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "worker  early  morning  people  shiva  person  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  farming",
      "query": "worker under pressure deadline site",
@@ -433,7 +577,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a silhouetted man digs by a river at dusk near moored boats",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-riverside-digging",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V25",
@@ -444,7 +597,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-a-construction-site-using-walkie-talkie-8963859/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S06-V13.mp4",
-     "score": 0,
+     "score": 3.65,
      "categories": [
       "builder",
       "engineer",
@@ -458,7 +611,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a supervisor gestures and speaks into a radio at a building site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-supervisor-radio",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V26",
@@ -469,7 +631,7 @@
      "page_url": "https://pixabay.com/videos/id-3992/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S06-V03.mp4",
-     "score": 0,
+     "score": 5.4,
      "categories": [
       "builder",
       "engineer",
@@ -482,7 +644,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "gloved hands dig into soil around a small plant",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-hands-soil-closeup",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V27",
@@ -493,7 +664,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-on-busy-building-site-30331617/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-goal-setting-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-goal-setting-S03-V06.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [
       "worker",
       "builder",
@@ -506,7 +677,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "workers sit and stand amid rubble at a half-demolished building",
+     "violation": "ruins/abandoned",
+     "shot": "",
+     "shoot": "pexels-rubble-workers",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V28",
@@ -538,7 +718,7 @@
      "page_url": "https://www.pexels.com/video/construction-site-worker-inspecting-building-project-36290717/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V29.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -547,7 +727,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a red jacket walks past stacked construction materials",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-redjacket-site",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V30",
@@ -558,7 +747,7 @@
      "page_url": "https://pixabay.com/videos/id-42925/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V30.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker under pressure deadline site",
@@ -567,7 +756,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of workers on a debris-covered rooftop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-rooftop",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V31",
@@ -578,7 +776,7 @@
      "page_url": "https://www.pexels.com/video/women-working-in-construction-site-indoors-30836672/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V31.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -587,7 +785,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "women and a child dig in rubble beneath a building's columns",
+     "violation": "forced-labour or slave-like framing",
+     "shot": "",
+     "shoot": "pexels-women-child-rubble",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V32",
@@ -598,7 +805,7 @@
      "page_url": "https://pixabay.com/videos/id-121409/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V32.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction  site  excavator  house  new house  development  aerial  drone  building site",
      "query": "worker under pressure deadline site",
@@ -607,7 +814,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a large real-estate development site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-development",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V33",
@@ -618,7 +834,7 @@
      "page_url": "https://www.pexels.com/video/a-man-cleaning-a-wall-with-graffiti-on-it-17721288/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V33.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker under pressure deadline site",
@@ -627,7 +843,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman power-washes a graffiti-covered wall outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-powerwash-graffiti",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S01-V34",
@@ -638,7 +863,7 @@
      "page_url": "https://pixabay.com/videos/id-225740/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__thumb__edenrise-c2-six-needs-reactions-S01-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__preview__edenrise-c2-six-needs-reactions-S01-V34.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction site  trucks  lorries  aerial view  transport  building site  heavy vehicles  construction  transportation",
      "query": "worker under pressure deadline site",
@@ -647,7 +872,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S01__strip__edenrise-c2-six-needs-reactions-S01-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of trucks on cleared farmland with solar panels nearby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-farmland",
+     "judged_at": "2026-09-09T19:33:47Z",
+     "rank": 24,
+     "shown": false
     }
    ],
    "timing_source": "estimated",
@@ -688,7 +922,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:33:47Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:33:47Z"
   },
   {
    "id": "S02",
@@ -710,7 +950,7 @@
      "page_url": "https://pixabay.com/videos/id-40816/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V03.mp4",
-     "score": 21.47,
+     "score": 1.7,
      "categories": [
       "builder",
       "building",
@@ -721,7 +961,16 @@
      "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
      "query": "builder re-checking plans calm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "an elderly man leans on a shovel on a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-roadworker",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V08",
@@ -751,7 +1000,7 @@
      "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V11.mp4",
-     "score": 20.77,
+     "score": 3.0,
      "categories": [
       "construction",
       "site"
@@ -759,7 +1008,16 @@
      "title": "video engineers looking the construction site while having discussion",
      "query": "foreman reviewing blueprint closely site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers in hard hats review paperwork on a high-rise site",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hardhat-crane-talk",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V01",
@@ -770,7 +1028,7 @@
      "page_url": "https://pixabay.com/videos/id-85350/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V01.mp4",
-     "score": 28.67,
+     "score": 3.05,
      "categories": [
       "builder",
       "building",
@@ -782,7 +1040,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "builder re-checking plans calm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a man sets a paving stone in place with a rubber mallet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-mallet",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V02",
@@ -793,7 +1060,7 @@
      "page_url": "https://pixabay.com/videos/id-40813/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V02.mp4",
-     "score": 25.07,
+     "score": 0.65,
      "categories": [
       "builder",
       "building",
@@ -805,7 +1072,16 @@
      "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
      "query": "builder re-checking plans calm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a worker cuts rebar with an angle grinder, sparks flying",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-rebar-grinder-sparks",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V04",
@@ -816,7 +1092,7 @@
      "page_url": "https://pixabay.com/videos/id-67460/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V04.mp4",
-     "score": 20.87,
+     "score": 3.4,
      "categories": [
       "builder",
       "building",
@@ -826,7 +1102,16 @@
      "title": "worker  car  building  shovel  pour in  builder  wheelbarrow  construction  fill",
      "query": "builder re-checking plans calm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a worker shovels sand into a wheelbarrow beside a sand pile",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheelbarrow-sand",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V05",
@@ -837,7 +1122,7 @@
      "page_url": "https://pixabay.com/videos/id-67461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V05.mp4",
-     "score": 20.87,
+     "score": 2.7,
      "categories": [
       "builder",
       "building",
@@ -847,7 +1132,16 @@
      "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "builder re-checking plans calm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a worker cuts a paving stone with a grinder, raising dust",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stone-cutting-dust",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-I02",
@@ -918,7 +1212,7 @@
      "page_url": "https://www.pexels.com/video/out-of-focus-footage-of-cars-passing-by-853762/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V12.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -927,7 +1221,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a car drives past road markings with directional arrows",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-road-arrows-car",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V13",
@@ -938,7 +1241,7 @@
      "page_url": "https://pixabay.com/videos/id-3612/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V13.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worker  temperature  fire  flame  tube",
      "query": "worker generate 10 more direction is wrong",
@@ -947,7 +1250,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a glassblower shapes glass over an open flame",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glassblowing",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V14",
@@ -958,7 +1270,7 @@
      "page_url": "https://www.pexels.com/video/a-man-wearing-a-hard-hat-6474360/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V14.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -967,7 +1279,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man in a plaid shirt puts on a white hard hat against a plain wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-studio-hardhat",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V15",
@@ -978,7 +1299,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V15.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker generate 10 more direction is wrong",
@@ -987,7 +1308,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a man sweeps a wet outdoor pavement with a long broom",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-sweeping",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V16",
@@ -998,7 +1328,7 @@
      "page_url": "https://www.pexels.com/video/a-person-putting-a-toy-truck-on-the-dashboard-of-a-vehicle-7541937/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V16.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1007,7 +1337,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand reaches toward a toy truck on a car dashboard at night",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-dashboard-toy",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V17",
@@ -1018,7 +1357,7 @@
      "page_url": "https://pixabay.com/videos/id-42923/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V17.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker generate 10 more direction is wrong",
@@ -1027,7 +1366,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of workers spread across scaffolding on a high-rise site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-aerial-scaffold-gang",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V18",
@@ -1038,7 +1386,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-securing-rebar-on-site-32244802/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V18.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1047,7 +1395,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker kneels among rebar mesh at a city construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rebar-kneel",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V19",
@@ -1058,7 +1415,7 @@
      "page_url": "https://pixabay.com/videos/id-42926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V19.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker generate 10 more direction is wrong",
@@ -1067,7 +1424,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a large crane-served building site under construction",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-crane-site",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V20",
@@ -1078,7 +1444,7 @@
      "page_url": "https://www.pexels.com/video/man-at-work-wearing-his-helmet-5100046/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V20.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1087,7 +1453,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man puts on an orange hard hat in a warehouse with a forklift",
+     "violation": "factory",
+     "shot": "D",
+     "shoot": "pexels-warehouse-hardhat",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V21",
@@ -1098,7 +1473,7 @@
      "page_url": "https://pixabay.com/videos/id-744/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V21.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "ring  arrows  circle  direction  right  to form  repetition  circuit  renovation",
      "query": "worker generate 10 more direction is wrong",
@@ -1107,7 +1482,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated yellow ring spins with blue cycle arrows",
+     "violation": "cartoons/abstract loop",
+     "shot": "",
+     "shoot": "pixabay-cgi-loop",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V22",
@@ -1118,7 +1502,7 @@
      "page_url": "https://www.pexels.com/video/pensive-man-working-indoors-in-natural-light-34572311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V22.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1127,7 +1511,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a silhouetted man digs by a river at dusk near moored boats",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-riverside-digging",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V23",
@@ -1138,7 +1531,7 @@
      "page_url": "https://pixabay.com/videos/id-148541/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V23.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
      "query": "worker generate 10 more direction is wrong",
@@ -1147,7 +1540,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "boots step beside a wheelbarrow of wet concrete on a work site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheelbarrow-concrete-boots",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V24",
@@ -1158,7 +1560,7 @@
      "page_url": "https://www.pexels.com/video/man-inside-a-workshop-looking-at-camera-7493223/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V24.mp4",
-     "score": 0,
+     "score": 4.4,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1167,7 +1569,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a bearded carpenter stands calmly in a workshop lined with saw blades",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-carpenter-portrait-workshop",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V25",
@@ -1178,7 +1589,7 @@
      "page_url": "https://pixabay.com/videos/id-277/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V25.mp4",
-     "score": 0,
+     "score": 5.4,
      "categories": [],
      "title": "hammer  nail  carpentry  carpenter  wood  woodworker  craft  build  construct  create  hammering  swaging  beating  pounding  failure  off target  off the mark  wrong",
      "query": "worker generate 10 more direction is wrong",
@@ -1187,7 +1598,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "a hand hammers a nail into a wood plank",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-hammer-nail-closeup",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V26",
@@ -1216,7 +1636,7 @@
      "page_url": "https://pixabay.com/videos/id-85351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V27.mp4",
-     "score": 0,
+     "score": 3.05,
      "categories": [],
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "worker generate 10 more direction is wrong",
@@ -1225,7 +1645,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a worker guides a concrete screed machine along a wet path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-screed-path",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V28",
@@ -1236,7 +1665,7 @@
      "page_url": "https://www.pexels.com/video/a-man-working-on-iron-sheets-5493410/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V28.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1245,7 +1674,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a man in a worn shirt sits in a dim, cluttered workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cluttered-workshop",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V29",
@@ -1256,7 +1694,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V29.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "worker generate 10 more direction is wrong",
@@ -1265,7 +1703,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands set a concrete block in place with a rubber mallet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-mallet",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V30",
@@ -1276,7 +1723,7 @@
      "page_url": "https://www.pexels.com/video/industrial-worker-cutting-metal-with-sparks-31707448/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V30.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generate 10 more direction is wrong",
@@ -1285,7 +1732,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked figure grinds metal producing heavy sparks in a dark workshop",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-masked-grinder-dark",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S02-V31",
@@ -1296,7 +1752,7 @@
      "page_url": "https://pixabay.com/videos/id-85349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__thumb__edenrise-c2-six-needs-reactions-S02-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__preview__edenrise-c2-six-needs-reactions-S02-V31.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
      "query": "worker generate 10 more direction is wrong",
@@ -1305,7 +1761,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S02__strip__edenrise-c2-six-needs-reactions-S02-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man reaches out while standing on a tarp-covered scaffold",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-scaffold-reach",
+     "judged_at": "2026-09-09T19:35:39Z",
+     "rank": 11,
+     "shown": false
     }
    ],
    "timing_source": "estimated",
@@ -1346,7 +1811,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:35:39Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:35:39Z"
   },
   {
    "id": "S03",
@@ -1368,7 +1839,7 @@
      "page_url": "https://pixabay.com/videos/id-4974/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V01.mp4",
-     "score": 20.37,
+     "score": 5.4,
      "categories": [
       "building",
       "carpenter",
@@ -1377,7 +1848,16 @@
      "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
      "query": "half finished work bench tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "hands mark a wood plank with a ruler then drill it",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-woodworking-closeup",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-V06",
@@ -1388,12 +1868,21 @@
      "page_url": "https://pixabay.com/videos/id-131990/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V06.mp4",
-     "score": 15.39,
+     "score": 2.35,
      "categories": [],
      "title": "student  to write  to study  work  task  issue  question  study",
      "query": "finishing one task carefully hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a young man's hands write in a spiral notebook",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-notebook-writing",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-V14",
@@ -1422,7 +1911,7 @@
      "page_url": "https://pixabay.com/videos/id-115792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V05.mp4",
-     "score": 15.57,
+     "score": 0.65,
      "categories": [
       "man",
       "woman",
@@ -1431,7 +1920,16 @@
      "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  human  employee  shop",
      "query": "half finished work bench tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a seamstress works at an industrial sewing machine",
+     "violation": "textile mills",
+     "shot": "",
+     "shoot": "pixabay-seamstress-machine",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-V15",
@@ -1442,7 +1940,7 @@
      "page_url": "https://pixabay.com/videos/id-159024/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V15.mp4",
-     "score": 14.3,
+     "score": 0.65,
      "categories": [
       "team",
       "teamwork"
@@ -1450,7 +1948,16 @@
      "title": "students  university  college  academic  school  project  team  teamwork  group project  collaboration  research  readin",
      "query": "tidy workbench single project wood",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two students review papers with a laptop open at a home desk",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pixabay-students-laptop",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-V13",
@@ -1461,7 +1968,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-pondering-while-looking-at-a-script-on-a-table-8085788/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V13.mp4",
-     "score": 15.9,
+     "score": 0.65,
      "categories": [
       "man",
       "woman"
@@ -1469,7 +1976,16 @@
      "title": "video woman pondering while looking script table",
      "query": "messy desk many papers tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman with a laptop pauses to think in a library",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-library-laptop-pause",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-V04",
@@ -1480,7 +1996,7 @@
      "page_url": "https://pixabay.com/videos/id-31654/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__thumb__edenrise-c2-six-needs-reactions-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__preview__edenrise-c2-six-needs-reactions-S03-V04.mp4",
-     "score": 16.17,
+     "score": 1.05,
      "categories": [
       "hands",
       "people"
@@ -1488,7 +2004,16 @@
      "title": "hands  girl  people  young  female  table  hand  white  go  sad",
      "query": "finishing one task carefully hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S03__strip__edenrise-c2-six-needs-reactions-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a hand reaches out to touch draped fabric on an outdoor path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hand-fabric-path",
+     "judged_at": "2026-09-09T19:36:17Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S03-I02",
@@ -1577,7 +2102,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:36:17Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:36:17Z"
   },
   {
    "id": "S04",
@@ -1983,7 +2514,7 @@
      "page_url": "https://pixabay.com/videos/id-7376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V02.mp4",
-     "score": 20.58,
+     "score": 1.35,
      "categories": [
       "brick",
       "building",
@@ -1995,7 +2526,16 @@
      "title": "construction  remodeling  home  apartment  constructions  tool  hammer  mason  constructor  sledgehammer  demolition  br",
      "query": "mason precise mortar detail",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man breaks through an interior wall with a hammer",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wall-demolition",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V05",
@@ -2023,7 +2563,7 @@
      "page_url": "https://pixabay.com/videos/id-11006/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V03.mp4",
-     "score": 14.01,
+     "score": 4.75,
      "categories": [
       "gardener",
       "man",
@@ -2032,7 +2572,16 @@
      "title": "gardener  pour  heat  garden  young woman  water  hose  flowers  summer  the park",
      "query": "gardener pruning precise detail",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "a young woman waters red flowers with a hose in a garden",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-garden-hose-watering",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V09",
@@ -2043,12 +2592,21 @@
      "page_url": "https://pixabay.com/videos/id-36911/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V09.mp4",
-     "score": 15.99,
+     "score": 0.0,
      "categories": [],
      "title": "joint  fish  water  holiday  relaxation  weekend  tourism  lake",
      "query": "mason pointing brick joints trowel detail",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "orange goldfish swim among green pond plants",
+     "violation": "wildlife",
+     "shot": "",
+     "shoot": "pixabay-goldfish-pond",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-I02",
@@ -2117,7 +2675,7 @@
      "page_url": "https://www.pexels.com/video/urban-construction-workers-in-auckland-city-38885267/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V10.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2126,7 +2684,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a vest stands behind a fence at an excavation site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-excavator-fence",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V11",
@@ -2137,7 +2704,7 @@
      "page_url": "https://pixabay.com/videos/id-148540/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V11.mp4",
-     "score": 0,
+     "score": 2.05,
      "categories": [],
      "title": "cement  batter  development  building  machine  worker  work  rural",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2146,7 +2713,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "hands pour material into a spinning cement mixer",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cement-mixer-pour",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V12",
@@ -2157,7 +2733,7 @@
      "page_url": "https://www.pexels.com/video/police-officer-talking-calmly-to-the-protesters-6258063/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V12.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2166,7 +2742,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a group holds protest signs while wearing face masks",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-protest-masks",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V13",
@@ -2177,7 +2762,7 @@
      "page_url": "https://pixabay.com/videos/id-3140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "construction worker  angle grinder  grinder  worker  construction  tool  work  industrial  cut  building  grinding  metalwork  mechanic  professional  industry",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2186,7 +2771,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a grinder throws sparks near a brick building at night",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-night-grinder-sparks",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V14",
@@ -2197,7 +2791,7 @@
      "page_url": "https://www.pexels.com/video/urban-construction-worker-on-site-in-auckland-38885276/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V14.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2206,7 +2800,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat stands behind safety netting on a high-rise site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-netting",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V15",
@@ -2217,7 +2820,7 @@
      "page_url": "https://pixabay.com/videos/id-189730/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V15.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "workout  athlete  sports training  active lifestyle  close-up  foot  leisure  close up  training  sport  healthy  fitness  exercise  lifestyle  fit  runner  athletic  active  sportswear  female  activity",
      "query": "10 more pleaes direction is wrong close up",
@@ -2226,7 +2829,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "close-up of a woman's midriff during an outdoor workout",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-workout-midriff",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V16",
@@ -2237,7 +2849,7 @@
      "page_url": "https://www.pexels.com/video/two-workers-at-a-railroad-crossing-fixing-the-rails-19497509/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V16.mp4",
-     "score": 0,
+     "score": 5.65,
      "categories": [],
      "title": "",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2246,7 +2858,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "two workers in vests rake and tidy a roadside path",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-roadside-raking",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V17",
@@ -2257,7 +2878,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V17.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  worker  work  nature",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2266,7 +2887,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a young worker gathers cut cornstalks in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cornfield-harvest",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V18",
@@ -2277,7 +2907,7 @@
      "page_url": "https://www.pexels.com/video/a-group-of-construction-workers-standing-on-the-side-of-the-road-19559851/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V18.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker 10 more pleaes direction is wrong",
@@ -2286,7 +2916,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "road workers in masks and vests gather by trucks at dusk",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-roadcrew-masks-dusk",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V19",
@@ -2297,7 +2936,7 @@
      "page_url": "https://pixabay.com/videos/id-174008/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__thumb__edenrise-c2-six-needs-reactions-S06-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__preview__edenrise-c2-six-needs-reactions-S06-V19.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "woman  smile  communication  gesture  expression  asian  close up  young  university",
      "query": "10 more pleaes direction is wrong close up",
@@ -2306,7 +2945,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a young woman smiles warmly at the camera outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-portrait-smile",
+     "judged_at": "2026-09-09T19:37:19Z",
+     "rank": 5,
+     "shown": true
     }
    ],
    "timing_source": "estimated",
@@ -2340,7 +2988,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:37:19Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:37:19Z"
   },
   {
    "id": "S07",
@@ -2362,12 +3016,21 @@
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__thumb__edenrise-c2-six-needs-reactions-S07-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__preview__edenrise-c2-six-needs-reactions-S07-V08.mp4",
-     "score": 17.44,
+     "score": 0.7,
      "categories": [],
      "title": "sand  hand  beach  dessert  sea  live wallpaper",
      "query": "foreman watching apprentice hands off",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__strip__edenrise-c2-six-needs-reactions-S07-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "sand falls through an open hand in close-up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-hand-closeup",
+     "judged_at": "2026-09-09T19:37:40Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S07-V03",
@@ -2378,7 +3041,7 @@
      "page_url": "https://pixabay.com/videos/id-95122/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__thumb__edenrise-c2-six-needs-reactions-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__preview__edenrise-c2-six-needs-reactions-S07-V03.mp4",
-     "score": 20.88,
+     "score": 0.0,
      "categories": [
       "colleague",
       "colleagues",
@@ -2390,7 +3053,16 @@
      "title": "office  corporate  business  attractive  businessman  business people  businesswoman  colleagues  employees  confident  ",
      "query": "colleague encouraging teammate",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S07__strip__edenrise-c2-six-needs-reactions-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two office coworkers share a laptop in a boardroom",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pixabay-office-laptop-boardroom",
+     "judged_at": "2026-09-09T19:37:40Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S07-V07",
@@ -2512,7 +3184,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:37:40Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:37:40Z"
   },
   {
    "id": "S08",
@@ -2534,7 +3212,7 @@
      "page_url": "https://pixabay.com/videos/id-35590/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V03.mp4",
-     "score": 13.98,
+     "score": 3.7,
      "categories": [
       "man",
       "portrait"
@@ -2542,7 +3220,16 @@
      "title": "thoughtful  person  thinking  male  head  calm  idea  alone  brain  thoughts  portrait  man  think  peaceful  beard",
      "query": "person closing eyes calm moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a young man sits alone on rocks looking off into the distance",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-man-rocks-pause",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-V12",
@@ -2553,7 +3240,7 @@
      "page_url": "https://pixabay.com/videos/id-1049/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V12.mp4",
-     "score": 16.47,
+     "score": 3.7,
      "categories": [
       "outdoor",
       "people"
@@ -2561,7 +3248,16 @@
      "title": "relaxing  sitting  lake  shore  outdoors  beach  people  young  person  lifestyle  relaxation  relax  leisure",
      "query": "worker sitting quietly lunch break",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a person sits alone by a lake shore, back to camera",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-lake-shore-pause",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-V01",
@@ -2572,7 +3268,7 @@
      "page_url": "https://pixabay.com/videos/id-44645/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V01.mp4",
-     "score": 19.96,
+     "score": 1.35,
      "categories": [
       "face",
       "man",
@@ -2583,7 +3279,16 @@
      "title": "portrait  woman  wind  face  girl  human  hair  person  beautiful  young  beauty  people  eyes  natural  eye  adult",
      "query": "person closing eyes calm moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a moody close-up portrait of a woman's face against a dark backdrop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-moody-portrait",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-V14",
@@ -2594,7 +3299,7 @@
      "page_url": "https://pixabay.com/videos/id-58142/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V14.mp4",
-     "score": 15.77,
+     "score": 1.05,
      "categories": [
       "man",
       "outdoor",
@@ -2603,7 +3308,16 @@
      "title": "woman  flowers  plants  field  garden  nature  gardening  petals  floral  flora  blossom  blooming  fresh  spring  park ",
      "query": "calm breath fresh air field",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a hand reaches toward pink flowers in a large flower field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-flower-field-hand",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-V02",
@@ -2614,14 +3328,23 @@
      "page_url": "https://pixabay.com/videos/id-1027/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V02.mp4",
-     "score": 14.01,
+     "score": 0.7,
      "categories": [
       "building"
      ],
      "title": "home  house  returning  real estate  family  coming home  evening  nightfall  building  shelter  property  residential",
      "query": "worker composed returning task",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a family walks toward a beach house at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-beach-house-dusk",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-V11",
@@ -2650,7 +3373,7 @@
      "page_url": "https://pixabay.com/videos/id-326081/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__thumb__edenrise-c2-six-needs-reactions-S08-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__preview__edenrise-c2-six-needs-reactions-S08-V15.mp4",
-     "score": 14.07,
+     "score": 0.7,
      "categories": [
       "land",
       "outdoor"
@@ -2658,7 +3381,16 @@
      "title": "nature  autumn  river  water  stream  forest  landscape  fall  leaves  rocks  flowing  peaceful  beautiful wallpaper  re",
      "query": "calm breath fresh air field",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S08__strip__edenrise-c2-six-needs-reactions-S08-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a rocky mountain stream runs through a pine forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-forest-stream",
+     "judged_at": "2026-09-09T19:38:16Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S08-I05",
@@ -2762,7 +3494,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:38:16Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:38:16Z"
   },
   {
    "id": "S09",
@@ -2784,7 +3522,7 @@
      "page_url": "https://pixabay.com/videos/id-4973/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__thumb__edenrise-c2-six-needs-reactions-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__preview__edenrise-c2-six-needs-reactions-S09-V04.mp4",
-     "score": 15.04,
+     "score": 3.75,
      "categories": [
       "carpenter",
       "construction"
@@ -2792,7 +3530,16 @@
      "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
      "query": "steady focused work peaceful",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__strip__edenrise-c2-six-needs-reactions-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "hands mark a wood plank with a pencil then cut it with a jigsaw",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-jigsaw-woodcut",
+     "judged_at": "2026-09-09T19:38:45Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S09-V24",
@@ -2803,7 +3550,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-sitting-on-a-bench-and-writing-in-a-notebook-6413980/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__thumb__edenrise-c2-six-needs-reactions-S09-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__preview__edenrise-c2-six-needs-reactions-S09-V24.mp4",
-     "score": 17.4,
+     "score": 5.35,
      "categories": [
       "man",
       "woman"
@@ -2811,7 +3558,16 @@
      "title": "video woman sitting bench and writing notebook",
      "query": "worker writing journal outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S09__strip__edenrise-c2-six-needs-reactions-S09-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a woman sits on a garden bench writing and smiling in a notebook",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-bench-notebook-garden",
+     "judged_at": "2026-09-09T19:38:45Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S09-V25",
@@ -2918,7 +3674,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:38:45Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:38:45Z"
   }
  ]
 }
