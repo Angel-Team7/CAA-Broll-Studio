@@ -599,7 +599,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Pressure reveals patterns."
+   "onscreen": "Pressure reveals patterns.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "calm morning in a garden yard, workers at ease",
+     "pexels": "calm morning workers garden yard",
+     "pixabay": "morning garden workers calm",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a plan changes: supervisor arriving with new instructions",
+     "pexels": "supervisor arriving with new instructions",
+     "pixabay": "supervisor instructions workers",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "worker being interrupted, ignored, looking aside",
+     "pexels": "worker ignored looking aside",
+     "pixabay": "worker ignored outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a tense jaw, held breath",
+     "pexels": "tense face close up outdoors",
+     "pixabay": "tense face close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S02",
@@ -1170,7 +1207,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Certainty under pressure - create clarity."
+   "onscreen": "Certainty under pressure - create clarity.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "schedule on a shed wall being changed by hand",
+     "pexels": "changing schedule on wall by hand",
+     "pixabay": "schedule wall changing hand",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker frustrated, hands on hips, reading new instructions",
+     "pexels": "frustrated worker reading instructions",
+     "pixabay": "frustrated worker instructions",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "worker reviewing the information and nodding",
+     "pexels": "worker reviewing paper nodding",
+     "pixabay": "worker paper nodding",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the worker adapting: moving to the new task",
+     "pexels": "worker moving to new task garden",
+     "pixabay": "worker new task moving",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "panic",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S03",
@@ -1360,7 +1434,36 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Variety under pressure - stay flexible, not scattered."
+   "onscreen": "Variety under pressure - stay flexible, not scattered.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker jumping between two half-finished jobs",
+     "pexels": "worker jumping between tasks garden",
+     "pixabay": "worker two tasks unfinished",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker stopping, choosing one job, close on decision",
+     "pexels": "worker pausing choosing task close",
+     "pixabay": "worker pause decision",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "finishing one thing properly: last plant in, watering",
+     "pexels": "finishing planting watering properly",
+     "pixabay": "planting finished watering",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S04",
@@ -1488,7 +1591,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Significance under pressure - choose value over ego."
+   "onscreen": "Significance under pressure - choose value over ego.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "small team discussion by a truck, someone receiving feedback",
+     "pexels": "team discussion truck feedback",
+     "pixabay": "team truck feedback talk",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "brief defensive reaction: crossed arms, then softening",
+     "pexels": "crossed arms then softening outdoors",
+     "pixabay": "crossed arms softening",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of listening and a small nod",
+     "pexels": "listening small nod close",
+     "pixabay": "nod listening close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "constructive reply, pointing at the plan together",
+     "pexels": "two workers pointing at plan together",
+     "pixabay": "workers plan pointing together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S05",
@@ -1615,7 +1755,43 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Connection under pressure - choose trust over approval."
+   "onscreen": "Connection under pressure - choose trust over approval.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "awkward moment: two workers silent over a task",
+     "pexels": "two workers awkward silence outdoors",
+     "pixabay": "workers silence awkward",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker hesitating to speak, looking at the ground",
+     "pexels": "worker hesitating looking down",
+     "pixabay": "worker hesitating down",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "respectful direct conversation, eye contact, calm",
+     "pexels": "two workers direct conversation eye contact",
+     "pixabay": "workers conversation eye contact",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the two returning to work side by side",
+     "pexels": "two workers returning to work together",
+     "pixabay": "workers together return work",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S06",
@@ -1938,7 +2114,37 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Growth under pressure - look deeper."
+   "onscreen": "Growth under pressure - look deeper.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "repetitive work: raking the same path",
+     "pexels": "worker raking path repetitive",
+     "pixabay": "raking path worker",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "closer attention: adjusting technique, checking the edge",
+     "pexels": "worker adjusting technique checking edge",
+     "pixabay": "worker technique check",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a perfectly finished edge",
+     "pexels": "perfect garden edge close up",
+     "pixabay": "garden edge perfect close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S07",
@@ -2070,7 +2276,43 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Contribution under pressure - help without taking over."
+   "onscreen": "Contribution under pressure - help without taking over.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker carrying three colleagues' loads at once, overloaded",
+     "pexels": "worker overloaded carrying too much",
+     "pixabay": "worker overloaded carrying",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker stopping to explain a task to a colleague instead",
+     "pexels": "worker explaining task to colleague",
+     "pixabay": "worker explaining colleague task",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands handing over a tool",
+     "pexels": "hands handing over tool close",
+     "pixabay": "handing tool hands close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "colleague completing the work while the first watches",
+     "pexels": "colleague completing work other watching",
+     "pixabay": "colleague working other watching",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S08",
@@ -2271,7 +2513,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Pause. Identify the need. Choose your response."
+   "onscreen": "Pause. Identify the need. Choose your response.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "tense moment at a gate, two workers",
+     "pexels": "tense moment two workers gate",
+     "pixabay": "tense workers gate",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker stepping back and breathing, eyes closed briefly",
+     "pexels": "worker breathing deeply eyes closed outdoors",
+     "pixabay": "breathing calm outdoor worker",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "calmer response: open hands, quiet words",
+     "pexels": "worker calm open hands talking",
+     "pixabay": "calm talking open hands",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the two walking on together",
+     "pexels": "two workers walking on together",
+     "pixabay": "workers walking together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S09",
@@ -2394,7 +2673,36 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Awareness creates choice."
+   "onscreen": "Awareness creates choice.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "reflective worker writing notes on a tailgate",
+     "pexels": "worker writing notes on tailgate",
+     "pixabay": "notes tailgate worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of the pen on paper",
+     "pexels": "pen on paper close outdoors",
+     "pixabay": "pen paper close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "calm constructive interaction: two workers by a bed, nodding",
+     "pexels": "two workers nodding calm garden",
+     "pixabay": "workers nodding garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   }
  ]
 }

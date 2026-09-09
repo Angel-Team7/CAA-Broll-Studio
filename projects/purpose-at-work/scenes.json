@@ -118,7 +118,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pixabay_889816_purpose-at-work-s01-i03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pixabay_889816_purpose-at-work-s01-i03.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "grounds worker arriving at a site in morning light",
+     "pexels": "worker arriving at site morning light",
+     "pixabay": "worker arrival morning site",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "putting on boots and gloves at a truck",
+     "pexels": "putting on work boots gloves truck",
+     "pixabay": "work boots gloves morning",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "walking through a gate with tools",
+     "pexels": "worker walking through gate with tools",
+     "pixabay": "worker gate tools walking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S02",
@@ -225,7 +255,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pixabay_2739190_purpose-at-work-s02-i01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pixabay_2739190_purpose-at-work-s02-i01.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker greeting the crew with a fist bump",
+     "pexels": "workers fist bump greeting morning",
+     "pixabay": "fist bump workers greeting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "upbeat worker walking in with a smile",
+     "pexels": "worker walking in smiling confident",
+     "pixabay": "worker smiling confident walk",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of the crew gathering by a truck",
+     "pexels": "crew gathering by truck morning",
+     "pixabay": "crew truck morning gathering",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S03",
@@ -402,7 +461,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pixabay_1895691_purpose-at-work-s03-i03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pixabay_1895691_purpose-at-work-s03-i03.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "disengaged worker leaning on a shovel, checking the time",
+     "pexels": "worker leaning on shovel checking time",
+     "pixabay": "worker bored shovel time",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "engaged worker digging with energy",
+     "pexels": "worker digging with energy",
+     "pixabay": "worker digging energetic",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a bored face, then a determined face",
+     "pexels": "determined face worker close up",
+     "pixabay": "determined face worker",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks",
+    "intense stare into camera"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S04",
@@ -529,7 +618,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pixabay_1807522_purpose-at-work-s04-i02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pixabay_1807522_purpose-at-work-s04-i02.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker helping a teammate carry a plant",
+     "pexels": "worker helping teammate carry plant",
+     "pixabay": "workers carrying plant help",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker smiling with a visitor at a garden gate",
+     "pexels": "gardener smiling with visitor gate",
+     "pixabay": "gardener visitor smile",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "learning a new task from a colleague at a bench",
+     "pexels": "learning new task colleague bench",
+     "pixabay": "learning task colleague",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "retail store",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S05",
@@ -656,7 +775,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pixabay_6544391_purpose-at-work-s05-i03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pixabay_6544391_purpose-at-work-s05-i03.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker noticing a loose board on a path and stopping",
+     "pexels": "worker noticing loose board path",
+     "pixabay": "worker loose board path",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands fixing it with a hammer",
+     "pexels": "hands fixing board with hammer close",
+     "pixabay": "hammer board fixing hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the path fixed, worker moving on",
+     "pexels": "worker moving on path fixed",
+     "pixabay": "path worker walking on",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S06",
@@ -813,7 +962,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pixabay_272189_purpose-at-work-s06-i03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pixabay_272189_purpose-at-work-s06-i03.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "gear laid ready by a truck",
+     "pexels": "work gear laid ready truck",
+     "pixabay": "gear ready truck morning",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "greeting a colleague properly",
+     "pexels": "workers greeting properly handshake",
+     "pixabay": "workers handshake greeting",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "organising tools on a rack",
+     "pexels": "organizing tools on rack",
+     "pixabay": "tools rack organizing",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "sweeping a yard, helping a colleague",
+     "pexels": "sweeping yard helping colleague",
+     "pixabay": "sweeping yard worker",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S07",
@@ -930,7 +1116,44 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pixabay_9889192_purpose-at-work-s07-i03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pixabay_9889192_purpose-at-work-s07-i03.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew lifting a heavy log together",
+     "pexels": "crew lifting heavy log together",
+     "pixabay": "workers lifting log together",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "someone stepping in to help hold a post",
+     "pexels": "worker stepping in to hold post",
+     "pixabay": "worker holding post help",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "crew gathered solving a problem over a plan",
+     "pexels": "crew solving problem over plan outdoors",
+     "pixabay": "crew plan problem outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands passing a tool",
+     "pexels": "hands passing tool close",
+     "pixabay": "passing tool hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S08",
@@ -1037,7 +1260,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__thumb__pixabay_8499901_worker-preparing-gear-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__preview__pixabay_8499901_worker-preparing-gear-morning.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "tired worker at dawn lacing boots with quiet intention",
+     "pexels": "tired worker dawn lacing boots",
+     "pixabay": "worker dawn boots tired",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker walking toward the site at first light",
+     "pexels": "worker walking to site first light",
+     "pixabay": "worker walking dawn site",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "a slow breath before starting, medium",
+     "pexels": "worker taking breath before starting",
+     "pixabay": "worker breath before start",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S09",
@@ -1154,7 +1406,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_7663255_one-word-written-notebook.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_7663255_one-word-written-notebook.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a worker writing a single word in a small notebook",
+     "pexels": "writing single word small notebook close",
+     "pixabay": "notebook writing word close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "notebook on a tailgate beside gloves",
+     "pexels": "notebook on tailgate beside gloves",
+     "pixabay": "notebook gloves tailgate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "worker closing the notebook and standing up",
+     "pexels": "worker closing notebook standing up",
+     "pixabay": "worker notebook standing",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "laptop",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S10",
@@ -1251,7 +1533,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__thumb__wikimedia_72539262_workers-gathered-briefing-mornin.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__preview__wikimedia_72539262_workers-gathered-briefing-mornin.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew gathered at shift start in a circle",
+     "pexels": "crew circle shift start outdoors",
+     "pixabay": "crew circle morning outdoor",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "crew celebrating a completed job, high five",
+     "pexels": "crew celebrating completed job high five",
+     "pixabay": "workers high five celebrate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of smiling faces at the end of a job",
+     "pexels": "smiling workers faces end of job close",
+     "pixabay": "workers smiling faces close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks",
+    "hi-vis crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   }
  ]
 }

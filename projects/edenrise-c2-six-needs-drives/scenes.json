@@ -385,7 +385,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Six needs. They come to work with you."
+   "onscreen": "Six needs. They come to work with you.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener working outdoors, technician at a pump, small crew planning at a table",
+     "pexels": "gardener working outdoors morning",
+     "pixabay": "gardener outdoor work morning",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "technician doing hands-on work on an irrigation valve",
+     "pexels": "technician hands on irrigation valve",
+     "pixabay": "technician valve hands",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "small planning meeting of three workers around a paper plan outdoors",
+     "pexels": "three workers planning outdoors paper",
+     "pixabay": "workers planning outdoor paper",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "one worker focused alone, close on face",
+     "pexels": "worker focused alone close up",
+     "pixabay": "worker focused face close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S02",
@@ -589,7 +626,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Certainty — create it through preparation, not sameness."
+   "onscreen": "Certainty — create it through preparation, not sameness.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "checklist being ticked on a clipboard in a tidy shed",
+     "pexels": "ticking checklist clipboard shed",
+     "pixabay": "checklist clipboard tidy",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "schedule pinned on a shed wall, worker reading it",
+     "pexels": "worker reading schedule on wall",
+     "pixabay": "schedule wall worker",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "new instruction arrives: supervisor showing a changed plan, worker nodding",
+     "pexels": "supervisor showing changed plan worker nodding",
+     "pixabay": "supervisor plan worker",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker re-planning calmly, moving tools to a new bed",
+     "pexels": "worker moving tools to new area calmly",
+     "pixabay": "worker tools moving garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "panic gestures",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S03",
@@ -980,7 +1054,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Variety — healthy challenge, not chaos."
+   "onscreen": "Variety — healthy challenge, not chaos.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker switching between three tasks in a yard, lively",
+     "pexels": "worker switching tasks in yard",
+     "pixabay": "worker multitasking yard",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "lively idea exchange between two crew members with hand gestures",
+     "pexels": "two workers exchanging ideas gestures",
+     "pixabay": "workers ideas talking gestures",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "worker returning to one task and finishing it, tools down",
+     "pexels": "worker finishing task putting tools down",
+     "pixabay": "worker finishing tools down",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a completed row of plants",
+     "pexels": "completed row of plants close",
+     "pixabay": "planted row complete close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "chaos crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S04",
@@ -1355,7 +1466,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Significance — am I creating value?"
+   "onscreen": "Significance — am I creating value?",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker showing off loudly to colleagues, arms wide",
+     "pexels": "worker showing off to colleagues",
+     "pixabay": "worker showing off gesture",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "quiet worker solving a pump problem with skill, focused",
+     "pexels": "quiet worker fixing pump focused",
+     "pixabay": "worker pump fixing focused",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of skilled hands finishing a repair",
+     "pexels": "skilled hands finishing repair close",
+     "pixabay": "hands repair close skilled",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "colleague giving a quiet nod of respect",
+     "pexels": "colleague nod of respect outdoors",
+     "pixabay": "nod respect workers",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "awards ceremony",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S05",
@@ -1956,7 +2104,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Connection — trust, not agreement."
+   "onscreen": "Connection — trust, not agreement.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers collaborating to lift a beam or plant a tree",
+     "pexels": "two workers planting tree together",
+     "pixabay": "workers planting tree together",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "one worker helping another with a heavy load",
+     "pexels": "worker helping colleague heavy load",
+     "pixabay": "worker help load colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "attentive listening: close on a listening face outdoors",
+     "pexels": "attentive listening face outdoors close",
+     "pixabay": "listening face outdoor close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "respectful disagreement ending in a handshake by a truck",
+     "pexels": "two workers handshake after discussion",
+     "pixabay": "workers handshake outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S06",
@@ -2161,7 +2346,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Growth — take ownership of it."
+   "onscreen": "Growth — take ownership of it.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice watching a mentor graft a tree",
+     "pexels": "apprentice watching mentor grafting",
+     "pixabay": "mentor apprentice grafting tree",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "practising a technique with pruning shears",
+     "pexels": "practicing pruning technique shears",
+     "pixabay": "pruning practice shears",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "reading a manual on a tailgate",
+     "pexels": "reading manual on truck tailgate",
+     "pixabay": "manual reading truck outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "receiving feedback and applying it, visible improvement in a hedge",
+     "pexels": "worker receiving feedback improving hedge",
+     "pixabay": "feedback worker hedge",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "classroom",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S07",
@@ -2543,7 +2765,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Contribution — what am I adding?"
+   "onscreen": "Contribution — what am I adding?",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker helping unasked, carrying a colleague's tools",
+     "pexels": "worker carrying colleague tools helping",
+     "pixabay": "worker carrying tools help",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "teaching a colleague how to set a stake",
+     "pexels": "teaching colleague to set plant stake",
+     "pixabay": "teaching stake plant colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "tidying a shared shed, hanging tools",
+     "pexels": "hanging tools tidy shed",
+     "pixabay": "tidy shed tools hanging",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "tools and materials set out ready for the next shift, wide",
+     "pexels": "tools set out ready next shift",
+     "pixabay": "tools ready shift outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S08",
@@ -2895,7 +3154,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "No need is good or bad. How you meet it is."
+   "onscreen": "No need is good or bad. How you meet it is.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "morning: checklist and tidy yard",
+     "pexels": "morning checklist tidy yard worker",
+     "pixabay": "morning yard checklist",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "midday: varied tasks, a crew at work",
+     "pexels": "crew varied tasks garden midday",
+     "pixabay": "crew garden tasks",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "quiet mastery: close on hands at a fine task",
+     "pexels": "hands fine task mastery close",
+     "pixabay": "hands craft close mastery",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "evening: colleagues sharing water, laughing",
+     "pexels": "workers sharing water laughing evening",
+     "pixabay": "workers water laughing evening",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   },
   {
    "id": "S09",
@@ -3087,7 +3383,36 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Self-awareness gives you choice."
+   "onscreen": "Self-awareness gives you choice.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person alone on a bench writing in a notebook, pausing to think",
+     "pexels": "person writing notebook bench thinking",
+     "pixabay": "notebook bench thinking outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of pen and notebook page",
+     "pexels": "pen notebook page close outdoors",
+     "pixabay": "pen notebook close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "standing and rejoining colleagues warmly",
+     "pexels": "person rejoining colleagues outdoors warmly",
+     "pixabay": "rejoining colleagues outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:34:03Z"
   }
  ]
 }
