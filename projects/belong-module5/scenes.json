@@ -895,7 +895,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_3245304_hospitality-team-coordination.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_3245304_hospitality-team-coordination.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_3245304_hospitality-team-coordination.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "hands fist-bump over an office desk covered in papers and notebooks",
+     "violation": "corporate office desk, business documents",
+     "shot": "",
+     "shoot": "pexels-office-fistbump-desk",
+     "score": 1.65,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_37804847_restaurant-team-service-busy",
@@ -907,7 +917,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_37804847_restaurant-team-service-busy.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_37804847_restaurant-team-service-busy.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_37804847_restaurant-team-service-busy.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "restaurant kitchen staff work together at a grill station",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-kitchen-grill-team",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_4253334_hotel-kitchen-team-pass",
@@ -919,7 +939,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_4253334_hotel-kitchen-team-pass.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_4253334_hotel-kitchen-team-pass.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_4253334_hotel-kitchen-team-pass.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "two chefs in aprons work in a bright modern kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-kitchen-chefs-apron",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_5372868_hotel-staff-walking-corridor",
@@ -931,7 +961,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_5372868_hotel-staff-walking-corridor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_5372868_hotel-staff-walking-corridor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_5372868_hotel-staff-walking-corridor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "a housekeeper pushes a cart down a luxury hotel corridor",
+     "violation": "luxury hotel corridor",
+     "shot": "A",
+     "shoot": "pexels-luxury-corridor-cart",
+     "score": 3.95,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_6466243_housekeeping-team-hotel",
@@ -943,7 +983,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_6466243_housekeeping-team-hotel.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_6466243_housekeeping-team-hotel.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_6466243_housekeeping-team-hotel.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a housekeeper in a formal uniform carries folded linens in a luxury hotel room",
+     "violation": "luxury hotel room decor",
+     "shot": "A",
+     "shoot": "pexels-housekeeper-luxury-room",
+     "score": 4.95,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_7224354_resort-staff-teamwork",
@@ -965,7 +1015,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__thumb__pexels_7507260_relay-handover-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__preview__pexels_7507260_relay-handover-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S10__strip__pexels_7507260_relay-handover-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a group of friends do a hand game outdoors in a park",
+     "violation": "unrelated outdoor activity",
+     "shot": "",
+     "shoot": "pexels-outdoor-group-handoff",
+     "score": 1.35,
+     "judged_at": "2026-09-09T17:45:45Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_13971183_hospitality-team-coordination",
@@ -1044,7 +1104,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:45:45Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:45:45Z"
   }
  ]
 }
