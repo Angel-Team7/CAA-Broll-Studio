@@ -1379,7 +1379,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__thumb__edenrise-c2-goal-setting-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__preview__edenrise-c2-goal-setting-S03-V01.mp4",
-     "score": 27.21,
+     "score": 2.95,
      "categories": [
       "construction",
       "conversation",
@@ -1390,7 +1390,16 @@
      "title": "video man and woman having conversation the construction site",
      "query": "workers talking clipboard site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__strip__edenrise-c2-goal-setting-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "two workers in hard hats talk at a high-rise construction site",
+     "violation": "scaffolding gangs / factory-scale construction, not small building repair",
+     "shot": "A",
+     "shoot": "pexels-constructionsite-manwoman",
+     "judged_at": "2026-09-09T21:21:13Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V02",
@@ -1401,7 +1410,7 @@
      "page_url": "https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__thumb__edenrise-c2-goal-setting-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__preview__edenrise-c2-goal-setting-S03-V02.mp4",
-     "score": 24.81,
+     "score": 2.95,
      "categories": [
       "construction",
       "conversation",
@@ -1410,7 +1419,16 @@
      "title": "video engineers construction site having conversation",
      "query": "workers talking clipboard site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__strip__edenrise-c2-goal-setting-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "two workers review a clipboard at a large construction site",
+     "violation": "scaffolding gangs / factory-scale construction, not small building repair",
+     "shot": "A",
+     "shoot": "pexels-constructionsite-manwoman",
+     "judged_at": "2026-09-09T21:21:13Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V03",
@@ -1421,7 +1439,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-walking-at-the-construction-site-8964731/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__thumb__edenrise-c2-goal-setting-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__preview__edenrise-c2-goal-setting-S03-V03.mp4",
-     "score": 24.81,
+     "score": 2.3,
      "categories": [
       "construction",
       "man",
@@ -1431,7 +1449,16 @@
      "title": "video man and woman walking the construction site",
      "query": "workers talking clipboard site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__strip__edenrise-c2-goal-setting-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "two workers walk together through a steel-framed construction site",
+     "violation": "scaffolding gangs / factory-scale construction, not small building repair",
+     "shot": "",
+     "shoot": "pexels-constructionsite-manwoman",
+     "judged_at": "2026-09-09T21:21:13Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V04",
@@ -1561,7 +1588,7 @@
      "shot": "",
      "shoot": "pixabay-silhouette-conversation-graphic",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 4,
+     "rank": 7,
      "shown": false
     },
     {
@@ -1592,7 +1619,7 @@
      "shot": "",
      "shoot": "pexels-crowd-rubble-site",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 5,
+     "rank": 8,
      "shown": false
     },
     {
@@ -1622,7 +1649,7 @@
      "shot": "",
      "shoot": "pixabay-cartoon-greenscreen-woman",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 6,
+     "rank": 9,
      "shown": false
     },
     {
@@ -1748,10 +1775,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 2,
-    "at": "2026-09-09T18:33:03Z",
+    "at": "2026-09-09T21:21:13Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:33:03Z"
+   "judged_at": "2026-09-09T21:21:13Z"
   },
   {
    "id": "S01",
@@ -1791,7 +1818,7 @@
      "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__thumb__edenrise-c2-goal-setting-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__preview__edenrise-c2-goal-setting-S01-V04.mp4",
-     "score": 23.24,
+     "score": 1.65,
      "categories": [
       "construction",
       "talking",
@@ -1801,7 +1828,16 @@
      "title": "video workers talking construction",
      "query": "construction workers morning briefing site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__strip__edenrise-c2-goal-setting-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two workers in hard hats walk and talk at a building shell",
+     "violation": "large-scale multi-story building construction, not small building repair",
+     "shot": "",
+     "shoot": "pexels-buildingsite-hardhats",
+     "judged_at": "2026-09-09T21:21:27Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S01-V11",
@@ -1858,7 +1894,7 @@
      "shot": "",
      "shoot": "pexels-brickyard-informal-labor",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 5,
+     "rank": 7,
      "shown": false
     },
     {
@@ -1887,7 +1923,7 @@
      "shot": "",
      "shoot": "pexels-rigging-cables-scaffold",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 6,
+     "rank": 8,
      "shown": false
     },
     {
@@ -1927,7 +1963,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__thumb__edenrise-c2-goal-setting-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__preview__edenrise-c2-goal-setting-S01-V03.mp4",
-     "score": 24.14,
+     "score": 0.65,
      "categories": [
       "building",
       "construction",
@@ -1939,7 +1975,16 @@
      "title": "video construction workers inspecting building site scaffolding",
      "query": "construction workers morning briefing site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S01__strip__edenrise-c2-goal-setting-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two workers stand inside a scaffolded building frame",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-buildingsite-scaffold",
+     "judged_at": "2026-09-09T21:21:27Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S01-V01",
@@ -1970,7 +2015,7 @@
      "shot": "",
      "shoot": "pixabay-quarry-excavation-aerial",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 7,
+     "rank": 9,
      "shown": true
     },
     {
@@ -1999,7 +2044,7 @@
      "shot": "",
      "shoot": "pexels-ladder-brick-carrying",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 4,
+     "rank": 6,
      "shown": false
     },
     {
@@ -2166,10 +2211,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:33:03Z",
+    "at": "2026-09-09T21:21:27Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:33:03Z"
+   "judged_at": "2026-09-09T21:21:27Z"
   },
   {
    "id": "S08",
@@ -2208,7 +2253,7 @@
      "page_url": "https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__thumb__edenrise-c2-goal-setting-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__preview__edenrise-c2-goal-setting-S08-V02.mp4",
-     "score": 22.98,
+     "score": 1.65,
      "categories": [
       "construction",
       "talking",
@@ -2217,7 +2262,16 @@
      "title": "video engineer talking construction worker",
      "query": "workers collaborating project outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two workers talk inside a huge industrial crane hangar",
+     "violation": "large-scale industrial construction site",
+     "shot": "",
+     "shoot": "pexels-hangar-construction",
+     "judged_at": "2026-09-09T21:21:51Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V04",
@@ -2245,7 +2299,7 @@
      "page_url": "https://www.pexels.com/video/two-men-discussing-construction-outside-building-35904575/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__thumb__edenrise-c2-goal-setting-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__preview__edenrise-c2-goal-setting-S08-V03.mp4",
-     "score": 21.88,
+     "score": 6.35,
      "categories": [
       "building",
       "construction"
@@ -2253,7 +2307,16 @@
      "title": "video two men discussing construction outside building",
      "query": "workers collaborating project outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "two men talk while working on a house porch renovation",
+     "violation": "",
+     "shot": "C",
+     "shoot": "smallbuilding-renovation-twomen",
+     "judged_at": "2026-09-09T21:21:51Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V05",
@@ -2264,7 +2327,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-collaborating-on-site-30331740/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__thumb__edenrise-c2-goal-setting-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__preview__edenrise-c2-goal-setting-S08-V05.mp4",
-     "score": 19.78,
+     "score": 2.0,
      "categories": [
       "construction",
       "site",
@@ -2274,7 +2337,16 @@
      "title": "video construction workers collaborating site",
      "query": "workers collaborating project outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "several workers stand amid rubble at a cluttered demolition site",
+     "violation": "crowd of workers at a cluttered industrial site",
+     "shot": "",
+     "shoot": "pexels-rubble-construction",
+     "judged_at": "2026-09-09T21:21:51Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V08",
@@ -2304,7 +2376,7 @@
      "shot": "",
      "shoot": "pexels-roof-truss-silhouette-fog",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 3,
+     "rank": 6,
      "shown": true
     },
     {
@@ -2335,7 +2407,7 @@
      "shot": "",
      "shoot": "pixabay-worker-shovel-gravel",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -2364,7 +2436,7 @@
      "shot": "",
      "shoot": "pexels-hands-huddle-indoor",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 2,
+     "rank": 5,
      "shown": true
     },
     {
@@ -2391,7 +2463,7 @@
      "shot": "",
      "shoot": "pexels-office-celebration-papers",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 4,
+     "rank": 7,
      "shown": false
     },
     {
@@ -2515,11 +2587,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T18:33:03Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-09-09T21:21:51Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:33:03Z"
+   "judged_at": "2026-09-09T21:21:51Z"
   },
   {
    "id": "S07",
@@ -2855,7 +2927,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-working-together-7278695/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V01.mp4",
-     "score": 22.04,
+     "score": 1.95,
      "categories": [
       "man",
       "together",
@@ -2865,7 +2937,16 @@
      "title": "video man and woman working together",
      "query": "worker asking experienced colleague advice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man and woman look together at a laptop indoors",
+     "violation": "office setting with laptop",
+     "shot": "",
+     "shoot": "pexels-office-manwoman-laptop",
+     "judged_at": "2026-09-09T21:22:07Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V04",
@@ -2876,7 +2957,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-drinking-coffee-while-working-5944681/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V04.mp4",
-     "score": 18.44,
+     "score": 0.65,
      "categories": [
       "man",
       "woman",
@@ -2885,7 +2966,16 @@
      "title": "video woman drinking coffee while working",
      "query": "worker asking experienced colleague advice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman works at a laptop in a glass-walled office",
+     "violation": "office setting with laptop",
+     "shot": "",
+     "shoot": "pexels-office-woman-coffee",
+     "judged_at": "2026-09-09T21:22:07Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V11",
@@ -2912,7 +3002,7 @@
      "shot": "",
      "shoot": "pexels-office-suits",
      "judged_at": "2026-09-09T20:33:35Z",
-     "rank": 5,
+     "rank": 8,
      "shown": false
     },
     {
@@ -2924,7 +3014,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-working-together-8631867/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V02.mp4",
-     "score": 22.04,
+     "score": 1.3,
      "categories": [
       "man",
       "together",
@@ -2934,7 +3024,16 @@
      "title": "video man and woman working together",
      "query": "worker asking experienced colleague advice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two office colleagues in suits review a document together",
+     "violation": "office setting, suits, laptop",
+     "shot": "",
+     "shoot": "pexels-office-suits-document",
+     "judged_at": "2026-09-09T21:22:07Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V14",
@@ -2958,7 +3057,7 @@
      "shot": "",
      "shoot": "pixabay-calendar-loop",
      "judged_at": "2026-09-09T20:33:35Z",
-     "rank": 7,
+     "rank": 10,
      "shown": false
     },
     {
@@ -2987,7 +3086,7 @@
      "shot": "",
      "shoot": "pexels-office-laptop",
      "judged_at": "2026-09-09T20:33:35Z",
-     "rank": 4,
+     "rank": 7,
      "shown": false
     },
     {
@@ -3089,7 +3188,7 @@
      "shot": "",
      "shoot": "pixabay-road-roller",
      "judged_at": "2026-09-09T20:33:35Z",
-     "rank": 6,
+     "rank": 9,
      "shown": true
     },
     {
@@ -3118,7 +3217,7 @@
      "shot": "",
      "shoot": "pixabay-glass-grinding",
      "judged_at": "2026-09-09T20:33:35Z",
-     "rank": 3,
+     "rank": 4,
      "shown": true
     },
     {
@@ -3238,10 +3337,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T20:33:35Z",
+    "at": "2026-09-09T21:22:07Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T20:33:35Z"
+   "judged_at": "2026-09-09T21:22:07Z"
   }
  ]
 }

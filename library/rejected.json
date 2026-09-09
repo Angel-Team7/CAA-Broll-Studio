@@ -1573,9 +1573,9 @@
  },
  "pexels:https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T19:25:36Z",
-  "from": "edenrise-c2-six-needs-drives/S05"
+  "reason": "scaffolding gangs / factory-scale construction, not small building repair",
+  "at": "2026-09-09T21:21:13Z",
+  "from": "edenrise-c2-goal-setting/S03"
  },
  "pexels:https://www.pexels.com/video/a-man-and-woman-having-conversation-while-looking-at-the-construction-site-8964771/": {
   "brand": "edenrise",
@@ -2155,9 +2155,9 @@
  },
  "pexels:https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T19:25:36Z",
-  "from": "edenrise-c2-six-needs-drives/S05"
+  "reason": "large-scale industrial construction site",
+  "at": "2026-09-09T21:21:51Z",
+  "from": "edenrise-c2-goal-setting/S08"
  },
  "pixabay:https://pixabay.com/videos/id-85351/": {
   "brand": "edenrise",
@@ -2414,8 +2414,8 @@
  "pexels:https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/": {
   "brand": "edenrise",
   "reason": "scaffolding gangs",
-  "at": "2026-09-09T19:20:53Z",
-  "from": "edenrise-c2-six-needs-drives/S02"
+  "at": "2026-09-09T21:21:27Z",
+  "from": "edenrise-c2-goal-setting/S01"
  },
  "pexels:https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/": {
   "brand": "edenrise",
@@ -2947,9 +2947,9 @@
  },
  "pexels:https://www.pexels.com/video/a-man-and-woman-walking-at-the-construction-site-8964731/": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T19:25:36Z",
-  "from": "edenrise-c2-six-needs-drives/S05"
+  "reason": "scaffolding gangs / factory-scale construction, not small building repair",
+  "at": "2026-09-09T21:21:13Z",
+  "from": "edenrise-c2-goal-setting/S03"
  },
  "pexels:8964375": {
   "brand": "edenrise",
@@ -3657,6 +3657,42 @@
   "brand": "edenrise",
   "reason": "laptop",
   "at": "2026-09-09T20:33:35Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:https://www.pexels.com/video/engineers-in-a-construction-site-having-a-conversation-8964379/": {
+  "brand": "edenrise",
+  "reason": "scaffolding gangs / factory-scale construction, not small building repair",
+  "at": "2026-09-09T21:21:13Z",
+  "from": "edenrise-c2-goal-setting/S03"
+ },
+ "pexels:https://www.pexels.com/video/workers-talking-on-construction-13569683/": {
+  "brand": "edenrise",
+  "reason": "large-scale multi-story building construction, not small building repair",
+  "at": "2026-09-09T21:21:27Z",
+  "from": "edenrise-c2-goal-setting/S01"
+ },
+ "pexels:https://www.pexels.com/video/construction-workers-collaborating-on-site-30331740/": {
+  "brand": "edenrise",
+  "reason": "crowd of workers at a cluttered industrial site",
+  "at": "2026-09-09T21:21:51Z",
+  "from": "edenrise-c2-goal-setting/S08"
+ },
+ "pexels:https://www.pexels.com/video/man-and-woman-working-together-7278695/": {
+  "brand": "edenrise",
+  "reason": "office setting with laptop",
+  "at": "2026-09-09T21:22:07Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-drinking-coffee-while-working-5944681/": {
+  "brand": "edenrise",
+  "reason": "office setting with laptop",
+  "at": "2026-09-09T21:22:07Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:https://www.pexels.com/video/man-and-woman-working-together-8631867/": {
+  "brand": "edenrise",
+  "reason": "office setting, suits, laptop",
+  "at": "2026-09-09T21:22:07Z",
   "from": "edenrise-c2-goal-setting/S04"
  }
 }
