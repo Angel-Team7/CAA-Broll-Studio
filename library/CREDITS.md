@@ -977,3 +977,33 @@
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-teenage-girl-writing-in-her-notebook-in-domestic-interior-9737931/ |
 | pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-turning-planner-with-a-red-cover-6186873/ |
 | pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/person-getting-paper-7744217/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-man-rolling-out-the-leathers-on-the-table-4452783/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-using-chisel-6789571/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-shaving-a-wood-5895456/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-girl-house-apartment-4109224/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pexels |  | Nicola Narracci | Pexels License | https://www.pexels.com/video/glowing-coral-reef-animation-with-vibrant-lights-29072324/ |
+| pexels |  | Adis Resic | Pexels License | https://www.pexels.com/video/spaceship-orbiting-mars-in-vast-outer-space-34722130/ |
+| pexels |  | StefWithAnF | Pexels License | https://www.pexels.com/video/a-colorful-oil-painting-with-red-green-and-blue-17332475/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-doing-carpentry-with-grandfather-7853963/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-walking-on-the-grass-6133549/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-playing-with-his-grandchildren-7789495/ |
+| pexels |  | Shedrack Salami | Pexels License | https://www.pexels.com/video/lagos-yello-danfo-bus-27706413/ |
+| pexels |  | Vitaliy  Izonin | Pexels License | https://www.pexels.com/video/logistics-20639317/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-putting-his-safety-goggles-while-working-in-the-truck-workshot-7019774/ |
+| pexels |  | Rüveyda | Pexels License | https://www.pexels.com/video/a-horse-is-standing-in-the-grass-next-to-a-barbed-wire-fence-19988205/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-fence-built-as-boundary-identification-of-properties-3151478/ |
+| pexels |  | Mario Spencer | Pexels License | https://www.pexels.com/video/mossy-wooden-post-beside-barbed-wire-fence-35896058/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/person-on-footpath-in-morning-13602961/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/woman-with-her-dog-on-mountains-trek-5972667/ |
+| pexels |  | Rec Everywhere | Pexels License | https://www.pexels.com/video/autumn-forest-hiking-adventure-in-fall-season-34744938/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/woman-is-working-while-writing-8086209/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/man-typing-on-keyboard-8888821/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/back-view-of-a-man-using-a-computer-8888780/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/footage-of-the-woman-fixing-the-flowers-3626541/ |
+| pexels |  | Curtis Adams | Pexels License | https://www.pexels.com/video/interior-design-of-a-living-room-4301617/ |
+| pexels |  | Curtis Adams | Pexels License | https://www.pexels.com/video/a-chandelier-hanging-from-the-ceiling-in-a-home-19228309/ |
+| pexels |  | Engin Akyurt | Pexels License | https://www.pexels.com/video/a-pergola-and-chairs-by-the-swimming-pool-12653247/ |
+| pexels |  | Amar  Preciado | Pexels License | https://www.pexels.com/video/swimming-pools-in-town-10672871/ |
+| pexels |  | Raul Oja | Pexels License | https://www.pexels.com/video/aerial-view-of-cyprus-apartment-complex-with-pool-30303656/ |
+| pexels |  | Mike Sangma | Pexels License | https://www.pexels.com/video/cows-walking-on-road-13682887/ |
