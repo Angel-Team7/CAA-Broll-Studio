@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # lets a run re-queue itself when more requests are waiting
 
 concurrency:
   group: search-10-more        # queue runs; never let two rewrite scenes.json at once
@@ -70,6 +71,7 @@ jobs:
         run: |
           python tools/topup_bot.py | tee /tmp/bot.log
           echo "added=$(grep -oP 'TOTAL_ADDED=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
+          echo "left=$(grep -oP 'LEFT=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push
         if: steps.bot.outputs.added != '0'
@@ -85,6 +87,12 @@ jobs:
             sleep $((i * 5))
           done
           echo "::error::could not push after 5 attempts"; exit 1
+
+      - name: Re-queue for the requests that did not fit this run
+        if: steps.bot.outputs.left != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run search-10-more.yml --ref main || echo "::warning::could not re-queue; the next click will pick them up"
 
       - name: Summary
         run: |
