@@ -497,3 +497,33 @@
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-talking-using-the-headphones-7682564/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-and-woman-talking-in-office-together-6248608/ |
 | pexels |  | A S M Atiqur Rahman | Pexels License | https://www.pexels.com/video/traditional-blacksmith-sharpening-knife-37873100/ |
+| pixabay | roof  roofing  construction  scaffolding | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-214662/ |
+| pixabay | buildings  city  architecture  design  travel  construction  | Nirjan | Pixabay Content License | https://pixabay.com/videos/id-201281/ |
+| pixabay | city  construction  architecture | JamesBarley1985 | Pixabay Content License | https://pixabay.com/videos/id-215239/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/wood-dust-falling-on-wood-table-top-4889139/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-video-of-carving-tools-6263166/ |
+| pexels |  | Tom Jurman | Pexels License | https://www.pexels.com/video/man-walking-from-garage-with-tools-outdoors-38288375/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/adorable-child-leaning-against-wall-outdoors-36906420/ |
+| pexels |  | Marc Espejo | Pexels License | https://www.pexels.com/video/classic-mackerel-tabby-kitten-playing-outdoors-5895726/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/little-girl-watching-military-parade-in-town-square-38045831/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/men-checking-the-toolbox-5895461/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-doing-metal-craft-5846602/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-brushing-a-lumber-wood-5972657/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/businessman-and-businesswoman-near-whiteboard-10040754/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/business-people-on-a-meeting-8123974/ |
+| pixabay | basketball  sport  game  ball  team  fun  coach  competition | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5587/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-house-ladder-business-6195146/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/cleaners-carrying-working-tools-6195153/ |
+| pixabay | elephants  herd  group  desert  nature  sand  elephant  sand | makabera | Pixabay Content License | https://pixabay.com/videos/id-244242/ |
+| pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/industrial-worker-welding-metal-in-workshop-31806787/ |
+| pixabay | construction  city  crane  building  concrete pump  basement | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-41828/ |
+| pixabay | construction  crane  building  aerial | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-199375/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-at-her-desk-in-textile-mill-31369727/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/a-man-using-laptop-while-sitting-7149051/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/skilled-worker-operating-textile-machinery-31580816/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/men-working-in-the-office-5484894/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-wearing-headset-using-a-laptop-by-the-window-8865641/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/men-using-computer-and-laptop-9365445/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-operating-a-sewing-machine-31373752/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/professional-welding-steel-6046358/ |
+| pexels |  | Trumpet Studios | Pexels License | https://www.pexels.com/video/african-artisan-skillfully-working-with-wood-outdoors-31018081/ |
