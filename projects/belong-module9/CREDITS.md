@@ -292,3 +292,23 @@
 | pixabay | dice  points  roll the dice  to play  toy  random  number  r | betexion | Pixabay Content License | https://pixabay.com/videos/id-67858/ |
 | pexels |  | alleksana | Pexels License | https://www.pexels.com/video/high-angle-shot-of-gift-boxes-6477739/ |
 | pixabay | keyboard  button  press  push  keypress  keys  computer  han | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1048/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-shaking-each-others-hand-in-a-business-meeting-3246280/ |
+| pixabay | keyboard  laptop  computer  technology  work  typing  desk   | PhotoDhaba | Pixabay Content License | https://pixabay.com/videos/id-43559/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/people-working-together-7792033/ |
+| pixabay | laptop  hands  programming  work  software  digital  web | dayanandgarg | Pixabay Content License | https://pixabay.com/videos/id-52823/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-surgeon-doing-a-operation-7584434/ |
+| pixabay | computer  programmer  developer  engineer  think  work  book | conte_public | Pixabay Content License | https://pixabay.com/videos/id-215188/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/teammates-discussing-in-a-meeting-8125937/ |
+| pixabay | men  farmers  agriculture  field  harvest  rice  asia  work  | u_wn4el5nsz0 | Pixabay Content License | https://pixabay.com/videos/id-212196/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/women-doing-a-hand-stack-while-in-a-huddle-7423638/ |
+| pixabay | board  write  man  memo  memory  chalk  meeting  meet  offic | geralt | Pixabay Content License | https://pixabay.com/videos/id-710/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/person-tying-a-ribbon-5765674/ |
+| pixabay | timer  clock  calander  green  screen  second  minute  hour  | rdfactsmotivation786 | Pixabay Content License | https://pixabay.com/videos/id-113229/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/busy-people-at-the-office-7655488/ |
+| pixabay | clock  hour  time  seconds  minutes  clockwise  rotating  br | MabelAmber | Pixabay Content License | https://pixabay.com/videos/id-133446/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/flatlay-holidays-package-5765896/ |
+| pixabay | laptop  computer  keyboard  typing  opening  lid  technology | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4731/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-salesman-offering-a-drink-to-a-lady-customer-6127661/ |
+| pixabay | ipad  imac  tablet  desktop  iphone  monitor  computer  disp | starroom | Pixabay Content License | https://pixabay.com/videos/id-2988/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-woman-holding-a-gift-7583214/ |
+| pixabay | iphone  computer  mouse click  computing  online  communicat | starroom | Pixabay Content License | https://pixabay.com/videos/id-2967/ |
