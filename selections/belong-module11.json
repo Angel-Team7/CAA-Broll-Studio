@@ -26,32 +26,42 @@
     "S03": {
       "requested": "2026-09-09T21:23:04Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:56:32Z",
+      "added": 22
     },
     "S05": {
       "requested": "2026-09-09T21:23:06Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T23:01:08Z",
+      "added": 21
     },
     "S06": {
       "requested": "2026-09-09T21:23:07Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T23:03:23Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:23:08Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T23:05:09Z",
+      "added": 17
     },
     "S10": {
       "requested": "2026-09-09T21:23:10Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T23:09:50Z",
+      "added": 22
     },
     "S02": {
       "requested": "2026-09-09T21:23:03Z",
@@ -73,14 +83,18 @@
     "S04": {
       "requested": "2026-09-09T21:23:05Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T22:58:49Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-09T21:23:09Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T23:07:16Z",
+      "added": 20
     }
   }
 }
