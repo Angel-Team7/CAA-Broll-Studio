@@ -66,21 +66,27 @@
       "note": "cmon 10 brolls with context it says remove the chair.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:26:55Z",
+      "added": 10
     },
     "S08": {
       "requested": "2026-09-09T06:00:28Z",
       "note": "more contextual please it says clean the kitchen",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:27:49Z",
+      "added": 10
     },
     "S12": {
       "requested": "2026-09-09T06:00:29Z",
       "note": "oh man c'mon more if you dont find workers find from other environment",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:28:50Z",
+      "added": 10
     },
     "S17": {
       "requested": "2026-09-09T06:00:30Z",
