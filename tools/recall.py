@@ -18,7 +18,7 @@ import release_media
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 STAGE_N = int(os.environ.get("STAGE_N", "24"))
 SOURCE_CAP = {"pexels": 14, "pixabay": 8, "coverr": 6}
-PAGES = {"pexels": 2, "pixabay": 1, "coverr": 1}
+PAGES = {"pexels": 3, "pixabay": 2, "coverr": 1}
 MAX_DURATION = 60
 STOP = set("the a an and or of to in on at for with from by is are be this that these those it its as into over under about".split())
 
@@ -158,7 +158,7 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
             idx += 1
             master = td / f"{stem}.src.mp4"
             try:
-                with requests.get(c["download_url"], stream=True, timeout=90, headers={"User-Agent": tb.UA}) as r:
+                with requests.get(c.get("stage_url") or c["download_url"], stream=True, timeout=90, headers={"User-Agent": tb.UA}) as r:
                     r.raise_for_status()
                     with open(master, "wb") as fh:
                         for chunk in r.iter_content(1 << 20):

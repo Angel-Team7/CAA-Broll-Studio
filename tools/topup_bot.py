@@ -137,12 +137,18 @@ EDENRISE_BLOCK = {
     "war", "rubble", "decay", "cube", "geometric", "minimalist",
     "sewing", "seamstress", "textile", "businessman", "businesswoman", "boardroom",
     "startup", "laptop", "office", "medical", "doctor", "nurse", "hospital",
+    "mask", "masks", "masked", "covid", "coronavirus", "pandemic", "suit", "suits", "tie",
+    "keyboard", "typing", "computer", "monitor", "corporate", "coworkers", "meeting",
     "massage", "yoga", "gym", "wedding", "romantic", "kiss", "cocktail", "makeup",
     "model", "fashion", "casino", "gaming",
 }
 BELONG_BLOCK = {
     "businessman", "boardroom", "hospital", "gym", "casino", "nightclub",
     "skyscraper", "traffic", "factory",
+    # classes the judge rejected on sight in every batch so far
+    "mask", "masks", "masked", "covid", "coronavirus", "pandemic", "suit", "suits", "tie",
+    "laptop", "keyboard", "typing", "computer", "monitor", "startup", "corporate", "office", "coworkers",
+    "sold", "realtor", "estate", "client", "contract", "handshake",
     # a hospitality lesson never wants the building trades or industry
     "construction", "builder", "builders", "asphalt", "paver", "road", "roadwork", "excavator",
     "crane", "scaffold", "scaffolding", "cement", "concrete", "bricklayer", "welder", "welding",
@@ -208,8 +214,9 @@ def search_pexels(query, page):
             best = next((f for f in files if (f.get("height") or 0) <= 1080), files[0] if files else None)
             if not best:
                 continue
+            small = next((f for f in sorted(files, key=lambda f: (f.get("width") or 0)) if (f.get("width") or 0) >= 960), best)
             out.append(_cand(source="pexels", src_id=str(v["id"]),
-                             download_url=best["link"], page_url=v["url"],
+                             download_url=best["link"], stage_url=small["link"], page_url=v["url"],
                              author=v.get("user", {}).get("name", ""),
                              license="Pexels License", license_url="https://www.pexels.com/license/",
                              duration=v.get("duration", 0), query=query,
@@ -233,8 +240,9 @@ def search_pixabay(query, page):
             best = vids.get("large") or vids.get("medium") or vids.get("small")
             if not best or not best.get("url"):
                 continue
+            small = vids.get("medium") or vids.get("small") or best
             out.append(_cand(source="pixabay", src_id=str(v["id"]),
-                             download_url=best["url"],
+                             download_url=best["url"], stage_url=small.get("url") or best["url"],
                              page_url=v.get("pageURL", ""),
                              author=v.get("user", ""),
                              license="Pixabay Content License",
