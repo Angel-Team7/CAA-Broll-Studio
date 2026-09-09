@@ -932,7 +932,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__coverr_c2hn7iuucu_construction-worker-walking-to-s.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__coverr_c2hn7iuucu_construction-worker-walking-to-s.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__coverr_c2hn7iuucu_construction-worker-walking-to-s.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "feet carry a panel across a wet indoor floor",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-panel-feet",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "pexels_32244801_construction-worker-arriving-sit",
@@ -944,7 +954,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_32244801_construction-worker-arriving-sit.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_32244801_construction-worker-arriving-sit.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_32244801_construction-worker-arriving-sit.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a worker in a vest rigs cable at an industrial scaffold site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-scaffold-hirise",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "pexels_5434217_construction-worker-entering-sit",
@@ -956,7 +976,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_5434217_construction-worker-entering-sit.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_5434217_construction-worker-entering-sit.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_5434217_construction-worker-entering-sit.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a worker in a safety vest walks through a fenced building site",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-icon-vest-site",
+     "score": 4.65,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_5434218_worker-with-tool-belt-walking",
@@ -968,7 +998,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_5434218_worker-with-tool-belt-walking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_5434218_worker-with-tool-belt-walking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_5434218_worker-with-tool-belt-walking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a worker in a safety vest carries a tool frame through an unfinished building",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-icon-vest-site",
+     "score": 4.65,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_6195149_worker-carrying-tools-site",
@@ -980,7 +1020,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_6195149_worker-carrying-tools-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_6195149_worker-carrying-tools-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_6195149_worker-carrying-tools-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a worker in overalls walks from a van toward a house with tools",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-van-arrival",
+     "score": 7.0,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6474357_worker-hardhat-arriving-morning",
@@ -992,7 +1042,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_6474357_worker-hardhat-arriving-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_6474357_worker-hardhat-arriving-morning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_6474357_worker-hardhat-arriving-morning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a man in a plaid shirt puts on a hardhat in an unfinished room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-portrait-hardhat",
+     "score": 4.0,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_6661929_tradesman-with-tool-bag-morning",
@@ -1004,7 +1064,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_6661929_tradesman-with-tool-bag-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_6661929_tradesman-with-tool-bag-morning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_6661929_tradesman-with-tool-bag-morning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands buckle a leather tool bag closed",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-toolbag-hands",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8818342_builder-with-tool-belt",
@@ -1016,7 +1086,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_8818342_builder-with-tool-belt.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_8818342_builder-with-tool-belt.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_8818342_builder-with-tool-belt.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 9,
+     "caption": "a young worker in a tool belt pauses at a wood-frame build in the forest",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-frame-build-forest",
+     "score": 7.7,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8965388_builder-carrying-tools-on-should",
@@ -1028,7 +1108,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pexels_8965388_builder-carrying-tools-on-should.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pexels_8965388_builder-carrying-tools-on-should.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pexels_8965388_builder-carrying-tools-on-should.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "two men work with wood pieces at an outdoor table by a house",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-outdoor-table-pair",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_348897_construction-worker-walking-to-s",
@@ -1050,7 +1140,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__pixabay_40816_worker-with-tool-belt-walking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__pixabay_40816_worker-with-tool-belt-walking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__pixabay_40816_worker-with-tool-belt-walking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "elderly workers with shovels dig along a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-crew",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "pexels_29735767_builder-with-tool-belt",
@@ -1131,7 +1231,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-operating-concrete-trowel-31193232/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V00.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -1140,7 +1240,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a worker in hi-vis operates a concrete power trowel at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-power-trowel",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V01",
@@ -1151,7 +1260,7 @@
      "page_url": "https://pixabay.com/videos/id-204667/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V01.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "land  construction  machinery",
      "query": "construction ground worker",
@@ -1160,7 +1269,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an aerial view shows a large excavation pit beside a warehouse",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-quarry-aerial",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V02",
@@ -1171,7 +1289,7 @@
      "page_url": "https://www.pexels.com/video/backhoe-operating-on-subdivision-construction-site-32292599/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V02.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -1180,7 +1298,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a backhoe digs at a suburban lot behind safety flags",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-backhoe-lot",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V03",
@@ -1191,7 +1318,7 @@
      "page_url": "https://pixabay.com/videos/id-12543/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V03.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "sparkles  industry  worker  industrial  metal  steel  equipment  production  technology  factory  manufacture  welding  sparks  machine  iron  manufacturing  light  machinery  work  tool  fire  engineering  bright  shiny  energy  plant  modern  heavy  mechanical  plasma  working  burn  arc  electric  automobile",
      "query": "arriving with tools",
@@ -1200,7 +1327,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a grinder throws heavy sparks off a metal workpiece",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-grinder-sparks-metal",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V04",
@@ -1211,7 +1347,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-looking-at-the-camera-8964296/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V04.mp4",
-     "score": 0,
+     "score": 3.65,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -1220,7 +1356,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a worker with a clipboard stands before a large yellow tower structure",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-megastructure-clipboard",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V05",
@@ -1231,7 +1376,7 @@
      "page_url": "https://pixabay.com/videos/id-91377/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V05.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "timber  wood  woodworking  workshop  tools  machine-tool  production workshop  production  factory",
      "query": "arriving with tools",
@@ -1240,7 +1385,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a table saw blade cuts through a wood board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-tablesaw-cut",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V06",
@@ -1251,7 +1405,7 @@
      "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V06.mp4",
-     "score": 0,
+     "score": 4.65,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -1260,7 +1414,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two workers in vests survey an unfinished multi-story building",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-multistory-survey",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V07",
@@ -1271,7 +1434,7 @@
      "page_url": "https://pixabay.com/videos/id-91376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V07.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "wood  timber  wooden  tools  production workshop  woodworking  machine-tool  production  factory",
      "query": "arriving with tools",
@@ -1280,7 +1443,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand feeds a wood plank into a shop planer, throwing shavings",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-planer-shavings",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V08",
@@ -1291,7 +1463,7 @@
      "page_url": "https://www.pexels.com/video/time-lapse-footage-of-a-construction-site-5348779/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V08.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -1300,7 +1472,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a tilt-shift aerial shows cranes and excavators on a large site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-tiltshift-aerial",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S04-V09",
@@ -1311,7 +1492,7 @@
      "page_url": "https://pixabay.com/videos/id-65577/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__thumb__be-a-lifelong-learner-v2-S04-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__preview__be-a-lifelong-learner-v2-S04-V09.mp4",
-     "score": 0,
+     "score": 6.0,
      "categories": [],
      "title": "carpenter  saw  cut  woodworking  craft  tool",
      "query": "arriving with tools",
@@ -1320,7 +1501,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S04__strip__be-a-lifelong-learner-v2-S04-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand guides a plywood board through a circular saw outdoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-circsaw-hand",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 4,
+     "shown": true
     }
    ],
    "shots": [
@@ -1351,7 +1541,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "judged_at": "2026-09-09T18:43:53Z"
   },
   {
    "id": "S05",
@@ -1559,7 +1750,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8471051_builder-discussing-plans-on-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8471051_builder-discussing-plans-on-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8471051_builder-discussing-plans-on-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man and woman in hardhats review a blueprint in a bright unfinished room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-blueprint-brightroom",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "pexels_8487122_builder-discussing-hardhat",
@@ -1571,7 +1772,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8487122_builder-discussing-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8487122_builder-discussing-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8487122_builder-discussing-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a close-up shows a worker in a hardhat and safety glasses speaking",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-closeup-hardhat-woman",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8488068_construction-site-discussion-poi",
@@ -1593,7 +1804,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8963857_foreman-explaining-to-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8963857_foreman-explaining-to-worker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8963857_foreman-explaining-to-worker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a foreman gestures and speaks into a radio inside a large steel structure",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-megastructure-radio",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8964728_two-workers-conversation-hardhat",
@@ -1605,7 +1826,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8964728_two-workers-conversation-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8964728_two-workers-conversation-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8964728_two-workers-conversation-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "two workers review a clipboard beneath a large steel structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-megastructure-clipboard",
+     "score": 4.3,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pexels_8964772_worker-asking-foreman-a-question",
@@ -1617,7 +1848,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8964772_worker-asking-foreman-a-question.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8964772_worker-asking-foreman-a-question.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8964772_worker-asking-foreman-a-question.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a worker and foreman talk at a rail before a large steel structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-megastructure-clipboard",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8964792_worker-asking-foreman",
@@ -1629,7 +1870,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8964792_worker-asking-foreman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8964792_worker-asking-foreman.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8964792_worker-asking-foreman.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a foreman points out details on a plan inside a large steel structure",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-megastructure-plan",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_8964793_construction-workers-talking-on",
@@ -1641,7 +1892,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pexels_8964793_construction-workers-talking-on.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pexels_8964793_construction-workers-talking-on.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pexels_8964793_construction-workers-talking-on.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "two workers talk and gesture at an urban high-rise construction site",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-highrise-conversation",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_271463_two-workers-conversation-hardhat",
@@ -1653,7 +1914,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__pixabay_271463_two-workers-conversation-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__pixabay_271463_two-workers-conversation-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__pixabay_271463_two-workers-conversation-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a garment worker sews fabric at a factory machine",
+     "violation": "textile mills",
+     "shot": "",
+     "shoot": "pixabay-textile-factory",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "pexels_19895874_construction-workers-talking-on",
@@ -1724,7 +1995,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-a-woman-checking-the-walls-of-a-house-8965437/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V00.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [],
      "title": "",
      "query": "worker asking foreman",
@@ -1733,7 +2004,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a worker in safety glasses speaks inside an unfinished brick building",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-brick-conduit-talk",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V01",
@@ -1744,7 +2024,7 @@
      "page_url": "https://pixabay.com/videos/id-3140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V01.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "construction worker  angle grinder  grinder  worker  construction  tool  work  industrial  cut  building  grinding  metalwork  mechanic  professional  industry",
      "query": "worker asking foreman",
@@ -1753,7 +2033,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "sparks fly near a worker at a dark brick building at night",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-night-sparks",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V02",
@@ -1764,7 +2053,7 @@
      "page_url": "https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V02.mp4",
-     "score": 0,
+     "score": 4.3,
      "categories": [],
      "title": "",
      "query": "worker asking foreman",
@@ -1773,7 +2062,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "two workers in vests talk inside a large steel-trussed structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-megastructure-clipboard",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V03",
@@ -1784,7 +2082,7 @@
      "page_url": "https://pixabay.com/videos/id-148541/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V03.mp4",
-     "score": 0,
+     "score": 3.4,
      "categories": [],
      "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
      "query": "worker asking foreman",
@@ -1793,7 +2091,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "boots stand beside a wheelbarrow pouring wet concrete",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-concrete-boots",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V04",
@@ -1804,7 +2111,7 @@
      "page_url": "https://www.pexels.com/video/workmates-discussing-a-project-in-the-office-8135792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V04.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker asking foreman",
@@ -1813,7 +2120,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in an office discuss plans at a table with a laptop",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pixabay-office-hardhat",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V05",
@@ -1824,7 +2140,7 @@
      "page_url": "https://pixabay.com/videos/id-67461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V05.mp4",
-     "score": 0,
+     "score": 3.05,
      "categories": [],
      "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "worker asking foreman",
@@ -1833,7 +2149,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a worker cuts a paving stone with a grinder, raising dust",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stonecut-dust",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V06",
@@ -1844,7 +2169,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V06.mp4",
-     "score": 0,
+     "score": 4.3,
      "categories": [],
      "title": "",
      "query": "worker asking foreman",
@@ -1853,7 +2178,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "two workers in vests talk beneath a large steel structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-megastructure-clipboard",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V07",
@@ -1864,7 +2198,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V07.mp4",
-     "score": 0,
+     "score": 3.75,
      "categories": [],
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "worker asking foreman",
@@ -1873,7 +2207,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "a hand sets a paver with a rubber mallet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-mallet",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V08",
@@ -1884,7 +2227,7 @@
      "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V08.mp4",
-     "score": 0,
+     "score": 2.4,
      "categories": [],
      "title": "",
      "query": "worker asking foreman",
@@ -1893,7 +2236,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a worker in a red vest walks down an unfinished building corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-corridor-walk",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S06-V09",
@@ -1904,7 +2256,7 @@
      "page_url": "https://pixabay.com/videos/id-10877/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__thumb__be-a-lifelong-learner-v2-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__preview__be-a-lifelong-learner-v2-S06-V09.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "construction site  excavator  digging  industry  machinery  excavation  machine  equipment  building  digger  industrial  bulldozer  heavy  development  excavate  hydraulic",
      "query": "question site confident",
@@ -1913,7 +2265,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S06__strip__be-a-lifelong-learner-v2-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an excavator digs at an urban construction lot",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-excavator-urban",
+     "judged_at": "2026-09-09T18:43:53Z",
+     "rank": 15,
+     "shown": false
     }
    ],
    "shots": [
@@ -1944,7 +2305,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "judged_at": "2026-09-09T18:43:53Z"
   },
   {
    "id": "S07",
@@ -2300,7 +2662,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__coverr_vydinjswe0_carpenter-hands-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__coverr_vydinjswe0_carpenter-hands-working.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__coverr_vydinjswe0_carpenter-hands-working.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands guide a wood plank through a miter saw outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-mitersaw-hands",
+     "score": 4.7,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "coverr_zlcm3xk92m_worker-sawing-wood",
@@ -2322,7 +2694,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_11355903_bricklayer-laying-bricks.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_11355903_bricklayer-laying-bricks.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_11355903_bricklayer-laying-bricks.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "two workers build a brick wall together outdoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-bricklayer-pair",
+     "score": 6.7,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_15316704_groundworker-shoveling",
@@ -2334,7 +2716,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_15316704_groundworker-shoveling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_15316704_groundworker-shoveling.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_15316704_groundworker-shoveling.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a worker shovels sand from a pile onto pavement",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-shovel-sandpile",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_18689551_groundworker-shoveling",
@@ -2346,7 +2738,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_18689551_groundworker-shoveling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_18689551_groundworker-shoveling.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_18689551_groundworker-shoveling.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a close-up shows a post set into a dug hole in soil",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-post-hole-soil",
+     "score": 5.7,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_30037263_bricklayer-laying-bricks",
@@ -2358,7 +2760,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_30037263_bricklayer-laying-bricks.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_30037263_bricklayer-laying-bricks.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_30037263_bricklayer-laying-bricks.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a bricklayer sets mortar and brick atop a rising wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-bricklayer-urban",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_5972632_carpenter-hands-working",
@@ -2370,7 +2782,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_5972632_carpenter-hands-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_5972632_carpenter-hands-working.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_5972632_carpenter-hands-working.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "hands work a small wood piece with a hand tool amid shavings",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-woodcraft-closeup",
+     "score": 5.7,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_6473937_hands-mixing-concrete",
@@ -2382,7 +2804,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_6473937_hands-mixing-concrete.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_6473937_hands-mixing-concrete.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_6473937_hands-mixing-concrete.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a paddle mixes concrete in a bucket inside an unfinished building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-concrete-mixbucket",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_8488109_worker-using-power-tool",
@@ -2394,7 +2826,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_8488109_worker-using-power-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pexels_8488109_worker-using-power-tool.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pexels_8488109_worker-using-power-tool.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a worker in a hardhat uses a power drill inside a framed room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-drill-framedroom",
+     "score": 6.7,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_118591_worker-sawing-wood",
@@ -2406,7 +2848,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_118591_worker-sawing-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_118591_worker-sawing-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pixabay_118591_worker-sawing-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man cuts a felled tree trunk with a chainsaw in the forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chainsaw-forest",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pixabay_2907_bricklayer-laying-bricks",
@@ -2418,7 +2870,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_2907_bricklayer-laying-bricks.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_2907_bricklayer-laying-bricks.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pixabay_2907_bricklayer-laying-bricks.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a ladybug crawls across a textured brick surface",
+     "violation": "wildlife",
+     "shot": "",
+     "shoot": "pixabay-ladybug-macro",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "pixabay_40816_worker-using-power-tool",
@@ -2430,7 +2892,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_40816_worker-using-power-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_40816_worker-using-power-tool.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pixabay_40816_worker-using-power-tool.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "elderly workers with shovels dig along a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-crew",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pixabay_67460_groundworker-shoveling",
@@ -2442,7 +2914,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_67460_groundworker-shoveling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_67460_groundworker-shoveling.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pixabay_67460_groundworker-shoveling.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a worker shovels material into a wheelbarrow beside a large pile",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-wheelbarrow-pile",
+     "score": 6.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_73847_hands-mixing-concrete",
@@ -2454,7 +2936,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_73847_hands-mixing-concrete.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_73847_hands-mixing-concrete.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__strip__pixabay_73847_hands-mixing-concrete.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "sand falls through an open hand in close-up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-hand-macro",
+     "score": 4.05,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_12303760_worker-using-power-tool",
@@ -2556,7 +3048,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "judged_at": "2026-09-09T18:43:54Z"
   },
   {
    "id": "S10",
@@ -2583,7 +3076,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__pexels_8963678_engineer-with-tablet-on-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__pexels_8963678_engineer-with-tablet-on-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__pexels_8963678_engineer-with-tablet-on-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a worker holds a tablet screen beneath a large steel structure",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-megastructure-tablet",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8964292_foreman-tablet-hardhat-outdoors",
@@ -2595,7 +3098,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__pexels_8964292_foreman-tablet-hardhat-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__pexels_8964292_foreman-tablet-hardhat-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__pexels_8964292_foreman-tablet-hardhat-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker stands with arms crossed inside a large steel structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-megastructure-standing",
+     "score": 2.35,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_40813_construction-worker-using-tablet",
@@ -2607,7 +3120,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__pixabay_40813_construction-worker-using-tablet.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__pixabay_40813_construction-worker-using-tablet.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__pixabay_40813_construction-worker-using-tablet.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a grinder cuts rebar sending sparks across a work site",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-grinder-sparks",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pixabay_85350_foreman-tablet-hardhat-outdoors",
@@ -2619,7 +3142,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__pixabay_85350_foreman-tablet-hardhat-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__pixabay_85350_foreman-tablet-hardhat-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__pixabay_85350_foreman-tablet-hardhat-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a worker digs at a paving site with a hoe",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paving-hoe",
+     "score": 2.4,
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_31387781_worker-on-phone-construction-sit",
@@ -2670,7 +3203,7 @@
      "page_url": "https://www.pexels.com/video/team-workshop-presentation-in-modern-workspace-38749409/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V00.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker learn coach anytime",
@@ -2679,7 +3212,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "students with laptops sit in a classroom during a presentation",
+     "violation": "laptops",
+     "shot": "",
+     "shoot": "pexels-classroom-laptops",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V01",
@@ -2690,7 +3232,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V01.mp4",
-     "score": 0,
+     "score": 2.05,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker learn coach anytime",
@@ -2699,7 +3241,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a man sweeps wet pavement on a shaded street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-sweep",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V02",
@@ -2710,7 +3261,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-doing-a-presentation-9034497/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V02.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker learn coach anytime",
@@ -2719,7 +3270,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman in a blazer presents at a flip chart to colleagues",
+     "violation": "boardrooms",
+     "shot": "",
+     "shoot": "pixabay-boardroom-presenter",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V03",
@@ -2730,7 +3290,7 @@
      "page_url": "https://pixabay.com/videos/id-5587/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V03.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "basketball  sport  game  ball  team  fun  coach  competition  equipment",
      "query": "worker learn coach anytime",
@@ -2739,7 +3299,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a 3d animated basketball spins against a graphic background",
+     "violation": "cartoons",
+     "shot": "",
+     "shoot": "pexels-cartoon-basketball",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V04",
@@ -2750,7 +3319,7 @@
      "page_url": "https://www.pexels.com/video/workers-loading-logging-truck-in-forest-setting-36130426/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V04.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker learn coach anytime",
@@ -2759,7 +3328,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two men chain felled logs onto a truck at a burned logging site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-logging-truck",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V05",
@@ -2770,7 +3348,7 @@
      "page_url": "https://pixabay.com/videos/id-42923/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V05.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker learn coach anytime",
@@ -2779,7 +3357,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows many workers on scaffolding at a high-rise skeleton",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pixabay-highrise-scaffold-aerial",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V06",
@@ -2790,7 +3377,7 @@
      "page_url": "https://www.pexels.com/video/businesswomen-having-a-discussion-8170549/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V06.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker learn coach anytime",
@@ -2799,7 +3386,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man in a blazer presents to seated colleagues in an office",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-presenter",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V07",
@@ -2810,7 +3406,7 @@
      "page_url": "https://pixabay.com/videos/id-42926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker learn coach anytime",
@@ -2819,7 +3415,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows many workers on scaffolding at a large construction site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pixabay-highrise-scaffold-aerial2",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V08",
@@ -2830,7 +3435,7 @@
      "page_url": "https://www.pexels.com/video/a-man-pushing-a-trolley-having-back-pain-8965387/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V08.mp4",
-     "score": 0,
+     "score": 3.75,
      "categories": [],
      "title": "",
      "query": "worker learn coach anytime",
@@ -2839,7 +3444,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "workers gather around a wheelbarrow at a wood-clad building",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-wheelbarrow-crew-wood",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S10-V09",
@@ -2850,7 +3464,7 @@
      "page_url": "https://pixabay.com/videos/id-148540/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__thumb__be-a-lifelong-learner-v2-S10-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__preview__be-a-lifelong-learner-v2-S10-V09.mp4",
-     "score": 0,
+     "score": 2.4,
      "categories": [],
      "title": "cement  batter  development  building  machine  worker  work  rural",
      "query": "worker learn coach anytime",
@@ -2859,7 +3473,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S10__strip__be-a-lifelong-learner-v2-S10-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands add material into a spinning cement mixer drum",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cementmixer-hands",
+     "judged_at": "2026-09-09T18:43:54Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -2891,7 +3514,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:43:54Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:43:54Z"
   },
   {
    "id": "S11",
