@@ -28,7 +28,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__thumb__pexels_10885104_golden-hour-farmhouse.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__preview__pexels_10885104_golden-hour-farmhouse.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__strip__pexels_10885104_golden-hour-farmhouse.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "sun rises over a farmhouse as sheep graze in the field",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-golden-hour-farmhouse",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_28828093_team-welcome-smile",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__thumb__pexels_28828093_team-welcome-smile.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__preview__pexels_28828093_team-welcome-smile.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__strip__pexels_28828093_team-welcome-smile.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a hospitality worker smiles warmly at a guest indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-team-welcome-smile",
+     "score": 5.05,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_66810_farm-worker-morning",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__thumb__pixabay_66810_farm-worker-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__preview__pixabay_66810_farm-worker-morning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__strip__pixabay_66810_farm-worker-morning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "sunlight filters through dew-covered grass in early morning",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-farm-worker-morning",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_16880289_golden-hour-farmhouse",
@@ -94,7 +124,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:24:57Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:57Z"
   },
   {
    "id": "S02",
@@ -121,7 +157,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__thumb__coverr_bafkoypmb4_hands-in-soil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__preview__coverr_bafkoypmb4_hands-in-soil.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__strip__coverr_bafkoypmb4_hands-in-soil.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "hands sink into dark wet soil, fingers digging in",
+     "violation": "",
+     "shot": "C",
+     "shoot": "coverr-hands-in-soil",
+     "score": 9.0,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_11902307_lisbon-rooftops",
@@ -133,7 +179,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__thumb__pexels_11902307_lisbon-rooftops.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__preview__pexels_11902307_lisbon-rooftops.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__strip__pexels_11902307_lisbon-rooftops.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "aerial view over red-tiled rooftops of Lisbon",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-lisbon-rooftops",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8718631_pensive-businessman-window",
@@ -145,7 +201,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__thumb__pexels_8718631_pensive-businessman-window.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__preview__pexels_8718631_pensive-businessman-window.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__strip__pexels_8718631_pensive-businessman-window.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man in a suit sips coffee by a window, thoughtful",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-pensive-businessman-window",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_37460428_lisbon-rooftops",
@@ -186,7 +252,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:24:57Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:57Z"
   },
   {
    "id": "S03",
@@ -213,7 +285,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__thumb__pexels_14215801_flower-field-breeze.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__preview__pexels_14215801_flower-field-breeze.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__strip__pexels_14215801_flower-field-breeze.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "wind ruffles a wildflower field of pink and orange blossoms",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-flower-field-breeze",
+     "score": 5.7,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_37904039_carnation-field",
@@ -225,7 +307,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__thumb__pexels_37904039_carnation-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__preview__pexels_37904039_carnation-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__strip__pexels_37904039_carnation-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a pale pink carnation blooms with dew droplets on its petals",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-carnation-field",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_182517_carnation-field",
@@ -237,7 +329,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__thumb__pixabay_182517_carnation-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__preview__pixabay_182517_carnation-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__strip__pixabay_182517_carnation-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a dense field of pink and magenta wildflowers sways gently",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-carnation-field",
+     "score": 5.7,
+     "judged_at": "2026-09-09T17:24:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_38171721_carnation-field",
@@ -289,7 +391,13 @@
     "roses"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:24:57Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:57Z"
   },
   {
    "id": "S04",
@@ -306,7 +414,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__heygen_e78061b00470491e95edf9e8daac27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__heygen_e78061b00470491e95edf9e8daac27.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__strip__heygen_e78061b00470491e95edf9e8daac27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "aerial view of rolling countryside hills and fields at dawn",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-rolling-hills",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "heygen_0a98415eb0ea45d097ba5e7742790e",
@@ -328,7 +446,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__heygen_837ec9664d854b2e81ea56921fb95a.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__heygen_837ec9664d854b2e81ea56921fb95a.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__strip__heygen_837ec9664d854b2e81ea56921fb95a.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "stars glow above a dark silhouette of pine trees at night",
+     "violation": "",
+     "shot": "B",
+     "shoot": "heygen-starry-pines",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "coverr_93o8xv5alh_portugal-coast-aerial",
@@ -340,7 +468,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__coverr_93o8xv5alh_portugal-coast-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__coverr_93o8xv5alh_portugal-coast-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__strip__coverr_93o8xv5alh_portugal-coast-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "aerial shot of dramatic cliffs meeting the ocean at sunset",
+     "violation": "",
+     "shot": "A",
+     "shoot": "coverr-portugal-coast-aerial",
+     "score": 9.0,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_174472_wild-atlantic-coastline",
@@ -352,7 +490,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__pixabay_174472_wild-atlantic-coastline.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__pixabay_174472_wild-atlantic-coastline.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__strip__pixabay_174472_wild-atlantic-coastline.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "waves crash below a rugged coastal cliff jutting into the sea",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-wild-atlantic-coastline",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_283431_starry-night-countryside",
@@ -364,7 +512,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__pixabay_283431_starry-night-countryside.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__pixabay_283431_starry-night-countryside.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__strip__pixabay_283431_starry-night-countryside.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "the Milky Way glows above dark terraced countryside fields",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-starry-night-countryside",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_5678549_starry-night-countryside",
@@ -416,7 +574,8 @@
     "tourist crowds"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S05",
@@ -433,7 +592,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__thumb__coverr_vydinjswe0_carpenter-hands-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__preview__coverr_vydinjswe0_carpenter-hands-working.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__strip__coverr_vydinjswe0_carpenter-hands-working.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a carpenter cuts a wooden plank with a circular saw outdoors",
+     "violation": "",
+     "shot": "B",
+     "shoot": "coverr-carpenter-hands-working",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_31025073_building-wooden-house",
@@ -455,7 +624,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__thumb__pexels_8829526_timber-construction-rural.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__preview__pexels_8829526_timber-construction-rural.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__strip__pexels_8829526_timber-construction-rural.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a carpenter works on a timber-frame roof structure in a forest",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-timber-construction-rural",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7109999_carpenter-hands-working",
@@ -497,7 +676,13 @@
     "hi-vis crowd"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S06",
@@ -524,7 +709,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__pexels_6863600_regenerative-farming-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__pexels_6863600_regenerative-farming-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__pexels_6863600_regenerative-farming-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "close-up of dark soil and decaying leaves with a small worm",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-regenerative-farming-detail",
+     "score": 5.7,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7781741_farmer-hands-soil",
@@ -536,7 +731,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__pexels_7781741_farmer-hands-soil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__pexels_7781741_farmer-hands-soil.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__pexels_7781741_farmer-hands-soil.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands pull on a green gardening glove outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-farmer-hands-soil",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_73847_soil-texture-hands",
@@ -548,7 +753,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__pixabay_73847_soil-texture-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__pixabay_73847_soil-texture-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__pixabay_73847_soil-texture-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a hand cups sandy soil that sifts through the fingers",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-soil-texture-hands",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_33303287_farmer-hands-soil",
@@ -579,7 +794,7 @@
      "page_url": "https://www.pexels.com/video/farmer-tilling-soil-in-outdoor-field-37802037/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V00.mp4",
-     "score": 0,
+     "score": 6.35,
      "categories": [],
      "title": "",
      "query": "someone working land happy farmer alentejo",
@@ -588,7 +803,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man in boots digs into tilled earth with a hand tool",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-farmer-digging-boots",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V01",
@@ -599,7 +823,7 @@
      "page_url": "https://pixabay.com/videos/id-1635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V01.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "worker  shiva  early  morning  people  person  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  farming",
      "query": "someone working land happy farmer alentejo",
@@ -608,7 +832,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a silhouetted figure digs by a riverbank at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-riverside-digger-dusk",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V02",
@@ -619,7 +852,7 @@
      "page_url": "https://www.pexels.com/video/farmer-working-with-machine-in-rice-field-10252661/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V02.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "",
      "query": "someone working land happy farmer alentejo",
@@ -628,7 +861,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a farmer in a straw hat guides a walk-behind tiller by a river",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tiller-strawhat-river",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V03",
@@ -639,7 +881,7 @@
      "page_url": "https://pixabay.com/videos/id-204667/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V03.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "land  construction  machinery",
      "query": "someone working land happy farmer alentejo",
@@ -648,7 +890,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of excavators working a large dirt quarry site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-quarry-excavation",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V04",
@@ -659,7 +910,7 @@
      "page_url": "https://www.pexels.com/video/tractor-mowing-fields-at-twilight-33971961/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V04.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [],
      "title": "",
      "query": "someone working land happy farmer alentejo",
@@ -668,7 +919,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a red tractor mows a hillside field at dusk",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-tractor-mowing-hillside",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V05",
@@ -679,7 +939,7 @@
      "page_url": "https://pixabay.com/videos/id-83895/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V05.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "barley  field  combine  harvest  farmer  loading  summer",
      "query": "someone working land happy farmer alentejo",
@@ -688,7 +948,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a green combine harvester kicks up dust in a large field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-combine-harvester-field",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V06",
@@ -699,7 +968,7 @@
      "page_url": "https://www.pexels.com/video/farmers-harvesting-olives-10636116/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V06.mp4",
-     "score": 0,
+     "score": 5.05,
      "categories": [],
      "title": "",
      "query": "someone working land happy farmer alentejo",
@@ -708,7 +977,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "two men harvest olives from a tree using nets below",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-olive-harvest-orchard",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V07",
@@ -719,7 +997,7 @@
      "page_url": "https://pixabay.com/videos/id-180892/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V07.mp4",
-     "score": 0,
+     "score": 2.7,
      "categories": [],
      "title": "tractor  agriculture  farmer  vegetabes  autumn",
      "query": "someone working land happy farmer alentejo",
@@ -728,7 +1006,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "aerial top-down view of a tractor towing equipment through a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-tractor-field",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V08",
@@ -739,7 +1026,7 @@
      "page_url": "https://www.pexels.com/video/a-farmer-ploughing-a-field-with-a-tractor-17488267/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V08.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [],
      "title": "",
      "query": "someone working land happy farmer alentejo",
@@ -748,7 +1035,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a green tractor pulls a hay rake across a sunlit field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tractor-hayrake-field",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-module1-S06-V09",
@@ -759,7 +1055,7 @@
      "page_url": "https://pixabay.com/videos/id-83897/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__preview__belong-module1-S06-V09.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "barley  field  combine  harvest  farmer  loading  summer",
      "query": "someone working land happy farmer alentejo",
@@ -768,7 +1064,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "aerial wide shot of a combine harvester working a wheat field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-combine-aerial-wide",
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 11,
+     "shown": false
     }
    ],
    "shots": [
@@ -800,7 +1105,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S07",
@@ -837,7 +1148,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_31846104_eco-resort-nature-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__preview__pexels_31846104_eco-resort-nature-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__strip__pexels_31846104_eco-resort-nature-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "aerial view of a row of green-roofed villas nestled in dense forest",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-eco-resort-nature-aerial",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_32092702_orchard-aerial-view",
@@ -849,7 +1170,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_32092702_orchard-aerial-view.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__preview__pexels_32092702_orchard-aerial-view.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__strip__pexels_32092702_orchard-aerial-view.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "aerial view of a village with houses scattered among orchards and fields",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-orchard-aerial-view",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_33749474_farm-estate-aerial",
@@ -861,7 +1192,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_33749474_farm-estate-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__preview__pexels_33749474_farm-estate-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__strip__pexels_33749474_farm-estate-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial view of a countryside estate with houses, a pool and forest",
+     "violation": "resort pool",
+     "shot": "A",
+     "shoot": "pexels-farm-estate-aerial",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_33790877_orchard-aerial-view",
@@ -903,7 +1244,13 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S08",
@@ -930,7 +1277,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__thumb__pexels_12444633_wooden-boardwalk-nature.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__preview__pexels_12444633_wooden-boardwalk-nature.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__strip__pexels_12444633_wooden-boardwalk-nature.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "ground-level view along a wooden boardwalk toward a golden marsh at sunset",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-wooden-boardwalk-nature",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_17717619_raised-walkway-forest",
@@ -942,7 +1299,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__thumb__pexels_17717619_raised-walkway-forest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__preview__pexels_17717619_raised-walkway-forest.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__strip__pexels_17717619_raised-walkway-forest.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a wooden boardwalk winds through a shaded forest wetland",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-raised-walkway-forest",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_35650634_eco-lodge-walkway",
@@ -954,7 +1321,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__thumb__pexels_35650634_eco-lodge-walkway.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__preview__pexels_35650634_eco-lodge-walkway.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__strip__pexels_35650634_eco-lodge-walkway.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial view of thatched-roof bungalows connected by curved walkways",
+     "violation": "luxury villa",
+     "shot": "C",
+     "shoot": "pexels-eco-lodge-walkway",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pixabay_1839000_boardwalk-through-grass",
@@ -996,7 +1373,13 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S09",
@@ -1023,7 +1406,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__thumb__pexels_34817022_olive-grove-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__preview__pexels_34817022_olive-grove-golden-hour.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__strip__pexels_34817022_olive-grove-golden-hour.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "aerial drone flight low over olive trees at golden hour",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-olive-grove-golden-hour",
+     "score": 5.7,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_9153871_alentejo-golden-light",
@@ -1035,7 +1428,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__thumb__pexels_9153871_alentejo-golden-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__preview__pexels_9153871_alentejo-golden-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__strip__pexels_9153871_alentejo-golden-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "golden backlit wildflowers sway in a sunlit field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-alentejo-golden-light",
+     "score": 4.75,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_212476_man-walking-olive-trees",
@@ -1047,7 +1450,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__thumb__pixabay_212476_man-walking-olive-trees.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__preview__pixabay_212476_man-walking-olive-trees.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__strip__pixabay_212476_man-walking-olive-trees.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man walks alone away from camera through a sunlit forest path",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-man-walking-olive-trees",
+     "score": 6.65,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_27295308_man-walking-olive-trees",
@@ -1099,7 +1512,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   },
   {
    "id": "S10",
@@ -1116,7 +1535,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__thumb__pexels_4911914_fresh-eggs-basket.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__preview__pexels_4911914_fresh-eggs-basket.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__strip__pexels_4911914_fresh-eggs-basket.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 9,
+     "caption": "a hand picks fresh eggs from a straw-lined basket",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-fresh-eggs-basket",
+     "score": 7.05,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5101557_child-running-joy-field",
@@ -1128,7 +1557,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__thumb__pexels_5101557_child-running-joy-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__preview__pexels_5101557_child-running-joy-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__strip__pexels_5101557_child-running-joy-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a joyful child runs through a grassy field with her mother nearby",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-child-running-joy-field",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:24:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7003013_child-collecting-eggs",
@@ -1190,7 +1629,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:24:58Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:24:58Z"
   }
  ]
 }
