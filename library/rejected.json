@@ -1129,9 +1129,9 @@
  },
  "pixabay:1303": {
   "brand": "belong",
-  "reason": "luxury spa cliches",
-  "at": "2026-09-09T17:15:33Z",
-  "from": "belong-module10/S09"
+  "reason": "resort pool",
+  "at": "2026-09-09T18:08:03Z",
+  "from": "belong-module9/S01"
  },
  "pexels:10657769": {
   "brand": "belong",
@@ -1262,8 +1262,8 @@
  "pexels:7820514": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T17:35:56Z",
-  "from": "belong-module11/S02"
+  "at": "2026-09-09T18:14:20Z",
+  "from": "belong-module9/S02"
  },
  "pexels:7820478": {
   "brand": "belong",
@@ -1304,8 +1304,8 @@
  "pexels:7820469": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T17:35:56Z",
-  "from": "belong-module11/S09"
+  "at": "2026-09-09T18:14:20Z",
+  "from": "belong-module9/S02"
  },
  "pexels:7820474": {
   "brand": "belong",
@@ -1612,5 +1612,65 @@
   "reason": "construction and building trades",
   "at": "2026-09-09T17:59:53Z",
   "from": "belong-module8/S11"
+ },
+ "pexels:8102650": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-09T18:06:46Z",
+  "from": "belong-module9/S12"
+ },
+ "pexels:8103023": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-09T18:06:46Z",
+  "from": "belong-module9/S12"
+ },
+ "pexels:7578644": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-09T18:06:46Z",
+  "from": "belong-module9/S12"
+ },
+ "pixabay:21120": {
+  "brand": "belong",
+  "reason": "corporate hotel chains",
+  "at": "2026-09-09T18:08:03Z",
+  "from": "belong-module9/S01"
+ },
+ "pixabay:202392": {
+  "brand": "belong",
+  "reason": "resort pool",
+  "at": "2026-09-09T18:08:03Z",
+  "from": "belong-module9/S01"
+ },
+ "pixabay:31290": {
+  "brand": "belong",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:09:31Z",
+  "from": "belong-module9/S07"
+ },
+ "pexels:7651531": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T18:12:12Z",
+  "from": "belong-module9/S10"
+ },
+ "pixabay:51807": {
+  "brand": "belong",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:12:12Z",
+  "from": "belong-module9/S10"
+ },
+ "pixabay:85347": {
+  "brand": "belong",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:12:12Z",
+  "from": "belong-module9/S10"
+ },
+ "pexels:7820833": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T18:15:41Z",
+  "from": "belong-module9/S04"
  }
 }
