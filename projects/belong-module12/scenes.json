@@ -1314,7 +1314,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__thumb__pexels_5971599_two-coworkers-honest-conversatio.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__preview__pexels_5971599_two-coworkers-honest-conversatio.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__strip__pexels_5971599_two-coworkers-honest-conversatio.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two coworkers talk calmly near an office coffee station",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-coworkers-coffee-station-calm",
+     "score": 4.65,
+     "judged_at": "2026-09-09T17:44:30Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6816117_waiter-talking-with-restaurant-m",
@@ -1326,7 +1336,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__thumb__pexels_6816117_waiter-talking-with-restaurant-m.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__preview__pexels_6816117_waiter-talking-with-restaurant-m.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__strip__pexels_6816117_waiter-talking-with-restaurant-m.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a waiter takes an order from seated guests at an elegant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-waiter-order-elegant-table",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:44:30Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7845412_young-employee-talking-manager-c",
@@ -1348,7 +1368,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__thumb__pexels_8135155_reassuring-manager-listening.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__preview__pexels_8135155_reassuring-manager-listening.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__strip__pexels_8135155_reassuring-manager-listening.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "two people share a calm close conversation against a plain wall",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-calm-closeup-conversation",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:44:30Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_202135_young-employee-talking-manager-c",
@@ -1360,7 +1390,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__thumb__pixabay_202135_young-employee-talking-manager-c.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__preview__pixabay_202135_young-employee-talking-manager-c.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__strip__pixabay_202135_young-employee-talking-manager-c.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a distressed woman sits at a desk as a man stands over her in an office",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-tense-office-desk-distress",
+     "score": 1.0,
+     "judged_at": "2026-09-09T17:44:30Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5324913_reassuring-manager-listening",
@@ -1403,7 +1443,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:44:30Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:44:30Z"
   },
   {
    "id": "S06",
