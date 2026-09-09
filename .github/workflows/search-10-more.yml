@@ -68,7 +68,9 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           COVERR_API_KEY:  ${{ secrets.COVERR_API_KEY }}
           TOPUP_VIDEOS: '10'
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # release uploads (previews live on Releases)
         run: |
+          set -o pipefail
           python tools/topup_bot.py | tee /tmp/bot.log
           echo "added=$(grep -oP 'TOTAL_ADDED=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
           echo "left=$(grep -oP 'LEFT=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
