@@ -295,7 +295,12 @@ NOTE_NOISE = {"please", "pls", "plz", "generate", "generates", "generated", "mor
               "relevant", "related", "at", "all", "for", "the", "in", "of", "to", "and", "do", "we", "need",
               "needs", "want", "brolls", "broll", "videos", "video", "clips", "clip", "footage", "ones", "one",
               "some", "again", "still", "it", "its", "they", "them", "wrong", "different", "direction",
-              "ten", "10", "other", "others", "new", "fresh", "get", "give", "find", "search", "make", "with"}
+              "ten", "10", "other", "others", "new", "fresh", "get", "give", "find", "search", "make", "with",
+              "delete", "dellete", "deltele", "remove", "replace", "regenerate", "regeeratre", "dont", "don",
+              "like", "any", "says", "say", "can", "could", "you", "cmon", "mon", "man", "oh", "theese",
+              "pleaes", "plese", "mre", "moer", "mor", "out", "there", "here", "complete", "explaing",
+              "explaining", "situation", "situations", "describes", "describe", "script", "lines", "line",
+              "read", "well", "from", "than", "very", "really", "just", "also", "have", "has", "been"}
 
 def _content(words):
     """Only the words that name footage — request filler (please, 10 more, not
