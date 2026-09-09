@@ -177,7 +177,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__thumb__pexels_35036265_farmer-tending-organic-garden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__preview__pexels_35036265_farmer-tending-organic-garden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__strip__pexels_35036265_farmer-tending-organic-garden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "a farmer waters a row of leafy green vegetables in a sunny garden",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-farmer-tending-organic-garden",
+     "score": 8.35,
+     "judged_at": "2026-09-09T17:35:17Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7944616_hands-cupping-young-plant",
@@ -189,7 +199,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__thumb__pexels_7944616_hands-cupping-young-plant.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__preview__pexels_7944616_hands-cupping-young-plant.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__strip__pexels_7944616_hands-cupping-young-plant.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "hands cup a small seedling above bare soil against a plain backdrop",
+     "violation": "seedling in cupped hands cliché",
+     "shot": "",
+     "shoot": "pexels-hands-cupping-young-plant",
+     "score": 1.3,
+     "judged_at": "2026-09-09T17:35:17Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_9737847_hands-planting-seedling-soil-gol",
@@ -201,7 +221,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__thumb__pexels_9737847_hands-planting-seedling-soil-gol.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__preview__pexels_9737847_hands-planting-seedling-soil-gol.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__strip__pexels_9737847_hands-planting-seedling-soil-gol.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands tuck a small seedling into a hole in black mulch sheeting",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hands-planting-seedling-mulch",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:35:17Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_73847_hands-cupping-young-plant",
@@ -213,7 +243,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__thumb__pixabay_73847_hands-cupping-young-plant.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__preview__pixabay_73847_hands-cupping-young-plant.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__strip__pixabay_73847_hands-cupping-young-plant.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "sand falls through an open hand outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-soil-texture-hands",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:35:17Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_32705897_farmer-tending-organic-garden",
@@ -275,7 +315,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:35:17Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:35:17Z"
   },
   {
    "id": "S03",
