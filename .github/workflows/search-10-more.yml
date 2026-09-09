@@ -30,6 +30,7 @@ jobs:
           sparse-checkout: |
             selections
             tools
+            library
             .github
           sparse-checkout-cone-mode: true
 
