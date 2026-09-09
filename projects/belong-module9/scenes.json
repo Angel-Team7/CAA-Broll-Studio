@@ -11077,7 +11077,7 @@
      "page_url": "https://pixabay.com/videos/id-11657/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V01.mp4",
-     "score": 15.16,
+     "score": 2.4,
      "categories": [
       "chef",
       "cooking",
@@ -11087,7 +11087,16 @@
      "title": "cooking  prawn  in  sauce  food  seafood  shrimp  meal  cuisine  dinner  fresh  restaurant  nutrition  healthy  dish  ki",
      "query": "chef presenting dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "Shrimp simmer in a tomato sauce in a pan",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-shrimp-sauce-pan",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V02",
@@ -11098,7 +11107,7 @@
      "page_url": "https://www.pexels.com/video/two-men-in-aprons-cooking-in-a-kitchen-4253329/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V02.mp4",
-     "score": 14.54,
+     "score": 2.35,
      "categories": [
       "cooking",
       "kitchen"
@@ -11106,7 +11115,16 @@
      "title": "video two men aprons cooking kitchen",
      "query": "chef presenting dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Two chefs plate a dish together in a restaurant kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chefs-plating-kitchen",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V03",
@@ -11117,7 +11135,7 @@
      "page_url": "https://pixabay.com/videos/id-11606/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V03.mp4",
-     "score": 14.14,
+     "score": 1.75,
      "categories": [
       "chef",
       "cooking",
@@ -11127,7 +11145,16 @@
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh",
      "query": "chef presenting dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "Hands chop garlic on a wooden cutting board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chop-garlic-board",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V04",
@@ -11138,7 +11165,7 @@
      "page_url": "https://pixabay.com/videos/id-105775/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V04.mp4",
-     "score": 13.36,
+     "score": 0.65,
      "categories": [
       "chef",
       "table",
@@ -11147,7 +11174,16 @@
      "title": "staff  presenting food  dish  vegetable  delicious  service boy  chef",
      "query": "chef presenting dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Masked man packs a takeout box at a food stall",
+     "violation": "face masks, fast food",
+     "shot": "",
+     "shoot": "pexels-masked-takeout-foodstall",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V05",
@@ -11158,14 +11194,23 @@
      "page_url": "https://www.pexels.com/video/a-person-is-preparing-food-on-plates-in-a-kitchen-19905870/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V05.mp4",
-     "score": 12.74,
+     "score": 2.35,
      "categories": [
       "kitchen"
      ],
      "title": "video person preparing food plates kitchen",
      "query": "chef presenting dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Hand garnishes a plate with a folded cloth",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-garnish-plate-cloth",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V06",
@@ -11192,14 +11237,23 @@
      "page_url": "https://pixabay.com/videos/id-132583/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V07.mp4",
-     "score": 12.16,
+     "score": 1.75,
      "categories": [
       "harvest"
      ],
      "title": "grapes  blue  wine harvest  wine growing  grapevine  fruit  food  rebstock  nature",
      "query": "waiter pouring wine guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "Dark grapes hang on the vine in a vineyard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-grapes-vine-vineyard",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V08",
@@ -11210,7 +11264,7 @@
      "page_url": "https://www.pexels.com/video/delicious-plating-of-steak-with-vegetables-30861243/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V08.mp4",
-     "score": 15.9,
+     "score": 3.0,
      "categories": [
       "table",
       "vegetable"
@@ -11218,7 +11272,16 @@
      "title": "video delicious plating steak with vegetables",
      "query": "chef bringing dish to table restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "Server arranges plates of roast beef on a banquet table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-banquet-roast-plates",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V10",
@@ -11229,14 +11292,23 @@
      "page_url": "https://www.pexels.com/video/a-chef-is-preparing-food-on-plates-19905887/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V10.mp4",
-     "score": 15.1,
+     "score": 2.35,
      "categories": [
       "chef"
      ],
      "title": "video chef preparing food plates",
      "query": "chef bringing dish to table restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Chef garnishes a row of plated dishes in a kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-plating-row",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V11",
@@ -11247,7 +11319,7 @@
      "page_url": "https://pixabay.com/videos/id-227128/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V11.mp4",
-     "score": 15.0,
+     "score": 1.4,
      "categories": [
       "cooking",
       "meal"
@@ -11255,7 +11327,16 @@
      "title": "lunch  food  dinner  meal  cooking  restaurant  breakfast  sandwich  delicious  dish",
      "query": "chef bringing dish to table restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "Fork lifts a piece of salmon from a kale salad",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-salmon-salad-fork",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V13",
@@ -11266,12 +11347,21 @@
      "page_url": "https://www.pexels.com/video/surf-and-turf-19049694/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V13.mp4",
-     "score": 14.1,
+     "score": 3.0,
      "categories": [],
      "title": "video surf and turf",
      "query": "chef bringing dish to table restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "Small plates of shrimp appetizer sit ready on a counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-shrimp-appetizer-plates",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-V14",
@@ -11282,12 +11372,21 @@
      "page_url": "https://www.pexels.com/video/man-seasoning-dumplings-8094301/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-m9-S08-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-m9-S08-V14.mp4",
-     "score": 14.1,
+     "score": 2.35,
      "categories": [],
      "title": "video man seasoning dumplings",
      "query": "chef bringing dish to table restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-m9-S08-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Bald chef plates food beside bamboo steamers in a dark kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-bamboo-steamer-plate",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S08-I01",
@@ -11408,7 +11507,7 @@
      "page_url": "https://www.pexels.com/video/suburban-houses-during-winter-snowfall-30040485/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V15.mp4",
-     "score": 0,
+     "score": 5.3,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11417,7 +11516,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "Man in a blazer opens a bottle of wine with a corkscrew",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-wine-corkscrew-blazer",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-module9-S08-V16",
@@ -11428,7 +11536,7 @@
      "page_url": "https://www.pexels.com/video/a-snowstorm-in-a-rural-area-14867477/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V16.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11437,7 +11545,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Excavator digs at a demolition site beside apartment blocks",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-excavator-demolition-site",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V17",
@@ -11448,7 +11565,7 @@
      "page_url": "https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-37874112/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V17.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11457,7 +11574,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Row of beer taps lines a dim bar counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-beer-taps-bar",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V18",
@@ -11468,7 +11594,7 @@
      "page_url": "https://www.pexels.com/video/a-man-talking-in-microphone-6878208/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V18.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11477,7 +11603,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Spinning buffer pad polishes a wooden floor edge",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-floor-buffer-polish",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V19",
@@ -11488,7 +11623,7 @@
      "page_url": "https://www.pexels.com/video/wooden-houses-in-a-winter-landscape-11272968/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V19.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11497,7 +11632,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Masked woman in a red blazer stands near a reception sign",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-woman-reception-sign",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V20",
@@ -11508,7 +11652,7 @@
      "page_url": "https://www.pexels.com/video/couple-drinking-together-6262591/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V20.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11517,7 +11661,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Man uses a chainsaw to cut logs outdoors",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-chainsaw-logs-outdoor",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V21",
@@ -11528,7 +11681,7 @@
      "page_url": "https://www.pexels.com/video/heavy-snow-fall-covering-a-forest-home-4419948/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V21.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11537,7 +11690,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "Bartender shakes a cocktail behind a bar counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bartender-shaker-counter",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V22",
@@ -11548,7 +11710,7 @@
      "page_url": "https://www.pexels.com/video/scenic-alpine-house-with-smoky-chimney-28638518/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11557,7 +11719,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Man uses a chainsaw to cut a tree branch in a city lot",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-chainsaw-branch-urban",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V23",
@@ -11568,7 +11739,7 @@
      "page_url": "https://www.pexels.com/video/snow-covering-the-suburb-surroundings-6034872/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V23.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11577,7 +11748,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Bellhop in red uniform pushes a cart of white gift boxes",
+     "violation": "corporate hotel chains, luxury",
+     "shot": "",
+     "shoot": "pixabay-bellhop-cart-giftboxes",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S08-V24",
@@ -11588,7 +11768,7 @@
      "page_url": "https://www.pexels.com/video/person-with-dog-waving-to-camera-in-winter-11273554/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__preview__belong-module9-S08-V24.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "guesthouse host bigger expected cold",
@@ -11597,7 +11777,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S08__strip__belong-module9-S08-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Worker in a vest operates farm machinery outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-farm-machinery-worker",
+     "judged_at": "2026-09-09T16:47:46Z",
+     "rank": 16,
+     "shown": false
     }
    ],
    "shots": [
@@ -11636,7 +11825,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T16:47:46Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:47:46Z"
   },
   {
    "id": "S13",
