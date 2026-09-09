@@ -493,9 +493,9 @@
  },
  "pixabay:31869": {
   "brand": "belong",
-  "reason": "construction and building trades, corporate hotel chain",
-  "at": "2026-09-09T16:31:57Z",
-  "from": "belong-module9/S07"
+  "reason": "construction and building trades",
+  "at": "2026-09-09T17:31:53Z",
+  "from": "belong-module10/S13"
  },
  "pexels:7820471": {
   "brand": "belong",
@@ -517,9 +517,9 @@
  },
  "pixabay:102952": {
   "brand": "belong",
-  "reason": "luxury palace hotel",
-  "at": "2026-09-09T16:31:57Z",
-  "from": "belong-module9/S07"
+  "reason": "corporate hotel chains",
+  "at": "2026-09-09T17:31:53Z",
+  "from": "belong-module10/S13"
  },
  "pexels:7820835": {
   "brand": "belong",
@@ -529,9 +529,9 @@
  },
  "pixabay:223171": {
   "brand": "belong",
-  "reason": "corporate office",
-  "at": "2026-09-09T16:31:57Z",
-  "from": "belong-module9/S07"
+  "reason": "construction and building trades",
+  "at": "2026-09-09T17:31:53Z",
+  "from": "belong-module10/S13"
  },
  "pixabay:https://pixabay.com/videos/id-31772/": {
   "brand": "belong",
@@ -1198,5 +1198,11 @@
   "reason": "face masks",
   "at": "2026-09-09T17:28:35Z",
   "from": "belong-module6/S10"
+ },
+ "pexels:4675134": {
+  "brand": "belong",
+  "reason": "corporate slogans",
+  "at": "2026-09-09T17:31:53Z",
+  "from": "belong-module10/S13"
  }
 }

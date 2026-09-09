@@ -4118,7 +4118,7 @@
      "shot": "",
      "shoot": "pixabay-rebar-grinder",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 15,
+     "rank": 16,
      "shown": false
     },
     {
@@ -4358,7 +4358,7 @@
      "shot": "",
      "shoot": "pexels-wash-vegetables-a",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 16,
+     "rank": 17,
      "shown": false
     },
     {
@@ -4383,7 +4383,7 @@
      "shot": "",
      "shoot": "pexels-wash-vegetables-b",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 17,
+     "rank": 18,
      "shown": false
     },
     {
@@ -4585,7 +4585,7 @@
      "page_url": "https://pixabay.com/videos/id-20122/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V16.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "to learn  report  school  university  laboratory  calculate  maths  people  information  pencil  note  time lapse",
      "query": "Report every leak guest",
@@ -4594,7 +4594,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hands work through calculations with a calculator on a desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-calculator-desk-math",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V17",
@@ -4651,7 +4660,7 @@
      "shot": "",
      "shoot": "pixabay-tropical-pool-walk",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 18,
+     "rank": 19,
      "shown": false
     },
     {
@@ -4709,7 +4718,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool-swim",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 19,
+     "rank": 20,
      "shown": false
     },
     {
@@ -4767,7 +4776,7 @@
      "shot": "",
      "shoot": "pixabay-office-handshake",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 20,
+     "rank": 21,
      "shown": false
     },
     {
@@ -4796,7 +4805,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-mask",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 21,
+     "rank": 22,
      "shown": false
     },
     {
@@ -4825,7 +4834,7 @@
      "shot": "",
      "shoot": "pixabay-welcome-text-graphic",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 22,
+     "rank": 23,
      "shown": false
     }
    ],
@@ -4868,10 +4877,10 @@
    "shots_at": "2026-09-09T14:27:14Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T17:18:42Z",
+    "at": "2026-09-09T17:31:53Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:18:42Z"
+   "judged_at": "2026-09-09T17:31:53Z"
   },
   {
    "id": "S07",
@@ -5182,7 +5191,7 @@
      "page_url": "https://pixabay.com/videos/id-43637/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V01.mp4",
-     "score": 11.82,
+     "score": 6.0,
      "categories": [
       "countryside",
       "outdoor",
@@ -5191,7 +5200,16 @@
      "title": "boots  shoes  puddle  walk  walking  rubber boots  yellow  countryside  outdoors  rain  muddy  ground  nature  soil  mud",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "green rubber boots splash through a muddy puddle",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-rubber-boots-puddle-splash",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V02",
@@ -5202,12 +5220,21 @@
      "page_url": "https://pixabay.com/videos/id-89769/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V02.mp4",
-     "score": 6.51,
+     "score": 2.4,
      "categories": [],
      "title": "desert  drought  muddy  river",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial view of a cracked dry riverbed winding through earth",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-cracked-earth-channel",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V03",
@@ -5218,12 +5245,21 @@
      "page_url": "https://pixabay.com/videos/id-143788/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V03.mp4",
-     "score": 6.51,
+     "score": 2.05,
      "categories": [],
      "title": "river  water  trees  flowing  flowing river  muddy  muddy river  riverbank  nature",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a muddy river winds past autumn trees under a cloudy sky",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-muddy-river-autumn",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V04",
@@ -5234,12 +5270,21 @@
      "page_url": "https://pixabay.com/videos/id-1028/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V04.mp4",
-     "score": 4.18,
+     "score": 1.05,
      "categories": [],
      "title": "homework  girl  student  laptop  study  studying  notebook  work  fan  chair  desk  concentrated  concentrating  educati",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a woman works on a laptop near a vintage fan indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-laptop-fan",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V05",
@@ -5250,14 +5295,23 @@
      "page_url": "https://pixabay.com/videos/id-87593/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V05.mp4",
-     "score": 2.38,
+     "score": 0.7,
      "categories": [
       "working"
      ],
      "title": "work  office  people  working  discussing  meeting",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "three colleagues review papers around a laptop at a table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-office-meeting-laptop",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V06",
@@ -5268,12 +5322,21 @@
      "page_url": "https://pixabay.com/videos/id-87592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V06.mp4",
-     "score": 1.18,
+     "score": 3.0,
      "categories": [],
      "title": "work  office  people  write  office work  pencils  crayon",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand writes with a pencil on paper beside a laptop",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-hand-writing-notebook-laptop",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V07",
@@ -5284,14 +5347,23 @@
      "page_url": "https://pixabay.com/videos/id-10822/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V07.mp4",
-     "score": -1.29,
+     "score": 0.7,
      "categories": [
       "working"
      ],
      "title": "keyboard  typing  writing  notebook  computer  technology  laptop  business  internet  work  office  person  hand  commu",
      "query": "muddy work boots",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "close-up of hands typing on a laptop keyboard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-typing-laptop-keyboard",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V08",
@@ -5302,7 +5374,7 @@
      "page_url": "https://www.pexels.com/video/rural-farmer-harvesting-rice-in-field-34842121/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V08.mp4",
-     "score": 23.03,
+     "score": 4.4,
      "categories": [
       "farm",
       "farmer",
@@ -5313,7 +5385,16 @@
      "title": "video rural farmer harvesting rice field",
      "query": "farm worker taking off gloves",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a worker crouches cutting grain by hand in a windy field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-farmer-harvesting-wheat-hand",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V09",
@@ -5324,7 +5405,7 @@
      "page_url": "https://www.pexels.com/video/woman-working-on-rural-field-10041364/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V09.mp4",
-     "score": 19.43,
+     "score": 4.4,
      "categories": [
       "field",
       "rural",
@@ -5333,7 +5414,16 @@
      "title": "video woman working rural field",
      "query": "farm worker taking off gloves",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a worker in gloves plants seedlings in a freshly tilled field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-farmworker-planting-field",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V10",
@@ -5344,7 +5434,7 @@
      "page_url": "https://www.pexels.com/video/tractor-harvesting-at-sunrise-in-open-field-38344768/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V10.mp4",
-     "score": 19.39,
+     "score": 4.05,
      "categories": [
       "field",
       "harvest",
@@ -5353,7 +5443,16 @@
      "title": "video tractor harvesting sunrise open field",
      "query": "farmer walking field sunset tired",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a tractor sits in a golden field as the sun sets",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-tractor-sunset-field",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V13",
@@ -5364,7 +5463,7 @@
      "page_url": "https://pixabay.com/videos/id-217760/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V13.mp4",
-     "score": 18.39,
+     "score": 2.4,
      "categories": [
       "farm",
       "farmer",
@@ -5376,7 +5475,16 @@
      "title": "field  sunset  netherlands  drenthe  havelte  rural  farmer  summer  outdoors  nature  landscape",
      "query": "farmer walking field sunset tired",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial view of a dirt road cutting through a green field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-green-field-road",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-V14",
@@ -5387,7 +5495,7 @@
      "page_url": "https://pixabay.com/videos/id-217753/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-m10-S13-V14.mp4",
-     "score": 18.39,
+     "score": 2.4,
      "categories": [
       "farm",
       "farmer",
@@ -5399,7 +5507,16 @@
      "title": "field  car  netherlands  drenthe  havelte  rural  nature  farmer  sunset  summer  outdoors  traffic  landscape",
      "query": "farmer walking field sunset tired",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-m10-S13-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial view of a plowed field beside a country road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-green-field-plowed",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m10-S13-I01",
@@ -5520,7 +5637,7 @@
      "page_url": "https://www.pexels.com/video/passing-by-stores-6014469/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V15.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Numbers boots place",
@@ -5529,7 +5646,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a city street glows with shopfronts and modern apartments at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-street-dusk-storefronts",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V16",
@@ -5540,7 +5666,7 @@
      "page_url": "https://pixabay.com/videos/id-65807/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V16.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "dice  points  roll the dice  to play  toy  random  number  random number  hobby  win  risk  chance  board game  happiness  gambling  headlights  light  block  geometric  body  rectangular  side surface  team  pixworm  participate",
      "query": "hotel staff Numbers boots place",
@@ -5549,7 +5675,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a white die rolls and settles against a black background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dice-rolling-black-bg",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V17",
@@ -5560,7 +5695,7 @@
      "page_url": "https://www.pexels.com/video/bellboy-walking-in-corridor-and-knocking-on-room-door-5372872/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V17.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Numbers boots place",
@@ -5569,7 +5704,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a figure walks down a formal hotel corridor with framed art",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hotel-corridor-art",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V18",
@@ -5580,7 +5724,7 @@
      "page_url": "https://pixabay.com/videos/id-7676/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V18.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "market place  shopping mall  trade  barcelona  secondhand  spain  people  fashion  europe  tourism  spanish  european  town  tourists",
      "query": "Numbers boots place guest",
@@ -5589,7 +5733,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "shoppers browse racks of clothes at a crowded indoor market",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-indoor-flea-market-crowd",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V19",
@@ -5600,7 +5753,7 @@
      "page_url": "https://www.pexels.com/video/dynamic-off-road-motorcycle-action-shot-34616224/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V19.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Numbers boots place",
@@ -5609,7 +5762,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "close-up of a dirt bike boot and rear wheel on grass",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dirtbike-boot-wheel",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V20",
@@ -5620,7 +5782,7 @@
      "page_url": "https://pixabay.com/videos/id-31869/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V20.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "city  kampala  uganda  africa  country  hotel  aerial  view  capital",
      "query": "hotel staff shift better because",
@@ -5629,7 +5791,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a city skyline with a building under construction",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-aerial-city-kampala-construction",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V21",
@@ -5640,7 +5811,7 @@
      "page_url": "https://www.pexels.com/video/relaxing-evening-in-a-modern-hotel-room-34402444/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V21.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Numbers boots place",
@@ -5649,7 +5820,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a person lies on a bed in a modern hotel room with a TV on",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hotel-room-bed-tv",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V22",
@@ -5660,7 +5840,7 @@
      "page_url": "https://pixabay.com/videos/id-223171/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "buildings  hotels  city  modern  facade  urban  architecture",
      "query": "hotel staff shift better because",
@@ -5669,7 +5849,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a modern office complex with a construction crane",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-aerial-office-complex-crane",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V23",
@@ -5680,7 +5869,7 @@
      "page_url": "https://www.pexels.com/video/video-footage-of-downtown-4675134/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V23.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Numbers boots place",
@@ -5689,7 +5878,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a red bus with a corporate ad slogan passes shopfronts on a city street",
+     "violation": "corporate slogans",
+     "shot": "",
+     "shoot": "pexels-street-marks-spencer-bus-slogan",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module10-S13-V24",
@@ -5700,7 +5898,7 @@
      "page_url": "https://pixabay.com/videos/id-102952/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-module10-S13-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__preview__belong-module10-S13-V24.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "palace  hotel  building  architecture  scotland  atholl",
      "query": "hotel staff shift better because",
@@ -5709,7 +5907,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__strip__belong-module10-S13-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a grand castle hotel surrounded by forest",
+     "violation": "corporate hotel chains",
+     "shot": "",
+     "shoot": "pixabay-castle-hotel-aerial-scotland",
+     "judged_at": "2026-09-09T17:31:53Z",
+     "rank": 22,
+     "shown": false
     }
    ],
    "shots": [
@@ -5748,7 +5955,13 @@
     "resort pool"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:31:53Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:31:53Z"
   }
  ],
  "title": "Belong — Module 10: Daily Sustainability",
