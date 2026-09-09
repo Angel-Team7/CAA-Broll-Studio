@@ -1964,8 +1964,8 @@
  "pixabay:https://pixabay.com/videos/id-40816/": {
   "brand": "edenrise",
   "reason": "crowds doing the same manual task",
-  "at": "2026-09-09T18:49:32Z",
-  "from": "communication-dont-assume-clarify-v2/S05"
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
  },
  "pexels:https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/": {
   "brand": "edenrise",
@@ -2275,9 +2275,9 @@
  },
  "pixabay:42923": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T18:43:54Z",
-  "from": "be-a-lifelong-learner-v2/S10"
+  "reason": "not in brand world, large-scale urban rooftop",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
  },
  "pexels:8170549": {
   "brand": "edenrise",
@@ -2311,9 +2311,9 @@
  },
  "pixabay:42922": {
   "brand": "edenrise",
-  "reason": "large-scale high-rise development, wrong world entirely",
-  "at": "2026-09-09T18:47:40Z",
-  "from": "be-a-lifelong-learner-v2/S13"
+  "reason": "large-scale urban development, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
  },
  "pexels:4336046": {
   "brand": "edenrise",
@@ -2362,5 +2362,137 @@
   "reason": "hi-vis crowd",
   "at": "2026-09-09T18:49:32Z",
   "from": "communication-dont-assume-clarify-v2/S13"
+ },
+ "pexels:https://www.pexels.com/video/scenic-aerial-view-of-frosty-countryside-at-dawn-36300481/": {
+  "brand": "edenrise",
+  "reason": "no worker visible",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pexels:https://www.pexels.com/video/a-backhoe-on-a-construction-site-5348782/": {
+  "brand": "edenrise",
+  "reason": "large urban commercial site, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pixabay:https://pixabay.com/videos/id-59291/": {
+  "brand": "edenrise",
+  "reason": "no worker visible",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pexels:34831851": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pixabay:42925": {
+  "brand": "edenrise",
+  "reason": "not in brand world, large-scale urban rooftop",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pexels:34631089": {
+  "brand": "edenrise",
+  "reason": "large-scale urban development, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pexels:10491260": {
+  "brand": "edenrise",
+  "reason": "large-scale commercial site, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S01"
+ },
+ "pexels:https://www.pexels.com/video/a-teenager-and-his-grandfather-chopping-wood-together-10398173/": {
+  "brand": "edenrise",
+  "reason": "casual family backyard setting, not a work site",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S04"
+ },
+ "pexels:https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/": {
+  "brand": "edenrise",
+  "reason": "large industrial commercial structure, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S04"
+ },
+ "pexels:https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/": {
+  "brand": "edenrise",
+  "reason": "large industrial commercial structure, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S04"
+ },
+ "pexels:https://www.pexels.com/video/constrution-site-17268397/": {
+  "brand": "edenrise",
+  "reason": "large-scale subdivision site",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pexels:https://www.pexels.com/video/a-man-wearing-hoodie-jacket-on-the-street-3953465/": {
+  "brand": "edenrise",
+  "reason": "hoodie (gangster signifier), urban street",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pexels:https://www.pexels.com/video/man-and-woman-walking-on-a-construction-site-8964933/": {
+  "brand": "edenrise",
+  "reason": "large-scale urban development, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pixabay:https://pixabay.com/videos/id-121409/": {
+  "brand": "edenrise",
+  "reason": "large-scale urban development, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pixabay:263961": {
+  "brand": "edenrise",
+  "reason": "not in brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pexels:8964377": {
+  "brand": "edenrise",
+  "reason": "large industrial commercial structure, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pixabay:3608": {
+  "brand": "edenrise",
+  "reason": "not in brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pixabay:3612": {
+  "brand": "edenrise",
+  "reason": "unrelated craft, not in brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pixabay:818": {
+  "brand": "edenrise",
+  "reason": "not in brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S05"
+ },
+ "pexels:https://www.pexels.com/video/aerial-view-of-construction-workers-building-roof-31025088/": {
+  "brand": "edenrise",
+  "reason": "large-scale residential development, not brand world",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S06"
+ },
+ "pexels:https://www.pexels.com/video/man-presenting-tile-samples-to-his-colleagues-6568699/": {
+  "brand": "edenrise",
+  "reason": "office, professional consultation, not grounds worker",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S06"
+ },
+ "pexels:https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/": {
+  "brand": "edenrise",
+  "reason": "office-like polished interior, professional attire",
+  "at": "2026-09-09T18:53:40Z",
+  "from": "benchmark-excellence-v2/S06"
  }
 }
