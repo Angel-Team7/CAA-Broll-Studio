@@ -38,6 +38,21 @@
   "Cockpit — install workflow files" (https://claude.ai/code/routines); the Claude GitHub App has the
   permission and moves them into `.github/workflows/`.
 
+## Safari and the media proxy
+GitHub serves Release assets as `application/octet-stream` with sniffing disabled and no CORS.
+Chrome and Firefox sniff the bytes and play the previews anyway; **Safari refuses** to play media
+not labelled as media, so on Safari hover and ▶ do nothing and a toast says so. The fix is a
+free Cloudflare Worker that re-serves the same files as `video/mp4` / `image/jpeg` with byte
+ranges and CORS — `tools/media-proxy.worker.js`, tested against real assets.
+
+Set-up (once, ~3 minutes, on the Cloudflare account):
+1. dash.cloudflare.com → **Workers & Pages** → **Create** → **Hello World** → name it `broll-media` → Deploy.
+2. **Edit code** → replace everything with the contents of `tools/media-proxy.worker.js` → **Deploy**.
+3. Copy the worker URL (`https://broll-media.<account>.workers.dev`) and put it in `projects.json`
+   as `"media_proxy": "https://broll-media.<account>.workers.dev"` (or send it to Vic).
+The cockpit then routes every preview and thumbnail through the proxy for every browser; the
+Releases stay the store. Free plan: 100k requests/day, no bandwidth charge, edge-cached.
+
 ## Adding a lesson
 1. Put the script in the right Drive folder as `<Title> — EN`, using `SCENE n —` headers with
    `HEYGEN AVATAR`, `B-ROLL:` and `ON SCREEN TEXT:` blocks. The intake routine cards it within the hour

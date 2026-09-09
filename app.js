@@ -6,9 +6,19 @@ const $ = s => document.querySelector(s);
 const state = { slug: null, data: null, approved: {}, reshoot: {}, finalised: [], projects: [] };
 const gh = JSON.parse(localStorage.getItem("gh") || "null"); // {owner,repo,token,branch}
 
-function toast(msg) {
+function toast(msg, ms) {
   const t = $("#toast"); t.textContent = msg; t.classList.add("show");
-  clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), 2600);
+  clearTimeout(toast._t); toast._t = setTimeout(() => t.classList.remove("show"), ms || 2600);
+}
+
+// Previews live on GitHub Releases, which serve every file as application/octet-stream.
+// Safari refuses to play that; a tiny proxy (tools/media-proxy.worker.js) re-serves the
+// same files as video/mp4. projects.json → "media_proxy" switches it on for everyone.
+const RELEASE_BASE = "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/";
+const IS_SAFARI = /^((?!chrome|android|crios|fxios).)*safari/i.test(navigator.userAgent);
+function mediaUrl(u) {
+  if (!u || !state.mediaProxy || !u.startsWith(RELEASE_BASE)) return u || "";
+  return state.mediaProxy.replace(/\/+$/, "") + "/" + u.slice(RELEASE_BASE.length);
 }
 
 async function loadProjects() {
@@ -20,6 +30,7 @@ async function loadProjects() {
   if (!idx || !idx.projects.length) { $("#scenes").innerHTML =
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
   state.projects = idx.projects;
+  state.mediaProxy = (idx.media_proxy || "").trim();
   state.finalised = await loadFinalised();
   renderProjectSelect();
   renderProgress();
@@ -212,15 +223,20 @@ function wirePreview(v) {
   p.addEventListener("pointerleave", e => { if (e.pointerType !== "touch") stopPreview(v); });
   v.addEventListener("error", () => {
     const code = v.error && v.error.code;
-    if (!previewWarned) { previewWarned = true; toast(`Preview file failed to load (media error ${code}). Tell Vic which clip.`); }
+    if (previewWarned) return;
+    previewWarned = true;
+    if (IS_SAFARI && !state.mediaProxy)
+      toast("Safari cannot play previews straight from GitHub Releases (they are served as a generic download). Open this page in Chrome, or switch on the media proxy — see tools/README-media-architecture.md.", 12000);
+    else
+      toast(`Preview file failed to load (media error ${code}). Tell Vic which clip.`);
   });
 }
 
 const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded", "belong-original": "BELONG ORIGINAL" };
 function card(sid, c, on) {
   const media = c.type === "video"
-    ? `<video src="${c.preview}" muted loop playsinline preload="metadata" poster="${c.thumb || ""}"></video>`
-    : `<img src="${c.preview}" loading="lazy" alt="">`;
+    ? `<video src="${mediaUrl(c.preview)}" muted loop playsinline preload="metadata" poster="${mediaUrl(c.thumb)}"></video>`
+    : `<img src="${mediaUrl(c.preview)}" loading="lazy" alt="">`;
   const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
   const srcTag = SRC_LABEL[c.source]
     ? `<span class="srcbadge src-${c.source}">${SRC_LABEL[c.source]}</span>` : "";
