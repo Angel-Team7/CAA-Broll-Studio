@@ -1,0 +1,50 @@
+{
+ "edenrise": {
+  "url": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-library-2/EXEMPLAR__edenrise__1788971083.jpg",
+  "clips": [
+   "edenrise-c2-six-needs-drives-S01-V03",
+   "edenrise-c2-six-needs-drives-S06-V02",
+   "edenrise-c2-six-needs-drives-S04-V16",
+   "edenrise-c2-six-needs-drives-S02-V01",
+   "edenrise-c2-six-needs-drives-S09-V01",
+   "edenrise-c2-six-needs-drives-S05-V11",
+   "edenrise-c2-six-needs-drives-S03-V02",
+   "edenrise-c2-six-needs-drives-S07-V10"
+  ],
+  "built": "2026-09-09T16:24:47Z",
+  "from": [
+   "edenrise-c2-six-needs-drives/S01",
+   "edenrise-c2-six-needs-drives/S06",
+   "edenrise-c2-six-needs-drives/S04",
+   "edenrise-c2-six-needs-drives/S02",
+   "edenrise-c2-six-needs-drives/S09",
+   "edenrise-c2-six-needs-drives/S05",
+   "edenrise-c2-six-needs-drives/S03",
+   "edenrise-c2-six-needs-drives/S07"
+  ]
+ },
+ "belong": {
+  "url": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-library-2/EXEMPLAR__belong__1788971093.jpg",
+  "clips": [
+   "belong-m9-S01-V01",
+   "belong-m9-S05-V01",
+   "belong-m9-S11-V03",
+   "belong-m9-S10-V01",
+   "belong-module9-S04-V38",
+   "belong-m9-S08-V06",
+   "belong-module9-S09-V21",
+   "belong-m9-S07-V05"
+  ],
+  "built": "2026-09-09T16:24:55Z",
+  "from": [
+   "belong-module9/S01",
+   "belong-module9/S05",
+   "belong-module9/S11",
+   "belong-module9/S10",
+   "belong-module9/S04",
+   "belong-module9/S08",
+   "belong-module9/S09",
+   "belong-module9/S07"
+  ]
+ }
+}

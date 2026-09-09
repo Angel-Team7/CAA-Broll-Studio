@@ -63,6 +63,18 @@ def strips(slug, sid):
         print(f"  {sh['id']} [{sh['scale']}] {sh['text']}")
     print("MUST NOT:", ", ".join(sc.get("must_not") or []) or "(none beyond the brand list)")
     print("BRAND RULES:\n" + brand_rules(brand))
+    ex_p = ROOT / "library" / "exemplars.json"
+    if ex_p.exists():
+        ex = json.load(open(ex_p)).get(brand) or {}
+        if ex.get("url"):
+            dest = tmp / f"REFERENCE-{brand}.jpg"
+            try:
+                req = urllib.request.Request(ex["url"], headers={"User-Agent": "broll-judge/1.0"})
+                with urllib.request.urlopen(req, timeout=60) as r, open(dest, "wb") as fh:
+                    fh.write(r.read())
+                print(f"REFERENCE: {dest}  (the client's {len(ex.get('clips', []))} most recent approvals for this brand — read it first; match this look)")
+            except Exception as e:
+                print(f"REFERENCE: (unavailable: {str(e)[:60]})")
     print("\nCLIPS (clip_id  path  source  title  duration):")
     for c in sc.get("clips", []):
         if c.get("judged") is not False:

@@ -21,7 +21,9 @@ python3 tools/judge.py strips <slug> <scene>
 Downloads every unjudged clip's 3-frame contact strip to a temp folder and prints, per
 clip: `clip_id  path  source  title  duration`. It also prints the spoken line, the brief,
 the shot list, the must-not list, the brand, and the brand's standing never-list from
-`CLAUDE.md`. **Read every strip image** with the Read tool. Judge only what you can see.
+`CLAUDE.md`. If it prints a `REFERENCE:` line, **Read that sheet first**: it is the
+client's most recent approvals for this brand, and your scores should reward that look.
+**Read every strip image** with the Read tool. Judge only what you can see.
 
 ## Step 2 — score each clip
 - `relevance` 0–10: does it show one of the shots? 9–10 the shot itself; 6–8 the same
