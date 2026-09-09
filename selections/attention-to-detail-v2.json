@@ -39,50 +39,66 @@
     "S01": {
       "requested": "2026-09-09T21:22:25Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:25:19Z",
+      "added": 22
     },
     "S02": {
       "requested": "2026-09-09T21:22:26Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:27:45Z",
+      "added": 22
     },
     "S04": {
       "requested": "2026-09-09T21:22:27Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:30:25Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:22:28Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:33:13Z",
+      "added": 21
     },
     "S08": {
       "requested": "2026-09-09T21:22:29Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:35:47Z",
+      "added": 22
     },
     "S09": {
       "requested": "2026-09-09T21:22:30Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:38:13Z",
+      "added": 22
     },
     "S12": {
       "requested": "2026-09-09T21:22:31Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:40:36Z",
+      "added": 22
     },
     "S13": {
       "requested": "2026-09-09T21:22:32Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-09T21:43:25Z",
+      "added": 22
     }
   }
 }
