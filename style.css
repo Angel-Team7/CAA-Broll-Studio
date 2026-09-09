@@ -134,3 +134,14 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .tag.warn{background:#3d2b00;color:#ffd479}
 
 .linkbtn{background:none;border:0;color:#6cb6ff;cursor:pointer;font-size:12px;padding:0 4px}
+
+/* preview controls: ▶ for touch screens / explicit play; hover plays on pointer devices */
+.media{position:relative}
+.playbtn{position:absolute;right:6px;bottom:6px;width:28px;height:28px;border-radius:50%;border:0;
+  background:rgba(0,0,0,.55);color:#fff;font-size:12px;line-height:28px;text-align:center;cursor:pointer;
+  opacity:.75;z-index:2}
+.playbtn:hover{opacity:1}
+.media.playing .playbtn{opacity:.35}
+.media.loading::after{content:"";position:absolute;left:50%;top:50%;width:22px;height:22px;margin:-11px 0 0 -11px;
+  border:3px solid rgba(255,255,255,.35);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite;pointer-events:none}
+@keyframes spin{to{transform:rotate(360deg)}}

@@ -121,7 +121,9 @@ function persistLocal() {
 function render() {
   const d = state.data;
   const wrap = $("#scenes");
-  wrap.innerHTML = d.scenes.map(sc => {
+  const num = id => parseInt(String(id).replace(/\D/g, ""), 10) || 0;
+  const ordered = [...d.scenes].sort((a, b) => num(a.id) - num(b.id));
+  wrap.innerHTML = ordered.map(sc => {
     const appr = state.approved[sc.id] || [];
     const flagged = sc.id in state.reshoot;
     const cards = sc.clips.map(c => card(sc.id, c, appr.includes(c.id))).join("");
@@ -174,12 +176,44 @@ function render() {
   wrap.querySelectorAll(".topup").forEach(el =>
     el.onclick = e => { e.stopPropagation(); requestTopup(el.dataset.scene); });
   wireDropZones(wrap);
-  wrap.querySelectorAll("video").forEach(v => {
-    const p = v.closest(".media");
-    p.onmouseenter = () => v.play().catch(()=>{});
-    p.onmouseleave = () => { v.pause(); v.currentTime = 0; };
-  });
+  wrap.querySelectorAll("video").forEach(v => wirePreview(v));
   updateStat();
+}
+
+let previewWarned = false;
+async function startPreview(v) {
+  const p = v.closest(".media");
+  p.classList.add("loading");
+  try {
+    if (v.preload !== "auto") v.preload = "auto";
+    if (v.readyState === 0 && v.networkState !== 2) v.load();
+    await v.play();
+    p.classList.add("playing");
+  } catch (e) {
+    if (!previewWarned) { previewWarned = true; toast(`Preview could not start: ${e.name} — ${e.message}`); }
+  } finally { p.classList.remove("loading"); }
+}
+function stopPreview(v) {
+  const p = v.closest(".media");
+  v.pause(); try { v.currentTime = 0; } catch {}
+  p.classList.remove("playing");
+}
+function wirePreview(v) {
+  const p = v.closest(".media");
+  if (!p || p.dataset.wired) return;
+  p.dataset.wired = "1";
+  if (!p.querySelector(".playbtn")) {
+    const b = document.createElement("button");
+    b.className = "playbtn"; b.type = "button"; b.title = "Play preview"; b.textContent = "▶";
+    b.onclick = e => { e.stopPropagation(); v.paused ? startPreview(v) : stopPreview(v); };
+    p.appendChild(b);
+  }
+  p.addEventListener("pointerenter", e => { if (e.pointerType !== "touch") startPreview(v); });
+  p.addEventListener("pointerleave", e => { if (e.pointerType !== "touch") stopPreview(v); });
+  v.addEventListener("error", () => {
+    const code = v.error && v.error.code;
+    if (!previewWarned) { previewWarned = true; toast(`Preview file failed to load (media error ${code}). Tell Vic which clip.`); }
+  });
 }
 
 const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded", "belong-original": "BELONG ORIGINAL" };
@@ -282,7 +316,9 @@ async function requestTopup(sid) {
 // Is a request for this scene still waiting for the bot? (optionally of one kind)
 function pendingReq(sid, reason) {
   const r = state.topup && state.topup[sid];
-  if (!r || r.done) return false;
+  if (!r || r.done !== false) return false;                 // fulfilled, or a pre-bot entry
+  const age = Date.now() - Date.parse(r.requested || 0);
+  if (!(age < 24 * 3600 * 1000)) return false;              // stale: the run never came back
   return reason ? r.reason === reason : r.reason !== "direction";
 }
 
