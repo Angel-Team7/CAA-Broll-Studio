@@ -349,7 +349,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__thumb__pexels_4153243_morning-light-bedroom-linen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__preview__pexels_4153243_morning-light-bedroom-linen.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__strip__pexels_4153243_morning-light-bedroom-linen.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a woman makes a bed in a modern bedroom with red curtains",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-modern-bedroom-bedmaking",
+     "score": 3.65,
+     "judged_at": "2026-09-09T17:45:47Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6958098_fresh-bread-preserves",
@@ -371,7 +381,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__thumb__pexels_6958101_rustic-breakfast-spread.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__preview__pexels_6958101_rustic-breakfast-spread.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__strip__pexels_6958101_rustic-breakfast-spread.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "hands arrange a rustic breakfast of bread, jam, and fruit",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-rustic-breakfast-spread",
+     "score": 8.35,
+     "judged_at": "2026-09-09T17:45:47Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_3850348_fresh-bread-preserves",
@@ -430,7 +450,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:45:47Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:45:47Z"
   },
   {
    "id": "S05",
