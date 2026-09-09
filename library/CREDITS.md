@@ -347,3 +347,33 @@
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-back-hoe-excavate-soil-in-a-construction-site-2938859/ |
 | pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-large-construction-site-progress-30810442/ |
 | pexels |  | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/heavy-machinery-at-construction-site-during-daytime-29056061/ |
+| pixabay | ai generated  robot  workshop  technology  android  robotics | doktorkleinmusic | Pixabay Content License | https://pixabay.com/videos/id-244961/ |
+| pixabay | pendulum saw  saw  aluminum profile  profile  aluminum  equi | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11821/ |
+| pixabay | sparks  grind  grinder  grinding  fabrication  metal  steel  | Fronbondi_Skegs | Pixabay Content License | https://pixabay.com/videos/id-94063/ |
+| pexels |  | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/people-shaking-hands-6193005/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/workmates-hugging-each-other-9365584/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/workmates-giving-each-other-a-hug-and-doing-high-five-8631877/ |
+| pexels |  | rakhmat suwandi | Pexels License | https://www.pexels.com/video/industrial-worker-cleaning-factory-shop-floor-37596049/ |
+| pixabay | love  couple  park  old  care  friends  people | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-151194/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/person-wearing-hard-hat-8486681/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-checking-the-car-engine-8987066/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/women-working-at-a-construction-site-8487865/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/smiling-female-worker-in-textile-factory-31580823/ |
+| pexels |  | CP Khanal | Pexels License | https://www.pexels.com/video/footage-19832481/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-in-a-workshop-4941361/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/cleaners-acting-out-with-working-tools-6197061/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-in-protective-suit-posing-with-vacuum-cleaner-6197569/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-in-overalls-cleaning-dining-area-6195516/ |
+| pexels |  | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/construction-workers-building-brick-wall-outdoors-37500519/ |
+| pexels |  | SweeMing YOUNG | Pexels License | https://www.pexels.com/video/aerial-view-of-unfinished-construction-site-33026653/ |
+| pexels |  | CP Khanal | Pexels License | https://www.pexels.com/video/a-bulldozer-is-working-on-a-dirt-road-19832498/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/top-view-of-construction-area-12247601/ |
+| pexels |  | Josh Tavernier | iCapture Media Digital Marketing Agency | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-large-building-with-cars-parked-on-the-side-18018699/ |
+| pexels |  | Jozef Papp | Pexels License | https://www.pexels.com/video/aerial-view-of-machinery-on-a-construction-site-5715632/ |
+| pexels |  | Magda Ehlers | Pexels License | https://www.pexels.com/video/a-man-is-using-a-shovel-to-pour-concrete-24800204/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/excavator-digging-at-busy-construction-site-34521510/ |
+| pexels |  | Wayne Speedy | Pexels License | https://www.pexels.com/video/concrete-pouring-at-construction-site-34289833/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-wearing-protective-goggles-and-headphones-6790012/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/skilled-metalworker-welding-in-industrial-workshop-31016918/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/office-workers-looking-at-camera-7552798/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/workmates-discussing-a-project-in-the-office-8135792/ |
