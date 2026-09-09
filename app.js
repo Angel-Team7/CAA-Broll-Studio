@@ -219,7 +219,7 @@ function wirePreview(v) {
 const SRC_LABEL = { heygen: "HeyGen", upload: "Uploaded", "belong-original": "BELONG ORIGINAL" };
 function card(sid, c, on) {
   const media = c.type === "video"
-    ? `<video src="${c.preview}" muted loop playsinline preload="none" poster="${c.thumb || ""}"></video>`
+    ? `<video src="${c.preview}" muted loop playsinline preload="metadata" poster="${c.thumb || ""}"></video>`
     : `<img src="${c.preview}" loading="lazy" alt="">`;
   const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
   const srcTag = SRC_LABEL[c.source]
