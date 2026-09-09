@@ -1644,10 +1644,10 @@
   "from": "belong-module9/S01"
  },
  "pixabay:88686": {
-  "brand": "belong",
-  "reason": "green-screen placeholder",
-  "at": "2026-09-09T18:08:11Z",
-  "from": "belong-module9/S01"
+  "brand": "edenrise",
+  "reason": "green screen phone display — explicit never-list",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
  },
  "pixabay:21120": {
   "brand": "belong",
@@ -2239,9 +2239,9 @@
  },
  "pixabay:3140": {
   "brand": "edenrise",
-  "reason": "welding sparks",
-  "at": "2026-09-09T18:43:53Z",
-  "from": "be-a-lifelong-learner-v2/S06"
+  "reason": "grinder sparks / dark industrial framing",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
  },
  "pexels:8135792": {
   "brand": "edenrise",
@@ -2275,9 +2275,9 @@
  },
  "pixabay:42923": {
   "brand": "edenrise",
-  "reason": "not in brand world, large-scale urban rooftop",
-  "at": "2026-09-09T18:53:40Z",
-  "from": "benchmark-excellence-v2/S01"
+  "reason": "scaffolding gang / crowd doing the same manual task",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
  },
  "pexels:8170549": {
   "brand": "edenrise",
@@ -2287,9 +2287,9 @@
  },
  "pixabay:42926": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T18:43:54Z",
-  "from": "be-a-lifelong-learner-v2/S10"
+  "reason": "large-scale scaffolding/industrial construction site",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
  },
  "pexels:https://www.pexels.com/video/two-men-carrying-up-a-solar-panel-8853459/": {
   "brand": "edenrise",
@@ -2557,15 +2557,15 @@
  },
  "pexels:https://www.pexels.com/video/people-working-on-a-construction-site-9991144/": {
   "brand": "edenrise",
-  "reason": "high-rise steelwork, dangerous height",
-  "at": "2026-09-09T18:57:05Z",
-  "from": "purpose-at-work/S07"
+  "reason": "office desk, laptop, corporate attire — explicit never-list",
+  "at": "2026-09-09T19:10:43Z",
+  "from": "edenrise-c2-goal-setting/S05"
  },
  "pexels:https://www.pexels.com/video/people-working-at-a-construction-site-9991145/": {
   "brand": "edenrise",
-  "reason": "high-rise steelwork, dangerous height",
-  "at": "2026-09-09T18:57:05Z",
-  "from": "purpose-at-work/S07"
+  "reason": "office desk, laptop, corporate startup setting — explicit never-list",
+  "at": "2026-09-09T19:10:43Z",
+  "from": "edenrise-c2-goal-setting/S05"
  },
  "pixabay:https://pixabay.com/videos/id-1009/": {
   "brand": "edenrise",
@@ -2596,5 +2596,155 @@
   "reason": "large-scale industrial scaffold structure",
   "at": "2026-09-09T18:59:01Z",
   "from": "purpose-at-work/S05"
+ },
+ "pixabay:https://pixabay.com/videos/id-206315/": {
+  "brand": "edenrise",
+  "reason": "industrial high-rise scale, not the small-building-repair world",
+  "at": "2026-09-09T19:01:37Z",
+  "from": "benchmark-excellence-v2/S15"
+ },
+ "upload:None": {
+  "brand": "edenrise",
+  "reason": "suit-clad manager, not the brand's foreman-in-the-field world",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-carrying-a-chair-7508814/": {
+  "brand": "edenrise",
+  "reason": "fashion studio backdrop, not the brand's world",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pexels:https://www.pexels.com/video/woman-removing-one-of-the-chairs-7708899/": {
+  "brand": "edenrise",
+  "reason": "furniture-showroom styling, not the brand's world",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pexels:32243439": {
+  "brand": "edenrise",
+  "reason": "welding sparks / dark industrial workshop / face-covering welding masks",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pixabay:40813": {
+  "brand": "edenrise",
+  "reason": "welding-style sparks, industrial power-tool close-up not in brief",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pexels:https://www.pexels.com/video/people-using-laptop-while-talking-8482302/": {
+  "brand": "edenrise",
+  "reason": "face masks, laptop indoors, suit — explicit never-list",
+  "at": "2026-09-09T19:05:19Z",
+  "from": "communication-dont-assume-clarify-v2/S11"
+ },
+ "pexels:https://www.pexels.com/video/a-man-talking-to-another-person-5977452/": {
+  "brand": "edenrise",
+  "reason": "office-style glass interior, not the brand's world",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:https://www.pexels.com/video/doctor-giving-sad-news-on-hospital-corridor-6129924/": {
+  "brand": "edenrise",
+  "reason": "office/clinical setting with blinds, formal attire",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:https://www.pexels.com/video/people-pointing-on-the-plan-7581343/": {
+  "brand": "edenrise",
+  "reason": "business suits, office-style document review",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:31373752": {
+  "brand": "edenrise",
+  "reason": "textile mill / factory environment",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:31359193": {
+  "brand": "edenrise",
+  "reason": "textile factory / assembly line",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:31369298": {
+  "brand": "edenrise",
+  "reason": "textile factory / assembly line",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:10628542": {
+  "brand": "edenrise",
+  "reason": "factory / crowd doing the same manual task",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:31369403": {
+  "brand": "edenrise",
+  "reason": "office/factory quality-control setting",
+  "at": "2026-09-09T19:06:33Z",
+  "from": "communication-dont-assume-clarify-v2/S12"
+ },
+ "pexels:4266810": {
+  "brand": "edenrise",
+  "reason": "face masks, staged delivery scene",
+  "at": "2026-09-09T19:07:31Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:8347252": {
+  "brand": "edenrise",
+  "reason": "office desk, suit — explicit never-list",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
+ },
+ "pixabay:1360": {
+  "brand": "edenrise",
+  "reason": "stock graphic overlay, not the brand's world",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
+ },
+ "pexels:8691678": {
+  "brand": "edenrise",
+  "reason": "office desk with monitors/keyboards",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
+ },
+ "pexels:7643842": {
+  "brand": "edenrise",
+  "reason": "office/boardroom, suit, laptop",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
+ },
+ "pexels:8539725": {
+  "brand": "edenrise",
+  "reason": "lab/food-processing setting, not the brand's world",
+  "at": "2026-09-09T19:08:26Z",
+  "from": "communication-dont-assume-clarify-v2/S16"
+ },
+ "pexels:https://www.pexels.com/video/colleagues-working-and-discussing-ideas-6913865/": {
+  "brand": "edenrise",
+  "reason": "office desk, laptop, corporate attire — explicit never-list",
+  "at": "2026-09-09T19:10:43Z",
+  "from": "edenrise-c2-goal-setting/S05"
+ },
+ "pexels:https://www.pexels.com/video/colleagues-disturbing-a-coworker-while-working-8135863/": {
+  "brand": "edenrise",
+  "reason": "office desk, laptop, corporate startup setting — explicit never-list",
+  "at": "2026-09-09T19:10:43Z",
+  "from": "edenrise-c2-goal-setting/S05"
+ },
+ "pexels:https://www.pexels.com/video/a-young-man-helping-an-elderly-7517702/": {
+  "brand": "edenrise",
+  "reason": "laptop indoors, domestic setting not the brand's world",
+  "at": "2026-09-09T19:11:13Z",
+  "from": "edenrise-c2-goal-setting/S02"
+ },
+ "pexels:https://www.pexels.com/video/two-woman-smiling-in-agreement-of-what-they-are-seeing-on-the-computer-monitor-3044749/": {
+  "brand": "edenrise",
+  "reason": "laptop indoors, domestic setting not the brand's world",
+  "at": "2026-09-09T19:11:13Z",
+  "from": "edenrise-c2-goal-setting/S02"
  }
 }

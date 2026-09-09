@@ -3577,7 +3577,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pexels_27831586_new-build-home.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__preview__pexels_27831586_new-build-home.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__strip__pexels_27831586_new-build-home.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "aerial view of new brick houses under construction behind a site fence",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-27831586-newbuild",
+     "score": 2.35,
+     "judged_at": "2026-09-09T19:01:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7065837_completed-brickwork",
@@ -3589,7 +3599,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pexels_7065837_completed-brickwork.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__preview__pexels_7065837_completed-brickwork.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__strip__pexels_7065837_completed-brickwork.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "close-up texture of a finished red brick wall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-7065837-brickwork",
+     "score": 4.35,
+     "judged_at": "2026-09-09T19:01:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7493223_craftsman-smiling",
@@ -3611,7 +3631,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pixabay_206315_finished-construction.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__preview__pixabay_206315_finished-construction.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__strip__pixabay_206315_finished-construction.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "aerial view of a high-rise tower under construction with a crane",
+     "violation": "industrial high-rise scale, not the small-building-repair world",
+     "shot": "",
+     "shoot": "pixabay-206315-highrise",
+     "score": 1.0,
+     "judged_at": "2026-09-09T19:01:37Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pixabay_307719_new-build-home",
@@ -3623,7 +3653,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pixabay_307719_new-build-home.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__preview__pixabay_307719_new-build-home.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__strip__pixabay_307719_new-build-home.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "aerial view of a finished house surrounded by green fields",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-307719-newbuild",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:01:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_29821815_landscaped-garden",
@@ -3674,7 +3714,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:01:37Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:01:37Z"
   }
  ]
 }

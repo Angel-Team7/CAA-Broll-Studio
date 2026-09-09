@@ -20,7 +20,7 @@
      "page_url": "https://www.pexels.com/video/a-person-wearing-gardening-gloves-digging-in-the-dirt-20521979/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V03.mp4",
-     "score": 19.94,
+     "score": 6.05,
      "categories": [
       "digging",
       "gloves"
@@ -28,7 +28,16 @@
      "title": "video person wearing gardening gloves digging the dirt",
      "query": "landscaper working garden grounds",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a gloved hand digs a small rock out of dark garden soil",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S06V03-gloved-soil-digging",
+     "judged_at": "2026-09-09T19:10:24Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V10",
@@ -57,7 +66,7 @@
      "shot": "",
      "shoot": "pexels-hivis-workers-car-talk",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 5,
+     "rank": 9,
      "shown": true
     },
     {
@@ -86,8 +95,8 @@
      "shot": "",
      "shoot": "pexels-construction-walkietalkie-steel",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 10,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V15",
@@ -114,7 +123,7 @@
      "shot": "C",
      "shoot": "pexels-hardhat-floorplan-indoor",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 4,
+     "rank": 8,
      "shown": true
     },
     {
@@ -146,7 +155,7 @@
      "shot": "",
      "shoot": "pixabay-scaffolding-aerial-highrise",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 9,
+     "rank": 13,
      "shown": false
     },
     {
@@ -158,7 +167,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-with-gloves-spreading-tree-bark-on-a-garden-ground-3363138/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V04.mp4",
-     "score": 19.94,
+     "score": 5.7,
      "categories": [
       "gloves",
       "man",
@@ -167,7 +176,16 @@
      "title": "video woman with gloves spreading tree bark garden ground",
      "query": "landscaper working garden grounds",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "gloved hands clear moss and debris from a stone garden wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S06V04-gloved-wall-clearing",
+     "judged_at": "2026-09-09T19:10:24Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V08",
@@ -223,7 +241,7 @@
      "shot": "",
      "shoot": "pexels-hardhat-armscrossed-steel",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 6,
+     "rank": 10,
      "shown": true
     },
     {
@@ -254,7 +272,7 @@
      "shot": "A",
      "shoot": "pixabay-lawnmower-bowling-green",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -266,7 +284,7 @@
      "page_url": "https://pixabay.com/videos/id-3992/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V03.mp4",
-     "score": 19.07,
+     "score": 6.05,
      "categories": [
       "construction",
       "site",
@@ -275,7 +293,16 @@
      "title": "working site  construction  site  equipment  machine  develop  construction site  construction equipment  under construc",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a gloved hand digs a small rock out of dark garden soil",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S06V03-gloved-soil-digging",
+     "judged_at": "2026-09-09T19:10:24Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V04",
@@ -286,7 +313,7 @@
      "page_url": "https://pixabay.com/videos/id-361912/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V04.mp4",
-     "score": 18.56,
+     "score": 5.7,
      "categories": [
       "land",
       "landscaping"
@@ -294,7 +321,16 @@
      "title": "lawn mower  machine  grass  landscaping  sunshine",
      "query": "gardener mowing lawn grounds",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "gloved hands clear moss and debris from a stone garden wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S06V04-gloved-wall-clearing",
+     "judged_at": "2026-09-09T19:10:24Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V05",
@@ -325,7 +361,7 @@
      "shot": "",
      "shoot": "pixabay-office-meeting-blurred",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 8,
+     "rank": 12,
      "shown": false
     },
     {
@@ -353,8 +389,8 @@
      "shot": "",
      "shoot": "pexels-construction-gesture-walkietalkie",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 7,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V07",
@@ -381,7 +417,7 @@
      "shot": "",
      "shoot": "pexels-electrical-install-wall",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -546,10 +582,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:31:01Z",
+    "at": "2026-09-09T19:10:24Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:31:01Z"
+   "judged_at": "2026-09-09T19:10:24Z"
   },
   {
    "id": "S05",
@@ -608,7 +644,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-working-and-discussing-ideas-6913865/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V05.mp4",
-     "score": 26.87,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -617,7 +653,16 @@
      "title": "video colleagues working and discussing ideas",
      "query": "colleague helping coworker task",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women review documents at an office desk with a laptop",
+     "violation": "office desk, laptop, corporate attire — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-S05V05-office-laptop-desk",
+     "judged_at": "2026-09-09T19:10:43Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V06",
@@ -628,7 +673,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-disturbing-a-coworker-while-working-8135863/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V06.mp4",
-     "score": 26.87,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -638,7 +683,16 @@
      "title": "video colleagues disturbing coworker while working",
      "query": "colleague helping coworker task",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "coworkers crowd a desk while a woman looks stressed at a laptop",
+     "violation": "office desk, laptop, corporate startup setting — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-S05V06-office-startup-desk",
+     "judged_at": "2026-09-09T19:10:43Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V08",
@@ -695,7 +749,7 @@
      "shot": "",
      "shoot": "pixabay-welding-sparks-closeup",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 6,
+     "rank": 10,
      "shown": false
     },
     {
@@ -810,7 +864,7 @@
      "shot": "",
      "shoot": "pixabay-quarry-excavators-aerial",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 4,
+     "rank": 8,
      "shown": true
     },
     {
@@ -842,7 +896,7 @@
      "shot": "",
      "shoot": "pixabay-highrise-crane-aerial-crowd",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 5,
+     "rank": 9,
      "shown": true
     },
     {
@@ -854,7 +908,7 @@
      "page_url": "https://www.pexels.com/video/people-working-on-a-construction-site-9991144/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V05.mp4",
-     "score": 31.27,
+     "score": 0.65,
      "categories": [
       "construction",
       "people",
@@ -864,7 +918,16 @@
      "title": "video people working construction site",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women review documents at an office desk with a laptop",
+     "violation": "office desk, laptop, corporate attire — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-S05V05-office-laptop-desk",
+     "judged_at": "2026-09-09T19:10:43Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V06",
@@ -875,7 +938,7 @@
      "page_url": "https://www.pexels.com/video/people-working-at-a-construction-site-9991145/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V06.mp4",
-     "score": 31.27,
+     "score": 0.65,
      "categories": [
       "construction",
       "people",
@@ -885,7 +948,16 @@
      "title": "video people working construction site",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "coworkers crowd a desk while a woman looks stressed at a laptop",
+     "violation": "office desk, laptop, corporate startup setting — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-S05V06-office-startup-desk",
+     "judged_at": "2026-09-09T19:10:43Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V07",
@@ -1066,10 +1138,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T18:31:01Z",
+    "at": "2026-09-09T19:10:43Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:31:01Z"
+   "judged_at": "2026-09-09T19:10:43Z"
   },
   {
    "id": "S02",
@@ -1109,7 +1181,7 @@
      "page_url": "https://www.pexels.com/video/a-young-man-helping-an-elderly-7517702/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V03.mp4",
-     "score": 27.81,
+     "score": 1.65,
      "categories": [
       "help",
       "helping",
@@ -1118,7 +1190,16 @@
      "title": "video young man helping elderly",
      "query": "mentor teaching young worker",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "an elderly man and young man write together at a laptop table",
+     "violation": "laptop indoors, domestic setting not the brand's world",
+     "shot": "",
+     "shoot": "pexels-S02V03-laptop-mentor-table",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S02-V06",
@@ -1129,7 +1210,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-talking-6197077/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V06.mp4",
-     "score": 24.21,
+     "score": 3.35,
      "categories": [
       "man",
       "talking",
@@ -1138,7 +1219,16 @@
      "title": "video man and woman talking",
      "query": "mentor teaching young worker",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man and woman in matching red overalls sit and talk",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S02V06-overalls-talk-dramatic",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S02-V11",
@@ -1165,7 +1255,7 @@
      "shot": "A",
      "shoot": "pexels-pottery-group-shelf",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -1193,7 +1283,7 @@
      "shot": "",
      "shoot": "pexels-industrial-panel-indoor",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 4,
+     "rank": 10,
      "shown": false
     },
     {
@@ -1205,7 +1295,7 @@
      "page_url": "https://www.pexels.com/video/a-man-working-at-a-carpentry-workshop-7492602/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V07.mp4",
-     "score": 21.81,
+     "score": 4.7,
      "categories": [
       "man",
       "working",
@@ -1214,7 +1304,16 @@
      "title": "video man working carpentry workshop",
      "query": "apprentice learning from carpenter",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a man works wood at a table saw in a carpentry workshop",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-S02V07-carpentry-tablesaw",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S02-V12",
@@ -1273,7 +1372,7 @@
      "shot": "",
      "shoot": "pixabay-woman-home-handoff",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 5,
+     "rank": 11,
      "shown": true
     },
     {
@@ -1303,7 +1402,7 @@
      "shot": "",
      "shoot": "pixabay-textile-factory-sewing",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 6,
+     "rank": 12,
      "shown": false
     },
     {
@@ -1315,7 +1414,7 @@
      "page_url": "https://www.pexels.com/video/two-woman-smiling-in-agreement-of-what-they-are-seeing-on-the-computer-monitor-3044749/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V03.mp4",
-     "score": 22.41,
+     "score": 1.65,
      "categories": [
       "man",
       "smiling",
@@ -1324,7 +1423,16 @@
      "title": "video two woman smiling agreement what they are seeing the computer monitor",
      "query": "apprentice watching mentor demonstrate",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "an elderly man and young man write together at a laptop table",
+     "violation": "laptop indoors, domestic setting not the brand's world",
+     "shot": "",
+     "shoot": "pexels-S02V03-laptop-mentor-table",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S02-V04",
@@ -1380,14 +1488,23 @@
      "page_url": "https://www.pexels.com/video/people-in-resin-art-class-7253493/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V06.mp4",
-     "score": 21.57,
+     "score": 3.35,
      "categories": [
       "people"
      ],
      "title": "video people resin art class",
      "query": "mentor showing apprentice technique workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man and woman in matching red overalls sit and talk",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S02V06-overalls-talk-dramatic",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S02-V07",
@@ -1398,7 +1515,7 @@
      "page_url": "https://pixabay.com/videos/id-115792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__thumb__edenrise-c2-goal-setting-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__preview__edenrise-c2-goal-setting-S02-V07.mp4",
-     "score": 19.49,
+     "score": 4.7,
      "categories": [
       "man",
       "woman",
@@ -1407,7 +1524,16 @@
      "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  human  employee  shop",
      "query": "mentor showing apprentice technique workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S02__strip__edenrise-c2-goal-setting-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a man works wood at a table saw in a carpentry workshop",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-S02V07-carpentry-tablesaw",
+     "judged_at": "2026-09-09T19:11:13Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S02-I03",
@@ -1563,10 +1689,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:33:03Z",
+    "at": "2026-09-09T19:11:13Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:33:03Z"
+   "judged_at": "2026-09-09T19:11:13Z"
   },
   {
    "id": "S03",

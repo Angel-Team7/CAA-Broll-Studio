@@ -28,7 +28,17 @@
      "thumb": "",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__upload_1784647030660_1dd2515a216d4c5b92ff1315046d78c3.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__upload_1784647030660_1dd2515a216d4c5b92ff1315046d78c3.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a suited manager talks to two workers in orange coveralls",
+     "violation": "suit-clad manager, not the brand's foreman-in-the-field world",
+     "shot": "A",
+     "shoot": "upload-suit-workers-stadium",
+     "score": 2.65,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_4254313_setting-up-chairs",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_4254313_setting-up-chairs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_4254313_setting-up-chairs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_4254313_setting-up-chairs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "hands set a folder and cup on a cafe table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cafe-chairs-hands",
+     "score": 2.35,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_6344435_moving-chairs",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_6344435_moving-chairs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_6344435_moving-chairs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_6344435_moving-chairs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a man gestures while standing among rows of empty chairs",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-event-hall-chairs",
+     "score": 4.65,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6626473_stacking-chairs",
@@ -64,7 +94,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_6626473_stacking-chairs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_6626473_stacking-chairs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_6626473_stacking-chairs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a chair and a stack of books sit on a small table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chair-books-static",
+     "score": 1.7,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_7508814_carrying-chairs",
@@ -76,7 +116,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_7508814_carrying-chairs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_7508814_carrying-chairs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_7508814_carrying-chairs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a woman in a white studio carries a single chair",
+     "violation": "fashion studio backdrop, not the brand's world",
+     "shot": "B",
+     "shoot": "pexels-studio-carrying-chair",
+     "score": 2.3,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "pexels_7708899_arranging-chairs-room",
@@ -88,7 +138,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_7708899_arranging-chairs-room.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_7708899_arranging-chairs-room.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_7708899_arranging-chairs-room.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a woman walks past chairs in a furniture showroom",
+     "violation": "furniture-showroom styling, not the brand's world",
+     "shot": "",
+     "shoot": "pexels-furniture-showroom",
+     "score": 1.65,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_8456044_folding-chairs-event",
@@ -100,7 +160,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__pexels_8456044_folding-chairs-event.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__pexels_8456044_folding-chairs-event.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__pexels_8456044_folding-chairs-event.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an empty folding chair sits alone on a sandy beach",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-beach-chair",
+     "score": 1.35,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 13,
+     "shown": true
     },
     {
      "id": "upload_1784643240327_S01-Imagine-this...-",
@@ -112,7 +182,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__upload_1784643240327_S01-Imagine-this.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__upload_1784643240327_S01-Imagine-this.-.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__upload_1784643240327_S01-Imagine-this.-.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man and woman review plans at a concrete wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "upload-construction-wall-review",
+     "score": 5.35,
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V00",
@@ -123,7 +203,7 @@
      "page_url": "https://www.pexels.com/video/a-man-sitting-at-a-table-in-the-rain-19538625/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V00.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker chair",
@@ -132,7 +212,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman sits near wicker chairs under a rainy awning",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rainy-cafe-umbrella",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V01",
@@ -143,7 +232,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V01.mp4",
-     "score": 0,
+     "score": 5.35,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker chair",
@@ -152,7 +241,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man sweeps a wet outdoor pavement while another gestures",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-street-sweeping",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V02",
@@ -163,7 +261,7 @@
      "page_url": "https://www.pexels.com/video/industrial-workers-welding-in-factory-setting-32243439/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V02.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker chair",
@@ -172,7 +270,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two welders spark metal inside an industrial workshop",
+     "violation": "welding sparks / dark industrial workshop / face-covering welding masks",
+     "shot": "",
+     "shoot": "pixabay-welding-workshop",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V03",
@@ -183,7 +290,7 @@
      "page_url": "https://pixabay.com/videos/id-40813/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V03.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  construction",
      "query": "worker chair",
@@ -192,7 +299,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an angle grinder cuts rebar in a shower of sparks",
+     "violation": "welding-style sparks, industrial power-tool close-up not in brief",
+     "shot": "",
+     "shoot": "pixabay-angle-grinder-rebar",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V04",
@@ -203,7 +319,7 @@
      "page_url": "https://www.pexels.com/video/traditional-woodworking-handcarving-scene-28900302/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V04.mp4",
-     "score": 0,
+     "score": 4.1,
      "categories": [],
      "title": "",
      "query": "worker chair",
@@ -212,7 +328,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 8,
+     "caption": "a barefoot man chisels a wood joint while seated on the floor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-barefoot-carpentry",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V05",
@@ -223,7 +348,7 @@
      "page_url": "https://pixabay.com/videos/id-42923/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V05.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker chair",
@@ -232,7 +357,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of many workers on a high-rise construction site",
+     "violation": "scaffolding gang / crowd doing the same manual task",
+     "shot": "",
+     "shoot": "pixabay-highrise-aerial-workers",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V06",
@@ -243,7 +377,7 @@
      "page_url": "https://www.pexels.com/video/a-man-putting-his-hat-on-a-chair-8346465/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V06.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "worker chair",
@@ -252,7 +386,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman in black sits near a wire-frame chair",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-studio-black-dress-chair",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V07",
@@ -263,7 +406,7 @@
      "page_url": "https://pixabay.com/videos/id-42926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V07.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker chair",
@@ -272,7 +415,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of a crane over a large building site",
+     "violation": "large-scale scaffolding/industrial construction site",
+     "shot": "",
+     "shoot": "pixabay-highrise-crane-aerial",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V08",
@@ -283,7 +435,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-overalls-posing-at-a-workshop-7482687/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V08.mp4",
-     "score": 0,
+     "score": 3.4,
      "categories": [],
      "title": "",
      "query": "worker chair",
@@ -292,7 +444,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a man stands arms crossed in a tool-lined workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-workshop-portrait-man",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V09",
@@ -303,7 +464,7 @@
      "page_url": "https://pixabay.com/videos/id-148540/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__thumb__communication-dont-assume-clarify-v2-S02-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__preview__communication-dont-assume-clarify-v2-S02-V09.mp4",
-     "score": 0,
+     "score": 2.75,
      "categories": [],
      "title": "cement  batter  development  building  machine  worker  work  rural",
      "query": "worker chair",
@@ -312,7 +473,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a hand pours material into a spinning cement mixer",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cement-mixer-hands",
+     "judged_at": "2026-09-09T19:03:06Z",
+     "rank": 6,
+     "shown": true
     }
    ],
    "shots": [
@@ -343,7 +513,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:03:06Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:03:06Z"
   },
   {
    "id": "S03",
@@ -933,7 +1109,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__thumb__pexels_5384977_reviewing-drawings-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__pexels_5384977_reviewing-drawings-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__strip__pexels_5384977_reviewing-drawings-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand traces pencil lines across architectural sketches on paper",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-5384977-sketch-tracing",
+     "score": 4.65,
+     "judged_at": "2026-09-09T19:03:38Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_6474143_builders-reading-blueprint",
@@ -945,7 +1131,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__thumb__pexels_6474143_builders-reading-blueprint.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__pexels_6474143_builders-reading-blueprint.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__strip__pexels_6474143_builders-reading-blueprint.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a man and woman review a blueprint inside an unfinished room",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-6474143-builders-blueprint",
+     "score": 7.65,
+     "judged_at": "2026-09-09T19:03:38Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7816246_construction-plans-site",
@@ -957,7 +1153,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__thumb__pexels_7816246_construction-plans-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__pexels_7816246_construction-plans-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__strip__pexels_7816246_construction-plans-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "an overhead view of a floor plan, hard hat and keys on a desk",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-7816246-flatlay-plans",
+     "score": 5.0,
+     "judged_at": "2026-09-09T19:03:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8964792_foreman-apprentice-plans",
@@ -969,7 +1175,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__thumb__pexels_8964792_foreman-apprentice-plans.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__pexels_8964792_foreman-apprentice-plans.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__strip__pexels_8964792_foreman-apprentice-plans.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "two workers unroll a large blueprint inside a steel-frame hall",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-8964792-hangar-blueprint",
+     "score": 4.95,
+     "judged_at": "2026-09-09T19:03:38Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_91769_construction-plans-site",
@@ -981,7 +1197,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__thumb__pixabay_91769_construction-plans-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__preview__pixabay_91769_construction-plans-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S07__strip__pixabay_91769_construction-plans-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "workers set rebar mesh at an outdoor construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-91769-rebar-site",
+     "score": 2.7,
+     "judged_at": "2026-09-09T19:03:38Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_8482551_construction-plans-site",
@@ -1062,7 +1288,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T19:03:38Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:03:38Z"
   },
   {
    "id": "S08",
@@ -1079,7 +1311,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pexels_4109498_wiping-kitchen-counter.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pexels_4109498_wiping-kitchen-counter.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pexels_4109498_wiping-kitchen-counter.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a hand wipes a dark wood counter clean with a cloth",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-4109498-counter-wipe",
+     "score": 7.3,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6264732_cleaning-kitchen",
@@ -1091,7 +1333,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pexels_6264732_cleaning-kitchen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pexels_6264732_cleaning-kitchen.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pexels_6264732_cleaning-kitchen.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a woman arranges dishes and food on a kitchen counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-6264732-kitchen-tidy",
+     "score": 5.0,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_7641640_washing-dishes",
@@ -1103,7 +1355,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pexels_7641640_washing-dishes.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pexels_7641640_washing-dishes.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pexels_7641640_washing-dishes.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a woman washes her hands at a bathroom-style kitchen sink",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-7641640-sink-wash-mirror",
+     "score": 5.0,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_8550689_scrubbing-sink",
@@ -1115,7 +1377,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pexels_8550689_scrubbing-sink.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pexels_8550689_scrubbing-sink.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pexels_8550689_scrubbing-sink.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a hand scrubs dishes with a sponge at the sink",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-8550689-sink-scrub",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8627107_commercial-kitchen-cleaning",
@@ -1137,7 +1409,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pixabay_15133_scrubbing-sink.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pixabay_15133_scrubbing-sink.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pixabay_15133_scrubbing-sink.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "hands rinse lettuce and vegetables under running tap water",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-15133-produce-wash",
+     "score": 3.7,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pixabay_38116_cleaning-kitchen",
@@ -1149,7 +1431,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__pixabay_38116_cleaning-kitchen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__pixabay_38116_cleaning-kitchen.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__pixabay_38116_cleaning-kitchen.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "soapy hands wash a plate and glass at the sink",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-38116-dish-wash-suds",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V00",
@@ -1160,7 +1452,7 @@
      "page_url": "https://www.pexels.com/video/woman-cleaning-the-electric-stove-8581193/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V00.mp4",
-     "score": 0,
+     "score": 7.3,
      "categories": [],
      "title": "",
      "query": "clean kitchen",
@@ -1169,7 +1461,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "an arm wipes a black stovetop clean with a paper towel",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S08V00-stovetop-wipe",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V01",
@@ -1180,7 +1481,7 @@
      "page_url": "https://pixabay.com/videos/id-213748/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V01.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "egg  food  protein  breakfast  healthy  kitchen",
      "query": "clean kitchen",
@@ -1189,7 +1490,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a fried egg cooks in a pan, seasoned with pepper",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S08V01-fried-egg",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V02",
@@ -1200,7 +1510,7 @@
      "page_url": "https://www.pexels.com/video/woman-washing-the-dishes-8052784/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V02.mp4",
-     "score": 0,
+     "score": 5.3,
      "categories": [],
      "title": "",
      "query": "clean kitchen",
@@ -1209,7 +1519,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a woman in a headscarf washes dishes in a commercial kitchen",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S08V02-commercial-kitchen-wash",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V03",
@@ -1220,7 +1539,7 @@
      "page_url": "https://pixabay.com/videos/id-123629/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V03.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "pizza  food  italian  kitchen  prescription  ingredients",
      "query": "clean kitchen",
@@ -1229,7 +1548,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a cheese pizza sits on a table surrounded by ingredients",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S08V03-pizza-styling",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V04",
@@ -1240,7 +1568,7 @@
      "page_url": "https://www.pexels.com/video/person-washing-and-cleaning-a-cup-7477415/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V04.mp4",
-     "score": 0,
+     "score": 6.65,
      "categories": [],
      "title": "",
      "query": "clean kitchen",
@@ -1249,7 +1577,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man rinses a mug at the sink beside a dish rack",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S08V04-mug-rinse",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V05",
@@ -1260,7 +1597,7 @@
      "page_url": "https://pixabay.com/videos/id-149665/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V05.mp4",
-     "score": 0,
+     "score": 2.4,
      "categories": [],
      "title": "chili  vegetables  ingredients  kitchen  cook",
      "query": "clean kitchen",
@@ -1269,7 +1606,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands slice red chili peppers on a wooden cutting board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S08V05-chili-chop",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V06",
@@ -1280,7 +1626,7 @@
      "page_url": "https://www.pexels.com/video/woman-in-the-kitchen-6970332/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V06.mp4",
-     "score": 0,
+     "score": 4.0,
      "categories": [],
      "title": "",
      "query": "clean kitchen",
@@ -1289,7 +1635,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman works at a stove in a commercial kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S08V06-commercial-kitchen-stove",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V07",
@@ -1300,7 +1655,7 @@
      "page_url": "https://pixabay.com/videos/id-141854/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V07.mp4",
-     "score": 0,
+     "score": 2.05,
      "categories": [],
      "title": "plate  gas  fire  kitchen  matches  burns  prepare",
      "query": "clean kitchen",
@@ -1309,7 +1664,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand lights a gas stove burner with a match",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S08V07-gas-stove-light",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V08",
@@ -1320,7 +1684,7 @@
      "page_url": "https://www.pexels.com/video/woman-washing-dishes-6195929/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V08.mp4",
-     "score": 0,
+     "score": 5.3,
      "categories": [],
      "title": "",
      "query": "clean kitchen",
@@ -1329,7 +1693,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a gloved hand scrubs a dish at the kitchen sink",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-S08V08-glove-dish-scrub",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S08-V09",
@@ -1340,7 +1713,7 @@
      "page_url": "https://pixabay.com/videos/id-11606/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__thumb__communication-dont-assume-clarify-v2-S08-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__preview__communication-dont-assume-clarify-v2-S08-V09.mp4",
-     "score": 0,
+     "score": 2.4,
      "categories": [],
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh  table  healthy  preparing  homemade  chef  preparation  hand  organic  vegetarian  vegan",
      "query": "clean kitchen",
@@ -1349,7 +1722,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S08__strip__communication-dont-assume-clarify-v2-S08-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands mince garlic cloves on a wooden cutting board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S08V09-garlic-mince",
+     "judged_at": "2026-09-09T19:04:49Z",
+     "rank": 13,
+     "shown": false
     }
    ],
    "shots": [
@@ -1380,7 +1762,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "judged_at": "2026-09-09T19:04:49Z"
   },
   {
    "id": "S09",
@@ -1633,7 +2016,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pexels_5100043_checking-work-progress.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pexels_5100043_checking-work-progress.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pexels_5100043_checking-work-progress.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in a hard hat checks a phone and notebook indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-5100043-phone-notebook",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_6474150_worker-smartphone-construction",
@@ -1645,7 +2038,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pexels_6474150_worker-smartphone-construction.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pexels_6474150_worker-smartphone-construction.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pexels_6474150_worker-smartphone-construction.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man in a hard hat talks on the phone while holding a tablet",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-6474150-phone-tablet-call",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8482302_site-manager-tablet",
@@ -1657,7 +2060,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pexels_8482302_site-manager-tablet.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pexels_8482302_site-manager-tablet.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pexels_8482302_site-manager-tablet.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "three people in face masks review a laptop with a manager",
+     "violation": "face masks, laptop indoors, suit — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-8482302-masks-laptop-suit",
+     "score": 0.65,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_8963676_site-manager-tablet",
@@ -1669,7 +2082,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pexels_8963676_site-manager-tablet.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pexels_8963676_site-manager-tablet.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pexels_8963676_site-manager-tablet.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a woman in a safety vest taps a tablet near scaffolding",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-8963676-vest-tablet-scaffold",
+     "score": 6.3,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8964793_worker-tablet-site",
@@ -1681,7 +2104,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pexels_8964793_worker-tablet-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pexels_8964793_worker-tablet-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pexels_8964793_worker-tablet-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "two workers in hard hats point and talk at a building site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-8964793-two-workers-pointing",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_202987_builder-phone-site",
@@ -1693,7 +2126,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__thumb__pixabay_202987_builder-phone-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__preview__pixabay_202987_builder-phone-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S11__strip__pixabay_202987_builder-phone-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands hold a phone showing a photo at a wooden table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-202987-phone-closeup",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:05:19Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "openverse_93b836f4-af6a-4145-89c8-e01a_builder-phone-site",
@@ -1775,7 +2218,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "judged_at": "2026-09-09T19:05:19Z"
   },
   {
    "id": "S12",
@@ -1802,7 +2246,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_34572319_builder-pointing-issue.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_34572319_builder-pointing-issue.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_34572319_builder-pointing-issue.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand applies fresh plaster to a cement wall outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-34572319-plaster-hand",
+     "score": 3.4,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_34572320_builder-pointing-at-wall",
@@ -1814,7 +2268,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_34572320_builder-pointing-at-wall.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_34572320_builder-pointing-at-wall.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_34572320_builder-pointing-at-wall.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a man in a cap applies plaster to an outdoor wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-34572320-plaster-man",
+     "score": 4.05,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_5977452_two-people-serious-talk",
@@ -1826,7 +2290,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_5977452_two-people-serious-talk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_5977452_two-people-serious-talk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_5977452_two-people-serious-talk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a man and woman have a serious conversation indoors",
+     "violation": "office-style glass interior, not the brand's world",
+     "shot": "",
+     "shoot": "pexels-5977452-serious-talk-glass",
+     "score": 2.65,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_6129924_raising-a-concern",
@@ -1838,7 +2312,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_6129924_raising-a-concern.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_6129924_raising-a-concern.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_6129924_raising-a-concern.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two women sit while a hand offers them a folder",
+     "violation": "office/clinical setting with blinds, formal attire",
+     "shot": "",
+     "shoot": "pexels-6129924-office-concern",
+     "score": 1.3,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "pexels_6958105_concerned-worker-talking",
@@ -1850,7 +2334,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_6958105_concerned-worker-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_6958105_concerned-worker-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_6958105_concerned-worker-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman with glasses on her head speaks to camera",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-6958105-talking-head",
+     "score": 2.0,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_7581343_pointing-at-defect",
@@ -1862,7 +2356,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_7581343_pointing-at-defect.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_7581343_pointing-at-defect.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_7581343_pointing-at-defect.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "hands point at a colorful list on a paper menu",
+     "violation": "business suits, office-style document review",
+     "shot": "",
+     "shoot": "pexels-7581343-suits-pointing-list",
+     "score": 1.65,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_8293012_worker-inspecting-crack",
@@ -1874,7 +2378,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_8293012_worker-inspecting-crack.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_8293012_worker-inspecting-crack.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_8293012_worker-inspecting-crack.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a worker in a hard hat measures a kitchen counter",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-8293012-vest-measuring",
+     "score": 4.7,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8487985_foreman-pointing-issue",
@@ -1886,7 +2400,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__pexels_8487985_foreman-pointing-issue.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__pexels_8487985_foreman-pointing-issue.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__pexels_8487985_foreman-pointing-issue.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "two workers in hard hats point out a problem on a wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8487985-women-pointing-wall",
+     "score": 7.65,
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V00",
@@ -1897,7 +2421,7 @@
      "page_url": "https://www.pexels.com/video/female-factory-worker-operating-a-sewing-machine-31373752/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V00.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "workers environment",
@@ -1906,7 +2430,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman smiles while working a machine on a factory line",
+     "violation": "textile mill / factory environment",
+     "shot": "",
+     "shoot": "pixabay-S12V00-factory-smiling",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V01",
@@ -1917,7 +2450,7 @@
      "page_url": "https://pixabay.com/videos/id-3612/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V01.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worker  temperature  fire  flame  tube",
      "query": "workers environment",
@@ -1926,7 +2459,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a flame melts glass at the tip of a glassblower's rod",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S12V01-glassblowing",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V02",
@@ -1937,7 +2479,7 @@
      "page_url": "https://www.pexels.com/video/textile-factory-worker-operating-sewing-machine-31359193/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V02.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "workers environment",
@@ -1946,7 +2488,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman in a hairnet sews fabric on a factory line",
+     "violation": "textile factory / assembly line",
+     "shot": "",
+     "shoot": "pixabay-S12V02-factory-sewing",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V03",
@@ -1957,7 +2508,7 @@
      "page_url": "https://pixabay.com/videos/id-1635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V03.mp4",
-     "score": 0,
+     "score": 2.4,
      "categories": [],
      "title": "worker  shiva  early  morning  people  person  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  farming",
      "query": "workers environment",
@@ -1966,7 +2517,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a silhouetted man digs with a shovel by a river at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S12V03-silhouette-digging",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V04",
@@ -1977,7 +2537,7 @@
      "page_url": "https://www.pexels.com/video/indian-textile-workers-in-busy-factory-31369298/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V04.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "workers environment",
@@ -1986,7 +2546,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "workers sort folded fabric among rows of sewing machines",
+     "violation": "textile factory / assembly line",
+     "shot": "",
+     "shoot": "pixabay-S12V04-factory-fabric-sort",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V05",
@@ -1997,7 +2566,7 @@
      "page_url": "https://pixabay.com/videos/id-67460/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V05.mp4",
-     "score": 0,
+     "score": 3.4,
      "categories": [],
      "title": "worker  car  building  shovel  pour in  builder  wheelbarrow  construction  fill",
      "query": "workers environment",
@@ -2006,7 +2575,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a man in a safety vest shovels gravel into a wheelbarrow",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S12V05-vest-shovel-wheelbarrow",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V06",
@@ -2017,7 +2595,7 @@
      "page_url": "https://www.pexels.com/video/women-working-at-weaving-factory-10628542/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V06.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "workers environment",
@@ -2026,7 +2604,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a group handles large white fabric bundles in a warehouse",
+     "violation": "factory / crowd doing the same manual task",
+     "shot": "",
+     "shoot": "pixabay-S12V06-warehouse-crowd-fabric",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V07",
@@ -2037,7 +2624,7 @@
      "page_url": "https://pixabay.com/videos/id-3140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V07.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "construction worker  angle grinder  grinder  worker  construction  tool  work  industrial  cut  building  grinding  metalwork  mechanic  professional  industry",
      "query": "workers environment",
@@ -2046,7 +2633,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a worker cuts a brick wall with a sparking angle grinder",
+     "violation": "grinder sparks / dark industrial framing",
+     "shot": "",
+     "shoot": "pixabay-S12V07-grinder-sparks-night",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V08",
@@ -2057,7 +2653,7 @@
      "page_url": "https://www.pexels.com/video/efficient-textile-workers-in-factory-setting-31369403/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V08.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "workers environment",
@@ -2066,7 +2662,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two women review red fabric at a desk with lanyards",
+     "violation": "office/factory quality-control setting",
+     "shot": "",
+     "shoot": "pixabay-S12V08-office-fabric-review",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S12-V09",
@@ -2077,7 +2682,7 @@
      "page_url": "https://pixabay.com/videos/id-148541/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__thumb__communication-dont-assume-clarify-v2-S12-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__preview__communication-dont-assume-clarify-v2-S12-V09.mp4",
-     "score": 0,
+     "score": 3.4,
      "categories": [],
      "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
      "query": "workers environment",
@@ -2086,7 +2691,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S12__strip__communication-dont-assume-clarify-v2-S12-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "boots step through wet concrete beside a loaded wheelbarrow",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S12V09-boots-concrete",
+     "judged_at": "2026-09-09T19:06:33Z",
+     "rank": 5,
+     "shown": true
     }
    ],
    "shots": [
@@ -2117,7 +2731,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:06:33Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:06:33Z"
   },
   {
    "id": "S13",
@@ -2431,7 +3051,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__pexels_37335840_worker-adjusting-work-plan.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__pexels_37335840_worker-adjusting-work-plan.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__pexels_37335840_worker-adjusting-work-plan.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands hold a pneumatic rivet tool in a workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-37335840-rivet-tool",
+     "score": 2.7,
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_8964772_foreman-redirecting-worker-site",
@@ -2443,7 +3073,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__pexels_8964772_foreman-redirecting-worker-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__pexels_8964772_foreman-redirecting-worker-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__pexels_8964772_foreman-redirecting-worker-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "two workers in vests talk together at a building site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-8964772-vests-talk-crane",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_202987_worker-receiving-phone-update-si",
@@ -2455,7 +3095,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__pixabay_202987_worker-receiving-phone-update-si.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__pixabay_202987_worker-receiving-phone-update-si.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__pixabay_202987_worker-receiving-phone-update-si.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands hold a phone showing a message at a wooden table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-202987-phone-closeup",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_85350_foreman-redirecting-worker-site",
@@ -2467,7 +3117,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__pixabay_85350_foreman-redirecting-worker-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__pixabay_85350_foreman-redirecting-worker-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__pixabay_85350_foreman-redirecting-worker-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a worker shovels sand near a wheelbarrow on a paved site",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-85350-shovel-wheelbarrow",
+     "score": 4.7,
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8482551_worker-adjusting-work-plan",
@@ -2498,7 +3158,7 @@
      "page_url": "https://www.pexels.com/video/urban-construction-worker-on-site-in-auckland-38885276/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V00.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [],
      "title": "",
      "query": "worker progresses receives",
@@ -2507,7 +3167,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a worker in an orange vest stands behind blue site netting",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S15V00-vest-netting",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V01",
@@ -2518,7 +3187,7 @@
      "page_url": "https://pixabay.com/videos/id-85349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V01.mp4",
-     "score": 0,
+     "score": 3.7,
      "categories": [],
      "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
      "query": "worker progresses receives",
@@ -2527,7 +3196,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man climbs a wooden scaffold structure outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S15V01-scaffold-climb",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V02",
@@ -2538,7 +3216,7 @@
      "page_url": "https://www.pexels.com/video/package-delivery-4266805/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V02.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "worker progresses receives",
@@ -2547,7 +3225,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand signs a notebook resting on a cardboard box",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S15V02-notebook-box",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V03",
@@ -2558,7 +3245,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V03.mp4",
-     "score": 0,
+     "score": 3.75,
      "categories": [],
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  worker  work  nature",
      "query": "worker progresses receives",
@@ -2567,7 +3254,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "a man carries harvested corn stalks through a green field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S15V03-corn-harvest",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V04",
@@ -2578,7 +3274,7 @@
      "page_url": "https://www.pexels.com/video/woman-with-face-mask-receiving-a-package-4266810/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V04.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker progresses receives",
@@ -2587,7 +3283,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked delivery man hands a box to a masked woman",
+     "violation": "face masks, staged delivery scene",
+     "shot": "",
+     "shoot": "pexels-S15V04-masks-delivery",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V05",
@@ -2598,7 +3303,7 @@
      "page_url": "https://pixabay.com/videos/id-42925/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V05.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker progresses receives site",
@@ -2607,7 +3312,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "aerial view of workers on a large flat-roof construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S15V05-aerial-flatroof",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V06",
@@ -2618,7 +3332,7 @@
      "page_url": "https://www.pexels.com/video/woman-receiving-parcel-from-courier-6715786/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V06.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker progresses receives",
@@ -2627,7 +3341,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a delivery worker hands a package to a woman in a hallway",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S15V06-hallway-delivery",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V07",
@@ -2638,7 +3361,7 @@
      "page_url": "https://pixabay.com/videos/id-225740/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V07.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "construction site  trucks  lorries  aerial view  transport  building site  heavy vehicles  construction  transportation",
      "query": "worker progresses receives site",
@@ -2647,7 +3370,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial view of trucks working a large cleared construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S15V07-aerial-trucks",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V08",
@@ -2658,7 +3390,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-building-foundation-at-site-34521514/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V08.mp4",
-     "score": 0,
+     "score": 4.7,
      "categories": [],
      "title": "",
      "query": "worker progresses receives",
@@ -2667,7 +3399,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "workers and an excavator build a small brick structure outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-S15V08-excavator-brick",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V09",
@@ -2678,7 +3419,7 @@
      "page_url": "https://pixabay.com/videos/id-42922/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__thumb__communication-dont-assume-clarify-v2-S15-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__preview__communication-dont-assume-clarify-v2-S15-V09.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "worker progresses receives site",
@@ -2687,7 +3428,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S15__strip__communication-dont-assume-clarify-v2-S15-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "aerial view of a large high-rise construction site with cranes",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S15V09-aerial-highrise-cranes",
+     "judged_at": "2026-09-09T19:07:31Z",
+     "rank": 13,
+     "shown": false
     }
    ],
    "shots": [
@@ -2718,7 +3468,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T19:07:31Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:07:31Z"
   },
   {
    "id": "S16",
@@ -2745,7 +3501,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__pexels_6474392_worker-texting-phone-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__pexels_6474392_worker-texting-phone-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__pexels_6474392_worker-texting-phone-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a woman in a hard hat photographs something on her phone",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-6474392-hardhat-phone",
+     "score": 6.65,
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7191312_writing-instructions-clipboard-s",
@@ -2757,7 +3523,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__pexels_7191312_writing-instructions-clipboard-s.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__pexels_7191312_writing-instructions-clipboard-s.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__pexels_7191312_writing-instructions-clipboard-s.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man and woman review notes on a clipboard together",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-7191312-clipboard-review",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_202987_worker-texting-phone-hardhat",
@@ -2769,7 +3545,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__pixabay_202987_worker-texting-phone-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__pixabay_202987_worker-texting-phone-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__pixabay_202987_worker-texting-phone-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands hold a phone showing a message at a wooden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-202987-phone-wooden-table",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8961068_worker-texting-phone-hardhat",
@@ -2800,7 +3586,7 @@
      "page_url": "https://www.pexels.com/video/man-talking-on-the-phone-8347252/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V00.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker Sequence urgent phone",
@@ -2809,7 +3595,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in a suit talks on the phone at an office desk",
+     "violation": "office desk, suit — explicit never-list",
+     "shot": "",
+     "shoot": "pexels-S16V00-office-suit-phone",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V01",
@@ -2820,7 +3615,7 @@
      "page_url": "https://pixabay.com/videos/id-1360/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V01.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "social media  smart phone  mobile  internet  technology  media  business  network  communication  social  social media icons  telephone  screen  social media icons vector  phone  people  social media business  global  social media background  wireless  design  connection  social media people  web  smart  icon  set  group  symbol  information  messaging  social media icon set  email",
      "query": "worker Sequence urgent phone",
@@ -2829,7 +3624,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a hand taps a phone with social media icons floating above it",
+     "violation": "stock graphic overlay, not the brand's world",
+     "shot": "",
+     "shoot": "pixabay-S16V01-social-icons-overlay",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V02",
@@ -2840,7 +3644,7 @@
      "page_url": "https://www.pexels.com/video/people-working-at-an-office-8691678/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V02.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker Sequence urgent phone",
@@ -2849,7 +3653,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an overhead view of a desk with keyboards and monitors",
+     "violation": "office desk with monitors/keyboards",
+     "shot": "",
+     "shoot": "pexels-S16V02-office-desk-overhead",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V03",
@@ -2860,7 +3673,7 @@
      "page_url": "https://pixabay.com/videos/id-47743/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V03.mp4",
-     "score": 0,
+     "score": 4.0,
      "categories": [],
      "title": "phone  hands  screen touch  smart phone  message",
      "query": "worker Sequence urgent phone",
@@ -2869,7 +3682,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a hand holds and scrolls a smartphone close up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S16V03-phone-closeup-scroll",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V04",
@@ -2880,7 +3702,7 @@
      "page_url": "https://www.pexels.com/video/man-talking-on-the-phone-and-using-a-laptop-7643842/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V04.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker Sequence urgent phone",
@@ -2889,7 +3711,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in a suit takes a call at a desk by window blinds",
+     "violation": "office/boardroom, suit, laptop",
+     "shot": "",
+     "shoot": "pexels-S16V04-office-boardroom-suit",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V05",
@@ -2900,7 +3731,7 @@
      "page_url": "https://pixabay.com/videos/id-142641/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V05.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "man  phone  smartphone  mobile",
      "query": "worker Sequence urgent phone",
@@ -2909,7 +3740,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a man in a tan coat checks his phone on a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S16V05-street-phone-coat",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V06",
@@ -2920,7 +3760,7 @@
      "page_url": "https://www.pexels.com/video/an-elderly-scientist-talking-on-the-phone-while-looking-at-a-computer-8539725/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V06.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "worker Sequence urgent phone",
@@ -2929,7 +3769,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman in a hairnet and lab coat talks on the phone",
+     "violation": "lab/food-processing setting, not the brand's world",
+     "shot": "",
+     "shoot": "pexels-S16V06-lab-hairnet-phone",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V07",
@@ -2940,7 +3789,7 @@
      "page_url": "https://pixabay.com/videos/id-6590/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V07.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "guy  phone  city  street  mobile phone  wait  italy",
      "query": "worker Sequence urgent phone",
@@ -2949,7 +3798,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man with a man-bun checks his phone on a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S16V07-street-phone-manbun",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V08",
@@ -2960,7 +3818,7 @@
      "page_url": "https://www.pexels.com/video/a-mechanic-on-a-phone-call-holding-a-folder-6870345/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V08.mp4",
-     "score": 0,
+     "score": 5.0,
      "categories": [],
      "title": "",
      "query": "worker Sequence urgent phone",
@@ -2969,7 +3827,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a mechanic talks on the phone while holding a folder in a garage",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-S16V08-garage-mechanic-phone",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S16-V09",
@@ -2980,7 +3847,7 @@
      "page_url": "https://pixabay.com/videos/id-88686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__thumb__communication-dont-assume-clarify-v2-S16-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__preview__communication-dont-assume-clarify-v2-S16-V09.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "phone  scrolling phone  woman  picnic  hands  girl  summer  nature",
      "query": "Sequence urgent phone site",
@@ -2989,7 +3856,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S16__strip__communication-dont-assume-clarify-v2-S16-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a hand holds a phone with a blank green screen at a picnic",
+     "violation": "green screen phone display — explicit never-list",
+     "shot": "",
+     "shoot": "pixabay-S16V09-greenscreen-picnic",
+     "judged_at": "2026-09-09T19:08:26Z",
+     "rank": 13,
+     "shown": false
     }
    ],
    "shots": [
@@ -3020,7 +3896,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "judged_at": "2026-09-09T19:08:26Z"
   },
   {
    "id": "S17",
@@ -3047,7 +3924,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__pexels_8963857_worker-nodding-confirming-instru.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__pexels_8963857_worker-nodding-confirming-instru.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__pexels_8963857_worker-nodding-confirming-instru.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a man in a hard hat and goggles points while holding a radio",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8963857-hangar-radio-point",
+     "score": 4.65,
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8964376_two-workers-confirming-task-site",
@@ -3059,7 +3946,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__pexels_8964376_two-workers-confirming-task-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__pexels_8964376_two-workers-confirming-task-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__pexels_8964376_two-workers-confirming-task-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two workers review notes on a clipboard at a building site",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8964376-clipboard-two-workers",
+     "score": 6.0,
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_121409_thumbs-up-understood-site",
@@ -3071,7 +3968,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__pixabay_121409_thumbs-up-understood-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__pixabay_121409_thumbs-up-understood-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__pixabay_121409_thumbs-up-understood-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "aerial view of a large housing development under construction",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-121409-aerial-housing-dev",
+     "score": 2.35,
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_8961524_worker-nodding-confirming-instru",
@@ -3102,7 +4009,7 @@
      "page_url": "https://www.pexels.com/video/people-talking-in-the-warehouse-4280747/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V00.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "",
      "query": "worker gives instructions",
@@ -3111,7 +4018,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two men in matching uniforms stand near warehouse pallets",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S17V00-warehouse-uniforms",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V01",
@@ -3122,7 +4038,7 @@
      "page_url": "https://pixabay.com/videos/id-85351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V01.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "worker gives instructions",
@@ -3131,7 +4047,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a worker in a vest uses a plate compactor on a paved path",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-S17V01-plate-compactor",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V02",
@@ -3142,7 +4067,7 @@
      "page_url": "https://www.pexels.com/video/a-man-comforting-a-female-volunteer-10350203/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V02.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker gives instructions",
@@ -3151,7 +4076,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "three young men comfort a woman while holding papers outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S17V02-group-comfort-outdoor",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V03",
@@ -3162,7 +4096,7 @@
      "page_url": "https://pixabay.com/videos/id-67461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V03.mp4",
-     "score": 0,
+     "score": 3.05,
      "categories": [],
      "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "worker gives instructions",
@@ -3171,7 +4105,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a man cuts paving stones with an angle grinder in a cloud of dust",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S17V03-grinder-pavers-dust",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V04",
@@ -3182,7 +4125,7 @@
      "page_url": "https://www.pexels.com/video/men-in-the-warehouse-having-a-discussion-4280924/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V04.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "",
      "query": "worker gives instructions",
@@ -3191,7 +4134,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two men in uniforms discuss with a woman near warehouse pallets",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-S17V04-warehouse-tablet-review",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V05",
@@ -3202,7 +4154,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V05.mp4",
-     "score": 0,
+     "score": 4.7,
      "categories": [],
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "worker gives instructions",
@@ -3211,7 +4163,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands lay pavers with a rubber mallet on a garden path",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-S17V05-paver-mallet-hands",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V06",
@@ -3222,7 +4183,7 @@
      "page_url": "https://www.pexels.com/video/men-working-at-a-construction-site-16106604/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V06.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "worker gives instructions",
@@ -3231,7 +4192,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker in a vest walks past a cement truck at an industrial yard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S17V06-vest-cement-truck",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V07",
@@ -3242,7 +4212,7 @@
      "page_url": "https://pixabay.com/videos/id-206692/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V07.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "construction site  development  infrastructure  real estate  suburb  structure  growth  engineering  tower  tall  high  rooftop  connected  architect  information  working  scene  sunlight  construction worker  pakistan  drone  aerial view",
      "query": "worker gives instructions site",
@@ -3251,7 +4221,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "aerial view of a sprawling housing development under construction",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S17V07-aerial-housing-dev2",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V08",
@@ -3262,7 +4241,7 @@
      "page_url": "https://www.pexels.com/video/man-at-work-wearing-his-helmet-5100046/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V08.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "",
      "query": "worker gives instructions",
@@ -3271,7 +4250,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man puts on an orange hard hat inside a warehouse",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-S17V08-hardhat-warehouse",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "communication-dont-assume-clarify-v2-S17-V09",
@@ -3282,7 +4270,7 @@
      "page_url": "https://pixabay.com/videos/id-206694/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__thumb__communication-dont-assume-clarify-v2-S17-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__preview__communication-dont-assume-clarify-v2-S17-V09.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "construction site  development  infrastructure  real estate  suburb  structure  growth  engineering  tower  tall  high  rooftop  connected  architect  information  working  scene  sunlight  construction worker  pakistan  drone  aerial view",
      "query": "worker gives instructions site",
@@ -3291,7 +4279,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S17__strip__communication-dont-assume-clarify-v2-S17-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial view of a large housing development beside open desert land",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-S17V09-aerial-housing-dev3",
+     "judged_at": "2026-09-09T19:09:23Z",
+     "rank": 13,
+     "shown": false
     }
    ],
    "shots": [
@@ -3322,7 +4319,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:09:23Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:09:23Z"
   }
  ]
 }
