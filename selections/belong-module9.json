@@ -1,6 +1,6 @@
 {
   "project": "belong-module9",
-  "updated": "2026-09-09T11:16:56.715Z",
+  "updated": "2026-09-09T11:17:37.559Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -107,13 +107,19 @@
       "added": 10
     },
     "S13": {
-      "requested": "2026-09-09T09:20:00Z",
+      "requested": "2026-09-09T11:17:37.535Z",
       "note": "10 more contexutal in hospitality industry.",
       "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:41:36Z",
-      "added": 10
+      "avoid": [
+        "family",
+        "hotel",
+        "farm",
+        "hospitality",
+        "industry",
+        "countryside",
+        "staff"
+      ],
+      "done": false
     },
     "S10": {
       "requested": "2026-09-09T09:20:00Z",
