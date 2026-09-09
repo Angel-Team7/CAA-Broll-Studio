@@ -437,3 +437,33 @@
 | pexels |  | Kuiyibo Campos | Pexels License | https://www.pexels.com/video/collaborative-team-working-on-video-production-37903880/ |
 | pexels |  | HONG SON | Pexels License | https://www.pexels.com/video/airport-ground-crew-taking-break-at-runway-32724914/ |
 | pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/two-men-are-working-on-the-railroad-tracks-16222743/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135889/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-production-in-action-31373750/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/textile-factory-worker-operating-machinery-32243767/ |
+| pexels |  | Roman Kaiuk🇺🇦 | Pexels License | https://www.pexels.com/video/a-person-working-on-the-table-3905030/ |
+| pexels |  | El Jundi | Pexels License | https://www.pexels.com/video/efficient-paper-cutting-in-office-workspace-34402891/ |
+| pexels |  | PyccTypucT | Pexels License | https://www.pexels.com/video/20682093/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/graduation-caps-and-confetti-on-the-floor-7945673/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/construction-site-with-excavator-in-action-30911526/ |
+| pexels |  | 23  Audiovisual | Pexels License | https://www.pexels.com/video/excavator-on-rocky-construction-site-38815023/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-bulldozer-leveling-the-soil-in-the-construction-site-5407518/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-checking-mechanic-tools-6685030/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-delivering-a-package-6667258/ |
+| pexels |  | Michael Manning | Pexels License | https://www.pexels.com/video/conveyor-at-the-airport-1169852/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/full-shot-from-behind-of-a-little-boy-pointing-and-looking-at-a-huge-world-map-8538615/ |
+| pexels |  | samazing family | Pexels License | https://www.pexels.com/video/blond-deutsch-spiegel-naturliche-schonheit-4144784/ |
+| pexels |  | Ulrich  Scharwächter | Pexels License | https://www.pexels.com/video/baby-on-a-train-1249406/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-s-hand-is-holding-a-piece-of-dirt-20522544/ |
+| pexels |  | Deeana Arts 🇵🇷 | Pexels License | https://www.pexels.com/video/person-holding-soil-3568957/ |
+| pexels |  | Andi  Farruku | Pexels License | https://www.pexels.com/video/a-person-using-end-cutter-8087632/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/boss-writing-on-a-whiteboard-7593885/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-having-an-argument-at-work-9034407/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/men-standing-on-football-field-7187090/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/workers-are-working-on-a-railroad-track-16222742/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-red-and-white-work-on-a-large-piece-of-machinery-27513374/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/an-actor-and-actress-working-together-with-the-director-8089235/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/industrial-welder-at-work-in-factory-setting-32243442/ |
+| pexels |  | Zintle Ramano | Pexels License | https://www.pexels.com/video/a-construction-worker-getting-off-a-compact-loader-14185520/ |
+| pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/skilled-welder-working-with-sparks-indoors-31806788/ |
+| pexels |  | Lalit Shihir | Pexels License | https://www.pexels.com/video/thinking-expression-indian-men-lalit-shihir-16072503/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-factory-worker-in-textile-industry-31360109/ |
