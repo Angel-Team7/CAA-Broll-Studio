@@ -67,7 +67,7 @@
  },
  "pexels:4487290": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9s",
+  "reason": "luxury spa clichés",
   "at": "2026-09-09T16:04:41Z",
   "from": "belong-module9/S03"
  },
@@ -817,9 +817,9 @@
  },
  "pixabay:70345": {
   "brand": "belong",
-  "reason": "corporate office",
-  "at": "2026-09-09T16:45:46Z",
-  "from": "belong-module9/S02"
+  "reason": "corporate huddle in office",
+  "at": "2026-09-09T17:51:38Z",
+  "from": "belong-module12/S10"
  },
  "pexels:7652718": {
   "brand": "belong",
@@ -1243,7 +1243,7 @@
  },
  "pexels:https://www.pexels.com/video/a-person-touching-a-plant-7944616/": {
   "brand": "belong",
-  "reason": "seedling in cupped hands clich\u00e9",
+  "reason": "seedling in cupped hands cliché",
   "at": "2026-09-09T17:35:17Z",
   "from": "belong-module2/S02"
  },
@@ -1339,19 +1339,19 @@
  },
  "heygen:": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/an-indoor-swimming-pool-used-for-training-6012515/": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
@@ -1492,5 +1492,29 @@
   "reason": "dark industrial workshop",
   "at": "2026-09-09T17:48:20Z",
   "from": "edenrise-c2-kaizen/S01"
+ },
+ "pexels:https://www.pexels.com/video/volunteers-reading-a-missing-poster-10350201/": {
+  "brand": "belong",
+  "reason": "hi-vis crews",
+  "at": "2026-09-09T17:51:38Z",
+  "from": "belong-module12/S10"
+ },
+ "pexels:https://www.pexels.com/video/friends-standing-in-a-beach-10495016/": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-09T17:51:38Z",
+  "from": "belong-module12/S10"
+ },
+ "pixabay:268230": {
+  "brand": "belong",
+  "reason": "corporate huddle in office",
+  "at": "2026-09-09T17:51:38Z",
+  "from": "belong-module12/S10"
+ },
+ "pexels:8124282": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:51:38Z",
+  "from": "belong-module12/S10"
  }
 }

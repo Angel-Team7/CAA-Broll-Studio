@@ -1762,7 +1762,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__thumb__pexels_10413022_experienced-farmer-teaching-youn.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__preview__pexels_10413022_experienced-farmer-teaching-youn.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__strip__pexels_10413022_experienced-farmer-teaching-youn.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "an older man laughs and points while a young boy watches",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-outdoor-mentorlaugh",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_38487305_mentorship-kitchen-garden",
@@ -1784,7 +1794,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__thumb__pexels_5960699_gardener-showing-apprentice-plan.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__preview__pexels_5960699_gardener-showing-apprentice-plan.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__strip__pexels_5960699_gardener-showing-apprentice-plan.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a grandmother guides a girl's hand arranging white flowers",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-porch-flowerarranging",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6829135_training-new-employee-restaurant",
@@ -1796,7 +1816,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__thumb__pexels_6829135_training-new-employee-restaurant.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__preview__pexels_6829135_training-new-employee-restaurant.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__strip__pexels_6829135_training-new-employee-restaurant.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "an apron-clad host talks with guests at a bright wooden counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-brightcafe-host",
+     "score": 4.05,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8508153_chef-teaching-young-cook-kitchen",
@@ -1808,7 +1838,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__thumb__pexels_8508153_chef-teaching-young-cook-kitchen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__preview__pexels_8508153_chef-teaching-young-cook-kitchen.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__strip__pexels_8508153_chef-teaching-young-cook-kitchen.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a young cook in a tall hat preps vegetables alone in a kitchen",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-soloprep-kitchen",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7782156_mentorship-kitchen-garden",
@@ -1868,7 +1908,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:51:37Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:51:37Z"
   },
   {
    "id": "S08",
@@ -1895,7 +1941,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_5961379_staff-dinner-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_5961379_staff-dinner-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_5961379_staff-dinner-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "women share a relaxed evening meal at a lantern-lit outdoor table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-outdoorstaffdinner",
+     "score": 6.65,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5961961_coworkers-sharing-meal-outdoors",
@@ -1907,7 +1963,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_5961961_coworkers-sharing-meal-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_5961961_coworkers-sharing-meal-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_5961961_coworkers-sharing-meal-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man hands a note to a woman at a lantern-lit outdoor dinner table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-outdoorstaffdinner",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6715318_staff-dinner-long-table-laughing",
@@ -1919,7 +1985,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_6715318_staff-dinner-long-table-laughing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_6715318_staff-dinner-long-table-laughing.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_6715318_staff-dinner-long-table-laughing.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "three people talk at a candlelit table in a moody ornate room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-moodydining-trio",
+     "score": 3.65,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7594441_restaurant-staff-eating-together",
@@ -1931,7 +2007,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_7594441_restaurant-staff-eating-together.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_7594441_restaurant-staff-eating-together.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_7594441_restaurant-staff-eating-together.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two people share noodles with chopsticks at a wooden table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-noodles-sharedmeal",
+     "score": 4.35,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8102988_kitchen-team-lunch-together",
@@ -1943,7 +2029,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_8102988_kitchen-team-lunch-together.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_8102988_kitchen-team-lunch-together.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_8102988_kitchen-team-lunch-together.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two coworkers eat instant noodles together in a break room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-breakroom-noodles",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_9761222_restaurant-staff-eating-together",
@@ -1955,7 +2051,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pexels_9761222_restaurant-staff-eating-together.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pexels_9761222_restaurant-staff-eating-together.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pexels_9761222_restaurant-staff-eating-together.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "friends feed each other cake at a balloon-decorated celebration",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-balloon-celebration",
+     "score": 2.35,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pixabay_2339_family-meal-restaurant-staff",
@@ -1967,7 +2073,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__thumb__pixabay_2339_family-meal-restaurant-staff.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pixabay_2339_family-meal-restaurant-staff.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__strip__pixabay_2339_family-meal-restaurant-staff.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "guests share a salad and coffee at an outdoor cafe table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cafe-table",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_1853958_coworkers-eating-laughing",
@@ -2020,7 +2136,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:51:37Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:51:37Z"
   },
   {
    "id": "S09",
@@ -2037,7 +2159,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_27308490_drone-rural-hotel-property.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_27308490_drone-rural-hotel-property.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pexels_27308490_drone-rural-hotel-property.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "aerial daylight view of a rural building complex with parking lots",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-aerial-ruralcomplex",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_29127878_drone-vineyard-sunset",
@@ -2049,7 +2181,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_29127878_drone-vineyard-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_29127878_drone-vineyard-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pexels_29127878_drone-vineyard-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "golden-hour aerial sweep across rolling vineyard hills",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-aerial-vineyardgold",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_29487912_aerial-countryside-villa-golden",
@@ -2061,7 +2203,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_29487912_aerial-countryside-villa-golden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_29487912_aerial-countryside-villa-golden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pexels_29487912_aerial-countryside-villa-golden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "aerial dusk view of a grand turreted hillside estate",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-grandestate",
+     "score": 2.65,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_29615502_aerial-olive-grove-sunset",
@@ -2083,7 +2235,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_34350685_drone-farmhouse-estate-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_34350685_drone-farmhouse-estate-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pexels_34350685_drone-farmhouse-estate-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "aerial view of an orange-roofed farmhouse among trees at dusk",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-aerial-farmhousedusk",
+     "score": 9.0,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_857250_aerial-farm-buildings-fields-eve",
@@ -2095,7 +2257,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_857250_aerial-farm-buildings-fields-eve.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_857250_aerial-farm-buildings-fields-eve.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pexels_857250_aerial-farm-buildings-fields-eve.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "aerial view of farm buildings amid green fields at dusk",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-aerial-farmbuildings",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_174452_farm-resort-sunset-drone",
@@ -2107,7 +2279,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pixabay_174452_farm-resort-sunset-drone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pixabay_174452_farm-resort-sunset-drone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__strip__pixabay_174452_farm-resort-sunset-drone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "aerial view of grazing herds across patchwork farmland",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-grazingherds",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:51:37Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7279569_estate-aerial-golden-hour",
@@ -2150,7 +2332,8 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "judged_at": "2026-09-09T17:51:37Z"
   },
   {
    "id": "S10",
@@ -2167,7 +2350,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pexels_10350201_team-briefing-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pexels_10350201_team-briefing-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pexels_10350201_team-briefing-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a hi-vis vest crew gathers around a folding table outdoors",
+     "violation": "hi-vis crews",
+     "shot": "",
+     "shoot": "pexels-hivis-briefing",
+     "score": 0.65,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pexels_10495016_friends-standing-hill-sunrise-to",
@@ -2179,7 +2372,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pexels_10495016_friends-standing-hill-sunrise-to.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pexels_10495016_friends-standing-hill-sunrise-to.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pexels_10495016_friends-standing-hill-sunrise-to.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a group stands together on a sandbar at dawn by the sea",
+     "violation": "resort pools and beaches",
+     "shot": "",
+     "shoot": "pexels-beach-dawngroup",
+     "score": 1.65,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "pexels_3256548_staff-group-meeting-garden",
@@ -2201,7 +2404,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pexels_3981540_team-gathering-before-service-re.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pexels_3981540_team-gathering-before-service-re.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pexels_3981540_team-gathering-before-service-re.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a staff member briefs seated colleagues at a bright cafe",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-cafe-briefing",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_5359716_staff-meeting-outdoors-garden",
@@ -2213,7 +2426,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pexels_5359716_staff-meeting-outdoors-garden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pexels_5359716_staff-meeting-outdoors-garden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pexels_5359716_staff-meeting-outdoors-garden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman in a hat gestures to colleagues at an outdoor table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-park-outdoormeeting",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_9465172_team-standing-together-sunrise",
@@ -2225,7 +2448,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pexels_9465172_team-standing-together-sunrise.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pexels_9465172_team-standing-together-sunrise.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pexels_9465172_team-standing-together-sunrise.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "diverse hands stack together in a close overhead huddle",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-hands-unitystack",
+     "score": 6.3,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_27111_team-huddle-outdoors-morning",
@@ -2237,7 +2470,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pixabay_27111_team-huddle-outdoors-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pixabay_27111_team-huddle-outdoors-morning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pixabay_27111_team-huddle-outdoors-morning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a misty hillside landscape fades into fog at dawn",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-mistylandscape",
+     "score": 2.75,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pixabay_59291_team-gathering-sunrise",
@@ -2249,7 +2492,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__pixabay_59291_team-gathering-sunrise.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__pixabay_59291_team-gathering-sunrise.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__pixabay_59291_team-gathering-sunrise.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 7,
+     "caption": "the sun bursts over misty mountains at sunrise",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sunrise-mountains",
+     "score": 3.1,
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_30396772_team-briefing-outdoors",
@@ -2270,7 +2523,7 @@
      "page_url": "https://pixabay.com/videos/id-73531/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V01.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "man  corridor  coffee  phone  break  business  work  team  people  office  employees  marketing  environment  conversation  mobile  communication",
      "query": "closing unity team",
@@ -2279,7 +2532,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a man in a hat uses a coffee machine in a dim hallway",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hallway-coffee",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V03",
@@ -2290,7 +2552,7 @@
      "page_url": "https://pixabay.com/videos/id-5614/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V03.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "baseball  sport  competition  play  ball  game  team  baseball player  professional  american",
      "query": "closing unity team",
@@ -2299,7 +2561,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an extreme close-up of a softball with color overlay",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-softball-closeup",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V05",
@@ -2310,7 +2581,7 @@
      "page_url": "https://pixabay.com/videos/id-22599/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V05.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "woman  work  shooting  photographer  team  photo-session  clothes  asian  person  asia  smile  attractive  people  adult  japanese  fashion",
      "query": "closing unity team",
@@ -2319,7 +2590,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a woman in a patterned dress stands in a brick-walled room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-brickroom-dress",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V07",
@@ -2330,7 +2610,7 @@
      "page_url": "https://pixabay.com/videos/id-268230/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "business  office  computer  man  laptop  company  corporate  meeting  work  marketing  team  technology  people  internet  planning  professional  working  project  web  startup  building  young  students  plan",
      "query": "closing unity team",
@@ -2339,7 +2619,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "three business people in suits point at a data screen",
+     "violation": "corporate huddle in office",
+     "shot": "",
+     "shoot": "pixabay-corporate-screen",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V11",
@@ -2350,7 +2639,7 @@
      "page_url": "https://pixabay.com/videos/id-48991/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V11.mp4",
-     "score": 0,
+     "score": 2.65,
      "categories": [],
      "title": "diversity  teamwork  unity  hands  friends  together  business  work  team  friendship  collaboration  handshake  corporate  community  partnership  communication  support  cooperation  meeting  storiesofdiversity  success  hello  goal  trust  agreement  union",
      "query": "closing unity team",
@@ -2359,7 +2648,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a digital graphic of linked hands over a grass background",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-teamwork-graphic",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module12-S10-V13",
@@ -2370,7 +2668,7 @@
      "page_url": "https://pixabay.com/videos/id-10827/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "goalkeeper  soccer  sports  team  ball  sport  football  goal  game  play  stadium  player  field  goalie  playground  footballer  competitive  activity  keeper  sportsman  competition  soccer-ball",
      "query": "closing unity team",
@@ -2379,7 +2677,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a goalkeeper stands in goal on a soccer field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-soccer-field",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V17",
@@ -2390,7 +2697,7 @@
      "page_url": "https://pixabay.com/videos/id-18439/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V17.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "board  chalk  smiley  pleasure  positive  study  school  training  to learn  classroom  blackboard  vision  happy  team  teamwork  feedback  review  business  marketing  success  solution  motivation  successful  presentation",
      "query": "closing unity team",
@@ -2399,7 +2706,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "chalk-drawn circles on a blackboard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chalkboard-circles",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V19",
@@ -2410,7 +2726,7 @@
      "page_url": "https://pixabay.com/videos/id-65807/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V19.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "dice  points  roll the dice  to play  toy  random  number  random number  hobby  win  risk  chance  board game  happiness  gambling  headlights  light  block  geometric  body  rectangular  side surface  team  pixworm  participate",
      "query": "closing unity team",
@@ -2419,7 +2735,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a white die tumbles and comes to rest against black",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dice",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V20",
@@ -2430,7 +2755,7 @@
      "page_url": "https://www.pexels.com/video/low-angle-view-of-friends-talking-6192778/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V20.mp4",
-     "score": 0,
+     "score": 3.65,
      "categories": [],
      "title": "",
      "query": "closing unity team",
@@ -2439,7 +2764,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a diverse group reaches up together for a low-angle huddle",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-studio-huddle",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-module12-S10-V21",
@@ -2450,7 +2784,7 @@
      "page_url": "https://pixabay.com/videos/id-231246/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V21.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "field  paddy field  plantation  agriculture  rural  rice  plant  paddy  farmer  farm  countryside  worker  season  outdoor  organic  holding  harvesting  vietnam  thailand  nature",
      "query": "worker gathered outdoors morning",
@@ -2459,7 +2793,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "aerial view of a lone worker in a green rice paddy",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-ricepaddy-aerial",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-module12-S10-V22",
@@ -2470,7 +2813,7 @@
      "page_url": "https://www.pexels.com/video/a-group-of-people-putting-their-hands-together-8124282/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V22.mp4",
-     "score": 0,
+     "score": 1.65,
      "categories": [],
      "title": "",
      "query": "closing unity team",
@@ -2479,7 +2822,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a formally dressed group high-fives over a game table",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-formalgame-highfive",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V23",
@@ -2490,7 +2842,7 @@
      "page_url": "https://pixabay.com/videos/id-70345/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V23.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "team  office  work  success  satisfaction  mission  management",
      "query": "closing unity team",
@@ -2499,7 +2851,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "young professionals cheer together in a bright office",
+     "violation": "corporate huddle in office",
+     "shot": "",
+     "shoot": "pexels-office-celebration",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V24",
@@ -2510,7 +2871,7 @@
      "page_url": "https://www.pexels.com/video/office-team-huddling-6339866/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V24.mp4",
-     "score": 0,
+     "score": 3.65,
      "categories": [],
      "title": "",
      "query": "closing unity team",
@@ -2519,7 +2880,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a group in white shirts cheers with raised hands in a plain room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-studio-huddle",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-module12-S10-V25",
@@ -2530,7 +2900,7 @@
      "page_url": "https://pixabay.com/videos/id-12609/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V25.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "basketball  ball  sport  basket  court  game  competition  play  activity  equipment  team  symbol  leisure  recreation  design  sphere  circle  fun  tournament  orange  round  athletic  win  action  competitive  nba  league  training  champion  stadium  field  professional  winning  winner  championship  playing",
      "query": "closing unity team",
@@ -2539,7 +2909,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "basketballs float and bounce against a black background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-basketballs",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V26",
@@ -2550,7 +2929,7 @@
      "page_url": "https://www.pexels.com/video/office-team-huddling-6339871/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V26.mp4",
-     "score": 0,
+     "score": 3.65,
      "categories": [],
      "title": "",
      "query": "closing unity team",
@@ -2559,7 +2938,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a group of young women stack hands together in a plain room",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-studio-huddle",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V27",
@@ -2570,7 +2958,7 @@
      "page_url": "https://pixabay.com/videos/id-150852/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V27.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "emirates  arsenal  soccer  london  team  sport  england  city",
      "query": "closing unity team",
@@ -2579,7 +2967,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a soccer player statue stands outside a stadium",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stadium-statue",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-module12-S10-V28",
@@ -2590,7 +2987,7 @@
      "page_url": "https://www.pexels.com/video/people-putting-their-hands-together-9464875/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V28.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "closing unity team",
@@ -2599,7 +2996,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a silhouetted group raises hands together backlit by a window",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-backlit-silhouette",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-module12-S10-V29",
@@ -2610,7 +3016,7 @@
      "page_url": "https://pixabay.com/videos/id-40818/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__thumb__belong-module12-S10-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__preview__belong-module12-S10-V29.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "corridor  office  bank  employees  deposit  money  business  finances  credit  the success of the  investor  people  service  consultant  team  guide",
      "query": "closing unity team",
@@ -2619,7 +3025,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S10__strip__belong-module12-S10-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two workers in branded jackets walk down an office corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-officecorridor-walk",
+     "judged_at": "2026-09-09T17:51:38Z",
+     "rank": 15,
+     "shown": false
     }
    ],
    "timing_source": "unrecorded",
@@ -2659,7 +3074,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:51:38Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:51:38Z"
   }
  ]
 }
