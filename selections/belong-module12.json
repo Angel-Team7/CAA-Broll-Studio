@@ -39,19 +39,14 @@
   },
   "topup_requests": {
     "S03": {
-      "requested": "2026-08-26T16:25:22.713Z",
-      "note": "generates more contextual videos",
-      "reason": "direction",
-      "done": true,
-      "fulfilled": "2026-08-27T13:11:09Z",
-      "added": 10
+      "requested": "2026-09-09T09:25:00Z",
+      "note": "",
+      "done": false
     },
     "S10": {
-      "requested": "2026-08-26T16:34:17.500Z",
+      "requested": "2026-09-09T09:25:01Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-08-27T13:11:33Z",
-      "added": 10
+      "done": false
     }
   }
 }
