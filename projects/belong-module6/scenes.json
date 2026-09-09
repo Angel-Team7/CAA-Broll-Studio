@@ -672,7 +672,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S08__thumb__pexels_10565829_linen-drying-sunshine.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S08__preview__pexels_10565829_linen-drying-sunshine.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S08__strip__pexels_10565829_linen-drying-sunshine.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "pink and white fabric hangs drying on a line, backlit by the sun",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-linen-drying-line-backlit",
+     "score": 7.35,
+     "judged_at": "2026-09-09T17:27:44Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8756625_laundry-hands-sheets",
@@ -723,7 +733,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:27:44Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:27:44Z"
   },
   {
    "id": "S09",
