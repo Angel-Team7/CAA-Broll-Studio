@@ -1140,7 +1140,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__thumb__pexels_5657049_waiter-carrying-tray-desserts-re.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pexels_5657049_waiter-carrying-tray-desserts-re.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__strip__pexels_5657049_waiter-carrying-tray-desserts-re.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a waiter carries an elegant appetizer platter to the table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-waiter-appetizer-platter",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:43:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6396243_server-pouring-wine-generously",
@@ -1152,7 +1162,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__thumb__pexels_6396243_server-pouring-wine-generously.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pexels_6396243_server-pouring-wine-generously.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__strip__pexels_6396243_server-pouring-wine-generously.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a server arranges champagne flutes on a table decorated for a holiday party",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-server-champagne-holiday-decor",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:43:41Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_8764323_sommelier-presenting-bottle-gues",
@@ -1164,7 +1184,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__thumb__pexels_8764323_sommelier-presenting-bottle-gues.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pexels_8764323_sommelier-presenting-bottle-gues.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__strip__pexels_8764323_sommelier-presenting-bottle-gues.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a man in a blazer presents a wine bottle to a smiling guest",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-sommelier-blazer-wine-presentation",
+     "score": 4.65,
+     "judged_at": "2026-09-09T17:43:41Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8922357_waiter-bringing-wine-bottle-to-t",
@@ -1186,7 +1216,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__thumb__pixabay_132583_gifting-wine-guest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pixabay_132583_gifting-wine-guest.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__strip__pixabay_132583_gifting-wine-guest.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 8,
+     "caption": "close-up of dark grape clusters hanging on the vine",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-grapes-vine-closeup",
+     "score": 4.1,
+     "judged_at": "2026-09-09T17:43:41Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_1633_waiter-bringing-wine-bottle-to-t",
@@ -1198,7 +1238,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__thumb__pixabay_1633_waiter-bringing-wine-bottle-to-t.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pixabay_1633_waiter-bringing-wine-bottle-to-t.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__strip__pixabay_1633_waiter-bringing-wine-bottle-to-t.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "wine pours into a row of glasses in black and white",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-wine-pour-bw-glasses",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:43:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_16125870_server-wine-bottle-table",
@@ -1241,7 +1291,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:43:41Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:43:41Z"
   },
   {
    "id": "S05",
