@@ -32,3 +32,33 @@
 | pixabay | construction worker  angle grinder  grinder  worker  constru | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3140/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-workers-in-factory-setting-31369403/ |
 | pixabay | cement  concrete  cast  concrete dough  development  boat sh | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148541/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/people-talking-in-the-warehouse-4280747/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85351/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-comforting-a-female-volunteer-10350203/ |
+| pixabay | worker  cut  building  grinder  pour in  builder  wheelbarro | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67461/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/men-in-the-warehouse-having-a-discussion-4280924/ |
+| pixabay | worker  plate  building  lay  pour in  builder  wheelbarrow  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67463/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/men-working-at-a-construction-site-16106604/ |
+| pixabay | construction site  development  infrastructure  real estate  | AminRajput21 | Pixabay Content License | https://pixabay.com/videos/id-206692/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-at-work-wearing-his-helmet-5100046/ |
+| pixabay | construction site  development  infrastructure  real estate  | AminRajput21 | Pixabay Content License | https://pixabay.com/videos/id-206694/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-talking-on-the-phone-8347252/ |
+| pixabay | social media  smart phone  mobile  internet  technology  med | Activedia | Pixabay Content License | https://pixabay.com/videos/id-1360/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/people-working-at-an-office-8691678/ |
+| pixabay | phone  hands  screen touch  smart phone  message | crew_jak | Pixabay Content License | https://pixabay.com/videos/id-47743/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/man-talking-on-the-phone-and-using-a-laptop-7643842/ |
+| pixabay | man  phone  smartphone  mobile | u_etjkkdz15b | Pixabay Content License | https://pixabay.com/videos/id-142641/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/an-elderly-scientist-talking-on-the-phone-while-looking-at-a-computer-8539725/ |
+| pixabay | guy  phone  city  street  mobile phone  wait  italy | Yoniteck | Pixabay Content License | https://pixabay.com/videos/id-6590/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-mechanic-on-a-phone-call-holding-a-folder-6870345/ |
+| pixabay | phone  scrolling phone  woman  picnic  hands  girl  summer   | Firmbee | Pixabay Content License | https://pixabay.com/videos/id-88686/ |
+| pexels |  | Kiwi and Camera | Pexels License | https://www.pexels.com/video/urban-construction-worker-on-site-in-auckland-38885276/ |
+| pixabay | builder  worker  building  repair  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85349/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/package-delivery-4266805/ |
+| pixabay | man  farmer  agriculture  countryside  field  rural  farming | ammarvid | Pixabay Content License | https://pixabay.com/videos/id-243239/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/woman-with-face-mask-receiving-a-package-4266810/ |
+| pixabay | construction site  construction workers  construction  worke | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-42925/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-receiving-parcel-from-courier-6715786/ |
+| pixabay | construction site  trucks  lorries  aerial view  transport   | Ian5152 | Pixabay Content License | https://pixabay.com/videos/id-225740/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/construction-workers-building-foundation-at-site-34521514/ |
+| pixabay | construction site  construction workers  construction  worke | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-42922/ |

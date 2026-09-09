@@ -63,28 +63,36 @@
       "note": "more please 10 more contextual",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:33:11Z",
+      "added": 10
     },
     "S10": {
       "requested": "2026-09-09T06:00:34Z",
       "note": "generate. 10 more please",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:33:58Z",
+      "added": 10
     },
     "S13": {
       "requested": "2026-09-09T06:00:35Z",
       "note": "more please 10 more contextual",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:34:43Z",
+      "added": 10
     },
     "S07": {
       "requested": "2026-09-09T06:00:36Z",
       "note": "not there at all please delete these and complete give me new ones -- 7 more",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:35:35Z",
+      "added": 10
     }
   }
 }

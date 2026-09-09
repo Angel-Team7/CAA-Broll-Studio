@@ -93,21 +93,27 @@
       "note": "NOT RELEVANT AT AT ALL PLEAse delete these and replace with 5 more",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:30:22Z",
+      "added": 10
     },
     "S16": {
       "requested": "2026-09-09T06:00:31Z",
       "note": "please delete these and generate and replace with 10 more.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:31:05Z",
+      "added": 10
     },
     "S15": {
       "requested": "2026-09-09T06:00:32Z",
       "note": "deltele all these and generate more relevant. replace them with 10 more",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:32:07Z",
+      "added": 10
     }
   }
 }
