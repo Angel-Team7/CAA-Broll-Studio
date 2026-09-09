@@ -737,3 +737,33 @@
 | pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-wearing-hard-hat-8965305/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-asking-a-question-by-doing-sign-language-5211966/ |
 | pexels |  | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-discussing-and-talking-to-each-other-5977261/ |
+| pexels |  | Videas Cl | Pexels License | https://www.pexels.com/video/shoveling-soil-in-a-sunny-garden-37771810/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/man-cleaning-a-engine-parts-4725891/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/an-open-toolbox-on-the-ground-8551362/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-painting-ceramic-tile-6023127/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/young-man-doing-yoga-pose-6799585/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-picking-up-a-broken-pieces-of-the-plate-6717618/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-black-nissan-skyline-on-urban-track-30391333/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-blue-sports-car-showcase-with-chrome-accents-30626059/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-blue-sports-car-on-display-in-sunlight-30626056/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-arranging-chairs-and-tables-5794586/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/happy-little-girl-posing-looking-at-camera-6248334/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-boy-setting-a-table-7491569/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-a-person-operating-a-cnc-machine-7479051/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-clip-showing-carpentry-tools-5215219/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-choosing-sandpaper-7484283/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/close-up-shot-of-painting-materials-6730929/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-view-of-paint-roller-dipped-in-bucket-with-paint-4808678/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-video-of-paint-brushes-7716847/ |
+| pexels |  | Arunangshu Banerjee | Pexels License | https://www.pexels.com/video/electrical-technicians-working-on-utility-pole-31651129/ |
+| pexels |  | Tony Flanagan | Pexels License | https://www.pexels.com/video/butterfly-girl-2-19123097/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/man-delivering-food-7706007/ |
+| pexels |  | JULLIAN PRODUCTION | Pexels License | https://www.pexels.com/video/motivational-gym-workout-in-atmospheric-lighting-35623353/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-putting-on-safety-gears-5972116/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-man-shaping-a-wood-into-a-skateboard-using-a-pattern-4892333/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-cleaning-a-camera-with-a-brush-6658568/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/male-hands-adjusting-vise-to-hold-wood-strip-5972619/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/person-adjusting-a-tool-5967519/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-posing-for-the-camera-5846626/ |
+| pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/lumberjack-using-chainsaw-in-forest-36130775/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-posing-for-photoshoot-6197062/ |
