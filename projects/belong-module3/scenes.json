@@ -649,7 +649,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__heygen_bedroom-with-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__heygen_bedroom-with-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__strip__heygen_bedroom-with-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a made bed with white pillows sits against a warmly lit padded headboard wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-bedroom-with-light",
+     "score": 5.3,
+     "judged_at": "2026-09-09T17:39:35Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_10061796_minimalist-bedroom-natural-light",
@@ -661,7 +671,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__pexels_10061796_minimalist-bedroom-natural-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__pexels_10061796_minimalist-bedroom-natural-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__strip__pexels_10061796_minimalist-bedroom-natural-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a woman reads in bed under soft natural window light",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-minimalist-bedroom-natural-light",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:39:35Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4153243_cozy-bedroom-morning-light-linen",
@@ -673,7 +693,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__pexels_4153243_cozy-bedroom-morning-light-linen.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__pexels_4153243_cozy-bedroom-morning-light-linen.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__strip__pexels_4153243_cozy-bedroom-morning-light-linen.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman smooths white bedding beside a curtained window",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-cozy-bedroom-morning-light-linen",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:39:35Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4153246_made-bed-white-linen-sunlight",
@@ -685,7 +715,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__pexels_4153246_made-bed-white-linen-sunlight.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__pexels_4153246_made-bed-white-linen-sunlight.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__strip__pexels_4153246_made-bed-white-linen-sunlight.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "hands arrange white linen pillows on a sunlit bed",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-made-bed-white-linen-sunlight",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:39:35Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_128321_warm-bedroom-window-soft-light",
@@ -697,7 +737,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__pixabay_128321_warm-bedroom-window-soft-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__pixabay_128321_warm-bedroom-window-soft-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__strip__pixabay_128321_warm-bedroom-window-soft-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "sheer curtains billow in front of a sunlit window and chair",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-warm-bedroom-window-soft-light",
+     "score": 4.4,
+     "judged_at": "2026-09-09T17:39:35Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "openverse_4f35aa20-2b7d-4b64-8283-b14f_warm-bedroom-window-soft-light",
@@ -759,7 +809,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:39:35Z"
   },
   {
    "id": "S06",
