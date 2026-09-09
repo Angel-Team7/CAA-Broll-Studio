@@ -78,7 +78,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__thumb__wikimedia_170705339_minimalist-wood-wall-texture.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__preview__wikimedia_170705339_minimalist-wood-wall-texture.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "framed values poster hanging on a meeting room wall, empty room",
+     "pexels": "framed poster on office wall empty room",
+     "pixabay": "poster wall office empty",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "minimalist wood-slat wall in warm light",
+     "pexels": "wood slat wall warm light",
+     "pixabay": "wood slat wall interior",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of dust on a frame edge",
+     "pexels": "dust on picture frame close",
+     "pixabay": "dust frame close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "busy office crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S02",
@@ -155,7 +184,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__thumb__pexels_30425493_rural-farm-landscape-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__preview__pexels_30425493_rural-farm-landscape-golden-hour.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "Alentejo farm landscape at golden hour with a lake",
+     "pexels": "alentejo farm landscape lake golden hour",
+     "pixabay": "alentejo lake sunset landscape",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "farmer walking between rows at sunset",
+     "pexels": "farmer walking rows sunset",
+     "pixabay": "farmer rows sunset walking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of water in an irrigation channel",
+     "pexels": "water irrigation channel close",
+     "pixabay": "irrigation water channel",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "wind turbine cliché",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S03",
@@ -232,7 +291,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__thumb__pixabay_2742302_solar-panels-green-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__preview__pixabay_2742302_solar-panels-green-field.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "solar panels in a green field",
+     "pexels": "solar panels green field",
+     "pixabay": "solar panels field green",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "compost being turned on a farm",
+     "pexels": "turning compost farm",
+     "pixabay": "compost farm turning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a water recycling pipe or tank valve",
+     "pexels": "water tank valve close up",
+     "pixabay": "water tank valve",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "industrial plant",
+    "factory",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S04",
@@ -319,7 +408,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__pixabay_4779953_scandinavian-minimal-room-warm-l.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__pixabay_4779953_scandinavian-minimal-room-warm-l.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "minimalist interior with natural wood and warm light",
+     "pexels": "minimalist interior natural wood warm",
+     "pixabay": "minimalist interior wood warm",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "simple wooden shelf with a few ceramic objects",
+     "pexels": "wooden shelf ceramic objects",
+     "pixabay": "wood shelf ceramics minimal",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of linen curtain moving in light",
+     "pexels": "linen curtain moving light close",
+     "pixabay": "linen curtain light",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "luxury gold decor",
+    "chandeliers",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S05",
@@ -406,7 +525,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__thumb__pexels_8889733_warm-bedroom-window-soft-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S05__preview__pexels_8889733_warm-bedroom-window-soft-light.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "calm bedroom with soft natural light and premium linen",
+     "pexels": "calm bedroom soft natural light linen",
+     "pixabay": "bedroom linen natural light",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "hands smoothing a linen bedsheet",
+     "pexels": "hands smoothing linen bed sheet",
+     "pixabay": "hands bed linen smoothing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guest waking and stretching in a bright bedroom",
+     "pexels": "guest waking stretching bright bedroom",
+     "pixabay": "waking bedroom morning stretch",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel chain room",
+    "luxury gold decor",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S06",
@@ -493,7 +642,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__wikimedia_138384663_spa-indoor-pool-interior.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__wikimedia_138384663_spa-indoor-pool-interior.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "modern heated indoor pool with glowing water",
+     "pexels": "indoor pool glowing water architectural",
+     "pixabay": "indoor pool water glow",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "steam rising off an indoor pool surface",
+     "pexels": "steam rising indoor pool",
+     "pixabay": "indoor pool steam",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand touching warm water",
+     "pexels": "hand touching water surface close",
+     "pixabay": "hand water surface close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort outdoor pool with loungers",
+    "water park",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S07",
@@ -580,7 +759,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S07__thumb__pexels_9697556_surfing-golden-hour-portugal.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S07__preview__pexels_9697556_surfing-golden-hour-portugal.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "surfer at a rugged Portuguese beach at dusk",
+     "pexels": "surfer rugged beach dusk portugal",
+     "pixabay": "surfer beach dusk",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "surf lesson with a beginner on the sand",
+     "pexels": "surf lesson beginner sand",
+     "pixabay": "surf lesson beach",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a surfboard being waxed",
+     "pexels": "waxing surfboard close up",
+     "pixabay": "surfboard wax close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "crowded tourist beach",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S08",
@@ -667,7 +875,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__thumb__pixabay_3432069_horseback-riding-countryside-gol.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__preview__pixabay_3432069_horseback-riding-countryside-gol.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "horseback riding through fields at golden hour",
+     "pexels": "horseback riding fields golden hour",
+     "pixabay": "horse riding fields sunset",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "rider and horse walking a country path",
+     "pexels": "rider horse country path",
+     "pixabay": "horse rider path countryside",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand stroking a horse's neck",
+     "pexels": "hand stroking horse neck close",
+     "pixabay": "hand horse neck close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "racecourse",
+    "show jumping arena"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S09",
@@ -754,7 +991,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__thumb__pexels_32224808_hiking-coastal-path-ocean.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__preview__pexels_32224808_hiking-coastal-path-ocean.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hikers on a coastal cliff trail",
+     "pexels": "hikers coastal cliff trail",
+     "pixabay": "hikers cliff coast trail",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two hikers pausing to look at the sea",
+     "pexels": "two hikers looking at sea cliff",
+     "pixabay": "hikers sea cliff pause",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of boots on a sandy cliff path",
+     "pexels": "hiking boots sandy cliff path",
+     "pixabay": "hiking boots path close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "mountain snow",
+    "crowds"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S10",
@@ -831,7 +1097,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__thumb__pixabay_1618854_fresh-organic-eggs-rustic.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__preview__pixabay_1618854_fresh-organic-eggs-rustic.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands holding just-collected eggs in a basket",
+     "pexels": "hands holding fresh eggs basket",
+     "pixabay": "fresh eggs basket hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "chef cracking a fresh egg into a bowl",
+     "pexels": "chef cracking egg into bowl",
+     "pixabay": "chef egg bowl cracking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "chickens in a farm yard in morning light",
+     "pexels": "chickens farm yard morning",
+     "pixabay": "chickens farm yard morning",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "industrial egg farm",
+    "supermarket"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S11",
@@ -908,7 +1203,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__thumb__pixabay_968657_olive-oil-bottle-pouring.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__preview__pixabay_968657_olive-oil-bottle-pouring.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "bottle of olive oil on a wooden shelf in a small farm shop",
+     "pexels": "olive oil bottle wooden shelf shop",
+     "pixabay": "olive oil bottle shelf shop",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "jars of honey and bottles of wine on a market table",
+     "pexels": "honey jars wine bottles market table",
+     "pixabay": "honey wine market table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a small farm shop interior with local produce",
+     "pexels": "small farm shop local produce interior",
+     "pixabay": "farm shop produce interior",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "supermarket aisle",
+    "corporate branding"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S12",
@@ -985,7 +1309,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__thumb__pexels_28494562_community-people-together-outdoo.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S12__preview__pexels_28494562_community-people-together-outdoo.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "warm handshake between neighbours at sunset",
+     "pexels": "handshake neighbors sunset",
+     "pixabay": "handshake sunset outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "villagers talking on a whitewashed street",
+     "pexels": "villagers talking white street portugal",
+     "pixabay": "village street people talking",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of an older man's smiling face in a village",
+     "pexels": "older man smiling village close",
+     "pixabay": "old man smile village",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "business handshake in suits",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   }
  ]
 }

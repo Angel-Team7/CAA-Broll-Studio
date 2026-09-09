@@ -1,12 +1,12 @@
 {
  "project": "belong-module1",
- "title": "Belong \u2014 Module 1: My Story & Craveiral",
+ "title": "Belong — Module 1: My Story & Craveiral",
  "generated": "2026-07-12",
  "scenes": [
   {
    "id": "S01",
    "script_line": "[B1] Hello. I'm Pedro. If you're watching this, you're part of Craveiral.",
-   "visual_direction": "Warm opening: a team member walks onto a rustic farm property at first light, greeted with a smile \u2014 the feeling of joining something. Medium shot, golden light.",
+   "visual_direction": "Warm opening: a team member walks onto a rustic farm property at first light, greeted with a smile — the feeling of joining something. Medium shot, golden light.",
    "clips": [
     {
      "id": "upload_1784200696245_e78061b00470491e95edf9e8daac2704",
@@ -42,7 +42,7 @@
      "id": "pixabay_66810_farm-worker-morning",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-66810/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__thumb__pixabay_66810_farm-worker-morning.jpg",
@@ -58,11 +58,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__thumb__pexels_16880289_golden-hour-farmhouse.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S01__preview__pexels_16880289_golden-hour-farmhouse.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "team member walking onto a farm property at first light, greeted with a smile",
+     "pexels": "person arriving at farm greeted morning",
+     "pixabay": "farm arrival morning greeting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a whitewashed farmhouse at sunrise",
+     "pexels": "whitewashed farmhouse sunrise",
+     "pixabay": "farmhouse sunrise white",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a handshake at a farm gate",
+     "pexels": "handshake at farm gate",
+     "pixabay": "handshake gate outdoor",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S02",
-   "script_line": "[B2] Twenty years ago I was a lawyer in Lisbon \u2014 and I kept dreaming about land, about getting my hands in the soil.",
+   "script_line": "[B2] Twenty years ago I was a lawyer in Lisbon — and I kept dreaming about land, about getting my hands in the soil.",
    "visual_direction": "Contrast beat: Lisbon city rooftops / a man gazing from an office window, then cut-away to hands sinking into dark soil. City-to-land longing.",
    "clips": [
     {
@@ -89,7 +119,7 @@
      "id": "pexels_11902307_lisbon-rooftops",
      "type": "video",
      "source": "pexels",
-     "author": "ed1toR \u3164",
+     "author": "ed1toR ㅤ",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/drone-footage-of-friends-partying-on-a-terrace-11902307/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__thumb__pexels_11902307_lisbon-rooftops.jpg",
@@ -115,11 +145,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__thumb__pexels_37460428_lisbon-rooftops.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S02__preview__pexels_37460428_lisbon-rooftops.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "Lisbon rooftops seen from a window",
+     "pexels": "lisbon rooftops from window",
+     "pixabay": "lisbon rooftops city view",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "man in a suit looking out of an office window, thoughtful",
+     "pexels": "man looking out office window thoughtful",
+     "pixabay": "man window office thoughtful",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "hands sinking into dark soil",
+     "pexels": "hands in dark soil close up",
+     "pixabay": "hands soil close dark",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "glass skyscraper interiors as hero",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S03",
-   "script_line": "[B3] I found a field of carnations \u2014 cravos. A field of carnations is a 'craveiral'. That's where the name comes from.",
+   "script_line": "[B3] I found a field of carnations — cravos. A field of carnations is a 'craveiral'. That's where the name comes from.",
    "visual_direction": "The origin image: a wild field of carnations in bloom, close detail of the flowers swaying, honest and unstyled. Detail shot. [image-beat]",
    "clips": [
     {
@@ -136,7 +195,7 @@
      "id": "pexels_14215801_flower-field-breeze",
      "type": "video",
      "source": "pexels",
-     "author": "\ub300\uc815 \uae40",
+     "author": "대정 김",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/flowers-swaying-on-wind-14215801/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__thumb__pexels_14215801_flower-field-breeze.jpg",
@@ -182,7 +241,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__thumb__pixabay_7840259_red-carnations-closeup.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S03__preview__pixabay_7840259_red-carnations-closeup.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wild field of carnations in bloom",
+     "pexels": "field of carnations in bloom",
+     "pixabay": "carnation field bloom",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close detail of red carnations swaying",
+     "pexels": "red carnations swaying close up",
+     "pixabay": "carnations red close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "hand touching a carnation stem in a field",
+     "pexels": "hand touching flower in field",
+     "pixabay": "hand flower field touch",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "florist shop",
+    "bouquets",
+    "roses"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S04",
@@ -269,7 +358,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__thumb__wikimedia_28363952_alentejo-landscape.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S04__preview__wikimedia_28363952_alentejo-landscape.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "raw Alentejo landscape rolling to Atlantic cliffs",
+     "pexels": "alentejo landscape atlantic cliffs",
+     "pixabay": "portugal cliffs coast landscape",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "starry night sky over dark countryside",
+     "pexels": "starry night sky countryside",
+     "pixabay": "stars night sky countryside",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "person pointing at the stars, silhouette",
+     "pexels": "person pointing at stars night",
+     "pixabay": "pointing stars night silhouette",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "city lights",
+    "resort pool",
+    "tourist crowds"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S05",
@@ -316,7 +435,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__thumb__pexels_7109999_carpenter-hands-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S05__preview__pexels_7109999_carpenter-hands-working.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "timber-frame construction in a rural setting, carpenter at work",
+     "pexels": "timber frame construction carpenter rural",
+     "pixabay": "timber frame carpenter building",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "craftsman's hands fitting a wooden joint",
+     "pexels": "craftsman hands fitting wood joint",
+     "pixabay": "carpenter hands wood joint",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "architectural plans on a worn wooden table",
+     "pexels": "architectural plans on wooden table",
+     "pixabay": "blueprint plans table wood",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "concrete pour",
+    "crane",
+    "hi-vis crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S06",
@@ -357,7 +506,7 @@
      "id": "pixabay_73847_soil-texture-hands",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__pixabay_73847_soil-texture-hands.jpg",
@@ -459,7 +608,7 @@
      "id": "belong-module1-S06-V04",
      "type": "video",
      "source": "pexels",
-     "author": "\u00d6zg\u00fcr S\u00fcrmeli",
+     "author": "Özgür Sürmeli",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/tractor-mowing-fields-at-twilight-33971961/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V04.jpg",
@@ -531,7 +680,7 @@
      "id": "belong-module1-S06-V08",
      "type": "video",
      "source": "pexels",
-     "author": "Sururi Ball\u0131da\u011f Director",
+     "author": "Sururi Ballıdağ Director",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/a-farmer-ploughing-a-field-with-a-tractor-17488267/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__thumb__belong-module1-S06-V08.jpg",
@@ -563,12 +712,42 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "weathered hands cupping rich dark earth",
+     "pexels": "weathered hands cupping soil",
+     "pixabay": "hands soil cupping close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "farmer crouched examining soil, low sun flare",
+     "pexels": "farmer crouching examining soil sunset",
+     "pixabay": "farmer soil crouching sunset",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a person walking a field at low sun",
+     "pexels": "person walking field low sun",
+     "pixabay": "field walking sunset person",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel lobby",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S07",
-   "script_line": "[B7] We have nine hectares. Only four percent is constructed. The emptiness, the space, the silence at night \u2014 that IS the product.",
-   "visual_direction": "Wide aerial over a green estate: a few low buildings dissolved in orchards, gardens and pine forest \u2014 vast open space around tiny footprint.",
+   "script_line": "[B7] We have nine hectares. Only four percent is constructed. The emptiness, the space, the silence at night — that IS the product.",
+   "visual_direction": "Wide aerial over a green estate: a few low buildings dissolved in orchards, gardens and pine forest — vast open space around tiny footprint.",
    "clips": [
     {
      "id": "upload_1784302460016_craveiral-vista-aera",
@@ -594,7 +773,7 @@
      "id": "pexels_31846104_eco-resort-nature-aerial",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-green-forest-and-resort-buildings-31846104/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_31846104_eco-resort-nature-aerial.jpg",
@@ -604,7 +783,7 @@
      "id": "pexels_32092702_orchard-aerial-view",
      "type": "video",
      "source": "pexels",
-     "author": "To\u00e0n BDS",
+     "author": "Toàn BDS",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-lush-farmland-and-rural-landscape-32092702/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_32092702_orchard-aerial-view.jpg",
@@ -614,7 +793,7 @@
      "id": "pexels_33749474_farm-estate-aerial",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/arial-view-of-countryside-estate-with-lush-forest-33749474/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_33749474_farm-estate-aerial.jpg",
@@ -630,11 +809,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__thumb__pexels_33790877_orchard-aerial-view.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S07__preview__pexels_33790877_orchard-aerial-view.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial over a green estate with a few low buildings among orchards and pines",
+     "pexels": "aerial green estate low buildings pines",
+     "pixabay": "aerial estate pines buildings",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "drone over pine forest with a single roof visible",
+     "pexels": "drone pine forest single roof",
+     "pixabay": "pine forest aerial roof",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "empty meadow at night, silence, close on grass",
+     "pexels": "meadow grass at night close",
+     "pixabay": "meadow night grass",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "city",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S08",
-   "script_line": "[B8] Thirty-eight houses connected by raised wooden walkways \u2014 raised wood lets the land breathe underneath.",
+   "script_line": "[B8] Thirty-eight houses connected by raised wooden walkways — raised wood lets the land breathe underneath.",
    "visual_direction": "Ground-level tracking along a raised wooden boardwalk winding through greenery toward whitewashed minimalist houses; plants growing beneath the slats.",
    "clips": [
     {
@@ -671,7 +880,7 @@
      "id": "pexels_35650634_eco-lodge-walkway",
      "type": "video",
      "source": "pexels",
-     "author": "NGUY\u1ec4N TH\u00c0NH NH\u01a0N",
+     "author": "NGUYỄN THÀNH NHƠN",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-rustic-huts-in-green-landscape-35650634/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__thumb__pexels_35650634_eco-lodge-walkway.jpg",
@@ -687,11 +896,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__thumb__pixabay_1839000_boardwalk-through-grass.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S08__preview__pixabay_1839000_boardwalk-through-grass.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "tracking along a raised wooden boardwalk through greenery toward white houses",
+     "pexels": "raised wooden boardwalk greenery houses",
+     "pixabay": "boardwalk wooden greenery path",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "plants growing under wooden slats, close",
+     "pexels": "plants under wooden boardwalk close",
+     "pixabay": "boardwalk plants under slats",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of whitewashed minimalist houses among trees",
+     "pexels": "white minimalist houses among trees",
+     "pixabay": "white houses trees minimalist",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "luxury villa",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S09",
-   "script_line": "[B9] We do not own the land \u2014 we belong to it, for a while. Our job is to leave it better than we found it.",
+   "script_line": "[B9] We do not own the land — we belong to it, for a while. Our job is to leave it better than we found it.",
    "visual_direction": "The heart of the module: a lone figure walking slowly through an olive grove or cork oak field at golden hour, unhurried, at home in the land. Wide. [image-beat]",
    "clips": [
     {
@@ -754,11 +993,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__thumb__pixabay_3803017_man-walking-olive-trees.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S09__preview__pixabay_3803017_man-walking-olive-trees.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "lone figure walking slowly through an olive grove at golden hour",
+     "pexels": "person walking olive grove golden hour",
+     "pixabay": "olive grove walking sunset",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "cork oak field with a person at a distance",
+     "pexels": "cork oak field person distance",
+     "pixabay": "cork oak field alentejo",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "hand brushing tall grass while walking",
+     "pexels": "hand brushing grass walking",
+     "pixabay": "hand grass walking close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "city",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S10",
-   "script_line": "[B10] I've watched a child collect eggs and run to show her parents like treasure. So yes \u2014 every single day, it's worth it.",
+   "script_line": "[B10] I've watched a child collect eggs and run to show her parents like treasure. So yes — every single day, it's worth it.",
    "visual_direction": "Payoff: a child gathering fresh eggs on a farm, running with joy; a couple beneath pines; village workers smiling. Warm human close. [image-beat]",
    "clips": [
     {
@@ -811,7 +1080,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__thumb__pexels_7699201_kids-on-farm.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S10__preview__pexels_7699201_kids-on-farm.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "child gathering fresh eggs on a farm and running with joy",
+     "pexels": "child collecting eggs farm running",
+     "pixabay": "child eggs farm chicken",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "couple under pine trees, warm light",
+     "pexels": "couple under pine trees warm light",
+     "pixabay": "couple pines outdoor warm",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "village workers smiling, close",
+     "pexels": "village workers smiling close",
+     "pixabay": "villagers smiling portrait",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   }
  ]
 }

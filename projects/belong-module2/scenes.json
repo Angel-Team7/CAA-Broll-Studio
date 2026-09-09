@@ -78,7 +78,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__thumb__pixabay_3662627_olive-grove-aerial-warm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S01__preview__pixabay_3662627_olive-grove-aerial-warm-light.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial of an Alentejo farmhouse in golden light",
+     "pexels": "aerial alentejo farmhouse golden light",
+     "pixabay": "aerial farmhouse portugal golden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "white farmhouse patio with wooden tables and wild grasses",
+     "pexels": "white farmhouse patio wooden tables",
+     "pixabay": "farmhouse patio tables white",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of sunlight on a whitewashed wall",
+     "pexels": "sunlight on whitewashed wall close",
+     "pixabay": "white wall sunlight texture",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "luxury villa",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S02",
@@ -165,7 +195,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__thumb__pixabay_8027884_hands-planting-seedling-soil-gol.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S02__preview__pixabay_8027884_hands-planting-seedling-soil-gol.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands planting a young plant into rich soil",
+     "pexels": "hands planting young plant soil",
+     "pixabay": "planting hands soil plant",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "farmer tending vegetable beds on a small farm",
+     "pexels": "farmer tending vegetable beds",
+     "pixabay": "farmer vegetable beds tending",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a well-kept farm garden in morning light",
+     "pexels": "farm garden morning light wide",
+     "pixabay": "farm garden morning",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "seedling in cupped hands cliché",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S03",
@@ -252,7 +312,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S03__thumb__pixabay_2705768_beach-bar-umbrellas-sea.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S03__preview__pixabay_2705768_beach-bar-umbrellas-sea.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "Portuguese beach with thatched umbrellas at golden hour",
+     "pexels": "beach thatched umbrellas golden hour portugal",
+     "pixabay": "beach umbrellas thatched sunset",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "beach bar with drinks on a wooden counter by the sea",
+     "pexels": "beach bar wooden counter sea",
+     "pixabay": "beach bar sea drinks",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of feet in sand with waves",
+     "pexels": "feet in sand waves close",
+     "pixabay": "feet sand waves",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "crowded beach club",
+    "yacht"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S04",
@@ -299,7 +389,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S04__thumb__pexels_9056674_rustic-outdoor-dining-terrace-co.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S04__preview__pexels_9056674_rustic-outdoor-dining-terrace-co.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "white Alentejo buildings with wooden tables and wild grasses in golden light",
+     "pexels": "white farmhouse patio wild grass golden",
+     "pixabay": "farmhouse patio grass golden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "team members walking across a farm courtyard",
+     "pexels": "team walking farm courtyard",
+     "pixabay": "team courtyard farm walking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a wooden table surface in sun",
+     "pexels": "wooden table surface sunlight close",
+     "pixabay": "wood table sunlight close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S05",
@@ -396,7 +516,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S05__thumb__pixabay_406217_steaming-compost-heap-farm.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S05__preview__pixabay_406217_steaming-compost-heap-farm.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "steaming compost heap being turned with a fork",
+     "pexels": "steaming compost heap turning fork",
+     "pixabay": "compost steam fork",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "rich dark earth crumbling in hands",
+     "pexels": "dark soil crumbling in hands",
+     "pixabay": "soil hands dark crumbling",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of farm beds with compost being spread",
+     "pexels": "spreading compost farm beds wide",
+     "pixabay": "compost farm beds spreading",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "landfill",
+    "garbage truck",
+    "plastic waste"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S06",
@@ -473,7 +623,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__thumb__pixabay_2009590_community-table-feast-golden-hou.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__preview__pixabay_2009590_community-table-feast-golden-hou.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest picking a tomato in a garden and eating it",
+     "pexels": "person picking tomato garden eating",
+     "pixabay": "tomato picking garden eating",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "friends around a long outdoor table sharing a farm meal",
+     "pexels": "friends long outdoor table farm meal",
+     "pixabay": "friends outdoor table meal",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands passing a dish",
+     "pexels": "hands passing dish table close",
+     "pixabay": "hands dish passing table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "fast food",
+    "corporate event",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S07",
@@ -550,7 +730,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S07__thumb__pexels_20418912_shepherd-flock-sheep-hillside-po.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S07__preview__pexels_20418912_shepherd-flock-sheep-hillside-po.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial of cork oak montado landscape",
+     "pexels": "aerial cork oak montado landscape",
+     "pixabay": "cork oak landscape aerial",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "shepherd with a flock on an Alentejo hillside",
+     "pexels": "shepherd flock hillside",
+     "pixabay": "shepherd sheep hillside",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "hands harvesting grapes in a vineyard",
+     "pexels": "hands harvesting grapes vineyard",
+     "pixabay": "grape harvest hands vineyard",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "industrial farm machinery",
+    "supermarket",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S08",
@@ -637,7 +847,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__thumb__pixabay_3996802_waiter-serving-dish-rustic-resta.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__preview__pixabay_3996802_waiter-serving-dish-rustic-resta.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "server bringing a dish to guests at a rustic farmhouse restaurant table",
+     "pexels": "server bringing dish rustic restaurant",
+     "pixabay": "waiter dish rustic restaurant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of courgettes being cut in a kitchen",
+     "pexels": "cutting courgettes kitchen close",
+     "pixabay": "zucchini cutting kitchen",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a kitchen garden beside a restaurant terrace",
+     "pexels": "kitchen garden beside restaurant terrace",
+     "pixabay": "kitchen garden terrace restaurant",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "fast food",
+    "corporate restaurant",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   },
   {
    "id": "S09",
@@ -714,7 +954,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__thumb__pexels_5638646_warm-evening-meal-friends-candle.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__preview__pexels_5638646_warm-evening-meal-friends-candle.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host setting a long outdoor table before guests arrive, golden hour",
+     "pexels": "setting long outdoor table golden hour",
+     "pixabay": "table setting outdoor golden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "hands placing plates and glasses on a linen table",
+     "pexels": "hands placing plates glasses table",
+     "pixabay": "table setting hands plates",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "friends arriving and sitting at an outdoor table at dusk",
+     "pexels": "friends sitting outdoor table dusk",
+     "pixabay": "friends table outdoor dusk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "sunset silhouette cliché",
+    "corporate gala",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:29:10Z"
   }
  ]
 }
