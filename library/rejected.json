@@ -662,8 +662,8 @@
  "pixabay:https://pixabay.com/videos/id-40813/": {
   "brand": "edenrise",
   "reason": "welding sparks",
-  "at": "2026-09-09T18:33:15Z",
-  "from": "be-a-lifelong-learner-v2/S01"
+  "at": "2026-09-09T18:38:19Z",
+  "from": "purpose-at-work/S02"
  },
  "pexels:https://www.pexels.com/video/people-working-together-at-a-call-center-8865700/": {
   "brand": "belong",
@@ -1592,8 +1592,8 @@
  "pexels:https://www.pexels.com/video/man-explaining-the-floor-plan-to-the-clients-8482292/": {
   "brand": "edenrise",
   "reason": "face masks",
-  "at": "2026-09-09T18:37:37Z",
-  "from": "benchmark-excellence-v2/S14"
+  "at": "2026-09-09T17:59:12Z",
+  "from": "edenrise-c2-kaizen/S04"
  },
  "pexels:https://www.pexels.com/video/women-looking-at-the-laptop-8829011/": {
   "brand": "belong",
@@ -1807,9 +1807,9 @@
  },
  "coverr:https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t": {
   "brand": "edenrise",
-  "reason": "suits",
-  "at": "2026-09-09T18:38:15Z",
-  "from": "be-a-lifelong-learner-v2/S05"
+  "reason": "suit worn by worker; upscale boutique retail setting",
+  "at": "2026-09-09T18:24:47Z",
+  "from": "attention-to-detail-v2/S07"
  },
  "pexels:https://www.pexels.com/video/excavator-picking-up-building-debris-12588031/": {
   "brand": "edenrise",
@@ -1927,15 +1927,15 @@
  },
  "pexels:https://www.pexels.com/video/people-working-on-building-construction-11733685/": {
   "brand": "edenrise",
-  "reason": "forced-labour or slave-like framing",
-  "at": "2026-09-09T18:33:03Z",
-  "from": "edenrise-c2-goal-setting/S01"
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:40:48Z",
+  "from": "purpose-at-work/S04"
  },
  "pexels:https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-09T18:39:06Z",
-  "from": "be-a-lifelong-learner-v2/S12"
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
  },
  "pexels:https://www.pexels.com/video/workers-with-baskets-on-heads-climbing-ladder-at-stack-of-klin-bricks-10620627/": {
   "brand": "edenrise",
@@ -1963,9 +1963,9 @@
  },
  "pixabay:https://pixabay.com/videos/id-40816/": {
   "brand": "edenrise",
-  "reason": "several workers doing the same task reads close to a work crew",
-  "at": "2026-09-09T18:36:52Z",
-  "from": "be-a-lifelong-learner-v2/S03"
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:29:35Z",
+  "from": "attention-to-detail-v2/S14"
  },
  "pexels:https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/": {
   "brand": "edenrise",
@@ -2095,8 +2095,134 @@
  },
  "pixabay:https://pixabay.com/videos/id-3741/": {
   "brand": "edenrise",
-  "reason": "factories, assembly lines",
-  "at": "2026-09-09T18:37:37Z",
-  "from": "benchmark-excellence-v2/S14"
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/a-black-and-white-photo-of-a-beach-with-a-bulldozer-18190633/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pexels:https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pexels:https://www.pexels.com/video/workers-walking-in-construction-site-5434223/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pexels:https://www.pexels.com/video/guy-wearing-hard-hat-6474370/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pixabay:https://pixabay.com/videos/id-348896/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pixabay:https://pixabay.com/videos/id-348897/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pixabay:https://pixabay.com/videos/id-348898/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:37:38Z",
+  "from": "purpose-at-work/S01"
+ },
+ "pexels:https://www.pexels.com/video/construction-site-with-heavy-machinery-and-worker-38817827/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:38:19Z",
+  "from": "purpose-at-work/S02"
+ },
+ "pexels:https://www.pexels.com/video/woman-in-yellow-hardhat-8488305/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:38:19Z",
+  "from": "purpose-at-work/S02"
+ },
+ "pexels:https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:38:19Z",
+  "from": "purpose-at-work/S02"
+ },
+ "pixabay:https://pixabay.com/videos/id-85351/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:38:38Z",
+  "from": "purpose-at-work/S02"
+ },
+ "pexels:https://www.pexels.com/video/excavator-working-with-soil-12935502/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/a-man-in-a-green-jacket-is-working-on-a-large-piece-of-metal-16048819/": {
+  "brand": "edenrise",
+  "reason": "factory",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/man-pouring-cement-in-a-bucket-6474089/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/woman-using-digital-tablet-6474147/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/a-female-construction-worker-using-a-drill-8488109/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pixabay:https://pixabay.com/videos/id-42926/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:39:47Z",
+  "from": "purpose-at-work/S03"
+ },
+ "pexels:https://www.pexels.com/video/forklift-operating-at-construction-site-safely-32244794/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:40:48Z",
+  "from": "purpose-at-work/S04"
+ },
+ "pexels:https://www.pexels.com/video/women-working-at-a-construction-site-8487122/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:40:48Z",
+  "from": "purpose-at-work/S04"
+ },
+ "pexels:https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:40:48Z",
+  "from": "purpose-at-work/S04"
+ },
+ "pixabay:https://pixabay.com/videos/id-85349/": {
+  "brand": "edenrise",
+  "reason": "construction and building trades",
+  "at": "2026-09-09T18:40:48Z",
+  "from": "purpose-at-work/S04"
  }
 }

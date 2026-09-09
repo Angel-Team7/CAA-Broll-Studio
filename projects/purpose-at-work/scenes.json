@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pexels_18190633_construction-worker-arriving-mor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pexels_18190633_construction-worker-arriving-mor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pexels_18190633_construction-worker-arriving-mor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a worker walks across a foggy construction site at dawn",
+     "violation": "construction and building trades",
+     "shot": "A",
+     "shoot": "pexels-foggy-site-worker",
+     "score": 3.25,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_5434220_purpose-at-work-s01-v06",
@@ -30,7 +40,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pexels_5434220_purpose-at-work-s01-v06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pexels_5434220_purpose-at-work-s01-v06.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pexels_5434220_purpose-at-work-s01-v06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a worker in a red safety vest walks down a building corridor",
+     "violation": "construction and building trades",
+     "shot": "C",
+     "shoot": "pexels-redvest-corridor-1",
+     "score": 2.6,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_5434223_purpose-at-work-s01-v07",
@@ -42,7 +62,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pexels_5434223_purpose-at-work-s01-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pexels_5434223_purpose-at-work-s01-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pexels_5434223_purpose-at-work-s01-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "two workers in red vests carry tools through an unfinished building",
+     "violation": "construction and building trades",
+     "shot": "C",
+     "shoot": "pexels-redvest-indoor-pair",
+     "score": 2.6,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_6474370_builder-putting-on-hardhat",
@@ -54,7 +84,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pexels_6474370_builder-putting-on-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pexels_6474370_builder-putting-on-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pexels_6474370_builder-putting-on-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 1,
+     "caption": "a man puts on a white hard hat over his glasses",
+     "violation": "construction and building trades",
+     "shot": "B",
+     "shoot": "pexels-studio-hardhat-portrait",
+     "score": 4.25,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pixabay_202743_worker-walking-to-site-sunrise",
@@ -76,7 +116,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pixabay_348896_purpose-at-work-s01-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pixabay_348896_purpose-at-work-s01-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pixabay_348896_purpose-at-work-s01-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a worker in an orange vest sets up barriers on a city street",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-streetworks-vest-1",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pixabay_348897_purpose-at-work-s01-v02",
@@ -88,7 +138,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pixabay_348897_purpose-at-work-s01-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pixabay_348897_purpose-at-work-s01-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pixabay_348897_purpose-at-work-s01-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a worker in an orange vest carries a pole down a city street",
+     "violation": "construction and building trades",
+     "shot": "C",
+     "shoot": "pixabay-streetworks-vest-1",
+     "score": 3.6,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pixabay_348898_purpose-at-work-s01-v03",
@@ -100,7 +160,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__thumb__pixabay_348898_purpose-at-work-s01-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__preview__pixabay_348898_purpose-at-work-s01-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S01__strip__pixabay_348898_purpose-at-work-s01-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "a worker in an orange vest talks on the phone on a city street",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-streetworks-vest-1",
+     "score": 2.95,
+     "judged_at": "2026-09-09T18:37:38Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_15436278_purpose-at-work-s01-i02",
@@ -162,7 +232,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:37:38Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:37:38Z"
   },
   {
    "id": "S02",
@@ -179,7 +255,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pexels_10349940_crew-good-morning-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pexels_10349940_crew-good-morning-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pexels_10349940_crew-good-morning-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a group of workers in orange vests gathers near a van outdoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-crew-vests-van-gathering",
+     "score": 4.3,
+     "judged_at": "2026-09-09T18:38:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_38817827_purpose-at-work-s02-v04",
@@ -191,7 +277,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pexels_38817827_purpose-at-work-s02-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pexels_38817827_purpose-at-work-s02-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pexels_38817827_purpose-at-work-s02-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an excavator demolishes a building in a cloud of dust",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-excavator-demolition-dust",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:38:19Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_38885282_purpose-at-work-s02-v05",
@@ -213,7 +309,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pexels_8488305_worker-confident-walk-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pexels_8488305_worker-confident-walk-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pexels_8488305_worker-confident-walk-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a woman in a yellow hard hat and vest stands in an unfinished building",
+     "violation": "construction and building trades",
+     "shot": "B",
+     "shoot": "pexels-woman-hardhat-closeup",
+     "score": 3.6,
+     "judged_at": "2026-09-09T18:38:19Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_8964377_purpose-at-work-s02-v03",
@@ -225,7 +331,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pexels_8964377_purpose-at-work-s02-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pexels_8964377_purpose-at-work-s02-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pexels_8964377_purpose-at-work-s02-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "two workers in hard hats talk at a large building site",
+     "violation": "construction and building trades",
+     "shot": "A",
+     "shoot": "pexels-crane-site-pair-3",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:38:19Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pixabay_40813_purpose-at-work-s02-v01",
@@ -237,7 +353,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pixabay_40813_purpose-at-work-s02-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pixabay_40813_purpose-at-work-s02-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pixabay_40813_purpose-at-work-s02-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an angle grinder cuts rebar sending sparks near a worker's boots",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-grinder-rebar-sparks",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:38:19Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pixabay_85351_purpose-at-work-s02-v07",
@@ -249,7 +375,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__thumb__pixabay_85351_purpose-at-work-s02-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__preview__pixabay_85351_purpose-at-work-s02-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S02__strip__pixabay_85351_purpose-at-work-s02-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a worker in a safety vest operates a concrete floor grinder in a tunnel",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-floor-grinder-tunnel",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:38:38Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_8961068_purpose-at-work-s02-i02",
@@ -310,7 +446,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:38:38Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:38:38Z"
   },
   {
    "id": "S03",
@@ -327,7 +469,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_12935502_purpose-at-work-s03-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_12935502_purpose-at-work-s03-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_12935502_purpose-at-work-s03-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an excavator digs at a dirt construction lot",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-excavator-dirt-lot",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pexels_16048819_purpose-at-work-s03-v03",
@@ -339,7 +491,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_16048819_purpose-at-work-s03-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_16048819_purpose-at-work-s03-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_16048819_purpose-at-work-s03-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a worker in a hard hat stands beside large precast concrete panels in a factory",
+     "violation": "factory",
+     "shot": "",
+     "shoot": "pexels-precast-factory-worker",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "pexels_20411310_purpose-at-work-s03-v02",
@@ -351,7 +513,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_20411310_purpose-at-work-s03-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_20411310_purpose-at-work-s03-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_20411310_purpose-at-work-s03-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "kneeling hands break stones with a hammer on a gravel bed",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-stone-breaking-hands",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_32244801_energetic-worker-focused-site",
@@ -363,7 +535,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_32244801_energetic-worker-focused-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_32244801_energetic-worker-focused-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_32244801_energetic-worker-focused-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a worker in a hard hat and vest pulls rigging cables at a building site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-crane-rigger-cables-2",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_6474074_purpose-at-work-s03-v03",
@@ -375,7 +557,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_6474074_purpose-at-work-s03-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_6474074_purpose-at-work-s03-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_6474074_purpose-at-work-s03-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man plasters a wall reaching overhead in an apartment under repair",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-plastering-ceiling-apartment",
+     "score": 6.35,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6474089_motivated-builder-working-fast",
@@ -387,7 +579,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_6474089_motivated-builder-working-fast.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_6474089_motivated-builder-working-fast.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_6474089_motivated-builder-working-fast.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man sets up materials inside a scaffolded building interior",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-scaffold-interior-materials",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_6474147_purpose-at-work-s03-v04",
@@ -399,7 +601,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_6474147_purpose-at-work-s03-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_6474147_purpose-at-work-s03-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_6474147_purpose-at-work-s03-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a woman in a hard hat reviews a tablet inside a building",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-hardhat-tablet-woman",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_8488109_purpose-at-work-s03-v02",
@@ -411,7 +623,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pexels_8488109_purpose-at-work-s03-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pexels_8488109_purpose-at-work-s03-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pexels_8488109_purpose-at-work-s03-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a woman in a hard hat and vest uses a power drill near insulation",
+     "violation": "construction and building trades",
+     "shot": "B",
+     "shoot": "pexels-hardhat-drill-woman",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pixabay_3741_purpose-at-work-s03-v05",
@@ -423,7 +645,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pixabay_3741_purpose-at-work-s03-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pixabay_3741_purpose-at-work-s03-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pixabay_3741_purpose-at-work-s03-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows excavators working in a large quarry",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-quarry-aerial-2",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pixabay_40816_motivated-builder-working-fast",
@@ -445,7 +677,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pixabay_42926_purpose-at-work-s03-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pixabay_42926_purpose-at-work-s03-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pixabay_42926_purpose-at-work-s03-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of a rebar and scaffolding construction site with a crane",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-rebar-scaffold-aerial-2",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "pixabay_67463_purpose-at-work-s03-v05",
@@ -457,7 +699,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__thumb__pixabay_67463_purpose-at-work-s03-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__preview__pixabay_67463_purpose-at-work-s03-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S03__strip__pixabay_67463_purpose-at-work-s03-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands set paving stones with a rubber mallet",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-pavers-mallet-hands",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:39:47Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8961034_purpose-at-work-s03-i01",
@@ -539,7 +791,8 @@
     "intense stare into camera"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "judged_at": "2026-09-09T18:39:47Z"
   },
   {
    "id": "S04",
@@ -556,7 +809,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pexels_11733685_purpose-at-work-s04-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pexels_11733685_purpose-at-work-s04-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pexels_11733685_purpose-at-work-s04-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a group carries bricks together using a handcart at a brick yard",
+     "violation": "crowds doing the same manual task",
+     "shot": "A",
+     "shoot": "pexels-brick-yard-crowd-2",
+     "score": 3.25,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_32244794_purpose-at-work-s04-v03",
@@ -568,7 +831,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pexels_32244794_purpose-at-work-s04-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pexels_32244794_purpose-at-work-s04-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pexels_32244794_purpose-at-work-s04-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a forklift lifts lumber at a scaffolded building site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-forklift-lumber-site",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_6646618_worker-helping-colleague-carry",
@@ -590,7 +863,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pexels_8487122_purpose-at-work-s04-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pexels_8487122_purpose-at-work-s04-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pexels_8487122_purpose-at-work-s04-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a woman in a hard hat talks with someone inside a building",
+     "violation": "construction and building trades",
+     "shot": "C",
+     "shoot": "pexels-hardhat-woman-talking",
+     "score": 3.6,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_8818338_builder-teaching-coworker",
@@ -602,7 +885,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pexels_8818338_builder-teaching-coworker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pexels_8818338_builder-teaching-coworker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pexels_8818338_builder-teaching-coworker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a man saws wood while another watches at an outdoor timber frame build",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-timber-frame-lakeside-pair",
+     "score": 7.3,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8964772_purpose-at-work-s04-v04",
@@ -614,7 +907,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pexels_8964772_purpose-at-work-s04-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pexels_8964772_purpose-at-work-s04-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pexels_8964772_purpose-at-work-s04-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "two workers in hard hats talk at a large building site",
+     "violation": "construction and building trades",
+     "shot": "B",
+     "shoot": "pexels-crane-site-pair-4",
+     "score": 2.6,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pixabay_67460_purpose-at-work-s04-v07",
@@ -626,7 +929,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pixabay_67460_purpose-at-work-s04-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pixabay_67460_purpose-at-work-s04-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pixabay_67460_purpose-at-work-s04-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a worker in a vest shovels material into a wheelbarrow outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheelbarrow-shovel-park",
+     "score": 3.7,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_85349_purpose-at-work-s04-v06",
@@ -638,7 +951,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pixabay_85349_purpose-at-work-s04-v06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pixabay_85349_purpose-at-work-s04-v06.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pixabay_85349_purpose-at-work-s04-v06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man climbs exterior scaffolding on a building",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-scaffold-climb-exterior",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pixabay_85350_purpose-at-work-s04-v05",
@@ -650,7 +973,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__thumb__pixabay_85350_purpose-at-work-s04-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__preview__pixabay_85350_purpose-at-work-s04-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S04__strip__pixabay_85350_purpose-at-work-s04-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a person shovels sand while laying paving stones",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-sand-shovel",
+     "score": 4.7,
+     "judged_at": "2026-09-09T18:40:48Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_10491840_purpose-at-work-s04-i03",
@@ -712,7 +1045,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:40:48Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:40:48Z"
   },
   {
    "id": "S05",
