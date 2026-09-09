@@ -2917,9 +2917,9 @@
  },
  "pexels:https://www.pexels.com/video/coworkers-discussing-about-work-8124122/": {
   "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-09T19:33:47Z",
-  "from": "edenrise-c2-six-needs-reactions/S01"
+  "reason": "office, suits",
+  "at": "2026-09-09T20:33:35Z",
+  "from": "edenrise-c2-goal-setting/S04"
  },
  "pexels:31370994": {
   "brand": "edenrise",
@@ -3640,5 +3640,23 @@
   "reason": "office, laptops",
   "at": "2026-09-09T20:27:55Z",
   "from": "lesson-no-failure-feedback/S07"
+ },
+ "pixabay:https://pixabay.com/videos/id-197974/": {
+  "brand": "edenrise",
+  "reason": "abstract loop",
+  "at": "2026-09-09T20:33:35Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:https://www.pexels.com/video/man-talking-to-his-colleague-at-work-7593777/": {
+  "brand": "edenrise",
+  "reason": "office, laptop",
+  "at": "2026-09-09T20:33:35Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:https://www.pexels.com/video/elderly-women-working-together-8485159/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T20:33:35Z",
+  "from": "edenrise-c2-goal-setting/S04"
  }
 }

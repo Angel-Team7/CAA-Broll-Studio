@@ -3858,7 +3858,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-discussing-about-work-8124122/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V11.mp4",
-     "score": 18.46,
+     "score": 0.65,
      "categories": [
       "worker",
       "workers"
@@ -3866,7 +3866,16 @@
      "title": "video coworkers discussing about work",
      "query": "worker consulting senior colleague plan",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in suits review a document by office windows",
+     "violation": "office, suits",
+     "shot": "",
+     "shoot": "pexels-office-suits",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V02",
@@ -3898,12 +3907,21 @@
      "page_url": "https://pixabay.com/videos/id-197974/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V14.mp4",
-     "score": 11.92,
+     "score": 0.35,
      "categories": [],
      "title": "calendar  months  flipping  beautiful wallpaper  loop  countdown  diary  schedule  white  business  event  background",
      "query": "flipping planner pages writing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a wall calendar's pages flip through the months",
+     "violation": "abstract loop",
+     "shot": "",
+     "shoot": "pixabay-calendar-loop",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V10",
@@ -3914,7 +3932,7 @@
      "page_url": "https://www.pexels.com/video/man-talking-to-his-colleague-at-work-7593777/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V10.mp4",
-     "score": 19.66,
+     "score": 0.65,
      "categories": [
       "colleague",
       "man",
@@ -3923,7 +3941,16 @@
      "title": "video man talking his colleague work",
      "query": "worker consulting senior colleague plan",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in an office look over papers beside a laptop",
+     "violation": "office, laptop",
+     "shot": "",
+     "shoot": "pexels-office-laptop",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V08",
@@ -3934,7 +3961,7 @@
      "page_url": "https://www.pexels.com/video/elderly-women-working-together-8485159/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V08.mp4",
-     "score": 19.8,
+     "score": 2.65,
      "categories": [
       "together",
       "working"
@@ -3942,7 +3969,16 @@
      "title": "video elderly women working together",
      "query": "worker consulting senior colleague plan",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "two women sit at an outdoor table with a laptop and notebook",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-outdoor-cafe-laptop",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V01",
@@ -4033,7 +4069,7 @@
      "page_url": "https://www.pexels.com/video/carpenter-working-with-a-drill-6789900/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V05.mp4",
-     "score": 24.77,
+     "score": 7.35,
      "categories": [
       "carpenter",
       "working"
@@ -4041,7 +4077,16 @@
      "title": "video carpenter working with drill",
      "query": "craftsman teaching younger worker workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a man in an apron drills into a plank at a workshop bench",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-carpenter-workshop-drill",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V06",
@@ -4052,7 +4097,7 @@
      "page_url": "https://pixabay.com/videos/id-42698/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V06.mp4",
-     "score": 21.74,
+     "score": 0.35,
      "categories": [
       "building",
       "worker"
@@ -4060,7 +4105,16 @@
      "title": "machine  asphalt paver  new road  building  asphalt  roads  worker  work  heavy  cars  equipment  filthy  street",
      "query": "two workers hands on equipment learning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "yellow road rollers drive along a paved road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-road-roller",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S04-V07",
@@ -4071,7 +4125,7 @@
      "page_url": "https://pixabay.com/videos/id-11749/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__thumb__edenrise-c2-goal-setting-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__preview__edenrise-c2-goal-setting-S04-V07.mp4",
-     "score": 21.74,
+     "score": 1.35,
      "categories": [
       "hands",
       "worker",
@@ -4080,7 +4134,16 @@
      "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  wor",
      "query": "craftsman teaching younger worker workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S04__strip__edenrise-c2-goal-setting-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a spinning polishing wheel grinds against a glass edge",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glass-grinding",
+     "judged_at": "2026-09-09T20:33:35Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S04-I02",
@@ -4232,7 +4295,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T20:33:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:33:35Z"
   }
  ]
 }
