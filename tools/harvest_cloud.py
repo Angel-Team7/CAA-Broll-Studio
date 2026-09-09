@@ -38,12 +38,18 @@ def themes():
         except Exception: continue
         for sc in data.get("scenes", []):
             vd = (sc.get("visual_direction") or "").strip()
-            if len(vd) < 20: continue
+            shots = sc.get("shots") or []
+            if shots:
+                # Phase 3: the harvester searches the beat's SHOT LIST, not word chunks
+                vd = "; ".join(sh["text"] for sh in shots)
+                queries = [sh["pexels"] for sh in shots]
+            else:
+                if len(vd) < 20: continue
+                queries = [q for q in (c.get("query") for c in sc.get("clips", [])) if q][:6]
             key = re.sub(r"\W+", " ", vd.lower())[:80]
             if key in seen: continue
             seen.add(key)
-            out.append({"brand": brand, "direction": vd,
-                        "queries": [q for q in (c.get("query") for c in sc.get("clips", [])) if q][:6]})
+            out.append({"brand": brand, "direction": vd, "queries": queries})
     return out
 
 def owned_for(theme, lib):
