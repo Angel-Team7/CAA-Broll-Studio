@@ -48,7 +48,9 @@ scene `stock_gap` with a reason when fewer than three clips reach relevance ≥ 
 violation, and appends every verdict to `library/verdicts.jsonl` and every violation to
 `library/rejected.json`.
 
-Repeat Step 1–3 for each pending scene (up to 12 per run; report the remainder).
+Repeat Step 1–3 for each pending scene, up to 12 scenes or about 150 clips per run, whichever
+comes first; report the remainder (the next push picks it up). A scene with more than 60 pending
+clips is fine to judge in one go — read every strip.
 
 ## Step 4 — commit
 `git config user.name judge-bot && git config user.email bot@edenrise.com`, then commit
