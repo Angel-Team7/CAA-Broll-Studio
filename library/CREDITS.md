@@ -377,3 +377,33 @@
 | pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/skilled-metalworker-welding-in-industrial-workshop-31016918/ |
 | pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/office-workers-looking-at-camera-7552798/ |
 | pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/workmates-discussing-a-project-in-the-office-8135792/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/colleagues-celebrating-for-a-successful-project-7686674/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/men-in-a-business-meeting-7594030/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/industrial-worker-maintaining-equipment-in-factory-39310413/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-working-5846382/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-making-inventory-7018671/ |
+| pexels |  | Ghaith Asaad | Pexels License | https://www.pexels.com/video/craftsman-at-work-the-art-of-metal-embossing-20316952/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-polishing-a-chain-6263485/ |
+| pexels |  | blacxird Offical | Pexels License | https://www.pexels.com/video/expert-welder-at-work-in-industrial-setting-30748963/ |
+| pexels |  | Emrul Kausar Emon | Pexels License | https://www.pexels.com/video/motorcycle-factory-assembly-line-operations-30283099/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/organized-workspace-with-planner-and-notes-36418671/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-wearing-jumper-wiping-a-glass-6197556/ |
+| pexels |  | Cory Clean | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-truck-in-the-dirt-19042414/ |
+| pexels |  | Marc  Van den Broeck | Pexels License | https://www.pexels.com/video/digging-the-ground-with-a-backhoe-4702559/ |
+| pexels |  | CP Khanal | Pexels License | https://www.pexels.com/video/workers-are-working-on-a-construction-site-19832493/ |
+| pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-large-construction-site-layout-30810605/ |
+| pexels |  | Site Engine | Pexels License | https://www.pexels.com/video/time-lapse-footage-of-a-construction-site-5349098/ |
+| pexels |  | Nishant Aneja | Pexels License | https://www.pexels.com/video/people-mixing-cement-9149663/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/excavator-in-action-at-construction-site-near-highway-32937868/ |
+| pexels |  | 23  Audiovisual | Pexels License | https://www.pexels.com/video/construction-workers-using-an-hydraulic-hammer-machine-in-a-rural-area-14899873/ |
+| pexels |  | aksinfo7 universe | Pexels License | https://www.pexels.com/video/construction-worker-weighing-sand-in-wheelbarrow-36708580/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-showing-catalog-to-the-woman-6568704/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/men-wearing-harness-having-a-conversation-8964931/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-group-of-people-holding-missing-person-posters-10349941/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/kid-playing-with-a-broken-slinky-15024439/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-boy-doing-an-experiment-8927536/ |
+| pexels |  | Valmir Zanellato | Pexels License | https://www.pexels.com/video/child-and-cat-enjoying-playtime-outdoors-28995337/ |
+| pexels |  | Jędrzej Koralewski | Pexels License | https://www.pexels.com/video/aerial-view-of-construction-site-with-yellow-loader-32312062/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/a-person-mixing-different-colors-of-powder-on-the-ground-7192435/ |
+| pexels |  | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/earthworm-on-glove-11960811/ |
+| pexels |  | Vladimir Srajber | Pexels License | https://www.pexels.com/video/construction-site-with-heavy-machinery-activity-33769531/ |
