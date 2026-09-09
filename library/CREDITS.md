@@ -947,3 +947,33 @@
 | pexels |  | Alex Moliski | Pexels License | https://www.pexels.com/video/vanlife-adventure-in-utah-s-desert-landscape-36433662/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/person-fixing-wires-6079417/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-view-of-barbed-wire-11490316/ |
+| pexels |  | Pressmaster | Pexels License | https://www.pexels.com/video/feet-of-people-wearing-protective-suits-walking-on-debris-3192080/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-organizing-things-on-a-desk-10567193/ |
+| pixabay | hand  jewellery  finger jewelry  hands  finger  silver jewel | Nova_27 | Pixabay Content License | https://pixabay.com/videos/id-3501/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/woodworker-smoothing-surface-in-workshop-35170035/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-using-a-power-drill-to-make-holes-5972636/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/woman-getting-plates-in-cabinet-8889737/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/bedroom-in-hotel-12188719/ |
+| pexels |  | Max Vakhtbovych | Pexels License | https://www.pexels.com/video/video-of-a-bedroom-design-7749075/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/an-old-building-with-broken-windows-4707589/ |
+| pexels |  | Life On  Super 8 | Pexels License | https://www.pexels.com/video/a-shot-of-a-person-s-feet-while-walking-4292330/ |
+| pexels |  | Nicola Narracci | Pexels License | https://www.pexels.com/video/futuristic-sci-fi-abstract-neural-network-animation-30739786/ |
+| pexels |  | Nicola Narracci | Pexels License | https://www.pexels.com/video/vivid-abstract-pink-and-purple-light-forms-36601812/ |
+| pexels |  | StefWithAnF | Pexels License | https://www.pexels.com/video/close-up-shot-of-black-acrylic-paint-mixed-in-water-3993965/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/person-tying-a-string-to-a-newly-planted-tree-7655144/ |
+| pexels |  | Yeşim Çolak | Pexels License | https://www.pexels.com/video/cozy-campfire-with-flames-and-smoke-outdoors-30660530/ |
+| pexels |  | Eleonora Vokueva | Pexels License | https://www.pexels.com/video/child-whittling-stick-in-outdoor-setting-37618408/ |
+| pexels |  | Ferdous  Hasan | Pexels License | https://www.pexels.com/video/bricklaying-process-in-rural-bangladesh-34752867/ |
+| pexels |  | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/people-driving-vehicle-through-village-11857032/ |
+| pexels |  | 源 梁 | Pexels License | https://www.pexels.com/video/worker-in-hardhat-working-on-lift-at-night-9792408/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-cutting-flowers-from-the-garden-8279341/ |
+| pexels |  | Oscar Ojambo | Pexels License | https://www.pexels.com/video/close-up-view-of-worker-using-pliers-on-metal-frame-11478662/ |
+| pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/barbed-wire-fence-with-trees-in-background-32067544/ |
+| pexels |  | Julien Aldeguer | Pexels License | https://www.pexels.com/video/slow-motion-provence-chaussures-marcher-3933865/ |
+| pexels |  | SuperEVG | Pexels License | https://www.pexels.com/video/workers-repair-sleepers-at-a-railroad-crossing-19478306/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-man-walking-through-a-field-at-sunrise-27426962/ |
+| pexels |  | Dziana Hasanbekava | Pexels License | https://www.pexels.com/video/man-writing-with-a-pen-7063369/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/elderly-woman-working-at-home-6970370/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-teenage-girl-writing-in-her-notebook-in-domestic-interior-9737931/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-turning-planner-with-a-red-cover-6186873/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/person-getting-paper-7744217/ |
