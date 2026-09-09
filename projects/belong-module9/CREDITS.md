@@ -152,3 +152,13 @@
 | pixabay | man  student  library  books  shelves  study  read | Sang_Soi | Pixabay Content License | https://pixabay.com/videos/id-139804/ |
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-while-holding-a-binder-6964428/ |
 | pixabay | weld  hardware  construction  welder  locksmith  spark  fire | Luiz-Jorge-Artista | Pixabay Content License | https://pixabay.com/videos/id-3522/ |
+| pexels | video man talking the hotel receptionist | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/ |
+| pixabay | conversation  talking  chatting  meet up  communication  peo | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75999/ |
+| pixabay | woman  welcome  social media  hello  girl  reading  teach  e | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pexels | video people eating sushi meeting | Artem Podrez | Pexels License | https://www.pexels.com/video/people-eating-sushi-at-a-meeting-8519395/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-and-woman-working-at-a-call-center-8865784/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-discussing-in-a-meeting-8632479/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-to-the-hotel-receptionist-7820473/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/friends-at-a-hotel-lobby-7821418/ |
+| pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/professional-meeting-in-modern-office-setting-38493701/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-talking-at-a-seminar-8716867/ |
