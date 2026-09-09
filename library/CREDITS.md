@@ -617,3 +617,33 @@
 | pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-putting-on-goggles-8539452/ |
 | pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-wearing-gloves-7338499/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-wearing-medical-gloves-6998083/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/smithy-workshop-5846393/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-person-putting-the-angle-grinder-on-a-surface-8986489/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/panning-video-shot-of-art-materials-6214339/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/power-sanding-in-a-wood-shop-20184478/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/male-hands-using-chisel-on-strip-of-wood-5973222/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-person-holding-a-wood-plank-5972075/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-young-man-writing-on-a-clipboard-6637311/ |
+| pexels |  | Sammy Marrco | Pexels License | https://www.pexels.com/video/a-street-with-cars-parked-on-both-sides-27902029/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-opening-a-van-with-donation-boxes-6646674/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/car-mechanic-entering-a-garage-8986491/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/worker-handling-heavy-machinery-5846670/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-using-a-welding-torch-6263493/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-wooden-bath-essentials-on-a-fabric-7876535/ |
+| pexels |  | Sascha Weber | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-using-a-cigar-cutter-6973188/ |
+| pixabay | cemetery  or graveyard  graveyard  dead bodies  remains  aft | tomalauphi | Pixabay Content License | https://pixabay.com/videos/id-32065/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-female-painter-holding-a-spray-gun-7494380/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/marble-pillar-with-yellow-tape-abstract-closeup-34572298/ |
+| pixabay | building  alley  hallway  lady  cleaning  painter  paint  re | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85344/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/dripping-from-a-bathtub-5698926/ |
+| pexels |  | SHOX ART | Pexels License | https://www.pexels.com/video/close-up-of-icicles-dripping-on-cold-winter-day-36236734/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/person-turning-a-faucet-on-7301194/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-carpenter-is-working-7314256/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/closeup-of-artisan-trimming-material-on-cutting-mat-35144726/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-person-sorting-the-buttons-4452753/ |
+| pexels |  | Zulfugar Karimov | Pexels License | https://www.pexels.com/video/woman-walking-in-serene-park-setting-39106534/ |
+| pexels |  | Hassan Ehsan | Pexels License | https://www.pexels.com/video/serene-garden-fountain-in-lush-surroundings-39072927/ |
+| pexels |  | Vitaliy Haiduk | Pexels License | https://www.pexels.com/video/tranquil-garden-water-feature-scene-37908717/ |
+| pexels |  | Michelangelo Buonarroti | Pexels License | https://www.pexels.com/video/video-of-a-person-wearing-gloves-4260414/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/man-pounding-metal-with-a-hammer-14514806/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-wearing-medical-gloves-8539169/ |
