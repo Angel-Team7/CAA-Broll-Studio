@@ -467,3 +467,33 @@
 | pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/skilled-welder-working-with-sparks-indoors-31806788/ |
 | pexels |  | Lalit Shihir | Pexels License | https://www.pexels.com/video/thinking-expression-indian-men-lalit-shihir-16072503/ |
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-factory-worker-in-textile-industry-31360109/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/skilled-worker-assembling-metal-frame-in-workshop-34572312/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-workers-sorting-fabrics-31352804/ |
+| pexels |  | wowi allinsky | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-dirt-road-and-a-lake-17024652/ |
+| pexels |  | Alex Luna | Pexels License | https://www.pexels.com/video/hitting-stud-with-hammer-12270585/ |
+| pixabay | construction  cranes  foundation  truck  concrete  excavator | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-52886/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/set-of-wood-chisels-5972091/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-operating-drilling-machine-5846666/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-choosing-a-screwdriver-bit-6957869/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/girls-using-magnifier-on-school-trip-12723972/ |
+| pexels |  | AMIT PANDEY | Pexels License | https://www.pexels.com/video/women-working-in-construction-site-indoors-30836672/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/little-girls-looking-out-the-window-6183063/ |
+| pexels |  | Magda Ehlers | Pexels License | https://www.pexels.com/video/a-man-is-working-on-a-tile-floor-with-a-hammer-24906849/ |
+| pexels |  | Tamoor Ahmed | Pexels License | https://www.pexels.com/video/engineers-discussing-360-drone-20652974/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/close-up-of-farmer-pulling-weeds-10041359/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-writing-on-flipchart-and-discussing-to-colleagues-7683088/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/piles-of-red-brick-debris-at-construction-site-30992049/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/boss-talking-to-the-employees-8201304/ |
+| pexels |  | abdo alshreef | Pexels License | https://www.pexels.com/video/nighttime-oil-field-maintenance-by-crew-36713758/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-standing-side-by-side-8486876/ |
+| pexels |  | C Technical | Pexels License | https://www.pexels.com/video/four-people-riding-a-boat-4919537/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/man-and-a-woman-working-at-a-construction-site-8965436/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-wearing-hard-hat-looking-at-camera-8963680/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/a-welder-is-welding-a-pipe-27212735/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/an-angry-man-talking-to-the-camera-7261928/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-textile-worker-in-factory-setting-31657636/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-wearing-a-hard-hat-6474360/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-signing-documents-7581277/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-talking-using-the-headphones-7682564/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-and-woman-talking-in-office-together-6248608/ |
+| pexels |  | A S M Atiqur Rahman | Pexels License | https://www.pexels.com/video/traditional-blacksmith-sharpening-knife-37873100/ |
