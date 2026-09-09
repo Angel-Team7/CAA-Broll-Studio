@@ -39,7 +39,7 @@
      "page_url": "https://www.pexels.com/video/man-at-work-wearing-his-helmet-5100046/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__thumb__edenrise-gratitude-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__preview__edenrise-gratitude-S01-V02.mp4",
-     "score": 25.42,
+     "score": 3.0,
      "categories": [
       "helmet",
       "man"
@@ -47,7 +47,16 @@
      "title": "video man work wearing his helmet",
      "query": "construction worker arriving site serious face morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__strip__edenrise-gratitude-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a man puts on a hard hat inside a warehouse with a forklift",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-warehouse-hardhat",
+     "judged_at": "2026-09-09T19:47:48Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S01-V03",
@@ -58,7 +67,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-sitting-on-the-stairs-8488383/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__thumb__edenrise-gratitude-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__preview__edenrise-gratitude-S01-V03.mp4",
-     "score": 19.29,
+     "score": 4.4,
      "categories": [
       "man",
       "woman"
@@ -66,7 +75,16 @@
      "title": "video woman sitting the stairs",
      "query": "construction worker looking stressed",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__strip__edenrise-gratitude-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a woman in a hard hat and vest sits troubled on a staircase",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-stairwell-troubled",
+     "judged_at": "2026-09-09T19:47:48Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S01-V04",
@@ -77,7 +95,7 @@
      "page_url": "https://www.pexels.com/video/working-woman-yawning-while-holding-her-phone-6032134/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__thumb__edenrise-gratitude-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__preview__edenrise-gratitude-S01-V04.mp4",
-     "score": 16.9,
+     "score": 0.65,
      "categories": [
       "man",
       "woman",
@@ -86,7 +104,16 @@
      "title": "video working woman yawning while holding her phone",
      "query": "worker sighing hand on head",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__strip__edenrise-gratitude-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman looks exasperated at her phone in front of a laptop",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-laptop-exasperated",
+     "judged_at": "2026-09-09T19:47:48Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S01-V05",
@@ -97,12 +124,21 @@
      "page_url": "https://www.pexels.com/video/people-holding-the-plan-6474251/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__thumb__edenrise-gratitude-S01-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__preview__edenrise-gratitude-S01-V05.mp4",
-     "score": 18.69,
+     "score": 5.4,
      "categories": [],
      "title": "video people holding the plan",
      "query": "construction worker looking stressed",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S01__strip__edenrise-gratitude-S01-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "a worker in a hard hat stands holding plans in an unfinished room",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-plans-hardhat-room",
+     "judged_at": "2026-09-09T19:47:48Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S01-I02",
@@ -150,7 +186,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:47:48Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:47:48Z"
   },
   {
    "id": "S02",
@@ -172,7 +214,7 @@
      "page_url": "https://pixabay.com/videos/id-85351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V01.mp4",
-     "score": 37.7,
+     "score": 3.4,
      "categories": [
       "builder",
       "building",
@@ -184,7 +226,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "construction workers helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a worker in a vest operates a plate compactor on fresh concrete",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-plate-compactor",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S02-V02",
@@ -195,7 +246,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-looking-at-each-other-then-facing-the-camera-while-the-woman-s-arm-is-on-the-man-s-shoulder-5941108/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V02.mp4",
-     "score": 32.99,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -205,7 +256,16 @@
      "title": "video colleagues looking each other then facing the camera while the woman arm the man shoulder",
      "query": "two coworkers smiling helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two colleagues smile together in a glass-walled office lounge",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-colleagues-smile",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S02-V03",
@@ -216,7 +276,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-at-the-construction-site-8964727/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V03.mp4",
-     "score": 31.7,
+     "score": 4.35,
      "categories": [
       "construction",
       "conversation",
@@ -227,7 +287,16 @@
      "title": "video man and woman having conversation the construction site",
      "query": "construction workers helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats talk while holding a clipboard on a high-rise site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-clipboard-talk",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S02-V04",
@@ -238,7 +307,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-flirting-with-each-other-at-work-8902343/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V04.mp4",
-     "score": 31.52,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues"
@@ -246,7 +315,16 @@
      "title": "video colleagues flirting with each other work",
      "query": "two coworkers smiling helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women share an affectionate moment near a desk indoors",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-pastel-office-moment",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S02-V05",
@@ -257,7 +335,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-having-conversation-while-looking-at-the-construction-site-8964771/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V05.mp4",
-     "score": 31.5,
+     "score": 4.35,
      "categories": [
       "construction",
       "conversation",
@@ -268,7 +346,16 @@
      "title": "video man and woman having conversation while looking the construction site",
      "query": "worker helping colleague site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats converse closely on a high-rise site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-clipboard-talk",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S02-V08",
@@ -279,7 +366,7 @@
      "page_url": "https://www.pexels.com/video/two-women-working-together-8902351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V08.mp4",
-     "score": 31.19,
+     "score": 0.65,
      "categories": [
       "together",
       "working"
@@ -287,7 +374,16 @@
      "title": "video two women working together",
      "query": "two coworkers smiling helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two call center workers in headsets sit at computer monitors",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-callcenter-headsets",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S02-V10",
@@ -298,7 +394,7 @@
      "page_url": "https://pixabay.com/videos/id-67461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V10.mp4",
-     "score": 29.9,
+     "score": 3.4,
      "categories": [
       "builder",
       "building",
@@ -308,7 +404,16 @@
      "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "construction workers helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands cut stone pavers with a power saw outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stone-cutter-dust",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S02-V11",
@@ -319,7 +424,7 @@
      "page_url": "https://www.pexels.com/video/call-center-employees-working-together-8201835/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V11.mp4",
-     "score": 29.69,
+     "score": 0.65,
      "categories": [
       "together",
       "working"
@@ -327,7 +432,16 @@
      "title": "video call center employees working together",
      "query": "two coworkers smiling helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "three office workers in headsets sit at computer desks smiling",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-callcenter-headsets",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S02-V12",
@@ -357,7 +471,7 @@
      "page_url": "https://www.pexels.com/video/a-construction-worker-is-working-on-a-stone-wall-19832492/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__thumb__edenrise-gratitude-S02-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__preview__edenrise-gratitude-S02-V13.mp4",
-     "score": 27.3,
+     "score": 7.35,
      "categories": [
       "construction",
       "worker",
@@ -366,7 +480,16 @@
      "title": "video construction worker working stone wall",
      "query": "construction workers helping each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S02__strip__edenrise-gratitude-S02-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a worker carefully places stones along a taut string line on a wall",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-stone-wall-line-work",
+     "judged_at": "2026-09-09T19:48:36Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S02-I02",
@@ -438,7 +561,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:48:36Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:48:36Z"
   },
   {
    "id": "S03",
@@ -478,7 +607,7 @@
      "page_url": "https://www.pexels.com/video/man-people-woman-construction-6474152/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V02.mp4",
-     "score": 29.68,
+     "score": 6.05,
      "categories": [
       "construction",
       "man",
@@ -488,7 +617,16 @@
      "title": "video man people woman construction",
      "query": "construction workers smiling together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two painters work together lifting a roller to reach the ceiling",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-pair-painting-wall",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-V03",
@@ -499,7 +637,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V03.mp4",
-     "score": 29.28,
+     "score": 4.1,
      "categories": [
       "builder",
       "building",
@@ -509,7 +647,16 @@
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "construction workers smiling together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 8,
+     "caption": "hands lay stone pavers with a mallet at a building site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-hands",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-V04",
@@ -520,7 +667,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-working-with-concrete-10210999/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V04.mp4",
-     "score": 28.98,
+     "score": 3.0,
      "categories": [
       "concrete",
       "construction",
@@ -531,7 +678,16 @@
      "title": "video construction workers working with concrete",
      "query": "builders laughing break",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a group of workers pour concrete together on a rooftop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rooftop-concrete-crew",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-V05",
@@ -542,7 +698,7 @@
      "page_url": "https://www.pexels.com/video/men-working-on-construction-11355903/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V05.mp4",
-     "score": 26.68,
+     "score": 6.7,
      "categories": [
       "construction",
       "working"
@@ -550,7 +706,16 @@
      "title": "video men working construction",
      "query": "construction workers smiling together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "two men build a brick wall together in a garden",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-brick-wall-pair",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-V06",
@@ -561,14 +726,23 @@
      "page_url": "https://www.pexels.com/video/people-discussing-around-a-table-7668952/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V06.mp4",
-     "score": 20.63,
+     "score": 0.65,
      "categories": [
       "people"
      ],
      "title": "video people discussing around table",
      "query": "warm atmosphere team working together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "four colleagues sit around a table with color swatches in a dim room",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-dark-studio-meeting",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S03-V08",
@@ -579,14 +753,23 @@
      "page_url": "https://www.pexels.com/video/people-looking-at-a-color-palette-7507631/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V08.mp4",
-     "score": 19.66,
+     "score": 0.65,
      "categories": [
       "people"
      ],
      "title": "video people looking color palette",
      "query": "warm atmosphere team working together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues gather at a whiteboard covered in sticky notes",
+     "violation": "office/whiteboard",
+     "shot": "",
+     "shoot": "pexels-whiteboard-brainstorm",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S03-V09",
@@ -597,14 +780,23 @@
      "page_url": "https://www.pexels.com/video/people-looking-at-the-screen-of-a-cellphone-7252630/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V09.mp4",
-     "score": 19.66,
+     "score": 0.65,
      "categories": [
       "people"
      ],
      "title": "video people looking the screen cellphone",
      "query": "warm atmosphere team working together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women look at a phone beside an open laptop at a desk",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-laptop-phone-desk",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S03-V11",
@@ -615,7 +807,7 @@
      "page_url": "https://www.pexels.com/video/businesspeople-working-together-7652002/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V11.mp4",
-     "score": 18.7,
+     "score": 0.65,
      "categories": [
       "people",
       "together",
@@ -624,7 +816,16 @@
      "title": "video businesspeople working together",
      "query": "warm atmosphere team working together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues gather around a laptop in an open-plan office",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-office-laptop-group",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S03-V12",
@@ -635,7 +836,7 @@
      "page_url": "https://pixabay.com/videos/id-73711/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V12.mp4",
-     "score": 17.83,
+     "score": 0.65,
      "categories": [
       "face",
       "man",
@@ -645,7 +846,16 @@
      "title": "woman  model  look  face  eyes  head  adult  pose  portrait  make-up  human  girl  person  shadow",
      "query": "person pausing to look around and notice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a dramatic close-up portrait of a woman's face in low light",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dramatic-portrait",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-V14",
@@ -656,7 +866,7 @@
      "page_url": "https://pixabay.com/videos/id-73712/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__thumb__edenrise-gratitude-S03-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__preview__edenrise-gratitude-S03-V14.mp4",
-     "score": 17.83,
+     "score": 0.65,
      "categories": [
       "face",
       "man",
@@ -666,7 +876,16 @@
      "title": "woman  model  look  face  eyes  head  adult  pose  portrait  make-up  human  girl  person  shadow",
      "query": "person pausing to look around and notice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S03__strip__edenrise-gratitude-S03-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a dramatic close-up portrait of a woman's face in low light",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dramatic-portrait",
+     "judged_at": "2026-09-09T19:49:28Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S03-I01",
@@ -772,7 +991,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:49:28Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:49:28Z"
   },
   {
    "id": "S04",
@@ -794,7 +1019,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V01.mp4",
-     "score": 31.09,
+     "score": 3.7,
      "categories": [
       "building",
       "construction",
@@ -806,7 +1031,16 @@
      "title": "video construction workers inspecting building site scaffolding",
      "query": "builders walking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats talk inside a large unfinished building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-steel-frame-talk",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V03",
@@ -836,7 +1070,7 @@
      "page_url": "https://www.pexels.com/video/construction-team-planning-near-beachside-location-30539909/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V04.mp4",
-     "score": 24.19,
+     "score": 5.35,
      "categories": [
       "construction",
       "team"
@@ -844,7 +1078,16 @@
      "title": "video construction team planning near beachside location",
      "query": "builders walking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a crew of workers in hard hats gathers at a tropical building site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-tropical-crew-site",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V05",
@@ -855,7 +1098,7 @@
      "page_url": "https://www.pexels.com/video/woman-greeting-her-colleagues-7253098/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V05.mp4",
-     "score": 22.33,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -866,7 +1109,16 @@
      "title": "video woman greeting her colleagues",
      "query": "workers greeting each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues greet each other in a casual loft office with a laptop",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-loft-office-greet",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S04-V06",
@@ -877,7 +1129,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-walking-together-in-an-urban-area-4480973/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V06.mp4",
-     "score": 22.09,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -886,7 +1138,16 @@
      "title": "video colleagues walking together urban area",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues in coats and suits walk an urban plaza holding coffee",
+     "violation": "office/suits",
+     "shot": "",
+     "shoot": "pexels-corporate-coffee-walk",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S04-V07",
@@ -897,7 +1158,7 @@
      "page_url": "https://coverr.co/videos/close-up-of-a-man-talking-on-a-virtual-meeting",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V07.mp4",
-     "score": 20.53,
+     "score": 1.35,
      "categories": [
       "man",
       "meeting",
@@ -906,7 +1167,16 @@
      "title": "videos close man talking virtual meeting",
      "query": "workers greeting each other",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a young man wearing headphones smiles at a podcast microphone",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-podcast-headphones",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V08",
@@ -917,7 +1187,7 @@
      "page_url": "https://www.pexels.com/video/people-talking-while-walking-7652288/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V08.mp4",
-     "score": 19.34,
+     "score": 0.65,
      "categories": [
       "people",
       "talking"
@@ -925,7 +1195,16 @@
      "title": "video people talking while walking",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two colleagues walk a glass office corridor holding folders",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-glass-corridor-walk",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S04-V09",
@@ -936,14 +1215,23 @@
      "page_url": "https://pixabay.com/videos/id-6387/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V09.mp4",
-     "score": 19.27,
+     "score": 1.35,
      "categories": [
       "people"
      ],
      "title": "people  commerce  shop  busy  mall  walking",
      "query": "builders walking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial black-and-white view of a crowd walking across a plaza",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-crowd-plaza",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V11",
@@ -954,7 +1242,7 @@
      "page_url": "https://www.pexels.com/video/outdoor-portrait-exhibition-on-urban-plaza-32404858/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V11.mp4",
-     "score": 17.89,
+     "score": 1.0,
      "categories": [
       "outdoor",
       "portrait"
@@ -962,7 +1250,16 @@
      "title": "video outdoor portrait exhibition urban plaza",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "framed portraits stand in an outdoor exhibition on a plaza",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-portrait-exhibition",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V12",
@@ -973,14 +1270,23 @@
      "page_url": "https://www.pexels.com/video/women-working-7653218/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V12.mp4",
-     "score": 15.49,
+     "score": 0.65,
      "categories": [
       "working"
      ],
      "title": "video women working",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women in lab coats work at laptops in a brick-walled office",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-labcoat-office-laptop",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S04-V13",
@@ -991,14 +1297,23 @@
      "page_url": "https://pixabay.com/videos/id-224739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V13.mp4",
-     "score": 14.49,
+     "score": 1.0,
      "categories": [
       "land"
      ],
      "title": "clouds  cloud fields  passing clouds  outlook  hill  nature  landscape",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "time-lapse clouds drift over distant hills",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-clouds-hills",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-V14",
@@ -1009,14 +1324,23 @@
      "page_url": "https://pixabay.com/videos/id-18599/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__thumb__edenrise-gratitude-S04-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__preview__edenrise-gratitude-S04-V14.mp4",
-     "score": 14.49,
+     "score": 1.0,
      "categories": [
       "land"
      ],
      "title": "church  clouds  passing clouds  sky  atmospheric  landscape  nature  lighting",
      "query": "coworkers passing by without noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S04__strip__edenrise-gratitude-S04-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "time-lapse clouds pass over a small country church",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-clouds-church",
+     "judged_at": "2026-09-09T19:50:18Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S04-I01",
@@ -1124,7 +1448,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:50:18Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:50:18Z"
   },
   {
    "id": "S05",
@@ -1316,7 +1646,7 @@
      "page_url": "https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V03.mp4",
-     "score": 31.06,
+     "score": 3.05,
      "categories": [
       "construction",
       "site"
@@ -1324,7 +1654,16 @@
      "title": "video engineers looking the construction site while having discussion",
      "query": "team of workers faces talking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats discuss plans at a large construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hardhat-clipboard-talk",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V04",
@@ -1335,7 +1674,7 @@
      "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V04.mp4",
-     "score": 29.96,
+     "score": 3.4,
      "categories": [
       "conversation",
       "people"
@@ -1343,7 +1682,16 @@
      "title": "video close footage people holding folder while having conversation",
      "query": "team of workers faces talking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a worker in a safety vest holds a clipboard while walking",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-clipboard-walk",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V05",
@@ -1354,7 +1702,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V05.mp4",
-     "score": 29.77,
+     "score": 3.05,
      "categories": [
       "conversation",
       "man",
@@ -1363,7 +1711,16 @@
      "title": "video man and woman having conversation",
      "query": "team of workers faces talking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats talk over a clipboard at a site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hardhat-clipboard-talk",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V06",
@@ -1374,7 +1731,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-a-woman-having-a-happy-conversation-8964726/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V06.mp4",
-     "score": 29.77,
+     "score": 3.05,
      "categories": [
       "conversation",
       "man",
@@ -1383,7 +1740,16 @@
      "title": "video man and woman having happy conversation",
      "query": "team of workers faces talking together site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats share a warm conversation on site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hardhat-happy-chat",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V07",
@@ -1394,7 +1760,7 @@
      "page_url": "https://pixabay.com/videos/id-40816/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V07.mp4",
-     "score": 28.45,
+     "score": 3.05,
      "categories": [
       "builder",
       "building",
@@ -1405,7 +1771,16 @@
      "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
      "query": "worker smiling face hard hat looking camera",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "an older worker leans on a shovel at a gravel site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-gravel-laborer",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V08",
@@ -1436,7 +1811,7 @@
      "page_url": "https://www.pexels.com/video/carpenters-working-together-8820343/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V09.mp4",
-     "score": 23.48,
+     "score": 6.05,
      "categories": [
       "carpenter",
       "together",
@@ -1445,7 +1820,16 @@
      "title": "video carpenters working together",
      "query": "builder focused craftsmanship",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two carpenters work together building a timber house frame",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-timber-frame-carpenters",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V10",
@@ -1456,7 +1840,7 @@
      "page_url": "https://www.pexels.com/video/couple-talking-together-8400715/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V10.mp4",
-     "score": 23.42,
+     "score": 1.35,
      "categories": [
       "talking",
       "together"
@@ -1464,7 +1848,16 @@
      "title": "video couple talking together",
      "query": "supportive conversation two people",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two people's hands nearly touch beside a wheelchair indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-wheelchair-hands",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V11",
@@ -1475,7 +1868,7 @@
      "page_url": "https://www.pexels.com/video/a-young-man-and-a-woman-studying-together-8472224/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V11.mp4",
-     "score": 22.6,
+     "score": 1.35,
      "categories": [
       "man",
       "together",
@@ -1484,7 +1877,16 @@
      "title": "video young man and woman studying together",
      "query": "supportive conversation two people",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two students study together at a table indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-students-studying",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V12",
@@ -1495,7 +1897,7 @@
      "page_url": "https://www.pexels.com/video/two-businessmen-shaking-hands-15616104/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V12.mp4",
-     "score": 22.6,
+     "score": 0.65,
      "categories": [
       "hands",
       "shaking hands"
@@ -1503,7 +1905,16 @@
      "title": "video two businessmen shaking hands",
      "query": "supportive conversation two people",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in dress shirts shake hands in a gallery-like room",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-corporate-handshake",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V14",
@@ -1514,7 +1925,7 @@
      "page_url": "https://www.pexels.com/video/skilled-workers-constructing-a-wooden-frame-house-31025072/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V14.mp4",
-     "score": 19.58,
+     "score": 4.05,
      "categories": [
       "worker",
       "workers"
@@ -1522,7 +1933,16 @@
      "title": "video skilled workers constructing wooden frame house",
      "query": "builder focused craftsmanship",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "aerial view of harnessed workers framing a wooden roof",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-wood-frame-roof",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V15",
@@ -1533,7 +1953,7 @@
      "page_url": "https://pixabay.com/videos/id-148541/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V15.mp4",
-     "score": 19.18,
+     "score": 3.75,
      "categories": [
       "building",
       "concrete",
@@ -1543,7 +1963,16 @@
      "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
      "query": "worker concentrating careful work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "boots step near a wheelbarrow pouring wet concrete",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheelbarrow-concrete-boots",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V16",
@@ -1554,7 +1983,7 @@
      "page_url": "https://www.pexels.com/video/a-blacksmith-working-with-a-machinery-5846656/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V16.mp4",
-     "score": 18.97,
+     "score": 0.65,
      "categories": [
       "machinery",
       "working"
@@ -1562,7 +1991,16 @@
      "title": "video blacksmith working with machinery",
      "query": "worker concentrating careful work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in camouflage operates a lathe in a dim workshop",
+     "violation": "dark industrial workshop",
+     "shot": "",
+     "shoot": "pexels-dim-lathe-workshop",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V18",
@@ -1573,7 +2011,7 @@
      "page_url": "https://www.pexels.com/video/a-back-view-of-a-man-working-7480740/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V18.mp4",
-     "score": 18.37,
+     "score": 6.05,
      "categories": [
       "man",
       "working"
@@ -1581,7 +2019,16 @@
      "title": "video back view man working",
      "query": "worker concentrating careful work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a worker stands at a bright, organized woodworking workshop bench",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-bright-workshop-bench",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S06-V19",
@@ -1592,7 +2039,7 @@
      "page_url": "https://pixabay.com/videos/id-45132/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V19.mp4",
-     "score": 18.22,
+     "score": 1.0,
      "categories": [
       "face",
       "man",
@@ -1603,7 +2050,16 @@
      "title": "girl  young  woman  pose  face  model  female  person  beauty  portrait  smile",
      "query": "person calm wellbeing content face",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a young woman laughs playing with her hair against a brick wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-laughing-brick",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V20",
@@ -1614,7 +2070,7 @@
      "page_url": "https://pixabay.com/videos/id-231762/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__thumb__edenrise-gratitude-S06-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__preview__edenrise-gratitude-S06-V20.mp4",
-     "score": 16.8,
+     "score": 1.0,
      "categories": [
       "man",
       "people",
@@ -1623,7 +2079,16 @@
      "title": "couple  lovers  together  relationship  romance  people  romantic  happy  sunset  nature",
      "query": "people talking warmly relationship",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S06__strip__edenrise-gratitude-S06-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "aerial view of a couple wading into the ocean at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-couple-ocean-aerial",
+     "judged_at": "2026-09-09T19:51:20Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-I01",
@@ -1783,7 +2248,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:51:20Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:51:20Z"
   },
   {
    "id": "S07",
@@ -1805,7 +2276,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-to-a-man-7200202/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V01.mp4",
-     "score": 16.67,
+     "score": 3.3,
      "categories": [
       "man",
       "talking",
@@ -1814,7 +2285,16 @@
      "title": "video woman talking man",
      "query": "colleague comforting another difficult day",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "one woman rests a hand on another's shoulder on a couch indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-couch-comfort-hand",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S07-V02",
@@ -1825,7 +2305,7 @@
      "page_url": "https://www.pexels.com/video/people-getting-angry-at-a-coworker-7640072/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V02.mp4",
-     "score": 16.07,
+     "score": 0.65,
      "categories": [
       "people",
       "worker"
@@ -1833,7 +2313,16 @@
      "title": "video people getting angry coworker",
      "query": "colleague comforting another difficult day",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues review documents together around an office desk",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-folder-review",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S07-V03",
@@ -1844,7 +2333,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-having-a-conversation-7983994/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V03.mp4",
-     "score": 23.54,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -1853,7 +2342,16 @@
      "title": "video colleagues having conversation",
      "query": "two coworkers talking quietly at a desk",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two men in dress shirts sit at a table with laptops",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-office-laptop-interview",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S07-V04",
@@ -1864,7 +2362,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-shaking-hands-with-another-person-6930349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V04.mp4",
-     "score": 20.07,
+     "score": 1.3,
      "categories": [
       "hands",
       "man",
@@ -1874,7 +2372,16 @@
      "title": "video woman shaking hands with another person",
      "query": "person handing a colleague a cup of coffee",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a businesswoman in a blazer shakes hands with a man across a laptop",
+     "violation": "office/laptops",
+     "shot": "C",
+     "shoot": "pexels-office-handshake-laptop",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S07-V05",
@@ -1902,7 +2409,7 @@
      "page_url": "https://www.pexels.com/video/woman-having-an-interview-4428754/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V06.mp4",
-     "score": 19.34,
+     "score": 0.65,
      "categories": [
       "man",
       "woman"
@@ -1910,7 +2417,16 @@
      "title": "video woman having interview",
      "query": "two coworkers talking quietly at a desk",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman in a blazer speaks near an open laptop",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-office-blazer-laptop",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S07-V08",
@@ -1921,14 +2437,23 @@
      "page_url": "https://www.pexels.com/video/family-having-dinner-together-6304835/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V08.mp4",
-     "score": 12.38,
+     "score": 1.35,
      "categories": [
       "together"
      ],
      "title": "video family having dinner together",
      "query": "serving food",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a family shares a candlelit dinner together at home",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-family-dinner",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S07-V09",
@@ -1939,14 +2464,23 @@
      "page_url": "https://www.pexels.com/video/a-man-fixing-the-machine-6685031/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V09.mp4",
-     "score": 12.38,
+     "score": 3.7,
      "categories": [
       "man"
      ],
      "title": "video man fixing the machine",
      "query": "maintenance repair worker",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man repairs mechanical equipment in a garage workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-garage-repair-man",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S07-V10",
@@ -1957,7 +2491,7 @@
      "page_url": "https://coverr.co/videos/woman-putting-on-an-apron-bj6yhxgknc",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__thumb__edenrise-gratitude-S07-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__preview__edenrise-gratitude-S07-V10.mp4",
-     "score": 11.78,
+     "score": 3.4,
      "categories": [
       "man",
       "woman"
@@ -1965,7 +2499,16 @@
      "title": "videos woman putting apron bj6yhxgknc",
      "query": "chef cooking kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S07__strip__edenrise-gratitude-S07-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a woman ties on a pink apron in a simple kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-apron-kitchen",
+     "judged_at": "2026-09-09T19:52:02Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S07-I01",
@@ -2129,7 +2672,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:52:02Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:52:02Z"
   },
   {
    "id": "S08",
@@ -2170,7 +2719,7 @@
      "page_url": "https://www.pexels.com/video/group-of-people-shaking-hands-8170593/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V03.mp4",
-     "score": 24.46,
+     "score": 0.65,
      "categories": [
       "hands",
       "people",
@@ -2179,7 +2728,16 @@
      "title": "video group people shaking hands",
      "query": "appreciation moment handshake work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two people in business attire shake hands closely, close-up",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-handshake-closeup",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S08-V04",
@@ -2190,7 +2748,7 @@
      "page_url": "https://www.pexels.com/video/joyful-gift-exchange-between-colleagues-38057446/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V04.mp4",
-     "score": 24.16,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues"
@@ -2198,7 +2756,16 @@
      "title": "video joyful gift exchange between colleagues",
      "query": "appreciation moment handshake work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two colleagues exchange a gift in a corporate lobby with framed certificates",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-gift-exchange",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S08-V05",
@@ -2209,7 +2776,7 @@
      "page_url": "https://www.pexels.com/video/two-people-talking-together-6334758/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V05.mp4",
-     "score": 23.08,
+     "score": 1.35,
      "categories": [
       "people",
       "talking",
@@ -2218,7 +2785,16 @@
      "title": "video two people talking together",
      "query": "mentor showing apprentice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an older man and young woman look at something among library shelves",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-library-look-together",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S08-V06",
@@ -2229,14 +2805,23 @@
      "page_url": "https://www.pexels.com/video/a-manager-giving-a-certificate-to-an-employee-7685815/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V06.mp4",
-     "score": 22.99,
+     "score": 2.0,
      "categories": [
       "man"
      ],
      "title": "video manager giving certificate employee",
      "query": "appreciation moment handshake work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man hands another man a certificate outside a glass building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-certificate-handoff",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S08-V07",
@@ -2247,7 +2832,7 @@
      "page_url": "https://www.pexels.com/video/male-professor-helping-his-students-8199374/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V07.mp4",
-     "score": 22.94,
+     "score": 1.35,
      "categories": [
       "help",
       "helping"
@@ -2255,7 +2840,16 @@
      "title": "video male professor helping his students",
      "query": "experienced worker teaching young",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a professor helps two students at a library bookshelf",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-professor-library-help",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S08-V08",
@@ -2266,7 +2860,7 @@
      "page_url": "https://pixabay.com/videos/id-76888/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V08.mp4",
-     "score": 22.87,
+     "score": 3.4,
      "categories": [
       "man",
       "people",
@@ -2277,7 +2871,16 @@
      "title": "man  smiling  farmer  happy  young  culture  senior  woman  girl  happiness  lifestyle  people  portrait",
      "query": "someone being recognised smiling proud",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a man in a polo shirt smiles standing among trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-polo-tree-portrait",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S08-V12",
@@ -2288,7 +2891,7 @@
      "page_url": "https://www.pexels.com/video/two-woman-smiling-in-agreement-of-what-they-are-seeing-on-the-computer-monitor-3044749/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V12.mp4",
-     "score": 21.28,
+     "score": 0.65,
      "categories": [
       "man",
       "smiling",
@@ -2297,7 +2900,16 @@
      "title": "video two woman smiling agreement what they are seeing the computer monitor",
      "query": "mentor showing apprentice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women smile looking at office computer monitors",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-office-computer-smile",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S08-V13",
@@ -2308,7 +2920,7 @@
      "page_url": "https://www.pexels.com/video/a-construction-worker-walking-inside-a-building-5423610/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__thumb__edenrise-gratitude-S08-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__preview__edenrise-gratitude-S08-V13.mp4",
-     "score": 20.68,
+     "score": 5.4,
      "categories": [
       "building",
       "construction",
@@ -2317,7 +2929,16 @@
      "title": "video construction worker walking inside building",
      "query": "foreman explaining to worker",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S08__strip__edenrise-gratitude-S08-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "a worker in a safety vest walks through an unfinished building interior",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-safety-vest-walk-interior",
+     "judged_at": "2026-09-09T19:52:43Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S08-I02",
@@ -2427,7 +3048,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:52:43Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:52:43Z"
   },
   {
    "id": "S09",

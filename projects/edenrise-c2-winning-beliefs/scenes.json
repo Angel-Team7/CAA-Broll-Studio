@@ -1701,7 +1701,7 @@
      "page_url": "https://www.pexels.com/video/a-man-teaching-elderly-people-how-to-use-computers-7999351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V00.mp4",
-     "score": 21.3,
+     "score": 0.65,
      "categories": [
       "man",
       "people",
@@ -1710,7 +1710,16 @@
      "title": "video man teaching elderly people how use computers",
      "query": "employee learning skill hands on training",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man teaches two elderly people to use laptops in a library",
+     "violation": "office/laptops",
+     "shot": "",
+     "shoot": "pexels-library-elderly",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-V01",
@@ -1721,7 +1730,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-putting-soil-in-the-pot-6508942/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V01.mp4",
-     "score": 20.39,
+     "score": 5.4,
      "categories": [
       "man",
       "soil",
@@ -1730,7 +1739,16 @@
      "title": "video woman putting soil the pot",
      "query": "gardener planting seedlings carefully",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "a woman in overalls pots soil among greenhouse plants",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-greenhouse-woman",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-V02",
@@ -1741,7 +1759,7 @@
      "page_url": "https://www.pexels.com/video/a-man-talking-to-his-colleagues-9034509/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V02.mp4",
-     "score": 23.1,
+     "score": 0.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -1751,7 +1769,16 @@
      "title": "video man talking his colleagues",
      "query": "employee learning skill hands on training",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in a suit presents to seated colleagues before a screen",
+     "violation": "office/suits/boardroom",
+     "shot": "",
+     "shoot": "pexels-boardroom-presentation",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-V03",
@@ -1762,7 +1789,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-wearing-safety-gear-talking-and-doing-hand-gestures-8487481/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V03.mp4",
-     "score": 23.65,
+     "score": 5.05,
      "categories": [
       "man",
       "safety",
@@ -1772,7 +1799,16 @@
      "title": "video woman wearing safety gear talking and doing hand gestures",
      "query": "construction worker putting on gloves",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a worker in hard hat and vest gestures while explaining outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hillside-worker",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-V04",
@@ -1801,7 +1837,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V05.mp4",
-     "score": 20.85,
+     "score": 5.4,
      "categories": [
       "builder",
       "building",
@@ -1811,7 +1847,16 @@
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "construction worker putting on gloves",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "hands lay stone pavers with a mallet at a building site",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-paver-hands",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-V06",
@@ -1822,7 +1867,7 @@
      "page_url": "https://pixabay.com/videos/id-7376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V06.mp4",
-     "score": 22.1,
+     "score": 4.05,
      "categories": [
       "brick",
       "building",
@@ -1834,7 +1879,16 @@
      "title": "construction  remodeling  home  apartment  constructions  tool  hammer  mason  constructor  sledgehammer  demolition  br",
      "query": "worker preparing tools morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__strip__edenrise-c2-winning-beliefs-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a worker breaks through an interior wall with a hammer",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-demolition-wall",
+     "judged_at": "2026-09-09T19:43:52Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S05-I00",
@@ -1935,7 +1989,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:43:52Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:43:52Z"
   },
   {
    "id": "S06",
@@ -1957,7 +2017,7 @@
      "page_url": "https://www.pexels.com/video/women-talking-at-a-construction-site-8487866/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V00.mp4",
-     "score": 25.81,
+     "score": 6.05,
      "categories": [
       "construction",
       "site",
@@ -1966,7 +2026,16 @@
      "title": "video women talking construction site",
      "query": "serious conversation two workers site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two women in hard hats and vests crouch talking on an unfinished floor",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-women-construction-talk",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V01",
@@ -1977,7 +2046,7 @@
      "page_url": "https://www.pexels.com/video/engineer-talking-to-a-construction-worker-8964377/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V01.mp4",
-     "score": 25.81,
+     "score": 4.35,
      "categories": [
       "construction",
       "talking",
@@ -1986,7 +2055,16 @@
      "title": "video engineer talking construction worker",
      "query": "serious conversation two workers site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two men in hard hats talk inside a large steel-framed structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-steel-frame-talk",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V02",
@@ -1997,7 +2075,7 @@
      "page_url": "https://www.pexels.com/video/telecom-tower-installation-with-workers-on-scaffolding-38854078/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V02.mp4",
-     "score": 24.19,
+     "score": 6.3,
      "categories": [
       "scaffolding",
       "worker",
@@ -2006,7 +2084,16 @@
      "title": "video telecom tower installation with workers scaffolding",
      "query": "roofer working carefully height",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a technician in a lift bucket installs equipment on a utility pole outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-utility-lift-tech",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V04",
@@ -2017,7 +2104,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-having-a-conversation-6568696/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V04.mp4",
-     "score": 24.01,
+     "score": 1.65,
      "categories": [
       "colleague",
       "colleagues",
@@ -2026,7 +2113,16 @@
      "title": "video colleagues having conversation",
      "query": "team solving problem construction site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "three colleagues in blazers review papers inside an unfinished room",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-blazer-plan-review",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V05",
@@ -2037,7 +2133,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-on-scaffolding-restoring-building-32228167/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V05.mp4",
-     "score": 27.19,
+     "score": 6.35,
      "categories": [
       "building",
       "construction",
@@ -2047,7 +2143,16 @@
      "title": "video construction worker scaffolding restoring building",
      "query": "roofer working carefully height",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a worker on scaffolding steadily restores a building facade",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-scaffold-restoration",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V06",
@@ -2058,7 +2163,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-construction-workers-on-steel-frame-33880927/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V06.mp4",
-     "score": 24.79,
+     "score": 3.35,
      "categories": [
       "construction",
       "worker",
@@ -2067,7 +2172,16 @@
      "title": "video aerial view construction workers steel frame",
      "query": "roofer working carefully height",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of harnessed workers on a high steel frame construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-steel-frame",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V03",
@@ -2078,7 +2192,7 @@
      "page_url": "https://pixabay.com/videos/id-4729/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V03.mp4",
-     "score": 29.29,
+     "score": 8.65,
      "categories": [
       "builder",
       "carpenter",
@@ -2090,7 +2204,16 @@
      "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
      "query": "plumber fixing leaking pipe urgent",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a hand drives a screw into a metal fitting with a power driver",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-screw-driver-hands",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-I00",
@@ -2177,7 +2300,7 @@
      "page_url": "https://pixabay.com/videos/id-5635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V08.mp4",
-     "score": 0,
+     "score": 4.75,
      "categories": [],
      "title": "plant  watering  grow  gardening  ewer  watering can  watering pot  water  nature  green  care  garden  spring  ecology  growth  environment  growing  summer  young  agriculture",
      "query": "worker can you do more like us army or soldiers",
@@ -2186,7 +2309,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "a red watering can waters a potted plant against greenery",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-watering-plant",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V09",
@@ -2197,7 +2329,7 @@
      "page_url": "https://www.pexels.com/video/video-of-soldiers-talking-to-a-therapist-7467591/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V09.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker can you do more like us army or soldiers",
@@ -2206,7 +2338,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a uniformed military officer sits in conversation with a soldier",
+     "violation": "military",
+     "shot": "",
+     "shoot": "pexels-military-uniform",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V10",
@@ -2217,7 +2358,7 @@
      "page_url": "https://pixabay.com/videos/id-40816/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V10.mp4",
-     "score": 0,
+     "score": 4.35,
      "categories": [],
      "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
      "query": "worker can you do more like us army or soldiers",
@@ -2226,7 +2367,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "an older worker in a vest stands by a shovel at a gravel site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-gravel-laborer",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V11",
@@ -2237,7 +2387,7 @@
      "page_url": "https://www.pexels.com/video/video-of-soldier-sharing-stories-to-his-comrades-7467770/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V11.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker can you do more like us army or soldiers",
@@ -2246,7 +2396,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "soldiers in camouflage and a face mask sit together indoors",
+     "violation": "military/face masks",
+     "shot": "",
+     "shoot": "pexels-military-uniform",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V12",
@@ -2257,7 +2416,7 @@
      "page_url": "https://pixabay.com/videos/id-1635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V12.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "worker  shiva  early  morning  people  person  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  farming",
      "query": "worker can you do more like us army or soldiers",
@@ -2266,7 +2425,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a lone silhouetted man digs near riverboats at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dusk-riverbank",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V13",
@@ -2277,7 +2445,7 @@
      "page_url": "https://www.pexels.com/video/tactical-team-in-training-exercise-outdoors-34055227/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V13.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker can you do more like us army or soldiers",
@@ -2286,7 +2454,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "tactical-geared personnel with helmets and a mask walk toward a field",
+     "violation": "combat/military",
+     "shot": "",
+     "shoot": "pexels-military-uniform",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V14",
@@ -2297,7 +2474,7 @@
      "page_url": "https://pixabay.com/videos/id-3612/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V14.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worker  temperature  fire  flame  tube",
      "query": "worker can you do more like us army or soldiers",
@@ -2306,7 +2483,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand melts glass over a flame in close-up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glassblowing",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V15",
@@ -2317,7 +2503,7 @@
      "page_url": "https://www.pexels.com/video/outdoor-military-gear-on-a-sunny-day-38313921/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V15.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker can you do more like us army or soldiers",
@@ -2326,7 +2512,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a pile of camouflage military backpacks and vests",
+     "violation": "military",
+     "shot": "",
+     "shoot": "pexels-military-uniform",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S06-V16",
@@ -2337,7 +2532,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__thumb__edenrise-c2-winning-beliefs-S06-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__preview__edenrise-c2-winning-beliefs-S06-V16.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker can you do more like us army or soldiers",
@@ -2346,7 +2541,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S06__strip__edenrise-c2-winning-beliefs-S06-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a man sweeps water off a paved lot outdoors with a squeegee broom",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-pavement-sweep",
+     "judged_at": "2026-09-09T19:45:30Z",
+     "rank": 8,
+     "shown": true
     }
    ],
    "timing_source": "estimated",
@@ -2389,7 +2593,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "judged_at": "2026-09-09T19:45:30Z"
   },
   {
    "id": "S07",
@@ -2411,7 +2616,7 @@
      "page_url": "https://www.pexels.com/video/a-man-talking-to-his-co-workers-6193855/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V00.mp4",
-     "score": 19.49,
+     "score": 0.65,
      "categories": [
       "man",
       "talking",
@@ -2421,7 +2626,16 @@
      "title": "video man talking his workers",
      "query": "worker asking colleague question",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man smiles and talks in a bright loft-style office",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-loft-office-chat",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V01",
@@ -2432,7 +2646,7 @@
      "page_url": "https://www.pexels.com/video/light-landscape-man-couple-7463912/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V01.mp4",
-     "score": 19.59,
+     "score": 2.7,
      "categories": [
       "land",
       "man"
@@ -2440,7 +2654,16 @@
      "title": "video light landscape man couple",
      "query": "hands starting careful task attempt",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man's hands close a cardboard box indoors by a window",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-box-packing-hands",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V02",
@@ -2465,7 +2688,7 @@
      "page_url": "https://www.pexels.com/video/man-looking-on-the-construction-site-8964293/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V03.mp4",
-     "score": 18.25,
+     "score": 5.0,
      "categories": [
       "construction",
       "man",
@@ -2474,7 +2697,16 @@
      "title": "video man looking the construction site",
      "query": "worker pausing looking into distance",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a worker in a hard hat stands back viewing a steel-framed structure",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-steel-frame-back-view",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V04",
@@ -2485,7 +2717,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-wearing-safety-gear-looking-around-8487482/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V04.mp4",
-     "score": 17.95,
+     "score": 7.35,
      "categories": [
       "man",
       "safety",
@@ -2494,7 +2726,16 @@
      "title": "video woman wearing safety gear looking around",
      "query": "worker pausing looking into distance",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a worker in a hard hat raises a hand to her head, pausing outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hillside-worker-pause",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V05",
@@ -2505,7 +2746,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-gloves-and-goggles-is-using-a-grinder-20455991/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V05.mp4",
-     "score": 17.63,
+     "score": 1.95,
      "categories": [
       "gloves",
       "man"
@@ -2513,7 +2754,16 @@
      "title": "video man gloves and goggles using grinder",
      "query": "worker trying new tool first time",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man grinds metal with an angle grinder, sparks flying",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-grinder-sparks",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V06",
@@ -2524,7 +2774,7 @@
      "page_url": "https://pixabay.com/videos/id-132/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__thumb__edenrise-c2-winning-beliefs-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__preview__edenrise-c2-winning-beliefs-S07-V06.mp4",
-     "score": 15.48,
+     "score": 2.35,
      "categories": [
       "man",
       "people",
@@ -2533,7 +2783,16 @@
      "title": "puzzle  puzzling  game  play  playing  people  girl  woman  problem solving  puzzle pieces  matching  thinking  intellig",
      "query": "woman gardener pause thinking garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "hands assemble a jigsaw puzzle on a table indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-puzzle-hands",
+     "judged_at": "2026-09-09T19:46:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-I00",
@@ -2633,7 +2892,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:46:01Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:46:01Z"
   },
   {
    "id": "S08",
@@ -2674,7 +2939,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V02.mp4",
-     "score": 24.69,
+     "score": 5.0,
      "categories": [
       "building",
       "construction",
@@ -2686,7 +2951,16 @@
      "title": "video construction workers inspecting building site scaffolding",
      "query": "worker kneeling inspecting fault closely",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two workers in hard hats talk near scaffolding inside an unfinished building",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-scaffold-inspect-talk",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-V05",
@@ -2697,7 +2971,7 @@
      "page_url": "https://pixabay.com/videos/id-85350/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V05.mp4",
-     "score": 27.84,
+     "score": 4.4,
      "categories": [
       "builder",
       "building",
@@ -2709,7 +2983,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "worker attempting repair first step",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a worker shovels sand between pavers on a garden path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-shovel",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-V03",
@@ -2720,7 +3003,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-talking-6197077/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V03.mp4",
-     "score": 24.04,
+     "score": 2.7,
      "categories": [
       "man",
       "talking",
@@ -2729,7 +3012,16 @@
      "title": "video man and woman talking",
      "query": "two workers examining problem together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two people in matching red overalls sit talking under dramatic light",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-red-overalls-dialogue",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-V04",
@@ -2740,7 +3032,7 @@
      "page_url": "https://pixabay.com/videos/id-85349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V04.mp4",
-     "score": 27.84,
+     "score": 3.7,
      "categories": [
       "builder",
       "building",
@@ -2752,7 +3044,16 @@
      "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
      "query": "worker attempting repair first step",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man reaches across a wooden scaffold structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-wood-scaffold-reach",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-V01",
@@ -2763,7 +3064,7 @@
      "page_url": "https://pixabay.com/videos/id-85351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V01.mp4",
-     "score": 27.84,
+     "score": 3.4,
      "categories": [
       "builder",
       "building",
@@ -2775,7 +3076,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "worker attempting repair first step",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a worker in a vest operates a plate compactor on fresh concrete",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-plate-compactor",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-V06",
@@ -2786,7 +3096,7 @@
      "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__thumb__edenrise-c2-winning-beliefs-S08-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__preview__edenrise-c2-winning-beliefs-S08-V06.mp4",
-     "score": 22.51,
+     "score": 4.05,
      "categories": [
       "conversation",
       "people"
@@ -2794,7 +3104,16 @@
      "title": "video close footage people holding folder while having conversation",
      "query": "two workers examining problem together",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S08__strip__edenrise-c2-winning-beliefs-S08-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a worker in a safety vest holds a clipboard while walking",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-clipboard-walk",
+     "judged_at": "2026-09-09T19:46:36Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S08-I00",
@@ -2898,7 +3217,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:46:36Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:46:36Z"
   },
   {
    "id": "S09",
@@ -2920,7 +3245,7 @@
      "page_url": "https://www.pexels.com/video/woman-s-hand-with-beautiful-polished-fingernails-writing-down-thoughts-and-ideas-on-notebook-with-a-pen-slow-motion-video-of-creative-woman-taking-notes-concept-of-lifestyle-planning-or-20421936/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V00.mp4",
-     "score": 17.35,
+     "score": 4.3,
      "categories": [
       "man",
       "woman"
@@ -2928,7 +3253,16 @@
      "title": "video woman hand with beautiful polished fingernails writing down thoughts and ideas notebook with pen slow motion video",
      "query": "woman journaling notebook morning table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a manicured hand writes in a notebook at a dark wooden desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-polished-hand-writing",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V01",
@@ -2939,7 +3273,7 @@
      "page_url": "https://www.pexels.com/video/a-man-is-working-on-a-car-in-a-garage-4489808/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V01.mp4",
-     "score": 17.09,
+     "score": 1.3,
      "categories": [
       "man",
       "working"
@@ -2947,7 +3281,16 @@
      "title": "video man working car garage",
      "query": "worker picking up tools starting",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man works under a car in a dim, hazy garage lit by a single work light",
+     "violation": "dark industrial workshop",
+     "shot": "",
+     "shoot": "pexels-car-garage-mechanic",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V02",
@@ -2958,14 +3301,23 @@
      "page_url": "https://www.pexels.com/video/person-picking-tools-from-a-toolbox-9606885/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V02.mp4",
-     "score": 15.64,
+     "score": 4.05,
      "categories": [
       "tools"
      ],
      "title": "video person picking tools from toolbox",
      "query": "worker picking up tools starting",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands pick a small tool from an open toolbox outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-toolbox-pick-tool",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V03",
@@ -2976,12 +3328,21 @@
      "page_url": "https://www.pexels.com/video/a-person-picking-up-a-wrench-from-the-ground-8551365/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V03.mp4",
-     "score": 15.64,
+     "score": 3.4,
      "categories": [],
      "title": "video person picking wrench from the ground",
      "query": "worker picking up tools starting",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand lifts a wrench from a red toolbox beside a motorcycle wheel",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-toolbox-wrench",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V04",
@@ -2992,12 +3353,21 @@
      "page_url": "https://pixabay.com/videos/id-12040/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V04.mp4",
-     "score": 14.86,
+     "score": 6.0,
      "categories": [],
      "title": "on the table lies a thick textbook  homework  textbook  tutorial  pen  notebook  write  writing  create  record  enter  ",
      "query": "man writing notebook workshop bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands write in a thick notebook resting on a wooden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-notebook-writing-hands",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V05",
@@ -3008,7 +3378,7 @@
      "page_url": "https://www.pexels.com/video/close-up-of-woman-writing-in-notebook-11025392/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__thumb__edenrise-c2-winning-beliefs-S09-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__preview__edenrise-c2-winning-beliefs-S09-V05.mp4",
-     "score": 14.69,
+     "score": 6.7,
      "categories": [
       "man",
       "woman"
@@ -3016,7 +3386,16 @@
      "title": "video close woman writing notebook",
      "query": "hand writing journal pen paper",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S09__strip__edenrise-c2-winning-beliefs-S09-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a hand writes in a notebook while seated casually at home",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-journal-writing-hand",
+     "judged_at": "2026-09-09T19:47:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S09-V06",
@@ -3127,7 +3506,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T19:47:19Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:47:19Z"
   }
  ]
 }
