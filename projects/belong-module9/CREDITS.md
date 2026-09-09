@@ -554,3 +554,69 @@
 | pixabay | marriage  wedding  love  celebration  bride  couple  groom   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1330/ |
 | pixabay | married couple  old couple  happy couple  music  headphones | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-172681/ |
 | pixabay | couple  lovers  strawberry  honeymoon  entertainment | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-149475/ |
+| pexels | extreme close up of a woman s eyes | Kindel Media | Pexels License | https://www.pexels.com/video/extreme-close-up-of-a-woman-s-eyes-7297972/ |
+| pexels | a man opening his eyes | Monstera Production | Pexels License | https://www.pexels.com/video/a-man-opening-his-eyes-5309653/ |
+| pexels | close up of a man slowly opening his eyes | james | Pexels License | https://www.pexels.com/video/close-up-of-a-man-slowly-opening-his-eyes-5125834/ |
+| pexels | a young man dancing to a music | Tony Schnagl | Pexels License | https://www.pexels.com/video/a-young-man-dancing-to-a-music-5527609/ |
+| pexels | close up video of a girl s face | Artem Podrez | Pexels License | https://www.pexels.com/video/close-up-video-of-a-girl-s-face-7494694/ |
+| pexels | an extreme close up of a woman wearing eyeglasses | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/an-extreme-close-up-of-a-woman-wearing-eyeglasses-8136669/ |
+| pexels | woman dancing while listening to music | ArtHouse Studio | Pexels License | https://www.pexels.com/video/woman-dancing-while-listening-to-music-6961536/ |
+| pexels | a woman wearing reading glasses | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-woman-wearing-reading-glasses-7260703/ |
+| pexels | people talking to a receptionist | cottonbro studio | Pexels License | https://www.pexels.com/video/people-talking-to-a-receptionist-8465135/ |
+| pexels | a woman talking about her teeth | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-talking-about-her-teeth-6192866/ |
+| pexels | people getting angry at a coworker | Yan Krukau | Pexels License | https://www.pexels.com/video/people-getting-angry-at-a-coworker-7640072/ |
+| pexels | a woman appreciating the help of the employee in the informa | fauxels | Pexels License | https://www.pexels.com/video/a-woman-appreciating-the-help-of-the-employee-in-the-information-desk-of-a-library-3044656/ |
+| pexels | a woman writing on the paper | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-writing-on-the-paper-8102411/ |
+| pexels | woman passing sanitizer to a girl | Los Muertos Crew | Pexels License | https://www.pexels.com/video/woman-passing-sanitizer-to-a-girl-8460011/ |
+| pixabay | airport  passenger  indoor  aeroplane  building  moving  tra | BeezeeStock | Pixabay Content License | https://pixabay.com/videos/id-71015/ |
+| pixabay | friendship  support  scenery  night  care  empathy | Kang_Saif | Pixabay Content License | https://pixabay.com/videos/id-173161/ |
+| pixabay | world cup  shiva  cricket  sport  crowd  final  match  suppo | RisingStudio07 | Pixabay Content License | https://pixabay.com/videos/id-189868/ |
+| pixabay | room  bed  hotel  travel  vacation  reception  apartment  li | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-135141/ |
+| pixabay | hotel  room  travel  service  vacation  reception  apartment | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-135164/ |
+| pixabay | hands  support  marriage  love  romance  together  romantic  | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-552/ |
+| pixabay | woman  social networking  post  website management  communic | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174003/ |
+| pixabay | chairs  empty  concept  desert  business  leadership  insura | Pixabay | Pixabay Content License | https://pixabay.com/videos/id-2709/ |
+| pexels | man pouring wine in a wine glass | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-pouring-wine-in-a-wine-glass-8764781/ |
+| pexels | a table with a glass of wine and a plate of food | Baran Robin | Pexels License | https://www.pexels.com/video/a-table-with-a-glass-of-wine-and-a-plate-of-food-27890322/ |
+| pexels | a man serving his friend a glass of white wine | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-serving-his-friend-a-glass-of-white-wine-5961961/ |
+| pexels | person putting wine glasses on the table | Monstera Production | Pexels License | https://www.pexels.com/video/person-putting-wine-glasses-on-the-table-5899773/ |
+| pexels | a smoky bowl of food on a dining table | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-smoky-bowl-of-food-on-a-dining-table-3769032/ |
+| pexels | cozy dining table setup by a window | Frank Litschel | Pexels License | https://www.pexels.com/video/cozy-dining-table-setup-by-a-window-30763459/ |
+| pexels | a woman reading a book at a table | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-woman-reading-a-book-at-a-table-18483721/ |
+| pexels | cozy table setting with fresh vegetables | Frank Litschel | Pexels License | https://www.pexels.com/video/cozy-table-setting-with-fresh-vegetables-31400857/ |
+| pexels | people eating on the table | Grisha Grishkoff | Pexels License | https://www.pexels.com/video/people-eating-on-the-table-5963647/ |
+| pexels | table full of food | Jep Gambardella | Pexels License | https://www.pexels.com/video/table-full-of-food-5101164/ |
+| pexels | people eating together | ArtHouse Studio | Pexels License | https://www.pexels.com/video/people-eating-together-6017616/ |
+| pexels | a model house over a chair | cottonbro studio | Pexels License | https://www.pexels.com/video/a-model-house-over-a-chair-6183871/ |
+| pexels | elderly woman refusing food | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/elderly-woman-refusing-food-8870230/ |
+| pexels | an elderly woman having dinner alone | cottonbro studio | Pexels License | https://www.pexels.com/video/an-elderly-woman-having-dinner-alone-6848412/ |
+| pixabay | man  smile  smiling  happy  male  person  outdoors  portrait | magicmore | Pixabay Content License | https://pixabay.com/videos/id-171044/ |
+| pixabay | child  child smiling  baby  kid  happy  smile  childhood  pe | nassimohmd | Pixabay Content License | https://pixabay.com/videos/id-33631/ |
+| pixabay | smile  face  girl  young  happy  woman  person  smiling  hap | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43631/ |
+| pixabay | pancake  wrap  food  snack  meal  lunch  cheese  breakfast   | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11670/ |
+| pixabay | strawberry  fruit  strawberries  red  food  sweet  delicious | motionstock | Pixabay Content License | https://pixabay.com/videos/id-32933/ |
+| pixabay | woman  happy  smile  shopping  female  lifestyle | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-83863/ |
+| pixabay | pie  fruit pie  dessert  coffee  cup | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-233024/ |
+| pixabay | coffee cup  donut  doughnut  table  sunlight | santosjesus90 | Pixabay Content License | https://pixabay.com/videos/id-184736/ |
+| pexels | visitors arriving at christmas party | RDNE Stock project | Pexels License | https://www.pexels.com/video/visitors-arriving-at-christmas-party-6518105/ |
+| pexels | a young couple surprises their parents with pregnancy news | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-young-couple-surprises-their-parents-with-pregnancy-news-6149874/ |
+| pexels | people hugging each other | Askar Abayev | Pexels License | https://www.pexels.com/video/people-hugging-each-other-5616662/ |
+| pexels | a woman welcoming a man at home | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-woman-welcoming-a-man-at-home-4334118/ |
+| pexels | friends talking while drinking wine | cottonbro studio | Pexels License | https://www.pexels.com/video/friends-talking-while-drinking-wine-6961766/ |
+| pexels | a child running | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-child-running-7671716/ |
+| pexels | couple embracing wearing winter clothes | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/couple-embracing-wearing-winter-clothes-6570435/ |
+| pexels | a couple welcoming friends at home during christmas | cottonbro studio | Pexels License | https://www.pexels.com/video/a-couple-welcoming-friends-at-home-during-christmas-6276335/ |
+| pexels | relatives greeting each other | Monstera Production | Pexels License | https://www.pexels.com/video/relatives-greeting-each-other-5899777/ |
+| pexels | an elderly man with his grandson meets a young guy | RDNE Stock project | Pexels License | https://www.pexels.com/video/an-elderly-man-with-his-grandson-meets-a-young-guy-6149884/ |
+| pexels | children running in a farmland with sheep | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/children-running-in-a-farmland-with-sheep-7671378/ |
+| pexels | kids playing soccer | Kampus Production | Pexels License | https://www.pexels.com/video/kids-playing-soccer-8813012/ |
+| pexels | joyful child running in autumn sunlight | James Cheney | Pexels License | https://www.pexels.com/video/joyful-child-running-in-autumn-sunlight-29614871/ |
+| pexels | woman and child jumping together | Kindel Media | Pexels License | https://www.pexels.com/video/woman-and-child-jumping-together-7456689/ |
+| pixabay | family  smile  sweet  love  young  children  happiness  smil | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76889/ |
+| pixabay | child running  children  kids  happy  game  playground | patw64 | Pixabay Content License | https://pixabay.com/videos/id-76425/ |
+| pixabay | running  run  exercise  family  sport  marathon  endurance   | aerofotografialincoln | Pixabay Content License | https://pixabay.com/videos/id-138443/ |
+| pixabay | thank you  thank you animation  shards animation  thanks  th | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-104225/ |
+| pixabay | thank you  thanks  thank you so much  greetings  text  3d te | Kashif_Hussain | Pixabay Content License | https://pixabay.com/videos/id-125722/ |
+| pixabay | thank you  thank you animation  shards animation  thanks  th | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-104483/ |
+| pixabay | thank you  thank you animation  shards animation  thanks  th | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-104232/ |
+| pixabay | student  write  tasks  analog  pen  handwriting  letter  to  | Alexandra_Koch | Pixabay Content License | https://pixabay.com/videos/id-213746/ |
