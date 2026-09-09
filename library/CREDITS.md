@@ -287,3 +287,33 @@
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-making-jewelry-6262807/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-hands-coffee-working-4821688/ |
 | pexels |  | Đậu Photograph | Pexels License | https://www.pexels.com/video/aerial-view-of-construction-site-with-workers-35025685/ |
+| pixabay | dirty  modeling  clay  pottery  craft  art  ceramic  handmad | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41393/ |
+| pixabay | modeling  clay  pottery  craft  art  ceramic  handmade  work | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41395/ |
+| pixabay | ai generated  workshop  robot  technology  future  android   | doktorkleinmusic | Pixabay Content License | https://pixabay.com/videos/id-244757/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-talking-6964671/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/man-and-woman-holding-each-others-hand-7414975/ |
+| pixabay | robot  poor  move  rendering  simulation  production  worksh | PIRO4D | Pixabay Content License | https://pixabay.com/videos/id-12567/ |
+| pexels |  | Hans Abdallah | Pexels License | https://www.pexels.com/video/man-preparing-for-event-in-stylish-attire-35552866/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/person-touching-petals-of-a-red-rose-9196256/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-manufacturing-process-in-action-31465187/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-worker-folds-fabric-31369398/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/skilled-textile-worker-in-factory-setting-31358515/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/men-standing-near-the-table-7180076/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-man-keeping-his-belongings-in-the-office-8135747/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/woman-packing-her-things-on-a-box-in-the-office-8135739/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/person-cleaning-the-car-grille-with-brush-4822720/ |
+| pexels |  | Cup of  Couple | Pexels License | https://www.pexels.com/video/a-person-picking-up-a-paint-brush-7301865/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-holding-paintbrushes-5309650/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-sticky-note-8547355/ |
+| pixabay | cave  cliff  coastline  aerial view  dramatic landscape  dro | thienvan2211 | Pixabay Content License | https://pixabay.com/videos/id-212348/ |
+| pixabay | construction site  construction workers  construction  worke | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-42925/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-production-line-31580821/ |
+| pixabay | begin  hook  presentation  change  reorganization  new begin | geralt | Pixabay Content License | https://pixabay.com/videos/id-541/ |
+| pixabay | begin  hook  presentation  change  reorganization  new begin | geralt | Pixabay Content License | https://pixabay.com/videos/id-544/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-marking-a-piece-of-wood-6789574/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/south-asian-textile-factory-worker-at-sewing-machine-31580814/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-factory-worker-sewing-in-textile-plant-31580818/ |
+| pexels |  | Val А | Pexels License | https://www.pexels.com/video/construction-site-worker-inspecting-building-project-36290717/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-sanding-a-wood-7482652/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineer-wearing-a-yellow-hardhat-8486789/ |
