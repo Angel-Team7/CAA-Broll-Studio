@@ -268,7 +268,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_10312634_man-walking-through-vineyard-row.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_10312634_man-walking-through-vineyard-row.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_10312634_man-walking-through-vineyard-row.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a couple walks together through rows of leafy crop bushes",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-couple-crop-rows-walking",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_11521918_thoughtful-walk-countryside",
@@ -280,7 +290,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_11521918_thoughtful-walk-countryside.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_11521918_thoughtful-walk-countryside.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_11521918_thoughtful-walk-countryside.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a blurred silhouette walks through a windswept grass field",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-blurred-figure-grass-field",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_15909398_farmer-walking-his-land-sunset",
@@ -302,7 +322,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_17190661_older-man-walking-farm-path.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_17190661_older-man-walking-farm-path.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_17190661_older-man-walking-farm-path.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man in a straw hat carries a bucket down a tree-lined farm path",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-strawhat-bucket-farmpath",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_18089239_silhouette-man-walking-field-gol",
@@ -314,7 +344,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_18089239_silhouette-man-walking-field-gol.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_18089239_silhouette-man-walking-field-gol.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_18089239_silhouette-man-walking-field-gol.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 10,
+     "brand_fit": 9,
+     "caption": "a man walks alone down a golden-lit path beneath a tree at sunrise",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-silhouette-golden-path-sunrise",
+     "score": 9.65,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_20750159_older-man-walking-rural-road-sun",
@@ -326,7 +366,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_20750159_older-man-walking-rural-road-sun.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_20750159_older-man-walking-rural-road-sun.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_20750159_older-man-walking-rural-road-sun.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a silhouetted man walks a rural path at golden sunset",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-silhouette-rural-sunset-walk",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_27134194_farmer-inspecting-crops-walking",
@@ -338,7 +388,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_27134194_farmer-inspecting-crops-walking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_27134194_farmer-inspecting-crops-walking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_27134194_farmer-inspecting-crops-walking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman in a conical hat inspects a cornfield with a notebook",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-conical-hat-cornfield-inspect",
+     "score": 4.0,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_5694893_man-walking-through-vineyard-row",
@@ -350,7 +410,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_5694893_man-walking-through-vineyard-row.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_5694893_man-walking-through-vineyard-row.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_5694893_man-walking-through-vineyard-row.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "a man walks alone through a golden autumn vineyard",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-man-autumn-vineyard-walk",
+     "score": 8.35,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8296579_man-walking-alone-olive-grove",
@@ -362,7 +432,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_8296579_man-walking-alone-olive-grove.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_8296579_man-walking-alone-olive-grove.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_8296579_man-walking-alone-olive-grove.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man in a patterned shirt looks over his shoulder in an olive grove",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-patterned-shirt-olive-grove",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_8540544_man-standing-looking-over-his-fa",
@@ -374,7 +454,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_8540544_man-standing-looking-over-his-fa.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_8540544_man-standing-looking-over-his-fa.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_8540544_man-standing-looking-over-his-fa.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an elderly man in overalls waves beside a farmers market stall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-overalls-market-stall-wave",
+     "score": 1.35,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_8659307_farmer-inspecting-crops-walking",
@@ -386,7 +476,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_8659307_farmer-inspecting-crops-walking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_8659307_farmer-inspecting-crops-walking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_8659307_farmer-inspecting-crops-walking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a farmer in a straw hat bends to inspect a cornfield",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-strawhat-cornfield-inspect",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_8795191_mature-man-field",
@@ -398,7 +498,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_8795191_mature-man-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_8795191_mature-man-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pexels_8795191_mature-man-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man in a collared shirt looks out over a grassy field, softly blurred",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-blurred-man-grassy-field",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pixabay_62390_contemplative-farmer-sunset",
@@ -410,7 +520,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pixabay_62390_contemplative-farmer-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pixabay_62390_contemplative-farmer-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__strip__pixabay_62390_contemplative-farmer-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "close-up of dry golden grass backlit by the setting sun",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-golden-grass-backlit-sunset",
+     "score": 4.75,
+     "judged_at": "2026-09-09T17:40:57Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_160636_thoughtful-walk-countryside",
@@ -463,7 +583,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "judged_at": "2026-09-09T17:40:57Z"
   },
   {
    "id": "S03",
