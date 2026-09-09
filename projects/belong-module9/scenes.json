@@ -8026,14 +8026,23 @@
      "page_url": "https://www.pexels.com/video/man-checking-into-a-hotel-7820511/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V01.mp4",
-     "score": 12.81,
+     "score": 3.9,
      "categories": [
       "hotel"
      ],
      "title": "video man checking into hotel",
      "query": "guest checking out",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a masked guest hands papers to a masked receptionist at a reception desk",
+     "violation": "face masks",
+     "shot": "C",
+     "shoot": "pexels-masked-reception-papers",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "belong-m9-S04-V02",
@@ -8044,14 +8053,23 @@
      "page_url": "https://www.pexels.com/video/woman-with-face-mask-checking-in-at-hotel-7820464/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V02.mp4",
-     "score": 11.61,
+     "score": 3.25,
      "categories": [
       "hotel"
      ],
      "title": "video woman with face mask checking hotel",
      "query": "person leaving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a masked woman reaches toward a bell on an empty reception counter",
+     "violation": "face masks",
+     "shot": "D",
+     "shoot": "pexels-masked-woman-bell-desk",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "belong-m9-S04-V03",
@@ -8062,12 +8080,21 @@
      "page_url": "https://www.pexels.com/video/quiet-street-with-empty-cafes-and-restaurants-35573206/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V03.mp4",
-     "score": 11.61,
+     "score": 3.0,
      "categories": [],
      "title": "video quiet street with empty cafes and restaurants",
      "query": "empty restaurant table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "stacked chairs sit outside empty cafes on a quiet street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-empty-street-cafes",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V04",
@@ -8078,14 +8105,23 @@
      "page_url": "https://www.pexels.com/video/a-restaurant-or-other-place-to-eat-at-the-hotel-20697248/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V04.mp4",
-     "score": 11.31,
+     "score": 4.65,
      "categories": [
       "hotel"
      ],
      "title": "video restaurant other place eat the hotel",
      "query": "empty restaurant table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an empty restaurant table is set with glasses and plates",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-empty-restaurant-table",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V05",
@@ -8096,7 +8132,7 @@
      "page_url": "https://pixabay.com/videos/id-72935/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V05.mp4",
-     "score": 10.73,
+     "score": 2.4,
      "categories": [
       "kitchen",
       "table"
@@ -8104,7 +8140,16 @@
      "title": "sauce  spice  spoon  jam  food  table  kitchen  healthy  vegetarian  sweet  restaurant  nutrition",
      "query": "empty restaurant table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a spoon lifts dark jam from a small glass jar",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-jam-spoon-jar",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V06",
@@ -8115,14 +8160,23 @@
      "page_url": "https://pixabay.com/videos/id-1049/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V06.mp4",
-     "score": 10.13,
+     "score": 4.0,
      "categories": [
       "outdoor"
      ],
      "title": "relaxing  sitting  lake  shore  outdoors  beach  people  young  person  lifestyle  relaxation  relax  leisure",
      "query": "person leaving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a person sits alone facing a quiet rocky lakeshore",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-solitary-lakeshore",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V07",
@@ -8133,14 +8187,23 @@
      "page_url": "https://pixabay.com/videos/id-47901/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V07.mp4",
-     "score": 10.13,
+     "score": 2.4,
      "categories": [
       "landscape"
      ],
      "title": "travel  welcome  road  car  landscape  bmw  leaving  sky view  calm  france  driving  traveling  arriving  arrive  leave",
      "query": "person leaving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "an aerial view follows a car driving along a road through farm fields",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-car-fields",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V08",
@@ -8151,14 +8214,23 @@
      "page_url": "https://www.pexels.com/video/woman-entering-the-hotel-with-suitcase-7820807/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V08.mp4",
-     "score": 14.77,
+     "score": 2.65,
      "categories": [
       "hotel"
      ],
      "title": "video woman entering the hotel with suitcase",
      "query": "guest leaving hotel with luggage",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a woman pulls a suitcase toward a hotel's brick entrance",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-suitcase-entrance",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V11",
@@ -8169,14 +8241,23 @@
      "page_url": "https://www.pexels.com/video/woman-checking-in-at-the-hotel-7820478/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V11.mp4",
-     "score": 13.72,
+     "score": 3.25,
      "categories": [
       "hotel"
      ],
      "title": "video woman checking the hotel",
      "query": "guest leaving hotel with luggage",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a masked woman with a suitcase arrives at a hotel reception desk",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-suitcase-reception",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-m9-S04-V16",
@@ -8187,12 +8268,21 @@
      "page_url": "https://www.pexels.com/video/young-man-pushing-room-service-trolley-5372864/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V16.mp4",
-     "score": 14.42,
+     "score": 2.65,
      "categories": [],
      "title": "video young man pushing room service trolley",
      "query": "guest walking out hotel door",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a bellman carries linens down a patterned hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bellman-corridor-linens",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-V17",
@@ -8203,12 +8293,21 @@
      "page_url": "https://www.pexels.com/video/a-woman-in-white-blazer-posing-at-the-camera-6467721/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V17.mp4",
-     "score": 14.42,
+     "score": 0.35,
      "categories": [],
      "title": "video woman white blazer posing the camera",
      "query": "guest walking out hotel door",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman in a white blazer poses dramatically in an ornate doorway",
+     "violation": "luxury / posed staff",
+     "shot": "",
+     "shoot": "pexels-woman-luxury-doorway-pose",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m9-S04-V18",
@@ -8219,14 +8318,23 @@
      "page_url": "https://www.pexels.com/video/man-going-to-the-hotel-elevator-7599312/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-m9-S04-V18.mp4",
-     "score": 14.42,
+     "score": 2.0,
      "categories": [
       "hotel"
      ],
      "title": "video man going the hotel elevator",
      "query": "guest walking out hotel door",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-m9-S04-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man in a suit walks alone down a dim hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-suit-corridor-walk",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "belong-m9-S04-I01",
@@ -8374,7 +8482,7 @@
      "page_url": "https://pixabay.com/videos/id-42356/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V22.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "bumblebee  garden  nature  close up",
      "query": "hospitality industry close up",
@@ -8383,7 +8491,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a bee lands on a purple flower in a garden",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-bee-purple-flower",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 15,
+     "shown": true
     },
     {
      "id": "belong-module9-S04-V28",
@@ -8394,7 +8511,7 @@
      "page_url": "https://pixabay.com/videos/id-154902/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V28.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "technology  manufacturing  equipment  process  production  machines  tools  create products  skills  automation  industrial automation  engineer  industry 4",
      "query": "worker hospitality industry",
@@ -8403,7 +8520,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated illustration shows robotic arms on a factory conveyor belt",
+     "violation": "factory / animated graphic",
+     "shot": "",
+     "shoot": "pixabay-factory-robot-animation",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V29",
@@ -8414,7 +8540,7 @@
      "page_url": "https://www.pexels.com/video/medical-team-posing-in-hospital-hallway-30141965/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V29.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -8423,7 +8549,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a lineup of hotel and medical staff pose with arms crossed in a lobby",
+     "violation": "posed staff",
+     "shot": "",
+     "shoot": "pexels-staff-lineup-lobby",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V30",
@@ -8434,7 +8569,7 @@
      "page_url": "https://pixabay.com/videos/id-25907/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V30.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that  trip  relaxation  luxury  swimming  tropical  empty  blue  sunny  exotic",
      "query": "hotel staff hospitality industry",
@@ -8443,7 +8578,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows lounge chairs beside a resort pool",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-resort-pool-loungers",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V31",
@@ -8454,7 +8598,7 @@
      "page_url": "https://www.pexels.com/video/woman-taking-orders-3970140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V31.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -8463,7 +8607,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a waitress smiles while writing an order at an outdoor restaurant",
+     "violation": "smiling crew",
+     "shot": "",
+     "shoot": "pexels-waitress-smiling-order",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V32",
@@ -8474,7 +8627,7 @@
      "page_url": "https://pixabay.com/videos/id-41345/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V32.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "grignan  provence  france  chateau  lavender  purple  building  summer  alpes-de-haute-provence  landscape  europe  lovers  olives  perspective  vaucluse  rustic  valensole  hotel",
      "query": "hotel staff hospitality industry",
@@ -8483,7 +8636,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an aerial view shows a stone chateau surrounded by a hillside town",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chateau-aerial",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V33",
@@ -8494,7 +8656,7 @@
      "page_url": "https://www.pexels.com/video/elderly-man-making-a-payment-on-a-cafe-using-his-credit-card-6816197/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V33.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -8503,7 +8665,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked waiter in gloves serves a glass to a seated man at a counter",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-waiter-counter",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V34",
@@ -8514,7 +8685,7 @@
      "page_url": "https://pixabay.com/videos/id-4329/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V34.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "tractor  field  rural  agriculture  farm  crop  agricultural  harvest  farmer  machine  farming  machinery  cultivated  industry  equipment  countryside",
      "query": "hospitality industry guest",
@@ -8523,7 +8694,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a wide wheat field stretches toward distant factory towers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheat-field-factory-bg",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 17,
+     "shown": true
     },
     {
      "id": "belong-module9-S04-V35",
@@ -8534,7 +8714,7 @@
      "page_url": "https://www.pexels.com/video/healthcare-team-poses-smiling-in-hospital-lobby-30141964/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V35.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V35.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -8543,7 +8723,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V35.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a lineup of hotel and medical staff pose together in a lobby",
+     "violation": "posed staff",
+     "shot": "",
+     "shoot": "pexels-staff-lineup-lobby",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V36",
@@ -8554,7 +8743,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-directing-and-assisting-a-client-7820512/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V36.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V36.mp4",
-     "score": 0,
+     "score": 1.95,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -8563,7 +8752,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V36.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a masked man gestures while talking to a masked receptionist at the front desk",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-reception-gesture",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V37",
@@ -8574,7 +8772,7 @@
      "page_url": "https://www.pexels.com/video/a-man-signing-a-registration-form-7820510/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-module9-S04-V37.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__preview__belong-module9-S04-V37.mp4",
-     "score": 0,
+     "score": 3.9,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -8583,7 +8781,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S04__strip__belong-module9-S04-V37.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a masked guest signs papers while a masked receptionist offers hand sanitizer",
+     "violation": "face masks",
+     "shot": "C",
+     "shoot": "pexels-masked-reception-papers",
+     "judged_at": "2026-09-09T16:43:59Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "belong-module9-S04-V38",
@@ -8640,7 +8847,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T16:43:59Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:43:59Z"
   },
   {
    "id": "S05",
