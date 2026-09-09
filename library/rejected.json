@@ -1964,8 +1964,8 @@
  "pixabay:https://pixabay.com/videos/id-40816/": {
   "brand": "edenrise",
   "reason": "crowds doing the same manual task",
-  "at": "2026-09-09T18:29:35Z",
-  "from": "attention-to-detail-v2/S14"
+  "at": "2026-09-09T18:49:32Z",
+  "from": "communication-dont-assume-clarify-v2/S05"
  },
  "pexels:https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/": {
   "brand": "edenrise",
@@ -2338,5 +2338,29 @@
   "reason": "office, suit, whiteboard",
   "at": "2026-09-09T18:48:36Z",
   "from": "be-a-lifelong-learner-v2/S16b"
+ },
+ "pexels:https://www.pexels.com/video/people-having-a-conversation-at-the-pantry-7534424/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T18:49:32Z",
+  "from": "edenrise-c2-six-needs-reactions/S05"
+ },
+ "pexels:https://www.pexels.com/video/people-having-a-business-meeting-inside-a-cafe-6828870/": {
+  "brand": "edenrise",
+  "reason": "laptop",
+  "at": "2026-09-09T18:49:32Z",
+  "from": "edenrise-c2-six-needs-reactions/S05"
+ },
+ "pexels:https://www.pexels.com/video/beekeepers-inspecting-a-beehive-9153820/": {
+  "brand": "edenrise",
+  "reason": "face covering (beekeeping veil)",
+  "at": "2026-09-09T18:49:32Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pexels:https://www.pexels.com/video/workers-on-construction-11798561/": {
+  "brand": "edenrise",
+  "reason": "hi-vis crowd",
+  "at": "2026-09-09T18:49:32Z",
+  "from": "communication-dont-assume-clarify-v2/S13"
  }
 }

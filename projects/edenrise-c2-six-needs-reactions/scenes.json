@@ -1616,7 +1616,7 @@
      "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S04__thumb__edenrise-c2-six-needs-reactions-S04-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S04__preview__edenrise-c2-six-needs-reactions-S04-V17.mp4",
-     "score": 22.3,
+     "score": 6.0,
      "categories": [
       "talking",
       "worker",
@@ -1625,7 +1625,16 @@
      "title": "video two wood workers talking each other",
      "query": "older worker advising younger workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S04__strip__edenrise-c2-six-needs-reactions-S04-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two woodworkers in aprons discuss a piece of wood together",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-v17-woodshop",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S04-I04",
@@ -1744,7 +1753,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S05",
@@ -1766,7 +1781,7 @@
      "page_url": "https://pixabay.com/videos/id-130651/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__thumb__edenrise-c2-six-needs-reactions-S05-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__preview__edenrise-c2-six-needs-reactions-S05-V15.mp4",
-     "score": 24.64,
+     "score": 1.0,
      "categories": [
       "man",
       "people",
@@ -1778,7 +1793,16 @@
      "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  perso",
      "query": "mentor listening to apprentice workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman in an apartment holds a bag near curtained doors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-v15-apartment",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V16",
@@ -1789,7 +1813,7 @@
      "page_url": "https://www.pexels.com/video/people-having-a-conversation-at-the-pantry-7534424/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__thumb__edenrise-c2-six-needs-reactions-S05-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__preview__edenrise-c2-six-needs-reactions-S05-V16.mp4",
-     "score": 24.3,
+     "score": 0.65,
      "categories": [
       "conversation",
       "people"
@@ -1797,7 +1821,16 @@
      "title": "video people having conversation the pantry",
      "query": "two workers coffee break talking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two people talk in a modern kitchen with a laptop on the counter",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-v16-kitchen",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V19",
@@ -1825,7 +1858,7 @@
      "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-inside-a-cafe-6828870/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__thumb__edenrise-c2-six-needs-reactions-S05-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__preview__edenrise-c2-six-needs-reactions-S05-V27.mp4",
-     "score": 21.37,
+     "score": 0.65,
      "categories": [
       "meeting",
       "people"
@@ -1833,7 +1866,16 @@
      "title": "video people having business meeting inside cafe",
      "query": "two workers coffee break talking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "people talk at a cafe table with a laptop open",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-v27-cafe",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-I01",
@@ -1913,7 +1955,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S06",

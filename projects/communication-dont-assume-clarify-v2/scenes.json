@@ -360,7 +360,17 @@
      "thumb": "",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__preview__upload_1784643662477_S03-Great-teams-do-not-only-work-hard.-Great-teams-communicate-clearly.-.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__strip__upload_1784643662477_S03-Great-teams-do-not-only-work-hard.-Great-teams-communicate-clearly.-.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "hi-vis workers stand against the sky in a low-angle shot",
+     "violation": "",
+     "shot": "",
+     "shoot": "upload-s03-skyworkers",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_36034181_team-meeting-site",
@@ -382,7 +392,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__thumb__pexels_8964793_hard-hat-workers-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__preview__pexels_8964793_hard-hat-workers-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S03__strip__pexels_8964793_hard-hat-workers-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "two workers in hard hats talk at an urban high-rise site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-8964793-hivis",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8961030_construction-team-talking",
@@ -453,7 +473,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S04",
@@ -470,7 +496,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__thumb__pexels_8487956_construction-workers-smiling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__preview__pexels_8487956_construction-workers-smiling.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__strip__pexels_8487956_construction-workers-smiling.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "three workers in hard hats and vests smile together indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8487956-threeworkers",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8821264_builders-shaking-hands",
@@ -482,7 +518,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__thumb__pexels_8821264_builders-shaking-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__preview__pexels_8821264_builders-shaking-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__strip__pexels_8821264_builders-shaking-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a young man climbs the wooden frame of a structure outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-8821264-framing",
+     "score": 3.05,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8965306_builders-teamwork-site",
@@ -494,7 +540,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__thumb__pexels_8965306_builders-teamwork-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__preview__pexels_8965306_builders-teamwork-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__strip__pexels_8965306_builders-teamwork-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two men work together at a table saw outside a house",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8965306-tablesaw",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_342533_worker-cooperation",
@@ -516,7 +572,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__thumb__pixabay_73847_builders-shaking-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__preview__pixabay_73847_builders-shaking-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S04__strip__pixabay_73847_builders-shaking-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "sand falls through an open hand in close-up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-73847-sandhand",
+     "score": 2.05,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 4,
+     "shown": true
     }
    ],
    "shots": [
@@ -547,7 +613,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S05",
@@ -574,7 +646,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__thumb__pexels_34572325_pensive-construction-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__pexels_34572325_pensive-construction-worker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__strip__pexels_34572325_pensive-construction-worker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a worker in a cap pauses, looking down thoughtfully",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-34572325-pensive",
+     "score": 7.35,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_216597_worker-pausing-thinking",
@@ -586,7 +668,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__thumb__pixabay_216597_worker-pausing-thinking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__pixabay_216597_worker-pausing-thinking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__strip__pixabay_216597_worker-pausing-thinking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man sips coffee in a dark moody close-up",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-216597-coffee",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_40816_builder-doubt",
@@ -598,7 +690,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__thumb__pixabay_40816_builder-doubt.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__pixabay_40816_builder-doubt.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__strip__pixabay_40816_builder-doubt.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a crew in matching vests paves a city street together",
+     "violation": "crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pixabay-40816-streetcrew",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pixabay_45711_tradesman-looking-away",
@@ -610,7 +712,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__thumb__pixabay_45711_tradesman-looking-away.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__pixabay_45711_tradesman-looking-away.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__strip__pixabay_45711_tradesman-looking-away.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a lone figure walks away through a golden field",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-45711-field",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "upload_1784643929048_S05-The-solution-is-simple...-Clarify.-Ask-questions.-",
@@ -622,7 +734,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__upload_1784643929048_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__preview__upload_1784643929048_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S05__strip__upload_1784643929048_S05-The-solution-is-simple.-Clarify.-Ask-questions.-.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two workers in hi-vis review plans outside a building",
+     "violation": "",
+     "shot": "",
+     "shoot": "upload-s05-hivis",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -653,7 +775,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S06",
@@ -670,7 +798,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__thumb__pexels_32244795_site-supervisor-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__pexels_32244795_site-supervisor-worker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__strip__pexels_32244795_site-supervisor-worker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two workers talk inside a large scaffolded building",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-32244795-scaffold",
+     "score": 4.65,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_4280923_worker-asking-supervisor",
@@ -692,7 +830,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__thumb__pexels_8487985_foreman-explaining-apprentice.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__pexels_8487985_foreman-explaining-apprentice.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__strip__pexels_8487985_foreman-explaining-apprentice.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "two workers point and discuss an unfinished interior wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8487985-drywall",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8964772_apprentice-asking-foreman",
@@ -704,7 +852,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__thumb__pexels_8964772_apprentice-asking-foreman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__pexels_8964772_apprentice-asking-foreman.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__strip__pexels_8964772_apprentice-asking-foreman.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "two workers stand talking beside a steel framework",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-8964772-steelframe",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.",
@@ -716,7 +874,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.mp4",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__preview__upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S06__strip__upload_1784643955923_S06-These-questions-are-not-signs-of-weakness.-They-are-signs-of-professionalism.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "two men in hard hats discuss plans outside a house",
+     "violation": "",
+     "shot": "A",
+     "shoot": "upload-s06-hardhats",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -747,7 +915,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S07",
@@ -1228,7 +1397,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__thumb__pexels_5977119_colleagues-talking-outside.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__pexels_5977119_colleagues-talking-outside.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__strip__pexels_5977119_colleagues-talking-outside.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two people in coats read a paper outside an office building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-5977119-officebldg",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6193855_two-workmates-talking",
@@ -1240,7 +1419,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__thumb__pexels_6193855_two-workmates-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__pexels_6193855_two-workmates-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__strip__pexels_6193855_two-workmates-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man smiles while talking indoors near large windows",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-6193855-indoorloft",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7278332_colleagues-chatting-outdoor",
@@ -1252,7 +1441,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__thumb__pexels_7278332_colleagues-chatting-outdoor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__pexels_7278332_colleagues-chatting-outdoor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__strip__pexels_7278332_colleagues-chatting-outdoor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "two people chat casually outside glass patio doors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-7278332-patio",
+     "score": 2.35,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_9153820_two-farmers-talking",
@@ -1264,7 +1463,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__thumb__pexels_9153820_two-farmers-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__preview__pexels_9153820_two-farmers-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S09__strip__pexels_9153820_two-farmers-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two beekeepers in veiled suits work a hive together",
+     "violation": "face covering (beekeeping veil)",
+     "shot": "",
+     "shoot": "pexels-9153820-beekeepers",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "upload_1784644551717_S09-A-short-conversation-at-the-beginning...-could-prevent-confusion-later.-",
@@ -1305,7 +1514,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S10",
@@ -1322,7 +1537,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__thumb__pexels_8964376_two-hivis-workers-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__preview__pexels_8964376_two-hivis-workers-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__strip__pexels_8964376_two-hivis-workers-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "two workers in vests stand close, one holding a clipboard",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-8964376-clipboard",
+     "score": 4.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8964772_foreman-talking-to-worker",
@@ -1334,7 +1559,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__thumb__pexels_8964772_foreman-talking-to-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__preview__pexels_8964772_foreman-talking-to-worker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S10__strip__pexels_8964772_foreman-talking-to-worker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "two workers stand talking beside a steel framework",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-8964772-steelframe",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "upload_1784645996218_S05-The-solution-is-simple...-Clarify.-Ask-questions.-",
@@ -1375,7 +1610,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S11",
@@ -1903,7 +2144,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__thumb__pexels_11798561_happy-construction-crew.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__preview__pexels_11798561_happy-construction-crew.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__strip__pexels_11798561_happy-construction-crew.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a crowd of hi-vis workers stands on a high-rise concrete floor",
+     "violation": "hi-vis crowd",
+     "shot": "",
+     "shoot": "pexels-11798561-highrise",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_6077445_crew-finished-project",
@@ -1915,7 +2166,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__thumb__pexels_6077445_crew-finished-project.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__preview__pexels_6077445_crew-finished-project.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__strip__pexels_6077445_crew-finished-project.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an asphalt paving machine works along a rural road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-6077445-paver",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_121409_finished-building-site",
@@ -1927,7 +2188,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__thumb__pixabay_121409_finished-building-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__preview__pixabay_121409_finished-building-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__strip__pixabay_121409_finished-building-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an aerial view shows a large suburban housing development",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-121409-suburb",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_40816_builders-team-photo",
@@ -1939,7 +2210,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__thumb__pixabay_40816_builders-team-photo.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__preview__pixabay_40816_builders-team-photo.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S13__strip__pixabay_40816_builders-team-photo.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a crew in matching vests paves a city street together",
+     "violation": "hi-vis crowd; crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pixabay-40816-streetcrew",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "openverse_6e3d318e-8057-4dc5-b047-4583_builders-team-photo",
@@ -2001,7 +2282,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S14",
@@ -2018,7 +2305,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__thumb__pexels_26281515_worker-reading-plans-confused.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__preview__pexels_26281515_worker-reading-plans-confused.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__strip__pexels_26281515_worker-reading-plans-confused.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man indoors looks confused at his phone screen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-26281515-indoorphone",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7191312_incomplete-instructions-checking",
@@ -2040,7 +2337,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__thumb__pixabay_121409_checking-unclear-document-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__preview__pixabay_121409_checking-unclear-document-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S14__strip__pixabay_121409_checking-unclear-document-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an aerial view shows a large suburban housing development",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-121409-suburb",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8482546_worker-reading-plans-confused",
@@ -2091,7 +2398,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S15",

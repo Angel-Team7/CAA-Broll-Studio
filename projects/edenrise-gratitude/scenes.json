@@ -1164,7 +1164,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-wearing-eyeglasses-while-talking-6534118/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__thumb__edenrise-gratitude-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__preview__edenrise-gratitude-S05-V02.mp4",
-     "score": 15.47,
+     "score": 1.0,
      "categories": [
       "man",
       "talking",
@@ -1173,7 +1173,16 @@
      "title": "video woman wearing eyeglasses while talking",
      "query": "person looking past someone not noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__strip__edenrise-gratitude-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman with glasses talks in a warmly lit interior",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-v02-interior",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S05-V03",
@@ -1184,7 +1193,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-while-holding-a-binder-6964428/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__thumb__edenrise-gratitude-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__preview__edenrise-gratitude-S05-V03.mp4",
-     "score": 15.47,
+     "score": 1.0,
      "categories": [
       "man",
       "talking",
@@ -1193,7 +1202,16 @@
      "title": "video woman talking while holding binder",
      "query": "person looking past someone not noticing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__strip__edenrise-gratitude-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman in sunglasses holds a menu in a cafe",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-v03-cafe",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S05-V04",
@@ -1204,7 +1222,7 @@
      "page_url": "https://pixabay.com/videos/id-188778/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__thumb__edenrise-gratitude-S05-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__preview__edenrise-gratitude-S05-V04.mp4",
-     "score": 12.96,
+     "score": 1.0,
      "categories": [
       "land",
       "people"
@@ -1212,7 +1230,16 @@
      "title": "winter  snow  people  walk  to stroll  landscape  winter landscape  covered in snow  trees  nature",
      "query": "someone unnoticed working in background",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude/S05__strip__edenrise-gratitude-S05-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two people walk down a snowy forest path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-v04-snow",
+     "judged_at": "2026-09-09T18:49:32Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-gratitude-S05-I01",
@@ -1261,7 +1288,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:49:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:49:32Z"
   },
   {
    "id": "S06",
