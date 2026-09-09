@@ -483,7 +483,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__thumb__pexels_7348430_coastal-hiking-trail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__preview__pexels_7348430_coastal-hiking-trail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__strip__pexels_7348430_coastal-hiking-trail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a group of hikers celebrates atop a coastal cliff trail",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-coastal-hiking-group",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:46:47Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_13772_surfing-atlantic-coast",
@@ -495,7 +505,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__thumb__pixabay_13772_surfing-atlantic-coast.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__preview__pixabay_13772_surfing-atlantic-coast.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S05__strip__pixabay_13772_surfing-atlantic-coast.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of surfers riding a large ocean wave",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-aerial-surfing-wave",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:46:47Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_31238037_relaxing-pool-book-wine",
@@ -554,7 +574,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:46:47Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:46:47Z"
   },
   {
    "id": "S06",
