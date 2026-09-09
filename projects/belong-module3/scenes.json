@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__thumb__heygen_values-wall.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__preview__heygen_values-wall.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__strip__heygen_values-wall.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "warm diagonal light falls across an empty wood-slat wall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "heygen-values-wall",
+     "score": 7.3,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6376642_minimalist-wood-wall-texture",
@@ -30,7 +40,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__thumb__pexels_6376642_minimalist-wood-wall-texture.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__preview__pexels_6376642_minimalist-wood-wall-texture.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__strip__pexels_6376642_minimalist-wood-wall-texture.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a blank white frame hangs on a wood-slat wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-blank-frame-woodwall",
+     "score": 6.65,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6376642_wooden-slat-panel-interior",
@@ -42,7 +62,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__thumb__pexels_6376642_wooden-slat-panel-interior.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__preview__pexels_6376642_wooden-slat-panel-interior.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__strip__pexels_6376642_wooden-slat-panel-interior.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a blank white frame hangs on a wood-slat panel wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-blank-frame-woodwall",
+     "score": 6.65,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7402580_wood-slat-wall-warm-light",
@@ -54,7 +84,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__thumb__pexels_7402580_wood-slat-wall-warm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__preview__pexels_7402580_wood-slat-wall-warm-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S01__strip__pexels_7402580_wood-slat-wall-warm-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a person in white walks through a modern minimalist restaurant interior",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-restaurant-interior",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_35563395_wood-slat-wall-warm-light",
@@ -115,7 +155,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:38:13Z"
   },
   {
    "id": "S02",
@@ -142,7 +183,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__thumb__pexels_20080088_alentejo-countryside-lake-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__preview__pexels_20080088_alentejo-countryside-lake-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__strip__pexels_20080088_alentejo-countryside-lake-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "golden light reflects on a still lake surrounded by trees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-lake-golden-reflection",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_28731950_portugal-farmland-sunset-water",
@@ -154,7 +205,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__thumb__pexels_28731950_portugal-farmland-sunset-water.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__preview__pexels_28731950_portugal-farmland-sunset-water.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__strip__pexels_28731950_portugal-farmland-sunset-water.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a river winds through forested hills near an olive tree",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-river-valley-hills",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_83621_alentejo-countryside-lake-sunset",
@@ -166,7 +227,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__thumb__pixabay_83621_alentejo-countryside-lake-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__preview__pixabay_83621_alentejo-countryside-lake-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S02__strip__pixabay_83621_alentejo-countryside-lake-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a small rowboat sits on still water under a vivid pink sunset",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-pink-sunset-rowboat",
+     "score": 2.35,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "openverse_f1bd1f21-a4cf-4aeb-bda9-f303_rural-farm-landscape-golden-hour",
@@ -228,7 +299,13 @@
     "corporate"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:38:13Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:38:13Z"
   },
   {
    "id": "S03",
@@ -255,7 +332,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__thumb__pexels_32966305_solar-farm-renewable-countryside.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__preview__pexels_32966305_solar-farm-renewable-countryside.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__strip__pexels_32966305_solar-farm-renewable-countryside.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 6,
+     "caption": "aerial view of a vast solar panel farm across golden fields",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-solar-farm-aerial-large",
+     "score": 7.95,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_33005014_solar-panels-green-field",
@@ -267,7 +354,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__thumb__pexels_33005014_solar-panels-green-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__preview__pexels_33005014_solar-panels-green-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__strip__pexels_33005014_solar-panels-green-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "aerial view of solar panels arranged in curving farm rows",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-solar-farm-aerial-curved",
+     "score": 8.3,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_303514_solar-panels-green-field",
@@ -279,7 +376,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__thumb__pixabay_303514_solar-panels-green-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__preview__pixabay_303514_solar-panels-green-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S03__strip__pixabay_303514_solar-panels-green-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a computer-generated wind turbine stands above solar panels under stormy skies",
+     "violation": "corporate",
+     "shot": "",
+     "shoot": "pixabay-cgi-turbine-solar",
+     "score": 2.3,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "openverse_66e7a142-3b7c-4258-9c44-1a09_solar-array-rural-landscape",
@@ -341,7 +448,13 @@
     "corporate"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:38:13Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:38:13Z"
   },
   {
    "id": "S04",
@@ -358,7 +471,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__heygen_minimalist-zen-shelves.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__heygen_minimalist-zen-shelves.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__strip__heygen_minimalist-zen-shelves.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a wooden shelf holds a ceramic vase and dried flowers in a warm minimalist room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "heygen-zen-shelves",
+     "score": 8.3,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4503962_minimalist-interior-natural-wood",
@@ -370,7 +493,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__pexels_4503962_minimalist-interior-natural-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__pexels_4503962_minimalist-interior-natural-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__strip__pexels_4503962_minimalist-interior-natural-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a hand reaches for a potted plant on a sunlit wooden shelf",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sunlit-wood-shelf",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6857802_scandinavian-minimal-room-warm-l",
@@ -382,7 +515,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__pexels_6857802_scandinavian-minimal-room-warm-l.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__pexels_6857802_scandinavian-minimal-room-warm-l.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__strip__pexels_6857802_scandinavian-minimal-room-warm-l.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man relaxes on a sofa drinking red wine in a minimalist room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-wine-sofa",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7404961_zen-minimal-interior-wood",
@@ -394,7 +537,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__pexels_7404961_zen-minimal-interior-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__pexels_7404961_zen-minimal-interior-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__strip__pexels_7404961_zen-minimal-interior-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a bright minimalist living room with a built-in fireplace and stacked firewood",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-minimalist-fireplace-room",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_201968_scandinavian-minimal-room-warm-l",
@@ -406,7 +559,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__thumb__pixabay_201968_scandinavian-minimal-room-warm-l.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__preview__pixabay_201968_scandinavian-minimal-room-warm-l.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S04__strip__pixabay_201968_scandinavian-minimal-room-warm-l.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a cozy wood-paneled room with tea and pastries on a coffee table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cozy-woodpanel-room",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:38:13Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "openverse_1bc741c0-7799-4281-b3e4-62fe_minimalist-interior-natural-wood",
@@ -468,7 +631,8 @@
     "corporate"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:38:13Z"
   },
   {
    "id": "S05",
