@@ -1,0 +1,171 @@
+<title>The Right Ten</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#f2f4f6; --surface:#ffffff; --ink:#171b21; --ink-2:#4a5561; --ink-3:#7d8794;
+  --line:#d6dce3; --accent:#1f5f8b; --accent-ink:#ffffff; --keep:#1e7a55; --cull:#b5432d; --warn:#9a6b0a;
+  --keep-bg:#e3f2ea; --cull-bg:#f8e4df; --warn-bg:#f7edd2; --code-bg:#e9edf1;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#12161b; --surface:#1a2028; --ink:#e6e9ee; --ink-2:#b3bcc7; --ink-3:#7f8a97;
+    --line:#2c353f; --accent:#6fb0e0; --accent-ink:#0e1418; --keep:#5fcf9a; --cull:#f08b76; --warn:#e2b45a;
+    --keep-bg:#173226; --cull-bg:#3a1f19; --warn-bg:#36290f; --code-bg:#232b35;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#12161b; --surface:#1a2028; --ink:#e6e9ee; --ink-2:#b3bcc7; --ink-3:#7f8a97;
+  --line:#2c353f; --accent:#6fb0e0; --accent-ink:#0e1418; --keep:#5fcf9a; --cull:#f08b76; --warn:#e2b45a;
+  --keep-bg:#173226; --cull-bg:#3a1f19; --warn-bg:#36290f; --code-bg:#232b35;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:"Source Sans 3",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:17px;line-height:1.55}
+main{max-width:76ch;margin:0 auto;padding:48px 24px 96px}
+h1,h2,h3{font-family:"Bricolage Grotesque","Source Sans 3",Helvetica,Arial,sans-serif;text-wrap:balance;margin:0}
+h1{font-size:44px;line-height:1.05;font-weight:700;letter-spacing:-.01em}
+h2{font-size:26px;line-height:1.2;font-weight:700;margin-top:56px;padding-top:20px;border-top:2px solid var(--ink)}
+h3{font-size:19px;font-weight:700;margin-top:28px}
+p{margin:12px 0;max-width:68ch}
+.eyebrow{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
+.thesis{font-size:21px;color:var(--ink-2);margin-top:16px;max-width:60ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 24px;margin-top:20px;font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:13px;color:var(--ink-3)}
+table{border-collapse:collapse;width:100%;font-size:15.5px;margin:16px 0}
+.tablewrap{overflow-x:auto}
+th{text-align:left;font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);font-weight:500;padding:8px 10px;border-bottom:1px solid var(--line)}
+td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:14px}
+.verdict{display:grid;grid-template-columns:1fr;gap:12px;margin:16px 0}
+.v{display:grid;grid-template-columns:96px 1fr;gap:14px;padding:14px 16px;background:var(--surface);border:1px solid var(--line)}
+.v .tag{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;padding:4px 8px;align-self:start;text-align:center}
+.tag.keep{background:var(--keep-bg);color:var(--keep)} .tag.cull{background:var(--cull-bg);color:var(--cull)} .tag.change{background:var(--warn-bg);color:var(--warn)}
+.v b{display:block;margin-bottom:4px}
+.v p{margin:0;max-width:none;color:var(--ink-2);font-size:15.5px}
+.flow{display:grid;grid-template-columns:1fr;gap:0;margin:20px 0;border:1px solid var(--line);background:var(--surface)}
+.step{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:16px 18px;border-bottom:1px solid var(--line)}
+.step:last-child{border-bottom:0}
+.step .where{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;padding-top:3px}
+.step b{display:block;font-size:17px}
+.step p{margin:4px 0 0;color:var(--ink-2);font-size:15.5px;max-width:none}
+.laws{counter-reset:law;padding:0;margin:16px 0;list-style:none}
+.laws li{counter-increment:law;display:grid;grid-template-columns:44px 1fr;gap:12px;padding:10px 0;border-bottom:1px solid var(--line)}
+.laws li::before{content:counter(law,decimal-leading-zero);font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;color:var(--ink-3);font-size:13px;padding-top:4px}
+.laws b{display:block}
+.laws span{color:var(--ink-2);font-size:15.5px}
+.phases{display:grid;grid-template-columns:1fr;gap:12px;margin:16px 0}
+.ph{background:var(--surface);border:1px solid var(--line);padding:16px 18px;display:grid;grid-template-columns:110px 1fr;gap:16px}
+.ph .day{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:12px;color:var(--ink-3);letter-spacing:.06em;text-transform:uppercase}
+.ph .day b{display:block;color:var(--ink);font-size:18px;letter-spacing:0;text-transform:none;font-family:"Bricolage Grotesque",sans-serif}
+.ph ul{margin:6px 0 0;padding-left:18px;color:var(--ink-2);font-size:15.5px}
+.ph li{margin:3px 0}
+.ph .gate{margin-top:10px;font-size:14px;color:var(--ink-3)}
+.ph .gate b{color:var(--keep);font-weight:600}
+code{font-family:"JetBrains Mono",ui-monospace,Menlo,monospace;font-size:.88em;background:var(--code-bg);padding:1px 5px;border-radius:3px}
+.callout{background:var(--surface);border-left:4px solid var(--accent);padding:14px 18px;margin:20px 0}
+.callout p{margin:4px 0}
+.small{font-size:14px;color:var(--ink-3)}
+@media (max-width:640px){h1{font-size:34px}.v,.step,.ph,.laws li{grid-template-columns:1fr}}
+</style>
+
+<main>
+  <div class="eyebrow">B-roll cockpit · master plan · 9 September 2026</div>
+  <h1>The Right Ten</h1>
+  <p class="thesis">Ten clips in the folder that fit the spoken line, ranked, captioned, and judged by Claude before a reviewer ever sees them. Measured by ticks, not by opinion.</p>
+  <div class="meta"><span>Repo Angel-Team7/CAA-Broll-Studio</span><span>Brands Edenrise · Belong</span><span>Runs on the Claude plan + GitHub Actions</span><span>Needs from Vic: nothing</span></div>
+
+  <h2>Where we stand</h2>
+  <p>Two days of troubleshooting produced a working delivery chain and a clear diagnosis. The chain works: clicks fire, previews play in every browser through the worker, the harvester stocks hourly, the intake routine cards scripts from Drive. The footage still misses because the system never searches for a shot. It searches for word fragments and ranks nothing.</p>
+  <div class="tablewrap"><table>
+    <tr><th>Measured on the cockpit today</th><th class="num">Value</th></tr>
+    <tr><td>Video candidates on cards</td><td class="num">2,698</td></tr>
+    <tr><td>Candidates whose title shares one word with the beat's brief</td><td class="num">12%</td></tr>
+    <tr><td>Beats where no candidate touches the brief</td><td class="num">215 / 293</td></tr>
+    <tr><td>Candidates shown per approved tick</td><td class="num">13</td></tr>
+    <tr><td>Live probe, Kaizen S05, current query "worker question process visually"</td><td class="num">0 / 16 usable</td></tr>
+    <tr><td>Same beat, shot query "hands sorting screws into jars", Pexels</td><td class="num">6 / 8 usable</td></tr>
+    <tr><td>Belong S03, shot query "receptionist listening to upset guest", Pexels</td><td class="num">8 / 8 on beat, 1 shoot, masks</td></tr>
+  </table></div>
+  <p>The last row is the whole lesson in one line: perfect text relevance, unusable card. Only something that looks at the frames can tell the difference.</p>
+
+  <h2>Roast of the roast</h2>
+  <p>The previous proposal was directionally right and structurally soft. Judged against what it must deliver, here is what survives.</p>
+  <div class="verdict">
+    <div class="v"><span class="tag keep">Keep</span><div><b>Shot lists per beat</b><p>The single biggest lever. Every probe confirmed it: the same sources return on-beat footage the moment the query is a filmable shot in the brand's world.</p></div></div>
+    <div class="v"><span class="tag keep">Keep</span><div><b>Claude looks at the frames before anything is downloaded</b><p>Pexels hands over fifteen frames per clip in the search result. Pixabay's tiny file yields three. Judging on pictures is the only step that catches chickens, masks, glaciers and factories.</p></div></div>
+    <div class="v"><span class="tag cull">Cull</span><div><b>SigLIP embedding pre-rank in the Action</b><p>A gigabyte of PyTorch in CI to save the judge a few images. The judge can scan a twelve-up grid of posters in one look and do the same job with no dependency. Revisit only if judge volume ever becomes the bottleneck.</p></div></div>
+    <div class="v"><span class="tag cull">Cull</span><div><b>Four-hop chain: Action, routine, Action, cockpit</b><p>Every trigger boundary has already bitten us this week. Verified today: the webhook fires the judge routine on any push to the repo, and it accepts no path filter. So the design has two hops, the routine exits in seconds when nothing is waiting, and the cockpit degrades gracefully if the judge is late.</p></div></div>
+    <div class="v"><span class="tag cull">Cull</span><div><b>Embeddings as memory</b><p>Without SigLIP there are no vectors. Memory becomes what Claude reads natively: captions and scores on every judged clip, a global rejected ledger by source id, and a contact sheet of the brand's latest approvals shown to the judge as reference.</p></div></div>
+    <div class="v"><span class="tag change">Change</span><div><b>Fetch 40, rank, show 10</b><p>Right shape, wrong numbers and no diversity. Recall 150 by metadata, shortlist 24 by a cheap text pass, build previews for those 24 in the same Action run, judge them, show the top 10 ranked with captions and keep the rest one click away. No shoot contributes more than two.</p></div></div>
+    <div class="v"><span class="tag change">Change</span><div><b>Haiku through an API key</b><p>Replaced by Sonnet inside a Claude routine on the plan. Stronger judge, no key, no bill. The routine reads contact sheets with its own eyes and commits the ranking.</p></div></div>
+    <div class="v"><span class="tag keep">Keep</span><div><b>Honest failure</b><p>Fewer than three candidates clear the bar, the beat is marked "stock cannot show this" with the judge's reason and routes to generated visuals. Junk padding ends.</p></div></div>
+  </div>
+
+  <h2>Claude Code native principles</h2>
+  <p>These are the rules the plan is built on. They are what made the last two days' fixes stick, written down so every session, cloud or Mac, works the same way.</p>
+  <ol class="laws">
+    <li><b>The repo is the brain.</b><span>Taste laws, brand worlds and the pipeline map live in the repo's CLAUDE.md. Every session that clones the repo inherits them without a prompt.</span></li>
+    <li><b>Procedures are skills, not prompts.</b><span>Shot-list, judge and intake are SKILL.md files under .claude/skills in the repo. A routine's prompt becomes one line. Versioned, diffable, reviewable, identical everywhere.</span></li>
+    <li><b>Files over services.</b><span>Candidates, verdicts, ledgers and the library are JSON in git. No database, no queue, nothing to log into.</span></li>
+    <li><b>Keys stay in GitHub, judgement stays in Claude.</b><span>Actions hold the stock keys and ffmpeg. Routines hold the eyes. Neither needs the other's secrets.</span></li>
+    <li><b>Two hops maximum, every job idempotent.</b><span>A job claims its work by moving a file, tags its commit, and can be re-run safely. A routine fired with nothing to do exits in seconds.</span></li>
+    <li><b>Verify before depending.</b><span>The worker was tested in Node, Safari in a WebKit harness, the webhook probed field by field before this page was written. Every new dependency gets the same treatment, and the harnesses live in tools/verify.</span></li>
+    <li><b>Fail loudly, in the cockpit.</b><span>Pipefail everywhere, run summaries on every job, and a status line on the card: "judged 3 min ago" or "24 candidates awaiting judge".</span></li>
+    <li><b>Ticks are training data, never targets.</b><span>Automation appends candidates and captions. It never touches an approval. Approvals feed the judge's reference sheet; Direction is wrong feeds the rejected ledger.</span></li>
+    <li><b>Show, don't sniff.</b><span>Every clip carries a caption of what it shows and why it ranked. The reviewer judges the judge.</span></li>
+  </ol>
+
+  <h2>The pipeline</h2>
+  <div class="flow">
+    <div class="step"><span class="where">Routine</span><div><b>Shot list</b><p>From the spoken line, the brief, the lesson and the brand world: four to six filmable shots, each with a natural phrasing for Pexels and Coverr and a tag phrasing for Pixabay, plus a must-not list. Stored on the card, shown under the brief, editable by the reviewer.</p></div></div>
+    <div class="step"><span class="where">Action</span><div><b>Recall</b><p>Every phrasing against Pexels, Pixabay, Coverr, Wikimedia for real places, Unsplash and Openverse for stills. Landscape, 5 to 40 seconds, 1280 wide. Pexels titles derived from the page address. About 150 candidates, metadata and frames only.</p></div></div>
+    <div class="step"><span class="where">Action</span><div><b>Shortlist and stage</b><p>A cheap text pass against the shot list and the rejected ledger cuts 150 to 24. For those 24 the Action builds the 480p preview, the thumb and a three-frame contact strip, uploads them, and commits a candidates file. Nothing appears on the card yet.</p></div></div>
+    <div class="step"><span class="where">Routine</span><div><b>Judge</b><p>The push fires the judge routine. It reads the strips, the shot list, the spoken line, the must-not list and the brand's reference sheet of recent approvals. Per candidate: relevance and brand fit 0 to 10, a one-line caption, any violation. Then the diversity rule: no shoot more than twice, wide and close mixed, seven videos and three stills.</p></div></div>
+    <div class="step"><span class="where">Routine</span><div><b>Deliver</b><p>Top ten written to the card in rank order with captions and a best-match badge; the remaining fourteen kept behind "show more". Every verdict appended to the library ledger so nothing is judged twice. Beats under three usable are marked "stock cannot show this".</p></div></div>
+    <div class="step"><span class="where">Cockpit</span><div><b>Review</b><p>Ranked grid, caption under each clip, shot list under the brief, status line. Need more asks for the next shots on the list. Direction is wrong feeds every untouched clip to the rejected ledger and moves to shots not yet used.</p></div></div>
+  </div>
+  <div class="callout"><p><b>Timing of a click.</b> Recall and staging in the Action, about three minutes. Judge routine spin-up and verdict, about two. A ranked card in roughly five minutes, and an honest "awaiting judge" state with the unranked 24 available in the meantime.</p></div>
+
+  <h2>Stack</h2>
+  <div class="tablewrap"><table>
+    <tr><th>Layer</th><th>Tool</th><th>Status</th></tr>
+    <tr><td>Shot lists, judging, intake</td><td>Claude routines on the plan, Sonnet 5, skills in the repo</td><td>Intake live; judge routine created, webhook verified today</td></tr>
+    <tr><td>Recall, previews, uploads</td><td>GitHub Actions with the stock keys, cached static ffmpeg, release_media.py</td><td>Live; recall logic to be rebuilt around shot lists</td></tr>
+    <tr><td>Frames without downloads</td><td>Pexels frame set from the API, Pixabay tiny file plus ffmpeg</td><td>Confirmed in probes</td></tr>
+    <tr><td>Store</td><td>GitHub Releases behind the Cloudflare worker</td><td>Live, plays in Safari, Chrome, iPad</td></tr>
+    <tr><td>Memory</td><td>Captions and verdicts in the library index, rejected ledger, reference sheets per brand</td><td>To build</td></tr>
+    <tr><td>Cockpit</td><td>Static page on Pages, versioned assets, ranked cards</td><td>Live; ranked view and captions to build</td></tr>
+  </table></div>
+
+  <h2>Phases</h2>
+  <div class="phases">
+    <div class="ph"><div class="day">Phase 0<b>Today</b></div><div><ul>
+      <li>CLAUDE.md in the repo: taste laws, brand worlds, pipeline map.</li>
+      <li>Skills: shot-list, judge, intake as SKILL.md files.</li>
+      <li>Shot-list backfill across all 293 beats by routine, shown on cards.</li>
+      <li>Global rejected ledger; fix the library entries still pointing at old local thumbnails.</li></ul>
+      <div class="gate">Gate: <b>every card shows its shot list</b></div></div></div>
+    <div class="ph"><div class="day">Phase 1<b>Day 2</b></div><div><ul>
+      <li>Recall v2 in the Action: shot phrasings per source dialect, Pexels titles, 150 candidates, shortlist 24, previews and strips, candidates file.</li>
+      <li>Judge routine live on the webhook: verdicts, captions, diversity, delivery to the card.</li>
+      <li>Cockpit: ranked order, captions, best-match badge, status line, show-more.</li></ul>
+      <div class="gate">Gate: <b>a Need more click returns a ranked ten on module 9 S03</b></div></div></div>
+    <div class="ph"><div class="day">Phase 2<b>Day 3</b></div><div><ul>
+      <li>Judge pass over every existing card: caption all 2,698 candidates, cull unapproved clips below the bar, re-rank the rest.</li>
+      <li>Re-run recall for every beat left with fewer than three usable clips.</li></ul>
+      <div class="gate">Gate: <b>no card holds a chicken</b></div></div></div>
+    <div class="ph"><div class="day">Phase 3<b>Day 4</b></div><div><ul>
+      <li>Reference sheets from the latest approvals per brand, fed to every judge run.</li>
+      <li>Harvester and library-first driven by shot lists and captions.</li>
+      <li>Direction is wrong rotates through unused shots and feeds the ledger.</li></ul>
+      <div class="gate">Gate: <b>a second click on a beat never repeats a rejected look</b></div></div></div>
+  </div>
+
+  <h2>Acceptance</h2>
+  <div class="tablewrap"><table>
+    <tr><th>Measure, from ticks</th><th class="num">Today</th><th class="num">Target</th></tr>
+    <tr><td>Beats with at least three usable clips in the top ten</td><td class="num">unknown</td><td class="num">9 in 10</td></tr>
+    <tr><td>Candidates shown per approved tick</td><td class="num">13</td><td class="num">4</td></tr>
+    <tr><td>Time from click to ranked card</td><td class="num">never</td><td class="num">5 min</td></tr>
+    <tr><td>Clips on a card violating a must-not rule</td><td class="num">common</td><td class="num">0</td></tr>
+  </table></div>
+  <p class="small">Every number on this page came from the live cockpit, live source probes, a WebKit harness, and a field-by-field probe of the routine webhook, all run on 9 September 2026.</p>
+</main>
