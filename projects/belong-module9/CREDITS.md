@@ -379,3 +379,178 @@
 | pixabay | table  meal  dishes  food  cuisine | Charity_donate | Pixabay Content License | https://pixabay.com/videos/id-149935/ |
 | pixabay | book  wind  literature  education  writing  reading  poetry  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-185092/ |
 | pixabay | billet  bank  debt  pen | andrepazleal | Pixabay Content License | https://pixabay.com/videos/id-13477/ |
+| pexels | a couple looking at a smartphone screen | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-looking-at-a-smartphone-screen-6963479/ |
+| pixabay | phone  hands  screen touch  smart phone  message | crew_jak | Pixabay Content License | https://pixabay.com/videos/id-47743/ |
+| pixabay | businesswoman  headache  stress  business  career  close-up  | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-129427/ |
+| pexels | close up shot of abandoned wooden house | Tom Fisk | Pexels License | https://www.pexels.com/video/close-up-shot-of-abandoned-wooden-house-10295489/ |
+| pexels | man reviewing a document | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-reviewing-a-document-8731299/ |
+| pexels | a man drinking tea while using his electronic tablet | Cup of  Couple | Pexels License | https://www.pexels.com/video/a-man-drinking-tea-while-using-his-electronic-tablet-6633339/ |
+| pexels | a man holding a tablet while seriously looking at camera | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-man-holding-a-tablet-while-seriously-looking-at-camera-7534428/ |
+| pexels | colleagues working together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/colleagues-working-together-8102650/ |
+| pexels | woman joined colleagues while eating | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-joined-colleagues-while-eating-8103023/ |
+| pexels | woman using tablet | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/woman-using-tablet-7597575/ |
+| pexels | a man looking at the documents | Alena Darmel | Pexels License | https://www.pexels.com/video/a-man-looking-at-the-documents-7646442/ |
+| pexels | a man using an ipad | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-man-using-an-ipad-4629763/ |
+| pexels | girls in kitchen recording video of recipe | Kampus Production | Pexels License | https://www.pexels.com/video/girls-in-kitchen-recording-video-of-recipe-7963248/ |
+| pexels | a man was shocked from seeing their house bills | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-was-shocked-from-seeing-their-house-bills-6962835/ |
+| pixabay | iphone  smartphone  scrolling  mobile  device  technology  c | elchao | Pixabay Content License | https://pixabay.com/videos/id-736/ |
+| pexels | man using a tablet | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-a-tablet-7578644/ |
+| pexels | a man and a woman looking at a cellphone in a kitchen | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-looking-at-a-cellphone-in-a-kitchen-8870782/ |
+| pixabay | tractor  farmer  agriculture  field  rural  machine  farmhou | xat-ch | Pixabay Content License | https://pixabay.com/videos/id-43044/ |
+| pixabay | windmill  agriculture  farm  rural  mill  wind  power  old   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-784/ |
+| pixabay | coconut tree  ricefield  countryside  southeast asia  asia   | Muhsaleh | Pixabay Content License | https://pixabay.com/videos/id-334302/ |
+| pixabay | woman  joy  happiness  cattle  grassland  farm  celebrate  c | u_zm0pibx5fn | Pixabay Content License | https://pixabay.com/videos/id-171116/ |
+| pexels | close up on man scrolling phone screen | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-on-man-scrolling-phone-screen-10374912/ |
+| pexels | scrolling smartphone news feed in close up | Scott Precious | Pexels License | https://www.pexels.com/video/scrolling-smartphone-news-feed-in-close-up-35888104/ |
+| pexels | close up waiter hands carrying food | Denys Gromov | Pexels License | https://www.pexels.com/video/close-up-waiter-hands-carrying-food-5820011/ |
+| pexels | pizza dough | Aida Shukuhi | Pexels License | https://www.pexels.com/video/pizza-dough-20297610/ |
+| pexels | a chef lifting a peel | Kampus Production | Pexels License | https://www.pexels.com/video/a-chef-lifting-a-peel-6603335/ |
+| pexels | person scrolling through an online application | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-scrolling-through-an-online-application-5700371/ |
+| pexels | hands using smartphones close up | ArtHouse Studio | Pexels License | https://www.pexels.com/video/hands-using-smartphones-close-up-6257870/ |
+| pexels | waiter serving fresh pizza in modern restaurant | Aida Shukuhi | Pexels License | https://www.pexels.com/video/waiter-serving-fresh-pizza-in-modern-restaurant-32046325/ |
+| pexels | a chef is preparing food on plates in the kitchen | K | Pexels License | https://www.pexels.com/video/a-chef-is-preparing-food-on-plates-in-the-kitchen-19905872/ |
+| pexels | a worker serving food | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-worker-serving-food-3775069/ |
+| pexels | close up shot of a person using smartphone | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-using-smartphone-6271456/ |
+| pexels | chef preparing dishes in modern kitchen | Mossan Cat | Pexels License | https://www.pexels.com/video/chef-preparing-dishes-in-modern-kitchen-36959797/ |
+| pexels | a person preparing food | Bonus Studio | Pexels License | https://www.pexels.com/video/a-person-preparing-food-5487998/ |
+| pexels | person scrolling through messages in phone | Vincuk Konan | Pexels License | https://www.pexels.com/video/person-scrolling-through-messages-in-phone-10527947/ |
+| pixabay | phone  scrolling phone  woman  picnic  hands  girl  summer   | Firmbee | Pixabay Content License | https://pixabay.com/videos/id-88686/ |
+| pixabay | smartphone  scrolling  app  mobile  device  modern  communic | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3180/ |
+| pixabay | baggage claim  luggage belt  airport  travel  carousel  lugg | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5628/ |
+| pixabay | hawaii  oahu  hotel  street | RafterJr72 | Pixabay Content License | https://pixabay.com/videos/id-21120/ |
+| pixabay | hotel  resort  restaurant  travel  luxury  luxury hotel  tou | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1303/ |
+| pixabay | pool  resort  hotel  building  dominican republic  caribbean | BernardMedia-DR | Pixabay Content License | https://pixabay.com/videos/id-202392/ |
+| pixabay | hotel  room  travel  service  bed  vacation  reception  apar | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-135169/ |
+| pixabay | train  railway  welcome  railway station  departure  travel  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3178/ |
+| pexels | housekeeper placing fresh towels on bed | cottonbro studio | Pexels License | https://www.pexels.com/video/housekeeper-placing-fresh-towels-on-bed-6466246/ |
+| pexels | young man pushing room service trolley | cottonbro studio | Pexels License | https://www.pexels.com/video/young-man-pushing-room-service-trolley-5371661/ |
+| pexels | chambermaid tidying up hotel room | cottonbro studio | Pexels License | https://www.pexels.com/video/chambermaid-tidying-up-hotel-room-6466564/ |
+| pexels | person getting towel | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/person-getting-towel-7593626/ |
+| pexels | man cleaning a mirror | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-cleaning-a-mirror-5592445/ |
+| pexels | a man is pouring wine into a glass at a restaurant | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-is-pouring-wine-into-a-glass-at-a-restaurant-4254313/ |
+| pexels | a man holding a bottle | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-holding-a-bottle-8764335/ |
+| pexels | blank paper being placed | Artem Podrez | Pexels License | https://www.pexels.com/video/blank-paper-being-placed-6278837/ |
+| pexels | hand sorting euro banknotes on wooden table | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/hand-sorting-euro-banknotes-on-wooden-table-31568471/ |
+| pexels | a housekeeper putting folded towels on bed | cottonbro studio | Pexels License | https://www.pexels.com/video/a-housekeeper-putting-folded-towels-on-bed-6466243/ |
+| pexels | a person pouring wine in the glas | Bonus Studio | Pexels License | https://www.pexels.com/video/a-person-pouring-wine-in-the-glas-5498730/ |
+| pexels | pouring champagne in a champagne glass | cottonbro studio | Pexels License | https://www.pexels.com/video/pouring-champagne-in-a-champagne-glass-6289658/ |
+| pexels | no | alleksana | Pexels License | https://www.pexels.com/video/no-4276276/ |
+| pexels | hands counting euro bills for financial planning | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/hands-counting-euro-bills-for-financial-planning-31424892/ |
+| pixabay | drink  water  glass  pouring  refreshment  refreshing  refle | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-95/ |
+| pixabay | wine  drink  alcohol  beverage  red wine  glass  celebration | TPMotion | Pixabay Content License | https://pixabay.com/videos/id-81170/ |
+| pixabay | wine  glass  red  pour  drink  toast  refreshment | leovenezian | Pixabay Content License | https://pixabay.com/videos/id-56914/ |
+| pixabay | wine glasses  red wine  wine  drink  red  bottle  glasses  a | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1633/ |
+| pixabay | home  architecture  design  the interior  graphics  white  w | 6719005 | Pixabay Content License | https://pixabay.com/videos/id-31290/ |
+| pixabay | key  take  open  key code  instrument  door | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131988/ |
+| pixabay | library  books  the corridor  window  rack  the culture  rea | klimkin | Pixabay Content License | https://pixabay.com/videos/id-846/ |
+| pixabay | library  books  corridor  reading  education  knowledge | IlyaKulik | Pixabay Content License | https://pixabay.com/videos/id-49375/ |
+| pexels | people in a meeting | Kampus Production | Pexels License | https://www.pexels.com/video/people-in-a-meeting-6248589/ |
+| pexels | close up of hand writing in notebook | Nishant Das | Pexels License | https://www.pexels.com/video/close-up-of-hand-writing-in-notebook-31948465/ |
+| pexels | close up shot of a woman having an exam | ArtHouse Studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-woman-having-an-exam-6269217/ |
+| pexels | close up of a person doing knitting | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-a-person-doing-knitting-5900949/ |
+| pexels | close up of handwriting in a journal | K | Pexels License | https://www.pexels.com/video/close-up-of-handwriting-in-a-journal-33350902/ |
+| pexels | close up of a person writing on a notepad | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-a-person-writing-on-a-notepad-9391663/ |
+| pexels | close up of schoolboy writing in notebook | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-schoolboy-writing-in-notebook-11025554/ |
+| pexels | close up view of person s hands writing on a book | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-view-of-person-s-hands-writing-on-a-book-5531656/ |
+| pexels | a person writing on a paper plate with a pen | Israel Torres | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-paper-plate-with-a-pen-20559734/ |
+| pexels | a person writing on his paper | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-writing-on-his-paper-7362570/ |
+| pexels | a hand holding a pen | Kindel Media | Pexels License | https://www.pexels.com/video/a-hand-holding-a-pen-7651531/ |
+| pexels | a man writing on a paper | SHVETS production | Pexels License | https://www.pexels.com/video/a-man-writing-on-a-paper-8413484/ |
+| pexels | people talking beside a fireplace | cottonbro studio | Pexels License | https://www.pexels.com/video/people-talking-beside-a-fireplace-6567824/ |
+| pexels | a woman checking a recipe book | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-checking-a-recipe-book-6942485/ |
+| pixabay | talk  discussion  meeting  team  group  conference  discuss  | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1112/ |
+| pixabay | plate  gas  fire  kitchen  matches  burns  prepare | Amina_Salim | Pixabay Content License | https://pixabay.com/videos/id-141854/ |
+| pixabay | fountain  water  wet  splash  flow  drops  tap  the middle a | My_movie | Pixabay Content License | https://pixabay.com/videos/id-85632/ |
+| pixabay | hands  wash  cleansed  cleaning  tap  hygiene  damp  wellnes | Irving_Agui | Pixabay Content License | https://pixabay.com/videos/id-25310/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pixabay | painter  paint  roller  wall  repair  design  renovate  work | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85347/ |
+| pixabay | renovate  painter  roller  dye  paint  repair  design  wall  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85348/ |
+| pixabay | tap  water  switch off  close  water tap  flows  wet  h2o  m | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-136086/ |
+| pexels | bellboy showing guests to elevator | cottonbro studio | Pexels License | https://www.pexels.com/video/bellboy-showing-guests-to-elevator-5378936/ |
+| pexels | woman talking through the phone while taking | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-talking-through-the-phone-while-taking-5137839/ |
+| pexels | woman talking through the phone while taking notes | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-talking-through-the-phone-while-taking-notes-5137841/ |
+| pexels | couple talking to a woman in front desk | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-talking-to-a-woman-in-front-desk-5138022/ |
+| pexels | backpackers checking in at a hotel | cottonbro studio | Pexels License | https://www.pexels.com/video/backpackers-checking-in-at-a-hotel-5138023/ |
+| pexels | two travelers talking to a woman in front desk | cottonbro studio | Pexels License | https://www.pexels.com/video/two-travelers-talking-to-a-woman-in-front-desk-5138018/ |
+| pexels | a receptionist assisting a guest | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-guest-7820469/ |
+| pexels | hotel receptionist talking to a guest | Mikhail Nilov | Pexels License | https://www.pexels.com/video/hotel-receptionist-talking-to-a-guest-7820514/ |
+| pexels | close up shot of utensils | Tim Douglas | Pexels License | https://www.pexels.com/video/close-up-shot-of-utensils-6205805/ |
+| pexels | close up view of a person slicing a waffle on plate | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-slicing-a-waffle-on-plate-5990719/ |
+| pexels | elegant dining table with various delicious dishes | Ahmed ؜ | Pexels License | https://www.pexels.com/video/elegant-dining-table-with-various-delicious-dishes-36581799/ |
+| pexels | close up of letter on dish | Михаил Косолапович | Pexels License | https://www.pexels.com/video/close-up-of-letter-on-dish-11654918/ |
+| pexels | person folding a table napkin | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-folding-a-table-napkin-6958178/ |
+| pexels | an elderly woman transferring the egg on a bowl | olia danilevich | Pexels License | https://www.pexels.com/video/an-elderly-woman-transferring-the-egg-on-a-bowl-7199617/ |
+| pixabay | painting  drawing  colors  design  brush  artist painting  a | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-960/ |
+| pixabay | hands  hand cream  cream  health  skin  care | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38079/ |
+| pixabay | cozy  home  cabin  warm  tea  cup  table  relaxing  meditati | Visual_Laurence | Pixabay Content License | https://pixabay.com/videos/id-201968/ |
+| pixabay | wedding  board  welcome  cover  table  dining table  napkin  | Buzzimilian | Pixabay Content License | https://pixabay.com/videos/id-29337/ |
+| pixabay | table football  game  fun  play  entertainment  football pla | Alessandro89 | Pixabay Content License | https://pixabay.com/videos/id-10024/ |
+| pixabay | conversation  talk  dialogue  coffee  colleagues  discussion | Republica | Pixabay Content License | https://pixabay.com/videos/id-180/ |
+| pixabay | girl  drawing  colors  paper  table  school  kindergarten  k | Amir_iMani | Pixabay Content License | https://pixabay.com/videos/id-49395/ |
+| pixabay | meeting  creative  artistic  conversation  business  owner | Digital_Expert | Pixabay Content License | https://pixabay.com/videos/id-88225/ |
+| pexels | woman listening to music while packing his clothes in the lu | Vlada Karpovich | Pexels License | https://www.pexels.com/video/woman-listening-to-music-while-packing-his-clothes-in-the-luggage-7429267/ |
+| pexels | women talking about clothes | cottonbro studio | Pexels License | https://www.pexels.com/video/women-talking-about-clothes-7128352/ |
+| pexels | a woman looking at a map | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-woman-looking-at-a-map-7429424/ |
+| pexels | man listening to music while packing his clothes in the lugg | Vlada Karpovich | Pexels License | https://www.pexels.com/video/man-listening-to-music-while-packing-his-clothes-in-the-luggage-7429266/ |
+| pexels | a push in shot of a woman packing her bag | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-push-in-shot-of-a-woman-packing-her-bag-4407727/ |
+| pexels | video of a woman holding suitcase while waiting | Mikhail Nilov | Pexels License | https://www.pexels.com/video/video-of-a-woman-holding-suitcase-while-waiting-7820833/ |
+| pexels | travel room package sofa | Vlada Karpovich | Pexels License | https://www.pexels.com/video/travel-room-package-sofa-7429299/ |
+| pexels | woman packing her suitcase | Vlada Karpovich | Pexels License | https://www.pexels.com/video/woman-packing-her-suitcase-7429306/ |
+| pexels | close up video of a person pushing a doorbell | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-pushing-a-doorbell-7702047/ |
+| pexels | man sitting alone in dining room | cottonbro studio | Pexels License | https://www.pexels.com/video/man-sitting-alone-in-dining-room-6263197/ |
+| pexels | footage of a depressed woman with a food plate | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/footage-of-a-depressed-woman-with-a-food-plate-7274841/ |
+| pexels | a woman filling up the form | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-filling-up-the-form-6192881/ |
+| pexels | cup being placed on pyrex plate | Artem Podrez | Pexels License | https://www.pexels.com/video/cup-being-placed-on-pyrex-plate-6278839/ |
+| pexels | pouring whiskey into a glass decanter | Kiwi and Camera | Pexels License | https://www.pexels.com/video/pouring-whiskey-into-a-glass-decanter-38917697/ |
+| pixabay | tea  drink  morning  woman  cup  hot  people  female  mug  l | Sephelonor | Pixabay Content License | https://pixabay.com/videos/id-9830/ |
+| pixabay | cup  drink  biscuits  breakfast  food  coffee  healthy  frui | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-237504/ |
+| pixabay | coffee  bread  fruit  breakfast  food  healthy  cup  table   | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-238823/ |
+| pixabay | egg  food  protein  breakfast  healthy  kitchen | KunalKapoor7 | Pixabay Content License | https://pixabay.com/videos/id-213748/ |
+| pixabay | coffee  breakfast  dining table  bread  toast  egg  yolk  ro | Tilixia-Summer | Pixabay Content License | https://pixabay.com/videos/id-145012/ |
+| pixabay | on air  broadcast  podcast  desk  microphone  mic  studio  c | Natsu_444 | Pixabay Content License | https://pixabay.com/videos/id-201676/ |
+| pixabay | hair  wind  girl  woman  people  person  model  young  dream | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43633/ |
+| pixabay | christmas  tree  confetti  bell  colorful  party  xmas  holi | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-92280/ |
+| pexels | people having a backyard party | Kampus Production | Pexels License | https://www.pexels.com/video/people-having-a-backyard-party-6948267/ |
+| pexels | couple talking in restaurant | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-talking-in-restaurant-6321920/ |
+| pexels | a group of people meeting in a coffee shop | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-group-of-people-meeting-in-a-coffee-shop-5529078/ |
+| pexels | time lapse video of people | Pixabay | Pexels License | https://www.pexels.com/video/time-lapse-video-of-people-854750/ |
+| pexels | two man and a woman drinking beer on terrace | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/two-man-and-a-woman-drinking-beer-on-terrace-5054247/ |
+| pexels | people sitting at a table in a cafe | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/people-sitting-at-a-table-in-a-cafe-8870223/ |
+| pexels | a waiter on formal attire serving a glasses on the table | Ron Lach | Pexels License | https://www.pexels.com/video/a-waiter-on-formal-attire-serving-a-glasses-on-the-table-8922353/ |
+| pexels | an elderly couple on a date | Yan Krukau | Pexels License | https://www.pexels.com/video/an-elderly-couple-on-a-date-6816116/ |
+| pexels | casual dining with pizza served in restaurant | Aida Shukuhi | Pexels License | https://www.pexels.com/video/casual-dining-with-pizza-served-in-restaurant-32046327/ |
+| pexels | women talking in the balcony | ArtHouse Studio | Pexels License | https://www.pexels.com/video/women-talking-in-the-balcony-7935036/ |
+| pexels | waiter looking a man | cottonbro studio | Pexels License | https://www.pexels.com/video/waiter-looking-a-man-9198380/ |
+| pexels | a man talking while sitting on a wooden chair | PNW Production | Pexels License | https://www.pexels.com/video/a-man-talking-while-sitting-on-a-wooden-chair-8275768/ |
+| pexels | modern business meeting in stylish courtyard | Floating Rabbit | Pexels License | https://www.pexels.com/video/modern-business-meeting-in-stylish-courtyard-33844049/ |
+| pexels | an elderly people clinking glass together | Kampus Production | Pexels License | https://www.pexels.com/video/an-elderly-people-clinking-glass-together-6948939/ |
+| pixabay | boy  talk  conversation  people  mirror  reflection | Marsel_beijing | Pixabay Content License | https://pixabay.com/videos/id-119698/ |
+| pixabay | headphones  music  sound  audio  technology  listen  listeni | olenchic | Pixabay Content License | https://pixabay.com/videos/id-345910/ |
+| pixabay | woman  young  walking  happy  lifestyle  smile  female  adul | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-130212/ |
+| pixabay | music  headphones  hi-fi  audio-video  av  major tom  listen | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-2284/ |
+| pixabay | compass  night  moon  evening  window  table  book  chain  c | Mabelle-Elise | Pixabay Content License | https://pixabay.com/videos/id-176024/ |
+| pixabay | mobile  cellular  technology  communications  iphone  talk   | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131161/ |
+| pixabay | ai generated  woman  model  face  teenage  female  portrait | CyberHanna | Pixabay Content License | https://pixabay.com/videos/id-198113/ |
+| pixabay | woman  model  face  eyes  look  hat  fashion  style  natural | Acatroxen | Pixabay Content License | https://pixabay.com/videos/id-178472/ |
+| pexels | close up view of couple holding each other s hands | PNW Production | Pexels License | https://www.pexels.com/video/close-up-view-of-couple-holding-each-other-s-hands-8576697/ |
+| pexels | people holding each other s hands | Kampus Production | Pexels License | https://www.pexels.com/video/people-holding-each-other-s-hands-7522355/ |
+| pexels | woman relaxing in cozy wooden cabin interior | Alex Moliski | Pexels License | https://www.pexels.com/video/woman-relaxing-in-cozy-wooden-cabin-interior-34328260/ |
+| pexels | a couple holding their hands | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-couple-holding-their-hands-8208969/ |
+| pexels | a couple holding hands | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-holding-hands-8343856/ |
+| pexels | person touching hands | ArtHouse Studio | Pexels License | https://www.pexels.com/video/person-touching-hands-6257867/ |
+| pexels | a man and a boy shaking hands in a room | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-and-a-boy-shaking-hands-in-a-room-17904243/ |
+| pexels | close up of people s hands together | Kampus Production | Pexels License | https://www.pexels.com/video/close-up-of-people-s-hands-together-8439147/ |
+| pexels | close up of couple holding hands outdoors | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-of-couple-holding-hands-outdoors-9242200/ |
+| pexels | close up of people holding their hands | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-people-holding-their-hands-7981584/ |
+| pexels | a woman serving a platter of food | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-serving-a-platter-of-food-6948636/ |
+| pexels | people having party | Kampus Production | Pexels License | https://www.pexels.com/video/people-having-party-6949113/ |
+| pexels | a man playing violin in a room with a woman | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-playing-violin-in-a-room-with-a-woman-17850962/ |
+| pexels | a woman reading a book | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-woman-reading-a-book-7260689/ |
+| pixabay | couple  lovers  hands  love  street  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-152798/ |
+| pixabay | cafe  restaurant  talking  talk  people  sitting  chatting   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-1623/ |
+| pixabay | couple  love  lovers  together  relationship  romance  roman | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-245932/ |
+| pixabay | couple  love  romance  valentine  loving couple  woman  youn | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-2301/ |
+| pixabay | couple  hands  love  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-177254/ |
+| pixabay | marriage  wedding  love  celebration  bride  couple  groom   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1330/ |
+| pixabay | married couple  old couple  happy couple  music  headphones | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-172681/ |
+| pixabay | couple  lovers  strawberry  honeymoon  entertainment | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-149475/ |
