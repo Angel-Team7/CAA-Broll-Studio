@@ -7132,7 +7132,7 @@
      "page_url": "https://www.pexels.com/video/man-chef-kitchen-portrait-4253337/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V01.mp4",
-     "score": 14.42,
+     "score": 1.05,
      "categories": [
       "chef",
       "kitchen"
@@ -7140,7 +7140,16 @@
      "title": "video man chef kitchen portrait",
      "query": "hospitality team work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Two men chat in a modern cafe kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cafe-kitchen-chat",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-V02",
@@ -7151,12 +7160,21 @@
      "page_url": "https://www.pexels.com/video/busy-ice-cream-shop-with-staff-serving-customers-36362888/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V02.mp4",
-     "score": 12.77,
+     "score": 2.35,
      "categories": [],
      "title": "video busy ice cream shop with staff serving customers",
      "query": "hospitality team work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Staff serve customers at a busy ice cream counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-icecream-shop-busy",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-V03",
@@ -7167,14 +7185,23 @@
      "page_url": "https://www.pexels.com/video/healthcare-workers-in-safety-gear-using-computers-28950234/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V03.mp4",
-     "score": 12.62,
+     "score": 0.0,
      "categories": [
       "worker"
      ],
      "title": "video healthcare workers safety gear using computers",
      "query": "hospitality team work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Masked lab workers type at computers in protective suits",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-lab-masked-computers",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-m9-S02-V04",
@@ -7185,7 +7212,7 @@
      "page_url": "https://www.pexels.com/video/waitstaff-serves-meal-at-cozy-restaurant-table-33462592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V04.mp4",
-     "score": 12.39,
+     "score": 4.0,
      "categories": [
       "meal",
       "table"
@@ -7193,7 +7220,16 @@
      "title": "video waitstaff serves meal cozy restaurant table",
      "query": "waiter carrying plates",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "Waiter sets a plate of food on a restaurant table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-waiter-plate-restaurant",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-V05",
@@ -7204,14 +7240,23 @@
      "page_url": "https://pixabay.com/videos/id-83926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V05.mp4",
-     "score": 9.59,
+     "score": 0.7,
      "categories": [
       "hotel"
      ],
      "title": "glacier  ice  rhone  hotel  restaurant  belvedere  switzerland  valais  oberwald  goms",
      "query": "hotel lobby staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Aerial view of a glacier valley beside a mountain hotel",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glacier-mountain-hotel",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-V06",
@@ -7222,7 +7267,7 @@
      "page_url": "https://pixabay.com/videos/id-11323/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V06.mp4",
-     "score": 9.22,
+     "score": 1.05,
      "categories": [
       "cooking",
       "kitchen",
@@ -7231,7 +7276,16 @@
      "title": "cooking  ecommerce  computer  macbook  fire  cook  food  store  recipe  web  retail  internet  delivery  business  onlin",
      "query": "restaurant service busy",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Blender and ingredients sit on a kitchen counter near a laptop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-blender-kitchen-laptop",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-V07",
@@ -7242,14 +7296,23 @@
      "page_url": "https://pixabay.com/videos/id-254753/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-m9-S02-V07.mp4",
-     "score": 9.22,
+     "score": 4.1,
      "categories": [
       "kitchen"
      ],
      "title": "kitchen  plate  healthy  appetizers  pasta  sweet  organic  food",
      "query": "waiter carrying plates",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-m9-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 8,
+     "caption": "Hands place dough balls into a baking pan",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bread-dough-pan",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S02-I01",
@@ -7314,7 +7377,7 @@
      "page_url": "https://www.pexels.com/video/artistic-food-presentation-on-a-wooden-board-5657049/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__pexels_5657049_waiter-carrying-tray-desserts-re.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__pexels_5657049_waiter-carrying-tray-desserts-re.mp4",
-     "score": 0,
+     "score": 4.35,
      "categories": [
       "host"
      ],
@@ -7325,7 +7388,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "Waiter carries a plated appetizer on a wooden tray",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-waiter-tray-appetizer",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-module9-S02-V09",
@@ -7336,7 +7408,7 @@
      "page_url": "https://www.pexels.com/video/construction-work-with-crane-unloading-metal-36772580/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__pexels_36772580_hi-vis-team-hauling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__pexels_36772580_hi-vis-team-hauling.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "team"
      ],
@@ -7347,7 +7419,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Crane truck lifts steel rebar at a construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-crane-truck-rebar",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V11",
@@ -7358,7 +7439,7 @@
      "page_url": "https://pixabay.com/videos/id-87593/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V11.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "work  office  people  working  discussing  meeting",
      "query": "hospitality team work",
@@ -7367,7 +7448,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Three coworkers review documents around a laptop",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pixabay-coworkers-laptop-review",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V12",
@@ -7378,7 +7468,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-stacking-hands-8865708/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V12.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7387,7 +7477,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Hands fist bump over a table covered in papers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-overhead-fistbump-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V13",
@@ -7398,7 +7497,7 @@
      "page_url": "https://pixabay.com/videos/id-87592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "work  office  people  write  office work  pencils  crayon",
      "query": "hospitality team work",
@@ -7407,7 +7506,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Abstract green and red gear shapes rotate",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-abstract-gears",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V14",
@@ -7418,7 +7526,7 @@
      "page_url": "https://www.pexels.com/video/group-doing-fist-bump-together-6339872/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V14.mp4",
-     "score": 0,
+     "score": 3.25,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7427,7 +7535,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "Masked woman reads a paper at a hotel reception desk",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-masked-reception-reading",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V15",
@@ -7438,7 +7555,7 @@
      "page_url": "https://pixabay.com/videos/id-1028/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V15.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "homework  girl  student  laptop  study  studying  notebook  work  fan  chair  desk  concentrated  concentrating  education  school  learning  reading  female  people  college",
      "query": "hospitality team work",
@@ -7447,7 +7564,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Hands guide a jigsaw cutting a wooden board",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-jigsaw-wood-cut",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V16",
@@ -7458,7 +7584,7 @@
      "page_url": "https://www.pexels.com/video/people-sitting-at-the-table-7534728/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V16.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7467,7 +7593,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Group cheers with a fist bump under string lights",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-fistbump-stringlights",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module9-S02-V17",
@@ -7478,7 +7613,7 @@
      "page_url": "https://pixabay.com/videos/id-273922/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V17.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "teamwork  education  technology  work  office  business",
      "query": "hospitality team work",
@@ -7487,7 +7622,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Construction worker in a vest shovels gravel at a job site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-construction-shovel-gravel",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V18",
@@ -7498,7 +7642,7 @@
      "page_url": "https://www.pexels.com/video/a-group-of-people-is-doing-hand-gesture-in-unison-3248780/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V18.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7507,7 +7651,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Hands fist bump over a table covered in papers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-overhead-fistbump-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V19",
@@ -7518,7 +7671,7 @@
      "page_url": "https://pixabay.com/videos/id-70345/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V19.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "team  office  work  success  satisfaction  mission  management",
      "query": "hospitality team work",
@@ -7527,7 +7680,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Office coworkers raise their hands and cheer together",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-team-cheer",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V20",
@@ -7538,7 +7700,7 @@
      "page_url": "https://www.pexels.com/video/group-of-people-doing-fist-bump-3245304/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V20.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7547,7 +7709,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Hands fist bump over a table covered in papers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-overhead-fistbump-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V21",
@@ -7558,7 +7729,7 @@
      "page_url": "https://pixabay.com/videos/id-8140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V21.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "stadium  sports  running event  team challenge  dresden  saxony  germany  running  runner",
      "query": "hospitality team work",
@@ -7567,7 +7738,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Wide view of a crowded sports stadium at night",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stadium-crowd-night",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V22",
@@ -7578,7 +7758,7 @@
      "page_url": "https://www.pexels.com/video/people-taking-the-list-of-donations-7100878/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V22.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7587,7 +7767,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Volunteers sort donation boxes of clothing",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-donation-boxes-volunteers",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-module9-S02-V23",
@@ -7598,7 +7787,7 @@
      "page_url": "https://pixabay.com/videos/id-125310/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V23.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "kids  game  smiles  fun  boy  girl  family  team  friendship  café",
      "query": "hospitality team work",
@@ -7607,7 +7796,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Two kids cheer and clap at a restaurant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-kids-cheer-restaurant",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-module9-S02-V24",
@@ -7618,7 +7816,7 @@
      "page_url": "https://www.pexels.com/video/a-footage-of-people-stacking-hands-7652718/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V24.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7627,7 +7825,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Hands high-five over laptops on a white desk",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pixabay-overhead-highfive-desk",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V25",
@@ -7638,7 +7845,7 @@
      "page_url": "https://pixabay.com/videos/id-150521/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V25.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "business  network  communication  digital  teamwork  marketing  collaboration  group  team  development  research",
      "query": "hospitality team work",
@@ -7647,7 +7854,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Abstract network of glowing lines and icons",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-network-graphic",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 31,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V26",
@@ -7658,7 +7874,7 @@
      "page_url": "https://www.pexels.com/video/people-gathering-in-a-counter-type-table-claps-each-other-hands-in-unison-3252777/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V26.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7667,7 +7883,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Office coworkers high-five around a wooden table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-highfive-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V27",
@@ -7678,7 +7903,7 @@
      "page_url": "https://pixabay.com/videos/id-42305/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V27.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "man  computer  work  pc  home  mac  windows  desk  clics  house  mouse  books  table  office  modern  at work  black  busy  working  email  screen  electronic",
      "query": "hospitality team work",
@@ -7687,7 +7912,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Man sits facing a desktop monitor and laptop at a desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-man-desk-monitors",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V28",
@@ -7698,7 +7932,7 @@
      "page_url": "https://www.pexels.com/video/people-working-together-7691629/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V28.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7707,7 +7941,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Coworkers gather around a laptop in an office",
+     "violation": "corporate office, business suits",
+     "shot": "",
+     "shoot": "pexels-coworkers-laptop-suits",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 32,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V29",
@@ -7736,7 +7979,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-with-their-hands-together-inside-a-conference-room-8519325/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V30.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7745,7 +7988,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Coworkers join hands across a conference table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-coworkers-handjoin-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 33,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V31",
@@ -7756,7 +8008,7 @@
      "page_url": "https://pixabay.com/videos/id-244242/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V31.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "elephants  elephant  herd  group  desert  nature  sand  sand dunes  africa  together  team",
      "query": "hospitality team work",
@@ -7765,7 +8017,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Elephants walk together across a desert landscape",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-elephants-desert",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 34,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V32",
@@ -7776,7 +8037,7 @@
      "page_url": "https://www.pexels.com/video/a-group-of-people-shaking-each-others-hand-in-a-business-meeting-3246280/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V32.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7785,7 +8046,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Coworkers high-five over a conference table",
+     "violation": "corporate office, business suits",
+     "shot": "",
+     "shoot": "pexels-coworkers-highfive-suits",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 35,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V33",
@@ -7796,7 +8066,7 @@
      "page_url": "https://pixabay.com/videos/id-43559/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V33.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "keyboard  laptop  computer  technology  work  typing  desk  student  workplace  working  work from home  home  office  internet  study  web  pc  notebook  keyboard typing  typing on keyboard  hands on laptop  hands on keyboard",
      "query": "hospitality team work",
@@ -7805,7 +8075,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Close-up of a hand typing on a laptop keyboard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hand-typing-keyboard",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V34",
@@ -7816,7 +8095,7 @@
      "page_url": "https://www.pexels.com/video/people-working-together-7792033/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V34.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7825,7 +8104,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Office coworkers fist bump around a desk with laptops",
+     "violation": "corporate office, business suits",
+     "shot": "",
+     "shoot": "pexels-office-fistbump-suits",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 36,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V35",
@@ -7836,7 +8124,7 @@
      "page_url": "https://pixabay.com/videos/id-52823/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V35.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V35.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "laptop  hands  programming  work  software  digital  web",
      "query": "hospitality team work",
@@ -7845,7 +8133,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V35.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Silhouetted hand types on a laptop beside a coffee cup",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-silhouette-laptop-coffee",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V36",
@@ -7856,7 +8153,7 @@
      "page_url": "https://www.pexels.com/video/a-surgeon-doing-a-operation-7584434/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V36.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V36.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7865,7 +8162,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V36.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Masked surgeons operate under bright lights",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-surgeons-masked-operating",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 37,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V37",
@@ -7876,7 +8182,7 @@
      "page_url": "https://pixabay.com/videos/id-215188/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V37.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V37.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "computer  programmer  developer  engineer  think  work  books  sunglasses",
      "query": "hospitality team work",
@@ -7885,7 +8191,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V37.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Man reads a book at his desk beside a laptop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-reading-desk",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V38",
@@ -7896,7 +8211,7 @@
      "page_url": "https://www.pexels.com/video/teammates-discussing-in-a-meeting-8125937/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V38.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7905,7 +8220,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "Coworkers review color swatches spread on a table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-coworkers-swatches-table",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V39",
@@ -7916,7 +8240,7 @@
      "page_url": "https://pixabay.com/videos/id-212196/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V39.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "men  farmers  agriculture  field  harvest  rice  asia  work  nature",
      "query": "hospitality team work",
@@ -7925,7 +8249,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Farmer gathers harvested rice stalks in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-farmer-rice-harvest",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V40",
@@ -7936,7 +8269,7 @@
      "page_url": "https://www.pexels.com/video/women-doing-a-hand-stack-while-in-a-huddle-7423638/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V40.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality team work",
@@ -7945,7 +8278,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Two people in business attire shake hands closeup",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pixabay-handshake-suits-closeup",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 38,
+     "shown": false
     },
     {
      "id": "belong-module9-S02-V41",
@@ -7956,7 +8298,7 @@
      "page_url": "https://pixabay.com/videos/id-710/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-module9-S02-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V41.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "board  write  man  memo  memory  chalk  meeting  meet  office  business  team",
      "query": "hospitality team work",
@@ -7965,7 +8307,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S02__strip__belong-module9-S02-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Hand writes meeting and a time on a chalkboard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chalkboard-meeting-text",
+     "judged_at": "2026-09-09T16:45:46Z",
+     "rank": 39,
+     "shown": false
     }
    ],
    "shots": [
@@ -8004,7 +8355,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T16:45:46Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:45:46Z"
   },
   {
    "id": "S04",
