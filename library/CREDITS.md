@@ -797,3 +797,33 @@
 | pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-standing-side-by-side-8486879/ |
 | pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/men-eating-break-warehouse-4296998/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/colleague-discussing-plans-for-the-construction-materials-6568705/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-tilling-machine-working-on-soil-36536107/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-tiller-plowing-garden-soil-36536097/ |
+| pixabay | coffee  espresso  coffee beans  beans  cup  datailaufnahme   | ThorstenF | Pixabay Content License | https://pixabay.com/videos/id-15483/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-painting-a-ceramic-tiles-6023116/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/soaps-in-bathroom-10574229/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-choosing-the-color-of-the-tiles-6567877/ |
+| pexels |  | Coverr | Pexels License | https://www.pexels.com/video/car-on-hazard-853817/ |
+| pixabay | man  parking lot  building  basement  sad  new york city  ma | josalem | Pixabay Content License | https://pixabay.com/videos/id-85428/ |
+| pixabay | man  parking lot  building  basement  sad  new york city  ma | josalem | Pixabay Content License | https://pixabay.com/videos/id-85429/ |
+| pexels |  | Frank Litschel | Pexels License | https://www.pexels.com/video/relaxed-siberian-husky-under-patio-table-39086742/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/boy-feeling-bored-indoors-8343357/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/girl-setting-food-and-drink-on-the-dining-table-7491578/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/view-of-a-carpenter-s-working-area-5214748/ |
+| pexels |  | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/different-kind-of-tools-kept-in-a-utility-room-3371267/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/house-apartment-home-clean-4109342/ |
+| pixabay | painting  painter  canvas  artist  paint  creative  brush  c | RTP_Photo | Pixabay Content License | https://pixabay.com/videos/id-72497/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-giving-instructions-6764458/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-painting-the-wall-6474258/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-holding-a-sign-5896095/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/men-doing-a-high-five-7464094/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-footage-of-a-broken-glass-window-6175379/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/loving-gay-couple-spending-leisure-time-4667911/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/planing-wood-by-hand-20663034/ |
+| pexels |  | Anna Shvets | Pexels License | https://www.pexels.com/video/man-cutting-the-wood-5759849/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-showing-the-interior-of-the-room-to-men-6567832/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-choosing-tiles-for-a-wall-renovation-8293011/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-talking-while-looking-at-a-wall-7816375/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/various-garden-tools-with-wooden-handles-8544303/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-putting-gardening-tools-on-white-table-8543833/ |
