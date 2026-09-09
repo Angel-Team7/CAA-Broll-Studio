@@ -36,5 +36,14 @@
   },
   "needs_broll": {
     "S06": "more contextual please someone with working with the land or a happy farmer in alentejo."
+  },
+  "topup_requests": {
+    "S06": {
+      "requested": "2026-09-09T06:00:15Z",
+      "note": "more contextual please someone with working with the land or a happy farmer in alentejo.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    }
   }
 }

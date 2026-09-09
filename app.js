@@ -141,14 +141,17 @@ function render() {
           <div class="scene-show"><span class="tag show">PICK FOOTAGE THAT SHOWS</span>
             <span class="show-txt">${esc(sc.visual_direction)}</span></div>
           ${sc.onscreen ? `<div class="scene-onscreen"><span class="tag os">ON-SCREEN TEXT</span> ${esc(sc.onscreen)}</div>` : ""}
-          ${flagged ? `<div class="reshoot-note">🔁 finding a different direction${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
-             <button class="linkbtn addreason" data-scene="${sc.id}">${state.reshoot[sc.id] ? "edit reason" : "+ add a reason"}</button></div>` : ""}
+          ${flagged ? `<div class="reshoot-note">🔁 ${dirStatus(sc.id)}${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
+             <button class="linkbtn addreason" data-scene="${sc.id}">${state.reshoot[sc.id] ? "edit reason" : "+ add a reason"}</button>
+             <button class="linkbtn clearflag" data-scene="${sc.id}">clear flag</button></div>` : ""}
         </div>
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
-          <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}">${flagged ? "🔁 Flagged" : "🔁 Direction is wrong"}</button>
-          <button class="topup ${sc.id in (state.topup||{}) ? "on" : ""}" data-scene="${sc.id}"
-            title="Queue another 10 fresh clips for this shot — excludes everything already shown">${sc.id in (state.topup||{}) ? "🔎 10 more queued" : "🔎 Need more"}</button>
+          <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}"
+            title="${flagged ? "Still not it — search again, steering away from everything shown" : "Not this kind of footage — search for a different direction"}">${
+            pendingReq(sc.id, "direction") ? "🔁 Searching…" : flagged ? "🔁 Still wrong — 10 more" : "🔁 Direction is wrong"}</button>
+          <button class="topup ${pendingReq(sc.id) ? "on" : ""}" data-scene="${sc.id}"
+            title="Queue another 10 fresh clips for this shot — excludes everything already shown">${pendingReq(sc.id) ? "🔎 10 more queued" : "🔎 Need more"}</button>
           <button class="addbroll" data-scene="${sc.id}" title="Upload a video or image — or drag &amp; drop files here">＋ Add B-roll</button>
           <div class="drophint">or drag &amp; drop files here</div>
         </div>
@@ -164,6 +167,8 @@ function render() {
     el.onclick = e => { e.stopPropagation(); addReason(el.dataset.scene); });
   wrap.querySelectorAll(".reshoot").forEach(el =>
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
+  wrap.querySelectorAll(".clearflag").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); clearFlag(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
     el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
   wrap.querySelectorAll(".topup").forEach(el =>
@@ -236,26 +241,56 @@ function toggle(el) {
 // become negatives) and toward the scene's direction. A note is optional and can
 // be added afterwards; it must never stand between the click and the fetch.
 async function toggleReshoot(sid) {
-  if (sid in state.reshoot) {
-    delete state.reshoot[sid];
-    if (state.topup && state.topup[sid] && state.topup[sid].reason === "direction")
-      delete state.topup[sid];
-    persistLocal(); render(); autosave();
-    toast(`${sid}: flag removed`);
-    return;
-  }
-  state.reshoot[sid] = "";                       // reason optional, added later
+  if (pendingReq(sid, "direction")) { toast(`${sid}: a different-direction search is already running`); return; }
+  if (!(sid in state.reshoot)) state.reshoot[sid] = "";   // reason optional, added later
   state.topup = state.topup || {};
-  state.topup[sid] = { requested: new Date().toISOString(), note: "",
+  state.topup[sid] = { requested: new Date().toISOString(), note: state.reshoot[sid] || "",
                        reason: "direction", avoid: poolSignature(sid), done: false };
   persistLocal(); render();
   if (gh && gh.token) {
     toast(`${sid}: finding a different direction…`);
-    try { await save(false); toast(`${sid}: 10 different options on the way`); }
+    try { await save(false, true); toast(`${sid}: 10 different options on the way (about 2 min)`); }
     catch (e) { toast(`${sid}: flagged, but saving failed — hit Save approvals`); }
   } else {
     toast(`${sid}: flagged — connect GitHub to send it`);
   }
+}
+
+function clearFlag(sid) {
+  delete state.reshoot[sid];
+  if (state.topup && state.topup[sid] && state.topup[sid].reason === "direction" && !state.topup[sid].done)
+    delete state.topup[sid];
+  persistLocal(); render(); autosave();
+  toast(`${sid}: flag removed`);
+}
+
+// 🔎 Need more — one click, one request, 10 fresh clips of the same kind.
+// A fulfilled request never blocks a new one; only a still-running one does.
+async function requestTopup(sid) {
+  if (pendingReq(sid)) { toast(`${sid}: 10 more are already on the way`); return; }
+  state.topup = state.topup || {};
+  state.topup[sid] = { requested: new Date().toISOString(), note: "", done: false };
+  persistLocal(); render();
+  if (gh && gh.token) {
+    try { await save(false, true); toast(`${sid}: 10 more on the way (about 2 min)`); }
+    catch (e) { toast(`${sid}: queued, but saving failed — hit Save approvals`); }
+  } else {
+    toast(`${sid}: queued — connect GitHub to send it`);
+  }
+}
+
+// Is a request for this scene still waiting for the bot? (optionally of one kind)
+function pendingReq(sid, reason) {
+  const r = state.topup && state.topup[sid];
+  if (!r || r.done) return false;
+  return reason ? r.reason === reason : r.reason !== "direction";
+}
+
+function dirStatus(sid) {
+  const r = state.topup && state.topup[sid];
+  if (r && r.reason === "direction" && !r.done) return "searching for a different direction (about 2 min)";
+  if (r && r.reason === "direction" && r.done) return `${r.added || 10} different options added ${(r.fulfilled || "").slice(0, 10)} — still wrong? click again`;
+  return "flagged as the wrong direction";
 }
 
 // What this pool is "about" right now, so the next search can avoid it.

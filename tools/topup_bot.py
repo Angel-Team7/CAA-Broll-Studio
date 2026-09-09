@@ -552,6 +552,7 @@ def main():
     if not pending:
         print("no pending top-up requests")
         return 0
+    pending.sort(key=lambda x: (json.load(open(x[0])).get("topup_requests", {}).get(x[2], {}) or {}).get("requested", ""))
     print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r, _a in pending]}")
 
     total = 0
@@ -572,6 +573,7 @@ def main():
     left = len(pending) - min(len(pending), MAX_SCENES_PER_RUN)
     if left:
         print(f"note: {left} more request(s) left for the next run (cap {MAX_SCENES_PER_RUN})")
+    print(f"LEFT={left}")
     print(f"TOTAL_ADDED={total}")
     return 0
 

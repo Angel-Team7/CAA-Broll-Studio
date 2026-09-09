@@ -66,5 +66,42 @@
     "S01": "please generate more i don't like any of these, delete these",
     "S04": "i dont like any of these please regeeratre moer and delete theese 7 more",
     "S06": "please 7 more and dellete these i dont like any of these"
+  },
+  "topup_requests": {
+    "S10": {
+      "requested": "2026-09-09T06:00:10Z",
+      "note": "5 more more contextual it's says learn ai - a coach anytime.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S13": {
+      "requested": "2026-09-09T06:00:11Z",
+      "note": "generate more contextual please.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S01": {
+      "requested": "2026-09-09T06:00:12Z",
+      "note": "please generate more i don't like any of these, delete these",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S04": {
+      "requested": "2026-09-09T06:00:13Z",
+      "note": "i dont like any of these please regeeratre moer and delete theese 7 more",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S06": {
+      "requested": "2026-09-09T06:00:14Z",
+      "note": "please 7 more and dellete these i dont like any of these",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    }
   }
 }

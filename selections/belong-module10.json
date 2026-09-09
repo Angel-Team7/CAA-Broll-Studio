@@ -37,5 +37,34 @@
     "S04": "10 more contexutal please explaing the situation",
     "S13": "10 more videos contexutal explaining the situations"
   },
-  "topup_requests": {}
+  "topup_requests": {
+    "S09": {
+      "requested": "2026-09-09T06:00:16Z",
+      "note": "10 more contexutal, read well the lines of the brolls please",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S03": {
+      "requested": "2026-09-09T06:00:17Z",
+      "note": "could you do 10 more, drought, water, alenteju plese",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S04": {
+      "requested": "2026-09-09T06:00:18Z",
+      "note": "10 more contexutal please explaing the situation",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S13": {
+      "requested": "2026-09-09T06:00:19Z",
+      "note": "10 more videos contexutal explaining the situations",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    }
+  }
 }

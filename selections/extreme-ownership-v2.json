@@ -56,5 +56,35 @@
     "S10": "generate. 10 more please",
     "S13": "more please 10 more contextual",
     "S07": "not there at all please delete these and complete give me new ones -- 7 more"
+  },
+  "topup_requests": {
+    "S05": {
+      "requested": "2026-09-09T06:00:33Z",
+      "note": "more please 10 more contextual",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S10": {
+      "requested": "2026-09-09T06:00:34Z",
+      "note": "generate. 10 more please",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S13": {
+      "requested": "2026-09-09T06:00:35Z",
+      "note": "more please 10 more contextual",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S07": {
+      "requested": "2026-09-09T06:00:36Z",
+      "note": "not there at all please delete these and complete give me new ones -- 7 more",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    }
   }
 }

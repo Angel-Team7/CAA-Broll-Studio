@@ -50,9 +50,9 @@
   },
   "topup_requests": {
     "S03": {
-      "requested": "2026-08-17T11:16:09.391Z",
+      "requested": "2026-09-09T06:00:08Z",
       "note": "",
-      "done": true
+      "done": false
     },
     "S02": {
       "requested": "2026-08-20T11:53:22.709Z",
@@ -69,32 +69,60 @@
       "added": 10
     },
     "S12": {
-      "requested": "2026-08-26T14:24:00.878Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-08-26T14:25:21Z",
-      "added": 10
+      "requested": "2026-09-09T06:00:07Z",
+      "note": "generates more contextual videos",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
     },
     "S09": {
-      "requested": "2026-08-26T14:53:33.919Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-08-26T14:56:08Z",
-      "added": 10
+      "requested": "2026-09-09T06:00:00Z",
+      "note": "these are not contexual for hospitality please generate 10 more",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
     },
     "S07": {
-      "requested": "2026-08-26T15:17:24.366Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-08-26T15:42:31Z",
-      "added": 10
+      "requested": "2026-09-09T06:00:01Z",
+      "note": "we need more contextual brolls for hospitality please generate 10 more.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
     },
     "S13": {
-      "requested": "2026-08-26T15:37:14.691Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-08-26T15:43:05Z",
-      "added": 10
+      "requested": "2026-09-09T06:00:06Z",
+      "note": "10 more contexutal in hospitality industry.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S10": {
+      "requested": "2026-09-09T06:00:02Z",
+      "note": "genereate 10 more pleaes these are not contexual at all for hospitality.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S04": {
+      "requested": "2026-09-09T06:00:03Z",
+      "note": "these brolls are not contextual at all please do 10 more hospitality industry.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S06": {
+      "requested": "2026-09-09T06:00:04Z",
+      "note": "10 more contexutal in hospitality industry.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
+    },
+    "S08": {
+      "requested": "2026-09-09T06:00:05Z",
+      "note": "10 more contexutal in hospitality industry.",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
     }
   }
 }
