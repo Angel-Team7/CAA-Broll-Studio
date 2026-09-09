@@ -262,3 +262,13 @@
 | pixabay | fabric  cutter  knives  cutting table  tool  work  man  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115789/ |
 | pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/women-working-at-the-office-8126002/ |
 | pixabay | woman  computer  laptop  typing  work  desk  business  marke | Natures_Embrace | Pixabay Content License | https://pixabay.com/videos/id-203260/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/coworkers-stacking-hands-8865708/ |
+| pixabay | work  office  people  write  office work  pencils  crayon | oybekostanov | Pixabay Content License | https://pixabay.com/videos/id-87592/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/group-doing-fist-bump-together-6339872/ |
+| pixabay | homework  girl  student  laptop  study  studying  notebook   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1028/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/people-sitting-at-the-table-7534728/ |
+| pixabay | teamwork  education  technology  work  office  business | DespiertaYa | Pixabay Content License | https://pixabay.com/videos/id-273922/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-is-doing-hand-gesture-in-unison-3248780/ |
+| pixabay | team  office  work  success  satisfaction  mission  manageme | imrannahid | Pixabay Content License | https://pixabay.com/videos/id-70345/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/group-of-people-doing-fist-bump-3245304/ |
+| pixabay | stadium  sports  running event  team challenge  dresden  sax | glorydays2012pro | Pixabay Content License | https://pixabay.com/videos/id-8140/ |
