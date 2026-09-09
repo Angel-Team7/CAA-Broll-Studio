@@ -20,14 +20,23 @@
      "page_url": "https://www.pexels.com/video/a-man-talking-to-his-coworkers-8865782/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V01.mp4",
-     "score": 12.53,
+     "score": 0.65,
      "categories": [
       "worker"
      ],
      "title": "video man talking his coworkers",
      "query": "guest speaking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man gestures while talking to seated coworkers in an office",
+     "violation": "business suits, corporate office",
+     "shot": "",
+     "shoot": "pexels-office-glassroom",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 53,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V02",
@@ -38,14 +47,23 @@
      "page_url": "https://www.pexels.com/video/a-woman-talking-to-a-coworker-at-a-meeting-6248634/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V02.mp4",
-     "score": 12.53,
+     "score": 0.65,
      "categories": [
       "worker"
      ],
      "title": "video woman talking coworker meeting",
      "query": "guest speaking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman presents to colleagues by a window in an office",
+     "violation": "business suits, corporate office",
+     "shot": "",
+     "shoot": "pexels-office-glassroom",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 54,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V03",
@@ -56,14 +74,23 @@
      "page_url": "https://www.pexels.com/video/a-woman-raising-her-hands-while-talking-to-the-speaker-8716592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V03.mp4",
-     "score": 11.93,
+     "score": 0.65,
      "categories": [
       "hands"
      ],
      "title": "video woman raising her hands while talking the speaker",
      "query": "guest speaking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a speaker with a microphone addresses seated coworkers wearing lanyards",
+     "violation": "corporate conference room",
+     "shot": "",
+     "shoot": "pexels-conference-speaker",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 55,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V04",
@@ -74,12 +101,21 @@
      "page_url": "https://www.pexels.com/video/a-group-of-people-listening-to-someone-talking-6952151/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V04.mp4",
-     "score": 11.24,
+     "score": 0.65,
      "categories": [],
      "title": "video group people listening someone talking",
      "query": "listening attentively conversation",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in a suit looks aside in a boardroom",
+     "violation": "business suits, corporate office",
+     "shot": "",
+     "shoot": "pexels-office-glassroom",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 56,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V05",
@@ -90,7 +126,7 @@
      "page_url": "https://pixabay.com/videos/id-292827/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V05.mp4",
-     "score": 9.81,
+     "score": 0.0,
      "categories": [
       "landscape",
       "outdoor"
@@ -98,7 +134,16 @@
      "title": "moraine lake  banff national park  canada nature  mountain lake  turquoise water  alpine scenery  canadian rockies  trav",
      "query": "handshake resolution",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a turquoise mountain lake reflects clouds and forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-nature-lake",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 64,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V06",
@@ -109,14 +154,23 @@
      "page_url": "https://pixabay.com/videos/id-32473/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V06.mp4",
-     "score": 9.81,
+     "score": 0.35,
      "categories": [
       "farm"
      ],
      "title": "chicken  rooster  bird  hen  livestock  high resolution  animal  country  farm  full hd  60 fps  vietnam  cute",
      "query": "handshake resolution",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a chicken rests on dirt ground",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chicken",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 61,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V07",
@@ -127,14 +181,23 @@
      "page_url": "https://pixabay.com/videos/id-32471/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V07.mp4",
-     "score": 9.81,
+     "score": 0.35,
      "categories": [
       "farm"
      ],
      "title": "chicken  hen  full hd  60 fps  animal  livestock  high resolution  agriculture  advertisement  farm  rooster  chicks  ea",
      "query": "handshake resolution",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a rooster crows while perched on a wooden post",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chicken",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 62,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V11",
@@ -145,12 +208,21 @@
      "page_url": "https://www.pexels.com/video/a-client-signing-a-registration-form-7820463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V11.mp4",
-     "score": 12.62,
+     "score": 2.6,
      "categories": [],
      "title": "video client signing registration form",
      "query": "hotel front desk guest conversation",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked guest signs a form at a hotel reception desk",
+     "violation": "face masks",
+     "shot": "C",
+     "shoot": "pexels-reception-masked",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V15",
@@ -161,12 +233,21 @@
      "page_url": "https://www.pexels.com/video/bellboy-walking-behind-two-women-6474637/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V15.mp4",
-     "score": 12.55,
+     "score": 0.65,
      "categories": [],
      "title": "video bellboy walking behind two women",
      "query": "hotel guest talking to concierge",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a bellboy pushes a luggage cart through a chandeliered hotel lobby",
+     "violation": "luxury hotel lobby",
+     "shot": "",
+     "shoot": "pexels-luxury-lobby",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 57,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V20",
@@ -177,14 +258,23 @@
      "page_url": "https://pixabay.com/videos/id-122504/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V20.mp4",
-     "score": 10.35,
+     "score": 1.35,
      "categories": [
       "kitchen"
      ],
      "title": "coffee  morning  caffeine  barista  bar  to prepare  fresh  healthy  diet  glass  cappuccino  cup  espresso  cafe  kitch",
      "query": "barista talking with customer cafe counter",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a bartender pours a dark drink into a glass",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-bar-pour",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 39,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-V21",
@@ -195,12 +285,21 @@
      "page_url": "https://pixabay.com/videos/id-202135/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-m9-S03-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-m9-S03-V21.mp4",
-     "score": 10.14,
+     "score": 1.3,
      "categories": [],
      "title": "boss  employee  talking  angry  argument",
      "query": "hotel guest talking to concierge",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-m9-S03-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man stands over a seated woman gesturing during a tense exchange",
+     "violation": "angry confrontation, office setting",
+     "shot": "",
+     "shoot": "pixabay-office-argument",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 45,
+     "shown": false
     },
     {
      "id": "belong-m9-S03-I01",
@@ -362,7 +461,7 @@
      "page_url": "https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V01.mp4",
-     "score": 0,
+     "score": 3.9,
      "categories": [
       "host",
       "man"
@@ -374,7 +473,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a masked guest speaks with a receptionist across a hotel counter",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-reception-masked",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V23",
@@ -385,7 +493,7 @@
      "page_url": "https://pixabay.com/videos/id-75999/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "host",
       "team"
@@ -397,7 +505,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two silhouette figures face each other and talk",
+     "violation": "",
+     "shot": "",
+     "shoot": "motion-graphic-silhouette",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 65,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V24",
@@ -408,7 +525,7 @@
      "page_url": "https://pixabay.com/videos/id-92662/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V06.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "host",
       "woman"
@@ -420,7 +537,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a cartoon woman in a pink blouse gestures on a green screen",
+     "violation": "cartoon, green screen",
+     "shot": "",
+     "shoot": "cartoon-greenscreen",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 66,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V26",
@@ -431,7 +557,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-working-at-a-call-center-8865784/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V26.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -440,7 +566,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two headset-wearing call center workers review papers at desks",
+     "violation": "stock customer service call centre",
+     "shot": "",
+     "shoot": "pexels-callcenter",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 58,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V27",
@@ -451,7 +586,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-discussing-in-a-meeting-8632479/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V27.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -460,7 +595,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman with a clipboard speaks to seated listeners by a window",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-support-group",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V28",
@@ -471,7 +615,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-to-the-hotel-receptionist-7820473/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V28.mp4",
-     "score": 0,
+     "score": 4.55,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -480,7 +624,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "a masked receptionist in a red blazer greets a guest at the counter",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-reception-masked",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V29",
@@ -491,7 +644,7 @@
      "page_url": "https://www.pexels.com/video/friends-at-a-hotel-lobby-7821418/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V29.mp4",
-     "score": 0,
+     "score": 3.9,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -500,7 +653,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a masked waiter presents a menu to seated masked guests at a table",
+     "violation": "face masks",
+     "shot": "B",
+     "shoot": "pexels-restaurant-masked",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V30",
@@ -511,7 +673,7 @@
      "page_url": "https://www.pexels.com/video/professional-meeting-in-modern-office-setting-38493701/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V30.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -520,7 +682,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two people sit at a table near a laptop",
+     "violation": "",
+     "shot": "",
+     "shoot": "misc-office-blur",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 51,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V31",
@@ -531,7 +702,7 @@
      "page_url": "https://www.pexels.com/video/people-talking-at-a-seminar-8716867/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V31.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "worker guest speaking staff",
@@ -540,7 +711,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "three people talk near a catering table at an event",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-event-mingle",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 52,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V32",
@@ -551,7 +731,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-feeling-happy-with-her-birthday-present-5529565/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V32.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -560,7 +740,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two women exchange a wrapped gift in front of leaf wallpaper",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "pexels-gift-exchange",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 67,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V33",
@@ -571,7 +760,7 @@
      "page_url": "https://pixabay.com/videos/id-1360/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V33.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "social media  smart phone  mobile  internet  technology  media  business  network  communication  social  social media icons  telephone  screen  social media icons vector  phone  people  social media business  global  social media background  wireless  design  connection  social media people  web  smart  icon  set  group  symbol  information  messaging  social media icon set  email",
      "query": "hotel staff complaint gift information",
@@ -580,7 +769,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand taps a phone screen with social media icons overlaid",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-socialmedia-overlay",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 68,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V34",
@@ -591,7 +789,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-greeting-friends-at-a-restaurant-9783042/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V34.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -600,7 +798,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two people embrace holding balloons and a wrapped gift in a restaurant",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "pexels-gift-celebration",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 69,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V35",
@@ -611,7 +818,7 @@
      "page_url": "https://pixabay.com/videos/id-245353/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V35.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V35.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "girl  woman  child  teenager  teen  young  christmas  santa  xmas  gift  present  box  surprise  holiday  season  celebration  smile  3d  fun",
      "query": "complaint gift information guest",
@@ -620,7 +827,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V35.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a cartoon girl in a santa hat carries a wrapped gift",
+     "violation": "christmas, gift boxes, cartoon",
+     "shot": "",
+     "shoot": "cartoon-christmas",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 70,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V36",
@@ -631,7 +847,7 @@
      "page_url": "https://www.pexels.com/video/brown-gift-boxes-on-the-table-5900584/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V36.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V36.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -640,7 +856,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V36.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "three people gather around a small gift box at a table",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "pexels-gift-exchange",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 71,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V37",
@@ -651,7 +876,7 @@
      "page_url": "https://pixabay.com/videos/id-26774/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V37.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V37.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "livestreaming  instagram  facebook  twitter  communication  internet  smartphone  media  blog  social  web  information  live stream  iphone  broadcast  broadcasting  youtube  people  network  www  dice",
      "query": "complaint gift information guest",
@@ -660,7 +885,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V37.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "dice tumble and scatter on a black surface",
+     "violation": "dice or game imagery",
+     "shot": "",
+     "shoot": "stock-dice",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 72,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V38",
@@ -671,7 +905,7 @@
      "page_url": "https://www.pexels.com/video/woman-celebrating-birthday-4920224/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V38.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -680,7 +914,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand reaches for a red heart-patterned wrapped gift",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "stock-giftbox-hearts",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 73,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V39",
@@ -691,7 +934,7 @@
      "page_url": "https://pixabay.com/videos/id-67858/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V39.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "dice  points  roll the dice  to play  toy  random  number  random number  hobby  win  risk  chance  board game  happiness  gambling  block  geometric  body  rectangular  side surface  team  pixworm  participate",
      "query": "second chance guest",
@@ -700,7 +943,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a close-up of a blurred laptop keyboard",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-keyboard-blur",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 74,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V40",
@@ -711,7 +963,7 @@
      "page_url": "https://www.pexels.com/video/high-angle-shot-of-gift-boxes-6477739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V40.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -720,7 +972,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "red heart-patterned wrapped gift boxes lie on a table",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "stock-giftbox-hearts",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 75,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V41",
@@ -731,7 +992,7 @@
      "page_url": "https://pixabay.com/videos/id-1048/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V41.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "keyboard  button  press  push  keypress  keys  computer  hand  finger  key  pc  click  selective  technology  communication  network  service  information",
      "query": "guesthouse host complaint gift information",
@@ -740,7 +1001,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "close-up of blurred metal comb teeth",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-macro-blur",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 76,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V42",
@@ -751,7 +1021,7 @@
      "page_url": "https://www.pexels.com/video/person-tying-a-ribbon-5765674/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V42.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V42.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -760,7 +1030,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V42.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands tie a ribbon around a wrapped gift near pine branches",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "stock-giftwrap-pine",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 77,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V43",
@@ -771,7 +1050,7 @@
      "page_url": "https://pixabay.com/videos/id-113229/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V43.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V43.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "timer  clock  calander  green  screen  second  minute  hour  hands",
      "query": "hotel staff second chance",
@@ -780,7 +1059,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V43.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a countdown timer graphic counts down on a black screen",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-timer-graphic",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 78,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V44",
@@ -791,7 +1079,7 @@
      "page_url": "https://www.pexels.com/video/busy-people-at-the-office-7655488/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V44.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V44.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -800,7 +1088,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V44.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two people hand each other a cardboard gift box indoors",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "pexels-gift-exchange",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 79,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V45",
@@ -811,7 +1108,7 @@
      "page_url": "https://pixabay.com/videos/id-133446/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V45.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V45.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "clock  hour  time  seconds  minutes  clockwise  rotating  brick wall  clock on the wall",
      "query": "second chance guest",
@@ -820,7 +1117,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V45.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a vintage bottle-cap clock hangs on a brick wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-clock-brick",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 63,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V46",
@@ -831,7 +1137,7 @@
      "page_url": "https://www.pexels.com/video/flatlay-holidays-package-5765896/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V46.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V46.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -840,7 +1146,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V46.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands hold a wrapped gift tagged merry merry near pine branches",
+     "violation": "christmas, gift boxes",
+     "shot": "",
+     "shoot": "stock-giftwrap-pine",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 80,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V47",
@@ -851,7 +1166,7 @@
      "page_url": "https://pixabay.com/videos/id-4731/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V47.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V47.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "laptop  computer  keyboard  typing  opening  lid  technology  business  internet  work  keypad  pc  button  online  notebook  modern  office  education  screen  communication  hand  student  information  learning  digital  portable",
      "query": "hotel staff complaint gift information",
@@ -860,7 +1175,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V47.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "close-up hands type on a laptop keyboard in black and white",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-keyboard-bw",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 81,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V48",
@@ -889,7 +1213,7 @@
      "page_url": "https://pixabay.com/videos/id-2988/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V49.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V49.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "ipad  imac  tablet  desktop  iphone  monitor  computer  display  mobile  network  technology  banking  paying  payment  people  retail  system  transaction  business  app  hand  buy  electronics  high-definition  industry  movie  search  analytics  youtube  office space  small business  ecommerce  e-learning  online shopping  information  data  digital marketing",
      "query": "complaint gift information guest",
@@ -898,7 +1222,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V49.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand reaches toward a keyboard on an office desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "misc-office-blur",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 82,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V50",
@@ -909,7 +1242,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-holding-a-gift-7583214/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V50.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V50.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff complaint gift information",
@@ -918,7 +1251,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V50.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman opens a patterned wrapped gift box",
+     "violation": "gift boxes",
+     "shot": "",
+     "shoot": "pexels-gift-open",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 83,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V51",
@@ -929,7 +1271,7 @@
      "page_url": "https://pixabay.com/videos/id-2967/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__thumb__belong-module9-S03-V51.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S03__preview__belong-module9-S03-V51.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "iphone  computer  mouse click  computing  online  communication  hand  device  mouse  click  internet  computer mouse  technology  business  office  work  job  finger  net  connection  information  tech  pushing  button  pointer  scroll  input  pc  web  white  electronic  keyboard  equipment  data  working",
      "query": "complaint gift information guest",
@@ -938,7 +1280,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S03__strip__belong-module9-S03-V51.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand clicks a computer mouse on a desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-mouse-click",
+     "judged_at": "2026-09-09T16:25:27Z",
+     "rank": 84,
+     "shown": false
     },
     {
      "id": "belong-module9-S03-V52",
@@ -968,7 +1319,7 @@
      "shoot": "pexels-realtor-suburbanhouse",
      "score": 3.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 11
+     "rank": 14
     },
     {
      "id": "belong-module9-S03-V53",
@@ -998,7 +1349,7 @@
      "shoot": "pexels-office-teal",
      "score": 1.95,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 25
+     "rank": 30
     },
     {
      "id": "belong-module9-S03-V54",
@@ -1028,7 +1379,7 @@
      "shoot": "pexels-office-startup",
      "score": 1.95,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 26
+     "rank": 31
     },
     {
      "id": "belong-module9-S03-V55",
@@ -1058,7 +1409,7 @@
      "shoot": "pexels-realtor-suburbanhouse",
      "score": 3.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 12
+     "rank": 15
     },
     {
      "id": "belong-module9-S03-V56",
@@ -1088,7 +1439,7 @@
      "shoot": "pexels-street-corporate",
      "score": 2.3,
      "judged_at": "2026-09-09T15:09:50Z",
-     "rank": 22
+     "rank": 26
     },
     {
      "id": "belong-module9-S03-V59",
@@ -1118,7 +1469,7 @@
      "shoot": "pexels-office-handshake-lawyer",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 39
+     "rank": 46
     },
     {
      "id": "belong-module9-S03-V60",
@@ -1148,7 +1499,7 @@
      "shoot": "pexels-formal-event-handshake",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 40
+     "rank": 47
     },
     {
      "id": "belong-module9-S03-V61",
@@ -1178,7 +1529,7 @@
      "shoot": "pexels-hotel-lobby-masks",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 27
+     "rank": 32
     },
     {
      "id": "belong-module9-S03-V62",
@@ -1208,7 +1559,7 @@
      "shoot": "pexels-office-handshake-women",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 41
+     "rank": 48
     },
     {
      "id": "belong-module9-S03-V63",
@@ -1238,7 +1589,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 28
+     "rank": 33
     },
     {
      "id": "belong-module9-S03-V64",
@@ -1268,7 +1619,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 29
+     "rank": 34
     },
     {
      "id": "belong-module9-S03-V65",
@@ -1298,7 +1649,7 @@
      "shoot": "pexels-finedining-wine-presentation",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 14
+     "rank": 17
     },
     {
      "id": "belong-module9-S03-V66",
@@ -1358,7 +1709,7 @@
      "shoot": "pexels-office-notebook-desk",
      "score": 3.65,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 10
+     "rank": 13
     },
     {
      "id": "belong-module9-S03-V68",
@@ -1388,7 +1739,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 30
+     "rank": 35
     },
     {
      "id": "belong-module9-S03-V69",
@@ -1418,7 +1769,7 @@
      "shoot": "pexels-finedining-wine-presentation",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 15
+     "rank": 18
     },
     {
      "id": "belong-module9-S03-V70",
@@ -1448,7 +1799,7 @@
      "shoot": "pexels-reception-red-blazer-mask",
      "score": 1.3,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 42
+     "rank": 49
     },
     {
      "id": "belong-module9-S03-V71",
@@ -1478,7 +1829,7 @@
      "shoot": "pixabay-diary-teddybear",
      "score": 3.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 16
+     "rank": 19
     },
     {
      "id": "belong-module9-S03-V72",
@@ -1538,7 +1889,7 @@
      "shoot": "pixabay-laptop-keyboard-notebooks",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 34
+     "rank": 40
     },
     {
      "id": "belong-module9-S03-V74",
@@ -1568,7 +1919,7 @@
      "shoot": "pixabay-laptop-keyboard-closeup",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 35
+     "rank": 41
     },
     {
      "id": "belong-module9-S03-V75",
@@ -1598,7 +1949,7 @@
      "shoot": "pixabay-laptop-keyboard-green",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 36
+     "rank": 42
     },
     {
      "id": "belong-module9-S03-V76",
@@ -1628,7 +1979,7 @@
      "shoot": "pixabay-pencil-paper-closeup",
      "score": 4.0,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 9
+     "rank": 10
     },
     {
      "id": "belong-module9-S03-V77",
@@ -1658,7 +2009,7 @@
      "shoot": "pixabay-laptop-keyboard-overhead",
      "score": 1.35,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 37
+     "rank": 43
     },
     {
      "id": "belong-module9-S03-V78",
@@ -1688,7 +2039,7 @@
      "shoot": "pixabay-wheatfield-dress",
      "score": 2.4,
      "judged_at": "2026-09-09T15:57:20Z",
-     "rank": 20
+     "rank": 24
     },
     {
      "id": "belong-module9-S03-V79",
@@ -1718,7 +2069,7 @@
      "shoot": "pexels-corporate-reception-desk",
      "score": 3.3,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 13
+     "rank": 16
     },
     {
      "id": "belong-module9-S03-V80",
@@ -1748,7 +2099,7 @@
      "shoot": "pexels-man-talking-indoors",
      "score": 2.7,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 18
+     "rank": 21
     },
     {
      "id": "belong-module9-S03-V81",
@@ -1778,7 +2129,7 @@
      "shoot": "pexels-spa-reception-tablet",
      "score": 4.3,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 7
+     "rank": 8
     },
     {
      "id": "belong-module9-S03-V82",
@@ -1808,7 +2159,7 @@
      "shoot": "pexels-boutique-mask-entry",
      "score": 0.65,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 44
+     "rank": 59
     },
     {
      "id": "belong-module9-S03-V83",
@@ -1838,7 +2189,7 @@
      "shoot": "pexels-hotel-lobby-card-payment",
      "score": 3.0,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 17
+     "rank": 20
     },
     {
      "id": "belong-module9-S03-V84",
@@ -1868,7 +2219,7 @@
      "shoot": "pexels-dental-clinic-reception",
      "score": 0.0,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 46
+     "rank": 85
     },
     {
      "id": "belong-module9-S03-V85",
@@ -1898,7 +2249,7 @@
      "shoot": "pexels-glass-office-signing",
      "score": 1.65,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 33
+     "rank": 38
     },
     {
      "id": "belong-module9-S03-V86",
@@ -1928,7 +2279,7 @@
      "shoot": "pexels-luxury-hotel-lobby-masks",
      "score": 1.3,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 43
+     "rank": 50
     },
     {
      "id": "belong-module9-S03-V87",
@@ -2018,7 +2369,7 @@
      "shoot": "pexels-consultation-product-bottle",
      "score": 1.35,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 38
+     "rank": 44
     },
     {
      "id": "belong-module9-S03-V90",
@@ -2078,7 +2429,7 @@
      "shoot": "pexels-finedining-waiter-serving",
      "score": 4.3,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 8
+     "rank": 9
     },
     {
      "id": "belong-module9-S03-V92",
@@ -2108,7 +2459,7 @@
      "shoot": "pexels-finedining-waiter-mask",
      "score": 1.95,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 31
+     "rank": 36
     },
     {
      "id": "belong-module9-S03-V93",
@@ -2168,7 +2519,7 @@
      "shoot": "pixabay-sketch-laptop-desk",
      "score": 2.7,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 19
+     "rank": 22
     },
     {
      "id": "belong-module9-S03-V95",
@@ -2198,7 +2549,7 @@
      "shoot": "pixabay-craft-sketch-pencils",
      "score": 2.05,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 23
+     "rank": 27
     },
     {
      "id": "belong-module9-S03-V96",
@@ -2228,7 +2579,7 @@
      "shoot": "pixabay-foosball-table",
      "score": 0.0,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 47
+     "rank": 86
     },
     {
      "id": "belong-module9-S03-V97",
@@ -2258,7 +2609,7 @@
      "shoot": "pixabay-bartender-pouring-beer",
      "score": 2.05,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 24
+     "rank": 28
     },
     {
      "id": "belong-module9-S03-V98",
@@ -2288,7 +2639,7 @@
      "shoot": "pixabay-overhead-mezze-spread",
      "score": 2.4,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 21
+     "rank": 25
     },
     {
      "id": "belong-module9-S03-V99",
@@ -2318,7 +2669,7 @@
      "shoot": "pixabay-book-beach-sunset",
      "score": 0.65,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 45
+     "rank": 60
     },
     {
      "id": "belong-module9-S03-V100",
@@ -2348,7 +2699,7 @@
      "shoot": "pixabay-bank-forms-pen",
      "score": 1.7,
      "judged_at": "2026-09-09T16:04:41Z",
-     "rank": 32
+     "rank": 37
     }
    ],
    "shots": [
@@ -2390,7 +2741,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "judged_at": "2026-09-09T16:04:41Z"
+   "judged_at": "2026-09-09T16:25:27Z"
   },
   {
    "id": "S12",
@@ -2412,12 +2763,21 @@
      "page_url": "https://www.pexels.com/video/business-professional-reviewing-documents-at-desk-36903772/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V01.mp4",
-     "score": 10.67,
+     "score": 0.65,
      "categories": [],
      "title": "video business professional reviewing documents desk",
      "query": "reading phone reviews",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "hands review printed documents at a stacked office desk",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-docs",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-m9-S12-V02",
@@ -2428,12 +2788,21 @@
      "page_url": "https://www.pexels.com/video/a-person-typing-using-typewritter-7969838/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V02.mp4",
-     "score": 10.67,
+     "score": 4.35,
      "categories": [],
      "title": "video person typing using typewritter",
      "query": "writing response desk",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands type on a vintage green typewriter on a wooden desk",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-typewriter",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V03",
@@ -2444,14 +2813,23 @@
      "page_url": "https://www.pexels.com/video/people-putting-papers-on-table-13892563/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V03.mp4",
-     "score": 10.04,
+     "score": 2.35,
      "categories": [
       "table"
      ],
      "title": "video people putting papers table",
      "query": "person reviewing feedback",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand arranges paper cards across a wooden table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cards-table",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V04",
@@ -2462,14 +2840,23 @@
      "page_url": "https://www.pexels.com/video/close-up-of-energy-bill-review-with-hands-35402332/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V04.mp4",
-     "score": 10.04,
+     "score": 1.65,
      "categories": [
       "hands"
      ],
      "title": "video close energy bill review with hands",
      "query": "person reviewing feedback",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "hands review a printed bill with blue highlighter marks",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-billreview",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S12-V05",
@@ -2480,14 +2867,23 @@
      "page_url": "https://pixabay.com/videos/id-202987/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V05.mp4",
-     "score": 9.36,
+     "score": 3.35,
      "categories": [
       "table"
      ],
      "title": "phone  smartphone  mobile  portable  screen  digital  communication  texting  business  work",
      "query": "reading phone reviews",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands hold a phone at a dim wooden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-phone-dark",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V06",
@@ -2498,14 +2894,23 @@
      "page_url": "https://pixabay.com/videos/id-27230/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V06.mp4",
-     "score": 9.36,
+     "score": 1.05,
      "categories": [
       "table"
      ],
      "title": "coffee  cup  morning  breakfast  reading  book  bible  cafe  caffeine  food  espresso  table  relax  study  mug  drink  ",
      "query": "reading phone reviews",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a green teacup rests on an open book outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-teacup-book",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m9-S12-V07",
@@ -2516,14 +2921,23 @@
      "page_url": "https://pixabay.com/videos/id-3171/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V07.mp4",
-     "score": 9.36,
+     "score": 2.05,
      "categories": [
       "outdoor"
      ],
      "title": "walking  sneakers  nike  shoes  walk  path  outdoors  lifestyle  young  boy  legs  foot  jeans  adult  summer  style  fe",
      "query": "person reviewing feedback",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "sneakers walk along a gravel path through an orchard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-orchard-walk",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m9-S12-V10",
@@ -2534,14 +2948,23 @@
      "page_url": "https://www.pexels.com/video/woman-checking-her-mobile-phone-while-working-6395960/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V10.mp4",
-     "score": 13.7,
+     "score": 1.3,
      "categories": [
       "working"
      ],
      "title": "video woman checking her mobile phone while working",
      "query": "hotel front desk computer work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a woman checks her phone at a desk beside a christmas tree",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-christmas",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m9-S12-V11",
@@ -2552,14 +2975,23 @@
      "page_url": "https://www.pexels.com/video/person-typing-on-digital-tablet-6201671/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V11.mp4",
-     "score": 13.36,
+     "score": 7.0,
      "categories": [
       "table"
      ],
      "title": "video person typing digital tablet",
      "query": "small business owner reading tablet cafe",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "an apron-clad host holds a tablet at a wooden counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-apron-tablet",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V12",
@@ -2570,7 +3002,7 @@
      "page_url": "https://pixabay.com/videos/id-130645/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V12.mp4",
-     "score": 12.89,
+     "score": 6.0,
      "categories": [
       "table",
       "working"
@@ -2578,7 +3010,16 @@
      "title": "woman  model  notebook  book  creator  desk  businesswoman  young  writing  working  paper  lifestyle  laptop  computer ",
      "query": "hotel manager typing laptop desk",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman reads a paper with a serious expression by a curtain",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-woman-reading-serious",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V16",
@@ -2589,12 +3030,21 @@
      "page_url": "https://www.pexels.com/video/woman-at-the-counter-4524439/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V16.mp4",
-     "score": 11.59,
+     "score": 4.0,
      "categories": [],
      "title": "video woman the counter",
      "query": "restaurant owner checking tablet",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman taps a touchscreen kiosk displaying a photo grid",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-kiosk-touchscreen",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-V18",
@@ -2621,12 +3071,21 @@
      "page_url": "https://www.pexels.com/video/woman-using-a-coffee-machine-8430964/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-m9-S12-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-m9-S12-V19.mp4",
-     "score": 11.59,
+     "score": 2.4,
      "categories": [],
      "title": "video woman using coffee machine",
      "query": "barista using tablet coffee shop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-m9-S12-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a barista prepares espresso at a counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-barista-espresso",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S12-I01",
@@ -2753,7 +3212,7 @@
      "page_url": "https://www.pexels.com/video/colleague-talking-to-each-other-8731468/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__edenrise-c2-winning-beliefs-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__edenrise-c2-winning-beliefs-S04-V01.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [
       "worker",
       "team"
@@ -2765,7 +3224,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two men in suits talk while reading papers",
+     "violation": "business suits, corporate office",
+     "shot": "",
+     "shoot": "pexels-suits-papers",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V21",
@@ -2776,7 +3244,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-working-together-8847932/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__edenrise-gratitude-S14-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__edenrise-gratitude-S14-V02.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [
       "team"
      ],
@@ -2787,7 +3255,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues in suits pass papers around a boardroom table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-boardroom-papers",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V22",
@@ -2798,7 +3275,7 @@
      "page_url": "https://www.pexels.com/video/group-of-people-reading-documents-together-8731453/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__edenrise-gratitude-S14-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__edenrise-gratitude-S14-V04.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [
       "team"
      ],
@@ -2809,7 +3286,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "people in blazers examine papers in a hallway",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-blazers-hallway",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V23",
@@ -2820,7 +3306,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-discussing-a-document-to-her-colleagues-8298179/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__edenrise-gratitude-S14-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__edenrise-gratitude-S14-V03.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [
       "team",
       "woman",
@@ -2833,7 +3319,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "office workers read documents together near brick pillars",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-read-together",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V25",
@@ -2844,7 +3339,7 @@
      "page_url": "https://pixabay.com/videos/id-142641/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V25.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "man  phone  smartphone  mobile",
      "query": "worker reading phone reviews",
@@ -2853,7 +3348,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a hand holds a phone outside a glass building",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-phone-glassbuilding",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V27",
@@ -2864,7 +3368,7 @@
      "page_url": "https://pixabay.com/videos/id-6590/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V27.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "guy  phone  city  street  mobile phone  wait  italy",
      "query": "worker reading phone reviews",
@@ -2873,7 +3377,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man checks his phone while walking a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-phone-citywalk",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V29",
@@ -2884,7 +3397,7 @@
      "page_url": "https://pixabay.com/videos/id-277042/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V29.mp4",
-     "score": 0,
+     "score": 3.4,
      "categories": [],
      "title": "spring  book  lilac  garden  literature  education  reading  wisdom  story  study  relax  romantic  paper  novel  nature  comfort  write  writing  writer  author  inspiration  silence  idea  creativity  poetry",
      "query": "worker reading phone reviews",
@@ -2893,7 +3406,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "an open book sits on an outdoor table beside lilac flowers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-book-garden",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-module9-S12-V31",
@@ -2904,7 +3426,7 @@
      "page_url": "https://pixabay.com/videos/id-12897/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V31.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "school  student  studies  to read  book  young woman  cabinet  think",
      "query": "worker Reviews read harsh",
@@ -2913,7 +3435,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a girl reads a book at an ornate antique desk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-library-antique",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V33",
@@ -2924,7 +3455,7 @@
      "page_url": "https://pixabay.com/videos/id-139802/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V33.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "man  student  library  books  shelves  study  read",
      "query": "worker Reviews read harsh",
@@ -2933,7 +3464,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a young man reads at a wooden table lined with bookshelves",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-reading-bookshelf",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-module9-S12-V35",
@@ -2944,7 +3484,7 @@
      "page_url": "https://pixabay.com/videos/id-18398/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V35.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V35.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "board  chalk  feedback  review  study  school  university  training  education  blackboard  smiley  job  business  work  positive  negative  social  communication  office  planning  development",
      "query": "worker Reviews read harsh",
@@ -2953,7 +3493,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V35.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a chalkboard graphic displays a loading review with smiley faces",
+     "violation": "",
+     "shot": "",
+     "shoot": "graphic-chalkboard-feedback",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V37",
@@ -2964,7 +3513,7 @@
      "page_url": "https://pixabay.com/videos/id-139804/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V37.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V37.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "man  student  library  books  shelves  study  read",
      "query": "worker Reviews read harsh",
@@ -2973,7 +3522,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V37.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a young man reads at a wooden table lined with bookshelves",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-reading-bookshelf",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-module9-S12-V38",
@@ -2984,7 +3542,7 @@
      "page_url": "https://www.pexels.com/video/man-in-black-suit-standing-in-the-hallway-7599311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V38.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Reviews read harsh",
@@ -2993,7 +3551,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a woman in sunglasses holds a folder in a cafe",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-sunglasses-folder",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V39",
@@ -3004,7 +3571,7 @@
      "page_url": "https://pixabay.com/videos/id-18439/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V39.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "board  chalk  smiley  pleasure  positive  study  school  training  to learn  classroom  blackboard  vision  happy  team  teamwork  feedback  review  business  marketing  success  solution  motivation  successful  presentation",
      "query": "hotel staff Reviews read harsh",
@@ -3013,7 +3580,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "sparks fly as a welder works on metal",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-welding",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V40",
@@ -3024,7 +3600,7 @@
      "page_url": "https://www.pexels.com/video/not-average-6353275/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V40.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Reviews read harsh",
@@ -3033,7 +3609,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "the text not average appears over a maroon background",
+     "violation": "",
+     "shot": "",
+     "shoot": "graphic-text-overlay",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V41",
@@ -3044,7 +3629,7 @@
      "page_url": "https://pixabay.com/videos/id-1190/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V41.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "restaurant  hotel  dinner  design  decorative  elegant  luxury  gourmet  eating  delicious  resort  dining  dessert  tasty",
      "query": "hotel staff Reviews read harsh",
@@ -3053,7 +3638,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an elegant restaurant is set with wine glasses and orange chairs",
+     "violation": "luxury restaurant styling",
+     "shot": "",
+     "shoot": "pixabay-luxury-restaurant",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V42",
@@ -3064,7 +3658,7 @@
      "page_url": "https://www.pexels.com/video/daily-life-in-an-indian-metro-city-street-34430090/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V42.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V42.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Reviews read harsh",
@@ -3073,7 +3667,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V42.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "buses and shops line a busy city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-citystreet",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V43",
@@ -3084,7 +3687,7 @@
      "page_url": "https://pixabay.com/videos/id-138/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V43.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V43.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "book  pages  slideshow  browse  scroll  read  look  pictures  picture book  sitting  man  boy  jeans  casual",
      "query": "hotel staff Reviews read harsh",
@@ -3093,7 +3696,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V43.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a man on a couch flips through a photography book",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-couch-photobook",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V44",
@@ -3104,7 +3716,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-people-enjoying-a-pool-28559383/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V44.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V44.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Reviews read harsh",
@@ -3113,7 +3725,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V44.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows people swimming in a hotel pool",
+     "violation": "resort pools",
+     "shot": "",
+     "shoot": "pixabay-aerial-pool",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 31,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V45",
@@ -3124,7 +3745,7 @@
      "page_url": "https://pixabay.com/videos/id-11253/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V45.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V45.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "book  shelf  inserting  library  literature  education  bookshelf  study  knowledge  read  bookcase  hand  male  placing  setting",
      "query": "hotel staff Reviews read harsh",
@@ -3133,7 +3754,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V45.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a hand pulls a book from a home library shelf",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-bookshelf-hand",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V46",
@@ -3144,7 +3774,7 @@
      "page_url": "https://www.pexels.com/video/a-handheld-shot-of-buildings-while-driving-4091447/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V46.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V46.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Reviews read harsh",
@@ -3153,7 +3783,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V46.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "blurry night footage shows a city street and traffic cones",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-night-street",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 32,
+     "shown": false
     },
     {
      "id": "belong-module9-S12-V47",
@@ -3164,7 +3803,7 @@
      "page_url": "https://pixabay.com/videos/id-25640/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V47.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__preview__belong-module9-S12-V47.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pool  hotel  swim  sports  woman  reverse  back  water  relax  tourism  umbrella  entertainment  resort  holiday  summer  relaxation  travel  swimming  luxury",
      "query": "hotel staff Reviews read harsh",
@@ -3173,7 +3812,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S12__strip__belong-module9-S12-V47.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a person swimming past a thatched cabana pool",
+     "violation": "resort pools, luxury spa cliches",
+     "shot": "",
+     "shoot": "pixabay-aerial-cabana-pool",
+     "judged_at": "2026-09-09T16:27:39Z",
+     "rank": 33,
+     "shown": false
     }
    ],
    "shots": [
@@ -3212,7 +3860,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T16:27:39Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:27:39Z"
   },
   {
    "id": "S09",
@@ -3234,7 +3888,7 @@
      "page_url": "https://pixabay.com/videos/id-267/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V01.mp4",
-     "score": 12.58,
+     "score": 1.05,
      "categories": [
       "cooking",
       "kitchen"
@@ -3242,7 +3896,16 @@
      "title": "pot  cooking  steam  steaming  hot  food  kettle  preparation  kitchen  sepia  cook  heat  warm",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "steam rises from a pot on a stove",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-steam-pot",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S09-V02",
@@ -3253,12 +3916,21 @@
      "page_url": "https://www.pexels.com/video/people-dining-together-6953397/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V02.mp4",
-     "score": 12.37,
+     "score": 2.0,
      "categories": [],
      "title": "video people dining together",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman hands a plated dish across an upscale dinner table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-finedining-plates",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V03",
@@ -3269,7 +3941,7 @@
      "page_url": "https://pixabay.com/videos/id-7418/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V03.mp4",
-     "score": 11.98,
+     "score": 0.35,
      "categories": [
       "countryside",
       "landscape"
@@ -3277,7 +3949,16 @@
      "title": "mountains  beautiful landscape  winter  sunset  season  countryside  aerial  snow  nature  scenery  warm  trees  forest ",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "sunset light spreads over a snowy mountain landscape",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-snow-sunset",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m9-S09-V04",
@@ -3288,14 +3969,23 @@
      "page_url": "https://www.pexels.com/video/pouring-traditional-tea-in-a-rustic-setting-37957776/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V04.mp4",
-     "score": 11.78,
+     "score": 2.4,
      "categories": [
       "rustic"
      ],
      "title": "video pouring traditional tea rustic setting",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a hand pours tea into a cup on a rustic wooden table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tea-rustic",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V05",
@@ -3306,14 +3996,23 @@
      "page_url": "https://www.pexels.com/video/an-elderly-woman-talking-while-at-the-dinner-table-5848442/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V05.mp4",
-     "score": 11.78,
+     "score": 4.0,
      "categories": [
       "table"
      ],
      "title": "video elderly woman talking while the dinner table",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an older woman talks animatedly at a candlelit dinner table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-dinner-candlelit",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V06",
@@ -3324,12 +4023,21 @@
      "page_url": "https://www.pexels.com/video/a-group-of-elderly-people-greeting-each-other-6761153/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V06.mp4",
-     "score": 11.48,
+     "score": 3.0,
      "categories": [],
      "title": "video group elderly people greeting each other",
      "query": "warm hospitality moment",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a group of older guests greet each other in a bright room",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-elderly-greeting",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V07",
@@ -3340,14 +4048,23 @@
      "page_url": "https://pixabay.com/videos/id-3152/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V07.mp4",
-     "score": 11.37,
+     "score": 1.35,
      "categories": [
       "table"
      ],
      "title": "restaurant  wine glasses  wine  glass  drink  celebration  alcohol  dinner  table  romance  wineglass  beverage  luxury ",
      "query": "happy guests dining",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "empty wine glasses sit on a candlelit restaurant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-restaurant-glasses",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m9-S09-V08",
@@ -3358,7 +4075,7 @@
      "page_url": "https://www.pexels.com/video/young-people-enjoying-meal-outdoors-6760601/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V08.mp4",
-     "score": 17.3,
+     "score": 6.3,
      "categories": [
       "meal",
       "outdoor"
@@ -3366,7 +4083,16 @@
      "title": "video young people enjoying meal outdoors",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "friends laugh together at a rooftop table over wine and food",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-rooftop-friends",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V09",
@@ -3377,7 +4103,7 @@
      "page_url": "https://pixabay.com/videos/id-172667/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V09.mp4",
-     "score": 16.9,
+     "score": 6.65,
      "categories": [
       "garden",
       "table"
@@ -3385,7 +4111,16 @@
      "title": "breakfast  family  happiness  joy  mother  father  kids  garden  table",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a multigenerational family laughs together at an outdoor garden table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-family-garden-table",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V10",
@@ -3396,7 +4131,7 @@
      "page_url": "https://pixabay.com/videos/id-25639/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V10.mp4",
-     "score": 15.36,
+     "score": 0.65,
      "categories": [
       "hotel",
       "table"
@@ -3404,7 +4139,16 @@
      "title": "breakfast  hotel  holiday  summer  food  delicious  nutrition  fresh  luxury  service  morning  architectural  decoratio",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a breakfast tray sits on a ledge beside a resort pool",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-poolside-breakfast",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m9-S09-V11",
@@ -3415,14 +4159,23 @@
      "page_url": "https://www.pexels.com/video/young-people-making-a-toast-outdoors-6760615/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V11.mp4",
-     "score": 15.23,
+     "score": 6.3,
      "categories": [
       "outdoor"
      ],
      "title": "video young people making toast outdoors",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "friends clink wine glasses laughing at a rooftop table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-rooftop-friends",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V12",
@@ -3433,12 +4186,21 @@
      "page_url": "https://www.pexels.com/video/couple-having-breakfast-in-a-restaurant-8296416/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V12.mp4",
-     "score": 14.9,
+     "score": 5.35,
      "categories": [],
      "title": "video couple having breakfast restaurant",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a couple talks over breakfast at an outdoor garden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-couple-breakfast-garden",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V13",
@@ -3449,12 +4211,21 @@
      "page_url": "https://www.pexels.com/video/friends-chatting-and-having-snacks-at-a-wedding-reception-8503573/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V13.mp4",
-     "score": 14.9,
+     "score": 3.0,
      "categories": [],
      "title": "video friends chatting and having snacks wedding reception",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "women share a bite at a decorated outdoor mountain-view table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-women-mountaintable",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-V14",
@@ -3465,7 +4236,7 @@
      "page_url": "https://pixabay.com/videos/id-169349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-m9-S09-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-m9-S09-V14.mp4",
-     "score": 13.93,
+     "score": 2.7,
      "categories": [
       "cooking",
       "meal"
@@ -3473,7 +4244,16 @@
      "title": "breakfast  cooking  food  meal",
      "query": "happy guests hotel breakfast terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-m9-S09-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an overhead view shows an elaborate breakfast spread on a table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-breakfast-spread-overhead",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S09-I01",
@@ -3588,7 +4368,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V20.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  worker  work  nature",
      "query": "worker warm hospitality moment",
@@ -3597,7 +4377,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a farmer works among tall cornstalks in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-farmer-cornfield",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V21",
@@ -3626,7 +4415,7 @@
      "page_url": "https://pixabay.com/videos/id-4737/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V24.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "paperwork  office  copier  worker  working  office job  printer  paper  print  photocopier  fax  scanner  secretary",
      "query": "worker warm hospitality moment",
@@ -3635,7 +4424,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a blurred figure stands near a photocopier in an office",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pixabay-office-blurred",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V25",
@@ -3646,7 +4444,7 @@
      "page_url": "https://www.pexels.com/video/man-drinking-whiskey-9198384/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V25.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -3655,7 +4453,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two hairnet-wearing workers handle red fabric at a factory station",
+     "violation": "factory, sewing and industry",
+     "shot": "",
+     "shoot": "pexels-factory-fabric",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V26",
@@ -3666,7 +4473,7 @@
      "page_url": "https://pixabay.com/videos/id-4739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V26.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pool  swimming pool  fun  kids  toy  pink  swan  vacation  swim  leisure  holiday  recreation  relaxation  outdoors  swimming  water  resort  home  happy  hotel  relax  child",
      "query": "hotel staff hospitality",
@@ -3675,7 +4482,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a power drill sets a screw into a metal disc on a workbench",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "stock-drill-screw",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V27",
@@ -3686,7 +4502,7 @@
      "page_url": "https://www.pexels.com/video/young-man-pushing-room-service-trolley-5371657/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V27.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -3695,7 +4511,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hairnet-wearing worker folds red fabric in a warehouse",
+     "violation": "factory, sewing and industry",
+     "shot": "",
+     "shoot": "pexels-factory-fabric",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V28",
@@ -3706,7 +4531,7 @@
      "page_url": "https://pixabay.com/videos/id-25906/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V28.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that  trip  swimmer  luxury  swimming  tropical  empty  blue  sunny  exotic",
      "query": "hotel staff hospitality",
@@ -3715,7 +4540,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker stands on scaffolding on an unfinished high-rise building",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "stock-construction-highrise",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V29",
@@ -3726,7 +4560,7 @@
      "page_url": "https://www.pexels.com/video/woman-checking-in-at-a-hotel-7820470/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V29.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -3735,7 +4569,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "garment workers fold blue fabric on a factory line",
+     "violation": "factory, sewing and industry",
+     "shot": "",
+     "shoot": "pexels-factory-fabric",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V30",
@@ -3746,7 +4589,7 @@
      "page_url": "https://pixabay.com/videos/id-39395/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V30.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "wedding  ceremony  love  happy  guests  invitation",
      "query": "hospitality guest",
@@ -3755,7 +4598,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a large construction site of new buildings",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "stock-construction-aerial",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V31",
@@ -3766,7 +4618,7 @@
      "page_url": "https://www.pexels.com/video/man-walking-in-the-hallway-7599307/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V31.mp4",
-     "score": 0,
+     "score": 1.65,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -3775,7 +4627,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a man in a suit embraces a woman in an upscale restaurant",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-suit-restaurant-hug",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V32",
@@ -3786,7 +4647,7 @@
      "page_url": "https://pixabay.com/videos/id-7676/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V32.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "market place  shopping mall  trade  barcelona  secondhand  spain  people  fashion  europe  tourism  spanish  european  town  tourists",
      "query": "guesthouse host tell everyone place",
@@ -3795,7 +4656,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a large demolition and construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "stock-construction-aerial",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V33",
@@ -3806,7 +4676,7 @@
      "page_url": "https://www.pexels.com/video/woman-at-a-hotel-talking-to-the-receptionist-7820475/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V33.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -3815,7 +4685,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a garment worker sorts folded gray towels in a warehouse",
+     "violation": "factory, sewing and industry",
+     "shot": "",
+     "shoot": "pexels-factory-fabric",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-module9-S09-V34",
@@ -3826,7 +4705,7 @@
      "page_url": "https://pixabay.com/videos/id-143329/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__thumb__belong-module9-S09-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S09__preview__belong-module9-S09-V34.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "child  holiday  celebration  joy  african  black  welcome  wonder  magic  hope  butterflies  sparkle  smile  diversity  inclusion  everyone",
      "query": "guesthouse host tell everyone place",
@@ -3835,7 +4714,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S09__strip__belong-module9-S09-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "construction workers in hard hats pour concrete on a rooftop slab",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "stock-construction-concrete",
+     "judged_at": "2026-09-09T16:29:20Z",
+     "rank": 26,
+     "shown": false
     }
    ],
    "shots": [
@@ -3874,7 +4762,8 @@
     "resort pool"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "judged_at": "2026-09-09T16:29:20Z"
   },
   {
    "id": "S01",
@@ -3910,14 +4799,23 @@
      "page_url": "https://www.pexels.com/video/a-couple-wearing-face-mask-in-a-hotel-7820549/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V02.mp4",
-     "score": 13.12,
+     "score": 2.6,
      "categories": [
       "hotel"
      ],
      "title": "video couple wearing face mask hotel",
      "query": "hotel reception desk guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked couple stands at a hotel reception counter",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-reception-masked-couple",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "belong-m9-S01-V03",
@@ -3928,14 +4826,23 @@
      "page_url": "https://www.pexels.com/video/woman-in-a-hotel-talking-to-the-receptionist-7820472/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V03.mp4",
-     "score": 13.12,
+     "score": 2.6,
      "categories": [
       "hotel"
      ],
      "title": "video woman hotel talking the receptionist",
      "query": "hotel reception desk guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked woman walks toward a hotel reception desk",
+     "violation": "face masks",
+     "shot": "C",
+     "shoot": "pexels-reception-masked-woman",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "belong-m9-S01-V04",
@@ -3946,12 +4853,21 @@
      "page_url": "https://www.pexels.com/video/couple-arriving-at-reception-desk-7820551/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V04.mp4",
-     "score": 11.92,
+     "score": 2.6,
      "categories": [],
      "title": "video couple arriving reception desk",
      "query": "front desk hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked couple stands at a reception counter near a screen",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-reception-masked-couple",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-m9-S01-V05",
@@ -3962,12 +4878,21 @@
      "page_url": "https://pixabay.com/videos/id-58013/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V05.mp4",
-     "score": 11.52,
+     "score": 0.0,
      "categories": [],
      "title": "texture  reception  screen  static  technology  signal  noise  vintage  tv  ancient  retro  see  classic  analog  electr",
      "query": "hotel reception desk guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "blue static interference fills the screen",
+     "violation": "",
+     "shot": "",
+     "shoot": "stock-tv-static",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S01-V06",
@@ -3978,12 +4903,21 @@
      "page_url": "https://pixabay.com/videos/id-142370/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V06.mp4",
-     "score": 11.52,
+     "score": 2.7,
      "categories": [],
      "title": "coffee  drink  cup  mug  desk  computer",
      "query": "hotel reception desk guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a coffee mug sits on a wooden desk beside a laptop",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-mug-laptop",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S01-V07",
@@ -3994,7 +4928,7 @@
      "page_url": "https://pixabay.com/videos/id-2339/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-m9-S01-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-m9-S01-V07.mp4",
-     "score": 10.36,
+     "score": 4.35,
      "categories": [
       "meal",
       "table"
@@ -4002,7 +4936,16 @@
      "title": "lunch  meal  people  tea cup  tea  couple  table  restaurant  diner  service  food  snack  eating",
      "query": "serious conversation restaurant",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-m9-S01-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands pass plates across an outdoor wooden table set with salads",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-plates-outdoor-table",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S01-I01",
@@ -4062,7 +5005,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-ordering-in-a-restaurant-6816117/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__pexels_6816117_waiter-talking-with-restaurant-m.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__pexels_6816117_waiter-talking-with-restaurant-m.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [
       "host"
      ],
@@ -4073,7 +5016,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-module9-S01-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a vested waiter takes an order from a seated couple",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-waiter-order-upscale",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-module9-S01-V12",
@@ -4084,7 +5036,7 @@
      "page_url": "https://pixabay.com/videos/id-204588/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-module9-S01-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-module9-S01-V12.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pyramid  hotel  building  architecture  city  glass  tourism",
      "query": "hotel reception desk guest",
@@ -4093,7 +5045,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-module9-S01-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a glass pyramid building near a corporate park",
+     "violation": "corporate architecture, glass building",
+     "shot": "",
+     "shoot": "pixabay-pyramid-corporate",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "belong-module9-S01-V14",
@@ -4104,7 +5065,7 @@
      "page_url": "https://pixabay.com/videos/id-362909/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-module9-S01-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-module9-S01-V14.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "ai generated  hotel  architecture  building  vacation  resort  tourism  luxurious  lavish  luxury  rich  lobby  reception  interior  design  chandelier  indoors  entrance",
      "query": "hotel reception desk guest",
@@ -4113,7 +5074,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-module9-S01-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a marble hotel lobby with chandeliers stretches toward glass doors",
+     "violation": "corporate lobby, AI-generated",
+     "shot": "",
+     "shoot": "pixabay-aigenerated-lobby",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "belong-module9-S01-V16",
@@ -4124,7 +5094,7 @@
      "page_url": "https://pixabay.com/videos/id-158961/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__thumb__belong-module9-S01-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S01__preview__belong-module9-S01-V16.mp4",
-     "score": 0,
+     "score": 1.95,
      "categories": [],
      "title": "woman  computer  job  desk  sick  face mask  concentration",
      "query": "hotel reception desk guest",
@@ -4133,7 +5103,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S01__strip__belong-module9-S01-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a masked woman types on a laptop at a dim desk",
+     "violation": "face masks",
+     "shot": "D",
+     "shoot": "pixabay-masked-laptop",
+     "judged_at": "2026-09-09T16:29:58Z",
+     "rank": 7,
+     "shown": false
     }
    ],
    "shots": [
@@ -4173,7 +5152,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T16:29:58Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:29:58Z"
   },
   {
    "id": "S07",
@@ -4195,12 +5180,21 @@
      "page_url": "https://www.pexels.com/video/people-having-a-serious-conversation-9034424/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V01.mp4",
-     "score": 12.37,
+     "score": 0.65,
      "categories": [],
      "title": "video people having serious conversation",
      "query": "serious discussion table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "coworkers gather around a table in a bright office meeting",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-office-meeting-whiteboard",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m9-S07-V02",
@@ -4211,7 +5205,7 @@
      "page_url": "https://pixabay.com/videos/id-31654/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V02.mp4",
-     "score": 11.97,
+     "score": 1.05,
      "categories": [
       "hands",
       "table"
@@ -4219,7 +5213,16 @@
      "title": "hands  girl  people  young  female  table  hand  white  go  sad",
      "query": "hands gesturing explaining",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a hand brushes past a white curtain along a sunlit path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hand-curtain-outdoor",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V03",
@@ -4230,12 +5233,21 @@
      "page_url": "https://www.pexels.com/video/people-having-a-discussion-at-a-meeting-7507758/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V03.mp4",
-     "score": 11.36,
+     "score": 0.35,
      "categories": [],
      "title": "video people having discussion meeting",
      "query": "serious discussion table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "colleagues chat around a table covered with sticky notes",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-startup-office-meeting",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m9-S07-V04",
@@ -4246,12 +5258,21 @@
      "page_url": "https://www.pexels.com/video/people-writing-on-their-notebook-6202479/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V04.mp4",
-     "score": 11.36,
+     "score": 0.35,
      "categories": [],
      "title": "video people writing their notebook",
      "query": "serious discussion table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "three people write in notebooks at a table by tall windows",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-notebooks-window",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 14,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V05",
@@ -4278,12 +5299,21 @@
      "page_url": "https://pixabay.com/videos/id-129421/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V06.mp4",
-     "score": 9.76,
+     "score": 0.0,
      "categories": [],
      "title": "girl  heart  gesture  symbol  asian  cheerful  close-up  finger  hand  happiness  happy  human  korean  looking  love  p",
      "query": "hands gesturing explaining",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a young woman smiles and gestures for the camera outdoors",
+     "violation": "smiling posed staff",
+     "shot": "",
+     "shoot": "pixabay-posed-smile-outdoor",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m9-S07-V07",
@@ -4294,12 +5324,21 @@
      "page_url": "https://pixabay.com/videos/id-19706/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V07.mp4",
-     "score": 9.57,
+     "score": 0.35,
      "categories": [],
      "title": "pair  trust  conversation  talk  discussion  few  people  taking photos  friendship  man  woman  romantic  happy  romanc",
      "query": "difficult conversation two people",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a couple laughs together while looking at a phone at the beach",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-couple-beach",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 15,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V12",
@@ -4310,14 +5349,23 @@
      "page_url": "https://www.pexels.com/video/a-waiter-serving-his-guests-8922362/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V12.mp4",
-     "score": 14.26,
+     "score": 4.6,
      "categories": [
       "guest"
      ],
      "title": "video waiter serving his guests",
      "query": "restaurant staff guest conversation table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "a tuxedoed waiter carries a tray of wine glasses to seated guests",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-waiter-tux-wine",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V16",
@@ -4328,12 +5376,21 @@
      "page_url": "https://www.pexels.com/video/close-up-video-of-a-waiter-handing-menu-to-customers-4920382/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V16.mp4",
-     "score": 13.63,
+     "score": 1.7,
      "categories": [],
      "title": "video close video waiter handing menu customers",
      "query": "server taking order outdoor cafe",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "hands pass coffee menu cards over a ribboned gift box",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-menu-handoff",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V19",
@@ -4344,14 +5401,23 @@
      "page_url": "https://www.pexels.com/video/two-women-checking-in-a-hotel-4880311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V19.mp4",
-     "score": 13.02,
+     "score": 3.0,
      "categories": [
       "hotel"
      ],
      "title": "video two women checking hotel",
      "query": "receptionist smiling helping guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two guests with backpacks check in at a hostel counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hostel-checkin",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-V20",
@@ -4362,12 +5428,21 @@
      "page_url": "https://www.pexels.com/video/a-waiter-taking-an-order-while-a-man-communicating-doing-a-sign-language-6321905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-V20.mp4",
-     "score": 12.73,
+     "score": 2.35,
      "categories": [],
      "title": "video waiter taking order while man communicating doing sign language",
      "query": "waiter recommending menu to guests",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-m9-S07-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a barista and customer communicate with hand gestures at a counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cafe-gestures",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m9-S07-I01",
@@ -4527,7 +5602,7 @@
      "page_url": "https://www.pexels.com/video/man-shaking-hands-with-his-client-7821623/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__edenrise-gratitude-S13-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__edenrise-gratitude-S13-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "hands",
       "man"
@@ -4539,7 +5614,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two men in office attire shake hands in a bright room",
+     "violation": "corporate office, business attire",
+     "shot": "",
+     "shoot": "pexels-handshake-office",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V22",
@@ -4550,7 +5634,7 @@
      "page_url": "https://www.pexels.com/video/two-businessmen-shaking-hands-15616104/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__edenrise-gratitude-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__edenrise-gratitude-S06-V12.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "hands"
      ],
@@ -4561,7 +5645,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two businessmen shake hands in front of a framed print",
+     "violation": "corporate office, business attire",
+     "shot": "",
+     "shoot": "pexels-handshake-gallery",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V23",
@@ -4572,7 +5665,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-shaking-hands-and-talking-at-an-office-6930836/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__edenrise-gratitude-S13-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__edenrise-gratitude-S13-V03.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "worker",
       "team",
@@ -4585,7 +5678,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "coworkers in blazers shake hands beneath wall clocks",
+     "violation": "corporate office, business attire",
+     "shot": "",
+     "shoot": "pexels-handshake-clocks",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V24",
@@ -4596,7 +5698,7 @@
      "page_url": "https://www.pexels.com/video/group-of-people-standing-and-shaking-hands-at-the-end-of-a-business-meeting-3251910/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__edenrise-gratitude-S15-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__edenrise-gratitude-S15-V08.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "team",
       "hands"
@@ -4608,7 +5710,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a group in an office shakes hands after a meeting",
+     "violation": "corporate office, business attire",
+     "shot": "",
+     "shoot": "pexels-handshake-groupmeeting",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V26",
@@ -4619,7 +5730,7 @@
      "page_url": "https://pixabay.com/videos/id-1635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V26.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "worker  early  morning  people  person  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  shiva  farming",
      "query": "worker serious discussion table",
@@ -4628,7 +5739,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a silhouetted man digs by a river at dusk near boats",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-silhouette-riverdig",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module9-S07-V28",
@@ -4639,7 +5759,7 @@
      "page_url": "https://pixabay.com/videos/id-3612/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V28.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worker  temperature  fire  flame  tube",
      "query": "worker serious discussion table",
@@ -4648,7 +5768,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a glassblower shapes molten glass over an open flame",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glassblowing",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-module9-S07-V30",
@@ -4659,7 +5788,7 @@
      "page_url": "https://pixabay.com/videos/id-262468/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V30.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "blue-collar workers  worker  textile  cotton",
      "query": "worker serious discussion table",
@@ -4668,7 +5797,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a factory worker tends rows of spinning textile machines",
+     "violation": "sewing and industry, factories",
+     "shot": "",
+     "shoot": "pixabay-textile-factory",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V31",
@@ -4679,7 +5817,7 @@
      "page_url": "https://www.pexels.com/video/people-shaking-hands-in-a-meeting-8170609/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__edenrise-gratitude-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__edenrise-gratitude-S08-V01.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [
       "hands"
      ],
@@ -4690,7 +5828,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a close-up shows two hands shaking near a blurred office meeting",
+     "violation": "corporate office, business attire",
+     "shot": "",
+     "shoot": "pexels-handshake-closeup-office",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V32",
@@ -4701,7 +5848,7 @@
      "page_url": "https://www.pexels.com/video/women-having-conversation-at-the-cafe-9808304/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__pexels_9808304_conversation-outdoor-table.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__pexels_9808304_conversation-outdoor-table.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "",
@@ -4710,7 +5857,16 @@
      "fresh": true,
      "added_by": "library",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "three women in white outfits chat at an outdoor cafe table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-fashion-cafe-outdoor",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-module9-S07-V44",
@@ -4721,7 +5877,7 @@
      "page_url": "https://pixabay.com/videos/id-17333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V44.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V44.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "business office  conversation  talking  speaking  instructor  educational  tutorial  study  chalkboard  lesson  co worker",
      "query": "worker hospitality",
@@ -4730,7 +5886,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V44.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated 3d scene shows two office workers before a green screen",
+     "violation": "cartoon, CGI, not real footage",
+     "shot": "",
+     "shoot": "cgi-office-greenscreen",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V50",
@@ -4741,7 +5906,7 @@
      "page_url": "https://pixabay.com/videos/id-263807/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V50.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V50.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "ai generated  worker  miniature  bruschetta  food",
      "query": "worker hospitality",
@@ -4750,7 +5915,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V50.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "tiny toy figures decorate a bruschetta with tomatoes and herbs",
+     "violation": "AI-generated, not real footage",
+     "shot": "",
+     "shoot": "ai-miniature-bruschetta",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V51",
@@ -4761,7 +5935,7 @@
      "page_url": "https://www.pexels.com/video/elegant-women-walking-in-hotel-lobby-6474635/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V51.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V51.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -4770,7 +5944,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V51.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a bellhop pushes a luggage cart past a christmas tree in a grand lobby",
+     "violation": "corporate lobby, luxury",
+     "shot": "",
+     "shoot": "pexels-luxury-lobby-christmas",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V52",
@@ -4781,7 +5964,7 @@
      "page_url": "https://pixabay.com/videos/id-332321/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V52.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V52.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "welcome  hey  hospitality  hello  invitation  text  communication  message",
      "query": "hotel staff hospitality",
@@ -4790,7 +5973,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V52.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated welcome title assembles on a black screen",
+     "violation": "motion graphic, not real footage",
+     "shot": "",
+     "shoot": "graphic-welcome-title",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V53",
@@ -4801,7 +5993,7 @@
      "page_url": "https://www.pexels.com/video/a-couple-checking-in-at-a-hotel-7820553/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V53.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V53.mp4",
-     "score": 0,
+     "score": 4.55,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -4810,7 +6002,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V53.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "a masked receptionist reads papers then answers the phone at a desk",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-reception-masked-phone",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V54",
@@ -4821,7 +6022,7 @@
      "page_url": "https://pixabay.com/videos/id-31869/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V54.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V54.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "city  kampala  uganda  africa  country  hotel  aerial  view  capital",
      "query": "hotel staff hospitality",
@@ -4830,7 +6031,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V54.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a hotel building under construction in a city",
+     "violation": "construction and building trades, corporate hotel chain",
+     "shot": "",
+     "shoot": "pixabay-hotel-construction-aerial",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V55",
@@ -4841,7 +6051,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-a-receptionist-7820471/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V55.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V55.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -4850,7 +6060,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V55.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked traveler walks through a corridor toward a flagged reception desk",
+     "violation": "face masks, corporate lobby",
+     "shot": "",
+     "shoot": "pexels-reception-masked-flags",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V56",
@@ -4861,7 +6080,7 @@
      "page_url": "https://pixabay.com/videos/id-576/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V56.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V56.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "welcome  hello  hi  greeting  sign  word  guest  text  welcoming  symbol  message  happy  meet  party  salutatory  salute  people  warm",
      "query": "hospitality guest",
@@ -4870,7 +6089,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V56.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "animated welcome text appears in several languages",
+     "violation": "motion graphic, not real footage",
+     "shot": "",
+     "shoot": "graphic-welcome-multilingual",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V57",
@@ -4881,7 +6109,7 @@
      "page_url": "https://www.pexels.com/video/a-man-walking-inside-a-restaurant-9198378/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V57.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V57.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -4890,7 +6118,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V57.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a man in a suit walks through an empty upscale restaurant",
+     "violation": "luxury restaurant styling",
+     "shot": "",
+     "shoot": "pexels-luxury-restaurant-empty",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V58",
@@ -4901,7 +6138,7 @@
      "page_url": "https://pixabay.com/videos/id-102952/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V58.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V58.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "palace  hotel  building  architecture  scotland  atholl",
      "query": "hotel staff hospitality",
@@ -4910,7 +6147,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V58.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a grand stone palace hotel amid forest",
+     "violation": "luxury palace hotel",
+     "shot": "",
+     "shoot": "pixabay-palace-hotel-aerial",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V59",
@@ -4921,7 +6167,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-walking-with-her-suitcase-7820835/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V59.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V59.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -4930,7 +6176,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V59.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked woman pulls a rolling suitcase through a hotel lobby",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-suitcase-lobby",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "belong-module9-S07-V60",
@@ -4941,7 +6196,7 @@
      "page_url": "https://pixabay.com/videos/id-223171/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-module9-S07-V60.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-module9-S07-V60.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "buildings  hotels  city  modern  facade  urban  architecture",
      "query": "hotel staff hospitality",
@@ -4950,7 +6205,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S07__strip__belong-module9-S07-V60.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a modern office park with a parking lot",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pixabay-officepark-aerial",
+     "judged_at": "2026-09-09T16:31:57Z",
+     "rank": 31,
+     "shown": false
     }
    ],
    "shots": [
@@ -4990,7 +6254,13 @@
     "corporate lobby"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T16:31:57Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:31:57Z"
   },
   {
    "id": "S10",
