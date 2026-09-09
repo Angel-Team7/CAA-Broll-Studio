@@ -527,3 +527,33 @@
 | pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/female-factory-worker-operating-a-sewing-machine-31373752/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/professional-welding-steel-6046358/ |
 | pexels |  | Trumpet Studios | Pexels License | https://www.pexels.com/video/african-artisan-skillfully-working-with-wood-outdoors-31018081/ |
+| pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/automated-industrial-drilling-machine-in-action-31751327/ |
+| pexels |  | Magda Ehlers | Pexels License | https://www.pexels.com/video/a-person-is-using-a-tool-to-lay-tile-24906850/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-an-industrial-saw-7493224/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/video-of-wood-cutting-4248456/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/metal-bars-on-the-table-5967507/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-shaving-a-wood-stick-5972629/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/scenic-drive-through-rural-road-in-black-and-white-34640835/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-white-van-parked-on-road-30274199/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/busy-road-with-traffic-on-a-clear-day-35512876/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-recording-studio-with-audio-equipment-7586163/ |
+| pexels |  | Rec Everywhere | Pexels License | https://www.pexels.com/video/nighttime-garage-door-closing-routine-32078346/ |
+| pexels |  | Ryan Fatalla | Pexels License | https://www.pexels.com/video/a-person-switching-the-lights-on-4403890/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-a-used-paintbrush-8251887/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/hands-grinding-ring-11271609/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/hands-cleaning-a-fresh-truffle-outdoor-scene-38045758/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-painting-a-wall-6473946/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-wearing-personal-protective-equipment-6474172/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-painting-wall-using-paint-spray-6473939/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/water-running-through-a-chain-854652/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/water-trail-forming-on-a-wet-metal-railing-5210319/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/water-is-pouring-out-of-a-pipe-in-a-dark-room-27865910/ |
+| pexels |  | Andrew Seltz | Pexels License | https://www.pexels.com/video/table-saw-cross-cut-45-degree-angle-15765774/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-heat-pressing-the-leather-fabric-5963499/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/man-tracing-a-leather-piece-4452749/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-on-mountain-trek-taking-pictures-of-the-nature-6026113/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-backpacker-man-on-mountain-trek-6026068/ |
+| pexels |  | Dev Raj | Pexels License | https://www.pexels.com/video/man-walking-in-the-forest-6999688/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-wearing-gloves-8539170/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/male-hands-adjusting-latex-gloves-6980118/ |
+| pexels |  | Matilda Wormwood | Pexels License | https://www.pexels.com/video/a-person-putting-on-a-medical-gloves-4145750/ |
