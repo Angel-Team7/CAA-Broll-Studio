@@ -1,0 +1,62 @@
+{
+ "slug": "desk-winning-beliefs-en",
+ "title": "Edenrise C2 — Winning Beliefs (EN)",
+ "lang": "en",
+ "cockpit_slug": "edenrise-c2-winning-beliefs",
+ "version": 1,
+ "status": "awaiting_review",
+ "published": "2026-09-09T18:23:57",
+ "draft_url": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/review__v1__desk-winning-beliefs-en-360p.mp4",
+ "contact_url": null,
+ "duration": 333.27,
+ "gates": {
+  "lint": true,
+  "qa_gate": true,
+  "polish_gate": true
+ },
+ "gate_warns": 0,
+ "fetch_notes": [],
+ "adapt_changes": "",
+ "music": {
+  "candidates": [
+   {
+    "key": "fretless",
+    "name": "Fretless",
+    "instruments": "guitar ukulele",
+    "lra": 3.6,
+    "duration": 336.1,
+    "used_by": [],
+    "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-desk-music/music__fretless.mp3"
+   },
+   {
+    "key": "soloacoustic5",
+    "name": "Soloacoustic5",
+    "instruments": "solo nylon guitar",
+    "lra": 3.2,
+    "duration": 141.4,
+    "used_by": [],
+    "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-desk-music/music__soloacoustic5.mp3"
+   },
+   {
+    "key": "sunshine-a",
+    "name": "Sunshine A",
+    "instruments": "guitar bass piano",
+    "lra": 3.1,
+    "duration": 201.9,
+    "used_by": [],
+    "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-desk-music/music__sunshine-a.mp3"
+   }
+  ],
+  "preselected": "fretless",
+  "chosen": null
+ },
+ "comments": [],
+ "decision": null,
+ "decided": null,
+ "history": [
+  {
+   "version": 1,
+   "published": "2026-09-09T18:23:57"
+  }
+ ]
+}
