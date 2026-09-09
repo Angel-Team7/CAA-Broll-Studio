@@ -1,6 +1,6 @@
 {
   "project": "belong-module9",
-  "updated": "2026-09-09T11:10:04.334Z",
+  "updated": "2026-09-09T11:16:56.715Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -37,6 +37,9 @@
     ],
     "S02": [
       "belong-m9-S02-V01"
+    ],
+    "S12": [
+      "belong-m9-S12-V18"
     ]
   },
   "needs_broll": {
@@ -62,16 +65,12 @@
         "speaking",
         "hotel"
       ],
-      "done": true,
-      "fulfilled": "2026-09-09T11:11:32Z",
-      "added": 10
+      "done": false
     },
     "S02": {
       "requested": "2026-09-09T11:07:51.769Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T11:10:41Z",
-      "added": 10
+      "done": false
     },
     "S01": {
       "requested": "2026-08-20T12:17:37.903Z",
