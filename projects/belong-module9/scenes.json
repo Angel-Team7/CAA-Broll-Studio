@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S03",
-   "script_line": "A guest who complains is giving us two things. Information \u2014 something in our operation is broken, and now we know. And a second chance \u2014 because the guest who complains to us is the guest who still wants the stay to wor",
-   "visual_direction": "A complaint is a gift \u2014 information, and a second chance",
+   "script_line": "A guest who complains is giving us two things. Information — something in our operation is broken, and now we know. And a second chance — because the guest who complains to us is the guest who still wants the stay to wor",
+   "visual_direction": "A complaint is a gift — information, and a second chance",
    "t": 34.73,
    "end": 67.7,
    "quota": {
@@ -295,7 +295,7 @@
      "categories": [
       "hospitality"
      ],
-     "title": "Smiling barista in caf\u00e9, engaging positively with customer, signifying hospitality.",
+     "title": "Smiling barista in café, engaging positively with customer, signifying hospitality.",
      "query": "restaurant manager apologizing to customer"
     },
     {
@@ -338,8 +338,8 @@
      "author": "Mikhail Nilov",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/",
-     "thumb": "projects/belong-module8/thumbs/S09/belong-m8-S09-V01.jpg",
-     "preview": "projects/belong-module8/previews/S09/belong-m8-S09-V01.mp4",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V01.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V01.mp4",
      "score": 0,
      "categories": [
       "host",
@@ -359,8 +359,8 @@
      "author": "patw64",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-75999/",
-     "thumb": "projects/belong-module8/thumbs/S09/belong-m8-S09-V07.jpg",
-     "preview": "projects/belong-module8/previews/S09/belong-m8-S09-V07.mp4",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V07.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V07.mp4",
      "score": 0,
      "categories": [
       "host",
@@ -380,8 +380,8 @@
      "author": "GreenScreenFX",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-92662/",
-     "thumb": "projects/belong-module8/thumbs/S09/belong-m8-S09-V06.jpg",
-     "preview": "projects/belong-module8/previews/S09/belong-m8-S09-V06.mp4",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V06.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V06.mp4",
      "score": 0,
      "categories": [
       "host",
@@ -389,26 +389,6 @@
      ],
      "title": "woman  welcome  social media  hello  girl  reading  teach  explaining  woman explaining  teaching  teacher  woman talkin",
      "query": "receptionist guest talking",
-     "src_id": "",
-     "download_url": "",
-     "fresh": true,
-     "added_by": "library"
-    },
-    {
-     "id": "belong-module9-S03-V25",
-     "type": "video",
-     "source": "pexels",
-     "author": "Artem Podrez",
-     "license": "Pexels License",
-     "page_url": "https://www.pexels.com/video/people-eating-sushi-at-a-meeting-8519395/",
-     "thumb": "projects/belong-module8/thumbs/S08/belong-m8-S08-V12.jpg",
-     "preview": "projects/belong-module8/previews/S08/belong-m8-S08-V12.mp4",
-     "score": 0,
-     "categories": [
-      "team"
-     ],
-     "title": "video people eating sushi meeting",
-     "query": "team retreat farmhouse table",
      "src_id": "",
      "download_url": "",
      "fresh": true,
@@ -887,7 +867,7 @@
   {
    "id": "S12",
    "script_line": "I understand this ruined your morning is true even when we did nothing wrong. Second: you never have to accept abuse. Rudeness we absorb professionally; genuine aggression toward the team we do not. If a guest crosses th",
-   "visual_direction": "Reviews \u2014 read the harsh ones, respond always with class",
+   "visual_direction": "Reviews — read the harsh ones, respond always with class",
    "t": 235.25,
    "end": 261.25,
    "quota": {
@@ -1569,7 +1549,7 @@
      "id": "belong-module9-S12-V46",
      "type": "video",
      "source": "pexels",
-     "author": "\u5b8b \u5c0f\u5929",
+     "author": "宋 小天",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/a-handheld-shot-of-buildings-while-driving-4091447/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S12__thumb__belong-module9-S12-V46.jpg",
@@ -2179,7 +2159,7 @@
   {
    "id": "S01",
    "script_line": "Let's talk about the moments nobody puts on Instagram. The complaint at the front desk. The dish sent back. The guest who arrives already angry. The review that stings.",
-   "visual_direction": "The moments nobody photographs \u2014 the complaint at the desk, the dish sent back",
+   "visual_direction": "The moments nobody photographs — the complaint at the desk, the dish sent back",
    "t": 0.0,
    "end": 12.59,
    "quota": {
@@ -2419,8 +2399,8 @@
   },
   {
    "id": "S07",
-   "script_line": "I'm sorry, but \u2014 erases the apology. If there's context to explain, it can come later, once things are calm. Fix it \u2014 bigger than expected. And here's a rule I'll come back to in the final module: you have autonomy. The ",
-   "visual_direction": "Never say but \u2014 it erases the apology",
+   "script_line": "I'm sorry, but — erases the apology. If there's context to explain, it can come later, once things are calm. Fix it — bigger than expected. And here's a rule I'll come back to in the final module: you have autonomy. The ",
+   "visual_direction": "Never say but — it erases the apology",
    "t": 123.04,
    "end": 143.19,
    "quota": {
@@ -2602,7 +2582,7 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__preview__belong-m9-S07-I01.jpg",
      "score": 11.17,
      "categories": [],
-     "title": "Two business professionals engage in a serious conversation while seated in a modern caf\u00e9.",
+     "title": "Two business professionals engage in a serious conversation while seated in a modern café.",
      "query": "serious discussion table"
     },
     {
@@ -2671,7 +2651,7 @@
       "outdoor",
       "table"
      ],
-     "title": "Two customers engaging with a waiter at an outdoor caf\u00e9 table, reviewing the menu.",
+     "title": "Two customers engaging with a waiter at an outdoor café table, reviewing the menu.",
      "query": "restaurant staff guest conversation table"
     },
     {
@@ -2710,7 +2690,7 @@
      "id": "belong-m9-S07-I08",
      "type": "image",
      "source": "pexels",
-     "author": "khezez  | \u062e\u0632\u0627\u0632",
+     "author": "khezez  | خزاز",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/professional-waiter-taking-order-at-restaurant-36799159/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S07__thumb__belong-m9-S07-I08.jpg",
@@ -3137,7 +3117,7 @@
   {
    "id": "S10",
    "script_line": "Every complaint goes into the system, however small, however resolved. Not to blame anyone. Because a complaint that reaches me as data is how we fix the root cause. If three guests in a month mention the same thing, tha",
-   "visual_direction": "Report it \u2014 a complaint that reaches me as data is how we fix the root cause",
+   "visual_direction": "Report it — a complaint that reaches me as data is how we fix the root cause",
    "t": 189.29,
    "end": 216.66,
    "quota": {
@@ -3241,7 +3221,7 @@
      "id": "belong-m9-S10-V07",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V07.jpg",
@@ -3428,7 +3408,7 @@
      "id": "belong-m9-S10-I04",
      "type": "image",
      "source": "pexels",
-     "author": "Ali  Alc\u00e1ntara",
+     "author": "Ali  Alcántara",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/men-in-white-chef-uniforms-working-in-a-food-stall-12203618/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-I04.jpg",
@@ -3446,7 +3426,7 @@
      "id": "belong-m9-S10-I05",
      "type": "image",
      "source": "pexels",
-     "author": "Nguy\u1ec5n Du",
+     "author": "Nguyễn Du",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/chef-at-work-in-a-japanese-restaurant-kitchen-29511216/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-I05.jpg",
@@ -3678,8 +3658,8 @@
   },
   {
    "id": "S02",
-   "script_line": "If you work in hospitality long enough \u2014 and I hope you will \u2014 these moments are guaranteed. So instead of pretending they won't happen, let's get genuinely good at them. First, a reframe that took me years to truly beli",
-   "visual_direction": "These moments are guaranteed in hospitality \u2014 so get good at them",
+   "script_line": "If you work in hospitality long enough — and I hope you will — these moments are guaranteed. So instead of pretending they won't happen, let's get genuinely good at them. First, a reframe that took me years to truly beli",
+   "visual_direction": "These moments are guaranteed in hospitality — so get good at them",
    "t": 13.19,
    "end": 34.12,
    "quota": {
@@ -3708,7 +3688,7 @@
      "id": "belong-m9-S02-V02",
      "type": "video",
      "source": "pexels",
-     "author": "Jo\u00e3o  Pavese",
+     "author": "João  Pavese",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/busy-ice-cream-shop-with-staff-serving-customers-36362888/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__thumb__belong-m9-S02-V02.jpg",
@@ -4122,7 +4102,7 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S02__preview__belong-module9-S02-V23.mp4",
      "score": 0,
      "categories": [],
-     "title": "kids  game  smiles  fun  boy  girl  family  team  friendship  caf\u00e9",
+     "title": "kids  game  smiles  fun  boy  girl  family  team  friendship  café",
      "query": "hospitality team work",
      "src_id": "125310",
      "download_url": "https://cdn.pixabay.com/video/2022/07/24/125310-733046613_large.mp4",
@@ -4457,7 +4437,7 @@
   },
   {
    "id": "S04",
-   "script_line": "Breathe, and receive it like the useful thing it is. Now, the method. When a guest is upset, there's a sequence, and the order matters. Listen \u2014 completely. Don't defend, don't explain, don't interrupt, don't reach for t",
+   "script_line": "Breathe, and receive it like the useful thing it is. Now, the method. When a guest is upset, there's a sequence, and the order matters. Listen — completely. Don't defend, don't explain, don't interrupt, don't reach for t",
    "visual_direction": "The dangerous guest is the silent one who never tells you",
    "t": 68.07,
    "end": 87.5,
@@ -4502,7 +4482,7 @@
      "id": "belong-m9-S04-V03",
      "type": "video",
      "source": "pexels",
-     "author": "Sururi Ball\u0131da\u011f Director",
+     "author": "Sururi Ballıdağ Director",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/quiet-street-with-empty-cafes-and-restaurants-35573206/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S04__thumb__belong-m9-S04-V03.jpg",
@@ -5011,7 +4991,7 @@
   {
    "id": "S05",
    "script_line": "An upset person cannot hear solutions until they feel heard. Let them finish. Look at them. Nod. Sometimes thirty seconds of real listening solves half the problem, because half the problem was feeling ignored.",
-   "visual_direction": "Listen completely \u2014 thirty seconds of real listening solves half the problem",
+   "visual_direction": "Listen completely — thirty seconds of real listening solves half the problem",
    "t": 88.02,
    "end": 103.62,
    "quota": {
@@ -5363,8 +5343,8 @@
   },
   {
    "id": "S06",
-   "script_line": "Acknowledge the feeling \u2014 honestly. I'm sorry \u2014 that's not the stay we wanted you to have. You're not admitting legal fault, you're recognising a human being's disappointment. It costs nothing and it changes everything. ",
-   "visual_direction": "Acknowledge the feeling honestly \u2014 recognising a human being's disappointment",
+   "script_line": "Acknowledge the feeling — honestly. I'm sorry — that's not the stay we wanted you to have. You're not admitting legal fault, you're recognising a human being's disappointment. It costs nothing and it changes everything. ",
+   "visual_direction": "Acknowledge the feeling honestly — recognising a human being's disappointment",
    "t": 104.43,
    "end": 122.44,
    "quota": {
@@ -5810,7 +5790,7 @@
   {
    "id": "S11",
    "script_line": "A word about unfair complaints, because they exist. Sometimes the guest is wrong. Sometimes the weather is our fault in their eyes, or the expectation was impossible. Two things. First: you can acknowledge a feeling with",
-   "visual_direction": "Unfair complaints exist \u2014 you never have to accept abuse",
+   "visual_direction": "Unfair complaints exist — you never have to accept abuse",
    "t": 217.18,
    "end": 234.44,
    "quota": {
@@ -6163,7 +6143,7 @@
   {
    "id": "S08",
    "script_line": "The room that wasn't ready earns a proper gesture, not a shrug. The recovery should be slightly larger than the failure. Why? Because psychology is real: a problem beautifully recovered creates more loyalty than no probl",
-   "visual_direction": "Fix it bigger than expected \u2014 the cold dish comes back with a glass of wine",
+   "visual_direction": "Fix it bigger than expected — the cold dish comes back with a glass of wine",
    "t": 144.0,
    "end": 163.08,
    "quota": {
@@ -6484,7 +6464,7 @@
      "id": "belong-module9-S08-V15",
      "type": "video",
      "source": "pexels",
-     "author": "teyi  \u5f90",
+     "author": "teyi  徐",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/suburban-houses-during-winter-snowfall-30040485/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S08__thumb__belong-module9-S08-V15.jpg",
@@ -6664,8 +6644,8 @@
   },
   {
    "id": "S13",
-   "script_line": "Read them \u2014 even the harsh ones, especially the harsh ones. A review is a complaint we didn't get to hear in person, so hear it now. We respond to every one, always with class, never defensively. A future guest reading o",
-   "visual_direction": "The recovery was the story \u2014 the family who came back every year since",
+   "script_line": "Read them — even the harsh ones, especially the harsh ones. A review is a complaint we didn't get to hear in person, so hear it now. We respond to every one, always with class, never defensively. A future guest reading o",
+   "visual_direction": "The recovery was the story — the family who came back every year since",
    "t": 261.52,
    "end": 347.56,
    "quota": {
@@ -6967,7 +6947,7 @@
      "id": "belong-m9-S13-I04",
      "type": "image",
      "source": "pexels",
-     "author": "Cl\u00e9ment Proust",
+     "author": "Clément Proust",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/people-working-on-a-farm-in-france-during-harvest-38135183/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-I04.jpg",
@@ -7631,7 +7611,7 @@
      "id": "belong-module9-S13-V65",
      "type": "video",
      "source": "pexels",
-     "author": "S\u00e9rgio Souza",
+     "author": "Sérgio Souza",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-grand-mountain-resort-architecture-29487905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V65.jpg",
@@ -7702,6 +7682,6 @@
    ]
   }
  ],
- "title": "Belong \u2014 Module 9: Service Recovery",
+ "title": "Belong — Module 9: Service Recovery",
  "project": "belong-module9"
 }
