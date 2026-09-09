@@ -6298,12 +6298,21 @@
      "page_url": "https://www.pexels.com/video/hand-writing-checklist-in-notebook-for-task-management-36343656/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V02.mp4",
-     "score": 10.62,
+     "score": 6.95,
      "categories": [],
      "title": "video hand writing checklist notebook for task management",
      "query": "manager reviewing notes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 5,
+     "caption": "a hand checks off items in a handwritten paper checklist",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-checklist-notebook-hand",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V03",
@@ -6314,14 +6323,23 @@
      "page_url": "https://www.pexels.com/video/digital-checklist-completion-on-tablet-33314951/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V03.mp4",
-     "score": 10.31,
+     "score": 4.35,
      "categories": [
       "table"
      ],
      "title": "video digital checklist completion tablet",
      "query": "checklist hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand checks off items on a digital tablet checklist",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tablet-checklist",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V04",
@@ -6332,14 +6350,23 @@
      "page_url": "https://www.pexels.com/video/digital-tablet-checklist-management-in-action-32082738/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V04.mp4",
-     "score": 10.31,
+     "score": 4.35,
      "categories": [
       "table"
      ],
      "title": "video digital tablet checklist management action",
      "query": "checklist hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand marks items complete on a tablet checklist with a stylus",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tablet-checklist",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V05",
@@ -6350,14 +6377,23 @@
      "page_url": "https://pixabay.com/videos/id-20857/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V05.mp4",
-     "score": 9.32,
+     "score": 1.05,
      "categories": [
       "hands"
      ],
      "title": "pay  money  dollar  hands  currency  bank note  finance  business  paper money  cash and cash equivalents  bank  seem  a",
      "query": "manager reviewing notes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "hands count and fan out stacks of cash",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cash-counting-hands",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S10-V06",
@@ -6368,12 +6404,21 @@
      "page_url": "https://pixabay.com/videos/id-31772/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V06.mp4",
-     "score": 9.02,
+     "score": 0.0,
      "categories": [],
      "title": "infographic  line chart  stats  survey  infograph  business  marketing  analytic  data  performance  growth  finance  pa",
      "query": "manager reviewing notes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a glowing line chart animates rising and falling values",
+     "violation": "abstract graphic",
+     "shot": "",
+     "shoot": "pixabay-line-chart-graphic",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m9-S10-V07",
@@ -6384,12 +6429,21 @@
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V07.mp4",
-     "score": 7.51,
+     "score": 1.05,
      "categories": [],
      "title": "sand  hand  beach  dessert  sea  live wallpaper",
      "query": "checklist hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "sand trickles through a hand held palm up outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-hand",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m9-S10-V08",
@@ -6400,14 +6454,23 @@
      "page_url": "https://www.pexels.com/video/chef-washing-the-utensils-8627111/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V08.mp4",
-     "score": 15.83,
+     "score": 2.7,
      "categories": [
       "chef"
      ],
      "title": "video chef washing the utensils",
      "query": "hospitality staff huddle kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a chef washes dishes at a stainless steel kitchen sink",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-washing-dishes",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V09",
@@ -6418,7 +6481,7 @@
      "page_url": "https://www.pexels.com/video/chef-in-professional-kitchen-standing-calmly-29815092/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V09.mp4",
-     "score": 15.83,
+     "score": 2.05,
      "categories": [
       "chef",
       "kitchen"
@@ -6426,7 +6489,16 @@
      "title": "video chef professional kitchen standing calmly",
      "query": "hospitality staff huddle kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "an older chef in uniform stands calmly in a commercial kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-portrait-kitchen",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V10",
@@ -6437,7 +6509,7 @@
      "page_url": "https://pixabay.com/videos/id-29887/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V10.mp4",
-     "score": 15.76,
+     "score": 2.4,
      "categories": [
       "chef",
       "cooking",
@@ -6448,7 +6520,16 @@
      "title": "recipes  food  cooking  chef  ingredient  preparation  homemade  cuisine  kitchen  ipad  table  search  web  culinary  c",
      "query": "chef writing notes kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a tablet displays a recipe beside a wooden table set with utensils",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tablet-recipe-table",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V11",
@@ -6459,7 +6540,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-a-chef-s-uniform-is-cooking-in-a-kitchen-4252301/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V11.mp4",
-     "score": 14.96,
+     "score": 2.4,
      "categories": [
       "chef",
       "cooking",
@@ -6468,7 +6549,16 @@
      "title": "video man chef uniform cooking kitchen",
      "query": "chef writing notes kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a chef prepares food beside hanging knives in a restaurant kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-prep-kitchen",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V12",
@@ -6479,7 +6569,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-apron-cooking-in-a-kitchen-4253148/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V12.mp4",
-     "score": 14.96,
+     "score": 2.05,
      "categories": [
       "cooking",
       "kitchen"
@@ -6487,7 +6577,16 @@
      "title": "video man apron cooking kitchen",
      "query": "chef writing notes kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a chef cooks in a pan at a marble kitchen counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-chef-pan-marble",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m9-S10-V13",
@@ -6498,7 +6597,7 @@
      "page_url": "https://pixabay.com/videos/id-197205/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V13.mp4",
-     "score": 14.56,
+     "score": 2.4,
      "categories": [
       "chef",
       "kitchen",
@@ -6508,7 +6607,16 @@
      "title": "cook  kitchen  chef  food  salad  vegetables  healthy  nutrition  gastronomy",
      "query": "chef writing notes kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a hand stirs vegetables in a pan on a gas stove",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hand-stir-pan",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-V14",
@@ -6519,7 +6627,7 @@
      "page_url": "https://pixabay.com/videos/id-149665/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-m9-S10-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-m9-S10-V14.mp4",
-     "score": 14.56,
+     "score": 2.75,
      "categories": [
       "kitchen",
       "table",
@@ -6528,7 +6636,16 @@
      "title": "chili  vegetables  ingredients  kitchen  cook",
      "query": "hospitality staff huddle kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-m9-S10-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "hands slice red chilies on a wooden cutting board beside fresh vegetables",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hands-chop-chilies",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S10-I01",
@@ -6639,7 +6756,7 @@
      "page_url": "https://pixabay.com/videos/id-130651/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V16.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  person  people",
      "query": "worker hospitality",
@@ -6648,7 +6765,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a smiling woman in a mustard sweater holds a white bag in a doorway",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-doorway-smile",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V17",
@@ -6659,7 +6785,7 @@
      "page_url": "https://www.pexels.com/video/a-bartender-cleaning-a-glass-9199136/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V17.mp4",
-     "score": 0,
+     "score": 2.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6668,7 +6794,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a waiter in an apron serves customers from a small coffee counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-waiter-coffee-counter",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-module9-S10-V18",
@@ -6679,7 +6814,7 @@
      "page_url": "https://www.pexels.com/video/a-receptionist-giving-a-key-card-to-a-client-7820467/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V18.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6688,7 +6823,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a desert highway stretches toward mesas under a sunset sky",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-desert-highway-sunset",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V19",
@@ -6699,7 +6843,7 @@
      "page_url": "https://www.pexels.com/video/young-man-walking-in-corridor-come-across-twin-little-girls-5371496/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V19.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6708,7 +6852,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a factory worker in a hairnet folds blue textiles on a production line",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pexels-factory-textile-fold",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V20",
@@ -6719,7 +6872,7 @@
      "page_url": "https://www.pexels.com/video/buffet-breakfast-at-luxurious-beach-resort-30403007/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V20.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6728,7 +6881,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "road rollers pave a stretch of asphalt in a line",
+     "violation": "construction / building trades",
+     "shot": "",
+     "shoot": "pixabay-road-roller-paving",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V21",
@@ -6739,7 +6901,7 @@
      "page_url": "https://www.pexels.com/video/smiling-receptionist-in-corporate-setting-28828093/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V21.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6748,7 +6910,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked couple with luggage stands in an upscale hotel lobby",
+     "violation": "face masks / corporate lobby",
+     "shot": "",
+     "shoot": "pexels-masked-lobby-luggage",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V22",
@@ -6759,7 +6930,7 @@
      "page_url": "https://www.pexels.com/video/a-hotel-receptionist-working-at-the-front-desk-7820505/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6768,7 +6939,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "workers sew fabric at rows of industrial machines in a garment factory",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pixabay-garment-factory-sewing",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V23",
@@ -6779,7 +6959,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-signing-a-document-at-the-front-desk-7820466/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V23.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6788,7 +6968,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker adjusts thread at an industrial sewing machine in a factory",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pixabay-garment-factory-sewing",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V24",
@@ -6799,7 +6988,7 @@
      "page_url": "https://www.pexels.com/video/close-up-video-of-a-hotel-desk-bell-5378937/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V24.mp4",
-     "score": 0,
+     "score": 3.25,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality",
@@ -6808,7 +6997,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a masked woman signs papers at a reception desk then answers a phone call",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-masked-reception-signing-phone",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V25",
@@ -6819,7 +7017,7 @@
      "page_url": "https://www.pexels.com/video/a-receptionist-assisting-a-client-in-the-hotel-7820474/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V25.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality guest",
@@ -6828,7 +7026,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "bellhops in red uniforms push luggage carts through a marble hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bellhop-marble-corridor",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S10-V26",
@@ -6839,7 +7046,7 @@
      "page_url": "https://www.pexels.com/video/concierge-pushing-trolley-in-hotel-lobby-6474559/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__thumb__belong-module9-S10-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S10__preview__belong-module9-S10-V26.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality guest",
@@ -6848,7 +7055,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S10__strip__belong-module9-S10-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a bellhop in a red uniform pushes a luggage cart through a marble hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bellhop-marble-corridor",
+     "judged_at": "2026-09-09T16:37:34Z",
+     "rank": 19,
+     "shown": false
     }
    ],
    "shots": [
@@ -6888,7 +7104,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T16:37:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:37:34Z"
   },
   {
    "id": "S02",
