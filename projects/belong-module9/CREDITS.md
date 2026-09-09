@@ -312,3 +312,13 @@
 | pixabay | ipad  imac  tablet  desktop  iphone  monitor  computer  disp | starroom | Pixabay Content License | https://pixabay.com/videos/id-2988/ |
 | pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-woman-holding-a-gift-7583214/ |
 | pixabay | iphone  computer  mouse click  computing  online  communicat | starroom | Pixabay Content License | https://pixabay.com/videos/id-2967/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-close-up-of-a-woman-placing-a-menu-on-a-stand-8426099/ |
+| pixabay | asian woman  post workout  stretching  home workout  yoga ma | RainMeditateHub | Pixabay Content License | https://pixabay.com/videos/id-293082/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/waiter-putting-on-gloves-then-makes-the-ok-sign-6816206/ |
+| pexels |  | Mohan Niwas | Pexels License | https://www.pexels.com/video/aerial-view-of-brijwasi-lands-inn-hotel-complex-35670041/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-with-suitcase-while-waiting-7820836/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-waiter-approaching-his-guests-8921927/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/patient-in-a-reception-of-a-clinic-6755024/ |
+| pexels |  | Vimeo | Pexels License | https://www.pexels.com/video/hotel-food-and-interior-857151/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-putting-a-sign-in-a-hotel-room-door-6466570/ |
+| pexels |  | khanhhoangminh  3 | Pexels License | https://www.pexels.com/video/bartender-pouring-spirits-into-jigger-at-bar-28931120/ |
