@@ -1819,7 +1819,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pexels_32244795_builder-smartphone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pexels_32244795_builder-smartphone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pexels_32244795_builder-smartphone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "two hi-vis workers confer inside a scaffolded steel-frame interior",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-scaffold-interior-confer",
+     "score": 3.3,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_5100043_site-inspector-tablet",
@@ -1831,7 +1841,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pexels_5100043_site-inspector-tablet.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pexels_5100043_site-inspector-tablet.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pexels_5100043_site-inspector-tablet.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a worker in overalls checks a phone beside a concrete warehouse wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-overalls-phone-warehouse",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6474392_hardhat-phone",
@@ -1843,7 +1863,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pexels_6474392_hardhat-phone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pexels_6474392_hardhat-phone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pexels_6474392_hardhat-phone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a worker in a hardhat views a phone inside an unfinished room",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hardhat-phone-unfinished-room",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8963678_engineer-tablet-site",
@@ -1855,7 +1885,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pexels_8963678_engineer-tablet-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pexels_8963678_engineer-tablet-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pexels_8963678_engineer-tablet-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "a worker holds a tablet beneath a massive steel frame",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-steel-frame-tablet",
+     "score": 3.95,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8964771_site-inspector-tablet",
@@ -1867,7 +1907,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pexels_8964771_site-inspector-tablet.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pexels_8964771_site-inspector-tablet.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pexels_8964771_site-inspector-tablet.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "two hardhat workers with a tablet stand on a platform near a tower crane",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-platform-crane-tablet-pair",
+     "score": 3.95,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_202987_worker-checking-phone",
@@ -1889,7 +1939,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pixabay_3741_engineer-tablet-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pixabay_3741_engineer-tablet-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__strip__pixabay_3741_engineer-tablet-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of a large quarry with multiple excavators and trucks",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-quarry-aerial-excavators",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:54:48Z",
+     "rank": 6,
+     "shown": true
     }
    ],
    "shots": [
@@ -1921,7 +1981,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:54:48Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:54:48Z"
   },
   {
    "id": "S08",
