@@ -107,3 +107,113 @@
 | pixabay | agriculture  tractor  planting  field  farm  machine  indust | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1098/ |
 | pixabay | windmill  agriculture  farm  rural  mill  wind  power  old   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-784/ |
 | pixabay | field  harvester  farm  cereals  cornfield  farming | orko46 | Pixabay Content License | https://pixabay.com/videos/id-45221/ |
+| pexels | lush green farmland aerial view in countryside | Toàn BDS | Pexels License | https://www.pexels.com/video/lush-green-farmland-aerial-view-in-countryside-33701756/ |
+| pexels | aerial footage of the rural area in the middle of agricultur | Tom Fisk | Pexels License | https://www.pexels.com/video/aerial-footage-of-the-rural-area-in-the-middle-of-agricultural-land-6319515/ |
+| pexels | scenic aerial view of lush green countryside | just a hobby | Pexels License | https://www.pexels.com/video/scenic-aerial-view-of-lush-green-countryside-34386466/ |
+| pexels | an aerial view of a village with green trees and houses | Cuong Nguyen | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-village-with-green-trees-and-houses-18990565/ |
+| pexels | walking on path time lapse | Pixabay | Pexels License | https://www.pexels.com/video/walking-on-path-time-lapse-856559/ |
+| pexels | drone footage of a farmland | Luciann Photography | Pexels License | https://www.pexels.com/video/drone-footage-of-a-farmland-4739711/ |
+| pexels | man in swamp walking on planks | Seven Seil | Pexels License | https://www.pexels.com/video/man-in-swamp-walking-on-planks-12058591/ |
+| pexels | drone shot of farmland | Chris Flaten | Pexels License | https://www.pexels.com/video/drone-shot-of-farmland-6196141/ |
+| pexels | village among trees and hills | Matheus Bertelli | Pexels License | https://www.pexels.com/video/village-among-trees-and-hills-13869648/ |
+| pexels | aerial view of lush greenery and hills | Chanaka Herath | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-greenery-and-hills-30201267/ |
+| pexels | a person is walking down a dirt path | tan hong thai 薪 鴻 泰 | Pexels License | https://www.pexels.com/video/a-person-is-walking-down-a-dirt-path-27864930/ |
+| pexels | woman walking through a wooden walkway | Taryn Elliott | Pexels License | https://www.pexels.com/video/woman-walking-through-a-wooden-walkway-6434200/ |
+| pexels | aerial view of scenic riverside path and huts | NGUYỄN THÀNH NHƠN | Pexels License | https://www.pexels.com/video/aerial-view-of-scenic-riverside-path-and-huts-35650627/ |
+| pexels | aerial view of long wooden boardwalk in nature reserve | Raul Oja | Pexels License | https://www.pexels.com/video/aerial-view-of-long-wooden-boardwalk-in-nature-reserve-30049753/ |
+| pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pixabay | walking  sneakers  nike  shoes  walk  path  outdoors  lifest | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3171/ |
+| pixabay | hosing  watering  gardening  garden  water  sprinkler  hose  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-145/ |
+| pixabay | carrot  plant  gardening  nature  lapse | waterlettuce | Pixabay Content License | https://pixabay.com/videos/id-10646/ |
+| pixabay | escalator  airport  terminal  moving  transport  technology  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3593/ |
+| pixabay | bridge  wood  romantic  landscape  railing  transition  wate | AndyFaeth | Pixabay Content License | https://pixabay.com/videos/id-45140/ |
+| pixabay | walk  welcome  slow  legs  feet  shoes  trainers  pants  tro | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-47128/ |
+| pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
+| pexels | close up button operation in dark control room | Media Hopper Studio | Pexels License | https://www.pexels.com/video/close-up-button-operation-in-dark-control-room-38958215/ |
+| pexels | securely closing a modern window for insulation | Rec Everywhere | Pexels License | https://www.pexels.com/video/securely-closing-a-modern-window-for-insulation-32078278/ |
+| pexels | industrial control panel with colorful buttons | Dominik Zítka | Pexels License | https://www.pexels.com/video/industrial-control-panel-with-colorful-buttons-31751401/ |
+| pexels | adjusting smart thermostat on radiator | Jakub Bukowski | Pexels License | https://www.pexels.com/video/adjusting-smart-thermostat-on-radiator-35999366/ |
+| pexels | a person wearing a glove handing over a glucometer | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-wearing-a-glove-handing-over-a-glucometer-8670975/ |
+| pexels | smart home button | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/smart-home-button-25951436/ |
+| pexels | a man dancing | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-dancing-6221600/ |
+| pexels | light bulb going on and off | Coverr | Pexels License | https://www.pexels.com/video/light-bulb-going-on-and-off-853772/ |
+| pexels | old and abandoned house | Arnie Chou | Pexels License | https://www.pexels.com/video/old-and-abandoned-house-2069138/ |
+| pexels | new furnitures inside a new house | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/new-furnitures-inside-a-new-house-7347885/ |
+| pexels | oriental coffee ritual with hand and mug | uhumrea D. | Pexels License | https://www.pexels.com/video/oriental-coffee-ritual-with-hand-and-mug-39431248/ |
+| pexels | man posing inside a swimming pool | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-posing-inside-a-swimming-pool-6616603/ |
+| pexels | barista crafting perfect latte art | Yasin Onuş | Pexels License | https://www.pexels.com/video/barista-crafting-perfect-latte-art-36838680/ |
+| pexels | women having sauna | Ron Lach | Pexels License | https://www.pexels.com/video/women-having-sauna-9165939/ |
+| pixabay | garden  gate  lantern  evening  dusk  glowing  warm light  c | MoonpetalMedia | Pixabay Content License | https://pixabay.com/videos/id-345342/ |
+| pixabay | ruins  house  burnt  burned  building  door  windows | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20263/ |
+| pixabay | swimming pool  pool  vacation  leisure  resort  aerial view  | Ian5152 | Pixabay Content License | https://pixabay.com/videos/id-213833/ |
+| pixabay | swimming pool  resort  holiday  night  pool lights  aerial v | Ian5152 | Pixabay Content License | https://pixabay.com/videos/id-214928/ |
+| pixabay | swimming  pool  water  indoor  swimming pool  race  sports   | jcax2 | Pixabay Content License | https://pixabay.com/videos/id-1343/ |
+| pixabay | garden  gate  moonlight  night  enchanted  fantasy  fireflie | MoonpetalMedia | Pixabay Content License | https://pixabay.com/videos/id-345345/ |
+| pixabay | light  blur  christmas  bright  night light  joy  happy  hap | PicturalU | Pixabay Content License | https://pixabay.com/videos/id-137460/ |
+| pixabay | fairy light arch  light archway  glowing lights  string ligh | MoonpetalMedia | Pixabay Content License | https://pixabay.com/videos/id-345097/ |
+| pexels | a baking sheet with cookies on it in the kitchen | Image Hunter | Pexels License | https://www.pexels.com/video/a-baking-sheet-with-cookies-on-it-in-the-kitchen-27818226/ |
+| pexels | a woman getting a food in the fridge | Alena Darmel | Pexels License | https://www.pexels.com/video/a-woman-getting-a-food-in-the-fridge-6651252/ |
+| pexels | a person rubbing a raw turkey | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-rubbing-a-raw-turkey-5848453/ |
+| pexels | italian bread | khezez  | خزاز | Pexels License | https://www.pexels.com/video/italian-bread-26620537/ |
+| pexels | a woman listing a weekly meal plan | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-woman-listing-a-weekly-meal-plan-8845456/ |
+| pexels | a person slicing a vegetable | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-slicing-a-vegetable-8625872/ |
+| pexels | home cooking slicing red peppers in kitchen | Florian Delée | Pexels License | https://www.pexels.com/video/home-cooking-slicing-red-peppers-in-kitchen-37239371/ |
+| pexels | people working together | cottonbro studio | Pexels License | https://www.pexels.com/video/people-working-together-6566845/ |
+| pexels | a chef washing a baking tray in a kitchen | Kampus Production | Pexels License | https://www.pexels.com/video/a-chef-washing-a-baking-tray-in-a-kitchen-8627106/ |
+| pexels | woman opening the refrigerator | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-opening-the-refrigerator-7801575/ |
+| pexels | person baking a pizza | Kampus Production | Pexels License | https://www.pexels.com/video/person-baking-a-pizza-8627108/ |
+| pexels | delicious fried finger foods on metal tray | Naresh Babu | Pexels License | https://www.pexels.com/video/delicious-fried-finger-foods-on-metal-tray-34614973/ |
+| pexels | woman writing on a notebook | Katya Wolf | Pexels License | https://www.pexels.com/video/woman-writing-on-a-notebook-8705266/ |
+| pexels | culinary technique for cutting vegetables carrots for baking | Ahimsa -  OM | Pexels License | https://www.pexels.com/video/culinary-technique-for-cutting-vegetables-carrots-for-baking-in-the-oven-with-potatoes-20024041/ |
+| pixabay | cooking  steak  food  meat  beef  meal  pepper  fresh  barbe | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11655/ |
+| pixabay | cook  wooden spoon  knife  kitchen  vegetables  board  3d  b | MasterTux | Pixabay Content License | https://pixabay.com/videos/id-65104/ |
+| pixabay | meat  loin  food  frying  kitchen  dish  lunch  chops  cook  | krzys16 | Pixabay Content License | https://pixabay.com/videos/id-2640/ |
+| pixabay | boss  employee  talking  angry  argument | Samidurrakzai | Pixabay Content License | https://pixabay.com/videos/id-202135/ |
+| pixabay | woman  welcome  social media  hello  girl  reading  teach  e | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pixabay | woman  social networking  post  website management  communic | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174003/ |
+| pixabay | talk  discussion  meeting  team  group  conference  discuss  | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1112/ |
+| pixabay | conversation  talking  chatting  meet up  communication  peo | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75999/ |
+| pexels | close up view of person s hands opening the lid | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-view-of-person-s-hands-opening-the-lid-5332652/ |
+| pexels | pouring sugar into jar on kitchen counter | Ahimsa -  OM | Pexels License | https://www.pexels.com/video/pouring-sugar-into-jar-on-kitchen-counter-36865173/ |
+| pexels | woman looking at a magazine on the kitchen counter | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-looking-at-a-magazine-on-the-kitchen-counter-8581177/ |
+| pexels | video of a jars in cabinet | RDNE Stock project | Pexels License | https://www.pexels.com/video/video-of-a-jars-in-cabinet-8580861/ |
+| pexels | footage of different glass jar with different snaks | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/footage-of-different-glass-jar-with-different-snaks-3735234/ |
+| pexels | turkish street vendor prepares pickles | Mesut  Yalçın | Pexels License | https://www.pexels.com/video/turkish-street-vendor-prepares-pickles-37187923/ |
+| pexels | filled glass containers inside a kitchen cabinet | RDNE Stock project | Pexels License | https://www.pexels.com/video/filled-glass-containers-inside-a-kitchen-cabinet-8580869/ |
+| pexels | shelf with different spices | Taryn Elliott | Pexels License | https://www.pexels.com/video/shelf-with-different-spices-4487974/ |
+| pexels | professional chef seasoning dish in modern kitchen | Floating Rabbit | Pexels License | https://www.pexels.com/video/professional-chef-seasoning-dish-in-modern-kitchen-33739011/ |
+| pexels | two men in aprons are cooking food in a kitchen | cottonbro studio | Pexels License | https://www.pexels.com/video/two-men-in-aprons-are-cooking-food-in-a-kitchen-4253355/ |
+| pexels | baking ingredients being measured in kitchen | Anh Nguyen | Pexels License | https://www.pexels.com/video/baking-ingredients-being-measured-in-kitchen-34215377/ |
+| pexels | chef preparing fresh burritos in restaurant kitchen | Cromwell Ken | Pexels License | https://www.pexels.com/video/chef-preparing-fresh-burritos-in-restaurant-kitchen-31887618/ |
+| pexels | a man mixing the pot in the kitchen | Phillips Vinegar | Pexels License | https://www.pexels.com/video/a-man-mixing-the-pot-in-the-kitchen-6390324/ |
+| pexels | chef cooking in a food trucks kitchen | RDNE Stock project | Pexels License | https://www.pexels.com/video/chef-cooking-in-a-food-trucks-kitchen-5780553/ |
+| pixabay | tomatoes  greenhouse  plant  vegetables  green  immature  fo | My_movie | Pixabay Content License | https://pixabay.com/videos/id-76994/ |
+| pixabay | kitchen  nutrition  onion  vegetables  healthy diet  product | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-14418/ |
+| pixabay | tomatoes  greenhouse  plant  vegetables  green  immature  fo | My_movie | Pixabay Content License | https://pixabay.com/videos/id-76996/ |
+| pixabay | vegetables  greens  kitchen  cook  preparation  healthy  foo | 32141219 | Pixabay Content License | https://pixabay.com/videos/id-143425/ |
+| pixabay | kimchi  korean  vegetables  korean food  cabbage field | u_rgr8t6q2jq | Pixabay Content License | https://pixabay.com/videos/id-269483/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pixabay | salad  food  kitchen  white cabbage  restaurant  healthy  di | sergiolopezrguez | Pixabay Content License | https://pixabay.com/videos/id-48042/ |
+| pixabay | cabbage tomato  stir fry  dish  food  meal  vegetable  cabba | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11719/ |
+| pexels | rustic fountain water flowing outdoors | Cihan Çimen | Pexels License | https://www.pexels.com/video/rustic-fountain-water-flowing-outdoors-32068606/ |
+| pexels | water pouring into the bathtub | Taryn Elliott | Pexels License | https://www.pexels.com/video/water-pouring-into-the-bathtub-3779988/ |
+| pexels | traditional japanese water purification ritual | 明珠 梁 | Pexels License | https://www.pexels.com/video/traditional-japanese-water-purification-ritual-34634173/ |
+| pexels | serene cascading water fountain in park | Melike | Pexels License | https://www.pexels.com/video/serene-cascading-water-fountain-in-park-38903612/ |
+| pexels | tranquil garden water dripping into stone basin | Candelario Benítez | Pexels License | https://www.pexels.com/video/tranquil-garden-water-dripping-into-stone-basin-32102286/ |
+| pexels | rural life boys fetching water in black and white | Nothing Ahead | Pexels License | https://www.pexels.com/video/rural-life-boys-fetching-water-in-black-and-white-34835016/ |
+| pexels | outdoor water faucet with flowing stream | 정규송 Nui MALAMA | Pexels License | https://www.pexels.com/video/outdoor-water-faucet-with-flowing-stream-34314520/ |
+| pexels | a woman looking at the camera | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-looking-at-the-camera-10222206/ |
+| pexels | paramedic writing | RDNE Stock project | Pexels License | https://www.pexels.com/video/paramedic-writing-6520274/ |
+| pexels | a man writing on a paper in a clipboard | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-writing-on-a-paper-in-a-clipboard-8293501/ |
+| pexels | delivery man writing delivery details | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/delivery-man-writing-delivery-details-6170423/ |
+| pexels | a man writing on the clipboard | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-writing-on-the-clipboard-7463957/ |
+| pexels | man writing on a clipboard | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-writing-on-a-clipboard-6169403/ |
+| pexels | a courier looking at papers on a clipboard | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-courier-looking-at-papers-on-a-clipboard-6637313/ |
+| pixabay | library  books  the corridor  window  rack  the culture  rea | klimkin | Pixabay Content License | https://pixabay.com/videos/id-846/ |
+| pixabay | door  squeak  door opening | tv84 | Pixabay Content License | https://pixabay.com/videos/id-6714/ |
+| pixabay | spectrum  green  react  music  sound  meter  analyser  disco | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5167/ |
+| pixabay | key  take  open  key code  instrument  door | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131988/ |
+| pixabay | ruins  house  burnt  burned  building  door  nails  light  a | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20265/ |
+| pixabay | door  lock  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20459/ |
+| pixabay | gate  door  afterlife  ghost  journey  new age  out of body  | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-203363/ |
+| pixabay | door  wood  shed  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20458/ |
