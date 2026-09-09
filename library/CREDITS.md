@@ -767,3 +767,33 @@
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-posing-for-the-camera-5846626/ |
 | pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/lumberjack-using-chainsaw-in-forest-36130775/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-posing-for-photoshoot-6197062/ |
+| pexels |  | Magda Ehlers | Pexels License | https://www.pexels.com/video/a-person-is-using-a-drill-to-fix-a-hole-24964774/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-digging-5479433/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/dirty-paint-roller-with-grey-color-6474359/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-rubbing-a-sandpaper-on-a-surface-6474179/ |
+| pexels |  | Pexels User | Pexels License | https://www.pexels.com/video/skilled-workers-applying-concrete-floor-indoors-35769623/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-getting-the-wall-scraper-from-a-black-case-6474083/ |
+| pexels |  | Luis Quintero | Pexels License | https://www.pexels.com/video/a-person-wearing-black-sneakers-3757014/ |
+| pexels |  | Luis Quintero | Pexels License | https://www.pexels.com/video/footage-of-a-car-in-the-parking-lot-3757057/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/person-holding-a-skateboard-7644457/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-arranging-the-table-runner-6271237/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/a-man-wiping-dishes-7227058/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-father-calling-his-kids-for-breakfast-8746856/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/assorted-screws-and-bolts-7862522/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/person-grabbing-a-screw-from-a-box-8447827/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-blacksmith-tools-5846386/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/paintbrushes-in-a-steel-bucket-8158268/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/dipping-paintbrushes-in-water-close-up-6214344/ |
+| pixabay | hands  wash  cleansed  cleaning  tap  hygiene  damp  wellnes | Irving_Agui | Pixabay Content License | https://pixabay.com/videos/id-25310/ |
+| pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/drone-setup-by-technician-in-safety-vest-39118278/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/steel-pipes-used-in-pumping-water-from-the-ground-3696034/ |
+| pexels |  | Gylfi Gylfason | Pexels License | https://www.pexels.com/video/majestic-icelandic-waterfall-mist-at-sunset-30227457/ |
+| pexels |  | JULLIAN PRODUCTION | Pexels License | https://www.pexels.com/video/intense-workout-session-in-a-garage-gym-35623338/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-looking-in-the-camera-7006655/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-couple-spending-time-with-each-other-4842632/ |
+| pexels |  | VIDEOS2B Amazon Productions | Pexels License | https://www.pexels.com/video/a-person-holding-a-drill-in-their-hand-27981584/ |
+| pixabay | public transport  subway  train  metro  holding on  hands  g | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3616/ |
+| pixabay | hands  hand cream  cream  health  skin  care | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38079/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-standing-side-by-side-8486879/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/men-eating-break-warehouse-4296998/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/colleague-discussing-plans-for-the-construction-materials-6568705/ |
