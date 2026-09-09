@@ -62,3 +62,135 @@
 | pixabay | emirates  arsenal  soccer  london  team  sport  england  cit | GAPR86 | Pixabay Content License | https://pixabay.com/videos/id-150852/ |
 | pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/people-putting-their-hands-together-9464875/ |
 | pixabay | corridor  office  bank  employees  deposit  money  business  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40818/ |
+| pexels | two women enjoying conversation while having coffee | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/two-women-enjoying-conversation-while-having-coffee-4052972/ |
+| pexels | a man and a woman having a conversation while using their el | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-having-a-conversation-while-using-their-electronic-gadgets-4053011/ |
+| pexels | a man and a woman eating pastries while having a conversatio | fauxels | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-eating-pastries-while-having-a-conversation-3251807/ |
+| pexels | close up video of people holding hands | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-video-of-people-holding-hands-4667489/ |
+| pexels | close up view of two person holding each other s hands | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-view-of-two-person-holding-each-other-s-hands-4701507/ |
+| pexels | iced coffee cup in sunlit outdoor setting | Pew Nguyen | Pexels License | https://www.pexels.com/video/iced-coffee-cup-in-sunlit-outdoor-setting-37350206/ |
+| pexels | high angle shot of empty table in the restaurant | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/high-angle-shot-of-empty-table-in-the-restaurant-7426384/ |
+| pexels | two persons talking to each other while holding their coffee | cottonbro studio | Pexels License | https://www.pexels.com/video/two-persons-talking-to-each-other-while-holding-their-coffee-drink-4828608/ |
+| pexels | couple talking while having breakfast | Los Muertos Crew | Pexels License | https://www.pexels.com/video/couple-talking-while-having-breakfast-8880036/ |
+| pexels | woman eating breakfast and taking morning pills | Gabe H | Pexels License | https://www.pexels.com/video/woman-eating-breakfast-and-taking-morning-pills-11125102/ |
+| pexels | a panning shot inside the living room | ‪Amer  Mansour | Pexels License | https://www.pexels.com/video/a-panning-shot-inside-the-living-room-4198330/ |
+| pexels | two women having snack at home | Monstera Production | Pexels License | https://www.pexels.com/video/two-women-having-snack-at-home-5381016/ |
+| pexels | extreme close up shot of a woman | Ron Lach | Pexels License | https://www.pexels.com/video/extreme-close-up-shot-of-a-woman-10272635/ |
+| pexels | extreme close up shot of a person s ear | Kindel Media | Pexels License | https://www.pexels.com/video/extreme-close-up-shot-of-a-person-s-ear-7298066/ |
+| pixabay | woman  coffee  beverage  young  cup  tea  model  pose  drink | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-78736/ |
+| pixabay | table football  game  fun  play  entertainment  football pla | Alessandro89 | Pixabay Content License | https://pixabay.com/videos/id-10024/ |
+| pixabay | trader  woman  portrait  people  selling  africa  face  fema | xtrovarts | Pixabay Content License | https://pixabay.com/videos/id-275172/ |
+| pixabay | woman  model  face  hair  wind  pose  fashion  beauty  skin  | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-79393/ |
+| pixabay | woman  model  look  face  eyes  head  adult  pose  portrait  | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-73711/ |
+| pixabay | cozy  home  cabin  warm  tea  cup  table  relaxing  meditati | Visual_Laurence | Pixabay Content License | https://pixabay.com/videos/id-201968/ |
+| pixabay | girl  young  woman  pose  face  model  female  person  beaut | 8682001 | Pixabay Content License | https://pixabay.com/videos/id-45132/ |
+| pixabay | happy  child  childhood  portrait  fun  happiness  kid  cute | fajarbudi86 | Pixabay Content License | https://pixabay.com/videos/id-44223/ |
+| pexels | close up shot of a glass of wine | Grisha Grishkoff | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-glass-of-wine-4322124/ |
+| pexels | pouring champagne into a wine glass close up | Raphael Kim | Pexels License | https://www.pexels.com/video/pouring-champagne-into-a-wine-glass-close-up-35660678/ |
+| pexels | a glass of wine on a wooden table | K | Pexels License | https://www.pexels.com/video/a-glass-of-wine-on-a-wooden-table-20240575/ |
+| pexels | man pouring wine in a wine glass | Cup of  Couple | Pexels License | https://www.pexels.com/video/man-pouring-wine-in-a-wine-glass-8473088/ |
+| pexels | a person pouring wine in glasses | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-pouring-wine-in-glasses-10508548/ |
+| pexels | pouring red wine in a glass | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/pouring-red-wine-in-a-glass-5666723/ |
+| pexels | pouring red wine in a glass | ArtHouse Studio | Pexels License | https://www.pexels.com/video/pouring-red-wine-in-a-glass-7687087/ |
+| pexels | woman pouring wine in a wine glass | Los Muertos Crew | Pexels License | https://www.pexels.com/video/woman-pouring-wine-in-a-wine-glass-8849303/ |
+| pexels | woman pouring wine on wineglasses | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/woman-pouring-wine-on-wineglasses-5659046/ |
+| pexels | people eating out | Vimeo | Pexels License | https://www.pexels.com/video/people-eating-out-857126/ |
+| pexels | man holding a wine bottle while talking | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-holding-a-wine-bottle-while-talking-8764331/ |
+| pexels | person pouring sparkling wine in a champagne glass | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-pouring-sparkling-wine-in-a-champagne-glass-8764582/ |
+| pexels | husband close her wife eyes | Gustavo Fring | Pexels License | https://www.pexels.com/video/husband-close-her-wife-eyes-7424515/ |
+| pexels | a woman serving dessert | Cedric Fauntleroy | Pexels License | https://www.pexels.com/video/a-woman-serving-dessert-7251245/ |
+| pixabay | wine  red wine  red  celebration  bowl  glass of wine  red w | Luiz-Jorge-Artista | Pixabay Content License | https://pixabay.com/videos/id-3708/ |
+| pixabay | restaurant  wine glasses  wine  glass  drink  celebration  a | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3152/ |
+| pixabay | wine  drink  alcohol  beverage  red wine  glass  celebration | TPMotion | Pixabay Content License | https://pixabay.com/videos/id-81170/ |
+| pixabay | wine  tasting  sommelier  celebration  gourmet  winery  cult | hgmetcalf | Pixabay Content License | https://pixabay.com/videos/id-15983/ |
+| pixabay | grapes  fruit  grapevine  wine growing  food  nature  blue | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-179074/ |
+| pixabay | pie  fruit pie  dessert  coffee  cup | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-233024/ |
+| pixabay | restaurant  meal  lunch  spain  traditional  food  table  pl | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-910/ |
+| pixabay | grapes  blue  fruit  food  grapevine  viticulture  wine grow | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-210602/ |
+| pexels | team meeting with expressive hand gestures | Media Hopper Studio | Pexels License | https://www.pexels.com/video/team-meeting-with-expressive-hand-gestures-38493697/ |
+| pexels | close up view of man wearing eyeglasses smiling | Marcus Aurelius | Pexels License | https://www.pexels.com/video/close-up-view-of-man-wearing-eyeglasses-smiling-6785084/ |
+| pexels | a female colleague | Werner Pfennig | Pexels License | https://www.pexels.com/video/a-female-colleague-6951895/ |
+| pexels | close up of a woman speaking on the phone | Anna Shvets | Pexels License | https://www.pexels.com/video/close-up-of-a-woman-speaking-on-the-phone-12692098/ |
+| pexels | a man talking with women | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-man-talking-with-women-8121048/ |
+| pexels | a group of people listening to someone talking | Werner Pfennig | Pexels License | https://www.pexels.com/video/a-group-of-people-listening-to-someone-talking-6952151/ |
+| pexels | video of psychologist listening to a soldier while taking do | RDNE Stock project | Pexels License | https://www.pexels.com/video/video-of-psychologist-listening-to-a-soldier-while-taking-down-notes-7467741/ |
+| pexels | man looking at the camera while smiling | Marcus Aurelius | Pexels License | https://www.pexels.com/video/man-looking-at-the-camera-while-smiling-6785469/ |
+| pexels | a standing woman speaking in a meeting while the others list | fauxels | Pexels License | https://www.pexels.com/video/a-standing-woman-speaking-in-a-meeting-while-the-others-listen-3255159/ |
+| pexels | man talking on the phone while in a park | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-talking-on-the-phone-while-in-a-park-8052435/ |
+| pexels | a man in apron cooking in a kitchen | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-in-apron-cooking-in-a-kitchen-4253148/ |
+| pexels | authentic asian dumpling preparation in kitchen | Kiwi and Camera | Pexels License | https://www.pexels.com/video/authentic-asian-dumpling-preparation-in-kitchen-38764344/ |
+| pexels | evergreens in the garden | Adailton  Batista | Pexels License | https://www.pexels.com/video/evergreens-in-the-garden-1584837/ |
+| pexels | a girl cooking at the kitchen | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-cooking-at-the-kitchen-8509087/ |
+| pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
+| pixabay | woman  face cream  cosmetics  beauty  model  face  female  l | u_xhp5h45w73 | Pixabay Content License | https://pixabay.com/videos/id-210574/ |
+| pixabay | man  angry  stress  depression  anxiety  male  model  human  | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-61299/ |
+| pixabay | man  think  guess  expression  face  reflection | conte_public | Pixabay Content License | https://pixabay.com/videos/id-203252/ |
+| pixabay | woman  face  color  glow | Shayea_Kim | Pixabay Content License | https://pixabay.com/videos/id-153927/ |
+| pixabay | cook  kitchen  chef  food  salad  vegetables  healthy  nutri | ListosParaRodar | Pixabay Content License | https://pixabay.com/videos/id-197205/ |
+| pixabay | fire  flame  effect  fireplace  warmth  scary  mystical  fac | KlausHausmann | Pixabay Content License | https://pixabay.com/videos/id-133404/ |
+| pixabay | woman  model  blonde  sing  girl  pose  posing  female  face | 8682001 | Pixabay Content License | https://pixabay.com/videos/id-86332/ |
+| pexels | mother and son holding each other hands | Kindel Media | Pexels License | https://www.pexels.com/video/mother-and-son-holding-each-other-hands-8550932/ |
+| pexels | people embracing each other | Ron Lach | Pexels License | https://www.pexels.com/video/people-embracing-each-other-9485959/ |
+| pexels | close up of two people holding hands | Ikechi Ugwoeje | Pexels License | https://www.pexels.com/video/close-up-of-two-people-holding-hands-9653704/ |
+| pexels | a man fixing a watch while following the guide on the book | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-fixing-a-watch-while-following-the-guide-on-the-book-8322051/ |
+| pexels | an elderly man cutting the stem of a plant using shears | Kampus Production | Pexels License | https://www.pexels.com/video/an-elderly-man-cutting-the-stem-of-a-plant-using-shears-7844375/ |
+| pexels | a person trimming plants | Zbigniew Bielecki | Pexels License | https://www.pexels.com/video/a-person-trimming-plants-4153438/ |
+| pexels | a person clapping to make a beat | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-clapping-to-make-a-beat-7313657/ |
+| pexels | hand spinning the bottle cap | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/hand-spinning-the-bottle-cap-6666523/ |
+| pexels | blind man using braille book while woman on assistance | Mikhail Nilov | Pexels License | https://www.pexels.com/video/blind-man-using-braille-book-while-woman-on-assistance-6964548/ |
+| pexels | family gardening together | Kampus Production | Pexels License | https://www.pexels.com/video/family-gardening-together-7844373/ |
+| pexels | a woman pruning a leafless tree in a garden | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-pruning-a-leafless-tree-in-a-garden-11122306/ |
+| pexels | grandfather and his grandchildren gardening together | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-and-his-grandchildren-gardening-together-7844370/ |
+| pexels | blind man reading braille | Mikhail Nilov | Pexels License | https://www.pexels.com/video/blind-man-reading-braille-6964589/ |
+| pexels | a man is cutting down a tree with a chainsaw | utopia 36 | Pexels License | https://www.pexels.com/video/a-man-is-cutting-down-a-tree-with-a-chainsaw-15526295/ |
+| pixabay | exercise  stretching  senior  elder  people  workout  body   | Stuck1 | Pixabay Content License | https://pixabay.com/videos/id-32937/ |
+| pixabay | cpr  cpr training  simulator  cpr mannequin  instructor  pra | marketingvm | Pixabay Content License | https://pixabay.com/videos/id-86507/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189730/ |
+| pixabay | tennis  match  sport  ball  game  trainer  player  athletic  | xat-ch | Pixabay Content License | https://pixabay.com/videos/id-50109/ |
+| pixabay | football  training  evening  sport  drone | fokus_media | Pixabay Content License | https://pixabay.com/videos/id-205193/ |
+| pixabay | woman  workout  active  jogging  running  exercise  fitness  | patw64 | Pixabay Content License | https://pixabay.com/videos/id-81872/ |
+| pixabay | man  box  boxer  gloves  sport  training | u_ixz8smhqj2 | Pixabay Content License | https://pixabay.com/videos/id-216568/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189731/ |
+| pexels | close up shot of a person eating salmon in the restaurant | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-eating-salmon-in-the-restaurant-7244294/ |
+| pexels | close up view of a person serving an appetizer | Bonus Studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-serving-an-appetizer-5498733/ |
+| pexels | man sharing orange with his friends | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/man-sharing-orange-with-his-friends-6184759/ |
+| pexels | a person sharing food | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-sharing-food-6645758/ |
+| pexels | gourmet dishes extreme close up | Bonus Studio | Pexels License | https://www.pexels.com/video/gourmet-dishes-extreme-close-up-5487997/ |
+| pexels | person serving a meal | Bonus Studio | Pexels License | https://www.pexels.com/video/person-serving-a-meal-5498746/ |
+| pexels | waiter serving meal to the customer | Denys Gromov | Pexels License | https://www.pexels.com/video/waiter-serving-meal-to-the-customer-5223106/ |
+| pexels | video of woman putting food on the table | Askar Abayev | Pexels License | https://www.pexels.com/video/video-of-woman-putting-food-on-the-table-6200795/ |
+| pexels | people holding sushi rolls with chopsticks | Ivan S | Pexels License | https://www.pexels.com/video/people-holding-sushi-rolls-with-chopsticks-8907438/ |
+| pexels | a chef using a blow torch on a sushi | Ivan S | Pexels License | https://www.pexels.com/video/a-chef-using-a-blow-torch-on-a-sushi-8902152/ |
+| pexels | people celebrating hanukkah | cottonbro studio | Pexels License | https://www.pexels.com/video/people-celebrating-hanukkah-6054012/ |
+| pexels | video of a woman talking | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/video-of-a-woman-talking-6327101/ |
+| pexels | people setting a table | Ivan S | Pexels License | https://www.pexels.com/video/people-setting-a-table-8877780/ |
+| pexels | a woman smiling and fixing her hair | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-smiling-and-fixing-her-hair-8348418/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | table  meal  dishes  food  cuisine | Charity_donate | Pixabay Content License | https://pixabay.com/videos/id-149935/ |
+| pixabay | breakfast  family  happiness  joy  mother  father  kids  gar | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-172667/ |
+| pixabay | coffee cup  donut  doughnut  table  sunlight | santosjesus90 | Pixabay Content License | https://pixabay.com/videos/id-184736/ |
+| pixabay | kids running  fun  happy  nature  laughing  smiling  ecuador | JayShawflybydrones | Pixabay Content License | https://pixabay.com/videos/id-218795/ |
+| pixabay | girl  drawing  colors  paper  table  school  kindergarten  k | Amir_iMani | Pixabay Content License | https://pixabay.com/videos/id-49395/ |
+| pixabay | bacon  pan  hot  belly bacon  meal  food  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-240531/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pexels | a group of people walking on a bridge | SHEMÁ    . | Pexels License | https://www.pexels.com/video/a-group-of-people-walking-on-a-bridge-27847800/ |
+| pexels | aerial view of park with people forming a circle | Monirul  Islam | Pexels License | https://www.pexels.com/video/aerial-view-of-park-with-people-forming-a-circle-36302987/ |
+| pexels | midtsummers night part 4 | Kurt Tranås | Pexels License | https://www.pexels.com/video/midtsummers-night-part-4-14121171/ |
+| pexels | a group of people wearing safety vests | Ron Lach | Pexels License | https://www.pexels.com/video/a-group-of-people-wearing-safety-vests-10349940/ |
+| pexels | elite tactical operators in action outdoor | Gonzalo Garcia | Pexels License | https://www.pexels.com/video/elite-tactical-operators-in-action-outdoor-34055202/ |
+| pexels | aerial view of kedarkantha trek group circle | Ex Route Adventures | Pexels License | https://www.pexels.com/video/aerial-view-of-kedarkantha-trek-group-circle-30778286/ |
+| pexels | people talking each other in jungle | PNW Production | Pexels License | https://www.pexels.com/video/people-talking-each-other-in-jungle-7624698/ |
+| pexels | people looking at missing posters | Ron Lach | Pexels License | https://www.pexels.com/video/people-looking-at-missing-posters-10349949/ |
+| pexels | hiking on railway tracks | utopia 36 | Pexels License | https://www.pexels.com/video/hiking-on-railway-tracks-12251775/ |
+| pexels | vehicle on agricultural field | khanhhoangminh | Pexels License | https://www.pexels.com/video/vehicle-on-agricultural-field-11382885/ |
+| pexels | man driving a tractor | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/man-driving-a-tractor-2860627/ |
+| pexels | aerial view of rural facility with pathways | New Zealand | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-facility-with-pathways-32146374/ |
+| pexels | drone video of a field | Carsten Link | Pexels License | https://www.pexels.com/video/drone-video-of-a-field-8063196/ |
+| pexels | aerial view of people on rural pathway | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-people-on-rural-pathway-34331163/ |
+| pixabay | walking  sneakers  nike  shoes  walk  path  outdoors  lifest | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3171/ |
+| pixabay | couple  lovers  hands  love  street  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-152798/ |
+| pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pixabay | hands  support  marriage  love  romance  together  romantic  | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-552/ |
+| pixabay | yawn  woman  relax  back  shoulder  ache  pain  disease  bon | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-45286/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
