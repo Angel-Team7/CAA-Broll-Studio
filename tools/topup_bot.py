@@ -142,7 +142,17 @@ EDENRISE_BLOCK = {
 BELONG_BLOCK = {
     "businessman", "boardroom", "hospital", "gym", "casino", "nightclub",
     "skyscraper", "traffic", "factory",
+    # a hospitality lesson never wants the building trades or industry
+    "construction", "builder", "builders", "asphalt", "paver", "road", "roadwork", "excavator",
+    "crane", "scaffold", "scaffolding", "cement", "concrete", "bricklayer", "welder", "welding",
+    "mining", "warehouse", "sewing", "seamstress", "tailor", "mechanic", "assembly", "steel",
+    "helmet", "hardhat", "demolition", "plumber", "electrician", "drill", "forklift", "logistics",
 }
+
+# what a Belong query is built around — the setting is a farmhouse hotel in the Alentejo
+BRAND_PREFIX = {"belong": ["hotel staff", "guesthouse host", "farmhouse hospitality"],
+                "edenrise": ["worker", "hands at work", "outdoor worker"]}
+BRAND_TAIL = {"belong": "guest", "edenrise": "site"}
 
 # a candidate must show a person, their hands, or their work — not a mood
 POSITIVE = {
@@ -158,6 +168,9 @@ POSITIVE = {
     "colleague", "colleagues", "crew", "apprentice", "training", "workshop",
     "helmet", "hardhat", "vest", "engineer", "foreman", "supervisor", "chef",
     "kitchen", "hotel", "waiter", "kneading", "serving", "tiling", "tiles",
+    "guest", "guests", "host", "hostess", "waitress", "receptionist", "reception", "housekeeper",
+    "housekeeping", "maid", "staff", "barista", "bartender", "concierge", "cook", "innkeeper",
+    "hospitality", "farmhouse", "guesthouse", "welcome", "check-in", "breakfast",
 }
 
 def blocked(text, profile):
@@ -398,6 +411,29 @@ def credit_line(c):
     return f"| {c['source']} | {c.get('title','')[:60]} | {c.get('author','')} | {c['license']} | {c.get('page_url','')} |"
 
 # ---------------------------------------------------------------------- main
+def direction_queries(scene, want, profile):
+    """Queries for a 'direction is wrong' search: the reviewer's terms, each set in
+    the brand's world (a Belong beat is a farmhouse hotel, not a building site), plus
+    the beat's own visual brief so a bare note like "hospitality" still lands on
+    what this scene is about."""
+    prefixes = BRAND_PREFIX.get(profile, BRAND_PREFIX["edenrise"])
+    tail = BRAND_TAIL.get(profile, "")
+    qs = []
+    for w in want:
+        qs.append(w if has_signal(w) and profile != "belong" else f"{prefixes[0]} {w}")
+        qs.append(f"{w} {tail}".strip())
+    vd_words = [x for x in re.findall(r"[a-zA-Z]{4,}", scene.get("visual_direction", "").lower())
+                if x not in NOTE_NOISE and x not in {"that", "this", "with", "them", "their", "into", "from", "what", "when", "where", "which", "about", "reaches", "through"}]
+    if vd_words:
+        core = " ".join(vd_words[:3])
+        qs.append(f"{prefixes[1]} {core}")
+        qs.append(f"{core} {tail}".strip())
+    out, seen = [], set()
+    for q in qs:
+        k = q.lower().strip()
+        if k and k not in seen: seen.add(k); out.append(q)
+    return out
+
 def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
@@ -428,9 +464,7 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
         want = [" ".join(w) for w in [re.findall(r"[a-zA-Z]{4,}", vd)[i:i+3]
                                       for i in range(0, 9, 3)] if w]
     if direction and want:
-        subject = " ".join(sorted(VOCAB["subjects"])[:0]) or ""
-        qs = [w if has_signal(w) else f"worker {w}" for w in want]
-        qs += [f"{w} close up" for w in want[:2]]
+        qs = direction_queries(scene, want, profile)
     else:
         qs = queries_for(scene, note)
     print(f"  queries: {qs[:6]}{'…' if len(qs) > 6 else ''}")
