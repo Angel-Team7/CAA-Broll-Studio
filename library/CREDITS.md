@@ -707,3 +707,33 @@
 | pexels |  | Orhan Pergel | Pexels License | https://www.pexels.com/video/a-man-is-holding-a-typewriter-in-his-hand-20413417/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-shovel-and-worker-outdoors-38045743/ |
 | pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-craftsman-working-in-workshop-39310419/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-close-up-of-a-person-cutting-grass-with-a-shovel-20522550/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/man-chopping-wood-6399908/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-machine-tilling-dirt-in-garden-36536098/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-installing-floor-tiles-4729716/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-transferring-a-design-on-a-tile-6023128/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-in-ceramics-workshop-6023466/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-motorcycle-doing-burnout-9607153/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/stylish-blue-drift-car-with-custom-modifications-30626043/ |
+| pexels |  | Rob  Cot | Pexels License | https://www.pexels.com/video/cars-passing-by-the-street-4064327/ |
+| pexels |  | Alef Morais | Pexels License | https://www.pexels.com/video/elegant-wooden-dining-table-with-warm-light-38675656/ |
+| pexels |  | Jep Gambardella | Pexels License | https://www.pexels.com/video/a-mother-cleaning-the-dining-table-6262856/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/elderly-man-exercising-at-home-6970186/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-working-while-wearing-a-beanie-7480739/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-preparing-a-bottle-to-be-cut-7219708/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/auto-mechanic-holding-tools-8986892/ |
+| pexels |  | Anete Lusina | Pexels License | https://www.pexels.com/video/woman-using-paint-brush-and-palette-tray-7284921/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/diverse-paintbrushes-in-bright-room-9738027/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/an-artist-mixing-oil-paint-on-a-palette-6931941/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/man-using-power-spray-6160408/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-man-delivering-food-package-7706003/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-putting-clothes-in-a-washing-machine-5592508/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189731/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-using-smoothing-plane-on-a-wood-plank-6789898/ |
+| pexels |  | NoomaN YolchU | Pexels License | https://www.pexels.com/video/young-man-performing-crunches-in-modern-gym-36484275/ |
+| pexels |  | frank minjarez | Pexels License | https://www.pexels.com/video/adult-assembling-a-cordless-chainsaw-outdoors-34641079/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/machine-handle-with-spider-web-5223091/ |
+| pexels |  | frank minjarez | Pexels License | https://www.pexels.com/video/hand-holding-a-cordless-electric-chainsaw-34641085/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-wearing-hard-hat-8965305/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-asking-a-question-by-doing-sign-language-5211966/ |
+| pexels |  | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-discussing-and-talking-to-each-other-5977261/ |
