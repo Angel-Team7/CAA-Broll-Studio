@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__thumb__pexels_8921929_waiter-genuine-smile.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__preview__pexels_8921929_waiter-genuine-smile.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__strip__pexels_8921929_waiter-genuine-smile.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "a tuxedoed waiter smiles warmly in an ornate formal dining room",
+     "violation": "corporate restaurant / luxury fine dining",
+     "shot": "A",
+     "shoot": "pexels-waiter-genuine-smile",
+     "score": 4.6,
+     "judged_at": "2026-09-09T17:32:40Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_8922353_server-guest-eye-contact",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__thumb__pexels_8922357_warm-restaurant-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__preview__pexels_8922357_warm-restaurant-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S01__strip__pexels_8922357_warm-restaurant-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 2,
+     "caption": "a formally dressed waiter attends guests at an upscale dinner table",
+     "violation": "corporate restaurant / luxury fine dining",
+     "shot": "A",
+     "shoot": "pexels-warm-restaurant-service",
+     "score": 5.25,
+     "judged_at": "2026-09-09T17:32:40Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pexels_37594386_server-guest-eye-contact",
@@ -82,7 +102,13 @@
     "fast food"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:32:40Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:40Z"
   },
   {
    "id": "S02",
@@ -99,7 +125,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__thumb__pexels_36581777_homemade-food-serving.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__preview__pexels_36581777_homemade-food-serving.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__strip__pexels_36581777_homemade-food-serving.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand ladles soup at a table crowded with homemade dishes",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-homemade-food-serving",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8481267_generations-sharing-meal",
@@ -121,7 +157,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__thumb__pexels_9243207_cozy-family-dinner.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__preview__pexels_9243207_cozy-family-dinner.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S02__strip__pexels_9243207_cozy-family-dinner.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a family gathers at a table in a sleek modern wood-paneled home",
+     "violation": "polished catalog kitchen",
+     "shot": "B",
+     "shoot": "pexels-cozy-family-dinner",
+     "score": 4.95,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_17543143_homemade-food-serving",
@@ -173,7 +219,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S03",
@@ -200,7 +252,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__thumb__pexels_6192604_whitewashed-house-entrance.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__preview__pexels_6192604_whitewashed-house-entrance.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__strip__pexels_6192604_whitewashed-house-entrance.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hillside town of whitewashed buildings under blue sky, no people",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-whitewashed-house-entrance",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_201968_warm-welcome-home",
@@ -212,7 +274,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__thumb__pixabay_201968_warm-welcome-home.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__preview__pixabay_201968_warm-welcome-home.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S03__strip__pixabay_201968_warm-welcome-home.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a cozy living room with tea set and cushions, no people",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-warm-welcome-home",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6114267_welcoming-guests-doorway",
@@ -264,7 +336,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S04",
@@ -281,7 +359,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__thumb__pexels_30220797_farmhouse-lights-night.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__preview__pexels_30220797_farmhouse-lights-night.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__strip__pexels_30220797_farmhouse-lights-night.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a warm lantern glows under a wooden porch eave at dusk",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-farmhouse-lights-night",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6181460_family-road-trip-tired",
@@ -303,7 +391,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__thumb__pexels_6670286_sleeping-child-car.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__preview__pexels_6670286_sleeping-child-car.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S04__strip__pexels_6670286_sleeping-child-car.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a young child sleeps peacefully against a shoulder",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sleeping-child-car",
+     "score": 8.0,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_9820925_countryside-road-evening",
@@ -345,7 +443,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S05",
@@ -362,7 +466,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__thumb__pexels_6289652_guest-recognition-smile.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__preview__pexels_6289652_guest-recognition-smile.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__strip__pexels_6289652_guest-recognition-smile.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a woman smiles warmly greeting someone at a doorway at night",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-guest-recognition-smile",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_171044_guest-recognition-smile",
@@ -374,7 +488,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__thumb__pixabay_171044_guest-recognition-smile.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__preview__pixabay_171044_guest-recognition-smile.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S05__strip__pixabay_171044_guest-recognition-smile.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a young man's neutral expression breaks into a genuine smile",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-guest-recognition-smile",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5137967_friendly-check-in",
@@ -426,7 +550,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S06",
@@ -453,7 +583,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__thumb__pexels_15607370_hands-tending-fire.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__preview__pexels_15607370_hands-tending-fire.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__strip__pexels_15607370_hands-tending-fire.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a person tends a small flame in a stone fire pit at dusk",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hands-tending-fire",
+     "score": 8.3,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_3944847_cozy-terrace-blankets",
@@ -465,7 +605,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__thumb__pexels_3944847_cozy-terrace-blankets.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__preview__pexels_3944847_cozy-terrace-blankets.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S06__strip__pexels_3944847_cozy-terrace-blankets.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a flat-lay of folded blankets with a sprig of eucalyptus",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-cozy-terrace-blankets",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_34176198_lighting-fire-pit",
@@ -507,7 +657,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S07",
@@ -534,7 +690,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__thumb__pixabay_281640_locals-sharing-knowledge.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__preview__pixabay_281640_locals-sharing-knowledge.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__strip__pixabay_281640_locals-sharing-knowledge.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial view of a turquoise cove ringed by forested cliffs, no people",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-locals-sharing-knowledge",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_348116_showing-coastline-view",
@@ -546,7 +712,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__thumb__pixabay_348116_showing-coastline-view.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__preview__pixabay_348116_showing-coastline-view.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S07__strip__pixabay_348116_showing-coastline-view.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "aerial straight-down view of a sandy coastline meeting the sea",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-showing-coastline-view",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_37816055_sunset-viewpoint-people",
@@ -588,7 +764,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S08",
@@ -605,7 +787,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__thumb__pexels_4153246_housekeeping-detail-pillow.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__preview__pexels_4153246_housekeeping-detail-pillow.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__strip__pexels_4153246_housekeeping-detail-pillow.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a housekeeper arranges a plain white pillow on a made bed",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-housekeeping-detail-pillow",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5899773_wine-set-table-detail",
@@ -627,7 +819,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__thumb__pexels_6466561_thoughtful-hotel-details.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__preview__pexels_6466561_thoughtful-hotel-details.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S08__strip__pexels_6466561_thoughtful-hotel-details.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a white-gloved staff member tends a bed in an ornate gilded suite",
+     "violation": "luxury hotel decor / white-glove service",
+     "shot": "D",
+     "shoot": "pexels-thoughtful-hotel-details",
+     "score": 3.6,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_6660667_hands-arranging-linen",
@@ -676,7 +878,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S09",
@@ -703,7 +911,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__thumb__pexels_7935042_woman-hammock-relaxing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__preview__pexels_7935042_woman-hammock-relaxing.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__strip__pexels_7935042_woman-hammock-relaxing.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a woman reclines in a hammock on a terrace overlooking hills",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-woman-hammock-relaxing",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_330529_peaceful-terrace-golden-hour",
@@ -715,7 +933,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__thumb__pixabay_330529_peaceful-terrace-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__preview__pixabay_330529_peaceful-terrace-golden-hour.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__strip__pixabay_330529_peaceful-terrace-golden-hour.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "an empty wooden deck overlooks clouds at sunrise, no one present",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-peaceful-terrace-golden-hour",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_41871_woman-hammock-relaxing",
@@ -727,7 +955,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__thumb__pixabay_41871_woman-hammock-relaxing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__preview__pixabay_41871_woman-hammock-relaxing.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S09__strip__pixabay_41871_woman-hammock-relaxing.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "a woman lies in a hammock facing a tropical beach and sailboat",
+     "violation": "resort beach",
+     "shot": "A",
+     "shoot": "pixabay-woman-hammock-relaxing",
+     "score": 2.95,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_13991776_digital-detox-nature",
@@ -779,7 +1017,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   },
   {
    "id": "S10",
@@ -796,7 +1040,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__thumb__pexels_10049404_gardener-dignified-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__preview__pexels_10049404_gardener-dignified-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__strip__pexels_10049404_gardener-dignified-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a woman poses in a greenhouse holding a large bouquet of flowers",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-gardener-dignified-portrait",
+     "score": 4.35,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7482687_artisan-worker-portrait",
@@ -808,7 +1062,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__thumb__pexels_7482687_artisan-worker-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__preview__pexels_7482687_artisan-worker-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module4/S10__strip__pexels_7482687_artisan-worker-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a young worker in overalls stands calmly in a workshop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-artisan-worker-portrait",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:32:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_3914062_hospitality-worker-portrait",
@@ -868,7 +1132,13 @@
     "intense stare into camera"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:32:41Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:32:41Z"
   }
  ]
 }
