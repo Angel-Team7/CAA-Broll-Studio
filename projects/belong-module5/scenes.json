@@ -125,7 +125,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__thumb__pexels_4841394_hands-typing-wooden-desk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__preview__pexels_4841394_hands-typing-wooden-desk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__strip__pexels_4841394_hands-typing-wooden-desk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hands type on a laptop at a wooden desk",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-laptop-woodendesk-hands",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:44:06Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7706820_writing-email-warm-light",
@@ -147,7 +157,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__thumb__pixabay_43459_writing-email-warm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__preview__pixabay_43459_writing-email-warm-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__strip__pixabay_43459_writing-email-warm-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a woman sits on a bed writing by a sunlit curtain",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-bedroom-writing-light",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:44:06Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5386485_writing-email-warm-light",
@@ -189,7 +209,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:44:06Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:44:06Z"
   },
   {
    "id": "S03",
