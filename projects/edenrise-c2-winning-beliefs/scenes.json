@@ -201,7 +201,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Same event. Different meaning. Different result."
+   "onscreen": "Same event. Different meaning. Different result.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman giving feedback to a worker beside a planted bed",
+     "pexels": "foreman giving feedback to gardener",
+     "pixabay": "foreman feedback worker garden",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker looking down, stepping away from the task, discouraged",
+     "pexels": "worker discouraged looking down outdoors",
+     "pixabay": "worker discouraged outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "another worker nodding, taking a note, then trying again",
+     "pexels": "worker taking note nodding trying again",
+     "pixabay": "worker note nodding outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands returning to the tool",
+     "pexels": "hands picking up tool again close",
+     "pixabay": "hands tool pick up close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "split-screen graphics as footage",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S02",
@@ -392,7 +429,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Event → Interpretation → Belief → Self-Talk → Action → Result. Result becomes new evidence."
+   "onscreen": "Event → Interpretation → Belief → Self-Talk → Action → Result. Result becomes new evidence.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker talking quietly to himself while working a bed",
+     "pexels": "worker alone thinking while gardening",
+     "pixabay": "worker thinking gardening alone",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a small event: a dropped tray of seedlings, reaction",
+     "pexels": "dropped tray of seedlings reaction",
+     "pixabay": "dropped seedlings tray",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a thoughtful face, then a decision",
+     "pexels": "thoughtful face decision close up outdoors",
+     "pixabay": "thoughtful face outdoor close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker replanting the seedlings carefully",
+     "pexels": "replanting seedlings carefully",
+     "pixabay": "replanting seedlings hands",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "diagrams as footage",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S03",
@@ -898,7 +972,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Belief = the tabletop. References = the legs. Check the legs."
+   "onscreen": "Belief = the tabletop. References = the legs. Check the legs.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "carpenter building a wooden table in a workshop",
+     "pexels": "carpenter building wooden table workshop",
+     "pixabay": "carpenter table workshop",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a table leg being fitted",
+     "pexels": "fitting table leg close up",
+     "pixabay": "table leg fitting wood",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "hand testing a wobbly table, then checking a leg",
+     "pexels": "hand testing wobbly table",
+     "pixabay": "table leg check hand",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of the finished table standing in the yard",
+     "pexels": "finished wooden table standing yard",
+     "pixabay": "wooden table yard finished",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S04",
@@ -1094,7 +1205,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Beliefs influence what you notice."
+   "onscreen": "Beliefs influence what you notice.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "new equipment arriving at a site, two workers reacting differently",
+     "pexels": "new equipment arriving workers reacting",
+     "pixabay": "new equipment workers site",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one worker frowning at instructions",
+     "pexels": "worker frowning at instructions outdoors",
+     "pixabay": "worker instructions frowning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "another asking a colleague and trying the first step",
+     "pexels": "worker asking colleague trying first step",
+     "pixabay": "worker colleague help try",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands reading a manual page",
+     "pexels": "hands reading manual page close",
+     "pixabay": "hands manual reading",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S05",
@@ -1301,7 +1449,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "A winning belief is realistic, useful, action-oriented."
+   "onscreen": "A winning belief is realistic, useful, action-oriented.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker preparing tools the evening before a difficult job",
+     "pexels": "worker preparing tools evening",
+     "pixabay": "preparing tools evening worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker asking a question of a supervisor calmly",
+     "pexels": "worker asking supervisor question calmly",
+     "pixabay": "worker supervisor question",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a checklist being written",
+     "pexels": "checklist being written close",
+     "pixabay": "checklist writing close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a worker walking toward a task with purpose",
+     "pexels": "worker walking toward task purpose",
+     "pixabay": "worker walking purpose field",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "motivational poster imagery",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S06",
@@ -1684,7 +1869,46 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Self-talk = belief in sentence form."
+   "onscreen": "Self-talk = belief in sentence form.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "technician staying calm during a tricky repair outdoors",
+     "pexels": "technician calm difficult repair outdoors",
+     "pixabay": "technician repair calm outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker in heavy rain finishing a job steadily",
+     "pexels": "worker working steadily in rain",
+     "pixabay": "worker rain working",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of steady hands tightening a fitting",
+     "pexels": "steady hands tightening fitting close",
+     "pixabay": "hands fitting tighten close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two people in a difficult conversation staying composed",
+     "pexels": "two workers difficult conversation composed",
+     "pixabay": "workers conversation serious calm",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "soldiers",
+    "combat",
+    "military",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S07",
@@ -1879,7 +2103,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "1. Catch it  2. Trace it  3. Test it  4. Choose it  5. Prove it"
+   "onscreen": "1. Catch it  2. Trace it  3. Test it  4. Choose it  5. Prove it",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker catching himself mid-thought, hand raised, pausing",
+     "pexels": "worker pausing mid task hand raised",
+     "pixabay": "worker pause thinking hand",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of someone writing on a card and crossing out a word",
+     "pexels": "crossing out word on card close",
+     "pixabay": "crossing out word pen card",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker testing a new approach on a small task",
+     "pexels": "worker testing new approach small task",
+     "pixabay": "worker testing approach garden",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the task done well, worker stepping back",
+     "pexels": "worker stepping back task done",
+     "pixabay": "worker stepping back done",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "diagrams as footage",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S08",
@@ -2095,7 +2356,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Old belief → Avoidance → Less experience → More old evidence. Winning belief → Action → Learning → New evidence."
+   "onscreen": "Old belief → Avoidance → Less experience → More old evidence. Winning belief → Action → Learning → New evidence.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker avoiding a problem, walking past a broken gate",
+     "pexels": "worker walking past broken gate",
+     "pixabay": "broken gate worker walking",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker breaking a problem into steps: laying out parts on the ground",
+     "pexels": "laying out parts on ground repair",
+     "pixabay": "parts ground repair layout",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "asking for input: colleague pointing at a hinge",
+     "pexels": "colleague pointing at hinge help",
+     "pixabay": "colleague hinge pointing help",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of the gate swinging fixed",
+     "pexels": "repaired gate swinging close",
+     "pixabay": "gate repaired swinging",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S09",
@@ -2275,7 +2573,44 @@
     }
    ],
    "timing_source": "estimated",
-   "onscreen": "Listen. Interpret. Choose. Act."
+   "onscreen": "Listen. Interpret. Choose. Act.",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a sentence on a card at a wooden table outdoors",
+     "pexels": "person writing on card wooden table outdoors",
+     "pixabay": "writing card table outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand drawing a simple table sketch on paper",
+     "pexels": "hand drawing sketch on paper close",
+     "pixabay": "hand sketch paper drawing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "crossing out a line and writing a new one",
+     "pexels": "crossing out line writing new one",
+     "pixabay": "crossing out writing new",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker taking one visible action: speaking up in a small crew huddle",
+     "pexels": "worker speaking up in crew huddle",
+     "pixabay": "worker speaking huddle outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   }
  ]
 }

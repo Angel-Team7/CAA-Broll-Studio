@@ -313,7 +313,45 @@
     }
    ],
    "onscreen": "Kaizen = Continuous Improvement",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener walking back and forth fetching tools one at a time across a yard",
+     "pexels": "gardener walking back and forth fetching tools",
+     "pixabay": "gardener tools walking yard",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker moving a wheelbarrow closer to the work, then working smoothly",
+     "pexels": "worker moving wheelbarrow closer to garden bed",
+     "pixabay": "wheelbarrow garden worker",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of tools laid out in order on a bench",
+     "pexels": "tools laid out in order on workbench",
+     "pixabay": "tools organized workbench",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two grounds workers talking beside a vegetable bed, one pointing",
+     "pexels": "two gardeners talking pointing garden bed",
+     "pixabay": "gardeners talking pointing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory line",
+    "whiteboard",
+    "hi-vis crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S02",
@@ -647,7 +685,44 @@
     }
    ],
    "onscreen": "Don't only do the work. Improve how the work gets done.",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "greenhouse worker pausing mid-task, looking at the rows, thinking",
+     "pexels": "greenhouse worker pausing thinking rows",
+     "pixabay": "greenhouse worker thinking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "carpenter stepping back to look at a joint before continuing",
+     "pexels": "carpenter stepping back looking at work",
+     "pixabay": "carpenter looking workshop",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand resting on a rake, pause",
+     "pexels": "hand resting on rake handle close",
+     "pixabay": "hand rake handle close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a well-kept garden with a single worker",
+     "pexels": "single gardener well kept garden wide",
+     "pixabay": "gardener garden wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "laptop",
+    "factory"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S03",
@@ -1002,7 +1077,44 @@
     }
    ],
    "onscreen": "Efficiency is not rushing. Efficiency = Less Waste + Better Results",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker repeatedly walking to a shed for equipment",
+     "pexels": "worker walking to shed for tools",
+     "pixabay": "worker shed tools walking",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "organised tool cart placed beside the work area",
+     "pexels": "tool cart beside garden work",
+     "pixabay": "tool cart garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "gardener working steadily, unhurried, planting with care",
+     "pexels": "gardener planting carefully unhurried",
+     "pixabay": "gardener planting careful",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands doing one thing well, pruning a stem",
+     "pexels": "hands pruning stem close up",
+     "pixabay": "pruning hands close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "rushing crowd",
+    "stopwatch",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S04",
@@ -1338,7 +1450,44 @@
     }
    ],
    "onscreen": "Friction is a clue.",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker searching through a messy shed for a part",
+     "pexels": "searching messy shed for part",
+     "pixabay": "messy shed searching tools",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two people writing the same thing on two clipboards",
+     "pexels": "two people writing on clipboards outdoors",
+     "pixabay": "clipboards writing outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "labelled shelves in a tidy tool store, close",
+     "pexels": "labelled shelves tidy tool store",
+     "pixabay": "labelled shelves tools tidy",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker asking a colleague a question by a greenhouse door",
+     "pexels": "worker asking colleague question greenhouse",
+     "pixabay": "workers question greenhouse",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "computer screens",
+    "factory"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S05",
@@ -1814,7 +1963,45 @@
     }
    ],
    "onscreen": "1. Why? 2. Eliminate? 3. Simplify? 4. Systemize? 5. Improve the result?",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands sorting loose screws into labelled jars on a workbench",
+     "pexels": "hands sorting screws into jars",
+     "pixabay": "screws jars sorting hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "gardener removing an unnecessary step: one trip with a full crate instead of many",
+     "pexels": "gardener carrying full crate one trip",
+     "pixabay": "gardener crate carrying",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "workbench cleared and simplified, tools in a row",
+     "pexels": "clean workbench tools in a row",
+     "pixabay": "workbench tidy tools row",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "person folding and stacking linen methodically",
+     "pexels": "folding stacking linen methodically",
+     "pixabay": "folding linen stacking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "factory",
+    "office",
+    "abstract diagrams as footage",
+    "USB or electronics"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S06",
@@ -2347,7 +2534,44 @@
     }
    ],
    "onscreen": "Small improvements. Repeated consistently.",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker writing a short checklist on a card and pinning it in a shed",
+     "pexels": "writing checklist card pinned shed",
+     "pixabay": "checklist card shed pin",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "gardener rearranging pots into a clearer order",
+     "pexels": "gardener rearranging pots order",
+     "pixabay": "gardener pots arranging",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "painter taping an edge carefully before painting",
+     "pexels": "painter taping edge before painting",
+     "pixabay": "painter tape edge wall",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a small crew each improving their own corner of a garden",
+     "pexels": "small crew working garden corners",
+     "pixabay": "crew garden working",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "hi-vis crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S07",
@@ -2651,7 +2875,44 @@
     }
    ],
    "onscreen": "Move from criticism to contribution.",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker noticing a leaking hose and stopping to look",
+     "pexels": "worker noticing leaking hose",
+     "pixabay": "leaking hose garden worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two colleagues discussing calmly over a broken tool",
+     "pexels": "two workers discussing broken tool calmly",
+     "pixabay": "workers discussing tool",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "hand fixing the hose connector, testing water flow",
+     "pexels": "hand fixing hose connector water",
+     "pixabay": "hose connector fix hand",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of the repaired irrigation running over a bed",
+     "pexels": "irrigation running garden bed wide",
+     "pixabay": "irrigation garden bed",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "arguing",
+    "pointing fingers",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S08",
@@ -3088,7 +3349,44 @@
     }
    ],
    "onscreen": "See it, Improve it, Test it, Repeat",
-   "timing_source": "narration"
+   "timing_source": "narration",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person looking at a daily task with fresh eyes, hands on hips",
+     "pexels": "gardener looking at task hands on hips",
+     "pixabay": "gardener thinking task",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "one small change: moving a water butt next to the beds",
+     "pexels": "moving water barrel next to garden beds",
+     "pixabay": "water barrel garden move",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand ticking a box on a card",
+     "pexels": "hand ticking checkbox on card",
+     "pixabay": "checkbox tick hand card",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker smiling slightly at a better result at end of day",
+     "pexels": "worker satisfied end of day garden",
+     "pixabay": "worker satisfied garden evening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   }
  ]
 }

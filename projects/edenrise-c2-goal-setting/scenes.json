@@ -388,7 +388,44 @@
      "title": "Group of construction workers standing on scaffolding wearing safety gear, hard hats, and vests.",
      "query": "supervisor showing plans team site"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "landscaper shaping a hedge with care",
+     "pexels": "landscaper trimming hedge",
+     "pixabay": "landscaper hedge trimming",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "technician checking an irrigation pump",
+     "pexels": "technician checking irrigation pump",
+     "pixabay": "technician pump checking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "team planning at an outdoor table with a paper plan",
+     "pexels": "team planning outdoor table paper plan",
+     "pixabay": "team planning outdoor table",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "craftsman's hands on wood, close",
+     "pexels": "craftsman hands wood close",
+     "pixabay": "craftsman hands wood",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S05",
@@ -791,7 +828,44 @@
      "title": "A construction worker with safety gear carrying a metal beam amidst scaffolding at a busy construction site.",
      "query": "construction worker helping colleague carry beam"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker practising a skill: sharpening shears",
+     "pexels": "worker sharpening shears close",
+     "pixabay": "sharpening shears hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker helping a coworker lift a heavy pot",
+     "pexels": "worker helping coworker lift pot",
+     "pixabay": "workers lifting pot help",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "organising tools and work area in a shed",
+     "pexels": "organizing tools in shed",
+     "pixabay": "organizing tools shed",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a tidy work yard at morning",
+     "pexels": "tidy work yard morning wide",
+     "pixabay": "work yard tidy morning",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S02",
@@ -1167,7 +1241,44 @@
      "title": "workshop  carpenter  crafts  artisan  drink  work  tool  vintage  workshop  workshop  workshop  workshop  workshop  carp",
      "query": "mentor showing apprentice technique workshop"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice with a mentor in a greenhouse taking notes",
+     "pexels": "apprentice mentor greenhouse notes",
+     "pixabay": "apprentice mentor greenhouse",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "hands-on training: mentor guiding a pruning cut",
+     "pexels": "mentor guiding pruning cut hands",
+     "pixabay": "mentor pruning hands teaching",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "young worker asking a question, older worker answering by a truck",
+     "pexels": "young worker asking older worker question",
+     "pixabay": "workers question answer outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a crew reviewing a job together at the edge of a field",
+     "pexels": "crew reviewing job edge of field",
+     "pixabay": "crew field review",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "classroom",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S03",
@@ -1569,7 +1680,44 @@
      "title": "Two workers discussing plans on a sandy construction site, wearing safety gear.",
      "query": "worker explaining plan to colleagues site"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "team member giving a clear update to two colleagues by a wheelbarrow",
+     "pexels": "worker giving update to colleagues outdoors",
+     "pixabay": "workers talking wheelbarrow",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "small huddle of three workers, one asking a question",
+     "pexels": "three workers huddle question outdoors",
+     "pixabay": "workers huddle outdoor talk",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "hand writing notes on a pad against a post",
+     "pexels": "hand writing notes pad outdoors",
+     "pixabay": "notes pad writing outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "hand-over conversation at a site gate at day's end",
+     "pexels": "workers handover conversation gate evening",
+     "pixabay": "workers gate conversation evening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "meeting room",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S01",
@@ -1964,7 +2112,44 @@
      "title": "handyman  construction site  workers  force  characters  fun  diy  construction work  work  to build  construction worke",
      "query": "construction worker writing clipboard"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "grounds crew arriving for the day, putting on gloves",
+     "pexels": "workers arriving morning putting on gloves",
+     "pixabay": "workers morning gloves arrival",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one worker pausing to write a goal in a small notebook",
+     "pexels": "worker writing in small notebook outdoors",
+     "pixabay": "worker notebook writing outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "another worker starting the same routine as yesterday, rake in hand",
+     "pexels": "worker raking routine morning",
+     "pixabay": "worker raking morning",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a pencil writing a short line",
+     "pexels": "pencil writing short line notebook close",
+     "pixabay": "pencil notebook writing close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "laptop",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S08",
@@ -2356,7 +2541,44 @@
      "title": "A construction worker using a soil compactor outdoors for groundwork.",
      "query": "worker tying boots preparing work"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker writing a goal on a card in a shed",
+     "pexels": "worker writing goal card shed",
+     "pixabay": "writing card shed worker",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "crew practising together in a garden",
+     "pexels": "crew practicing together garden",
+     "pixabay": "crew garden practice",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "two workers collaborating on a fence repair",
+     "pexels": "two workers repairing fence together",
+     "pixabay": "fence repair two workers",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker learning from a colleague at a greenhouse bench",
+     "pexels": "worker learning at greenhouse bench",
+     "pixabay": "greenhouse bench learning",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S07",
@@ -2747,7 +2969,44 @@
      "title": "work  labor  farmer  vietnam  people  worker  workers  farm  hard  woman  brick  building",
      "query": "worker checking work progress"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker reviewing progress on a clipboard beside planted rows",
+     "pexels": "worker reviewing clipboard planted rows",
+     "pixabay": "clipboard rows worker review",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a pen adjusting a plan",
+     "pexels": "pen adjusting plan close up",
+     "pixabay": "pen plan writing close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker back at work with determination, digging",
+     "pexels": "worker digging with determination",
+     "pixabay": "worker digging determined",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a field at end of day with work done",
+     "pexels": "field end of day work done wide",
+     "pixabay": "field evening work done",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "spreadsheets",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   },
   {
    "id": "S04",
@@ -3121,7 +3380,44 @@
      "title": "tools  construct  craft  repair  equipment  create  construction  build  creative  hammer  mockup  tumblr wallpaper  bro",
      "query": "craftsman teaching younger worker workshop"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced worker demonstrating a difficult task, learner watching",
+     "pexels": "experienced worker demonstrating task learner",
+     "pixabay": "worker demonstrating learner",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close on hands guiding a tool",
+     "pexels": "hands guiding tool close up",
+     "pixabay": "hands tool guiding close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "learner trying the task alone, concentrating",
+     "pexels": "learner trying task concentrating outdoors",
+     "pixabay": "learner concentrating task",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the two at a workbench outdoors",
+     "pexels": "two workers workbench outdoors",
+     "pixabay": "workbench outdoor two workers",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:32:27Z"
   }
  ]
 }
