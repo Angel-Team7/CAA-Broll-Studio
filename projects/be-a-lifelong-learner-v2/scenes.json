@@ -4959,7 +4959,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__thumb__pexels_5020289_young-worker-curious-learning-me.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__preview__pexels_5020289_young-worker-curious-learning-me.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__strip__pexels_5020289_young-worker-curious-learning-me.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man leans over to point at a laptop screen in an office",
+     "violation": "office, laptop, suit-adjacent attire",
+     "shot": "",
+     "shoot": "pexels-office-laptop-pointing",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:48:36Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_7484287_worker-eager-to-learn-new-skill",
@@ -4971,7 +4981,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__thumb__pexels_7484287_worker-eager-to-learn-new-skill.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__preview__pexels_7484287_worker-eager-to-learn-new-skill.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__strip__pexels_7484287_worker-eager-to-learn-new-skill.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two workers in overalls stand arms crossed in a workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-workshop-pair-armscrossed",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:48:36Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8487986_happy-construction-worker-smilin",
@@ -4993,7 +5013,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__thumb__pexels_8487987_young-builder-smiling-proud.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__preview__pexels_8487987_young-builder-smiling-proud.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__strip__pexels_8487987_young-builder-smiling-proud.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "a smiling worker in a hard hat and hi-vis vest holds a power tool",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-smiling-worker-hardhat",
+     "score": 8.35,
+     "judged_at": "2026-09-09T18:48:36Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_9034495_worker-nodding-listening-to-ment",
@@ -5005,7 +5035,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__thumb__pexels_9034495_worker-nodding-listening-to-ment.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__preview__pexels_9034495_worker-nodding-listening-to-ment.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__strip__pexels_9034495_worker-nodding-listening-to-ment.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman in a blazer points at papers beside a whiteboard",
+     "violation": "office, suit, whiteboard",
+     "shot": "",
+     "shoot": "pexels-office-whiteboard-pointing",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:48:36Z",
+     "rank": 4,
+     "shown": false
     }
    ],
    "shots": [
@@ -5037,7 +5077,13 @@
     "intense stare"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:48:36Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:48:36Z"
   }
  ]
 }
