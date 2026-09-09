@@ -887,3 +887,33 @@
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-planting-a-small-tree-7655273/ |
 | pexels |  | Omar Zahid | Pexels License | https://www.pexels.com/video/a-person-sitting-outdoors-6077237/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-truck-is-stopped-at-a-stop-sign-on-the-side-of-the-road-19559834/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-preparing-the-shoes-for-packing-7287307/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/woman-getting-fired-from-a-job-8135745/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/woman-promoting-ceramic-merchandise-7680434/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-working-on-wood-5972641/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-placing-space-on-a-lumber-5973231/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-glazier-heating-a-wine-bottle-with-a-torch-7219711/ |
+| pexels |  | Eric Skaggs | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-truck-with-a-large-number-of-tires-20654640/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-in-a-trcuk-6406121/ |
+| pexels |  | Ammad Rasool | Pexels License | https://www.pexels.com/video/a-truck-is-parked-in-front-of-a-building-26288491/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/woman-mopping-the-floor-7640949/ |
+| pexels |  | Jakub Bukowski | Pexels License | https://www.pexels.com/video/person-organizing-kitchen-drawer-with-food-items-36017451/ |
+| pexels |  | Wendy Laplume | Pexels License | https://www.pexels.com/video/house-morning-clothes-clean-4169284/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-using-a-skimming-blade-on-a-wall-6474082/ |
+| pexels |  | Curtis Adams | Pexels License | https://www.pexels.com/video/elegant-room-with-table-in-middle-11593544/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-hanging-a-picture-frame-on-the-wall-8727637/ |
+| pexels |  | Chris  The Island | Pexels License | https://www.pexels.com/video/aerial-drone-view-of-tranquil-beach-waves-33840317/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/a-flat-white-surface-7830148/ |
+| pexels |  | Alex Moisieiev | Pexels License | https://www.pexels.com/video/destruction-after-a-missile-attack-in-ukraine-12734644/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/working-with-wood-13691887/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-person-polishing-wood-5972120/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-making-jewelry-6262805/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-and-woman-in-a-discussion-6568697/ |
+| pixabay | moss  wood  wall  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20264/ |
+| pixabay | reading list at library  library  book  man  young  literary | Sang_Soi | Pixabay Content License | https://pixabay.com/videos/id-122232/ |
+| pexels |  | ROCKETMANN TEAM | Pexels License | https://www.pexels.com/video/a-person-putting-a-soil-on-a-potted-plant-9466225/ |
+| pexels |  | fatiha maarouf | Pexels License | https://www.pexels.com/video/a-person-is-planting-a-small-plant-in-the-ground-16939578/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-woman-planting-plant-4625744/ |
+| pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/forestry-worker-operating-heavy-machinery-outdoors-36130782/ |
+| pexels |  | Kartik Malviya | Pexels License | https://www.pexels.com/video/silhouetted-street-vendor-at-sunset-roadside-34104867/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-sitting-on-an-ambulance-6520438/ |
