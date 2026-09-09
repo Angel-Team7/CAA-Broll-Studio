@@ -557,3 +557,33 @@
 | pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-wearing-gloves-8539170/ |
 | pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/male-hands-adjusting-latex-gloves-6980118/ |
 | pexels |  | Matilda Wormwood | Pexels License | https://www.pexels.com/video/a-person-putting-on-a-medical-gloves-4145750/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/pull-out-video-shot-of-painting-materials-6214336/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/acrylic-paint-tubes-used-by-an-artist-5223086/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-room-of-a-manufacturing-facility-4941367/ |
+| pexels |  | Anna Shvets | Pexels License | https://www.pexels.com/video/a-person-sanding-a-wood-5759808/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-making-a-mark-on-wood-4480444/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-craftsman-shaping-the-edges-of-a-skateboard-4888903/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-opening-the-back-door-of-a-van-6646726/ |
+| pexels |  | Jabriel | Pexels License | https://www.pexels.com/video/aerial-view-of-train-on-tracks-by-road-30988845/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-car-with-cleaning-equipment-6195150/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workshop-machines-5846644/ |
+| pexels |  | Mahadi Hassan Molla | Pexels License | https://www.pexels.com/video/industrial-furnace-with-flames-in-action-37208851/ |
+| pexels |  | Arnie Chou | Pexels License | https://www.pexels.com/video/old-and-abandoned-house-2069138/ |
+| pexels |  | khanhhoangminh  3 | Pexels License | https://www.pexels.com/video/close-up-of-skateboard-wheel-maintenance-28985126/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/brush-tool-6474369/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/efficient-leaf-litter-cleanup-with-tool-and-bucket-30158984/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/video-of-person-applying-masking-tape-on-road-4808594/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/person-holding-tools-for-knife-painting-6731071/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-putting-tape-on-the-side-of-the-car-window-6157984/ |
+| pexels |  | Yusuf Çelik | Pexels License | https://www.pexels.com/video/soft-raindrops-falling-from-a-wire-37915639/ |
+| pexels |  | PJ Joshi | Pexels License | https://www.pexels.com/video/close-up-video-of-water-droplets-7465805/ |
+| pexels |  | Coverr | Pexels License | https://www.pexels.com/video/water-dripping-from-faucet-853764/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-shaving-the-leather-fabric-5963496/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-man-drilling-on-a-skateboard-he-is-making-4888936/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-cutting-leather-belt-6654040/ |
+| pexels |  | Yesim  G. Ozdemir | Pexels License | https://www.pexels.com/video/clear-water-over-pebble-beach-39322465/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/historic-stone-gate-entry-in-lush-garden-setting-39229039/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-walking-on-a-pathway-6093295/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-woman-in-blue-gloves-is-working-on-a-conveyor-belt-19905377/ |
+| pexels |  | Matilda Wormwood | Pexels License | https://www.pexels.com/video/woman-putting-on-her-face-mask-4145804/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/man-using-face-mask-6630250/ |
