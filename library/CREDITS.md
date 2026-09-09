@@ -317,3 +317,33 @@
 | pexels |  | Val А | Pexels License | https://www.pexels.com/video/construction-site-worker-inspecting-building-project-36290717/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-sanding-a-wood-7482652/ |
 | pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineer-wearing-a-yellow-hardhat-8486789/ |
+| pixabay | automobile  black  antique car  vehicle  luxury  car  dare   | raffalel | Pixabay Content License | https://pixabay.com/videos/id-24385/ |
+| pixabay | welding  welding machine  source  welder  machine  metal  st | Emrevonal | Pixabay Content License | https://pixabay.com/videos/id-72544/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11733/ |
+| pixabay | modeling  clay  pottery  craft  art  ceramic  handmade  work | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41394/ |
+| pixabay | modeling  clay  pottery  craft  dirty  art  ceramic  handmad | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41387/ |
+| pixabay | pottery  clay  handicraft  modeling  craft  art  dirty  cera | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41390/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-workers-in-busy-factory-31369298/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/textile-factory-worker-operating-sewing-machine-31359193/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-carrying-a-box-talking-to-his-workmate-9365580/ |
+| pexels |  | Martyn Day | Pexels License | https://www.pexels.com/video/women-working-in-a-factory-with-blue-and-yellow-fabric-27778274/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-and-woman-shaking-hands-together-8061450/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/cleaning-the-headlights-6873504/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-painting-the-wall-6474255/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/mixing-liquid-makeup-with-a-brush-7575392/ |
+| pixabay | castle  cathedral  church  fortress  tower  fortification  a | danielp87 | Pixabay Content License | https://pixabay.com/videos/id-216908/ |
+| pixabay | castle  cathedral  church  fortress  tower  fortification  a | danielp87 | Pixabay Content License | https://pixabay.com/videos/id-216907/ |
+| pixabay | construction site  construction workers  construction  worke | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-42922/ |
+| pixabay | woman  sample  laboratory  quality  scientific  science  che | Roque_dg | Pixabay Content License | https://pixabay.com/videos/id-197485/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-checking-the-gas-range-8293017/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/engineer-measuring-the-spirit-level-of-the-wall-8482303/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-worker-organizing-fabrics-31369300/ |
+| pexels |  | Kashif Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-farmers-working-in-field-31638876/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/focused-factory-worker-sewing-textiles-31360110/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-painting-a-wall-6474081/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/industrial-metal-welding-process-in-workshop-31016923/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-checking-the-exterior-of-a-house-7816446/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-back-hoe-excavate-soil-in-a-construction-site-2938859/ |
+| pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-large-construction-site-progress-30810442/ |
+| pexels |  | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/heavy-machinery-at-construction-site-during-daytime-29056061/ |
