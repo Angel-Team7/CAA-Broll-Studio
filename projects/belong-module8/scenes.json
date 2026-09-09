@@ -21,7 +21,7 @@
      "page_url": "https://pixabay.com/videos/id-323715/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V01.mp4",
-     "score": 16.44,
+     "score": 3.35,
      "categories": [
       "farm",
       "field",
@@ -32,7 +32,16 @@
      "title": "nature  rice field  paddy field  agriculture  farmland  rural  green field  farming  crop field  landscape  nature lands",
      "query": "rural landscape wide",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of green rice paddy fields under a blue sky",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-rice-paddy-aerial",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-V02",
@@ -43,7 +52,7 @@
      "page_url": "https://pixabay.com/videos/id-364184/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V02.mp4",
-     "score": 15.52,
+     "score": 1.7,
      "categories": [
       "farm",
       "landscape",
@@ -53,7 +62,16 @@
      "title": "dirt road  mountain path  steep slope  terraced hills  farming  highlands  remote  rural  adventure  landscape  ha giang",
      "query": "rural landscape wide",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "aerial view of a winding road through terraced green hills",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-mountain-road-aerial",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-V03",
@@ -64,7 +82,7 @@
      "page_url": "https://pixabay.com/videos/id-348116/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V03.mp4",
-     "score": 15.49,
+     "score": 6.35,
      "categories": [
       "landscape",
       "outdoor"
@@ -72,7 +90,16 @@
      "title": "beach  sea  nature  ocean  sand  summer  sunset  water  coast  shore  dusk  landscape  waves  travel  holiday  coastline",
      "query": "aerial coastline portugal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "aerial view of a wide sandy beach meeting the ocean",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-aerial-beach",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-V04",
@@ -83,7 +110,7 @@
      "page_url": "https://www.pexels.com/video/black-and-white-aerial-view-of-countryside-landscape-34931981/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V04.mp4",
-     "score": 15.32,
+     "score": 2.0,
      "categories": [
       "countryside",
       "landscape"
@@ -91,7 +118,16 @@
      "title": "video black and white aerial view countryside landscape",
      "query": "rural landscape wide",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "black and white aerial view of rural countryside fields",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bw-countryside-aerial",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-V05",
@@ -102,7 +138,7 @@
      "page_url": "https://www.pexels.com/video/scenic-aerial-view-of-countryside-landscape-29592551/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V05.mp4",
-     "score": 15.32,
+     "score": 2.0,
      "categories": [
       "countryside",
       "landscape"
@@ -110,7 +146,16 @@
      "title": "video scenic aerial view countryside landscape",
      "query": "rural landscape wide",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "black and white aerial view of a hill surrounded by farmland",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bw-countryside-aerial",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-V06",
@@ -121,7 +166,7 @@
      "page_url": "https://pixabay.com/videos/id-67201/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V06.mp4",
-     "score": 14.92,
+     "score": 0.35,
      "categories": [
       "garden",
       "landscape"
@@ -129,7 +174,16 @@
      "title": "lake  houses  hill  mountain  boat  aerial  alps  architecture  cloudy  coast  coastline  colorful  europe  european  ga",
      "query": "aerial coastline portugal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a colorful lakeside town beneath mountains",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-lake-town-mismatch",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-V07",
@@ -140,14 +194,23 @@
      "page_url": "https://www.pexels.com/video/scenic-aerial-view-of-lush-green-fields-and-lake-37689928/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__belong-m8-S01-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__belong-m8-S01-V07.mp4",
-     "score": 14.44,
+     "score": 5.0,
      "categories": [
       "field"
      ],
      "title": "video scenic aerial view lush green fields and lake",
      "query": "rural landscape wide",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__belong-m8-S01-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "aerial view of a yellow flowering field beside a forest and lake",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-yellow-field-aerial",
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S01-I01",
@@ -224,7 +287,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__pixabay_132321_farmland-to-sea.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__pixabay_132321_farmland-to-sea.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__pixabay_132321_farmland-to-sea.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of a green cornfield bordered by trees",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-cornfield-aerial",
+     "score": 3.35,
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pixabay_13772_portugal-coast-drone",
@@ -236,7 +309,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__pixabay_13772_portugal-coast-drone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__pixabay_13772_portugal-coast-drone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__pixabay_13772_portugal-coast-drone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of surfers riding ocean waves near the coast",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-surf-aerial",
+     "score": 3.35,
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pixabay_67201_coastline-panorama-aerial",
@@ -248,7 +331,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__pixabay_67201_coastline-panorama-aerial.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__pixabay_67201_coastline-panorama-aerial.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__pixabay_67201_coastline-panorama-aerial.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a colorful lakeside town beneath mountains",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-lake-town-mismatch",
+     "score": 0.35,
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_27832049_portugal-coast-drone",
@@ -280,7 +373,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__pexels_5601391_rustic-beach-bar.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__pexels_5601391_rustic-beach-bar.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__pexels_5601391_rustic-beach-bar.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "close-up of handwritten wooden thank-you signs in different languages",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-thankyou-signs",
+     "score": 1.05,
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_8363293_barefoot-beach-cafe",
@@ -292,7 +395,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__thumb__pexels_8363293_barefoot-beach-cafe.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__preview__pexels_8363293_barefoot-beach-cafe.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S01__strip__pexels_8363293_barefoot-beach-cafe.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "close-up of bare feet walking on a pebbly beach near the sea",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-barefoot-beach",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:02:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_236123_rustic-beach-bar",
@@ -361,7 +474,13 @@
     "crowded tourist beach"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:02:37Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:02:37Z"
   },
   {
    "id": "S02",
@@ -384,14 +503,23 @@
      "page_url": "https://pixabay.com/videos/id-198488/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V01.mp4",
-     "score": 12.84,
+     "score": 4.05,
      "categories": [
       "sunrise"
      ],
      "title": "beach  coast  ocean  wave  coastal  coastline  horizon  island  paradise  peaceful  sand  sea  seascape  seashore  seasi",
      "query": "seaside cafe table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "close-up of small waves washing onto a sandy beach at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-shoreline-closeup",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V02",
@@ -402,7 +530,7 @@
      "page_url": "https://pixabay.com/videos/id-233333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V02.mp4",
-     "score": 11.49,
+     "score": 3.4,
      "categories": [
       "landscape",
       "outdoor",
@@ -411,7 +539,16 @@
      "title": "ocean  sea  sunset  sunrise  boat  fishing  old  sky  side  travel  drink  water  summer  beach  outdoors  seascape  tou",
      "query": "beach drinks sunset",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "dramatic sunset over the ocean with a small fishing boat",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sunset-boat",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V03",
@@ -422,7 +559,7 @@
      "page_url": "https://www.pexels.com/video/outdoor-cafe-table-with-tea-and-flowers-34290097/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V03.mp4",
-     "score": 11.05,
+     "score": 3.7,
      "categories": [
       "outdoor",
       "table"
@@ -430,7 +567,16 @@
      "title": "video outdoor cafe table with tea and flowers",
      "query": "seaside cafe table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hand pours tea at an outdoor cafe table with flowers",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-cafe-tea-table",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V04",
@@ -441,7 +587,7 @@
      "page_url": "https://pixabay.com/videos/id-28977/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V04.mp4",
-     "score": 10.29,
+     "score": 1.7,
      "categories": [
       "hotel",
       "landscape"
@@ -449,7 +595,16 @@
      "title": "beach  bar  sea  vacations  ocean  water  sand  summer  nature  landscape  beverages  glass  wine glass  restaurant  jam",
      "query": "beach bar sand",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "lanterns and draped white fabric hang from a wooden beam",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-lanterns-decor",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V05",
@@ -460,7 +615,7 @@
      "page_url": "https://pixabay.com/videos/id-338904/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V05.mp4",
-     "score": 10.29,
+     "score": 2.7,
      "categories": [
       "landscape",
       "outdoor"
@@ -468,7 +623,16 @@
      "title": "beach  nature  sea  sand  ocean  water  seascape  seashore  coast  landscape  aerial  drone  outdoors  wave  coastline",
      "query": "beach bar sand",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "aerial view of turquoise water and rocks near a shoreline",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-turquoise-water-aerial",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V06",
@@ -479,12 +643,21 @@
      "page_url": "https://www.pexels.com/video/a-man-is-pouring-wine-into-a-glass-at-a-restaurant-4254313/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V06.mp4",
-     "score": 9.85,
+     "score": 1.35,
      "categories": [],
      "title": "video man pouring wine into glass restaurant",
      "query": "seaside cafe table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a waiter sets a wine glass at a modern restaurant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-restaurant",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m8-S02-V07",
@@ -495,12 +668,21 @@
      "page_url": "https://www.pexels.com/video/coffee-with-whipped-cream-14048644/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__belong-m8-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__belong-m8-S02-V07.mp4",
-     "score": 9.85,
+     "score": 0.65,
      "categories": [],
      "title": "video coffee with whipped cream",
      "query": "seaside cafe table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__belong-m8-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a pink mug of whipped-cream drink on a table beside a pool",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pexels-poolside-drink",
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-I01",
@@ -572,7 +754,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__pixabay_13772_atlantic-surf-portugal.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__pixabay_13772_atlantic-surf-portugal.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__pixabay_13772_atlantic-surf-portugal.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "aerial view of surfers riding waves near the coast",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-surf-aerial",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_36609_surf-lesson-beach",
@@ -584,7 +776,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__pixabay_36609_surf-lesson-beach.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__pixabay_36609_surf-lesson-beach.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__pixabay_36609_surf-lesson-beach.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "aerial view of a group of surfers paddling together in calm water",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-surf-group-aerial",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8926065_kids-beach-splashing",
@@ -606,7 +808,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__pixabay_186560_morning-farm-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__pixabay_186560_morning-farm-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__pixabay_186560_morning-farm-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "cows graze in a forested alpine meadow at sunrise",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-alpine-cows",
+     "score": 1.05,
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pixabay_223459_sunset-beach-silhouette",
@@ -618,7 +830,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__pixabay_223459_sunset-beach-silhouette.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__pixabay_223459_sunset-beach-silhouette.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__pixabay_223459_sunset-beach-silhouette.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "dramatic orange sunset sky over the sea with a distant boat",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sunset-boat",
+     "score": 3.4,
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pixabay_268562_golden-hour-beach-walk",
@@ -630,7 +852,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__thumb__pixabay_268562_golden-hour-beach-walk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__preview__pixabay_268562_golden-hour-beach-walk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S02__strip__pixabay_268562_golden-hour-beach-walk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "aerial top-down view of waves rolling onto a sandy beach",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-beach-topdown",
+     "score": 4.05,
+     "judged_at": "2026-09-09T17:03:30Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_32887177_golden-hour-beach-walk",
@@ -689,7 +921,13 @@
     "crowded beach club"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:03:30Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:03:30Z"
   },
   {
    "id": "S03",
@@ -712,12 +950,21 @@
      "page_url": "https://www.pexels.com/video/waiter-serving-vegan-tacos-in-modern-cafe-33461519/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V01.mp4",
-     "score": 13.39,
+     "score": 2.65,
      "categories": [],
      "title": "video waiter serving vegan tacos modern cafe",
      "query": "friendly server outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a waiter plates tacos and a drink at a marble cafe counter",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-modern-cafe-service",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S03-V02",
@@ -728,7 +975,7 @@
      "page_url": "https://www.pexels.com/video/two-men-in-aprons-are-working-in-a-kitchen-4253325/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V02.mp4",
-     "score": 12.14,
+     "score": 1.35,
      "categories": [
       "kitchen",
       "working"
@@ -736,7 +983,16 @@
      "title": "video two men aprons are working kitchen",
      "query": "beach restaurant staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two chefs in aprons work in a modern restaurant kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-kitchen",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S03-V03",
@@ -747,7 +1003,7 @@
      "page_url": "https://pixabay.com/videos/id-229069/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V03.mp4",
-     "score": 11.14,
+     "score": 0.35,
      "categories": [
       "garden",
       "outdoor"
@@ -755,7 +1011,16 @@
      "title": "nurse  elderly  wheelchair  garden  outdoor  walk  retirement  care  happy  knee  pain  discussing  senior  talking  smi",
      "query": "friendly server outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a caregiver rests a hand on an elderly woman's shoulder",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-elder-care",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-m8-S03-V04",
@@ -766,7 +1031,7 @@
      "page_url": "https://pixabay.com/videos/id-229071/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V04.mp4",
-     "score": 11.14,
+     "score": 0.35,
      "categories": [
       "garden",
       "outdoor"
@@ -774,7 +1039,16 @@
      "title": "nurse  elderly  wheelchair  garden  outdoor  walk  retirement  care  happy  knee  pain  discussing  senior  talking  smi",
      "query": "friendly server outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a caregiver helps an elderly man in a wheelchair outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-elder-care",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "belong-m8-S03-V05",
@@ -785,7 +1059,7 @@
      "page_url": "https://pixabay.com/videos/id-22609/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V05.mp4",
-     "score": 11.14,
+     "score": 0.35,
      "categories": [
       "landscape",
       "outdoor",
@@ -794,7 +1068,16 @@
      "title": "sunrise  viewpoint  landscape  nature  water  outdoor  river  road  car  view",
      "query": "friendly server outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a winding cliffside road above a river canyon",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-canyon-aerial",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-V06",
@@ -805,7 +1088,7 @@
      "page_url": "https://pixabay.com/videos/id-4722/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V06.mp4",
-     "score": 10.96,
+     "score": 4.05,
      "categories": [
       "landscape",
       "outdoor"
@@ -813,7 +1096,16 @@
      "title": "beach  feet  sand  walking  vacation  holidays  summer  foot  travel  sea  water  tropical  barefoot  relaxation  relax ",
      "query": "barefoot sand walking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "bare feet walk across sand toward the waves",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-barefoot-beach-walk",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S03-V07",
@@ -824,12 +1116,21 @@
      "page_url": "https://coverr.co/videos/friends-playing-tennis-dek1j9zcgq",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__belong-m8-S03-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__belong-m8-S03-V07.mp4",
-     "score": 10.94,
+     "score": 0.35,
      "categories": [],
      "title": "videos friends playing tennis dek1j9zcgq",
      "query": "friendly server outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__belong-m8-S03-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a man plays tennis on an outdoor court beside a building",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-tennis",
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-I01",
@@ -891,7 +1192,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_9199136_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_9199136_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_9199136_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a bartender in a bow tie wipes glasses at an ornate bar",
+     "violation": "luxury hotel bar",
+     "shot": "A",
+     "shoot": "pexels-ornate-bar",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pexels_9199135_beach-bar-service",
@@ -903,7 +1214,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_9199135_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_9199135_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_9199135_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a bartender in a bow tie serves a guest at an ornate stained-glass bar",
+     "violation": "luxury hotel bar",
+     "shot": "A",
+     "shoot": "pexels-ornate-bar",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_5657164_beach-bar-service",
@@ -925,7 +1246,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_9750708_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_9750708_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_9750708_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "bare feet in the sand beside a woven bag and sandals",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-beach-feet-bag",
+     "score": 3.4,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_10139702_beach-bar-service",
@@ -937,7 +1268,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_10139702_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_10139702_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_10139702_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two people in loose robes walk barefoot across the sand",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-robe-beach-walk",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8371385_beach-bar-service",
@@ -949,7 +1290,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_8371385_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_8371385_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_8371385_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a woman in a white dress walks barefoot across the sand",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-robe-beach-walk",
+     "score": 2.35,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_8363293_beach-bar-service",
@@ -961,7 +1312,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_8363293_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_8363293_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_8363293_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "close-up of bare feet stepping on a pebbly beach near the sea",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-barefoot-beach",
+     "score": 3.4,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4254313_beach-bar-service",
@@ -973,7 +1334,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__thumb__pexels_4254313_beach-bar-service.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__preview__pexels_4254313_beach-bar-service.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S03__strip__pexels_4254313_beach-bar-service.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a waiter sets wine glasses at a modern restaurant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-restaurant",
+     "score": 1.35,
+     "judged_at": "2026-09-09T17:04:38Z",
+     "rank": 10,
+     "shown": true
     }
    ],
    "shots": [
@@ -1012,7 +1383,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:04:38Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:04:38Z"
   },
   {
    "id": "S04",
@@ -1051,14 +1428,23 @@
      "page_url": "https://www.pexels.com/video/high-angle-shot-of-empty-table-in-the-restaurant-7426384/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V02.mp4",
-     "score": 11.5,
+     "score": 5.0,
      "categories": [
       "table"
      ],
      "title": "video high angle shot empty table the restaurant",
      "query": "elegant city dining",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "an empty elegant restaurant table with wine glasses and blinds behind",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-empty-elegant-table",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S04-V03",
@@ -1069,7 +1455,7 @@
      "page_url": "https://pixabay.com/videos/id-2339/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V03.mp4",
-     "score": 11.1,
+     "score": 3.7,
      "categories": [
       "meal",
       "table"
@@ -1077,7 +1463,16 @@
      "title": "lunch  meal  people  tea cup  tea  couple  table  restaurant  diner  service  food  snack  eating",
      "query": "museum restaurant interior",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a waiter serves plates at a garden-view cafe table with salads",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-garden-cafe",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S04-V04",
@@ -1088,14 +1483,23 @@
      "page_url": "https://coverr.co/videos/a-building-with-the-national-flag-of-portugal-saytg0ellj",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V04.mp4",
-     "score": 10.78,
+     "score": 1.7,
      "categories": [
       "portugal"
      ],
      "title": "videos building with the national flag portugal saytg0ellj",
      "query": "lisbon architecture",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a Portuguese flag waves on a city building facade",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-lisbon-flag",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m8-S04-V05",
@@ -1106,14 +1510,23 @@
      "page_url": "https://coverr.co/videos/jeronimos-monastery-in-lisbon-portugal-d75gczwkuu",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V05.mp4",
-     "score": 10.78,
+     "score": 5.35,
      "categories": [
       "portugal"
      ],
      "title": "videos jeronimos monastery lisbon portugal d75gczwkuu",
      "query": "lisbon architecture",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "aerial view of the Jerónimos Monastery in Lisbon",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-jeronimos-aerial",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S04-V06",
@@ -1124,14 +1537,23 @@
      "page_url": "https://coverr.co/videos/mosteiro-dos-jeronimos-in-lisbon-portugal-eq5mcsbl54",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V06.mp4",
-     "score": 10.78,
+     "score": 5.35,
      "categories": [
       "portugal"
      ],
      "title": "videos mosteiro dos jeronimos lisbon portugal eq5mcsbl54",
      "query": "lisbon architecture",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "aerial view of the Jerónimos Monastery and plaza in Lisbon",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-jeronimos-aerial",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S04-V07",
@@ -1142,14 +1564,23 @@
      "page_url": "https://pixabay.com/videos/id-1192/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__belong-m8-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__belong-m8-S04-V07.mp4",
-     "score": 10.74,
+     "score": 1.3,
      "categories": [
       "meal"
      ],
      "title": "restaurant  buffet  cuisine  dinner  lunch  food  dining  meal  delicious  restaurant food  fresh  service  banquet  dis",
      "query": "museum restaurant interior",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__belong-m8-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a buffet spread of pastries beside a dim formal event lounge",
+     "violation": "corporate event",
+     "shot": "",
+     "shoot": "pixabay-buffet-lounge",
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "belong-m8-S04-I01",
@@ -1206,7 +1637,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__pexels_31631562_museum-restaurant-interior.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__pexels_31631562_museum-restaurant-interior.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__pexels_31631562_museum-restaurant-interior.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "an empty trendy restaurant with teal chairs and a single set table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-trendy-restaurant",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7243900_refined-plate-restaurant",
@@ -1228,7 +1669,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__thumb__pixabay_201947_museum-restaurant-interior.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__preview__pixabay_201947_museum-restaurant-interior.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S04__strip__pixabay_201947_museum-restaurant-interior.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "an empty warm restaurant with hanging plants and candlelit tables",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-warm-restaurant",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:05:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_31272224_modern-gallery-dining",
@@ -1287,7 +1738,13 @@
     "corporate event"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:05:20Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:05:20Z"
   },
   {
    "id": "S05",
@@ -1310,7 +1767,7 @@
      "page_url": "https://pixabay.com/videos/id-197205/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V01.mp4",
-     "score": 15.41,
+     "score": 2.4,
      "categories": [
       "chef",
       "kitchen",
@@ -1320,7 +1777,16 @@
      "title": "cook  kitchen  chef  food  salad  vegetables  healthy  nutrition  gastronomy",
      "query": "chef plating event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a hand stir-fries vegetables in a pan on a home stove",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-home-cooking",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-V02",
@@ -1331,7 +1797,7 @@
      "page_url": "https://www.pexels.com/video/two-men-in-aprons-cooking-in-a-kitchen-4253329/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V02.mp4",
-     "score": 14.73,
+     "score": 1.7,
      "categories": [
       "cooking",
       "kitchen"
@@ -1339,7 +1805,16 @@
      "title": "video two men aprons cooking kitchen",
      "query": "chef plating event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two chefs plate a dish in a modern restaurant kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-kitchen-plating",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-V03",
@@ -1350,7 +1825,7 @@
      "page_url": "https://www.pexels.com/video/gourmet-cod-plated-with-vegetables-28743417/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V03.mp4",
-     "score": 14.13,
+     "score": 1.7,
      "categories": [
       "table",
       "vegetable"
@@ -1358,7 +1833,16 @@
      "title": "video gourmet cod plated with vegetables",
      "query": "chef plating event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a plated fish dish with asparagus and citrus sauce",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-gourmet-plate",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-V04",
@@ -1369,7 +1853,7 @@
      "page_url": "https://www.pexels.com/video/delicious-plating-of-steak-with-vegetables-30861243/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V04.mp4",
-     "score": 14.13,
+     "score": 1.95,
      "categories": [
       "table",
       "vegetable"
@@ -1377,7 +1861,16 @@
      "title": "video delicious plating steak with vegetables",
      "query": "chef plating event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "gloved staff carve and plate steak at a hotel carving station",
+     "violation": "hotel banquet hall",
+     "shot": "B",
+     "shoot": "pexels-carving-station",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V05",
@@ -1388,14 +1881,23 @@
      "page_url": "https://www.pexels.com/video/a-person-is-preparing-food-on-plates-in-a-kitchen-19905870/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V05.mp4",
-     "score": 14.01,
+     "score": 1.7,
      "categories": [
       "kitchen"
      ],
      "title": "video person preparing food plates kitchen",
      "query": "chef plating event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand adds a garnish to a small plated dish",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-fine-dining-plating",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-V06",
@@ -1406,7 +1908,7 @@
      "page_url": "https://pixabay.com/videos/id-58142/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V06.mp4",
-     "score": 13.13,
+     "score": 2.75,
      "categories": [
       "field",
       "garden",
@@ -1415,7 +1917,16 @@
      "title": "woman  flowers  plants  field  garden  nature  gardening  petals  floral  flora  blossom  blooming  fresh  spring  park ",
      "query": "catering setup outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a hand reaches toward pink flowers in a garden field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-flower-field-hand",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-V07",
@@ -1426,7 +1937,7 @@
      "page_url": "https://pixabay.com/videos/id-282082/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__belong-m8-S05-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__belong-m8-S05-V07.mp4",
-     "score": 12.53,
+     "score": 0.35,
      "categories": [
       "farm",
       "farmer"
@@ -1434,7 +1945,16 @@
      "title": "tractor  farmer  urban  highway  transport  driving  road  transportation  truck  fuel truck  semi-truck  traffic  trave",
      "query": "food truck event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__belong-m8-S05-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a suburban neighborhood beside a highway",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-suburb-aerial",
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S05-I01",
@@ -1502,7 +2022,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__pixabay_172667_long-table-garden-event.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__pixabay_172667_long-table-garden-event.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__pixabay_172667_long-table-garden-event.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a multi-generational family gathers at a long garden table with food",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-family-garden-table",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_200139_catering-event-setup",
@@ -1524,7 +2054,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__thumb__pixabay_267_outdoor-banquet-preparation.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__preview__pixabay_267_outdoor-banquet-preparation.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S05__strip__pixabay_267_outdoor-banquet-preparation.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "close-up of steam rising from a pot on the stove",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-steaming-pot",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:05:55Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_32179374_long-table-garden-event",
@@ -1573,7 +2113,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:05:55Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:05:55Z"
   },
   {
    "id": "S06",
@@ -1596,14 +2142,23 @@
      "page_url": "https://www.pexels.com/video/bride-and-groom-with-guests-5590282/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V01.mp4",
-     "score": 11.55,
+     "score": 1.35,
      "categories": [
       "guest"
      ],
      "title": "video bride and groom with guests",
      "query": "wedding ceremony outdoor",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a bride and groom pose indoors with family in front of drapery",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-indoor-wedding-portrait",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "belong-m8-S06-V02",
@@ -1614,7 +2169,7 @@
      "page_url": "https://www.pexels.com/video/elegant-outdoor-wedding-reception-table-setting-28572601/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V02.mp4",
-     "score": 11.55,
+     "score": 4.7,
      "categories": [
       "outdoor",
       "table"
@@ -1622,7 +2177,16 @@
      "title": "video elegant outdoor wedding reception table setting",
      "query": "wedding table decoration",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "close-up of wine glasses and white flowers on an outdoor table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-outdoor-reception-table",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S06-V03",
@@ -1633,7 +2197,7 @@
      "page_url": "https://pixabay.com/videos/id-145012/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V03.mp4",
-     "score": 11.15,
+     "score": 0.0,
      "categories": [
       "bread",
       "table"
@@ -1641,7 +2205,16 @@
      "title": "coffee  breakfast  dining table  bread  toast  egg  yolk  roast",
      "query": "celebration guests toast",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an illustrated graphic of a breakfast plate, not real footage",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-illustration-breakfast",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m8-S06-V04",
@@ -1652,14 +2225,23 @@
      "page_url": "https://www.pexels.com/video/enchanting-nighttime-fairy-light-garden-display-35375459/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V04.mp4",
-     "score": 10.79,
+     "score": 1.0,
      "categories": [
       "garden"
      ],
      "title": "video enchanting nighttime fairy light garden display",
      "query": "string lights wedding",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an elaborately lit garden path with fairy lights and a prop carriage at night",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-fairy-light-venue",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 13,
+     "shown": true
     },
     {
      "id": "belong-m8-S06-V05",
@@ -1686,14 +2268,23 @@
      "page_url": "https://pixabay.com/videos/id-33244/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V06.mp4",
-     "score": 9.51,
+     "score": 2.35,
      "categories": [
       "table"
      ],
      "title": "marriage  candles  love  decoration  to have lunch  romantic  romance  celebration  vintage  flowers  table  vacation  r",
      "query": "wedding table decoration",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "candles in glass votives beside gold ornaments on a dark table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-candle-ornaments",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S06-V07",
@@ -1704,14 +2295,23 @@
      "page_url": "https://pixabay.com/videos/id-33245/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__belong-m8-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__belong-m8-S06-V07.mp4",
-     "score": 9.51,
+     "score": 2.35,
      "categories": [
       "table"
      ],
      "title": "marriage  candles  love  decoration  to have lunch  romantic  romance  celebration  vintage  flowers  table  vacation  r",
      "query": "wedding table decoration",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__belong-m8-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "candles and a vintage framed photo on a dark table beside gold ornaments",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-candle-ornaments",
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S06-I01",
@@ -1783,7 +2383,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_5961377_wedding-service-outdoor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_5961377_wedding-service-outdoor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_5961377_wedding-service-outdoor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman carries a plate toward a wooden pavilion among pine trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-pine-dinner-elders",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_4253329_catering-team-plating",
@@ -1795,7 +2405,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_4253329_catering-team-plating.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_4253329_catering-team-plating.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_4253329_catering-team-plating.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "two chefs plate a dish in a modern restaurant kitchen",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-kitchen-plating",
+     "score": 2.35,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_6718809_banquet-staff-plates",
@@ -1807,7 +2427,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_6718809_banquet-staff-plates.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_6718809_banquet-staff-plates.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_6718809_banquet-staff-plates.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "actors in period military costume dine by candelabra in an ornate room",
+     "violation": "ballroom chandeliers",
+     "shot": "",
+     "shoot": "pexels-period-costume-dinner",
+     "score": 0.0,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "pexels_5961961_wedding-service-outdoor",
@@ -1819,7 +2449,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_5961961_wedding-service-outdoor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_5961961_wedding-service-outdoor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_5961961_wedding-service-outdoor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man serves food to a woman at an outdoor table strung with lights among pines",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-pine-dinner-elders",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_5961970_wedding-service-outdoor",
@@ -1831,7 +2471,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_5961970_wedding-service-outdoor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_5961970_wedding-service-outdoor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_5961970_wedding-service-outdoor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man pours wine at an outdoor table set among pine trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-pine-dinner-elders",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_5961383_wedding-service-outdoor",
@@ -1843,7 +2493,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_5961383_wedding-service-outdoor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_5961383_wedding-service-outdoor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_5961383_wedding-service-outdoor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "guests gather at a long table strung with lights beneath pine trees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-pine-dinner-elders",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_28119326_wedding-setup-garden",
@@ -1855,7 +2515,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_28119326_wedding-setup-garden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_28119326_wedding-setup-garden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_28119326_wedding-setup-garden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial view of rows of round tables set for a large event on a beach",
+     "violation": "resort pools and beaches",
+     "shot": "",
+     "shoot": "pexels-beach-event-aerial",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_38298786_wedding-reception-tables",
@@ -1877,7 +2547,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_29956462_wedding-setup-garden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_29956462_wedding-setup-garden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_29956462_wedding-setup-garden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a rustic table set with woven placemats, greenery and a candle by a stone wall",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-rustic-stone-table",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5498730_banquet-staff-plates",
@@ -1889,7 +2569,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__thumb__pexels_5498730_banquet-staff-plates.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__preview__pexels_5498730_banquet-staff-plates.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S06__strip__pexels_5498730_banquet-staff-plates.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a waiter pours red wine into a glass at an elegant restaurant table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-elegant-restaurant-pour",
+     "score": 3.35,
+     "judged_at": "2026-09-09T17:07:10Z",
+     "rank": 7,
+     "shown": true
     }
    ],
    "shots": [
@@ -1928,7 +2618,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "judged_at": "2026-09-09T17:07:10Z"
   },
   {
    "id": "S07",
@@ -1951,7 +2642,7 @@
      "page_url": "https://pixabay.com/videos/id-11596/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V01.mp4",
-     "score": 18.99,
+     "score": 2.75,
      "categories": [
       "cooking",
       "kitchen",
@@ -1962,7 +2653,16 @@
      "title": "chopping  food  cooking  meal  table  preparation  ginger  organic  nutrition  ingredient  dining  eating  vegetable  ho",
      "query": "hotel staff preparing event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "close-up of hands chopping garlic and scallions on a wooden board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chopping-prep",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-m8-S07-V02",
@@ -1973,7 +2673,7 @@
      "page_url": "https://pixabay.com/videos/id-11606/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V02.mp4",
-     "score": 17.79,
+     "score": 2.75,
      "categories": [
       "chef",
       "cooking",
@@ -1983,7 +2683,16 @@
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh",
      "query": "hotel staff preparing event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "close-up of hands chopping vegetables and grinding them in a mortar",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chopping-prep",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "belong-m8-S07-V03",
@@ -1994,7 +2703,7 @@
      "page_url": "https://pixabay.com/videos/id-10789/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V03.mp4",
-     "score": 13.27,
+     "score": 2.05,
      "categories": [
       "cooking",
       "outdoor"
@@ -2002,7 +2711,16 @@
      "title": "breakfast  outdoors  camping  food  cooking  stirring  preparing  dish",
      "query": "hotel staff preparing event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand stirs eggs and bacon in a pan over an outdoor campfire",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-camp-breakfast",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m8-S07-V04",
@@ -2013,14 +2731,23 @@
      "page_url": "https://coverr.co/videos/outdoor-smartphone-browsing",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V04.mp4",
-     "score": 13.04,
+     "score": 2.7,
      "categories": [
       "outdoor"
      ],
      "title": "videos outdoor smartphone browsing",
      "query": "hands setting table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands hold a phone while sitting on a yoga mat outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-phone-yogamat",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m8-S07-V05",
@@ -2031,12 +2758,21 @@
      "page_url": "https://coverr.co/videos/modern-work-anywhere-lifestyle",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V05.mp4",
-     "score": 12.76,
+     "score": 2.7,
      "categories": [],
      "title": "videos modern work anywhere lifestyle",
      "query": "hands setting table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands scroll a tablet beside a laptop at an outdoor table",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-tablet-outdoor-work",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S07-V06",
@@ -2047,7 +2783,7 @@
      "page_url": "https://www.pexels.com/video/hotel-receptionist-talking-to-a-guest-7820514/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V06.mp4",
-     "score": 12.16,
+     "score": 0.65,
      "categories": [
       "guest",
       "hotel"
@@ -2055,7 +2791,16 @@
      "title": "video hotel receptionist talking guest",
      "query": "hotel staff preparing event",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two people wearing face masks talk in a glossy hotel lobby",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-hotel-lobby-masks",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m8-S07-V07",
@@ -2066,14 +2811,23 @@
      "page_url": "https://coverr.co/videos/steeping-tea-outdoors",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S07-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S07-V07.mp4",
-     "score": 11.84,
+     "score": 2.4,
      "categories": [
       "outdoor"
      ],
      "title": "videos steeping tea outdoors",
      "query": "team setting tables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S07-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a tea bag steeps in a metal cup outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-tea-outdoors",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m8-S07-I01",
@@ -2140,7 +2894,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pixabay_286879_team-retreat-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pixabay_286879_team-retreat-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pixabay_286879_team-retreat-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "three colleagues record a podcast with microphones and laptops at a glass-walled table",
+     "violation": "conference room",
+     "shot": "",
+     "shoot": "pixabay-podcast-office",
+     "score": 0.65,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "pexels_33854482_team-retreat-outdoors",
@@ -2161,7 +2925,7 @@
      "page_url": "https://www.pexels.com/video/a-group-of-people-having-a-working-lunch-over-a-wooden-table-3253797/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V09.mp4",
-     "score": 16.27,
+     "score": 6.7,
      "categories": [
       "table",
       "working"
@@ -2169,7 +2933,16 @@
      "title": "video group people having working lunch over wooden table",
      "query": "team retreat farmhouse table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a group laughs and talks over a lively lunch at a wooden farm table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-farmtable-lunch-group",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V11",
@@ -2180,12 +2953,21 @@
      "page_url": "https://www.pexels.com/video/discussion-in-a-business-meeting-regarding-a-marked-article-in-a-magazine-3202208/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V11.mp4",
-     "score": 15.07,
+     "score": 2.7,
      "categories": [],
      "title": "video discussion business meeting regarding marked article magazine",
      "query": "team retreat farmhouse table",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two people review documents together at a wooden table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-document-review-table",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V12",
@@ -2210,14 +2992,23 @@
      "page_url": "https://www.pexels.com/video/friends-having-a-toast-in-an-outdoor-area-8503117/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V15.mp4",
-     "score": 14.69,
+     "score": 4.4,
      "categories": [
       "outdoor"
      ],
      "title": "video friends having toast outdoor area",
      "query": "people picnic garden laughing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a group of friends toast drinks outdoors on a green hillside",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-friends-toast-outdoor",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V16",
@@ -2228,14 +3019,23 @@
      "page_url": "https://www.pexels.com/video/friends-dancing-outdoors-8684252/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V16.mp4",
-     "score": 14.69,
+     "score": 5.05,
      "categories": [
       "outdoor"
      ],
      "title": "video friends dancing outdoors",
      "query": "people picnic garden laughing",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "friends dance together outdoors near a table with cake and flowers among pines",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-friends-dance-forest",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V18",
@@ -2246,14 +3046,23 @@
      "page_url": "https://www.pexels.com/video/man-on-field-of-sunflowers-writing-in-a-paper-5104369/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V18.mp4",
-     "score": 14.23,
+     "score": 2.75,
      "categories": [
       "field"
      ],
      "title": "video man field sunflowers writing paper",
      "query": "outdoor meeting notebooks countryside",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a man writes on a clipboard standing in a sunflower field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-sunflower-writing",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V19",
@@ -2264,14 +3073,23 @@
      "page_url": "https://coverr.co/videos/two-friends-sitting-at-a-table-and-playing-a-board-game-outside-eio3tpjazg",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__belong-m8-S08-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__belong-m8-S08-V19.mp4",
-     "score": 14.09,
+     "score": 2.75,
      "categories": [
       "table"
      ],
      "title": "videos two friends sitting table and playing board game outside eio3tpjazg",
      "query": "friends long table outdoors dinner",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__belong-m8-S08-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "two friends play a board game at an outdoor table by a rock cliff",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-boardgame-cliff",
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-I04",
@@ -2340,7 +3158,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7414975_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7414975_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_7414975_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a small group greets each other on a clifftop overlooking the sea",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-clifftop-retreat-group",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7414973_retreat-group",
@@ -2352,7 +3180,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7414973_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7414973_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_7414973_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a small group sits cross-legged meditating on a clifftop above the sea",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-clifftop-retreat-group",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7414979_retreat-group",
@@ -2364,7 +3202,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7414979_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7414979_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_7414979_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "wide view of a group meditating on a rocky clifftop above the sea",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-clifftop-retreat-group",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_7414980_retreat-group",
@@ -2376,7 +3224,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7414980_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7414980_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_7414980_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a group sits meditating on rocks with the sea in the background",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-clifftop-retreat-group",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_5390478_retreat-group",
@@ -2388,7 +3246,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_5390478_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_5390478_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_5390478_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a few people sit cross-legged doing yoga on a grass lawn among trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-lawn-yoga-group",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7935038_retreat-group",
@@ -2400,7 +3268,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7935038_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7935038_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__strip__pexels_7935038_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a group sits cross-legged in a cozy indoor meditation room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-indoor-meditation-room",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_7935058_retreat-group",
@@ -2412,7 +3290,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_7935058_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_7935058_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S07__strip__pexels_7935058_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a group gathers indoors around someone lying down during a wellness session",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-indoor-wellness-session",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "pexels_10036906_retreat-group",
@@ -2424,7 +3312,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__thumb__pexels_10036906_retreat-group.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S07__preview__pexels_10036906_retreat-group.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S07__strip__pexels_10036906_retreat-group.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a family gathers around an outdoor picnic table with a tiered cake and bunting",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-family-picnic-cake",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:08:38Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -2463,7 +3361,8 @@
     "hotel ballroom"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "judged_at": "2026-09-09T17:08:38Z"
   },
   {
    "id": "S08",
@@ -2486,7 +3385,7 @@
      "page_url": "https://www.pexels.com/video/coworkers-meeting-outdoors-7652192/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V01.mp4",
-     "score": 15.81,
+     "score": 2.05,
      "categories": [
       "outdoor",
       "worker"
@@ -2494,7 +3393,16 @@
      "title": "video coworkers meeting outdoors",
      "query": "group discussion garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "three colleagues review a document at an outdoor table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-outdoor-coworkers",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V02",
@@ -2522,12 +3430,21 @@
      "page_url": "https://www.pexels.com/video/people-looking-at-papers-and-talking-7969383/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V03.mp4",
-     "score": 13.89,
+     "score": 1.05,
      "categories": [],
      "title": "video people looking papers and talking",
      "query": "group discussion garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "three young people look over papers together outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-students-papers",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V04",
@@ -2538,14 +3455,23 @@
      "page_url": "https://www.pexels.com/video/woman-explaining-plan-to-the-coworkers-5359716/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V04.mp4",
-     "score": 13.53,
+     "score": 1.7,
      "categories": [
       "worker"
      ],
      "title": "video woman explaining plan the coworkers",
      "query": "group discussion garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a woman in a hat gestures while presenting to two people at an outdoor table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-outdoor-presentation",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V05",
@@ -2556,14 +3482,23 @@
      "page_url": "https://pixabay.com/videos/id-129425/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V05.mp4",
-     "score": 11.09,
+     "score": 1.75,
      "categories": [
       "outdoor"
      ],
      "title": "meditation  spiritual  yoga  woman  concentration  exercise  healthy  lifestyle  nature  outdoor  people  person  prayer",
      "query": "yoga retreat outdoor",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "close-up of a hand forming a meditation gesture outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-meditation-hand",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V06",
@@ -2574,14 +3509,23 @@
      "page_url": "https://pixabay.com/videos/id-129423/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V06.mp4",
-     "score": 11.09,
+     "score": 2.1,
      "categories": [
       "outdoor"
      ],
      "title": "woman  yoga  exercise  concentration  healthy  lifestyle  meditation  nature  outdoor  people  person  prayer  relax  re",
      "query": "yoga retreat outdoor",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 6,
+     "caption": "a woman stretches during yoga in a pine forest at golden hour",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-forest-yoga",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-V07",
@@ -2592,12 +3536,21 @@
      "page_url": "https://pixabay.com/videos/id-6409/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-m8-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-m8-S08-V07.mp4",
-     "score": 10.97,
+     "score": 2.7,
      "categories": [],
      "title": "restaurant  couple  bokeh  blur  background  talking  relaxed  cafe  beautiful wallpaper  bar  meeting  people  relaxati",
      "query": "people talking nature retreat",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-m8-S08-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a blurred couple talks at a restaurant booth",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-blurred-couple-restaurant",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S08-I01",
@@ -2660,7 +3613,7 @@
      "page_url": "https://www.pexels.com/video/a-client-signing-a-registration-form-7820463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V08.mp4",
-     "score": 0,
+     "score": 2.6,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation team",
@@ -2669,7 +3622,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked receptionist hands a document to a guest at the front desk",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-hotel-reception-masks",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V09",
@@ -2680,7 +3642,7 @@
      "page_url": "https://pixabay.com/videos/id-8140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V09.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "stadium  sports  running event  team challenge  dresden  saxony  germany  running  runner",
      "query": "hotel staff Cross recommendation team",
@@ -2689,7 +3651,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a crowded stadium during an event",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stadium",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 14,
+     "shown": true
     },
     {
      "id": "belong-module8-S08-V10",
@@ -2700,7 +3671,7 @@
      "page_url": "https://www.pexels.com/video/man-checking-into-a-hotel-7820511/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V10.mp4",
-     "score": 0,
+     "score": 2.6,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation team",
@@ -2709,7 +3680,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked guest with luggage approaches a masked receptionist",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-hotel-reception-masks",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V11",
@@ -2720,7 +3700,7 @@
      "page_url": "https://pixabay.com/videos/id-150521/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V11.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "business  network  communication  digital  teamwork  marketing  collaboration  group  team  development  research",
      "query": "hotel staff Cross recommendation team",
@@ -2729,7 +3709,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an abstract animated graphic of a blue digital network",
+     "violation": "sales pitch imagery",
+     "shot": "",
+     "shoot": "pixabay-network-graphic",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V12",
@@ -2740,7 +3729,7 @@
      "page_url": "https://www.pexels.com/video/concierge-carrying-white-boxes-6474561/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V12.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation team",
@@ -2749,7 +3738,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a uniformed bellhop carries boxes through an ornate hotel lobby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-luxury-lobby-bellhop",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "belong-module8-S08-V13",
@@ -2760,7 +3758,7 @@
      "page_url": "https://pixabay.com/videos/id-125310/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V13.mp4",
-     "score": 0,
+     "score": 2.05,
      "categories": [],
      "title": "kids  game  smiles  fun  boy  girl  family  team  friendship  café",
      "query": "hotel staff Cross recommendation team",
@@ -2769,7 +3767,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "excited kids point and laugh at a wooden table in a casual diner",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-kids-diner",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-module8-S08-V14",
@@ -2780,7 +3787,7 @@
      "page_url": "https://www.pexels.com/video/woman-with-face-mask-checking-in-at-hotel-7820464/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V14.mp4",
-     "score": 0,
+     "score": 1.3,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation team",
@@ -2789,7 +3796,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked receptionist stands at a dim reception counter with a bell",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-hotel-reception-masks",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V15",
@@ -2800,7 +3816,7 @@
      "page_url": "https://pixabay.com/videos/id-39890/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V15.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "office  people  business  work  team  human  corporate  the meeting  planning  project  young  plan",
      "query": "hotel staff Cross recommendation team",
@@ -2809,7 +3825,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "two people walk and talk down a graphic-lettered office corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-office-corridor",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 13,
+     "shown": true
     },
     {
      "id": "belong-module8-S08-V16",
@@ -2820,7 +3845,7 @@
      "page_url": "https://www.pexels.com/video/a-man-signing-a-registration-form-7820510/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V16.mp4",
-     "score": 0,
+     "score": 1.95,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation team",
@@ -2829,7 +3854,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a masked receptionist hands sanitizer and a document to a masked guest",
+     "violation": "face masks",
+     "shot": "A",
+     "shoot": "pexels-hotel-reception-masks",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V17",
@@ -2840,7 +3874,7 @@
      "page_url": "https://pixabay.com/videos/id-244242/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__thumb__belong-module8-S08-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S08__preview__belong-module8-S08-V17.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "elephants  herd  group  desert  nature  elephant  sand  sand dunes  africa  together  team",
      "query": "hotel staff Cross recommendation team",
@@ -2849,7 +3883,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "elephants walk across a desert landscape",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-elephants-desert",
+     "judged_at": "2026-09-09T17:09:35Z",
+     "rank": 16,
+     "shown": false
     }
    ],
    "shots": [
@@ -2888,7 +3931,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:09:35Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:09:35Z"
   },
   {
    "id": "S09",
@@ -2911,14 +3960,23 @@
      "page_url": "https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V01.mp4",
-     "score": 14.5,
+     "score": 0.65,
      "categories": [
       "hotel"
      ],
      "title": "video man talking the hotel receptionist",
      "query": "guest asking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked guest checks in with a masked receptionist at a lamp-lit desk",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V02",
@@ -2929,14 +3987,23 @@
      "page_url": "https://www.pexels.com/video/receptionist-showing-room-to-guest-7820516/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V02.mp4",
-     "score": 13.5,
+     "score": 0.0,
      "categories": [
       "guest"
      ],
      "title": "video receptionist showing room guest",
      "query": "hotel concierge advice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "masked hotel guests walk through a lobby toward an elevator",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V03",
@@ -2947,7 +4014,7 @@
      "page_url": "https://www.pexels.com/video/guests-and-a-receptionist-wearing-face-mask-in-a-hotel-7820550/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V03.mp4",
-     "score": 13.5,
+     "score": 0.0,
      "categories": [
       "guest",
       "hotel"
@@ -2955,7 +4022,16 @@
      "title": "video guests and receptionist wearing face mask hotel",
      "query": "guest asking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "masked guests approach a masked receptionist on the phone",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V04",
@@ -2966,7 +4042,7 @@
      "page_url": "https://www.pexels.com/video/receptionist-receiving-guests-at-hotel-5378932/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V04.mp4",
-     "score": 12.5,
+     "score": 0.65,
      "categories": [
       "guest",
       "hotel"
@@ -2974,7 +4050,16 @@
      "title": "video receptionist receiving guests hotel",
      "query": "hotel concierge advice",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "staff in a tuxedo greets guests in business suits in an ornate lobby",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-ornate-lobby-suits",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V05",
@@ -2985,7 +4070,7 @@
      "page_url": "https://pixabay.com/videos/id-19162/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V05.mp4",
-     "score": 10.5,
+     "score": 1.05,
      "categories": [
       "cooking",
       "guest"
@@ -2993,7 +4078,16 @@
      "title": "plates  4k  heap  stack  restaurant  guests  many  thanksgiving  christmas  cooking  dishes  stacked  pile  white  black",
      "query": "guest asking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "stacked white restaurant plates against a dark background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-plate-stacks",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S09-V06",
@@ -3004,12 +4098,21 @@
      "page_url": "https://pixabay.com/videos/id-92662/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V06.mp4",
-     "score": 9.7,
+     "score": 0.0,
      "categories": [],
      "title": "woman  welcome  social media  hello  girl  reading  teach  explaining  woman explaining  teaching  teacher  woman talkin",
      "query": "receptionist guest talking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated cartoon woman gestures welcomingly on a green screen",
+     "violation": "sales gestures",
+     "shot": "",
+     "shoot": "pixabay-cartoon-presenter",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-V07",
@@ -3020,12 +4123,21 @@
      "page_url": "https://pixabay.com/videos/id-75999/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V07.mp4",
-     "score": 9.7,
+     "score": 0.0,
      "categories": [],
      "title": "conversation  talking  chatting  meet up  communication  people  friendship  together",
      "query": "receptionist guest talking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an abstract silhouette graphic of two people talking",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-silhouette-graphic",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 19,
+     "shown": true
     },
     {
      "id": "belong-m8-S09-I01",
@@ -3090,7 +4202,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__pixabay_180_concierge-conversation-warm.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__pixabay_180_concierge-conversation-warm.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__pixabay_180_concierge-conversation-warm.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "close-up of hands holding a warm mug of coffee",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-warm-mug-closeup",
+     "score": 2.75,
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pixabay_87449_pointing-direction-guest",
@@ -3102,7 +4224,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__pixabay_87449_pointing-direction-guest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__pixabay_87449_pointing-direction-guest.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__pixabay_87449_pointing-direction-guest.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a trail direction marker on a tree in a forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-trail-marker",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_6140449_showing-map-travelers",
@@ -3123,12 +4255,21 @@
      "page_url": "https://www.pexels.com/video/woman-talking-through-the-phone-while-taking-notes-5137841/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V12.mp4",
-     "score": 13.49,
+     "score": 3.75,
      "categories": [],
      "title": "video woman talking through the phone while taking notes",
      "query": "hotel staff showing map guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "backpackers check in at a cozy hostel reception decorated with maps and photos",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hostel-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S09-V13",
@@ -3139,7 +4280,7 @@
      "page_url": "https://www.pexels.com/video/waitstaff-serves-meal-at-cozy-restaurant-table-33462592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V13.mp4",
-     "score": 13.03,
+     "score": 4.7,
      "categories": [
       "meal",
       "table"
@@ -3147,7 +4288,16 @@
      "title": "video waitstaff serves meal cozy restaurant table",
      "query": "waiter recommending menu guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a waiter serves a plated meal at a cozy city restaurant table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-city-restaurant-serve",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S09-V14",
@@ -3176,14 +4326,23 @@
      "page_url": "https://www.pexels.com/video/couple-at-the-table-in-front-of-food-truck-5920307/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V18.mp4",
-     "score": 12.34,
+     "score": 3.4,
      "categories": [
       "table"
      ],
      "title": "video couple the table front food truck",
      "query": "waiter recommending menu guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a waiter serves a couple at an outdoor food truck picnic table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-food-truck-serve",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m8-S09-V23",
@@ -3208,14 +4367,23 @@
      "page_url": "https://www.pexels.com/video/a-couple-wearing-face-mask-in-a-hotel-7820552/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-m8-S09-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-m8-S09-V26.mp4",
-     "score": 11.99,
+     "score": 0.65,
      "categories": [
       "hotel"
      ],
      "title": "video couple wearing face mask hotel",
      "query": "guest asking staff",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-m8-S09-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked couple talks with masked hotel staff beside a lamp",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-masked-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S09-I04",
@@ -3276,7 +4444,7 @@
      "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-8141560/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V27.mp4",
-     "score": 0,
+     "score": 1.95,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation connecting",
@@ -3285,7 +4453,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a tuxedo waiter presents a menu to guests in business attire in an ornate lounge",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-ornate-lounge-menu",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V28",
@@ -3296,7 +4473,7 @@
      "page_url": "https://pixabay.com/videos/id-25640/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V28.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pool  hotel  swim  sports  woman  reverse  back  water  relax  tourism  umbrella  entertainment  resort  holiday  summer  relaxation  travel  swimming  luxury",
      "query": "hotel staff Cross recommendation connecting",
@@ -3305,7 +4482,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a person swims in a resort infinity pool lined with cabanas",
+     "violation": "resort pools and beaches",
+     "shot": "",
+     "shoot": "pixabay-resort-pool",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V29",
@@ -3316,7 +4502,7 @@
      "page_url": "https://www.pexels.com/video/couple-talking-to-a-woman-in-front-desk-5138022/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V29.mp4",
-     "score": 0,
+     "score": 5.05,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation connecting",
@@ -3325,7 +4511,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "backpacker guests point at something on a cozy hostel reception counter",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-hostel-reception",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-module8-S09-V30",
@@ -3336,7 +4531,7 @@
      "page_url": "https://pixabay.com/videos/id-370241/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V30.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "brixworth  all saints church  northamptonshire  church  stone  spire  steeple  graveyard  cemetery  english  historic  medieval  architecture  aerial  landscape  building  religion  cross  worship  tourism  serene  masonry  anglo saxon church  romantic bricks",
      "query": "Cross recommendation connecting guest",
@@ -3345,7 +4540,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a stone church tower in an English village",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-church-aerial",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 14,
+     "shown": true
     },
     {
      "id": "belong-module8-S09-V31",
@@ -3356,7 +4560,7 @@
      "page_url": "https://www.pexels.com/video/a-waiter-approaching-his-guests-8921931/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V31.mp4",
-     "score": 0,
+     "score": 1.95,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation connecting",
@@ -3365,7 +4569,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a tuxedo waiter approaches seated guests in business suits in a dim ornate room",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-ornate-lounge-menu",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V32",
@@ -3376,7 +4589,7 @@
      "page_url": "https://pixabay.com/videos/id-25905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V32.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that  trip  relaxation  luxury  swimming  tropical  empty  blue  sunny  exotic",
      "query": "hotel staff guests more what",
@@ -3385,7 +4598,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "lounge chairs line a resort swimming pool",
+     "violation": "resort pools and beaches",
+     "shot": "",
+     "shoot": "pixabay-resort-pool",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V33",
@@ -3396,7 +4618,7 @@
      "page_url": "https://www.pexels.com/video/people-talking-at-a-business-conference-8716783/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V33.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation connecting",
@@ -3405,7 +4627,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "people in business suits look at a laptop under a chandelier",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-formal-meeting-chandelier",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V34",
@@ -3416,7 +4647,7 @@
      "page_url": "https://pixabay.com/videos/id-4739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V34.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pool  swimming pool  fun  kids  toy  pink  swan  vacation  swim  leisure  holiday  recreation  relaxation  outdoors  swimming  water  resort  home  happy  hotel  relax  child",
      "query": "hotel staff guests more what",
@@ -3425,7 +4656,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "inflatable flamingo and donut floats in a resort swimming pool",
+     "violation": "resort pools and beaches",
+     "shot": "",
+     "shoot": "pixabay-resort-pool-floats",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V35",
@@ -3436,7 +4676,7 @@
      "page_url": "https://www.pexels.com/video/colleagues-talking-with-each-other-8847989/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V35.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V35.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Cross recommendation connecting",
@@ -3445,7 +4685,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V35.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "three people in business suits talk in a modern hotel room",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-suits-hotel-room",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module8-S09-V36",
@@ -3456,7 +4705,7 @@
      "page_url": "https://pixabay.com/videos/id-177254/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__thumb__belong-module8-S09-V36.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S09__preview__belong-module8-S09-V36.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "couple  hands  love  walking",
      "query": "hotel staff they already love",
@@ -3465,7 +4714,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S09__strip__belong-module8-S09-V36.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a couple holds hands walking through a snowy landscape",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-snow-handhold",
+     "judged_at": "2026-09-09T17:11:04Z",
+     "rank": 10,
+     "shown": true
     }
    ],
    "shots": [
@@ -3504,7 +4762,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:11:04Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:11:04Z"
   },
   {
    "id": "S10",
@@ -3527,7 +4791,7 @@
      "page_url": "https://www.pexels.com/video/harvesting-herbs-from-home-gardening-4147869/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__belong-m8-S10-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__belong-m8-S10-V01.mp4",
-     "score": 15.18,
+     "score": 5.7,
      "categories": [
       "garden",
       "harvest",
@@ -3536,7 +4800,16 @@
      "title": "video harvesting herbs from home gardening",
      "query": "hands caring plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-m8-S10-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a gloved hand harvests microgreens from a wooden planter box",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-microgreen-harvest",
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S10-V02",
@@ -3547,7 +4820,7 @@
      "page_url": "https://www.pexels.com/video/close-up-of-hand-gardening-in-spring-soil-31561054/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__belong-m8-S10-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__belong-m8-S10-V02.mp4",
-     "score": 14.28,
+     "score": 5.05,
      "categories": [
       "garden",
       "soil"
@@ -3555,7 +4828,16 @@
      "title": "video close hand gardening spring soil",
      "query": "hands caring plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-m8-S10-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "close-up of a hand tending small seedlings in garden soil",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-seedling-hand",
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S10-V03",
@@ -3582,14 +4864,23 @@
      "page_url": "https://www.pexels.com/video/bangladeshi-harvesting-life-15355671/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__belong-m8-S10-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__belong-m8-S10-V04.mp4",
-     "score": 12.48,
+     "score": 5.0,
      "categories": [
       "harvest"
      ],
      "title": "video bangladeshi harvesting life",
      "query": "hands caring plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-m8-S10-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands harvest leafy greens by hand in a field",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-field-harvest-hands",
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m8-S10-V05",
@@ -3600,7 +4891,7 @@
      "page_url": "https://pixabay.com/videos/id-29223/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__belong-m8-S10-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__belong-m8-S10-V05.mp4",
-     "score": 12.13,
+     "score": 0.7,
      "categories": [
       "garden",
       "stone"
@@ -3608,7 +4899,16 @@
      "title": "castle  courtyard  architecture  historically  building  germany  luxury  staircase  old  wall  residence  princess  mas",
      "query": "peaceful courtyard",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-m8-S10-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an ornate arched stone courtyard with a hanging lantern",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-ornate-courtyard",
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S10-V06",
@@ -3636,14 +4936,23 @@
      "page_url": "https://pixabay.com/videos/id-47551/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__belong-m8-S10-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__belong-m8-S10-V07.mp4",
-     "score": 10.3,
+     "score": 4.05,
      "categories": [
       "garden"
      ],
      "title": "pot  flowers  hand  woman  garden  nature  gardening  holding  smelling flowers  springtime  green  natural  flower pot ",
      "query": "hands caring plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-m8-S10-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands place a flowering plant into a pot on an outdoor table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-potting-flowers",
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m8-S10-I01",
@@ -3714,7 +5023,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4253350_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4253350_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4253350_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a chef's hands carefully plate a dish at a restaurant counter",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-chef-plating-counter",
+     "score": 4.35,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7244293_one-idea-many-places",
@@ -3726,7 +5045,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_7244293_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_7244293_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_7244293_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a diner cuts into a plated dish at a white-tablecloth restaurant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-diner-eating",
+     "score": 2.4,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_4254313_one-idea-many-places",
@@ -3738,7 +5067,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4254313_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4254313_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4254313_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a waiter carefully arranges items on a wooden restaurant table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-trendy-restaurant-setting",
+     "score": 5.0,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_4254301_one-idea-many-places",
@@ -3750,7 +5089,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4254301_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4254301_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4254301_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a person in black walks among red chairs in a restaurant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-trendy-restaurant-setting",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pexels_4255439_one-idea-many-places",
@@ -3762,7 +5111,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4255439_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4255439_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4255439_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a couple talks on a green sofa beneath a bubble chandelier",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-lounge-couple",
+     "score": 1.4,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_4255443_one-idea-many-places",
@@ -3774,7 +5133,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4255443_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4255443_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4255443_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a couple looks over a menu on a lounge sofa",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-lounge-couple",
+     "score": 1.4,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_4254306_one-idea-many-places",
@@ -3786,7 +5155,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4254306_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4254306_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4254306_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a person in a dark coat stands near green bar stools",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-lounge-couple",
+     "score": 1.4,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pexels_4255438_one-idea-many-places",
@@ -3798,7 +5177,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__thumb__pexels_4255438_one-idea-many-places.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S10__preview__pexels_4255438_one-idea-many-places.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__pexels_4255438_one-idea-many-places.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a waiter approaches a seated couple with a menu in a lounge",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-lounge-couple",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:11:57Z",
+     "rank": 7,
+     "shown": true
     }
    ],
    "shots": [
@@ -3837,7 +5226,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:11:57Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:11:57Z"
   },
   {
    "id": "S11",

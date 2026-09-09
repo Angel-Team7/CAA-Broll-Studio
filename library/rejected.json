@@ -152,14 +152,14 @@
  "pexels:https://www.pexels.com/video/man-talking-to-the-hotel-receptionist-7820515/": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T16:25:27Z",
-  "from": "belong-module9/S03"
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
  },
  "pixabay:https://pixabay.com/videos/id-92662/": {
   "brand": "belong",
-  "reason": "cartoon, green screen",
-  "at": "2026-09-09T16:25:27Z",
-  "from": "belong-module9/S03"
+  "reason": "sales gestures",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
  },
  "pexels:8865784": {
   "brand": "belong",
@@ -301,9 +301,9 @@
  },
  "pixabay:25640": {
   "brand": "belong",
-  "reason": "resort pools, luxury spa cliches",
-  "at": "2026-09-09T16:27:39Z",
-  "from": "belong-module9/S12"
+  "reason": "resort pools and beaches",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
  },
  "pixabay:https://pixabay.com/videos/id-25639/": {
   "brand": "belong",
@@ -325,9 +325,9 @@
  },
  "pixabay:4739": {
   "brand": "belong",
-  "reason": "construction and building trades",
-  "at": "2026-09-09T16:29:20Z",
-  "from": "belong-module9/S09"
+  "reason": "resort pools and beaches",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
  },
  "pexels:5371657": {
   "brand": "belong",
@@ -776,8 +776,8 @@
  "pexels:7820510": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T16:43:59Z",
-  "from": "belong-module9/S04"
+  "at": "2026-09-09T17:09:35Z",
+  "from": "belong-module8/S08"
  },
  "pexels:https://www.pexels.com/video/healthcare-workers-in-safety-gear-using-computers-28950234/": {
   "brand": "belong",
@@ -958,5 +958,137 @@
   "reason": "resort pool",
   "at": "2026-09-09T16:51:02Z",
   "from": "belong-module9/S13"
+ },
+ "pexels:https://www.pexels.com/video/coffee-with-whipped-cream-14048644/": {
+  "brand": "belong",
+  "reason": "resort pool",
+  "at": "2026-09-09T17:03:30Z",
+  "from": "belong-module8/S02"
+ },
+ "pexels:https://www.pexels.com/video/a-bartender-cleaning-a-glass-9199136/": {
+  "brand": "belong",
+  "reason": "luxury hotel bar",
+  "at": "2026-09-09T17:04:38Z",
+  "from": "belong-module8/S03"
+ },
+ "pexels:https://www.pexels.com/video/bartender-serving-a-drink-9199135/": {
+  "brand": "belong",
+  "reason": "luxury hotel bar",
+  "at": "2026-09-09T17:04:38Z",
+  "from": "belong-module8/S03"
+ },
+ "pixabay:https://pixabay.com/videos/id-1192/": {
+  "brand": "belong",
+  "reason": "corporate event",
+  "at": "2026-09-09T17:05:20Z",
+  "from": "belong-module8/S04"
+ },
+ "pexels:https://www.pexels.com/video/delicious-plating-of-steak-with-vegetables-30861243/": {
+  "brand": "belong",
+  "reason": "hotel banquet hall",
+  "at": "2026-09-09T17:05:55Z",
+  "from": "belong-module8/S05"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-sitting-together-with-the-soldiers-6718809/": {
+  "brand": "belong",
+  "reason": "ballroom chandeliers",
+  "at": "2026-09-09T17:07:10Z",
+  "from": "belong-module8/S06"
+ },
+ "pexels:https://www.pexels.com/video/an-aerial-view-of-a-wedding-reception-with-tables-and-chairs-28119326/": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-09T17:07:10Z",
+  "from": "belong-module8/S06"
+ },
+ "pexels:https://www.pexels.com/video/hotel-receptionist-talking-to-a-guest-7820514/": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:08:38Z",
+  "from": "belong-module8/S07"
+ },
+ "pixabay:https://pixabay.com/videos/id-286879/": {
+  "brand": "belong",
+  "reason": "conference room",
+  "at": "2026-09-09T17:08:38Z",
+  "from": "belong-module8/S07"
+ },
+ "pexels:7820463": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:09:35Z",
+  "from": "belong-module8/S08"
+ },
+ "pexels:7820511": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:09:35Z",
+  "from": "belong-module8/S08"
+ },
+ "pixabay:150521": {
+  "brand": "belong",
+  "reason": "sales pitch imagery",
+  "at": "2026-09-09T17:09:35Z",
+  "from": "belong-module8/S08"
+ },
+ "pexels:7820464": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:09:35Z",
+  "from": "belong-module8/S08"
+ },
+ "pexels:https://www.pexels.com/video/receptionist-showing-room-to-guest-7820516/": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:https://www.pexels.com/video/guests-and-a-receptionist-wearing-face-mask-in-a-hotel-7820550/": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:https://www.pexels.com/video/receptionist-receiving-guests-at-hotel-5378932/": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:https://www.pexels.com/video/a-couple-wearing-face-mask-in-a-hotel-7820552/": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:8141560": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:8921931": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pixabay:25905": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:8716783": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
+ },
+ "pexels:8847989": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-09T17:11:04Z",
+  "from": "belong-module8/S09"
  }
 }
