@@ -20,7 +20,7 @@
      "page_url": "https://www.pexels.com/video/workers-talking-on-construction-13569683/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V00.mp4",
-     "score": 24.66,
+     "score": 1.65,
      "categories": [
       "construction",
       "talking",
@@ -30,7 +30,16 @@
      "title": "video workers talking construction",
      "query": "worker walking away head down site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two construction workers in hi-vis vests talk in front of a building site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-workers-construction-talk",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-V01",
@@ -41,7 +50,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V01.mp4",
-     "score": 23.12,
+     "score": 2.0,
      "categories": [
       "construction",
       "site",
@@ -51,7 +60,16 @@
      "title": "video construction workers communicating site",
      "query": "supervisor giving instructions worker site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two men in orange safety gear talk near a car outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-safetycrew-car-talk",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-V02",
@@ -62,7 +80,7 @@
      "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V02.mp4",
-     "score": 27.01,
+     "score": 6.0,
      "categories": [
       "talking",
       "worker",
@@ -71,7 +89,16 @@
      "title": "video two wood workers talking each other",
      "query": "carpenter teaching apprentice wood",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two carpenters review a wood measurement together in a workshop",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-woodshop-carpenters-note",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-V03",
@@ -82,7 +109,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-writing-on-her-notebook-while-listening-8716583/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V03.mp4",
-     "score": 22.78,
+     "score": 0.65,
      "categories": [
       "man",
       "woman"
@@ -90,7 +117,16 @@
      "title": "video woman writing her notebook while listening",
      "query": "apprentice taking notes mentor workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman in a blazer takes notes during a seminar audience session",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pexels-seminar-audience-notetaking",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-V04",
@@ -118,7 +154,7 @@
      "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V05.mp4",
-     "score": 23.39,
+     "score": 1.0,
      "categories": [
       "construction",
       "foreman",
@@ -128,7 +164,16 @@
      "title": "video foreman the construction site",
      "query": "supervisor giving instructions worker site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker in a hardhat looks up at a large steel-framed structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hardhat-worker-steelstructure",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-V06",
@@ -139,7 +184,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-cutting-materials-for-building-34572309/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__thumb__edenrise-c2-winning-beliefs-S01-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__preview__edenrise-c2-winning-beliefs-S01-V06.mp4",
-     "score": 24.29,
+     "score": 1.7,
      "categories": [
       "building",
       "construction",
@@ -149,7 +194,16 @@
      "title": "video construction workers cutting materials for building",
      "query": "tired worker sitting pause site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S01__strip__edenrise-c2-winning-beliefs-S01-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a person crouches to work on equipment inside a warehouse storeroom",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-warehouse-worker-boxes",
+     "judged_at": "2026-09-09T17:57:51Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S01-I00",
@@ -250,7 +304,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:57:51Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:57:51Z"
   },
   {
    "id": "S02",
@@ -272,7 +332,7 @@
      "page_url": "https://www.pexels.com/video/carpenter-in-the-workshop-6789586/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V00.mp4",
-     "score": 18.37,
+     "score": 5.05,
      "categories": [
       "carpenter",
       "workshop"
@@ -280,7 +340,16 @@
      "title": "video carpenter the workshop",
      "query": "craftsman looking at finished work",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a carpenter sands a wooden board alone in a workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-carpenter-sanding-alone",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V01",
@@ -291,14 +360,23 @@
      "page_url": "https://www.pexels.com/video/person-looking-at-tools-in-the-garage-8986477/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V01.mp4",
-     "score": 17.17,
+     "score": 1.65,
      "categories": [
       "tools"
      ],
      "title": "video person looking tools the garage",
      "query": "worker pausing thinking workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a mechanic looks over tools in a smoky garage",
+     "violation": "dark industrial workshops",
+     "shot": "",
+     "shoot": "pexels-mechanic-garage-smoky",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V02",
@@ -309,14 +387,23 @@
      "page_url": "https://www.pexels.com/video/pensive-man-at-work-7687975/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V02.mp4",
-     "score": 17.3,
+     "score": 4.95,
      "categories": [
       "man"
      ],
      "title": "video pensive man work",
      "query": "worker pausing thinking workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a man rests his chin on his hand in quiet thought",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-pensive-man-profile-office",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V07",
@@ -327,7 +414,7 @@
      "page_url": "https://www.pexels.com/video/a-male-leatherworker-working-at-a-table-4452795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V07.mp4",
-     "score": 18.23,
+     "score": 4.05,
      "categories": [
       "worker",
       "working"
@@ -335,7 +422,16 @@
      "title": "video male leatherworker working table",
      "query": "man thinking looking at tools bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a craftsman works on a leather project in a plant-filled studio",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-leatherworker-studio-plants",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V08",
@@ -346,7 +442,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V08.mp4",
-     "score": 17.79,
+     "score": 4.4,
      "categories": [
       "land",
       "man",
@@ -355,7 +451,16 @@
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
      "query": "farmer checking harvest crate result",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a man gathers harvested corn stalks in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-farmer-cornfield-harvest",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V09",
@@ -366,14 +471,23 @@
      "page_url": "https://www.pexels.com/video/a-carpenter-writing-in-the-counter-7480738/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__thumb__edenrise-c2-winning-beliefs-S02-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__preview__edenrise-c2-winning-beliefs-S02-V09.mp4",
-     "score": 17.63,
+     "score": 4.4,
      "categories": [
       "carpenter"
      ],
      "title": "video carpenter writing the counter",
      "query": "man thinking looking at tools bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S02__strip__edenrise-c2-winning-beliefs-S02-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a woodworker stands at a workbench surrounded by tools",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woodworker-workshop-tools",
+     "judged_at": "2026-09-09T17:58:45Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-winning-beliefs-S02-V03",
@@ -490,7 +604,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:58:45Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:58:45Z"
   },
   {
    "id": "S03",
