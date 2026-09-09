@@ -15744,7 +15744,7 @@
      "shot": "",
      "shoot": "pixabay-angle-grinder-rebar",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 12,
+     "rank": 28,
      "shown": false
     },
     {
@@ -15771,7 +15771,7 @@
      "shot": "",
      "shoot": "pexels-call-center-headsets",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 13,
+     "rank": 29,
      "shown": false
     },
     {
@@ -15812,7 +15812,7 @@
      "shot": "D",
      "shoot": "pexels-woman-curtain-calm",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -15837,8 +15837,8 @@
      "shot": "",
      "shoot": "pexels-hands-tissue-office",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 7,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m9-S11-V06",
@@ -15865,8 +15865,8 @@
      "shot": "",
      "shoot": "pixabay-rock-sunset-calm",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m9-S11-V07",
@@ -15892,8 +15892,8 @@
      "shot": "",
      "shoot": "pixabay-forest-stream-snow",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 9,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m9-S11-I01",
@@ -15972,7 +15972,7 @@
      "shot": "",
      "shoot": "pexels-office-suspenders-phone",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 11,
+     "rank": 26,
      "shown": false
     },
     {
@@ -16001,7 +16001,7 @@
      "shot": "",
      "shoot": "pixabay-construction-foundation-aerial",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 14,
+     "rank": 30,
      "shown": false
     },
     {
@@ -16030,7 +16030,7 @@
      "shot": "",
      "shoot": "pexels-office-documents-stamp",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 10,
+     "rank": 25,
      "shown": false
     },
     {
@@ -16059,7 +16059,7 @@
      "shot": "",
      "shoot": "pixabay-fabric-cutter-press",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 15,
+     "rank": 31,
      "shown": false
     },
     {
@@ -16088,7 +16088,7 @@
      "shot": "",
      "shoot": "pexels-office-gesture-hijab",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 5,
+     "rank": 16,
      "shown": false
     },
     {
@@ -16117,8 +16117,8 @@
      "shot": "",
      "shoot": "pexels-laptop-hand-wood-table",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 4,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S11-V14",
@@ -16146,8 +16146,8 @@
      "shot": "",
      "shoot": "pexels-women-notes-office-bright",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 8,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S11-V15",
@@ -16175,7 +16175,7 @@
      "shot": "",
      "shoot": "pixabay-fabric-binding-machine",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 16,
+     "rank": 32,
      "shown": false
     },
     {
@@ -16204,7 +16204,7 @@
      "shot": "",
      "shoot": "pexels-women-laughing-office",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -16233,7 +16233,7 @@
      "shot": "",
      "shoot": "pexels-laptop-outdoor-coffee-garden",
      "judged_at": "2026-09-09T16:42:08Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -16255,8 +16255,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:14:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "an extreme close-up shows a woman's calm steady eyes outdoors",
+     "violation": "",
+     "shoot": "pexels-eyes-closeup-outdoor",
+     "score": 6.3,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 1
     },
     {
      "id": "belong-module9-S11-V19",
@@ -16277,8 +16285,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:14:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a man opens his eyes calmly against a plain backdrop",
+     "violation": "",
+     "shoot": "pexels-man-eyes-studio",
+     "score": 4.3,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 4
     },
     {
      "id": "belong-module9-S11-V20",
@@ -16299,8 +16315,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:14:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a close-up shows a man slowly opening his calm eyes indoors",
+     "violation": "",
+     "shoot": "pexels-man-eyes-indoor",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 2
     },
     {
      "id": "belong-module9-S11-V21",
@@ -16314,15 +16338,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V21.strip.jpg",
      "title": "a young man dancing to a music",
      "query": "calm face listening close up",
-     "shot": "D",
+     "shot": "",
      "duration": 24,
      "src_id": "5527609",
      "download_url": "https://videos.pexels.com/video-files/5527609/5527609-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a young man with earbuds has a neutral expression",
+     "violation": "",
+     "shoot": "pexels-man-earbuds-portrait",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 8
     },
     {
      "id": "belong-module9-S11-V22",
@@ -16343,8 +16375,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a young girl's calm face is lit warmly indoors",
+     "violation": "",
+     "shoot": "pexels-girl-calm-face-warm",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 10
     },
     {
      "id": "belong-module9-S11-V23",
@@ -16358,15 +16398,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V23.strip.jpg",
      "title": "an extreme close up of a woman wearing eyeglasses",
      "query": "calm face listening close up",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "8136669",
      "download_url": "https://videos.pexels.com/video-files/8136669/8136669-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a close-up shows a woman adjusting her glasses",
+     "violation": "",
+     "shoot": "pexels-glasses-adjust-closeup",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 9
     },
     {
      "id": "belong-module9-S11-V24",
@@ -16380,15 +16428,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V24.strip.jpg",
      "title": "woman dancing while listening to music",
      "query": "calm face listening close up",
-     "shot": "D",
+     "shot": "",
      "duration": 16,
      "src_id": "6961536",
      "download_url": "https://videos.pexels.com/video-files/6961536/6961536-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a smiling woman with earbuds sways against a red backdrop",
+     "violation": "",
+     "shoot": "pexels-woman-earbuds-red",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 13
     },
     {
      "id": "belong-module9-S11-V25",
@@ -16409,8 +16465,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a mature woman with reading glasses has a calm focused expression",
+     "violation": "",
+     "shoot": "pexels-woman-glasses-calm",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 3
     },
     {
      "id": "belong-module9-S11-V26",
@@ -16424,15 +16488,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V26.strip.jpg",
      "title": "people talking to a receptionist",
      "query": "receptionist calm with angry guest",
-     "shot": "B",
+     "shot": "C",
      "duration": 35,
      "src_id": "8465135",
      "download_url": "https://videos.pexels.com/video-files/8465135/8465135-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "people talk to a receptionist in a sleek glass office",
+     "violation": "glass lobby, corporate hotel chains",
+     "shoot": "pexels-glass-office-reception",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 21
     },
     {
      "id": "belong-module9-S11-V27",
@@ -16446,15 +16518,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V27.strip.jpg",
      "title": "a woman talking about her teeth",
      "query": "receptionist calm with angry guest",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "6192866",
      "download_url": "https://videos.pexels.com/video-files/6192866/6192866-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman talks at a modern illuminated counter",
+     "violation": "",
+     "shoot": "pexels-modern-counter-talk",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 20
     },
     {
      "id": "belong-module9-S11-V28",
@@ -16468,15 +16548,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V28.strip.jpg",
      "title": "people getting angry at a coworker",
      "query": "receptionist calm with angry guest",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "7640072",
      "download_url": "https://videos.pexels.com/video-files/7640072/7640072-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "office coworkers in business attire gather stressed around a desk",
+     "violation": "business suits",
+     "shoot": "pexels-office-coworkers-stress",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 22
     },
     {
      "id": "belong-module9-S11-V29",
@@ -16497,8 +16585,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:15:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman speaks with a staff member at an institutional info desk",
+     "violation": "",
+     "shoot": "pexels-info-desk-institutional",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 14
     },
     {
      "id": "belong-module9-S11-V30",
@@ -16512,15 +16608,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V30.strip.jpg",
      "title": "a woman writing on the paper",
      "query": "receptionist calm with angry guest",
-     "shot": "B",
+     "shot": "",
      "duration": 17,
      "src_id": "8102411",
      "download_url": "https://videos.pexels.com/video-files/8102411/8102411-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a receptionist writes at a desk in a high-rise office",
+     "violation": "corporate hotel chains",
+     "shoot": "pexels-highrise-reception-write",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 27
     },
     {
      "id": "belong-module9-S11-V31",
@@ -16534,15 +16638,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V31.strip.jpg",
      "title": "woman passing sanitizer to a girl",
      "query": "receptionist calm with angry guest",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "8460011",
      "download_url": "https://videos.pexels.com/video-files/8460011/8460011-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked receptionist gestures behind a plexiglass barrier",
+     "violation": "face masks",
+     "shoot": "pexels-masked-plexiglass-desk",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 33
     },
     {
      "id": "belong-module9-S11-V32",
@@ -16556,15 +16668,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V32.strip.jpg",
      "title": "airport  passenger  indoor  aeroplane  building  moving  travel  suitcase  waiting  room  hall  interior  wait  entrance  reception  windows  interiors  apartment  chairs  window  architecture",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "71015",
      "download_url": "https://cdn.pixabay.com/video/2021/04/13/71015-538505208_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated cartoon shows a traveler at an airport",
+     "violation": "cartoon",
+     "shoot": "pixabay-cartoon-airport",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 34
     },
     {
      "id": "belong-module9-S11-V33",
@@ -16578,15 +16698,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V33.strip.jpg",
      "title": "friendship  support  scenery  night  care  empathy",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "173161",
      "download_url": "https://cdn.pixabay.com/video/2023/07/25/173161-848555667_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a dramatic digital composite shows silhouettes under a lightning storm",
+     "violation": "",
+     "shoot": "pixabay-composite-silhouette-storm",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 35
     },
     {
      "id": "belong-module9-S11-V34",
@@ -16600,15 +16728,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V34.strip.jpg",
      "title": "world cup  shiva  cricket  sport  crowd  final  match  support  india",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 21,
      "src_id": "189868",
      "download_url": "https://cdn.pixabay.com/video/2023/11/20/189868-886572796_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a huge crowd waves flags outside a cricket stadium",
+     "violation": "",
+     "shoot": "pixabay-cricket-crowd-stadium",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 36
     },
     {
      "id": "belong-module9-S11-V35",
@@ -16622,15 +16758,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V35.strip.jpg",
      "title": "room  bed  hotel  travel  vacation  reception  apartment  lifestyle  business  resort",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "135141",
      "download_url": "https://cdn.pixabay.com/video/2022/10/16/135141-761273478_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:16:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a generic modern hotel room with a made bed",
+     "violation": "corporate hotel chains",
+     "shoot": "pixabay-hotel-room-generic2",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 37
     },
     {
      "id": "belong-module9-S11-V36",
@@ -16644,15 +16788,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V36.strip.jpg",
      "title": "hotel  room  travel  service  vacation  reception  apartment  lifestyle  business  resort",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "135164",
      "download_url": "https://cdn.pixabay.com/video/2022/10/16/135164-761273571_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a dim modern hotel corridor lined with framed art",
+     "violation": "corporate hotel chains",
+     "shoot": "pixabay-hotel-corridor-dark",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 38
     },
     {
      "id": "belong-module9-S11-V37",
@@ -16666,15 +16818,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V37.strip.jpg",
      "title": "hands  support  marriage  love  romance  together  romantic  touch  fingers  husband  wife  man  woman  couple  gentle  holding hands  124022428",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 4,
      "src_id": "552",
      "download_url": "https://cdn.pixabay.com/video/2015/08/24/552-137115422_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two hands with wedding rings clasp together in dim light",
+     "violation": "",
+     "shoot": "pixabay-hands-rings-dark",
+     "score": 1.7,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 15
     },
     {
      "id": "belong-module9-S11-V38",
@@ -16688,15 +16848,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V38.strip.jpg",
      "title": "woman  social networking  post  website management  communication  network  online  internet  asian  phone",
      "query": "manager colleague reception support",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "174003",
      "download_url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a woman in yellow texts on her phone outdoors",
+     "violation": "",
+     "shoot": "pixabay-woman-texting-outdoor",
+     "score": 1.05,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 24
     },
     {
      "id": "belong-module9-S11-V39",
@@ -16710,15 +16878,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S11__strip__belong-module9-S11-V39.strip.jpg",
      "title": "chairs  empty  concept  desert  business  leadership  insurance  alone  marketing  customer  nobody  seat  furniture  design  3d  make  classroom",
      "query": "angry customer reception staff calm",
-     "shot": "B",
+     "shot": "A",
      "duration": 17,
      "src_id": "2709",
      "download_url": "https://cdn.pixabay.com/video/2016/04/05/2709-161671404_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a computer-rendered scene shows rows of empty wooden chairs in fog",
+     "violation": "",
+     "shoot": "pixabay-cgi-empty-chairs",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:29:37Z",
+     "rank": 11
     }
    ],
    "shots": [
@@ -16759,12 +16935,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T16:42:08Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T16:42:08Z"
+   "judged_at": "2026-09-09T18:29:37Z"
   },
   {
    "id": "S08",
@@ -16804,8 +16975,8 @@
      "shot": "",
      "shoot": "pixabay-shrimp-sauce-pan",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 4,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V02",
@@ -16832,8 +17003,8 @@
      "shot": "",
      "shoot": "pexels-chefs-plating-kitchen",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 5,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V03",
@@ -16862,8 +17033,8 @@
      "shot": "",
      "shoot": "pixabay-chop-garlic-board",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 9,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V04",
@@ -16891,7 +17062,7 @@
      "shot": "",
      "shoot": "pexels-masked-takeout-foodstall",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 17,
+     "rank": 36,
      "shown": false
     },
     {
@@ -16918,8 +17089,8 @@
      "shot": "",
      "shoot": "pexels-garnish-plate-cloth",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 6,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V06",
@@ -16961,8 +17132,8 @@
      "shot": "",
      "shoot": "pixabay-grapes-vine-vineyard",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 10,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V08",
@@ -16989,8 +17160,8 @@
      "shot": "",
      "shoot": "pexels-banquet-roast-plates",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 2,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V10",
@@ -17016,8 +17187,8 @@
      "shot": "",
      "shoot": "pexels-chef-plating-row",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 7,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V11",
@@ -17044,7 +17215,7 @@
      "shot": "",
      "shoot": "pixabay-salmon-salad-fork",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 12,
+     "rank": 27,
      "shown": false
     },
     {
@@ -17069,8 +17240,8 @@
      "shot": "",
      "shoot": "pexels-shrimp-appetizer-plates",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 3,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-V14",
@@ -17094,8 +17265,8 @@
      "shot": "",
      "shoot": "pexels-chef-bamboo-steamer-plate",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 8,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m9-S08-I01",
@@ -17233,7 +17404,7 @@
      "shot": "A",
      "shoot": "pexels-wine-corkscrew-blazer",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 1,
+     "rank": 4,
      "shown": true
     },
     {
@@ -17262,7 +17433,7 @@
      "shot": "",
      "shoot": "pixabay-excavator-demolition-site",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 19,
+     "rank": 40,
      "shown": false
     },
     {
@@ -17291,7 +17462,7 @@
      "shot": "",
      "shoot": "pixabay-beer-taps-bar",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 14,
+     "rank": 31,
      "shown": false
     },
     {
@@ -17320,7 +17491,7 @@
      "shot": "",
      "shoot": "pixabay-floor-buffer-polish",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -17349,7 +17520,7 @@
      "shot": "",
      "shoot": "pexels-masked-woman-reception-sign",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -17378,7 +17549,7 @@
      "shot": "",
      "shoot": "pixabay-chainsaw-logs-outdoor",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 20,
+     "rank": 41,
      "shown": false
     },
     {
@@ -17407,7 +17578,7 @@
      "shot": "",
      "shoot": "pexels-bartender-shaker-counter",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -17436,7 +17607,7 @@
      "shot": "",
      "shoot": "pixabay-chainsaw-branch-urban",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 21,
+     "rank": 42,
      "shown": false
     },
     {
@@ -17465,7 +17636,7 @@
      "shot": "",
      "shoot": "pixabay-bellhop-cart-giftboxes",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 18,
+     "rank": 37,
      "shown": false
     },
     {
@@ -17494,7 +17665,7 @@
      "shot": "",
      "shoot": "pixabay-farm-machinery-worker",
      "judged_at": "2026-09-09T16:47:46Z",
-     "rank": 16,
+     "rank": 33,
      "shown": false
     },
     {
@@ -17516,8 +17687,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a sommelier in a suit pours wine in a dark upscale dining room",
+     "violation": "business suits",
+     "shoot": "pexels-sommelier-suit-darkdining",
+     "score": 3.6,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 11
     },
     {
      "id": "belong-module9-S08-V26",
@@ -17538,8 +17717,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a table is set with wine and a fresh salad at a trendy restaurant",
+     "violation": "",
+     "shoot": "pexels-trendy-restaurant-table",
+     "score": 4.0,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 9
     },
     {
      "id": "belong-module9-S08-V27",
@@ -17560,8 +17747,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a host pours white wine for a smiling guest at an outdoor evening table",
+     "violation": "",
+     "shoot": "pexels-outdoor-wine-evening-host",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 1
     },
     {
      "id": "belong-module9-S08-V28",
@@ -17582,8 +17777,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:17:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a host places wine glasses on a rustic set table",
+     "violation": "",
+     "shoot": "pexels-blazer-wine-glasses-table",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 5
     },
     {
      "id": "belong-module9-S08-V29",
@@ -17604,8 +17807,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a smoky fresh dish is served beside a glass of red wine by candlelight",
+     "violation": "",
+     "shoot": "pexels-smoky-dish-candlelight",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 2
     },
     {
      "id": "belong-module9-S08-V30",
@@ -17626,8 +17837,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a cozy breakfast table is set by a window",
+     "violation": "",
+     "shoot": "pexels-breakfast-table-window",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 12
     },
     {
      "id": "belong-module9-S08-V31",
@@ -17641,15 +17860,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V31.strip.jpg",
      "title": "a woman reading a book at a table",
      "query": "rustic dining room evening light",
-     "shot": "D",
+     "shot": "",
      "duration": 19,
      "src_id": "18483721",
      "download_url": "https://videos.pexels.com/video-files/18483721/18483721-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a stylized theatrical scene shows a woman reading at a table",
+     "violation": "",
+     "shoot": "pexels-theatrical-reading-set",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 28
     },
     {
      "id": "belong-module9-S08-V32",
@@ -17670,8 +17897,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a farmhouse table is set with fresh vegetables and bread",
+     "violation": "",
+     "shoot": "pexels-farmtable-vegetables",
+     "score": 4.4,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 6
     },
     {
      "id": "belong-module9-S08-V33",
@@ -17685,15 +17920,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V33.strip.jpg",
      "title": "people eating on the table",
      "query": "waiter serving plate and wine to guest",
-     "shot": "A",
+     "shot": "D",
      "duration": 10,
      "src_id": "5963647",
      "download_url": "https://videos.pexels.com/video-files/5963647/5963647-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a group shares a meal at a warmly lit tavern table",
+     "violation": "",
+     "shoot": "pexels-tavern-group-meal",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 7
     },
     {
      "id": "belong-module9-S08-V34",
@@ -17714,8 +17957,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a wooden table is full of shared plates and a glass of wine",
+     "violation": "",
+     "shoot": "pexels-wooden-table-sharedplates",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 8
     },
     {
      "id": "belong-module9-S08-V35",
@@ -17736,8 +17987,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a family eats together at a wooden table by large windows",
+     "violation": "",
+     "shoot": "pexels-family-table-windows",
+     "score": 3.05,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 13
     },
     {
      "id": "belong-module9-S08-V36",
@@ -17751,15 +18010,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V36.strip.jpg",
      "title": "a model house over a chair",
      "query": "rustic dining room evening light",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "6183871",
      "download_url": "https://videos.pexels.com/video-files/6183871/6183871-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a small model house lantern sits on a chair",
+     "violation": "",
+     "shoot": "pexels-model-house-lantern",
+     "score": 0.7,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 34
     },
     {
      "id": "belong-module9-S08-V37",
@@ -17773,15 +18040,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V37.strip.jpg",
      "title": "elderly woman refusing food",
      "query": "waiter serving plate and wine to guest",
-     "shot": "A",
+     "shot": "C",
      "duration": 15,
      "src_id": "8870230",
      "download_url": "https://videos.pexels.com/video-files/8870230/8870230-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a waiter presents a dessert to a guest who waves it off in an upscale cafe",
+     "violation": "",
+     "shoot": "pexels-upscale-cafe-dessert-refuse",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 17
     },
     {
      "id": "belong-module9-S08-V38",
@@ -17795,15 +18070,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V38.strip.jpg",
      "title": "an elderly woman having dinner alone",
      "query": "rustic dining room evening light",
-     "shot": "D",
+     "shot": "A",
      "duration": 27,
      "src_id": "6848412",
      "download_url": "https://videos.pexels.com/video-files/6848412/6848412-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:18:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an elderly woman dines alone with wine by candlelight in a dim room",
+     "violation": "",
+     "shoot": "pexels-elderly-alone-candlelight",
+     "score": 4.0,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 10
     },
     {
      "id": "belong-module9-S08-V39",
@@ -17824,8 +18107,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man smiles warmly outdoors in a portrait",
+     "violation": "",
+     "shoot": "pixabay-man-smile-outdoor",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 16
     },
     {
      "id": "belong-module9-S08-V40",
@@ -17839,15 +18130,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V40.strip.jpg",
      "title": "child  child smiling  baby  kid  happy  smile  childhood  person  little  children  cheerful  girl  happiness  female  cute  family  smiling  laugh  playing",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "33631",
      "download_url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a smiling toddler is shown outdoors",
+     "violation": "",
+     "shoot": "pixabay-toddler-smile-outdoor",
+     "score": 0.7,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 35
     },
     {
      "id": "belong-module9-S08-V41",
@@ -17861,15 +18160,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V41.strip.jpg",
      "title": "smile  face  girl  young  happy  woman  person  smiling  happiness  joy  expression  attractive  emotions  cheerful",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "43631",
      "download_url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a young woman smiles in close-up outdoors",
+     "violation": "",
+     "shoot": "pixabay-woman-smile-closeup",
+     "score": 1.7,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 26
     },
     {
      "id": "belong-module9-S08-V42",
@@ -17883,15 +18190,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V42.strip.jpg",
      "title": "pancake  wrap  food  snack  meal  lunch  cheese  breakfast  delicious  healthy  plate  cuisine  dinner  homemade  gourmet  table  dish  wooden  stuffed  fried  white  menu  top  crepes  pastry  appetizing  fresh  traditional  diet  tasty  filled  cafe  dessert  dill",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 35,
      "src_id": "11670",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11670-231758819_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a wrap sandwich is plated against a plain background",
+     "violation": "fast food",
+     "shoot": "pixabay-wrap-plain-bg",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 38
     },
     {
      "id": "belong-module9-S08-V43",
@@ -17905,15 +18220,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V43.strip.jpg",
      "title": "strawberry  fruit  strawberries  red  food  sweet  delicious  ripe  cake  vitamins  health  dessert  fresh  breakfast  eat  berries  healthy  summer  juicy  nutrition  fruits  table  berry  diet",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "32933",
      "download_url": "https://cdn.pixabay.com/video/2020/02/27/32933-394144372_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated graphic shows floating strawberries",
+     "violation": "",
+     "shoot": "pixabay-cgi-strawberries",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 43
     },
     {
      "id": "belong-module9-S08-V44",
@@ -17927,15 +18250,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V44.strip.jpg",
      "title": "woman  happy  smile  shopping  female  lifestyle",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "83863",
      "download_url": "https://cdn.pixabay.com/video/2021/08/04/83863-584870628_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman smiles while shopping on an urban street",
+     "violation": "",
+     "shoot": "pixabay-woman-shopping-street",
+     "score": 0.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 39
     },
     {
      "id": "belong-module9-S08-V45",
@@ -17956,8 +18287,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands serve a slice of fruit pie at an autumn-decorated table",
+     "violation": "",
+     "shoot": "pixabay-pie-serving-autumn",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 3
     },
     {
      "id": "belong-module9-S08-V46",
@@ -17971,15 +18310,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S08__strip__belong-module9-S08-V46.strip.jpg",
      "title": "coffee cup  donut  doughnut  table  sunlight",
      "query": "dessert table guest smile",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "184736",
      "download_url": "https://cdn.pixabay.com/video/2023/10/12/184736-873923037_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:19:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "coffee and a donut sit on a sunlit marble counter",
+     "violation": "",
+     "shoot": "pixabay-coffee-donut-marble",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:29:42Z",
+     "rank": 29
     }
    ],
    "shots": [
@@ -18019,12 +18366,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T16:47:46Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T16:47:46Z"
+   "judged_at": "2026-09-09T18:29:42Z"
   },
   {
    "id": "S13",
