@@ -511,7 +511,7 @@
      "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V01.mp4",
-     "score": 22.38,
+     "score": 1.0,
      "categories": [
       "construction",
       "foreman",
@@ -521,7 +521,16 @@
      "title": "video foreman the construction site",
      "query": "worker pausing looking at work site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker in a hard hat overlooks a large industrial steel-frame construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-industrial-construction-site",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V02",
@@ -550,7 +559,7 @@
      "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V07.mp4",
-     "score": 20.7,
+     "score": 1.0,
      "categories": [
       "construction",
       "man",
@@ -560,7 +569,16 @@
      "title": "video man working the construction site",
      "query": "worker pensive looking at project",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker in a hard hat checks a tablet inside an unfinished building",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V08",
@@ -571,7 +589,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-inside-unfinished-room-6474358/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V08.mp4",
-     "score": 20.5,
+     "score": 2.0,
      "categories": [
       "construction",
       "worker"
@@ -579,7 +597,16 @@
      "title": "video construction worker inside unfinished room",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat reviews a tablet in an unfinished renovation room",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V10",
@@ -590,7 +617,7 @@
      "page_url": "https://www.pexels.com/video/people-wearing-harness-having-a-conversation-8964793/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V10.mp4",
-     "score": 18.3,
+     "score": 1.35,
      "categories": [
       "conversation",
       "people"
@@ -598,7 +625,16 @@
      "title": "video people wearing harness having conversation",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two hi-vis construction workers talk near a large steel structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-workers-talking",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V12",
@@ -609,7 +645,7 @@
      "page_url": "https://www.pexels.com/video/man-at-work-in-a-construction-6473950/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V12.mp4",
-     "score": 17.7,
+     "score": 3.0,
      "categories": [
       "construction",
       "man"
@@ -617,7 +653,16 @@
      "title": "video man work construction",
      "query": "worker pensive looking at project",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hard-hatted worker studies a paper plan inside an unfinished room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hardhat-reviewing-plan",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V15",
@@ -628,7 +673,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-talking-while-using-tablet-8964795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V15.mp4",
-     "score": 17.4,
+     "score": 1.35,
      "categories": [
       "man",
       "talking",
@@ -637,7 +682,16 @@
      "title": "video man and woman talking while using tablet",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two hi-vis construction workers point and talk near a crane structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-workers-talking",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V16",
@@ -648,7 +702,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-in-a-hard-hat-and-safety-vest-posing-while-holding-a-tablet-8963677/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V16.mp4",
-     "score": 16.8,
+     "score": 1.0,
      "categories": [
       "man",
       "safety",
@@ -657,7 +711,16 @@
      "title": "video woman hard hat and safety vest posing while holding tablet",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman in a hard hat and safety vest poses holding a tablet at a construction site",
+     "violation": "laptop",
+     "shot": "",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V19",
@@ -668,7 +731,7 @@
      "page_url": "https://www.pexels.com/video/woman-using-digital-tablet-6473955/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V19.mp4",
-     "score": 16.5,
+     "score": 2.0,
      "categories": [
       "man",
       "woman"
@@ -676,7 +739,16 @@
      "title": "video woman using digital tablet",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman in a hard hat holds a tablet in an unfinished renovation room",
+     "violation": "laptop",
+     "shot": "B",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V20",
@@ -687,7 +759,7 @@
      "page_url": "https://www.pexels.com/video/woman-holding-digital-tablet-6474268/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V20.mp4",
-     "score": 15.9,
+     "score": 2.0,
      "categories": [
       "man",
       "woman"
@@ -695,7 +767,16 @@
      "title": "video woman holding digital tablet",
      "query": "worker pensive looking at project",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman in a hard hat holds a tablet near a window in an unfinished room",
+     "violation": "laptop",
+     "shot": "B",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V21",
@@ -706,14 +787,23 @@
      "page_url": "https://www.pexels.com/video/video-of-a-man-putting-hinge-7314251/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V21.mp4",
-     "score": 15.3,
+     "score": 5.4,
      "categories": [
       "man"
      ],
      "title": "video video man putting hinge",
      "query": "carpenter examining wood joint closely",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "close-up of gloved hands driving a screw into a wooden hinge joint",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hinge-drill-closeup",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V22",
@@ -724,14 +814,23 @@
      "page_url": "https://www.pexels.com/video/a-man-smoothing-the-wood-edges-5973237/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V22.mp4",
-     "score": 15.3,
+     "score": 5.4,
      "categories": [
       "man"
      ],
      "title": "video man smoothing the wood edges",
      "query": "carpenter examining wood joint closely",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "a hand smooths the edge of a wood plank with a hand plane",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-handplane-edge-smoothing",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V25",
@@ -742,14 +841,23 @@
      "page_url": "https://www.pexels.com/video/a-man-checking-the-wood-7480744/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V25.mp4",
-     "score": 15.3,
+     "score": 7.0,
      "categories": [
       "man"
      ],
      "title": "video man checking the wood",
      "query": "carpenter examining wood joint closely",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a carpenter pauses to check a wood piece against a tool wall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-carpenter-checking-wood",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S02-V27",
@@ -760,14 +868,23 @@
      "page_url": "https://www.pexels.com/video/man-using-digital-tablet-6474139/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__thumb__edenrise-c2-kaizen-S02-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__preview__edenrise-c2-kaizen-S02-V27.mp4",
-     "score": 15.3,
+     "score": 2.0,
      "categories": [
       "man"
      ],
      "title": "video man using digital tablet",
      "query": "engineer studying site tablet outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a hard-hatted worker reads a tablet in an unfinished renovation room",
+     "violation": "laptop",
+     "shot": "B",
+     "shoot": "pexels-construction-tablet-check",
+     "judged_at": "2026-09-09T17:52:34Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-I01",
@@ -886,7 +1003,13 @@
     "factory"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:52:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:52:34Z"
   },
   {
    "id": "S03",
@@ -908,7 +1031,7 @@
      "page_url": "https://pixabay.com/videos/id-85350/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V03.mp4",
-     "score": 28.4,
+     "score": 5.7,
      "categories": [
       "builder",
       "building",
@@ -920,7 +1043,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "worker picking tool from toolbox",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a worker lays paving stones on sand in a small residential landscaping job",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paving-stones-landscaping",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V08",
@@ -931,7 +1063,7 @@
      "page_url": "https://pixabay.com/videos/id-67460/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V08.mp4",
-     "score": 21.28,
+     "score": 3.7,
      "categories": [
       "builder",
       "building",
@@ -941,7 +1073,16 @@
      "title": "worker  car  building  shovel  pour in  builder  wheelbarrow  construction  fill",
      "query": "landscaper pushing wheelbarrow garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a worker in a hi-vis vest shovels sand into a wheelbarrow from a large pile",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-shovel-wheelbarrow-sand",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V02",
@@ -970,7 +1111,7 @@
      "page_url": "https://www.pexels.com/video/workers-working-in-town-13004782/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V09.mp4",
-     "score": 19.12,
+     "score": 3.7,
      "categories": [
       "worker",
       "workers",
@@ -979,7 +1120,16 @@
      "title": "video workers working town",
      "query": "landscaper pushing wheelbarrow garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a wide view of landscaping work in front yards along a suburban street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-suburban-landscaping-wide",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V06",
@@ -990,7 +1140,7 @@
      "page_url": "https://pixabay.com/videos/id-4729/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V06.mp4",
-     "score": 27.57,
+     "score": 3.4,
      "categories": [
       "builder",
       "carpenter",
@@ -1002,7 +1152,16 @@
      "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
      "query": "carpenter reaching for tool bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "close-up of a drill driving a screw through a metal disc into wood",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-drill-screw-closeup",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V14",
@@ -1013,7 +1172,7 @@
      "page_url": "https://pixabay.com/videos/id-67463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V14.mp4",
-     "score": 21.28,
+     "score": 5.05,
      "categories": [
       "builder",
       "building",
@@ -1023,7 +1182,16 @@
      "title": "worker  plate  building  lay  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "landscaper pushing wheelbarrow garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a hand taps paving stones into place with a rubber mallet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-paver-mallet-tapping",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V20",
@@ -1034,7 +1202,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-walking-while-pushing-a-construction-cart-8965385/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V20.mp4",
-     "score": 15.98,
+     "score": 3.0,
      "categories": [
       "construction",
       "man",
@@ -1043,7 +1211,16 @@
      "title": "video woman walking while pushing construction cart",
      "query": "landscaper pushing wheelbarrow garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two workers push a wheelbarrow past a half-built timber house with scaffolding poles",
+     "violation": "scaffolding",
+     "shot": "",
+     "shoot": "pexels-wheelbarrow-timber-house-scaffold",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S03-V21",
@@ -1054,7 +1231,7 @@
      "page_url": "https://www.pexels.com/video/a-stylish-young-woman-grabbing-a-hay-fork-8890682/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V21.mp4",
-     "score": 15.08,
+     "score": 3.0,
      "categories": [
       "man",
       "woman"
@@ -1062,7 +1239,16 @@
      "title": "video stylish young woman grabbing hay fork",
      "query": "gardener tool shed organized",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a woman in a stylized outfit reaches for a pitchfork hanging outside a shed",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-stylized-woman-shed-tools",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V22",
@@ -1073,7 +1259,7 @@
      "page_url": "https://pixabay.com/videos/id-67461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V22.mp4",
-     "score": 21.28,
+     "score": 3.0,
      "categories": [
       "builder",
       "building",
@@ -1083,7 +1269,16 @@
      "title": "worker  cut  building  grinder  pour in  builder  wheelbarrow  construction  shovel  fill",
      "query": "landscaper pushing wheelbarrow garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "close-up of an angle grinder cutting a paving stone in a shower of dust",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-grinder-stone-dust",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S03-V24",
@@ -1094,14 +1289,23 @@
      "page_url": "https://www.pexels.com/video/gardening-tools-hanging-over-a-wooden-wall-8889792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V24.mp4",
-     "score": 18.21,
+     "score": 6.0,
      "categories": [
       "tools"
      ],
      "title": "video gardening tools hanging over wooden wall",
      "query": "gardener tool shed organized",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "gardening tools and an apron hang neatly organized on a wooden wall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-stylized-woman-shed-tools",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V25",
@@ -1112,7 +1316,7 @@
      "page_url": "https://pixabay.com/videos/id-4974/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V25.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V25.mp4",
-     "score": 17.08,
+     "score": 6.05,
      "categories": [
       "building",
       "carpenter",
@@ -1121,7 +1325,16 @@
      "title": "drill  board  hole  repair  construction  square  carpenter  pencil  work  restoration  building  tool  wood  to fix",
      "query": "carpenter reaching for tool bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V25.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "hands measure and drill a precise hole into a wood plank",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-measure-drill-precise",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V26",
@@ -1132,7 +1345,7 @@
      "page_url": "https://www.pexels.com/video/a-man-putting-on-safety-gears-5972116/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V26.mp4",
-     "score": 16.28,
+     "score": 4.4,
      "categories": [
       "man",
       "safety"
@@ -1140,7 +1353,16 @@
      "title": "video man putting safety gears",
      "query": "carpenter reaching for tool bench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a man puts on safety glasses and ear protection in a wood workshop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-workshop-safety-gear",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-V28",
@@ -1151,7 +1373,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-planting-vegetables-7655272/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__thumb__edenrise-c2-kaizen-S03-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__preview__edenrise-c2-kaizen-S03-V28.mp4",
-     "score": 15.08,
+     "score": 8.0,
      "categories": [
       "man",
       "woman"
@@ -1159,7 +1381,16 @@
      "title": "video man and woman planting vegetables",
      "query": "gardener tool shed organized",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S03__strip__edenrise-c2-kaizen-S03-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a man and woman kneel together planting vegetables in a raised garden bed",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-couple-planting-garden-bed",
+     "judged_at": "2026-09-09T17:53:37Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S03-I01",
@@ -1302,7 +1533,13 @@
     "office"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:53:37Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:53:37Z"
   },
   {
    "id": "S04",
