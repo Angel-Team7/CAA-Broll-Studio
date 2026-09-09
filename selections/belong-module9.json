@@ -63,27 +63,22 @@
       "added": 22
     },
     "S02": {
-      "requested": "2026-09-09T11:07:51.769Z",
+      "requested": "2026-09-09T16:52:20Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T11:18:53Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     },
     "S01": {
-      "requested": "2026-08-20T12:17:37.903Z",
+      "requested": "2026-09-09T16:52:17Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-08-20T12:19:01Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     },
     "S12": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "generates more contextual videos",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:37:15Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:16Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S09": {
       "requested": "2026-09-09T09:20:00Z",
@@ -95,80 +90,52 @@
       "added": 10
     },
     "S07": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "we need more contextual brolls for hospitality please generate 10 more.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:40:30Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:18Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S13": {
-      "requested": "2026-09-09T11:17:37.535Z",
-      "note": "10 more contexutal in hospitality industry.",
-      "reason": "direction",
-      "avoid": [
-        "family",
-        "hotel",
-        "farm",
-        "hospitality",
-        "industry",
-        "countryside",
-        "staff"
-      ],
-      "done": true,
-      "fulfilled": "2026-09-09T11:47:26Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:26Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S10": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "genereate 10 more pleaes these are not contexual at all for hospitality.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:43:29Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:19Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S04": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "these brolls are not contextual at all please do 10 more hospitality industry.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:44:48Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:21Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S06": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "10 more contexutal in hospitality industry.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:46:58Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:23Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S08": {
-      "requested": "2026-09-09T09:20:00Z",
-      "note": "10 more contexutal in hospitality industry.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:49:39Z",
-      "added": 10
+      "requested": "2026-09-09T16:52:25Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S05": {
-      "requested": "2026-09-09T09:21:00Z",
+      "requested": "2026-09-09T16:52:22Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T09:50:31Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     },
     "S11": {
-      "requested": "2026-09-09T09:21:00Z",
+      "requested": "2026-09-09T16:52:24Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T09:51:26Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }
