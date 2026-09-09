@@ -322,3 +322,13 @@
 | pexels |  | Vimeo | Pexels License | https://www.pexels.com/video/hotel-food-and-interior-857151/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-putting-a-sign-in-a-hotel-room-door-6466570/ |
 | pexels |  | khanhhoangminh  3 | Pexels License | https://www.pexels.com/video/bartender-pouring-spirits-into-jigger-at-bar-28931120/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/teenage-girl-playing-with-gift-box-in-hotel-luggage-trolley-5705045/ |
+| pixabay | addiction  recovery  sober  medication  thinking  suicidal   | DtheDelinquent | Pixabay Content License | https://pixabay.com/videos/id-50318/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/business-people-hugging-in-the-restaurant-7426834/ |
+| pixabay | system  web  news  people  characters  network  connection   | geralt | Pixabay Content License | https://pixabay.com/videos/id-697/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/young-man-carrying-silver-platter-in-hotel-corridor-5372867/ |
+| pixabay | man  musician  festival  story  creation  dancing  magic  ar | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-117312/ |
+| pexels |  | Sérgio Souza | Pexels License | https://www.pexels.com/video/aerial-view-of-grand-mountain-resort-architecture-29487905/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/people-having-a-business-meeting-8141560/ |
+| pexels |  | Vitalis Nwenyi | Pexels License | https://www.pexels.com/video/vibrant-poolside-gathering-at-modern-hotel-28559381/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/lawyer-shaking-his-customers-hands-8061614/ |
