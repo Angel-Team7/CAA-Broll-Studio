@@ -857,3 +857,33 @@
 | pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/person-digging-with-sand-4411099/ |
 | pexels |  | fatiha maarouf | Pexels License | https://www.pexels.com/video/a-person-digging-in-the-dirt-with-a-shovel-16939594/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-doing-gardening-7844365/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/high-angle-shot-of-a-man-getting-a-wood-drill-6789581/ |
+| pexels |  | Kiwi and Camera | Pexels License | https://www.pexels.com/video/efficient-warehouse-forklift-operations-39053017/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-bringing-sacks-of-raw-coffee-beans-inside-4821664/ |
+| pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
+| pixabay | antique book  book opening  book scrolling  books  candlelig | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-111280/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-sanding-a-woodblock-7482650/ |
+| pexels |  | EJ Merl | Pexels License | https://www.pexels.com/video/woman-entering-car-next-to-truck-in-autumn-29103631/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/video-of-a-woman-opening-a-door-of-a-truck-7006117/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/deliver-mat-at-the-truck-6406116/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/team-of-female-cleaners-working-6197078/ |
+| pexels |  | lucas oliver | Pexels License | https://www.pexels.com/video/a-tattered-couch-beside-a-pile-of-books-3772774/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-messy-table-with-painting-materials-8538614/ |
+| pixabay | church  buildings  urban  trees  funchal  madeira  portugal  | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-126846/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/a-woman-painting-the-wall-using-roller-5799490/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-of-paint-roller-6474371/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/people-writing-on-cardboard-8136557/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-wall-covered-with-graffiti-4707583/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/man-painting-the-flower-pots-8066072/ |
+| pexels |  | VIDEOS2B Amazon Productions | Pexels License | https://www.pexels.com/video/a-person-using-a-pen-to-draw-on-a-white-surface-27981577/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/metal-working-machinery-5846709/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/hand-planer-close-up-20663018/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-woman-drilling-a-block-of-wood-6790007/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/an-agent-touring-the-clients-inside-the-house-7646765/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/realtor-talking-to-a-client-7816381/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/women-working-at-a-construction-site-8487121/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/a-little-boy-playing-at-the-beach-7850095/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/kids-planting-seeds-7782518/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-planting-a-small-tree-7655273/ |
+| pexels |  | Omar Zahid | Pexels License | https://www.pexels.com/video/a-person-sitting-outdoors-6077237/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-truck-is-stopped-at-a-stop-sign-on-the-side-of-the-road-19559834/ |
