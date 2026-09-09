@@ -162,3 +162,73 @@
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/friends-at-a-hotel-lobby-7821418/ |
 | pexels |  | Media Hopper Studio | Pexels License | https://www.pexels.com/video/professional-meeting-in-modern-office-setting-38493701/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-talking-at-a-seminar-8716867/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-in-black-suit-standing-in-the-hallway-7599311/ |
+| pixabay | board  chalk  smiley  pleasure  positive  study  school  tra | athree23 | Pixabay Content License | https://pixabay.com/videos/id-18439/ |
+| pexels |  | Anete Lusina | Pexels License | https://www.pexels.com/video/not-average-6353275/ |
+| pixabay | restaurant  hotel  dinner  design  decorative  elegant  luxu | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1190/ |
+| pexels |  | Aamir Somewhere | Pexels License | https://www.pexels.com/video/daily-life-in-an-indian-metro-city-street-34430090/ |
+| pixabay | book  pages  slideshow  browse  scroll  read  look  pictures | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-138/ |
+| pexels |  | Vitalis Nwenyi | Pexels License | https://www.pexels.com/video/aerial-view-of-people-enjoying-a-pool-28559383/ |
+| pixabay | book  shelf  inserting  library  literature  education  book | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-11253/ |
+| pexels |  | 宋 小天 | Pexels License | https://www.pexels.com/video/a-handheld-shot-of-buildings-while-driving-4091447/ |
+| pixabay | pool  hotel  swim  sports  woman  reverse  back  water  rela | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-25640/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-drinking-whiskey-9198384/ |
+| pixabay | pool  swimming pool  fun  kids  toy  pink  swan  vacation  s | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4739/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/young-man-pushing-room-service-trolley-5371657/ |
+| pixabay | hotel  pool  holiday  relax  resort  swim  tourism  beautifu | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-25906/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-checking-in-at-a-hotel-7820470/ |
+| pixabay | wedding  ceremony  love  happy  guests  invitation | 16589102 | Pixabay Content License | https://pixabay.com/videos/id-39395/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-walking-in-the-hallway-7599307/ |
+| pixabay | market place  shopping mall  trade  barcelona  secondhand  s | tiburi | Pixabay Content License | https://pixabay.com/videos/id-7676/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-at-a-hotel-talking-to-the-receptionist-7820475/ |
+| pixabay | child  holiday  celebration  joy  african  black  welcome  w | JamesRonin | Pixabay Content License | https://pixabay.com/videos/id-143329/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-women-walking-in-hotel-lobby-6474635/ |
+| pixabay | welcome  hey  hospitality  hello  invitation  text  communic | olenchic | Pixabay Content License | https://pixabay.com/videos/id-332321/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-checking-in-at-a-hotel-7820553/ |
+| pixabay | city  kampala  uganda  africa  country  hotel  aerial  view  | victoriabbosa | Pixabay Content License | https://pixabay.com/videos/id-31869/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-a-receptionist-7820471/ |
+| pixabay | welcome  hello  hi  greeting  sign  word  guest  text  welco | TheDigitalArtist | Pixabay Content License | https://pixabay.com/videos/id-576/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-walking-inside-a-restaurant-9198378/ |
+| pixabay | palace  hotel  building  architecture  scotland  atholl | Trek_Jason | Pixabay Content License | https://pixabay.com/videos/id-102952/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-walking-with-her-suitcase-7820835/ |
+| pixabay | buildings  hotels  city  modern  facade  urban  architecture | useche360 | Pixabay Content License | https://pixabay.com/videos/id-223171/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-ordering-drinks-in-a-bar-7821390/ |
+| pixabay | agriculture  tractor  planting  field  farm  machine  indust | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1098/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-fixing-the-gloves-that-are-hanging-from-his-apron-6816199/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-at-reception-desk-pointing-to-her-teeth-6192976/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/housekeeper-placing-folded-bathrobe-on-bed-6466242/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/group-posing-for-a-photo-7224354/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-couple-walking-to-a-reception-area-at-a-clinic-6997951/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-walking-while-holding-her-luggage-7820837/ |
+| pexels |  | Floating Rabbit | Pexels License | https://www.pexels.com/video/elegant-hotel-arrival-of-fashionable-couple-33739159/ |
+| pexels |  | Adventist Asia | Pexels License | https://www.pexels.com/video/healthcare-team-of-doctors-and-nurses-in-hospital-30141972/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-bartender-cleaning-a-glass-9199136/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-giving-a-key-card-to-a-client-7820467/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/young-man-walking-in-corridor-come-across-twin-little-girls-5371496/ |
+| pexels |  | Keegan Checks | Pexels License | https://www.pexels.com/video/buffet-breakfast-at-luxurious-beach-resort-30403007/ |
+| pexels |  | Sammy Wilson | Pexels License | https://www.pexels.com/video/smiling-receptionist-in-corporate-setting-28828093/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-hotel-receptionist-working-at-the-front-desk-7820505/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-signing-a-document-at-the-front-desk-7820466/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-hotel-desk-bell-5378937/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-client-in-the-hotel-7820474/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/concierge-pushing-trolley-in-hotel-lobby-6474559/ |
+| pexels |  | Adventist Asia | Pexels License | https://www.pexels.com/video/medical-team-posing-in-hospital-hallway-30141965/ |
+| pixabay | hotel  pool  holiday  relax  resort  swim  tourism  beautifu | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-25907/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/woman-taking-orders-3970140/ |
+| pixabay | grignan  provence  france  chateau  lavender  purple  buildi | xat-ch | Pixabay Content License | https://pixabay.com/videos/id-41345/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/elderly-man-making-a-payment-on-a-cafe-using-his-credit-card-6816197/ |
+| pixabay | tractor  field  rural  agriculture  farm  crop  agricultural | techlec | Pixabay Content License | https://pixabay.com/videos/id-4329/ |
+| pexels |  | Adventist Asia | Pexels License | https://www.pexels.com/video/healthcare-team-poses-smiling-in-hospital-lobby-30141964/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-directing-and-assisting-a-client-7820512/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-signing-a-registration-form-7820510/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/male-hotel-receptionist-receiving-guest-5373056/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-and-woman-talking-to-each-other-7821154/ |
+| pixabay | cemetery  or graveyard  graveyard  dead bodies  remains  aft | tomalauphi | Pixabay Content License | https://pixabay.com/videos/id-32065/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/man-and-woman-in-a-lobby-7821134/ |
+| pixabay | gold  ring  golden  diamond  diamonds  jewelry  jewellery  w | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-19253/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/friendly-reception-interaction-in-office-38057445/ |
+| pixabay | love  heart  couple  romantic  romance  relationship  date   | TonyDias7 | Pixabay Content License | https://pixabay.com/videos/id-332353/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-women-walking-in-hotel-lobby-6474638/ |
+| pixabay | love  heart  hug  hands  couple  meeting  feelings  marriage | Cristian-Manieri | Pixabay Content License | https://pixabay.com/videos/id-315353/ |
+| pexels |  | Mihaela Claudia  Puscas | Pexels License | https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-38630315/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-and-woman-shaking-hands-together-8061447/ |
