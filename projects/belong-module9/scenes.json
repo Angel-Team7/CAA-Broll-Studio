@@ -11853,14 +11853,23 @@
      "page_url": "https://www.pexels.com/video/little-children-feeding-goats-in-flower-field-5387674/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V01.mp4",
-     "score": 12.01,
+     "score": 5.4,
      "categories": [
       "field"
      ],
      "title": "video little children feeding goats flower field",
      "query": "children farm animals",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "two children hug a goat together in a wildflower meadow",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-kids-goats",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V02",
@@ -11871,14 +11880,23 @@
      "page_url": "https://www.pexels.com/video/young-child-feeding-baby-lambs-outdoors-38365191/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V02.mp4",
-     "score": 11.41,
+     "score": 6.05,
      "categories": [
       "outdoor"
      ],
      "title": "video young child feeding baby lambs outdoors",
      "query": "children farm animals",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a young child crouches to feed baby lambs on a sunlit stone patio",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-kid-lambs",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V03",
@@ -11889,7 +11907,7 @@
      "page_url": "https://www.pexels.com/video/a-family-having-a-meal-outdoor-8768891/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V03.mp4",
-     "score": 11.41,
+     "score": 4.75,
      "categories": [
       "meal",
       "outdoor"
@@ -11897,7 +11915,16 @@
      "title": "video family having meal outdoor",
      "query": "family dinner terrace",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "a family gathers around a wooden table for an outdoor meal at a farmhouse",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-family-outdoormeal",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V04",
@@ -11908,14 +11935,23 @@
      "page_url": "https://pixabay.com/videos/id-10685/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V04.mp4",
-     "score": 10.95,
+     "score": 2.1,
      "categories": [
       "farm"
      ],
      "title": "rooster  chicken  village  farm  polygamy  country house  family  bird  natural economy  animal husbandry",
      "query": "family arriving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 6,
+     "caption": "a rooster and hens roam a grassy farmyard by a wooden fence",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-rooster-yard",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V05",
@@ -11926,12 +11962,21 @@
      "page_url": "https://www.pexels.com/video/family-walking-together-7671497/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V05.mp4",
-     "score": 10.78,
+     "score": 4.4,
      "categories": [],
      "title": "video family walking together",
      "query": "children farm animals",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a mother and child hold hands walking past a farm building",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-motherchild-farmpath",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V06",
@@ -11942,14 +11987,23 @@
      "page_url": "https://pixabay.com/videos/id-172686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V06.mp4",
-     "score": 9.18,
+     "score": 3.7,
      "categories": [
       "table"
      ],
      "title": "dining table  table  eat  dinner  family  family dinner",
      "query": "family arriving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "children eat a meal together at a long wooden dining table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-kids-diningtable",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V07",
@@ -11960,14 +12014,23 @@
      "page_url": "https://pixabay.com/videos/id-47902/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V07.mp4",
-     "score": 8.61,
+     "score": 2.05,
      "categories": [
       "landscape"
      ],
      "title": "driving  car  road  travel  landscape  france  bmw  leaving  sky view  welcome  calm  traveling  arriving  arrive  leave",
      "query": "family arriving hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "aerial view of a car driving along a road through green fields",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-roadcar2",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V09",
@@ -11978,7 +12041,7 @@
      "page_url": "https://pixabay.com/videos/id-120739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V09.mp4",
-     "score": 14.43,
+     "score": 1.75,
      "categories": [
       "countryside",
       "farm",
@@ -11987,7 +12050,16 @@
      "title": "lamb  farm animal  sheep  wool  animals  eating  nature  landscape  livestock  countryside",
      "query": "family vacation countryside hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "a lamb follows its mother through a field at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-lamb-dusk",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V12",
@@ -12012,14 +12084,23 @@
      "page_url": "https://www.pexels.com/video/the-swimming-pool-at-or-near-hotel-person-27807339/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V14.mp4",
-     "score": 11.87,
+     "score": 0.0,
      "categories": [
       "hotel"
      ],
      "title": "video the swimming pool near hotel person",
      "query": "family vacation countryside hotel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an empty resort swimming pool with lounge chairs near palm trees",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pexels-resortpool-empty",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 39,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V15",
@@ -12030,14 +12111,23 @@
      "page_url": "https://www.pexels.com/video/a-family-running-and-walking-in-the-farm-7671192/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V15.mp4",
-     "score": 14.17,
+     "score": 6.7,
      "categories": [
       "farm"
      ],
      "title": "video family running and walking the farm",
      "query": "kids running countryside house",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a mother runs with two children across a farm field past a sheep pen",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-family-runfarm",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-V17",
@@ -12048,14 +12138,23 @@
      "page_url": "https://www.pexels.com/video/couple-walking-while-holding-hands-7982940/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V17.mp4",
-     "score": 13.66,
+     "score": 1.7,
      "categories": [
       "hands"
      ],
      "title": "video couple walking while holding hands",
      "query": "family walking in hotel garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a grandmother, mother and daughter walk hand in hand through a suburban park",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-family-suburbpark-a",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V18",
@@ -12066,14 +12165,23 @@
      "page_url": "https://www.pexels.com/video/girls-walking-together-while-holding-hands-8951011/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V18.mp4",
-     "score": 13.66,
+     "score": 1.7,
      "categories": [
       "hands"
      ],
      "title": "video girls walking together while holding hands",
      "query": "family walking in hotel garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a mother and daughters in red hats walk together through a park",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-family-suburbpark-b",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V19",
@@ -12084,12 +12192,21 @@
      "page_url": "https://www.pexels.com/video/family-spending-time-together-7982934/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V19.mp4",
-     "score": 12.46,
+     "score": 1.7,
      "categories": [],
      "title": "video family spending time together",
      "query": "family walking in hotel garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a family walks past a pond in a landscaped park with a statue",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-family-suburbpark-c",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m9-S13-V20",
@@ -12100,14 +12217,23 @@
      "page_url": "https://pixabay.com/videos/id-174150/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-m9-S13-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-m9-S13-V20.mp4",
-     "score": 12.06,
+     "score": 3.05,
      "categories": [
       "landscape"
      ],
      "title": "family  road  forest  walk  nature  sunset  light  scenic  children  walking  landscape",
      "query": "family walking in hotel garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-m9-S13-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a family walks together along a sunlit, tree-lined path",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-family-treepath",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S13-I01",
@@ -12277,7 +12403,7 @@
      "page_url": "https://pixabay.com/videos/id-141853/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V24.mp4",
-     "score": 0,
+     "score": 2.45,
      "categories": [],
      "title": "mushrooms  knife  cut  vegetables  food  cook  dinner  prepare  kitchen",
      "query": "worker family dinner terrace",
@@ -12286,7 +12412,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 7,
+     "caption": "a hand slices fresh mushrooms on a wooden cutting board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-mushroom-slice",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module9-S13-V28",
@@ -12297,7 +12432,7 @@
      "page_url": "https://pixabay.com/videos/id-32132/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V28.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "balloons  celebration  balloon video  people  family",
      "query": "worker family dinner terrace",
@@ -12306,7 +12441,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "balloons float away into a blue sky over a park",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-balloons-sky",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 34,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V30",
@@ -12317,7 +12461,7 @@
      "page_url": "https://pixabay.com/videos/id-212512/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V30.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "child  kid  family  father  mother  people",
      "query": "worker family dinner terrace",
@@ -12326,7 +12470,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a father crouches to greet a young child near a park gazebo",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-family-parkgreet",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-module9-S13-V34",
@@ -12337,7 +12490,7 @@
      "page_url": "https://pixabay.com/videos/id-231246/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V34.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V34.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "field  paddy field  plantation  agriculture  rural  rice  plant  paddy  farmer  farm  countryside  worker  season  outdoor  organic  holding  harvesting  vietnam  thailand  nature",
      "query": "worker hospitality industry",
@@ -12346,7 +12499,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V34.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "aerial view of a farm worker in a green rice paddy field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-ricepaddy-worker",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V38",
@@ -12357,7 +12519,7 @@
      "page_url": "https://pixabay.com/videos/id-189731/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V38.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "workout  athlete  sports training  active lifestyle  close-up  foot  leisure  close up  training  sport  healthy  fitness  exercise  lifestyle  fit  runner  athletic  active  sportswear  female  activity",
      "query": "hospitality industry close up",
@@ -12366,7 +12528,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman stretches during an outdoor workout among trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-workout-outdoor",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 35,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V39",
@@ -12377,7 +12548,7 @@
      "page_url": "https://www.pexels.com/video/man-ordering-drinks-in-a-bar-7821390/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V39.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12386,7 +12557,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a waiter in a vest pours water for an older couple at a modern restaurant table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-waiter-modernpour",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V40",
@@ -12397,7 +12577,7 @@
      "page_url": "https://pixabay.com/videos/id-1098/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V40.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "agriculture  tractor  planting  field  farm  machine  industry  machinery  equipment  work  countryside  vehicle  farm field  aerial view  drone  133680158",
      "query": "hospitality industry guest",
@@ -12406,7 +12586,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "close-up of a tractor's rear wheel and hydraulic hitch in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-tractor-closeup",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V41",
@@ -12417,7 +12606,7 @@
      "page_url": "https://www.pexels.com/video/man-fixing-the-gloves-that-are-hanging-from-his-apron-6816199/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V41.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12426,7 +12615,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a waiter in a vest puts on white gloves beside a shelf of ceramics",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-waiter-gloves",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V42",
@@ -12437,7 +12635,7 @@
      "page_url": "https://www.pexels.com/video/woman-at-reception-desk-pointing-to-her-teeth-6192976/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V42.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V42.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12446,7 +12644,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V42.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a smiling woman leans on a modern reception counter with orchids",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-reception-modernorchid",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V43",
@@ -12457,7 +12664,7 @@
      "page_url": "https://www.pexels.com/video/housekeeper-placing-folded-bathrobe-on-bed-6466242/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V43.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V43.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12466,7 +12673,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V43.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a housekeeper carries folded towels into an upscale hotel room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-housekeeper-luxroom",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V44",
@@ -12477,7 +12693,7 @@
      "page_url": "https://www.pexels.com/video/group-posing-for-a-photo-7224354/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V44.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V44.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12486,7 +12702,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V44.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a group in workshop aprons poses in an industrial ceramics factory",
+     "violation": "factories",
+     "shot": "",
+     "shoot": "pexels-workshop-grouppose",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 40,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V45",
@@ -12497,7 +12722,7 @@
      "page_url": "https://www.pexels.com/video/a-couple-walking-to-a-reception-area-at-a-clinic-6997951/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V45.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V45.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12506,7 +12731,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V45.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a receptionist greets two guests at a sleek mint-green counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-reception-spa",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V46",
@@ -12517,7 +12751,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-walking-while-holding-her-luggage-7820837/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V46.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V46.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12526,7 +12760,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V46.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked woman in a yellow blazer stands in a hotel elevator lobby",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-mask-yellowblazer",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 41,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V47",
@@ -12537,7 +12780,7 @@
      "page_url": "https://www.pexels.com/video/elegant-hotel-arrival-of-fashionable-couple-33739159/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V47.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V47.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12546,7 +12789,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V47.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a couple walks into a modern glass lobby past a masked figure",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-glasslobby-mask",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 42,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V48",
@@ -12557,7 +12809,7 @@
      "page_url": "https://www.pexels.com/video/healthcare-team-of-doctors-and-nurses-in-hospital-30141972/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V48.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V48.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12566,7 +12818,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V48.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a large group of hospital staff poses together in a waiting area",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hospital-grouppose",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 43,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V49",
@@ -12577,7 +12838,7 @@
      "page_url": "https://www.pexels.com/video/a-close-up-of-a-woman-placing-a-menu-on-a-stand-8426099/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V49.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V49.mp4",
-     "score": 0,
+     "score": 1.75,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12586,7 +12847,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V49.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "a hand holds up a pink breakfast menu card at an outdoor cafe table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-menucard-outdoor",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V50",
@@ -12597,7 +12867,7 @@
      "page_url": "https://pixabay.com/videos/id-293082/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V50.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V50.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "asian woman  post workout  stretching  home workout  yoga mat  online fitness  cool down  fitness blogger  home exercise  digital wellness  fitness at home  sportswear  stretching routine  flexibility  workout recovery  indoor training  healthy lifestyle  virtual trainer  calm workout  wellness habit  active woman  solo workout  online class  athletic female  daily fitness",
      "query": "guesthouse host recovery story family",
@@ -12606,7 +12876,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V50.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman meditates seated on a yoga mat indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-yoga-meditate",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 36,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V51",
@@ -12617,7 +12896,7 @@
      "page_url": "https://www.pexels.com/video/waiter-putting-on-gloves-then-makes-the-ok-sign-6816206/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V51.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V51.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12626,7 +12905,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V51.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a waiter in a vest puts on white gloves beside a shelf of ceramics",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-waiter-gloves",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V52",
@@ -12637,7 +12925,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-brijwasi-lands-inn-hotel-complex-35670041/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V52.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V52.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12646,7 +12934,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V52.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a large corporate hotel building with a rooftop sign",
+     "violation": "corporate hotel chains",
+     "shot": "",
+     "shoot": "pexels-corphotel-aerial",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 44,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V53",
@@ -12657,7 +12954,7 @@
      "page_url": "https://www.pexels.com/video/woman-with-suitcase-while-waiting-7820836/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V53.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V53.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12666,7 +12963,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V53.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked woman in a yellow blazer stands among planters",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-mask-yellowblazer",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 45,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V54",
@@ -12677,7 +12983,7 @@
      "page_url": "https://www.pexels.com/video/a-waiter-approaching-his-guests-8921927/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V54.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V54.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12686,7 +12992,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V54.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a couple talks at a table in an opulent fine-dining restaurant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-finedining-couple",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V55",
@@ -12697,7 +13012,7 @@
      "page_url": "https://www.pexels.com/video/patient-in-a-reception-of-a-clinic-6755024/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V55.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V55.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12706,7 +13021,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V55.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a guest signs a book at a modern reception counter with a receptionist",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-reception-signbook",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-module9-S13-V56",
@@ -12717,7 +13041,7 @@
      "page_url": "https://www.pexels.com/video/hotel-food-and-interior-857151/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V56.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V56.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12726,7 +13050,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V56.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "pastries on a buffet with an elegant dining room set for an event",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-eventdining-pastries",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 31,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V57",
@@ -12737,7 +13070,7 @@
      "page_url": "https://www.pexels.com/video/person-putting-a-sign-in-a-hotel-room-door-6466570/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V57.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V57.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12746,7 +13079,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V57.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a hand hangs a 'please do not disturb' sign on a hotel room door",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-donotdisturb-sign",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V58",
@@ -12757,7 +13099,7 @@
      "page_url": "https://www.pexels.com/video/bartender-pouring-spirits-into-jigger-at-bar-28931120/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V58.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V58.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12766,7 +13108,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V58.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a bartender pours a cocktail into a small glass at a lit bar",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bartender-pour",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 32,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V59",
@@ -12777,7 +13128,7 @@
      "page_url": "https://www.pexels.com/video/teenage-girl-playing-with-gift-box-in-hotel-luggage-trolley-5705045/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V59.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V59.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12786,7 +13137,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V59.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a woman laughs and tosses a striped gift box beside a luggage cart",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-luggagecart-toss",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V60",
@@ -12797,7 +13157,7 @@
      "page_url": "https://pixabay.com/videos/id-50318/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V60.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V60.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "addiction  recovery  sober  medication  thinking  suicidal  female  lady  depression  confused  sad  crying  unhealthy  lonely  alone  ashamed  unhappy",
      "query": "guesthouse host recovery story family",
@@ -12806,7 +13166,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V60.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman sits on a park lawn eating a snack",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-lawn-snack",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 37,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V61",
@@ -12817,7 +13186,7 @@
      "page_url": "https://www.pexels.com/video/business-people-hugging-in-the-restaurant-7426834/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V61.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V61.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12826,7 +13195,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V61.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man in a suit embraces a woman inside an upscale restaurant",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-suit-restaurantembrace",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V62",
@@ -12837,7 +13215,7 @@
      "page_url": "https://pixabay.com/videos/id-697/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V62.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V62.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "system  web  news  people  characters  network  connection  connected  with each other  together  agreement  action  allies  work  asia  effort  reviews  relationship  bookmarks  brotherhood  for this  democratization  service  digital  outdoors  i  you  an equal  impression  impressions  recommendations  relaxation  experience  recovery  facebook  free  friends  friendly  friendship  peace  community  community work  cooperative  global  globalization  group  information  interaction  internet  collaboration  collegial  comments  communication  consumer  cooperate  coorparative  team  mass media  media  opinion  opinions  work with  networks  users  organization  in partnership  person  platform  project  social  game  teamwork  twitter  compatible  united  promise  diversity  wiki  wikis  weather  knowledge  www",
      "query": "guesthouse host recovery story family",
@@ -12846,7 +13224,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V62.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "abstract animated network of connected face icons",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-abstract-faces",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 46,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V63",
@@ -12857,7 +13244,7 @@
      "page_url": "https://www.pexels.com/video/young-man-carrying-silver-platter-in-hotel-corridor-5372867/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V63.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V63.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12866,7 +13253,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V63.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a butler in period costume carries a covered serving tray down a corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-butler-tray",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 38,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V64",
@@ -12877,7 +13273,7 @@
      "page_url": "https://pixabay.com/videos/id-117312/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V64.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V64.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "man  musician  festival  story  creation  dancing  magic  art",
      "query": "recovery story family guest",
@@ -12886,7 +13282,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V64.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a musician plays electric guitar under blue stage lighting",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-musician-stage",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 47,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V65",
@@ -12897,7 +13302,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-grand-mountain-resort-architecture-29487905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V65.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V65.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12906,7 +13311,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V65.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a sprawling ornate resort hotel complex",
+     "violation": "corporate hotel chains",
+     "shot": "",
+     "shoot": "pixabay-resort-aerial",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 48,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V66",
@@ -12917,7 +13331,7 @@
      "page_url": "https://www.pexels.com/video/people-having-a-business-meeting-8141560/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V66.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V66.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12926,7 +13340,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V66.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "business colleagues with coffee cups review a laptop in a hotel lobby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-business-lobbylaptop",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 33,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V67",
@@ -12937,7 +13360,7 @@
      "page_url": "https://www.pexels.com/video/vibrant-poolside-gathering-at-modern-hotel-28559381/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V67.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V67.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12946,7 +13369,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V67.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "guests gather at a rooftop pool party under string lights",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pexels-rooftop-poolparty",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 49,
+     "shown": false
     },
     {
      "id": "belong-module9-S13-V68",
@@ -12957,7 +13389,7 @@
      "page_url": "https://www.pexels.com/video/lawyer-shaking-his-customers-hands-8061614/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__thumb__belong-module9-S13-V68.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S13__preview__belong-module9-S13-V68.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "hotel staff hospitality industry",
@@ -12966,7 +13398,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S13__strip__belong-module9-S13-V68.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two people shake hands over a desk after signing a document",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-deskhandshake",
+     "judged_at": "2026-09-09T16:51:02Z",
+     "rank": 23,
+     "shown": false
     }
    ],
    "shots": [
@@ -13005,7 +13446,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T16:51:02Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:51:02Z"
   }
  ],
  "title": "Belong — Module 9: Service Recovery",
