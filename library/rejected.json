@@ -67,7 +67,7 @@
  },
  "pexels:4487290": {
   "brand": "belong",
-  "reason": "luxury spa clichés",
+  "reason": "luxury spa clich\u00e9s",
   "at": "2026-09-09T16:04:41Z",
   "from": "belong-module9/S03"
  },
@@ -1243,7 +1243,7 @@
  },
  "pexels:https://www.pexels.com/video/a-person-touching-a-plant-7944616/": {
   "brand": "belong",
-  "reason": "seedling in cupped hands cliché",
+  "reason": "seedling in cupped hands clich\u00e9",
   "at": "2026-09-09T17:35:17Z",
   "from": "belong-module2/S02"
  },
@@ -1339,19 +1339,19 @@
  },
  "heygen:": {
   "brand": "belong",
-  "reason": "luxury spa cliché",
+  "reason": "luxury spa clich\u00e9",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/an-indoor-swimming-pool-used-for-training-6012515/": {
   "brand": "belong",
-  "reason": "luxury spa cliché",
+  "reason": "luxury spa clich\u00e9",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/": {
   "brand": "belong",
-  "reason": "luxury spa cliché",
+  "reason": "luxury spa clich\u00e9",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
@@ -1450,5 +1450,35 @@
   "reason": "industrial machines",
   "at": "2026-09-09T17:46:20Z",
   "from": "belong-module12/S06"
+ },
+ "pixabay:76425": {
+  "brand": "belong",
+  "reason": "abstract animation, not real footage",
+  "at": "2026-09-09T17:47:08Z",
+  "from": "belong-module9/S13"
+ },
+ "pixabay:104225": {
+  "brand": "belong",
+  "reason": "abstract graphic, not real footage",
+  "at": "2026-09-09T17:47:08Z",
+  "from": "belong-module9/S13"
+ },
+ "pixabay:125722": {
+  "brand": "belong",
+  "reason": "abstract graphic, not real footage",
+  "at": "2026-09-09T17:47:08Z",
+  "from": "belong-module9/S13"
+ },
+ "pixabay:104483": {
+  "brand": "belong",
+  "reason": "abstract graphic, not real footage",
+  "at": "2026-09-09T17:47:08Z",
+  "from": "belong-module9/S13"
+ },
+ "pixabay:104232": {
+  "brand": "belong",
+  "reason": "abstract graphic, not real footage",
+  "at": "2026-09-09T17:47:08Z",
+  "from": "belong-module9/S13"
  }
 }
