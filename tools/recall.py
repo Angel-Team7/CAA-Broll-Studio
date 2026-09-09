@@ -83,6 +83,8 @@ def make_strip(preview, strip):
 
 def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
+    if not card_path.exists():
+        return None                                   # caller reports the missing card
     card = json.load(open(card_path))
     scene = next((s for s in card["scenes"] if s["id"] == scene_id), None)
     if scene is None or not scene.get("shots"):

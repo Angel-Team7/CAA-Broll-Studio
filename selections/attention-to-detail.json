@@ -46,7 +46,8 @@
       "note": "wall and brush paints being cleaned",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "skipped": "orphan selections file: project lives at attention-to-detail-v2"
     }
   }
 }
