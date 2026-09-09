@@ -14390,8 +14390,8 @@
      "shot": "",
      "shoot": "pexels-woman-plain-backdrop-smile",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V02",
@@ -14418,8 +14418,8 @@
      "shot": "",
      "shoot": "pixabay-plates-stack-restaurant",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 10,
-     "shown": true
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V03",
@@ -14472,8 +14472,8 @@
      "shot": "",
      "shoot": "pexels-cozy-conversation-gestures",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 5,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V05",
@@ -14497,7 +14497,7 @@
      "shot": "C",
      "shoot": "pexels-embrace-hand-shoulder",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 2,
+     "rank": 9,
      "shown": true
     },
     {
@@ -14536,8 +14536,8 @@
      "shot": "",
      "shoot": "pexels-woman-outdoor-smile-soft",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 6,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V09",
@@ -14563,7 +14563,7 @@
      "shot": "",
      "shoot": "pexels-lobby-bellman-conversation",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 8,
+     "rank": 27,
      "shown": false
     },
     {
@@ -14590,7 +14590,7 @@
      "shot": "",
      "shoot": "pixabay-lobby-bokeh-phone",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 14,
+     "rank": 36,
      "shown": false
     },
     {
@@ -14617,7 +14617,7 @@
      "shot": "",
      "shoot": "pexels-lobby-couple-marble",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 9,
+     "rank": 29,
      "shown": false
     },
     {
@@ -14744,7 +14744,7 @@
      "shot": "",
      "shoot": "pexels-factory-yarn-worker",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 15,
+     "rank": 37,
      "shown": false
     },
     {
@@ -14773,8 +14773,8 @@
      "shot": "",
      "shoot": "pixabay-chainsaw-logs",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 11,
-     "shown": true
+     "rank": 32,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V15",
@@ -14802,7 +14802,7 @@
      "shot": "",
      "shoot": "pexels-factory-linen-fold",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 12,
+     "rank": 34,
      "shown": false
     },
     {
@@ -14831,7 +14831,7 @@
      "shot": "",
      "shoot": "pexels-factory-linen-fold",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 13,
+     "rank": 35,
      "shown": false
     },
     {
@@ -14860,7 +14860,7 @@
      "shot": "",
      "shoot": "pexels-factory-garment-unwrap",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 16,
+     "rank": 38,
      "shown": false
     },
     {
@@ -14889,7 +14889,7 @@
      "shot": "",
      "shoot": "pexels-factory-towel-sew",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 17,
+     "rank": 39,
      "shown": false
     },
     {
@@ -14918,7 +14918,7 @@
      "shot": "",
      "shoot": "pixabay-garment-sewing-stacks",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 18,
+     "rank": 40,
      "shown": false
     },
     {
@@ -14947,7 +14947,7 @@
      "shot": "",
      "shoot": "pixabay-garment-sewing-hall",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 19,
+     "rank": 41,
      "shown": false
     },
     {
@@ -14976,8 +14976,8 @@
      "shot": "D",
      "shoot": "pexels-host-menu-pastries",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V22",
@@ -15005,8 +15005,8 @@
      "shot": "D",
      "shoot": "pexels-host-menu-pastries",
      "judged_at": "2026-09-09T16:40:39Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V23",
@@ -15027,8 +15027,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a couple holds hands while walking outdoors",
+     "violation": "",
+     "shoot": "pexels-couple-hold-street-a",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 11
     },
     {
      "id": "belong-module9-S06-V24",
@@ -15049,8 +15057,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "one hand rests gently on another on a soft pillow",
+     "violation": "",
+     "shoot": "pexels-hands-rest-pillow",
+     "score": 7.3,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 2
     },
     {
      "id": "belong-module9-S06-V25",
@@ -15071,8 +15087,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a woman relaxes on a couch in a warm wooden cabin",
+     "violation": "",
+     "shoot": "pexels-woman-cabin-relax",
+     "score": 6.35,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 6
     },
     {
      "id": "belong-module9-S06-V26",
@@ -15093,8 +15117,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "clasped hands rest together in a person's lap",
+     "violation": "",
+     "shoot": "pexels-hands-clasp-outdoor-a",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 3
     },
     {
      "id": "belong-module9-S06-V27",
@@ -15115,8 +15147,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "two hands rest clasped together outdoors",
+     "violation": "",
+     "shoot": "pexels-hands-clasp-outdoor-a",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 4
     },
     {
      "id": "belong-module9-S06-V28",
@@ -15137,8 +15177,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands rest together, one over the other",
+     "violation": "",
+     "shoot": "pexels-hands-clasp-teal",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 5
     },
     {
      "id": "belong-module9-S06-V29",
@@ -15152,15 +15200,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V29.strip.jpg",
      "title": "a man and a boy shaking hands in a room",
      "query": "guest relieved smiling rustic room",
-     "shot": "D",
+     "shot": "",
      "duration": 18,
      "src_id": "17904243",
      "download_url": "https://videos.pexels.com/video-files/17904243/17904243-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two people hold hands in a theatrically lit room",
+     "violation": "",
+     "shoot": "pexels-staged-dance-room",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 23
     },
     {
      "id": "belong-module9-S06-V30",
@@ -15181,8 +15237,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:11:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "clasped hands rest on a table",
+     "violation": "",
+     "shoot": "pexels-hands-clasp-table",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 10
     },
     {
      "id": "belong-module9-S06-V31",
@@ -15203,8 +15267,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:12:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a couple holds hands gently outdoors",
+     "violation": "",
+     "shoot": "pexels-hands-hold-beach",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 8
     },
     {
      "id": "belong-module9-S06-V32",
@@ -15225,8 +15297,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:12:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two hands touch fingertips outdoors",
+     "violation": "",
+     "shoot": "pexels-hands-touch-outdoor",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 12
     },
     {
      "id": "belong-module9-S06-V33",
@@ -15240,15 +15320,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V33.strip.jpg",
      "title": "a woman serving a platter of food",
      "query": "guest relieved smiling rustic room",
-     "shot": "D",
+     "shot": "",
      "duration": 9,
      "src_id": "6948636",
      "download_url": "https://videos.pexels.com/video-files/6948636/6948636-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:12:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a woman carries a serving platter to a family dinner table",
+     "violation": "",
+     "shoot": "pexels-family-dinner-serve",
+     "score": 3.7,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 18
     },
     {
      "id": "belong-module9-S06-V34",
@@ -15269,8 +15357,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:12:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman rests a hand on a man's shoulder in a living room",
+     "violation": "",
+     "shoot": "pexels-shoulder-pat-slats",
+     "score": 4.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 17
     },
     {
      "id": "belong-module9-S06-V35",
@@ -15284,15 +15380,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V35.strip.jpg",
      "title": "a man playing violin in a room with a woman",
      "query": "guest relieved smiling rustic room",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "17850962",
      "download_url": "https://videos.pexels.com/video-files/17850962/17850962-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:12:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a man plays violin for a woman at a small table",
+     "violation": "",
+     "shoot": "pexels-violin-serenade",
+     "score": 1.7,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 28
     },
     {
      "id": "belong-module9-S06-V36",
@@ -15313,8 +15417,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman relaxes in a hanging chair by a window",
+     "violation": "",
+     "shoot": "pexels-woman-swing-relax",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 7
     },
     {
      "id": "belong-module9-S06-V37",
@@ -15328,15 +15440,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V37.strip.jpg",
      "title": "couple  lovers  hands  love  street  walking",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "C",
      "duration": 27,
      "src_id": "152798",
      "download_url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a couple holds hands walking at sunset",
+     "violation": "",
+     "shoot": "pexels-couple-walk-sunset",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 16
     },
     {
      "id": "belong-module9-S06-V38",
@@ -15350,15 +15470,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V38.strip.jpg",
      "title": "cafe  restaurant  talking  talk  people  sitting  chatting  menu  coffee  dinner  table  bar  drink  interior  cafe interior  restaurant interior",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "1623",
      "download_url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a wine glass sits on a table beside diners",
+     "violation": "",
+     "shoot": "pixabay-cafe-table-bg",
+     "score": 2.4,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 26
     },
     {
      "id": "belong-module9-S06-V39",
@@ -15372,15 +15500,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V39.strip.jpg",
      "title": "couple  love  lovers  together  relationship  romance  romantic",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "245932",
      "download_url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a couple embraces against a plain studio backdrop",
+     "violation": "",
+     "shoot": "pixabay-studio-couple-glam",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 31
     },
     {
      "id": "belong-module9-S06-V40",
@@ -15394,15 +15530,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V40.strip.jpg",
      "title": "couple  love  romance  valentine  loving couple  woman  young  love couple  man  bench  sitting  hugging  happy  hug  two  relationship  together  adult  romantic  boyfriend  girlfriend  chubby  lumpy",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "D",
      "duration": 17,
      "src_id": "2301",
      "download_url": "https://cdn.pixabay.com/video/2016/02/29/2301-157183628_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a couple sits arm in arm on a bench overlooking a city",
+     "violation": "",
+     "shoot": "pixabay-bench-couple-skyline",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 24
     },
     {
      "id": "belong-module9-S06-V41",
@@ -15416,15 +15560,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V41.strip.jpg",
      "title": "couple  hands  love  walking",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "C",
      "duration": 17,
      "src_id": "177254",
      "download_url": "https://cdn.pixabay.com/video/2023/08/22/177254-857376654_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "two people hold hands walking through snow",
+     "violation": "",
+     "shoot": "pixabay-hands-snow",
+     "score": 3.65,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 19
     },
     {
      "id": "belong-module9-S06-V42",
@@ -15438,15 +15590,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V42.strip.jpg",
      "title": "marriage  wedding  love  celebration  bride  couple  groom  romantic  wedding couple  ceremony  romance  couple in love  bride and groom  anniversary",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "",
      "duration": 22,
      "src_id": "1330",
      "download_url": "https://cdn.pixabay.com/video/2015/11/11/1330-147084829_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a bride stands at a window and wedding rings are shown close up",
+     "violation": "",
+     "shoot": "pixabay-wedding-bride-rings",
+     "score": 0.7,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 33
     },
     {
      "id": "belong-module9-S06-V43",
@@ -15460,15 +15620,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V43.strip.jpg",
      "title": "married couple  old couple  happy couple  music  headphones",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "D",
      "duration": 11,
      "src_id": "172681",
      "download_url": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "an elderly couple laughs together wearing headphones",
+     "violation": "",
+     "shoot": "pixabay-elderly-headphones",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 20
     },
     {
      "id": "belong-module9-S06-V44",
@@ -15482,15 +15650,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V44.strip.jpg",
      "title": "couple  lovers  strawberry  honeymoon  entertainment",
      "query": "waiter talking couple table",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "149475",
      "download_url": "https://cdn.pixabay.com/video/2023/02/05/149475-796096121_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T17:13:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man feeds a woman a strawberry as she reclines smiling",
+     "violation": "",
+     "shoot": "pixabay-strawberry-feeding",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:21:31Z",
+     "rank": 25
     }
    ],
    "shots": [
@@ -15531,12 +15707,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T16:40:39Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T16:40:39Z"
+   "judged_at": "2026-09-09T18:21:31Z"
   },
   {
    "id": "S11",
