@@ -39,7 +39,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V10.mp4",
-     "score": 23.63,
+     "score": 1.35,
      "categories": [
       "construction",
       "site",
@@ -49,7 +49,16 @@
      "title": "video construction workers communicating site",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two workers in hi-vis gear and hardhats talk beside a car",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-workers-car-talk",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V13",
@@ -60,7 +69,7 @@
      "page_url": "https://www.pexels.com/video/a-man-in-a-construction-site-using-walkie-talkie-8963859/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V13.mp4",
-     "score": 18.53,
+     "score": 0.0,
      "categories": [
       "construction",
       "man",
@@ -69,7 +78,16 @@
      "title": "video man construction site using walkie talkie",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man in a hardhat uses a walkie-talkie inside a large steel construction structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-construction-walkietalkie-steel",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V15",
@@ -80,7 +98,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-looking-at-the-floor-plan-8471051/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V15.mp4",
-     "score": 18.23,
+     "score": 2.65,
      "categories": [
       "man",
       "woman"
@@ -88,7 +106,16 @@
      "title": "video man and woman looking the floor plan",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a man and woman in hardhats review a floor plan indoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hardhat-floorplan-indoor",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V09",
@@ -99,7 +126,7 @@
      "page_url": "https://pixabay.com/videos/id-42923/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V09.mp4",
-     "score": 29.62,
+     "score": 0.0,
      "categories": [
       "builder",
       "building",
@@ -111,7 +138,16 @@
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows dozens of workers on scaffolding at a high-rise construction site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pixabay-scaffolding-aerial-highrise",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V04",
@@ -142,14 +178,23 @@
      "page_url": "https://coverr.co/videos/carpenter-works-with-a-miter-saw-vydinjswe0",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V08.mp4",
-     "score": 18.88,
+     "score": 7.3,
      "categories": [
       "carpenter"
      ],
      "title": "videos carpenter works with miter saw vydinjswe0",
      "query": "craftsman working with hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a craftsman's hands guide a wood plank through a miter saw",
+     "violation": "",
+     "shot": "D",
+     "shoot": "coverr-craftsman-miter-saw",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V01",
@@ -160,7 +205,7 @@
      "page_url": "https://www.pexels.com/video/a-foreman-at-the-construction-site-8964292/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V01.mp4",
-     "score": 23.07,
+     "score": 1.0,
      "categories": [
       "construction",
       "foreman",
@@ -170,7 +215,16 @@
      "title": "video foreman the construction site",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man in a hardhat stands arms crossed before a large steel structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hardhat-armscrossed-steel",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V02",
@@ -181,7 +235,7 @@
      "page_url": "https://pixabay.com/videos/id-1039/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V02.mp4",
-     "score": 22.76,
+     "score": 4.35,
      "categories": [
       "care",
       "gardener",
@@ -192,7 +246,16 @@
      "title": "lawn mower  mowing  lawn  outdoors  janitor  grass  lawn mowing  summer  yard  garden  green  mow  cut  backyard  lawn c",
      "query": "gardener mowing lawn grounds",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a groundskeeper mows a manicured lawn bowling green",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-lawnmower-bowling-green",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V03",
@@ -242,7 +305,7 @@
      "page_url": "https://pixabay.com/videos/id-8252/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V05.mp4",
-     "score": 18.39,
+     "score": 0.0,
      "categories": [
       "man",
       "meeting",
@@ -254,7 +317,16 @@
      "title": "discussion  desk  people  office  team  meeting  business  businessman  brainstorming  group  table  workplace  worker  ",
      "query": "office worker filing paperwork",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "blurred figures sit around a table in an office meeting",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pixabay-office-meeting-blurred",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V06",
@@ -265,7 +337,7 @@
      "page_url": "https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V06.mp4",
-     "score": 17.67,
+     "score": 1.0,
      "categories": [
       "man",
       "site"
@@ -273,7 +345,16 @@
      "title": "video man using walkie talkie while the site",
      "query": "supervisor showing plans team site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man in a hardhat gestures while speaking on a walkie-talkie at a construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-construction-gesture-walkietalkie",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V07",
@@ -284,7 +365,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-installing-electrical-wiring-34572318/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__thumb__edenrise-c2-goal-setting-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__preview__edenrise-c2-goal-setting-S06-V07.mp4",
-     "score": 17.37,
+     "score": 3.7,
      "categories": [
       "construction",
       "worker"
@@ -292,7 +373,16 @@
      "title": "video construction worker installing electrical wiring",
      "query": "electrician fixing wires panel",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man installs an electrical fixture on a textured interior wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-electrical-install-wall",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S06-I06",
@@ -453,7 +543,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:31:01Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:31:01Z"
   },
   {
    "id": "S05",
@@ -553,7 +649,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-workers-building-a-wooden-house-frame-31025079/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V08.mp4",
-     "score": 32.12,
+     "score": 0.7,
      "categories": [
       "building",
       "worker",
@@ -562,7 +658,16 @@
      "title": "video aerial view workers building wooden house frame",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "workers frame a wooden house roof seen from above",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-wood-frame-roof",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V14",
@@ -573,7 +678,7 @@
      "page_url": "https://pixabay.com/videos/id-3522/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V14.mp4",
-     "score": 21.56,
+     "score": 0.0,
      "categories": [
       "construction",
       "welder",
@@ -582,7 +687,16 @@
      "title": "weld  hardware  construction  welder  locksmith  spark  fire  flame  to paste  amend  job  worker  electricity  electrod",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a welder's torch throws sparks against metal in close-up",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pixabay-welding-sparks-closeup",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V11",
@@ -593,7 +707,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-working-in-vietnam-8720485/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V11.mp4",
-     "score": 30.92,
+     "score": 1.35,
      "categories": [
       "construction",
       "worker",
@@ -603,7 +717,16 @@
      "title": "video construction workers working vietnam",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "two barefoot workers tie rebar on an elevated bamboo platform",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rebar-bamboo-platform-vietnam",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V01",
@@ -635,7 +758,7 @@
      "page_url": "https://pixabay.com/videos/id-85351/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V02.mp4",
-     "score": 39.17,
+     "score": 1.35,
      "categories": [
       "builder",
       "building",
@@ -647,7 +770,16 @@
      "title": "builder  repair  worker  building  professional  tools  safety  master  construction  foreman",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a safety vest operates a concrete grinding machine",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-concrete-grinder-vest",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V03",
@@ -658,7 +790,7 @@
      "page_url": "https://pixabay.com/videos/id-3741/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V03.mp4",
-     "score": 38.57,
+     "score": 0.0,
      "categories": [
       "construction",
       "digger",
@@ -670,7 +802,16 @@
      "title": "working site  excavator  construction  site  equipment  digger  machine  develop  industrial  construction site  constru",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "excavators and trucks work a large open quarry site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-quarry-excavators-aerial",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V04",
@@ -681,7 +822,7 @@
      "page_url": "https://pixabay.com/videos/id-42926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__thumb__edenrise-c2-goal-setting-S05-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__preview__edenrise-c2-goal-setting-S05-V04.mp4",
-     "score": 36.77,
+     "score": 0.0,
      "categories": [
       "builder",
       "building",
@@ -693,7 +834,16 @@
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  sky",
      "query": "construction worker helping colleague carry beam",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S05__strip__edenrise-c2-goal-setting-S05-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a crowded high-rise construction site with a tower crane",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-highrise-crane-aerial-crowd",
+     "judged_at": "2026-09-09T18:31:01Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S05-V05",
@@ -913,7 +1063,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:31:01Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:31:01Z"
   },
   {
    "id": "S02",
