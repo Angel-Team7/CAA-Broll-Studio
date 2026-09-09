@@ -2061,14 +2061,23 @@
      "page_url": "https://www.pexels.com/video/organizing-and-sorting-screws-4654944/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V01.mp4",
-     "score": 16.47,
+     "score": 7.95,
      "categories": [
       "crew"
      ],
      "title": "video organizing and sorting screws",
      "query": "hands sorting screws into jars",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 6,
+     "caption": "hands sort loose screws and hardware into a labeled organizer",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hands-sorting-screws-tray",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V06",
@@ -2079,7 +2088,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-putting-soil-in-the-pot-6508935/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V06.mp4",
-     "score": 17.57,
+     "score": 6.7,
      "categories": [
       "man",
       "soil",
@@ -2088,7 +2097,16 @@
      "title": "video woman putting soil the pot",
      "query": "gardener potting plants methodically row",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a woman in gloves pots a seedling in a greenhouse nursery",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-woman-potting-nursery",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V02",
@@ -2099,12 +2117,21 @@
      "page_url": "https://www.pexels.com/video/a-person-organizing-the-kitchen-countertop-10568458/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V02.mp4",
-     "score": 16.47,
+     "score": 4.0,
      "categories": [],
      "title": "video person organizing the kitchen countertop",
      "query": "hands sorting screws into jars",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands arrange labeled jars in a wire basket on a kitchen counter",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-kitchen-jar-organizing",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V07",
@@ -2115,7 +2142,7 @@
      "page_url": "https://www.pexels.com/video/woman-organizing-towels-in-a-closet-5892548/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V07.mp4",
-     "score": 16.14,
+     "score": 7.3,
      "categories": [
       "man",
       "woman"
@@ -2123,7 +2150,16 @@
      "title": "video woman organizing towels closet",
      "query": "hands folding sorting linen laundry",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a woman stacks folded white towels neatly on a shelf",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-woman-folding-towels-shelf",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V14",
@@ -2134,7 +2170,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-rearranging-the-plants-in-the-pots-6268587/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V14.mp4",
-     "score": 15.77,
+     "score": 2.65,
      "categories": [
       "man",
       "woman"
@@ -2142,7 +2178,16 @@
      "title": "video woman rearranging the plants the pots",
      "query": "gardener potting plants methodically row",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a woman pots small plants at a desk with a laptop nearby",
+     "violation": "electronics",
+     "shot": "B",
+     "shoot": "pexels-woman-loft-potting-laptop",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V22",
@@ -2153,12 +2198,21 @@
      "page_url": "https://www.pexels.com/video/person-planting-plants-7654880/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V22.mp4",
-     "score": 14.34,
+     "score": 5.7,
      "categories": [],
      "title": "video person planting plants",
      "query": "gardener potting plants methodically row",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a gloved hand transplants a small shrub into a biodegradable pot",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-glove-transplant-pot",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V27",
@@ -2169,14 +2223,23 @@
      "page_url": "https://www.pexels.com/video/man-looking-a-motor-oil-8986482/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V27.mp4",
-     "score": 13.59,
+     "score": 1.35,
      "categories": [
       "man"
      ],
      "title": "video man looking motor oil",
      "query": "worker sweeping cleaning workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mechanic works at a tool bench beside a parked car",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-mechanic-garage-bench",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V28",
@@ -2187,14 +2250,23 @@
      "page_url": "https://www.pexels.com/video/man-creating-furniture-7484291/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V28.mp4",
-     "score": 13.59,
+     "score": 5.05,
      "categories": [
       "man"
      ],
      "title": "video man creating furniture",
      "query": "worker sweeping cleaning workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a carpenter planes a wooden block at a bright workshop bench",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-carpenter-plane-workbench",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V33",
@@ -2205,12 +2277,21 @@
      "page_url": "https://www.pexels.com/video/person-get-the-protective-goggles-8470011/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V33.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V33.mp4",
-     "score": 13.37,
+     "score": 1.35,
      "categories": [],
      "title": "video person get the protective goggles",
      "query": "worker sweeping cleaning workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V33.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "protective goggles rest on a cluttered garage workbench",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-goggles-garage-bench",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-I04",
@@ -2252,7 +2333,7 @@
      "page_url": "https://www.pexels.com/video/a-person-pouring-beans-into-a-glass-jar-10568463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V38.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "hands sorting screws into jars",
@@ -2261,7 +2342,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man ties small cloth bags of grain on a kitchen counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-cloth-bags-kitchen",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V39",
@@ -2272,7 +2362,7 @@
      "page_url": "https://pixabay.com/videos/id-53781/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V39.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "usb  flash drive  hand  memory  flash  portable  device",
      "query": "hands sorting screws into jars",
@@ -2281,7 +2371,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand holds a USB flash drive against a colorful backdrop",
+     "violation": "USB or electronics",
+     "shot": "",
+     "shoot": "pixabay-usb-drive-colorful",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V40",
@@ -2292,7 +2391,7 @@
      "page_url": "https://www.pexels.com/video/footage-of-different-glass-jar-with-different-snaks-3735234/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V40.mp4",
-     "score": 0,
+     "score": 3.0,
      "categories": [],
      "title": "",
      "query": "hands sorting screws into jars",
@@ -2301,7 +2400,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand pours oats into a labeled glass jar",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-pouring-oats-labeled-jar",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V41",
@@ -2312,7 +2420,7 @@
      "page_url": "https://pixabay.com/videos/id-11606/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V41.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh  table  healthy  preparing  homemade  chef  preparation  hand  organic  vegetarian  vegan",
      "query": "hands sorting screws into jars",
@@ -2321,7 +2429,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "hands mince garlic on a wooden cutting board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hands-mince-garlic",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V42",
@@ -2332,7 +2449,7 @@
      "page_url": "https://www.pexels.com/video/woman-putting-beans-in-jar-7772703/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V42.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V42.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "hands sorting screws into jars",
@@ -2341,7 +2458,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V42.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman scoops grains into large glass storage jars",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-woman-scoop-grain-jars",
+     "judged_at": "2026-09-09T18:33:03Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V43",
@@ -2581,7 +2707,8 @@
     "USB or electronics"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "judged_at": "2026-09-09T18:33:03Z"
   },
   {
    "id": "S06",

@@ -156,10 +156,10 @@
   "from": "belong-module8/S09"
  },
  "pixabay:https://pixabay.com/videos/id-92662/": {
-  "brand": "belong",
-  "reason": "sales gestures",
-  "at": "2026-09-09T17:11:04Z",
-  "from": "belong-module8/S09"
+  "brand": "edenrise",
+  "reason": "cartoons, green screen",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S03"
  },
  "pexels:8865784": {
   "brand": "belong",
@@ -1900,5 +1900,65 @@
   "reason": "welding sparks",
   "at": "2026-09-09T18:31:01Z",
   "from": "edenrise-c2-goal-setting/S05"
+ },
+ "pexels:https://www.pexels.com/video/teamwork-in-engineering-classroom-setting-31474687/": {
+  "brand": "edenrise",
+  "reason": "classroom",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S02"
+ },
+ "pixabay:https://pixabay.com/videos/id-115790/": {
+  "brand": "edenrise",
+  "reason": "textile mills",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S02"
+ },
+ "pixabay:https://pixabay.com/videos/id-75999/": {
+  "brand": "edenrise",
+  "reason": "abstract loops",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S03"
+ },
+ "pexels:https://www.pexels.com/video/construction-workers-on-busy-building-site-30331617/": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S03"
+ },
+ "pexels:https://www.pexels.com/video/people-working-on-building-construction-11733685/": {
+  "brand": "edenrise",
+  "reason": "forced-labour or slave-like framing",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S01"
+ },
+ "pexels:https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/": {
+  "brand": "edenrise",
+  "reason": "scaffolding gangs",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S01"
+ },
+ "pexels:https://www.pexels.com/video/workers-with-baskets-on-heads-climbing-ladder-at-stack-of-klin-bricks-10620627/": {
+  "brand": "edenrise",
+  "reason": "forced-labour or slave-like framing",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S01"
+ },
+ "pexels:https://www.pexels.com/video/people-dancing-and-throwing-papers-8135869/": {
+  "brand": "edenrise",
+  "reason": "office, laptops",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-goal-setting/S08"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-rearranging-the-plants-in-the-pots-6268587/": {
+  "brand": "edenrise",
+  "reason": "electronics",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-kaizen/S05"
+ },
+ "pixabay:53781": {
+  "brand": "edenrise",
+  "reason": "USB or electronics",
+  "at": "2026-09-09T18:33:03Z",
+  "from": "edenrise-c2-kaizen/S05"
  }
 }
