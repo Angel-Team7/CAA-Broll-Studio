@@ -332,3 +332,8 @@
 | pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/people-having-a-business-meeting-8141560/ |
 | pexels |  | Vitalis Nwenyi | Pexels License | https://www.pexels.com/video/vibrant-poolside-gathering-at-modern-hotel-28559381/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/lawyer-shaking-his-customers-hands-8061614/ |
+| pexels | men shaking hands | Kindel Media | Pexels License | https://www.pexels.com/video/men-shaking-hands-7577728/ |
+| pexels | group of people shaking hands | Kampus Production | Pexels License | https://www.pexels.com/video/group-of-people-shaking-hands-8170593/ |
+| pexels | people shaking hands at the office | Kindel Media | Pexels License | https://www.pexels.com/video/people-shaking-hands-at-the-office-7687995/ |
+| pexels | realtor shaking hands with a customer | Kindel Media | Pexels License | https://www.pexels.com/video/realtor-shaking-hands-with-a-customer-7577726/ |
+| pexels | close up view of two people shaking their hands | Jack Sparrow | Pexels License | https://www.pexels.com/video/close-up-view-of-two-people-shaking-their-hands-5977121/ |

@@ -137,7 +137,9 @@ function render() {
   wrap.innerHTML = ordered.map(sc => {
     const appr = state.approved[sc.id] || [];
     const flagged = sc.id in state.reshoot;
-    const cards = sc.clips.map(c => card(sc.id, c, appr.includes(c.id))).join("");
+    const visible = visibleClips(sc, appr);
+    const cards = visible.shown.map(c => card(sc.id, c, appr.includes(c.id))).join("");
+    const hiddenNote = clipStatus(sc, visible);
     return `<section class="scene ${flagged ? "flagged" : ""}" data-scene="${sc.id}">
       <div class="scene-head">
         <span class="scene-id">${sc.id}</span>
@@ -154,6 +156,9 @@ function render() {
           <div class="scene-show"><span class="tag show">PICK FOOTAGE THAT SHOWS</span>
             <span class="show-txt">${esc(sc.visual_direction)}</span></div>
           ${sc.onscreen ? `<div class="scene-onscreen"><span class="tag os">ON-SCREEN TEXT</span> ${esc(sc.onscreen)}</div>` : ""}
+          ${(sc.shots || []).length ? `<div class="scene-shots"><span class="tag shots">SHOT LIST</span>
+            <span class="shots-txt">${sc.shots.map(x => `<span class="shot" title="${esc(x.pexels)}">${esc(x.id)} · ${esc(x.text)}</span>`).join("")}</span></div>` : ""}
+          ${sc.stock_gap ? `<div class="scene-gap"><span class="tag gap">STOCK CANNOT SHOW THIS</span> ${esc(sc.stock_gap.reason || "")}</div>` : ""}
           ${flagged ? `<div class="reshoot-note">🔁 ${dirStatus(sc.id)}${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
              <button class="linkbtn addreason" data-scene="${sc.id}">${state.reshoot[sc.id] ? "edit reason" : "+ add a reason"}</button>
              <button class="linkbtn clearflag" data-scene="${sc.id}">clear flag</button></div>` : ""}
@@ -169,6 +174,7 @@ function render() {
           <div class="drophint">or drag &amp; drop files here</div>
         </div>
       </div>
+      ${hiddenNote}
       <div class="grid">${cards || '<p class="muted">No clips.</p>'}</div>
     </section>`;
   }).join("");
@@ -182,6 +188,8 @@ function render() {
     el.onclick = e => { e.stopPropagation(); toggleReshoot(el.dataset.scene); });
   wrap.querySelectorAll(".clearflag").forEach(el =>
     el.onclick = e => { e.stopPropagation(); clearFlag(el.dataset.scene); });
+  wrap.querySelectorAll(".reveal").forEach(el =>
+    el.onclick = e => { e.stopPropagation(); toggleReveal(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
     el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
   wrap.querySelectorAll(".topup").forEach(el =>
@@ -190,6 +198,30 @@ function render() {
   wrap.querySelectorAll(".media[data-preview]").forEach(m => wirePreview(m));
   updateStat();
 }
+
+// Judged clips first, by rank; approved clips always visible; unjudged and judge-hidden
+// clips stay one click away so a late judge never hides footage from a reviewer.
+function visibleClips(sc, appr) {
+  const all = sc.clips || [];
+  const isShown = c => appr.includes(c.id) || c.shown !== false;
+  const num = c => (c.rank !== undefined ? c.rank : 9999);
+  const shown = all.filter(isShown).sort((a, b) => num(a) - num(b));
+  const pending = all.filter(c => c.judged === false);
+  const hidden = all.filter(c => !isShown(c) && c.judged !== false);
+  const open = state.reveal && state.reveal[sc.id];
+  return { shown: open ? all.slice().sort((a, b) => num(a) - num(b)) : shown, pending, hidden, open };
+}
+function clipStatus(sc, v) {
+  const bits = [];
+  if (v.pending.length) bits.push(`${v.pending.length} new candidate${v.pending.length > 1 ? "s" : ""} awaiting the judge`);
+  if (v.hidden.length) bits.push(`${v.hidden.length} ranked below the top ten`);
+  if (sc.judged_at) bits.push(`judged ${esc(String(sc.judged_at).slice(0, 16).replace("T", " "))}`);
+  if (!bits.length) return "";
+  const link = (v.pending.length || v.hidden.length)
+    ? ` <button class="linkbtn reveal" data-scene="${sc.id}">${v.open ? "hide" : "show"} them</button>` : "";
+  return `<div class="clipstatus">${bits.join(" · ")}${link}</div>`;
+}
+function toggleReveal(sid) { state.reveal = state.reveal || {}; state.reveal[sid] = !state.reveal[sid]; render(); }
 
 let previewWarned = false;
 // A grid can hold 300 clips. A <video> per card is what turned Safari black once the
@@ -256,12 +288,15 @@ function card(sid, c, on) {
   const src = c.page_url ? `<a href="${c.page_url}" target="_blank" rel="noopener">${esc(c.source)}</a>` : esc(c.source);
   const srcTag = SRC_LABEL[c.source]
     ? `<span class="srcbadge src-${c.source}">${SRC_LABEL[c.source]}</span>` : "";
-  const freshTag = c.fresh ? `<span class="srcbadge src-fresh">NEW</span>` : "";
+  const freshTag = c.fresh && c.judged !== false ? `<span class="srcbadge src-fresh">NEW</span>` : "";
+  const rankTag = c.rank && c.rank <= 3 && c.judged === true ? `<span class="srcbadge src-best">BEST MATCH</span>`
+                : c.judged === false ? `<span class="srcbadge src-wait">AWAITING JUDGE</span>` : "";
+  const cap = c.caption ? `<div class="clip-cap" title="relevance ${c.relevance ?? "?"}/10 · brand ${c.brand_fit ?? "?"}/10">${esc(c.caption)}</div>` : "";
   const note = c.note ? `<div class="clip-note">${esc(c.note)}</div>` : "";
   return `<div class="card ${on ? "on" : ""} type-${c.type === "video" ? "vid" : "img"}"
       data-id="${c.id}" data-scene="${sid}">
-    <div class="media"${c.type === "video" ? ` data-preview="${mediaUrl(c.preview)}"` : ""}><span class="badge">${c.type}</span>${srcTag}${freshTag}<span class="tick">✓</span>${media}</div>
-    ${note}
+    <div class="media"${c.type === "video" ? ` data-preview="${mediaUrl(c.preview)}"` : ""}><span class="badge">${c.type}</span>${srcTag}${freshTag}${rankTag}<span class="tick">✓</span>${media}</div>
+    ${cap}${note}
     <div class="foot"><span>${src}</span><span class="lic">${esc(c.license || "")}</span></div>
   </div>`;
 }

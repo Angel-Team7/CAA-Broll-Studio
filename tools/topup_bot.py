@@ -622,7 +622,12 @@ def main():
         print(f"→ {slug} {sid}  ({note!r})")
         # materialise this project in the sparse checkout
         sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
-        n = run_scene(slug, sid, note, profile, reason, auto_avoid)
+        # beats with a shot list go through recall v2 (stage for the judge); others
+        # keep the old gather until their shot list exists
+        import recall
+        n = recall.stage_scene(slug, sid, note, profile, reason, auto_avoid)
+        if n is None:
+            n = run_scene(slug, sid, note, profile, reason, auto_avoid)
         if n:
             sel = json.load(open(path))
             sel["topup_requests"][sid]["done"] = True
