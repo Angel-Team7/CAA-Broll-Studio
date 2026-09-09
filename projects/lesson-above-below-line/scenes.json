@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S01__thumb__S01_bS01_opener-title.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S01__preview__S01_bS01_opener-title.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S01__strip__S01_bS01_opener-title.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "Person walks down a lush tree-lined garden path in morning light",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-opener-avenue",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -50,7 +60,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:34Z"
   },
   {
    "id": "S02",
@@ -67,7 +83,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S02__thumb__S02_bS03_every-day.-something-happens.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S02__preview__S02_bS03_every-day.-something-happens.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S02__strip__S02_bS03_every-day.-something-happens.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "Two workers review a clipboard under a large crane structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-megasite-clipboard4",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -98,7 +124,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:34Z"
   },
   {
    "id": "S03",
@@ -115,7 +147,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S03__thumb__S03_bS05_below-the-line-somethings-off.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S03__preview__S03_bS05_below-the-line-somethings-off.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S03__strip__S03_bS05_below-the-line-somethings-off.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "Man kneels to plant seedlings along a garden bed fence",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-garden-kneel",
+     "score": 5.7,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -147,7 +189,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:59:34Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:34Z"
   },
   {
    "id": "S04",
@@ -164,7 +212,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__thumb__S04_opt1_shrug-hands-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__preview__S04_opt1_shrug-hands-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__strip__S04_opt1_shrug-hands-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "Close-up of hands shrugging at night on a city street",
+     "violation": "",
+     "shot": "B",
+     "shoot": "lesson-shrug-night",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "S04_opt2_walking-away",
@@ -176,7 +234,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__thumb__S04_opt2_walking-away.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__preview__S04_opt2_walking-away.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__strip__S04_opt2_walking-away.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "Man in black walks away down a suburban path",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-walkaway-suburb",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "S04_opt3_two-workers-gesture",
@@ -188,7 +256,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__thumb__S04_opt3_two-workers-gesture.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__preview__S04_opt3_two-workers-gesture.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__strip__S04_opt3_two-workers-gesture.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "Two workers gesture while discussing under a crane",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-megasite-clipboard5",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "S04_opt4_dismissive-walk",
@@ -200,7 +278,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__thumb__S04_opt4_dismissive-walk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__preview__S04_opt4_dismissive-walk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S04__strip__S04_opt4_dismissive-walk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "Young man walks through a lush green park with blossoms",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-walkpark-blossom",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:59:34Z",
+     "rank": 2,
+     "shown": true
     }
    ],
    "shots": [
@@ -231,7 +319,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:34Z"
   },
   {
    "id": "S05",
@@ -248,7 +342,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__thumb__S05_opt1_arms-crossed-stern.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__preview__S05_opt1_arms-crossed-stern.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__strip__S05_opt1_arms-crossed-stern.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "Woman in a blazer stands arms crossed in an ornate hallway",
+     "violation": "",
+     "shot": "B",
+     "shoot": "lesson-blazer-hallway",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "S05_opt2_worker-arms-crossed",
@@ -260,7 +364,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__thumb__S05_opt2_worker-arms-crossed.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__preview__S05_opt2_worker-arms-crossed.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__strip__S05_opt2_worker-arms-crossed.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "Man in a hardhat stands with arms crossed under a crane",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-megasite-armscrossed",
+     "score": 6.3,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "S05_opt3_skeptical-arms-crossed",
@@ -272,7 +386,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__thumb__S05_opt3_skeptical-arms-crossed.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__preview__S05_opt3_skeptical-arms-crossed.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__strip__S05_opt3_skeptical-arms-crossed.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "Man in glasses stands arms crossed against a plain backdrop",
+     "violation": "",
+     "shot": "",
+     "shoot": "lesson-studio-armscrossed1",
+     "score": 1.65,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "S05_opt4_arms-crossed-frown",
@@ -284,7 +408,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__thumb__S05_opt4_arms-crossed-frown.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__preview__S05_opt4_arms-crossed-frown.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S05__strip__S05_opt4_arms-crossed-frown.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "Older man frowns and stares directly into the camera",
+     "violation": "intense stare",
+     "shot": "",
+     "shoot": "lesson-studio-stare",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 3,
+     "shown": false
     }
    ],
    "shots": [
@@ -317,7 +451,13 @@
     "office"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S06",
@@ -334,7 +474,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S06__thumb__S06_bS10_above-the-line-stepping-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S06__preview__S06_bS10_above-the-line-stepping-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S06__strip__S06_bS10_above-the-line-stepping-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "Confident man stands arms crossed under a large crane structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-megasite-confident",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -366,7 +516,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S07",
@@ -383,7 +539,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S07__thumb__S07_bS12_listen-ask-accept-feedback.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S07__preview__S07_bS12_listen-ask-accept-feedback.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S07__strip__S07_bS12_listen-ask-accept-feedback.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "Gardener in an apron discusses with a woman in a greenhouse",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-greenhouse-discuss",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -414,7 +580,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S08",
@@ -431,7 +603,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S08__thumb__S08_bS13_seek-solutions-take-responsibility.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S08__preview__S08_bS13_seek-solutions-take-responsibility.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S08__strip__S08_bS13_seek-solutions-take-responsibility.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "African craftsman planes a wood board in a workshop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-craftsman-plane",
+     "score": 9.0,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -463,7 +645,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S09",
@@ -515,7 +703,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S10__thumb__S10_bS17_nobody-is-perfect.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S10__preview__S10_bS17_nobody-is-perfect.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S10__strip__S10_bS17_nobody-is-perfect.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "Man sits atop a wood roof frame among trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "lesson-roofframe-sit",
+     "score": 6.35,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -546,7 +744,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S11",
@@ -563,7 +767,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__thumb__S11_bS19_three-steps-growth.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__preview__S11_bS19_three-steps-growth.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__strip__S11_bS19_three-steps-growth.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "Cupped hands cradle a small seedling in soil",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-cupped-seedling",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -594,7 +808,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S12",
@@ -611,7 +831,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__thumb__S12_bS20_better-every-day.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__preview__S12_bS20_better-every-day.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__strip__S12_bS20_better-every-day.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "Gardener smiles among rows of colorful flowers",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-flowers-gardener",
+     "score": 9.0,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -642,7 +872,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S13",
@@ -659,7 +895,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S13__thumb__S13_bS23_stop-for-a-moment.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S13__preview__S13_bS23_stop-for-a-moment.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S13__strip__S13_bS23_stop-for-a-moment.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "Man in a cap bows his head, pausing quietly",
+     "violation": "",
+     "shot": "A",
+     "shoot": "lesson-headbowed-pause",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:59:35Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -691,7 +937,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:35Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:35Z"
   },
   {
    "id": "S14",
