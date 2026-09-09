@@ -2,8 +2,8 @@
  "scenes": [
   {
    "id": "S02",
-   "script_line": "This module is the playbook. Start with water. We're in the Alentejo. Water here is not a utility \u2014 it's the limiting factor of everything.",
-   "visual_direction": "Water in the Alentejo \u2014 the limiting factor of everything",
+   "script_line": "This module is the playbook. Start with water. We're in the Alentejo. Water here is not a utility — it's the limiting factor of everything.",
+   "visual_direction": "Water in the Alentejo — the limiting factor of everything",
    "t": 18.16,
    "end": 29.12,
    "quota": {
@@ -187,12 +187,49 @@
      "title": "water  cornfield  irrigation  nature  countryside  farm  field  outdoor",
      "query": "irrigation water field"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "dry cracked earth in a hot Alentejo field",
+     "pexels": "dry cracked earth field drought",
+     "pixabay": "drought cracked earth field",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a single drop of water falling from a tap",
+     "pexels": "water drop falling from tap close up",
+     "pixabay": "water drop tap close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "farmer checking a drip irrigation line between vegetable rows",
+     "pexels": "drip irrigation line vegetable rows",
+     "pixabay": "drip irrigation farm rows",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "old stone well or cistern on a farm",
+     "pexels": "old stone well farm",
+     "pixabay": "stone well farm water",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "ocean waves",
+    "resort pool",
+    "bottled water brands"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S01",
-   "script_line": "We've talked about regeneration as a vision. Now let's bring it down to earth \u2014 literally. Because sustainability at Craveiral isn't a chapter in a report. It's a hundred small physical actions, every day, done by you.",
-   "visual_direction": "Bringing regeneration down to earth \u2014 a hundred small physical actions",
+   "script_line": "We've talked about regeneration as a vision. Now let's bring it down to earth — literally. Because sustainability at Craveiral isn't a chapter in a report. It's a hundred small physical actions, every day, done by you.",
+   "visual_direction": "Bringing regeneration down to earth — a hundred small physical actions",
    "t": 0.0,
    "end": 17.23,
    "quota": {
@@ -279,7 +316,7 @@
      "id": "belong-m10-S01-V05",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V05.jpg",
@@ -379,11 +416,48 @@
      "title": "water buffalo  riding  farm  farmer  farming  buffalo  labor  farm work  farm worker  cultivate  paddy  field  farmland ",
      "query": "daily work routine farm"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands turning compost with a fork in a farm garden",
+     "pexels": "hands turning compost garden fork",
+     "pixabay": "compost garden fork hands",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper switching off a light and closing shutters in a guest house",
+     "pexels": "switching off light closing shutters",
+     "pixabay": "hand light switch window",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a farm with vegetable rows and small houses in morning light",
+     "pexels": "farm vegetable rows houses morning",
+     "pixabay": "farm rows morning countryside",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "kitchen worker sorting vegetable scraps into a bucket",
+     "pexels": "kitchen scraps sorted into bucket",
+     "pixabay": "kitchen scraps compost bucket",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate report pages",
+    "wind turbine stock clichés",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S12",
-   "script_line": "The organic amenities smell better. The seasonal dish is the best thing on the menu. The walk to the beach is lovelier than the drive. When guests ask \u2014 and they ask more every year, especially our international guests \u2014",
+   "script_line": "The organic amenities smell better. The seasonal dish is the best thing on the menu. The walk to the beach is lovelier than the drive. When guests ask — and they ask more every year, especially our international guests —",
    "visual_direction": "The seasonal dish is simply the best thing on the menu",
    "t": 249.73,
    "end": 277.33,
@@ -585,12 +659,49 @@
      "title": "Delicious plate featuring sausages, roasted potatoes, and mixed vegetables for a hearty meal.",
      "query": "seasonal vegetable dish"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a plate of seasonal vegetables served on a rustic table",
+     "pexels": "seasonal vegetable dish rustic table",
+     "pixabay": "vegetable dish rustic table",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "guest smelling a bar of natural soap",
+     "pexels": "person smelling natural soap",
+     "pixabay": "natural soap smell hand",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "couple walking a coastal path toward the sea at golden hour",
+     "pexels": "couple walking coastal path sea",
+     "pixabay": "couple coastal path sea",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "international guests asking a waiter a question, waiter explaining a dish",
+     "pexels": "waiter explaining dish to guests",
+     "pixabay": "waiter explaining guests table",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "fast food",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S11",
    "script_line": "And guests. Here's the delicate part: we never lecture. Nobody drove from Lisbon to be scolded about towels. Our way is to make the sustainable choice the beautiful choice.",
-   "visual_direction": "We never lecture \u2014 make the sustainable choice the beautiful choice",
+   "visual_direction": "We never lecture — make the sustainable choice the beautiful choice",
    "t": 235.5,
    "end": 249.29,
    "quota": {
@@ -660,7 +771,7 @@
       "garden",
       "outdoor"
      ],
-     "title": "water  shower  towel  glass  bath  animal  trees  sink  window  house  architecture  linen  the fa\u00e7ade of the  mood  an ",
+     "title": "water  shower  towel  glass  bath  animal  trees  sink  window  house  architecture  linen  the façade of the  mood  an ",
      "query": "linen towels natural"
     },
     {
@@ -754,12 +865,50 @@
      "title": "leaf  nature  green  plants  veins  translucent  foliage  green nature  green plant  green leaf  green leaves  green pla",
      "query": "eco friendly hotel room"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host quietly placing a beautiful seasonal dish in front of a guest",
+     "pexels": "host serving seasonal dish guest",
+     "pixabay": "seasonal dish serving guest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "organic soap and amenities laid out in a rustic bathroom",
+     "pexels": "natural soap amenities rustic bathroom",
+     "pixabay": "natural soap bathroom rustic",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guest choosing to walk a sandy path toward the beach",
+     "pexels": "person walking sandy path to beach",
+     "pixabay": "sandy path beach walking",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "receptionist smiling, not lecturing, handing a guest a towel",
+     "pexels": "receptionist handing towel to guest",
+     "pixabay": "towel handing guest reception",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "wagging finger",
+    "signs with rules",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S08",
    "script_line": "Purchasing. Every euro we spend is a vote for the world we want. Local first, seasonal first, real first. When we buy from the honey producer twenty minutes away, from the Vicentino vineyards, from the fisherman on this ",
-   "visual_direction": "Every euro is a vote \u2014 local first, seasonal first, real first",
+   "visual_direction": "Every euro is a vote — local first, seasonal first, real first",
    "t": 158.96,
    "end": 185.63,
    "quota": {
@@ -873,7 +1022,7 @@
       "kitchen",
       "rural"
      ],
-     "title": "ham  meat  food  hams  eat  taste  rural  kitchen  sausage  smoking  w\u0119dzi\u0107  marinating  cook  home cooking  polish food",
+     "title": "ham  meat  food  hams  eat  taste  rural  kitchen  sausage  smoking  wędzić  marinating  cook  home cooking  polish food",
      "query": "regional food products"
     },
     {
@@ -950,12 +1099,49 @@
      "title": "Farmers' Market",
      "query": "farmer selling stall"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "beekeeper lifting a frame from a hive in the countryside",
+     "pexels": "beekeeper lifting hive frame",
+     "pixabay": "beekeeper hive honey",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "fisherman landing a small boat on a beach with the day's catch",
+     "pexels": "fisherman small boat beach catch",
+     "pixabay": "fisherman boat beach catch",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "hands exchanging a crate of produce at a farm gate",
+     "pexels": "handing crate of produce at farm",
+     "pixabay": "produce crate handover farm",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a euro coin placed on a market stall",
+     "pexels": "coin on market stall close up",
+     "pixabay": "coin market stall hand",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "supermarket aisles",
+    "shipping containers",
+    "corporate office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S10",
-   "script_line": "The farm and the land. Four percent built, ninety-six percent alive \u2014 and the ninety-six percent needs allies. Stay on the walkways and paths, and help guests do the same, gently. If your work touches the land \u2014 gardenin",
-   "visual_direction": "Four percent built, ninety-six percent alive \u2014 stay on the walkways",
+   "script_line": "The farm and the land. Four percent built, ninety-six percent alive — and the ninety-six percent needs allies. Stay on the walkways and paths, and help guests do the same, gently. If your work touches the land — gardenin",
+   "visual_direction": "Four percent built, ninety-six percent alive — stay on the walkways",
    "t": 207.68,
    "end": 235.5,
    "quota": {
@@ -1126,12 +1312,49 @@
      "title": "sign  theft  a notice  vineyard  warning  prompt  agriculture  property  burglary  own initiative  crime  self protectio",
      "query": "protected landscape path"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial of a farm where houses sit among trees, mostly green land",
+     "pexels": "aerial farm houses among trees",
+     "pixabay": "aerial farm trees houses",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "raised wooden walkway through grass, a guest walking on it",
+     "pexels": "wooden walkway through meadow guest",
+     "pixabay": "wooden walkway meadow path",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of feet stepping onto a wooden path, not the grass",
+     "pexels": "feet on wooden boardwalk close up",
+     "pixabay": "boardwalk feet walking",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "gardener pruning gently among wild plants",
+     "pexels": "gardener pruning wild plants",
+     "pixabay": "gardener pruning plants",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "manicured golf lawns",
+    "resort pool",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S05",
-   "script_line": "Air conditioning in an empty house is money and carbon evaporating together \u2014 check, switch off, close. Lights on walkways and common areas have their schedules; if you see waste, flag it. The heated indoor pool is one o",
-   "visual_direction": "Energy \u2014 air conditioning in an empty house is money evaporating",
+   "script_line": "Air conditioning in an empty house is money and carbon evaporating together — check, switch off, close. Lights on walkways and common areas have their schedules; if you see waste, flag it. The heated indoor pool is one o",
+   "visual_direction": "Energy — air conditioning in an empty house is money evaporating",
    "t": 71.15,
    "end": 99.18,
    "quota": {
@@ -1303,12 +1526,49 @@
      "title": "Teak garden furniture and wooden decking",
      "query": "empty hotel room"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hand switching off an air conditioner remote in an empty room",
+     "pexels": "hand switching off air conditioner",
+     "pixabay": "air conditioner remote off",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper closing windows and shutters of an empty guest house",
+     "pexels": "closing shutters empty room",
+     "pixabay": "shutters window closing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "outdoor path lights on a farm at night",
+     "pexels": "garden path lights at night",
+     "pixabay": "path lights night garden",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "steam rising from an indoor pool early morning",
+     "pexels": "indoor pool steam morning",
+     "pixabay": "indoor pool steam",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "luxury resort pool with loungers",
+    "corporate office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S06",
-   "script_line": "At Craveiral, there's no such thing as throwing away. There is only routing. Organic scraps route to compost, and compost routes to the farm, and the farm routes to the kitchen \u2014 you're not discarding a carrot top, you'r",
-   "visual_direction": "There is no throwing away, only routing \u2014 scraps to compost, compost to farm",
+   "script_line": "At Craveiral, there's no such thing as throwing away. There is only routing. Organic scraps route to compost, and compost routes to the farm, and the farm routes to the kitchen — you're not discarding a carrot top, you'r",
+   "visual_direction": "There is no throwing away, only routing — scraps to compost, compost to farm",
    "t": 99.46,
    "end": 125.83,
    "quota": {
@@ -1499,12 +1759,49 @@
      "title": "Old worm farm (1 of 7)",
      "query": "compost soil hands"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "carrot tops and peelings dropped into a compost bin in a kitchen",
+     "pexels": "vegetable peelings into compost bin",
+     "pixabay": "compost bin kitchen peelings",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "compost being spread onto farm beds with a wheelbarrow",
+     "pexels": "spreading compost on garden beds",
+     "pixabay": "compost wheelbarrow garden beds",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "chef picking vegetables from the farm and carrying them to the kitchen",
+     "pexels": "chef carrying vegetables from garden",
+     "pixabay": "chef vegetables garden basket",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the circle: garden beside the kitchen door",
+     "pexels": "kitchen garden next to farmhouse",
+     "pixabay": "kitchen garden farmhouse",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "garbage trucks",
+    "landfill",
+    "plastic bags"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S09",
-   "script_line": "When a supplier decision is yours to influence, ask the Belong questions: does this strengthen the territory? Does the value circulate here? The answer isn't always yes \u2014 sometimes there's no local option, and financial ",
-   "visual_direction": "Does the value circulate here? \u2014 the honey producer twenty minutes away",
+   "script_line": "When a supplier decision is yours to influence, ask the Belong questions: does this strengthen the territory? Does the value circulate here? The answer isn't always yes — sometimes there's no local option, and financial ",
+   "visual_direction": "Does the value circulate here? — the honey producer twenty minutes away",
    "t": 186.58,
    "end": 207.68,
    "quota": {
@@ -1667,7 +1964,7 @@
      "id": "belong-m10-S09-V10",
      "type": "video",
      "source": "pexels",
-     "author": "Do\u011fan Alpaslan  Demir",
+     "author": "Doğan Alpaslan  Demir",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/farmers-market-outdoor-vegetable-stand-29556182/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V10.jpg",
@@ -2029,12 +2326,49 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "honey jars on a wooden table at a small producer's stand",
+     "pexels": "honey jars small producer stand",
+     "pixabay": "honey jars producer table",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "chef and local supplier talking at a van door over crates",
+     "pexels": "chef talking to supplier at van",
+     "pixabay": "chef supplier van crates",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "vineyard rows in the Vicentina coast landscape",
+     "pexels": "vineyard rows coastal landscape",
+     "pixabay": "vineyard rows coast",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "manager reading an invoice at a wooden desk, thinking",
+     "pexels": "reading invoice at wooden desk",
+     "pixabay": "invoice desk reading",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate boardroom",
+    "spreadsheets on big screens",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S03",
    "script_line": "The region lives with drought as a neighbour. That's why the property recycles water, why the gardens are planned around what this climate actually gives, why every drop matters operationally. For you this means: report ",
-   "visual_direction": "Drought as a neighbour \u2014 recycling water, gardens planned for this climate",
+   "visual_direction": "Drought as a neighbour — recycling water, gardens planned for this climate",
    "t": 29.93,
    "end": 57.91,
    "quota": {
@@ -2275,7 +2609,7 @@
      "id": "belong-m10-S03-V13",
      "type": "video",
      "source": "pexels",
-     "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+     "author": "FÁBIO REIS DE ABREU (PORTUGA)",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/farmer-watering-lettuce-in-vegetable-garden-34900427/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V13.jpg",
@@ -2425,7 +2759,7 @@
       "portugal",
       "rural"
      ],
-     "title": "Aerial view of a rural landscape near S\u00e3o Bartolomeu de Messines, Portugal, featuring fields and a reservoir.",
+     "title": "Aerial view of a rural landscape near São Bartolomeu de Messines, Portugal, featuring fields and a reservoir.",
      "query": "water reservoir farm countryside"
     },
     {
@@ -2608,12 +2942,49 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "grey-water tank and pipes behind a farmhouse, worker checking a valve",
+     "pexels": "worker checking water tank valve",
+     "pixabay": "water tank valve worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "garden of drought-tolerant plants, lavender and rosemary, gravel paths",
+     "pexels": "mediterranean drought tolerant garden",
+     "pixabay": "lavender rosemary garden gravel",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a leaking pipe joint dripping",
+     "pexels": "leaking pipe dripping close up",
+     "pixabay": "leak pipe dripping",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "gardener watering at the root of a young tree with a can at dawn",
+     "pexels": "gardener watering young tree dawn",
+     "pixabay": "watering can tree garden",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "lush tropical lawns",
+    "sprinklers on lawns",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S04",
-   "script_line": "Kitchen: thawing under running water is forbidden \u2014 plan ahead instead. None of this is glamorous. All of it is the mission, in its work clothes. Energy, same logic.",
-   "visual_direction": "Report every leak the hour you see it \u2014 a dripping tap for a month is a scandal",
+   "script_line": "Kitchen: thawing under running water is forbidden — plan ahead instead. None of this is glamorous. All of it is the mission, in its work clothes. Energy, same logic.",
+   "visual_direction": "Report every leak the hour you see it — a dripping tap for a month is a scandal",
    "t": 58.61,
    "end": 70.7,
    "quota": {
@@ -3111,12 +3482,49 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "maintenance worker tightening a dripping tap in a bathroom",
+     "pexels": "plumber fixing dripping tap",
+     "pixabay": "tap repair plumber hand",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "frozen fish thawing on a tray in a fridge, not under a tap",
+     "pexels": "thawing food on tray in fridge",
+     "pixabay": "fridge tray food thawing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "kitchen worker in an apron planning tomorrow's prep on a board",
+     "pexels": "cook writing prep list kitchen board",
+     "pixabay": "cook kitchen board planning",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "housekeeper reporting something to a manager in a corridor",
+     "pexels": "housekeeper talking to manager corridor",
+     "pixabay": "housekeeping manager talking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "running tap with food under it",
+    "corporate office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S07",
-   "script_line": "And before anything becomes waste at all, ask the better question: why did we over-order, over-produce, over-portion? The cheapest waste to manage is the one that never happens. Kitchen team \u2014 you know this better than a",
-   "visual_direction": "Full use of the vegetable \u2014 preservation and fermentation when the garden overwhelms",
+   "script_line": "And before anything becomes waste at all, ask the better question: why did we over-order, over-produce, over-portion? The cheapest waste to manage is the one that never happens. Kitchen team — you know this better than a",
+   "visual_direction": "Full use of the vegetable — preservation and fermentation when the garden overwhelms",
    "t": 126.53,
    "end": 158.96,
    "quota": {
@@ -3291,12 +3699,49 @@
      "title": "jam  apple jam  apples  harvest  garden  fruits  orchard  nature  fruit basket  homemade jam  preserve",
      "query": "winter preserves shelf"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "jars of preserved vegetables and pickles on a pantry shelf",
+     "pexels": "jars of pickles pantry shelf",
+     "pixabay": "pickles jars pantry",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "cook fermenting vegetables in a crock, hands pressing cabbage",
+     "pexels": "hands fermenting cabbage in jar",
+     "pixabay": "fermentation cabbage jar hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a crate overflowing with tomatoes from the garden",
+     "pexels": "crate full of garden tomatoes",
+     "pixabay": "tomatoes crate harvest",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "cook weighing portions carefully on a kitchen scale",
+     "pexels": "cook weighing portion on scale",
+     "pixabay": "kitchen scale portion cook",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "food waste bins overflowing",
+    "industrial cannery",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S13",
    "script_line": "Specifics, not slogans. The difference between greenwashing and the real thing is that the real thing has numbers and mud on its boots. Why am I this insistent? Because coherence is our whole brand. The moment a guest ca",
-   "visual_direction": "Numbers and mud on its boots \u2014 did the place end my shift better because I was here?",
+   "visual_direction": "Numbers and mud on its boots — did the place end my shift better because I was here?",
    "t": 277.71,
    "end": 352.76,
    "quota": {
@@ -3603,7 +4048,7 @@
      "id": "belong-m10-S13-I06",
      "type": "image",
      "source": "pexels",
-     "author": "Emrehan  \u00c7olak",
+     "author": "Emrehan  Çolak",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/farmer-harvesting-leeks-in-a-sunny-field-36719727/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S13__thumb__belong-m10-S13-I06.jpg",
@@ -3798,9 +4243,46 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "muddy boots at a farmhouse door",
+     "pexels": "muddy boots at door",
+     "pixabay": "muddy boots door farm",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker writing numbers on a clipboard beside a water meter",
+     "pexels": "worker reading meter clipboard",
+     "pixabay": "meter reading clipboard worker",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "staff member looking back over a tidy garden at end of shift, sunset",
+     "pexels": "gardener looking over garden sunset",
+     "pixabay": "gardener garden sunset end",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "hands washing soil off in a stone basin",
+     "pexels": "washing hands stone basin outdoor",
+     "pixabay": "washing hands basin outdoor",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "greenwashing icons",
+    "corporate slogans",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   }
  ],
- "title": "Belong \u2014 Module 10: Daily Sustainability",
+ "title": "Belong — Module 10: Daily Sustainability",
  "project": "belong-module10"
 }

@@ -1,12 +1,12 @@
 {
  "project": "belong-module11",
- "title": "Belong \u2014 Module 11: The Craveiral Voice",
+ "title": "Belong — Module 11: The Craveiral Voice",
  "generated": "2026-08-17",
  "scenes": [
   {
    "id": "S01",
    "script_line": "",
-   "visual_direction": "Words in the air: an easy conversation at a farm table, gestures and laughter, pines swaying behind \u2014 language as landscape. Medium wide, natural.",
+   "visual_direction": "Words in the air: an easy conversation at a farm table, gestures and laughter, pines swaying behind — language as landscape. Medium wide, natural.",
    "clips": [
     {
      "id": "coverr_npys1adgor_people-talking-laughing",
@@ -62,7 +62,7 @@
      "id": "pexels_34594291_candid-conversation-garden",
      "type": "image",
      "source": "pexels",
-     "author": "Th\u00e1i Tr\u01b0\u1eddng Giang",
+     "author": "Thái Trường Giang",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/elderly-couple-relaxing-in-da-nang-park-34594291/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S01__thumb__pexels_34594291_candid-conversation-garden.jpg",
@@ -89,12 +89,42 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S01__preview__pexels_8841608_friends-talking-farm-table-outdo.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "easy conversation at a farm table, gestures and laughter, pines behind",
+     "pexels": "friends talking farm table pines",
+     "pixabay": "conversation table outdoor pines",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two people laughing over coffee at a wooden table outdoors",
+     "pexels": "two people laughing coffee outdoors",
+     "pixabay": "laughing coffee outdoor table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of expressive hands mid-conversation",
+     "pexels": "expressive hands talking close up",
+     "pixabay": "hands gesture conversation",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "corporate meeting",
+    "face masks",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S02",
    "script_line": "",
-   "visual_direction": "The tone embodied: a host leans against a doorway chatting with guests on a terrace, relaxed posture, no script anywhere \u2014 genuine ease. Medium, golden light. [image-beat]",
+   "visual_direction": "The tone embodied: a host leans against a doorway chatting with guests on a terrace, relaxed posture, no script anywhere — genuine ease. Medium, golden light. [image-beat]",
    "clips": [
     {
      "id": "pexels_3760754_host-serving-guests-on-terrace",
@@ -377,18 +407,48 @@
      "added_by": "search-10-more"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "host leaning on a doorway chatting with guests on a terrace, golden light",
+     "pexels": "host leaning doorway talking guests terrace",
+     "pixabay": "host doorway guests terrace",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "relaxed waiter chatting with a couple, no notepad",
+     "pexels": "waiter chatting casually with couple",
+     "pixabay": "waiter couple casual talk",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a farmhouse terrace at golden hour with people at ease",
+     "pexels": "farmhouse terrace golden hour people",
+     "pixabay": "terrace golden hour guests",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "scripts or clipboards",
+    "uniformed corporate staff",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S03",
    "script_line": "",
-   "visual_direction": "The words made physical: a whitewashed house with its door open in welcome, a real working farm behind it \u2014 nouns you can stand inside. Wide, honest. [image-beat]",
+   "visual_direction": "The words made physical: a whitewashed house with its door open in welcome, a real working farm behind it — nouns you can stand inside. Wide, honest. [image-beat]",
    "clips": [
     {
      "id": "pexels_19999735_whitewashed-house-portugal-villa",
      "type": "video",
      "source": "pexels",
-     "author": "Herv\u00e9 Piglowski",
+     "author": "Hervé Piglowski",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/the-building-where-the-apartment-is-located-19999735/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S03__thumb__pexels_19999735_whitewashed-house-portugal-villa.jpg",
@@ -398,7 +458,7 @@
      "id": "pexels_34336883_mediterranean-village-white-hous",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-mediterranean-village-34336883/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S03__thumb__pexels_34336883_mediterranean-village-white-hous.jpg",
@@ -465,7 +525,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S03__preview__pexels_37044509_whitewashed-house-door.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "whitewashed house with its door open, farm behind",
+     "pexels": "whitewashed house open door farm",
+     "pixabay": "white house open door countryside",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "working farm: tractor, rows, a person carrying a crate",
+     "pexels": "working farm person carrying crate",
+     "pixabay": "farm crate worker rows",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand on a wooden door frame in sunlight",
+     "pexels": "hand on wooden door frame sunlight",
+     "pixabay": "hand door wood sunlight",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "luxury villa",
+    "resort pool",
+    "corporate signage"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S04",
@@ -513,7 +603,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S04__preview__pexels_4350091_restaurant-service-conversation.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "waiter setting down a plate and gesturing toward the garden",
+     "pexels": "waiter serving plate gesturing garden",
+     "pixabay": "waiter plate garden gesture",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "guest turning to look out at a vegetable garden from the table",
+     "pexels": "guest looking at garden from table",
+     "pixabay": "guest table garden view",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a plate with vegetables and a hand pointing at it",
+     "pexels": "hand pointing at plate of food",
+     "pixabay": "plate food hand pointing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "fast food",
+    "corporate restaurant",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S05",
@@ -601,7 +721,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S05__preview__pixabay_5055060_barista-joking-with-customer-caf.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff and guest laughing together over a counter",
+     "pexels": "staff and guest laughing over counter",
+     "pixabay": "laughing counter staff guest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "barista and customer sharing a joke in a small cafe",
+     "pexels": "barista customer sharing joke cafe",
+     "pixabay": "barista customer laugh cafe",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two people's smiling faces in candid light",
+     "pexels": "candid smiling faces close up",
+     "pixabay": "candid smile faces",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "posed corporate smiles",
+    "call centre",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S06",
@@ -689,7 +839,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S06__preview__pexels_6181059_tourists-asking-directions-local.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "international couple and a team member talking with hand gestures at reception",
+     "pexels": "tourists talking with receptionist gestures",
+     "pixabay": "tourists receptionist talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "host patiently pointing at a map with foreign guests",
+     "pexels": "host pointing at map with tourists",
+     "pixabay": "map tourists host pointing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands gesturing while explaining",
+     "pexels": "hands gesturing explaining close up",
+     "pixabay": "hands explaining gesture",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "translation apps on screen",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S07",
@@ -797,12 +977,42 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S07__preview__pexels_7221225_guests-toasting-laughing-dinner.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest trying to pronounce a word, host laughing warmly",
+     "pexels": "guest and host laughing conversation",
+     "pixabay": "guest host laughing warm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a red carnation offered from one hand to another",
+     "pexels": "hand offering red carnation",
+     "pixabay": "carnation flower hand offering",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "carnations growing in a garden bed, close",
+     "pexels": "red carnations garden close up",
+     "pixabay": "carnations garden red",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "roses",
+    "flower shop",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S08",
    "script_line": "",
-   "visual_direction": "Written warmth: a hand writing a short note in real ink on good paper, a warm concise email on screen beside a coffee \u2014 craft in few words. Macro detail. [image-beat]",
+   "visual_direction": "Written warmth: a hand writing a short note in real ink on good paper, a warm concise email on screen beside a coffee — craft in few words. Macro detail. [image-beat]",
    "clips": [
     {
      "id": "coverr_5unzwux7ry_notecard-desk-coffee",
@@ -855,12 +1065,42 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S08__preview__pixabay_1840276_fountain-pen-paper.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "hand writing a short note in ink on good paper",
+     "pexels": "hand writing note fountain pen paper",
+     "pixabay": "handwriting pen paper note",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "laptop with a short email beside a coffee on a wooden table",
+     "pexels": "laptop email coffee wooden table",
+     "pixabay": "laptop coffee table email",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "envelope and note left on a guest bed",
+     "pexels": "note envelope on bed",
+     "pixabay": "envelope note bed",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate office",
+    "keyboard macro shots without context",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S09",
    "script_line": "",
-   "visual_direction": "Backstage grace: a busy kitchen moving fast but calm \u2014 quiet coordination, a nod instead of a shout, respect at full speed. Medium, kinetic but composed.",
+   "visual_direction": "Backstage grace: a busy kitchen moving fast but calm — quiet coordination, a nod instead of a shout, respect at full speed. Medium, kinetic but composed.",
    "clips": [
     {
      "id": "pexels_19905887_chef-plating-dish-service-pass",
@@ -936,7 +1176,7 @@
      "id": "pexels_12203611_restaurant-kitchen-team-working",
      "type": "image",
      "source": "pexels",
-     "author": "Ali  Alc\u00e1ntara",
+     "author": "Ali  Alcántara",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/workers-in-restaurant-12203611/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S09__thumb__pexels_12203611_restaurant-kitchen-team-working.jpg",
@@ -1153,7 +1393,37 @@
      "added_by": "search-10-more"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "busy kitchen moving fast but calm, chefs passing plates",
+     "pexels": "busy kitchen chefs passing plates calm",
+     "pixabay": "kitchen chefs service plates",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a nod between two cooks across the pass",
+     "pexels": "two cooks nod across kitchen pass",
+     "pixabay": "cooks kitchen pass teamwork",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands plating quickly and precisely",
+     "pexels": "hands plating dish precisely",
+     "pixabay": "plating hands chef close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "shouting chef",
+    "chaos",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   },
   {
    "id": "S10",
@@ -1241,7 +1511,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S10__preview__pexels_6153895_storytelling-dinner-table-candle.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "someone telling a story at a candlelit dinner, table leaning in",
+     "pexels": "storytelling candlelit dinner table",
+     "pixabay": "dinner candlelight friends story",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "hands mid-gesture over a dinner table at night",
+     "pexels": "hands gesturing dinner table night",
+     "pixabay": "hands gesture dinner night",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guests laughing around an outdoor table under lights",
+     "pexels": "guests laughing outdoor table lights",
+     "pixabay": "friends laughing outdoor dinner lights",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "nightclub",
+    "corporate gala",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:14Z"
   }
  ]
 }

@@ -862,7 +862,46 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "receptionist listening calmly to an upset guest across a wooden desk",
+     "pexels": "receptionist listening to upset guest",
+     "pixabay": "hotel reception guest talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "waiter at a table nodding while a guest explains a problem with a dish",
+     "pexels": "waiter listening to guest at table",
+     "pixabay": "waiter guest table talking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand writing a guest comment into a notebook at reception",
+     "pexels": "hand writing note in logbook",
+     "pixabay": "hand writing notebook pen",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "guest and host shaking hands in a sunlit courtyard after a conversation",
+     "pexels": "host and guest handshake courtyard",
+     "pixabay": "handshake guest host outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "gift boxes",
+    "christmas",
+    "dice or game imagery",
+    "angry shouting",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S12",
@@ -1581,7 +1620,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host reading a review on a tablet at a wooden table, serious face",
+     "pexels": "reading review on tablet serious",
+     "pixabay": "tablet reading table serious",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands typing a careful reply on a laptop",
+     "pexels": "hands typing reply on laptop",
+     "pixabay": "hands typing laptop close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "team member showing a phone screen to a colleague in a kitchen",
+     "pexels": "showing phone to colleague kitchen",
+     "pixabay": "phone colleague kitchen showing",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a farmhouse at dawn, calm before the day",
+     "pexels": "farmhouse at dawn calm",
+     "pixabay": "farmhouse dawn countryside",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "social media icons",
+    "corporate office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S09",
@@ -2154,7 +2230,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host asking a guest a question at breakfast the next morning",
+     "pexels": "host talking to guest at breakfast",
+     "pixabay": "breakfast host guest morning",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "guests laughing together telling a story at a long outdoor table",
+     "pexels": "friends telling story at outdoor dinner",
+     "pixabay": "friends dinner outdoor laughing",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a guest typing a review on a laptop at a wooden table",
+     "pexels": "typing review on laptop wooden table",
+     "pixabay": "laptop typing wooden table",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "guest hugging a host goodbye at a farmhouse gate",
+     "pexels": "guest hugging host goodbye",
+     "pixabay": "hug goodbye farewell guest",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate office",
+    "face masks",
+    "resort pool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S01",
@@ -2395,7 +2508,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest at a small hotel front desk pointing at a paper, receptionist listening",
+     "pexels": "guest complaining at hotel reception desk",
+     "pixabay": "hotel reception guest complaint",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "waiter carrying a plate back from a table into a rustic kitchen",
+     "pexels": "waiter carrying plate back to kitchen",
+     "pixabay": "waiter plate restaurant kitchen",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "tired traveller with luggage arriving at a guesthouse door in the evening",
+     "pexels": "tired traveler arriving with luggage",
+     "pixabay": "traveler luggage arrival evening",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands scrolling a phone reading a review",
+     "pexels": "hands reading review on phone",
+     "pixabay": "hand phone reading review",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "smiling posed staff",
+    "resort pool",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S07",
@@ -3112,7 +3263,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "receptionist calmly picking up the desk phone to fix a problem",
+     "pexels": "receptionist on phone solving problem",
+     "pixabay": "hotel reception phone call",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper carrying fresh towels quickly along a corridor",
+     "pexels": "housekeeper carrying fresh towels corridor",
+     "pixabay": "housekeeping towels hotel corridor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "waiter bringing a complimentary glass of wine to a table",
+     "pexels": "waiter bringing glass of wine to table",
+     "pixabay": "waiter wine glass table",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand placing a room key on the desk",
+     "pexels": "hand placing room key on desk",
+     "pixabay": "room key hand desk",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "arguing",
+    "hands raised in defence",
+    "face masks",
+    "corporate lobby"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S10",
@@ -3654,7 +3843,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand writing an entry in a paper logbook at reception",
+     "pexels": "hand writing in reception logbook",
+     "pixabay": "handwriting logbook pen desk",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "small team meeting in a kitchen reading notes on a clipboard together",
+     "pexels": "kitchen team reading clipboard",
+     "pixabay": "kitchen staff clipboard meeting",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "maintenance worker fixing a dripping tap in a guest bathroom",
+     "pexels": "plumber fixing tap bathroom",
+     "pixabay": "repair tap bathroom hand",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "manager pinning notes on a board in a back office of a guesthouse",
+     "pexels": "pinning notes on cork board",
+     "pixabay": "notes cork board pin",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "blame gestures",
+    "pointing fingers",
+    "corporate boardroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S02",
@@ -4433,7 +4660,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hotel staff in a small reception handling a busy morning, guests waiting",
+     "pexels": "busy small hotel reception morning",
+     "pixabay": "hotel reception staff guests",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "waitress taking a deep breath before entering a dining room",
+     "pexels": "waitress breathing before service",
+     "pixabay": "waitress restaurant door",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "host calmly talking with a couple at a farmhouse table",
+     "pexels": "host talking with guests at table",
+     "pixabay": "host guests table conversation",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands folding a napkin at a set table",
+     "pexels": "hands folding napkin table setting",
+     "pixabay": "hands napkin table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "corporate hotel lobby",
+    "call centre",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S04",
@@ -4986,7 +5250,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest sitting alone at breakfast looking at a cold plate, saying nothing",
+     "pexels": "guest alone at breakfast table unhappy",
+     "pixabay": "guest breakfast table alone",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "guest quietly packing a suitcase in a hotel room",
+     "pexels": "guest packing suitcase hotel room",
+     "pixabay": "suitcase packing hotel room",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "receptionist listening with hands still, not interrupting, guest talking",
+     "pexels": "receptionist listening attentively guest",
+     "pixabay": "hotel staff listening guest",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hotel bell on an empty reception desk",
+     "pexels": "empty hotel reception bell",
+     "pixabay": "reception bell desk",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S05",
@@ -5339,7 +5640,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a host's face listening, nodding, eye contact with a guest",
+     "pexels": "person listening attentively nodding",
+     "pixabay": "listening nodding face conversation",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "two people talking at a farmhouse porch, one leaning in to listen",
+     "pexels": "two people talking on porch listening",
+     "pixabay": "conversation porch listening",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "waiter crouching beside a table to be at eye level with a seated guest",
+     "pexels": "waiter crouching beside table guest",
+     "pixabay": "waiter kneeling table guest",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a quiet garden terrace where a guest and staff member sit talking",
+     "pexels": "guest and staff talking garden terrace",
+     "pixabay": "terrace conversation garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "headsets",
+    "office desks",
+    "phones held up",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S06",
@@ -5785,7 +6124,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "receptionist with an open, sincere expression speaking softly to a guest",
+     "pexels": "receptionist apologizing to guest",
+     "pixabay": "hotel staff apology guest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "waiter placing a hand on his chest while speaking to a seated couple",
+     "pexels": "waiter sincere apology at table",
+     "pixabay": "waiter talking couple table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two hands, one resting on the other in reassurance",
+     "pexels": "hand on hand reassurance close up",
+     "pixabay": "hands reassurance comfort",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "guest's shoulders relaxing, a small smile, in a warm rustic room",
+     "pexels": "guest relieved smiling rustic room",
+     "pixabay": "woman relieved smile indoor",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "legal documents",
+    "courtroom",
+    "face masks",
+    "corporate lobby"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S11",
@@ -6138,7 +6515,45 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "rain falling on a farmhouse terrace, empty chairs",
+     "pexels": "rain on terrace empty chairs",
+     "pixabay": "rain terrace chairs",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "receptionist standing straight, calm, while a guest gestures angrily",
+     "pexels": "receptionist calm with angry guest",
+     "pixabay": "angry customer reception staff calm",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "manager stepping in beside a colleague at the desk",
+     "pexels": "manager supporting colleague at reception",
+     "pixabay": "manager colleague reception support",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a calm face, steady eyes, listening",
+     "pexels": "calm face listening close up",
+     "pixabay": "calm face portrait listening",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "violence",
+    "shouting into camera",
+    "face masks",
+    "corporate lobby"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S08",
@@ -6640,7 +7055,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "waiter placing a fresh plate and a glass of wine in front of a guest",
+     "pexels": "waiter serving plate and wine to guest",
+     "pixabay": "waiter serving plate wine",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper laying a small gift and a handwritten note on a bed",
+     "pexels": "handwritten note on hotel bed",
+     "pixabay": "hotel bed note welcome",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guest smiling in surprise as a host brings dessert to the table",
+     "pexels": "guest surprised by dessert at table",
+     "pixabay": "dessert table guest smile",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a farmhouse dining room in warm evening light",
+     "pexels": "rustic dining room evening light",
+     "pixabay": "rustic restaurant interior evening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shrugging staff",
+    "fast food",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   },
   {
    "id": "S13",
@@ -7679,7 +8131,44 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a family arriving at a farmhouse gate greeted by a host who knows them",
+     "pexels": "family greeted by host at farmhouse",
+     "pixabay": "family arrival farmhouse greeting",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "children running across a farm courtyard, parents watching",
+     "pexels": "children running farm courtyard",
+     "pixabay": "children running farm family",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "host and returning guest embracing, laughing",
+     "pexels": "host hugging returning guest",
+     "pixabay": "hug reunion friends outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a guestbook page with handwritten thanks",
+     "pexels": "handwritten guestbook thank you",
+     "pixabay": "guestbook handwriting thanks",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "corporate lobby",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:25:20Z"
   }
  ],
  "title": "Belong — Module 9: Service Recovery",

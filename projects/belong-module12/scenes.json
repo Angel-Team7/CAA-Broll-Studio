@@ -1,12 +1,12 @@
 {
  "project": "belong-module12",
- "title": "Belong \u2014 Module 12: Leadership & Team",
+ "title": "Belong — Module 12: Leadership & Team",
  "generated": "2026-08-17",
  "scenes": [
   {
    "id": "S01",
    "script_line": "",
-   "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light \u2014 leadership as dialogue. Tight two-shot. [image-beat]",
+   "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light — leadership as dialogue. Tight two-shot. [image-beat]",
    "clips": [
     {
      "id": "pexels_5971448_mentor-listening-younger-colleag",
@@ -119,7 +119,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_7490773_mentor-coffee-meeting.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two people in honest conversation across a wooden table, coffee, morning light",
+     "pexels": "two people talking wooden table coffee morning",
+     "pixabay": "conversation table coffee morning",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a listening face, morning light",
+     "pexels": "listening face morning light close up",
+     "pixabay": "listening face portrait light",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet farmhouse room with two chairs and a table",
+     "pexels": "quiet rustic room two chairs table",
+     "pixabay": "rustic room chairs table",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate office",
+    "glass meeting room",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S02",
@@ -180,7 +210,7 @@
      "id": "pexels_20750159_older-man-walking-rural-road-sun",
      "type": "video",
      "source": "pexels",
-     "author": "Tacettin Veli \u00c7etin",
+     "author": "Tacettin Veli Çetin",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/a-man-is-standing-in-a-field-at-sunset-20750159/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_20750159_older-man-walking-rural-road-sun.jpg",
@@ -230,7 +260,7 @@
      "id": "pexels_8659307_farmer-inspecting-crops-walking",
      "type": "video",
      "source": "pexels",
-     "author": "FRANK MERI\u00d1O",
+     "author": "FRANK MERIÑO",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/a-man-checking-the-corn-plant-8659307/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_8659307_farmer-inspecting-crops-walking.jpg",
@@ -270,25 +300,55 @@
      "id": "pexels_29472840_landowner-golden-hour",
      "type": "image",
      "source": "pexels",
-     "author": "Micha\u0142 Robak",
+     "author": "Michał Robak",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/scenic-landscape-with-wind-turbines-at-sunset-29472840/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__thumb__pexels_29472840_landowner-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S02__preview__pexels_29472840_landowner-golden-hour.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "man walking his farmland alone at golden hour",
+     "pexels": "man walking farmland alone golden hour",
+     "pixabay": "farmer walking field sunset",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "weathered hands resting on a wooden fence",
+     "pexels": "weathered hands on wooden fence",
+     "pixabay": "hands fence wood weathered",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "thoughtful man looking over fields from a hill",
+     "pexels": "thoughtful man looking over fields",
+     "pixabay": "man hill fields thoughtful",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "suit",
+    "city skyline",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S03",
    "script_line": "",
-   "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot \u2014 no phone call upward, no hesitation, just judgment. Medium, decisive energy.",
+   "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot — no phone call upward, no hesitation, just judgment. Medium, decisive energy.",
    "clips": [
     {
      "id": "pexels_31099748_gardener-working-alone-pruning",
      "type": "video",
      "source": "pexels",
-     "author": "Burak Bahad\u0131r  B\u00fcy\u00fckk\u0131l\u0131n\u00e7",
+     "author": "Burak Bahadır  Büyükkılınç",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/man-pruning-tree-branches-with-power-tool-outdoors-31099748/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_31099748_gardener-working-alone-pruning.jpg",
@@ -476,7 +536,7 @@
      "id": "belong-module12-S03-V08",
      "type": "video",
      "source": "pexels",
-     "author": "S\u00c0I G\u00d2N C\u00d4NG TY CP S\u1ea2N XU\u1ea4T - TH\u01af\u01a0NG M\u1ea0I",
+     "author": "SÀI GÒN CÔNG TY CP SẢN XUẤT - THƯƠNG MẠI",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/nighttime-construction-site-with-concrete-mixer-35379333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V08.jpg",
@@ -581,7 +641,37 @@
      "added_by": "search-10-more"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "waiter noticing a problem and acting at once, moving a table",
+     "pexels": "waiter moving table quickly",
+     "pixabay": "waiter table action restaurant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "receptionist deciding on the spot, handing a guest a key",
+     "pexels": "receptionist handing key decisively",
+     "pixabay": "receptionist key guest",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "gardener picking up a fallen branch off a path without being asked",
+     "pexels": "gardener clearing branch from path",
+     "pixabay": "gardener path branch clearing",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "phone call to boss",
+    "hesitant staff",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S04",
@@ -659,12 +749,42 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S04__preview__pexels_16125870_server-wine-bottle-table.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "server carrying a bottle of wine and dessert to a table unasked",
+     "pexels": "server bringing wine and dessert to table",
+     "pixabay": "waiter wine dessert table",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "guests surprised and delighted at the table",
+     "pexels": "guests surprised delighted at table",
+     "pixabay": "guests surprise table smile",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of wine poured into a glass at a rustic table",
+     "pexels": "wine poured into glass rustic table",
+     "pixabay": "wine pouring glass table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "luxury hotel bar",
+    "corporate event",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S05",
    "script_line": "",
-   "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered \u2014 zero drama, problem shrinking as it's spoken. Medium two-shot.",
+   "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered — zero drama, problem shrinking as it's spoken. Medium two-shot.",
    "clips": [
     {
      "id": "pexels_5971599_two-coworkers-honest-conversatio",
@@ -727,12 +847,42 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S05__preview__pexels_5324913_reassuring-manager-listening.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "young team member raising an issue with a calm senior colleague in a kitchen",
+     "pexels": "young cook talking to head chef calmly",
+     "pixabay": "young cook chef talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "manager listening calmly, arms relaxed, in a garden",
+     "pexels": "manager listening calmly garden",
+     "pixabay": "listening calm outdoor manager",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a nod of acknowledgement",
+     "pexels": "nodding acknowledgement close up",
+     "pixabay": "nod face acknowledgement",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "shouting",
+    "corporate boardroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S06",
    "script_line": "",
-   "visual_direction": "Craft pride: extreme detail of meticulous work \u2014 a knife sharpened, a hem pressed, a hinge oiled, a table set exactly \u2014 excellence as respect made visible. Macro series. [image-beat]",
+   "visual_direction": "Craft pride: extreme detail of meticulous work — a knife sharpened, a hem pressed, a hinge oiled, a table set exactly — excellence as respect made visible. Macro series. [image-beat]",
    "clips": [
     {
      "id": "pexels_18366463_carpenter-sanding-wood-detail",
@@ -758,7 +908,7 @@
      "id": "pexels_4510946_knife-sharpening-close-up",
      "type": "video",
      "source": "pexels",
-     "author": "\u0418\u043b\u044c\u044f \u0418\u0441\u0430\u0435\u0432",
+     "author": "Илья Исаев",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/person-sharpening-his-knife-4510946/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_4510946_knife-sharpening-close-up.jpg",
@@ -865,12 +1015,49 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_33753659_craftsman-hands-detail.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "knife being sharpened on a stone, close",
+     "pexels": "sharpening knife on whetstone close up",
+     "pixabay": "knife sharpening whetstone",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "hands pressing a linen hem with an iron",
+     "pexels": "ironing linen close up hands",
+     "pixabay": "ironing linen hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "hand oiling a door hinge",
+     "pexels": "oiling door hinge close up",
+     "pixabay": "door hinge oil hand",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "table set exactly, cutlery aligned, wide",
+     "pexels": "perfectly set table cutlery aligned",
+     "pixabay": "table setting cutlery aligned",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "factory",
+    "industrial machines",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S07",
    "script_line": "",
-   "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one \u2014 in the kitchen, the garden, at the desk \u2014 knowledge passing between generations. Medium warm. [image-beat]",
+   "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one — in the kitchen, the garden, at the desk — knowledge passing between generations. Medium warm. [image-beat]",
    "clips": [
     {
      "id": "pexels_10413022_experienced-farmer-teaching-youn",
@@ -943,7 +1130,44 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__preview__pexels_8527773_mentor-teaching-apprentice.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced cook guiding a young cook's hands at the stove",
+     "pexels": "chef teaching apprentice at stove",
+     "pixabay": "chef apprentice teaching kitchen",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "older gardener showing a young worker how to prune",
+     "pexels": "gardener teaching young worker pruning",
+     "pixabay": "gardener teaching pruning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "senior receptionist showing a colleague the booking book",
+     "pexels": "receptionist training colleague desk",
+     "pixabay": "receptionist training colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of two pairs of hands, one guiding the other",
+     "pexels": "hands guiding hands close up",
+     "pixabay": "hands teaching guiding close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "classroom",
+    "corporate training room",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S08",
@@ -1051,18 +1275,48 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S08__preview__pixabay_2009590_family-meal-restaurant-staff.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff sharing a relaxed meal outdoors after service, golden evening",
+     "pexels": "restaurant staff meal together outdoors evening",
+     "pixabay": "staff meal outdoor evening",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "plates passed hand to hand along a long table",
+     "pexels": "plates passed along long table",
+     "pixabay": "plates passing table friends",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of laughing faces at a table at dusk",
+     "pexels": "laughing faces table dusk close",
+     "pixabay": "laughing faces dusk table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "corporate party",
+    "nightclub",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S09",
    "script_line": "",
-   "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate \u2014 houses in the trees, farm rows, walkways \u2014 everything the dream became. Grand wide.",
+   "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate — houses in the trees, farm rows, walkways — everything the dream became. Grand wide.",
    "clips": [
     {
      "id": "pexels_27308490_drone-rural-hotel-property",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/drone-flight-over-roger-thorpe-manor-27308490/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_27308490_drone-rural-hotel-property.jpg",
@@ -1082,7 +1336,7 @@
      "id": "pexels_29487912_aerial-countryside-villa-golden",
      "type": "video",
      "source": "pexels",
-     "author": "S\u00e9rgio Souza",
+     "author": "Sérgio Souza",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/peaceful-hillside-chateau-at-sunset-29487912/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__thumb__pexels_29487912_aerial-countryside-villa-golden.jpg",
@@ -1139,7 +1393,37 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_7279569_estate-aerial-golden-hour.jpg"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "golden-hour aerial across an estate, houses among trees, farm rows, walkways",
+     "pexels": "aerial farm estate houses trees golden hour",
+     "pixabay": "aerial farm estate golden hour",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "drone rising over vegetable rows toward a farmhouse",
+     "pexels": "drone rising over vegetable rows farmhouse",
+     "pixabay": "drone vegetable rows farmhouse",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "farmhouse and its trees seen from a hillside path at golden hour",
+     "pexels": "farmhouse among trees from hill golden hour",
+     "pixabay": "farmhouse hill trees sunset",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "resort pool",
+    "city",
+    "construction"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   },
   {
    "id": "S10",
@@ -1561,7 +1845,44 @@
      "added_by": "search-10-more"
     }
    ],
-   "timing_source": "unrecorded"
+   "timing_source": "unrecorded",
+   "shots": [
+    {
+     "id": "A",
+     "text": "team gathered outdoors for a morning briefing in first light",
+     "pexels": "team morning briefing outdoors first light",
+     "pixabay": "team briefing outdoor morning",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "nods and smiles in a small circle of staff",
+     "pexels": "staff circle nodding smiling",
+     "pixabay": "team circle smiling outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "team walking off to work in different directions across a farm",
+     "pexels": "team walking off to work farm",
+     "pixabay": "team walking farm work",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand patting a colleague's shoulder",
+     "pexels": "hand on colleague shoulder close up",
+     "pixabay": "hand shoulder colleague support",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "corporate huddle in office",
+    "hi-vis crews",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:27:29Z"
   }
  ]
 }

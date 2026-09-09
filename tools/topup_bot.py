@@ -62,6 +62,7 @@ def library_picks(scene, note, brand, seen, want):
     want_f = scene_facets(scene, note)
     scored = []
     for a in assets:
+        if a.get("dead"): continue
         if a.get("type") != "video":
             continue
         if a["key"] in seen or (a.get("page_url") or "").rstrip("/") in seen:

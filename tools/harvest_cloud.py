@@ -50,6 +50,7 @@ def owned_for(theme, lib):
     want = classify({"title": theme["direction"], "query": " ".join(theme["queries"])}, theme["brand"])
     n = 0
     for a in lib:
+        if a.get("dead"): continue
         if a.get("type") != "video": continue
         if set(a.get("actions", [])) & set(want["actions"]) and set(a.get("subjects", [])) & set(want["subjects"]):
             n += 1
