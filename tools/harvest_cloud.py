@@ -97,8 +97,8 @@ def main():
                         if master.stat().st_size < 100_000: continue
                         pv, th = master.with_name(f"{stem}.pv.mp4"), master.with_name(f"{stem}.jpg")
                         if not tb.make_preview(master, pv, th): continue
-                        pv_url = rm.upload(rel_id, rm.asset_name("LIB", "preview", pv), pv)
-                        th_url = rm.upload(rel_id, rm.asset_name("LIB", "thumb", th), th)
+                        pv_url = rm.upload_for_slug(LIB_SLUG, rm.asset_name("LIB", "preview", pv), pv)
+                        th_url = rm.upload_for_slug(LIB_SLUG, rm.asset_name("LIB", "thumb", th), th)
                         if not (pv_url and th_url): continue
                         row = {"key": key, "source": c["source"], "src_id": c["src_id"],
                                "page_url": c.get("page_url", ""), "type": "video",

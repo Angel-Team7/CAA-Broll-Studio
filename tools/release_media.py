@@ -27,17 +27,54 @@ def token():
 def _h():
     return {"Authorization": f"Bearer {token()}", "Accept": "application/vnd.github+json"}
 
-def ensure_release(slug):
-    tag = f"media-{slug}"
+SHARD_AT = 990          # GitHub refuses the 1,001st asset on a release (422 file_count)
+_shard_cache = {}
+
+
+class ReleaseFull(Exception):
+    pass
+
+
+def _release_by_tag(tag):
     r = requests.get(f"{API}/repos/{REPO}/releases/tags/{tag}", headers=_h(), timeout=60)
-    if r.status_code == 200:
-        return tag, r.json()["id"]
+    return r.json() if r.status_code == 200 else None
+
+
+def _create_release(tag, slug):
     r = requests.post(f"{API}/repos/{REPO}/releases", headers=_h(), timeout=60, json={
-        "tag_name": tag, "name": f"Media — {slug}",
-        "body": f"480p previews and thumbnails for the {slug} cockpit card. "
-                "Kept out of git so Pages deploys stay small."})
+        "tag_name": tag, "name": f"Media — {slug}" + ("" if tag == f"media-{slug}" else f" ({tag.rsplit('-', 1)[-1]})"),
+        "body": f"480p previews, thumbnails and judge strips for the {slug} cockpit card. "
+                "Kept out of git so Pages deploys stay small. Releases are sharded at 1,000 assets."})
     r.raise_for_status()
-    return tag, r.json()["id"]
+    return r.json()
+
+
+def ensure_release(slug, fresh=False):
+    """The first release for this slug that still has room. GitHub caps a release at
+    1,000 assets, so media-<slug>, media-<slug>-2, media-<slug>-3 … are one store."""
+    if not fresh and slug in _shard_cache:
+        return _shard_cache[slug]
+    n = 1
+    while True:
+        tag = f"media-{slug}" if n == 1 else f"media-{slug}-{n}"
+        rel = _release_by_tag(tag)
+        if rel is None:
+            rel = _create_release(tag, slug)
+        if len(rel.get("assets") or []) < SHARD_AT:
+            _shard_cache[slug] = (tag, rel["id"])
+            return _shard_cache[slug]
+        n += 1
+
+
+def upload_for_slug(slug, name, path):
+    """Upload into whichever shard has room; roll to the next shard when one fills mid-run."""
+    for attempt in range(2):
+        tag, rel_id = ensure_release(slug, fresh=(attempt > 0))
+        try:
+            return upload(rel_id, name, path)
+        except ReleaseFull:
+            _shard_cache.pop(slug, None)
+    return None
 
 def existing(rel_id):
     names, page = set(), 1
@@ -85,6 +122,8 @@ def upload(rel_id, name, path, tries=6):
         if r.status_code == 201:
             time.sleep(0.8)                   # be a polite serial uploader
             return r.json()["browser_download_url"]
+        if r.status_code == 422 and "file_count" in r.text:
+            raise ReleaseFull(name)
         if r.status_code == 422:               # already there — look it up
             urls = asset_urls(rel_id)
             import re

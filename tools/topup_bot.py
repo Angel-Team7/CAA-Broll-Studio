@@ -564,9 +564,8 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
             if not make_preview(master, pv, th):
                 pv.unlink(missing_ok=True)
                 continue
-            tag, rel_id = release_media.ensure_release(slug)
-            pv_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "preview", pv), pv)
-            th_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "thumb", th), th)
+            pv_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "preview", pv), pv)
+            th_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "thumb", th), th)
             if not (pv_url and th_url):
                 print(f"    release upload failed for {stem} — skipped")
                 continue

@@ -149,7 +149,6 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     print(f"  shortlisted {len(picks)}: " + ", ".join(f"{k}={v}" for k, v in per_src.items()))
 
     # ---- stage: preview + thumb + strip, uploaded; on the card unjudged ------------
-    tag, rel_id = release_media.ensure_release(slug)
     idx = tb.next_index(scene, "V")
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
@@ -173,9 +172,9 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
                 continue
             if not make_strip(pv, st):
                 print(f"    strip failed for {stem}"); continue
-            pv_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "preview", pv), pv)
-            th_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "thumb", th), th)
-            st_url = release_media.upload(rel_id, release_media.asset_name(scene_id, "strip", st), st)
+            pv_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "preview", pv), pv)
+            th_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "thumb", th), th)
+            st_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "strip", st), st)
             if not (pv_url and th_url and st_url):
                 print(f"    upload failed for {stem}"); continue
             scene.setdefault("clips", []).append({
