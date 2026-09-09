@@ -1774,5 +1774,59 @@
   "reason": "AI-generated synthetic content",
   "at": "2026-09-09T18:16:32Z",
   "from": "belong-module9/S05"
+ },
+ "pexels:https://www.pexels.com/video/excavator-on-construction-in-city-11649490/": {
+  "brand": "edenrise",
+  "reason": "ruins/abandoned framing (disaster-site aerial, not a workshop)",
+  "at": "2026-09-09T18:21:42Z",
+  "from": "attention-to-detail-v2/S01"
+ },
+ "pexels:https://www.pexels.com/video/aerial-view-of-construction-debris-disposal-site-35271499/": {
+  "brand": "edenrise",
+  "reason": "ruins/abandoned framing (disaster-site aerial, not a workshop)",
+  "at": "2026-09-09T18:21:42Z",
+  "from": "attention-to-detail-v2/S01"
+ },
+ "coverr:https://coverr.co/videos/mobile-home-in-construction-qpcdls9heb": {
+  "brand": "edenrise",
+  "reason": "factory/industrial interior, not a workshop",
+  "at": "2026-09-09T18:22:05Z",
+  "from": "attention-to-detail-v2/S02"
+ },
+ "pexels:https://www.pexels.com/video/video-of-a-black-moving-car-8345152/": {
+  "brand": "edenrise",
+  "reason": "luxury car outside an office building",
+  "at": "2026-09-09T18:23:11Z",
+  "from": "attention-to-detail-v2/S04"
+ },
+ "coverr:https://coverr.co/videos/set-of-bits-in-a-toolbox-lz6bwkbnye": {
+  "brand": "edenrise",
+  "reason": "dark, moody industrial-workshop framing",
+  "at": "2026-09-09T18:24:19Z",
+  "from": "attention-to-detail-v2/S06"
+ },
+ "coverr:https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t": {
+  "brand": "edenrise",
+  "reason": "suit worn by worker; upscale boutique retail setting",
+  "at": "2026-09-09T18:24:47Z",
+  "from": "attention-to-detail-v2/S07"
+ },
+ "pexels:https://www.pexels.com/video/excavator-picking-up-building-debris-12588031/": {
+  "brand": "edenrise",
+  "reason": "demolition/ruins framing, not end-of-job tidying",
+  "at": "2026-09-09T18:24:47Z",
+  "from": "attention-to-detail-v2/S07"
+ },
+ "pexels:https://www.pexels.com/video/reviewing-of-paperworks-9464475/": {
+  "brand": "edenrise",
+  "reason": "office attire, corporate indoor setting",
+  "at": "2026-09-09T18:25:40Z",
+  "from": "attention-to-detail-v2/S09"
+ },
+ "pexels:https://www.pexels.com/video/man-doing-woodworks-4957773/": {
+  "brand": "edenrise",
+  "reason": "factory-scale panel-saw workshop with racked paneling",
+  "at": "2026-09-09T18:26:36Z",
+  "from": "attention-to-detail-v2/S11"
  }
 }

@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__thumb__pexels_11649490_cluttered-construction-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__preview__pexels_11649490_cluttered-construction-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__strip__pexels_11649490_cluttered-construction-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "an excavator clears debris from a snow-covered demolished building",
+     "violation": "ruins/abandoned framing (disaster-site aerial, not a workshop)",
+     "shot": "A",
+     "shoot": "pexels-aerial-demolition-site",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:21:42Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_34740035_untidy-workbench",
@@ -30,7 +40,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__thumb__pexels_34740035_untidy-workbench.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__preview__pexels_34740035_untidy-workbench.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__strip__pexels_34740035_untidy-workbench.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a craftsman works at a cluttered leather workshop table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-leather-workshop",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:21:42Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_35271499_rubbish-building-site",
@@ -42,7 +62,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__thumb__pexels_35271499_rubbish-building-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__preview__pexels_35271499_rubbish-building-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__strip__pexels_35271499_rubbish-building-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "aerial view of scattered debris across a demolished building site",
+     "violation": "ruins/abandoned framing (disaster-site aerial, not a workshop)",
+     "shot": "A",
+     "shoot": "pexels-aerial-rubble-site",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:21:42Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_5223090_messy-workshop",
@@ -54,7 +84,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__thumb__pexels_5223090_messy-workshop.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__preview__pexels_5223090_messy-workshop.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S01__strip__pexels_5223090_messy-workshop.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hand tools and a boat propeller hang from rustic workshop rafters",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-rustic-workshop-tools",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:21:42Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7520877_untidy-workbench",
@@ -135,7 +175,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:21:42Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:21:42Z"
   },
   {
    "id": "S02",
@@ -152,7 +198,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__thumb__coverr_qpcdls9heb_tidy-construction-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__preview__coverr_qpcdls9heb_tidy-construction-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__strip__coverr_qpcdls9heb_tidy-construction-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "an empty corrugated-metal industrial building shell with no one in it",
+     "violation": "factory/industrial interior, not a workshop",
+     "shot": "",
+     "shoot": "coverr-industrial-prefab",
+     "score": 1.65,
+     "judged_at": "2026-09-09T18:22:05Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_7482684_organized-tool-wall",
@@ -164,7 +220,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__thumb__pexels_7482684_organized-tool-wall.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__preview__pexels_7482684_organized-tool-wall.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__strip__pexels_7482684_organized-tool-wall.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a worker reaches for a tool on a neatly organised pegboard wall",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-tool-wall-worker",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:22:05Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7484780_pegboard-tools",
@@ -176,7 +242,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__thumb__pexels_7484780_pegboard-tools.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__preview__pexels_7484780_pegboard-tools.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__strip__pexels_7484780_pegboard-tools.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hammers and tools hang neatly in a row on a pegboard",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-pegboard-tools",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:22:05Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8987203_swept-workshop-floor",
@@ -188,7 +264,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__thumb__pexels_8987203_swept-workshop-floor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__preview__pexels_8987203_swept-workshop-floor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S02__strip__pexels_8987203_swept-workshop-floor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "legs and feet flip a tire across a tiled gym floor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tire-flip-gym",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:22:05Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "openverse_2a23a2f1-5d01-4788-b4be-b229_neat-workbench",
@@ -259,7 +345,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:22:05Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:22:05Z"
   },
   {
    "id": "S03",
@@ -276,7 +368,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__coverr_jucjtlatfm_hand-tools-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__coverr_jucjtlatfm_hand-tools-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__coverr_jucjtlatfm_hand-tools-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "hands guide a pneumatic nailer to assemble a wooden crate",
+     "violation": "",
+     "shot": "A",
+     "shoot": "coverr-crate-assembly-hands",
+     "score": 7.35,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "coverr_zlcm3xk92m_carpenter-hands",
@@ -288,7 +390,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__coverr_zlcm3xk92m_carpenter-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__coverr_zlcm3xk92m_carpenter-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__coverr_zlcm3xk92m_carpenter-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man feeds a plank through a miter saw on a patio",
+     "violation": "",
+     "shot": "C",
+     "shoot": "coverr-miter-saw-outdoor",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_5967525_measuring-timber",
@@ -300,7 +412,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__pexels_5967525_measuring-timber.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__pexels_5967525_measuring-timber.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__pexels_5967525_measuring-timber.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "hands mark a measurement on a wooden plank with a tape measure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-tape-measure-timber",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5972632_carpenter-hands",
@@ -312,7 +434,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__pexels_5972632_carpenter-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__pexels_5972632_carpenter-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__pexels_5972632_carpenter-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands adjust a small turning tool amid curls of wood shavings",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-wood-turning-closeup",
+     "score": 7.0,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_6661935_craftsman-close-up",
@@ -324,7 +456,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__pexels_6661935_craftsman-close-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__pexels_6661935_craftsman-close-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__pexels_6661935_craftsman-close-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hands carefully stitch the edge of a dark leather bag",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-leather-stitching-closeup",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_125458_carpenter-hands",
@@ -336,7 +478,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__thumb__pixabay_125458_carpenter-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__preview__pixabay_125458_carpenter-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S03__strip__pixabay_125458_carpenter-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a circular saw cuts carefully along a marked wooden plank",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-circular-saw-cut",
+     "score": 7.0,
+     "judged_at": "2026-09-09T18:22:41Z",
+     "rank": 5,
+     "shown": true
     }
    ],
    "shots": [
@@ -368,7 +520,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "judged_at": "2026-09-09T18:22:41Z"
   },
   {
    "id": "S04",
@@ -385,7 +538,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__pexels_1315986_pickup-parked-straight.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__pexels_1315986_pickup-parked-straight.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__strip__pexels_1315986_pickup-parked-straight.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "cars sit in a retail strip-mall parking lot near a burger restaurant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-retail-parking-lot",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:23:11Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4207964_work-truck-parked",
@@ -397,7 +560,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__pexels_4207964_work-truck-parked.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__pexels_4207964_work-truck-parked.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__strip__pexels_4207964_work-truck-parked.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a utility bucket truck is parked outside a shopping mall entrance",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-utility-truck-mall",
+     "score": 4.65,
+     "judged_at": "2026-09-09T18:23:11Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5982899_tidy-parking-lot",
@@ -409,7 +582,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__pexels_5982899_tidy-parking-lot.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__pexels_5982899_tidy-parking-lot.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__strip__pexels_5982899_tidy-parking-lot.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "aerial view of rows of parked cars in a large lot",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-parking-lot",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:23:11Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8345152_vehicle-parked-neatly",
@@ -421,7 +604,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__pexels_8345152_vehicle-parked-neatly.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__pexels_8345152_vehicle-parked-neatly.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__strip__pexels_8345152_vehicle-parked-neatly.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a black luxury sedan parks outside a glass corporate building",
+     "violation": "luxury car outside an office building",
+     "shot": "A",
+     "shoot": "pexels-luxury-sedan-office",
+     "score": 3.25,
+     "judged_at": "2026-09-09T18:23:11Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "wikimedia_119529517_van-parked-lot",
@@ -433,7 +626,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__thumb__wikimedia_119529517_van-parked-lot.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__preview__wikimedia_119529517_van-parked-lot.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S04__strip__wikimedia_119529517_van-parked-lot.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a vintage red fire truck with a ladder sits on a village street",
+     "violation": "",
+     "shot": "",
+     "shoot": "wikimedia-fire-truck-village",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:23:11Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_18497124_pickup-parked-straight",
@@ -505,7 +708,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:23:11Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:23:11Z"
   },
   {
    "id": "S05",
@@ -522,7 +731,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__coverr_srbyohl25o_broom-sweeping.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__coverr_srbyohl25o_broom-sweeping.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__strip__coverr_srbyohl25o_broom-sweeping.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "bare feet sweep a small pile of dust across a wooden floor",
+     "violation": "",
+     "shot": "C",
+     "shoot": "coverr-sweeping-flipflops-home",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:23:46Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6865253_sweeping-floor",
@@ -534,7 +753,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__pexels_6865253_sweeping-floor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__pexels_6865253_sweeping-floor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__strip__pexels_6865253_sweeping-floor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a woman sweeps floor debris into a dustpan",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-sweeping-heels-elegant",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:23:46Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7280260_tidying-workshop",
@@ -546,7 +775,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__pexels_7280260_tidying-workshop.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__pexels_7280260_tidying-workshop.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__strip__pexels_7280260_tidying-workshop.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman shapes clay on a pottery wheel in a supply-lined studio",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-pottery-studio-tidying",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:23:46Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7484776_putting-tools-away",
@@ -558,7 +797,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__pexels_7484776_putting-tools-away.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__pexels_7484776_putting-tools-away.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__strip__pexels_7484776_putting-tools-away.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hands return hand tools to their marked spots on a shadow board",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-tools-shadow-board",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:23:46Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_34821_broom-sweeping",
@@ -570,7 +819,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__thumb__pixabay_34821_broom-sweeping.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__preview__pixabay_34821_broom-sweeping.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S05__strip__pixabay_34821_broom-sweeping.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a small broom sweeps crumbs across a wood-look floor",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-sweeping-home-casual",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:23:46Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -601,7 +860,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "judged_at": "2026-09-09T18:23:46Z"
   },
   {
    "id": "S06",
@@ -618,7 +878,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__coverr_lz6bwkbnye_hanging-tools-workshop.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__coverr_lz6bwkbnye_hanging-tools-workshop.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__coverr_lz6bwkbnye_hanging-tools-workshop.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "screwdrivers stand in a dark, dimly lit pegboard shelf",
+     "violation": "dark, moody industrial-workshop framing",
+     "shot": "",
+     "shoot": "coverr-dark-pegboard-abstract",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "coverr_pi7csjd5ow_wiping-a-tool",
@@ -630,7 +900,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__coverr_pi7csjd5ow_wiping-a-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__coverr_pi7csjd5ow_wiping-a-tool.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__coverr_pi7csjd5ow_wiping-a-tool.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "hands tuck a small item into a blue plastic bag",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-hands-blue-bag",
+     "score": 2.35,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_4145823_wiping-a-tool",
@@ -642,7 +922,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__pexels_4145823_wiping-a-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__pexels_4145823_wiping-a-tool.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__pexels_4145823_wiping-a-tool.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a gloved hand wipes down a black tool with a cloth",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-gloved-tool-wipe",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4488714_tools-returned-pegboard",
@@ -654,7 +944,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__pexels_4488714_tools-returned-pegboard.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__pexels_4488714_tools-returned-pegboard.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__pexels_4488714_tools-returned-pegboard.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a hand hangs a wrench back onto a pegboard of wrenches",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-wrench-pegboard-return",
+     "score": 8.3,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6957870_organized-toolbox",
@@ -666,7 +966,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__pexels_6957870_organized-toolbox.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__pexels_6957870_organized-toolbox.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__pexels_6957870_organized-toolbox.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands arrange drill bits neatly into an organised toolbox",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-drill-bit-case-organize",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_94444_tools-returned-pegboard",
@@ -678,7 +988,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__thumb__pixabay_94444_tools-returned-pegboard.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__preview__pixabay_94444_tools-returned-pegboard.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S06__strip__pixabay_94444_tools-returned-pegboard.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a hand shapes wood on a spinning lathe amid flying shavings",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-lathe-woodturning",
+     "score": 3.05,
+     "judged_at": "2026-09-09T18:24:19Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "openverse_e3aff85f-91ad-4612-87de-9f2d_mechanic-tidy-tools",
@@ -749,7 +1069,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "judged_at": "2026-09-09T18:24:19Z"
   },
   {
    "id": "S07",
@@ -766,7 +1087,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__coverr_cygkoo9lxl_cleaning-work-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__coverr_cygkoo9lxl_cleaning-work-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__strip__coverr_cygkoo9lxl_cleaning-work-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "two workers bag rubbish into black sacks at a work site",
+     "violation": "",
+     "shot": "B",
+     "shoot": "coverr-bagging-rubbish-worksite",
+     "score": 7.3,
+     "judged_at": "2026-09-09T18:24:47Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "coverr_gp4asywsas_broom-construction-site",
@@ -778,7 +1109,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__coverr_gp4asywsas_broom-construction-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__coverr_gp4asywsas_broom-construction-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__strip__coverr_gp4asywsas_broom-construction-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a worker sweeps sawdust off a wooden floor at day's end",
+     "violation": "",
+     "shot": "A",
+     "shoot": "coverr-sweeping-sawdust-floor",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:24:47Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "coverr_yfx3brh85t_worker-cleaning-up",
@@ -790,7 +1131,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__coverr_yfx3brh85t_worker-cleaning-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__coverr_yfx3brh85t_worker-cleaning-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__strip__coverr_yfx3brh85t_worker-cleaning-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man in a suit wipes down a wooden counter in a boutique",
+     "violation": "suit worn by worker; upscale boutique retail setting",
+     "shot": "",
+     "shoot": "coverr-suit-boutique-cleaning",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:24:47Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_12588031_clearing-debris",
@@ -802,7 +1153,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__pexels_12588031_clearing-debris.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__pexels_12588031_clearing-debris.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__strip__pexels_12588031_clearing-debris.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "an excavator claw digs through rubble at a demolished building",
+     "violation": "demolition/ruins framing, not end-of-job tidying",
+     "shot": "",
+     "shoot": "pexels-excavator-demolition",
+     "score": 1.65,
+     "judged_at": "2026-09-09T18:24:47Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_4684453_tidying-after-work",
@@ -814,7 +1175,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__thumb__pexels_4684453_tidying-after-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__preview__pexels_4684453_tidying-after-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S07__strip__pexels_4684453_tidying-after-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a barefoot woman in sequined pants sweeps up gold confetti at home",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-confetti-sweep-homeparty",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:24:47Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -845,7 +1216,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:24:47Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:24:47Z"
   },
   {
    "id": "S08",
@@ -862,7 +1239,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__thumb__pexels_3801162_wiping-paint-floor.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__preview__pexels_3801162_wiping-paint-floor.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__strip__pexels_3801162_wiping-paint-floor.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "gloved hands wipe a wood floor clean of spilled paint",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-floor-wipe-gloves",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:25:11Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4360165_painter-cleaning-brushes",
@@ -874,7 +1261,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__thumb__pexels_4360165_painter-cleaning-brushes.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__preview__pexels_4360165_painter-cleaning-brushes.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__strip__pexels_4360165_painter-cleaning-brushes.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a hand sets paintbrushes into a jar to clean them",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-paintbrush-cup-clean",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:25:11Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_4822718_removing-masking-tape",
@@ -886,7 +1283,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__thumb__pexels_4822718_removing-masking-tape.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__preview__pexels_4822718_removing-masking-tape.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S08__strip__pexels_4822718_removing-masking-tape.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a worker peels masking tape cleanly from a vehicle's edge",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-masking-tape-car-window",
+     "score": 6.3,
+     "judged_at": "2026-09-09T18:25:11Z",
+     "rank": 2,
+     "shown": true
     }
    ],
    "shots": [
@@ -917,7 +1324,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:25:11Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:25:11Z"
   },
   {
    "id": "S09",
@@ -934,7 +1347,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pexels_6538450_writing-on-clipboard.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pexels_6538450_writing-on-clipboard.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__strip__pexels_6538450_writing-on-clipboard.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a manicured hand writes neatly on a case intake form",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-clipboard-case-form",
+     "score": 3.3,
+     "judged_at": "2026-09-09T18:25:40Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7314252_carpenter-pencil-mark",
@@ -946,7 +1369,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pexels_7314252_carpenter-pencil-mark.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pexels_7314252_carpenter-pencil-mark.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__strip__pexels_7314252_carpenter-pencil-mark.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a gloved hand marks timber precisely along a carpenter's square",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-timber-square-mark",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:25:40Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8820341_marking-timber-pencil",
@@ -958,7 +1391,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pexels_8820341_marking-timber-pencil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pexels_8820341_marking-timber-pencil.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__strip__pexels_8820341_marking-timber-pencil.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "gloved hands measure and mark a wooden slab with a pencil",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-timber-slab-measure-outdoor",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:25:40Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_9464475_checklist-clipboard-site",
@@ -970,7 +1413,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pexels_9464475_checklist-clipboard-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pexels_9464475_checklist-clipboard-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__strip__pexels_9464475_checklist-clipboard-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a person in office attire holds a blank clipboard indoors",
+     "violation": "office attire, corporate indoor setting",
+     "shot": "",
+     "shoot": "pexels-clipboard-blazer-indoor",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:25:40Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pixabay_40816_builder-taking-notes",
@@ -982,7 +1435,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__thumb__pixabay_40816_builder-taking-notes.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__preview__pixabay_40816_builder-taking-notes.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S09__strip__pixabay_40816_builder-taking-notes.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "road workers in hi-vis vests dig with shovels along a street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-roadwork-hivis-labor",
+     "score": 2.7,
+     "judged_at": "2026-09-09T18:25:40Z",
+     "rank": 4,
+     "shown": true
     }
    ],
    "shots": [
@@ -1013,7 +1476,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:25:40Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:25:40Z"
   },
   {
    "id": "S10",
@@ -1030,7 +1499,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__coverr_ecvbssmzol_leaking-tap.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__coverr_ecvbssmzol_leaking-tap.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__strip__coverr_ecvbssmzol_leaking-tap.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a wall-mounted tap sits against white bathroom tile",
+     "violation": "",
+     "shot": "A",
+     "shoot": "coverr-tap-tile-wall",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:26:07Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_7584762_pipe-under-sink",
@@ -1042,7 +1521,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__pexels_7584762_pipe-under-sink.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__pexels_7584762_pipe-under-sink.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__strip__pexels_7584762_pipe-under-sink.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand adjusts a hose clamp on a pipe joint under a sink",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hose-clamp-undersink",
+     "score": 6.35,
+     "judged_at": "2026-09-09T18:26:07Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8488162_plumber-pipe",
@@ -1054,7 +1543,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__pexels_8488162_plumber-pipe.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__pexels_8488162_plumber-pipe.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__strip__pexels_8488162_plumber-pipe.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a wrench grips a pipe fitting beside a water-stained wall opening",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-pipe-wrench-wall-damage",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:26:07Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_136086_leaking-tap",
@@ -1066,7 +1565,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__pixabay_136086_leaking-tap.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__pixabay_136086_leaking-tap.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__strip__pixabay_136086_leaking-tap.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a drop of water forms and falls from a tap in close-up",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-tap-drip-closeup",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:26:07Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_188076_dripping-pipe",
@@ -1078,7 +1587,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__thumb__pixabay_188076_dripping-pipe.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__preview__pixabay_188076_dripping-pipe.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S10__strip__pixabay_188076_dripping-pipe.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a droplet of water forms on a dark, wet wooden beam",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-drip-wood-beam-macro",
+     "score": 6.65,
+     "judged_at": "2026-09-09T18:26:07Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -1109,7 +1628,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "judged_at": "2026-09-09T18:26:07Z"
   },
   {
    "id": "S11",
@@ -1126,7 +1646,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_4181140_checking-spirit-level.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_4181140_checking-spirit-level.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__strip__pexels_4181140_checking-spirit-level.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "close-up of a spirit level bubble centred against a red gauge",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-spirit-level-macro",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:26:36Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4957773_carpenter-reviewing-work",
@@ -1138,7 +1668,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_4957773_carpenter-reviewing-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_4957773_carpenter-reviewing-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__strip__pexels_4957773_carpenter-reviewing-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a man wearing ear protection feeds wood through a large panel saw",
+     "violation": "factory-scale panel-saw workshop with racked paneling",
+     "shot": "",
+     "shoot": "pexels-panel-saw-factory-worker",
+     "score": 3.3,
+     "judged_at": "2026-09-09T18:26:36Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_7484778_checking-level-tool",
@@ -1150,7 +1690,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_7484778_checking-level-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_7484778_checking-level-tool.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__strip__pexels_7484778_checking-level-tool.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a hand reaches toward a spirit level and square hung on a wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tool-wall-static",
+     "score": 4.05,
+     "judged_at": "2026-09-09T18:26:36Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8488277_builder-inspecting-work",
@@ -1162,7 +1712,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_8488277_builder-inspecting-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_8488277_builder-inspecting-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__strip__pexels_8488277_builder-inspecting-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a worker in a hard hat pauses to look over a finished interior",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hivis-woman-inspecting-interior",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:26:36Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8964292_foreman-inspecting",
@@ -1174,7 +1734,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__thumb__pexels_8964292_foreman-inspecting.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__preview__pexels_8964292_foreman-inspecting.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S11__strip__pexels_8964292_foreman-inspecting.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a worker in a hard hat stands back surveying a large steel structure",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-foreman-hardhat-steel-structure",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:26:36Z",
+     "rank": 3,
+     "shown": true
     }
    ],
    "shots": [
@@ -1205,7 +1775,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "judged_at": "2026-09-09T18:26:36Z"
   },
   {
    "id": "S12",
@@ -1222,7 +1793,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pexels_28900197_finishing-touch-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pexels_28900197_finishing-touch-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__strip__pexels_28900197_finishing-touch-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a worker fits and finishes a wooden door frame in a room being repaired",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-doorframe-finish-worker",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:27:04Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6654039_skilled-hands-detail",
@@ -1234,7 +1815,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pexels_6654039_skilled-hands-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pexels_6654039_skilled-hands-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__strip__pexels_6654039_skilled-hands-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "fingers use a small pick tool to work a seam on a dark wood surface",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-fingertip-seam-fitting",
+     "score": 7.65,
+     "judged_at": "2026-09-09T18:27:04Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7480062_craftsman-precise-work",
@@ -1246,7 +1837,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pexels_7480062_craftsman-precise-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pexels_7480062_craftsman-precise-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__strip__pexels_7480062_craftsman-precise-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a bearded man leans over a large workshop planing machine",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-workbench-industrial-machine",
+     "score": 4.3,
+     "judged_at": "2026-09-09T18:27:04Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7505109_quality-woodwork",
@@ -1258,7 +1859,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pexels_7505109_quality-woodwork.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pexels_7505109_quality-woodwork.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__strip__pexels_7505109_quality-woodwork.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand selects a wood veneer sample from a rack of finishes",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-veneer-sample-rack",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:27:04Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_73847_careful-hands-work",
@@ -1270,7 +1881,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__thumb__pixabay_73847_careful-hands-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__preview__pixabay_73847_careful-hands-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-attention-to-detail-v2/S12__strip__pixabay_73847_careful-hands-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "sand slips through the fingers of an open hand",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-through-hand",
+     "score": 3.05,
+     "judged_at": "2026-09-09T18:27:04Z",
+     "rank": 5,
+     "shown": true
     }
    ],
    "shots": [
@@ -1301,7 +1922,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:35:33Z"
+   "shots_at": "2026-09-09T14:35:33Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:27:04Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:27:04Z"
   },
   {
    "id": "S13",
