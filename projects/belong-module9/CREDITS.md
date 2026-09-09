@@ -232,3 +232,33 @@
 | pixabay | love  heart  hug  hands  couple  meeting  feelings  marriage | Cristian-Manieri | Pixabay Content License | https://pixabay.com/videos/id-315353/ |
 | pexels |  | Mihaela Claudia  Puscas | Pexels License | https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-38630315/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-and-woman-shaking-hands-together-8061447/ |
+| pexels |  | teyi  徐 | Pexels License | https://www.pexels.com/video/suburban-houses-during-winter-snowfall-30040485/ |
+| pexels |  | Cyrus Photography | Pexels License | https://www.pexels.com/video/a-snowstorm-in-a-rural-area-14867477/ |
+| pexels |  | Mihaela Claudia  Puscas | Pexels License | https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-37874112/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-talking-in-microphone-6878208/ |
+| pexels |  | Serg Alesenko | Pexels License | https://www.pexels.com/video/wooden-houses-in-a-winter-landscape-11272968/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-drinking-together-6262591/ |
+| pexels |  | Cyrus Photography | Pexels License | https://www.pexels.com/video/heavy-snow-fall-covering-a-forest-home-4419948/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/scenic-alpine-house-with-smoky-chimney-28638518/ |
+| pexels |  | German Korb | Pexels License | https://www.pexels.com/video/snow-covering-the-suburb-surroundings-6034872/ |
+| pexels |  | Serg Alesenko | Pexels License | https://www.pexels.com/video/person-with-dog-waving-to-camera-in-winter-11273554/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-construction-worker-putting-on-goggles-8963855/ |
+| pixabay | street  man  worker  vietnam  life | bianhpro1st | Pixabay Content License | https://pixabay.com/videos/id-45686/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/woman-talking-to-her-boss-3255327/ |
+| pixabay | eye  eye shadows  eyelashes  makeup  woman  face  beauty  sk | My_movie | Pixabay Content License | https://pixabay.com/videos/id-80615/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/forklift-operator-working-in-warehouse-container-31352807/ |
+| pixabay | girl  walk  walking  person  shadow | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75553/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/man-removing-his-eyeglasses-8134767/ |
+| pixabay | woman  mask  healthcare  young  epidemic  virus  pandemic  f | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-63241/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/guy-wearing-hard-hat-6474370/ |
+| pixabay | man  person  reflection  thinking  think  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126557/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/elderly-man-greeting-his-colleagues-8691672/ |
+| pixabay | building  house  architecture  project  workers  employees   | JoteF | Pixabay Content License | https://pixabay.com/videos/id-19657/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/elderly-man-working-with-a-woman-at-the-office-7593883/ |
+| pixabay | man  fabric  cutter  knives  cutting table  tool  work  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115788/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-holding-a-cup-walking-towards-a-woman-7804809/ |
+| pixabay | laptop  work  internet  business  occupation  sitting  socia | jamescheney82 | Pixabay Content License | https://pixabay.com/videos/id-92480/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/women-talking-while-writing-7428834/ |
+| pixabay | fabric  cutter  knives  cutting table  tool  work  man  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115789/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/women-working-at-the-office-8126002/ |
+| pixabay | woman  computer  laptop  typing  work  desk  business  marke | Natures_Embrace | Pixabay Content License | https://pixabay.com/videos/id-203260/ |

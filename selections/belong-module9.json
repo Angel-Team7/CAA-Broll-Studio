@@ -138,17 +138,23 @@
       "note": "10 more contexutal in hospitality industry.",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:49:39Z",
+      "added": 10
     },
     "S05": {
       "requested": "2026-09-09T09:21:00Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:50:31Z",
+      "added": 10
     },
     "S11": {
       "requested": "2026-09-09T09:21:00Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:51:26Z",
+      "added": 10
     }
   }
 }

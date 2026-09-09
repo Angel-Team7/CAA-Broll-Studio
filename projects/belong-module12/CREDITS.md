@@ -42,3 +42,23 @@
 | pixabay | board  chalk  smiley  pleasure  positive  study  school  tra | athree23 | Pixabay Content License | https://pixabay.com/videos/id-18439/ |
 | pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/fists-together-7659843/ |
 | pixabay | dice  points  roll the dice  to play  toy  random  number  r | betexion | Pixabay Content License | https://pixabay.com/videos/id-65807/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/ |
+| pixabay | office  laptop  business  computer  notebook  work  the inte | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-39892/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/man-lifting-boxes-inside-the-warehouse-4292580/ |
+| pixabay | students  university  college  academic  school  project  te | eloguers | Pixabay Content License | https://pixabay.com/videos/id-159024/ |
+| pexels |  | SÀI GÒN CÔNG TY CP SẢN XUẤT - THƯƠNG MẠI | Pexels License | https://www.pexels.com/video/nighttime-construction-site-with-concrete-mixer-35379333/ |
+| pixabay | elephants  herd  group  desert  nature  elephant  sand  sand | makabera | Pixabay Content License | https://pixabay.com/videos/id-244242/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-working-on-the-construction-site-5100043/ |
+| pixabay | board  write  man  memo  memory  chalk  meeting  meet  offic | geralt | Pixabay Content License | https://pixabay.com/videos/id-710/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-site-forklift-moving-lumber-32244792/ |
+| pixabay | puppet  puppet show  street  show  doll  toy  traditional  m | Activedia | Pixabay Content License | https://pixabay.com/videos/id-1365/ |
+| pexels |  | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/low-angle-view-of-friends-talking-6192778/ |
+| pixabay | field  paddy field  plantation  agriculture  rural  rice  pl | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-231246/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-group-of-people-putting-their-hands-together-8124282/ |
+| pixabay | team  office  work  success  satisfaction  mission  manageme | imrannahid | Pixabay Content License | https://pixabay.com/videos/id-70345/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/office-team-huddling-6339866/ |
+| pixabay | basketball  ball  sport  basket  court  game  competition  p | QuinceCreative | Pixabay Content License | https://pixabay.com/videos/id-12609/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/office-team-huddling-6339871/ |
+| pixabay | emirates  arsenal  soccer  london  team  sport  england  cit | GAPR86 | Pixabay Content License | https://pixabay.com/videos/id-150852/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/people-putting-their-hands-together-9464875/ |
+| pixabay | corridor  office  bank  employees  deposit  money  business  | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40818/ |
