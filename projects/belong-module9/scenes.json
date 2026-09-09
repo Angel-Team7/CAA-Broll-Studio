@@ -8678,14 +8678,23 @@
      "page_url": "https://www.pexels.com/video/man-kissing-the-hands-of-a-woman-7423562/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V02.mp4",
-     "score": 10.53,
+     "score": 5.65,
      "categories": [
       "hands"
      ],
      "title": "video man kissing the hands woman",
      "query": "eye contact conversation",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man kisses a woman's hand while they smile at an outdoor cafe table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-cafe-couple-handkiss",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S05-V03",
@@ -8696,12 +8705,21 @@
      "page_url": "https://www.pexels.com/video/elderly-man-and-woman-having-a-conversation-6761148/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V03.mp4",
-     "score": 10.41,
+     "score": 4.65,
      "categories": [],
      "title": "video elderly man and woman having conversation",
      "query": "listening attentively person",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an older man and woman have an animated conversation indoors",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-elderly-conversation",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m9-S05-V04",
@@ -8712,7 +8730,7 @@
      "page_url": "https://pixabay.com/videos/id-229069/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V04.mp4",
-     "score": 10.26,
+     "score": 1.35,
      "categories": [
       "garden",
       "outdoor"
@@ -8720,7 +8738,16 @@
      "title": "nurse  elderly  wheelchair  garden  outdoor  walk  retirement  care  happy  knee  pain  discussing  senior  talking  smi",
      "query": "empathetic listening",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a caregiver rests a hand on the shoulder of a seated woman",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-caregiver-shoulder",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m9-S05-V05",
@@ -8731,7 +8758,7 @@
      "page_url": "https://pixabay.com/videos/id-229071/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V05.mp4",
-     "score": 10.26,
+     "score": 0.35,
      "categories": [
       "garden",
       "outdoor"
@@ -8739,7 +8766,16 @@
      "title": "nurse  elderly  wheelchair  garden  outdoor  walk  retirement  care  happy  knee  pain  discussing  senior  talking  smi",
      "query": "empathetic listening",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a caregiver adjusts the leg of a person seated in a wheelchair outdoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-caregiver-wheelchair-outdoor",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m9-S05-V06",
@@ -8750,14 +8786,23 @@
      "page_url": "https://pixabay.com/videos/id-100471/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V06.mp4",
-     "score": 10.13,
+     "score": 1.4,
      "categories": [
       "farm"
      ],
      "title": "brown  cow  cows  farm  funny  head  nod",
      "query": "nodding understanding",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "cows graze together under a tree in an open field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-cows-field-tree",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m9-S05-V07",
@@ -8768,14 +8813,23 @@
      "page_url": "https://www.pexels.com/video/a-man-shows-a-woman-a-vinyl-record-then-puts-it-on-a-turntable-6863646/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-m9-S05-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-m9-S05-V07.mp4",
-     "score": 9.46,
+     "score": 4.0,
      "categories": [
       "table"
      ],
      "title": "video man shows woman vinyl record then puts turntable",
      "query": "empathetic listening",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-m9-S05-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a man shows a woman a vinyl record in a room lined with bookshelves",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-vinyl-record-conversation",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S05-I01",
@@ -8834,7 +8888,7 @@
      "page_url": "https://www.pexels.com/video/a-construction-worker-putting-on-goggles-8963855/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V08.mp4",
-     "score": 0,
+     "score": 4.65,
      "categories": [],
      "title": "",
      "query": "worker nodding understanding",
@@ -8843,7 +8897,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a young woman in a vest smiles warmly while listening indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-worker-nodding-smile",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-module9-S05-V09",
@@ -8854,7 +8917,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V09.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker eye contact conversation",
@@ -8863,7 +8926,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a man sweeps a wet outdoor pavement near parked cars",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-sweeping-worker",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-module9-S05-V10",
@@ -8874,7 +8946,7 @@
      "page_url": "https://www.pexels.com/video/woman-talking-to-her-boss-3255327/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V10.mp4",
-     "score": 0,
+     "score": 5.3,
      "categories": [],
      "title": "",
      "query": "worker nodding understanding",
@@ -8883,7 +8955,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a young woman in a vest nods and smiles while listening closely",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-worker-nodding-smile",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-module9-S05-V11",
@@ -8894,7 +8975,7 @@
      "page_url": "https://pixabay.com/videos/id-80615/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V11.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "eye  eye shadows  eyelashes  makeup  woman  face  beauty  skin  women  appearance",
      "query": "worker eye contact conversation",
@@ -8903,7 +8984,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an extreme close-up shows a woman's eye with shimmering makeup",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-eye-makeup-closeup",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S05-V12",
@@ -8914,7 +9004,7 @@
      "page_url": "https://www.pexels.com/video/forklift-operator-working-in-warehouse-container-31352807/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V12.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker nodding understanding",
@@ -8923,7 +9013,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a forklift operator drives through a shipping container in a warehouse",
+     "violation": "warehouse / factory",
+     "shot": "",
+     "shoot": "pixabay-forklift-warehouse",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module9-S05-V13",
@@ -8934,7 +9033,7 @@
      "page_url": "https://pixabay.com/videos/id-75553/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "girl  walk  walking  person  shadow",
      "query": "listening attentively person",
@@ -8943,7 +9042,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a silhouette animation shows a woman walking in heels",
+     "violation": "abstract silhouette graphic",
+     "shot": "",
+     "shoot": "pixabay-silhouette-walk-animation",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S05-V14",
@@ -8954,7 +9062,7 @@
      "page_url": "https://www.pexels.com/video/man-removing-his-eyeglasses-8134767/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V14.mp4",
-     "score": 0,
+     "score": 2.65,
      "categories": [],
      "title": "",
      "query": "worker nodding understanding",
@@ -8963,7 +9071,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a bald bearded man in glasses looks down thoughtfully near a wall chart",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-thoughtful-office",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-module9-S05-V15",
@@ -8974,7 +9091,7 @@
      "page_url": "https://pixabay.com/videos/id-63241/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V15.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "woman  mask  healthcare  young  epidemic  virus  pandemic  face  health  protection  medical  quarantine  coronavirus  concept  care  protective  person  sick  happiness  young adult  protect  covid-19",
      "query": "listening attentively person",
@@ -8983,7 +9100,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked woman holds up her phone while walking outdoors",
+     "violation": "face masks / phone held up",
+     "shot": "",
+     "shoot": "pixabay-masked-woman-phone",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S05-V16",
@@ -8994,7 +9120,7 @@
      "page_url": "https://www.pexels.com/video/guy-wearing-hard-hat-6474370/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V16.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "worker nodding understanding",
@@ -9003,7 +9129,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a man in glasses puts on a white hard hat against a plain wall",
+     "violation": "construction / hard hat",
+     "shot": "",
+     "shoot": "pexels-man-hardhat-plainwall",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S05-V17",
@@ -9014,7 +9149,7 @@
      "page_url": "https://pixabay.com/videos/id-126557/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__thumb__belong-module9-S05-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S05__preview__belong-module9-S05-V17.mp4",
-     "score": 0,
+     "score": 3.05,
      "categories": [],
      "title": "man  person  reflection  thinking  think  lifestyle",
      "query": "listening attentively person",
@@ -9023,7 +9158,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S05__strip__belong-module9-S05-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a man in glasses looks thoughtfully across a golden field at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-man-portrait-golden-field",
+     "judged_at": "2026-09-09T16:39:19Z",
+     "rank": 6,
+     "shown": true
     }
    ],
    "shots": [
@@ -9063,7 +9207,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T16:39:19Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:39:19Z"
   },
   {
    "id": "S06",
@@ -9085,14 +9235,23 @@
      "page_url": "https://www.pexels.com/video/a-woman-gesturing-smile-with-her-hands-and-face-10159572/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V01.mp4",
-     "score": 11.61,
+     "score": 3.0,
      "categories": [
       "hands"
      ],
      "title": "video woman gesturing smile with her hands and face",
      "query": "sincere expression talking",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a woman smiles and gestures warmly against a plain backdrop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-plain-backdrop-smile",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V02",
@@ -9103,7 +9262,7 @@
      "page_url": "https://pixabay.com/videos/id-19162/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V02.mp4",
-     "score": 10.73,
+     "score": 1.05,
      "categories": [
       "cooking",
       "guest"
@@ -9111,7 +9270,16 @@
      "title": "plates  4k  heap  stack  restaurant  guests  many  thanksgiving  christmas  cooking  dishes  stacked  pile  white  black",
      "query": "staff guest empathy",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a tall stack of white plates sits ready in a dim restaurant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-plates-stack-restaurant",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V03",
@@ -9122,14 +9290,23 @@
      "page_url": "https://www.pexels.com/video/holding-hands-video-6973228/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V03.mp4",
-     "score": 10.53,
+     "score": 7.3,
      "categories": [
       "hands"
      ],
      "title": "video holding hands video",
      "query": "comforting gesture hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "one hand rests gently over another in a reassuring gesture",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-hands-reassurance-closeup",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V04",
@@ -9140,14 +9317,23 @@
      "page_url": "https://www.pexels.com/video/video-of-a-person-moving-hands-7199655/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V04.mp4",
-     "score": 10.53,
+     "score": 4.35,
      "categories": [
       "hands"
      ],
      "title": "video video person moving hands",
      "query": "comforting gesture hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two people gesture with their hands while talking beside a potted plant",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cozy-conversation-gestures",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V05",
@@ -9158,12 +9344,21 @@
      "page_url": "https://www.pexels.com/video/people-embracing-each-other-9485959/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V05.mp4",
-     "score": 10.53,
+     "score": 5.3,
      "categories": [],
      "title": "video people embracing each other",
      "query": "comforting gesture hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a hand rests reassuringly on a shoulder in a close embrace",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-embrace-hand-shoulder",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V06",
@@ -9188,12 +9383,21 @@
      "page_url": "https://pixabay.com/videos/id-174008/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V07.mp4",
-     "score": 10.01,
+     "score": 3.05,
      "categories": [],
      "title": "woman  smile  communication  gesture  expression  asian  close up  young  university",
      "query": "comforting gesture hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a young woman smiles softly in warm outdoor light",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-outdoor-smile-soft",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m9-S06-V09",
@@ -9204,14 +9408,23 @@
      "page_url": "https://www.pexels.com/video/pretty-woman-talking-to-the-hotel-bell-man-5378939/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V09.mp4",
-     "score": 12.62,
+     "score": 2.3,
      "categories": [
       "hotel"
      ],
      "title": "video pretty woman talking the hotel bell man",
      "query": "hotel staff apologizing to guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a woman in a trench coat talks with a mustached bellman in an ornate lobby",
+     "violation": "corporate lobby",
+     "shot": "",
+     "shoot": "pexels-lobby-bellman-conversation",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V11",
@@ -9222,14 +9435,23 @@
      "page_url": "https://pixabay.com/videos/id-3190/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V11.mp4",
-     "score": 12.04,
+     "score": 0.0,
      "categories": [
       "hotel"
      ],
      "title": "hotel lobby  blur  bokeh  indoors  house  interior  boy  phone",
      "query": "hotel staff apologizing to guest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a blurred figure on a phone stands in a chandeliered hotel lobby",
+     "violation": "corporate lobby",
+     "shot": "",
+     "shoot": "pixabay-lobby-bokeh-phone",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-V12",
@@ -9240,14 +9462,23 @@
      "page_url": "https://www.pexels.com/video/couple-in-hotel-lobby-5378935/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-m9-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-m9-S06-V12.mp4",
-     "score": 11.42,
+     "score": 1.65,
      "categories": [
       "hotel"
      ],
      "title": "video couple hotel lobby",
      "query": "warm conversation hotel lobby",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-m9-S06-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a couple sits talking in an ornate marble hotel lobby",
+     "violation": "corporate lobby / luxury",
+     "shot": "",
+     "shoot": "pexels-lobby-couple-marble",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "belong-m9-S06-I01",
@@ -9356,7 +9587,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-talking-to-each-other-7821154/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -9365,7 +9596,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a factory worker threads yarn onto spinning machines",
+     "violation": "factory / textile industry",
+     "shot": "",
+     "shoot": "pexels-factory-yarn-worker",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V14",
@@ -9376,7 +9616,7 @@
      "page_url": "https://pixabay.com/videos/id-32065/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V14.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "cemetery  or graveyard  graveyard  dead bodies  remains  after cremation  be buried  remember the dead  these rituals  customs and traditions  hygiene  convenient for management  zoning  the land became cramped  rare  even expensive  park cemetery  unique architecture  peaceful resting place  tidiness  living people feel close  visit relatives",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9385,7 +9625,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand operates a chainsaw cutting through stacked logs",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chainsaw-logs",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "belong-module9-S06-V15",
@@ -9396,7 +9645,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-in-a-lobby-7821134/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V15.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -9405,7 +9654,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a factory worker in a hairnet folds white linens beside blue storage crates",
+     "violation": "factory / industrial laundry",
+     "shot": "",
+     "shoot": "pexels-factory-linen-fold",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V16",
@@ -9416,7 +9674,7 @@
      "page_url": "https://pixabay.com/videos/id-19253/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V16.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "gold  ring  golden  diamond  diamonds  jewelry  jewellery  wedding  marry  love  marriage  romance  woman  ornament  engagement  romantic  symbol  relationship  feelings  affection  luxury  present  gift  anniversary",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9425,7 +9683,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "two factory workers fold large white sheets together",
+     "violation": "factory / industrial laundry",
+     "shot": "",
+     "shoot": "pexels-factory-linen-fold",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V17",
@@ -9436,7 +9703,7 @@
      "page_url": "https://www.pexels.com/video/friendly-reception-interaction-in-office-38057445/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V17.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -9445,7 +9712,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker in a hairnet unwraps plastic-wrapped folded garments in a warehouse",
+     "violation": "factory / warehouse",
+     "shot": "",
+     "shoot": "pexels-factory-garment-unwrap",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V18",
@@ -9456,7 +9732,7 @@
      "page_url": "https://pixabay.com/videos/id-332353/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V18.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "love  heart  couple  romantic  romance  relationship  date  together  hearts  affection  people  hands  man  woman  feelings  valentine",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9465,7 +9741,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker folds green towels beside an industrial sewing machine",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pexels-factory-towel-sew",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V19",
@@ -9476,7 +9761,7 @@
      "page_url": "https://www.pexels.com/video/elegant-women-walking-in-hotel-lobby-6474638/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V19.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hospitality industry guest",
@@ -9485,7 +9770,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a garment worker sews dark fabric at a machine surrounded by fabric stacks",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pixabay-garment-sewing-stacks",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V20",
@@ -9496,7 +9790,7 @@
      "page_url": "https://pixabay.com/videos/id-315353/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V20.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "love  heart  hug  hands  couple  meeting  feelings  marriage  wedding  bride  woman  groom  portrait  mustang  auto  car  vehicle  shelby  ford  generated to",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9505,7 +9799,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker sews fabric at a machine in a large factory hall",
+     "violation": "factory / sewing industry",
+     "shot": "",
+     "shoot": "pixabay-garment-sewing-hall",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module9-S06-V21",
@@ -9516,7 +9819,7 @@
      "page_url": "https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-38630315/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V21.mp4",
-     "score": 0,
+     "score": 4.7,
      "categories": [],
      "title": "",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9525,7 +9828,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a host reaches to set a pink menu card beside a table of pastries",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-host-menu-pastries",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-module9-S06-V22",
@@ -9536,7 +9848,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-shaking-hands-together-8061447/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__thumb__belong-module9-S06-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9/S06__preview__belong-module9-S06-V22.mp4",
-     "score": 0,
+     "score": 4.7,
      "categories": [],
      "title": "",
      "query": "guesthouse host acknowledge feeling honestly",
@@ -9545,7 +9857,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-2/S06__strip__belong-module9-S06-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand places a breakfast menu card near pastries on a wooden table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-host-menu-pastries",
+     "judged_at": "2026-09-09T16:40:39Z",
+     "rank": 4,
+     "shown": true
     }
    ],
    "shots": [
@@ -9585,7 +9906,13 @@
     "corporate lobby"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T16:40:39Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T16:40:39Z"
   },
   {
    "id": "S11",
