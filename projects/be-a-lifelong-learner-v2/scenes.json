@@ -912,10 +912,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 2,
-    "at": "2026-09-09T18:36:52Z",
+    "at": "2026-09-09T18:47:39Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:36:52Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S04",
@@ -1542,7 +1542,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "judged_at": "2026-09-09T18:43:53Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S05",
@@ -1730,10 +1730,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:38:15Z",
+    "at": "2026-09-09T18:47:39Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:38:15Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S06",
@@ -2306,7 +2306,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "judged_at": "2026-09-09T18:43:53Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S07",
@@ -2484,10 +2484,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:38:28Z",
+    "at": "2026-09-09T18:47:39Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:38:28Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S08",
@@ -2642,10 +2642,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T18:38:37Z",
+    "at": "2026-09-09T18:47:39Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:38:37Z"
+   "judged_at": "2026-09-09T18:47:39Z"
   },
   {
    "id": "S09",
@@ -3049,7 +3049,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "judged_at": "2026-09-09T18:43:54Z"
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S10",
@@ -3517,10 +3517,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:43:54Z",
+    "at": "2026-09-09T18:47:40Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:43:54Z"
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S11",
@@ -3729,10 +3729,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T18:38:52Z",
+    "at": "2026-09-09T18:47:40Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:38:52Z"
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S12",
@@ -3982,7 +3982,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "judged_at": "2026-09-09T18:39:06Z"
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S13",
@@ -3999,7 +3999,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_32636373_construction-worker-sunrise-silh.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_32636373_construction-worker-sunrise-silh.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_32636373_construction-worker-sunrise-silh.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "silhouette of high-rise towers and construction cranes against a fiery sunset sky",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-skyline-sunset",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_34535506_builder-gazing-at-the-horizon",
@@ -4021,7 +4031,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_35771593_tradesman-proud-on-site-sunrise.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_35771593_tradesman-proud-on-site-sunrise.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_35771593_tradesman-proud-on-site-sunrise.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "sunrise silhouettes trucks and equipment at a dark industrial yard",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-yard-sunrise",
+     "score": 2.0,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_6474251_builder-standing-proud-site",
@@ -4033,7 +4053,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_6474251_builder-standing-proud-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_6474251_builder-standing-proud-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_6474251_builder-standing-proud-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker in a hard hat stands still holding papers in an unfinished room",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-portrait-hardhat",
+     "score": 2.35,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_8487126_worker-gazing-over-site",
@@ -4045,7 +4075,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_8487126_worker-gazing-over-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_8487126_worker-gazing-over-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_8487126_worker-gazing-over-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a worker in safety glasses gestures while pointing out exposed wiring indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-wiring-point",
+     "score": 4.05,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8853459_worker-rooftop-sunrise",
@@ -4057,7 +4097,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_8853459_worker-rooftop-sunrise.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_8853459_worker-rooftop-sunrise.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_8853459_worker-rooftop-sunrise.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two workers with covered faces install solar panels on a rooftop",
+     "violation": "worker's face covered with a mask-like covering",
+     "shot": "",
+     "shoot": "pexels-rooftop-solar",
+     "score": 1.65,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_8964293_builder-looking-at-horizon",
@@ -4069,7 +4119,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_8964293_builder-looking-at-horizon.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pexels_8964293_builder-looking-at-horizon.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pexels_8964293_builder-looking-at-horizon.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a worker stands looking up at a large tower crane structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-crane-structure-gaze",
+     "score": 4.3,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_253475_tradesman-proud-on-site-sunrise",
@@ -4081,7 +4141,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pixabay_253475_tradesman-proud-on-site-sunrise.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pixabay_253475_tradesman-proud-on-site-sunrise.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pixabay_253475_tradesman-proud-on-site-sunrise.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "sunrise breaks over a frosty forest treeline with distant clouds",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-frost-sunrise",
+     "score": 3.4,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_275983_builder-gazing-at-the-horizon",
@@ -4093,7 +4163,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pixabay_275983_builder-gazing-at-the-horizon.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pixabay_275983_builder-gazing-at-the-horizon.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pixabay_275983_builder-gazing-at-the-horizon.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a small shrine gate stands on a rock silhouetted against an ocean sunset",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-shrine-ocean",
+     "score": 1.7,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "pixabay_342533_construction-worker-sunrise-silh",
@@ -4105,7 +4185,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pixabay_342533_construction-worker-sunrise-silh.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__pixabay_342533_construction-worker-sunrise-silh.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__pixabay_342533_construction-worker-sunrise-silh.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "silhouetted workers shake hands on a steel beam at a high-rise site at sunset",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-beam-handshake",
+     "score": 3.65,
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "openverse_2f0c3e14-39f2-4f79-9c30-97b1_construction-worker-sunrise-silh",
@@ -4186,7 +4276,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-securing-rebar-on-site-32244802/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V00.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V00.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -4195,7 +4285,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V00.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a worker crouches to tie rebar at a large commercial construction site",
+     "violation": "",
+     "shot": "",
+     "shoot": "v00-rebar-tying",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V01",
@@ -4206,7 +4305,7 @@
      "page_url": "https://pixabay.com/videos/id-3992/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V01.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "working site  construction  site  equipment  machine  develop  construction site  construction equipment  under construction  development  aerial view",
      "query": "construction ground worker",
@@ -4215,7 +4314,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view of a massive hillside apartment tower development with cranes",
+     "violation": "large-scale high-rise development, wrong world entirely",
+     "shot": "",
+     "shoot": "v01-aerial-towers",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V02",
@@ -4226,7 +4334,7 @@
      "page_url": "https://www.pexels.com/video/excavator-loading-dirt-into-dump-truck-on-riverbank-33082075/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V02.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -4235,7 +4343,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an excavator loads a dump truck at a riverside gravel site",
+     "violation": "heavy machinery excavation, no worker present",
+     "shot": "",
+     "shoot": "v02-excavator-gravel",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V03",
@@ -4246,7 +4363,7 @@
      "page_url": "https://pixabay.com/videos/id-4973/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V03.mp4",
-     "score": 0,
+     "score": 3.05,
      "categories": [],
      "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
      "query": "construction ground worker",
@@ -4255,7 +4372,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "hands guide a jigsaw cutting a wooden plank on sawhorses",
+     "violation": "",
+     "shot": "",
+     "shoot": "v03-jigsaw-hands",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V04",
@@ -4266,7 +4392,7 @@
      "page_url": "https://www.pexels.com/video/plumbing-15959637/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V04.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -4275,7 +4401,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker operates heavy equipment on an urban street",
+     "violation": "",
+     "shot": "",
+     "shoot": "v04-equipment-operator",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V05",
@@ -4286,7 +4421,7 @@
      "page_url": "https://pixabay.com/videos/id-42925/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V05.mp4",
-     "score": 0,
+     "score": 1.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "construction ground worker",
@@ -4295,7 +4430,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an aerial view of workers scattered across a large flat commercial rooftop",
+     "violation": "",
+     "shot": "",
+     "shoot": "v05-aerial-rooftop",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V06",
@@ -4306,7 +4450,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-inspecting-building-site-scaffolding-32244795/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V06.mp4",
-     "score": 0,
+     "score": 1.65,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -4315,7 +4459,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two workers talk inside a large scaffold-filled warehouse structure",
+     "violation": "",
+     "shot": "",
+     "shoot": "v06-scaffold-warehouse",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V07",
@@ -4326,7 +4479,7 @@
      "page_url": "https://pixabay.com/videos/id-42922/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "construction site  construction workers  construction  worker  site  builder  build  job  truck  man  housebuilding  skyscraper",
      "query": "construction ground worker",
@@ -4335,7 +4488,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view of a large high-rise development with a red tower crane",
+     "violation": "large-scale high-rise development, wrong world entirely",
+     "shot": "",
+     "shoot": "v07-aerial-red-crane",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V08",
@@ -4346,7 +4508,7 @@
      "page_url": "https://www.pexels.com/video/a-drone-shot-of-a-truck-pouring-soil-4336046/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V08.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "construction ground worker",
@@ -4355,7 +4517,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view of a dump truck and loader at a gravel excavation lot",
+     "violation": "heavy machinery excavation site, no worker",
+     "shot": "",
+     "shoot": "v08-aerial-gravel-lot",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V09",
@@ -4366,7 +4537,7 @@
      "page_url": "https://pixabay.com/videos/id-214661/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__be-a-lifelong-learner-v2-S13-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__preview__be-a-lifelong-learner-v2-S13-V09.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "construction  roof  roofing  scaffolding",
      "query": "construction ground worker",
@@ -4375,7 +4546,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__strip__be-a-lifelong-learner-v2-S13-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an aerial view of a copper-clad tower wrapped in dense scaffolding",
+     "violation": "large scaffolding structure, scaffolding gang",
+     "shot": "",
+     "shoot": "v09-tower-scaffold",
+     "judged_at": "2026-09-09T18:47:40Z",
+     "rank": 15,
+     "shown": false
     }
    ],
    "shots": [
@@ -4406,7 +4586,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:47:40Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S14",
@@ -4497,10 +4683,10 @@
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T18:35:23Z",
+    "at": "2026-09-09T18:47:40Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:35:23Z"
+   "judged_at": "2026-09-09T18:47:40Z"
   },
   {
    "id": "S15",
