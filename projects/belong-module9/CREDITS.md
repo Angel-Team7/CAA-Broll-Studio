@@ -272,3 +272,23 @@
 | pixabay | team  office  work  success  satisfaction  mission  manageme | imrannahid | Pixabay Content License | https://pixabay.com/videos/id-70345/ |
 | pexels |  | fauxels | Pexels License | https://www.pexels.com/video/group-of-people-doing-fist-bump-3245304/ |
 | pixabay | stadium  sports  running event  team challenge  dresden  sax | glorydays2012pro | Pixabay Content License | https://pixabay.com/videos/id-8140/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/people-taking-the-list-of-donations-7100878/ |
+| pixabay | kids  game  smiles  fun  boy  girl  family  team  friendship | Marsel_beijing | Pixabay Content License | https://pixabay.com/videos/id-125310/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/a-footage-of-people-stacking-hands-7652718/ |
+| pixabay | business  network  communication  digital  teamwork  marketi | Damnwell_Media | Pixabay Content License | https://pixabay.com/videos/id-150521/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/people-gathering-in-a-counter-type-table-claps-each-other-hands-in-unison-3252777/ |
+| pixabay | man  computer  work  pc  home  mac  windows  desk  clics  ho | CycleZyklusCiclo | Pixabay Content License | https://pixabay.com/videos/id-42305/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/people-working-together-7691629/ |
+| pixabay | woman  ipad  tablet  work  style  thailand  fashion | dejika8929 | Pixabay Content License | https://pixabay.com/videos/id-202277/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/coworkers-with-their-hands-together-inside-a-conference-room-8519325/ |
+| pixabay | elephants  elephant  herd  group  desert  nature  sand  sand | makabera | Pixabay Content License | https://pixabay.com/videos/id-244242/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-feeling-happy-with-her-birthday-present-5529565/ |
+| pixabay | social media  smart phone  mobile  internet  technology  med | Activedia | Pixabay Content License | https://pixabay.com/videos/id-1360/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-greeting-friends-at-a-restaurant-9783042/ |
+| pixabay | girl  woman  child  teenager  teen  young  christmas  santa  | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-245353/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/brown-gift-boxes-on-the-table-5900584/ |
+| pixabay | livestreaming  instagram  facebook  twitter  communication   | ninosouza | Pixabay Content License | https://pixabay.com/videos/id-26774/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-celebrating-birthday-4920224/ |
+| pixabay | dice  points  roll the dice  to play  toy  random  number  r | betexion | Pixabay Content License | https://pixabay.com/videos/id-67858/ |
+| pexels |  | alleksana | Pexels License | https://www.pexels.com/video/high-angle-shot-of-gift-boxes-6477739/ |
+| pixabay | keyboard  button  press  push  keypress  keys  computer  han | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1048/ |
