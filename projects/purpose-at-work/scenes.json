@@ -1068,7 +1068,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pexels_16943317_purpose-at-work-s05-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pexels_16943317_purpose-at-work-s05-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pexels_16943317_purpose-at-work-s05-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a person in a white protective coverall picks up a wrench beside a red barrier",
+     "violation": "",
+     "shot": "B",
+     "shoot": "coverall-wrench-labsite",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_32244800_purpose-at-work-s05-v07",
@@ -1090,7 +1100,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pexels_4888900_worker-picking-up-tool-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pexels_4888900_worker-picking-up-tool-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pexels_4888900_worker-picking-up-tool-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a hand reaches for safety glasses left on a workshop bench",
+     "violation": "",
+     "shot": "A",
+     "shoot": "safetyglasses-workbench",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6196263_worker-tidying-site-unprompted",
@@ -1102,7 +1122,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pexels_6196263_worker-tidying-site-unprompted.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pexels_6196263_worker-tidying-site-unprompted.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pexels_6196263_worker-tidying-site-unprompted.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman in overalls cleans a kitchen counter and sink",
+     "violation": "",
+     "shot": "",
+     "shoot": "kitchen-cleaning-overalls",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_8488108_builder-fixing-small-problem",
@@ -1114,7 +1144,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pexels_8488108_builder-fixing-small-problem.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pexels_8488108_builder-fixing-small-problem.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pexels_8488108_builder-fixing-small-problem.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a worker in a hardhat and vest holds a power drill indoors, focused",
+     "violation": "",
+     "shot": "B",
+     "shoot": "hardhat-drill-indoor-focused",
+     "score": 5.7,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8964291_purpose-at-work-s05-v01",
@@ -1126,7 +1166,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pexels_8964291_purpose-at-work-s05-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pexels_8964291_purpose-at-work-s05-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pexels_8964291_purpose-at-work-s05-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a worker in a hardhat reads a document at a large scaffolded site",
+     "violation": "large-scale industrial scaffold structure",
+     "shot": "A",
+     "shoot": "towercrane-scaffold-bg",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pixabay_42923_purpose-at-work-s05-v04",
@@ -1138,7 +1188,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pixabay_42923_purpose-at-work-s05-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pixabay_42923_purpose-at-work-s05-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pixabay_42923_purpose-at-work-s05-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows many workers on a large scaffolded multi-story building",
+     "violation": "scaffolding gangs, crowd doing the same manual task",
+     "shot": "",
+     "shoot": "aerial-scaffold-crowd",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pixabay_4728_purpose-at-work-s05-v02",
@@ -1150,7 +1210,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pixabay_4728_purpose-at-work-s05-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pixabay_4728_purpose-at-work-s05-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pixabay_4728_purpose-at-work-s05-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a drill drives a screw into a metal washer in close-up",
+     "violation": "",
+     "shot": "B",
+     "shoot": "drill-screw-closeup-1",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_4729_purpose-at-work-s05-v03",
@@ -1162,7 +1232,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__thumb__pixabay_4729_purpose-at-work-s05-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__preview__pixabay_4729_purpose-at-work-s05-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S05__strip__pixabay_4729_purpose-at-work-s05-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand guides a drill driving a screw through a metal plate into wood",
+     "violation": "",
+     "shot": "B",
+     "shoot": "drill-screw-closeup-2",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:59:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_17410515_purpose-at-work-s05-i01",
@@ -1224,7 +1304,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:59:01Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:59:01Z"
   },
   {
    "id": "S06",
@@ -1241,7 +1327,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__coverr_gp4asywsas_worker-sweeping-workspace.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__coverr_gp4asywsas_worker-sweeping-workspace.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__coverr_gp4asywsas_worker-sweeping-workspace.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "feet and a broom sweep debris on a wooden floor indoors",
+     "violation": "",
+     "shot": "D",
+     "shoot": "sweeping-woodfloor-indoor",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_16106453_purpose-at-work-s06-v03",
@@ -1263,7 +1359,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pexels_19832492_purpose-at-work-s06-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pexels_19832492_purpose-at-work-s06-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pexels_19832492_purpose-at-work-s06-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "a worker with a face covering builds a stone wall on a busy street",
+     "violation": "face mask, urban street backdrop",
+     "shot": "C",
+     "shoot": "stonewall-facemask-urban",
+     "score": 2.95,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_27758012_purpose-at-work-s06-v04",
@@ -1275,7 +1381,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pexels_27758012_purpose-at-work-s06-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pexels_27758012_purpose-at-work-s06-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pexels_27758012_purpose-at-work-s06-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a worker stacks bricks beside a rebar-reinforced structure",
+     "violation": "",
+     "shot": "C",
+     "shoot": "brickstack-rebar-structure",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_32534659_purpose-at-work-s06-v01",
@@ -1287,7 +1403,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pexels_32534659_purpose-at-work-s06-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pexels_32534659_purpose-at-work-s06-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pexels_32534659_purpose-at-work-s06-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker balances a stack of bricks on his head on a city street",
+     "violation": "",
+     "shot": "",
+     "shoot": "headcarry-bricks-street",
+     "score": 1.35,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_7744313_organizing-tools-morning-site",
@@ -1299,7 +1425,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pexels_7744313_organizing-tools-morning-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pexels_7744313_organizing-tools-morning-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pexels_7744313_organizing-tools-morning-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a pencil case with a ruler, pencil and sharpener rests on a desk",
+     "violation": "",
+     "shot": "C",
+     "shoot": "stationery-deskkit",
+     "score": 1.7,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_8273668_worker-sweeping-workspace",
@@ -1311,7 +1447,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pexels_8273668_worker-sweeping-workspace.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pexels_8273668_worker-sweeping-workspace.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pexels_8273668_worker-sweeping-workspace.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "feet sweep debris into a dustpan on pavement at night",
+     "violation": "",
+     "shot": "D",
+     "shoot": "sweeping-pavement-night",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_206692_purpose-at-work-s06-v05",
@@ -1323,7 +1469,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pixabay_206692_purpose-at-work-s06-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pixabay_206692_purpose-at-work-s06-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pixabay_206692_purpose-at-work-s06-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a large housing development under excavation",
+     "violation": "large-scale industrial development, no worker",
+     "shot": "",
+     "shoot": "aerial-housing-development",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pixabay_206694_purpose-at-work-s06-v06",
@@ -1335,7 +1491,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pixabay_206694_purpose-at-work-s06-v06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pixabay_206694_purpose-at-work-s06-v06.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pixabay_206694_purpose-at-work-s06-v06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a large housing development beside a road",
+     "violation": "large-scale industrial development, no worker",
+     "shot": "",
+     "shoot": "aerial-housing-development",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "pixabay_67461_purpose-at-work-s06-v07",
@@ -1347,7 +1513,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__thumb__pixabay_67461_purpose-at-work-s06-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__preview__pixabay_67461_purpose-at-work-s06-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S06__strip__pixabay_67461_purpose-at-work-s06-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a worker cuts a paving stone with a grinder in a cloud of dust",
+     "violation": "",
+     "shot": "",
+     "shoot": "paver-grinder-dust",
+     "score": 3.05,
+     "judged_at": "2026-09-09T18:58:07Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_11678433_purpose-at-work-s06-i02",
@@ -1436,7 +1612,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:58:07Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:58:07Z"
   },
   {
    "id": "S07",
@@ -1453,7 +1635,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_10294766_purpose-at-work-s07-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_10294766_purpose-at-work-s07-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_10294766_purpose-at-work-s07-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "several workers in hi-vis vests build rebar forms at a large scaffolded site",
+     "violation": "hi-vis crowd, large-scale scaffold structure",
+     "shot": "A",
+     "shoot": "rebar-scaffold-hivis-crowd",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_32245123_purpose-at-work-s07-v03",
@@ -1465,7 +1657,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_32245123_purpose-at-work-s07-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_32245123_purpose-at-work-s07-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_32245123_purpose-at-work-s07-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "workers move materials inside a large green-netted scaffolded high-rise",
+     "violation": "hi-vis crowd, large-scale scaffold structure",
+     "shot": "C",
+     "shoot": "greennet-scaffold-interior",
+     "score": 2.3,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_7702754_purpose-at-work-s07-v02",
@@ -1477,7 +1679,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_7702754_purpose-at-work-s07-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_7702754_purpose-at-work-s07-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_7702754_purpose-at-work-s07-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a crane lifts a load between glass skyscrapers in a city",
+     "violation": "large-scale urban skyline, no worker",
+     "shot": "",
+     "shoot": "urban-crane-skyscrapers",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_8818344_construction-team-working-togeth",
@@ -1489,7 +1701,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_8818344_construction-team-working-togeth.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_8818344_construction-team-working-togeth.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_8818344_construction-team-working-togeth.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "hands guide wood through a miter saw as two crew members work nearby",
+     "violation": "",
+     "shot": "D",
+     "shoot": "timberframe-mitersaw-crew",
+     "score": 7.35,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8853463_team-energy-construction-site",
@@ -1511,7 +1733,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_9991144_purpose-at-work-s07-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_9991144_purpose-at-work-s07-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_9991144_purpose-at-work-s07-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a silhouetted worker walks along a high steel beam beside a crane basket",
+     "violation": "high-rise steelwork, dangerous height",
+     "shot": "",
+     "shoot": "steelbeam-crane-basket",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_9991145_workers-lifting-together-beam",
@@ -1523,7 +1755,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pexels_9991145_workers-lifting-together-beam.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pexels_9991145_workers-lifting-together-beam.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pexels_9991145_workers-lifting-together-beam.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a worker walks a steel beam as a crane lowers a load beside a crane basket",
+     "violation": "high-rise steelwork, dangerous height",
+     "shot": "A",
+     "shoot": "steelbeam-crane-basket",
+     "score": 0.65,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pixabay_1009_purpose-at-work-s07-v05",
@@ -1535,7 +1777,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__thumb__pixabay_1009_purpose-at-work-s07-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__preview__pixabay_1009_purpose-at-work-s07-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S07__strip__pixabay_1009_purpose-at-work-s07-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a large curved multi-story building stands under construction",
+     "violation": "large-scale industrial building, no worker interaction",
+     "shot": "",
+     "shoot": "curved-highrise-construction",
+     "score": 0.35,
+     "judged_at": "2026-09-09T18:57:05Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_33640549_purpose-at-work-s07-i01",
@@ -1604,7 +1856,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:57:05Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:57:05Z"
   },
   {
    "id": "S08",
@@ -1621,7 +1879,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__thumb__pexels_15574456_purpose-at-work-s08-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__preview__pexels_15574456_purpose-at-work-s08-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__strip__pexels_15574456_purpose-at-work-s08-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a silhouetted worker shovels salt into a wheelbarrow at sunrise by the water",
+     "violation": "",
+     "shot": "B",
+     "shoot": "saltflat-silhouette-sunrise",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:55:08Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5565707_purpose-at-work-s08-v02",
@@ -1633,7 +1901,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__thumb__pexels_5565707_purpose-at-work-s08-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__preview__pexels_5565707_purpose-at-work-s08-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__strip__pexels_5565707_purpose-at-work-s08-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a boot rests beside a drill piercing a wood plank outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "boots-drill-outdoor-closeup",
+     "score": 4.7,
+     "judged_at": "2026-09-09T18:55:08Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6473959_purpose-at-work-s08-v03",
@@ -1645,7 +1923,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__thumb__pexels_6473959_purpose-at-work-s08-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__preview__pexels_6473959_purpose-at-work-s08-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__strip__pexels_6473959_purpose-at-work-s08-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a worker in a hardhat looks up thoughtfully while holding a tablet indoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "plaid-hardhat-tablet-indoor",
+     "score": 5.35,
+     "judged_at": "2026-09-09T18:55:08Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6474139_purpose-at-work-s08-v04",
@@ -1657,7 +1945,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__thumb__pexels_6474139_purpose-at-work-s08-v04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__preview__pexels_6474139_purpose-at-work-s08-v04.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S08__strip__pexels_6474139_purpose-at-work-s08-v04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in a hardhat looks down calmly at a tablet in an unfinished room",
+     "violation": "",
+     "shot": "C",
+     "shoot": "plaid-hardhat-tablet-indoor",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:55:08Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_35823853_purpose-at-work-s08-i01",
@@ -1748,7 +2046,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:55:08Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:55:08Z"
   },
   {
    "id": "S09",
@@ -1765,7 +2069,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_4480576_purpose-at-work-s09-v05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_4480576_purpose-at-work-s09-v05.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__strip__pexels_4480576_purpose-at-work-s09-v05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand sketches a plan in a spiral notebook",
+     "violation": "",
+     "shot": "A",
+     "shoot": "sketch-notebook-plaid",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:56:23Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5583722_purpose-at-work-s09-v04",
@@ -1787,7 +2101,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_6046366_purpose-at-work-s09-v06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_6046366_purpose-at-work-s09-v06.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__strip__pexels_6046366_purpose-at-work-s09-v06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands write in a notebook resting on a table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "notebook-table-closeup",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:56:23Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6963494_purpose-at-work-s09-v03",
@@ -1799,7 +2123,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_6963494_purpose-at-work-s09-v03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_6963494_purpose-at-work-s09-v03.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__strip__pexels_6963494_purpose-at-work-s09-v03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes with a pen in a spiral notebook",
+     "violation": "",
+     "shot": "A",
+     "shoot": "notebook-ring-hand",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:56:23Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7872727_purpose-at-work-s09-v02",
@@ -1811,7 +2145,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_7872727_purpose-at-work-s09-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_7872727_purpose-at-work-s09-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__strip__pexels_7872727_purpose-at-work-s09-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand reaches for a pen beside a closed notebook and coffee cup outdoors",
+     "violation": "",
+     "shot": "B",
+     "shoot": "notebook-coffee-outdoor-table",
+     "score": 7.35,
+     "judged_at": "2026-09-09T18:56:23Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_9391663_purpose-at-work-s09-v01",
@@ -1823,7 +2167,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__thumb__pexels_9391663_purpose-at-work-s09-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__preview__pexels_9391663_purpose-at-work-s09-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S09__strip__pexels_9391663_purpose-at-work-s09-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a hand in a blazer sleeve writes in a small notebook in a dim interior",
+     "violation": "business attire, upscale interior",
+     "shot": "A",
+     "shoot": "blazer-notebook-dim-interior",
+     "score": 4.95,
+     "judged_at": "2026-09-09T18:56:23Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_5915193_writing-in-small-notebook-closeu",
@@ -1905,7 +2259,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "judged_at": "2026-09-09T18:56:23Z"
   },
   {
    "id": "S10",
@@ -1922,7 +2277,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__thumb__pexels_19559851_purpose-at-work-s10-v07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__preview__pexels_19559851_purpose-at-work-s10-v07.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__strip__pexels_19559851_purpose-at-work-s10-v07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a group of road workers in hi-vis vests and hoodies gathers by trucks and cones",
+     "violation": "hi-vis crowd, hoodies",
+     "shot": "A",
+     "shoot": "roadcrew-hivis-hoodies",
+     "score": 1.95,
+     "judged_at": "2026-09-09T18:55:45Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_34672081_purpose-at-work-s10-v06",
@@ -1934,7 +2299,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__thumb__pexels_34672081_purpose-at-work-s10-v06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__preview__pexels_34672081_purpose-at-work-s10-v06.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__strip__pexels_34672081_purpose-at-work-s10-v06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a group sits together in a circle on the grass by a pond",
+     "violation": "",
+     "shot": "A",
+     "shoot": "circle-gathering-pond",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:55:45Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_36034181_purpose-at-work-s10-v01",
@@ -1946,7 +2321,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__thumb__pexels_36034181_purpose-at-work-s10-v01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__preview__pexels_36034181_purpose-at-work-s10-v01.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__strip__pexels_36034181_purpose-at-work-s10-v01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a large crowd of workers in matching uniforms stands assembled in a field",
+     "violation": "large crowd assembly",
+     "shot": "A",
+     "shoot": "mass-crowd-briefing",
+     "score": 2.6,
+     "judged_at": "2026-09-09T18:55:45Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_37500917_purpose-at-work-s10-v02",
@@ -1958,7 +2343,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__thumb__pexels_37500917_purpose-at-work-s10-v02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__preview__pexels_37500917_purpose-at-work-s10-v02.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-purpose-at-work/S10__strip__pexels_37500917_purpose-at-work-s10-v02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "workers carry loaded baskets on shoulder poles beside a brick stack",
+     "violation": "shoulder-yoke load carrying resembles forced-labor framing",
+     "shot": "",
+     "shoot": "brickyard-shoulder-poles",
+     "score": 1.0,
+     "judged_at": "2026-09-09T18:55:45Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_8487956_purpose-at-work-s10-v05",
@@ -2040,7 +2435,13 @@
     "hi-vis crowd"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:34:03Z"
+   "shots_at": "2026-09-09T14:34:03Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:55:45Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:55:45Z"
   }
  ]
 }
