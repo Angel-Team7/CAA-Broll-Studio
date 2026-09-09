@@ -827,7 +827,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__heygen_indoor-pool-glow.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__heygen_indoor-pool-glow.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__heygen_indoor-pool-glow.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "an indoor pool glows with blue neon light between columns",
+     "violation": "luxury spa cliché",
+     "shot": "A",
+     "shoot": "heygen-indoor-pool-glow",
+     "score": 4.6,
+     "judged_at": "2026-09-09T17:42:26Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pexels_6012515_indoor-pool-reflection-light",
@@ -839,7 +849,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__pexels_6012515_indoor-pool-reflection-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__pexels_6012515_indoor-pool-reflection-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__pexels_6012515_indoor-pool-reflection-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "hanging light fixtures reflect over a dark indoor lap pool",
+     "violation": "luxury spa cliché",
+     "shot": "A",
+     "shoot": "pexels-indoor-pool-reflection-light",
+     "score": 4.6,
+     "judged_at": "2026-09-09T17:42:26Z",
+     "rank": 2,
+     "shown": false
     },
     {
      "id": "pexels_6616373_spa-indoor-pool-interior",
@@ -851,7 +871,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__pexels_6616373_spa-indoor-pool-interior.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__pexels_6616373_spa-indoor-pool-interior.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__pexels_6616373_spa-indoor-pool-interior.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "a small stone-tiled plunge pool sits in a warmly lit spa alcove",
+     "violation": "luxury spa cliché",
+     "shot": "A",
+     "shoot": "pexels-spa-indoor-pool-interior",
+     "score": 3.6,
+     "judged_at": "2026-09-09T17:42:26Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_9634976_modern-indoor-pool-warm-glow",
@@ -863,7 +893,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__pexels_9634976_modern-indoor-pool-warm-glow.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__pexels_9634976_modern-indoor-pool-warm-glow.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__pexels_9634976_modern-indoor-pool-warm-glow.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a woman in a wet dress kneels at a dramatically lit poolside",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-modern-indoor-pool-warm-glow",
+     "score": 2.65,
+     "judged_at": "2026-09-09T17:42:26Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_211152_heated-indoor-pool-architecture",
@@ -875,7 +915,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__thumb__pixabay_211152_heated-indoor-pool-architecture.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__preview__pixabay_211152_heated-indoor-pool-architecture.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__pixabay_211152_heated-indoor-pool-architecture.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a lap pool runs through a lush tropical resort courtyard",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-heated-indoor-pool-architecture",
+     "score": 1.65,
+     "judged_at": "2026-09-09T17:42:26Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "openverse_54b51991-d172-4c47-b624-3424_indoor-pool-reflection-light",
@@ -937,7 +987,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:42:26Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:42:26Z"
   },
   {
    "id": "S07",

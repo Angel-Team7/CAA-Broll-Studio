@@ -1336,5 +1336,29 @@
   "reason": "corporate hotel chains",
   "at": "2026-09-09T17:39:53Z",
   "from": "belong-module8/S09"
+ },
+ "heygen:": {
+  "brand": "belong",
+  "reason": "luxury spa cliché",
+  "at": "2026-09-09T17:42:26Z",
+  "from": "belong-module3/S06"
+ },
+ "pexels:https://www.pexels.com/video/an-indoor-swimming-pool-used-for-training-6012515/": {
+  "brand": "belong",
+  "reason": "luxury spa cliché",
+  "at": "2026-09-09T17:42:26Z",
+  "from": "belong-module3/S06"
+ },
+ "pexels:https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/": {
+  "brand": "belong",
+  "reason": "luxury spa cliché",
+  "at": "2026-09-09T17:42:26Z",
+  "from": "belong-module3/S06"
+ },
+ "pixabay:https://pixabay.com/videos/id-211152/": {
+  "brand": "belong",
+  "reason": "resort pool",
+  "at": "2026-09-09T17:42:26Z",
+  "from": "belong-module3/S06"
  }
 }
