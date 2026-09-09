@@ -647,3 +647,33 @@
 | pexels |  | Michelangelo Buonarroti | Pexels License | https://www.pexels.com/video/video-of-a-person-wearing-gloves-4260414/ |
 | pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/man-pounding-metal-with-a-hammer-14514806/ |
 | pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-wearing-medical-gloves-8539169/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/mechanical-tools-on-a-table-6046353/ |
+| pixabay | automobile  black  antique car  vehicle  luxury  car  dare   | raffalel | Pixabay Content License | https://pixabay.com/videos/id-24388/ |
+| pixabay | automobile  black  antique car  vehicle  luxury  car  dare   | raffalel | Pixabay Content License | https://pixabay.com/videos/id-24387/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/close-up-view-of-sanding-wooden-plank-13691892/ |
+| pixabay | fire  calls  wood fire  hot  lena  burning  burn down  light | gustavo_belemmi | Pixabay Content License | https://pixabay.com/videos/id-3742/ |
+| pixabay | tree  division  beaver  nature  flow  water  wood  bark  clo | TheMarcKnight | Pixabay Content License | https://pixabay.com/videos/id-31473/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-parked-vehicles-by-field-30181789/ |
+| pexels |  | Gaurav Kumar | Pexels License | https://www.pexels.com/video/sleek-blue-car-with-detailed-alloy-wheels-30626048/ |
+| pexels |  | Roman Koval | Pexels License | https://www.pexels.com/video/close-up-view-of-a-bicycle-wheel-spinning-15437388/ |
+| pixabay | man  running  escape  dream  road  path  light  door  gate   | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-153991/ |
+| pixabay | man  silhouette  dream  escape  path  light  door  gate  exi | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-187964/ |
+| pixabay | door  wood  shed  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20458/ |
+| pexels |  | H.Espinosa Films | Pexels License | https://www.pexels.com/video/stuff-near-a-window-4327245/ |
+| pexels |  | Frederick Adegoke Snr. | Pexels License | https://www.pexels.com/video/diy-metalwork-in-a-workshop-setting-36392509/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-is-working-on-a-computer-in-a-room-5090784/ |
+| pixabay | paint  color  painter  handicraft  redecorate  renovation  p | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-6385/ |
+| pixabay | painter  paint  dye  repair  design  wall  renovate  work  c | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85343/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-shot-of-painting-materials-6957371/ |
+| pexels |  | Alejandro Torres | Pexels License | https://www.pexels.com/video/close-up-of-plumber-fixing-faucet-9890450/ |
+| pexels |  | Videas Cl | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-blue-water-pipe-27045699/ |
+| pixabay | water  water tap  drinking water  fountain  water pipe  wate | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-181541/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/person-fixing-cable-wires-6079436/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/unscrewing-screws-856232/ |
+| pixabay | sit-ups  fit  sports  training  bones  athletic  fitness  ba | NickiAnimations | Pixabay Content License | https://pixabay.com/videos/id-84706/ |
+| pexels |  | Nitin Khajotia | Pexels License | https://www.pexels.com/video/a-rock-formation-in-the-middle-of-a-forest-18361441/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/top-view-of-a-wooden-deck-and-a-garden-fountain-10900725/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-using-circular-saw-5895455/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-making-leather-belt-6654772/ |
+| pexels |  | Juan Pablo GÃ³mez | Pexels License | https://www.pexels.com/video/man-putting-a-l-square-in-a-table-8148632/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-bartender-putting-a-liquid-in-a-stainless-cup-3783006/ |
