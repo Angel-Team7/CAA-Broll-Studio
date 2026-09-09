@@ -3142,7 +3142,7 @@
      "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V01.mp4",
-     "score": 21.7,
+     "score": 3.65,
      "categories": [
       "construction",
       "man",
@@ -3152,7 +3152,16 @@
      "title": "video man working the construction site",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a worker in a hard hat reviews a small device indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-warehouse-worker-device",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V04",
@@ -3163,7 +3172,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-on-site-during-building-phase-32244797/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V04.mp4",
-     "score": 20.5,
+     "score": 1.0,
      "categories": [
       "building",
       "construction",
@@ -3173,7 +3182,16 @@
      "title": "video construction worker site during building phase",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker in a hard hat crouches among rebar at a large site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rebar-site-worker",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V02",
@@ -3184,7 +3202,7 @@
      "page_url": "https://www.pexels.com/video/low-angle-footage-of-a-construction-worker-securing-the-steel-scaffolding-on-the-building-exterior-3078521/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V02.mp4",
-     "score": 21.1,
+     "score": 1.0,
      "categories": [
       "building",
       "construction",
@@ -3194,7 +3212,16 @@
      "title": "video low angle footage construction worker securing the steel scaffolding the building exterior",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker balances on steel scaffolding high on a building exterior",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-scaffold-height-worker",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V03",
@@ -3205,7 +3232,7 @@
      "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V03.mp4",
-     "score": 20.5,
+     "score": 1.35,
      "categories": [
       "construction",
       "site",
@@ -3215,7 +3242,16 @@
      "title": "video back view workers walking construction site",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a red vest and hard hat walks down a corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-corridor-hivis-walk",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V05",
@@ -3226,7 +3262,7 @@
      "page_url": "https://pixabay.com/videos/id-148541/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V05.mp4",
-     "score": 17.4,
+     "score": 4.35,
      "categories": [
       "building",
       "concrete",
@@ -3236,7 +3272,16 @@
      "title": "cement  concrete  cast  concrete dough  development  boat shoes  work  worker  building  labourer",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "boots and a wheelbarrow rest beside fresh wet concrete",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-wheelbarrow-concrete-boots",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V06",
@@ -3247,7 +3292,7 @@
      "page_url": "https://pixabay.com/videos/id-3140/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V06.mp4",
-     "score": 17.1,
+     "score": 0.65,
      "categories": [
       "building",
       "construction",
@@ -3256,7 +3301,16 @@
      "title": "construction worker  angle grinder  grinder  worker  construction  tool  work  industrial  cut  building  grinding  meta",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "sparks fly from grinding work inside a dark brick building at night",
+     "violation": "welding sparks, dark industrial workshops",
+     "shot": "",
+     "shoot": "pixabay-welding-sparks-night",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V01",
@@ -3267,7 +3321,7 @@
      "page_url": "https://pixabay.com/videos/id-40813/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V01.mp4",
-     "score": 25.5,
+     "score": 3.65,
      "categories": [
       "builder",
       "building",
@@ -3279,7 +3333,16 @@
      "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a worker in a hard hat reviews a small device indoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-warehouse-worker-device",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V02",
@@ -3290,7 +3353,7 @@
      "page_url": "https://www.pexels.com/video/man-working-on-a-construction-site-8087633/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V02.mp4",
-     "score": 19.0,
+     "score": 1.0,
      "categories": [
       "construction",
       "man",
@@ -3300,7 +3363,16 @@
      "title": "video man working construction site",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker balances on steel scaffolding high on a building exterior",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-scaffold-height-worker",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V03",
@@ -3311,7 +3383,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-watering-concrete-slab-30867886/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V03.mp4",
-     "score": 18.7,
+     "score": 1.35,
      "categories": [
       "concrete",
       "construction",
@@ -3320,7 +3392,16 @@
      "title": "video construction worker watering concrete slab",
      "query": "worker checking work progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a red vest and hard hat walks down a corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-corridor-hivis-walk",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V04",
@@ -3331,7 +3412,7 @@
      "page_url": "https://www.pexels.com/video/man-in-helmet-checking-logistics-and-input-data-5100045/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V04.mp4",
-     "score": 17.5,
+     "score": 1.0,
      "categories": [
       "helmet",
       "man"
@@ -3339,7 +3420,16 @@
      "title": "video man helmet checking logistics and input data",
      "query": "worker reviewing checklist clipboard",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker in a hard hat crouches among rebar at a large site",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-rebar-site-worker",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V05",
@@ -3350,7 +3440,7 @@
      "page_url": "https://www.pexels.com/video/inventory-management-guy-talking-on-mobile-phone-5100044/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V05.mp4",
-     "score": 16.9,
+     "score": 4.35,
      "categories": [
       "man",
       "talking"
@@ -3358,7 +3448,16 @@
      "title": "video inventory management guy talking mobile phone",
      "query": "worker reviewing checklist clipboard",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "boots and a wheelbarrow rest beside fresh wet concrete",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-wheelbarrow-concrete-boots",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V06",
@@ -3369,14 +3468,23 @@
      "page_url": "https://pixabay.com/videos/id-3612/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__thumb__edenrise-c2-goal-setting-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__preview__edenrise-c2-goal-setting-S07-V06.mp4",
-     "score": 15.3,
+     "score": 0.65,
      "categories": [
       "worker"
      ],
      "title": "glass maker  glass blower  melting  making  molten  hot  glow  warm  glowing  material  heat  work  glass  blower  worke",
      "query": "person making notes review progress",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S07__strip__edenrise-c2-goal-setting-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "sparks fly from grinding work inside a dark brick building at night",
+     "violation": "welding sparks, dark industrial workshops",
+     "shot": "",
+     "shoot": "pixabay-welding-sparks-night",
+     "judged_at": "2026-09-09T18:34:56Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S07-V07",
@@ -3555,7 +3663,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:34:56Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:34:56Z"
   },
   {
    "id": "S04",
