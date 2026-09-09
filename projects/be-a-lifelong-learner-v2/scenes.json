@@ -1,12 +1,12 @@
 {
  "project": "be-a-lifelong-learner-v2",
- "title": "Edenrise C1 \u2014 Be a Lifelong Learner",
+ "title": "Edenrise C1 — Be a Lifelong Learner",
  "generated": "2026-07-20",
  "scenes": [
   {
    "id": "S01",
    "script_line": "Two start the same job; five years later one is a leader.",
-   "visual_direction": "TWO construction/ground workers together on site \u2014 pair, teamwork, divergent paths.",
+   "visual_direction": "TWO construction/ground workers together on site — pair, teamwork, divergent paths.",
    "clips": [
     {
      "id": "pexels_19832500_construction-workers-pair-hardha",
@@ -184,7 +184,7 @@
      "id": "be-a-lifelong-learner-v2-S01-V04",
      "type": "video",
      "source": "pexels",
-     "author": "To\u00e0n BDS",
+     "author": "Toàn BDS",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/aerial-view-of-large-construction-site-progress-30810442/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S01__thumb__be-a-lifelong-learner-v2-S01-V04.jpg",
@@ -288,12 +288,42 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two young grounds workers starting a job side by side",
+     "pexels": "two young workers starting job side by side",
+     "pixabay": "two workers start job outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "years later: one leading a small crew, pointing at a plan",
+     "pexels": "foreman leading small crew pointing plan",
+     "pixabay": "foreman crew plan pointing",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two pairs of boots walking different paths",
+     "pexels": "two pairs of boots walking paths",
+     "pixabay": "boots walking path two",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S02",
    "script_line": "The fastest growers never stop learning their craft.",
-   "visual_direction": "A construction/ground tradesman working his craft \u2014 bricklaying, carpentry, groundwork.",
+   "visual_direction": "A construction/ground tradesman working his craft — bricklaying, carpentry, groundwork.",
    "clips": [
     {
      "id": "archive_img-20201212121049_craftsman-focused",
@@ -379,7 +409,7 @@
      "id": "pexels_35106288_groundworker-digging",
      "type": "image",
      "source": "pexels",
-     "author": "\u0110\u1eadu Photograph",
+     "author": "Đậu Photograph",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/community-volunteers-digging-a-trench-outdoors-35106288/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S02__thumb__pexels_35106288_groundworker-digging.jpg",
@@ -405,12 +435,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S02__thumb__pixabay_4293847_groundworker-digging.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S02__preview__pixabay_4293847_groundworker-digging.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "landscaper laying stone with care",
+     "pexels": "landscaper laying stone path",
+     "pixabay": "landscaper stone path laying",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "carpenter working a joint by hand",
+     "pexels": "carpenter hand cutting joint",
+     "pixabay": "carpenter joint hand",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a gardener working an orchard",
+     "pexels": "gardener working orchard wide",
+     "pixabay": "gardener orchard wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "factory",
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S03",
    "script_line": "They stay curious, ask questions, study, listen on site.",
-   "visual_direction": "Apprentice/worker engaged on site \u2014 listening, watching a build, checking plans.",
+   "visual_direction": "Apprentice/worker engaged on site — listening, watching a build, checking plans.",
    "clips": [
     {
      "id": "pexels_32244799_groundworker-with-foreman",
@@ -522,7 +582,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pixabay_2762342_groundworker-with-foreman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pixabay_2762342_groundworker-with-foreman.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice watching a mentor prune, listening",
+     "pexels": "apprentice watching mentor prune listening",
+     "pixabay": "apprentice mentor prune watch",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker checking a plan on a truck bonnet",
+     "pexels": "worker reading plan on truck hood",
+     "pixabay": "worker plan truck reading",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of attentive eyes, outdoors",
+     "pexels": "attentive eyes worker close outdoors",
+     "pixabay": "attentive eyes worker close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S04",
@@ -889,12 +979,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker arriving with tools at sunrise",
+     "pexels": "worker arriving with tools sunrise",
+     "pixabay": "worker tools sunrise arrival",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "putting on gloves and looking at the day's task",
+     "pexels": "worker putting on gloves looking at task",
+     "pixabay": "gloves worker task look",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand on a tool handle, ready",
+     "pexels": "hand on tool handle ready close",
+     "pixabay": "hand tool handle ready",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S05",
    "script_line": "Learn from a skill, a mistake, a teammate, from experience.",
-   "visual_direction": "An experienced worker showing a younger one \u2014 mentorship on site.",
+   "visual_direction": "An experienced worker showing a younger one — mentorship on site.",
    "clips": [
     {
      "id": "coverr_yfx3brh85t_worker-learning-coworker",
@@ -996,12 +1115,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__thumb__pixabay_6544391_senior-builder-guiding-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__preview__pixabay_6544391_senior-builder-guiding-worker.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced worker showing a younger one how to set a post",
+     "pexels": "experienced worker showing younger set post",
+     "pixabay": "mentor apprentice post setting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a mistake corrected together, hands",
+     "pexels": "hands correcting mistake together close",
+     "pixabay": "hands correcting together close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two at work in a field",
+     "pexels": "mentor and apprentice working field wide",
+     "pixabay": "mentor apprentice field",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S06",
-   "script_line": "Asking questions is not weakness \u2014 it's wisdom.",
-   "visual_direction": "A worker asking the foreman a question on site \u2014 confident, engaged.",
+   "script_line": "Asking questions is not weakness — it's wisdom.",
+   "visual_direction": "A worker asking the foreman a question on site — confident, engaged.",
    "clips": [
     {
      "id": "pexels_8471051_builder-discussing-plans-on-site",
@@ -1333,12 +1482,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker asking a foreman a question, confident",
+     "pexels": "worker asking foreman question confident",
+     "pixabay": "worker foreman question",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "foreman explaining, pointing at a wall",
+     "pexels": "foreman explaining pointing at wall",
+     "pixabay": "foreman explaining wall",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a nod of understanding",
+     "pexels": "nod of understanding close up",
+     "pixabay": "nod understanding close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S07",
-   "script_line": "Think about a child \u2014 curious, tries new things.",
-   "visual_direction": "A curious child exploring/building/gardening outdoors \u2014 wonder and play.",
+   "script_line": "Think about a child — curious, tries new things.",
+   "visual_direction": "A curious child exploring/building/gardening outdoors — wonder and play.",
    "clips": [
     {
      "id": "coverr_owscnm1g9f_child-planting",
@@ -1430,7 +1608,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__thumb__pexels_7782160_child-gardening-soil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__preview__pexels_7782160_child-gardening-soil.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "curious child digging in a garden with a small trowel",
+     "pexels": "child digging garden small trowel",
+     "pixabay": "child garden digging trowel",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "child examining a leaf closely",
+     "pexels": "child examining leaf closely",
+     "pixabay": "child leaf examining",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a child building with sticks outdoors",
+     "pexels": "child building with sticks outdoors",
+     "pixabay": "child sticks building outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "classroom",
+    "screens",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S08",
@@ -1517,12 +1725,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__thumb__pixabay_8028375_groundworker-pause-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__preview__pixabay_8028375_groundworker-pause-work.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker sitting on a tailgate at day's end, looking at the field",
+     "pexels": "worker sitting on tailgate end of day",
+     "pixabay": "worker tailgate evening",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a tired, thoughtful face at sunset",
+     "pexels": "tired thoughtful face sunset close",
+     "pixabay": "tired face sunset close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker taking off gloves slowly",
+     "pexels": "worker taking off gloves slowly",
+     "pixabay": "worker gloves off slow",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S09",
    "script_line": "You learn by reading, watching, doing, asking.",
-   "visual_direction": "Hands-on construction/ground work \u2014 doing and practicing the trade.",
+   "visual_direction": "Hands-on construction/ground work — doing and practicing the trade.",
    "clips": [
     {
      "id": "coverr_vydinjswe0_carpenter-hands-working",
@@ -1658,7 +1895,7 @@
      "id": "pixabay_73847_hands-mixing-concrete",
      "type": "video",
      "source": "pixabay",
-     "author": "JustY\u00f8u",
+     "author": "JustYøu",
      "license": "Pixabay Content License",
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_73847_hands-mixing-concrete.jpg",
@@ -1698,7 +1935,7 @@
      "id": "pexels_35106288_groundworker-shoveling",
      "type": "image",
      "source": "pexels",
-     "author": "\u0110\u1eadu Photograph",
+     "author": "Đậu Photograph",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/community-volunteers-digging-a-trench-outdoors-35106288/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pexels_35106288_groundworker-shoveling.jpg",
@@ -1734,12 +1971,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__thumb__pixabay_5736096_worker-using-power-tool.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S09__preview__pixabay_5736096_worker-using-power-tool.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands practising a knot on a fence wire",
+     "pexels": "hands tying fence wire practice",
+     "pixabay": "fence wire hands tying",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker watching a colleague then trying",
+     "pexels": "worker watching colleague then trying",
+     "pixabay": "worker watching trying colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of hands-on work in a garden bed",
+     "pexels": "hands on work garden bed wide",
+     "pixabay": "garden bed work wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S10",
-   "script_line": "Today you can learn with AI \u2014 a coach anytime.",
-   "visual_direction": "A construction worker using a tablet/phone ON SITE (a coach in the pocket) \u2014 NOT a desk.",
+   "script_line": "Today you can learn with AI — a coach anytime.",
+   "visual_direction": "A construction worker using a tablet/phone ON SITE (a coach in the pocket) — NOT a desk.",
    "clips": [
     {
      "id": "pexels_8963676_construction-worker-digital-tabl",
@@ -2011,12 +2278,42 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker in a field looking at a phone, then at the plant",
+     "pexels": "worker using phone in field plant",
+     "pixabay": "worker phone field plant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a tablet held over soil with muddy hands",
+     "pexels": "tablet held muddy hands outdoors",
+     "pixabay": "tablet muddy hands outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a worker on a bench outdoors with a phone, tools nearby",
+     "pexels": "worker on bench with phone tools nearby",
+     "pixabay": "worker bench phone tools",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office desk",
+    "laptop indoors",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S11",
    "script_line": "Learn from teammates, leaders, people with experience.",
-   "visual_direction": "A foreman and crew together on site \u2014 shared learning, teamwork.",
+   "visual_direction": "A foreman and crew together on site — shared learning, teamwork.",
    "clips": [
     {
      "id": "pexels_19832488_groundwork-crew-together",
@@ -2092,7 +2389,7 @@
      "id": "pexels_35106288_groundwork-crew-together",
      "type": "image",
      "source": "pexels",
-     "author": "\u0110\u1eadu Photograph",
+     "author": "Đậu Photograph",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/community-volunteers-digging-a-trench-outdoors-35106288/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_35106288_groundwork-crew-together.jpg",
@@ -2128,12 +2425,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_8961030_builders-team-discussion.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_8961030_builders-team-discussion.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman and crew around a plan on a tailgate",
+     "pexels": "foreman crew plan tailgate",
+     "pixabay": "foreman crew tailgate plan",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "experienced worker demonstrating to two others",
+     "pexels": "experienced worker demonstrating two others",
+     "pixabay": "worker demonstrating others",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands pointing on a drawing",
+     "pexels": "hands pointing on drawing close",
+     "pixabay": "hands drawing pointing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S12",
    "script_line": "Your greatest investment is yourself.",
-   "visual_direction": "A confident, skilled construction/ground worker \u2014 mastery, pride.",
+   "visual_direction": "A confident, skilled construction/ground worker — mastery, pride.",
    "clips": [
     {
      "id": "pexels_27876376_skilled-carpenter-working",
@@ -2275,12 +2601,42 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pixabay_4754309_worker-portrait-construction-sit.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pixabay_4754309_worker-portrait-construction-sit.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "confident skilled gardener at work, medium",
+     "pexels": "confident skilled gardener at work",
+     "pixabay": "skilled gardener work",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of expert hands finishing a cut",
+     "pexels": "expert hands finishing pruning cut",
+     "pixabay": "expert hands pruning",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker looking at a finished hedge",
+     "pexels": "worker looking at finished hedge",
+     "pixabay": "worker finished hedge",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks",
+    "intense stare"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S13",
-   "script_line": "Be curious. Never stop growing \u2014 your potential has no limit.",
-   "visual_direction": "A construction/ground worker looking ahead \u2014 aspiration, sunrise, open horizon.",
+   "script_line": "Be curious. Never stop growing — your potential has no limit.",
+   "visual_direction": "A construction/ground worker looking ahead — aspiration, sunrise, open horizon.",
    "clips": [
     {
      "id": "pexels_32636373_construction-worker-sunrise-silh",
@@ -2296,7 +2652,7 @@
      "id": "pexels_34535506_builder-gazing-at-the-horizon",
      "type": "video",
      "source": "pexels",
-     "author": "Burak Bahad\u0131r  B\u00fcy\u00fckk\u0131l\u0131n\u00e7",
+     "author": "Burak Bahadır  Büyükkılınç",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/silhouette-of-man-looking-out-at-scenic-view-34535506/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_34535506_builder-gazing-at-the-horizon.jpg",
@@ -2306,7 +2662,7 @@
      "id": "pexels_35771593_tradesman-proud-on-site-sunrise",
      "type": "video",
      "source": "pexels",
-     "author": "Florian Del\u00e9e",
+     "author": "Florian Delée",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/stunning-sunrise-over-uyuni-train-cemetery-35771593/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_35771593_tradesman-proud-on-site-sunrise.jpg",
@@ -2416,7 +2772,7 @@
      "id": "pexels_33514965_construction-worker-sunrise-silh",
      "type": "image",
      "source": "pexels",
-     "author": "Emrehan  \u00c7olak",
+     "author": "Emrehan  Çolak",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/silhouette-of-a-worker-at-sunset-with-bundle-33514965/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S13__thumb__pexels_33514965_construction-worker-sunrise-silh.jpg",
@@ -2632,12 +2988,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker looking toward the horizon at sunrise over fields",
+     "pexels": "worker looking at sunrise over fields",
+     "pixabay": "worker sunrise fields horizon",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "walking a path uphill with tools, morning",
+     "pexels": "worker walking uphill path tools morning",
+     "pixabay": "worker path uphill morning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a calm hopeful face in warm light",
+     "pexels": "calm hopeful face warm light close",
+     "pixabay": "hopeful face warm light",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S14",
-   "script_line": "[S14] 'I don't know yet' \u2014 admitting, asking guidance, learning",
-   "visual_direction": "A worker uncertain, openly admits not knowing, asks for guidance and begins learning \u2014 confidence through honesty.",
+   "script_line": "[S14] 'I don't know yet' — admitting, asking guidance, learning",
+   "visual_direction": "A worker uncertain, openly admits not knowing, asks for guidance and begins learning — confidence through honesty.",
    "clips": [
     {
      "id": "pexels_11194553_worker-uncertain-asking-help",
@@ -2679,11 +3064,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S14__thumb__pexels_3846255_mentor-reassuring-young-worker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S14__preview__pexels_3846255_mentor-reassuring-young-worker.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker shrugging honestly and asking a colleague",
+     "pexels": "worker admitting not knowing asking colleague",
+     "pixabay": "worker asking colleague honest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "colleague showing him, hands together on the task",
+     "pexels": "colleague showing hands together task",
+     "pixabay": "colleague showing task hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two continuing the work",
+     "pexels": "two workers continuing work together",
+     "pixabay": "workers continue together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S15",
-   "script_line": "[S15] Daily reflection \u2014 the three end-of-day questions",
+   "script_line": "[S15] Daily reflection — the three end-of-day questions",
    "visual_direction": "End of workday: a worker sits quietly with a notebook reflecting, warm evening light.",
    "clips": [
     {
@@ -2710,7 +3124,7 @@
      "id": "pexels_5921272_worker-sitting-quietly-sunset",
      "type": "video",
      "source": "pexels",
-     "author": "Martina Tom\u0161i\u010d",
+     "author": "Martina Tomšič",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/a-girl-sitting-with-her-dog-while-in-the-forest-5921272/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_5921272_worker-sitting-quietly-sunset.jpg",
@@ -2740,17 +3154,46 @@
      "id": "pexels_32525235_thoughtful-worker-golden-hour",
      "type": "image",
      "source": "pexels",
-     "author": "Deniz Karba\u015f",
+     "author": "Deniz Karbaş",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/photo/golden-hour-portrait-of-reflective-man-outdoors-32525235/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_32525235_thoughtful-worker-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__preview__pexels_32525235_thoughtful-worker-golden-hour.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker sitting quietly with a notebook in evening light",
+     "pexels": "worker notebook evening light sitting",
+     "pixabay": "worker notebook evening",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of pen on a notebook page outdoors",
+     "pexels": "pen on notebook page outdoors close",
+     "pixabay": "pen notebook outdoor close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a field at evening, worker small in frame",
+     "pexels": "field evening worker small in frame",
+     "pixabay": "field evening worker wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S16",
-   "script_line": "[S16] Continuous learning \u2014 willing to learn the next thing",
+   "script_line": "[S16] Continuous learning — willing to learn the next thing",
    "visual_direction": "A worker completes one skill, closes the notebook, begins a new task with focus, moves forward confidently.",
    "clips": [
     {
@@ -2793,12 +3236,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__thumb__wikimedia_169574048_learning-next-skill-construction.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16__preview__wikimedia_169574048_learning-next-skill-construction.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker closing a notebook and picking up a new tool",
+     "pexels": "worker closing notebook picking up tool",
+     "pixabay": "worker notebook tool new",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "starting a new task with focus, close on hands",
+     "pexels": "starting new task focus hands close",
+     "pixabay": "new task hands focus",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "walking forward confidently across a yard",
+     "pexels": "worker walking forward confidently yard",
+     "pixabay": "worker walking confident yard",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S16b",
-   "script_line": "[S16] Closing \u2014 happy worker, openness to learn (pick one)",
-   "visual_direction": "A happy, confident worker \u2014 open and eager to learn.",
+   "script_line": "[S16] Closing — happy worker, openness to learn (pick one)",
+   "visual_direction": "A happy, confident worker — open and eager to learn.",
    "clips": [
     {
      "id": "pexels_5020289_young-worker-curious-learning-me",
@@ -2850,7 +3322,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__thumb__pexels_9034495_worker-nodding-listening-to-ment.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S16b__preview__pexels_9034495_worker-nodding-listening-to-ment.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "happy confident worker smiling in a garden",
+     "pexels": "happy confident gardener smiling",
+     "pixabay": "gardener smiling confident",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an open, friendly face",
+     "pexels": "open friendly face close outdoors",
+     "pixabay": "friendly face close outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker among plants in warm light",
+     "pexels": "worker among plants warm light wide",
+     "pixabay": "worker plants warm light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks",
+    "intense stare"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   }
  ]
 }

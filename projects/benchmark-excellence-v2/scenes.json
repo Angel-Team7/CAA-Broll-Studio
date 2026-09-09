@@ -1,11 +1,11 @@
 {
  "project": "benchmark-excellence-v2",
- "title": "Edenrise C1 \u2014 Benchmark Excellence",
+ "title": "Edenrise C1 — Benchmark Excellence",
  "generated": "2026-07-22",
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Worker begins the day with a slow, inefficient method \u2014 an hour on what takes ten minutes.",
+   "script_line": "Worker begins the day with a slow, inefficient method — an hour on what takes ten minutes.",
    "visual_direction": "Construction/land dawn; bricklayer, landscaper, surveyor beginning work.",
    "clips": [
     {
@@ -278,11 +278,41 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "dawn on a land site, landscaper beginning slowly",
+     "pexels": "dawn landscaper beginning work",
+     "pixabay": "dawn landscaper work start",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker using a slow awkward method, carrying one stone at a time",
+     "pexels": "worker carrying one stone at a time",
+     "pixabay": "worker stone carrying slow",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a watch or the sun climbing",
+     "pexels": "sun climbing over field close",
+     "pixabay": "sun rising field close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S02",
-   "script_line": "Pause, observe a more skilled colleague \u2014 'Who already does this better than me?'",
+   "script_line": "Pause, observe a more skilled colleague — 'Who already does this better than me?'",
    "visual_direction": "Observing a highly skilled construction/land worker.",
    "clips": [
     {
@@ -365,11 +395,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S02__thumb__pixabay_3741_digger-operator.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S02__preview__pixabay_3741_digger-operator.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing to watch a skilled colleague lay stone fast",
+     "pexels": "worker watching skilled colleague lay stone",
+     "pixabay": "worker watching colleague stone",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of the skilled hands at work",
+     "pexels": "skilled hands laying stone close",
+     "pixabay": "skilled hands stone close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the two on the same site",
+     "pexels": "two workers same site wide",
+     "pixabay": "two workers site wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S03",
-   "script_line": "This is called BENCHMARKING \u2014 finding an excellent example and learning from it; compare your result with the excellent one.",
+   "script_line": "This is called BENCHMARKING — finding an excellent example and learning from it; compare your result with the excellent one.",
    "visual_direction": "Construction/land hands learning: laying bricks, plastering, planting.",
    "clips": [
     {
@@ -432,11 +491,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S03__thumb__pixabay_148540_trowel-cement.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S03__preview__pixabay_148540_trowel-cement.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "hands learning to plaster beside a finished patch",
+     "pexels": "hands plastering beside finished patch",
+     "pixabay": "plastering hands learning",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "planting a row next to a perfect row",
+     "pexels": "planting row next to perfect row",
+     "pixabay": "planting row perfect next",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "comparing two finished walls side by side, wide",
+     "pexels": "two finished walls side by side",
+     "pixabay": "two walls compare wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S04",
-   "script_line": "The greatest still have coaches \u2014 an experienced foreman demonstrates a better technique.",
+   "script_line": "The greatest still have coaches — an experienced foreman demonstrates a better technique.",
    "visual_direction": "Foreman/site supervisor guiding a worker; gardener teaching.",
    "clips": [
     {
@@ -519,11 +607,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S04__thumb__pixabay_40816_builder-instructing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S04__preview__pixabay_40816_builder-instructing.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced foreman demonstrating a better technique",
+     "pexels": "foreman demonstrating better technique",
+     "pixabay": "foreman demonstrating technique",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "gardener teaching a worker to prune",
+     "pexels": "gardener teaching pruning worker",
+     "pixabay": "gardener teaching pruning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of guided hands",
+     "pexels": "guided hands teaching close",
+     "pixabay": "guided hands teaching",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S05",
-   "script_line": "Excellence leaves clues \u2014 study proven plans, measurements, a high-quality example.",
+   "script_line": "Excellence leaves clues — study proven plans, measurements, a high-quality example.",
    "visual_direction": "Surveying, measuring, reading site plans, setting out foundations.",
    "clips": [
     {
@@ -806,11 +924,48 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "surveyor measuring with a tape on land",
+     "pexels": "surveyor measuring tape on land",
+     "pixabay": "surveyor measuring land",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "reading site plans on a tailgate",
+     "pexels": "reading site plans on tailgate",
+     "pixabay": "site plans tailgate reading",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of string lines set out for foundations",
+     "pexels": "string lines set out foundations close",
+     "pixabay": "string line foundation close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of set-out pegs on cleared ground",
+     "pexels": "set out pegs cleared ground wide",
+     "pixabay": "pegs ground set out",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S06",
-   "script_line": "The best example is close \u2014 clearer emails, better file systems, excellent customer interactions.",
+   "script_line": "The best example is close — clearer emails, better file systems, excellent customer interactions.",
    "visual_direction": "A builder/landscaper demonstrating a technique to a colleague.",
    "clips": [
     {
@@ -827,7 +982,7 @@
      "id": "pexels_13367963_mason-showing",
      "type": "video",
      "source": "pexels",
-     "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+     "author": "FÁBIO REIS DE ABREU (PORTUGA)",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/worker-drilling-brick-wall-13367963/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S06__thumb__pexels_13367963_mason-showing.jpg",
@@ -913,11 +1068,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S06__thumb__pexels_8471051_builder-showing-wall.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S06__preview__pexels_8471051_builder-showing-wall.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "landscaper demonstrating a technique to a colleague",
+     "pexels": "landscaper demonstrating technique colleague",
+     "pixabay": "landscaper technique colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a neat handwritten job note",
+     "pexels": "neat handwritten job note close",
+     "pixabay": "handwritten note job close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker explaining clearly to a visitor at a gate",
+     "pexels": "worker explaining to visitor gate",
+     "pixabay": "worker visitor gate explaining",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "email screens",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S07",
-   "script_line": "AI helps you benchmark \u2014 'Can this be clearer? Simpler? Is there a better method?' on a tablet.",
+   "script_line": "AI helps you benchmark — 'Can this be clearer? Simpler? Is there a better method?' on a tablet.",
    "visual_direction": "Worker with tablet/phone/clipboard ON a construction or land site.",
    "clips": [
     {
@@ -990,11 +1175,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__thumb__pixabay_3741_engineer-tablet-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S07__preview__pixabay_3741_engineer-tablet-site.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker with a tablet on a land site checking a method",
+     "pexels": "worker with tablet on land site",
+     "pixabay": "worker tablet outdoor site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a clipboard with a checklist outdoors",
+     "pexels": "clipboard checklist outdoors close",
+     "pixabay": "clipboard checklist outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker comparing the screen to the work",
+     "pexels": "worker comparing tablet to work outdoors",
+     "pixabay": "worker tablet compare outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office desk",
+    "laptop indoors",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S08",
-   "script_line": "Benchmarking requires humility \u2014 put pride aside, ask, listen. 'Teach me.'",
+   "script_line": "Benchmarking requires humility — put pride aside, ask, listen. 'Teach me.'",
    "visual_direction": "A young apprentice on site, receptive/listening.",
    "clips": [
     {
@@ -1097,11 +1312,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S08__thumb__pixabay_357279_hardhat-trainee.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S08__preview__pixabay_357279_hardhat-trainee.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "young apprentice listening on site, receptive",
+     "pexels": "young apprentice listening on site",
+     "pixabay": "apprentice listening site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a humble nod",
+     "pexels": "humble nod close up outdoors",
+     "pixabay": "nod humble close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the apprentice being shown by an older worker",
+     "pexels": "apprentice shown by older worker wide",
+     "pixabay": "apprentice older worker wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S09",
-   "script_line": "Two workers build the same table \u2014 SETUP: one starts immediately, the other first asks the experienced carpenter.",
+   "script_line": "Two workers build the same table — SETUP: one starts immediately, the other first asks the experienced carpenter.",
    "visual_direction": "Building work: bricklaying, blockwork, timber framing, hands-on construction.",
    "clips": [
     {
@@ -1128,7 +1372,7 @@
      "id": "pexels_10810476_rebar-concrete",
      "type": "video",
      "source": "pexels",
-     "author": "This Vikt\u1ecd",
+     "author": "This Viktọ",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/men-working-on-construction-site-10810476/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S09__thumb__pexels_10810476_rebar-concrete.jpg",
@@ -1204,7 +1448,37 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S09__thumb__pixabay_214661_roof-carpentry.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S09__preview__pixabay_214661_roof-carpentry.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers starting to build the same wooden table",
+     "pexels": "two workers building wooden table",
+     "pixabay": "two workers table building",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one asking the experienced carpenter first",
+     "pexels": "worker asking experienced carpenter",
+     "pixabay": "worker asking carpenter",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of timber being marked",
+     "pexels": "marking timber close up",
+     "pixabay": "timber marking close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "factory",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S10",
@@ -1281,11 +1555,40 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S10__thumb__pexels_7109999_efficient-carpenter-smooth-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S10__preview__pexels_7109999_efficient-carpenter-smooth-work.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker struggling, redoing a joint, frustrated",
+     "pexels": "worker redoing joint frustrated",
+     "pixabay": "worker frustrated redo",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "other worker working smoothly, table taking shape",
+     "pexels": "worker building table smoothly",
+     "pixabay": "worker table smooth build",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a better table top, level",
+     "pexels": "level on table top close",
+     "pixabay": "level table top close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S11",
-   "script_line": "The presentation example \u2014 compare with a strong example, get feedback from someone skilled.",
+   "script_line": "The presentation example — compare with a strong example, get feedback from someone skilled.",
    "visual_direction": "Inspection/feedback on a construction or land site.",
    "clips": [
     {
@@ -1460,7 +1763,7 @@
      "id": "benchmark-excellence-v2-S11-V06",
      "type": "video",
      "source": "pexels",
-     "author": "Val \u0410",
+     "author": "Val А",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/construction-site-worker-inspecting-building-project-36290717/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S11__thumb__benchmark-excellence-v2-S11-V06.jpg",
@@ -1528,11 +1831,40 @@
      "fresh": true,
      "added_by": "search-10-more"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman inspecting a wall and giving feedback",
+     "pexels": "foreman inspecting wall feedback",
+     "pixabay": "foreman inspecting wall",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "comparing with a strong example, pointing between two",
+     "pexels": "pointing between two examples work",
+     "pixabay": "comparing two examples pointing",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand on a level surface",
+     "pexels": "hand on level surface close",
+     "pixabay": "hand surface level close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S12",
-   "script_line": "Good people work hard, great people learn fast \u2014 skilled efficient work guided by a clear standard.",
+   "script_line": "Good people work hard, great people learn fast — skilled efficient work guided by a clear standard.",
    "visual_direction": "A skilled, confident construction/land worker at the peak of their craft.",
    "clips": [
     {
@@ -1549,7 +1881,7 @@
      "id": "pexels_13367963_mason-craftsmanship",
      "type": "video",
      "source": "pexels",
-     "author": "F\u00c1BIO REIS DE ABREU (PORTUGA)",
+     "author": "FÁBIO REIS DE ABREU (PORTUGA)",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/worker-drilling-brick-wall-13367963/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S12__thumb__pexels_13367963_mason-craftsmanship.jpg",
@@ -1625,11 +1957,41 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S12__thumb__pexels_8961155_confident-builder.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S12__preview__pexels_8961155_confident-builder.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "skilled confident worker at the peak of craft, medium",
+     "pexels": "skilled confident worker craft",
+     "pixabay": "skilled worker craft confident",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of efficient hands",
+     "pexels": "efficient hands work close",
+     "pixabay": "efficient hands close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of clean fast work in progress",
+     "pexels": "clean fast work in progress wide",
+     "pixabay": "work progress clean wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks",
+    "intense stare"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S13",
-   "script_line": "Asking for help is normal, sharing knowledge is normal \u2014 the team teaches one another.",
+   "script_line": "Asking for help is normal, sharing knowledge is normal — the team teaches one another.",
    "visual_direction": "A construction/landscaping crew helping each other on site.",
    "clips": [
     {
@@ -1692,18 +2054,48 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__thumb__pixabay_342533_workers-cooperating.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__preview__pixabay_342533_workers-cooperating.mp4"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew helping each other lift a beam",
+     "pexels": "crew helping lift beam",
+     "pixabay": "crew lifting beam together",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "one worker showing another a trick",
+     "pexels": "worker showing another trick",
+     "pixabay": "worker showing trick",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands passing a tool",
+     "pexels": "hands passing tool close",
+     "pixabay": "hands passing tool",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "hi-vis crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S14",
    "script_line": "Before starting an important task, ask: who does this well? What does an excellent result look like?",
-   "visual_direction": "A worker reviews an excellent example/reference before beginning an important task \u2014 learn first, then act.",
+   "visual_direction": "A worker reviews an excellent example/reference before beginning an important task — learn first, then act.",
    "clips": [
     {
      "id": "pexels_35379333_worker-preparing-before-starting",
      "type": "video",
      "source": "pexels",
-     "author": "S\u00c0I G\u00d2N C\u00d4NG TY CP S\u1ea2N XU\u1ea4T - TH\u01af\u01a0NG M\u1ea0I",
+     "author": "SÀI GÒN CÔNG TY CP SẢN XUẤT - THƯƠNG MẠI",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/nighttime-construction-site-with-concrete-mixer-35379333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S14__thumb__pexels_35379333_worker-preparing-before-starting.jpg",
@@ -1759,18 +2151,47 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S14__thumb__pexels_8961624_builder-examining-model-example.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S14__preview__pexels_8961624_builder-examining-model-example.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker studying a finished example before starting",
+     "pexels": "worker studying finished example before starting",
+     "pixabay": "worker studying example",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a photo of excellent work held in hand",
+     "pexels": "photo of finished work held in hand",
+     "pixabay": "photo work hand close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the worker then beginning",
+     "pexels": "worker beginning task after review",
+     "pixabay": "worker beginning task wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   },
   {
    "id": "S15",
-   "script_line": "Never stop benchmarking \u2014 closing montage: observing, asking, learning, improving, pride in excellent work.",
+   "script_line": "Never stop benchmarking — closing montage: observing, asking, learning, improving, pride in excellent work.",
    "visual_direction": "A finished house/wall/landscaped grounds; proud builder.",
    "clips": [
     {
      "id": "pexels_27831586_new-build-home",
      "type": "video",
      "source": "pexels",
-     "author": "David Pickup |  Advertising & Marketing  \ud83c\uddec\ud83c\udde7",
+     "author": "David Pickup |  Advertising & Marketing  🇬🇧",
      "license": "Pexels License",
      "page_url": "https://www.pexels.com/video/the-new-homes-are-being-built-on-a-site-27831586/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pexels_27831586_new-build-home.jpg",
@@ -1836,7 +2257,36 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__thumb__pexels_32383134_finished-house.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S15__preview__pexels_32383134_finished-house.jpg"
     }
-   ]
+   ],
+   "shots": [
+    {
+     "id": "A",
+     "text": "finished landscaped grounds, wide",
+     "pexels": "finished landscaped grounds wide",
+     "pixabay": "landscaped grounds finished",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "proud builder looking at a finished wall",
+     "pexels": "proud builder finished wall",
+     "pixabay": "builder proud wall",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand brushing dust off finished work",
+     "pexels": "hand brushing dust finished work close",
+     "pixabay": "hand brushing finished work",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-09T14:37:00Z"
   }
  ]
 }
