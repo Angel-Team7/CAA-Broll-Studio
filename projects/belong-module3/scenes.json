@@ -1175,7 +1175,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__thumb__heygen_horseback-rider.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__preview__heygen_horseback-rider.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__strip__heygen_horseback-rider.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "rider gallops a horse across an open green field",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-gallop-field",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_31226497_riding-horse-coastal-path",
@@ -1187,7 +1197,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__thumb__pexels_31226497_riding-horse-coastal-path.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__preview__pexels_31226497_riding-horse-coastal-path.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__strip__pexels_31226497_riding-horse-coastal-path.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two riders walk horses along a rocky beach",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-beach-riders",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7658507_horseback-rider-field",
@@ -1199,7 +1219,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__thumb__pexels_7658507_horseback-rider-field.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__preview__pexels_7658507_horseback-rider-field.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__strip__pexels_7658507_horseback-rider-field.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "rider sits on a horse in an open autumn field",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-autumn-rider",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8624895_horse-rider-trail-nature-sunset",
@@ -1221,7 +1251,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__thumb__pixabay_122967_horse-rider-trail-nature-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__preview__pixabay_122967_horse-rider-trail-nature-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S08__strip__pixabay_122967_horse-rider-trail-nature-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "white horse rests its head over a paddock fence",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-paddock-horse",
+     "score": 4.35,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_26770605_horseback-riding-countryside-gol",
@@ -1282,7 +1322,8 @@
     "show jumping arena"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:44:50Z"
   },
   {
    "id": "S09",
@@ -1299,7 +1340,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__thumb__heygen_cliffside-hikers.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__preview__heygen_cliffside-hikers.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__strip__heygen_cliffside-hikers.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "aerial view of hikers walking along a dramatic coastal cliff trail",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-cliff-hikers",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_19632436_hiking-coastal-path-ocean",
@@ -1311,7 +1362,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__thumb__pexels_19632436_hiking-coastal-path-ocean.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__preview__pexels_19632436_hiking-coastal-path-ocean.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__strip__pexels_19632436_hiking-coastal-path-ocean.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hiker with a backpack walks along a rocky coastal path",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-rocky-path-hiker",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_20508053_coastal-hiking-portugal-fisherma",
@@ -1323,7 +1384,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__thumb__pexels_20508053_coastal-hiking-portugal-fisherma.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__preview__pexels_20508053_coastal-hiking-portugal-fisherma.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__strip__pexels_20508053_coastal-hiking-portugal-fisherma.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "aerial view of rugged cliffs meeting the ocean",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-cliff-aerial",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5945835_hikers-coastal-cliff-trail",
@@ -1345,7 +1416,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__thumb__pexels_5946129_hikers-cliff-sea-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__preview__pexels_5946129_hikers-cliff-sea-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S09__strip__pexels_5946129_hikers-cliff-sea-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hiker spreads his arms at a dramatic cliff overlooking the sea",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-cliff-arms",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_29013208_hikers-cliff-sea-sunset",
@@ -1406,7 +1487,8 @@
     "crowds"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "judged_at": "2026-09-09T17:44:50Z"
   },
   {
    "id": "S10",
@@ -1423,7 +1505,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__thumb__heygen_chef-and-eggs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__preview__heygen_chef-and-eggs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__strip__heygen_chef-and-eggs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "basket of fresh brown eggs sits on a kitchen counter",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-egg-basket",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_10048552_chef-holding-fresh-eggs",
@@ -1435,7 +1527,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__thumb__pexels_10048552_chef-holding-fresh-eggs.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__preview__pexels_10048552_chef-holding-fresh-eggs.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__strip__pexels_10048552_chef-holding-fresh-eggs.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "woman peels a small fruit at a bright kitchen table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bright-kitchen",
+     "score": 2.7,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4911914_collecting-eggs-farm-morning",
@@ -1457,7 +1559,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__thumb__pexels_4911915_hands-fresh-eggs-basket-farm.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__preview__pexels_4911915_hands-fresh-eggs-basket-farm.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S10__strip__pexels_4911915_hands-fresh-eggs-basket-farm.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hand collects fresh eggs from a straw-lined henhouse nest",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-henhouse-collect",
+     "score": 8.65,
+     "judged_at": "2026-09-09T17:44:50Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_11722311_fresh-organic-eggs-rustic",
@@ -1518,7 +1630,13 @@
     "supermarket"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:44:50Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:44:50Z"
   },
   {
    "id": "S11",
