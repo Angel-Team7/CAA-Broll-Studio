@@ -827,3 +827,33 @@
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-talking-while-looking-at-a-wall-7816375/ |
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/various-garden-tools-with-wooden-handles-8544303/ |
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-putting-gardening-tools-on-white-table-8543833/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/female-putting-plastic-items-in-the-trash-bin-7551329/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/focused-study-session-with-academic-papers-30117909/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-taking-photo-of-a-black-shoe-7287916/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-holding-a-wood-plank-6474279/ |
+| pixabay | usb  flash drive  hand  memory  flash  portable  device | Danil_Shostak | Pixabay Content License | https://pixabay.com/videos/id-53781/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/efficient-beer-delivery-team-working-outdoors-36306522/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-with-boxes-6406078/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/man-loading-boxes-into-van-5044428/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/two-kids-playing-by-the-dining-table-5998837/ |
+| pexels |  | TREEDEO.ST | Pexels License | https://www.pexels.com/video/crumpled-paper-balls-falling-into-a-bin-11485778/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-keeping-a-condom-in-her-purse-6473750/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-video-of-a-metal-5846391/ |
+| pexels |  | Denys Mikhalevych | Pexels License | https://www.pexels.com/video/a-person-getting-a-sickle-out-of-a-wall-9309692/ |
+| pixabay | man  fabric  cutter  knives  cutting table  tool  work  huma | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-115788/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/women-sharing-ideas-in-decorating-the-wall-6764461/ |
+| pexels |  | Cup of  Couple | Pexels License | https://www.pexels.com/video/painting-materials-on-a-table-7301858/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/person-rolling-a-paint-roller-5799453/ |
+| pexels |  | CityXcape | Pexels License | https://www.pexels.com/video/a-wrecked-car-on-the-street-3974558/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-person-giving-a-paint-bucket-to-another-person-5501219/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/a-person-with-a-luggage-7431858/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-working-on-a-wooden-table-in-a-workshop-5089241/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-man-sitting-on-a-bench-5034581/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-working-using-laptop-8477700/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/real-state-agent-discussing-with-the-family-7348156/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-talking-to-her-clients-7816248/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/women-in-a-under-construction-area-wearing-safety-gears-8487073/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/person-digging-with-sand-4411099/ |
+| pexels |  | fatiha maarouf | Pexels License | https://www.pexels.com/video/a-person-digging-in-the-dirt-with-a-shovel-16939594/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-doing-gardening-7844365/ |
