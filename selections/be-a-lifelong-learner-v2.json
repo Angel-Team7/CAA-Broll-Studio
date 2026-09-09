@@ -69,31 +69,22 @@
   },
   "topup_requests": {
     "S10": {
-      "requested": "2026-09-09T06:00:10Z",
-      "note": "5 more more contextual it's says learn ai - a coach anytime.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:07:37Z",
-      "added": 10
+      "requested": "2026-09-09T21:22:38Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S13": {
-      "requested": "2026-09-09T06:00:11Z",
-      "note": "generate more contextual please.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:08:43Z",
-      "added": 10
+      "requested": "2026-09-09T21:22:40Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S01": {
-      "requested": "2026-09-09T06:00:12Z",
-      "note": "please generate more i don't like any of these, delete these",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:09:59Z",
-      "added": 10
+      "requested": "2026-09-09T21:22:33Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S04": {
       "requested": "2026-09-09T06:00:13Z",
@@ -112,6 +103,60 @@
       "done": true,
       "fulfilled": "2026-09-09T09:11:50Z",
       "added": 10
+    },
+    "S03": {
+      "requested": "2026-09-09T21:22:34Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:22:35Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:22:36Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:22:37Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S11": {
+      "requested": "2026-09-09T21:22:39Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S14": {
+      "requested": "2026-09-09T21:22:41Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S15": {
+      "requested": "2026-09-09T21:22:42Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S16": {
+      "requested": "2026-09-09T21:22:43Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S16b": {
+      "requested": "2026-09-09T21:22:44Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

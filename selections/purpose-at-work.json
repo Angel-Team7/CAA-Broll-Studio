@@ -34,5 +34,55 @@
       "pexels_8487956_purpose-at-work-s10-v05"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-09-09T21:25:51Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:25:52Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:25:53Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:25:54Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S06": {
+      "requested": "2026-09-09T21:25:55Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:25:56Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:25:57Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:25:58Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }

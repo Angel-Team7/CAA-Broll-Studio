@@ -38,42 +38,58 @@
   },
   "topup_requests": {
     "S05": {
-      "requested": "2026-08-18T15:51:29.088Z",
-      "note": "generates more contextual videos",
-      "done": true
+      "requested": "2026-09-09T21:24:58Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S09": {
-      "requested": "2026-08-18T15:52:44.237Z",
-      "note": "generates more contextual videos",
-      "done": true
+      "requested": "2026-09-09T21:25:02Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S04": {
-      "requested": "2026-08-18T16:11:44.794Z",
-      "note": "generates more contextual videos",
-      "done": true
+      "requested": "2026-09-09T21:24:57Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S01": {
-      "requested": "2026-09-02T14:57:26.245Z",
+      "requested": "2026-09-09T21:24:54Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-02T15:41:04Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     },
     "S02": {
-      "requested": "2026-09-02T14:58:19.942Z",
-      "note": "generate 10 more direction is wrong",
-      "reason": "direction",
-      "done": true,
-      "fulfilled": "2026-09-02T15:41:40Z",
-      "added": 10
+      "requested": "2026-09-09T21:24:55Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S06": {
-      "requested": "2026-09-02T15:11:54.734Z",
-      "note": "10 more pleaes direction is wrong",
-      "reason": "direction",
-      "done": true,
-      "fulfilled": "2026-09-02T15:42:40Z",
-      "added": 10
+      "requested": "2026-09-09T21:24:59Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:24:56Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:25:00Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:25:01Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

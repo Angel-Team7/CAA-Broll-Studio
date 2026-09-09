@@ -29,5 +29,54 @@
     ]
   },
   "needs_broll": {},
-  "topup_requests": {}
+  "topup_requests": {
+    "S06": {
+      "requested": "2026-09-09T21:24:32Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:24:33Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:24:34Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:24:35Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S01": {
+      "requested": "2026-09-09T21:24:36Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:24:37Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:24:38Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:24:39Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }

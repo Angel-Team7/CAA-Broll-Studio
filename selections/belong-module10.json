@@ -57,22 +57,52 @@
       "added": 10
     },
     "S04": {
-      "requested": "2026-09-09T06:00:18Z",
-      "note": "10 more contexutal please explaing the situation",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:16:37Z",
-      "added": 10
+      "requested": "2026-09-09T21:22:59Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S13": {
-      "requested": "2026-09-09T06:00:19Z",
-      "note": "10 more videos contexutal explaining the situations",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:18:01Z",
-      "added": 10
+      "requested": "2026-09-09T21:23:01Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S01": {
+      "requested": "2026-09-09T21:22:54Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S11": {
+      "requested": "2026-09-09T21:22:55Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:22:56Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:22:57Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:22:58Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:23:00Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

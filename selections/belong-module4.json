@@ -28,5 +28,67 @@
       "upload_1785080986122_women-and-dog-near-farm-beds"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-09-09T21:23:30Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:23:31Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:23:32Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:23:33Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:23:34Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S06": {
+      "requested": "2026-09-09T21:23:35Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:23:36Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:23:37Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S09": {
+      "requested": "2026-09-09T21:23:38Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:23:39Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }

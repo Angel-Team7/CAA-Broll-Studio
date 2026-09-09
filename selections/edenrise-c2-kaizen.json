@@ -34,23 +34,20 @@
   "topup_requests": {
     "S06": {
       "requested": "2026-08-18T14:31:04.056Z",
-      "note": "generates more contextual vÃÂÃÂÃÂÃÂ­deo",
+      "note": "generates more contextual v\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00addeo",
       "done": true
     },
     "S08": {
-      "requested": "2026-08-20T11:41:17.914Z",
+      "requested": "2026-09-09T21:24:45Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-08-20T11:42:29Z",
-      "added": 10
+      "done": false,
+      "reason": "stock_gap"
     },
     "S04": {
-      "requested": "2026-08-24T09:06:00Z",
-      "note": "more pleaes",
-      "done": true,
-      "fulfilled": "2026-08-24T12:00:00Z",
-      "added": 1,
-      "exhausted": "free stock has no more for this beat"
+      "requested": "2026-09-09T21:24:43Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S05": {
       "requested": "2026-08-24T10:31:09.104Z",
@@ -59,6 +56,30 @@
       "done": true,
       "fulfilled": "2026-08-24T10:35:42Z",
       "added": 10
+    },
+    "S01": {
+      "requested": "2026-09-09T21:24:40Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:24:41Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:24:42Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:24:44Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

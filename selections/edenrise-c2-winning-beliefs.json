@@ -49,6 +49,48 @@
       "done": true,
       "fulfilled": "2026-08-31T14:53:00Z",
       "added": 10
+    },
+    "S01": {
+      "requested": "2026-09-09T21:25:03Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:25:04Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:25:05Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:25:06Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:25:07Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:25:08Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S09": {
+      "requested": "2026-09-09T21:25:09Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

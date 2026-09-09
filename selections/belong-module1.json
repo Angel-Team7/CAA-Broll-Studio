@@ -39,13 +39,58 @@
   },
   "topup_requests": {
     "S06": {
-      "requested": "2026-09-09T06:00:15Z",
-      "note": "more contextual please someone with working with the land or a happy farmer in alentejo.",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:13:04Z",
-      "added": 10
+      "requested": "2026-09-09T21:22:49Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S01": {
+      "requested": "2026-09-09T21:22:45Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:22:46Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:22:47Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:22:48Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:22:50Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:22:51Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S09": {
+      "requested": "2026-09-09T21:22:52Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:22:53Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

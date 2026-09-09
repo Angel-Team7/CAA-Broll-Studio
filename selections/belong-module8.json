@@ -59,28 +59,58 @@
       "fulfilled": "2026-08-12T15:44:22+00:00"
     },
     "S13": {
-      "requested": "2026-08-12T15:26:17.588Z",
-      "note": "more contextual please this is for resort such as belong and craveiral - also delte these existing ones",
-      "done": true,
-      "fulfilled": "2026-08-12T15:44:22+00:00"
+      "requested": "2026-09-09T21:24:07Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S08": {
-      "requested": "2026-09-09T06:00:22Z",
-      "note": "please generate more brolls 7 more videos",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:20:59Z",
-      "added": 10
+      "requested": "2026-09-09T21:24:04Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     },
     "S09": {
-      "requested": "2026-09-09T06:00:23Z",
-      "note": "more videos please 7 mre",
-      "reason": "direction",
-      "avoid": [],
-      "done": true,
-      "fulfilled": "2026-09-09T09:22:39Z",
-      "added": 10
+      "requested": "2026-09-09T21:24:05Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S01": {
+      "requested": "2026-09-09T21:23:59Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:24:00Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:24:01Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:24:02Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:24:03Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:24:06Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
     }
   }
 }

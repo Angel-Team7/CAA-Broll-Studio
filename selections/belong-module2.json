@@ -31,5 +31,49 @@
       "upload_1785075865939_outdoor-table-near-sunset"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-09-09T21:23:17Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:23:18Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:23:19Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S05": {
+      "requested": "2026-09-09T21:23:20Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S06": {
+      "requested": "2026-09-09T21:23:21Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:23:22Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S09": {
+      "requested": "2026-09-09T21:23:23Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }

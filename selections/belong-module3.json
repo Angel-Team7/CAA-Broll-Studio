@@ -28,5 +28,43 @@
       "pexels_34999648_farmers-handshake-field"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {},
+  "topup_requests": {
+    "S02": {
+      "requested": "2026-09-09T21:23:24Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S03": {
+      "requested": "2026-09-09T21:23:25Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S06": {
+      "requested": "2026-09-09T21:23:26Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S10": {
+      "requested": "2026-09-09T21:23:27Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S11": {
+      "requested": "2026-09-09T21:23:28Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S12": {
+      "requested": "2026-09-09T21:23:29Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }

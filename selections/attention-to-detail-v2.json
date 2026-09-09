@@ -34,5 +34,55 @@
       "pexels_5090782_securing-cable-hands-closeup"
     ]
   },
-  "needs_broll": {}
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-09-09T21:22:25Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S02": {
+      "requested": "2026-09-09T21:22:26Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S04": {
+      "requested": "2026-09-09T21:22:27Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S07": {
+      "requested": "2026-09-09T21:22:28Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S08": {
+      "requested": "2026-09-09T21:22:29Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S09": {
+      "requested": "2026-09-09T21:22:30Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S12": {
+      "requested": "2026-09-09T21:22:31Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    },
+    "S13": {
+      "requested": "2026-09-09T21:22:32Z",
+      "note": "",
+      "done": false,
+      "reason": "stock_gap"
+    }
+  }
 }
