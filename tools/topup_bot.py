@@ -290,12 +290,27 @@ SOURCES = (search_pexels, search_pixabay, search_coverr, search_wikimedia)
 def sh(*args, **kw):
     return subprocess.run(args, capture_output=True, text=True, **kw)
 
+NOTE_NOISE = {"please", "pls", "plz", "generate", "generates", "generated", "more", "these", "those", "this",
+              "that", "are", "is", "was", "were", "not", "contextual", "contexual", "contexutal", "context",
+              "relevant", "related", "at", "all", "for", "the", "in", "of", "to", "and", "do", "we", "need",
+              "needs", "want", "brolls", "broll", "videos", "video", "clips", "clip", "footage", "ones", "one",
+              "some", "again", "still", "it", "its", "they", "them", "wrong", "different", "direction",
+              "ten", "10", "other", "others", "new", "fresh", "get", "give", "find", "search", "make", "with"}
+
+def _content(words):
+    """Only the words that name footage — request filler (please, 10 more, not
+    contextual…) never becomes a search term or an avoid term."""
+    return [w for w in words if w not in NOTE_NOISE and len(w) >= 3]
+
 def parse_note(note):
     """Split "more hands in soil, less plated food" into what to chase and what to bar.
 
     A direction complaint is mostly about what must STOP appearing, and that half
     was previously thrown away — the note was flattened into loose keywords, so
-    the same rejected footage came straight back.
+    the same rejected footage came straight back. Reviewer notes are also full of
+    request filler ("please generate 10 more, these are not contextual for
+    hospitality"); only the footage words survive, and "not contextual for X"
+    means chase X, not avoid it.
     """
     text = (note or "").lower()
     want, avoid = [], []
@@ -303,14 +318,20 @@ def parse_note(note):
         chunk = chunk.strip()
         if not chunk:
             continue
+        rel = re.match(r"(?:.*\b)?not\s+(?:contextual|contexual|contexutal|relevant|related|suitable|appropriate|right|good)\b(.*)", chunk)
         neg = re.match(r"(?:less|no|not|without|fewer|avoid|stop|instead of|too|too much|drop)\s+(.*)", chunk)
         pos = re.match(r"(?:more|want|prefer|show|need)\s+(.*)", chunk)
-        if neg:
-            avoid += [w for w in re.findall(r"[a-z]{3,}", neg.group(1))]
+        if rel:
+            words = _content(re.findall(r"[a-z0-9]+", rel.group(1)))
+            if words: want.append(" ".join(words))
+        elif neg:
+            avoid += _content(re.findall(r"[a-z]{3,}", neg.group(1)))
         elif pos:
-            want.append(pos.group(1).strip())
+            words = _content(re.findall(r"[a-z0-9]+", pos.group(1)))
+            if words: want.append(" ".join(words))
         else:
-            want.append(chunk)
+            words = _content(re.findall(r"[a-z0-9]+", chunk))
+            if words: want.append(" ".join(words))
     return [w for w in want if w], avoid
 
 
