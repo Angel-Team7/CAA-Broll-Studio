@@ -1466,7 +1466,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_18366463_carpenter-sanding-wood-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_18366463_carpenter-sanding-wood-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_18366463_carpenter-sanding-wood-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a hand sands the corner of an ornate wooden cabinet",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-sanding-wood-corner",
+     "score": 4.05,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_2909914_barista-latte-art-close-up",
@@ -1478,7 +1488,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_2909914_barista-latte-art-close-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_2909914_barista-latte-art-close-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_2909914_barista-latte-art-close-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a barista pours latte art into a cup of coffee",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-latte-art-pour-a",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_4510946_knife-sharpening-close-up",
@@ -1490,7 +1510,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_4510946_knife-sharpening-close-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_4510946_knife-sharpening-close-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_4510946_knife-sharpening-close-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a hand sharpens a knife on a whetstone",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-knife-sharpening-whetstone",
+     "score": 8.3,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5901665_ironing-linen-close-up-hands",
@@ -1502,7 +1532,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_5901665_ironing-linen-close-up-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_5901665_ironing-linen-close-up-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_5901665_ironing-linen-close-up-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a hand presses a linen hem with an iron",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-linen-ironing-hands",
+     "score": 8.3,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6661935_craftsman-hands-detail",
@@ -1514,7 +1554,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_6661935_craftsman-hands-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_6661935_craftsman-hands-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_6661935_craftsman-hands-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands apply oil to the edge of a leather bag",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-leather-oiling-hands",
+     "score": 4.35,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_6958178_folding-napkins-precise-hands",
@@ -1526,7 +1576,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_6958178_folding-napkins-precise-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_6958178_folding-napkins-precise-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_6958178_folding-napkins-precise-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands precisely fold a patterned napkin on a tablecloth",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-napkin-folding-precise",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7199617_precise-table-setting",
@@ -1538,7 +1598,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_7199617_precise-table-setting.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_7199617_precise-table-setting.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_7199617_precise-table-setting.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a woman carefully arranges plates and bowls on a table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-table-setting-studio",
+     "score": 5.3,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7220979_polishing-wine-glass-close-up",
@@ -1550,7 +1620,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pexels_7220979_polishing-wine-glass-close-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pexels_7220979_polishing-wine-glass-close-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pexels_7220979_polishing-wine-glass-close-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "hands polish a green glass bottle near machinery",
+     "violation": "industrial machines",
+     "shot": "",
+     "shoot": "pexels-glass-bottle-machine",
+     "score": 2.0,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "pixabay_125458_craftsman-hands-detail",
@@ -1562,7 +1642,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pixabay_125458_craftsman-hands-detail.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pixabay_125458_craftsman-hands-detail.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pixabay_125458_craftsman-hands-detail.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a circular saw cuts precisely through a wooden board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-circular-saw-precision",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "pixabay_166808_carpenter-sanding-wood-detail",
@@ -1584,7 +1674,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__thumb__pixabay_330339_barista-latte-art-close-up.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__preview__pixabay_330339_barista-latte-art-close-up.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__pixabay_330339_barista-latte-art-close-up.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a barista pours latte art into a cup of coffee",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-latte-art-pour-b",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:46:20Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "pexels_17057034_precise-table-setting",
@@ -1644,7 +1744,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "judged_at": "2026-09-09T17:46:20Z"
   },
   {
    "id": "S07",

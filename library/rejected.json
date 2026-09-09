@@ -1444,5 +1444,11 @@
   "reason": "unrelated outdoor activity",
   "at": "2026-09-09T17:45:45Z",
   "from": "belong-module5/S10"
+ },
+ "pexels:https://www.pexels.com/video/person-sanding-the-rim-of-a-glass-cup-7220979/": {
+  "brand": "belong",
+  "reason": "industrial machines",
+  "at": "2026-09-09T17:46:20Z",
+  "from": "belong-module12/S06"
  }
 }
