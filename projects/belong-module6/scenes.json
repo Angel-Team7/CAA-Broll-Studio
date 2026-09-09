@@ -766,7 +766,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S09__thumb__pexels_6466246_hotel-room-preparation.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S09__preview__pexels_6466246_hotel-room-preparation.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S09__strip__pexels_6466246_hotel-room-preparation.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a maid in a formal black-and-white uniform sets folded towels on a bed in an ornate room",
+     "violation": "hotel chain uniform",
+     "shot": "B",
+     "shoot": "pexels-luxury-maid-uniform-towels",
+     "score": 1.95,
+     "judged_at": "2026-09-09T17:28:15Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pexels_35383621_hands-smoothing-sheets",
@@ -807,7 +817,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:28:15Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:28:15Z"
   },
   {
    "id": "S10",
@@ -824,7 +840,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S10__thumb__pexels_6195140_maintenance-worker-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S10__preview__pexels_6195140_maintenance-worker-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S10__strip__pexels_6195140_maintenance-worker-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked maintenance worker in a red uniform stands by a van and ladder",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-maintenance-worker-van-ladder",
+     "score": 0.65,
+     "judged_at": "2026-09-09T17:28:35Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pixabay_357281_maintenance-worker-outdoors",
@@ -883,7 +909,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:28:35Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:28:35Z"
   }
  ]
 }

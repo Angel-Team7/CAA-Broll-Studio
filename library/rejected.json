@@ -1186,5 +1186,17 @@
   "reason": "luxury villa",
   "at": "2026-09-09T17:24:58Z",
   "from": "belong-module1/S08"
+ },
+ "pexels:https://www.pexels.com/video/housekeeper-placing-fresh-towels-on-bed-6466246/": {
+  "brand": "belong",
+  "reason": "hotel chain uniform",
+  "at": "2026-09-09T17:28:15Z",
+  "from": "belong-module6/S09"
+ },
+ "pexels:https://www.pexels.com/video/man-holding-a-vacuum-cleaner-6195140/": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:28:35Z",
+  "from": "belong-module6/S10"
  }
 }
