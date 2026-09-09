@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_5971448_mentor-listening-younger-colleag.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_5971448_mentor-listening-younger-colleag.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_5971448_mentor-listening-younger-colleag.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two women in blazers talk in a glass corporate office corridor",
+     "violation": "corporate office, glass meeting room",
+     "shot": "",
+     "shoot": "pexels-glass-office-corridor-blazers",
+     "score": 0.0,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "pexels_6975636_two-people-coffee-conversation-w",
@@ -40,7 +50,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_7123932_sincere-discussion-morning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_7123932_sincere-discussion-morning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_7123932_sincere-discussion-morning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a family shares coffee and conversation at a wooden table in morning light",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-family-coffee-morning-wood",
+     "score": 7.3,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_7426761_manager-employee-conversation-re",
@@ -52,7 +72,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_7426761_manager-employee-conversation-re.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_7426761_manager-employee-conversation-re.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_7426761_manager-employee-conversation-re.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a business meeting with laptops and wine glasses behind blinds",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-office-meeting-wine-blinds",
+     "score": 1.35,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_7643334_serious-conversation-across-wood",
@@ -64,7 +94,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_7643334_serious-conversation-across-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_7643334_serious-conversation-across-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_7643334_serious-conversation-across-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two women in business blazers sit at a conference room table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pexels-boardroom-blazers-conference",
+     "score": 0.0,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "pexels_7953512_two-people-honest-talk",
@@ -76,7 +116,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_7953512_two-people-honest-talk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_7953512_two-people-honest-talk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_7953512_two-people-honest-talk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two people talk over coffee at a small table in a modern office lounge",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-office-lounge-coffee-talk",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "pexels_8089930_two-people-talking-terrace-eveni",
@@ -88,7 +138,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_8089930_two-people-talking-terrace-eveni.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_8089930_two-people-talking-terrace-eveni.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_8089930_two-people-talking-terrace-eveni.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "two people lean out a colorful window chatting and laughing at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-window-chat-colorful-facade",
+     "score": 3.7,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_9810153_two-colleagues-talking-cafe-tabl",
@@ -100,7 +160,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pexels_9810153_two-colleagues-talking-cafe-tabl.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pexels_9810153_two-colleagues-talking-cafe-tabl.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pexels_9810153_two-colleagues-talking-cafe-tabl.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two people talk at a trendy urban café table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-urban-cafe-talk",
+     "score": 3.35,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_180_conversation-wooden-table",
@@ -112,7 +182,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__thumb__pixabay_180_conversation-wooden-table.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__preview__pixabay_180_conversation-wooden-table.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S01__strip__pixabay_180_conversation-wooden-table.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "close-up of a hand cradling a warm coffee mug",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-coffee-mug-handheld",
+     "score": 5.7,
+     "judged_at": "2026-09-09T17:37:12Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_4051137_sincere-discussion-morning",
@@ -165,7 +245,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:37:12Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:37:12Z"
   },
   {
    "id": "S02",

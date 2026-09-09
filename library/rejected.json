@@ -1318,5 +1318,17 @@
   "reason": "corporate",
   "at": "2026-09-09T17:38:13Z",
   "from": "belong-module3/S03"
+ },
+ "pexels:https://www.pexels.com/video/two-people-talking-together-5971448/": {
+  "brand": "belong",
+  "reason": "corporate office, glass meeting room",
+  "at": "2026-09-09T17:37:12Z",
+  "from": "belong-module12/S01"
+ },
+ "pexels:https://www.pexels.com/video/businesswomen-in-meeting-room-7643334/": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-09T17:37:12Z",
+  "from": "belong-module12/S01"
  }
 }
