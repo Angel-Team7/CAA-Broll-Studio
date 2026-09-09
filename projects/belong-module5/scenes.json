@@ -954,7 +954,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__thumb__pixabay_10822_writing-review-laptop.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__preview__pixabay_10822_writing-review-laptop.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__strip__pixabay_10822_writing-review-laptop.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "close-up of hands typing on a laptop keyboard",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-keyboard-typing-review",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:49:06Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pixabay_202987_looking-phone-photos-smiling",
@@ -966,7 +976,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__thumb__pixabay_202987_looking-phone-photos-smiling.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__preview__pixabay_202987_looking-phone-photos-smiling.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S09__strip__pixabay_202987_looking-phone-photos-smiling.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands hold a phone displaying photos on a wooden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-phone-photos-wood",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:49:06Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6588431_jam-jar-kitchen-counter",
@@ -1008,7 +1028,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:49:06Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:49:06Z"
   },
   {
    "id": "S10",
