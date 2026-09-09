@@ -232,7 +232,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__thumb__pexels_38298805_guests-arriving-countryside.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__preview__pexels_38298805_guests-arriving-countryside.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__strip__pexels_38298805_guests-arriving-countryside.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "an aerial view of an outdoor wedding reception at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-wedding-dusk",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:45:12Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6396290_welcome-drink-guests",
@@ -254,7 +264,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__thumb__pixabay_82602_refreshing-drink-terrace.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__preview__pixabay_82602_refreshing-drink-terrace.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S03__strip__pixabay_82602_refreshing-drink-terrace.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a lemon slice fizzes in a glass of sparkling water",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-lemon-sparkling-macro",
+     "score": 5.05,
+     "judged_at": "2026-09-09T17:45:12Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_14024974_warm-welcome-resort",
@@ -306,7 +326,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:45:12Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:45:12Z"
   },
   {
    "id": "S04",
