@@ -83,3 +83,82 @@
 | pixabay | yellow  frame  typography  dots | wicketsix | Pixabay Content License | https://pixabay.com/videos/id-40392/ |
 | pixabay | hammer  nail  carpentry  carpenter  wood  woodworker  craft  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-277/ |
 | pixabay | fireworks  party  celebrate  new year  2026  extreme  drone  | Gylfi | Pixabay Content License | https://pixabay.com/videos/id-326677/ |
+| pexels | a woman walking on the sand | Dziana Hasanbekava | Pexels License | https://www.pexels.com/video/a-woman-walking-on-the-sand-6401587/ |
+| pexels | rear view on woman walking with hills in background | Nastya Gorskaya | Pexels License | https://www.pexels.com/video/rear-view-on-woman-walking-with-hills-in-background-11355817/ |
+| pexels | woman walking across field | Hardlight: Overlays for Edits / iOS / Android | Pexels License | https://www.pexels.com/video/woman-walking-across-field-11839193/ |
+| pexels | drone footage of a person walking in the countryside on a fo | 91 TAF | Pexels License | https://www.pexels.com/video/drone-footage-of-a-person-walking-in-the-countryside-on-a-foggy-day-15542238/ |
+| pexels | a person walking through the woods with a backpack | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-person-walking-through-the-woods-with-a-backpack-28450009/ |
+| pexels | walking on an unpaved pathway | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/walking-on-an-unpaved-pathway-6338335/ |
+| pexels | a man hiking early in the morning | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-man-hiking-early-in-the-morning-5387243/ |
+| pexels | beautiful view of a woman walking at remote habitat | Taryn Elliott | Pexels License | https://www.pexels.com/video/beautiful-view-of-a-woman-walking-at-remote-habitat-5234911/ |
+| pexels | slow motion footage of a man kicking dirt of dry ground | Ricky Esquivel | Pexels License | https://www.pexels.com/video/slow-motion-footage-of-a-man-kicking-dirt-of-dry-ground-2981524/ |
+| pexels | nature earth people working earth day | Roman Kaiuk🇺🇦 | Pexels License | https://www.pexels.com/video/nature-earth-people-working-earth-day-4221961/ |
+| pexels | gardener handling rich compost in wheelbarrow | K | Pexels License | https://www.pexels.com/video/gardener-handling-rich-compost-in-wheelbarrow-31145888/ |
+| pexels | a person holding a eucalyptus plant with soil | Cup of  Couple | Pexels License | https://www.pexels.com/video/a-person-holding-a-eucalyptus-plant-with-soil-6963393/ |
+| pexels | a person putting seeds on the soil | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-putting-seeds-on-the-soil-7781752/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | land  nature  landscape  rural  countryside  hay  summer  so | XanhSen901 | Pixabay Content License | https://pixabay.com/videos/id-329281/ |
+| pixabay | onion  cut  hands  knife  cook  prepare  food  kitchen  clos | klimkin | Pixabay Content License | https://pixabay.com/videos/id-11230/ |
+| pixabay | coffee  cup  breakfast  lemon  drink  espresso  a cup of cof | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4854/ |
+| pixabay | painting  drawing  colors  design  brush  artist painting  a | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-960/ |
+| pexels | a wooden walkway through the swamp with trees | Zane Holmes | Pexels License | https://www.pexels.com/video/a-wooden-walkway-through-the-swamp-with-trees-17717629/ |
+| pexels | wooden walkway and some empty houses | Dyar Barware | Pexels License | https://www.pexels.com/video/wooden-walkway-and-some-empty-houses-5993333/ |
+| pexels | aerial view of lakeside boardwalk in autumn | Efrem  Efre | Pexels License | https://www.pexels.com/video/aerial-view-of-lakeside-boardwalk-in-autumn-36574626/ |
+| pexels | a wooden staircase in the middle of the trees during daytime | Pat Whelen | Pexels License | https://www.pexels.com/video/a-wooden-staircase-in-the-middle-of-the-trees-during-daytime-6533277/ |
+| pexels | a wooden walkway leads to a wooden bridge | JIUN-JE LIN | Pexels License | https://www.pexels.com/video/a-wooden-walkway-leads-to-a-wooden-bridge-18267911/ |
+| pexels | aerial view of people walking on wooden bridge | Kenan Turguç | Pexels License | https://www.pexels.com/video/aerial-view-of-people-walking-on-wooden-bridge-31023028/ |
+| pexels | scenic view of lincoln park nature boardwalk | Airam Dato-on | Pexels License | https://www.pexels.com/video/scenic-view-of-lincoln-park-nature-boardwalk-39315984/ |
+| pexels | caruru vaupes tipo vivienda | Julián Armando Santos | Pexels License | https://www.pexels.com/video/caruru-vaupes-tipo-vivienda-26173077/ |
+| pexels | wooden path on seashore | FÁBIO REIS DE ABREU (PORTUGA) | Pexels License | https://www.pexels.com/video/wooden-path-on-seashore-13366377/ |
+| pexels | beautiful traditional wooden house in nature | Bonie Amin | Pexels License | https://www.pexels.com/video/beautiful-traditional-wooden-house-in-nature-28836000/ |
+| pexels | aerial view of lush greenery and hills | Chanaka Herath | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-greenery-and-hills-30201267/ |
+| pexels | aerial view of urban residential area | Sergei Starostin | Pexels License | https://www.pexels.com/video/aerial-view-of-urban-residential-area-30226809/ |
+| pexels | aerial view of suburban landscape in black and white | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-suburban-landscape-in-black-and-white-39188845/ |
+| pexels | aerial view of modern residential complex | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-modern-residential-complex-30203721/ |
+| pixabay | kefalonia  greece  summer  holiday  abandoned  house  earthq | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-249279/ |
+| pixabay | kefalonia  greece  summer  holiday  abandoned  house  earthq | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-249270/ |
+| pixabay | house  tree  presents  christmas | L30nxx | Pixabay Content License | https://pixabay.com/videos/id-143498/ |
+| pixabay | boat  electric boat  multicoloured  web  boardwalk  tourism  | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-118058/ |
+| pexels | a man walking through the woods | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-walking-through-the-woods-8296518/ |
+| pexels | sunny day stroll through open field | Zakhar Vozhdaienko | Pexels License | https://www.pexels.com/video/sunny-day-stroll-through-open-field-30658575/ |
+| pexels | a person walking through a field with the sun rising | Jean  Verschaeren | Pexels License | https://www.pexels.com/video/a-person-walking-through-a-field-with-the-sun-rising-17791081/ |
+| pexels | scenic olive tree in a tranquil field | Mihman Duğanlı | Pexels License | https://www.pexels.com/video/scenic-olive-tree-in-a-tranquil-field-31324464/ |
+| pexels | woman wearing white dress walking on the field | Ron Lach | Pexels License | https://www.pexels.com/video/woman-wearing-white-dress-walking-on-the-field-10213766/ |
+| pexels | sunlit olive grove in zakynthos greece | Frank Litschel | Pexels License | https://www.pexels.com/video/sunlit-olive-grove-in-zakynthos-greece-30600695/ |
+| pexels | man walking outdoors | Claudio AFC | Pexels License | https://www.pexels.com/video/man-walking-outdoors-5195356/ |
+| pexels | a smiling woman in a flowery dress running in a meadow | Ron Lach | Pexels License | https://www.pexels.com/video/a-smiling-woman-in-a-flowery-dress-running-in-a-meadow-10544168/ |
+| pexels | serene landscape with lone oak tree | Cafer SEVİNÇ | Pexels License | https://www.pexels.com/video/serene-landscape-with-lone-oak-tree-39416223/ |
+| pexels | cinematic walk in sunlit downtown street | Vladimir Kalugin | Pexels License | https://www.pexels.com/video/cinematic-walk-in-sunlit-downtown-street-28808272/ |
+| pexels | person walking alone in the woods | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-walking-alone-in-the-woods-5840477/ |
+| pexels | people walking in the middle of a field | Paulo Renato | Pexels License | https://www.pexels.com/video/people-walking-in-the-middle-of-a-field-4189164/ |
+| pexels | a man is standing in front of an olive tree | K | Pexels License | https://www.pexels.com/video/a-man-is-standing-in-front-of-an-olive-tree-20606525/ |
+| pexels | sunlight filtering through oak trees canopy | FENG HE | Pexels License | https://www.pexels.com/video/sunlight-filtering-through-oak-trees-canopy-38366337/ |
+| pixabay | portugal  west coast  alentejo | Pitterfish | Pixabay Content License | https://pixabay.com/videos/id-369366/ |
+| pixabay | portugal  west coast  alentejo | Pitterfish | Pixabay Content License | https://pixabay.com/videos/id-369364/ |
+| pixabay | field  holm oaks  farms  drone  landscape  nature  encina  g | mvalero | Pixabay Content License | https://pixabay.com/videos/id-156618/ |
+| pixabay | seedlings  oak seedlings  oak  tree seedlings  nature  germi | adege | Pixabay Content License | https://pixabay.com/videos/id-280286/ |
+| pixabay | field  landscape  nature  holm oaks  encina  green  andalusi | mvalero | Pixabay Content License | https://pixabay.com/videos/id-156620/ |
+| pixabay | tree  branch  oak  moon  leafless  bald  winter  orbit  natu | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-133766/ |
+| pexels | drone footage of couple holding hands while running | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/drone-footage-of-couple-holding-hands-while-running-6965884/ |
+| pexels | couple hugging each other under the tree | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-hugging-each-other-under-the-tree-9389092/ |
+| pexels | man giving gifts to woman | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-giving-gifts-to-woman-6286304/ |
+| pexels | friends having hot tea in a country house | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/friends-having-hot-tea-in-a-country-house-6184291/ |
+| pexels | couple taking selfie | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-taking-selfie-6318315/ |
+| pexels | a couple holding their wine glasses | Ron Lach | Pexels License | https://www.pexels.com/video/a-couple-holding-their-wine-glasses-9243465/ |
+| pexels | couple holding hands while running | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/couple-holding-hands-while-running-6965833/ |
+| pexels | a couple staring at each other while holding their wine glas | Ron Lach | Pexels License | https://www.pexels.com/video/a-couple-staring-at-each-other-while-holding-their-wine-glasses-9243598/ |
+| pexels | a couple burning woods | Ron Lach | Pexels License | https://www.pexels.com/video/a-couple-burning-woods-9210347/ |
+| pexels | couple putting christmas ornaments on a christmas tree | Gustavo Fring | Pexels License | https://www.pexels.com/video/couple-putting-christmas-ornaments-on-a-christmas-tree-5895284/ |
+| pexels | rural farm life worker tending to field | Kashif Shah | Pexels License | https://www.pexels.com/video/rural-farm-life-worker-tending-to-field-31638875/ |
+| pexels | a close up shot of eggs | Klaus Nielsen | Pexels License | https://www.pexels.com/video/a-close-up-shot-of-eggs-6287595/ |
+| pexels | a person is holding a basket with eggs | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-basket-with-eggs-4911913/ |
+| pexels | a group of people playing soccer in a field | cottonbro studio | Pexels License | https://www.pexels.com/video/a-group-of-people-playing-soccer-in-a-field-4928682/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76884/ |
+| pixabay | hens  chicken coop  field  richeling  moselle  france  poult | monateliervideo | Pixabay Content License | https://pixabay.com/videos/id-7129/ |
+| pixabay | chicken  farm  poultry  hen  livestock  rooster  feather  ba | MostafaElTurkey36 | Pixabay Content License | https://pixabay.com/videos/id-26644/ |
+| pixabay | rooster  hen  farm  chicken  crest  food  eggs  field | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-137607/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76881/ |
+| pixabay | chick  poultry  chicken  farm yard  cute  fluffy  cub  pluma | Dan_Kaesler | Pixabay Content License | https://pixabay.com/videos/id-29874/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76882/ |
+| pixabay | happy  child  childhood  portrait  fun  happiness  kid  cute | fajarbudi86 | Pixabay Content License | https://pixabay.com/videos/id-44223/ |
