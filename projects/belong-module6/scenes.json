@@ -284,7 +284,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__thumb__pexels_7131833_linen-bed-morning-light.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__preview__pexels_7131833_linen-bed-morning-light.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__strip__pexels_7131833_linen-bed-morning-light.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand sets a croissant on a softly lit linen bed",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-linen-bed-croissant",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:30:15Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_7131839_warm-scandinavian-bedroom",
@@ -296,7 +306,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__thumb__pexels_7131839_warm-scandinavian-bedroom.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__preview__pexels_7131839_warm-scandinavian-bedroom.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__strip__pexels_7131839_warm-scandinavian-bedroom.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a hand reaches for a mug beside a candlelit bedside table with linen bedding",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-bedside-ceramics-candles",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:30:15Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7303639_minimalist-interior-wood",
@@ -308,7 +328,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__thumb__pexels_7303639_minimalist-interior-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__preview__pexels_7303639_minimalist-interior-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S03__strip__pexels_7303639_minimalist-interior-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a man reaches into a wooden kitchen cabinet stacked with handmade ceramic dishes",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-wood-cabinet-ceramics-kitchen",
+     "score": 7.35,
+     "judged_at": "2026-09-09T17:30:15Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "openverse_a8a4032a-f6e9-4fe0-ab03-32bd_natural-materials-interior",
@@ -360,7 +390,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "judged_at": "2026-09-09T17:30:15Z"
   },
   {
    "id": "S04",
@@ -387,7 +418,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__thumb__pexels_8967847_wood-burning-stove.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__preview__pexels_8967847_wood-burning-stove.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__strip__pexels_8967847_wood-burning-stove.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "hands warm themselves by a lit wood-burning stove in a cozy room",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hands-warming-stove",
+     "score": 9.0,
+     "judged_at": "2026-09-09T17:30:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_15178_wood-burning-stove",
@@ -399,7 +440,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__thumb__pixabay_15178_wood-burning-stove.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__preview__pixabay_15178_wood-burning-stove.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S04__strip__pixabay_15178_wood-burning-stove.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "extreme close-up of flames burning inside a wood stove",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-fire-flames-closeup",
+     "score": 5.35,
+     "judged_at": "2026-09-09T17:30:34Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_26224773_wood-burning-stove",
@@ -448,7 +499,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:30:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:30:34Z"
   },
   {
    "id": "S05",
