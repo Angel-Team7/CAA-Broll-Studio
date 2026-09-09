@@ -160,3 +160,98 @@ main{padding:18px 20px 80px;max-width:1500px;margin:0 auto}
 .src-best{background:#123a2a;color:#7fe0b0}
 .src-wait{background:#2a2a2a;color:#aaa}
 .clip-cap{font-size:12px;color:var(--muted);padding:4px 8px 0;line-height:1.3}
+
+/* ============================================================================
+   LIBRARY (library.html) — the archive wiki. The cockpit is per-lesson; this is
+   per-clip and per-tag, so it borrows the shell and adds page/chip furniture.
+   ========================================================================== */
+body.lib main{max-width:1400px}
+.crumbs{font-size:12.5px;color:var(--muted);display:flex;align-items:center;gap:7px;flex-wrap:wrap}
+.crumbs a{color:var(--accent);text-decoration:none}
+.crumbs .sep{opacity:.5}
+.search{background:var(--panel2);color:var(--text);border:1px solid var(--line);
+  border-radius:8px;padding:7px 11px;font-size:13px;min-width:230px}
+.search:focus{outline:none;border-color:var(--accent)}
+.cockpitlink{color:var(--accent);text-decoration:none;font-size:13px;font-weight:600;
+  border:1px solid var(--line);border-radius:8px;padding:6px 11px}
+.cockpitlink:hover{border-color:var(--accent)}
+
+.hero{padding:6px 0 18px;border-bottom:1px solid var(--line);margin-bottom:20px}
+.hero h2{margin:0 0 6px;font-size:22px}
+.hero p{margin:0;max-width:760px}
+.statrow{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+.statbox{background:var(--panel);border:1px solid var(--line);border-radius:11px;
+  padding:10px 15px;min-width:96px;text-decoration:none;color:inherit;display:block}
+a.statbox:hover{border-color:var(--accent)}
+.statbox b{display:block;font-size:20px;font-variant-numeric:tabular-nums}
+.statbox span{color:var(--muted);font-size:12px}
+
+.secttl{font-size:15px;margin:26px 0 12px;padding-bottom:7px;border-bottom:1px solid var(--line)}
+.shelf{margin-bottom:22px}
+.shelfhead{display:flex;align-items:baseline;gap:11px;margin-bottom:9px;flex-wrap:wrap}
+.shelfhead h3{margin:0;font-size:15px}
+.shelfhead .more{margin-left:auto;color:var(--accent);text-decoration:none;font-size:12.5px}
+.strip{display:grid;gap:12px;grid-auto-flow:column;grid-auto-columns:215px;
+  overflow-x:auto;padding-bottom:8px;scrollbar-width:thin}
+
+.facets{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+.facetcard{background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:13px 15px}
+.facetcard h4{margin:0 0 10px;font-size:13.5px;font-weight:650}
+.facetcard h4 .muted{font-weight:400;font-size:12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:6px;background:var(--panel2);
+  border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:12.5px;
+  color:var(--text);text-decoration:none;max-width:100%}
+.chip:hover{border-color:var(--accent);color:#fff}
+.chip span{color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}
+.small{font-size:11.5px;margin:8px 0 0}
+
+.pagehead{margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+.pagehead h2{margin:2px 0 6px;font-size:21px;line-height:1.3}
+.kicker{font-size:11px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+.alsoblock{margin-top:14px}
+.alsottl{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:7px}
+
+.cliphead{display:grid;gap:22px;grid-template-columns:minmax(320px,1fr) minmax(320px,1fr);
+  align-items:start}
+@media(max-width:860px){.cliphead{grid-template-columns:1fr}}
+.media.big{border-radius:13px;overflow:hidden;border:1px solid var(--line)}
+.clipmeta h2{margin:0 0 12px;font-size:20px;line-height:1.3}
+table.meta{width:100%;border-collapse:collapse;margin:15px 0;font-size:13px}
+table.meta th{text-align:left;color:var(--muted);font-weight:500;padding:5px 12px 5px 0;
+  white-space:nowrap;vertical-align:top;width:1%}
+table.meta td{padding:5px 0}
+table.meta a{color:var(--accent)}
+.curate{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+  padding:13px 15px;margin:16px 0}
+.starbtn{width:100%;font-size:13px;font-weight:600;padding:9px}
+.starbtn.on{background:#3a2f12;border-color:#e0b02e;color:#f5d98a}
+.cfield{display:block;margin-top:11px;font-size:12px;color:var(--muted)}
+.cfield input,.cfield textarea{display:block;width:100%;margin-top:5px;background:var(--panel2);
+  color:var(--text);border:1px solid var(--line);border-radius:8px;padding:8px 10px;
+  font-size:13px;font-family:inherit;resize:vertical}
+.cfield input:focus,.cfield textarea:focus{outline:none;border-color:var(--accent)}
+.usedlist{list-style:none;margin:0;padding:0;font-size:13px}
+.usedlist li{padding:5px 0;border-bottom:1px solid var(--line);display:flex;gap:9px;
+  align-items:baseline;flex-wrap:wrap}
+.usedlist a{color:var(--accent);text-decoration:none}
+.cockpitjump{color:var(--green);text-decoration:none;font-size:12px;margin-left:auto}
+.shelfnote{background:rgba(57,217,138,.07);border:1px solid var(--greendim);border-radius:9px;
+  padding:9px 12px;font-size:12.5px;color:#9fe3c0;margin:14px 0 0}
+
+/* library tiles: the cockpit's .card, but a link to a page instead of a tick target */
+.lib .card{text-decoration:none;color:inherit;border-width:1px;display:block}
+.lib .card:hover{border-color:var(--accent)}
+.tfoot{padding:7px 9px;font-size:11.5px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.tfoot .ttl{color:#e6edf3;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.starflag{position:absolute;top:7px;right:7px;background:rgba(224,176,46,.92);color:#221a00;
+  border-radius:6px;padding:1px 6px;font-size:11px;font-weight:700;z-index:2}
+.shelfflag{position:absolute;bottom:7px;left:7px;background:rgba(28,124,63,.92);color:#eafff0;
+  border-radius:6px;padding:1px 7px;font-size:10.5px;font-weight:600;z-index:2}
+.nopreview{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  color:var(--muted);font-size:11.5px;background:var(--panel2)}
+.morewrap{display:flex;justify-content:center;padding:20px 0 40px}
+.deadflag{position:absolute;bottom:7px;left:7px;background:rgba(120,30,40,.92);color:#ffd9de;
+  border-radius:6px;padding:1px 7px;font-size:10.5px;font-weight:600;z-index:2}
+.media.big .nopreview{padding:0 24px;text-align:center;line-height:1.5}

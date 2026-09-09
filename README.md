@@ -23,6 +23,20 @@ Live at https://angel-team7.github.io/CAA-Broll-Studio/
 
 Approved ticks are never changed by automation. Only a human unticks.
 
+## For editors — the library (📚 in the top bar)
+
+The cockpit answers "what goes in this scene". The **library** answers "what do we own":
+every clip the harvester has ever gathered, as a wiki. Each clip is a page (preview, source,
+licence, author, which lessons already spent it) and every tag is a page listing everything
+that carries it, so one click walks from a clip to *worker* to *workshop* to the next clip.
+Search the top bar, or follow the facets: who is on screen, what they are doing, where,
+harvest theme, shot scale, source, and whether it is still on the shelf.
+
+Editors curate as they browse: **★ mark as benchmark** for the best of a kind, add **editor
+tags** (which become wiki pages of their own), and leave a **note for the edit**. That lands in
+`library/curation.json` — approvals and cards are never touched. Connect GitHub in the cockpit
+once and curation is shared with everyone; otherwise it stays in that browser.
+
 ## How it hangs together
 
 | Piece | What it does | Details |
@@ -32,6 +46,8 @@ Approved ticks are never changed by automation. Only a human unticks.
 | Previews & thumbs | 480p, on GitHub **Releases** (`media-<slug>`, `media-library`) | never in git — see `tools/README-media-architecture.md` |
 | Masters | full resolution, on the SSD only | fetched per approved clip with `tools/fetch_masters.py` |
 | Shared library (`library/index.json`) | every clip we own, faceted; searched first on every click | stocked hourly by the harvester |
+| Library wiki (`library.html`) | the archive as browsable pages — one per clip, one per tag — cross-linked both ways | 📚 Library in the cockpit's top bar |
+| Curation (`library/curation.json`) | editors' ★ benchmarks, their own tags, and notes for the edit | written only by the library wiki; never touches a card or an approval |
 | Search 10 more / Direction is wrong | GitHub Action fired by a click | `tools/README-search-10-more.md` |
 | Script intake | Claude cloud routine, weekdays hourly: Drive → cards → commit | `tools/README-media-architecture.md` |
 

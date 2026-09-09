@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edenrise B-roll Library</title>
+<link rel="stylesheet" href="style.css?v=20260909h">
+</head>
+<body class="lib">
+<header>
+  <div class="bar">
+    <h1>📚 B-roll Library</h1>
+    <nav class="crumbs" id="crumbs"></nav>
+    <div class="controls">
+      <input id="q" class="search" type="search" placeholder="Search the archive…"
+             autocapitalize="off" autocorrect="off" spellcheck="false">
+      <span id="stat" class="stat"></span>
+      <span id="syncstate" class="syncstate"></span>
+      <a class="cockpitlink" href="index.html">🎬 Cockpit ▸</a>
+    </div>
+  </div>
+  <div id="tokenbar" class="tokenbar">
+    <span class="muted">Curation saves to: <b id="savemode">local (browser)</b>.</span>
+    <span id="localwarn" class="localwarn" hidden>⚠️ Not connected — stars, tags and notes stay in this browser only. Open the cockpit and press <b>Connect GitHub…</b> to share them with the team.</span>
+  </div>
+</header>
+
+<main id="view"><p class="muted pad">Loading the archive…</p></main>
+
+<div id="toast" class="toast"></div>
+<script src="library.js?v=20260909h"></script>
+</body>
+</html>
