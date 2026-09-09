@@ -601,7 +601,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_31099748_gardener-working-alone-pruning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pexels_31099748_gardener-working-alone-pruning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pexels_31099748_gardener-working-alone-pruning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a man prunes bare orchard branches with electric shears",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-orchard-pruning-shears",
+     "score": 6.7,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_4254302_waiter-acting-quickly-restaurant",
@@ -613,7 +623,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_4254302_waiter-acting-quickly-restaurant.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pexels_4254302_waiter-acting-quickly-restaurant.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pexels_4254302_waiter-acting-quickly-restaurant.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a waiter wipes down a table quickly in a modern restaurant",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-waiter-wipe-table-modern",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_5138025_receptionist-helping-guest-confi",
@@ -625,7 +645,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_5138025_receptionist-helping-guest-confi.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pexels_5138025_receptionist-helping-guest-confi.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pexels_5138025_receptionist-helping-guest-confi.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "hands sign papers at a rustic reception desk beside a bell",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-reception-desk-papers-bell",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6466243_hotel-housekeeper-working-indepe",
@@ -647,7 +677,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_6474562_staff-member-carrying-supplies-h.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pexels_6474562_staff-member-carrying-supplies-h.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pexels_6474562_staff-member-carrying-supplies-h.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a gloved bellhop stacks white boxes in an opulent hotel lobby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bellhop-boxes-opulent-lobby",
+     "score": 1.65,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_8430969_barista-preparing-order-confiden",
@@ -659,7 +699,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pexels_8430969_barista-preparing-order-confiden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pexels_8430969_barista-preparing-order-confiden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pexels_8430969_barista-preparing-order-confiden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a barista prepares an order at a trendy café counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-barista-trendy-cafe-prep",
+     "score": 4.0,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pixabay_132_waiter-solving-problem",
@@ -671,7 +721,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__pixabay_132_waiter-solving-problem.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__pixabay_132_waiter-solving-problem.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__pixabay_132_waiter-solving-problem.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hands assemble a jigsaw puzzle on a white table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-puzzle-hands-table",
+     "score": 0.7,
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "pexels_5999818_decisive-worker-moment",
@@ -692,7 +752,7 @@
      "page_url": "https://pixabay.com/videos/id-45686/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V01.mp4",
-     "score": 0,
+     "score": 3.35,
      "categories": [],
      "title": "street  man  worker  vietnam  life",
      "query": "worker generates more contextual videos",
@@ -701,7 +761,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a street worker sweeps and mops a wet outdoor pavement",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-street-sweeper-worker",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-module12-S03-V03",
@@ -712,7 +781,7 @@
      "page_url": "https://pixabay.com/videos/id-262468/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V03.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "blue-collar workers  worker  textile  cotton",
      "query": "worker generates more contextual videos",
@@ -721,7 +790,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a textile worker tends rows of spinning machines in a factory",
+     "violation": "sewing and industry, factories, warehouses",
+     "shot": "",
+     "shoot": "pixabay-textile-factory-spinning",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V04",
@@ -732,7 +810,7 @@
      "page_url": "https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V04.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generates more contextual videos",
@@ -741,7 +819,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a forklift operator moves lumber at a construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-forklift-construction-lumber",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V05",
@@ -752,7 +839,7 @@
      "page_url": "https://pixabay.com/videos/id-39892/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V05.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "office  laptop  business  computer  notebook  work  the internet  table  technology  company  launch  student  team  corporate  plan",
      "query": "autonomy action team",
@@ -761,7 +848,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a construction worker cuts rebar with an angle grinder, sparks flying",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-rebar-grinder-sparks",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V06",
@@ -772,7 +868,7 @@
      "page_url": "https://www.pexels.com/video/man-lifting-boxes-inside-the-warehouse-4292580/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V06.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generates more contextual videos",
@@ -781,7 +877,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a warehouse worker carries a cardboard box past storage shelves",
+     "violation": "factories, warehouses",
+     "shot": "",
+     "shoot": "pexels-warehouse-worker-box",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V07",
@@ -792,7 +897,7 @@
      "page_url": "https://pixabay.com/videos/id-159024/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V07.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "students  university  college  academic  school  project  team  teamwork  group project  collaboration  research  reading  essay",
      "query": "autonomy action team",
@@ -801,7 +906,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "cement is poured from a mixer at a construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-cement-mixer-pour",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V08",
@@ -812,7 +926,7 @@
      "page_url": "https://www.pexels.com/video/nighttime-construction-site-with-concrete-mixer-35379333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V08.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generates more contextual videos",
@@ -821,7 +935,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hard-hatted construction worker checks a device at a build site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-hardhat-worker-device",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V09",
@@ -832,7 +955,7 @@
      "page_url": "https://pixabay.com/videos/id-244242/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V09.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "elephants  herd  group  desert  nature  elephant  sand  sand dunes  africa  together  team",
      "query": "autonomy action team",
@@ -841,7 +964,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hi-vis worker shovels sand into a wheelbarrow beside a large pile",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-hivis-wheelbarrow-sand",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V10",
@@ -852,7 +984,7 @@
      "page_url": "https://www.pexels.com/video/man-working-on-the-construction-site-5100043/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V10.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generates more contextual videos",
@@ -861,7 +993,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two hi-vis workers stand on a scaffolding platform at a construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-scaffolding-hivis-workers",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V11",
@@ -872,7 +1013,7 @@
      "page_url": "https://pixabay.com/videos/id-710/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V11.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "board  write  man  memo  memory  chalk  meeting  meet  office  business  team",
      "query": "autonomy action team",
@@ -881,7 +1022,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "wet cement is dumped from a wheelbarrow onto the ground",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-wheelbarrow-wet-cement",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V12",
@@ -892,7 +1042,7 @@
      "page_url": "https://www.pexels.com/video/construction-site-forklift-moving-lumber-32244792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V12.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "worker generates more contextual videos",
@@ -901,7 +1051,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "warehouse workers carry boxes through tall storage racks",
+     "violation": "factories, warehouses",
+     "shot": "",
+     "shoot": "pexels-warehouse-workers-boxes-racks",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module12-S03-V13",
@@ -912,7 +1071,7 @@
      "page_url": "https://pixabay.com/videos/id-1365/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__thumb__belong-module12-S03-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__preview__belong-module12-S03-V13.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "puppet  puppet show  street  show  doll  toy  traditional  marionette  white  play  entertainment  hand  performance  wood  fun  colorful  happy  look  feeling  intention  dummy  hold  expression  mimic  indonesia  facial  situation  theatrical  explain",
      "query": "worker member assesses situation",
@@ -921,7 +1080,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S03__strip__belong-module12-S03-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker lays paving stones with sand and a shovel",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-paving-stones-shovel",
+     "judged_at": "2026-09-09T17:42:41Z",
+     "rank": 18,
+     "shown": false
     }
    ],
    "timing_source": "unrecorded",
@@ -954,7 +1122,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:29Z"
+   "shots_at": "2026-09-09T14:27:29Z",
+   "judged_at": "2026-09-09T17:42:41Z"
   },
   {
    "id": "S04",
