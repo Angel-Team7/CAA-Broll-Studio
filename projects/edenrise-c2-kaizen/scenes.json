@@ -2238,8 +2238,8 @@
      "shot": "",
      "shoot": "pexels-mechanic-garage-bench",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 11,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V28",
@@ -2290,7 +2290,7 @@
      "shot": "",
      "shoot": "pexels-goggles-garage-bench",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 12,
+     "rank": 14,
      "shown": false
     },
     {
@@ -2379,7 +2379,7 @@
      "shot": "",
      "shoot": "pixabay-usb-drive-colorful",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 14,
+     "rank": 23,
      "shown": false
     },
     {
@@ -2437,7 +2437,7 @@
      "shot": "",
      "shoot": "pixabay-hands-mince-garlic",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 13,
+     "rank": 15,
      "shown": false
     },
     {
@@ -2478,7 +2478,7 @@
      "page_url": "https://pixabay.com/videos/id-33742/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V43.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V43.mp4",
-     "score": 0,
+     "score": 2.0,
      "categories": [],
      "title": "wash your hands  water  soap  water tap  hygiene  hand  clean  hand washing  bathroom sink  coronavirus",
      "query": "hands sorting screws into jars",
@@ -2487,7 +2487,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V43.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "hands wash under a running tap with soap",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-handwashing-sink",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S05-V44",
@@ -2498,7 +2507,7 @@
      "page_url": "https://www.pexels.com/video/men-working-in-a-warehouse-4281405/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V44.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V44.mp4",
-     "score": 0,
+     "score": 0.65,
      "categories": [],
      "title": "",
      "query": "worker direction is wrong",
@@ -2507,7 +2516,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V44.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "three workers walk a warehouse aisle checking a tablet",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-workers-tablet",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V45",
@@ -2518,7 +2536,7 @@
      "page_url": "https://pixabay.com/videos/id-130651/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V45.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V45.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  person  people",
      "query": "worker direction is wrong",
@@ -2527,7 +2545,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V45.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman in a retail interior is handed a takeaway bag",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-retail-woman-takeaway",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V46",
@@ -2538,7 +2565,7 @@
      "page_url": "https://www.pexels.com/video/people-walking-down-the-street-with-their-dogs-25747363/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V46.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V46.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "worker direction is wrong",
@@ -2547,7 +2574,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V46.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "pedestrians cross a city street past a tree trunk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-street-crossing-pedestrians",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V47",
@@ -2558,7 +2594,7 @@
      "page_url": "https://pixabay.com/videos/id-70856/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V47.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V47.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "highway  road  car  transportation  vehicle  asphalt  aerial  view  drive  driving  fast  flight  flying  freeway  journey  transport  truck  worker  aerial view",
      "query": "worker direction is wrong",
@@ -2567,7 +2603,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V47.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an empty desert highway stretches toward distant mesas at dusk",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-desert-highway-dusk",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V48",
@@ -2578,7 +2623,7 @@
      "page_url": "https://www.pexels.com/video/back-view-of-workers-walking-in-construction-site-5434220/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V48.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V48.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "worker direction is wrong",
@@ -2587,7 +2632,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V48.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a worker in a hi-vis vest and hard hat walks a stripped building corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-hallway-construction",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V49",
@@ -2598,7 +2652,7 @@
      "page_url": "https://pixabay.com/videos/id-42698/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V49.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V49.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "machine  asphalt paver  new road  building  asphalt  roads  worker  work  heavy  cars  equipment  filthy  street",
      "query": "worker direction is wrong",
@@ -2607,7 +2661,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V49.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a road roller and paver work a fresh asphalt road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-road-roller-machinery",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V50",
@@ -2636,7 +2699,7 @@
      "page_url": "https://pixabay.com/videos/id-174008/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V51.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V51.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "woman  smile  communication  gesture  expression  asian  close up  young  university",
      "query": "direction is wrong close up",
@@ -2645,7 +2708,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V51.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a young woman smiles at the camera in an outdoor portrait",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-portrait-woman-smiling",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V52",
@@ -2656,7 +2728,7 @@
      "page_url": "https://www.pexels.com/video/rural-tractor-ride-on-a-dirt-road-37611943/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V52.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V52.mp4",
-     "score": 0,
+     "score": 1.7,
      "categories": [],
      "title": "",
      "query": "worker direction is wrong",
@@ -2665,7 +2737,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V52.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a small tractor pulls a cart along a rural dirt road",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-tractor-cart-rural-road",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S05-V53",
@@ -2676,7 +2757,7 @@
      "page_url": "https://pixabay.com/videos/id-42356/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__thumb__edenrise-c2-kaizen-S05-V53.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__preview__edenrise-c2-kaizen-S05-V53.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "bumblebee  garden  nature  close up",
      "query": "direction is wrong close up",
@@ -2685,7 +2766,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S05__strip__edenrise-c2-kaizen-S05-V53.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a bumblebee lands on a purple thistle flower",
+     "violation": "wildlife, flowers-only",
+     "shot": "",
+     "shoot": "pixabay-bee-flower-macro",
+     "judged_at": "2026-09-09T19:14:43Z",
+     "rank": 24,
+     "shown": false
     }
    ],
    "onscreen": "1. Why? 2. Eliminate? 3. Simplify? 4. Systemize? 5. Improve the result?",
@@ -2728,7 +2818,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "judged_at": "2026-09-09T18:33:03Z"
+   "judged_at": "2026-09-09T19:14:43Z"
   },
   {
    "id": "S06",
@@ -2750,7 +2840,7 @@
      "page_url": "https://pixabay.com/videos/id-2340/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V01.mp4",
-     "score": 15.5,
+     "score": 0.0,
      "categories": [
       "meeting",
       "people",
@@ -2761,7 +2851,16 @@
      "title": "meeting  planning  marketing  business  team  people  office  teamwork  group  discussion  business meeting  group meeti",
      "query": "woman organizing files office shelf",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands at an office flat-lay desk with notebooks and pencils",
+     "violation": "office",
+     "shot": "",
+     "shoot": "pixabay-office-flatlay-planning",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V02",
@@ -2772,7 +2871,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V02.mp4",
-     "score": 15.9,
+     "score": 2.7,
      "categories": [
       "land",
       "man",
@@ -2781,7 +2880,16 @@
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
      "query": "farmer arranging harvest crates",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a farmer gathers cut cornstalks alone in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-farmer-cornfield-solo",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V03",
@@ -2792,7 +2900,7 @@
      "page_url": "https://pixabay.com/videos/id-73535/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V03.mp4",
-     "score": 14.9,
+     "score": 1.35,
      "categories": [
       "craftsman",
       "man"
@@ -2800,7 +2908,16 @@
      "title": "man  board  craftsman  wood  work  person  handwork  environment  shelves",
      "query": "gardener organizing greenhouse shelves",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man sands a wooden skateboard deck in a cluttered indoor workshop",
+     "violation": "dark industrial workshops",
+     "shot": "",
+     "shoot": "pixabay-workshop-skateboard-sanding",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V05",
@@ -2811,7 +2928,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-putting-soil-in-the-pot-6508714/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V05.mp4",
-     "score": 16.76,
+     "score": 6.7,
      "categories": [
       "man",
       "soil",
@@ -2820,7 +2937,16 @@
      "title": "video woman putting soil the pot",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a woman in gloves pots seedlings on a greenhouse bench",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-greenhouse-woman-potting",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V08",
@@ -2831,14 +2957,23 @@
      "page_url": "https://www.pexels.com/video/a-female-worker-harvesting-7332181/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V08.mp4",
-     "score": 15.97,
+     "score": 6.05,
      "categories": [
       "worker"
      ],
      "title": "video female worker harvesting",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a woman harvests strawberries along a greenhouse row",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-greenhouse-woman-harvest",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V06",
@@ -2849,7 +2984,7 @@
      "page_url": "https://www.pexels.com/video/workers-sorting-tomatoes-8633312/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V06.mp4",
-     "score": 15.97,
+     "score": 0.65,
      "categories": [
       "worker",
       "workers"
@@ -2857,7 +2992,16 @@
      "title": "video workers sorting tomatoes",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "workers in hairnets sort tomatoes on a packing line",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-factory-tomato-sorting-line",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V07",
@@ -2868,7 +3012,7 @@
      "page_url": "https://www.pexels.com/video/workers-sorting-onions-at-local-market-stall-39029338/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V07.mp4",
-     "score": 15.97,
+     "score": 0.65,
      "categories": [
       "worker",
       "workers"
@@ -2876,7 +3020,16 @@
      "title": "video workers sorting onions local market stall",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a group sorts onions at an outdoor market stall, some wearing masks",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-market-onion-sorting-crowd",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V12",
@@ -2887,7 +3040,7 @@
      "page_url": "https://www.pexels.com/video/young-man-working-in-greenhouse-6510775/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V12.mp4",
-     "score": 15.97,
+     "score": 7.35,
      "categories": [
       "man",
       "working"
@@ -2895,7 +3048,16 @@
      "title": "video young man working greenhouse",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a young man plants seedlings into trays on a greenhouse bench",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-greenhouse-man-planting",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V13",
@@ -2906,14 +3068,23 @@
      "page_url": "https://www.pexels.com/video/a-man-is-sitting-on-the-ground-with-crates-of-mangoes-17867755/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V13.mp4",
-     "score": 15.79,
+     "score": 3.7,
      "categories": [
       "man"
      ],
      "title": "video man sitting the ground with crates mangoes",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man sorts mangoes into crates on a shaded roadside",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-mango-crates-roadside",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V15",
@@ -2924,7 +3095,7 @@
      "page_url": "https://www.pexels.com/video/elderly-man-sorting-vegetables-outdoors-34906298/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V15.mp4",
-     "score": 15.49,
+     "score": 4.7,
      "categories": [
       "man",
       "outdoor"
@@ -2932,7 +3103,16 @@
      "title": "video elderly man sorting vegetables outdoors",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "an elderly man sorts vegetables into crates against a stone wall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-elderly-man-sorting-vegetables",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V19",
@@ -2943,7 +3123,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-watering-the-flowers-5450557/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V19.mp4",
-     "score": 14.96,
+     "score": 5.05,
      "categories": [
       "man",
       "woman"
@@ -2951,7 +3131,16 @@
      "title": "video woman watering the flowers",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a woman waters hanging flower baskets in a greenhouse",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-greenhouse-woman-watering",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V20",
@@ -2962,7 +3151,7 @@
      "page_url": "https://www.pexels.com/video/woman-looking-a-plants-8515039/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V20.mp4",
-     "score": 14.96,
+     "score": 5.05,
      "categories": [
       "man",
       "woman"
@@ -2970,7 +3159,16 @@
      "title": "video woman looking plants",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a woman tends potted plants on a greenhouse display table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-greenhouse-woman-tending",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V21",
@@ -2981,7 +3179,7 @@
      "page_url": "https://www.pexels.com/video/rural-worker-working-in-mud-11271461/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V21.mp4",
-     "score": 14.77,
+     "score": 2.35,
      "categories": [
       "worker",
       "working"
@@ -2989,7 +3187,16 @@
      "title": "video rural worker working mud",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a worker bends over a crate in a muddy rice field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-ricefield-worker-mud-crate",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V22",
@@ -3000,14 +3207,23 @@
      "page_url": "https://www.pexels.com/video/man-planting-seedlings-on-a-pot-tray-6508933/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V22.mp4",
-     "score": 14.77,
+     "score": 7.35,
      "categories": [
       "man"
      ],
      "title": "video man planting seedlings pot tray",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a man plants seedlings into a tray beside a soil pile in a greenhouse",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-greenhouse-man-planting",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V23",
@@ -3018,7 +3234,7 @@
      "page_url": "https://www.pexels.com/video/a-young-man-working-at-a-warehouse-15462031/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V23.mp4",
-     "score": 14.59,
+     "score": 0.0,
      "categories": [
       "man",
       "warehouse",
@@ -3027,7 +3243,16 @@
      "title": "video young man working warehouse",
      "query": "worker organizing warehouse shelf boxes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man on a ladder checks labeled crates in warehouse racking",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-man-ladder-crates",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V24",
@@ -3038,7 +3263,7 @@
      "page_url": "https://www.pexels.com/video/close-up-shot-of-a-man-working-at-the-warehouse-4292298/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V24.mp4",
-     "score": 14.59,
+     "score": 0.0,
      "categories": [
       "man",
       "warehouse",
@@ -3047,7 +3272,16 @@
      "title": "video close shot man working the warehouse",
      "query": "worker organizing warehouse shelf boxes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a warehouse worker pushes a cart while staring directly into the camera",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-man-cart-stare",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V26",
@@ -3058,12 +3292,21 @@
      "page_url": "https://www.pexels.com/video/efficient-fruit-crate-movement-at-orchard-32610885/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V26.mp4",
-     "score": 13.57,
+     "score": 0.65,
      "categories": [],
      "title": "video efficient fruit crate movement orchard",
      "query": "worker sorting vegetables crates farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "workers load crates onto a forklift and truck at a packing yard",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-packing-yard-forklift",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V27",
@@ -3074,7 +3317,7 @@
      "page_url": "https://www.pexels.com/video/people-gardening-together-6194561/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V27.mp4",
-     "score": 13.46,
+     "score": 4.35,
      "categories": [
       "people",
       "together"
@@ -3082,7 +3325,16 @@
      "title": "video people gardening together",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "several workers tend tomato plants together in a large greenhouse row",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-greenhouse-group-tomatoes",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V28",
@@ -3110,14 +3362,23 @@
      "page_url": "https://www.pexels.com/video/a-person-taking-care-of-plants-6510771/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V29.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V29.mp4",
-     "score": 15.56,
+     "score": 6.7,
      "categories": [
       "care"
      ],
      "title": "video person taking care plants",
      "query": "gardener tidying greenhouse plants",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V29.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "gloved hands tend small potted plants in close-up",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-gloved-hands-potted-plants",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S06-V30",
@@ -3128,14 +3389,23 @@
      "page_url": "https://www.pexels.com/video/man-wearing-hard-hat-holding-a-box-5100055/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V30.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V30.mp4",
-     "score": 13.39,
+     "score": 0.0,
      "categories": [
       "man"
      ],
      "title": "video man wearing hard hat holding box",
      "query": "worker organizing warehouse shelf boxes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V30.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a warehouse worker in a hard hat carries a box while checking a clipboard",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-man-hardhat-box",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V31",
@@ -3146,7 +3416,7 @@
      "page_url": "https://www.pexels.com/video/man-doing-inventory-at-the-warehouse-in-his-digital-tablet-4292582/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V31.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V31.mp4",
-     "score": 13.39,
+     "score": 0.0,
      "categories": [
       "man",
       "warehouse"
@@ -3154,7 +3424,16 @@
      "title": "video man doing inventory the warehouse his digital tablet",
      "query": "worker organizing warehouse shelf boxes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V31.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man checks inventory on a tablet among tall warehouse racking",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-man-tablet",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-V32",
@@ -3165,7 +3444,7 @@
      "page_url": "https://www.pexels.com/video/man-working-on-a-warehouse-14910119/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__thumb__edenrise-c2-kaizen-S06-V32.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__preview__edenrise-c2-kaizen-S06-V32.mp4",
-     "score": 13.09,
+     "score": 0.0,
      "categories": [
       "man",
       "warehouse",
@@ -3174,7 +3453,16 @@
      "title": "video man working warehouse",
      "query": "worker organizing warehouse shelf boxes",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S06__strip__edenrise-c2-kaizen-S06-V32.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man labels stacked cardboard boxes on warehouse shelving",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-warehouse-man-labeling-boxes",
+     "judged_at": "2026-09-09T19:16:51Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S06-I04",
@@ -3342,7 +3630,8 @@
     "hi-vis crowd"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "judged_at": "2026-09-09T19:16:51Z"
   },
   {
    "id": "S07",
@@ -3364,7 +3653,7 @@
      "page_url": "https://www.pexels.com/video/a-man-and-woman-holding-a-blueprint-while-looking-at-construction-site-8964796/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V01.mp4",
-     "score": 29.07,
+     "score": 1.65,
      "categories": [
       "construction",
       "man",
@@ -3374,7 +3663,16 @@
      "title": "video man and woman holding blueprint while looking construction site",
      "query": "workers looking at plans together outdoors",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two hard-hatted workers review a blueprint under a high-rise structure",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-highrise-blueprint-review",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V10",
@@ -3385,7 +3683,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-and-a-man-talking-at-a-construction-site-8964769/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V10.mp4",
-     "score": 31.91,
+     "score": 1.65,
      "categories": [
       "construction",
       "man",
@@ -3396,7 +3694,16 @@
      "title": "video woman and man talking construction site",
      "query": "team huddle workers outdoors hardhats",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two hard-hatted workers talk at a railing above a construction site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-highrise-blueprint-review",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V11",
@@ -3407,7 +3714,7 @@
      "page_url": "https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V11.mp4",
-     "score": 30.6,
+     "score": 6.0,
      "categories": [
       "talking",
       "worker",
@@ -3416,7 +3723,16 @@
      "title": "video two wood workers talking each other",
      "query": "mentor apprentice woodworking teaching",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two woodworkers discuss a measurement calmly in a workshop",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-woodworkers-discussing",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S07-V12",
@@ -3446,7 +3762,7 @@
      "page_url": "https://pixabay.com/videos/id-85349/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V03.mp4",
-     "score": 30.64,
+     "score": 0.65,
      "categories": [
       "builder",
       "building",
@@ -3458,7 +3774,16 @@
      "title": "builder  worker  building  repair  professional  tools  safety  master  construction  foreman",
      "query": "foreman showing apprentice technique",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man works on a scaffold against a building facade",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pixabay-scaffold-worker-facade",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 7,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V19",
@@ -3469,7 +3794,7 @@
      "page_url": "https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V19.mp4",
-     "score": 28.87,
+     "score": 1.65,
      "categories": [
       "conversation",
       "man",
@@ -3478,7 +3803,16 @@
      "title": "video man and woman having conversation",
      "query": "construction workers planning teamwork site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two hard-hatted workers talk beside steel framing at a high-rise site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-highrise-blueprint-review",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V21",
@@ -3489,7 +3823,7 @@
      "page_url": "https://www.pexels.com/video/close-up-footage-of-people-holding-a-folder-while-having-a-conversation-8964376/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V21.mp4",
-     "score": 28.27,
+     "score": 1.65,
      "categories": [
       "conversation",
       "people"
@@ -3497,7 +3831,16 @@
      "title": "video close footage people holding folder while having conversation",
      "query": "construction workers planning teamwork site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "close view of a hi-vis worker holding a clipboard at a construction site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-highrise-blueprint-review",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V22",
@@ -3508,7 +3851,7 @@
      "page_url": "https://www.pexels.com/video/construction-workers-at-construction-site-10294766/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V22.mp4",
-     "score": 27.6,
+     "score": 0.65,
      "categories": [
       "construction",
       "site",
@@ -3518,7 +3861,16 @@
      "title": "video construction workers construction site",
      "query": "team huddle workers outdoors hardhats",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a crew of hi-vis workers ties rebar among scaffolding",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-rebar-crew-scaffolding",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 8,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V26",
@@ -3529,7 +3881,7 @@
      "page_url": "https://pixabay.com/videos/id-150592/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V26.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V26.mp4",
-     "score": 27.76,
+     "score": 2.7,
      "categories": [
       "care",
       "help",
@@ -3541,7 +3893,16 @@
      "title": "plantation  children  caring  earth  environmental  global warming  grow  growth  help  helping  humanity  saving  susta",
      "query": "gardeners planting together helping",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V26.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an adult and child plant a small seedling together in the dirt",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-adult-child-planting",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S07-V27",
@@ -3552,7 +3913,7 @@
      "page_url": "https://www.pexels.com/video/time-lapse-of-construction-site-10202777/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V27.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V27.mp4",
-     "score": 27.6,
+     "score": 0.65,
      "categories": [
       "construction",
       "site"
@@ -3560,7 +3921,16 @@
      "title": "video time lapse construction site",
      "query": "team huddle workers outdoors hardhats",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V27.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a large crew works a high-rise site beneath tower cranes",
+     "violation": "scaffolding gangs, crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pexels-highrise-crew-cranes",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V28",
@@ -3571,7 +3941,7 @@
      "page_url": "https://www.pexels.com/video/men-working-on-construction-site-10810476/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__thumb__edenrise-c2-kaizen-S07-V28.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__preview__edenrise-c2-kaizen-S07-V28.mp4",
-     "score": 26.77,
+     "score": 0.65,
      "categories": [
       "construction",
       "site",
@@ -3580,7 +3950,16 @@
      "title": "video men working construction site",
      "query": "construction workers planning teamwork site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V28.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a crew of hi-vis workers ties rebar together at a building site",
+     "violation": "scaffolding gangs, crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pexels-rebar-crew-scaffolding",
+     "judged_at": "2026-09-09T19:17:38Z",
+     "rank": 10,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-I01",
@@ -3703,7 +4082,13 @@
     "office"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T19:17:38Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:17:38Z"
   },
   {
    "id": "S08",
@@ -3725,7 +4110,7 @@
      "page_url": "https://www.pexels.com/video/elderly-people-gardening-together-7655277/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V03.mp4",
-     "score": 21.56,
+     "score": 5.05,
      "categories": [
       "people",
       "together"
@@ -3733,7 +4118,16 @@
      "title": "video elderly people gardening together",
      "query": "gardener proud finished garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "an older couple smiles while harvesting lettuce together in a garden bed",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-elderly-couple-gardening",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V10",
@@ -3761,7 +4155,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-holding-safety-glasses-looking-at-camera-8513432/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V11.mp4",
-     "score": 22.76,
+     "score": 2.7,
      "categories": [
       "man",
       "safety",
@@ -3770,7 +4164,16 @@
      "title": "video woman holding safety glasses looking camera",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman holds safety glasses and speaks to camera in a greenhouse",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-greenhouse-portrait",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V12",
@@ -3781,7 +4184,7 @@
      "page_url": "https://pixabay.com/videos/id-171044/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V12.mp4",
-     "score": 22.36,
+     "score": 3.7,
      "categories": [
       "man",
       "outdoor",
@@ -3792,7 +4195,16 @@
      "title": "man  smile  smiling  happy  male  person  outdoors  portrait",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a man smiles at the camera against green foliage",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-man-portrait-smiling",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V01",
@@ -3803,7 +4215,7 @@
      "page_url": "https://pixabay.com/videos/id-4973/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V01.mp4",
-     "score": 17.56,
+     "score": 4.05,
      "categories": [
       "carpenter",
       "construction"
@@ -3811,7 +4223,16 @@
      "title": "jigsaw  board  construction  repair  square  pencil  to nag  saw  sawdust  cut off  close-up  carpenter  work",
      "query": "craftsman finishing work satisfied",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a hand marks a plank then cuts it with a jigsaw",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-hand-jigsaw-plank",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V16",
@@ -3822,7 +4243,7 @@
      "page_url": "https://pixabay.com/videos/id-40813/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V16.mp4",
-     "score": 26.37,
+     "score": 0.65,
      "categories": [
       "builder",
       "building",
@@ -3834,7 +4255,16 @@
      "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
      "query": "worker admiring finished work site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a worker grinds rebar with an angle grinder, sparks flying",
+     "violation": "welding sparks",
+     "shot": "",
+     "shoot": "pexels-angle-grinder-rebar-sparks",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V17",
@@ -3845,7 +4275,7 @@
      "page_url": "https://www.pexels.com/video/elderly-man-wearing-face-mask-while-working-8066036/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V17.mp4",
-     "score": 23.36,
+     "score": 0.0,
      "categories": [
       "face",
       "man",
@@ -3854,7 +4284,16 @@
      "title": "video elderly man wearing face mask while working",
      "query": "proud craftsman portrait workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked worker gestures in a dim industrial workshop",
+     "violation": "face masks, dark industrial workshops",
+     "shot": "",
+     "shoot": "pexels-masked-worker-dark-workshop",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V18",
@@ -3865,7 +4304,7 @@
      "page_url": "https://www.pexels.com/video/aerial-view-of-construction-workers-pouring-concrete-32268402/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V18.mp4",
-     "score": 23.17,
+     "score": 0.0,
      "categories": [
       "concrete",
       "construction",
@@ -3875,7 +4314,16 @@
      "title": "video aerial view construction workers pouring concrete",
      "query": "worker admiring finished work site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a concrete mixer pouring at a building site",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pexels-aerial-concrete-pour",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V19",
@@ -3886,7 +4334,7 @@
      "page_url": "https://pixabay.com/videos/id-40816/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V19.mp4",
-     "score": 22.77,
+     "score": 3.65,
      "categories": [
       "builder",
       "building",
@@ -3897,7 +4345,16 @@
      "title": "worker  hard work  man  builder  work  workers  building  engineer  tool  hard",
      "query": "worker admiring finished work site",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "an elderly worker in a hi-vis vest stands hands on hips at a gravel site, then shovels",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hivis-elderly-gravel-site",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V21",
@@ -3908,7 +4365,7 @@
      "page_url": "https://www.pexels.com/video/man-working-in-a-sculpture-6722196/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V21.mp4",
-     "score": 21.56,
+     "score": 0.35,
      "categories": [
       "man",
       "working"
@@ -3916,7 +4373,16 @@
      "title": "video man working sculpture",
      "query": "proud craftsman portrait workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a sculptor works on a clay bust in an art studio",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-sculptor-clay-studio",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V22",
@@ -3927,7 +4393,7 @@
      "page_url": "https://www.pexels.com/video/a-man-working-in-a-wood-workshop-making-frames-3147261/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V22.mp4",
-     "score": 21.56,
+     "score": 4.05,
      "categories": [
       "man",
       "working",
@@ -3936,7 +4402,16 @@
      "title": "video man working wood workshop making frames",
      "query": "proud craftsman portrait workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a man uses a power tool at a workbench surrounded by hand tools on a wall",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-carpenter-frame-workshop",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V23",
@@ -3947,7 +4422,7 @@
      "page_url": "https://pixabay.com/videos/id-39/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V23.mp4",
-     "score": 20.97,
+     "score": 0.0,
      "categories": [
       "craftsman",
       "man",
@@ -3956,7 +4431,16 @@
      "title": "drill  tool  metal  drilling  hole  work  craft  wimble  flint-borer  working  handicraft  craftsman",
      "query": "proud craftsman portrait workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a drill press machines a metal part in close-up",
+     "violation": "factories, assembly lines",
+     "shot": "",
+     "shoot": "pixabay-drill-press-metal",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V24",
@@ -3967,7 +4451,7 @@
      "page_url": "https://www.pexels.com/video/woman-looking-and-checking-the-tomatoes-plants-5561413/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V24.mp4",
-     "score": 20.96,
+     "score": 6.05,
      "categories": [
       "man",
       "woman"
@@ -3975,7 +4459,16 @@
      "title": "video woman looking and checking the tomatoes plants",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a woman examines tomato plants along a greenhouse tunnel",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-woman-greenhouse-tomato-check",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V37",
@@ -3986,7 +4479,7 @@
      "page_url": "https://www.pexels.com/video/older-man-laughing-outside-27333441/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V37.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V37.mp4",
-     "score": 22.76,
+     "score": 2.05,
      "categories": [
       "laughing",
       "man"
@@ -3994,7 +4487,16 @@
      "title": "video older man laughing outside",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V37.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "an elderly man laughs warmly outdoors against greenery",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-elderly-man-laughing",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V38",
@@ -4005,7 +4507,7 @@
      "page_url": "https://www.pexels.com/video/woman-holding-plant-6268584/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V38.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V38.mp4",
-     "score": 20.96,
+     "score": 2.05,
      "categories": [
       "man",
       "woman"
@@ -4013,7 +4515,16 @@
      "title": "video woman holding plant",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V38.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a woman in an apron examines a small potted cactus indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-indoor-plant-shop",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V39",
@@ -4024,7 +4535,7 @@
      "page_url": "https://www.pexels.com/video/woman-smiling-wearing-eyewear-8513266/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V39.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V39.mp4",
-     "score": 20.96,
+     "score": 2.05,
      "categories": [
       "man",
       "smiling",
@@ -4033,7 +4544,16 @@
      "title": "video woman smiling wearing eyewear",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V39.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a woman in safety glasses smiles among indoor houseplants",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-safety-glasses-plants",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S08-V40",
@@ -4044,7 +4564,7 @@
      "page_url": "https://www.pexels.com/video/woman-smelling-a-flower-in-the-garden-6785542/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V40.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V40.mp4",
-     "score": 20.96,
+     "score": 1.7,
      "categories": [
       "man",
       "woman"
@@ -4052,7 +4572,16 @@
      "title": "video woman smelling flower the garden",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V40.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a woman smells a large bird-of-paradise flower in a garden",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-smelling-flower",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V41",
@@ -4063,7 +4592,7 @@
      "page_url": "https://pixabay.com/videos/id-74594/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__thumb__edenrise-c2-kaizen-S08-V41.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__preview__edenrise-c2-kaizen-S08-V41.mp4",
-     "score": 19.96,
+     "score": 0.7,
      "categories": [
       "portrait",
       "smile"
@@ -4071,7 +4600,16 @@
      "title": "boy  child  young  happy  cute  funny  smile  person  relaxed  relaxing  grass  garden  portrait",
      "query": "gardener smiling portrait garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V41.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a child crouches to pick something among plants in a forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-child-forest-crouching",
+     "judged_at": "2026-09-09T19:19:01Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-I01",
@@ -4211,7 +4749,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T19:19:01Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T19:19:01Z"
   }
  ]
 }
