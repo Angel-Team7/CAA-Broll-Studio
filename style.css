@@ -255,3 +255,28 @@ table.meta a{color:var(--accent)}
 .deadflag{position:absolute;bottom:7px;left:7px;background:rgba(120,30,40,.92);color:#ffd9de;
   border-radius:6px;padding:1px 7px;font-size:10.5px;font-weight:600;z-index:2}
 .media.big .nopreview{padding:0 24px;text-align:center;line-height:1.5}
+
+/* ---- Review Desk ---- */
+.review main{max-width:1240px}
+.rv{background:var(--panel);border:1px solid var(--line);border-radius:14px;margin-bottom:16px;box-shadow:var(--shadow);overflow:hidden}
+.rv.wait{border-color:#6b5a1e}.rv.chg{border-color:#7a4a1e}.rv.fin{border-color:#1e4a7a}.rv.done{border-color:var(--greendim)}
+.rvhead{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;cursor:pointer}
+.rvtitle{font-weight:650;font-size:15px}.rvstatus{margin-top:3px;font-size:13px}
+.rvbody{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(300px,1fr);gap:18px;padding:0 18px 18px;border-top:1px solid var(--line)}
+@media (max-width:860px){.rvbody{grid-template-columns:1fr}}
+.rvplayer{width:100%;aspect-ratio:16/9;background:#000;border-radius:10px;margin-top:14px}
+.contact{width:100%;border-radius:8px;margin-top:8px}
+.gates{margin-top:8px;color:var(--muted)}.warnline{color:#f0b45e;margin-top:6px}
+.pre{white-space:pre-wrap;font:12px/1.4 ui-monospace,Menlo,monospace;color:var(--muted);background:var(--panel2);padding:10px;border-radius:8px}
+.rvside h4{margin:16px 0 8px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.notes{list-style:none;padding:0;margin:0}.notes li{padding:6px 0;border-bottom:1px solid var(--line);font-size:13px}
+.tcode{color:var(--accent);cursor:pointer;font-variant-numeric:tabular-nums;margin-right:6px}
+.noterow{display:flex;gap:6px;margin-top:8px}.notetxt{flex:1;background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:13px}
+.beds{display:flex;flex-direction:column;gap:8px}
+.bed{display:grid;grid-template-columns:auto 1fr;gap:6px 10px;align-items:center;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:8px 10px;font-size:13px;cursor:pointer}
+.bed.on{border-color:var(--accent)}.bed audio{grid-column:1/-1;width:100%;height:30px}
+.decide{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}
+.decide .approve{background:var(--greendim);border-color:var(--green);color:var(--green);font-weight:600;flex:1}
+.decide .approve:hover{background:var(--green);color:#062}
+.decide .changes{border-color:#f0b45e;color:#f0b45e;flex:1}
+.small{font-size:12px}

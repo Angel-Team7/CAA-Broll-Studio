@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edenrise Review Desk</title>
+<link rel="stylesheet" href="style.css?v=20260909r">
+</head>
+<body class="review">
+<header>
+  <div class="bar">
+    <h1>🎞 Review Desk</h1>
+    <div class="controls">
+      <span id="stat" class="stat"></span>
+      <a class="cockpitlink" href="index.html">🎬 Cockpit ▸</a>
+      <a class="cockpitlink" href="library.html">📚 Library ▸</a>
+    </div>
+  </div>
+  <div id="tokenbar" class="tokenbar">
+    <span class="muted">Decisions save to: <b id="savemode">local (browser)</b>.</span>
+    <span id="localwarn" class="localwarn" hidden>⚠️ Not connected — open the cockpit and press <b>Connect GitHub…</b> once on this device, then come back. Until then a decision downloads a file instead of reaching the desk.</span>
+  </div>
+</header>
+<main id="view"><p class="muted pad">Loading the desk…</p></main>
+<div id="toast" class="toast"></div>
+<script src="review.js?v=20260909r"></script>
+</body>
+</html>
