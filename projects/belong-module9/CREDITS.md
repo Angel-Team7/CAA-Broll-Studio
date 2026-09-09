@@ -337,3 +337,23 @@
 | pexels | people shaking hands at the office | Kindel Media | Pexels License | https://www.pexels.com/video/people-shaking-hands-at-the-office-7687995/ |
 | pexels | realtor shaking hands with a customer | Kindel Media | Pexels License | https://www.pexels.com/video/realtor-shaking-hands-with-a-customer-7577726/ |
 | pexels | close up view of two people shaking their hands | Jack Sparrow | Pexels License | https://www.pexels.com/video/close-up-view-of-two-people-shaking-their-hands-5977121/ |
+| pexels | lawyer shaking his customers hands | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/lawyer-shaking-his-customers-hands-8061654/ |
+| pexels | men shaking hands | Mikhail Nilov | Pexels License | https://www.pexels.com/video/men-shaking-hands-8731462/ |
+| pexels | a man talking to a receptionist while holding a passport | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-talking-to-a-receptionist-while-holding-a-passport-7820513/ |
+| pexels | women shaking hand | Kampus Production | Pexels License | https://www.pexels.com/video/women-shaking-hand-8170606/ |
+| pexels | woman in hotel reception area | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-in-hotel-reception-area-7820468/ |
+| pexels | a woman checking the documents in the reception | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-checking-the-documents-in-the-reception-7820504/ |
+| pexels | a man talking while holding a wine bottle | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-talking-while-holding-a-wine-bottle-8764339/ |
+| pexels | close up of woman reading notebook | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-woman-reading-notebook-11025488/ |
+| pexels | two people talking at the reception area | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/two-people-talking-at-the-reception-area-6755013/ |
+| pexels | woman checking in at the hotel | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-checking-in-at-the-hotel-7820465/ |
+| pexels | a man talking while customers tasting the food | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-talking-while-customers-tasting-the-food-8764776/ |
+| pexels | woman talking to the hotel receptionist | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-to-the-hotel-receptionist-7820476/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pixabay | on the table lies a thick textbook  homework  textbook  tuto | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-12040/ |
+| pixabay | hands  typing  keyboard  laptop  writing  pen  study  studyi | eloguers | Pixabay Content License | https://pixabay.com/videos/id-159030/ |
+| pixabay | laptop  keyboard  typing  writing  notebook  computer  work  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3160/ |
+| pixabay | keyboard  typing  writing  notebook  computer  technology  l | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10822/ |
+| pixabay | pencil  write  author  education  pen  paper  school  writin | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-8256/ |
+| pixabay | notebook  laptop  blur  home office  typing  writing  progra | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-117/ |
+| pixabay | woman  exploration  nature  outdoors | u_bz9cn6vat4 | Pixabay Content License | https://pixabay.com/videos/id-240659/ |
