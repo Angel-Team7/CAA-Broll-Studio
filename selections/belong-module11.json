@@ -50,14 +50,18 @@
       "note": "10 more videos contexutal in hospitality industry",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:18:50Z",
+      "added": 10
     },
     "S09": {
       "requested": "2026-09-09T06:00:21Z",
       "note": "10 more videos contexutal in hospitality industry",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:19:58Z",
+      "added": 10
     }
   }
 }

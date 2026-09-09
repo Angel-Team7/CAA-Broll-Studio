@@ -69,7 +69,9 @@
       "note": "please generate more brolls 7 more videos",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-09T09:20:59Z",
+      "added": 10
     },
     "S09": {
       "requested": "2026-09-09T06:00:23Z",
