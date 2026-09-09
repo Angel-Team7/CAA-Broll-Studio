@@ -1807,9 +1807,9 @@
  },
  "coverr:https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t": {
   "brand": "edenrise",
-  "reason": "suit worn by worker; upscale boutique retail setting",
-  "at": "2026-09-09T18:24:47Z",
-  "from": "attention-to-detail-v2/S07"
+  "reason": "suits",
+  "at": "2026-09-09T18:38:15Z",
+  "from": "be-a-lifelong-learner-v2/S05"
  },
  "pexels:https://www.pexels.com/video/excavator-picking-up-building-debris-12588031/": {
   "brand": "edenrise",
@@ -1934,8 +1934,8 @@
  "pexels:https://www.pexels.com/video/construction-worker-securing-scaffolding-cables-32244801/": {
   "brand": "edenrise",
   "reason": "scaffolding gangs",
-  "at": "2026-09-09T18:33:03Z",
-  "from": "edenrise-c2-goal-setting/S01"
+  "at": "2026-09-09T18:39:06Z",
+  "from": "be-a-lifelong-learner-v2/S12"
  },
  "pexels:https://www.pexels.com/video/workers-with-baskets-on-heads-climbing-ladder-at-stack-of-klin-bricks-10620627/": {
   "brand": "edenrise",
@@ -2062,5 +2062,29 @@
   "reason": "welding sparks, dark industrial workshops",
   "at": "2026-09-09T18:34:56Z",
   "from": "edenrise-c2-goal-setting/S07"
+ },
+ "pexels:https://www.pexels.com/video/a-woman-removing-his-face-mask-and-hard-hat-8965389/": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-09T18:38:37Z",
+  "from": "be-a-lifelong-learner-v2/S08"
+ },
+ "pexels:https://www.pexels.com/video/construction-workers-are-working-on-a-road-in-nepal-19832488/": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:38:52Z",
+  "from": "be-a-lifelong-learner-v2/S11"
+ },
+ "pexels:https://www.pexels.com/video/safety-briefing-for-construction-team-outdoors-36034181/": {
+  "brand": "edenrise",
+  "reason": "crowds doing the same manual task",
+  "at": "2026-09-09T18:38:52Z",
+  "from": "be-a-lifelong-learner-v2/S11"
+ },
+ "pexels:https://www.pexels.com/video/efficient-textile-production-in-action-31359850/": {
+  "brand": "edenrise",
+  "reason": "textile mills",
+  "at": "2026-09-09T18:39:06Z",
+  "from": "be-a-lifelong-learner-v2/S12"
  }
 }

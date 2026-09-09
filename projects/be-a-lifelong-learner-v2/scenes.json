@@ -1368,7 +1368,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__thumb__coverr_yfx3brh85t_worker-learning-coworker.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__preview__coverr_yfx3brh85t_worker-learning-coworker.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__strip__coverr_yfx3brh85t_worker-learning-coworker.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man in a suit sprays and wipes a wooden counter indoors",
+     "violation": "suits",
+     "shot": "",
+     "shoot": "coverr-suit-counter-cleaning",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:38:15Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_11355903_mentor-bricklayer-apprentice",
@@ -1380,7 +1390,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__thumb__pexels_11355903_mentor-bricklayer-apprentice.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__preview__pexels_11355903_mentor-bricklayer-apprentice.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__strip__pexels_11355903_mentor-bricklayer-apprentice.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "two workers build a brick wall together, one guiding the other",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-mentor-bricklayer-apprentice",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:38:15Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5895494_experienced-carpenter-teaching",
@@ -1402,7 +1422,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__thumb__pexels_8821264_mentor-builder-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__preview__pexels_8821264_mentor-builder-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__strip__pexels_8821264_mentor-builder-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a worker climbs a wooden roof frame among trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-proudbuilder-roofframe",
+     "score": 4.05,
+     "judged_at": "2026-09-09T18:38:15Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8964772_foreman-showing-apprentice",
@@ -1414,7 +1444,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__thumb__pexels_8964772_foreman-showing-apprentice.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__preview__pexels_8964772_foreman-showing-apprentice.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S05__strip__pexels_8964772_foreman-showing-apprentice.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "two workers review a plan at a railing near a crane",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-crane-plan-pair",
+     "score": 3.95,
+     "judged_at": "2026-09-09T18:38:15Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_32357213_experienced-carpenter-teaching",
@@ -1496,7 +1536,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:38:15Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:38:15Z"
   },
   {
    "id": "S06",
@@ -1915,7 +1961,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__thumb__coverr_owscnm1g9f_child-planting.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__preview__coverr_owscnm1g9f_child-planting.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__strip__coverr_owscnm1g9f_child-planting.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "bare feet and toy animal figures sit on an indoor tile floor",
+     "violation": "",
+     "shot": "",
+     "shoot": "coverr-feet-toyanimals-indoor",
+     "score": 0.35,
+     "judged_at": "2026-09-09T18:38:28Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_11988771_child-gardening-soil",
@@ -1927,7 +1983,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__thumb__pexels_11988771_child-gardening-soil.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__preview__pexels_11988771_child-gardening-soil.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__strip__pexels_11988771_child-gardening-soil.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 7,
+     "caption": "an adult waters potted plants inside a greenhouse tunnel",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-greenhouse-adult-watering",
+     "score": 3.1,
+     "judged_at": "2026-09-09T18:38:28Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_4958244_curious-child-outdoors",
@@ -1939,7 +2005,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__thumb__pexels_4958244_curious-child-outdoors.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__preview__pexels_4958244_curious-child-outdoors.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__strip__pexels_4958244_curious-child-outdoors.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a young child in overalls plays with a toy truck on grass",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-child-toytruck-grass",
+     "score": 5.05,
+     "judged_at": "2026-09-09T18:38:28Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7844382_child-planting",
@@ -1951,7 +2027,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__thumb__pexels_7844382_child-planting.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__preview__pexels_7844382_child-planting.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S07__strip__pexels_7844382_child-planting.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "children and an adult plant shrubs together with small trowels",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-children-planting-trowels",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:38:28Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_9300026_child-exploring-outdoors",
@@ -2033,7 +2119,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:38:28Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:38:28Z"
   },
   {
    "id": "S08",
@@ -2050,7 +2142,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__thumb__pexels_17268397_groundworker-pause-work.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__preview__pexels_17268397_groundworker-pause-work.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__strip__pexels_17268397_groundworker-pause-work.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an aerial view of a construction site with an excavator and concrete pump",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-construction-sitepause",
+     "score": 0.7,
+     "judged_at": "2026-09-09T18:38:37Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8488277_builder-wiping-brow",
@@ -2072,7 +2174,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__thumb__pexels_8965252_worker-sitting-site-end-day.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__preview__pexels_8965252_worker-sitting-site-end-day.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__strip__pexels_8965252_worker-sitting-site-end-day.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two workers sit on the floor of an unfinished cabin removing boots",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-cabin-floor-workers-resting",
+     "score": 5.0,
+     "judged_at": "2026-09-09T18:38:37Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8965389_construction-worker-resting-site",
@@ -2084,7 +2196,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__thumb__pexels_8965389_construction-worker-resting-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__preview__pexels_8965389_construction-worker-resting-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S08__strip__pexels_8965389_construction-worker-resting-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 2,
+     "caption": "a worker in a hard hat and face mask sits removing gloves by a wheelbarrow",
+     "violation": "face masks",
+     "shot": "C",
+     "shoot": "pexels-wheelbarrow-worker-gloves-mask",
+     "score": 5.9,
+     "judged_at": "2026-09-09T18:38:37Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "pexels_36866510_worker-sitting-site-end-day",
@@ -2155,7 +2277,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T18:38:37Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:38:37Z"
   },
   {
    "id": "S09",
@@ -2780,7 +2908,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_19832488_groundwork-crew-together.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_19832488_groundwork-crew-together.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__strip__pexels_19832488_groundwork-crew-together.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a crowd of workers in hi-vis clears rubble behind caution tape",
+     "violation": "crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pexels-rubble-crowd-hivis",
+     "score": 2.65,
+     "judged_at": "2026-09-09T18:38:52Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "pexels_36034181_site-briefing-workers",
@@ -2792,7 +2930,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_36034181_site-briefing-workers.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_36034181_site-briefing-workers.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__strip__pexels_36034181_site-briefing-workers.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a large uniformed crew stands in formation for a site briefing",
+     "violation": "crowds doing the same manual task",
+     "shot": "",
+     "shoot": "pexels-uniform-crew-briefing",
+     "score": 1.3,
+     "judged_at": "2026-09-09T18:38:52Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_8487956_workers-group-hardhat",
@@ -2804,7 +2952,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_8487956_workers-group-hardhat.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_8487956_workers-group-hardhat.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__strip__pexels_8487956_workers-group-hardhat.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "three women in vests smile together holding a power drill indoors",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-threewomen-drill-smiling",
+     "score": 4.7,
+     "judged_at": "2026-09-09T18:38:52Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_8821264_builder-guiding-team",
@@ -2816,7 +2974,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_8821264_builder-guiding-team.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_8821264_builder-guiding-team.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__strip__pexels_8821264_builder-guiding-team.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a worker climbs a wooden roof frame among trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-proudbuilder-roofframe",
+     "score": 3.4,
+     "judged_at": "2026-09-09T18:38:52Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_8963857_foreman-teaching-crew",
@@ -2838,7 +3006,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__thumb__pexels_8964379_crew-planning-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__preview__pexels_8964379_crew-planning-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S11__strip__pexels_8964379_crew-planning-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "two workers point at a plan beneath a tower crane",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-crane-plan-pair",
+     "score": 4.6,
+     "judged_at": "2026-09-09T18:38:52Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_32141080_crew-planning-site",
@@ -2919,7 +3097,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T18:38:52Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:38:52Z"
   },
   {
    "id": "S12",
@@ -2936,7 +3120,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_27876376_skilled-carpenter-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_27876376_skilled-carpenter-working.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_27876376_skilled-carpenter-working.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a hand guides a miter saw cutting a wood plank",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-miter-saw-cut",
+     "score": 8.65,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_31359850_skilled-worker-proud",
@@ -2948,7 +3142,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_31359850_skilled-worker-proud.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_31359850_skilled-worker-proud.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_31359850_skilled-worker-proud.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker sews fabric at a machine in a textile factory",
+     "violation": "textile mills",
+     "shot": "",
+     "shoot": "pexels-textilemill-sewing",
+     "score": 0.0,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_32244801_worker-portrait-construction-sit",
@@ -2960,7 +3164,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_32244801_worker-portrait-construction-sit.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_32244801_worker-portrait-construction-sit.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_32244801_worker-portrait-construction-sit.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a worker in a hard hat pulls rigging cable at a scaffolded site",
+     "violation": "scaffolding gangs",
+     "shot": "",
+     "shoot": "pexels-scaffold-rigging-worker",
+     "score": 1.65,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_5967514_craftsman-mastery",
@@ -2972,7 +3186,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_5967514_craftsman-mastery.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_5967514_craftsman-mastery.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_5967514_craftsman-mastery.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a young man adjusts a clamp on a workbench indoors",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-labworkshop-clamp",
+     "score": 3.35,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_6474357_confident-builder-hardhat",
@@ -3004,7 +3228,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_7482684_proud-tradesman-portrait.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_7482684_proud-tradesman-portrait.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_7482684_proud-tradesman-portrait.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a tradesman in a beanie works at a wall of hand tools",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-tradesman-pegboard-workshop",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_7482685_skilled-carpenter-working",
@@ -3016,7 +3250,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__thumb__pexels_7482685_skilled-carpenter-working.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__preview__pexels_7482685_skilled-carpenter-working.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S12__strip__pexels_7482685_skilled-carpenter-working.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a tradesman reaches for tools at a sunlit workbench",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-tradesman-pegboard-workshop",
+     "score": 6.0,
+     "judged_at": "2026-09-09T18:39:06Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_31619854_proud-tradesman-portrait",
@@ -3108,7 +3352,8 @@
     "intense stare"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "judged_at": "2026-09-09T18:39:06Z"
   },
   {
    "id": "S13",
@@ -3643,7 +3888,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_15229216_worker-notebook-evening-reflecti.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__preview__pexels_15229216_worker-notebook-evening-reflecti.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__strip__pexels_15229216_worker-notebook-evening-reflecti.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a man writes in a notebook at a candlelit dinner table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-candlelit-notebook-man",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:39:18Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_15909398_thoughtful-worker-golden-hour",
@@ -3655,7 +3910,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_15909398_thoughtful-worker-golden-hour.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__preview__pexels_15909398_thoughtful-worker-golden-hour.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__strip__pexels_15909398_thoughtful-worker-golden-hour.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a man in a straw hat stands in a golden cornfield at sunset",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-cornfield-strawhat-sunset",
+     "score": 8.0,
+     "judged_at": "2026-09-09T18:39:18Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5921272_worker-sitting-quietly-sunset",
@@ -3667,7 +3932,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_5921272_worker-sitting-quietly-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__preview__pexels_5921272_worker-sitting-quietly-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__strip__pexels_5921272_worker-sitting-quietly-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a silhouette of a person sits on a log in the forest at dusk",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-forest-silhouette-dusk",
+     "score": 4.35,
+     "judged_at": "2026-09-09T18:39:18Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_9305503_end-of-day-journal-writing",
@@ -3679,7 +3954,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__thumb__pexels_9305503_end-of-day-journal-writing.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__preview__pexels_9305503_end-of-day-journal-writing.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S15__strip__pexels_9305503_end-of-day-journal-writing.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand writes in a tabbed notebook on a wooden table",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-notebook-handwriting-tabs",
+     "score": 7.0,
+     "judged_at": "2026-09-09T18:39:18Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_31858379_end-of-day-journal-writing",
@@ -3730,7 +4015,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:39:18Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:39:18Z"
   },
   {
    "id": "S16",
