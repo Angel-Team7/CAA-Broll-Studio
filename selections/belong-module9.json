@@ -56,19 +56,9 @@
   },
   "topup_requests": {
     "S03": {
-      "requested": "2026-09-09T11:09:28.692Z",
+      "requested": "2026-09-09T15:10:56Z",
       "note": "",
-      "reason": "direction",
-      "avoid": [
-        "guest",
-        "talking",
-        "staff",
-        "speaking",
-        "hotel"
-      ],
-      "done": true,
-      "fulfilled": "2026-09-09T11:19:58Z",
-      "added": 10
+      "done": false
     },
     "S02": {
       "requested": "2026-09-09T11:07:51.769Z",

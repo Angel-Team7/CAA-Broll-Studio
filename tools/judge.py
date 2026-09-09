@@ -108,7 +108,7 @@ def apply(slug, sid, vpath):
     n = 0
     for c in sc["clips"]:
         v = verdicts.get(c["id"])
-        if not v:
+        if not v or c.get("judged") is True:      # two runs can race on one push: first verdict wins
             continue
         c["judged"] = True
         c["relevance"] = int(v.get("relevance", 0))
