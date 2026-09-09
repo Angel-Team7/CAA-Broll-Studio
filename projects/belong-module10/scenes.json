@@ -20,7 +20,7 @@
      "page_url": "https://pixabay.com/videos/id-44775/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V01.mp4",
-     "score": 17.87,
+     "score": 6.7,
      "categories": [
       "farm",
       "farmer",
@@ -29,7 +29,16 @@
      "title": "garden  green  agriculture  sprinkler  fresh  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultu",
      "query": "irrigation water field",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a sprinkler waters rows of green garden plants",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-biogarden-sprinkler",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S02-V02",
@@ -58,7 +67,7 @@
      "page_url": "https://pixabay.com/videos/id-44765/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V03.mp4",
-     "score": 17.87,
+     "score": 6.7,
      "categories": [
       "farm",
       "farmer",
@@ -67,7 +76,16 @@
      "title": "watering  sprinkler  garden  green  agriculture  bio garden  irrigated  bio  irrigation  plant  water  food  grow  summe",
      "query": "irrigation water field",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a sprinkler sprays water over a green garden field",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-biogarden-sprinkler",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S02-V04",
@@ -78,7 +96,7 @@
      "page_url": "https://pixabay.com/videos/id-44759/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V04.mp4",
-     "score": 15.47,
+     "score": 6.7,
      "categories": [
       "farm",
       "garden"
@@ -86,7 +104,16 @@
      "title": "garden  green  sprinkler  agriculture  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultural  gr",
      "query": "irrigation water field",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a sprinkler waters dry brush and struggling plants",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-biogarden-sprinkler",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 4,
+     "shown": false
     },
     {
      "id": "belong-m10-S02-V05",
@@ -97,14 +124,23 @@
      "page_url": "https://www.pexels.com/video/pull-out-shot-of-red-soil-8239246/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V05.mp4",
-     "score": 12.27,
+     "score": 8.65,
      "categories": [
       "soil"
      ],
      "title": "video pull out shot red soil",
      "query": "dry cracked earth",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "aerial view of a dry cracked riverbed cutting through red earth",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-redsoil-aerial",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S02-V06",
@@ -115,14 +151,23 @@
      "page_url": "https://www.pexels.com/video/two-women-walking-on-cracked-red-soil-8239219/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V06.mp4",
-     "score": 12.27,
+     "score": 6.35,
      "categories": [
       "soil"
      ],
      "title": "video two women walking cracked red soil",
      "query": "dry cracked earth",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "two people walk across dry cracked earth seen from above",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-redsoil-aerial",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S02-V07",
@@ -133,14 +178,23 @@
      "page_url": "https://www.pexels.com/video/scenic-drought-landscape-with-cracked-earth-36249169/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__thumb__belong-m10-S02-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__preview__belong-m10-S02-V07.mp4",
-     "score": 11.67,
+     "score": 6.65,
      "categories": [
       "landscape"
      ],
      "title": "video scenic drought landscape with cracked earth",
      "query": "dry cracked earth",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S02__strip__belong-m10-S02-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a path of cracked dry earth leads toward green trees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-drought-landscape",
+     "judged_at": "2026-09-09T17:09:40Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S02-I01",
@@ -236,7 +290,8 @@
     "bottled water brands"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "judged_at": "2026-09-09T17:09:40Z"
   },
   {
    "id": "S01",
@@ -258,7 +313,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V01.mp4",
-     "score": 24.04,
+     "score": 3.35,
      "categories": [
       "countryside",
       "farm",
@@ -270,7 +325,16 @@
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
      "query": "daily work routine farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a farmer gathers corn stalks by hand in a field",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-cornfield-farmer",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S01-V02",
@@ -281,7 +345,7 @@
      "page_url": "https://pixabay.com/videos/id-84624/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V02.mp4",
-     "score": 18.22,
+     "score": 3.35,
      "categories": [
       "farm",
       "farmer",
@@ -292,7 +356,16 @@
      "title": "tractor  agriculture  agricultural machine  farm yard  rural  field  landscape  farmer  vehicle  summer  work",
      "query": "daily work routine farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of a tractor working large farm fields",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-aerial-tractor",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S01-V03",
@@ -320,7 +393,7 @@
      "page_url": "https://pixabay.com/videos/id-13030/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V04.mp4",
-     "score": 12.82,
+     "score": 0.35,
      "categories": [
       "hands",
       "working"
@@ -328,7 +401,16 @@
      "title": "typing  hands  keyboard  computer  work  working  desktop  keypad  workplace  equipment",
      "query": "hands working soil",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "close-up of hands typing on a computer keyboard",
+     "violation": "office/corporate stock imagery",
+     "shot": "",
+     "shoot": "pixabay-typing-hands",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-V05",
@@ -339,12 +421,21 @@
      "page_url": "https://pixabay.com/videos/id-73847/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V05.mp4",
-     "score": 11.79,
+     "score": 1.7,
      "categories": [],
      "title": "sand  hand  beach  dessert  sea  live wallpaper",
      "query": "hands working soil",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "sand pours through fingers of an open hand",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-sand-hand",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S01-V06",
@@ -355,14 +446,23 @@
      "page_url": "https://pixabay.com/videos/id-34091/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V06.mp4",
-     "score": 11.79,
+     "score": 1.35,
      "categories": [
       "hands"
      ],
      "title": "washing hands  coronavirus  stop the spread  covid 19  water  hands  female  hygiene  cleanliness  technique  running wa",
      "query": "hands working soil",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "hands are rinsed with water under a running tap",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-washing-hands",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S01-V07",
@@ -373,14 +473,23 @@
      "page_url": "https://pixabay.com/videos/id-76515/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__thumb__belong-m10-S01-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__preview__belong-m10-S01-V07.mp4",
-     "score": 11.79,
+     "score": 1.7,
      "categories": [
       "soil"
      ],
      "title": "worm  insect  shell  caterpillar  plants  soil",
      "query": "hands working soil",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-m10-S01-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a caterpillar crawls on a leaf in a plant pot",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-caterpillar-pot",
+     "judged_at": "2026-09-09T17:10:23Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S01-I01",
@@ -477,7 +586,13 @@
     "resort pool"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:10:23Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:10:23Z"
   },
   {
    "id": "S12",
@@ -518,7 +633,7 @@
      "page_url": "https://pixabay.com/videos/id-11692/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V02.mp4",
-     "score": 18.19,
+     "score": 5.65,
      "categories": [
       "cooking",
       "meal",
@@ -528,7 +643,16 @@
      "title": "vegetable  pancakes  food  dish  breakfast  cuisine  meal  lunch  snack  dinner  fresh  plate  fried  sauce  gourmet  de",
      "query": "fresh salad plating",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a stack of vegetable pancakes plated with a flower garnish",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-plated-dish-v02",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-V03",
@@ -539,7 +663,7 @@
      "page_url": "https://pixabay.com/videos/id-11672/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V03.mp4",
-     "score": 17.23,
+     "score": 3.3,
      "categories": [
       "cooking",
       "meal",
@@ -549,7 +673,16 @@
      "title": "spicy  tofu  food  meal  cuisine  healthy  vegetable  restaurant  asian  traditional  cooking  delicious  dinner  dish  ",
      "query": "colourful vegetable plate",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a tofu and vegetable dish plated with a rose on black",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-plated-dish-v03",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-V04",
@@ -560,7 +693,7 @@
      "page_url": "https://pixabay.com/videos/id-11409/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V04.mp4",
-     "score": 16.86,
+     "score": 7.35,
      "categories": [
       "cooking",
       "kitchen",
@@ -570,7 +703,16 @@
      "title": "stew  food  delicious  nutrition  vegetarian  to eat  there is  kitchen  dish  dishes  a spoon  fat  oil  pulp  vegetabl",
      "query": "fresh salad plating",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand stirs a pot of vegetable stew on the stove",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-kitchen-stew",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-V05",
@@ -581,7 +723,7 @@
      "page_url": "https://pixabay.com/videos/id-1720/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V05.mp4",
-     "score": 16.76,
+     "score": 3.35,
      "categories": [
       "chef",
       "cooking",
@@ -593,7 +735,16 @@
      "title": "lemons  plate  kitchen  food  cooking  dinner  meal  healthy  cuisine  diet  cook  delicious  nutrition  tasty  organic ",
      "query": "garden to plate meal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "lemons drop into a glass bowl on a dark table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-lemons-bowl",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-V06",
@@ -604,7 +755,7 @@
      "page_url": "https://pixabay.com/videos/id-61669/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V06.mp4",
-     "score": 16.5,
+     "score": 6.65,
      "categories": [
       "harvest",
       "kitchen",
@@ -614,7 +765,16 @@
      "title": "pepper  vegetable  fruit  healthy  food  fresh  raw  kitchen  gourmet  diet  beautiful  wood  vegan  vegetarian  nutriti",
      "query": "fresh salad plating",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a gloved hand slices a red pepper among fresh vegetables",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-cutting-vegetables",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-V07",
@@ -625,7 +785,7 @@
      "page_url": "https://pixabay.com/videos/id-11640/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__thumb__belong-m10-S12-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__preview__belong-m10-S12-V07.mp4",
-     "score": 16.26,
+     "score": 4.7,
      "categories": [
       "cooking",
       "meal",
@@ -635,7 +795,16 @@
      "title": "mixing  sauce  food  plate  meal  mixed  dish  gourmet  dinner  cuisine  lunch  healthy  spicy  mix  vegetable  chinese ",
      "query": "seasonal vegetable dish",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S12__strip__belong-m10-S12-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand mixes a bowl of sauce with chopped nuts",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-mixing-sauce",
+     "judged_at": "2026-09-09T17:11:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S12-I01",
@@ -732,7 +901,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "judged_at": "2026-09-09T17:11:01Z"
   },
   {
    "id": "S11",
@@ -754,7 +924,7 @@
      "page_url": "https://pixabay.com/videos/id-228347/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V01.mp4",
-     "score": 14.47,
+     "score": 0.7,
      "categories": [
       "countryside",
       "landscape"
@@ -762,7 +932,16 @@
      "title": "wind turbines  renewable energy  argentina  clean energy  sustainable  wind power  green energy  landscape  countryside ",
      "query": "eco friendly hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "aerial view of wind turbines across a flat plain",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wind-turbines",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S11-V02",
@@ -787,7 +966,7 @@
      "page_url": "https://pixabay.com/videos/id-44598/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V03.mp4",
-     "score": 12.76,
+     "score": 0.35,
      "categories": [
       "farm",
       "farmer"
@@ -795,7 +974,16 @@
      "title": "floating market  vietnam  river  farmer  business  boat  agriculture product  sale  buy",
      "query": "natural bathroom products",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of boats loaded with goods on a river",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-floating-market",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S11-V04",
@@ -806,7 +994,7 @@
      "page_url": "https://pixabay.com/videos/id-3967/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V04.mp4",
-     "score": 12.72,
+     "score": 2.6,
      "categories": [
       "garden",
       "outdoor"
@@ -814,7 +1002,16 @@
      "title": "water  shower  towel  glass  bath  animal  trees  sink  window  house  architecture  linen  the façade of the  mood  an ",
      "query": "linen towels natural",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a freestanding tub in a glass-walled luxury bathroom with a view",
+     "violation": "luxury spa cliches",
+     "shot": "B",
+     "shoot": "pixabay-luxury-bathroom",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 1,
+     "shown": false
     },
     {
      "id": "belong-m10-S11-V05",
@@ -825,12 +1022,21 @@
      "page_url": "https://www.pexels.com/video/the-aerial-view-of-a-resort-with-a-pool-and-trees-25541702/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V05.mp4",
-     "score": 11.92,
+     "score": 0.0,
      "categories": [],
      "title": "video the aerial view resort with pool and trees",
      "query": "eco friendly hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a resort villa with a pool among trees",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pexels-resort-aerial",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-m10-S11-V06",
@@ -841,12 +1047,21 @@
      "page_url": "https://www.pexels.com/video/a-woman-drinking-wine-7507815/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V06.mp4",
-     "score": 11.92,
+     "score": 2.35,
      "categories": [],
      "title": "video woman drinking wine",
      "query": "eco friendly hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a woman looks out a bedroom window holding her phone",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-woman-bedroom",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S11-V07",
@@ -857,12 +1072,21 @@
      "page_url": "https://www.pexels.com/video/a-road-with-trees-and-a-sign-that-says-parking-27861169/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__thumb__belong-m10-S11-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__preview__belong-m10-S11-V07.mp4",
-     "score": 11.92,
+     "score": 0.7,
      "categories": [],
      "title": "video road with trees and sign that says parking",
      "query": "eco friendly hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-m10-S11-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a car drives past houses on a tree-lined street",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-street-houses",
+     "judged_at": "2026-09-09T17:11:35Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S11-I01",
@@ -951,7 +1175,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:11:35Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:11:35Z"
   },
   {
    "id": "S08",
@@ -990,7 +1220,7 @@
      "page_url": "https://pixabay.com/videos/id-83895/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V02.mp4",
-     "score": 16.24,
+     "score": 1.7,
      "categories": [
       "farm",
       "farmer",
@@ -1000,7 +1230,16 @@
      "title": "barley  field  combine  harvest  farmer  loading  summer",
      "query": "farmer selling stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "aerial view of a combine harvester working a wheat field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-combine-harvest",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-V03",
@@ -1011,7 +1250,7 @@
      "page_url": "https://pixabay.com/videos/id-83897/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V03.mp4",
-     "score": 16.24,
+     "score": 1.7,
      "categories": [
       "farm",
       "farmer",
@@ -1021,7 +1260,16 @@
      "title": "barley  field  combine  harvest  farmer  loading  summer",
      "query": "farmer selling stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "aerial view of a combine harvester crossing a large field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-combine-harvest",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-V04",
@@ -1032,7 +1280,7 @@
      "page_url": "https://pixabay.com/videos/id-42932/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V04.mp4",
-     "score": 15.67,
+     "score": 3.65,
      "categories": [
       "countryside",
       "farm",
@@ -1041,7 +1289,16 @@
      "title": "market  countryside  travel  farmer  vendor  beautiful  daily life",
      "query": "farmer selling stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "vendors and shoppers crowd a busy outdoor produce market",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-vietnam-market",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-V05",
@@ -1052,7 +1309,7 @@
      "page_url": "https://pixabay.com/videos/id-47905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V05.mp4",
-     "score": 13.24,
+     "score": 0.35,
      "categories": [
       "farm",
       "farmer",
@@ -1061,7 +1318,16 @@
      "title": "windmill  landscape  energy  sky  france  power  green power  wind energy  farmer  green energy  live wallpaper",
      "query": "farmer selling stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "wind turbines stand in a foggy field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wind-turbine-fog",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-V06",
@@ -1072,7 +1338,7 @@
      "page_url": "https://pixabay.com/videos/id-12764/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V06.mp4",
-     "score": 12.64,
+     "score": 4.7,
      "categories": [
       "cooking",
       "kitchen",
@@ -1081,7 +1347,16 @@
      "title": "ham  meat  food  hams  eat  taste  rural  kitchen  sausage  smoking  wędzić  marinating  cook  home cooking  polish food",
      "query": "regional food products",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands rinse a cured ham in netting at a kitchen sink",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-ham-kitchen",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-V07",
@@ -1092,12 +1367,21 @@
      "page_url": "https://pixabay.com/videos/id-275172/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__thumb__belong-m10-S08-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__preview__belong-m10-S08-V07.mp4",
-     "score": 12.04,
+     "score": 3.65,
      "categories": [],
      "title": "trader  woman  portrait  people  selling  africa  face  female  nigerian  lagos",
      "query": "farmer selling stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-m10-S08-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a woman carries a tray of food on her head at a market",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-nigeria-vendor",
+     "judged_at": "2026-09-09T17:12:11Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S08-I01",
@@ -1196,7 +1480,13 @@
     "corporate office"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:12:11Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:12:11Z"
   },
   {
    "id": "S10",
@@ -1228,7 +1518,7 @@
      "page_url": "https://pixabay.com/videos/id-364184/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V01.mp4",
-     "score": 13.98,
+     "score": 3.7,
      "categories": [
       "farm",
       "landscape",
@@ -1238,7 +1528,16 @@
      "title": "dirt road  mountain path  steep slope  terraced hills  farming  highlands  remote  rural  adventure  landscape  ha giang",
      "query": "protected landscape path",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "aerial view of a winding road through green hillside",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-aerial-mountain-road",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V02",
@@ -1249,7 +1548,7 @@
      "page_url": "https://pixabay.com/videos/id-354018/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V02.mp4",
-     "score": 13.63,
+     "score": 7.0,
      "categories": [
       "landscape",
       "outdoor"
@@ -1257,7 +1556,16 @@
      "title": "nature  forest  trees  leaves  landscape  path  trail  woods  green  breeze  blowing  wind  outdoors  walkway  wooden  w",
      "query": "wooden walkway nature",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a raised wooden walkway leads through a green forest",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-wooden-boardwalk",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V03",
@@ -1268,7 +1576,7 @@
      "page_url": "https://pixabay.com/videos/id-38033/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V03.mp4",
-     "score": 12.9,
+     "score": 5.0,
      "categories": [
       "garden",
       "outdoor"
@@ -1276,7 +1584,16 @@
      "title": "beautiful  forest  garden  green  natural  nature  outdoor  park  path  plant  relaxed  staircase  stroll  tree  trees  ",
      "query": "wooden walkway nature",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a wooden staircase climbs through blooming garden shrubs",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-garden-stairs",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V04",
@@ -1287,14 +1604,23 @@
      "page_url": "https://pixabay.com/videos/id-41671/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V04.mp4",
-     "score": 11.7,
+     "score": 5.35,
      "categories": [
       "garden"
      ],
      "title": "forest  garden  path  tree  nature  summer  pine  green  plant  park  environment  central  europe  germany  black  moun",
      "query": "pine forest trail",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a paved path curves through ferns and trees",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-forest-garden-path",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V05",
@@ -1305,14 +1631,23 @@
      "page_url": "https://pixabay.com/videos/id-41670/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V05.mp4",
-     "score": 11.7,
+     "score": 4.35,
      "categories": [
       "garden"
      ],
      "title": "forest  garden  path  tree  nature  summer  pine  green  plant  park  environment  central  europe  germany  black  moun",
      "query": "pine forest trail",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a garden path winds past ferns near a trash bin",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-forest-garden-path",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V06",
@@ -1323,14 +1658,23 @@
      "page_url": "https://pixabay.com/videos/id-305660/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V06.mp4",
-     "score": 11.46,
+     "score": 3.05,
      "categories": [
       "landscape"
      ],
      "title": "forest  nature  mushroom  moss  trees  woods  path  landscape  environment  trail  fall  winter  frost  hiking  snow  mi",
      "query": "path through forest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "tall pine trunks stand close together in a forest",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-pine-forest",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-V07",
@@ -1341,14 +1685,23 @@
      "page_url": "https://pixabay.com/videos/id-144915/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__thumb__belong-m10-S10-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__preview__belong-m10-S10-V07.mp4",
-     "score": 11.46,
+     "score": 5.35,
      "categories": [
       "landscape"
      ],
      "title": "forest  path  rocks  mountain forest  hike  forest trail  forest path  sunlight rays  mystical  landscape  nature  misty",
      "query": "path through forest",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-m10-S10-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "sunlight filters onto a mossy rock path in the woods",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pixabay-mossy-forest-trail",
+     "judged_at": "2026-09-09T17:12:49Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S10-I01",
@@ -1423,7 +1776,13 @@
     "construction"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:12:49Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:12:49Z"
   },
   {
    "id": "S05",
@@ -1445,7 +1804,7 @@
      "page_url": "https://pixabay.com/videos/id-277145/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V01.mp4",
-     "score": 11.97,
+     "score": 1.05,
      "categories": [
       "field",
       "landscape"
@@ -1453,7 +1812,16 @@
      "title": "linear  es245  juparana lagoon  landscape  forest  tree  pub  heaven  nature  highway  road  plantation  place  field  c",
      "query": "solar panels roof",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "aerial view of a road running through palm plantations",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-palm-road",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S05-V02",
@@ -1464,7 +1832,7 @@
      "page_url": "https://pixabay.com/videos/id-277143/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V02.mp4",
-     "score": 11.97,
+     "score": 1.05,
      "categories": [
       "field",
       "landscape"
@@ -1472,7 +1840,16 @@
      "title": "linear  es245  juparana lagoon  landscape  forest  tree  pub  heaven  nature  highway  road  plantation  place  field  c",
      "query": "solar panels roof",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "aerial view of a highway between rows of palm trees",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-aerial-palm-road",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S05-V03",
@@ -1483,7 +1860,7 @@
      "page_url": "https://pixabay.com/videos/id-1188/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V03.mp4",
-     "score": 10.48,
+     "score": 0.0,
      "categories": [
       "hotel",
       "table"
@@ -1491,7 +1868,16 @@
      "title": "hotel  holiday  coast  shore  island  sicily  italy  vacation  travel  luxury  tourism  summer  resort  beach  lifestyle",
      "query": "empty hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a coastal hotel resort with pools",
+     "violation": "luxury resort pool",
+     "shot": "",
+     "shoot": "pixabay-sicily-resort",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-V04",
@@ -1518,12 +1904,21 @@
      "page_url": "https://pixabay.com/videos/id-55528/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V05.mp4",
-     "score": 10.17,
+     "score": 0.7,
      "categories": [],
      "title": "interior  modern  room  design  3d  wall  architecture  hall  light  window  house  furniture  floor  empty  apartment  ",
      "query": "empty hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a rendered modern corridor with white walls and windows",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-3d-corridor",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S05-V06",
@@ -1534,14 +1929,23 @@
      "page_url": "https://pixabay.com/videos/id-168801/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V06.mp4",
-     "score": 9.58,
+     "score": 0.7,
      "categories": [
       "farm"
      ],
      "title": "houses  solar panels  solar farm  solar estate  solar-powered estate  sun-powered housing estate",
      "query": "solar panels roof",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "aerial view of a suburban housing estate with solar panels",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-solar-suburb",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S05-V07",
@@ -1552,14 +1956,23 @@
      "page_url": "https://pixabay.com/videos/id-25907/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__thumb__belong-m10-S05-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__preview__belong-m10-S05-V07.mp4",
-     "score": 9.28,
+     "score": 0.0,
      "categories": [
       "hotel"
      ],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that ",
      "query": "empty hotel room",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-m10-S05-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "lounge chairs and a wicker daybed sit beside a resort pool",
+     "violation": "luxury resort pool with loungers",
+     "shot": "",
+     "shoot": "pixabay-resort-pool-loungers",
+     "judged_at": "2026-09-09T17:13:20Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-I01",
@@ -1649,7 +2062,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:13:20Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:13:20Z"
   },
   {
    "id": "S06",
@@ -1681,14 +2100,23 @@
      "page_url": "https://pixabay.com/videos/id-27636/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V01.mp4",
-     "score": 13.44,
+     "score": 6.35,
      "categories": [
       "soil"
      ],
      "title": "biology  worm  earthworm  insect  soil  invertebrates  compost  nature  earth  fertilizer  organic  ecological  humus  t",
      "query": "compost heap garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "earthworms move through dark compost soil close up",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-earthworm-compost",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-V02",
@@ -1699,14 +2127,23 @@
      "page_url": "https://pixabay.com/videos/id-27620/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V02.mp4",
-     "score": 13.44,
+     "score": 6.35,
      "categories": [
       "soil"
      ],
      "title": "biology  worm  earthworm  insect  soil  invertebrates  compost  nature  earth  fertilizer  organic  ecological  humus  t",
      "query": "compost heap garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "earthworms wriggle through rich dark compost",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-earthworm-compost",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-V03",
@@ -1717,14 +2154,23 @@
      "page_url": "https://pixabay.com/videos/id-27626/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V03.mp4",
-     "score": 13.44,
+     "score": 6.35,
      "categories": [
       "soil"
      ],
      "title": "biology  worm  earthworm  insect  soil  invertebrates  compost  nature  earth  fertilizer  organic  ecological  humus  t",
      "query": "compost heap garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "close up of earthworms in compost with food scraps",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-earthworm-compost",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "belong-m10-S06-V04",
@@ -1735,7 +2181,7 @@
      "page_url": "https://pixabay.com/videos/id-19162/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V04.mp4",
-     "score": 12.75,
+     "score": 1.05,
      "categories": [
       "cooking",
       "guest"
@@ -1743,7 +2189,16 @@
      "title": "plates  4k  heap  stack  restaurant  guests  many  thanksgiving  christmas  cooking  dishes  stacked  pile  white  black",
      "query": "compost heap garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "stacks of white restaurant plates against a dark background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-stacked-plates",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-V05",
@@ -1754,7 +2209,7 @@
      "page_url": "https://pixabay.com/videos/id-11628/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V05.mp4",
-     "score": 10.35,
+     "score": 2.4,
      "categories": [
       "cooking",
       "meal"
@@ -1762,7 +2217,16 @@
      "title": "spicy  chicken  meat  food  meal  dish  dinner  sauce  tasty  hot  cuisine  lunch  delicious  cooked  restaurant  chili ",
      "query": "food scraps bowl",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "close up of a stir-fried chicken and herb dish",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-chicken-dish",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-V06",
@@ -1773,14 +2237,23 @@
      "page_url": "https://pixabay.com/videos/id-214949/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V06.mp4",
-     "score": 10.35,
+     "score": 0.7,
      "categories": [
       "soil"
      ],
      "title": "snow mountain  plateau  soil forest  tibet  aerial",
      "query": "compost soil hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a person stands atop a desert canyon overlook",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-desert-canyon",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-V07",
@@ -1791,14 +2264,23 @@
      "page_url": "https://pixabay.com/videos/id-138429/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__thumb__belong-m10-S06-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__preview__belong-m10-S06-V07.mp4",
-     "score": 10.35,
+     "score": 4.7,
      "categories": [
       "soil"
      ],
      "title": "mushroom  small mushroom  soil organisms  growth  transience  wild mushroom  time lapse",
      "query": "compost soil hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S06__strip__belong-m10-S06-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "small wild mushrooms grow along a mossy log",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wild-mushrooms",
+     "judged_at": "2026-09-09T17:13:55Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S06-I01",
@@ -1896,7 +2378,8 @@
     "plastic bags"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "judged_at": "2026-09-09T17:13:55Z"
   },
   {
    "id": "S09",
@@ -1918,7 +2401,7 @@
      "page_url": "https://pixabay.com/videos/id-39116/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V01.mp4",
-     "score": 12.48,
+     "score": 7.35,
      "categories": [
       "farm",
       "garden"
@@ -1926,7 +2409,16 @@
      "title": "bee  honey  insect  beehive  nature  hive  close-up  honey bee  beeswax  macro  summer  flying  slowly  garden  world be",
      "query": "honey jars local",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a beekeeper holds up a honeycomb frame covered in bees",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-beekeeper-frame",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V02",
@@ -1937,14 +2429,23 @@
      "page_url": "https://pixabay.com/videos/id-39120/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V02.mp4",
-     "score": 10.08,
+     "score": 5.7,
      "categories": [
       "garden"
      ],
      "title": "bee  beehive  insect  honey  nature  hive  close-up  honey bee  beeswax  macro  summer  animal world  flying  slowly  ep",
      "query": "honey jars local",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "bees swarm at the entrance of a wooden beehive",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-hive-entrance",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V03",
@@ -1955,14 +2456,23 @@
      "page_url": "https://pixabay.com/videos/id-65672/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V03.mp4",
-     "score": 10.08,
+     "score": 7.35,
      "categories": [
       "farm"
      ],
      "title": "honey  honey bees  honey box  crate  farm",
      "query": "honey jars local",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "close up of bees working across a honeycomb frame",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-hive-macro",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V04",
@@ -1973,7 +2483,7 @@
      "page_url": "https://pixabay.com/videos/id-236316/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V04.mp4",
-     "score": 10.08,
+     "score": 2.05,
      "categories": [
       "landscape",
       "outdoor"
@@ -1981,7 +2491,16 @@
      "title": "beach  ocean  sea  waves  sand  coast  water  shore  summer  outdoors  travel  fishing boat  fisherman  fish  fishing  r",
      "query": "fisherman harbour catch",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "traditional fishing boats rest on a wide sandy beach",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-fishing-boats-beach",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m10-S09-V05",
@@ -1992,14 +2511,23 @@
      "page_url": "https://pixabay.com/videos/id-37144/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V05.mp4",
-     "score": 9.48,
+     "score": 5.7,
      "categories": [
       "field"
      ],
      "title": "bee  oilseed rape  blossom  bloom  field  agriculture  honey  insect  spring  pollination  beekeeping  close up  honey b",
      "query": "honey jars local",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a bee forages on a yellow flower in a field",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-bee-flower",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V06",
@@ -2010,14 +2538,23 @@
      "page_url": "https://pixabay.com/videos/id-14869/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V06.mp4",
-     "score": 8.88,
+     "score": 1.05,
      "categories": [
       "outdoor"
      ],
      "title": "dog  pet  animal  small  furry  cute  fur  outdoors  brown  looking  look  posing",
      "query": "small producer workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a small dog stands on a patio in a garden",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dog-backyard",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m10-S09-V07",
@@ -2028,14 +2565,23 @@
      "page_url": "https://pixabay.com/videos/id-115792/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V07.mp4",
-     "score": 8.88,
+     "score": 0.0,
      "categories": [
       "table"
      ],
      "title": "fabric  sewing machine  seamstress  workshop  cutting table  tool  work  woman  human  employee  shop",
      "query": "small producer workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a seamstress works at an industrial sewing machine",
+     "violation": "sewing and industry",
+     "shot": "",
+     "shoot": "pixabay-sewing-workshop",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m10-S09-V08",
@@ -2046,7 +2592,7 @@
      "page_url": "https://www.pexels.com/video/directly-above-view-of-farmers-working-at-olives-harvests-10636162/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V08.mp4",
-     "score": 20.95,
+     "score": 5.7,
      "categories": [
       "farm",
       "farmer",
@@ -2057,7 +2603,16 @@
      "title": "video directly above view farmers working olives harvests",
      "query": "olive oil small production mill",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "aerial view of workers harvesting olives on the ground",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-olive-harvest-aerial",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V09",
@@ -2068,7 +2623,7 @@
      "page_url": "https://www.pexels.com/video/a-variety-of-fresh-fruit-and-vegetables-on-display-at-the-market-15645011/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V09.mp4",
-     "score": 19.15,
+     "score": 5.05,
      "categories": [
       "table",
       "vegetable"
@@ -2076,7 +2631,16 @@
      "title": "video variety fresh fruit and vegetables display the market",
      "query": "local farmers market producer stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a colorful display of fresh fruit and vegetables at a market",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-market-fruit-display",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V10",
@@ -2087,7 +2651,7 @@
      "page_url": "https://www.pexels.com/video/farmers-market-outdoor-vegetable-stand-29556182/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V10.mp4",
-     "score": 18.85,
+     "score": 7.0,
      "categories": [
       "farm",
       "farmer",
@@ -2098,7 +2662,16 @@
      "title": "video farmers market outdoor vegetable stand",
      "query": "local farmers market producer stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a vendor arranges crates of produce beside a delivery van",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-farmers-market-stand",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V11",
@@ -2109,7 +2682,7 @@
      "page_url": "https://pixabay.com/videos/id-137853/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V11.mp4",
-     "score": 18.5,
+     "score": 4.05,
      "categories": [
       "farm",
       "farmer",
@@ -2119,7 +2692,16 @@
      "title": "farmer  agriculture  combine  harvest  field  nature  set  summer",
      "query": "farmer delivering vegetable box",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "aerial view of wide farm fields under a blue sky",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-aerial-farmland",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V12",
@@ -2130,14 +2712,23 @@
      "page_url": "https://www.pexels.com/video/women-checking-the-newly-harvested-eggplants-5527769/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V12.mp4",
-     "score": 18.3,
+     "score": 6.7,
      "categories": [
       "harvest"
      ],
      "title": "video women checking the newly harvested eggplants",
      "query": "farmer delivering vegetable box",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a woman holds a wooden crate of freshly picked eggplants",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-eggplant-crate",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-V13",
@@ -2148,7 +2739,7 @@
      "page_url": "https://pixabay.com/videos/id-216471/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-m10-S09-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-m10-S09-V13.mp4",
-     "score": 17.55,
+     "score": 5.05,
      "categories": [
       "farm",
       "harvest",
@@ -2158,7 +2749,16 @@
      "title": "olive  tree  nature  view  forest  leaves  herb  branches  meadow  green  healthy  nutrition  organic  oil  farm  agricu",
      "query": "olive oil small production mill",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "green olives hang on a branch against a blue sky",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-olive-branch",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m10-S09-I01",
@@ -2281,7 +2881,7 @@
      "page_url": "https://www.pexels.com/video/a-client-signing-a-registration-form-7820463/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V14.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Does value circulate",
@@ -2290,7 +2890,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked receptionist checks in a guest at a hotel desk",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-hotel-reception-mask",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V15",
@@ -2301,7 +2910,7 @@
      "page_url": "https://pixabay.com/videos/id-25905/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V15.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that  trip  relaxation  luxury  swimming  tropical  empty  blue  sunny  exotic",
      "query": "hotel staff Does value circulate",
@@ -2310,7 +2919,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a long resort pool runs past cabanas and greenery",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-resort-pool-cabana",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V16",
@@ -2321,7 +2939,7 @@
      "page_url": "https://www.pexels.com/video/a-man-signing-a-registration-form-7820510/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V16.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Does value circulate",
@@ -2330,7 +2948,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked guest hands papers to a masked receptionist",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-hotel-reception-mask",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V17",
@@ -2341,7 +2968,7 @@
      "page_url": "https://pixabay.com/videos/id-4739/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V17.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "pool  swimming pool  fun  kids  toy  pink  swan  vacation  swim  leisure  holiday  recreation  relaxation  outdoors  swimming  water  resort  home  happy  hotel  relax  child",
      "query": "hotel staff Does value circulate",
@@ -2350,7 +2977,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an inflatable flamingo floats in a resort swimming pool",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-pool-flamingo-toy",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V18",
@@ -2361,7 +2997,7 @@
      "page_url": "https://www.pexels.com/video/rich-elderly-woman-with-pet-dog-entering-hotel-elevator-5371876/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V18.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Does value circulate",
@@ -2370,7 +3006,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman in period dress carries a small dog through a hotel lobby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hotel-elevator-lobby",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V19",
@@ -2381,7 +3026,7 @@
      "page_url": "https://pixabay.com/videos/id-39395/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V19.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "wedding  ceremony  love  happy  guests  invitation",
      "query": "Does value circulate guest",
@@ -2390,7 +3035,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an ornate graphic invitation card reads our wedding",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wedding-invite-card",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V20",
@@ -2401,7 +3055,7 @@
      "page_url": "https://www.pexels.com/video/young-man-pushing-luggage-trolley-in-hotel-corridor-5371660/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V20.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "",
      "query": "hotel staff Does value circulate",
@@ -2410,7 +3064,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a uniformed bellhop pushes a luggage cart down a hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-bellhop-cart",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V21",
@@ -2421,7 +3084,7 @@
      "page_url": "https://pixabay.com/videos/id-1303/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V21.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "hotel  resort  restaurant  travel  luxury  luxury hotel  tourism  holiday  business  design  room  interior  furniture  decoration  creative  modern  contemporary  131618933",
      "query": "hotel staff here honey producer",
@@ -2430,7 +3093,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "candlelight and plush seating fill a luxury hotel interior",
+     "violation": "luxury spa cliches",
+     "shot": "",
+     "shoot": "pixabay-luxury-hotel-interior",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V22",
@@ -2441,7 +3113,7 @@
      "page_url": "https://www.pexels.com/video/young-man-pushing-room-service-trolley-5372864/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V22.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Does value circulate",
@@ -2450,7 +3122,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a butler in a tuxedo pushes a service cart down a corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-butler-cart",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module10-S09-V23",
@@ -2461,7 +3142,7 @@
      "page_url": "https://pixabay.com/videos/id-83926/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__thumb__belong-module10-S09-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__preview__belong-module10-S09-V23.mp4",
-     "score": 0,
+     "score": 0.7,
      "categories": [],
      "title": "glacier  ice  rhone  hotel  restaurant  belvedere  switzerland  valais  oberwald  goms",
      "query": "hotel staff here honey producer",
@@ -2470,7 +3151,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-module10-S09-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "aerial view of a glacier and mountain lake with a lodge",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-glacier-hotel",
+     "judged_at": "2026-09-09T17:15:33Z",
+     "rank": 14,
+     "shown": false
     }
    ],
    "shots": [
@@ -2509,7 +3199,8 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "judged_at": "2026-09-09T17:15:33Z"
   },
   {
    "id": "S03",
@@ -2531,7 +3222,7 @@
      "page_url": "https://pixabay.com/videos/id-324138/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V01.mp4",
-     "score": 18.13,
+     "score": 3.4,
      "categories": [
       "farm",
       "field",
@@ -2543,7 +3234,16 @@
      "title": "wheat  field  grain  agriculture  nature  dew  water  drops  morning  sunrise  golden  farm  harvest  summer  crop  food",
      "query": "watering plants morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "dew drops cling to golden wheat ears in morning light",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wheat-dew",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V02",
@@ -2554,7 +3254,7 @@
      "page_url": "https://pixabay.com/videos/id-44767/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V02.mp4",
-     "score": 16.03,
+     "score": 2.4,
      "categories": [
       "farm",
       "farmer",
@@ -2563,7 +3263,16 @@
      "title": "plant  grass  garden  green  agriculture  bio garden  irrigated  bio  irrigation  water  food  eat  agricultural  grow  ",
      "query": "drip irrigation garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a single grass seed head sways against a green backdrop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-grass-seedhead",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V03",
@@ -2574,7 +3283,7 @@
      "page_url": "https://pixabay.com/videos/id-44777/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V03.mp4",
-     "score": 16.03,
+     "score": 2.4,
      "categories": [
       "farm",
       "farmer",
@@ -2583,7 +3292,16 @@
      "title": "garden  green  sprinkler  agriculture  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultural  gr",
      "query": "drip irrigation garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "sunlight glows through the veins of a green leaf",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-backlit-leaf-a",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V04",
@@ -2594,7 +3312,7 @@
      "page_url": "https://pixabay.com/videos/id-44774/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V04.mp4",
-     "score": 16.03,
+     "score": 2.4,
      "categories": [
       "farm",
       "farmer",
@@ -2603,7 +3321,16 @@
      "title": "garden  green  sprinkler  agriculture  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultural  gr",
      "query": "drip irrigation garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "close up of a sunlit leaf among dark foliage",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-backlit-leaf-b",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m10-S03-V05",
@@ -2614,7 +3341,7 @@
      "page_url": "https://pixabay.com/videos/id-44768/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V05.mp4",
-     "score": 16.03,
+     "score": 2.05,
      "categories": [
       "farm",
       "farmer",
@@ -2623,7 +3350,16 @@
      "title": "sprinkler  water  drops  garden  green  agriculture  bio garden  irrigated  bio  irrigation  plant  food  eat  agricultu",
      "query": "drip irrigation garden",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "heavy rain falls onto a field of green crops",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-rain-crops",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m10-S03-V06",
@@ -2634,14 +3370,23 @@
      "page_url": "https://pixabay.com/videos/id-197946/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V06.mp4",
-     "score": 12.76,
+     "score": 4.7,
      "categories": [
       "garden"
      ],
      "title": "grass  plant  dry  park  garden  botanical  spring  summer  leaves  wind  close up  green  forest  nature",
      "query": "dry mediterranean landscape",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "dry wild grass stands tall in a sunlit field",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-dry-grass",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V07",
@@ -2652,7 +3397,7 @@
      "page_url": "https://pixabay.com/videos/id-367098/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V07.mp4",
-     "score": 11.23,
+     "score": 1.05,
      "categories": [
       "landscape",
       "mediterranean"
@@ -2660,7 +3405,16 @@
      "title": "beach  sand  region de murcia  san pedro del pinatar  morning  coast  sea  mediterranean  bike  drone  aereal  dune  lan",
      "query": "dry mediterranean landscape",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "aerial view of waves washing onto a sandy coastline",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-coast-aerial",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m10-S03-V08",
@@ -2671,7 +3425,7 @@
      "page_url": "https://pixabay.com/videos/id-62390/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V08.mp4",
-     "score": 25.39,
+     "score": 4.05,
      "categories": [
       "countryside",
       "farm",
@@ -2683,7 +3437,16 @@
      "title": "wheat  field  barley  grass  sunset  wind  sunrise  golden  harvest  farmer  rural  cereals  grain  countryside  meadow ",
      "query": "dry golden wheat plains portugal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "golden dry grass glows backlit at sunset",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-sunset-grass-a",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V09",
@@ -2694,7 +3457,7 @@
      "page_url": "https://pixabay.com/videos/id-245681/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V09.mp4",
-     "score": 23.35,
+     "score": 4.05,
      "categories": [
       "countryside",
       "field",
@@ -2706,7 +3469,16 @@
      "title": "golden hour  wheat  field  nature  barley  grain  landscape  rural  countryside  harvest  sunset  sunrise  golden  gold ",
      "query": "dry golden wheat plains portugal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "silhouetted dry grass stands against a setting sun",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-sunset-grass-b",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V10",
@@ -2717,7 +3489,7 @@
      "page_url": "https://pixabay.com/videos/id-350202/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V10.mp4",
-     "score": 22.21,
+     "score": 5.0,
      "categories": [
       "countryside",
       "farm",
@@ -2729,7 +3501,16 @@
      "title": "duck herding  ducks in the field  raising ducks in the countryside  free-range ducks  vietnamese rice fields  dam  reser",
      "query": "water reservoir farm countryside",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a concrete channel holds shallow water beside farm fields",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-water-channel",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V11",
@@ -2740,7 +3521,7 @@
      "page_url": "https://www.pexels.com/video/farmer-watering-green-vegetables-in-the-field-35035960/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V11.mp4",
-     "score": 21.22,
+     "score": 6.0,
      "categories": [
       "farm",
       "farmer",
@@ -2751,7 +3532,16 @@
      "title": "video farmer watering green vegetables the field",
      "query": "watering vegetable garden morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a farmer waters leafy vegetables with a hose in the field",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-farmer-hose-cabbage",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V12",
@@ -2762,7 +3552,7 @@
      "page_url": "https://www.pexels.com/video/farmer-watering-vegetable-garden-on-a-sunny-day-35036257/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V12.mp4",
-     "score": 19.42,
+     "score": 6.0,
      "categories": [
       "farm",
       "farmer",
@@ -2773,7 +3563,16 @@
      "title": "video farmer watering vegetable garden sunny day",
      "query": "watering vegetable garden morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a farmer bends to water vegetable rows with a hose",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-farmer-hose-cabbage",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V13",
@@ -2784,7 +3583,7 @@
      "page_url": "https://www.pexels.com/video/farmer-watering-lettuce-in-vegetable-garden-34900427/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V13.mp4",
-     "score": 19.42,
+     "score": 6.0,
      "categories": [
       "farm",
       "farmer",
@@ -2795,7 +3594,16 @@
      "title": "video farmer watering lettuce vegetable garden",
      "query": "watering vegetable garden morning",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man waters lettuce rows under netting with a hose",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-farmer-hose-lettuce",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S03-V14",
@@ -2806,7 +3614,7 @@
      "page_url": "https://pixabay.com/videos/id-232561/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-m10-S03-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-m10-S03-V14.mp4",
-     "score": 19.39,
+     "score": 1.05,
      "categories": [
       "farm",
       "field",
@@ -2816,7 +3624,16 @@
      "title": "tractor  field  wheat  harvest  combine  agriculture  grain  farming  summer  machine  technology  equipment  landscape",
      "query": "dry golden wheat plains portugal",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-m10-S03-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "aerial view of combine harvesters cutting a wheat field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-combine-aerial",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m10-S03-I01",
@@ -2945,7 +3762,7 @@
      "page_url": "https://www.pexels.com/video/man-walking-in-the-hallway-7599307/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V15.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff drought",
@@ -2954,7 +3771,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a bellhop walks down a carpeted hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hotel-corridor-bellhop",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V16",
@@ -2965,7 +3791,7 @@
      "page_url": "https://pixabay.com/videos/id-41345/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V16.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "grignan  provence  france  chateau  lavender  purple  building  summer  alpes-de-haute-provence  landscape  europe  lovers  olives  perspective  vaucluse  rustic  valensole  hotel",
      "query": "hotel staff drought",
@@ -2974,7 +3800,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "aerial view of a grand stone chateau on a hilltop",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-provence-chateau",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V17",
@@ -2985,7 +3820,7 @@
      "page_url": "https://www.pexels.com/video/bellboy-walking-behind-two-women-6474637/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V17.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "",
      "query": "hotel staff drought",
@@ -2994,7 +3829,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a bellhop pushes a luggage cart through a luxury hotel lobby",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hotel-lobby-cart",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V18",
@@ -3005,7 +3849,7 @@
      "page_url": "https://pixabay.com/videos/id-3525/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V18.mp4",
-     "score": 0,
+     "score": 0.35,
      "categories": [],
      "title": "hotel  hall  guests  tourist  night  city  vacation  style  urban  architecture  euro  baroque  beautiful  street  lights  center  house  journey  building  stone  romantic  sculpture  tourism  european  city center",
      "query": "drought guest",
@@ -3014,7 +3858,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an ornate hotel lounge with red sofas and a fireplace",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-luxury-lounge",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V19",
@@ -3025,7 +3878,7 @@
      "page_url": "https://www.pexels.com/video/a-woman-signing-a-document-at-the-front-desk-7820466/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V19.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff drought",
@@ -3034,7 +3887,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked receptionist hands a key to a masked guest",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-hotel-reception-mask",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V20",
@@ -3045,7 +3907,7 @@
      "page_url": "https://pixabay.com/videos/id-1172/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V20.mp4",
-     "score": 0,
+     "score": 1.4,
      "categories": [],
      "title": "fire  flames  barrel  ton  people  night  eve  fixed  guests  wood fire  burn",
      "query": "drought guest",
@@ -3054,7 +3916,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "flames rise from a fire pit at night as guests gather",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-firepit-night",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V21",
@@ -3065,7 +3936,7 @@
      "page_url": "https://www.pexels.com/video/buffet-breakfast-at-luxurious-beach-resort-30403007/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V21.mp4",
-     "score": 0,
+     "score": 1.05,
      "categories": [],
      "title": "",
      "query": "hotel staff drought",
@@ -3074,7 +3945,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a chef serves guests at a hotel buffet counter",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-buffet-chef",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V22",
@@ -3085,7 +3965,7 @@
      "page_url": "https://pixabay.com/videos/id-39314/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "love  wedding  ceremony  date  happy  invitation  guests",
      "query": "drought guest",
@@ -3094,7 +3974,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a pink graphic wedding invitation reads you are invited",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wedding-invite-pink",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V23",
@@ -3105,7 +3994,7 @@
      "page_url": "https://www.pexels.com/video/people-playing-golf-in-golf-club-10657769/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V23.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff drought",
@@ -3114,7 +4003,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a manicured golf green beside a resort",
+     "violation": "lush irrigated lawn",
+     "shot": "",
+     "shoot": "pixabay-golf-green-aerial",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-module10-S03-V24",
@@ -3125,7 +4023,7 @@
      "page_url": "https://pixabay.com/videos/id-39419/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__thumb__belong-module10-S03-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__preview__belong-module10-S03-V24.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "love  wedding  guests  invitation  happy  ceremony",
      "query": "drought guest",
@@ -3134,7 +4032,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S03__strip__belong-module10-S03-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a wooden graphic wedding invitation with a leaf border",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-wedding-invite-wood",
+     "judged_at": "2026-09-09T17:17:01Z",
+     "rank": 24,
+     "shown": false
     }
    ],
    "shots": [
@@ -3173,7 +4080,8 @@
     "resort pool"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "judged_at": "2026-09-09T17:17:01Z"
   },
   {
    "id": "S04",
@@ -3195,14 +4103,23 @@
      "page_url": "https://pixabay.com/videos/id-40813/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V01.mp4",
-     "score": 12.21,
+     "score": 0.0,
      "categories": [
       "worker"
      ],
      "title": "work  worker  repair  workers  builder  people  business  industry  professional  building  employee  person  constructi",
      "query": "plumbing repair hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a construction worker cuts rebar with an angle grinder",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pixabay-rebar-grinder",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V02",
@@ -3213,14 +4130,23 @@
      "page_url": "https://www.pexels.com/video/washing-hands-856001/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V02.mp4",
-     "score": 12.01,
+     "score": 2.4,
      "categories": [
       "hands"
      ],
      "title": "video washing hands",
      "query": "water running sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a hand rinses under a running bathroom tap",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-handwash-bathroom",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V03",
@@ -3231,14 +4157,23 @@
      "page_url": "https://www.pexels.com/video/washing-a-child-s-hands-in-a-running-water-7491030/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V03.mp4",
-     "score": 12.01,
+     "score": 1.4,
      "categories": [
       "hands"
      ],
      "title": "video washing child hands running water",
      "query": "water running sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a child washes their hands under a running tap",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-child-handwash",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V05",
@@ -3249,14 +4184,23 @@
      "page_url": "https://pixabay.com/videos/id-4728/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V05.mp4",
-     "score": 11.01,
+     "score": 4.7,
      "categories": [
       "worker"
      ],
      "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
      "query": "fixing leak maintenance",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "close up of a screwdriver driving a screw into wood",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-screwdriver-macro",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V06",
@@ -3267,14 +4211,23 @@
      "page_url": "https://pixabay.com/videos/id-4729/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V06.mp4",
-     "score": 11.01,
+     "score": 4.7,
      "categories": [
       "worker"
      ],
      "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  r",
      "query": "fixing leak maintenance",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand guides a screw before a drill drives it in",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-screwdriver-macro",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V07",
@@ -3285,12 +4238,21 @@
      "page_url": "https://www.pexels.com/video/water-flowing-from-faucet-11593539/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V07.mp4",
-     "score": 9.63,
+     "score": 4.05,
      "categories": [],
      "title": "video water flowing from faucet",
      "query": "water running sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "water runs steadily from a bathroom faucet",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-faucet-running",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V08",
@@ -3301,14 +4263,23 @@
      "page_url": "https://pixabay.com/videos/id-33742/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V08.mp4",
-     "score": 20.3,
+     "score": 2.4,
      "categories": [
       "hands"
      ],
      "title": "wash your hands  water  soap  water tap  hygiene  hand  clean  hand washing  bathroom sink  coronavirus",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands are washed with soap under a running tap",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-handwash-soap",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V09",
@@ -3319,12 +4290,21 @@
      "page_url": "https://www.pexels.com/video/a-person-filling-a-saucepan-with-tap-water-10432195/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V09.mp4",
-     "score": 19.7,
+     "score": 2.4,
      "categories": [],
      "title": "video person filling saucepan with tap water",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a hand fills a metal saucepan with tap water",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-saucepan-fill",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V10",
@@ -3335,7 +4315,7 @@
      "page_url": "https://pixabay.com/videos/id-11606/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V10.mp4",
-     "score": 18.9,
+     "score": 5.7,
      "categories": [
       "chef",
       "cooking",
@@ -3345,7 +4325,16 @@
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "hands chop garlic on a wooden cutting board",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-chopping-garlic",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V11",
@@ -3356,12 +4345,21 @@
      "page_url": "https://www.pexels.com/video/close-up-view-of-a-person-washing-tomatoes-and-eggplant-7516939/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V11.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V11.mp4",
-     "score": 18.7,
+     "score": 0.0,
      "categories": [],
      "title": "video close view person washing tomatoes and eggplant",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V11.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands rinse an eggplant and tomatoes under a running tap",
+     "violation": "running tap with food under it",
+     "shot": "",
+     "shoot": "pexels-wash-vegetables-a",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V12",
@@ -3372,12 +4370,21 @@
      "page_url": "https://www.pexels.com/video/close-up-video-of-a-person-washing-tomatoes-6970333/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V12.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V12.mp4",
-     "score": 18.7,
+     "score": 0.0,
      "categories": [],
      "title": "video close video person washing tomatoes",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V12.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand rinses a tomato under a running kitchen tap",
+     "violation": "running tap with food under it",
+     "shot": "",
+     "shoot": "pexels-wash-vegetables-b",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V13",
@@ -3388,14 +4395,23 @@
      "page_url": "https://pixabay.com/videos/id-5629/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V13.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V13.mp4",
-     "score": 18.1,
+     "score": 2.4,
      "categories": [
       "kitchen"
      ],
      "title": "dishes  washing  clean  glass  water  wash  kitchen  housework  domestic  dish  household  sponge  dishwashing  chores  ",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V13.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands wash glassware in a kitchen sink",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dishwashing",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-V14",
@@ -3406,7 +4422,7 @@
      "page_url": "https://www.pexels.com/video/a-chef-washing-the-kitchen-utensils-8627107/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-m10-S04-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-m10-S04-V14.mp4",
-     "score": 17.7,
+     "score": 3.4,
      "categories": [
       "chef",
       "kitchen"
@@ -3414,7 +4430,16 @@
      "title": "video chef washing the kitchen utensils",
      "query": "chef washing vegetables kitchen sink",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-m10-S04-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a chef rinses a cutting board at a kitchen sink",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-chef-utensil-wash",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S04-I01",
@@ -3531,7 +4556,7 @@
      "page_url": "https://www.pexels.com/video/a-person-showing-office-data-7844880/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V15.mp4",
-     "score": 0,
+     "score": 2.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Report every leak",
@@ -3540,7 +4565,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a woman reviews a chart on paper while seated",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-office-chart-review",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V16",
@@ -3571,7 +4605,7 @@
      "page_url": "https://www.pexels.com/video/person-reading-and-signing-a-waiver-5138025/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V17.mp4",
-     "score": 0,
+     "score": 4.05,
      "categories": [],
      "title": "",
      "query": "hotel staff Report every leak",
@@ -3580,7 +4614,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands exchange papers over a wooden reception desk",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-reception-desk-papers",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-module10-S04-V18",
@@ -3591,7 +4634,7 @@
      "page_url": "https://pixabay.com/videos/id-211152/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V18.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "swimming pool  house  hotel  villa  outdoor  pool  water  nature  resort  vacation  leisure  architecture  interior  apartment  luxury  landscape",
      "query": "hotel staff hour dripping month",
@@ -3600,7 +4643,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a narrow reflecting pool runs through a lush tropical garden",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-tropical-pool-walk",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V19",
@@ -3611,7 +4663,7 @@
      "page_url": "https://www.pexels.com/video/man-in-black-suit-standing-in-the-hallway-7599311/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V19.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V19.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Report every leak",
@@ -3620,7 +4672,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V19.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man in a suit walks down an ornate hotel corridor",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-corridor-suit-man",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V20",
@@ -3631,7 +4692,7 @@
      "page_url": "https://pixabay.com/videos/id-25906/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V20.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "hotel  pool  holiday  relax  resort  swim  tourism  beautiful  healthy  view  sunbeds  recreation  health  summer  that  trip  swimmer  luxury  swimming  tropical  empty  blue  sunny  exotic",
      "query": "hotel staff scandal",
@@ -3640,7 +4701,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a person swims in a narrow resort pool lined with cabanas",
+     "violation": "resort pool",
+     "shot": "",
+     "shoot": "pixabay-resort-pool-swim",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V21",
@@ -3651,7 +4721,7 @@
      "page_url": "https://www.pexels.com/video/man-in-black-suit-standing-in-the-hallway-7599306/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V21.mp4",
-     "score": 0,
+     "score": 1.35,
      "categories": [],
      "title": "",
      "query": "hotel staff Report every leak",
@@ -3660,7 +4730,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man in a dark suit walks away down a hotel hallway",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-corridor-suit-man",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V22",
@@ -3671,7 +4750,7 @@
      "page_url": "https://pixabay.com/videos/id-225948/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V22.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "co workers  office  colleagues  business  workplace  meeting  co working  desk  entrepreneurship  startup  corporate  staff  professional  teamwork  brainstorming  collaboration  architect  blueprint  engineer  lawyer  attorney  designer  accountant  report  work",
      "query": "hotel staff Report every leak",
@@ -3680,7 +4759,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "business people in suits shake hands at an office table",
+     "violation": "corporate office",
+     "shot": "",
+     "shoot": "pixabay-office-handshake",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V23",
@@ -3691,7 +4779,7 @@
      "page_url": "https://www.pexels.com/video/a-receptionist-giving-a-key-card-to-a-client-7820467/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V23.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V23.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "",
      "query": "hotel staff Report every leak",
@@ -3700,7 +4788,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V23.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked woman hands an id card to a receptionist",
+     "violation": "face masks",
+     "shot": "",
+     "shoot": "pexels-hotel-reception-mask",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module10-S04-V24",
@@ -3711,7 +4808,7 @@
      "page_url": "https://pixabay.com/videos/id-576/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__thumb__belong-module10-S04-V24.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__preview__belong-module10-S04-V24.mp4",
-     "score": 0,
+     "score": 0.0,
      "categories": [],
      "title": "welcome  hello  hi  greeting  sign  word  guest  text  welcoming  symbol  message  happy  meet  party  salutatory  salute  people  warm",
      "query": "Report every leak guest",
@@ -3720,7 +4817,16 @@
      "fresh": true,
      "added_by": "search-10-more",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V24.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "animated welcome text appears in several languages",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-welcome-text-graphic",
+     "judged_at": "2026-09-09T17:18:42Z",
+     "rank": 22,
+     "shown": false
     }
    ],
    "shots": [
@@ -3759,7 +4865,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:18:42Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:18:42Z"
   },
   {
    "id": "S07",
@@ -3781,7 +4893,7 @@
      "page_url": "https://pixabay.com/videos/id-12775/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V01.mp4",
-     "score": 19.27,
+     "score": 7.35,
      "categories": [
       "cooking",
       "harvest",
@@ -3793,7 +4905,16 @@
      "title": "salad  vegetables  food  tasty  eat  kitchen  healthy food  cucumber salad  dish  natural food  meal  dinnerware  vitami",
      "query": "preserving jars kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand funnels liquid into a jar beside a simmering pot",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-canning-kitchen",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-V02",
@@ -3804,7 +4925,7 @@
      "page_url": "https://pixabay.com/videos/id-130226/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V02.mp4",
-     "score": 16.56,
+     "score": 4.4,
      "categories": [
       "field",
       "harvest",
@@ -3815,7 +4936,16 @@
      "title": "vegetables  chard  vegetable plant  meal  food  chard field  agriculture  field  harvest  healthy  green  leafy vegetabl",
      "query": "fermentation jars vegetables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "rows of leafy chard grow thick in a garden bed",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-chard-field",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-V03",
@@ -3826,7 +4956,7 @@
      "page_url": "https://pixabay.com/videos/id-71124/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V03.mp4",
-     "score": 13.87,
+     "score": 3.35,
      "categories": [
       "kitchen",
       "table",
@@ -3835,7 +4965,16 @@
      "title": "pickle  cucumber  prepare  pack up  beautiful wallpaper  package  pepper  pain  background  food  vegetable  nutrition  ",
      "query": "pickling vegetables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a small plastic container holds pickled vegetable pieces",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-pickle-cup",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-V04",
@@ -3864,7 +5003,7 @@
      "page_url": "https://pixabay.com/videos/id-149665/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V05.mp4",
-     "score": 12.96,
+     "score": 6.05,
      "categories": [
       "kitchen",
       "table",
@@ -3873,7 +5012,16 @@
      "title": "chili  vegetables  ingredients  kitchen  cook",
      "query": "preserving jars kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "hands slice chili peppers on a board beside fresh vegetables",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-chili-chopping",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-V06",
@@ -3884,7 +5032,7 @@
      "page_url": "https://pixabay.com/videos/id-125559/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V06.mp4",
-     "score": 11.16,
+     "score": 6.35,
      "categories": [
       "table",
       "vegetable"
@@ -3892,7 +5040,16 @@
      "title": "tomato  vegetable  food  natural  healthy",
      "query": "fermentation jars vegetables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a heap of ripe red tomatoes fills the frame",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-tomato-heap",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-V07",
@@ -3903,7 +5060,7 @@
      "page_url": "https://pixabay.com/videos/id-267/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__thumb__belong-m10-S07-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__preview__belong-m10-S07-V07.mp4",
-     "score": 10.84,
+     "score": 3.4,
      "categories": [
       "cooking",
       "kitchen"
@@ -3911,7 +5068,16 @@
      "title": "pot  cooking  steam  steaming  hot  food  kettle  preparation  kitchen  sepia  cook  heat  warm",
      "query": "preserving jars kitchen",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-m10-S07-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "steam rises from a pot simmering on the stove",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-steaming-pot",
+     "judged_at": "2026-09-09T17:19:20Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m10-S07-I01",
@@ -3988,7 +5154,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:27:14Z"
+   "shots_at": "2026-09-09T14:27:14Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:19:20Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:19:20Z"
   },
   {
    "id": "S13",

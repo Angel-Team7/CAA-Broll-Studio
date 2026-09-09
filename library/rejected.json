@@ -325,9 +325,9 @@
  },
  "pixabay:4739": {
   "brand": "belong",
-  "reason": "resort pools and beaches",
-  "at": "2026-09-09T17:11:04Z",
-  "from": "belong-module8/S09"
+  "reason": "resort pool",
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
  },
  "pexels:5371657": {
   "brand": "belong",
@@ -337,9 +337,9 @@
  },
  "pixabay:25906": {
   "brand": "belong",
-  "reason": "construction and building trades",
-  "at": "2026-09-09T16:29:20Z",
-  "from": "belong-module9/S09"
+  "reason": "resort pool",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
  },
  "pexels:7820470": {
   "brand": "belong",
@@ -565,9 +565,9 @@
  },
  "pexels:7820466": {
   "brand": "belong",
-  "reason": "factory / sewing industry",
-  "at": "2026-09-09T16:37:34Z",
-  "from": "belong-module9/S10"
+  "reason": "face masks",
+  "at": "2026-09-09T17:17:01Z",
+  "from": "belong-module10/S03"
  },
  "pexels:5378937": {
   "brand": "belong",
@@ -661,9 +661,9 @@
  },
  "pixabay:https://pixabay.com/videos/id-40813/": {
   "brand": "belong",
-  "reason": "construction / building trades",
-  "at": "2026-09-09T16:42:08Z",
-  "from": "belong-module9/S11"
+  "reason": "construction and building trades",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
  },
  "pexels:https://www.pexels.com/video/people-working-together-at-a-call-center-8865700/": {
   "brand": "belong",
@@ -776,8 +776,8 @@
  "pexels:7820510": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T17:09:35Z",
-  "from": "belong-module8/S08"
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
  },
  "pexels:https://www.pexels.com/video/healthcare-workers-in-safety-gear-using-computers-28950234/": {
   "brand": "belong",
@@ -1016,8 +1016,8 @@
  "pexels:7820463": {
   "brand": "belong",
   "reason": "face masks",
-  "at": "2026-09-09T17:09:35Z",
-  "from": "belong-module8/S08"
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
  },
  "pexels:7820511": {
   "brand": "belong",
@@ -1075,9 +1075,9 @@
  },
  "pixabay:25905": {
   "brand": "belong",
-  "reason": "resort pools and beaches",
-  "at": "2026-09-09T17:11:04Z",
-  "from": "belong-module8/S09"
+  "reason": "resort pool",
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
  },
  "pexels:8716783": {
   "brand": "belong",
@@ -1090,5 +1090,83 @@
   "reason": "business suits",
   "at": "2026-09-09T17:11:04Z",
   "from": "belong-module8/S09"
+ },
+ "pixabay:https://pixabay.com/videos/id-13030/": {
+  "brand": "belong",
+  "reason": "office/corporate stock imagery",
+  "at": "2026-09-09T17:10:23Z",
+  "from": "belong-module10/S01"
+ },
+ "pixabay:https://pixabay.com/videos/id-3967/": {
+  "brand": "belong",
+  "reason": "luxury spa cliches",
+  "at": "2026-09-09T17:11:35Z",
+  "from": "belong-module10/S11"
+ },
+ "pexels:https://www.pexels.com/video/the-aerial-view-of-a-resort-with-a-pool-and-trees-25541702/": {
+  "brand": "belong",
+  "reason": "resort pool",
+  "at": "2026-09-09T17:11:35Z",
+  "from": "belong-module10/S11"
+ },
+ "pixabay:https://pixabay.com/videos/id-1188/": {
+  "brand": "belong",
+  "reason": "luxury resort pool",
+  "at": "2026-09-09T17:13:20Z",
+  "from": "belong-module10/S05"
+ },
+ "pixabay:https://pixabay.com/videos/id-25907/": {
+  "brand": "belong",
+  "reason": "luxury resort pool with loungers",
+  "at": "2026-09-09T17:13:20Z",
+  "from": "belong-module10/S05"
+ },
+ "pixabay:https://pixabay.com/videos/id-115792/": {
+  "brand": "belong",
+  "reason": "sewing and industry",
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
+ },
+ "pixabay:1303": {
+  "brand": "belong",
+  "reason": "luxury spa cliches",
+  "at": "2026-09-09T17:15:33Z",
+  "from": "belong-module10/S09"
+ },
+ "pexels:10657769": {
+  "brand": "belong",
+  "reason": "lush irrigated lawn",
+  "at": "2026-09-09T17:17:01Z",
+  "from": "belong-module10/S03"
+ },
+ "pexels:https://www.pexels.com/video/close-up-view-of-a-person-washing-tomatoes-and-eggplant-7516939/": {
+  "brand": "belong",
+  "reason": "running tap with food under it",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
+ },
+ "pexels:https://www.pexels.com/video/close-up-video-of-a-person-washing-tomatoes-6970333/": {
+  "brand": "belong",
+  "reason": "running tap with food under it",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
+ },
+ "pixabay:211152": {
+  "brand": "belong",
+  "reason": "resort pool",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
+ },
+ "pixabay:225948": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
+ },
+ "pexels:7820467": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-09T17:18:42Z",
+  "from": "belong-module10/S04"
  }
 }
