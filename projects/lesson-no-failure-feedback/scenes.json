@@ -18,7 +18,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S01__thumb__S01_b01_opener-a-baby-learning-to-walk.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S01__preview__S01_b01_opener-a-baby-learning-to-walk.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S01__strip__S01_b01_opener-a-baby-learning-to-walk.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "toddler takes wobbly first steps beside an adult on a wood floor",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-toddler-first-steps",
+     "score": 7.0,
+     "judged_at": "2026-09-09T20:27:01Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -49,7 +59,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T20:27:01Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:01Z"
   },
   {
    "id": "S02",
@@ -66,7 +82,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S02__thumb__S02_b03_michael-jordan-greatness-from-failure.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S02__preview__S02_b03_michael-jordan-greatness-from-failure.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S02__strip__S02_b03_michael-jordan-greatness-from-failure.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 10,
+     "brand_fit": 9,
+     "caption": "basketball hoop and tattered net silhouetted against a cloudy sky",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-hoop-sky",
+     "score": 9.65,
+     "judged_at": "2026-09-09T20:27:11Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -98,7 +124,13 @@
     "crowds"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T20:27:11Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:11Z"
   },
   {
    "id": "S03",
@@ -115,7 +147,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S03__thumb__S03_b04_every-failure-became-feedback.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S03__preview__S03_b04_every-failure-became-feedback.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S03__strip__S03_b04_every-failure-became-feedback.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "basketball bounces across an empty indoor court toward a hoop",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-empty-court-ball",
+     "score": 6.3,
+     "judged_at": "2026-09-09T20:27:24Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -147,7 +189,13 @@
     "crowds"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T20:27:24Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:24Z"
   },
   {
    "id": "S04",
@@ -164,7 +212,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S04__thumb__S04_b05_youre-not-failing-youre-learning.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S04__preview__S04_b05_youre-not-failing-youre-learning.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S04__strip__S04_b05_youre-not-failing-youre-learning.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "gloved hands guide a drill to sink a screw into a wooden board",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-carpentry-drill-hands",
+     "score": 9.0,
+     "judged_at": "2026-09-09T20:27:32Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -195,7 +253,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T20:27:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:32Z"
   },
   {
    "id": "S05",
@@ -247,7 +311,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S06__thumb__S06_b07_learn-from-those-ahead-of-you.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S06__preview__S06_b07_learn-from-those-ahead-of-you.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S06__strip__S06_b07_learn-from-those-ahead-of-you.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "older man teaches a teenager to split wood with an axe outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-axe-mentor-yard",
+     "score": 4.65,
+     "judged_at": "2026-09-09T20:27:46Z",
+     "rank": 1,
+     "shown": true
     }
    ],
    "shots": [
@@ -279,7 +353,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:27:46Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:46Z"
   },
   {
    "id": "S07",
@@ -296,7 +376,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S07__thumb__S07_b08_people-enjoy-working-with-learners.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S07__preview__S07_b08_people-enjoy-working-with-learners.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-no-failure-feedback/S07__strip__S07_b08_people-enjoy-working-with-learners.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "four office coworkers smile together over a laptop and papers",
+     "violation": "office, laptops",
+     "shot": "B",
+     "shoot": "pexels-office-team-laptop",
+     "score": 3.9,
+     "judged_at": "2026-09-09T20:27:55Z",
+     "rank": 1,
+     "shown": false
     }
    ],
    "shots": [
@@ -327,7 +417,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:39:20Z"
+   "shots_at": "2026-09-09T14:39:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:27:55Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:27:55Z"
   },
   {
    "id": "S08",

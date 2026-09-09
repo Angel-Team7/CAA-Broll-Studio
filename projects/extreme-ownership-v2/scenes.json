@@ -4819,7 +4819,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_36917627_site-worker-phone-ringing-pocket.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_36917627_site-worker-phone-ringing-pocket.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_36917627_site-worker-phone-ringing-pocket.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "two hi-vis workers ride a train, one looking at his phone",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-subway-workers",
+     "score": 3.3,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5544576_construction-worker-frustrated-h",
@@ -4831,7 +4841,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_5544576_construction-worker-frustrated-h.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_5544576_construction-worker-frustrated-h.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_5544576_construction-worker-frustrated-h.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "man grips his head in distress against a chain-link fence",
+     "violation": "gangster signifier: behind a fence, intense distressed framing",
+     "shot": "B",
+     "shoot": "pexels-fence-distress",
+     "score": 1.95,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 6,
+     "shown": false
     },
     {
      "id": "pexels_6474150_construction-worker-smartphone",
@@ -4843,7 +4863,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_6474150_construction-worker-smartphone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_6474150_construction-worker-smartphone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_6474150_construction-worker-smartphone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "man on a building site answers a phone call holding a tablet",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-buildsite-phone-tablet",
+     "score": 5.35,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6943539_stressed-looking-at-phone",
@@ -4865,7 +4895,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_7006122_hi-vis-worker-head-in-hands.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_7006122_hi-vis-worker-head-in-hands.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_7006122_hi-vis-worker-head-in-hands.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "woman crouches with head down in a dim industrial garage",
+     "violation": "dark industrial workshop",
+     "shot": "B",
+     "shoot": "pexels-garage-distress",
+     "score": 2.3,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_8488312_hi-vis-worker-phone",
@@ -4877,7 +4917,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_8488312_hi-vis-worker-phone.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_8488312_hi-vis-worker-phone.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_8488312_hi-vis-worker-phone.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "young worker in a hard hat and vest adjusts her helmet outdoors",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-portrait-yellowhat-woman",
+     "score": 4.7,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8963855_hard-hat-worker-rubbing-neck-str",
@@ -4889,7 +4939,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__thumb__pexels_8963855_hard-hat-worker-rubbing-neck-str.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__preview__pexels_8963855_hard-hat-worker-rubbing-neck-str.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__pexels_8963855_hard-hat-worker-rubbing-neck-str.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "man in a hard hat adjusts clear safety glasses near scaffolding",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-portrait-scaffold-man",
+     "score": 3.35,
+     "judged_at": "2026-09-09T20:26:43Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_35300838_worker-walking-away-unfinished",
@@ -4980,7 +5040,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:38:19Z"
+   "shots_at": "2026-09-09T14:38:19Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:26:43Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:26:43Z"
   }
  ]
 }
