@@ -881,8 +881,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "two men shake hands in front of a house with a sold sign",
+     "violation": "",
+     "shoot": "pexels-realtor-suburbanhouse",
+     "score": 3.3,
+     "judged_at": "2026-09-09T15:09:50Z",
+     "rank": 1
     },
     {
      "id": "belong-module9-S03-V53",
@@ -903,8 +911,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man and a woman shake hands in a bright office",
+     "violation": "corporate office setting",
+     "shoot": "pexels-office-teal",
+     "score": 1.95,
+     "judged_at": "2026-09-09T15:09:50Z",
+     "rank": 4
     },
     {
      "id": "belong-module9-S03-V54",
@@ -925,8 +941,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "two colleagues greet each other in an open plan office",
+     "violation": "corporate office / glass lobby",
+     "shoot": "pexels-office-startup",
+     "score": 1.95,
+     "judged_at": "2026-09-09T15:09:50Z",
+     "rank": 5
     },
     {
      "id": "belong-module9-S03-V55",
@@ -947,8 +971,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a man in a tie shakes hands with another man outside a house",
+     "violation": "",
+     "shoot": "pexels-realtor-suburbanhouse",
+     "score": 3.3,
+     "judged_at": "2026-09-09T15:09:50Z",
+     "rank": 2
     },
     {
      "id": "belong-module9-S03-V56",
@@ -969,8 +1001,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T14:42:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "two people in coats shake hands on a city street",
+     "violation": "",
+     "shoot": "pexels-street-corporate",
+     "score": 2.3,
+     "judged_at": "2026-09-09T15:09:50Z",
+     "rank": 3
     }
    ],
    "shots": [
@@ -1011,7 +1051,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T15:09:50Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T15:09:50Z"
   },
   {
    "id": "S12",
