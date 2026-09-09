@@ -1653,7 +1653,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__thumb__heygen_olive-oil-bottle.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__preview__heygen_olive-oil-bottle.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__strip__heygen_olive-oil-bottle.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "glass olive oil bottles sit on a wooden crate near olives",
+     "violation": "",
+     "shot": "A",
+     "shoot": "heygen-olive-oil-crate",
+     "score": 8.35,
+     "judged_at": "2026-09-09T17:59:27Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_14527415_olive-oil-bottle-pouring",
@@ -1665,7 +1675,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__thumb__pexels_14527415_olive-oil-bottle-pouring.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__preview__pexels_14527415_olive-oil-bottle-pouring.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__strip__pexels_14527415_olive-oil-bottle-pouring.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "hand pours olive oil from a glass bottle against a yellow background",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-olive-oil-studio-pour",
+     "score": 3.65,
+     "judged_at": "2026-09-09T17:59:27Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5897983_olive-oil-golden-bottle-rustic",
@@ -1677,7 +1697,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__thumb__pexels_5897983_olive-oil-golden-bottle-rustic.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__preview__pexels_5897983_olive-oil-golden-bottle-rustic.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__strip__pexels_5897983_olive-oil-golden-bottle-rustic.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "oil pours from a copper dispenser onto a flatbread",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-copper-oil-dispenser-flatbread",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:59:27Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5898242_portuguese-olive-oil-artisanal",
@@ -1689,7 +1719,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__thumb__pexels_5898242_portuguese-olive-oil-artisanal.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__preview__pexels_5898242_portuguese-olive-oil-artisanal.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S11__strip__pexels_5898242_portuguese-olive-oil-artisanal.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "oil pours from a copper dispenser onto plated flatbreads",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-copper-oil-dispenser-flatbread",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:59:27Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_13247706_portuguese-olive-oil-artisanal",
@@ -1750,7 +1790,13 @@
     "corporate branding"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:59:27Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:59:27Z"
   },
   {
    "id": "S12",

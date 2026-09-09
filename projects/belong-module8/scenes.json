@@ -5264,7 +5264,7 @@
      "page_url": "https://www.pexels.com/video/a-variety-of-fresh-fruit-and-vegetables-on-display-at-the-market-15645011/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V01.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V01.mp4",
-     "score": 17.3,
+     "score": 5.35,
      "categories": [
       "table",
       "vegetable"
@@ -5272,7 +5272,16 @@
      "title": "video variety fresh fruit and vegetables display the market",
      "query": "farmer market stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V01.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "colorful fruit and vegetables fill a market stall display",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-market-produce-display",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V02",
@@ -5283,7 +5292,7 @@
      "page_url": "https://www.pexels.com/video/a-vendor-selling-fresh-vegetables-in-a-market-3209759/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V02.mp4",
-     "score": 17.3,
+     "score": 6.0,
      "categories": [
       "table",
       "vegetable"
@@ -5291,7 +5300,16 @@
      "title": "video vendor selling fresh vegetables market",
      "query": "farmer market stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "vendor arranges vegetables at an outdoor ground market",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-market-vendor-vegetables",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 5,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V03",
@@ -5302,7 +5320,7 @@
      "page_url": "https://www.pexels.com/video/bustling-indoor-market-with-vibrant-vegetables-36017942/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V03.mp4",
-     "score": 15.8,
+     "score": 5.0,
      "categories": [
       "table",
       "vegetable"
@@ -5310,7 +5328,16 @@
      "title": "video bustling indoor market with vibrant vegetables",
      "query": "farmer market stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "vendor sells produce at a busy indoor market hall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-indoor-market-hall",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 9,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V04",
@@ -5321,7 +5348,7 @@
      "page_url": "https://pixabay.com/videos/id-42932/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V04.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V04.mp4",
-     "score": 14.5,
+     "score": 3.35,
      "categories": [
       "countryside",
       "farm",
@@ -5330,7 +5357,16 @@
      "title": "market  countryside  travel  farmer  vendor  beautiful  daily life",
      "query": "farmer market stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V04.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "crowded outdoor market bustles with vendors and shoppers",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-crowded-outdoor-market",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-V05",
@@ -5341,12 +5377,21 @@
      "page_url": "https://www.pexels.com/video/woman-paying-cashless-8540402/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V05.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V05.mp4",
-     "score": 14.3,
+     "score": 8.0,
      "categories": [],
      "title": "video woman paying cashless",
      "query": "farmer market stall",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V05.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "farmer takes cashless payment from a customer at a market stall",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-farmstand-cashless-payment",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V06",
@@ -5357,7 +5402,7 @@
      "page_url": "https://pixabay.com/videos/id-11749/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V06.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V06.mp4",
-     "score": 13.9,
+     "score": 0.35,
      "categories": [
       "hands",
       "table",
@@ -5366,7 +5411,16 @@
      "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  wor",
      "query": "artisan workshop hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V06.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "close-up of a rotating polishing wheel tool",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-polishing-wheel-closeup",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-V07",
@@ -5377,7 +5431,7 @@
      "page_url": "https://pixabay.com/videos/id-11750/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V07.mp4",
-     "score": 13.9,
+     "score": 0.35,
      "categories": [
       "hands",
       "table",
@@ -5386,7 +5440,16 @@
      "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  wor",
      "query": "artisan workshop hands",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "polishing wheel grinds against a sheet of glass",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-polishing-wheel-closeup",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-I01",
@@ -5457,7 +5520,7 @@
      "page_url": "https://pixabay.com/videos/id-243239/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V09.mp4",
-     "score": 26.01,
+     "score": 3.7,
      "categories": [
       "countryside",
       "farm",
@@ -5469,7 +5532,16 @@
      "title": "man  farmer  agriculture  countryside  field  rural  farming  farm  farmland  harvest  culture  outside  traditional  wo",
      "query": "vineyard workers countryside",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "young man harvests corn stalks in a rural field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-corn-harvest-field",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-V10",
@@ -5480,7 +5552,7 @@
      "page_url": "https://www.pexels.com/video/directly-above-view-of-farmers-working-at-olives-harvests-10636162/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V10.mp4",
-     "score": 22.52,
+     "score": 4.7,
      "categories": [
       "farm",
       "farmer",
@@ -5491,7 +5563,16 @@
      "title": "video directly above view farmers working olives harvests",
      "query": "olive harvest portugal grove",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "aerial view of workers sorting produce on an outdoor table",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-aerial-produce-sorting",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-V13",
@@ -5520,7 +5601,7 @@
      "page_url": "https://www.pexels.com/video/freshly-harvested-vegetables-5104191/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V14.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V14.mp4",
-     "score": 19.84,
+     "score": 5.05,
      "categories": [
       "harvest",
       "table",
@@ -5529,7 +5610,16 @@
      "title": "video freshly harvested vegetables",
      "query": "farmer handing basket vegetables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V14.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "gloved hand holds a red bell pepper over a basket of vegetables",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-harvest-basket-pepper",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V16",
@@ -5540,14 +5630,23 @@
      "page_url": "https://www.pexels.com/video/cleaning-freshly-harvested-eggplants-5527775/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V16.mp4",
-     "score": 19.4,
+     "score": 3.7,
      "categories": [
       "harvest"
      ],
      "title": "video cleaning freshly harvested eggplants",
      "query": "farmer handing basket vegetables",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "person in a tan coat holds a basket of vegetables in a field",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-basket-field-coat",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m8-S11-V17",
@@ -5558,7 +5657,7 @@
      "page_url": "https://pixabay.com/videos/id-216471/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V17.mp4",
-     "score": 19.35,
+     "score": 4.75,
      "categories": [
       "farm",
       "harvest",
@@ -5568,7 +5667,16 @@
      "title": "olive  tree  nature  view  forest  leaves  herb  branches  meadow  green  healthy  nutrition  organic  oil  farm  agricu",
      "query": "olive harvest portugal grove",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "green olives hang from a tree branch against blue sky",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-olive-branch-closeup",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-V18",
@@ -5579,7 +5687,7 @@
      "page_url": "https://pixabay.com/videos/id-200513/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__belong-m8-S11-V18.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__belong-m8-S11-V18.mp4",
-     "score": 18.92,
+     "score": 9.0,
      "categories": [
       "countryside",
       "farm",
@@ -5590,7 +5698,16 @@
      "title": "countryside  plantation  tree  olives  young  oil  farm  plant  drone  olio d'oliva  agricultural  harvest  mediterranea",
      "query": "olive oil bottling small farm",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__belong-m8-S11-V18.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "aerial view of a stone farmhouse surrounded by orchard rows",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-aerial-farmhouse-orchard",
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "belong-m8-S11-I04",
@@ -5662,7 +5779,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_9617518_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_9617518_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_9617518_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "man reviews rolled blueprints at a lamp-lit desk",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-lamp-desk-blueprints",
+     "score": 4.65,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_8829011_growth-ambitions",
@@ -5674,7 +5801,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_8829011_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_8829011_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_8829011_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "businesswomen in blazers work on a laptop outside a glass building",
+     "violation": "business suits",
+     "shot": "",
+     "shoot": "pexels-businesswomen-glass-building",
+     "score": 2.3,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pexels_10349943_growth-ambitions",
@@ -5686,7 +5823,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_10349943_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_10349943_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_10349943_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "workers in safety vests gather around a table beside a van",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-hivis-van-gathering",
+     "score": 1.0,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "pexels_10350199_growth-ambitions",
@@ -5698,7 +5845,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_10350199_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_10350199_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_10350199_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "researchers in safety vests take notes at an outdoor field station",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-hivis-field-research",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "pexels_9305958_growth-ambitions",
@@ -5710,7 +5867,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_9305958_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_9305958_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_9305958_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "hands point at a business plan with charts on a wooden table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-business-plan-wooden-table",
+     "score": 7.3,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8725793_growth-ambitions",
@@ -5722,7 +5889,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_8725793_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_8725793_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_8725793_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "hand traces lines on an architectural floor plan",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-floorplan-hand-trace",
+     "score": 7.3,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_6474265_growth-ambitions",
@@ -5734,7 +5911,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_6474265_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_6474265_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_6474265_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands hold an architectural floor plan near a window",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-floorplan-hold-window",
+     "score": 5.65,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "pexels_6473950_growth-ambitions",
@@ -5746,7 +5933,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__thumb__pexels_6473950_growth-ambitions.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8/S11__preview__pexels_6473950_growth-ambitions.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S11__strip__pexels_6473950_growth-ambitions.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "man in a hard hat holds a blueprint at a construction site",
+     "violation": "construction and building trades",
+     "shot": "",
+     "shoot": "pexels-hardhat-blueprint-site",
+     "score": 1.3,
+     "judged_at": "2026-09-09T17:59:53Z",
+     "rank": 18,
+     "shown": false
     }
    ],
    "shots": [
@@ -5785,7 +5982,8 @@
     "corporate boardroom"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:25:20Z"
+   "shots_at": "2026-09-09T14:25:20Z",
+   "judged_at": "2026-09-09T17:59:53Z"
   },
   {
    "id": "S12",
