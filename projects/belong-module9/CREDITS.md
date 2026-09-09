@@ -357,3 +357,25 @@
 | pixabay | pencil  write  author  education  pen  paper  school  writin | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-8256/ |
 | pixabay | notebook  laptop  blur  home office  typing  writing  progra | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-117/ |
 | pixabay | woman  exploration  nature  outdoors | u_bz9cn6vat4 | Pixabay Content License | https://pixabay.com/videos/id-240659/ |
+| pexels | woman writing on a notebook | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-writing-on-a-notebook-6755017/ |
+| pexels | a man talking while pointing his fingers | Ivan S | Pexels License | https://www.pexels.com/video/a-man-talking-while-pointing-his-fingers-5676109/ |
+| pexels | woman talking to the receptionist | Cedric Fauntleroy | Pexels License | https://www.pexels.com/video/woman-talking-to-the-receptionist-4487290/ |
+| pexels | a woman entering a beauty salon | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-entering-a-beauty-salon-7754471/ |
+| pexels | a woman paying using a bank card | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-paying-using-a-bank-card-6192867/ |
+| pexels | man inside a dental clinic | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-inside-a-dental-clinic-6755025/ |
+| pexels | man signing on a document | cottonbro studio | Pexels License | https://www.pexels.com/video/man-signing-on-a-document-8465133/ |
+| pexels | receptionist showing room to guest | Mikhail Nilov | Pexels License | https://www.pexels.com/video/receptionist-showing-room-to-guest-7820516/ |
+| pexels | close up view of handwriting in notebook | Harvey Tan Villarino | Pexels License | https://www.pexels.com/video/close-up-view-of-handwriting-in-notebook-11995909/ |
+| pexels | close up of a person sticking a note in a notebook | Taryn Elliott | Pexels License | https://www.pexels.com/video/close-up-of-a-person-sticking-a-note-in-a-notebook-9683622/ |
+| pexels | a senior woman buying medicine | cottonbro studio | Pexels License | https://www.pexels.com/video/a-senior-woman-buying-medicine-8657624/ |
+| pexels | a waitress writing down orders | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-waitress-writing-down-orders-3981540/ |
+| pexels | a waiter serving his guests | Ron Lach | Pexels License | https://www.pexels.com/video/a-waiter-serving-his-guests-8922363/ |
+| pexels | a couple and a waiter talking in the restaurant | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-and-a-waiter-talking-in-the-restaurant-6816192/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | school  scribble  student  drawing  notepad  sketchbook  pup | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-80/ |
+| pixabay | sketch  draw  pencil  drawing  design  hand  paper  creative | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10824/ |
+| pixabay | foosball table  football  game  sport  action  table footbal | ubert | Pixabay Content License | https://pixabay.com/videos/id-28376/ |
+| pixabay | beer  brewery  tavern  waiter | mrajadell | Pixabay Content License | https://pixabay.com/videos/id-26373/ |
+| pixabay | table  meal  dishes  food  cuisine | Charity_donate | Pixabay Content License | https://pixabay.com/videos/id-149935/ |
+| pixabay | book  wind  literature  education  writing  reading  poetry  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-185092/ |
+| pixabay | billet  bank  debt  pen | andrepazleal | Pixabay Content License | https://pixabay.com/videos/id-13477/ |
