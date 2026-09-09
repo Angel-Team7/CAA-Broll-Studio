@@ -719,7 +719,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pexels_32244799_groundworker-with-foreman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pexels_32244799_groundworker-with-foreman.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__strip__pexels_32244799_groundworker-with-foreman.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "two workers stand together on a large scaffolded highrise facade",
+     "violation": "heavy scaffolding rig and signage board read as an industrial highrise site, not the brand's small-crew world",
+     "shot": "",
+     "shoot": "pexels-scaffold-highrise-duo",
+     "score": 3.65,
+     "judged_at": "2026-09-09T18:36:52Z",
+     "rank": 3,
+     "shown": false
     },
     {
      "id": "pexels_32244801_curious-worker-site",
@@ -731,7 +741,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pexels_32244801_curious-worker-site.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pexels_32244801_curious-worker-site.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__strip__pexels_32244801_curious-worker-site.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a worker in a hard hat handles rigging cables on a scaffolded facade",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-scaffold-rigging",
+     "score": 3.0,
+     "judged_at": "2026-09-09T18:36:52Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_8964378_construction-site-meeting",
@@ -753,7 +773,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pexels_8964728_hardhat-workers-talking.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pexels_8964728_hardhat-workers-talking.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__strip__pexels_8964728_hardhat-workers-talking.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "two workers in hard hats review a clipboard near a tower crane",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-clipboard-crane-duo",
+     "score": 5.3,
+     "judged_at": "2026-09-09T18:36:52Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_8964772_apprentice-with-foreman",
@@ -765,7 +795,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pexels_8964772_apprentice-with-foreman.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pexels_8964772_apprentice-with-foreman.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__strip__pexels_8964772_apprentice-with-foreman.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "two workers talk together by a railing near a large crane structure",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-railing-crane-talk",
+     "score": 5.65,
+     "judged_at": "2026-09-09T18:36:52Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_40816_builder-checking-plans",
@@ -777,7 +817,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__thumb__pixabay_40816_builder-checking-plans.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__preview__pixabay_40816_builder-checking-plans.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2/S03__strip__pixabay_40816_builder-checking-plans.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "road workers in hi-vis vests shovel and lay stones on a street",
+     "violation": "several workers doing the same task reads close to a work crew",
+     "shot": "",
+     "shoot": "pixabay-road-crew",
+     "score": 2.35,
+     "judged_at": "2026-09-09T18:36:52Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "pexels_19895874_two-workers-discussing-site",
@@ -859,7 +909,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:37:00Z"
+   "shots_at": "2026-09-09T14:37:00Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T18:36:52Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T18:36:52Z"
   },
   {
    "id": "S04",
