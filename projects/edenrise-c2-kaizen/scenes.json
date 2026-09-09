@@ -37,7 +37,7 @@
      "page_url": "https://www.pexels.com/video/a-man-is-working-on-a-machine-in-a-workshop-18101986/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V02.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V02.mp4",
-     "score": 20.12,
+     "score": 1.35,
      "categories": [
       "man",
       "working",
@@ -46,7 +46,16 @@
      "title": "video man working machine workshop",
      "query": "worker organizing tools workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V02.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "gloved hands adjust a precision tool on an industrial workbench",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-industrial-electronics-bench",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 10,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V03",
@@ -57,7 +66,7 @@
      "page_url": "https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V03.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V03.mp4",
-     "score": 18.59,
+     "score": 5.3,
      "categories": [
       "tools",
       "workshop"
@@ -65,7 +74,16 @@
      "title": "video variety tools display inside workshop",
      "query": "craftsman working efficiently workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V03.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a worker in overalls stands at an organized pegboard tool wall with a small whiteboard",
+     "violation": "whiteboard",
+     "shot": "C",
+     "shoot": "pexels-pegboard-tool-wall",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 5,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V07",
@@ -76,7 +94,7 @@
      "page_url": "https://www.pexels.com/video/a-man-working-on-a-table-in-a-room-5090785/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V07.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V07.mp4",
-     "score": 16.45,
+     "score": 2.0,
      "categories": [
       "man",
       "working"
@@ -84,7 +102,16 @@
      "title": "video man working table room",
      "query": "electrician organized van tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V07.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man works alone in a dim, cluttered electronics workshop",
+     "violation": "dark industrial workshop",
+     "shot": "",
+     "shoot": "pexels-dim-electronics-workshop",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 9,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V08",
@@ -95,7 +122,7 @@
      "page_url": "https://www.pexels.com/video/close-up-of-hands-using-a-woodworking-plane-32727075/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V08.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V08.mp4",
-     "score": 16.45,
+     "score": 6.7,
      "categories": [
       "hands",
       "working"
@@ -103,7 +130,16 @@
      "title": "video close hands using woodworking plane",
      "query": "woodworker planing wood workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V08.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "close-up hands guide a wood plane, curling shavings off a board",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-handplane-shavings",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V09",
@@ -114,14 +150,23 @@
      "page_url": "https://www.pexels.com/video/young-carpenter-using-hand-plane-on-piece-of-wood-5972622/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V09.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V09.mp4",
-     "score": 16.45,
+     "score": 5.7,
      "categories": [
       "carpenter"
      ],
      "title": "video young carpenter using hand plane piece wood",
      "query": "woodworker planing wood workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V09.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a man planes a board at a bright indoor carpentry workbench",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-bright-carpentry-studio",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V10",
@@ -132,7 +177,7 @@
      "page_url": "https://pixabay.com/videos/id-277/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V10.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V10.mp4",
-     "score": 15.79,
+     "score": 4.7,
      "categories": [
       "carpenter",
       "worker"
@@ -140,7 +185,16 @@
      "title": "hammer  nail  carpentry  carpenter  wood  woodworker  craft  build  construct  create  hammering  swaging  beating  poun",
      "query": "woodworker planing wood workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V10.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand hammers a nail into stacked wooden boards",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pixabay-hammer-nail-boards",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 6,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V15",
@@ -151,14 +205,23 @@
      "page_url": "https://www.pexels.com/video/person-holding-tools-5967509/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V15.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V15.mp4",
-     "score": 16.22,
+     "score": 5.35,
      "categories": [
       "tools"
      ],
      "title": "video person holding tools",
      "query": "woodworker planing wood workshop",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V15.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands work a small vintage tool at a wooden workbench",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-vintage-tool-bench",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V16",
@@ -169,7 +232,7 @@
      "page_url": "https://www.pexels.com/video/skilled-craftsman-performing-leatherwork-in-workshop-34740035/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V16.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V16.mp4",
-     "score": 16.19,
+     "score": 4.7,
      "categories": [
       "craftsman",
       "man",
@@ -178,7 +241,16 @@
      "title": "video skilled craftsman performing leatherwork workshop",
      "query": "artisan leather craft workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V16.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "an older craftsman works leather at a cluttered studio table",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-leather-craftsman-studio",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 7,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V17",
@@ -189,14 +261,23 @@
      "page_url": "https://www.pexels.com/video/hands-removing-the-wires-of-circuit-board-9373207/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V17.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V17.mp4",
-     "score": 15.85,
+     "score": 0.7,
      "categories": [
       "hands"
      ],
      "title": "video hands removing the wires circuit board",
      "query": "electrician organized van tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V17.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hands remove wires from a computer circuit board",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-circuitboard-wires",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 11,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V20",
@@ -207,14 +288,23 @@
      "page_url": "https://www.pexels.com/video/man-changing-a-light-bulb-7641514/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V20.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V20.mp4",
-     "score": 15.25,
+     "score": 5.35,
      "categories": [
       "man"
      ],
      "title": "video man changing light bulb",
      "query": "electrician organized van tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V20.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man in a flannel shirt changes a ceiling light bulb using a toolbox",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-lightbulb-toolbox",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V21",
@@ -225,7 +315,7 @@
      "page_url": "https://www.pexels.com/video/electrician-working-on-industrial-battery-bank-36167827/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V21.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V21.mp4",
-     "score": 15.25,
+     "score": 0.7,
      "categories": [
       "electrician",
       "working"
@@ -233,7 +323,16 @@
      "title": "video electrician working industrial battery bank",
      "query": "electrician organized van tools",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V21.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an electrician works on a large industrial battery bank enclosure",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-industrial-battery-bank",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 12,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-V22",
@@ -244,7 +343,7 @@
      "page_url": "https://www.pexels.com/video/craftsman-in-workshop-making-leather-goods-34799297/",
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__thumb__edenrise-c2-kaizen-S01-V22.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__preview__edenrise-c2-kaizen-S01-V22.mp4",
-     "score": 14.69,
+     "score": 4.7,
      "categories": [
       "craftsman",
       "man",
@@ -253,7 +352,16 @@
      "title": "video craftsman workshop making leather goods",
      "query": "artisan leather craft workbench",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V22.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "an older craftsman in a hat arranges tools at a leather workbench",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-leather-craftsman-studio",
+     "judged_at": "2026-09-09T17:48:20Z",
+     "rank": 8,
+     "shown": true
     },
     {
      "id": "edenrise-c2-kaizen-S01-I01",
@@ -375,7 +483,13 @@
     "hi-vis crowd"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:32:27Z"
+   "shots_at": "2026-09-09T14:32:27Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:48:20Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:48:20Z"
   },
   {
    "id": "S02",

@@ -1480,5 +1480,17 @@
   "reason": "abstract graphic, not real footage",
   "at": "2026-09-09T17:47:08Z",
   "from": "belong-module9/S13"
+ },
+ "pexels:https://www.pexels.com/video/variety-of-tools-on-display-inside-a-workshop-7482684/": {
+  "brand": "edenrise",
+  "reason": "whiteboard",
+  "at": "2026-09-09T17:48:20Z",
+  "from": "edenrise-c2-kaizen/S01"
+ },
+ "pexels:https://www.pexels.com/video/a-man-working-on-a-table-in-a-room-5090785/": {
+  "brand": "edenrise",
+  "reason": "dark industrial workshop",
+  "at": "2026-09-09T17:48:20Z",
+  "from": "edenrise-c2-kaizen/S01"
  }
 }
