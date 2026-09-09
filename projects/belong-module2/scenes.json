@@ -779,7 +779,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__thumb__pexels_26510198_farm-to-table-gathering-garden.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__preview__pexels_26510198_farm-to-table-gathering-garden.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__strip__pexels_26510198_farm-to-table-gathering-garden.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a person crouches to harvest leafy greens in a garden bed",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-farm-to-table-gathering-garden",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:36:34Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_36742110_community-table-feast-golden-hou",
@@ -791,7 +801,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__thumb__pexels_36742110_community-table-feast-golden-hou.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__preview__pexels_36742110_community-table-feast-golden-hou.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__strip__pexels_36742110_community-table-feast-golden-hou.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "hands reach across a table spread with tea and small shared dishes",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-community-table-feast",
+     "score": 6.35,
+     "judged_at": "2026-09-09T17:36:34Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_5961379_friends-long-table-outdoor-dinne",
@@ -813,7 +833,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__thumb__pexels_9578264_people-sharing-meal-outdoors-cou.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__preview__pexels_9578264_people-sharing-meal-outdoors-cou.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S06__strip__pexels_9578264_people-sharing-meal-outdoors-cou.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "two friends share a bite of food outdoors in a green field",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-people-sharing-meal-outdoors",
+     "score": 6.05,
+     "judged_at": "2026-09-09T17:36:34Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_5638732_friends-long-table-outdoor-dinne",
@@ -875,7 +905,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:36:34Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:36:34Z"
   },
   {
    "id": "S07",
