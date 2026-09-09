@@ -532,7 +532,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__thumb__pexels_5980027_outdoor-sauna-forest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__preview__pexels_5980027_outdoor-sauna-forest.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__strip__pexels_5980027_outdoor-sauna-forest.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman relaxes in a wooden sauna cabin overlooking dunes",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sauna-cabin-dunes-view",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:31:13Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6693841_wellness-spa-wood",
@@ -544,7 +554,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__thumb__pexels_6693841_wellness-spa-wood.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__preview__pexels_6693841_wellness-spa-wood.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S05__strip__pexels_6693841_wellness-spa-wood.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a flat lay of essential oil droppers, wooden diffuser sticks and rosemary on marble",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-spa-oils-flatlay",
+     "score": 1.7,
+     "judged_at": "2026-09-09T17:31:13Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_25729721_steam-pool-morning",
@@ -586,7 +606,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:31:13Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:31:13Z"
   },
   {
    "id": "S06",
@@ -613,7 +639,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__thumb__pexels_12354539_vegetable-garden-harvest.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__preview__pexels_12354539_vegetable-garden-harvest.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__strip__pexels_12354539_vegetable-garden-harvest.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "hands pull a fresh radish from a garden bed of leafy greens",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-hands-pulling-radish-garden",
+     "score": 9.0,
+     "judged_at": "2026-09-09T17:31:33Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_31946719_free-range-chickens",
@@ -625,7 +661,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__thumb__pexels_31946719_free-range-chickens.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__preview__pexels_31946719_free-range-chickens.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S06__strip__pexels_31946719_free-range-chickens.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "free-range hens peck around a hay bale near a rustic wooden barn",
+     "violation": "",
+     "shot": "D",
+     "shoot": "pexels-freerange-hens-barnyard",
+     "score": 7.35,
+     "judged_at": "2026-09-09T17:31:33Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_10606633_organic-garden-rows",
@@ -684,7 +730,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:31:33Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:31:33Z"
   },
   {
    "id": "S07",
@@ -701,7 +753,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__thumb__pexels_26620441_olive-oil-bottles.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__preview__pexels_26620441_olive-oil-bottles.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__strip__pexels_26620441_olive-oil-bottles.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand drizzles oil from a small bottle over dough on a dark counter",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-oil-pour-bread-dark",
+     "score": 4.7,
+     "judged_at": "2026-09-09T17:31:57Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6540514_artisanal-products-shelf",
@@ -723,7 +785,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__thumb__pexels_7144079_honey-jars-rustic.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__preview__pexels_7144079_honey-jars-rustic.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module6/S07__strip__pexels_7144079_honey-jars-rustic.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "honey drizzles onto a stack of pancakes with banana beside a honey jar",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-honey-pancakes-styling",
+     "score": 5.05,
+     "judged_at": "2026-09-09T17:31:57Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_33316026_artisanal-products-shelf",
@@ -774,7 +846,13 @@
     "corporate branding"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:30:48Z"
+   "shots_at": "2026-09-09T14:30:48Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T17:31:57Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:31:57Z"
   },
   {
    "id": "S08",
