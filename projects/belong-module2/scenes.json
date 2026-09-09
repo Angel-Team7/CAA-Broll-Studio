@@ -1082,7 +1082,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__thumb__pexels_5963647_farmhouse-restaurant-guests-dini.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__preview__pexels_5963647_farmhouse-restaurant-guests-dini.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__strip__pexels_5963647_farmhouse-restaurant-guests-dini.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a server places a dish on a table at a cozy rustic restaurant",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-rustic-restaurant-serving",
+     "score": 7.0,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_6396243_server-bringing-plate-outdoor-ta",
@@ -1094,7 +1104,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__thumb__pexels_6396243_server-bringing-plate-outdoor-ta.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__preview__pexels_6396243_server-bringing-plate-outdoor-ta.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__strip__pexels_6396243_server-bringing-plate-outdoor-ta.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a server arranges champagne flutes on a festively decorated table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-champagne-table-setting",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_7251245_farm-to-table-dish-served-guests",
@@ -1106,7 +1126,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__thumb__pexels_7251245_farm-to-table-dish-served-guests.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__preview__pexels_7251245_farm-to-table-dish-served-guests.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__strip__pexels_7251245_farm-to-table-dish-served-guests.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a server sets a dessert tray before smiling guests at a table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-dessert-tray-guests",
+     "score": 7.65,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pixabay_227128_waiter-serving-dish-rustic-resta",
@@ -1118,7 +1148,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__thumb__pixabay_227128_waiter-serving-dish-rustic-resta.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__preview__pixabay_227128_waiter-serving-dish-rustic-resta.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S08__strip__pixabay_227128_waiter-serving-dish-rustic-resta.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "close-up of a fork cutting into salmon over a kale salad",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-salmon-kale-closeup",
+     "score": 4.05,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_10375831_server-bringing-plate-outdoor-ta",
@@ -1180,7 +1220,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-09-09T17:37:50Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:37:50Z"
   },
   {
    "id": "S09",
@@ -1207,7 +1253,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__thumb__pexels_5961965_outdoor-celebration-table-sunset.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__preview__pexels_5961965_outdoor-celebration-table-sunset.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__strip__pexels_5961965_outdoor-celebration-table-sunset.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "friends raise wine glasses in a toast at an outdoor evening table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-outdoor-toast-evening",
+     "score": 6.0,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 1,
+     "shown": true
     },
     {
      "id": "pexels_6289663_warm-evening-meal-friends-candle",
@@ -1219,7 +1275,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__thumb__pexels_6289663_warm-evening-meal-friends-candle.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__preview__pexels_6289663_warm-evening-meal-friends-candle.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__strip__pexels_6289663_warm-evening-meal-friends-candle.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "friends share a candlelit meal at a formal indoor table",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-formal-candlelit-dinner",
+     "score": 3.0,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pixabay_93480_warm-evening-meal-friends-candle",
@@ -1231,7 +1297,17 @@
      "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__thumb__pixabay_93480_warm-evening-meal-friends-candle.jpg",
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__preview__pixabay_93480_warm-evening-meal-friends-candle.mp4",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module2/S09__strip__pixabay_93480_warm-evening-meal-friends-candle.strip.jpg",
-     "judged": false
+     "judged": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "close-up of lit candles glowing with soft bokeh lights",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-candle-closeup",
+     "score": 3.05,
+     "judged_at": "2026-09-09T17:37:50Z",
+     "rank": 2,
+     "shown": true
     },
     {
      "id": "pexels_20151745_friends-outdoor-dinner-golden-ho",
@@ -1293,7 +1369,13 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-09T14:29:10Z"
+   "shots_at": "2026-09-09T14:29:10Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-09-09T17:37:50Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T17:37:50Z"
   }
  ]
 }
