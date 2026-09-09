@@ -1,6 +1,6 @@
 {
   "project": "belong-module9",
-  "updated": "2026-09-09T11:07:51.792Z",
+  "updated": "2026-09-09T11:09:28.714Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -46,22 +46,27 @@
     "S06": "10 more contexutal in hospitality industry.",
     "S08": "10 more contexutal in hospitality industry.",
     "S13": "10 more contexutal in hospitality industry.",
-    "S12": "generates more contextual videos"
+    "S12": "generates more contextual videos",
+    "S03": ""
   },
   "topup_requests": {
     "S03": {
-      "requested": "2026-09-09T06:00:08Z",
+      "requested": "2026-09-09T11:09:28.692Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T09:06:40Z",
-      "added": 10
+      "reason": "direction",
+      "avoid": [
+        "guest",
+        "talking",
+        "staff",
+        "speaking",
+        "hotel"
+      ],
+      "done": false
     },
     "S02": {
       "requested": "2026-09-09T11:07:51.769Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-09T11:09:27Z",
-      "added": 10
+      "done": false
     },
     "S01": {
       "requested": "2026-08-20T12:17:37.903Z",
