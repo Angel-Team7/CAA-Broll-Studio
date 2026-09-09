@@ -198,16 +198,22 @@ async function startPreview(v) {
   try {
     if (v.preload !== "auto") v.preload = "auto";
     if (v.readyState === 0 && v.networkState !== 2) v.load();
-    await v.play();
+    v._play = v.play();
+    await v._play;
     p.classList.add("playing");
   } catch (e) {
-    if (!previewWarned) { previewWarned = true; toast(`Preview could not start: ${e.name} — ${e.message}`); }
+    // AbortError = the pointer left before the clip had started. Not a failure.
+    if (e && e.name === "AbortError") return;
+    if (!previewWarned) { previewWarned = true; toast(`Preview could not start: ${e.name} — ${e.message}`, 8000); }
   } finally { p.classList.remove("loading"); }
 }
 function stopPreview(v) {
   const p = v.closest(".media");
-  v.pause(); try { v.currentTime = 0; } catch {}
-  p.classList.remove("playing");
+  // wait for a pending play() to settle so pause() does not interrupt it
+  (v._play || Promise.resolve()).catch(() => {}).then(() => {
+    v.pause(); try { v.currentTime = 0; } catch {}
+    p.classList.remove("playing");
+  });
 }
 function wirePreview(v) {
   const p = v.closest(".media");
