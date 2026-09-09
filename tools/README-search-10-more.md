@@ -7,11 +7,12 @@ New options appear under the existing ones a few minutes later — no Mac, no ch
 
 | Button | Request | What the bot does |
 |---|---|---|
-| **🔎 Need more** | `topup_request` | more of the *same* kind. Library first, then the internet. |
-| **🔁 Direction is wrong** | `reshoot` with `reason:"direction"` | a *different* kind. Skips the library, lets the reviewer's note lead the query, and carries an **avoid** list built from the words that describe what is already on the card, so it cannot bring back the same look. |
+| **🔎 Need more** | `topup_request` | more of the *same* kind. Library first, then the internet. Reads "10 more queued" only while the request is unfulfilled; once the clips land it is clickable again. |
+| **🔁 Direction is wrong** | `reshoot` with `reason:"direction"` | a *different* kind. Skips the library, lets the reviewer's note lead the query, and carries an **avoid** list built from the words that describe what is already on the card. Clicking again on a flagged scene ("Still wrong — 10 more") fires another search that also avoids the new batch; the flag itself is removed only with the **clear flag** link under the brief. |
 
-The reviewer's note is parsed: `less X` / `no X` / `not X` / `too X` become avoid terms;
-anything else is chased.
+The reviewer's note is parsed: `less X` / `no X` / `too X` become avoid terms, "not
+contextual for X" chases X, and request filler ("please generate 10 more", "delete these")
+is dropped so it never becomes a search term.
 
 ## Library first
 `library/index.json` holds every clip we already own, faceted by subject, action, setting,
@@ -55,7 +56,8 @@ back to keyless Wikimedia Commons — far fewer and weaker results.
 - The job skips its own commits (`[topup-bot]`) and the harvester's (`[harvest-bot]`), so it cannot loop.
 - Sparse, blobless checkout of `selections`, `tools`, `library`, `.github` plus the one project it touches.
 - Push retries with rebase 5× in case a human saves at the same moment.
-- Max 8 scenes per run; anything beyond is reported and picked up on the next run.
+- Max 8 scenes per run; when more are waiting the run re-queues itself, so a long backlog drains on its own.
+- The bot gets the Actions token for release uploads; a bot failure fails the run (no green runs with 0 added).
 - ffmpeg comes from a cached static build (`~/ffbin`), apt as fallback, so a run is ~90 s.
 
 ## Manual run
