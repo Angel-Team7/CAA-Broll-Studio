@@ -407,3 +407,33 @@
 | pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/a-person-mixing-different-colors-of-powder-on-the-ground-7192435/ |
 | pexels |  | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/earthworm-on-glove-11960811/ |
 | pexels |  | Vladimir Srajber | Pexels License | https://www.pexels.com/video/construction-site-with-heavy-machinery-activity-33769531/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-in-a-hard-hat-and-safety-vest-using-a-tablet-8963675/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135887/ |
+| pixabay | sparkles  industry  worker  industrial  metal  steel  equipm | wastedgeneration | Pixabay Content License | https://pixabay.com/videos/id-12543/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-textile-factory-worker-at-sewing-station-31359565/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/man-working-over-a-wooden-piece-to-make-it-smooth-5972659/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-hands-operating-a-sewing-machine-35144730/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-in-overalls-cleaning-dining-area-6195520/ |
+| pexels |  | Tom Jurman | Pexels License | https://www.pexels.com/video/man-attaching-trailer-to-van-outdoors-34308330/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/man-working-inside-the-warehouse-4291724/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-suburban-cityscape-in-black-and-white-35570673/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/aerial-view-of-bulldozer-on-construction-site-33931385/ |
+| pexels |  | Edgar Romero | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-construction-site-with-a-large-amount-of-dirt-20310429/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-arriving-at-a-business-presentation-8716428/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-unloading-cleaning-tools-from-car-6196560/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/unloading-baggae-from-airplane-11505248/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/men-talking-on-the-table-8135793/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-pushing-a-trolley-having-back-pain-8965387/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-talking-to-a-car-mechanic-6685058/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/looking-at-tree-through-magnifier-12723970/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-girl-walking-on-the-sidewalk-4615492/ |
+| pexels |  | Ankit Rainloure | Pexels License | https://www.pexels.com/video/child-gazing-out-at-rainy-landscape-34095518/ |
+| pexels |  | Top5Way Agency | Pexels License | https://www.pexels.com/video/close-up-of-soil-processing-for-construction-34142710/ |
+| pexels |  | Wayne Speedy | Pexels License | https://www.pexels.com/video/heavy-machinery-leveling-a-gravel-construction-site-34289759/ |
+| pexels |  | Roman Kaiuk🇺🇦 | Pexels License | https://www.pexels.com/video/nature-earth-people-working-earth-day-4221961/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-doing-a-presentation-9034497/ |
+| pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/workers-loading-logging-truck-in-forest-setting-36130426/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/businesswomen-having-a-discussion-8170549/ |
+| pexels |  | Kuiyibo Campos | Pexels License | https://www.pexels.com/video/collaborative-team-working-on-video-production-37903880/ |
+| pexels |  | HONG SON | Pexels License | https://www.pexels.com/video/airport-ground-crew-taking-break-at-runway-32724914/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/two-men-are-working-on-the-railroad-tracks-16222743/ |
