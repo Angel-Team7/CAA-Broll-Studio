@@ -3824,15 +3824,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S03__strip__edenrise-c2-goal-setting-S03-V26.strip.jpg",
      "title": "person writing to do list in the notepad",
      "query": "hand writing notes pad outdoors",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "6186805",
      "download_url": "https://videos.pexels.com/video-files/6186805/6186805-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:29:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand writes a to-do list beside a laptop on a desk",
+     "violation": "laptops",
+     "shoot": "pexels-todolist-laptop-desk",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:42:52Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V27",
@@ -3862,7 +3870,7 @@
      "shoot": "pexels-hand-stickynote-programming-setup",
      "score": 0.0,
      "judged_at": "2026-09-10T09:42:04Z",
-     "rank": 28
+     "rank": 29
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V28",
@@ -3952,7 +3960,7 @@
      "shoot": "pixabay-animated-vinyl-record-cartoon",
      "score": 0.0,
      "judged_at": "2026-09-10T09:42:04Z",
-     "rank": 29
+     "rank": 30
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V31",
@@ -3982,7 +3990,7 @@
      "shoot": "pixabay-aerial-ancient-ruins-stonewalls",
      "score": 0.0,
      "judged_at": "2026-09-10T09:42:04Z",
-     "rank": 30
+     "rank": 31
     },
     {
      "id": "edenrise-c2-goal-setting-S03-V32",
@@ -4202,7 +4210,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "judged_at": "2026-09-10T09:42:04Z"
+   "judged_at": "2026-09-10T09:42:52Z"
   },
   {
    "id": "S01",
