@@ -96,3 +96,91 @@
 | pixabay | chicken  nature  poultry  farm yard  free running  free rang | Alexas_Fotos | Pixabay Content License | https://pixabay.com/videos/id-372081/ |
 | pixabay | chicken  free range  poultry  nature  agriculture  plumage | Alexas_Fotos | Pixabay Content License | https://pixabay.com/videos/id-373055/ |
 | pixabay | chicken  hen  rooster  chick  dish  food  meal  nature | kurt_BID | Pixabay Content License | https://pixabay.com/videos/id-227132/ |
+| pexels | eco friendly products on a wooden table | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/eco-friendly-products-on-a-wooden-table-6768191/ |
+| pexels | cozy quiet cafe interior with rustic decor | LayG Traveller | Pexels License | https://www.pexels.com/video/cozy-quiet-cafe-interior-with-rustic-decor-28802377/ |
+| pexels | bath soaps on a wooden board | Monstera Production | Pexels License | https://www.pexels.com/video/bath-soaps-on-a-wooden-board-6693710/ |
+| pexels | eco friendly body care products | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/eco-friendly-body-care-products-7614803/ |
+| pexels | cosmetic products on the table | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/cosmetic-products-on-the-table-8447344/ |
+| pexels | flatlay of soaps and coffee scrub | Monstera Production | Pexels License | https://www.pexels.com/video/flatlay-of-soaps-and-coffee-scrub-6693842/ |
+| pexels | tagging perfume bottles by scents | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/tagging-perfume-bottles-by-scents-8447704/ |
+| pexels | a person dipping bread in olive oil | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/a-person-dipping-bread-in-olive-oil-4109923/ |
+| pexels | a market with many different types of food and snacks | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-market-with-many-different-types-of-food-and-snacks-15754279/ |
+| pexels | colorful lanterns at night market | LayG Traveller | Pexels License | https://www.pexels.com/video/colorful-lanterns-at-night-market-28835669/ |
+| pexels | colorful streets of chefchaouen morocco | Earth Photart | Pexels License | https://www.pexels.com/video/colorful-streets-of-chefchaouen-morocco-34755711/ |
+| pexels | a person mixing teaspoon of herbs and spices on a small bowl | Monstera Production | Pexels License | https://www.pexels.com/video/a-person-mixing-teaspoon-of-herbs-and-spices-on-a-small-bowl-6694020/ |
+| pexels | candle making tools on the table | Vlada Karpovich | Pexels License | https://www.pexels.com/video/candle-making-tools-on-the-table-6747438/ |
+| pexels | a footage of bath essentials | Ivan S | Pexels License | https://www.pexels.com/video/a-footage-of-bath-essentials-7191083/ |
+| pixabay | people  commerce  shop  busy  mall  walking | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-6387/ |
+| pixabay | honey  gingerbread  advent  christmas market | Nightwolfone | Pixabay Content License | https://pixabay.com/videos/id-143324/ |
+| pixabay | winter  snowfall  train  local station  passengers  japan | Kanenori | Pixabay Content License | https://pixabay.com/videos/id-268537/ |
+| pixabay | bell jar  ceramic  porcelain  decoration  shrub  nature | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-173315/ |
+| pixabay | the hague  the netherlands  shopping street  small street  t | watchitnow | Pixabay Content License | https://pixabay.com/videos/id-27999/ |
+| pixabay | milk  bottle  pouring  organic milk  almond milk  drink  whi | bottlein | Pixabay Content License | https://pixabay.com/videos/id-4315/ |
+| pixabay | turntable  old  vinyl  music  retro  entertainment  record   | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-8453/ |
+| pixabay | india  street  busy  rickshaw  people  indian  shiva  asia   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3175/ |
+| pexels | laundry drying on lines | Ignacio Ortega | Pexels License | https://www.pexels.com/video/laundry-drying-on-lines-4245059/ |
+| pexels | laundry hanging on a clothesline to dry | Teona Swift | Pexels License | https://www.pexels.com/video/laundry-hanging-on-a-clothesline-to-dry-6841958/ |
+| pexels | close up of laundry on clothesline | Dwayne Might | Pexels License | https://www.pexels.com/video/close-up-of-laundry-on-clothesline-9661806/ |
+| pexels | a laundry hanging out to dry in a window | cottonbro studio | Pexels License | https://www.pexels.com/video/a-laundry-hanging-out-to-dry-in-a-window-4440936/ |
+| pexels | a laundry line outside a window with clothes hanging on it | Yusuf Çelik | Pexels License | https://www.pexels.com/video/a-laundry-line-outside-a-window-with-clothes-hanging-on-it-28352562/ |
+| pexels | clothes line | Prince Enos | Pexels License | https://www.pexels.com/video/clothes-line-25757800/ |
+| pexels | barefoot farmer walking on dry rice grains | Fayaz Ahmed Sunny | Pexels License | https://www.pexels.com/video/barefoot-farmer-walking-on-dry-rice-grains-37503829/ |
+| pexels | high angle shot of a wooden wall | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/high-angle-shot-of-a-wooden-wall-7592930/ |
+| pexels | rustic village with roaming chickens | fey wardhani | Pexels License | https://www.pexels.com/video/rustic-village-with-roaming-chickens-37849245/ |
+| pexels | a white shirt hanging on a clothesline | Denys Mikhalevych | Pexels License | https://www.pexels.com/video/a-white-shirt-hanging-on-a-clothesline-9309690/ |
+| pexels | two clothes pegs hanging on a clothes line | Rahime Gül | Pexels License | https://www.pexels.com/video/two-clothes-pegs-hanging-on-a-clothes-line-26707471/ |
+| pexels | machine manufacturing cardboard | Prakash Chavda | Pexels License | https://www.pexels.com/video/machine-manufacturing-cardboard-7956002/ |
+| pexels | traditional ironing in indian workshop | Basit Manzoor | Pexels License | https://www.pexels.com/video/traditional-ironing-in-indian-workshop-37631416/ |
+| pexels | a rainy day with strong winds | Erkan Avanoğlu | Pexels License | https://www.pexels.com/video/a-rainy-day-with-strong-winds-3830902/ |
+| pixabay | laundry  clothes  washing  drying  clothesline  clean  house | MabelAmber | Pixabay Content License | https://pixabay.com/videos/id-27178/ |
+| pixabay | laundry  clothes line  dry  wind  material  to wash  househo | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-165820/ |
+| pixabay | ai generated  village  christmas town  christmas  winter  ch | LofiPlace | Pixabay Content License | https://pixabay.com/videos/id-191724/ |
+| pixabay | couple  lovers  hands  love  street  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-152798/ |
+| pixabay | woman  young  skater  skate  skateboard  sport  skateboardin | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-275498/ |
+| pixabay | laundry  washing machine  cleaning clothes  clean clothes  w | iha31 | Pixabay Content License | https://pixabay.com/videos/id-30704/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | painting  drawing  colors  design  brush  artist painting  a | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-960/ |
+| pexels | an elderly woman sitting alone in bed | cottonbro studio | Pexels License | https://www.pexels.com/video/an-elderly-woman-sitting-alone-in-bed-8862325/ |
+| pexels | woman fixing her bed | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-fixing-her-bed-6195928/ |
+| pexels | a man wearing high heeled boots | Kamaji Ogino | Pexels License | https://www.pexels.com/video/a-man-wearing-high-heeled-boots-5068251/ |
+| pexels | a woman watching a dancing man wearing a dress | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-woman-watching-a-dancing-man-wearing-a-dress-8090499/ |
+| pexels | woman fixing her bed | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-fixing-her-bed-6195940/ |
+| pexels | woman standing on her bed while holding her blanket | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-standing-on-her-bed-while-holding-her-blanket-6863738/ |
+| pexels | waiter looking a man | cottonbro studio | Pexels License | https://www.pexels.com/video/waiter-looking-a-man-9198380/ |
+| pexels | housekeeper placing folded bathrobe on bed | cottonbro studio | Pexels License | https://www.pexels.com/video/housekeeper-placing-folded-bathrobe-on-bed-6466242/ |
+| pexels | a person stacking bath towels | Nothing Ahead | Pexels License | https://www.pexels.com/video/a-person-stacking-bath-towels-5116401/ |
+| pexels | woman organizing luggage in a hotel room | Aamir Somewhere | Pexels License | https://www.pexels.com/video/woman-organizing-luggage-in-a-hotel-room-34402453/ |
+| pexels | a woman in a white uniform is reaching for a bed | Liliana Drew | Pexels License | https://www.pexels.com/video/a-woman-in-a-white-uniform-is-reaching-for-a-bed-9473226/ |
+| pexels | woman cleaning shelves with a duster | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-cleaning-shelves-with-a-duster-5592720/ |
+| pexels | asian woman cleaning kitchen with organized storage | PinkWitch 诸葛筱暖 | Pexels License | https://www.pexels.com/video/asian-woman-cleaning-kitchen-with-organized-storage-35167323/ |
+| pexels | a woman arranging medicine bottles on a cabinet | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-arranging-medicine-bottles-on-a-cabinet-8657334/ |
+| pixabay | hands  hand cream  cream  health  skin  care | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38079/ |
+| pixabay | woman  female  room  phone  candle  pose  modeling  bed  tir | Yasir1120 | Pixabay Content License | https://pixabay.com/videos/id-233390/ |
+| pixabay | bed  human  sleep  restless  night  3d  cgi  fall asleep  ni | NickiAnimations | Pixabay Content License | https://pixabay.com/videos/id-85004/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | woman  chocolate  bed  robe  joy | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-149477/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pixabay | animate  interior  chair  bed  window | RaniRamli | Pixabay Content License | https://pixabay.com/videos/id-27727/ |
+| pixabay | couple  massage  wellness  spa  bed  unwind  sport | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-172687/ |
+| pexels | fallen branches of trees | RDNE Stock project | Pexels License | https://www.pexels.com/video/fallen-branches-of-trees-8552764/ |
+| pexels | bare tree beside the boardwalk | Sergio Scandroglio | Pexels License | https://www.pexels.com/video/bare-tree-beside-the-boardwalk-15190538/ |
+| pexels | the facade of the sauna bath rooms | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/the-facade-of-the-sauna-bath-rooms-5977938/ |
+| pexels | a person walking on the woods | I Am Sorin | Pexels License | https://www.pexels.com/video/a-person-walking-on-the-woods-6888254/ |
+| pexels | man cleaning wooden path | thiago rizardi | Pexels License | https://www.pexels.com/video/man-cleaning-wooden-path-1191936/ |
+| pexels | low drone footage of a pavement in a park | K | Pexels License | https://www.pexels.com/video/low-drone-footage-of-a-pavement-in-a-park-14480828/ |
+| pexels | woman cutting the tree using chainsaw | Martina Tomšič | Pexels License | https://www.pexels.com/video/woman-cutting-the-tree-using-chainsaw-8095936/ |
+| pexels | man cutting tree branches with chainsaw outdoors | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/man-cutting-tree-branches-with-chainsaw-outdoors-34223315/ |
+| pexels | man using chainsaw on vegetation debris outdoors | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/man-using-chainsaw-on-vegetation-debris-outdoors-34223318/ |
+| pexels | a wooden walkway leads to a wooden bridge | JIUN-JE LIN | Pexels License | https://www.pexels.com/video/a-wooden-walkway-leads-to-a-wooden-bridge-18267911/ |
+| pexels | into the woods | Vacily B | Pexels License | https://www.pexels.com/video/into-the-woods-20644411/ |
+| pexels | a footage of a wooden bridge | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/a-footage-of-a-wooden-bridge-3958033/ |
+| pexels | drone footage of a bridge | AdLib Mishiko | Pexels License | https://www.pexels.com/video/drone-footage-of-a-bridge-5866214/ |
+| pexels | close up on nail on wooden footpath | dabatepatvideos | Pexels License | https://www.pexels.com/video/close-up-on-nail-on-wooden-footpath-11191776/ |
+| pixabay | window  clean  to wipe  black  to clean | MilanWulf | Pixabay Content License | https://pixabay.com/videos/id-7954/ |
+| pixabay | window  curtain  wind  light  night  room  tree | ZAIDoopro | Pixabay Content License | https://pixabay.com/videos/id-90447/ |
+| pixabay | window  old  wall | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20466/ |
+| pixabay | library  books  the corridor  window  rack  the culture  rea | klimkin | Pixabay Content License | https://pixabay.com/videos/id-846/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pixabay | case  window  window shade  architecture  modern | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-165242/ |
+| pixabay | moon  window  relax  night | Drjhony | Pixabay Content License | https://pixabay.com/videos/id-159306/ |
+| pixabay | men  window  dark  thoughts  person  shadow | yogobunny | Pixabay Content License | https://pixabay.com/videos/id-40797/ |

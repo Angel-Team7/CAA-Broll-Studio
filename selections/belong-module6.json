@@ -79,26 +79,34 @@
     "S07": {
       "requested": "2026-09-09T21:23:55Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T00:57:41Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-09T21:23:56Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:00:07Z",
+      "added": 22
     },
     "S09": {
       "requested": "2026-09-09T21:23:57Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:02:33Z",
+      "added": 22
     },
     "S10": {
       "requested": "2026-09-09T21:23:58Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:05:02Z",
+      "added": 22
     }
   }
 }
