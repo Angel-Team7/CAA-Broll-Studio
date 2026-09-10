@@ -81,7 +81,9 @@
     "S01": {
       "requested": "2026-09-10T08:45:24.441Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-10T08:48:12Z",
+      "added": 22
     },
     "S11": {
       "requested": "2026-09-09T21:22:55Z",

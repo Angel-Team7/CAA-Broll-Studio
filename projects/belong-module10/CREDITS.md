@@ -217,3 +217,25 @@
 | pixabay | door  lock  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20459/ |
 | pixabay | gate  door  afterlife  ghost  journey  new age  out of body  | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-203363/ |
 | pixabay | door  wood  shed  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20458/ |
+| pexels | people doing agricultural works in a farm | Rudy Luys | Pexels License | https://www.pexels.com/video/people-doing-agricultural-works-in-a-farm-8133581/ |
+| pexels | worker sorting scrap metal in industrial area | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/worker-sorting-scrap-metal-in-industrial-area-38400373/ |
+| pexels | gardener handling rich compost in wheelbarrow | K | Pexels License | https://www.pexels.com/video/gardener-handling-rich-compost-in-wheelbarrow-31145888/ |
+| pexels | organic stuff being taken with shovel | K | Pexels License | https://www.pexels.com/video/organic-stuff-being-taken-with-shovel-6160045/ |
+| pexels | man mixing soil | K | Pexels License | https://www.pexels.com/video/man-mixing-soil-6159960/ |
+| pexels | back view of woman opening curtain | Artem Podrez | Pexels License | https://www.pexels.com/video/back-view-of-woman-opening-curtain-6781559/ |
+| pexels | young woman taking off a tape on her mouth | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/young-woman-taking-off-a-tape-on-her-mouth-7698903/ |
+| pexels | aerial view of rural green vegetable gardens | Hữu Thịnh 79 | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-green-vegetable-gardens-36236872/ |
+| pexels | aerial view on rural fields | Thanh Văn | Pexels License | https://www.pexels.com/video/aerial-view-on-rural-fields-10475442/ |
+| pexels | a person is planting a small plant in the ground | fatiha maarouf | Pexels License | https://www.pexels.com/video/a-person-is-planting-a-small-plant-in-the-ground-16939578/ |
+| pexels | an aerial view of a large vegetable garden | Ahmet Kurt | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-large-vegetable-garden-19121088/ |
+| pexels | man planting in a pot | Anna Shvets | Pexels License | https://www.pexels.com/video/man-planting-in-a-pot-5910450/ |
+| pexels | earthworms burrows on a compost soil | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/earthworms-burrows-on-a-compost-soil-3045872/ |
+| pexels | hand switching on a modern table lamp | Jakub Bukowski | Pexels License | https://www.pexels.com/video/hand-switching-on-a-modern-table-lamp-35999374/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | watermelon  fruit  summer  pour  pouring  fork  freshness  j | mds524680 | Pixabay Content License | https://pixabay.com/videos/id-71744/ |
+| pixabay | scrap  recycling  recovery  metal  trash  sustainability  sa | useche360 | Pixabay Content License | https://pixabay.com/videos/id-223170/ |
+| pixabay | pan  food  cook  preparation  spices  ingredients  kitchen   | 32141219 | Pixabay Content License | https://pixabay.com/videos/id-143420/ |
+| pixabay | tea  coffee  drink  cup  books  teacup  food  oil  kitchen | Charity_donate | Pixabay Content License | https://pixabay.com/videos/id-149938/ |
+| pixabay | woman  cook  kitchen  traditional  java  indonesia  rural  v | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148542/ |
+| pixabay | corn  kitchen  cooking  roasted  food | MRubs | Pixabay Content License | https://pixabay.com/videos/id-128189/ |
+| pixabay | egg  food  protein  breakfast  healthy  kitchen | KunalKapoor7 | Pixabay Content License | https://pixabay.com/videos/id-213748/ |
