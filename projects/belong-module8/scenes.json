@@ -2333,7 +2333,7 @@
      "shot": "A",
      "shoot": "pexels-empty-elegant-table",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 4,
+     "rank": 8,
      "shown": true
     },
     {
@@ -2361,8 +2361,8 @@
      "shot": "C",
      "shoot": "pixabay-garden-cafe",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 6,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m8-S04-V04",
@@ -2388,8 +2388,8 @@
      "shot": "",
      "shoot": "coverr-lisbon-flag",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 7,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "belong-m8-S04-V05",
@@ -2415,7 +2415,7 @@
      "shot": "",
      "shoot": "coverr-jeronimos-aerial",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -2442,7 +2442,7 @@
      "shot": "",
      "shoot": "coverr-jeronimos-aerial",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -2469,7 +2469,7 @@
      "shot": "",
      "shoot": "pixabay-buffet-lounge",
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 8,
+     "rank": 27,
      "shown": false
     },
     {
@@ -2536,7 +2536,7 @@
      "shoot": "pexels-trendy-restaurant",
      "score": 5.0,
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 5,
+     "rank": 10,
      "shown": true
     },
     {
@@ -2568,7 +2568,7 @@
      "shoot": "pixabay-warm-restaurant",
      "score": 5.35,
      "judged_at": "2026-09-09T17:05:20Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -2610,8 +2610,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an aerial view of a small town's rooftops at sunset",
+     "violation": "",
+     "shoot": "pexels-aerial-townsunset",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 13
     },
     {
      "id": "belong-module8-S04-V09",
@@ -2632,8 +2640,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "an aerial view of a whitewashed town's red-tiled rooftops",
+     "violation": "",
+     "shoot": "pexels-aerial-whitetown",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S04-V10",
@@ -2654,8 +2670,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an aerial view of a whitewashed hillside village",
+     "violation": "",
+     "shoot": "pexels-aerial-hillvillage",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 11
     },
     {
      "id": "belong-module8-S04-V11",
@@ -2676,8 +2700,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a drone shot of whitewashed houses on a Greek island",
+     "violation": "",
+     "shoot": "pexels-drone-greekhouses",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 19
     },
     {
      "id": "belong-module8-S04-V12",
@@ -2691,15 +2723,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V12.strip.jpg",
      "title": "scenic beachfront at twilight in cascais",
      "query": "whitewashed village house alentejo dusk",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "39434594",
      "download_url": "https://videos.pexels.com/video-files/39434594/16793028_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a twilight beachfront with boats and waterside restaurants",
+     "violation": "resort pools and beaches",
+     "shoot": "pexels-cascais-beachfront",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 28
     },
     {
      "id": "belong-module8-S04-V13",
@@ -2720,8 +2760,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:09:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "two people walk toward small whitewashed houses at dusk",
+     "violation": "",
+     "shoot": "pexels-dusk-villagewalk",
+     "score": 8.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S04-V14",
@@ -2735,15 +2783,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V14.strip.jpg",
      "title": "aerial footage of a town at dawn",
      "query": "whitewashed village house alentejo dusk",
-     "shot": "D",
+     "shot": "",
      "duration": 9,
      "src_id": "7247372",
      "download_url": "https://videos.pexels.com/video-files/7247372/7247372-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "an aerial view of a town roadway at sunset",
+     "violation": "",
+     "shoot": "pexels-aerial-roadsunset",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 22
     },
     {
      "id": "belong-module8-S04-V15",
@@ -2757,15 +2813,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V15.strip.jpg",
      "title": "aerial view of abandoned building ruins",
      "query": "whitewashed village house alentejo dusk",
-     "shot": "D",
+     "shot": "",
      "duration": 24,
      "src_id": "28732014",
      "download_url": "https://videos.pexels.com/video-files/28732014/12464563_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an aerial view of an abandoned ruined building",
+     "violation": "",
+     "shoot": "pexels-aerial-ruins",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 25
     },
     {
      "id": "belong-module8-S04-V16",
@@ -2786,8 +2850,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand slices leeks on a wooden board beside fresh vegetables",
+     "violation": "",
+     "shoot": "pexels-leek-slicing",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 4
     },
     {
      "id": "belong-module8-S04-V17",
@@ -2808,8 +2880,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a chef garnishes a plated dish on a white restaurant plate",
+     "violation": "",
+     "shoot": "pexels-chef-platinggarnish",
+     "score": 6.65,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S04-V18",
@@ -2830,8 +2910,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a waiter serves drinks at a lounge patio table",
+     "violation": "",
+     "shoot": "pexels-waiter-loungeserve",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 20
     },
     {
      "id": "belong-module8-S04-V19",
@@ -2852,8 +2940,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a cook tosses noodles in a wok over a gas flame",
+     "violation": "",
+     "shoot": "pexels-wok-cooking",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 14
     },
     {
      "id": "belong-module8-S04-V20",
@@ -2867,15 +2963,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V20.strip.jpg",
      "title": "a person holding a plate of food in front of a buffet",
      "query": "museum restaurant diners lunch",
-     "shot": "A",
+     "shot": "",
      "duration": 7,
      "src_id": "28099100",
      "download_url": "https://videos.pexels.com/video-files/28099100/12298358_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a hand holds a plate of food beside catering chafing dishes",
+     "violation": "corporate event",
+     "shoot": "pexels-buffet-plate",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 23
     },
     {
      "id": "belong-module8-S04-V21",
@@ -2896,8 +3000,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand slices carrots on a wooden cutting board",
+     "violation": "",
+     "shoot": "pixabay-carrot-slicing",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S04-V22",
@@ -2911,15 +3023,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V22.strip.jpg",
      "title": "person enjoying wiener schnitzel in restaurant",
      "query": "museum restaurant diners lunch",
-     "shot": "A",
+     "shot": "C",
      "duration": 6,
      "src_id": "39294463",
      "download_url": "https://videos.pexels.com/video-files/39294463/16720561_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a diner eats a breaded cutlet at a restaurant table",
+     "violation": "",
+     "shoot": "pexels-schnitzel-diner",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 21
     },
     {
      "id": "belong-module8-S04-V23",
@@ -2933,15 +3053,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V23.strip.jpg",
      "title": "beef  steak  meat  food  meal  dinner  tenderloin  pepper  grilled  sirloin  barbecue  fillet  grill  rare  roast  restaurant  delicious  bbq  board  tasty  plate  cooking  eating  table  lunch  nutrition  wooden  dish  menu  tender  black angus",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "B",
      "duration": 18,
      "src_id": "11654",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11654-231758760_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:10:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a close-up of sliced grilled steak plated with an edible flower",
+     "violation": "",
+     "shoot": "pixabay-steak-closeup",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 12
     },
     {
      "id": "belong-module8-S04-V24",
@@ -2955,15 +3083,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V24.strip.jpg",
      "title": "cooking  prawn  in  sauce  food  seafood  shrimp  meal  cuisine  dinner  fresh  restaurant  nutrition  healthy  dish  kitchen  herb  culinary  recipe  ingredient  menu  prepare  oil  tomato  collage  composition  chef",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "B",
      "duration": 58,
      "src_id": "11657",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11657-231758747_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand stirs garlic and tomato sauce in a pan",
+     "violation": "",
+     "shoot": "pixabay-sauce-stirring",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 16
     },
     {
      "id": "belong-module8-S04-V25",
@@ -2977,15 +3113,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V25.strip.jpg",
      "title": "chinese  duck  food  asian  china  cuisine  meat  meal  traditional  dish  roast  plate  dinner  roasted  oriental  restaurant  delicious  beijing  healthy  peking  gourmet  crispy  red  sauce  poultry  style  tasty  grilled  skin  cooking  fried  lunch  recipe  sliced  menu",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "11627",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11627-231571956_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a plated Chinese duck wrap dish with dipping sauce",
+     "violation": "",
+     "shoot": "pixabay-duck-wrap",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 26
     },
     {
      "id": "belong-module8-S04-V26",
@@ -2999,15 +3143,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V26.strip.jpg",
      "title": "pork  cook  meat  food  cooking  dinner  steak  barbecue  delicious  ingredient  cut  hot  nutrition  menu  preparation  piece  red  kitchen  meal  restaurant",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "B",
      "duration": 55,
      "src_id": "11603",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11603-231571844_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands trim raw meat and pour oil and sauce into a dish",
+     "violation": "",
+     "shoot": "pixabay-meat-trimming",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 17
     },
     {
      "id": "belong-module8-S04-V27",
@@ -3021,15 +3173,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V27.strip.jpg",
      "title": "crispy  beef  food  meal  meat  dinner  delicious  lunch  grilled  fresh  cuisine  sauce  restaurant  pepper  homemade  fried  cooking  tasty  plate  red  menu  snack",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "B",
      "duration": 28,
      "src_id": "11625",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11625-231571945_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a close-up of crispy beef plated with edible flowers",
+     "violation": "",
+     "shoot": "pixabay-crispybeef-plate",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 18
     },
     {
      "id": "belong-module8-S04-V28",
@@ -3043,15 +3203,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V28.strip.jpg",
      "title": "help  sign  banner  symbol  icon  information  business  support  web  problem  service  assistance  question  faq  communication  solution  giving  answer",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "",
      "duration": 4,
      "src_id": "577",
      "download_url": "https://cdn.pixabay.com/video/2015/08/25/577-137312095_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a red 3D 'help' text graphic on a white background",
+     "violation": "",
+     "shoot": "pixabay-help-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 29
     },
     {
      "id": "belong-module8-S04-V29",
@@ -3065,15 +3233,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S04__strip__belong-module8-S04-V29.strip.jpg",
      "title": "ai generated  coffee  premium coffee  restaurant  coffee menu  drink  cafe  coffee shop",
      "query": "diner waiter menu question",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "171178",
      "download_url": "https://cdn.pixabay.com/video/2023/07/12/171178-844787959_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an AI-generated fantasy scene with a steaming coffee cup",
+     "violation": "",
+     "shoot": "pixabay-ai-fantasycoffee",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:08:45Z",
+     "rank": 30
     }
    ],
    "shots": [
@@ -3113,12 +3289,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:05:20Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:05:20Z"
+   "judged_at": "2026-09-10T10:08:45Z"
   },
   {
    "id": "S05",
