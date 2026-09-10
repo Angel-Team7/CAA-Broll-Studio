@@ -74,3 +74,129 @@
 | pixabay | man  authority  attorney  law  judge  face  lawyers  chief   | Roque_dg | Pixabay Content License | https://pixabay.com/videos/id-198887/ |
 | pixabay | woman  cyborg  android  future  technology  face  robot  hea | Eartvideos | Pixabay Content License | https://pixabay.com/videos/id-174167/ |
 | pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pexels | a woman looking problematic and frustrated | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-looking-problematic-and-frustrated-5981347/ |
+| pexels | tree nursery worker picking weeds | Everett Bumstead | Pexels License | https://www.pexels.com/video/tree-nursery-worker-picking-weeds-20663025/ |
+| pexels | man wearing headset shouting | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-wearing-headset-shouting-6290482/ |
+| pexels | a woman looking problematic and depressed | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-looking-problematic-and-depressed-5981352/ |
+| pexels | workers working in town | Светлана Конева | Pexels License | https://www.pexels.com/video/workers-working-in-town-13004782/ |
+| pexels | tree nursery worker checking baby trees for weeds | Everett Bumstead | Pexels License | https://www.pexels.com/video/tree-nursery-worker-checking-baby-trees-for-weeds-19654543/ |
+| pexels | a woman face looks worried | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-face-looks-worried-5981447/ |
+| pexels | person trimming a plants | Stephen Llevares | Pexels License | https://www.pexels.com/video/person-trimming-a-plants-8546275/ |
+| pexels | couples bringing the packed things | Blue Bird | Pexels License | https://www.pexels.com/video/couples-bringing-the-packed-things-7217395/ |
+| pexels | man worried at work | Yan Krukau | Pexels License | https://www.pexels.com/video/man-worried-at-work-7640684/ |
+| pexels | a frustrated man scattering small pieces of papers | Ron Lach | Pexels License | https://www.pexels.com/video/a-frustrated-man-scattering-small-pieces-of-papers-8036702/ |
+| pexels | man carrying a carton box upstairs | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-carrying-a-carton-box-upstairs-8292928/ |
+| pexels | a couple carrying cardboard boxes | Ivan S | Pexels License | https://www.pexels.com/video/a-couple-carrying-cardboard-boxes-8960190/ |
+| pexels | stressed woman working | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/stressed-woman-working-8135868/ |
+| pixabay | escalator  airport  terminal  moving  transport  technology  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3593/ |
+| pixabay | hands  hand cream  cream  health  skin  care | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38079/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | time zones  time  business  clock  management  schedule  wor | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5436/ |
+| pixabay | clock  time  pointer  hand  timepiece  wall clock  hour hand | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55443/ |
+| pixabay | window  old  wall | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20466/ |
+| pexels | a person watering a plant | Artem Podrez | Pexels License | https://www.pexels.com/video/a-person-watering-a-plant-7048890/ |
+| pexels | a woman watering a plant | ROCKETMANN TEAM | Pexels License | https://www.pexels.com/video/a-woman-watering-a-plant-9466233/ |
+| pexels | a person holding a potted plant | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-holding-a-potted-plant-5450540/ |
+| pexels | close up view of watering plants | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/close-up-view-of-watering-plants-11960789/ |
+| pexels | close up on cutting branch in orchard | Grigoriy Bunkov | Pexels License | https://www.pexels.com/video/close-up-on-cutting-branch-in-orchard-11389408/ |
+| pexels | a man doing tree planting | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-man-doing-tree-planting-7006967/ |
+| pexels | woman writing on the sticky notes | Kindel Media | Pexels License | https://www.pexels.com/video/woman-writing-on-the-sticky-notes-7651685/ |
+| pexels | sticky notes on a wall | Anna Shvets | Pexels License | https://www.pexels.com/video/sticky-notes-on-a-wall-4832134/ |
+| pexels | watering can | Noah Lenzi | Pexels License | https://www.pexels.com/video/watering-can-16819234/ |
+| pexels | watering plants | Coverr | Pexels License | https://www.pexels.com/video/watering-plants-854161/ |
+| pexels | close up of shovel and worker outdoors | K | Pexels License | https://www.pexels.com/video/close-up-of-shovel-and-worker-outdoors-38045743/ |
+| pexels | branches on wheelbarrow | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/branches-on-wheelbarrow-11960822/ |
+| pexels | mezcla de cemento 2 | Giovanni Franco | Pexels License | https://www.pexels.com/video/mezcla-de-cemento-2-18775028/ |
+| pexels | an interior designer holding a color swatch against a wall | cottonbro studio | Pexels License | https://www.pexels.com/video/an-interior-designer-holding-a-color-swatch-against-a-wall-6567839/ |
+| pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pixabay | fields  corn  farming  cob  food  nature  harvest  cornfield | elioavila | Pixabay Content License | https://pixabay.com/videos/id-268554/ |
+| pixabay | man  coffee  think  pause  relaxation | conte_public | Pixabay Content License | https://pixabay.com/videos/id-216597/ |
+| pixabay | man  coffee  pause  relaxation | conte_public | Pixabay Content License | https://pixabay.com/videos/id-216598/ |
+| pixabay | bench  park  people  rest  pause  break  green  city  town   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-114/ |
+| pixabay | stunt  motorbikes  synchronous  extreme  motorcycle  biker   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1083/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | watering  sprinkler  garden  green  agriculture  bio garden  | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44765/ |
+| pexels | close up shot of a man wearing wetsuit | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-man-wearing-wetsuit-7425485/ |
+| pexels | close up footage of a person s hands in front of his belly | PNW Production | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-s-hands-in-front-of-his-belly-8979710/ |
+| pexels | people having a discussion | Kampus Production | Pexels License | https://www.pexels.com/video/people-having-a-discussion-6248584/ |
+| pexels | close up video of hand cream | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-hand-cream-8131890/ |
+| pexels | women explaining a business proposal | Kampus Production | Pexels License | https://www.pexels.com/video/women-explaining-a-business-proposal-6248587/ |
+| pexels | woman applying lotion on arm at home | Sergei Starostin | Pexels License | https://www.pexels.com/video/woman-applying-lotion-on-arm-at-home-34586516/ |
+| pexels | a woman exercising | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-exercising-8233714/ |
+| pexels | a boy leaning on a tree trunk | Kampus Production | Pexels License | https://www.pexels.com/video/a-boy-leaning-on-a-tree-trunk-8912923/ |
+| pexels | a woman wearing a wireless headphones | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-wearing-a-wireless-headphones-6688235/ |
+| pexels | a woman crying | Ivan S | Pexels License | https://www.pexels.com/video/a-woman-crying-6689315/ |
+| pexels | bearded man doing asmr | cottonbro studio | Pexels License | https://www.pexels.com/video/bearded-man-doing-asmr-6144020/ |
+| pexels | man pointing and looking at camera | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-pointing-and-looking-at-camera-8928135/ |
+| pexels | man and woman looking at the camera | Kampus Production | Pexels License | https://www.pexels.com/video/man-and-woman-looking-at-the-camera-8343995/ |
+| pexels | close up video of a man wearing headphones | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-wearing-headphones-8103046/ |
+| pixabay | discussion  restaurant  people  talk  communication  lunch   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-10878/ |
+| pixabay | conversation  talk  dialogue  coffee  colleagues  discussion | Republica | Pixabay Content License | https://pixabay.com/videos/id-180/ |
+| pixabay | garage  vehicle  truck  repair | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-200276/ |
+| pixabay | garbage truck  bins  recycle  plastic  waste  truck  environ | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-47515/ |
+| pixabay | construction  crane  truck  building  concrete pump  basemen | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-41826/ |
+| pixabay | truck  camion  lorry  van  2d  anime  screen  green  lampsha | miukia_aki | Pixabay Content License | https://pixabay.com/videos/id-130940/ |
+| pixabay | construction  cranes  foundation  truck  concrete  excavator | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-52888/ |
+| pixabay | headphones  music  swing  listening  wind  technology  sound | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-84583/ |
+| pexels | a man and a woman collaborating their work | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-collaborating-their-work-5977259/ |
+| pexels | a couple discussing | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-discussing-7735869/ |
+| pexels | a man talking to his co workers | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/a-man-talking-to-his-co-workers-6193855/ |
+| pexels | people chatting | Kampus Production | Pexels License | https://www.pexels.com/video/people-chatting-6828717/ |
+| pexels | two colleagues talking and discussing documents | Jack Sparrow | Pexels License | https://www.pexels.com/video/two-colleagues-talking-and-discussing-documents-5977459/ |
+| pexels | man having conversation with a coworker | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/man-having-conversation-with-a-coworker-6194055/ |
+| pexels | man listening to someone talk | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-listening-to-someone-talk-7581218/ |
+| pexels | two call center agents talking at work | Kampus Production | Pexels License | https://www.pexels.com/video/two-call-center-agents-talking-at-work-8201411/ |
+| pexels | women having conversation | Gustavo Fring | Pexels License | https://www.pexels.com/video/women-having-conversation-8829008/ |
+| pexels | man looking at his classmate s paper | ArtHouse Studio | Pexels License | https://www.pexels.com/video/man-looking-at-his-classmate-s-paper-6269220/ |
+| pexels | man at work in a construction | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-at-work-in-a-construction-6473950/ |
+| pexels | a couple walking in the park while having conversation | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-couple-walking-in-the-park-while-having-conversation-8164413/ |
+| pexels | men wearing harness having a conversation | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/men-wearing-harness-having-a-conversation-8964931/ |
+| pexels | a man and a woman discussing proposal on the street | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-discussing-proposal-on-the-street-5977056/ |
+| pixabay | curtain  wind  silence  silent  museum | Elcin_Qarayev | Pixabay Content License | https://pixabay.com/videos/id-122355/ |
+| pixabay | fire  calls  wood fire  hot  lena  burning  burn down  light | gustavo_belemmi | Pixabay Content License | https://pixabay.com/videos/id-3742/ |
+| pixabay | spa  water  rock  silence  meditation  stone  nature  landsc | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55270/ |
+| pixabay | watch  chicken  brood  mother  cub  feathers  wolf down | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-111286/ |
+| pixabay | wind  silence  quiet | PhilippT | Pixabay Content License | https://pixabay.com/videos/id-15131/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11750/ |
+| pixabay | swamp fever  beaver  gnaw  wolf down  water  riverbank  nab  | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94443/ |
+| pixabay | industry  factory  steel  iron  iron bars  workers  hard wor | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40054/ |
+| pexels | close up view of a person sharpening a chisel | Ono  Kosuki | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-sharpening-a-chisel-5967504/ |
+| pexels | close up footage of a person adjusting the lens of a camera | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-adjusting-the-lens-of-a-camera-8089525/ |
+| pexels | close up footage of a person using level ruler | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-using-level-ruler-6474281/ |
+| pexels | a person getting a plastic container from the table | Artem Podrez | Pexels License | https://www.pexels.com/video/a-person-getting-a-plastic-container-from-the-table-8986481/ |
+| pexels | person industry metal plant | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-industry-metal-plant-5846671/ |
+| pexels | a person putting wood clamp | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-putting-wood-clamp-5895472/ |
+| pexels | man looking a motor oil | Artem Podrez | Pexels License | https://www.pexels.com/video/man-looking-a-motor-oil-8986482/ |
+| pexels | adjusting a spirit level | Ricky Esquivel | Pexels License | https://www.pexels.com/video/adjusting-a-spirit-level-4181140/ |
+| pexels | a man checking the car engine | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-checking-the-car-engine-8986890/ |
+| pexels | a person putting a wood plank on a wooden surface | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-putting-a-wood-plank-on-a-wooden-surface-7479053/ |
+| pexels | close up of a person using a rake in a mini zen garden | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-a-person-using-a-rake-in-a-mini-zen-garden-8347923/ |
+| pexels | a person using a rake to make patterns on sand | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-person-using-a-rake-to-make-patterns-on-sand-8347922/ |
+| pexels | a group of men working on a roof | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-group-of-men-working-on-a-roof-16222744/ |
+| pexels | idyllic countryside landscape with trees | Panya Niyomtham | Pexels License | https://www.pexels.com/video/idyllic-countryside-landscape-with-trees-34754622/ |
+| pixabay | labyrinth  center  way out  seek  graphic  circles  meditati | PIRO4D | Pixabay Content License | https://pixabay.com/videos/id-8989/ |
+| pixabay | walking  sneakers  nike  shoes  walk  path  outdoors  lifest | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3171/ |
+| pexels | three people carrying cleaning equipment | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/three-people-carrying-cleaning-equipment-6195141/ |
+| pixabay | device  black  business  information  metal  data  technolog | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55716/ |
+| pixabay | onion  cut  hands  knife  cook  prepare  food  kitchen  clos | klimkin | Pixabay Content License | https://pixabay.com/videos/id-11230/ |
+| pixabay | black  close  closeup  hand  3d  tool  pattern  design  symb | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-96678/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pexels | colleagues disturbing a coworker while working | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/colleagues-disturbing-a-coworker-while-working-8135863/ |
+| pixabay | carpenter  tool  handmade  industry  factory  wood  woodwork | AndyWolares | Pixabay Content License | https://pixabay.com/videos/id-166808/ |
+| pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
+| pexels | a woman drinking coffee while working | Theo  Decker | Pexels License | https://www.pexels.com/video/a-woman-drinking-coffee-while-working-5944681/ |
+| pexels | man carrying a thermal bag while walking | Artem Podrez | Pexels License | https://www.pexels.com/video/man-carrying-a-thermal-bag-while-walking-8992543/ |
+| pexels | a man putting on eyeglasses while talking | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-putting-on-eyeglasses-while-talking-6963490/ |
+| pixabay | couple  lovers  hands  love  street  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-152798/ |
+| pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
+| pexels | a man talking while pointing at a chart | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-man-talking-while-pointing-at-a-chart-4628738/ |
+| pexels | woman talking on the phone while working | Yan Krukau | Pexels License | https://www.pexels.com/video/woman-talking-on-the-phone-while-working-7792032/ |
+| pexels | video of man carrying parcels | Artem Podrez | Pexels License | https://www.pexels.com/video/video-of-man-carrying-parcels-5043690/ |
+| pexels | urban street vendor on tricycle cityscape | Shariar Tawsif | Pexels License | https://www.pexels.com/video/urban-street-vendor-on-tricycle-cityscape-31337223/ |
+| pexels | two men loading boxes in a van | K2 Production | Pexels License | https://www.pexels.com/video/two-men-loading-boxes-in-a-van-9507645/ |
+| pexels | man wearing eyeglasses talking | Theo  Decker | Pexels License | https://www.pexels.com/video/man-wearing-eyeglasses-talking-5939450/ |
+| pexels | motorbike hauling large load across city street | Nguyen Ngoc Tien | Pexels License | https://www.pexels.com/video/motorbike-hauling-large-load-across-city-street-34971525/ |
+| pexels | busy dhaka market with laborers and shoppers | Sojib Omar | Pexels License | https://www.pexels.com/video/busy-dhaka-market-with-laborers-and-shoppers-34406650/ |
+| pexels | laborer carrying bricks on construction site | Arunangshu Banerjee | Pexels License | https://www.pexels.com/video/laborer-carrying-bricks-on-construction-site-32534659/ |
