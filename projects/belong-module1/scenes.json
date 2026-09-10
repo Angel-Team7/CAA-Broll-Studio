@@ -2828,7 +2828,7 @@
      "shoot": "pexels-regenerative-farming-detail",
      "score": 5.7,
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 3,
+     "rank": 10,
      "shown": true
     },
     {
@@ -2850,8 +2850,8 @@
      "shoot": "pexels-farmer-hands-soil",
      "score": 4.7,
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 5,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "pixabay_73847_soil-texture-hands",
@@ -2872,7 +2872,7 @@
      "shoot": "pixabay-soil-texture-hands",
      "score": 8.0,
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -2921,7 +2921,7 @@
      "shot": "B",
      "shoot": "pexels-farmer-digging-boots",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -2950,7 +2950,7 @@
      "shot": "",
      "shoot": "pixabay-riverside-digger-dusk",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 12,
+     "rank": 25,
      "shown": false
     },
     {
@@ -2979,8 +2979,8 @@
      "shot": "",
      "shoot": "pexels-tiller-strawhat-river",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 8,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V03",
@@ -3008,7 +3008,7 @@
      "shot": "",
      "shoot": "pixabay-quarry-excavation",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 13,
+     "rank": 31,
      "shown": false
     },
     {
@@ -3037,8 +3037,8 @@
      "shot": "C",
      "shoot": "pexels-tractor-mowing-hillside",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V05",
@@ -3066,8 +3066,8 @@
      "shot": "",
      "shoot": "pixabay-combine-harvester-field",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 10,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V06",
@@ -3095,8 +3095,8 @@
      "shot": "",
      "shoot": "pexels-olive-harvest-orchard",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 4,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V07",
@@ -3124,8 +3124,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-tractor-field",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 9,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V08",
@@ -3153,8 +3153,8 @@
      "shot": "",
      "shoot": "pexels-tractor-hayrake-field",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 7,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module1-S06-V09",
@@ -3182,7 +3182,7 @@
      "shot": "",
      "shoot": "pixabay-combine-aerial-wide",
      "judged_at": "2026-09-09T17:24:58Z",
-     "rank": 11,
+     "rank": 23,
      "shown": false
     },
     {
@@ -3204,8 +3204,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman in a white dress walks through dry sunlit grass",
+     "violation": "",
+     "shoot": "pexels-white-dress-field-walk",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 7
     },
     {
      "id": "belong-module1-S06-V11",
@@ -3226,8 +3234,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a woman's silhouette walks a dirt path past a power line tower",
+     "violation": "",
+     "shoot": "pexels-silhouette-powerline-walk",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 15
     },
     {
      "id": "belong-module1-S06-V12",
@@ -3248,8 +3264,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman walks across a sunlit green field with a tote bag",
+     "violation": "",
+     "shoot": "pexels-green-field-tote-walk",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 8
     },
     {
      "id": "belong-module1-S06-V14",
@@ -3270,8 +3294,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "an aerial view shows a person walking a foggy hillside path",
+     "violation": "",
+     "shoot": "pexels-aerial-foggy-walk",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 16
     },
     {
      "id": "belong-module1-S06-V15",
@@ -3285,15 +3317,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V15.strip.jpg",
      "title": "a person walking through the woods with a backpack",
      "query": "person walking field low sun",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "28450009",
      "download_url": "https://videos.pexels.com/video-files/28450009/12386475_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hiker with a backpack walks through a green woodland",
+     "violation": "",
+     "shoot": "pexels-backpack-woods-walk",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 19
     },
     {
      "id": "belong-module1-S06-V16",
@@ -3314,8 +3354,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a misty dirt path leads toward low morning sun through trees",
+     "violation": "",
+     "shoot": "pexels-misty-path-sun",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 13
     },
     {
      "id": "belong-module1-S06-V17",
@@ -3336,8 +3384,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a man's silhouette walks toward a low sun flaring through trees",
+     "violation": "",
+     "shoot": "pexels-silhouette-sunflare-walk",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 1
     },
     {
      "id": "belong-module1-S06-V18",
@@ -3358,8 +3414,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:18:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman walks near a rustic hut as low sun flares through a tree",
+     "violation": "",
+     "shoot": "pexels-hut-sunflare-walk",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 9
     },
     {
      "id": "belong-module1-S06-V19",
@@ -3373,15 +3437,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V19.strip.jpg",
      "title": "slow motion footage of a man kicking dirt of dry ground",
      "query": "person walking field low sun",
-     "shot": "C",
+     "shot": "",
      "duration": 21,
      "src_id": "2981524",
      "download_url": "https://videos.pexels.com/video-files/2981524/2981524-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man in a hat kicks up dust walking across dry ground at sunset",
+     "violation": "",
+     "shoot": "pexels-hat-dust-kick",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 24
     },
     {
      "id": "belong-module1-S06-V20",
@@ -3402,8 +3474,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "black and white footage shows hands planting a seedling in soil",
+     "violation": "",
+     "shoot": "pexels-bw-seedling-plant",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 5
     },
     {
      "id": "belong-module1-S06-V21",
@@ -3424,8 +3504,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "gloved hands handle rich dark compost in a wheelbarrow",
+     "violation": "",
+     "shoot": "pexels-gloved-compost-wheelbarrow",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 3
     },
     {
      "id": "belong-module1-S06-V22",
@@ -3446,8 +3534,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a hand cups a small eucalyptus seedling with soil against a white backdrop",
+     "violation": "",
+     "shoot": "pexels-seedling-studio-hand",
+     "score": 5.3,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 11
     },
     {
      "id": "belong-module1-S06-V23",
@@ -3468,8 +3564,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand scatters seeds over a dark garden soil bed",
+     "violation": "",
+     "shoot": "pexels-seed-scatter-soil",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 4
     },
     {
      "id": "belong-module1-S06-V24",
@@ -3483,15 +3587,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V24.strip.jpg",
      "title": "zombie  hand  graveyard  halloween",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 26,
      "src_id": "138931",
      "download_url": "https://cdn.pixabay.com/video/2022/11/14/138931-770799907_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a decayed hand claws up from graveyard dirt at night",
+     "violation": "off-brand horror content",
+     "shoot": "pixabay-zombie-hand-grave2",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 32
     },
     {
      "id": "belong-module1-S06-V25",
@@ -3505,15 +3617,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V25.strip.jpg",
      "title": "hands  girl  people  young  female  table  hand  white  go  sad",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 30,
      "src_id": "31654",
      "download_url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand reaches toward a sheer curtain outdoors",
+     "violation": "",
+     "shoot": "pixabay-curtain-reach-hand2",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 28
     },
     {
      "id": "belong-module1-S06-V26",
@@ -3527,15 +3647,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V26.strip.jpg",
      "title": "land  nature  landscape  rural  countryside  hay  summer  soil  desert  cultivation  farmer  ground",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "329281",
      "download_url": "https://cdn.pixabay.com/video/2026/01/21/329281_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a wide view shows an eroded stream cutting through moorland",
+     "violation": "",
+     "shoot": "pixabay-moorland-stream",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 26
     },
     {
      "id": "belong-module1-S06-V27",
@@ -3549,15 +3677,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V27.strip.jpg",
      "title": "onion  cut  hands  knife  cook  prepare  food  kitchen  close-up",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "11230",
      "download_url": "https://cdn.pixabay.com/video/2017/08/08/11230-228904636_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:19:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand slices a red onion on a wooden board",
+     "violation": "",
+     "shoot": "pixabay-onion-slice-board",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 27
     },
     {
      "id": "belong-module1-S06-V28",
@@ -3571,15 +3707,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V28.strip.jpg",
      "title": "coffee  cup  breakfast  lemon  drink  espresso  a cup of coffee  caffeine  scent  coffee cup  café  close-up",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "4854",
      "download_url": "https://cdn.pixabay.com/video/2016/08/31/4854-180863259_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:20:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "coffee pours into a cup beside a halved lemon",
+     "violation": "",
+     "shoot": "pixabay-coffee-pour-lemon",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 29
     },
     {
      "id": "belong-module1-S06-V29",
@@ -3593,15 +3737,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module1/S06__strip__belong-module1-S06-V29.strip.jpg",
      "title": "painting  drawing  colors  design  brush  artist painting  artistic  decoration  watercolor  creative  summer  hand drawing  picture  hearts  love  romantic  104695749",
      "query": "hands soil cupping close",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "960",
      "download_url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:20:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand dips a paintbrush into a colorful craft palette",
+     "violation": "",
+     "shoot": "pixabay-craft-paint-palette",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:13:38Z",
+     "rank": 30
     }
    ],
    "shots": [
@@ -3634,12 +3786,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:29:10Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T17:24:58Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:24:58Z"
+   "judged_at": "2026-09-10T09:13:38Z"
   },
   {
    "id": "S07",
