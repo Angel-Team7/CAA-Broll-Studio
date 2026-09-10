@@ -6091,8 +6091,8 @@
      "shot": "",
      "shoot": "pixabay-roadworker",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 5,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V03",
@@ -6120,7 +6120,7 @@
      "shot": "",
      "shoot": "pexels-office-elderly",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 10,
+     "rank": 21,
      "shown": false
     },
     {
@@ -6150,8 +6150,8 @@
      "shot": "C",
      "shoot": "pexels-warehouse-boxes",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 3,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V09",
@@ -6178,7 +6178,7 @@
      "shot": "C",
      "shoot": "pexels-carpenter-workshop",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -6330,8 +6330,8 @@
      "shot": "",
      "shoot": "pixabay-woman-lifestyle",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 8,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V12",
@@ -6364,7 +6364,7 @@
      "shot": "",
      "shoot": "pexels-office-suits",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 11,
+     "rank": 24,
      "shown": false
     },
     {
@@ -6396,8 +6396,8 @@
      "shot": "B",
      "shoot": "pexels-library-teaching",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 4,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V14",
@@ -6425,8 +6425,8 @@
      "shot": "",
      "shoot": "pexels-bartender",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 13,
-     "shown": true
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V15",
@@ -6454,8 +6454,8 @@
      "shot": "",
      "shoot": "pixabay-tailor-workshop",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 6,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V16",
@@ -6483,7 +6483,7 @@
      "shot": "",
      "shoot": "pexels-grinder-sparks",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 12,
+     "rank": 25,
      "shown": false
     },
     {
@@ -6541,8 +6541,8 @@
      "shot": "",
      "shoot": "pexels-quarry-aerial",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 9,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V19",
@@ -6570,8 +6570,8 @@
      "shot": "",
      "shoot": "pixabay-food-prep",
      "judged_at": "2026-09-09T19:30:06Z",
-     "rank": 7,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V20",
@@ -6592,8 +6592,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "three workers in coveralls carry equipment together toward a house",
+     "violation": "",
+     "shoot": "pexels-cleaning-crew-carry",
+     "score": 3.65,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V21",
@@ -6607,15 +6615,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V21.strip.jpg",
      "title": "emergency paramedics assisting outdoors",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "39317895",
      "download_url": "https://videos.pexels.com/video-files/39317895/16730287_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "paramedics prepare a stretcher beside an ambulance outdoors",
+     "violation": "",
+     "shoot": "pexels-paramedics-ambulance",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V22",
@@ -6629,15 +6645,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V22.strip.jpg",
      "title": "construction workers operating on building site",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "32245123",
      "download_url": "https://videos.pexels.com/video-files/32245123/13753911_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "workers in hard hats cut wood inside a scaffolded construction site",
+     "violation": "",
+     "shoot": "pexels-scaffold-construction",
+     "score": 1.65,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V23",
@@ -6658,8 +6682,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two men in hard hats hand each other wood at an outdoor work table",
+     "violation": "",
+     "shoot": "pexels-carpentry-table-outdoor",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V24",
@@ -6673,15 +6705,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V24.strip.jpg",
      "title": "a group of men in orange vests and hard hats working on a construction site",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 4,
      "src_id": "19832500",
      "download_url": "https://videos.pexels.com/video-files/19832500/19832500-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "workers in hi-vis vests and hard hats build a stone wall",
+     "violation": "",
+     "shoot": "pexels-masonry-hivis-crew",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V25",
@@ -6695,15 +6735,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V25.strip.jpg",
      "title": "hammering tyre",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "20713630",
      "download_url": "https://videos.pexels.com/video-files/20713630/20713630-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:08:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker hammers a large tire at a scrapyard",
+     "violation": "",
+     "shoot": "pexels-tire-hammer-scrapyard",
+     "score": 1.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V26",
@@ -6717,15 +6765,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V26.strip.jpg",
      "title": "a man saving a woman",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "8965523",
      "download_url": "https://videos.pexels.com/video-files/8965523/8965523-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man grabs a woman during a tense confrontation in a bare building",
+     "violation": "",
+     "shoot": "pexels-confrontation-concrete",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V27",
@@ -6739,15 +6795,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V27.strip.jpg",
      "title": "people in red clothes looking at camera",
      "query": "worker carrying colleague tools helping",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "6565766",
      "download_url": "https://videos.pexels.com/video-files/6565766/6565766-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a group in matching red shirts and lanyards poses for the camera",
+     "violation": "corporate",
+     "shoot": "pexels-branded-group-studio",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 33
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V28",
@@ -6768,8 +6832,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands tie a string to a stake beside a newly planted tree",
+     "violation": "",
+     "shoot": "pexels-stake-string-planting",
+     "score": 6.65,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V29",
@@ -6783,15 +6855,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V29.strip.jpg",
      "title": "woman talking to horticulturist",
      "query": "teaching colleague to set plant stake",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "7421694",
      "download_url": "https://videos.pexels.com/video-files/7421694/7421694-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two women talk among potted plants indoors",
+     "violation": "",
+     "shoot": "pexels-indoor-plants-conversation",
+     "score": 2.7,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V30",
@@ -6805,15 +6885,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V30.strip.jpg",
      "title": "drone footage of a landscape",
      "query": "teaching colleague to set plant stake",
-     "shot": "B",
+     "shot": "D",
      "duration": 26,
      "src_id": "8177441",
      "download_url": "https://videos.pexels.com/video-files/8177441/8177441-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "a wide view of a plant nursery with workers tending rows near a shed",
+     "violation": "",
+     "shoot": "pexels-nursery-wide-shed",
+     "score": 6.05,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V31",
@@ -6834,8 +6922,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a grandfather guides two children planting in a garden bed",
+     "violation": "",
+     "shoot": "pexels-grandfather-kids-planting",
+     "score": 4.7,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V32",
@@ -6849,15 +6945,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V32.strip.jpg",
      "title": "people hoeing on agricultural field",
      "query": "teaching colleague to set plant stake",
-     "shot": "B",
+     "shot": "A",
      "duration": 52,
      "src_id": "11623320",
      "download_url": "https://videos.pexels.com/video-files/11623320/11623320-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a group of workers hoe a field of young crops together",
+     "violation": "",
+     "shoot": "pexels-field-hoeing-group",
+     "score": 5.35,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V33",
@@ -6871,15 +6975,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V33.strip.jpg",
      "title": "a woman wearing white long sleeve shirt",
      "query": "teaching colleague to set plant stake",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "8512874",
      "download_url": "https://videos.pexels.com/video-files/8512874/8512874-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "two women talk indoors near a bright window",
+     "violation": "",
+     "shoot": "pexels-indoor-women-window",
+     "score": 1.05,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V34",
@@ -6893,15 +7005,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V34.strip.jpg",
      "title": "students  books  education  teaching  read  kids  remote  school  self-education",
      "query": "teaching stake plant colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "63328",
      "download_url": "https://cdn.pixabay.com/video/2021/01/29/63328-506377472_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated cartoon illustration of students studying by a giant book",
+     "violation": "cartoons",
+     "shoot": "pixabay-cartoon-study-illustration2",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 34
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V35",
@@ -6915,15 +7035,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V35.strip.jpg",
      "title": "street  cars  london  traffic  people  tilt shift",
      "query": "tools ready shift outdoor",
-     "shot": "D",
+     "shot": "",
      "duration": 10,
      "src_id": "28693",
      "download_url": "https://cdn.pixabay.com/video/2019/11/04/28693-371200532_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:09:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a tilt-shift view of city street traffic at an intersection",
+     "violation": "",
+     "shoot": "pixabay-tiltshift-traffic-a",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 29
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V36",
@@ -6937,15 +7065,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V36.strip.jpg",
      "title": "woman  welcome  social media  girl  reading  teach  explaining  woman explaining  teaching  teacher  hello  woman talking  talking character",
      "query": "teaching stake plant colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 30,
      "src_id": "92662",
      "download_url": "https://cdn.pixabay.com/video/2021/10/20/92662-637274989_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated woman gestures against a green screen background",
+     "violation": "cartoons, green screen",
+     "shoot": "pixabay-cartoon-greenscreen-woman3",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 35
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V37",
@@ -6959,15 +7095,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V37.strip.jpg",
      "title": "moss  shed  tree  outhouse",
      "query": "tidy shed tools hanging",
-     "shot": "C",
+     "shot": "",
      "duration": 27,
      "src_id": "20464",
      "download_url": "https://cdn.pixabay.com/video/2019/01/04/20464-309694556_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a mossy abandoned cabin sits among bare trees in a forest",
+     "violation": "ruins/abandoned",
+     "shoot": "pixabay-abandoned-cabin-moss",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V38",
@@ -6981,15 +7125,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V38.strip.jpg",
      "title": "traffic  korea  seoul  city  landscape  travel  asia  street  tiny world  tilt shift",
      "query": "tools ready shift outdoor",
-     "shot": "D",
+     "shot": "",
      "duration": 9,
      "src_id": "23863",
      "download_url": "https://cdn.pixabay.com/video/2019/05/22/23863-337770340_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a tilt-shift view of city street traffic among trees",
+     "violation": "",
+     "shoot": "pixabay-tiltshift-traffic-b",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V39",
@@ -7010,8 +7162,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a weathered wooden shed door stands closed among trees",
+     "violation": "",
+     "shoot": "pixabay-shed-door-rustic",
+     "score": 4.7,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V40",
@@ -7025,15 +7185,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V40.strip.jpg",
      "title": "lathe  wood  craft  handmade  work  processing  tool",
      "query": "tidy shed tools hanging",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "94444",
      "download_url": "https://cdn.pixabay.com/video/2021/11/03/94444-643067803_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "hands shape a wooden piece on a lathe close up",
+     "violation": "",
+     "shoot": "pixabay-lathe-woodturning",
+     "score": 4.05,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-drives-S07-V41",
@@ -7047,15 +7215,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S07__strip__edenrise-c2-six-needs-drives-S07-V41.strip.jpg",
      "title": "old  shed  window  rustic",
      "query": "tidy shed tools hanging",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "20467",
      "download_url": "https://cdn.pixabay.com/video/2019/01/04/20467-309694570_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a derelict shed window sits behind a chain-link fence",
+     "violation": "ruins/abandoned, gangster signifiers (behind a fence)",
+     "shoot": "pixabay-derelict-shed-fence",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:23:32Z",
+     "rank": 27
     }
    ],
    "timing_source": "estimated",
@@ -7097,12 +7273,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T19:30:06Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:30:06Z"
+   "judged_at": "2026-09-10T10:23:32Z"
   },
   {
    "id": "S08",
