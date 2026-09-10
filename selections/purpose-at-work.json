@@ -71,26 +71,34 @@
     "S06": {
       "requested": "2026-09-09T21:25:55Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:43:22Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:25:56Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:45:49Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-09T21:25:57Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:47:29Z",
+      "added": 15
     },
     "S10": {
       "requested": "2026-09-09T21:25:58Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:49:48Z",
+      "added": 20
     }
   }
 }

@@ -90,3 +90,82 @@
 | pixabay | blackbird  sparrow  feeding board  nature  match  eat | svoldrup | Pixabay Content License | https://pixabay.com/videos/id-148557/ |
 | pixabay | man  path  on foot  brave  endless  courage  self-determinat | NickiAnimations | Pixabay Content License | https://pixabay.com/videos/id-82671/ |
 | pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
+| pexels | fire station interior with equipment and trucks | Chris D | Pexels License | https://www.pexels.com/video/fire-station-interior-with-equipment-and-trucks-35241565/ |
+| pexels | man repairing a truck | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-repairing-a-truck-6685052/ |
+| pexels | a mechanic at work | cottonbro studio | Pexels License | https://www.pexels.com/video/a-mechanic-at-work-7541838/ |
+| pexels | fireman riding a fire truck | Gustavo Fring | Pexels License | https://www.pexels.com/video/fireman-riding-a-fire-truck-7100861/ |
+| pexels | aerial construction site at chattanooga | K | Pexels License | https://www.pexels.com/video/aerial-construction-site-at-chattanooga-36964828/ |
+| pexels | firefighters are on the scene of a fire | Casey  Whalen | Pexels License | https://www.pexels.com/video/firefighters-are-on-the-scene-of-a-fire-19036442/ |
+| pexels | a mechanic woman and a man assisting her | cottonbro studio | Pexels License | https://www.pexels.com/video/a-mechanic-woman-and-a-man-assisting-her-7006120/ |
+| pexels | people working at a construction site | Site Engine | Pexels License | https://www.pexels.com/video/people-working-at-a-construction-site-7825548/ |
+| pexels | people congratulating their colleague | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-congratulating-their-colleague-7581375/ |
+| pexels | woman shaking the hand of a man | Monstera Production | Pexels License | https://www.pexels.com/video/woman-shaking-the-hand-of-a-man-9464868/ |
+| pexels | people shaking hands | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/people-shaking-hands-6193005/ |
+| pexels | men closing deal | RDNE Stock project | Pexels License | https://www.pexels.com/video/men-closing-deal-7841915/ |
+| pexels | tools for jewelry making | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/tools-for-jewelry-making-6262798/ |
+| pexels | a man working on a table in a room | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-working-on-a-table-in-a-room-5090785/ |
+| pixabay | network  internet  data  switch  router  cabinet  ethernet   | cipnt | Pixabay Content License | https://pixabay.com/videos/id-14900/ |
+| pixabay | library  books  the corridor  window  rack  the culture  rea | klimkin | Pixabay Content License | https://pixabay.com/videos/id-846/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150353/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150362/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150364/ |
+| pixabay | network  internet  data  switch  router  cabinet  ethernet   | cipnt | Pixabay Content License | https://pixabay.com/videos/id-14906/ |
+| pixabay | yard  spider  web  arachnid  armenia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-14222/ |
+| pixabay | handshake  greeting  deal  hello  thanks  trust  welcome | drgbzt | Pixabay Content License | https://pixabay.com/videos/id-62216/ |
+| pexels | forestry worker with logs and heavy machinery | Casey  Whalen | Pexels License | https://www.pexels.com/video/forestry-worker-with-logs-and-heavy-machinery-36130432/ |
+| pexels | heavy equipment hauling logs | K | Pexels License | https://www.pexels.com/video/heavy-equipment-hauling-logs-2711300/ |
+| pexels | heavy machine are used to pile lumber stocks in the yard | K | Pexels License | https://www.pexels.com/video/heavy-machine-are-used-to-pile-lumber-stocks-in-the-yard-2711284/ |
+| pexels | a man moving a log | K | Pexels License | https://www.pexels.com/video/a-man-moving-a-log-7165762/ |
+| pexels | heavy equipment hauling logs | K | Pexels License | https://www.pexels.com/video/heavy-equipment-hauling-logs-2711305/ |
+| pexels | heavy equipments in a lumber yard | K | Pexels License | https://www.pexels.com/video/heavy-equipments-in-a-lumber-yard-2711297/ |
+| pexels | logging operation with chainsaw and heavy machinery | Casey  Whalen | Pexels License | https://www.pexels.com/video/logging-operation-with-chainsaw-and-heavy-machinery-36130435/ |
+| pexels | men cutting logs | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/men-cutting-logs-4958046/ |
+| pexels | colleagues working together | Yan Krukau | Pexels License | https://www.pexels.com/video/colleagues-working-together-7691603/ |
+| pexels | women working together | Alexander Suhorucov | Pexels License | https://www.pexels.com/video/women-working-together-6534151/ |
+| pexels | male hands adjusting vise to hold wood strip | Ono  Kosuki | Pexels License | https://www.pexels.com/video/male-hands-adjusting-vise-to-hold-wood-strip-5972619/ |
+| pexels | three young men looking at blueprint | Gustavo Fring | Pexels License | https://www.pexels.com/video/three-young-men-looking-at-blueprint-5389325/ |
+| pexels | hands holding straight razor | ArtHouse Studio | Pexels License | https://www.pexels.com/video/hands-holding-straight-razor-7686591/ |
+| pexels | person measuring metal | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-measuring-metal-5846664/ |
+| pixabay | puzzle  puzzling  game  play  playing  people  girl  woman   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-132/ |
+| pixabay | lathe  wood  craft  handmade  work  processing  tool | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94444/ |
+| pixabay | carpenter  tool  handmade  industry  factory  wood  woodwork | AndyWolares | Pixabay Content License | https://pixabay.com/videos/id-166808/ |
+| pixabay | science  discovery  solve  problem | zclckz | Pixabay Content License | https://pixabay.com/videos/id-161739/ |
+| pixabay | tv  test  pattern  color  television  screen  media  cameram | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-31851/ |
+| pixabay | countdown  digital  timer  clock  numbers  digit  alarm  tim | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-31098/ |
+| pixabay | timer  clock  alarm  ticking  countdown  digital  numbers  d | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-43613/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pexels | feet of person in boots walking | Csaba Városi | Pexels License | https://www.pexels.com/video/feet-of-person-in-boots-walking-9843017/ |
+| pexels | a person walking on a cobblestone street at night | Lindy Tang | Pexels License | https://www.pexels.com/video/a-person-walking-on-a-cobblestone-street-at-night-16379851/ |
+| pexels | a woman tying her shoelace | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-tying-her-shoelace-7334250/ |
+| pexels | a person tying up a shoe lace | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-person-tying-up-a-shoe-lace-6326754/ |
+| pexels | a construction worker entering a building basement | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/ |
+| pexels | a man walking inside a warehouse | K | Pexels License | https://www.pexels.com/video/a-man-walking-inside-a-warehouse-6079431/ |
+| pexels | a person walking into the house and removing her boots | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-person-walking-into-the-house-and-removing-her-boots-4154105/ |
+| pexels | a woman untying the lace of her skates | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-woman-untying-the-lace-of-her-skates-4035211/ |
+| pexels | a person tying the lace of a shoe | SHVETS production | Pexels License | https://www.pexels.com/video/a-person-tying-the-lace-of-a-shoe-8059611/ |
+| pexels | a person tying shoelace | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-tying-shoelace-8342824/ |
+| pexels | backpackers crossing busy city street | Kiwi and Camera | Pexels License | https://www.pexels.com/video/backpackers-crossing-busy-city-street-38793099/ |
+| pexels | drone footage of a sand washer plant | Kevin Krämer | Pexels License | https://www.pexels.com/video/drone-footage-of-a-sand-washer-plant-9310125/ |
+| pexels | person wearing boots and sneaker shoes | Ivan S | Pexels License | https://www.pexels.com/video/person-wearing-boots-and-sneaker-shoes-6962325/ |
+| pexels | a person getting out of a car and stepping on broken glass | Wizarto Production | Pexels License | https://www.pexels.com/video/a-person-getting-out-of-a-car-and-stepping-on-broken-glass-14501264/ |
+| pixabay | countdown  timer  seconds  start | olenchic | Pixabay Content License | https://pixabay.com/videos/id-170063/ |
+| pexels | employees celebrating success | Kampus Production | Pexels License | https://www.pexels.com/video/employees-celebrating-success-8631876/ |
+| pexels | people slapping hands with each other | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/people-slapping-hands-with-each-other-8136235/ |
+| pexels | mother and children doing high five | Kindel Media | Pexels License | https://www.pexels.com/video/mother-and-children-doing-high-five-8551509/ |
+| pexels | call center agents cheering | Yan Krukau | Pexels License | https://www.pexels.com/video/call-center-agents-cheering-8865709/ |
+| pexels | workmates giving each other a hug and doing high five | Kampus Production | Pexels License | https://www.pexels.com/video/workmates-giving-each-other-a-hug-and-doing-high-five-8631877/ |
+| pexels | women celebrating and having fun | Gustavo Fring | Pexels License | https://www.pexels.com/video/women-celebrating-and-having-fun-7423628/ |
+| pexels | people doing high five together | cottonbro studio | Pexels License | https://www.pexels.com/video/people-doing-high-five-together-7335884/ |
+| pexels | people doing high fives and celebrating | Gustavo Fring | Pexels License | https://www.pexels.com/video/people-doing-high-fives-and-celebrating-7100882/ |
+| pexels | a team celebrating | Moe Magners | Pexels License | https://www.pexels.com/video/a-team-celebrating-7504955/ |
+| pexels | people embracing each other | Kampus Production | Pexels License | https://www.pexels.com/video/people-embracing-each-other-8636282/ |
+| pexels | race cars speeding and crashing on the track | Jaxon Matthew Willis | Pexels License | https://www.pexels.com/video/race-cars-speeding-and-crashing-on-the-track-18447537/ |
+| pexels | aerial view of busy rowing competition dock | Marc Espejo | Pexels License | https://www.pexels.com/video/aerial-view-of-busy-rowing-competition-dock-31950825/ |
+| pexels | aerial view of riverside boat club and houses | Marc Espejo | Pexels License | https://www.pexels.com/video/aerial-view-of-riverside-boat-club-and-houses-30022642/ |
+| pexels | close up shot of a helicopter landing | Farid Sayed | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-helicopter-landing-8458316/ |
+| pixabay | smile  face  girl  young  happy  woman  person  smiling  hap | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43631/ |
+| pixabay | bacon  pan  hot  belly bacon  meal  food  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-240531/ |
+| pixabay | woman  smile  communication  gesture  expression  asian  clo | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174008/ |
+| pixabay | science  school  math  lab  learn  geometry  mathematics  eq | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5373/ |
+| pixabay | circle  comet  blue | Jacques_Barrette | Pixabay Content License | https://pixabay.com/videos/id-9247/ |
+| pixabay | morning  fog  national park  netherlands  drenthe  dwingelde | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-177223/ |
