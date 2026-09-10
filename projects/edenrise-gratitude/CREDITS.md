@@ -298,3 +298,25 @@
 | pixabay | pizza oven  pizza  restaurant  job  food | Citor3 | Pixabay Content License | https://pixabay.com/videos/id-17177/ |
 | pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135891/ |
 | pixabay | nature  job  work  ants  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-110822/ |
+| pexels | people nodding upon seeing each other on a corridor | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-nodding-upon-seeing-each-other-on-a-corridor-9573575/ |
+| pexels | workers with shovels at construction site | CESAR A RAMIREZ VALLEJO TRAPHITHO | Pexels License | https://www.pexels.com/video/workers-with-shovels-at-construction-site-13921036/ |
+| pexels | construction workers applying cement to wall | Sergei Starostin | Pexels License | https://www.pexels.com/video/construction-workers-applying-cement-to-wall-34572321/ |
+| pexels | aerial view of construction workers on steel frame | K | Pexels License | https://www.pexels.com/video/aerial-view-of-construction-workers-on-steel-frame-33880927/ |
+| pexels | men at the construction site | CESAR A RAMIREZ VALLEJO TRAPHITHO | Pexels License | https://www.pexels.com/video/men-at-the-construction-site-14117667/ |
+| pexels | a man in a yellow vest is working on a steel bar | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/a-man-in-a-yellow-vest-is-working-on-a-steel-bar-16106453/ |
+| pexels | a woman using a drill on a wood | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-using-a-drill-on-a-wood-8965306/ |
+| pexels | aerial construction site at chattanooga | K | Pexels License | https://www.pexels.com/video/aerial-construction-site-at-chattanooga-36964828/ |
+| pexels | man cutting wood with saw | This Viktọ | Pexels License | https://www.pexels.com/video/man-cutting-wood-with-saw-10294763/ |
+| pexels | close up of a male hand scooping ice from a bucket | binary Ego | Pexels License | https://www.pexels.com/video/close-up-of-a-male-hand-scooping-ice-from-a-bucket-14058804/ |
+| pexels | close up shot of painting materials | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-shot-of-painting-materials-6957371/ |
+| pexels | barista working at coffee machine in cafe | LayG Traveller | Pexels License | https://www.pexels.com/video/barista-working-at-coffee-machine-in-cafe-39208683/ |
+| pexels | people working together | cottonbro studio | Pexels License | https://www.pexels.com/video/people-working-together-6566845/ |
+| pexels | low angle shot of men sitting at the construction site | Ron Lach | Pexels License | https://www.pexels.com/video/low-angle-shot-of-men-sitting-at-the-construction-site-8821264/ |
+| pixabay | cleaning  street  pressure washer  road  water  high pressur | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-2333/ |
+| pixabay | woman  social networking  post  website management  communic | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174003/ |
+| pixabay | woman  superhero  diet  female health  hormonal balance  eat | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-149710/ |
+| pixabay | disinfectant  spray  trigger  disinfect  cleaner  sprayer  h | Squirrel_photos | Pixabay Content License | https://pixabay.com/videos/id-37187/ |
+| pixabay | brown  cow  cows  farm  funny  head  nod | Trek_Jason | Pixabay Content License | https://pixabay.com/videos/id-100471/ |
+| pixabay | cleaning of the apartment  cleaning  woman  cleaner  young w | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-9375/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11750/ |
+| pixabay | paint  colorful  drops  slow  painting  creative  artist  pa | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-22910/ |
