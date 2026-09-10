@@ -3470,7 +3470,7 @@
      "shot": "C",
      "shoot": "pexels-bricklaying-closeup",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 2,
+     "rank": 7,
      "shown": true
     },
     {
@@ -3499,8 +3499,8 @@
      "shot": "B",
      "shoot": "pexels-plastering-wall-colleague",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 4,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V03",
@@ -3526,7 +3526,7 @@
      "shot": "",
      "shoot": "pixabay-lab-microscope-scientist",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 11,
+     "rank": 32,
      "shown": false
     },
     {
@@ -3553,7 +3553,7 @@
      "shot": "",
      "shoot": "pixabay-lab-microscope-scientist",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 12,
+     "rank": 33,
      "shown": false
     },
     {
@@ -3580,8 +3580,8 @@
      "shot": "",
      "shoot": "pixabay-pottery-painting-table",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 8,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V05",
@@ -3612,8 +3612,8 @@
      "shot": "",
      "shoot": "pixabay-indoor-wall-demolition",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V11",
@@ -3639,8 +3639,8 @@
      "shot": "",
      "shoot": "pixabay-pottery-wheel-hands",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 9,
-     "shown": true
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-I06",
@@ -3727,7 +3727,7 @@
      "shot": "",
      "shoot": "pexels-textile-mill-thread",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 13,
+     "rank": 34,
      "shown": false
     },
     {
@@ -3756,8 +3756,8 @@
      "shot": "",
      "shoot": "pixabay-wheelbarrow-concrete-tip",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V14",
@@ -3785,7 +3785,7 @@
      "shot": "",
      "shoot": "pexels-furnace-factory-dark",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 14,
+     "rank": 35,
      "shown": false
     },
     {
@@ -3814,8 +3814,8 @@
      "shot": "B",
      "shoot": "pexels-paving-saw-dust",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 3,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V16",
@@ -3861,8 +3861,8 @@
      "shot": "",
      "shoot": "pixabay-outdoor-workout-woman",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 10,
-     "shown": true
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V18",
@@ -3890,7 +3890,7 @@
      "shot": "",
      "shoot": "pexels-hazmat-warehouse-sorting",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 15,
+     "rank": 36,
      "shown": false
     },
     {
@@ -3919,7 +3919,7 @@
      "shot": "C",
      "shoot": "pexels-paving-mallet-hands",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 1,
+     "rank": 4,
      "shown": true
     },
     {
@@ -3948,7 +3948,7 @@
      "shot": "",
      "shoot": "pexels-textile-factory-folding",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 16,
+     "rank": 37,
      "shown": false
     },
     {
@@ -3977,8 +3977,8 @@
      "shot": "",
      "shoot": "pexels-farmer-cornfield-solo",
      "judged_at": "2026-09-09T19:23:30Z",
-     "rank": 6,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V22",
@@ -3999,8 +3999,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "hands loosen bolts on a car engine with a socket wrench",
+     "violation": "",
+     "shoot": "pexels-socket-wrench-engine-bolts",
+     "score": 6.3,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V23",
@@ -4021,8 +4029,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "hands grind the sole of a shoe on a workshop machine",
+     "violation": "",
+     "shoot": "pexels-shoemaker-grinder",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V24",
@@ -4043,8 +4059,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands hammer rivets into an ornate leather strap",
+     "violation": "",
+     "shoot": "pexels-leather-belt-craft",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V25",
@@ -4058,15 +4082,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V25.strip.jpg",
      "title": "an elderly man repairing a pocket watch",
      "query": "skilled hands finishing repair close",
-     "shot": "C",
+     "shot": "B",
      "duration": 42,
      "src_id": "8322275",
      "download_url": "https://videos.pexels.com/video-files/8322275/8322275-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "an elderly man examines a pocket watch through a loupe",
+     "violation": "",
+     "shoot": "pexels-elderly-watch-repair",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V26",
@@ -4087,8 +4119,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands assemble a small metal filter part on a workbench",
+     "violation": "",
+     "shoot": "pexels-hands-assemble-metal-part",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V27",
@@ -4102,15 +4142,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V27.strip.jpg",
      "title": "a person fixing electronic",
      "query": "skilled hands finishing repair close",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "9431253",
      "download_url": "https://videos.pexels.com/video-files/9431253/9431253-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "hands install components on a computer motherboard",
+     "violation": "",
+     "shoot": "pexels-motherboard-repair",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V28",
@@ -4131,8 +4179,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:03:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "a hand ratchets a bolt on an engine among rows of engine blocks",
+     "violation": "assembly-line-style repeated engines in background",
+     "shoot": "pexels-ratchet-engine-row",
+     "score": 4.6,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V29",
@@ -4153,8 +4209,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "gloved hands mix mortar in a bowl beside a brick",
+     "violation": "",
+     "shoot": "pexels-mortar-mixing-brick",
+     "score": 8.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V30",
@@ -4168,15 +4232,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V30.strip.jpg",
      "title": "close up footage of employees stacking hands together",
      "query": "worker showing off to colleagues",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "7844939",
      "download_url": "https://videos.pexels.com/video-files/7844939/7844939-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "business people in suits stack hands together at an office desk",
+     "violation": "office and suits",
+     "shoot": "pexels-office-suits-handstack",
+     "score": 1.3,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V31",
@@ -4190,15 +4262,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V31.strip.jpg",
      "title": "men shaking hands and women talking in background",
      "query": "worker showing off to colleagues",
-     "shot": "A",
+     "shot": "D",
      "duration": 7,
      "src_id": "5940518",
      "download_url": "https://videos.pexels.com/video-files/5940518/5940518-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two people reach across a table and shake hands",
+     "violation": "office-like meeting room background",
+     "shoot": "pexels-handshake-table-meeting",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V32",
@@ -4219,8 +4299,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a young person solders electronics at a workbench",
+     "violation": "",
+     "shoot": "pexels-teen-soldering-electronics",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V33",
@@ -4234,15 +4322,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V33.strip.jpg",
      "title": "close up view of a man fixing the parts of a truck",
      "query": "quiet worker fixing pump focused",
-     "shot": "B",
+     "shot": "C",
      "duration": 44,
      "src_id": "7568443",
      "download_url": "https://videos.pexels.com/video-files/7568443/7568443-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands work a ratchet on a truck engine",
+     "violation": "",
+     "shoot": "pexels-truck-engine-repair",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V34",
@@ -4263,8 +4359,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "young coworkers laugh together at a table with laptops",
+     "violation": "office and laptops",
+     "shoot": "pexels-coworkers-laptops-laughing",
+     "score": 1.95,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V35",
@@ -4285,8 +4389,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man operates industrial machinery in a warehouse",
+     "violation": "",
+     "shoot": "pexels-warehouse-machine-work",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V36",
@@ -4300,15 +4412,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V36.strip.jpg",
      "title": "screwdriver  screw  handyman  repairs  build  work  fix  tool  equipment  construction  worker  fixing  home  builder  repairman  carpenter  manual  job  service  installation  maintenance  install  tighten  workman",
      "query": "worker pump fixing focused",
-     "shot": "B",
+     "shot": "C",
      "duration": 15,
      "src_id": "4728",
      "download_url": "https://cdn.pixabay.com/video/2016/08/22/4728-179738645_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a close-up of a screwdriver driving a screw into wood",
+     "violation": "",
+     "shoot": "pixabay-macro-screwdriver-screw",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V37",
@@ -4322,15 +4442,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V37.strip.jpg",
      "title": "unimog  mercedes-benz  off-road  military  truck",
      "query": "worker showing off gesture",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "217278",
      "download_url": "https://cdn.pixabay.com/video/2024/06/19/217278_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:04:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a military-style truck drives over a dirt mound",
+     "violation": "",
+     "shoot": "pixabay-unimog-offroad-truck",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V38",
@@ -4344,15 +4472,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V38.strip.jpg",
      "title": "hands  good  accept  vote  ok  gesture  sign  symbol  positive  success",
      "query": "worker showing off gesture",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "168344",
      "download_url": "https://cdn.pixabay.com/video/2023/06/22/168344-838892840_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand makes an ok gesture against a white background",
+     "violation": "",
+     "shoot": "pixabay-ok-hand-gesture-studio",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V39",
@@ -4366,15 +4502,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V39.strip.jpg",
      "title": "construction  city  crane  building  concrete pump  basements  truck",
      "query": "worker pump fixing focused",
-     "shot": "B",
+     "shot": "",
      "duration": 42,
      "src_id": "41828",
      "download_url": "https://cdn.pixabay.com/video/2020/06/12/41828-431406550_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "aerial view of a construction site with a crane and pump truck",
+     "violation": "",
+     "shoot": "pixabay-aerial-construction-site",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V40",
@@ -4388,15 +4532,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V40.strip.jpg",
      "title": "couple  dancers  silhouette  dance off  street dancer  dance  style",
      "query": "worker showing off gesture",
-     "shot": "A",
+     "shot": "",
      "duration": 35,
      "src_id": "77004",
      "download_url": "https://cdn.pixabay.com/video/2021/06/09/77004-561020260_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "silhouetted figures dance against a black background",
+     "violation": "abstract silhouette loop",
+     "shoot": "pixabay-silhouette-dance-loop",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 38
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V41",
@@ -4410,15 +4562,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V41.strip.jpg",
      "title": "rallye  car race  rally  drifting  dirt  dust  curve  speed  action  stunt  stunt man  wild  crazy  motor sports  motor  car  sports car  vehicle  race  dirt race  off-road  145040340",
      "query": "worker showing off gesture",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "1295",
      "download_url": "https://cdn.pixabay.com/video/2015/11/09/1295-145209438_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a rally car kicks up dust on a dirt road",
+     "violation": "",
+     "shoot": "pixabay-rally-car-dust",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V42",
@@ -4432,15 +4592,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V42.strip.jpg",
      "title": "construction  crane  truck  building  concrete pump  basements",
      "query": "worker pump fixing focused",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "41826",
      "download_url": "https://cdn.pixabay.com/video/2020/06/12/41826-431406547_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "aerial view of workers at a concrete construction site",
+     "violation": "",
+     "shoot": "pixabay-aerial-construction-site",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-six-needs-drives-S04-V43",
@@ -4454,15 +4622,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S04__strip__edenrise-c2-six-needs-drives-S04-V43.strip.jpg",
      "title": "hammer  nail  carpentry  carpenter  wood  woodworker  craft  build  construct  create  hammering  swaging  beating  pounding  failure  off target  off the mark  wrong",
      "query": "worker showing off gesture",
-     "shot": "A",
+     "shot": "C",
      "duration": 27,
      "src_id": "277",
      "download_url": "https://cdn.pixabay.com/video/2015/08/10/277-135878779_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:05:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "hands hammer a nail into wooden planks",
+     "violation": "",
+     "shoot": "pixabay-hammer-nail-carpentry",
+     "score": 8.0,
+     "judged_at": "2026-09-10T10:30:23Z",
+     "rank": 2
     }
    ],
    "timing_source": "estimated",
@@ -4504,12 +4680,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T19:23:30Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:23:30Z"
+   "judged_at": "2026-09-10T10:30:23Z"
   },
   {
    "id": "S05",

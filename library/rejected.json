@@ -1440,10 +1440,10 @@
   "from": "edenrise-c2-six-needs-reactions/S07"
  },
  "pexels:5940518": {
-  "at": "2026-09-10T09:30:11Z",
   "brand": "edenrise",
-  "from": "edenrise-gratitude/S07",
-  "reason": "office"
+  "reason": "office-like meeting room background",
+  "at": "2026-09-10T10:30:23Z",
+  "from": "edenrise-c2-six-needs-drives/S04"
  },
  "pexels:5941106": {
   "at": "2026-09-10T09:23:45Z",
@@ -2886,10 +2886,10 @@
   "reason": "suits"
  },
  "pexels:7844939": {
-  "at": "2026-09-10T09:13:05Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S14",
-  "reason": "office/suits"
+  "reason": "office and suits",
+  "at": "2026-09-10T10:30:23Z",
+  "from": "edenrise-c2-six-needs-drives/S04"
  },
  "pexels:7925404": {
   "at": "2026-09-10T09:39:57Z",
@@ -7924,5 +7924,23 @@
   "reason": "classroom",
   "at": "2026-09-10T10:29:51Z",
   "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pexels:8470000": {
+  "brand": "edenrise",
+  "reason": "assembly-line-style repeated engines in background",
+  "at": "2026-09-10T10:30:23Z",
+  "from": "edenrise-c2-six-needs-drives/S04"
+ },
+ "pexels:4624652": {
+  "brand": "edenrise",
+  "reason": "office and laptops",
+  "at": "2026-09-10T10:30:23Z",
+  "from": "edenrise-c2-six-needs-drives/S04"
+ },
+ "pixabay:77004": {
+  "brand": "edenrise",
+  "reason": "abstract silhouette loop",
+  "at": "2026-09-10T10:30:23Z",
+  "from": "edenrise-c2-six-needs-drives/S04"
  }
 }
