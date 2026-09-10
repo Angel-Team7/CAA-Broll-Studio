@@ -14187,7 +14187,7 @@
      "shot": "",
      "shoot": "pexels-office-contract-signing",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 9,
+     "rank": 26,
      "shown": false
     },
     {
@@ -14234,7 +14234,7 @@
      "shot": "",
      "shoot": "pexels-highrise-scaffold",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 10,
+     "rank": 27,
      "shown": false
     },
     {
@@ -14263,7 +14263,7 @@
      "shot": "",
      "shoot": "pexels-highrise-scaffold",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 11,
+     "rank": 28,
      "shown": false
     },
     {
@@ -14292,8 +14292,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-small-site",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 2,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V07",
@@ -14320,7 +14320,7 @@
      "shot": "B",
      "shoot": "pixabay-jigsaw-carpentry",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -14350,7 +14350,7 @@
      "shot": "",
      "shoot": "pexels-office-celebration",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 12,
+     "rank": 29,
      "shown": false
     },
     {
@@ -14379,7 +14379,7 @@
      "shot": "",
      "shoot": "pexels-office-laptops",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -14406,8 +14406,8 @@
      "shot": "",
      "shoot": "pexels-hallway-coffee-chat",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 4,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V11",
@@ -14434,7 +14434,7 @@
      "shot": "",
      "shoot": "pexels-conference-presentation",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 14,
+     "rank": 31,
      "shown": false
     },
     {
@@ -14461,8 +14461,8 @@
      "shot": "",
      "shoot": "pexels-reception-chat",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 3,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V13",
@@ -14489,8 +14489,8 @@
      "shot": "",
      "shoot": "pexels-bedroom-gift",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 5,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V14",
@@ -14517,7 +14517,7 @@
      "shot": "",
      "shoot": "pexels-shouting-reel",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -14546,8 +14546,8 @@
      "shot": "",
      "shoot": "pixabay-mug-closeup",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 6,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V16",
@@ -14574,8 +14574,8 @@
      "shot": "",
      "shoot": "pixabay-boy-mirror",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 16,
-     "shown": true
+     "rank": 33,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V17",
@@ -14602,7 +14602,7 @@
      "shot": "",
      "shoot": "pixabay-cartoon-office",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 17,
+     "rank": 34,
      "shown": false
     },
     {
@@ -14627,8 +14627,8 @@
      "shot": "",
      "shoot": "pixabay-phone-scroll",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 7,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V19",
@@ -14654,8 +14654,8 @@
      "shot": "",
      "shoot": "pixabay-phone-tap",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 8,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S15-V21",
@@ -14681,7 +14681,7 @@
      "shot": "",
      "shoot": "pixabay-cows-pasture",
      "judged_at": "2026-09-09T20:02:57Z",
-     "rank": 18,
+     "rank": 35,
      "shown": false
     },
     {
@@ -14803,15 +14803,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V22.strip.jpg",
      "title": "engineers looking at the blueprint they are holding",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "8964792",
      "download_url": "https://videos.pexels.com/video-files/8964792/8964792-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "Two engineers review a blueprint at a large steel structure site",
+     "violation": "",
+     "shoot": "pexels-engineers-blueprint-steel-site",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 6
     },
     {
      "id": "edenrise-gratitude-S15-V23",
@@ -14825,15 +14833,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V23.strip.jpg",
      "title": "interior painting work in progress",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 31,
      "src_id": "28900197",
      "download_url": "https://videos.pexels.com/video-files/28900197/12509659_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "A man paints a wooden door frame with a sponge roller",
+     "violation": "",
+     "shoot": "pexels-man-painting-interior-doorframe",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 4
     },
     {
      "id": "edenrise-gratitude-S15-V24",
@@ -14847,15 +14863,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V24.strip.jpg",
      "title": "expert welder at work in industrial setting",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "30748963",
      "download_url": "https://videos.pexels.com/video-files/30748963/13153815_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "A man spray-paints a metal gate in black and white footage",
+     "violation": "",
+     "shoot": "pexels-bw-spraypaint-fence-outdoor",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S15-V25",
@@ -14869,15 +14893,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V25.strip.jpg",
      "title": "man working pencil paper",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "5846462",
      "download_url": "https://videos.pexels.com/video-files/5846462/5846462-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "A man in camouflage sketches on paper in a dim workshop",
+     "violation": "",
+     "shoot": "pexels-soldier-workshop-drawing",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 19
     },
     {
      "id": "edenrise-gratitude-S15-V26",
@@ -14898,8 +14930,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "A man checks a tablet beside a coworker in a hard hat",
+     "violation": "",
+     "shoot": "pexels-man-tablet-hardhat-checking",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S15-V27",
@@ -14913,15 +14953,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V27.strip.jpg",
      "title": "efficient motorcycle engine assembly process",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 18,
      "src_id": "30288954",
      "download_url": "https://videos.pexels.com/video-files/30288954/12984015_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Gloved hands assemble a motor engine on a production line",
+     "violation": "factory, assembly line",
+     "shoot": "pexels-motor-assembly-gloves-line",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 17
     },
     {
      "id": "edenrise-gratitude-S15-V28",
@@ -14935,15 +14983,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V28.strip.jpg",
      "title": "man doing car polish on white car",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "4822548",
      "download_url": "https://videos.pexels.com/video-files/4822548/4822548-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:26:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A man buffs a white car's fender with a polisher",
+     "violation": "",
+     "shoot": "pexels-car-polish-white1",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 15
     },
     {
      "id": "edenrise-gratitude-S15-V29",
@@ -14964,8 +15020,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "A worker in a hard hat points while using a walkie talkie",
+     "violation": "",
+     "shoot": "pexels-worker-walkietalkie-pointing-steel",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 7
     },
     {
      "id": "edenrise-gratitude-S15-V30",
@@ -14979,15 +15043,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V30.strip.jpg",
      "title": "two men in hard hats and safety vests are working on a truck",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "27514738",
      "download_url": "https://videos.pexels.com/video-files/27514738/12156651_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "A uniformed worker signals toward a crane truck's load",
+     "violation": "",
+     "shoot": "pexels-starcrane-uniform-truck-pointing",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 10
     },
     {
      "id": "edenrise-gratitude-S15-V31",
@@ -15001,15 +15073,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V31.strip.jpg",
      "title": "man showing catalog to the woman",
      "query": "foreman correcting worker calmly detail",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "6568704",
      "download_url": "https://videos.pexels.com/video-files/6568704/6568704-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "A man shows a catalog to a woman in an unfinished room",
+     "violation": "",
+     "shoot": "pexels-catalog-showing-interior",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S15-V32",
@@ -15023,15 +15103,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V32.strip.jpg",
      "title": "a man painting wall using paint spray",
      "query": "worker redoing detail carefully",
-     "shot": "B",
+     "shot": "",
      "duration": 22,
      "src_id": "6473939",
      "download_url": "https://videos.pexels.com/video-files/6473939/6473939-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "A worker in a black coverall spray-paints a textured wall",
+     "violation": "",
+     "shoot": "pexels-blackcoverall-spraypaint-wall",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 11
     },
     {
      "id": "edenrise-gratitude-S15-V33",
@@ -15052,8 +15140,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "An older man carefully paints a red stripe on a rounded pot",
+     "violation": "",
+     "shoot": "pexels-elderly-man-painting-pot-detail",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S15-V34",
@@ -15067,15 +15163,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V34.strip.jpg",
      "title": "man doing car polish on white car",
      "query": "worker redoing detail carefully",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "4822549",
      "download_url": "https://videos.pexels.com/video-files/4822549/4822549-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A man buffs a white car's fender with a polisher",
+     "violation": "",
+     "shoot": "pexels-car-polish-white2",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 16
     },
     {
      "id": "edenrise-gratitude-S15-V35",
@@ -15096,8 +15200,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "An older man carves a wood block with a chisel",
+     "violation": "",
+     "shoot": "pexels-elderly-woodcarving-workshop",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S15-V36",
@@ -15111,15 +15223,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V36.strip.jpg",
      "title": "money  euro  finance  salary  cash  economy  income  bank  profit  business  check",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "4853",
      "download_url": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "A hand fans out a stack of euro banknotes",
+     "violation": "",
+     "shoot": "pixabay-euro-banknotes-fan",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 36
     },
     {
      "id": "edenrise-gratitude-S15-V37",
@@ -15133,15 +15253,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V37.strip.jpg",
      "title": "workers  builders  job  work  colombia",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "135887",
      "download_url": "https://cdn.pixabay.com/video/2022/10/21/135887-764362205_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:27:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "An aerial view shows a crowd of workers pouring concrete",
+     "violation": "crowds doing the same manual task",
+     "shoot": "pixabay-aerial-concrete-crew-colombia1",
+     "score": 1.95,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 12
     },
     {
      "id": "edenrise-gratitude-S15-V39",
@@ -15155,15 +15283,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V39.strip.jpg",
      "title": "woman  card  shopping  communication  smartphone  phone  female  hand  job  lifestyle",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "83865",
      "download_url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:28:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "A smiling woman in a blue dress holds up a card",
+     "violation": "",
+     "shoot": "pixabay-woman-blue-dress-phone-smiling",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 37
     },
     {
      "id": "edenrise-gratitude-S15-V40",
@@ -15177,15 +15313,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V40.strip.jpg",
      "title": "workers  builders  job  work  colombia",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "135889",
      "download_url": "https://cdn.pixabay.com/video/2022/10/21/135889-764362216_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:28:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "An aerial view shows a crowd of workers pouring concrete",
+     "violation": "crowds doing the same manual task",
+     "shoot": "pixabay-aerial-concrete-crew-colombia2",
+     "score": 1.95,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 13
     },
     {
      "id": "edenrise-gratitude-S15-V41",
@@ -15199,15 +15343,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V41.strip.jpg",
      "title": "pizza oven  pizza  restaurant  job  food",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 51,
      "src_id": "17177",
      "download_url": "https://cdn.pixabay.com/video/2018/07/08/17177-278954650_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:28:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Flames burn inside a brick pizza oven",
+     "violation": "",
+     "shoot": "pixabay-pizza-oven-flames",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 38
     },
     {
      "id": "edenrise-gratitude-S15-V42",
@@ -15221,15 +15373,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V42.strip.jpg",
      "title": "workers  builders  job  work  colombia",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "135891",
      "download_url": "https://cdn.pixabay.com/video/2022/10/21/135891-764362228_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:28:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "An aerial view shows a crowd of workers pouring concrete",
+     "violation": "crowds doing the same manual task",
+     "shoot": "pixabay-aerial-concrete-crew-colombia3",
+     "score": 1.95,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 14
     },
     {
      "id": "edenrise-gratitude-S15-V43",
@@ -15243,15 +15403,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S15__strip__edenrise-gratitude-S15-V43.strip.jpg",
      "title": "nature  job  work  ants  colombia",
      "query": "foreman check job wide",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "110822",
      "download_url": "https://cdn.pixabay.com/video/2022/03/15/110822-688648823_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:28:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "A macro shot shows an ant walking along a painted ledge",
+     "violation": "wildlife",
+     "shoot": "pixabay-ant-macro-ledge",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:57Z",
+     "rank": 39
     }
    ],
    "shots": [
@@ -15284,12 +15452,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T20:02:57Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T20:02:57Z"
+   "judged_at": "2026-09-10T09:45:57Z"
   },
   {
    "id": "S16",
