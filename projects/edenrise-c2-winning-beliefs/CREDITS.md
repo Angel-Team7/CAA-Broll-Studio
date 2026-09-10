@@ -110,3 +110,69 @@
 | pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
 | pixabay | field  paddy field  plantation  agriculture  rural  rice  pl | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-231246/ |
 | pixabay | walking  sneakers  nike  shoes  walk  path  outdoors  lifest | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3171/ |
+| pexels | close up view of a person writing on a pink paper | Polina ⠀ | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-writing-on-a-pink-paper-6185666/ |
+| pexels | a person writing | Winston Lim | Pexels License | https://www.pexels.com/video/a-person-writing-8292001/ |
+| pexels | chemists organizing chemistry lab equipment on a table | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/chemists-organizing-chemistry-lab-equipment-on-a-table-8540170/ |
+| pexels | a man measuring height of ceiling | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-measuring-height-of-ceiling-8293012/ |
+| pexels | crop person writing on a card | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/crop-person-writing-on-a-card-6653408/ |
+| pexels | efficient factory worker organizing inventory | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-factory-worker-organizing-inventory-31580812/ |
+| pexels | a man polishing wood | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-polishing-wood-5972117/ |
+| pexels | writing a letter to santa | KoolShooters | Pexels License | https://www.pexels.com/video/writing-a-letter-to-santa-6157578/ |
+| pexels | a woman writing a letter | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-writing-a-letter-4920210/ |
+| pexels | barista making coffee | Kampus Production | Pexels License | https://www.pexels.com/video/barista-making-coffee-6828878/ |
+| pexels | a construction worker is working on a stone wall | CP Khanal | Pexels License | https://www.pexels.com/video/a-construction-worker-is-working-on-a-stone-wall-19832492/ |
+| pexels | working | William Ibarra sequeira | Pexels License | https://www.pexels.com/video/working-20638294/ |
+| pexels | person writing the word original using stamps | Kevin  Malik | Pexels License | https://www.pexels.com/video/person-writing-the-word-original-using-stamps-9017882/ |
+| pexels | a man is working on a pile of rocks | Ammad Rasool | Pexels License | https://www.pexels.com/video/a-man-is-working-on-a-pile-of-rocks-20411310/ |
+| pixabay | broadway  street  new york  crossing  usa  america  manhatta | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10836/ |
+| pixabay | earth running  blue planet  space  3d  time back  universe   | RPXStudio | Pixabay Content License | https://pixabay.com/videos/id-8947/ |
+| pixabay | brook  morning  fog  stepping stone | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-185451/ |
+| pixabay | stone bridge  stepping stone  water  riverside  stream  land | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-90087/ |
+| pixabay | merry christmas  new year  2023  greeting card  christmas | ilhozc | Pixabay Content License | https://pixabay.com/videos/id-137338/ |
+| pixabay | stepping stone  stone bridge  mother  stream  water  landsca | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-143873/ |
+| pixabay | girl  road  back view  autumn  beautiful  nature | we-o_rd35styjoazkshznq | Pixabay Content License | https://pixabay.com/videos/id-221151/ |
+| pixabay | stone bridge  stream  republic of korea  nature  autumn  ste | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-88645/ |
+| pexels | man taking his umbrella to go out | Nothing Ahead | Pexels License | https://www.pexels.com/video/man-taking-his-umbrella-to-go-out-5115782/ |
+| pexels | delivery man getting out of van | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-getting-out-of-van-6406169/ |
+| pexels | mysterious figure in ruined archway at dusk | Salim Da | Pexels License | https://www.pexels.com/video/mysterious-figure-in-ruined-archway-at-dusk-36156080/ |
+| pexels | a construction worker entering a building basement | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/ |
+| pexels | aerial view of road construction in lagos | Vitalis Nwenyi | Pexels License | https://www.pexels.com/video/aerial-view-of-road-construction-in-lagos-29529267/ |
+| pexels | khezez | khezez  | خزاز | Pexels License | https://www.pexels.com/video/khezez-25525258/ |
+| pexels | person walking on graveyard alley | cottonbro studio | Pexels License | https://www.pexels.com/video/person-walking-on-graveyard-alley-10499650/ |
+| pexels | exploring nanjing s ming city wall at twilight | LayG Traveller | Pexels License | https://www.pexels.com/video/exploring-nanjing-s-ming-city-wall-at-twilight-39285962/ |
+| pexels | a worker is working on a construction site | K | Pexels License | https://www.pexels.com/video/a-worker-is-working-on-a-construction-site-19563153/ |
+| pexels | a road worker is working on a road | Аман Смагулов | Pexels License | https://www.pexels.com/video/a-road-worker-is-working-on-a-road-27104380/ |
+| pexels | close up of a man working on a car part | Ammad Rasool | Pexels License | https://www.pexels.com/video/close-up-of-a-man-working-on-a-car-part-8065317/ |
+| pexels | close up of skateboard wheel maintenance | khanhhoangminh  3 | Pexels License | https://www.pexels.com/video/close-up-of-skateboard-wheel-maintenance-28985126/ |
+| pexels | an auto mechanic working | cottonbro studio | Pexels License | https://www.pexels.com/video/an-auto-mechanic-working-7568439/ |
+| pexels | rusty anchors and shipyard scene | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/rusty-anchors-and-shipyard-scene-38415767/ |
+| pixabay | help  sign  banner  symbol  icon  information  business  sup | TheDigitalArtist | Pixabay Content License | https://pixabay.com/videos/id-577/ |
+| pixabay | conversation  talk  dialogue  coffee  colleagues  discussion | Republica | Pixabay Content License | https://pixabay.com/videos/id-180/ |
+| pixabay | recycling  recycle  re-use  dump  tip  clean point | useche360 | Pixabay Content License | https://pixabay.com/videos/id-202559/ |
+| pixabay | construction  architecture  mason  business  help  support   | Digital_Expert | Pixabay Content License | https://pixabay.com/videos/id-88227/ |
+| pixabay | harbour  skyline  sydney  australia  sydney city  sydney cen | sangphotography | Pixabay Content License | https://pixabay.com/videos/id-205119/ |
+| pixabay | hand  sign  help | bossjha8508 | Pixabay Content License | https://pixabay.com/videos/id-81189/ |
+| pixabay | plantation  children  caring  earth  environmental  global w | TRIZ85 | Pixabay Content License | https://pixabay.com/videos/id-150592/ |
+| pixabay | charity  village  people  help  ethnic  vietnam  quang tri | vtmsolver | Pixabay Content License | https://pixabay.com/videos/id-139400/ |
+| pexels | person writing on a small paper with a pen | Vlada Karpovich | Pexels License | https://www.pexels.com/video/person-writing-on-a-small-paper-with-a-pen-4668329/ |
+| pexels | close up of hand writing korean on notepad | Raphael Kim | Pexels License | https://www.pexels.com/video/close-up-of-hand-writing-korean-on-notepad-35660685/ |
+| pexels | hand drawing star on notepad with marker | Raphael Kim | Pexels License | https://www.pexels.com/video/hand-drawing-star-on-notepad-with-marker-35660682/ |
+| pexels | close up view of a person affixing her signature | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-affixing-her-signature-7710490/ |
+| pexels | a person reading and editing a script | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-reading-and-editing-a-script-9080636/ |
+| pexels | a person drawing on a notebook | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-drawing-on-a-notebook-8499772/ |
+| pexels | a person revising a document | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-revising-a-document-7597871/ |
+| pexels | a person writing on a notebook | Barbara Olsen | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-notebook-7866236/ |
+| pexels | black and white close up of handwriting in journal | Azhaan Bashmil | Pexels License | https://www.pexels.com/video/black-and-white-close-up-of-handwriting-in-journal-33363801/ |
+| pexels | close up of a person writing on a paper by a cup of coffee | Oscar Arce | Pexels License | https://www.pexels.com/video/close-up-of-a-person-writing-on-a-paper-by-a-cup-of-coffee-15601955/ |
+| pexels | a girl busy making a drawing of her family | cottonbro studio | Pexels License | https://www.pexels.com/video/a-girl-busy-making-a-drawing-of-her-family-6157152/ |
+| pexels | writing thank you on card | Towfiqu barbhuiya | Pexels License | https://www.pexels.com/video/writing-thank-you-on-card-13084156/ |
+| pexels | girl writing a letter for her mother | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/girl-writing-a-letter-for-her-mother-7352831/ |
+| pexels | a woman writing a message on a birthday card | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-writing-a-message-on-a-birthday-card-4920228/ |
+| pixabay | girl  drawing  colors  paper  table  school  kindergarten  k | Amir_iMani | Pixabay Content License | https://pixabay.com/videos/id-49395/ |
+| pixabay | sketch  draw  pencil  drawing  design  hand  paper  creative | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10824/ |
+| pixabay | girl  writing  student  female  book  school  person  woman | Nicolas_Garay | Pixabay Content License | https://pixabay.com/videos/id-43459/ |
+| pixabay | write  writing  calligraphy  letters  paper  lettering  old  | HolgersFotografie | Pixabay Content License | https://pixabay.com/videos/id-13053/ |
+| pixabay | documents  paper  research  study  education  knowledge | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212508/ |
+| pixabay | painting  eagle  drawing  art  sketch  sketchbook | ktstruongpham | Pixabay Content License | https://pixabay.com/videos/id-24449/ |
+| pixabay | doodle  draw  pen  write  paint  hand  drawing  sketch  desi | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10813/ |
+| pixabay | whiteboard  sketching  planning  drawing  sketch  board  bus | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3161/ |
