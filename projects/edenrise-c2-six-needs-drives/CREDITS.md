@@ -72,3 +72,67 @@
 | pixabay | bumblebee  garden  nature  close up | Nightwolfone | Pixabay Content License | https://pixabay.com/videos/id-42356/ |
 | pexels |  | Shedrack Salami | Pexels License | https://www.pexels.com/video/old-local-artisan-at-work-27785914/ |
 | pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11749/ |
+| pexels | person holding project plan | Kindel Media | Pexels License | https://www.pexels.com/video/person-holding-project-plan-8488070/ |
+| pexels | people looking at a floor plan | Kampus Production | Pexels License | https://www.pexels.com/video/people-looking-at-a-floor-plan-8725801/ |
+| pexels | person holding project plan | Kindel Media | Pexels License | https://www.pexels.com/video/person-holding-project-plan-8488069/ |
+| pexels | man working pencil paper | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-working-pencil-paper-5846462/ |
+| pexels | people discussing a document while walking | Jack Sparrow | Pexels License | https://www.pexels.com/video/people-discussing-a-document-while-walking-5977049/ |
+| pexels | colleagues having a conversation regarding a document | olia danilevich | Pexels License | https://www.pexels.com/video/colleagues-having-a-conversation-regarding-a-document-5311354/ |
+| pexels | colleagues having a conversation | Felicity Tai | Pexels License | https://www.pexels.com/video/colleagues-having-a-conversation-7952181/ |
+| pexels | a man comforting a female volunteer | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-comforting-a-female-volunteer-10350203/ |
+| pexels | a person doing plumbing | Stepan SK | Pexels License | https://www.pexels.com/video/a-person-doing-plumbing-7584762/ |
+| pexels | bearded man doing car service | Gustavo Fring | Pexels License | https://www.pexels.com/video/bearded-man-doing-car-service-6685036/ |
+| pexels | a man is working on a machine in a workshop | utopia 36 | Pexels License | https://www.pexels.com/video/a-man-is-working-on-a-machine-in-a-workshop-18101986/ |
+| pexels | mechanic working inside car dashboard wiring | Vitaliy  Izonin | Pexels License | https://www.pexels.com/video/mechanic-working-inside-car-dashboard-wiring-32329408/ |
+| pexels | close up of a man working on a car part | Ammad Rasool | Pexels License | https://www.pexels.com/video/close-up-of-a-man-working-on-a-car-part-8065317/ |
+| pexels | a person is holding a blue water pipe | Videas Cl | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-blue-water-pipe-27045699/ |
+| pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
+| pixabay | bacon  pan  hot  belly bacon  meal  food  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-240531/ |
+| pixabay | valve  oil  gauge  technology  metal  pipes  diesel  equipme | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43629/ |
+| pixabay | crane  container  port  ship  transport  cargo  freight  boa | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-129250/ |
+| pixabay | phone  smartphone  mobile  portable  screen  digital  commun | Natures_Embrace | Pixabay Content License | https://pixabay.com/videos/id-202987/ |
+| pixabay | crane  container  port  ship  transport  cargo  freight  boa | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-129249/ |
+| pixabay | morning  fog  national park  netherlands  drenthe  dwingelde | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-177223/ |
+| pexels | man and woman talking | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-talking-6197077/ |
+| pexels | people having a discussion | Kampus Production | Pexels License | https://www.pexels.com/video/people-having-a-discussion-6248581/ |
+| pexels | a woman nodding while listening to a coworker | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-nodding-while-listening-to-a-coworker-9034495/ |
+| pexels | working men warehouse job | Tiger Lily | Pexels License | https://www.pexels.com/video/working-men-warehouse-job-4280923/ |
+| pexels | men looking at the notebook | Mikhail Nilov | Pexels License | https://www.pexels.com/video/men-looking-at-the-notebook-8731379/ |
+| pexels | man holding a clipboard while talking to another man | Monstera Production | Pexels License | https://www.pexels.com/video/man-holding-a-clipboard-while-talking-to-another-man-9465169/ |
+| pexels | boss scolding his employee | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/boss-scolding-his-employee-6698954/ |
+| pexels | construction workers communicating on site | Kiwi and Camera | Pexels License | https://www.pexels.com/video/construction-workers-communicating-on-site-38854074/ |
+| pexels | people holding the plan | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-holding-the-plan-6474251/ |
+| pexels | people looking the plan | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-looking-the-plan-6474143/ |
+| pexels | engineer measuring the spirit level of the wall | Thirdman | Pexels License | https://www.pexels.com/video/engineer-measuring-the-spirit-level-of-the-wall-8482303/ |
+| pexels | man using smartphone | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-smartphone-6474150/ |
+| pexels | men in front of a whiteboard | Bonus Studio | Pexels License | https://www.pexels.com/video/men-in-front-of-a-whiteboard-6062477/ |
+| pexels | man using digital tablet | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-digital-tablet-6474139/ |
+| pixabay | checklist  achievement  ladder  progress  task completion  s | Mohamed_hassan | Pixabay Content License | https://pixabay.com/videos/id-253859/ |
+| pixabay | countdown  digital  timer  clock  numbers  digit  alarm  tim | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-31098/ |
+| pixabay | results  clipboard  competence  competent  success | GrantMuller | Pixabay Content License | https://pixabay.com/videos/id-133176/ |
+| pixabay | carpenter  tool  handmade  industry  factory  wood  woodwork | AndyWolares | Pixabay Content License | https://pixabay.com/videos/id-166808/ |
+| pixabay | disinfectant  spray  trigger  disinfect  cleaner  sprayer  h | Squirrel_photos | Pixabay Content License | https://pixabay.com/videos/id-37187/ |
+| pixabay | timer  clock  alarm  ticking  countdown  digital  numbers  d | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-43613/ |
+| pixabay | escalator  airport  terminal  moving  transport  technology  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3593/ |
+| pexels | concrete slab construction process close up | Ethan Raven | Pexels License | https://www.pexels.com/video/concrete-slab-construction-process-close-up-31458496/ |
+| pexels | a man polishing a wall using a drywall sanders | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-polishing-a-wall-using-a-drywall-sanders-6474173/ |
+| pexels | logistics | Vitaliy  Izonin | Pexels License | https://www.pexels.com/video/logistics-20639316/ |
+| pexels | man creating furniture | cottonbro studio | Pexels License | https://www.pexels.com/video/man-creating-furniture-7484291/ |
+| pexels | a woman installing floor tiles | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-installing-floor-tiles-4729716/ |
+| pexels | people wood working | Everett Bumstead | Pexels License | https://www.pexels.com/video/people-wood-working-5481308/ |
+| pexels | a person putting wood clamp | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-putting-wood-clamp-5895472/ |
+| pexels | person grabbing tools from toolbox | Phillips Vinegar | Pexels License | https://www.pexels.com/video/person-grabbing-tools-from-toolbox-6390049/ |
+| pexels | one man and two women coming out of a car | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/one-man-and-two-women-coming-out-of-a-car-6195137/ |
+| pexels | two men in hard hats and red vests are working on a pipe | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-hard-hats-and-red-vests-are-working-on-a-pipe-27514205/ |
+| pexels | man working inside the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/man-working-inside-the-warehouse-4291724/ |
+| pexels | a group of people are loading wood into a truck | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-group-of-people-are-loading-wood-into-a-truck-19115722/ |
+| pexels | aerial view of lawn mowing in springtime | Ahmet Kurt | Pexels License | https://www.pexels.com/video/aerial-view-of-lawn-mowing-in-springtime-32388310/ |
+| pexels | a man carries sand and rocks into a working mortar mixer | Thanh-Thang Phan | Pexels License | https://www.pexels.com/video/a-man-carries-sand-and-rocks-into-a-working-mortar-mixer-27813411/ |
+| pixabay | moon  moon cycle  complete moon cicle  science  education  a | Denevphys | Pixabay Content License | https://pixabay.com/videos/id-32023/ |
+| pixabay | corn field  maize field  young corn  sprouting corn  planted | aerofotografialincoln | Pixabay Content License | https://pixabay.com/videos/id-313652/ |
+| pixabay | bookshelf  book  library  education  knowledge  literature   | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-11254/ |
+| pixabay | coffee  grains  black  pour  close-up  coffee beans  fried   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4948/ |
+| pixabay | nettle  plant  close up | adege | Pixabay Content License | https://pixabay.com/videos/id-119875/ |
+| pixabay | man  surprise  thinking  idea | u_n92ynpt32e | Pixabay Content License | https://pixabay.com/videos/id-122389/ |
+| pixabay | neuron  brain  mind  psychology  thought  idea  electricity | mirerek8 | Pixabay Content License | https://pixabay.com/videos/id-91633/ |
+| pixabay | yard  spider  web  arachnid  armenia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-14222/ |

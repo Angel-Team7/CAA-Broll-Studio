@@ -98,3 +98,69 @@
 | pixabay | origami  paper  bend  plane  isolated  close up  transport   | padrinan | Pixabay Content License | https://pixabay.com/videos/id-9081/ |
 | pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
 | pixabay | farm  field  nature  natural  organic  sponge  plant  health | tomalauphi | Pixabay Content License | https://pixabay.com/videos/id-44250/ |
+| pexels | close up shot of drawers | Vincuk Konan | Pexels License | https://www.pexels.com/video/close-up-shot-of-drawers-9029219/ |
+| pexels | close up of tools on a wall | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-of-tools-on-a-wall-12405632/ |
+| pexels | video of a hammer set | cottonbro studio | Pexels License | https://www.pexels.com/video/video-of-a-hammer-set-7484780/ |
+| pexels | courier boxes in the racks | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/courier-boxes-in-the-racks-6169987/ |
+| pexels | books arranged orderly | Adailton  Batista | Pexels License | https://www.pexels.com/video/books-arranged-orderly-1580500/ |
+| pexels | a person putting ceramics to the shelf | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-putting-ceramics-to-the-shelf-7221526/ |
+| pexels | stacks of storage containers | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/stacks-of-storage-containers-4941466/ |
+| pexels | a footage inside the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/a-footage-inside-the-warehouse-4294436/ |
+| pexels | men opening a garage door together | Kindel Media | Pexels License | https://www.pexels.com/video/men-opening-a-garage-door-together-8551363/ |
+| pexels | man knocking on wooden cabin door | Andrew Kota | Pexels License | https://www.pexels.com/video/man-knocking-on-wooden-cabin-door-11764857/ |
+| pexels | man carrying bags | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/man-carrying-bags-11960824/ |
+| pexels | a woman holding a pitchfork | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-woman-holding-a-pitchfork-8890677/ |
+| pexels | video of woman checking the inventory | Artem Podrez | Pexels License | https://www.pexels.com/video/video-of-woman-checking-the-inventory-5043446/ |
+| pexels | people holding document papers | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-holding-document-papers-8731455/ |
+| pixabay | lathe  wood  craft  handmade  work  processing  tool | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94444/ |
+| pixabay | door  wood  shed  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20458/ |
+| pixabay | moss  shed  tree  outhouse | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20464/ |
+| pixabay | old  shed  window  rustic | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20467/ |
+| pixabay | girl  writing  student  female  book  school  person  woman | Nicolas_Garay | Pixabay Content License | https://pixabay.com/videos/id-43459/ |
+| pixabay | on the table lies a thick textbook  homework  textbook  tuto | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-12040/ |
+| pixabay | student  to write  to study  work  task  issue  question  st | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131990/ |
+| pixabay | write  writing  calligraphy  letters  paper  lettering  old  | HolgersFotografie | Pixabay Content License | https://pixabay.com/videos/id-13053/ |
+| pexels | two colleagues talking and discussing documents | Jack Sparrow | Pexels License | https://www.pexels.com/video/two-colleagues-talking-and-discussing-documents-5977459/ |
+| pexels | two men in overalls standing while looking at the camera | cottonbro studio | Pexels License | https://www.pexels.com/video/two-men-in-overalls-standing-while-looking-at-the-camera-7484287/ |
+| pexels | person holding hose | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/person-holding-hose-8469680/ |
+| pexels | man and woman talking | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-talking-6197077/ |
+| pexels | men in the warehouse having a discussion | Tiger Lily | Pexels License | https://www.pexels.com/video/men-in-the-warehouse-having-a-discussion-4281402/ |
+| pexels | two men sharing ideas at work | utopia 36 | Pexels License | https://www.pexels.com/video/two-men-sharing-ideas-at-work-12283286/ |
+| pexels | person using heat gun on wire | K | Pexels License | https://www.pexels.com/video/person-using-heat-gun-on-wire-6079664/ |
+| pexels | person using socket wrench to loosen bolts | cottonbro studio | Pexels License | https://www.pexels.com/video/person-using-socket-wrench-to-loosen-bolts-7565183/ |
+| pexels | worker working in workshop | Tamoor Ahmed | Pexels License | https://www.pexels.com/video/worker-working-in-workshop-20712968/ |
+| pexels | a man looking at blueprints | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-looking-at-blueprints-7484279/ |
+| pexels | people having a discussion at work | Ron Lach | Pexels License | https://www.pexels.com/video/people-having-a-discussion-at-work-7775095/ |
+| pexels | person fixing wires | K | Pexels License | https://www.pexels.com/video/person-fixing-wires-6079663/ |
+| pexels | diy metalwork in a workshop setting | Frederick Adegoke Snr. | Pexels License | https://www.pexels.com/video/diy-metalwork-in-a-workshop-setting-36392509/ |
+| pexels | person fixing wires | K | Pexels License | https://www.pexels.com/video/person-fixing-wires-6079417/ |
+| pixabay | delete  error  fix | LightGraph | Pixabay Content License | https://pixabay.com/videos/id-145013/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pixabay | firefighter  fire  burning  fireman  safety  helmet  rescue  | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-47889/ |
+| pixabay | garden  green  agriculture  sprinkler  fresh  bio garden  ir | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44775/ |
+| pixabay | garden  green  sprinkler  agriculture  bio garden  irrigated | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44759/ |
+| pixabay | garden  green  sprinkler  agriculture  bio garden  irrigated | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44771/ |
+| pixabay | garden  green  sprinkler  agriculture  bio garden  irrigated | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44758/ |
+| pixabay | watering  sprinkler  garden  green  agriculture  bio garden  | FreeCreativeStuff | Pixabay Content License | https://pixabay.com/videos/id-44765/ |
+| pexels | a close up of a pile of dirt with a small white object | K | Pexels License | https://www.pexels.com/video/a-close-up-of-a-pile-of-dirt-with-a-small-white-object-20521975/ |
+| pexels | person tying a string to a newly planted tree | Thirdman | Pexels License | https://www.pexels.com/video/person-tying-a-string-to-a-newly-planted-tree-7655144/ |
+| pexels | a person wearing gloves | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-wearing-gloves-8543767/ |
+| pexels | a person shoveling dirt | K | Pexels License | https://www.pexels.com/video/a-person-shoveling-dirt-6160034/ |
+| pexels | video of person watering the plants | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/video-of-person-watering-the-plants-4725528/ |
+| pexels | close up view of watering plants | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/close-up-view-of-watering-plants-11960789/ |
+| pexels | woman holding water spryer | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/woman-holding-water-spryer-8514332/ |
+| pexels | a person watering plants | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-watering-plants-7655569/ |
+| pexels | females hand watering plants with watering equipment | K | Pexels License | https://www.pexels.com/video/females-hand-watering-plants-with-watering-equipment-9737859/ |
+| pexels | a person planting in a garden | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-planting-in-a-garden-7655284/ |
+| pexels | close up view of a person playing cards | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-playing-cards-6813807/ |
+| pexels | an elderly man leaning on a metal fence | RDNE Stock project | Pexels License | https://www.pexels.com/video/an-elderly-man-leaning-on-a-metal-fence-7782511/ |
+| pexels | tree nursery worker picking weeds | Everett Bumstead | Pexels License | https://www.pexels.com/video/tree-nursery-worker-picking-weeds-20663025/ |
+| pexels | person watering plants | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-watering-plants-7781774/ |
+| pixabay | woman  card  shopping  communication  smartphone  phone  fem | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-83865/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pixabay | man  person  reflection  thinking  think  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126558/ |
+| pixabay | new year  2023  festive  celebration  cheers  greeting card | u_1u06ssxpud | Pixabay Content License | https://pixabay.com/videos/id-144128/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | merry christmas  new year  2023  greeting card  christmas | ilhozc | Pixabay Content License | https://pixabay.com/videos/id-137338/ |
+| pixabay | christmas  new year  celebration  card | turkapp | Pixabay Content License | https://pixabay.com/videos/id-142271/ |
+| pixabay | christmas  christmas wishes  greeting card  holidays | Lathika95 | Pixabay Content License | https://pixabay.com/videos/id-143308/ |
