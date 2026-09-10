@@ -1067,3 +1067,33 @@
 | pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/aerial-view-of-scenic-coastal-town-in-portugal-29651379/ |
 | pexels |  | Akif Ok | Pexels License | https://www.pexels.com/video/a-view-from-the-balcony-4124138/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-doing-different-facial-expressions-5935577/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-child-looking-at-mushrooms-with-his-grandfather-6133262/ |
+| pexels |  | Michał Robak | Pexels License | https://www.pexels.com/video/playful-dog-chewing-stick-by-lakeside-29708731/ |
+| pixabay | child  kid  family  father  mother  people | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212511/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/volunteer-wearing-glove-7474002/ |
+| pexels |  | Syed Shahzaib | Pexels License | https://www.pexels.com/video/factory-worker-cutting-rubber-for-initial-rubber-processing-cinematic-shot-27928827/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-in-gloves-is-working-on-a-conveyor-belt-19905381/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-shooting-bow-arrow-6668591/ |
+| pixabay | head  bust  man  woman  turning  grey  gray  human  body  3d | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-31485/ |
+| pixabay | craft  handcraft  ladder  working  repair  repairman  room   | faxtastic | Pixabay Content License | https://pixabay.com/videos/id-4504/ |
+| pexels |  | Ashish Jatiani | Pexels License | https://www.pexels.com/video/mountain-biker-conquering-a-rugged-trail-36365941/ |
+| pexels |  | Cos Walks | Pexels License | https://www.pexels.com/video/woman-walking-along-a-lush-green-pathway-29439312/ |
+| pixabay | man  walking  alone  hiking  morning  fog  haze  nature  net | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-160973/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-writing-on-a-notebook-5704053/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-young-man-sitting-at-a-desk-using-his-laptop-16021980/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/business-people-having-a-meeting-5439031/ |
+| pexels |  | Curtis Adams | Pexels License | https://www.pexels.com/video/a-panning-shot-of-a-living-room-6356433/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/sofa-in-a-living-room-in-a-home-9583764/ |
+| pexels |  | Owen Mathias | Pexels License | https://www.pexels.com/video/cozy-modern-attic-bedroom-in-neutral-tones-34954999/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/an-empty-resort-7320532/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/aerial-view-of-residential-area-in-cambodia-29045157/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-elegant-manor-and-gardens-33389406/ |
+| pexels |  | mohd hasan | Pexels License | https://www.pexels.com/video/tractor-on-road-in-countryside-14550622/ |
+| pexels |  | Bamsey O’bamise | Pexels License | https://www.pexels.com/video/woman-walking-through-rural-village-path-29208364/ |
+| pexels |  | Shariar Tawsif | Pexels License | https://www.pexels.com/video/rural-life-man-carrying-buckets-on-village-path-31652905/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/stunning-aerial-view-of-porto-portugal-34395698/ |
+| pexels |  | Life On  Super 8 | Pexels License | https://www.pexels.com/video/lisbon-street-and-bridge-20018222/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/tourist-asking-for-directions-6180904/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/tulip-flowers-swaying-in-the-wind-12657349/ |
+| pexels |  | Serg Alesenko | Pexels License | https://www.pexels.com/video/flora-on-meadow-13962947/ |
+| pexels |  | Sibel Kubaş | Pexels License | https://www.pexels.com/video/vibrant-wildflowers-in-blooming-meadow-32071029/ |
