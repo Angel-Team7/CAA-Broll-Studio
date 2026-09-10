@@ -1506,8 +1506,8 @@
      "shot": "D",
      "shoot": "pexels-modern-cafe-service",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 5,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-V02",
@@ -1534,8 +1534,8 @@
      "shot": "",
      "shoot": "pexels-modern-kitchen",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 9,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-V03",
@@ -1562,8 +1562,8 @@
      "shot": "",
      "shoot": "pixabay-elder-care",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 11,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-V04",
@@ -1590,8 +1590,8 @@
      "shot": "",
      "shoot": "pixabay-elder-care",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 12,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m8-S03-V05",
@@ -1619,7 +1619,7 @@
      "shot": "",
      "shoot": "pixabay-canyon-aerial",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 13,
+     "rank": 21,
      "shown": false
     },
     {
@@ -1647,7 +1647,7 @@
      "shot": "",
      "shoot": "pixabay-barefoot-beach-walk",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 1,
+     "rank": 4,
      "shown": true
     },
     {
@@ -1672,7 +1672,7 @@
      "shot": "",
      "shoot": "coverr-tennis",
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 14,
+     "rank": 22,
      "shown": false
     },
     {
@@ -1744,7 +1744,7 @@
      "shoot": "pexels-ornate-bar",
      "score": 1.95,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 8,
+     "rank": 14,
      "shown": false
     },
     {
@@ -1766,7 +1766,7 @@
      "shoot": "pexels-ornate-bar",
      "score": 1.95,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 7,
+     "rank": 13,
      "shown": false
     },
     {
@@ -1798,7 +1798,7 @@
      "shoot": "pexels-beach-feet-bag",
      "score": 3.4,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -1820,7 +1820,7 @@
      "shoot": "pexels-robe-beach-walk",
      "score": 2.7,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 4,
+     "rank": 10,
      "shown": true
     },
     {
@@ -1842,8 +1842,8 @@
      "shoot": "pexels-robe-beach-walk",
      "score": 2.35,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_8363293_beach-bar-service",
@@ -1864,7 +1864,7 @@
      "shoot": "pexels-barefoot-beach",
      "score": 3.4,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -1886,8 +1886,8 @@
      "shoot": "pexels-modern-restaurant",
      "score": 1.35,
      "judged_at": "2026-09-09T17:04:38Z",
-     "rank": 10,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-module8-S03-V08",
@@ -1908,8 +1908,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a baroque church facade in a Coimbra square",
+     "violation": "",
+     "shoot": "pexels-coimbra-church",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S03-V09",
@@ -1930,8 +1938,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "visitors walk toward a columned Art Deco cultural building",
+     "violation": "",
+     "shoot": "pexels-artdeco-museum-plaza",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S03-V10",
@@ -1952,8 +1968,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a modern glass tower rises above Lisbon's Park of Nations",
+     "violation": "",
+     "shoot": "pexels-lisbon-tower",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S03-V11",
@@ -1974,8 +1998,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a grand neoclassical building lit up at night",
+     "violation": "",
+     "shoot": "pexels-neoclassical-night",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 5
     },
     {
      "id": "belong-module8-S03-V12",
@@ -1989,15 +2021,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S03__strip__belong-module8-S03-V12.strip.jpg",
      "title": "a building with a glass roof and trees in front",
      "query": "modern art museum exterior lisbon",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "20260823",
      "download_url": "https://videos.pexels.com/video-files/20260823/20260823-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "an angular glass building behind trees",
+     "violation": "wrong city, not Lisbon",
+     "shoot": "pexels-federation-square",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 17
     },
     {
      "id": "belong-module8-S03-V13",
@@ -2018,8 +2058,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an ornate theater facade lit gold at dusk",
+     "violation": "",
+     "shoot": "pexels-theater-facade",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 8
     },
     {
      "id": "belong-module8-S03-V14",
@@ -2033,15 +2081,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S03__strip__belong-module8-S03-V14.strip.jpg",
      "title": "a view of a city from a high building",
      "query": "modern art museum exterior lisbon",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "27404890",
      "download_url": "https://videos.pexels.com/video-files/27404890/12136853_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an aerial view of red-roofed Lisbon apartment buildings",
+     "violation": "",
+     "shoot": "pexels-lisbon-rooftops",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S03-V15",
@@ -2062,8 +2118,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:08:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a black-and-white aerial view of Lisbon's curved waterfront museum",
+     "violation": "",
+     "shoot": "pexels-maat-aerial-bw",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:27:26Z",
+     "rank": 1
     }
    ],
    "shots": [
@@ -2104,11 +2168,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:04:38Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:27:26Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:04:38Z"
+   "judged_at": "2026-09-10T09:27:26Z"
   },
   {
    "id": "S04",
