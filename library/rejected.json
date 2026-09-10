@@ -4848,10 +4848,10 @@
   "from": "attention-to-detail-v2/S08"
  },
  "pixabay:202135": {
-  "brand": "belong",
-  "reason": "corporate lobby",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
  },
  "pixabay:202392": {
   "brand": "belong",
@@ -5582,8 +5582,8 @@
  "pixabay:75999": {
   "brand": "edenrise",
   "reason": "abstract loops",
-  "at": "2026-09-10T09:15:17Z",
-  "from": "edenrise-c2-kaizen/S01"
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
  },
  "pixabay:76425": {
   "brand": "belong",
@@ -5724,10 +5724,10 @@
   "from": "purpose-at-work/S10"
  },
  "pixabay:92662": {
-  "brand": "belong",
+  "brand": "edenrise",
   "reason": "cartoons, green screen",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
  },
  "pixabay:93008": {
   "brand": "edenrise",
@@ -6154,5 +6154,23 @@
   "reason": "suit-clad manager, not the brand's foreman-in-the-field world",
   "at": "2026-09-09T19:03:06Z",
   "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "pexels:8135155": {
+  "brand": "edenrise",
+  "reason": "suits, office",
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
+ },
+ "pexels:8964795": {
+  "brand": "edenrise",
+  "reason": "scaffolding",
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
+ },
+ "pexels:32244799": {
+  "brand": "edenrise",
+  "reason": "scaffolding",
+  "at": "2026-09-10T09:35:16Z",
+  "from": "communication-dont-assume-clarify-v2/S10"
  }
 }
