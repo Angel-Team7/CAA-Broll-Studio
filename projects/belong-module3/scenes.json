@@ -3431,7 +3431,7 @@
      "shoot": "pexels-olive-oil-studio-pour",
      "score": 3.65,
      "judged_at": "2026-09-09T17:59:27Z",
-     "rank": 11,
+     "rank": 12,
      "shown": false
     },
     {
@@ -3453,7 +3453,7 @@
      "shoot": "pexels-copper-oil-dispenser-flatbread",
      "score": 4.7,
      "judged_at": "2026-09-09T17:59:27Z",
-     "rank": 7,
+     "rank": 8,
      "shown": true
     },
     {
@@ -3475,7 +3475,7 @@
      "shoot": "pexels-copper-oil-dispenser-flatbread",
      "score": 4.7,
      "judged_at": "2026-09-09T17:59:27Z",
-     "rank": 8,
+     "rank": 9,
      "shown": true
     },
     {
@@ -3536,7 +3536,7 @@
      "shoot": "pexels-refill-shop-shelves",
      "score": 6.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 3
+     "rank": 4
     },
     {
      "id": "belong-module3-S11-V01",
@@ -3566,7 +3566,7 @@
      "shoot": "pexels-wine-decant-produce",
      "score": 5.35,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 4
+     "rank": 5
     },
     {
      "id": "belong-module3-S11-V02",
@@ -3596,7 +3596,7 @@
      "shoot": "pexels-asian-market-shopping",
      "score": 3.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 14
+     "rank": 15
     },
     {
      "id": "belong-module3-S11-V03",
@@ -3626,7 +3626,7 @@
      "shoot": "pexels-corked-bottles-shelf",
      "score": 5.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 6
+     "rank": 7
     },
     {
      "id": "belong-module3-S11-V04",
@@ -3656,7 +3656,7 @@
      "shoot": "pexels-grocer-basket-shopping",
      "score": 3.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 15
+     "rank": 16
     },
     {
      "id": "belong-module3-S11-V05",
@@ -3686,7 +3686,7 @@
      "shoot": "pexels-busy-fruit-stall",
      "score": 2.35,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 17
+     "rank": 19
     },
     {
      "id": "belong-module3-S11-V06",
@@ -3716,7 +3716,7 @@
      "shoot": "pexels-medicine-cabinet-arrange",
      "score": 1.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 21
+     "rank": 23
     },
     {
      "id": "belong-module3-S11-V07",
@@ -3746,7 +3746,7 @@
      "shoot": "pexels-wine-bucket-outdoor",
      "score": 4.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 9
+     "rank": 10
     },
     {
      "id": "belong-module3-S11-V08",
@@ -3768,7 +3768,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:50:31Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 5,
      "caption": "a close-up of fresh cucumbers and cauliflower at a market",
@@ -3776,7 +3776,7 @@
      "shoot": "pexels-veg-closeup-market",
      "score": 3.7,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 10
+     "rank": 11
     },
     {
      "id": "belong-module3-S11-V09",
@@ -3806,7 +3806,7 @@
      "shoot": "pexels-cluttered-food-stall",
      "score": 1.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 22
+     "rank": 24
     },
     {
      "id": "belong-module3-S11-V10",
@@ -3836,7 +3836,7 @@
      "shoot": "pexels-crowded-pepper-market",
      "score": 2.35,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 18
+     "rank": 20
     },
     {
      "id": "belong-module3-S11-V11",
@@ -3866,7 +3866,7 @@
      "shoot": "pexels-masked-vendor-tomatoes",
      "score": 0.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 24
+     "rank": 26
     },
     {
      "id": "belong-module3-S11-V12",
@@ -3896,7 +3896,7 @@
      "shoot": "pexels-spa-tray-flower",
      "score": 1.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 23
+     "rank": 25
     },
     {
      "id": "belong-module3-S11-V13",
@@ -3926,7 +3926,7 @@
      "shoot": "pexels-plastic-tarp-produce",
      "score": 2.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 19
+     "rank": 21
     },
     {
      "id": "belong-module3-S11-V14",
@@ -3956,7 +3956,7 @@
      "shoot": "pixabay-aerial-farmhouse-olives1",
      "score": 5.05,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 5
+     "rank": 6
     },
     {
      "id": "belong-module3-S11-V15",
@@ -3986,7 +3986,7 @@
      "shoot": "pixabay-aerial-olive-hills",
      "score": 3.4,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 12
+     "rank": 13
     },
     {
      "id": "belong-module3-S11-V16",
@@ -4016,7 +4016,7 @@
      "shoot": "pixabay-aerial-farmhouse-olives1",
      "score": 1.7,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 20
+     "rank": 22
     },
     {
      "id": "belong-module3-S11-V17",
@@ -4046,7 +4046,7 @@
      "shoot": "pixabay-aerial-farmhouse-olives1",
      "score": 3.05,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 13
+     "rank": 14
     },
     {
      "id": "belong-module3-S11-V18",
@@ -4106,7 +4106,7 @@
      "shoot": "pixabay-ai-market-basket",
      "score": 3.0,
      "judged_at": "2026-09-10T09:28:37Z",
-     "rank": 16
+     "rank": 17
     },
     {
      "id": "belong-module3-S11-V20",
@@ -4127,8 +4127,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:52:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "jars of honey and wrapped gifts fill a rustic market table",
+     "violation": "",
+     "shoot": "pixabay-honey-market-table",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:31:15Z",
+     "rank": 3
     },
     {
      "id": "belong-module3-S11-V21",
@@ -4149,8 +4157,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:52:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "red wine pours into a glass on a plain white background",
+     "violation": "",
+     "shoot": "pixabay-wine-pour-studio",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:31:15Z",
+     "rank": 18
     }
    ],
    "shots": [
@@ -4182,7 +4198,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:29:10Z",
-   "judged_at": "2026-09-10T09:28:37Z"
+   "judged_at": "2026-09-10T09:31:15Z"
   },
   {
    "id": "S12",
