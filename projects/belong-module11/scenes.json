@@ -866,7 +866,7 @@
      "shoot": "pexels-kitchen-breakfast-couple",
      "score": 4.05,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 4,
+     "rank": 10,
      "shown": true
     },
     {
@@ -888,7 +888,7 @@
      "shoot": "pexels-hostel-reception-checkin",
      "score": 5.05,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 2,
+     "rank": 5,
      "shown": true
     },
     {
@@ -910,7 +910,7 @@
      "shoot": "pexels-doorway-greeting-christmas",
      "score": 4.65,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 3,
+     "rank": 9,
      "shown": true
     },
     {
@@ -932,8 +932,8 @@
      "shoot": "pexels-doorway-greeting-christmas",
      "score": 3.0,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 5,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "pexels_8160998_host-serving-guests-on-terrace",
@@ -954,7 +954,7 @@
      "shoot": "pexels-terrace-table-styling",
      "score": 5.35,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 1,
+     "rank": 4,
      "shown": true
     },
     {
@@ -976,7 +976,7 @@
      "shoot": "pexels-suit-doorway-greeting",
      "score": 2.3,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 6,
+     "rank": 20,
      "shown": false
     },
     {
@@ -1045,7 +1045,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 7,
+     "rank": 28,
      "shown": false
     },
     {
@@ -1074,7 +1074,7 @@
      "shot": "",
      "shoot": "pixabay-cartoon-factory",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 10,
+     "rank": 32,
      "shown": false
     },
     {
@@ -1103,7 +1103,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 8,
+     "rank": 29,
      "shown": false
     },
     {
@@ -1132,8 +1132,8 @@
      "shot": "",
      "shoot": "pixabay-cartoon-virus-bat",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 11,
-     "shown": true
+     "rank": 33,
+     "shown": false
     },
     {
      "id": "belong-module11-S02-V04",
@@ -1161,7 +1161,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 12,
+     "rank": 34,
      "shown": false
     },
     {
@@ -1190,8 +1190,8 @@
      "shot": "",
      "shoot": "pixabay-cartoon-virus-bat",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 13,
-     "shown": true
+     "rank": 35,
+     "shown": false
     },
     {
      "id": "belong-module11-S02-V06",
@@ -1219,7 +1219,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 14,
+     "rank": 36,
      "shown": false
     },
     {
@@ -1248,8 +1248,8 @@
      "shot": "",
      "shoot": "pixabay-cartoon-virus-creature",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 15,
-     "shown": true
+     "rank": 37,
+     "shown": false
     },
     {
      "id": "belong-module11-S02-V08",
@@ -1277,7 +1277,7 @@
      "shot": "",
      "shoot": "pexels-luxury-bellhop-lobby",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 9,
+     "rank": 30,
      "shown": false
     },
     {
@@ -1306,8 +1306,8 @@
      "shot": "",
      "shoot": "pixabay-wedding-invite-graphic",
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 16,
-     "shown": true
+     "rank": 38,
+     "shown": false
     },
     {
      "id": "belong-module11-S02-V10",
@@ -1321,15 +1321,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V10.strip.jpg",
      "title": "friends chatting and having snacks at a wedding reception",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "C",
      "duration": 17,
      "src_id": "8503573",
      "download_url": "https://videos.pexels.com/video-files/8503573/8503573-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:51:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "women chat and eat at an outdoor garden table",
+     "violation": "",
+     "shoot": "pexels-garden-party-women",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 6
     },
     {
      "id": "belong-module11-S02-V11",
@@ -1350,8 +1358,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:51:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man chats warmly through an open window at dusk",
+     "violation": "",
+     "shoot": "pexels-grandfather-window-chat",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 7
     },
     {
      "id": "belong-module11-S02-V12",
@@ -1372,8 +1388,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:51:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "an aerial view of golden countryside at sunset",
+     "violation": "",
+     "shoot": "pexels-aerial-countryside-sunset",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 8
     },
     {
      "id": "belong-module11-S02-V13",
@@ -1394,8 +1418,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:51:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a host warmly welcomes guests at the door at night",
+     "violation": "",
+     "shoot": "pexels-host-welcome-door-night",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 1
     },
     {
      "id": "belong-module11-S02-V14",
@@ -1409,15 +1441,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V14.strip.jpg",
      "title": "people having a backyard party",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "B",
      "duration": 9,
      "src_id": "6948267",
      "download_url": "https://videos.pexels.com/video-files/6948267/6948267-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an older group chats over wine in a backyard",
+     "violation": "",
+     "shoot": "pexels-backyard-wine-group",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 11
     },
     {
      "id": "belong-module11-S02-V15",
@@ -1431,15 +1471,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V15.strip.jpg",
      "title": "group of elderly people dancing and drinking wine",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "6761208",
      "download_url": "https://videos.pexels.com/video-files/6761208/6761208-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "elderly people dance and drink wine indoors",
+     "violation": "",
+     "shoot": "pexels-elderly-dance-indoor",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 17
     },
     {
      "id": "belong-module11-S02-V16",
@@ -1460,8 +1508,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a couple stands at ease in a sunlit country garden",
+     "violation": "",
+     "shoot": "pexels-couple-garden-backlit",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 2
     },
     {
      "id": "belong-module11-S02-V17",
@@ -1475,15 +1531,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V17.strip.jpg",
      "title": "people having a conversation while drinking",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "B",
      "duration": 10,
      "src_id": "6948947",
      "download_url": "https://videos.pexels.com/video-files/6948947/6948947-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "people chat and drink wine indoors among plants",
+     "violation": "",
+     "shoot": "pexels-indoor-wine-plants-chat",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 12
     },
     {
      "id": "belong-module11-S02-V18",
@@ -1497,15 +1561,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V18.strip.jpg",
      "title": "couple holding hands while leaning against the wall",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "",
      "duration": 19,
      "src_id": "8574426",
      "download_url": "https://videos.pexels.com/video-files/8574426/8574426-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a couple holds hands leaning against a modern wall",
+     "violation": "",
+     "shoot": "pexels-couple-wall-modern",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 18
     },
     {
      "id": "belong-module11-S02-V19",
@@ -1519,15 +1591,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V19.strip.jpg",
      "title": "view from window of a couple enjoying drinks at home",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "",
      "duration": 57,
      "src_id": "6262596",
      "download_url": "https://videos.pexels.com/video-files/6262596/6262596-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a couple chats at home seen through a lit window",
+     "violation": "",
+     "shoot": "pexels-window-view-couple-chat",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 13
     },
     {
      "id": "belong-module11-S02-V20",
@@ -1541,15 +1621,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V20.strip.jpg",
      "title": "couple doing exercise together",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "4859228",
      "download_url": "https://videos.pexels.com/video-files/4859228/4859228-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a couple stretches together outdoors on a ledge",
+     "violation": "",
+     "shoot": "pexels-couple-stretch-ledge",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 31
     },
     {
      "id": "belong-module11-S02-V21",
@@ -1563,15 +1651,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V21.strip.jpg",
      "title": "people having conversation at a party while standing",
      "query": "host leaning doorway talking guests terrace",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "6761146",
      "download_url": "https://videos.pexels.com/video-files/6761146/6761146-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "people in suits mingle at a wine and cheese table",
+     "violation": "business suits",
+     "shoot": "pexels-suits-winetable-mingle",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 22
     },
     {
      "id": "belong-module11-S02-V22",
@@ -1585,15 +1681,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V22.strip.jpg",
      "title": "couple running while holding hands",
      "query": "farmhouse terrace golden hour people",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "8091705",
      "download_url": "https://videos.pexels.com/video-files/8091705/8091705-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a silhouetted couple runs holding hands at sunset",
+     "violation": "",
+     "shoot": "pexels-couple-run-silhouette",
+     "score": 2.05,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 21
     },
     {
      "id": "belong-module11-S02-V23",
@@ -1607,15 +1711,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V23.strip.jpg",
      "title": "a couple talking outside on a sunny day",
      "query": "farmhouse terrace golden hour people",
-     "shot": "C",
+     "shot": "A",
      "duration": 12,
      "src_id": "8090956",
      "download_url": "https://videos.pexels.com/video-files/8090956/8090956-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:52:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two women chat easily at golden hour outdoors",
+     "violation": "",
+     "shoot": "pexels-women-goldenhour-chat",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 3
     },
     {
      "id": "belong-module11-S02-V24",
@@ -1629,15 +1741,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V24.strip.jpg",
      "title": "cafe  restaurant  talking  talk  people  sitting  chatting  menu  coffee  dinner  table  bar  drink  interior  cafe interior  restaurant interior",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "1623",
      "download_url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a wine glass and cutlery sit on a wooden restaurant table",
+     "violation": "",
+     "shoot": "pixabay-wineglass-woodtable-restaurant",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 14
     },
     {
      "id": "belong-module11-S02-V25",
@@ -1651,15 +1771,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V25.strip.jpg",
      "title": "talk  discussion  meeting  team  group  conference  discuss  people  chairs  sitting  chatting  talking  debating  argument  men",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "1112",
      "download_url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a person takes notes on a clipboard during a conversation",
+     "violation": "scripts or clipboards",
+     "shoot": "pixabay-clipboard-notes-outdoor",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 25
     },
     {
      "id": "belong-module11-S02-V26",
@@ -1673,15 +1801,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V26.strip.jpg",
      "title": "couple  lovers  strawberry  honeymoon  entertainment",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "149475",
      "download_url": "https://cdn.pixabay.com/video/2023/02/05/149475-796096121_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man feeds a woman a strawberry on a couch indoors",
+     "violation": "",
+     "shoot": "pixabay-couple-strawberry-couch",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 23
     },
     {
      "id": "belong-module11-S02-V27",
@@ -1695,15 +1831,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V27.strip.jpg",
      "title": "couple  lovers  hands  love  street  walking",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 27,
      "src_id": "152798",
      "download_url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a couple walks hand in hand on a city street at sunset",
+     "violation": "",
+     "shoot": "pixabay-couple-city-sunset-walk",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 19
     },
     {
      "id": "belong-module11-S02-V28",
@@ -1717,15 +1861,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V28.strip.jpg",
      "title": "couple  hands  love  walking",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 17,
      "src_id": "177254",
      "download_url": "https://cdn.pixabay.com/video/2023/08/22/177254-857376654_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a couple holds hands walking through snow",
+     "violation": "",
+     "shoot": "pixabay-couple-snow-hands",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 24
     },
     {
      "id": "belong-module11-S02-V29",
@@ -1739,15 +1891,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V29.strip.jpg",
      "title": "couple  love  lovers  together  relationship  romance  romantic",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "245932",
      "download_url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a formally dressed couple poses against a plain backdrop",
+     "violation": "",
+     "shoot": "pixabay-couple-studio-formal",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 26
     },
     {
      "id": "belong-module11-S02-V30",
@@ -1761,15 +1921,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V30.strip.jpg",
      "title": "love  couple  park  old  care  friends  people",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "151194",
      "download_url": "https://cdn.pixabay.com/video/2023/02/18/151194-800210466_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an older couple embraces tenderly outdoors",
+     "violation": "",
+     "shoot": "pixabay-couple-embrace-outdoor",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 16
     },
     {
      "id": "belong-module11-S02-V31",
@@ -1783,15 +1951,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S02__strip__belong-module11-S02-V31.strip.jpg",
      "title": "girl  blonde  portrait  casual clothes  smile  pretty  green eyes",
      "query": "waiter couple casual talk",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "41127",
      "download_url": "https://cdn.pixabay.com/video/2020/06/04/41127-427876264_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:53:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a young woman poses casually in a tiled room",
+     "violation": "",
+     "shoot": "pixabay-woman-tiled-portrait",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:26:03Z",
+     "rank": 27
     }
    ],
    "timing_source": "unrecorded",
@@ -1825,12 +2001,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:35:56Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:35:56Z"
+   "judged_at": "2026-09-10T09:26:03Z"
   },
   {
    "id": "S03",
