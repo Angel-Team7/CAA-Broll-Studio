@@ -39,14 +39,18 @@
     "S06": {
       "requested": "2026-09-09T21:25:49Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:28:53Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:25:50Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:31:14Z",
+      "added": 22
     }
   }
 }

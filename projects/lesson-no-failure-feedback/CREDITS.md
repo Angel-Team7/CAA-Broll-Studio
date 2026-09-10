@@ -82,3 +82,47 @@
 | pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
 | pixabay | modeling  clay  pottery  craft  dirty  art  ceramic  handmad | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41387/ |
 | pixabay | pottery  clay  handicraft  modeling  craft  art  dirty  cera | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41390/ |
+| pexels | harvesting fresh strawberries in lush garden | Eleonora Vokueva | Pexels License | https://www.pexels.com/video/harvesting-fresh-strawberries-in-lush-garden-37654938/ |
+| pexels | an elderly man cutting the stem of a plant using shears | Kampus Production | Pexels License | https://www.pexels.com/video/an-elderly-man-cutting-the-stem-of-a-plant-using-shears-7844375/ |
+| pexels | two women planting seedlings at farm | K | Pexels License | https://www.pexels.com/video/two-women-planting-seedlings-at-farm-9737856/ |
+| pexels | grandfather repairing the wheel of garden cart | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-repairing-the-wheel-of-garden-cart-7844216/ |
+| pexels | grandfather and his grandchildren gardening together | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-and-his-grandchildren-gardening-together-7844370/ |
+| pexels | children digging soil | Kampus Production | Pexels License | https://www.pexels.com/video/children-digging-soil-7844374/ |
+| pexels | a person holding a eucalyptus plant with soil | Cup of  Couple | Pexels License | https://www.pexels.com/video/a-person-holding-a-eucalyptus-plant-with-soil-6963393/ |
+| pexels | family gardening together | Kampus Production | Pexels License | https://www.pexels.com/video/family-gardening-together-7844373/ |
+| pexels | multigenerational family gardening together | Jelly Marketing | Pexels License | https://www.pexels.com/video/multigenerational-family-gardening-together-38875092/ |
+| pexels | a person planting a seeds | K | Pexels License | https://www.pexels.com/video/a-person-planting-a-seeds-9737847/ |
+| pexels | close up on picking berry | Nastya Gorskaya | Pexels License | https://www.pexels.com/video/close-up-on-picking-berry-11354641/ |
+| pexels | grandfather and his grandchildren holding gardening tools | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-and-his-grandchildren-holding-gardening-tools-7844363/ |
+| pexels | family gardening in lush outdoor setting | Jelly Marketing | Pexels License | https://www.pexels.com/video/family-gardening-in-lush-outdoor-setting-38875111/ |
+| pexels | a man teaching a girl how to play an accordion | Yan Krukau | Pexels License | https://www.pexels.com/video/a-man-teaching-a-girl-how-to-play-an-accordion-8519994/ |
+| pixabay | students  books  education  teaching  read  kids  remote  sc | Tanya50 | Pixabay Content License | https://pixabay.com/videos/id-63328/ |
+| pixabay | plant  green  nature  movement  sheets  yard  botany  exteri | padrinan | Pixabay Content License | https://pixabay.com/videos/id-9079/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | tomatoes  red  vegetables  fruit  food  hand  grab  vegetabl | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-147/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pixabay | garden  read  roundup  garden villa | videomoon | Pixabay Content License | https://pixabay.com/videos/id-9740/ |
+| pexels | two women dancing together | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/two-women-dancing-together-8514334/ |
+| pexels | man and woman talking while in the greenhouse | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-and-woman-talking-while-in-the-greenhouse-7101064/ |
+| pexels | people wearing business attire | Monstera Production | Pexels License | https://www.pexels.com/video/people-wearing-business-attire-9465050/ |
+| pexels | people working together | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-working-together-7655210/ |
+| pexels | a woman in blue gloves is working on a conveyor belt | K | Pexels License | https://www.pexels.com/video/a-woman-in-blue-gloves-is-working-on-a-conveyor-belt-19905377/ |
+| pexels | video of a woman talking | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-a-woman-talking-5359711/ |
+| pexels | two older men walking outside | Centre for Ageing Better | Pexels License | https://www.pexels.com/video/two-older-men-walking-outside-27333200/ |
+| pexels | a man holding a basket and a woman holding a paper with a te | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-holding-a-basket-and-a-woman-holding-a-paper-with-a-text-7101065/ |
+| pexels | community leaders discussing documents outdoors | Elly Mar Tamayor | Pexels License | https://www.pexels.com/video/community-leaders-discussing-documents-outdoors-33650192/ |
+| pexels | a man and woman in a discussion | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-and-woman-in-a-discussion-7655219/ |
+| pexels | a couple playing with cake frosting | cottonbro studio | Pexels License | https://www.pexels.com/video/a-couple-playing-with-cake-frosting-6800171/ |
+| pexels | a man laughing while talking to a coworker | Alena Darmel | Pexels License | https://www.pexels.com/video/a-man-laughing-while-talking-to-a-coworker-8141492/ |
+| pexels | a man in gloves and goggles is using a grinder | Nishant Aneja | Pexels License | https://www.pexels.com/video/a-man-in-gloves-and-goggles-is-using-a-grinder-20455991/ |
+| pexels | man and woman looking at a plant | Thirdman | Pexels License | https://www.pexels.com/video/man-and-woman-looking-at-a-plant-7654681/ |
+| pixabay | child  child smiling  baby  kid  happy  smile  childhood  pe | nassimohmd | Pixabay Content License | https://pixabay.com/videos/id-33631/ |
+| pixabay | woman  smile  communication  gesture  expression  asian  clo | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174008/ |
+| pixabay | jigsaw  board  construction  repair  square  pencil  to nag  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4973/ |
+| pixabay | street  man  worker  vietnam  life | bianhpro1st | Pixabay Content License | https://pixabay.com/videos/id-45686/ |
+| pixabay | kid  bike  ride  fountain  park  fun  play  childhood  smile | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85339/ |
+| pixabay | student  to write  to study  work  task  issue  question  st | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131990/ |
+| pixabay | girl  blonde  portrait  casual clothes  smile  pretty  green | yeracastelan | Pixabay Content License | https://pixabay.com/videos/id-41127/ |
+| pixabay | coffee  grains  black  pour  close-up  coffee beans  fried   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4948/ |
