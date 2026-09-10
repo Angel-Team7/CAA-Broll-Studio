@@ -3159,8 +3159,8 @@
      "shot": "",
      "shoot": "pixabay-home-cooking",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V02",
@@ -3187,8 +3187,8 @@
      "shot": "",
      "shoot": "pexels-modern-kitchen-plating",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 6,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V03",
@@ -3215,8 +3215,8 @@
      "shot": "",
      "shoot": "pexels-gourmet-plate",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V04",
@@ -3243,7 +3243,7 @@
      "shot": "B",
      "shoot": "pexels-carving-station",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 5,
+     "rank": 20,
      "shown": false
     },
     {
@@ -3270,8 +3270,8 @@
      "shot": "",
      "shoot": "pexels-fine-dining-plating",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 8,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V06",
@@ -3299,8 +3299,8 @@
      "shot": "",
      "shoot": "pixabay-flower-field-hand",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 2,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-V07",
@@ -3327,8 +3327,8 @@
      "shot": "",
      "shoot": "pixabay-suburb-aerial",
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 9,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-m8-S05-I01",
@@ -3405,7 +3405,7 @@
      "shoot": "pixabay-family-garden-table",
      "score": 7.0,
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -3437,8 +3437,8 @@
      "shoot": "pixabay-steaming-pot",
      "score": 2.4,
      "judged_at": "2026-09-09T17:05:55Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "pexels_32179374_long-table-garden-event",
@@ -3469,8 +3469,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:11:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a waiter carries a plated gourmet dish",
+     "violation": "",
+     "shoot": "pexels-gourmet-plate-carry",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S05-V09",
@@ -3491,8 +3499,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand sets a shared dish on a laid dinner table",
+     "violation": "",
+     "shoot": "pexels-shared-table-dish",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 7
     },
     {
      "id": "belong-module8-S05-V10",
@@ -3513,8 +3529,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand serves food from a bowl at a set table",
+     "violation": "",
+     "shoot": "pexels-shared-table-dish",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 8
     },
     {
      "id": "belong-module8-S05-V11",
@@ -3535,8 +3559,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man carries boxes from a van on a city street",
+     "violation": "",
+     "shoot": "pexels-van-box-carry-street",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S05-V12",
@@ -3557,8 +3589,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man unloads a box from the back of a van",
+     "violation": "",
+     "shoot": "pexels-van-box-carry-street",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 4
     },
     {
      "id": "belong-module8-S05-V13",
@@ -3579,8 +3619,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two hands touch gently beside a candle",
+     "violation": "",
+     "shoot": "pexels-candlelit-hands-touch",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S05-V14",
@@ -3594,15 +3642,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V14.strip.jpg",
      "title": "person lighting a candle lights",
      "query": "long table dinner garden staff serving",
-     "shot": "A",
+     "shot": "C",
      "duration": 13,
      "src_id": "5032275",
      "download_url": "https://videos.pexels.com/video-files/5032275/5032275-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a person in white lights a candle at an outdoor event",
+     "violation": "",
+     "shoot": "pexels-outdoor-event-candle-light",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 5
     },
     {
      "id": "belong-module8-S05-V15",
@@ -3616,15 +3672,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V15.strip.jpg",
      "title": "friends celebrating an event party at the backyard",
      "query": "long table dinner garden staff serving",
-     "shot": "A",
+     "shot": "D",
      "duration": 16,
      "src_id": "5961379",
      "download_url": "https://videos.pexels.com/video-files/5961379/5961379-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "friends gather at a lit backyard dinner table",
+     "violation": "",
+     "shoot": "pexels-backyard-dinner-party",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S05-V16",
@@ -3638,15 +3702,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V16.strip.jpg",
      "title": "a man handing out cleaning equipment to his co workers",
      "query": "catering crew unloading van produce",
-     "shot": "B",
+     "shot": "",
      "duration": 27,
      "src_id": "6195143",
      "download_url": "https://videos.pexels.com/video-files/6195143/6195143-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a cleaning crew unloads equipment from a van at a house",
+     "violation": "",
+     "shoot": "pexels-cleaning-crew-van-unload2",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 24
     },
     {
      "id": "belong-module8-S05-V17",
@@ -3667,8 +3739,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:12:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man opens a cargo van full of boxes",
+     "violation": "",
+     "shoot": "pexels-cargo-van-boxes-open",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 6
     },
     {
      "id": "belong-module8-S05-V18",
@@ -3682,15 +3762,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V18.strip.jpg",
      "title": "courier delivering boxes",
      "query": "catering crew unloading van produce",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "6169114",
      "download_url": "https://videos.pexels.com/video-files/6169114/6169114-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a courier delivers boxes at a warehouse dock",
+     "violation": "warehouses",
+     "shoot": "pexels-warehouse-dock-delivery",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 18
     },
     {
      "id": "belong-module8-S05-V19",
@@ -3711,8 +3799,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a candle is blown out beside a floral centerpiece",
+     "violation": "",
+     "shoot": "pexels-candle-blowout-floral",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 10
     },
     {
      "id": "belong-module8-S05-V20",
@@ -3726,15 +3822,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V20.strip.jpg",
      "title": "professional chef preparing gourmet dish in kitchen",
      "query": "long table dinner garden staff serving",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "33738988",
      "download_url": "https://videos.pexels.com/video-files/33738988/14324534_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a chef plates a dish in a professional kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-plating-kitchen",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 16
     },
     {
      "id": "belong-module8-S05-V21",
@@ -3748,15 +3852,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V21.strip.jpg",
      "title": "delivery men looking at the camera",
      "query": "catering crew unloading van produce",
-     "shot": "B",
+     "shot": "",
      "duration": 22,
      "src_id": "9507653",
      "download_url": "https://videos.pexels.com/video-files/9507653/9507653-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "movers pose beside a van with branded shirts",
+     "violation": "",
+     "shoot": "pexels-movers-branded-pose",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 25
     },
     {
      "id": "belong-module8-S05-V22",
@@ -3770,15 +3882,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V22.strip.jpg",
      "title": "restaurant  wine glasses  wine  glass  drink  celebration  alcohol  dinner  table  romance  wineglass  beverage  luxury  romantic  anniversary  glasses  dining  food  people  taste  tasting  setting",
      "query": "long table garden dinner",
-     "shot": "A",
+     "shot": "C",
      "duration": 30,
      "src_id": "3152",
      "download_url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "wine glasses and a candle sit on a dark restaurant table",
+     "violation": "",
+     "shoot": "pixabay-restaurant-wine-candle",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 17
     },
     {
      "id": "belong-module8-S05-V23",
@@ -3792,15 +3912,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V23.strip.jpg",
      "title": "ai generated  wedding cake  cake  wedding  marriage  celebration  sweet  party  food  yummy  delicious  pastry  reception  event  catering  elegant",
      "query": "catering van crates unloading",
-     "shot": "B",
+     "shot": "",
      "duration": 5,
      "src_id": "366918",
      "download_url": "https://cdn.pixabay.com/video/2026/07/27/366918_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a tiered wedding cake sits in a decorated banquet hall",
+     "violation": "hotel banquet hall",
+     "shoot": "pixabay-wedding-cake-banquet",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 29
     },
     {
      "id": "belong-module8-S05-V24",
@@ -3814,15 +3942,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V24.strip.jpg",
      "title": "dining table  table  eat  dinner  family  family dinner",
      "query": "long table garden dinner",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "172686",
      "download_url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "children eat together at a long dark-paneled dining hall table",
+     "violation": "",
+     "shoot": "pixabay-diningH-hall-children",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 19
     },
     {
      "id": "belong-module8-S05-V25",
@@ -3843,8 +3979,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a match lights a pillar candle against a black background",
+     "violation": "",
+     "shoot": "pixabay-candle-lighting-studio",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 11
     },
     {
      "id": "belong-module8-S05-V26",
@@ -3858,15 +4002,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V26.strip.jpg",
      "title": "hands  girl  people  young  female  table  hand  white  go  sad",
      "query": "candles table lighting hands",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "31654",
      "download_url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:13:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman's hand reaches toward a hanging curtain outdoors",
+     "violation": "",
+     "shoot": "pixabay-hand-curtain2",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 28
     },
     {
      "id": "belong-module8-S05-V27",
@@ -3880,15 +4032,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V27.strip.jpg",
      "title": "rocks  worksite  i unload  truck  boulders  work  equipment  stones  the hydraulic defence",
      "query": "catering van crates unloading",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "12714",
      "download_url": "https://cdn.pixabay.com/video/2017/11/01/12714-241674172_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a dump truck unloads large boulders on a construction site",
+     "violation": "construction and building trades",
+     "shoot": "pixabay-dumptruck-boulders",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 30
     },
     {
      "id": "belong-module8-S05-V29",
@@ -3902,15 +4062,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S05__strip__belong-module8-S05-V29.strip.jpg",
      "title": "candle  fire  flicker  darkness  light  bright  combustion",
      "query": "candles table lighting hands",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "4101",
      "download_url": "https://cdn.pixabay.com/video/2016/07/31/4101-176918718_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a red candle flame burns against darkness",
+     "violation": "",
+     "shoot": "pixabay-red-candle-dark",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:07:37Z",
+     "rank": 26
     }
    ],
    "shots": [
@@ -3950,12 +4118,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:05:55Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:05:55Z"
+   "judged_at": "2026-09-10T10:07:37Z"
   },
   {
    "id": "S06",
