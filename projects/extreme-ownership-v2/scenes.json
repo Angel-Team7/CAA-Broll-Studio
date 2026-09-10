@@ -1517,7 +1517,7 @@
      "shoot": "pexels-demolition-excavator",
      "score": 1.3,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 18,
+     "rank": 21,
      "shown": false
     },
     {
@@ -1549,7 +1549,7 @@
      "shoot": "pexels-aerial-mud-site",
      "score": 2.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 16,
+     "rank": 14,
      "shown": false
     },
     {
@@ -1571,7 +1571,7 @@
      "shoot": "pexels-cement-mixer",
      "score": 1.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 23,
+     "rank": 24,
      "shown": false
     },
     {
@@ -1659,7 +1659,7 @@
      "shoot": "pexels-aerial-digger-yard",
      "score": 1.65,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 17,
+     "rank": 18,
      "shown": false
     },
     {
@@ -1681,7 +1681,7 @@
      "shoot": "pexels-night-rain-structure",
      "score": 3.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 10,
+     "rank": 9,
      "shown": true
     },
     {
@@ -1727,14 +1727,14 @@
      "staged_at": "2026-09-10T04:34:07Z",
      "judged": true,
      "shown": false,
-     "relevance": 2,
+     "relevance": 1,
      "brand_fit": 2,
-     "caption": "a boy sits among delivered packages at a green door",
+     "caption": "a boy sits among delivery parcels at a doorway",
      "violation": "",
-     "shoot": "pexels-boy-packages-door",
-     "score": 2.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 13
+     "shoot": "pexels-boy-parcels-door",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 19
     },
     {
      "id": "extreme-ownership-v2-S04-V01",
@@ -1748,7 +1748,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V01.strip.jpg",
      "title": "time lapse footage of a construction site",
      "query": "broken machine on site worker",
-     "shot": "",
+     "shot": "A",
      "duration": 22,
      "src_id": "5513061",
      "download_url": "https://videos.pexels.com/video-files/5513061/5513061-hd_1920_1080_30fps.mp4",
@@ -1756,15 +1756,15 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:13Z",
      "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 1,
-     "caption": "a miniature tilt-shift view of a construction site with excavators",
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a tilt-shift time-lapse of an excavator on a large construction site",
      "violation": "",
-     "shoot": "pexels-tiltshift-construction-site",
-     "score": 1.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 19
+     "shoot": "pexels-tiltshift-construction",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 10
     },
     {
      "id": "extreme-ownership-v2-S04-V02",
@@ -1787,14 +1787,14 @@
      "staged_at": "2026-09-10T04:34:19Z",
      "judged": true,
      "shown": true,
-     "relevance": 3,
+     "relevance": 4,
      "brand_fit": 3,
-     "caption": "a black package sits on a doorstep as feet approach",
+     "caption": "a wrapped parcel sits on a home doorstep",
      "violation": "",
-     "shoot": "pexels-package-doorstep-feet",
-     "score": 3.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 8
+     "shoot": "pexels-parcel-doorstep",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 5
     },
     {
      "id": "extreme-ownership-v2-S04-V03",
@@ -1808,7 +1808,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V03.strip.jpg",
      "title": "aerial view of truck on rural road at dusk",
      "query": "empty delivery area waiting close",
-     "shot": "B",
+     "shot": "",
      "duration": 4,
      "src_id": "34650065",
      "download_url": "https://videos.pexels.com/video-files/34650065/14686297_1920_1080_30fps.mp4",
@@ -1816,15 +1816,15 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:24Z",
      "judged": true,
-     "shown": true,
-     "relevance": 4,
-     "brand_fit": 4,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
      "caption": "an aerial view of a truck driving a rural road at dusk",
      "violation": "",
-     "shoot": "pexels-aerial-truck-dusk-road",
-     "score": 4.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 6
+     "shoot": "pexels-truck-rural-dusk",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 13
     },
     {
      "id": "extreme-ownership-v2-S04-V04",
@@ -1838,7 +1838,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V04.strip.jpg",
      "title": "a truck is being used to move a road",
      "query": "broken machine on site worker",
-     "shot": "",
+     "shot": "A",
      "duration": 5,
      "src_id": "27104367",
      "download_url": "https://videos.pexels.com/video-files/27104367/12073445_1920_1080_30fps.mp4",
@@ -1847,14 +1847,14 @@
      "staged_at": "2026-09-10T04:34:29Z",
      "judged": true,
      "shown": false,
-     "relevance": 1,
+     "relevance": 2,
      "brand_fit": 1,
-     "caption": "an asphalt paving machine works with a crew in hi-vis",
+     "caption": "a road paving machine lays asphalt with workers in hi-vis vests",
      "violation": "",
-     "shoot": "pexels-asphalt-paver-crew",
-     "score": 1.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 20
+     "shoot": "pexels-asphalt-paver",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 15
     },
     {
      "id": "extreme-ownership-v2-S04-V05",
@@ -1878,13 +1878,13 @@
      "judged": true,
      "shown": false,
      "relevance": 2,
-     "brand_fit": 2,
-     "caption": "a large drilling rig bores into the ground at a deep site",
+     "brand_fit": 1,
+     "caption": "heavy drilling machinery operates at a concrete pile site",
      "violation": "",
-     "shoot": "pexels-drilling-rig-site",
-     "score": 2.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 14
+     "shoot": "pexels-pile-drilling",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 16
     },
     {
      "id": "extreme-ownership-v2-S04-V06",
@@ -1908,13 +1908,13 @@
      "judged": true,
      "shown": false,
      "relevance": 1,
-     "brand_fit": 1,
-     "caption": "an excavator crushes rubble in a cloud of dust",
-     "violation": "",
+     "brand_fit": 0,
+     "caption": "an excavator tears through rubble in a cloud of dust",
+     "violation": "factories",
      "shoot": "pexels-excavator-rubble-dust",
-     "score": 1.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 21
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 25
     },
     {
      "id": "extreme-ownership-v2-S04-V07",
@@ -1941,10 +1941,10 @@
      "brand_fit": 3,
      "caption": "a delivery man hands a box to a woman at her door",
      "violation": "",
-     "shoot": "pexels-delivery-man-door",
+     "shoot": "pexels-deliveryman-door",
      "score": 3.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 9
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 6
     },
     {
      "id": "extreme-ownership-v2-S04-V08",
@@ -1967,14 +1967,14 @@
      "staged_at": "2026-09-10T04:34:51Z",
      "judged": true,
      "shown": true,
-     "relevance": 5,
-     "brand_fit": 4,
-     "caption": "a cardboard box sits on a walkway near delivery vans",
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a cardboard box lands in a driveway near a delivery van",
      "violation": "",
-     "shoot": "pexels-box-walkway-vans",
-     "score": 4.65,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 4
+     "shoot": "pexels-box-driveway-van",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 7
     },
     {
      "id": "extreme-ownership-v2-S04-V09",
@@ -1997,14 +1997,14 @@
      "staged_at": "2026-09-10T04:34:57Z",
      "judged": true,
      "shown": true,
-     "relevance": 5,
+     "relevance": 4,
      "brand_fit": 5,
-     "caption": "a worker in a safety vest bends rebar at a workbench",
+     "caption": "gloved hands bend a metal rod at a workbench",
      "violation": "",
-     "shoot": "pexels-rebar-bending-vest",
-     "score": 5.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 3
+     "shoot": "pexels-hands-rebar-bend",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 4
     },
     {
      "id": "extreme-ownership-v2-S04-V10",
@@ -2028,13 +2028,13 @@
      "judged": true,
      "shown": false,
      "relevance": 2,
-     "brand_fit": 2,
-     "caption": "a large red excavator works in a deep foundation pit",
+     "brand_fit": 1,
+     "caption": "a large excavator and drilling rig work a deep foundation site",
      "violation": "",
-     "shoot": "pexels-red-excavator-pit",
-     "score": 2.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 15
+     "shoot": "pexels-excavator-foundation",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 17
     },
     {
      "id": "extreme-ownership-v2-S04-V11",
@@ -2057,14 +2057,14 @@
      "staged_at": "2026-09-10T04:35:10Z",
      "judged": true,
      "shown": false,
-     "relevance": 1,
-     "brand_fit": 1,
-     "caption": "a worker operates a glowing lathe machine in a dark workshop",
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man operates a metal lathe in a dim workshop",
      "violation": "dark industrial workshop",
-     "shoot": "pexels-lathe-dark-workshop",
-     "score": 1.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 22
+     "shoot": "pexels-lathe-dim-workshop",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 20
     },
     {
      "id": "extreme-ownership-v2-S04-V12",
@@ -2087,14 +2087,14 @@
      "staged_at": "2026-09-10T04:35:17Z",
      "judged": true,
      "shown": true,
-     "relevance": 4,
+     "relevance": 3,
      "brand_fit": 3,
-     "caption": "a stack of delivered packages sits at a front door",
+     "caption": "parcels and envelopes are stacked at a green door",
      "violation": "",
-     "shoot": "pexels-packages-stack-door",
-     "score": 3.65,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 7
+     "shoot": "pexels-parcels-greendoor",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 8
     },
     {
      "id": "extreme-ownership-v2-S04-V13",
@@ -2119,12 +2119,12 @@
      "shown": true,
      "relevance": 5,
      "brand_fit": 4,
-     "caption": "an empty drive-thru order station sits on a sunny path",
+     "caption": "an empty drive-thru lane waits with no cars in sight",
      "violation": "",
-     "shoot": "pexels-empty-drivethru-station",
+     "shoot": "pexels-empty-drivethru",
      "score": 4.65,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 5
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 3
     },
     {
      "id": "extreme-ownership-v2-S04-V14",
@@ -2147,13 +2147,13 @@
      "staged_at": "2026-09-10T04:35:29Z",
      "judged": true,
      "shown": false,
-     "relevance": 0,
+     "relevance": 1,
      "brand_fit": 0,
-     "caption": "an aerial view of a massive quarry mining site",
-     "violation": "",
-     "shoot": "pixabay-aerial-quarry-mining",
-     "score": 0.0,
-     "judged_at": "2026-09-10T09:26:20Z",
+     "caption": "an aerial view of a massive quarry with heavy equipment",
+     "violation": "factories",
+     "shoot": "pixabay-quarry-aerial-heavy",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:28:26Z",
      "rank": 26
     },
     {
@@ -2177,14 +2177,14 @@
      "staged_at": "2026-09-10T04:35:34Z",
      "judged": true,
      "shown": false,
-     "relevance": 0,
+     "relevance": 1,
      "brand_fit": 1,
-     "caption": "silhouetted travelers wait at an airport gate window",
+     "caption": "silhouettes of travelers wait by airport gate windows",
      "violation": "",
-     "shoot": "pixabay-airport-silhouette-wait",
-     "score": 0.35,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 24
+     "shoot": "pixabay-airport-silhouettes",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 22
     },
     {
      "id": "extreme-ownership-v2-S04-V16",
@@ -2207,14 +2207,14 @@
      "staged_at": "2026-09-10T04:35:42Z",
      "judged": true,
      "shown": false,
-     "relevance": 0,
-     "brand_fit": 0,
-     "caption": "animated glowing mechanical gears turn in the dark",
-     "violation": "cartoon",
-     "shoot": "pixabay-cgi-gears-glow",
-     "score": 0.0,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 27
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "close-up of glowing orange mechanical gears turning",
+     "violation": "",
+     "shoot": "pixabay-gears-glowing",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 23
     },
     {
      "id": "extreme-ownership-v2-S04-V17",
@@ -2239,11 +2239,11 @@
      "shown": false,
      "relevance": 0,
      "brand_fit": 0,
-     "caption": "an aerial CGI overlay shows futuristic infrastructure data",
-     "violation": "cartoon",
-     "shoot": "pixabay-cgi-aerial-infrastructure",
+     "caption": "an aerial view of a facility with digital data overlay graphics",
+     "violation": "abstract loops",
+     "shoot": "pixabay-facility-dataoverlay",
      "score": 0.0,
-     "judged_at": "2026-09-10T09:26:20Z",
+     "judged_at": "2026-09-10T09:28:26Z",
      "rank": 28
     },
     {
@@ -2269,12 +2269,12 @@
      "shown": false,
      "relevance": 0,
      "brand_fit": 1,
-     "caption": "a boy looks off to the side in a busy plaza",
+     "caption": "a boy stands in a sunny plaza with people in the background",
      "violation": "",
-     "shoot": "pixabay-boy-plaza-look",
+     "shoot": "pixabay-boy-plaza",
      "score": 0.35,
-     "judged_at": "2026-09-10T09:26:20Z",
-     "rank": 25
+     "judged_at": "2026-09-10T09:28:26Z",
+     "rank": 27
     },
     {
      "id": "extreme-ownership-v2-S04-V19",
@@ -2299,11 +2299,11 @@
      "shown": false,
      "relevance": 0,
      "brand_fit": 0,
-     "caption": "animated matrix-style falling code characters",
-     "violation": "cartoon",
-     "shoot": "pixabay-matrix-code-rain",
+     "caption": "a matrix-style animation of falling green and orange code",
+     "violation": "abstract loops",
+     "shoot": "pixabay-matrix-code",
      "score": 0.0,
-     "judged_at": "2026-09-10T09:26:20Z",
+     "judged_at": "2026-09-10T09:28:26Z",
      "rank": 29
     }
    ],
@@ -2338,10 +2338,10 @@
    "shots_at": "2026-09-09T14:38:19Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-10T09:26:20Z",
+    "at": "2026-09-10T09:28:26Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-10T09:26:20Z"
+   "judged_at": "2026-09-10T09:28:26Z"
   },
   {
    "id": "S05",
@@ -7711,8 +7711,8 @@
      "shoot": "pexels-subway-workers",
      "score": 3.3,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 13,
-     "shown": false
+     "rank": 4,
+     "shown": true
     },
     {
      "id": "pexels_5544576_construction-worker-frustrated-h",
@@ -7733,7 +7733,7 @@
      "shoot": "pexels-fence-distress",
      "score": 1.95,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 18,
+     "rank": 6,
      "shown": false
     },
     {
@@ -7755,7 +7755,7 @@
      "shoot": "pexels-buildsite-phone-tablet",
      "score": 5.35,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 5,
+     "rank": 1,
      "shown": true
     },
     {
@@ -7787,7 +7787,7 @@
      "shoot": "pexels-garage-distress",
      "score": 2.3,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 17,
+     "rank": 5,
      "shown": false
     },
     {
@@ -7809,7 +7809,7 @@
      "shoot": "pexels-portrait-yellowhat-woman",
      "score": 4.7,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 6,
+     "rank": 2,
      "shown": true
     },
     {
@@ -7831,8 +7831,8 @@
      "shoot": "pexels-portrait-scaffold-man",
      "score": 3.35,
      "judged_at": "2026-09-09T20:26:43Z",
-     "rank": 12,
-     "shown": false
+     "rank": 3,
+     "shown": true
     },
     {
      "id": "pexels_35300838_worker-walking-away-unfinished",
@@ -7913,16 +7913,8 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:07Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 4,
-     "brand_fit": 4,
-     "caption": "a young man sits alone on a park bench using his phone",
-     "violation": "",
-     "shoot": "pexels-boy-bench-phone-park",
-     "score": 4.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 8
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V01",
@@ -7936,23 +7928,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V01.strip.jpg",
      "title": "man ignoring a woman",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 23,
      "src_id": "7278685",
      "download_url": "https://videos.pexels.com/video-files/7278685/7278685-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:13Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 0,
-     "caption": "an older woman sticks a note on a young man's forehead",
-     "violation": "office",
-     "shoot": "pexels-woman-stickynote-face-office",
-     "score": 0.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 23
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V02",
@@ -7966,23 +7950,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V02.strip.jpg",
      "title": "serene waterfront scene with passing ferry",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 15,
      "src_id": "32550041",
      "download_url": "https://videos.pexels.com/video-files/32550041/13881300_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:19Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 3,
-     "brand_fit": 3,
-     "caption": "a man sits on a waterfront bench with his phone as a ferry passes",
-     "violation": "",
-     "shoot": "pexels-man-bench-ferry-waterfront",
-     "score": 3.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 14
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V03",
@@ -8003,16 +7979,8 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:25Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 4,
-     "brand_fit": 4,
-     "caption": "a man in a plaid coat sits on an autumn park bench with a phone",
-     "violation": "",
-     "shoot": "pexels-man-bench-autumn-phone",
-     "score": 4.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 9
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V04",
@@ -8033,16 +8001,8 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:32Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 6,
-     "brand_fit": 5,
-     "caption": "a worker in a hi-vis vest walks alone through a building site",
-     "violation": "",
-     "shoot": "pexels-worker-hivis-walking-site-alone",
-     "score": 5.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 2
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V05",
@@ -8056,23 +8016,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V05.strip.jpg",
      "title": "workers on construction",
      "query": "worker alone far end site",
-     "shot": "",
+     "shot": "C",
      "duration": 15,
      "src_id": "12098511",
      "download_url": "https://videos.pexels.com/video-files/12098511/12098511-hd_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:38Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 1,
-     "caption": "workers in hard hats climb rebar on a high-rise structure",
-     "violation": "scaffolding gang",
-     "shoot": "pexels-workers-scaffolding-rebar-highrise",
-     "score": 1.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 22
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V06",
@@ -8086,23 +8038,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V06.strip.jpg",
      "title": "a woman answering a telephone",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 21,
      "src_id": "8467632",
      "download_url": "https://videos.pexels.com/video-files/8467632/8467632-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:44Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 0,
-     "caption": "a woman answers the phone by a large office window",
-     "violation": "office",
-     "shoot": "pexels-woman-phone-office-window",
-     "score": 0.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 24
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V07",
@@ -8116,23 +8060,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V07.strip.jpg",
      "title": "a man having a video call on his smartphone",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 12,
      "src_id": "6413928",
      "download_url": "https://videos.pexels.com/video-files/6413928/6413928-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:50Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 3,
-     "brand_fit": 3,
-     "caption": "a man holds up his phone on a train platform bench",
-     "violation": "",
-     "shoot": "pexels-man-trainplatform-phone-selfie",
-     "score": 3.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 15
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V08",
@@ -8146,23 +8082,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V08.strip.jpg",
      "title": "a man walking on the bridge",
      "query": "worker alone far end site",
-     "shot": "",
+     "shot": "C",
      "duration": 11,
      "src_id": "8964730",
      "download_url": "https://videos.pexels.com/video-files/8964730/8964730-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:44:55Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 3,
-     "brand_fit": 2,
-     "caption": "a worker walks alone beneath a large steel roof structure",
-     "violation": "",
-     "shoot": "pexels-worker-alone-steel-roof-structure",
-     "score": 2.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 16
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V09",
@@ -8176,23 +8104,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V09.strip.jpg",
      "title": "man ignoring a woman",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 16,
      "src_id": "7278691",
      "download_url": "https://videos.pexels.com/video-files/7278691/7278691-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:01Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 0,
-     "caption": "an older woman sticks a note on a young man's forehead",
-     "violation": "office",
-     "shoot": "pexels-woman-stickynote-face-office",
-     "score": 0.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 25
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V10",
@@ -8213,16 +8133,8 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:07Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 7,
-     "brand_fit": 6,
-     "caption": "a worker in a hard hat waters a concrete slab alone",
-     "violation": "",
-     "shoot": "pexels-worker-hardhat-watering-concrete-alone",
-     "score": 6.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 1
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V11",
@@ -8236,23 +8148,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V11.strip.jpg",
      "title": "construction worker on site during building phase",
      "query": "worker alone far end site",
-     "shot": "",
+     "shot": "C",
      "duration": 8,
      "src_id": "32244797",
      "download_url": "https://videos.pexels.com/video-files/32244797/13752025_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:13Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 4,
-     "brand_fit": 4,
-     "caption": "a worker in hi-vis crouches on a rebar floor with tools",
-     "violation": "",
-     "shoot": "pexels-worker-hivis-crouch-rebar-floor",
-     "score": 4.0,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 10
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V12",
@@ -8273,16 +8177,8 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:21Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 6,
-     "brand_fit": 5,
-     "caption": "an aerial view shows a lone worker on a site among palm trees",
-     "violation": "",
-     "shoot": "pexels-aerial-construction-palmtrees-worker",
-     "score": 5.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 3
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V13",
@@ -8296,23 +8192,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V13.strip.jpg",
      "title": "a man talking on the phone",
      "query": "worker ignoring ringing phone bench",
-     "shot": "",
+     "shot": "A",
      "duration": 14,
      "src_id": "4988741",
      "download_url": "https://videos.pexels.com/video-files/4988741/4988741-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:27Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 2,
-     "brand_fit": 1,
-     "caption": "a man in a suit talks on the phone on a park bench",
-     "violation": "suit",
-     "shoot": "pexels-suit-man-bench-phone-park",
-     "score": 1.65,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 19
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V14",
@@ -8326,23 +8214,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V14.strip.jpg",
      "title": "run  field  man  person  run away  wind",
      "query": "worker worried looking away",
-     "shot": "",
+     "shot": "B",
      "duration": 9,
      "src_id": "45711",
      "download_url": "https://cdn.pixabay.com/video/2020/07/27/45711-446485467_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:34Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 5,
-     "brand_fit": 6,
-     "caption": "a man walks alone through a golden wheat field",
-     "violation": "",
-     "shoot": "pixabay-man-walking-alone-wheatfield",
-     "score": 5.35,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 4
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V15",
@@ -8356,23 +8236,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V15.strip.jpg",
      "title": "construction  site  excavator  house  new house  development  aerial  drone  building site",
      "query": "worker alone site far",
-     "shot": "",
+     "shot": "C",
      "duration": 60,
      "src_id": "121409",
      "download_url": "https://cdn.pixabay.com/video/2022/06/21/121409-724697170_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:47Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 2,
-     "caption": "an aerial view shows a large suburban development site",
-     "violation": "",
-     "shoot": "pixabay-aerial-suburban-development-site",
-     "score": 1.35,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 20
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V16",
@@ -8386,23 +8258,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V16.strip.jpg",
      "title": "construction site  trucks  lorries  aerial view  transport  building site  heavy vehicles  construction  transportation",
      "query": "worker alone site far",
-     "shot": "",
+     "shot": "C",
      "duration": 15,
      "src_id": "225740",
      "download_url": "https://cdn.pixabay.com/video/2024/08/10/225740_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:45:56Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 1,
-     "brand_fit": 2,
-     "caption": "trucks sit beside a large development site from above",
-     "violation": "",
-     "shoot": "pixabay-aerial-trucks-development-site",
-     "score": 1.35,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 21
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V17",
@@ -8416,23 +8280,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V17.strip.jpg",
      "title": "phone  smartphone  mobile  portable  screen  digital  communication  texting  business  work",
      "query": "worker ignoring phone",
-     "shot": "",
+     "shot": "A",
      "duration": 15,
      "src_id": "202987",
      "download_url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:46:04Z",
-     "judged": true,
-     "shown": true,
-     "relevance": 4,
-     "brand_fit": 5,
-     "caption": "close-up hands hold a phone on a wooden table",
-     "violation": "",
-     "shoot": "pexels-closeup-hands-phone-wood-table",
-     "score": 4.35,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 7
+     "judged": false,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S15-V18",
@@ -8446,23 +8302,15 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S15__strip__extreme-ownership-v2-S15-V18.strip.jpg",
      "title": "woman  phone  smartphone  technology  mobile  telephone  cellphone  person  female  wireless  device  media  communication  people  holding  business",
      "query": "worker ignoring phone",
-     "shot": "",
+     "shot": "A",
      "duration": 8,
      "src_id": "38084",
      "download_url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:46:10Z",
-     "judged": true,
-     "shown": false,
-     "relevance": 3,
-     "brand_fit": 4,
-     "caption": "a woman's hands hold a phone close up",
-     "violation": "",
-     "shoot": "pixabay-closeup-woman-hands-phone",
-     "score": 3.35,
-     "judged_at": "2026-09-10T09:27:54Z",
-     "rank": 11
+     "judged": false,
+     "shown": false
     }
    ],
    "shots": [
@@ -8494,7 +8342,12 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:38:19Z",
-   "judged_at": "2026-09-10T09:27:54Z"
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-09-09T20:26:43Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   },
+   "judged_at": "2026-09-09T20:26:43Z"
   }
  ]
 }
