@@ -5520,7 +5520,7 @@
      "shot": "",
      "shoot": "pexels-hangar-construction",
      "judged_at": "2026-09-09T21:21:51Z",
-     "rank": 4,
+     "rank": 15,
      "shown": false
     },
     {
@@ -5595,7 +5595,7 @@
      "shot": "",
      "shoot": "pexels-rubble-construction",
      "judged_at": "2026-09-09T21:21:51Z",
-     "rank": 3,
+     "rank": 13,
      "shown": false
     },
     {
@@ -5626,8 +5626,8 @@
      "shot": "",
      "shoot": "pexels-roof-truss-silhouette-fog",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 6,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V12",
@@ -5657,7 +5657,7 @@
      "shot": "",
      "shoot": "pixabay-worker-shovel-gravel",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 2,
+     "rank": 8,
      "shown": true
     },
     {
@@ -5686,8 +5686,8 @@
      "shot": "",
      "shoot": "pexels-hands-huddle-indoor",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 5,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V07",
@@ -5713,7 +5713,7 @@
      "shot": "",
      "shoot": "pexels-office-celebration-papers",
      "judged_at": "2026-09-09T18:33:03Z",
-     "rank": 7,
+     "rank": 23,
      "shown": false
     },
     {
@@ -5810,15 +5810,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V13.strip.jpg",
      "title": "person removing a sticky note from a wall",
      "query": "worker writing goal card shed",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "5583721",
      "download_url": "https://videos.pexels.com/video-files/5583721/5583721-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand removes a sticky note from a row on a wall",
+     "violation": "",
+     "shoot": "pexels-sticky-note-wall-remove",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V14",
@@ -5832,15 +5840,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V14.strip.jpg",
      "title": "person holding scrum cards",
      "query": "worker writing goal card shed",
-     "shot": "A",
+     "shot": "",
      "duration": 22,
      "src_id": "7437141",
      "download_url": "https://videos.pexels.com/video-files/7437141/7437141-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "hands hold a fan of scrum planning cards over a desk",
+     "violation": "office",
+     "shoot": "pexels-scrum-cards",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V15",
@@ -5861,8 +5877,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand writes strategy notes on sticky pads beside an open laptop",
+     "violation": "laptops, office",
+     "shoot": "pexels-strategy-notes-laptop",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V16",
@@ -5883,8 +5907,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "hands write on a small card resting on a woven rug",
+     "violation": "",
+     "shoot": "pexels-tag-writing-rug",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V17",
@@ -5905,8 +5937,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman writes a holiday letter beside cookies and pinecones",
+     "violation": "",
+     "shoot": "pexels-holiday-letter-writing",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V18",
@@ -5927,8 +5967,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman writes a birthday card against leafy wallpaper",
+     "violation": "",
+     "shoot": "pexels-birthday-card-writing",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V19",
@@ -5949,8 +5997,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:34:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "printed motivational quote cards sit in a wooden display rack",
+     "violation": "",
+     "shoot": "pexels-quote-cards-rack",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V20",
@@ -5971,8 +6027,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand writes on colorful sticky notes arranged on a whiteboard",
+     "violation": "whiteboards",
+     "shoot": "pexels-whiteboard-sticky-notes",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V21",
@@ -5993,8 +6057,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two women carry a crate of tomato plants through a sunset greenhouse",
+     "violation": "",
+     "shoot": "pexels-greenhouse-crate-sunset",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V22",
@@ -6008,15 +6080,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V22.strip.jpg",
      "title": "people gardening together",
      "query": "worker learning at greenhouse bench",
-     "shot": "D",
+     "shot": "B",
      "duration": 4,
      "src_id": "6194561",
      "download_url": "https://videos.pexels.com/video-files/6194561/6194561-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "several people tend plants together inside a large greenhouse",
+     "violation": "",
+     "shoot": "pexels-greenhouse-group-tending",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V23",
@@ -6037,8 +6117,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "an older man and woman examine a potted plant together in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-greenhouse-pair-potted-plant",
+     "score": 6.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V24",
@@ -6052,15 +6140,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V24.strip.jpg",
      "title": "greenhouse workers posing looking at camera",
      "query": "worker learning at greenhouse bench",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "6509248",
      "download_url": "https://videos.pexels.com/video-files/6509248/6509248-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "two greenhouse workers stand and look at the camera among hanging plants",
+     "violation": "",
+     "shoot": "pexels-greenhouse-posed-pair",
+     "score": 3.05,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V25",
@@ -6081,8 +6177,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a gloved hand moves trays of microgreens in a hydroponic facility",
+     "violation": "",
+     "shoot": "pexels-microgreens-trays",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V26",
@@ -6103,8 +6207,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a gloved hand tends rows of small plants in a nursery",
+     "violation": "",
+     "shoot": "pexels-nursery-plant-tending",
+     "score": 5.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V27",
@@ -6125,8 +6237,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a worker lays paving stones with a shovel on a driveway",
+     "violation": "",
+     "shoot": "pixabay-paving-worker",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V28",
@@ -6147,8 +6267,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man climbs scaffolding on the side of a building",
+     "violation": "scaffolding gangs",
+     "shoot": "pixabay-scaffolding-climb",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V29",
@@ -6162,15 +6290,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V29.strip.jpg",
      "title": "repair  services  robot  future",
      "query": "fence repair two workers",
-     "shot": "C",
+     "shot": "",
      "duration": 27,
      "src_id": "118091",
      "download_url": "https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a sci-fi robot works in a neon-lit dark workshop stall",
+     "violation": "dark industrial workshops",
+     "shoot": "pixabay-scifi-robot-workshop",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V30",
@@ -6184,15 +6320,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V30.strip.jpg",
      "title": "stunt  motorbikes  synchronous  extreme  motorcycle  biker  sport  professional  helmet  lifestyle  protection  two  show  ramp  jump  risk  134477942",
      "query": "fence repair two workers",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "1083",
      "download_url": "https://cdn.pixabay.com/video/2015/10/18/1083-142790258_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:35:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "motorbike stunt riders perform synchronized jumps in a dark arena",
+     "violation": "",
+     "shoot": "pixabay-motorbike-stunt",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V31",
@@ -6206,15 +6350,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V31.strip.jpg",
      "title": "cement  batter  development  building  machine  worker  work  rural",
      "query": "fence repair two workers",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "148540",
      "download_url": "https://cdn.pixabay.com/video/2023/01/30/148540-794355630_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:36:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand adds material into a spinning cement mixer",
+     "violation": "",
+     "shoot": "pixabay-cement-mixer",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V32",
@@ -6235,8 +6387,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:36:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "close-up of a power drill driving a screw",
+     "violation": "",
+     "shoot": "pixabay-drill-screw-closeup",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V33",
@@ -6250,15 +6410,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V33.strip.jpg",
      "title": "garage  vehicle  truck  repair",
      "query": "fence repair two workers",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "200276",
      "download_url": "https://cdn.pixabay.com/video/2024/02/12/200276-912384794_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:36:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "orange municipal work trucks are parked inside a large warehouse garage",
+     "violation": "warehouses",
+     "shoot": "pixabay-warehouse-trucks",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-goal-setting-S08-V34",
@@ -6272,15 +6440,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S08__strip__edenrise-c2-goal-setting-S08-V34.strip.jpg",
      "title": "bolt  screw  fastening  metal  mechanics  repair",
      "query": "fence repair two workers",
-     "shot": "C",
+     "shot": "",
      "duration": 24,
      "src_id": "136297",
      "download_url": "https://cdn.pixabay.com/video/2022/10/24/136297-764387770_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:36:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a 3D animation of nuts and bolts floating and assembling",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-nuts-bolts",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:26:01Z",
+     "rank": 29
     }
    ],
    "shots": [
@@ -6320,12 +6496,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T21:21:51Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T21:21:51Z"
+   "judged_at": "2026-09-10T10:26:01Z"
   },
   {
    "id": "S07",
