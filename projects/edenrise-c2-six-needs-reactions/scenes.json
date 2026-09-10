@@ -4610,7 +4610,7 @@
      "shot": "",
      "shoot": "pixabay-v15-apartment",
      "judged_at": "2026-09-09T18:49:32Z",
-     "rank": 6,
+     "rank": 7,
      "shown": true
     },
     {
@@ -4638,7 +4638,7 @@
      "shot": "",
      "shoot": "pexels-v16-kitchen",
      "judged_at": "2026-09-09T18:49:32Z",
-     "rank": 8,
+     "rank": 10,
      "shown": false
     },
     {
@@ -4683,7 +4683,7 @@
      "shot": "",
      "shoot": "pexels-v27-cafe",
      "judged_at": "2026-09-09T18:49:32Z",
-     "rank": 9,
+     "rank": 11,
      "shown": false
     },
     {
@@ -4754,7 +4754,7 @@
      "shoot": "pexels-office-standing-desk-doc",
      "score": 0.65,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 10
+     "rank": 12
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V29",
@@ -4784,7 +4784,7 @@
      "shoot": "pexels-living-room-quiet-avoid",
      "score": 2.65,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 2
+     "rank": 3
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V30",
@@ -4814,7 +4814,7 @@
      "shoot": "pexels-loft-office-smile-chat",
      "score": 2.0,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 3
+     "rank": 4
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V31",
@@ -4844,7 +4844,7 @@
      "shoot": "pexels-cafe-pastrycase-talk",
      "score": 1.0,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 7
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V32",
@@ -4874,7 +4874,7 @@
      "shoot": "pexels-office-lounge-cityview",
      "score": 0.65,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 11
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V33",
@@ -4904,7 +4904,7 @@
      "shoot": "pexels-hoodie-crossedarms-office",
      "score": 1.95,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 5
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V34",
@@ -4934,7 +4934,7 @@
      "shoot": "pexels-office-desk-monitors",
      "score": 0.65,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 12
+     "rank": 14
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V35",
@@ -4964,7 +4964,7 @@
      "shoot": "pexels-callcenter-headset-talk",
      "score": 0.0,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 14
+     "rank": 20
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V36",
@@ -4994,7 +4994,7 @@
      "shoot": "pexels-corporate-blazers-outside",
      "score": 0.65,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 13
+     "rank": 15
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V37",
@@ -5024,7 +5024,7 @@
      "shoot": "pexels-classroom-quiet-writing",
      "score": 2.0,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 4
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V38",
@@ -5084,7 +5084,7 @@
      "shoot": "pexels-suits-park-fountain",
      "score": 0.0,
      "judged_at": "2026-09-10T09:36:37Z",
-     "rank": 15
+     "rank": 21
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V40",
@@ -5098,15 +5098,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V40.strip.jpg",
      "title": "men wearing harness having a conversation",
      "query": "two workers awkward silence outdoors",
-     "shot": "A",
+     "shot": "C",
      "duration": 11,
      "src_id": "8964931",
      "download_url": "https://videos.pexels.com/video-files/8964931/8964931-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:27:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "two hi-vis workers talk on a bridge platform",
+     "violation": "",
+     "shoot": "pexels-bridge-hivis-duo-talk",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V41",
@@ -5120,15 +5128,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V41.strip.jpg",
      "title": "a man and a woman discussing proposal on the street",
      "query": "two workers awkward silence outdoors",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "5977056",
      "download_url": "https://videos.pexels.com/video-files/5977056/5977056-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:27:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two people review papers on a city street",
+     "violation": "",
+     "shoot": "pexels-street-corporate-papers",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V42",
@@ -5142,15 +5158,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V42.strip.jpg",
      "title": "curtain  wind  silence  silent  museum",
      "query": "workers silence awkward",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "122355",
      "download_url": "https://cdn.pixabay.com/video/2022/06/28/122355-725067752_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:27:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a curtain sways in an empty sunlit room",
+     "violation": "",
+     "shoot": "pixabay-curtain-empty-room",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V43",
@@ -5164,15 +5188,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V43.strip.jpg",
      "title": "fire  calls  wood fire  hot  lena  burning  burn down  light  turn on  red  combustion",
      "query": "worker hesitating down",
-     "shot": "B",
+     "shot": "",
      "duration": 58,
      "src_id": "3742",
      "download_url": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:27:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a small flame burns in darkness",
+     "violation": "",
+     "shoot": "pixabay-flame-dark-closeup",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V44",
@@ -5186,15 +5218,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V44.strip.jpg",
      "title": "spa  water  rock  silence  meditation  stone  nature  landscape",
      "query": "workers silence awkward",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "55270",
      "download_url": "https://cdn.pixabay.com/video/2020/11/07/55270-499594074_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:27:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "stacked balancing stones sit in still water",
+     "violation": "",
+     "shoot": "pixabay-zen-stones-water",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V45",
@@ -5208,15 +5248,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V45.strip.jpg",
      "title": "watch  chicken  brood  mother  cub  feathers  wolf down",
      "query": "worker hesitating down",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "111286",
      "download_url": "https://cdn.pixabay.com/video/2022/03/19/111286-691216280_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a fluffy hen feeds chicks from a dish",
+     "violation": "wildlife",
+     "shoot": "pixabay-hen-chicks-feeding",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V46",
@@ -5230,15 +5278,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V46.strip.jpg",
      "title": "wind  silence  quiet",
      "query": "workers silence awkward",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "15131",
      "download_url": "https://cdn.pixabay.com/video/2018/03/20/15131-261402893_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a withered leaf hangs from a branch in the wind",
+     "violation": "flowers-only",
+     "shoot": "pixabay-withered-leaf-branch",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V47",
@@ -5252,15 +5308,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V47.strip.jpg",
      "title": "glass processing  grinding wheel  drill  glass  polishing  grinding  cutting  grinding machine  table  work  worker  works  workshop  hands",
      "query": "workers together return work",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "11750",
      "download_url": "https://cdn.pixabay.com/video/2017/09/01/11750-232583783_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand grinds the edge of a glass sheet",
+     "violation": "",
+     "shoot": "pixabay-glass-grinding",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V48",
@@ -5274,15 +5338,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V48.strip.jpg",
      "title": "swamp fever  beaver  gnaw  wolf down  water  riverbank  nab  teeth",
      "query": "worker hesitating down",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "94443",
      "download_url": "https://cdn.pixabay.com/video/2021/11/03/94443-643067802_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a beaver forages on a rocky riverbank",
+     "violation": "wildlife",
+     "shoot": "pixabay-beaver-riverbank",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S05-V49",
@@ -5296,15 +5368,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S05__strip__edenrise-c2-six-needs-reactions-S05-V49.strip.jpg",
      "title": "industry  factory  steel  iron  iron bars  workers  hard work  work  engineer  assembly  helmet  tool  hard",
      "query": "workers together return work",
-     "shot": "D",
+     "shot": "",
      "duration": 48,
      "src_id": "40054",
      "download_url": "https://cdn.pixabay.com/video/2020/05/24/40054-424371552_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "workers move steel coils with cranes in a factory",
+     "violation": "factories",
+     "shoot": "pixabay-steel-factory-cranes",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:41:57Z",
+     "rank": 25
     }
    ],
    "timing_source": "estimated",
@@ -5347,10 +5427,10 @@
    "shots_at": "2026-09-09T14:34:03Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-10T09:36:37Z",
+    "at": "2026-09-10T09:41:57Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-10T09:36:37Z"
+   "judged_at": "2026-09-10T09:41:57Z"
   },
   {
    "id": "S06",
