@@ -137,8 +137,10 @@
     "S15": {
       "requested": "2026-09-09T21:25:31Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T04:46:10Z",
+      "added": 19
     }
   }
 }

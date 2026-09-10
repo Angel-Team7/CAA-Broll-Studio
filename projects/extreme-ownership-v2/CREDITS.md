@@ -150,3 +150,22 @@
 | pixabay | clock  time  timepiece  minutes  watch  movement  antique  d | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55760/ |
 | pixabay | countdown  ten  nine  eight  time  clock  10  stopwatch  dea | TheDigitalArtist | Pixabay Content License | https://pixabay.com/videos/id-558/ |
 | pixabay | ai generated  hourglass  time  clock  sand  timer  countdown | klaatubaradanikto | Pixabay Content License | https://pixabay.com/videos/id-357743/ |
+| pexels | a young boy sitting alone on the park bench and using phone | GK Kumawat | Pexels License | https://www.pexels.com/video/a-young-boy-sitting-alone-on-the-park-bench-and-using-phone-20000941/ |
+| pexels | man ignoring a woman | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/man-ignoring-a-woman-7278685/ |
+| pexels | serene waterfront scene with passing ferry | Yaşar Başkurt | Pexels License | https://www.pexels.com/video/serene-waterfront-scene-with-passing-ferry-32550041/ |
+| pexels | man talking on phone on park bench | Maksim Goncharenok | Pexels License | https://www.pexels.com/video/man-talking-on-phone-on-park-bench-9947047/ |
+| pexels | a construction worker entering a building basement | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/ |
+| pexels | workers on construction | manas patra | Pexels License | https://www.pexels.com/video/workers-on-construction-12098511/ |
+| pexels | a woman answering a telephone | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-answering-a-telephone-8467632/ |
+| pexels | a man having a video call on his smartphone | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-having-a-video-call-on-his-smartphone-6413928/ |
+| pexels | a man walking on the bridge | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-walking-on-the-bridge-8964730/ |
+| pexels | man ignoring a woman | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/man-ignoring-a-woman-7278691/ |
+| pexels | construction worker watering concrete slab | aksinfo7 universe | Pexels License | https://www.pexels.com/video/construction-worker-watering-concrete-slab-30867886/ |
+| pexels | construction worker on site during building phase | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-worker-on-site-during-building-phase-32244797/ |
+| pexels | aerial view of unfinished construction site | SweeMing YOUNG | Pexels License | https://www.pexels.com/video/aerial-view-of-unfinished-construction-site-31740440/ |
+| pexels | a man talking on the phone | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-man-talking-on-the-phone-4988741/ |
+| pixabay | run  field  man  person  run away  wind | sergo75-75 | Pixabay Content License | https://pixabay.com/videos/id-45711/ |
+| pixabay | construction  site  excavator  house  new house  development | D-GM | Pixabay Content License | https://pixabay.com/videos/id-121409/ |
+| pixabay | construction site  trucks  lorries  aerial view  transport   | Ian5152 | Pixabay Content License | https://pixabay.com/videos/id-225740/ |
+| pixabay | phone  smartphone  mobile  portable  screen  digital  commun | Natures_Embrace | Pixabay Content License | https://pixabay.com/videos/id-202987/ |
+| pixabay | woman  phone  smartphone  technology  mobile  telephone  cel | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38084/ |
