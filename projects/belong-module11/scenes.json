@@ -5,7 +5,7 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "This module is about words. It might seem like a strange training topic — but you'll use words with guests hundreds of times a day, and the words we choose are as much a part of Craveiral as the pine trees. A place that talks about the rhythm of the land in the tone of an airport announcement is a place at war with itself. So: the Craveiral voice. The principle first. Our voice is calm, warm, concrete and unhurried — like the place. We don't gush, we don't perform enthusiasm, we don't sound like a script. We sound like a person from this land who is glad you came and knows things worth knowing",
+   "script_line": "This module is about words. It might seem like a strange training topic — but you'll use words with guests hundreds of times a day, and the words we choose are as much a part of Craveiral as the pine trees. A place that talks about the rhythm of the land in the tone of an airport announcement is a place at war with itself. So: the Craveiral voice.",
    "visual_direction": "Words in the air: an easy conversation at a farm table, gestures and laughter, pines swaying behind — language as landscape. Medium wide, natural.",
    "clips": [
     {
@@ -842,11 +842,11 @@
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:27:38Z",
    "t": 0.0,
-   "end": 59.17
+   "end": 28.55
   },
   {
    "id": "S02",
-   "script_line": "Now, some vocabulary — because small word choices carry the whole philosophy. We say houses, not units or rooms. Guests sleep in a house with a kitchen and a terrace; the word should honour that. We say guests, never clients or customers — we covered why. We say the farm, because it is one — a real, working farm, not \"grounds\" or \"landscaping\". We say the FarmTable, and we talk about dishes by where they came from, not just what they are. And notice the words the brand lives by — belong, stay, the rhythm of the land, root-to-table, the chain — use them naturally when they're true, never as dec",
+   "script_line": "The principle first. Our voice is calm, warm, concrete and unhurried — like the place. We don't gush, we don't perform enthusiasm, we don't sound like a script. We sound like a person from this land who is glad you came and knows things worth knowing. That's it. If you're ever unsure how to say something, say it the way you'd say it to a friend's parents visiting your home — respectful, warm, real.",
    "visual_direction": "The tone embodied: a host leans against a doorway chatting with guests on a terrace, relaxed posture, no script anywhere — genuine ease. Medium, golden light. [image-beat]",
    "clips": [
     {
@@ -2004,12 +2004,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:27:38Z",
-   "t": 59.17,
-   "end": 105.1
+   "t": 28.55,
+   "end": 59.17
   },
   {
    "id": "S03",
-   "script_line": "The same care applies in reverse. Words we avoid: anything that makes us sound like a resort chain. \"Amenity\". \"Property features\". \"Valued guest\". Corporate language is a wall between two people; our whole project is taking walls down. And avoid over-promising words — \"perfect\", \"guaranteed\", \"always\". The Alentejo has weather, farms have seasons, kitchens have nights. Promise what we control: care, honesty, effort. Those we can always deliver. Speaking with international guests — and most of our guests are international: German, Dutch, French, British, American. Three notes. First, keep Engl",
+   "script_line": "Now, some vocabulary — because small word choices carry the whole philosophy. We say houses, not units or rooms. Guests sleep in a house with a kitchen and a terrace; the word should honour that. We say guests, never clients or customers — we covered why. We say the farm, because it is one — a real, working farm, not \"grounds\" or \"landscaping\".",
    "visual_direction": "The words made physical: a whitewashed house with its door open in welcome, a real working farm behind it — nouns you can stand inside. Wide, honest. [image-beat]",
    "clips": [
     {
@@ -2838,12 +2838,12 @@
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
    "judged_at": "2026-09-10T09:27:38Z",
-   "t": 105.1,
-   "end": 183.72
+   "t": 59.17,
+   "end": 85.24
   },
   {
    "id": "S04",
-   "script_line": "Writing. Some of you write to guests — emails, messages, responses to questions. Same voice, on paper. Short sentences. Warm but never syrupy. Always concrete: not \"we look forward to welcoming you soon\" as an empty formula, but \"the pool is heated in October and the trails are at their best — you're coming at a lovely time.\" One true, specific sentence outperforms three ornamental ones, every time. And how we speak to each other — because the internal voice becomes the external one, always. Teams that speak to each other with respect serve guests with grace; teams that bark at each other back",
+   "script_line": "We say the FarmTable, and we talk about dishes by where they came from, not just what they are. And notice the words the brand lives by — belong, stay, the rhythm of the land, root-to-table, the chain — use them naturally when they're true, never as decoration.",
    "visual_direction": "Storytelling service: a waiter sets down a plate and gestures toward the garden, one line about origin; the guest turns to look. Medium two-shot.",
    "clips": [
     {
@@ -3608,12 +3608,12 @@
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
    "judged_at": "2026-09-10T09:27:38Z",
-   "t": 183.72,
-   "end": 255.31
+   "t": 85.24,
+   "end": 105.1
   },
   {
    "id": "S05",
-   "script_line": "One more thing: how we talk about Craveiral when we're not at Craveiral. Each of you is the brand at a dinner table, on your own social media, in the village café. I'm not going to police that — I wouldn't want to. I'll only say: the stories you tell about this place are the most credible marketing we will ever have, infinitely more than anything we buy. Tell the true ones. Including the funny ones. Especially the funny ones.",
+   "script_line": "The same care applies in reverse. Words we avoid: anything that makes us sound like a resort chain. \"Amenity\". \"Property features\". \"Valued guest\". Corporate language is a wall between two people; our whole project is taking walls down. And avoid over-promising words — \"perfect\", \"guaranteed\", \"always\". The Alentejo has weather, farms have seasons, kitchens have nights. Promise what we control: care, honesty, effort. Those we can always deliver.",
    "visual_direction": "Anti-corporate warmth: unguarded laughter between staff and guest, a shared joke over the counter, human connection with zero performance. Candid medium. [image-beat]",
    "clips": [
     {
@@ -4443,12 +4443,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:28:46Z",
-   "t": 255.31,
-   "end": 288.41
+   "t": 105.1,
+   "end": 133.24
   },
   {
    "id": "S06",
-   "script_line": "Words, in the end, are hospitality's smallest unit. A stay is thousands of them. Choose them the way the kitchen chooses tomatoes — in season, close to home, and real. Last module coming up — and it's the one I care most about getting right: how we lead, how we work together, and what I expect from you and you should expect from me.",
+   "script_line": "Speaking with international guests — and most of our guests are international: German, Dutch, French, British, American. Three notes. First, keep English simple and warm; you don't need perfect grammar, you need clear goodwill — a genuine \"let me find out for you\" beats fluent evasion in any language.",
    "visual_direction": "Across languages: an international couple and a team member finding their way through a friendly exchange, hand gestures helping, patience visible. Medium natural.",
    "clips": [
     {
@@ -5284,12 +5284,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:30:27Z",
-   "t": 288.41,
-   "end": 314.9
+   "t": 133.24,
+   "end": 153.52
   },
   {
    "id": "S07",
-   "script_line": "",
+   "script_line": "Second, teach a little Portuguese when the moment invites it: guests love leaving with \"obrigado\", \"bom dia\", the story of the word \"craveiral\" itself — a field of carnations — it's a gift that costs nothing. Third, cultures differ in what warmth looks like: some guests want conversation, others want efficiency and privacy — both deserve the same care, calibrated. Reading that difference is a skill; watch your most experienced colleagues do it.",
    "visual_direction": "The gift of words: a guest practicing a Portuguese word, delighted laughter at the attempt, a carnation offered as the story of the name is told. Warm close medium. [image-beat]",
    "clips": [
     {
@@ -5999,7 +5999,7 @@
      "rank": 11
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -6031,12 +6031,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:27:39Z",
-   "t": 314.9,
-   "end": 322.9
+   "t": 153.52,
+   "end": 183.72
   },
   {
    "id": "S08",
-   "script_line": "",
+   "script_line": "Writing. Some of you write to guests — emails, messages, responses to questions. Same voice, on paper. Short sentences. Warm but never syrupy. Always concrete: not \"we look forward to welcoming you soon\" as an empty formula, but \"the pool is heated in October and the trails are at their best — you're coming at a lovely time.\" One true, specific sentence outperforms three ornamental ones, every time.",
    "visual_direction": "Written warmth: a hand writing a short note in real ink on good paper, a warm concise email on screen beside a coffee — craft in few words. Macro detail. [image-beat]",
    "clips": [
     {
@@ -6714,7 +6714,7 @@
      "rank": 20
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -6746,12 +6746,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:27:39Z",
-   "t": 322.9,
-   "end": 330.9
+   "t": 183.72,
+   "end": 211.86
   },
   {
    "id": "S09",
-   "script_line": "",
+   "script_line": "And how we speak to each other — because the internal voice becomes the external one, always. Teams that speak to each other with respect serve guests with grace; teams that bark at each other backstage leak that tension into the dining room within a week — guests feel it before they can name it. So: no shouting culture, not even in the kitchen at full throttle. Direct is good, sharp is fine under pressure, disrespectful is never fine. Disagree openly, decide, move — I'd rather hear an honest \"this isn't working\" in a team meeting than a polite silence that costs us a season.",
    "visual_direction": "Backstage grace: a busy kitchen moving fast but calm — quiet coordination, a nod instead of a shout, respect at full speed. Medium, kinetic but composed.",
    "clips": [
     {
@@ -7239,7 +7239,7 @@
      "shown": true
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -7271,12 +7271,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-09T17:35:56Z",
-   "t": 330.9,
-   "end": 338.9
+   "t": 211.86,
+   "end": 255.31
   },
   {
    "id": "S10",
-   "script_line": "",
+   "script_line": "One more thing: how we talk about Craveiral when we're not at Craveiral. Each of you is the brand at a dinner table, on your own social media, in the village café. I'm not going to police that — I wouldn't want to. I'll only say: the stories you tell about this place are the most credible marketing we will ever have, infinitely more than anything we buy. Tell the true ones. Including the funny ones. Especially the funny ones. Words, in the end, are hospitality's smallest unit. A stay is thousands of them. Choose them the way the kitchen chooses tomatoes — in season, close to home, and real. Last module coming up — and it's the one I care most about getting right: how we lead, how we work together, and what I expect from you and you should expect from me.",
    "visual_direction": "Story hour: someone holding a table rapt over dinner, candlelight, hands mid-gesture, the whole table leaning in laughing. Warm wide, evening.",
    "clips": [
     {
@@ -8080,7 +8080,7 @@
      "rank": 11
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -8112,8 +8112,8 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "judged_at": "2026-09-10T09:27:39Z",
-   "t": 338.9,
-   "end": 346.9
+   "t": 255.31,
+   "end": 314.9
   }
  ]
 }

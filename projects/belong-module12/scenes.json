@@ -5,7 +5,7 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Last module. And I've saved the most important conversation for the end: how we work together. Not the org chart — the real thing. What I believe about leading people, what I expect from you, and what you have every right to expect from me. Let me start with a confession. Nobody taught me hospitality management. I was a lawyer who fell in love with a field of carnations. Almost everything I know about running this place, I learned by doing it — and by getting it wrong first. So when I talk about mistakes, I'm not being generous from some throne of perfection. I'm speaking as this company's mos",
+   "script_line": "Last module. And I've saved the most important conversation for the end: how we work together. Not the org chart — the real thing. What I believe about leading people, what I expect from you, and what you have every right to expect from me.",
    "visual_direction": "One-on-one intimacy: two people across a wooden table in honest conversation, coffee between them, morning light — leadership as dialogue. Tight two-shot. [image-beat]",
    "clips": [
     {
@@ -908,11 +908,11 @@
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-10T09:27:39Z",
    "t": 0.0,
-   "end": 47.17
+   "end": 18.62
   },
   {
    "id": "S02",
-   "script_line": "Here's my first principle: I'd rather correct your decision than make all the decisions. You are the person on the ground, in front of the guest, with the pan on the fire, with the room to prepare. You see things I will never see from Lisbon or from a spreadsheet. If you wait for permission for every judgment call, we become slow, and worse — you stop thinking, because why think when someone above you does it for you? So the rule is: when the guest is in front of you and something needs solving, solve it. Use the values as your compass — the long game, the relationship, the coherence between w",
+   "script_line": "Let me start with a confession. Nobody taught me hospitality management. I was a lawyer who fell in love with a field of carnations. Almost everything I know about running this place, I learned by doing it — and by getting it wrong first. So when I talk about mistakes, I'm not being generous from some throne of perfection. I'm speaking as this company's most experienced maker of mistakes.",
    "visual_direction": "The founder's road: a man walking his farmland alone at golden hour, weathered and thoughtful, the land that taught him stretching around. Wide contemplative. [image-beat]",
    "clips": [
     {
@@ -1242,12 +1242,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-09T17:40:57Z",
-   "t": 47.17,
-   "end": 113.38
+   "t": 18.62,
+   "end": 47.17
   },
   {
    "id": "S03",
-   "script_line": "Second principle: the mistake is not the problem — hiding it is. In eight years of building and eight more of operating, I've seen every kind of mistake. Doubles booked, dishes burnt, reservations lost, pipes opened at the wrong moment. Here's what I know: a mistake caught early is an anecdote; a mistake hidden is a crisis. So the deal between us is this — you bring me the problem while it's small, and I bring you calm, help, and zero drama. You hide it until it explodes, and then we have two problems, and the second one is trust. Speak early. Always. This applies upward too, by the way: when ",
+   "script_line": "Here's my first principle: I'd rather correct your decision than make all the decisions. You are the person on the ground, in front of the guest, with the pan on the fire, with the room to prepare. You see things I will never see from Lisbon or from a spreadsheet. If you wait for permission for every judgment call, we become slow, and worse — you stop thinking, because why think when someone above you does it for you? So the rule is: when the guest is in front of you and something needs solving, solve it. Use the values as your compass — the long game, the relationship, the coherence between what we say and what we do.",
    "visual_direction": "Autonomy in action: a team member assesses a situation and acts on the spot — no phone call upward, no hesitation, just judgment. Medium, decisive energy.",
    "clips": [
     {
@@ -1783,12 +1783,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-09T17:42:41Z",
-   "t": 113.38,
-   "end": 169.66
+   "t": 47.17,
+   "end": 96.41
   },
   {
    "id": "S04",
-   "script_line": "Third: standards are how we respect each other. I ask a lot. You know this. The details, the coherence, the promise-keeping — module six wasn't gentle. But understand why: high standards are a form of respect. Respect for the guest who paid us their trust. Respect for the colleague whose work your work either lifts or undermines — because in a place like this, everything touches everything: a late room delays a check-in, delays dinner, sours an evening. And respect for yourself — nobody feels proud going home from sloppy work, and pride in work is one of the great pleasures of life. I want Cra",
+   "script_line": "If your solution costs a bottle of wine or a free dessert to save a guest's evening: do it, tell your manager after. I will never, ever punish someone for a generous decision made in good faith for a guest. Never.",
    "visual_direction": "Sanctioned generosity: a server carries an unasked-for bottle of wine and dessert to a table, easy confidence in the gesture. Medium warm.",
    "clips": [
     {
@@ -2614,12 +2614,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-10T09:27:39Z",
-   "t": 169.66,
-   "end": 217.66
+   "t": 96.41,
+   "end": 113.38
   },
   {
    "id": "S05",
-   "script_line": "Fourth: we grow people, not just vegetables. The regeneration we preach for soil applies to careers. I want people from São Teotónio and Odemira to build real professional lives here without leaving their land — that's social sustainability with names and faces. If you want to learn — another section, another skill, wine, English, numbers — say so. The person cleaning houses today can be running housekeeping in three years; versions of that sentence have already come true here more than once. My commitment: we will always prefer to promote from within, and your ambition is welcome here. What I",
+   "script_line": "Second principle: the mistake is not the problem — hiding it is. In eight years of building and eight more of operating, I've seen every kind of mistake. Doubles booked, dishes burnt, reservations lost, pipes opened at the wrong moment. Here's what I know: a mistake caught early is an anecdote; a mistake hidden is a crisis. So the deal between us is this — you bring me the problem while it's small, and I bring you calm, help, and zero drama. You hide it until it explodes, and then we have two problems, and the second one is trust. Speak early. Always. This applies upward too, by the way: when I'm wrong, tell me. I promise you it won't be career-limiting — the people who've challenged me best are the people I trust most today.",
    "visual_direction": "Psychological safety: a young team member raises an issue openly, the listener calm and unbothered — zero drama, problem shrinking as it's spoken. Medium two-shot.",
    "clips": [
     {
@@ -3423,12 +3423,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-10T09:27:39Z",
-   "t": 217.66,
-   "end": 268.97
+   "t": 113.38,
+   "end": 169.66
   },
   {
    "id": "S06",
-   "script_line": "Fifth, and this one goes both directions: well-being is non-negotiable. I said it in the values module and I'll close with it. This industry has a long, ugly tradition of burning people out and calling it passion. Not here. Not on my watch. Breaks are real, days off are real, the schedule is human, and if it ever isn't — escalate it, to me if needed. I would rather run at slightly lower capacity than run on exhausted people, because exhausted people can't give warmth, and warmth is our entire product. And between yourselves: watch out for each other. Cover for the colleague having a hard week;",
+   "script_line": "Third: standards are how we respect each other. I ask a lot. You know this. The details, the coherence, the promise-keeping — module six wasn't gentle. But understand why: high standards are a form of respect. Respect for the guest who paid us their trust. Respect for the colleague whose work your work either lifts or undermines — because in a place like this, everything touches everything: a late room delays a check-in, delays dinner, sours an evening. And respect for yourself — nobody feels proud going home from sloppy work, and pride in work is one of the great pleasures of life. I want Craveiral to be the hardest job some of you ever love.",
    "visual_direction": "Craft pride: extreme detail of meticulous work — a knife sharpened, a hem pressed, a hinge oiled, a table set exactly — excellence as respect made visible. Macro series. [image-beat]",
    "clips": [
     {
@@ -3721,12 +3721,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-09T17:46:20Z",
-   "t": 268.97,
-   "end": 318.62
+   "t": 169.66,
+   "end": 217.66
   },
   {
    "id": "S07",
-   "script_line": "Let me land this whole thing. Sixteen years ago there was a field of carnations and a lawyer with a dream that most sensible people found ridiculous. Today there are thirty-eight houses full of stories, a farm that feeds hundreds of people a week, a beach bar on the sand, a table inside a museum in Lisbon, weddings under our pines, and a team — you — that carries all of it. None of it was inevitable. All of it came from believing that a place well cared for cares for those who inhabit it, and then working, season after season, as if that were true. It turned out it was.",
+   "script_line": "Fourth: we grow people, not just vegetables. The regeneration we preach for soil applies to careers. I want people from São Teotónio and Odemira to build real professional lives here without leaving their land — that's social sustainability with names and faces. If you want to learn — another section, another skill, wine, English, numbers — say so. The person cleaning houses today can be running housekeeping in three years; versions of that sentence have already come true here more than once. My commitment: we will always prefer to promote from within, and your ambition is welcome here. What I ask in return is that you teach others what you learn — knowledge that stays in one head is knowledge the team doesn't have.",
    "visual_direction": "Mentorship on the job: an experienced hand guiding a newer one — in the kitchen, the garden, at the desk — knowledge passing between generations. Medium warm. [image-beat]",
    "clips": [
     {
@@ -4547,12 +4547,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-10T09:34:20Z",
-   "t": 318.62,
-   "end": 364.55
+   "t": 217.66,
+   "end": 268.97
   },
   {
    "id": "S08",
-   "script_line": "You are part of that now. Not employed by it — part of it. And my deepest hope for your time here is the same thing we promise the guests, because it turns out the brand was never just for them. Fica. Pertence. Stay. Belong. Thank you for listening to all of this. Now — let's get to work. End of script. Approximate total: ~11,000 words · ~80 minutes at a natural teaching pace of 135–140 words per minute.",
+   "script_line": "Fifth, and this one goes both directions: well-being is non-negotiable. I said it in the values module and I'll close with it. This industry has a long, ugly tradition of burning people out and calling it passion. Not here. Not on my watch. Breaks are real, days off are real, the schedule is human, and if it ever isn't — escalate it, to me if needed. I would rather run at slightly lower capacity than run on exhausted people, because exhausted people can't give warmth, and warmth is our entire product. And between yourselves: watch out for each other. Cover for the colleague having a hard week; they'll cover you in yours. The team is the first community we regenerate.",
    "visual_direction": "The team's own table: staff sharing a relaxed meal together outdoors after service, laughter, plates passed, guard fully down. Wide golden evening. [image-beat]",
    "clips": [
     {
@@ -5432,12 +5432,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-10T09:33:38Z",
-   "t": 364.55,
-   "end": 397.24
+   "t": 268.97,
+   "end": 318.62
   },
   {
    "id": "S09",
-   "script_line": "",
+   "script_line": "Let me land this whole thing. Sixteen years ago there was a field of carnations and a lawyer with a dream that most sensible people found ridiculous. Today there are thirty-eight houses full of stories, a farm that feeds hundreds of people a week, a beach bar on the sand, a table inside a museum in Lisbon, weddings under our pines, and a team — you — that carries all of it.",
    "visual_direction": "The full sweep: a majestic golden-hour aerial across the whole estate — houses in the trees, farm rows, walkways — everything the dream became. Grand wide.",
    "clips": [
     {
@@ -5593,7 +5593,7 @@
      "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S09__preview__pexels_7279569_estate-aerial-golden-hour.jpg"
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -5625,12 +5625,12 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
    "judged_at": "2026-09-09T17:51:37Z",
-   "t": 397.24,
-   "end": 405.24
+   "t": 318.62,
+   "end": 348.41
   },
   {
    "id": "S10",
-   "script_line": "",
+   "script_line": "None of it was inevitable. All of it came from believing that a place well cared for cares for those who inhabit it, and then working, season after season, as if that were true. It turned out it was. You are part of that now. Not employed by it — part of it. And my deepest hope for your time here is the same thing we promise the guests, because it turns out the brand was never just for them. Fica. Pertence. Stay. Belong. Thank you for listening to all of this. Now — let's get to work.",
    "visual_direction": "Closing unity: the team gathered outdoors for a morning briefing in soft first light, nods, smiles, then everyone moves off to work with purpose. Wide to medium, rousing.",
    "clips": [
     {
@@ -6990,7 +6990,7 @@
      "rank": 47
     }
    ],
-   "timing_source": "unrecorded",
+   "timing_source": "estimated",
    "shots": [
     {
      "id": "A",
@@ -7034,8 +7034,8 @@
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
    "judged_at": "2026-09-10T09:34:52Z",
-   "t": 405.24,
-   "end": 413.24
+   "t": 348.41,
+   "end": 388.97
   }
  ]
 }
