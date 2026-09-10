@@ -6301,7 +6301,7 @@
      "shot": "",
      "shoot": "pexels-highrise-blueprint-review",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 3,
+     "rank": 17,
      "shown": false
     },
     {
@@ -6332,7 +6332,7 @@
      "shot": "",
      "shoot": "pexels-highrise-blueprint-review",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 4,
+     "rank": 18,
      "shown": false
     },
     {
@@ -6361,7 +6361,7 @@
      "shot": "B",
      "shoot": "pexels-woodworkers-discussing",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -6412,7 +6412,7 @@
      "shot": "",
      "shoot": "pixabay-scaffold-worker-facade",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 7,
+     "rank": 22,
      "shown": false
     },
     {
@@ -6441,7 +6441,7 @@
      "shot": "",
      "shoot": "pexels-highrise-blueprint-review",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 5,
+     "rank": 19,
      "shown": false
     },
     {
@@ -6469,7 +6469,7 @@
      "shot": "",
      "shoot": "pexels-highrise-blueprint-review",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 6,
+     "rank": 20,
      "shown": false
     },
     {
@@ -6499,7 +6499,7 @@
      "shot": "",
      "shoot": "pexels-rebar-crew-scaffolding",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 8,
+     "rank": 23,
      "shown": false
     },
     {
@@ -6531,8 +6531,8 @@
      "shot": "",
      "shoot": "pixabay-adult-child-planting",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 2,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S07-V27",
@@ -6559,7 +6559,7 @@
      "shot": "",
      "shoot": "pexels-highrise-crew-cranes",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 9,
+     "rank": 24,
      "shown": false
     },
     {
@@ -6588,7 +6588,7 @@
      "shot": "",
      "shoot": "pexels-rebar-crew-scaffolding",
      "judged_at": "2026-09-09T19:17:38Z",
-     "rank": 10,
+     "rank": 25,
      "shown": false
     },
     {
@@ -6685,15 +6685,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V29.strip.jpg",
      "title": "two colleagues talking and discussing documents",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 17,
      "src_id": "5977459",
      "download_url": "https://videos.pexels.com/video-files/5977459/5977459-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two people talk on lounge chairs by city windows",
+     "violation": "office",
+     "shoot": "pexels-office-lounge-city-view-discussion",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-kaizen-S07-V30",
@@ -6714,8 +6722,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "two men in workshop overalls stand with arms crossed",
+     "violation": "",
+     "shoot": "pexels-two-men-workshop-portrait-armscrossed",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-kaizen-S07-V31",
@@ -6729,15 +6745,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V31.strip.jpg",
      "title": "person holding hose",
      "query": "hand fixing hose connector water",
-     "shot": "C",
+     "shot": "A",
      "duration": 20,
      "src_id": "8469680",
      "download_url": "https://videos.pexels.com/video-files/8469680/8469680-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man holds a pressure hose in a workshop",
+     "violation": "",
+     "shoot": "pexels-man-holding-pressure-hose",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-kaizen-S07-V32",
@@ -6758,8 +6782,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man and woman talk calmly in warm sunlight",
+     "violation": "",
+     "shoot": "pexels-african-couple-overalls-talking-sunlit",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-kaizen-S07-V33",
@@ -6773,15 +6805,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V33.strip.jpg",
      "title": "men in the warehouse having a discussion",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "4281402",
      "download_url": "https://videos.pexels.com/video-files/4281402/4281402-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two workers talk in a warehouse aisle, aerial view",
+     "violation": "",
+     "shoot": "pexels-warehouse-workers-talking-aerial",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-kaizen-S07-V34",
@@ -6795,15 +6835,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V34.strip.jpg",
      "title": "two men sharing ideas at work",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "12283286",
      "download_url": "https://videos.pexels.com/video-files/12283286/12283286-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two men talk at a desk with a monitor and whiteboard",
+     "violation": "office",
+     "shoot": "pexels-two-men-office-whiteboard-monitor",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-kaizen-S07-V35",
@@ -6824,8 +6872,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a hand fits a mesh filter onto a pipe",
+     "violation": "",
+     "shoot": "pexels-hand-fitting-mesh-filter-pipe",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-kaizen-S07-V36",
@@ -6846,8 +6902,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand uses a socket wrench in a workshop",
+     "violation": "",
+     "shoot": "pexels-hand-socket-wrench-workshop",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-kaizen-S07-V37",
@@ -6861,15 +6925,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V37.strip.jpg",
      "title": "worker working in workshop",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 4,
      "src_id": "20712968",
      "download_url": "https://videos.pexels.com/video-files/20712968/20712968-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker in a hardhat checks equipment in a dark hold",
+     "violation": "dark industrial workshops",
+     "shoot": "pexels-worker-hardhat-dark-industrial-hold",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 29
     },
     {
      "id": "edenrise-c2-kaizen-S07-V38",
@@ -6883,15 +6955,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V38.strip.jpg",
      "title": "a man looking at blueprints",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 40,
      "src_id": "7484279",
      "download_url": "https://videos.pexels.com/video-files/7484279/7484279-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:51:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man points at a wall-mounted blueprint sheet",
+     "violation": "whiteboards",
+     "shoot": "pexels-man-blueprints-whiteboard-workshop",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-kaizen-S07-V39",
@@ -6905,15 +6985,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V39.strip.jpg",
      "title": "people having a discussion at work",
      "query": "two workers discussing broken tool calmly",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "7775095",
      "download_url": "https://videos.pexels.com/video-files/7775095/7775095-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man and woman talk at a desk with a whiteboard",
+     "violation": "office",
+     "shoot": "pexels-man-woman-office-monitor-whiteboard",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-kaizen-S07-V40",
@@ -6927,15 +7015,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V40.strip.jpg",
      "title": "person fixing wires",
      "query": "hand fixing hose connector water",
-     "shot": "C",
+     "shot": "",
      "duration": 18,
      "src_id": "6079663",
      "download_url": "https://videos.pexels.com/video-files/6079663/6079663-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "hands connect small wires on a machine",
+     "violation": "",
+     "shoot": "pexels-hands-wiring-electronics-closeup",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-kaizen-S07-V41",
@@ -6956,8 +7052,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a hand heats a pipe fitting with a torch",
+     "violation": "",
+     "shoot": "pexels-hand-blowtorch-hammer-pipe-repair",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-kaizen-S07-V42",
@@ -6971,15 +7075,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V42.strip.jpg",
      "title": "person fixing wires",
      "query": "hand fixing hose connector water",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "6079417",
      "download_url": "https://videos.pexels.com/video-files/6079417/6079417-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "hands adjust small wired components",
+     "violation": "",
+     "shoot": "pexels-hands-pin-components-closeup",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-kaizen-S07-V43",
@@ -6993,15 +7105,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V43.strip.jpg",
      "title": "delete  error  fix",
      "query": "hose connector fix hand",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "145013",
      "download_url": "https://cdn.pixabay.com/video/2023/01/02/145013-785852744_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a red graphic reads happy valentines day",
+     "violation": "",
+     "shoot": "pixabay-valentines-day-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-kaizen-S07-V44",
@@ -7015,15 +7135,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V44.strip.jpg",
      "title": "vegetables  vegan  hand  organic  food  4k",
      "query": "hose connector fix hand",
-     "shot": "C",
+     "shot": "",
      "duration": 31,
      "src_id": "167735",
      "download_url": "https://cdn.pixabay.com/video/2023/06/18/167735-837429013_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a hand picks a chili pepper from an arranged spread",
+     "violation": "",
+     "shoot": "pixabay-hand-peppers-produce",
+     "score": 2.75,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-kaizen-S07-V45",
@@ -7037,15 +7165,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V45.strip.jpg",
      "title": "firefighter  fire  burning  fireman  safety  helmet  rescue  equipment  danger  hose  protection  service  job  flames  emergency  heat  live  risk",
      "query": "leaking hose garden worker",
-     "shot": "A",
+     "shot": "",
      "duration": 33,
      "src_id": "47889",
      "download_url": "https://cdn.pixabay.com/video/2020/08/23/47889-452144042_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a firefighter sprays water onto a burning building",
+     "violation": "",
+     "shoot": "pixabay-firefighter-hose-building-fire",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-kaizen-S07-V46",
@@ -7059,15 +7195,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S07__strip__edenrise-c2-kaizen-S07-V46.strip.jpg",
      "title": "garden  green  agriculture  sprinkler  fresh  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultural  grow  summer  growth  organic  farm  gardening  healthy  cultures  nature  farmer  sun",
      "query": "irrigation garden bed",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "44775",
      "download_url": "https://cdn.pixabay.com/video/2020/07/15/44775-440000844_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a green walnut hangs among sunlit leaves",
+     "violation": "",
+     "shoot": "pixabay-walnut-tree-sunlit-leaves",
+     "score": 2.75,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-kaizen-S07-V47",
@@ -7088,8 +7232,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:52:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "sprinkler mist drifts behind a dried shrub",
+     "violation": "",
+     "shoot": "pixabay-dried-shrub-sprinkler-mist-bg",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-kaizen-S07-V48",
@@ -7110,8 +7262,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a sprinkler sprays mist over backlit plants",
+     "violation": "",
+     "shoot": "pixabay-sprinkler-spray-plants-backlit",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-kaizen-S07-V49",
@@ -7132,8 +7292,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "water droplets cling to corn leaves",
+     "violation": "",
+     "shoot": "pixabay-corn-leaves-water-droplets",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-kaizen-S07-V50",
@@ -7154,8 +7322,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a sprinkler arcs water over a leafy field",
+     "violation": "",
+     "shoot": "pixabay-sprinkler-arc-spray-field",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 1
     }
    ],
    "onscreen": "Move from criticism to contribution.",
@@ -7197,12 +7373,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T19:17:38Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:17:38Z"
+   "judged_at": "2026-09-10T09:45:58Z"
   },
   {
    "id": "S08",
@@ -7240,7 +7411,7 @@
      "shot": "D",
      "shoot": "pexels-elderly-couple-gardening",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -7286,8 +7457,8 @@
      "shot": "",
      "shoot": "pexels-woman-greenhouse-portrait",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 7,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V12",
@@ -7317,8 +7488,8 @@
      "shot": "D",
      "shoot": "pixabay-man-portrait-smiling",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 5,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V01",
@@ -7345,7 +7516,7 @@
      "shot": "",
      "shoot": "pixabay-hand-jigsaw-plank",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 3,
+     "rank": 10,
      "shown": true
     },
     {
@@ -7377,7 +7548,7 @@
      "shot": "",
      "shoot": "pexels-angle-grinder-rebar-sparks",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 13,
+     "rank": 29,
      "shown": false
     },
     {
@@ -7406,7 +7577,7 @@
      "shot": "",
      "shoot": "pexels-masked-worker-dark-workshop",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 15,
+     "rank": 33,
      "shown": false
     },
     {
@@ -7436,7 +7607,7 @@
      "shot": "",
      "shoot": "pexels-aerial-concrete-pour",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 16,
+     "rank": 34,
      "shown": false
     },
     {
@@ -7467,8 +7638,8 @@
      "shot": "A",
      "shoot": "pexels-hivis-elderly-gravel-site",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V21",
@@ -7495,7 +7666,7 @@
      "shot": "",
      "shoot": "pexels-sculptor-clay-studio",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 14,
+     "rank": 30,
      "shown": false
     },
     {
@@ -7524,8 +7695,8 @@
      "shot": "",
      "shoot": "pexels-carpenter-frame-workshop",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 4,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V23",
@@ -7553,7 +7724,7 @@
      "shot": "",
      "shoot": "pixabay-drill-press-metal",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 17,
+     "rank": 35,
      "shown": false
     },
     {
@@ -7609,8 +7780,8 @@
      "shot": "",
      "shoot": "pexels-elderly-man-laughing",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 8,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V38",
@@ -7637,8 +7808,8 @@
      "shot": "",
      "shoot": "pexels-woman-indoor-plant-shop",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 9,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V39",
@@ -7666,8 +7837,8 @@
      "shot": "",
      "shoot": "pexels-woman-safety-glasses-plants",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 10,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S08-V40",
@@ -7694,7 +7865,7 @@
      "shot": "",
      "shoot": "pexels-woman-smelling-flower",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -7722,7 +7893,7 @@
      "shot": "",
      "shoot": "pixabay-child-forest-crouching",
      "judged_at": "2026-09-09T19:19:01Z",
-     "rank": 12,
+     "rank": 27,
      "shown": false
     },
     {
@@ -7836,15 +8007,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V42.strip.jpg",
      "title": "a close up of a pile of dirt with a small white object",
      "query": "moving water barrel next to garden beds",
-     "shot": "B",
+     "shot": "",
      "duration": 31,
      "src_id": "20521975",
      "download_url": "https://videos.pexels.com/video-files/20521975/20521975-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a garden hoe digs into dark soil",
+     "violation": "",
+     "shoot": "pexels-hoe-tool-digging-soil",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-kaizen-S08-V43",
@@ -7858,15 +8037,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V43.strip.jpg",
      "title": "person tying a string to a newly planted tree",
      "query": "gardener looking at task hands on hips",
-     "shot": "A",
+     "shot": "",
      "duration": 26,
      "src_id": "7655144",
      "download_url": "https://videos.pexels.com/video-files/7655144/7655144-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a hand ties string to a newly planted tree",
+     "violation": "",
+     "shoot": "pexels-hand-tying-string-tree-stake",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-kaizen-S08-V44",
@@ -7880,15 +8067,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V44.strip.jpg",
      "title": "a person wearing gloves",
      "query": "gardener looking at task hands on hips",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "8543767",
      "download_url": "https://videos.pexels.com/video-files/8543767/8543767-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "gloved hands adjust a work glove near plants",
+     "violation": "",
+     "shoot": "pexels-gloved-hands-adjusting-glove-plants",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-kaizen-S08-V45",
@@ -7902,15 +8097,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V45.strip.jpg",
      "title": "a person shoveling dirt",
      "query": "moving water barrel next to garden beds",
-     "shot": "B",
+     "shot": "",
      "duration": 48,
      "src_id": "6160034",
      "download_url": "https://videos.pexels.com/video-files/6160034/6160034-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:53:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a gloved hand shovels soil into a large tub",
+     "violation": "",
+     "shoot": "pexels-gloved-hand-shoveling-soil-tub",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-kaizen-S08-V46",
@@ -7931,8 +8134,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a hand waters seedling trays in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-hand-watering-seedling-trays-greenhouse",
+     "score": 5.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-kaizen-S08-V47",
@@ -7953,8 +8164,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a hand pours water over a garden bed",
+     "violation": "",
+     "shoot": "pexels-hand-watering-can-garden-bed",
+     "score": 5.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-kaizen-S08-V48",
@@ -7968,15 +8187,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V48.strip.jpg",
      "title": "woman holding water spryer",
      "query": "gardener looking at task hands on hips",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "8514332",
      "download_url": "https://videos.pexels.com/video-files/8514332/8514332-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a woman smiles while holding a small bottle among plants",
+     "violation": "",
+     "shoot": "pexels-woman-yellow-shirt-plant-shop-smiling",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-kaizen-S08-V49",
@@ -7997,8 +8224,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "hands tip a watering can over a cabbage bed",
+     "violation": "",
+     "shoot": "pexels-hands-watering-can-cabbage-bed",
+     "score": 5.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-kaizen-S08-V50",
@@ -8019,8 +8254,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hose sprays water over a mulched flower bed",
+     "violation": "",
+     "shoot": "pexels-hose-spraying-mulch-bed-flowers",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-kaizen-S08-V51",
@@ -8034,15 +8277,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V51.strip.jpg",
      "title": "a person planting in a garden",
      "query": "moving water barrel next to garden beds",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "7655284",
      "download_url": "https://videos.pexels.com/video-files/7655284/7655284-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a woman plants seedlings in a raised garden bed",
+     "violation": "",
+     "shoot": "pexels-woman-planting-raised-bed-trowels",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-kaizen-S08-V52",
@@ -8056,15 +8307,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V52.strip.jpg",
      "title": "close up view of a person playing cards",
      "query": "hand ticking checkbox on card",
-     "shot": "C",
+     "shot": "",
      "duration": 26,
      "src_id": "6813807",
      "download_url": "https://videos.pexels.com/video-files/6813807/6813807-hd_2048_988_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "hands deal playing cards on a table",
+     "violation": "",
+     "shoot": "pexels-hands-playing-cards-table",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-kaizen-S08-V53",
@@ -8085,8 +8344,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man in a cowboy hat leans against a wire fence",
+     "violation": "",
+     "shoot": "pexels-man-cowboy-hat-leaning-fence",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-kaizen-S08-V54",
@@ -8107,8 +8374,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a gloved hand points along rows of seedling trays",
+     "violation": "",
+     "shoot": "pexels-aerial-hand-inspecting-seedling-trays",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-kaizen-S08-V55",
@@ -8129,8 +8404,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a person waters plants inside a fenced garden structure",
+     "violation": "",
+     "shoot": "pexels-person-watering-greenhouse-structure",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-kaizen-S08-V56",
@@ -8144,15 +8427,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V56.strip.jpg",
      "title": "woman  card  shopping  communication  smartphone  phone  female  hand  job  lifestyle",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "83865",
      "download_url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:54:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman smiles while holding a card indoors",
+     "violation": "",
+     "shoot": "pixabay-woman-smiling-lounge-card",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-kaizen-S08-V57",
@@ -8166,15 +8457,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V57.strip.jpg",
      "title": "hand washing  washing  hand  hygiene  soap  bathroom",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 51,
      "src_id": "51807",
      "download_url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hands are washed under a running faucet",
+     "violation": "",
+     "shoot": "pixabay-hands-washing-sink-teal",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-kaizen-S08-V58",
@@ -8195,8 +8494,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man shields his eyes while leaning on a fence",
+     "violation": "",
+     "shoot": "pixabay-man-thinking-bridge-fence",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-kaizen-S08-V59",
@@ -8210,15 +8517,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V59.strip.jpg",
      "title": "new year  2023  festive  celebration  cheers  greeting card",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "144128",
      "download_url": "https://cdn.pixabay.com/video/2022/12/25/144128-784280896_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a graphic reads happy new year 2023",
+     "violation": "",
+     "shoot": "pixabay-2023-newyear-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 36
     },
     {
      "id": "edenrise-c2-kaizen-S08-V60",
@@ -8232,15 +8547,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V60.strip.jpg",
      "title": "hands  girl  people  young  female  table  hand  white  go  sad",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "31654",
      "download_url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand reaches along a sunlit garden pergola",
+     "violation": "",
+     "shoot": "pexels-hand-pergola-garden-path",
+     "score": 2.05,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-kaizen-S08-V61",
@@ -8254,15 +8577,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V61.strip.jpg",
      "title": "merry christmas  new year  2023  greeting card  christmas",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "137338",
      "download_url": "https://cdn.pixabay.com/video/2022/11/01/137338-766338297_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a graphic reads happy new year 2023",
+     "violation": "",
+     "shoot": "pixabay-2023-newyear-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 37
     },
     {
      "id": "edenrise-c2-kaizen-S08-V62",
@@ -8276,15 +8607,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V62.strip.jpg",
      "title": "christmas  new year  celebration  card",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "142271",
      "download_url": "https://cdn.pixabay.com/video/2022/12/09/142271-779684814_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated snow-covered house glows at night",
+     "violation": "cartoons",
+     "shoot": "pixabay-animated-christmas-house-snowglobe",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 38
     },
     {
      "id": "edenrise-c2-kaizen-S08-V63",
@@ -8298,15 +8637,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S08__strip__edenrise-c2-kaizen-S08-V63.strip.jpg",
      "title": "christmas  christmas wishes  greeting card  holidays",
      "query": "checkbox tick hand card",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "143308",
      "download_url": "https://cdn.pixabay.com/video/2022/12/17/143308-782178523_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:55:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated christmas tree ribbon with a holiday greeting",
+     "violation": "cartoons",
+     "shoot": "pixabay-animated-christmas-tree-ribbon",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:45:58Z",
+     "rank": 39
     }
    ],
    "onscreen": "See it, Improve it, Test it, Repeat",
@@ -8350,10 +8697,10 @@
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T19:19:01Z",
+    "at": "2026-09-10T09:45:58Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T19:19:01Z"
+   "judged_at": "2026-09-10T09:45:58Z"
   }
  ]
 }
