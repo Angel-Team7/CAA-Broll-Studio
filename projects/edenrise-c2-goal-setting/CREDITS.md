@@ -111,3 +111,69 @@
 | pixabay | bacon  pan  hot  belly bacon  meal  food  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-240531/ |
 | pixabay | child  drawing  kid  pencil | Bairyna | Pixabay Content License | https://pixabay.com/videos/id-86242/ |
 | pixabay | street  man  worker  vietnam  life | bianhpro1st | Pixabay Content License | https://pixabay.com/videos/id-45686/ |
+| pexels | person removing a sticky note from a wall | Thirdman | Pexels License | https://www.pexels.com/video/person-removing-a-sticky-note-from-a-wall-5583721/ |
+| pexels | person holding scrum cards | cottonbro studio | Pexels License | https://www.pexels.com/video/person-holding-scrum-cards-7437141/ |
+| pexels | starting up a small business | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/starting-up-a-small-business-7279475/ |
+| pexels | crop person writing on a card | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/crop-person-writing-on-a-card-6653408/ |
+| pexels | mom writing a letter to santa claus | KoolShooters | Pexels License | https://www.pexels.com/video/mom-writing-a-letter-to-santa-claus-6157575/ |
+| pexels | a woman writing a message on a birthday card | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-writing-a-message-on-a-birthday-card-4920218/ |
+| pexels | printed quotes on paper | Kindel Media | Pexels License | https://www.pexels.com/video/printed-quotes-on-paper-7687596/ |
+| pexels | planing notes | Arnold Hazisllari | Pexels License | https://www.pexels.com/video/planing-notes-19462591/ |
+| pexels | two women are working in a greenhouse with plants | Bofforss | Pexels License | https://www.pexels.com/video/two-women-are-working-in-a-greenhouse-with-plants-20179399/ |
+| pexels | people gardening together | Andi  Farruku | Pexels License | https://www.pexels.com/video/people-gardening-together-6194561/ |
+| pexels | workers in a greenhouse plantation checking the crops | Pressmaster | Pexels License | https://www.pexels.com/video/workers-in-a-greenhouse-plantation-checking-the-crops-3195533/ |
+| pexels | greenhouse workers posing looking at camera | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/greenhouse-workers-posing-looking-at-camera-6509248/ |
+| pexels | plants on plastic trays | Gustavo Fring | Pexels License | https://www.pexels.com/video/plants-on-plastic-trays-5391451/ |
+| pexels | a woman checking on plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-woman-checking-on-plants-6508931/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85350/ |
+| pixabay | builder  worker  building  repair  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85349/ |
+| pixabay | repair  services  robot  future | didzisrubenis | Pixabay Content License | https://pixabay.com/videos/id-118091/ |
+| pixabay | stunt  motorbikes  synchronous  extreme  motorcycle  biker   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1083/ |
+| pixabay | cement  batter  development  building  machine  worker  work | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148540/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4728/ |
+| pixabay | garage  vehicle  truck  repair | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-200276/ |
+| pixabay | bolt  screw  fastening  metal  mechanics  repair | olenchic | Pixabay Content License | https://pixabay.com/videos/id-136297/ |
+| pexels | field worker in portugal 03 4k | Mathias De Rivo | Pexels License | https://www.pexels.com/video/field-worker-in-portugal-03-4k-27166978/ |
+| pexels | farmer watering vegetables in sunny field | Panya Niyomtham | Pexels License | https://www.pexels.com/video/farmer-watering-vegetables-in-sunny-field-35036267/ |
+| pexels | field worker in portugal 02 4k | Mathias De Rivo | Pexels License | https://www.pexels.com/video/field-worker-in-portugal-02-4k-27166735/ |
+| pexels | a group of people working in a field | Mặt Trời Xứ Lạng | Pexels License | https://www.pexels.com/video/a-group-of-people-working-in-a-field-26150318/ |
+| pexels | neat rows of green corn plants in a field | Çağrı KANMAZ | Pexels License | https://www.pexels.com/video/neat-rows-of-green-corn-plants-in-a-field-27253894/ |
+| pexels | a man standing on the field | FRANK MERIÑO | Pexels License | https://www.pexels.com/video/a-man-standing-on-the-field-8662277/ |
+| pexels | aerial view of people in agricultural field | Sahil Hansda | Pexels License | https://www.pexels.com/video/aerial-view-of-people-in-agricultural-field-28679770/ |
+| pexels | a man choosing vegetable plants inside a greenhouse | Pressmaster | Pexels License | https://www.pexels.com/video/a-man-choosing-vegetable-plants-inside-a-greenhouse-3191934/ |
+| pexels | a person writing using a ballpen | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-writing-using-a-ballpen-8086203/ |
+| pexels | close up footage of a person holding a chart | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-holding-a-chart-7844903/ |
+| pexels | man writing on a piece of paper | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-writing-on-a-piece-of-paper-5197908/ |
+| pexels | a person working with paperworks | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-working-with-paperworks-8478951/ |
+| pexels | a person drawing lines | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-drawing-lines-6614807/ |
+| pexels | close up view of a person writing on paper | Alena Darmel | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-writing-on-paper-7660017/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pixabay | billet  bank  debt  pen | andrepazleal | Pixabay Content License | https://pixabay.com/videos/id-13477/ |
+| pixabay | summer  field  harvest  combine  farmer  agriculture  work   | adamixx | Pixabay Content License | https://pixabay.com/videos/id-137851/ |
+| pixabay | men  farmers  agriculture  field  harvest  rice  asia  work  | u_wn4el5nsz0 | Pixabay Content License | https://pixabay.com/videos/id-212196/ |
+| pixabay | agriculture  tractor  planting  field  farm  machine  indust | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1098/ |
+| pixabay | man  farmer  agriculture  countryside  field  rural  farming | ammarvid | Pixabay Content License | https://pixabay.com/videos/id-243239/ |
+| pixabay | rice field  agriculture  farm  vietnam  hoian  danang  work  | Quankawa | Pixabay Content License | https://pixabay.com/videos/id-150950/ |
+| pixabay | digging  coal  machine  machinery  mine  earth  material  ro | munir92 | Pixabay Content License | https://pixabay.com/videos/id-27151/ |
+| pexels | two student talking together | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/two-student-talking-together-8108845/ |
+| pexels | two men in hard hats and red vests are working on a pipe | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-hard-hats-and-red-vests-are-working-on-a-pipe-27514205/ |
+| pexels | angry woman talking to a man | Yan Krukau | Pexels License | https://www.pexels.com/video/angry-woman-talking-to-a-man-7640704/ |
+| pexels | skilled worker operating in industrial workshop | Vitaliy  Izonin | Pexels License | https://www.pexels.com/video/skilled-worker-operating-in-industrial-workshop-32329420/ |
+| pexels | men checking the toolbox | Gustavo Fring | Pexels License | https://www.pexels.com/video/men-checking-the-toolbox-5895461/ |
+| pexels | a man in a yellow vest is working on a steel bar | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/a-man-in-a-yellow-vest-is-working-on-a-steel-bar-16106453/ |
+| pexels | asian workers loading boxes into truck | setengah lima sore | Pexels License | https://www.pexels.com/video/asian-workers-loading-boxes-into-truck-37546343/ |
+| pexels | electrician working on industrial battery bank | Mumtaz  Niazi | Pexels License | https://www.pexels.com/video/electrician-working-on-industrial-battery-bank-36167827/ |
+| pexels | two women sitting at table writing on notebook and a tablet | RDNE Stock project | Pexels License | https://www.pexels.com/video/two-women-sitting-at-table-writing-on-notebook-and-a-tablet-7683868/ |
+| pexels | close up view of a person trying to untangle a coil | Monstera Production | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-trying-to-untangle-a-coil-5264346/ |
+| pexels | twin sisters writing in their notebooks during an online cla | Alena Darmel | Pexels License | https://www.pexels.com/video/twin-sisters-writing-in-their-notebooks-during-an-online-class-9026010/ |
+| pexels | mi lugar favorito | Fernando Gimenez | Pexels License | https://www.pexels.com/video/mi-lugar-favorito-15518544/ |
+| pexels | kids doing arts while on the park | RDNE Stock project | Pexels License | https://www.pexels.com/video/kids-doing-arts-while-on-the-park-8034257/ |
+| pexels | schoolgirls reading a textbook during a field trip | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/schoolgirls-reading-a-textbook-during-a-field-trip-12724022/ |
+| pixabay | onion  cut  hands  knife  cook  prepare  food  kitchen  clos | klimkin | Pixabay Content License | https://pixabay.com/videos/id-11230/ |
+| pixabay | coffee  grains  black  pour  close-up  coffee beans  fried   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4948/ |
+| pixabay | origami  paper  bend  plane  isolated  close up  transport   | padrinan | Pixabay Content License | https://pixabay.com/videos/id-9081/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pixabay | power socket  electricity  fork  wire  turn on  switch off   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4975/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | lathe  wood  craft  handmade  work  processing  tool | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94444/ |

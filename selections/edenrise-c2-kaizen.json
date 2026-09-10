@@ -60,20 +60,26 @@
     "S01": {
       "requested": "2026-09-09T21:24:40Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T02:43:40Z",
+      "added": 22
     },
     "S02": {
       "requested": "2026-09-09T21:24:41Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T02:45:57Z",
+      "added": 22
     },
     "S03": {
       "requested": "2026-09-09T21:24:42Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T02:48:15Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:24:44Z",
