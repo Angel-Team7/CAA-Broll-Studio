@@ -1,262 +1,4 @@
 {
- "pexels:20260823": {
-  "at": "2026-09-10T09:27:26Z",
-  "brand": "belong",
-  "from": "belong-module8/S03",
-  "reason": "wrong city, not Lisbon"
- },
- "pexels:20374744": {
-  "at": "2026-09-10T09:22:17Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S02",
-  "reason": "face masks"
- },
- "pexels:27785687": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S10",
-  "reason": "elegant luxury garden wedding venue, conflicts with brand's not-luxury world"
- },
- "pexels:29420616": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S10",
-  "reason": "nightclub-like purple stage lighting at a night event"
- },
- "pexels:34350684": {
-  "at": "2026-09-10T09:28:22Z",
-  "brand": "belong",
-  "from": "belong-module2/S01",
-  "reason": "resort pool"
- },
- "pexels:36746045": {
-  "at": "2026-09-10T09:28:22Z",
-  "brand": "belong",
-  "from": "belong-module2/S01",
-  "reason": "resort pool"
- },
- "pexels:38298786": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S10",
-  "reason": "elegant luxury wedding reception, conflicts with brand's not-luxury authentic world"
- },
- "pexels:4436876": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S06",
-  "reason": "corporate/office desk with laptop and tie"
- },
- "pexels:6099467": {
-  "brand": "belong",
-  "reason": "corporate lobby",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
- },
- "pexels:6520274": {
-  "brand": "edenrise",
-  "reason": "face masks",
-  "at": "2026-09-10T09:03:21Z",
-  "from": "attention-to-detail-v2/S09"
- },
- "pexels:6761146": {
-  "brand": "belong",
-  "reason": "business suits",
-  "at": "2026-09-10T09:24:42Z",
-  "from": "belong-module11/S02"
- },
- "pexels:6828880": {
-  "brand": "belong",
-  "reason": "face masks",
-  "at": "2026-09-10T09:28:46Z",
-  "from": "belong-module11/S05"
- },
- "pexels:6828886": {
-  "brand": "belong",
-  "reason": "face masks",
-  "at": "2026-09-10T09:28:46Z",
-  "from": "belong-module11/S05"
- },
- "pexels:7149052": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S06",
-  "reason": "business suits / office setting"
- },
- "pexels:7841864": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S06",
-  "reason": "business suits / corporate setting"
- },
- "pexels:8068944": {
-  "brand": "belong",
-  "reason": "corporate lobby",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
- },
- "pexels:8482291": {
-  "at": "2026-09-10T09:22:17Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S02",
-  "reason": "face masks"
- },
- "pexels:8798432": {
-  "brand": "belong",
-  "reason": "bouquets",
-  "at": "2026-09-10T09:09:46Z",
-  "from": "belong-module1/S03"
- },
- "pexels:8922363": {
-  "brand": "belong",
-  "reason": "corporate restaurant",
-  "at": "2026-09-10T09:27:31Z",
-  "from": "belong-module11/S04"
- },
- "pixabay:1112": {
-  "brand": "belong",
-  "reason": "scripts or clipboards",
-  "at": "2026-09-10T09:24:42Z",
-  "from": "belong-module11/S02"
- },
- "pixabay:130651": {
-  "brand": "edenrise",
-  "reason": "off-brand indoor lifestyle scene, wrong world",
-  "at": "2026-09-10T08:47:27Z",
-  "from": "attention-to-detail-v2/S01"
- },
- "pixabay:149477": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S08",
-  "reason": "luxury spa clichés"
- },
- "pixabay:151831": {
-  "at": "2026-09-10T09:25:42Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S10",
-  "reason": "green screen"
- },
- "pixabay:16261": {
-  "at": "2026-09-10T09:28:23Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S03",
-  "reason": "abstract loops"
- },
- "pixabay:172687": {
-  "at": "2026-09-10T09:30:12Z",
-  "brand": "belong",
-  "from": "belong-module2/S02",
-  "reason": "luxury spa cliches, resort pool"
- },
- "pixabay:202135": {
-  "brand": "belong",
-  "reason": "corporate lobby",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
- },
- "pixabay:212404": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S10",
-  "reason": "urban corporate skyline, wrong brand world entirely"
- },
- "pixabay:250395": {
-  "at": "2026-09-10T09:27:39Z",
-  "brand": "belong",
-  "from": "belong-module11/S10",
-  "reason": "unrelated foreign landmark, wrong brand world entirely"
- },
- "pixabay:9933": {
-  "at": "2026-09-10T09:28:23Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S03",
-  "reason": "cartoons, green screen"
- },
- "pixabay:9934": {
-  "at": "2026-09-10T09:28:23Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S03",
-  "reason": "cartoons, green screen"
- },
- "pixabay:9935": {
-  "at": "2026-09-10T09:28:23Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S03",
-  "reason": "cartoons, green screen"
- },
- "pixabay:9977": {
-  "at": "2026-09-10T09:28:23Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S03",
-  "reason": "cartoons, green screen"
- },
- "pexels:8108468": {
-  "at": "2026-09-10T09:28:37Z",
-  "brand": "belong",
-  "from": "belong-module3/S11",
-  "reason": "face masks"
- },
- "pexels:6187882": {
-  "at": "2026-09-10T09:28:37Z",
-  "brand": "belong",
-  "from": "belong-module3/S11",
-  "reason": "luxury spa clichés"
- },
- "pexels:6285680": {
-  "at": "2026-09-10T09:29:20Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S12",
-  "reason": "suits"
- },
- "pexels:5939450": {
-  "at": "2026-09-10T09:29:20Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S12",
-  "reason": "office"
- },
- "pexels:37096388": {
-  "at": "2026-09-10T09:29:20Z",
-  "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S12",
-  "reason": "welding sparks"
- },
- "pexels:9737857": {
-  "at": "2026-09-10T09:30:12Z",
-  "brand": "belong",
-  "from": "belong-module2/S02",
-  "reason": "seedling in cupped hands cliche"
- },
- "pexels:8865916": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T09:30:40Z",
-  "from": "communication-dont-assume-clarify-v2/S04"
- },
- "pexels:7981943": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T09:30:40Z",
-  "from": "communication-dont-assume-clarify-v2/S04"
- },
- "pexels:8103018": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T09:30:40Z",
-  "from": "communication-dont-assume-clarify-v2/S04"
- },
- "pixabay:2141": {
-  "brand": "edenrise",
-  "reason": "abstract loops",
-  "at": "2026-09-10T09:30:40Z",
-  "from": "communication-dont-assume-clarify-v2/S04"
- },
- "pixabay:93008": {
-  "brand": "edenrise",
-  "reason": "cartoons, green screen",
-  "at": "2026-09-10T09:30:40Z",
-  "from": "communication-dont-assume-clarify-v2/S04"
- },
  "archive:https://archive.org/details/img-20201212121049": {
   "brand": "edenrise",
   "reason": "suits",
@@ -443,6 +185,18 @@
   "at": "2026-09-10T09:12:48Z",
   "from": "lesson-no-failure-feedback/S07"
  },
+ "pexels:20260823": {
+  "at": "2026-09-10T09:27:26Z",
+  "brand": "belong",
+  "from": "belong-module8/S03",
+  "reason": "wrong city, not Lisbon"
+ },
+ "pexels:20374744": {
+  "at": "2026-09-10T09:22:17Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S02",
+  "reason": "face masks"
+ },
  "pexels:20455991": {
   "brand": "edenrise",
   "reason": "welding sparks, factories",
@@ -454,6 +208,12 @@
   "reason": "hi-vis crowd",
   "at": "2026-09-09T18:57:26Z",
   "from": "benchmark-excellence-v2/S11"
+ },
+ "pexels:27785687": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S10",
+  "reason": "elegant luxury garden wedding venue, conflicts with brand's not-luxury world"
  },
  "pexels:27785914": {
   "brand": "edenrise",
@@ -502,6 +262,12 @@
   "reason": "office",
   "at": "2026-09-10T09:03:21Z",
   "from": "attention-to-detail-v2/S09"
+ },
+ "pexels:29420616": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S10",
+  "reason": "nightclub-like purple stage lighting at a night event"
  },
  "pexels:29487905": {
   "brand": "belong",
@@ -749,6 +515,12 @@
   "at": "2026-09-09T19:45:30Z",
   "from": "edenrise-c2-winning-beliefs/S06"
  },
+ "pexels:34350684": {
+  "at": "2026-09-10T09:28:22Z",
+  "brand": "belong",
+  "from": "belong-module2/S01",
+  "reason": "resort pool"
+ },
  "pexels:34596399": {
   "brand": "edenrise",
   "reason": "forced-labour or slave-like framing",
@@ -809,6 +581,18 @@
   "at": "2026-09-10T09:15:17Z",
   "from": "edenrise-c2-kaizen/S01"
  },
+ "pexels:36746045": {
+  "at": "2026-09-10T09:28:22Z",
+  "brand": "belong",
+  "from": "belong-module2/S01",
+  "reason": "resort pool"
+ },
+ "pexels:37096388": {
+  "at": "2026-09-10T09:29:20Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S12",
+  "reason": "welding sparks"
+ },
  "pexels:37500430": {
   "brand": "edenrise",
   "reason": "harsh slum setting, forced-labour-adjacent framing",
@@ -820,6 +604,12 @@
   "reason": "factory / warehouse",
   "at": "2026-09-09T16:40:39Z",
   "from": "belong-module9/S06"
+ },
+ "pexels:38298786": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S10",
+  "reason": "elegant luxury wedding reception, conflicts with brand's not-luxury authentic world"
  },
  "pexels:38313921": {
   "brand": "edenrise",
@@ -898,6 +688,12 @@
   "reason": "crowds doing the same manual task",
   "at": "2026-09-10T09:21:29Z",
   "from": "purpose-at-work/S02"
+ },
+ "pexels:4436876": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S06",
+  "reason": "corporate/office desk with laptop and tie"
  },
  "pexels:4487290": {
   "brand": "belong",
@@ -1079,6 +875,12 @@
   "at": "2026-09-09T19:20:18Z",
   "from": "edenrise-c2-six-needs-drives/S01"
  },
+ "pexels:5939450": {
+  "at": "2026-09-10T09:29:20Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S12",
+  "reason": "office"
+ },
  "pexels:5941106": {
   "at": "2026-09-10T09:23:45Z",
   "brand": "edenrise",
@@ -1133,11 +935,23 @@
   "at": "2026-09-10T09:06:34Z",
   "from": "be-a-lifelong-learner-v2/S08"
  },
+ "pexels:6099467": {
+  "brand": "belong",
+  "reason": "corporate lobby",
+  "at": "2026-09-10T09:30:27Z",
+  "from": "belong-module11/S06"
+ },
  "pexels:6169403": {
   "brand": "belong",
   "reason": "factories, warehouses",
   "at": "2026-09-10T09:22:47Z",
   "from": "belong-module10/S13"
+ },
+ "pexels:6187882": {
+  "at": "2026-09-10T09:28:37Z",
+  "brand": "belong",
+  "from": "belong-module3/S11",
+  "reason": "luxury spa clichés"
  },
  "pexels:6193005": {
   "brand": "edenrise",
@@ -1186,6 +1000,12 @@
   "reason": "office, suits",
   "at": "2026-09-10T09:04:38Z",
   "from": "be-a-lifelong-learner-v2/S05"
+ },
+ "pexels:6285680": {
+  "at": "2026-09-10T09:29:20Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S12",
+  "reason": "suits"
  },
  "pexels:6286304": {
   "at": "2026-09-10T09:22:14Z",
@@ -1295,6 +1115,12 @@
   "at": "2026-09-09T16:25:27Z",
   "from": "belong-module9/S03"
  },
+ "pexels:6520274": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-10T09:03:21Z",
+  "from": "attention-to-detail-v2/S09"
+ },
  "pexels:6532783": {
   "brand": "edenrise",
   "reason": "office/corporate attire",
@@ -1367,6 +1193,12 @@
   "at": "2026-09-10T09:08:41Z",
   "from": "be-a-lifelong-learner-v2/S10"
  },
+ "pexels:6761146": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-10T09:24:42Z",
+  "from": "belong-module11/S02"
+ },
  "pexels:6780082": {
   "brand": "edenrise",
   "reason": "office, laptops",
@@ -1420,6 +1252,18 @@
   "reason": "face masks",
   "at": "2026-09-09T16:43:59Z",
   "from": "belong-module9/S04"
+ },
+ "pexels:6828880": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:28:46Z",
+  "from": "belong-module11/S05"
+ },
+ "pexels:6828886": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:28:46Z",
+  "from": "belong-module11/S05"
  },
  "pexels:6877949": {
   "brand": "edenrise",
@@ -1480,6 +1324,12 @@
   "reason": "office/suits",
   "at": "2026-09-10T09:10:14Z",
   "from": "be-a-lifelong-learner-v2/S11"
+ },
+ "pexels:7149052": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S06",
+  "reason": "business suits / office setting"
  },
  "pexels:7180180": {
   "brand": "edenrise",
@@ -1997,6 +1847,12 @@
   "from": "edenrise-gratitude/S03",
   "reason": "office"
  },
+ "pexels:7841864": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S06",
+  "reason": "business suits / corporate setting"
+ },
  "pexels:7841915": {
   "brand": "edenrise",
   "reason": "office, suits",
@@ -2045,6 +1901,12 @@
   "at": "2026-09-09T15:57:20Z",
   "from": "belong-module9/S03"
  },
+ "pexels:8068944": {
+  "brand": "belong",
+  "reason": "corporate lobby",
+  "at": "2026-09-10T09:30:27Z",
+  "from": "belong-module11/S06"
+ },
  "pexels:8102411": {
   "brand": "belong",
   "reason": "corporate hotel chains",
@@ -2080,6 +1942,12 @@
   "reason": "classroom, whiteboards",
   "at": "2026-09-10T09:02:59Z",
   "from": "be-a-lifelong-learner-v2/S03"
+ },
+ "pexels:8108468": {
+  "at": "2026-09-10T09:28:37Z",
+  "brand": "belong",
+  "from": "belong-module3/S11",
+  "reason": "face masks"
  },
  "pexels:8124282": {
   "brand": "belong",
@@ -2243,6 +2111,12 @@
   "at": "2026-09-10T09:08:41Z",
   "from": "be-a-lifelong-learner-v2/S10"
  },
+ "pexels:8482291": {
+  "at": "2026-09-10T09:22:17Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S02",
+  "reason": "face masks"
+ },
  "pexels:8519325": {
   "brand": "belong",
   "reason": "corporate office",
@@ -2345,6 +2219,12 @@
   "at": "2026-09-09T18:29:42Z",
   "from": "belong-module9/S08"
  },
+ "pexels:8798432": {
+  "brand": "belong",
+  "reason": "bouquets",
+  "at": "2026-09-10T09:09:46Z",
+  "from": "belong-module1/S03"
+ },
  "pexels:8814519": {
   "brand": "edenrise",
   "reason": "suits",
@@ -2392,6 +2272,12 @@
   "reason": "business suits",
   "at": "2026-09-09T17:11:04Z",
   "from": "belong-module8/S09"
+ },
+ "pexels:8922363": {
+  "brand": "belong",
+  "reason": "corporate restaurant",
+  "at": "2026-09-10T09:27:31Z",
+  "from": "belong-module11/S04"
  },
  "pexels:8964375": {
   "brand": "edenrise",
@@ -2476,6 +2362,12 @@
   "reason": "office desk/laptop",
   "at": "2026-09-10T09:08:41Z",
   "from": "be-a-lifelong-learner-v2/S10"
+ },
+ "pexels:9737857": {
+  "at": "2026-09-10T09:30:12Z",
+  "brand": "belong",
+  "from": "belong-module2/S02",
+  "reason": "seedling in cupped hands cliche"
  },
  "pexels:9783042": {
   "brand": "belong",
@@ -4133,6 +4025,12 @@
   "at": "2026-09-09T17:47:08Z",
   "from": "belong-module9/S13"
  },
+ "pixabay:1112": {
+  "brand": "belong",
+  "reason": "scripts or clipboards",
+  "at": "2026-09-10T09:24:42Z",
+  "from": "belong-module11/S02"
+ },
  "pixabay:111291": {
   "at": "2026-09-10T09:25:18Z",
   "brand": "edenrise",
@@ -4216,6 +4114,12 @@
   "reason": "corporate lobby",
   "at": "2026-09-09T18:08:11Z",
   "from": "belong-module9/S01"
+ },
+ "pixabay:130651": {
+  "brand": "edenrise",
+  "reason": "off-brand indoor lifestyle scene, wrong world",
+  "at": "2026-09-10T08:47:27Z",
+  "from": "attention-to-detail-v2/S01"
  },
  "pixabay:131161": {
   "brand": "belong",
@@ -4337,6 +4241,12 @@
   "at": "2026-09-10T09:10:04Z",
   "from": "purpose-at-work/S05"
  },
+ "pixabay:149477": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S08",
+  "reason": "luxury spa clichés"
+ },
  "pixabay:150317": {
   "brand": "edenrise",
   "reason": "product placement, wrong indoor setting",
@@ -4348,6 +4258,12 @@
   "reason": "sales pitch imagery",
   "at": "2026-09-09T17:09:35Z",
   "from": "belong-module8/S08"
+ },
+ "pixabay:151831": {
+  "at": "2026-09-10T09:25:42Z",
+  "brand": "edenrise",
+  "from": "edenrise-gratitude/S10",
+  "reason": "green screen"
  },
  "pixabay:152006": {
   "brand": "edenrise",
@@ -4391,6 +4307,12 @@
   "at": "2026-09-09T17:42:41Z",
   "from": "belong-module12/S03"
  },
+ "pixabay:16261": {
+  "at": "2026-09-10T09:28:23Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S03",
+  "reason": "abstract loops"
+ },
  "pixabay:166273": {
   "brand": "edenrise",
   "reason": "cartoons",
@@ -4402,6 +4324,12 @@
   "reason": "abstract loops",
   "at": "2026-09-10T09:09:32Z",
   "from": "purpose-at-work/S08"
+ },
+ "pixabay:172687": {
+  "at": "2026-09-10T09:30:12Z",
+  "brand": "belong",
+  "from": "belong-module2/S02",
+  "reason": "luxury spa cliches, resort pool"
  },
  "pixabay:17333": {
   "brand": "belong",
@@ -4481,6 +4409,12 @@
   "at": "2026-09-10T08:53:12Z",
   "from": "attention-to-detail-v2/S08"
  },
+ "pixabay:202135": {
+  "brand": "belong",
+  "reason": "corporate lobby",
+  "at": "2026-09-10T09:30:27Z",
+  "from": "belong-module11/S06"
+ },
  "pixabay:202392": {
   "brand": "belong",
   "reason": "resort pool",
@@ -4540,6 +4474,12 @@
   "reason": "corporate hotel chain",
   "at": "2026-09-09T18:08:11Z",
   "from": "belong-module9/S01"
+ },
+ "pixabay:212404": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S10",
+  "reason": "urban corporate skyline, wrong brand world entirely"
  },
  "pixabay:213833": {
   "brand": "belong",
@@ -4648,6 +4588,12 @@
   "reason": "christmas, gift boxes, cartoon",
   "at": "2026-09-09T16:25:27Z",
   "from": "belong-module9/S03"
+ },
+ "pixabay:250395": {
+  "at": "2026-09-10T09:27:39Z",
+  "brand": "belong",
+  "from": "belong-module11/S10",
+  "reason": "unrelated foreign landmark, wrong brand world entirely"
  },
  "pixabay:25098": {
   "brand": "belong",
@@ -5243,6 +5189,60 @@
   "at": "2026-09-10T09:10:02Z",
   "from": "benchmark-excellence-v2/S01"
  },
+ "pixabay:9933": {
+  "at": "2026-09-10T09:28:23Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S03",
+  "reason": "cartoons, green screen"
+ },
+ "pixabay:9934": {
+  "at": "2026-09-10T09:28:23Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S03",
+  "reason": "cartoons, green screen"
+ },
+ "pixabay:9935": {
+  "at": "2026-09-10T09:28:23Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S03",
+  "reason": "cartoons, green screen"
+ },
+ "pixabay:9977": {
+  "at": "2026-09-10T09:28:23Z",
+  "brand": "edenrise",
+  "from": "communication-dont-assume-clarify-v2/S03",
+  "reason": "cartoons, green screen"
+ },
+ "pexels:8865916": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:30:40Z",
+  "from": "communication-dont-assume-clarify-v2/S04"
+ },
+ "pexels:7981943": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:30:40Z",
+  "from": "communication-dont-assume-clarify-v2/S04"
+ },
+ "pexels:8103018": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:30:40Z",
+  "from": "communication-dont-assume-clarify-v2/S04"
+ },
+ "pixabay:2141": {
+  "brand": "edenrise",
+  "reason": "abstract loops",
+  "at": "2026-09-10T09:30:40Z",
+  "from": "communication-dont-assume-clarify-v2/S04"
+ },
+ "pixabay:93008": {
+  "brand": "edenrise",
+  "reason": "cartoons, green screen",
+  "at": "2026-09-10T09:30:40Z",
+  "from": "communication-dont-assume-clarify-v2/S04"
+ },
  "pixabay:https://pixabay.com/videos/id-1009/": {
   "brand": "edenrise",
   "reason": "large-scale industrial building, no worker interaction",
@@ -5662,11 +5662,5 @@
   "reason": "green screen",
   "at": "2026-09-10T09:28:46Z",
   "from": "belong-module11/S05"
- },
- "pixabay:119843": {
-  "brand": "belong",
-  "reason": "translation apps on screen",
-  "at": "2026-09-10T09:30:27Z",
-  "from": "belong-module11/S06"
  }
 }
