@@ -1517,7 +1517,7 @@
      "shoot": "pexels-demolition-excavator",
      "score": 1.3,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 8,
+     "rank": 18,
      "shown": false
     },
     {
@@ -1549,8 +1549,8 @@
      "shoot": "pexels-aerial-mud-site",
      "score": 2.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 6,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "pexels_30836670_cement-mixer-site",
@@ -1571,8 +1571,8 @@
      "shoot": "pexels-cement-mixer",
      "score": 1.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 9,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "pexels_32027519_materials-pallet-delivery",
@@ -1615,8 +1615,8 @@
      "shoot": "pexels-suburban-delivery-truck",
      "score": 2.65,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 4,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "pexels_7541842_broken-machine-site",
@@ -1659,8 +1659,8 @@
      "shoot": "pexels-aerial-digger-yard",
      "score": 1.65,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 7,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pexels_9528325_construction-site-rain",
@@ -1681,7 +1681,7 @@
      "shoot": "pexels-night-rain-structure",
      "score": 3.0,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 3,
+     "rank": 10,
      "shown": true
     },
     {
@@ -1703,8 +1703,8 @@
      "shoot": "pixabay-storm-turbines",
      "score": 2.65,
      "judged_at": "2026-09-09T20:10:16Z",
-     "rank": 5,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "extreme-ownership-v2-S04-V00",
@@ -1718,15 +1718,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V00.strip.jpg",
      "title": "a young boy looking at parcels",
      "query": "empty delivery area waiting close",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "6994431",
      "download_url": "https://videos.pexels.com/video-files/6994431/6994431-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a boy sits among delivered packages at a green door",
+     "violation": "",
+     "shoot": "pexels-boy-packages-door",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 13
     },
     {
      "id": "extreme-ownership-v2-S04-V01",
@@ -1740,15 +1748,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V01.strip.jpg",
      "title": "time lapse footage of a construction site",
      "query": "broken machine on site worker",
-     "shot": "A",
+     "shot": "",
      "duration": 22,
      "src_id": "5513061",
      "download_url": "https://videos.pexels.com/video-files/5513061/5513061-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a miniature tilt-shift view of a construction site with excavators",
+     "violation": "",
+     "shoot": "pexels-tiltshift-construction-site",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 19
     },
     {
      "id": "extreme-ownership-v2-S04-V02",
@@ -1769,8 +1785,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a black package sits on a doorstep as feet approach",
+     "violation": "",
+     "shoot": "pexels-package-doorstep-feet",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 8
     },
     {
      "id": "extreme-ownership-v2-S04-V03",
@@ -1784,15 +1808,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V03.strip.jpg",
      "title": "aerial view of truck on rural road at dusk",
      "query": "empty delivery area waiting close",
-     "shot": "C",
+     "shot": "B",
      "duration": 4,
      "src_id": "34650065",
      "download_url": "https://videos.pexels.com/video-files/34650065/14686297_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an aerial view of a truck driving a rural road at dusk",
+     "violation": "",
+     "shoot": "pexels-aerial-truck-dusk-road",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 6
     },
     {
      "id": "extreme-ownership-v2-S04-V04",
@@ -1806,15 +1838,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V04.strip.jpg",
      "title": "a truck is being used to move a road",
      "query": "broken machine on site worker",
-     "shot": "A",
+     "shot": "",
      "duration": 5,
      "src_id": "27104367",
      "download_url": "https://videos.pexels.com/video-files/27104367/12073445_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an asphalt paving machine works with a crew in hi-vis",
+     "violation": "",
+     "shoot": "pexels-asphalt-paver-crew",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 20
     },
     {
      "id": "extreme-ownership-v2-S04-V05",
@@ -1835,8 +1875,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a large drilling rig bores into the ground at a deep site",
+     "violation": "",
+     "shoot": "pexels-drilling-rig-site",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 14
     },
     {
      "id": "extreme-ownership-v2-S04-V06",
@@ -1850,15 +1898,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V06.strip.jpg",
      "title": "a construction site with a bulldozer and a dump truck",
      "query": "broken machine on site worker",
-     "shot": "A",
+     "shot": "",
      "duration": 37,
      "src_id": "19672091",
      "download_url": "https://videos.pexels.com/video-files/19672091/19672091-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "an excavator crushes rubble in a cloud of dust",
+     "violation": "",
+     "shoot": "pexels-excavator-rubble-dust",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 21
     },
     {
      "id": "extreme-ownership-v2-S04-V07",
@@ -1879,8 +1935,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a delivery man hands a box to a woman at her door",
+     "violation": "",
+     "shoot": "pexels-delivery-man-door",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 9
     },
     {
      "id": "extreme-ownership-v2-S04-V08",
@@ -1901,8 +1965,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a cardboard box sits on a walkway near delivery vans",
+     "violation": "",
+     "shoot": "pexels-box-walkway-vans",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 4
     },
     {
      "id": "extreme-ownership-v2-S04-V09",
@@ -1923,8 +1995,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:34:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a worker in a safety vest bends rebar at a workbench",
+     "violation": "",
+     "shoot": "pexels-rebar-bending-vest",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 3
     },
     {
      "id": "extreme-ownership-v2-S04-V10",
@@ -1945,8 +2025,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a large red excavator works in a deep foundation pit",
+     "violation": "",
+     "shoot": "pexels-red-excavator-pit",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 15
     },
     {
      "id": "extreme-ownership-v2-S04-V11",
@@ -1960,15 +2048,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V11.strip.jpg",
      "title": "men operating heavy equipments",
      "query": "broken machine on site worker",
-     "shot": "A",
+     "shot": "",
      "duration": 26,
      "src_id": "3977979",
      "download_url": "https://videos.pexels.com/video-files/3977979/3977979-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a worker operates a glowing lathe machine in a dark workshop",
+     "violation": "dark industrial workshop",
+     "shoot": "pexels-lathe-dark-workshop",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 22
     },
     {
      "id": "extreme-ownership-v2-S04-V12",
@@ -1989,8 +2085,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a stack of delivered packages sits at a front door",
+     "violation": "",
+     "shoot": "pexels-packages-stack-door",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 7
     },
     {
      "id": "extreme-ownership-v2-S04-V13",
@@ -2011,8 +2115,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an empty drive-thru order station sits on a sunny path",
+     "violation": "",
+     "shoot": "pexels-empty-drivethru-station",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 5
     },
     {
      "id": "extreme-ownership-v2-S04-V14",
@@ -2026,15 +2138,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V14.strip.jpg",
      "title": "working site  excavator  construction  site  equipment  digger  machine  develop  industrial  construction site  construction equipment  dig  bulldozer  under construction  development  teamwork  aerial view",
      "query": "broken machine site",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "3741",
      "download_url": "https://cdn.pixabay.com/video/2016/07/08/3741-174188012_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view of a massive quarry mining site",
+     "violation": "",
+     "shoot": "pixabay-aerial-quarry-mining",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 26
     },
     {
      "id": "extreme-ownership-v2-S04-V15",
@@ -2048,15 +2168,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V15.strip.jpg",
      "title": "airport  slide  slider  passengers  plane  gate  waiting  sitting  glass  reflection  walking  people  route  journey  trip  vacation  i waiting area",
      "query": "empty delivery waiting",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "1383",
      "download_url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "silhouetted travelers wait at an airport gate window",
+     "violation": "",
+     "shoot": "pixabay-airport-silhouette-wait",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 24
     },
     {
      "id": "extreme-ownership-v2-S04-V16",
@@ -2070,15 +2198,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V16.strip.jpg",
      "title": "mechanism  gears  mechanics  metal  technology  machine",
      "query": "broken machine site",
-     "shot": "A",
+     "shot": "",
      "duration": 30,
      "src_id": "146301",
      "download_url": "https://cdn.pixabay.com/video/2023/01/12/146301-788789707_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "animated glowing mechanical gears turn in the dark",
+     "violation": "cartoon",
+     "shoot": "pixabay-cgi-gears-glow",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 27
     },
     {
      "id": "extreme-ownership-v2-S04-V17",
@@ -2092,15 +2228,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V17.strip.jpg",
      "title": "site  landfills  aftereffect  infographic  bug data  data analytics  machine learning",
      "query": "broken machine site",
-     "shot": "A",
+     "shot": "",
      "duration": 35,
      "src_id": "16261",
      "download_url": "https://cdn.pixabay.com/video/2018/05/16/16261-270577517_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial CGI overlay shows futuristic infrastructure data",
+     "violation": "cartoon",
+     "shoot": "pixabay-cgi-aerial-infrastructure",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 28
     },
     {
      "id": "extreme-ownership-v2-S04-V18",
@@ -2114,15 +2258,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V18.strip.jpg",
      "title": "boy  face  emotions  waiting  street  boy watching  child",
      "query": "empty delivery waiting",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "47064",
      "download_url": "https://cdn.pixabay.com/video/2020/08/13/47064-450094991_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:35:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a boy looks off to the side in a busy plaza",
+     "violation": "",
+     "shoot": "pixabay-boy-plaza-look",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 25
     },
     {
      "id": "extreme-ownership-v2-S04-V19",
@@ -2136,15 +2288,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-extreme-ownership-v2/S04__strip__extreme-ownership-v2-S04-V19.strip.jpg",
      "title": "matrix  code  thematrix  glitch  software  data  networking  virus  communication  programming  technology  web  delivery  network",
      "query": "empty delivery waiting",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "27693",
      "download_url": "https://cdn.pixabay.com/video/2019/10/09/27693-365890966_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:36:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "animated matrix-style falling code characters",
+     "violation": "cartoon",
+     "shoot": "pixabay-matrix-code-rain",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:26:20Z",
+     "rank": 29
     }
    ],
    "shots": [
@@ -2178,10 +2338,10 @@
    "shots_at": "2026-09-09T14:38:19Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-09T20:10:16Z",
+    "at": "2026-09-10T09:26:20Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T20:10:16Z"
+   "judged_at": "2026-09-10T09:26:20Z"
   },
   {
    "id": "S05",
