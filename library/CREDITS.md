@@ -1097,3 +1097,33 @@
 | pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/tulip-flowers-swaying-in-the-wind-12657349/ |
 | pexels |  | Serg Alesenko | Pexels License | https://www.pexels.com/video/flora-on-meadow-13962947/ |
 | pexels |  | Sibel Kubaş | Pexels License | https://www.pexels.com/video/vibrant-wildflowers-in-blooming-meadow-32071029/ |
+| pixabay | jesus child  nativity scene  christmas  advent  craft | Nightwolfone | Pixabay Content License | https://pixabay.com/videos/id-143323/ |
+| pixabay | child  child smiling  baby  kid  happy  smile  childhood  pe | nassimohmd | Pixabay Content License | https://pixabay.com/videos/id-33631/ |
+| pixabay | child  kid  family  father  mother  people | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212512/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/volunteer-wearing-gloves-and-face-mask-7474001/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-shaking-off-dirty-hands-7006654/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/buying-face-masks-4393478/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/corporate-woman-presenting-the-chart-to-her-colleagues-6563868/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-writing-on-a-notebook-at-the-office-7593571/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/people-woman-office-working-6561560/ |
+| pixabay | man  walking  alone  hiking  morning  fog  haze  nature  net | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-160972/ |
+| pixabay | man  alone  walking  hiking  morning  fog  national park  ne | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-177081/ |
+| pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
+| pexels |  | Polina ⠀ | Pexels License | https://www.pexels.com/video/a-person-writing-in-the-planner-6541138/ |
+| pexels |  | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/person-saving-a-date-on-his-planner-1793371/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-8108608/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/video-of-a-house-interior-7578552/ |
+| pexels |  | Max Vakhtbovych | Pexels License | https://www.pexels.com/video/a-modern-living-room-7533210/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/panning-video-of-a-display-shelf-6183253/ |
+| pexels |  | jacob fowler | Pexels License | https://www.pexels.com/video/aerial-shot-of-a-swimming-pool-6528623/ |
+| pexels |  | Kenan Turguç | Pexels License | https://www.pexels.com/video/aerial-view-of-tennis-court-and-pool-in-green-setting-32494369/ |
+| pexels |  | MENG MEDIA | Pexels License | https://www.pexels.com/video/man-walking-around-rooftop-poolside-area-38399810/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/lettuce-and-potatoes-on-market-stall-10039758/ |
+| pexels |  | Jonathan Ellis | Pexels License | https://www.pexels.com/video/family-unpacking-car-in-lush-countryside-setting-36499595/ |
+| pexels |  | Greencycle Bangladesh | Pexels License | https://www.pexels.com/video/golf-field-sreemongol-15586884/ |
+| pexels |  | Akif Ok | Pexels License | https://www.pexels.com/video/silhouette-of-a-man-standing-by-the-window-4123750/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-and-woman-checking-map-6180872/ |
+| pexels |  | Masood Aslami | Pexels License | https://www.pexels.com/video/aerial-view-of-the-city-16750636/ |
+| pexels |  | Serg Alesenko | Pexels License | https://www.pexels.com/video/cloud-over-meadow-with-flowers-13961926/ |
+| pexels |  | 정규송 Nui MALAMA | Pexels License | https://www.pexels.com/video/a-stone-wall-with-purple-flowers-growing-on-it-18567455/ |
+| pexels |  | Sahil Hansda | Pexels License | https://www.pexels.com/video/aerial-view-of-colorful-marigold-farm-28679587/ |
