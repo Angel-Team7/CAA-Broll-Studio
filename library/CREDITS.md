@@ -1217,3 +1217,33 @@
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/woman-wearing-white-dress-walking-on-the-field-10213766/ |
 | pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-walking-her-dog-at-sunset-4071145/ |
 | pexels |  | Tacettin Veli Çetin | Pexels License | https://www.pexels.com/video/a-man-walking-through-a-field-at-sunset-20716282/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/two-men-working-and-brainstorming-6913262/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-in-a-meeting-7448479/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/gardener-digging-in-the-garden-patch-37019468/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-a-person-s-face-7297902/ |
+| pexels |  | Wizarto Production | Pexels License | https://www.pexels.com/video/extreme-close-up-of-a-man-smoking-a-cigarette-14500434/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-video-of-a-bald-man-smiling-4927807/ |
+| pexels |  | Distill | Pexels License | https://www.pexels.com/video/focus-through-video-of-a-notebook-852422/ |
+| pexels |  | Konsta Nurkkala | Pexels License | https://www.pexels.com/video/taking-notes-17778019/ |
+| pixabay | drawing  color  pen  girl  craft  painting  activity  manual | LaurentPgP84 | Pixabay Content License | https://pixabay.com/videos/id-114728/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-putting-seeds-on-the-soil-7781752/ |
+| pexels |  | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/an-earthworm-burrowing-on-a-compost-soil-3045871/ |
+| pexels |  | The Marc Knight | Pexels License | https://www.pexels.com/video/fruits-chestnuts-and-fallen-leaves-on-the-ground-3239819/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-woman-holding-a-bouquet-of-flowers-8431522/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-shot-of-red-carnation-flowers-4127774/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-close-up-video-of-red-flowers-8865534/ |
+| pexels |  | Rui Veiga | Pexels License | https://www.pexels.com/video/rugged-coastal-beauty-28514373/ |
+| pexels |  | Musko io | Pexels License | https://www.pexels.com/video/aerial-footage-of-benagil-cave-8518105/ |
+| pexels |  | Radu  Nebunu | Pexels License | https://www.pexels.com/video/stunning-aerial-view-of-rugged-ocean-cliffs-32282062/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/person-walking-towards-lake-during-dawn-13838147/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/ground-level-shot-of-a-woman-walking-in-the-forest-5848353/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-person-walking-down-a-road-at-sunset-20488154/ |
+| pexels |  | danil | Pexels License | https://www.pexels.com/video/walking-on-footbridge-near-coast-10572461/ |
+| pexels |  | Kenan Turguç | Pexels License | https://www.pexels.com/video/drone-view-of-wooden-walkway-over-scenic-wetland-31023033/ |
+| pexels |  | David Munoz | Pexels License | https://www.pexels.com/video/serene-bird-flight-over-scenic-wooden-pier-36672922/ |
+| pexels |  | Dominiquemel16 Ramos | Pexels License | https://www.pexels.com/video/silhouette-walking-on-beach-at-sunrise-37611208/ |
+| pexels |  | Bráulio jardim | Pexels License | https://www.pexels.com/video/peaceful-evening-stroll-in-haagse-bos-park-36267156/ |
+| pexels |  | Ali  Jafar | Pexels License | https://www.pexels.com/video/lone-traveler-walking-in-desert-at-sunrise-38974595/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/family-walking-together-7671623/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-in-a-dress-is-walking-through-a-field-with-sheep-4921863/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/children-running-in-a-farmland-with-sheep-7671378/ |
