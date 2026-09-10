@@ -4797,8 +4797,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-clipboard-talk",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V04",
@@ -4825,8 +4825,8 @@
      "shot": "",
      "shoot": "pexels-clipboard-walk",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 5,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V05",
@@ -4854,8 +4854,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-clipboard-talk",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 7,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V06",
@@ -4883,8 +4883,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-happy-chat",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 8,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V07",
@@ -4914,8 +4914,8 @@
      "shot": "",
      "shoot": "pexels-gravel-laborer",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 9,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V08",
@@ -4963,7 +4963,7 @@
      "shot": "A",
      "shoot": "pexels-timber-frame-carpenters",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 1,
+     "rank": 4,
      "shown": true
     },
     {
@@ -4991,8 +4991,8 @@
      "shot": "",
      "shoot": "pexels-wheelchair-hands",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 10,
-     "shown": true
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V11",
@@ -5020,7 +5020,7 @@
      "shot": "",
      "shoot": "pexels-students-studying",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 11,
+     "rank": 27,
      "shown": false
     },
     {
@@ -5048,7 +5048,7 @@
      "shot": "",
      "shoot": "pexels-corporate-handshake",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 14,
+     "rank": 32,
      "shown": false
     },
     {
@@ -5076,8 +5076,8 @@
      "shot": "",
      "shoot": "pexels-aerial-wood-frame-roof",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 3,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V15",
@@ -5106,8 +5106,8 @@
      "shot": "",
      "shoot": "pixabay-wheelbarrow-concrete-boots",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S06-V16",
@@ -5134,7 +5134,7 @@
      "shot": "",
      "shoot": "pexels-dim-lathe-workshop",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 15,
+     "rank": 33,
      "shown": false
     },
     {
@@ -5162,7 +5162,7 @@
      "shot": "C",
      "shoot": "pexels-bright-workshop-bench",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 2,
+     "rank": 5,
      "shown": true
     },
     {
@@ -5193,7 +5193,7 @@
      "shot": "",
      "shoot": "pexels-woman-laughing-brick",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 12,
+     "rank": 30,
      "shown": false
     },
     {
@@ -5222,7 +5222,7 @@
      "shot": "",
      "shoot": "pexels-couple-ocean-aerial",
      "judged_at": "2026-09-09T19:51:20Z",
-     "rank": 13,
+     "rank": 31,
      "shown": false
     },
     {
@@ -5358,15 +5358,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V21.strip.jpg",
      "title": "a person packaging a food on a paper bag",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "7457401",
      "download_url": "https://videos.pexels.com/video-files/7457401/7457401-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "gloved hands pack food into a paper bag in a kitchen",
+     "violation": "",
+     "shoot": "pexels-foodbag-packing-kitchen",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 13
     },
     {
      "id": "edenrise-gratitude-S06-V22",
@@ -5380,15 +5388,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V22.strip.jpg",
      "title": "man cooking in the kitchen",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "5761261",
      "download_url": "https://videos.pexels.com/video-files/5761261/5761261-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a chef in a face mask works at a restaurant kitchen counter",
+     "violation": "face masks",
+     "shoot": "pexels-chef-mask-kitchen",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 35
     },
     {
      "id": "edenrise-gratitude-S06-V23",
@@ -5409,8 +5425,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands pour pasta into a boiling pot on a stove",
+     "violation": "",
+     "shoot": "pexels-pasta-pot-stove",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S06-V24",
@@ -5424,15 +5448,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V24.strip.jpg",
      "title": "worker in a food truck",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "5780420",
      "download_url": "https://videos.pexels.com/video-files/5780420/5780420-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a chef works at a stove in a professional kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-professional-kitchen",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 7
     },
     {
      "id": "edenrise-gratitude-S06-V25",
@@ -5453,8 +5485,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand stirs soup in a pot on a stovetop",
+     "violation": "",
+     "shoot": "pexels-soup-stir-stove",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S06-V26",
@@ -5468,15 +5508,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V26.strip.jpg",
      "title": "two men in aprons are preparing food in a kitchen",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 25,
      "src_id": "4253356",
      "download_url": "https://videos.pexels.com/video-files/4253356/4253356-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a chef stirs a pot in a professional kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-stir-pot-kitchen",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S06-V27",
@@ -5490,15 +5538,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V27.strip.jpg",
      "title": "chef preparing dishes in modern kitchen",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "36959797",
      "download_url": "https://videos.pexels.com/video-files/36959797/15658184_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a server arranges dishes on a kitchen counter",
+     "violation": "",
+     "shoot": "pexels-server-buffet-counter",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 11
     },
     {
      "id": "edenrise-gratitude-S06-V28",
@@ -5512,15 +5568,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V28.strip.jpg",
      "title": "people in the kitchen preparing food",
      "query": "cook preparing food for workers simple kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 6,
      "src_id": "4123258",
      "download_url": "https://videos.pexels.com/video-files/4123258/4123258-hd_1280_720_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two men cook food together on a griddle at a stall",
+     "violation": "",
+     "shoot": "pexels-griddle-cooking-stall",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S06-V29",
@@ -5534,15 +5598,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V29.strip.jpg",
      "title": "tractor maintenance in workshop setting",
      "query": "worker repairing fence quietly",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "37876551",
      "download_url": "https://videos.pexels.com/video-files/37876551/16070643_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a man repairs a tractor in a workshop barn",
+     "violation": "",
+     "shoot": "pexels-tractor-repair-workshop",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 6
     },
     {
      "id": "edenrise-gratitude-S06-V30",
@@ -5563,8 +5635,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a hand paints a wooden fence with a brush",
+     "violation": "",
+     "shoot": "pexels-fence-paint-brush",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S06-V31",
@@ -5578,15 +5658,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V31.strip.jpg",
      "title": "young man using workshop machine",
      "query": "worker repairing fence quietly",
-     "shot": "A",
+     "shot": "",
      "duration": 25,
      "src_id": "5846627",
      "download_url": "https://videos.pexels.com/video-files/5846627/5846627-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:07:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a man in camouflage uses a drill press in a dim workshop",
+     "violation": "",
+     "shoot": "pexels-camo-drillpress-workshop",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 22
     },
     {
      "id": "edenrise-gratitude-S06-V32",
@@ -5600,15 +5688,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V32.strip.jpg",
      "title": "a man is working on a cement floor",
      "query": "worker repairing fence quietly",
-     "shot": "A",
+     "shot": "",
      "duration": 32,
      "src_id": "24906848",
      "download_url": "https://videos.pexels.com/video-files/24906848/11898939_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a worker mixes mortar on a floor with a trowel",
+     "violation": "",
+     "shoot": "pexels-mortar-mixing-floor",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 15
     },
     {
      "id": "edenrise-gratitude-S06-V33",
@@ -5622,15 +5718,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V33.strip.jpg",
      "title": "roofer working on roofs",
      "query": "worker repairing fence quietly",
-     "shot": "A",
+     "shot": "",
      "duration": 40,
      "src_id": "13361432",
      "download_url": "https://videos.pexels.com/video-files/13361432/13361432-hd_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a roofer works on a tiled roof from above",
+     "violation": "",
+     "shoot": "pexels-aerial-roofer-tiles",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 10
     },
     {
      "id": "edenrise-gratitude-S06-V34",
@@ -5644,15 +5748,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V34.strip.jpg",
      "title": "a person is using a drill to fix a hole",
      "query": "worker repairing fence quietly",
-     "shot": "A",
+     "shot": "",
      "duration": 28,
      "src_id": "24964774",
      "download_url": "https://videos.pexels.com/video-files/24964774/11899201_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a jackhammer breaks concrete near a worker's boots",
+     "violation": "",
+     "shoot": "pexels-jackhammer-concrete-boots",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 23
     },
     {
      "id": "edenrise-gratitude-S06-V35",
@@ -5666,15 +5778,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V35.strip.jpg",
      "title": "woman  fast food  workshop  safety  convenience  lifestyle  takeaway  young  worker  work  uniform  take  service  person  people",
      "query": "sweeping workshop floor",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "130651",
      "download_url": "https://cdn.pixabay.com/video/2022/09/08/130651-747868387_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman receives a bag through a sliding door",
+     "violation": "",
+     "shoot": "pixabay-woman-bag-slidingdoor",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 28
     },
     {
      "id": "edenrise-gratitude-S06-V36",
@@ -5688,15 +5808,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V36.strip.jpg",
      "title": "boards  porch  deck  old  rustic  weathered  tattered  floor",
      "query": "sweeping workshop floor",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "136783",
      "download_url": "https://cdn.pixabay.com/video/2022/10/28/136783-764955572_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a close-up of weathered wooden deck boards",
+     "violation": "",
+     "shoot": "pixabay-weathered-deck-boards",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 21
     },
     {
      "id": "edenrise-gratitude-S06-V37",
@@ -5710,15 +5838,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V37.strip.jpg",
      "title": "cycling  man  bike  helmet  road  cyclist  safety  sports  fitness",
      "query": "ladder safety check hands",
-     "shot": "D",
+     "shot": "",
      "duration": 6,
      "src_id": "39183",
      "download_url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man cycles at night wearing a helmet",
+     "violation": "",
+     "shoot": "pixabay-cyclist-night-helmet",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 29
     },
     {
      "id": "edenrise-gratitude-S06-V38",
@@ -5732,15 +5868,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V38.strip.jpg",
      "title": "modeling  clay  pottery  craft  art  ceramic  handmade  workshop  potter  skill  artist  bowl  creativity  making  work  hobby  wheel  handicraft  hand  traditional  culture  shape  molding  sculptor",
      "query": "sweeping workshop floor",
-     "shot": "C",
+     "shot": "",
      "duration": 5,
      "src_id": "41394",
      "download_url": "https://cdn.pixabay.com/video/2020/06/07/41394-429396728_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands present a ceramic plate in a pottery studio",
+     "violation": "",
+     "shoot": "pixabay-pottery-plate-presenting",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 25
     },
     {
      "id": "edenrise-gratitude-S06-V39",
@@ -5754,15 +5898,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V39.strip.jpg",
      "title": "stop sign  traffic  road rules  signal  transportation  safety  lane  law  car  roadsign  street  vehicle  urban",
      "query": "ladder safety check hands",
-     "shot": "D",
+     "shot": "",
      "duration": 10,
      "src_id": "4257",
      "download_url": "https://cdn.pixabay.com/video/2016/08/05/4257-177819873_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated traffic intersection with toy cars and stop signs",
+     "violation": "cartoons",
+     "shoot": "pixabay-cartoon-traffic-intersection",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 36
     },
     {
      "id": "edenrise-gratitude-S06-V40",
@@ -5776,15 +5928,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V40.strip.jpg",
      "title": "automobile  black  antique car  vehicle  luxury  car  dare  vintage  dynamics  glittering  workshop  dark  service",
      "query": "sweeping workshop floor",
-     "shot": "C",
+     "shot": "",
      "duration": 5,
      "src_id": "24388",
      "download_url": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:08:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a vintage car grille is lit in darkness",
+     "violation": "",
+     "shoot": "pixabay-vintage-car-dark",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 34
     },
     {
      "id": "edenrise-gratitude-S06-V41",
@@ -5798,15 +5958,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V41.strip.jpg",
      "title": "lion  lie young  lioness  female  hunter  comfortable  africa  floor",
      "query": "sweeping workshop floor",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "111291",
      "download_url": "https://cdn.pixabay.com/video/2022/03/19/111291-690770708_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:09:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a close-up of a lioness in brush",
+     "violation": "wildlife",
+     "shoot": "pixabay-lioness-closeup",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 37
     },
     {
      "id": "edenrise-gratitude-S06-V42",
@@ -5820,15 +5988,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S06__strip__edenrise-gratitude-S06-V42.strip.jpg",
      "title": "hand washing  washing  hand  hygiene  soap  bathroom",
      "query": "ladder safety check hands",
-     "shot": "D",
+     "shot": "",
      "duration": 51,
      "src_id": "51807",
      "download_url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:09:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands are washed under running tap water",
+     "violation": "",
+     "shoot": "pixabay-handwashing-sink",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:25:18Z",
+     "rank": 24
     }
    ],
    "shots": [
@@ -5868,12 +6044,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T19:51:20Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:51:20Z"
+   "judged_at": "2026-09-10T09:25:18Z"
   },
   {
    "id": "S07",
