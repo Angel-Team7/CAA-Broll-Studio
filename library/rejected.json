@@ -27,7 +27,7 @@
   "at": "2026-09-09T17:42:26Z",
   "brand": "belong",
   "from": "belong-module3/S06",
-  "reason": "luxury spa cliché"
+  "reason": "luxury spa clich\u00e9"
  },
  "mixkit:https://mixkit.co/free-stock-video/gigantic-field-of-sunflowers-on-a-sunny-day-4881/": {
   "at": "2026-09-09T19:31:13Z",
@@ -57,7 +57,7 @@
   "at": "2026-09-10T09:22:47Z",
   "brand": "belong",
   "from": "belong-module10/S13",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pexels:10349940": {
   "at": "2026-09-10T09:34:52Z",
@@ -641,6 +641,12 @@
   "from": "edenrise-c2-winning-beliefs/S07",
   "reason": "factories, assembly lines"
  },
+ "pexels:31618293": {
+  "at": "2026-09-10T10:21:24Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S14",
+  "reason": "factory"
+ },
  "pexels:31638875": {
   "at": "2026-09-10T09:22:14Z",
   "brand": "belong",
@@ -840,10 +846,10 @@
   "reason": "large-scale urban development, not brand world"
  },
  "pexels:34771866": {
-  "brand": "edenrise",
-  "reason": "welding sparks",
   "at": "2026-09-10T10:18:43Z",
-  "from": "benchmark-excellence-v2/S10"
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S10",
+  "reason": "welding sparks"
  },
  "pexels:34831851": {
   "at": "2026-09-09T18:53:40Z",
@@ -952,6 +958,12 @@
   "brand": "belong",
   "from": "belong-module9/S06",
   "reason": "factory / warehouse"
+ },
+ "pexels:38234800": {
+  "at": "2026-09-10T10:21:24Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S14",
+  "reason": "factory"
  },
  "pexels:38267190": {
   "at": "2026-09-10T09:36:13Z",
@@ -1145,11 +1157,17 @@
   "from": "edenrise-c2-goal-setting/S03",
   "reason": "office"
  },
+ "pexels:4480571": {
+  "at": "2026-09-10T10:21:24Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S14",
+  "reason": "face masks"
+ },
  "pexels:4487290": {
   "at": "2026-09-09T16:04:41Z",
   "brand": "belong",
   "from": "belong-module9/S03",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pexels:4675134": {
   "at": "2026-09-09T17:31:53Z",
@@ -1302,10 +1320,10 @@
   "reason": "face masks"
  },
  "pexels:5434223": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, construction",
   "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "hi-vis crew, construction"
  },
  "pexels:5439032": {
   "at": "2026-09-10T10:12:27Z",
@@ -1330,6 +1348,12 @@
   "brand": "belong",
   "from": "belong-module9/S03",
   "reason": "gift boxes"
+ },
+ "pexels:5617886": {
+  "at": "2026-09-10T10:20:36Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "suits"
  },
  "pexels:5637933": {
   "at": "2026-09-10T09:30:11Z",
@@ -1545,7 +1569,7 @@
   "at": "2026-09-10T09:28:37Z",
   "brand": "belong",
   "from": "belong-module3/S11",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pexels:6193005": {
   "at": "2026-09-10T09:10:14Z",
@@ -1643,6 +1667,12 @@
   "from": "belong-module1/S10",
   "reason": "face masks"
  },
+ "pexels:6290484": {
+  "at": "2026-09-10T10:18:43Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S10",
+  "reason": "office"
+ },
  "pexels:6296441": {
   "at": "2026-09-10T09:06:34Z",
   "brand": "edenrise",
@@ -1709,6 +1739,12 @@
   "from": "belong-module9/S07",
   "reason": "luxury hotel decor"
  },
+ "pexels:6474086": {
+  "at": "2026-09-10T10:20:00Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S12",
+  "reason": "face masks"
+ },
  "pexels:6474172": {
   "at": "2026-09-10T09:01:25Z",
   "brand": "edenrise",
@@ -1752,10 +1788,10 @@
   "reason": "gift boxes"
  },
  "pexels:6520274": {
-  "brand": "edenrise",
-  "reason": "face masks",
   "at": "2026-09-10T10:19:02Z",
-  "from": "edenrise-c2-six-needs-reactions/S09"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S09",
+  "reason": "face masks"
  },
  "pexels:6532783": {
   "at": "2026-09-10T09:14:36Z",
@@ -1774,6 +1810,18 @@
   "brand": "edenrise",
   "from": "edenrise-c2-winning-beliefs/S04",
   "reason": "suits, staged fashion shoot"
+ },
+ "pexels:6536353": {
+  "at": "2026-09-10T10:20:36Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "face coverings, unrelated"
+ },
+ "pexels:6538182": {
+  "at": "2026-09-10T10:20:36Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "face coverings, unrelated"
  },
  "pexels:6538448": {
   "at": "2026-09-10T09:03:21Z",
@@ -1827,7 +1875,7 @@
   "at": "2026-09-10T09:22:47Z",
   "brand": "belong",
   "from": "belong-module10/S05",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pexels:6631326": {
   "at": "2026-09-10T08:59:55Z",
@@ -1920,10 +1968,22 @@
   "reason": "face masks"
  },
  "pexels:6789898": {
-  "brand": "edenrise",
-  "reason": "face masks",
   "at": "2026-09-10T10:20:00Z",
-  "from": "benchmark-excellence-v2/S12"
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S12",
+  "reason": "face masks"
+ },
+ "pexels:6789901": {
+  "at": "2026-09-10T10:21:24Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S14",
+  "reason": "laptops"
+ },
+ "pexels:6789906": {
+  "at": "2026-09-10T10:21:24Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S14",
+  "reason": "laptops"
  },
  "pexels:6804110": {
   "at": "2026-09-09T19:20:18Z",
@@ -2394,10 +2454,10 @@
   "reason": "office"
  },
  "pexels:7640684": {
-  "brand": "edenrise",
-  "reason": "office",
   "at": "2026-09-10T10:18:43Z",
-  "from": "benchmark-excellence-v2/S10"
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S10",
+  "reason": "office"
  },
  "pexels:7640705": {
   "at": "2026-09-10T09:21:10Z",
@@ -3081,7 +3141,7 @@
   "at": "2026-09-09T19:08:26Z",
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S16",
-  "reason": "office desk, suit — explicit never-list"
+  "reason": "office desk, suit \u2014 explicit never-list"
  },
  "pexels:8413484": {
   "at": "2026-09-09T18:11:36Z",
@@ -3172,6 +3232,12 @@
   "brand": "belong",
   "from": "belong-module9/S02",
   "reason": "corporate office"
+ },
+ "pexels:853870": {
+  "at": "2026-09-10T10:20:00Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S12",
+  "reason": "office"
  },
  "pexels:8539725": {
   "at": "2026-09-09T19:08:26Z",
@@ -3459,7 +3525,7 @@
   "at": "2026-09-10T09:22:47Z",
   "brand": "belong",
   "from": "belong-module10/S05",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pexels:9198378": {
   "at": "2026-09-09T16:31:57Z",
@@ -3795,7 +3861,7 @@
   "at": "2026-09-09T17:35:17Z",
   "brand": "belong",
   "from": "belong-module2/S02",
-  "reason": "seedling in cupped hands cliché"
+  "reason": "seedling in cupped hands clich\u00e9"
  },
  "pexels:https://www.pexels.com/video/a-person-typing-on-a-laptop-computer-5083058/": {
   "at": "2026-09-09T18:30:30Z",
@@ -4035,7 +4101,7 @@
   "at": "2026-09-09T17:42:26Z",
   "brand": "belong",
   "from": "belong-module3/S06",
-  "reason": "luxury spa cliché"
+  "reason": "luxury spa clich\u00e9"
  },
  "pexels:https://www.pexels.com/video/angry-woman-talking-to-a-man-7640704/": {
   "at": "2026-09-09T20:01:56Z",
@@ -4197,7 +4263,7 @@
   "at": "2026-09-09T19:10:43Z",
   "brand": "edenrise",
   "from": "edenrise-c2-goal-setting/S05",
-  "reason": "office desk, laptop, corporate startup setting — explicit never-list"
+  "reason": "office desk, laptop, corporate startup setting \u2014 explicit never-list"
  },
  "pexels:https://www.pexels.com/video/colleagues-flirting-with-each-other-at-work-8902343/": {
   "at": "2026-09-09T19:48:36Z",
@@ -4239,7 +4305,7 @@
   "at": "2026-09-09T19:10:43Z",
   "brand": "edenrise",
   "from": "edenrise-c2-goal-setting/S05",
-  "reason": "office desk, laptop, corporate attire — explicit never-list"
+  "reason": "office desk, laptop, corporate attire \u2014 explicit never-list"
  },
  "pexels:https://www.pexels.com/video/colleagues-working-together-8847932/": {
   "at": "2026-09-09T20:01:56Z",
@@ -4455,7 +4521,7 @@
   "at": "2026-09-09T17:42:26Z",
   "brand": "belong",
   "from": "belong-module3/S06",
-  "reason": "luxury spa cliché"
+  "reason": "luxury spa clich\u00e9"
  },
  "pexels:https://www.pexels.com/video/forklift-operating-at-construction-site-safely-32244794/": {
   "at": "2026-09-09T18:40:48Z",
@@ -4797,13 +4863,13 @@
   "at": "2026-09-09T19:05:19Z",
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S11",
-  "reason": "face masks, laptop indoors, suit — explicit never-list"
+  "reason": "face masks, laptop indoors, suit \u2014 explicit never-list"
  },
  "pexels:https://www.pexels.com/video/people-working-at-a-construction-site-9991145/": {
   "at": "2026-09-09T19:10:43Z",
   "brand": "edenrise",
   "from": "edenrise-c2-goal-setting/S05",
-  "reason": "office desk, laptop, corporate startup setting — explicit never-list"
+  "reason": "office desk, laptop, corporate startup setting \u2014 explicit never-list"
  },
  "pexels:https://www.pexels.com/video/people-working-in-a-construction-site-7702754/": {
   "at": "2026-09-09T18:57:05Z",
@@ -4815,7 +4881,7 @@
   "at": "2026-09-09T19:10:43Z",
   "brand": "edenrise",
   "from": "edenrise-c2-goal-setting/S05",
-  "reason": "office desk, laptop, corporate attire — explicit never-list"
+  "reason": "office desk, laptop, corporate attire \u2014 explicit never-list"
  },
  "pexels:https://www.pexels.com/video/people-working-on-building-construction-11733685/": {
   "at": "2026-09-09T20:17:29Z",
@@ -5207,6 +5273,12 @@
   "from": "edenrise-gratitude/S15",
   "reason": "wildlife"
  },
+ "pixabay:11113": {
+  "at": "2026-09-10T10:18:43Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S10",
+  "reason": "abstract loops"
+ },
  "pixabay:1112": {
   "at": "2026-09-10T09:26:03Z",
   "brand": "belong",
@@ -5514,10 +5586,10 @@
   "reason": "cartoons"
  },
  "pixabay:138931": {
-  "brand": "edenrise",
-  "reason": "unrelated",
   "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "unrelated"
  },
  "pixabay:139400": {
   "at": "2026-09-10T09:58:14Z",
@@ -5595,7 +5667,7 @@
   "at": "2026-09-10T09:27:39Z",
   "brand": "belong",
   "from": "belong-module11/S08",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pixabay:149710": {
   "at": "2026-09-10T09:30:32Z",
@@ -5880,10 +5952,10 @@
   "reason": "AI-generated content, luxury spa scene, wrong world"
  },
  "pixabay:202135": {
-  "brand": "edenrise",
-  "reason": "office, shouting",
   "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "office, shouting"
  },
  "pixabay:202392": {
   "at": "2026-09-09T18:08:11Z",
@@ -6411,7 +6483,7 @@
   "at": "2026-09-10T09:22:46Z",
   "brand": "belong",
   "from": "belong-module10/S01",
-  "reason": "luxury spa clichés"
+  "reason": "luxury spa clich\u00e9s"
  },
  "pixabay:39395": {
   "at": "2026-09-09T16:29:20Z",
@@ -6921,7 +6993,7 @@
   "at": "2026-09-09T19:08:26Z",
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S16",
-  "reason": "green screen phone display — explicit never-list"
+  "reason": "green screen phone display \u2014 explicit never-list"
  },
  "pixabay:8947": {
   "at": "2026-09-10T09:14:36Z",
@@ -6942,10 +7014,10 @@
   "reason": "abstract loops"
  },
  "pixabay:92662": {
-  "brand": "edenrise",
-  "reason": "cartoons, green screen",
   "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "cartoons, green screen"
  },
  "pixabay:93008": {
   "at": "2026-09-10T09:30:40Z",
@@ -6990,10 +7062,10 @@
   "reason": "cartoon graphic"
  },
  "pixabay:9933": {
-  "brand": "edenrise",
-  "reason": "cartoons, green screen, suits",
   "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
+  "brand": "edenrise",
+  "from": "edenrise-c2-six-needs-reactions/S08",
+  "reason": "cartoons, green screen, suits"
  },
  "pixabay:9934": {
   "at": "2026-09-10T09:28:23Z",
@@ -7402,47 +7474,5 @@
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S02",
   "reason": "suit-clad manager, not the brand's foreman-in-the-field world"
- },
- "pexels:6290484": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T10:18:43Z",
-  "from": "benchmark-excellence-v2/S10"
- },
- "pixabay:11113": {
-  "brand": "edenrise",
-  "reason": "abstract loops",
-  "at": "2026-09-10T10:18:43Z",
-  "from": "benchmark-excellence-v2/S10"
- },
- "pexels:6474086": {
-  "brand": "edenrise",
-  "reason": "face masks",
-  "at": "2026-09-10T10:20:00Z",
-  "from": "benchmark-excellence-v2/S12"
- },
- "pexels:853870": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T10:20:00Z",
-  "from": "benchmark-excellence-v2/S12"
- },
- "pexels:6538182": {
-  "brand": "edenrise",
-  "reason": "face coverings, unrelated",
-  "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
- },
- "pexels:5617886": {
-  "brand": "edenrise",
-  "reason": "suits",
-  "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
- },
- "pexels:6536353": {
-  "brand": "edenrise",
-  "reason": "face coverings, unrelated",
-  "at": "2026-09-10T10:20:36Z",
-  "from": "edenrise-c2-six-needs-reactions/S08"
  }
 }
