@@ -48,8 +48,10 @@
     "S09": {
       "requested": "2026-09-09T21:25:02Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:37:49Z",
+      "added": 22
     },
     "S04": {
       "requested": "2026-09-09T21:24:57Z",
@@ -102,8 +104,10 @@
     "S08": {
       "requested": "2026-09-09T21:25:01Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:35:27Z",
+      "added": 22
     }
   }
 }

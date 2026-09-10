@@ -200,3 +200,47 @@
 | pexels | motorbike hauling large load across city street | Nguyen Ngoc Tien | Pexels License | https://www.pexels.com/video/motorbike-hauling-large-load-across-city-street-34971525/ |
 | pexels | busy dhaka market with laborers and shoppers | Sojib Omar | Pexels License | https://www.pexels.com/video/busy-dhaka-market-with-laborers-and-shoppers-34406650/ |
 | pexels | laborer carrying bricks on construction site | Arunangshu Banerjee | Pexels License | https://www.pexels.com/video/laborer-carrying-bricks-on-construction-site-32534659/ |
+| pexels | a man handing out cleaning equipment to his co worker | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-worker-6195151/ |
+| pexels | man and woman in fencing costume standing back to back | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-in-fencing-costume-standing-back-to-back-6538182/ |
+| pexels | people walking down the stairs | cottonbro studio | Pexels License | https://www.pexels.com/video/people-walking-down-the-stairs-9155188/ |
+| pexels | a male airport marshaller walking by a plane | egamiFX Studio | Pexels License | https://www.pexels.com/video/a-male-airport-marshaller-walking-by-a-plane-10893616/ |
+| pexels | workers walking in construction site | Everett Bumstead | Pexels License | https://www.pexels.com/video/workers-walking-in-construction-site-5434223/ |
+| pexels | people walking while arguing | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-walking-while-arguing-5617886/ |
+| pexels | woman sitting on back seat of car at night | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-sitting-on-back-seat-of-car-at-night-10385807/ |
+| pexels | high angle shot of a fencers dueling | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/high-angle-shot-of-a-fencers-dueling-6536353/ |
+| pexels | a woman meditating with her hands together | PNW Production | Pexels License | https://www.pexels.com/video/a-woman-meditating-with-her-hands-together-8981629/ |
+| pexels | a woman meditating with her hands together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-meditating-with-her-hands-together-8456691/ |
+| pexels | a woman taking a deep breath | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-woman-taking-a-deep-breath-8795724/ |
+| pexels | a woman meditating in the park | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-woman-meditating-in-the-park-7884048/ |
+| pexels | woman meditating outdoors | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-meditating-outdoors-8456688/ |
+| pexels | close up of a woman putting her hands together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/close-up-of-a-woman-putting-her-hands-together-8456689/ |
+| pixabay | people  commerce  shop  busy  mall  walking | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-6387/ |
+| pixabay | shoes  walking  feet  legs  many  crowd  people  city  town | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3627/ |
+| pixabay | hands  candle  candlelight  prayer  pray  light  flame  open | Mohamed_hassan | Pixabay Content License | https://pixabay.com/videos/id-75702/ |
+| pixabay | boss  employee  talking  angry  argument | Samidurrakzai | Pixabay Content License | https://pixabay.com/videos/id-202135/ |
+| pixabay | woman  welcome  social media  girl  reading  teach  explaini | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pixabay | cafe  restaurant  talking  talk  people  sitting  chatting   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-1623/ |
+| pixabay | talk  talking  speak  speech  speaking  dialog  information  | HazarMan | Pixabay Content License | https://pixabay.com/videos/id-9933/ |
+| pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pexels | a person writing on a paper | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-paper-11025820/ |
+| pexels | a person writing on the paper | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-writing-on-the-paper-8944967/ |
+| pexels | paramedic writing | RDNE Stock project | Pexels License | https://www.pexels.com/video/paramedic-writing-6520274/ |
+| pexels | delivery man checking a list | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-checking-a-list-6406124/ |
+| pexels | man delivering boxes | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-delivering-boxes-6169106/ |
+| pexels | man and woman checking the plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-checking-the-plants-6508711/ |
+| pexels | documenting experiences at a refugee camp | Progga Media | Pexels License | https://www.pexels.com/video/documenting-experiences-at-a-refugee-camp-34596366/ |
+| pexels | saving the date | Pixabay | Pexels License | https://www.pexels.com/video/saving-the-date-856299/ |
+| pexels | two women planting seedlings at farm | K | Pexels License | https://www.pexels.com/video/two-women-planting-seedlings-at-farm-9737858/ |
+| pexels | a man and a woman working in a greenhouse | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-working-in-a-greenhouse-7101051/ |
+| pexels | a man writing on the clipboard | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-writing-on-the-clipboard-7463957/ |
+| pexels | crop person writing on a card | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/crop-person-writing-on-a-card-6653408/ |
+| pexels | greenhouse workers posing looking at camera | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/greenhouse-workers-posing-looking-at-camera-6509248/ |
+| pexels | woman taking notes on the paper | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-taking-notes-on-the-paper-6538448/ |
+| pixabay | drawing  color  pen  girl  craft  painting  activity  manual | LaurentPgP84 | Pixabay Content License | https://pixabay.com/videos/id-114728/ |
+| pixabay | sketch  draw  pencil  drawing  design  hand  paper  creative | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10824/ |
+| pixabay | billet  bank  debt  pen | andrepazleal | Pixabay Content License | https://pixabay.com/videos/id-13477/ |
+| pixabay | origami  paper  bend  plane  isolated  close up  transport   | padrinan | Pixabay Content License | https://pixabay.com/videos/id-9081/ |
+| pixabay | documents  paper  research  study  education  knowledge | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212508/ |
+| pixabay | flow  bach  riverbank  meadow  paper ship  paper boat  water | Matias_Luge | Pixabay Content License | https://pixabay.com/videos/id-145360/ |
+| pixabay | school  scribble  student  drawing  notepad  sketchbook  pup | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-80/ |
+| pixabay | sketch  project  planning  mock up  drawing  plan  strategy  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1038/ |
