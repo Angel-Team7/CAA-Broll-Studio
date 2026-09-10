@@ -25,7 +25,7 @@
  },
  "heygen:": {
   "brand": "belong",
-  "reason": "luxury spa clich\\u00e9",
+  "reason": "luxury spa clich\\\\u00e9",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
@@ -58,12 +58,6 @@
   "reason": "luxury spa clichés",
   "at": "2026-09-10T09:22:47Z",
   "from": "belong-module10/S13"
- },
- "pexels:10374292": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office"
  },
  "pexels:10491260": {
   "brand": "edenrise",
@@ -397,9 +391,9 @@
  },
  "pexels:32244795": {
   "brand": "edenrise",
-  "reason": "scaffolding gangs",
-  "at": "2026-09-10T09:14:53Z",
-  "from": "lesson-no-failure-feedback/S04"
+  "reason": "scaffolding",
+  "at": "2026-09-10T09:23:19Z",
+  "from": "purpose-at-work/S01"
  },
  "pexels:32244801": {
   "brand": "belong",
@@ -1109,12 +1103,6 @@
   "at": "2026-09-10T09:10:02Z",
   "from": "purpose-at-work/S04"
  },
- "pexels:6930831": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office / laptops"
- },
  "pexels:6931211": {
   "brand": "edenrise",
   "reason": "office desk, laptop indoors",
@@ -1625,18 +1613,6 @@
   "at": "2026-09-09T16:25:27Z",
   "from": "belong-module9/S03"
  },
- "pexels:7841668": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office"
- },
- "pexels:7841698": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office"
- },
  "pexels:7841915": {
   "brand": "edenrise",
   "reason": "office, suits",
@@ -1697,12 +1673,6 @@
   "at": "2026-09-09T18:06:28Z",
   "from": "belong-module9/S12"
  },
- "pexels:8102929": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office / suits"
- },
  "pexels:8108225": {
   "brand": "edenrise",
   "reason": "classroom",
@@ -1739,12 +1709,6 @@
   "at": "2026-09-09T19:33:47Z",
   "from": "edenrise-c2-six-needs-reactions/S01"
  },
- "pexels:8135690": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "suits"
- },
  "pexels:8135792": {
   "brand": "edenrise",
   "reason": "office",
@@ -1768,12 +1732,6 @@
   "reason": "business suits",
   "at": "2026-09-09T17:11:04Z",
   "from": "belong-module8/S09"
- },
- "pexels:8141623": {
-  "at": "2026-09-10T09:20:07Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S03",
-  "reason": "office"
  },
  "pexels:8170549": {
   "brand": "edenrise",
@@ -3929,12 +3887,6 @@
   "at": "2026-09-09T17:35:56Z",
   "from": "belong-module11/S02"
  },
- "pixabay:15684": {
-  "at": "2026-09-10T09:07:38Z",
-  "brand": "belong",
-  "from": "belong-module1/S02",
-  "reason": "abstract graphic"
- },
  "pixabay:158961": {
   "brand": "belong",
   "reason": "face masks",
@@ -4703,12 +4655,6 @@
   "at": "2026-09-10T08:54:24Z",
   "from": "attention-to-detail-v2/S09"
  },
- "pixabay:86343": {
-  "at": "2026-09-10T09:22:16Z",
-  "brand": "edenrise",
-  "from": "edenrise-gratitude/S04",
-  "reason": "ruins/abandoned"
- },
  "pixabay:86867": {
   "brand": "edenrise",
   "reason": "unrelated lifestyle scene",
@@ -5230,11 +5176,5 @@
   "reason": "cartoons, green screen",
   "at": "2026-09-10T09:15:17Z",
   "from": "edenrise-c2-kaizen/S01"
- },
- "pixabay:76882": {
-  "brand": "belong",
-  "reason": "wrong regional look, not Alentejo farmhouse",
-  "at": "2026-09-10T09:22:14Z",
-  "from": "belong-module1/S10"
  }
 }
