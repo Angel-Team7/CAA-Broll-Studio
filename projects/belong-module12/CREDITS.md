@@ -216,3 +216,25 @@
 | pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
 | pixabay | drag lift  lift  to ski  ironing lift  winter fun  winter sp | Hans | Pixabay Content License | https://pixabay.com/videos/id-13444/ |
 | pixabay | antique book  book opening  book scrolling  books  candlelig | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-111280/ |
+| pexels | girl fixing table cloth | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/girl-fixing-table-cloth-6958241/ |
+| pexels | fall table decor | RDNE Stock project | Pexels License | https://www.pexels.com/video/fall-table-decor-5848219/ |
+| pexels | people preparing the dining table | Monstera Production | Pexels License | https://www.pexels.com/video/people-preparing-the-dining-table-5899904/ |
+| pexels | christmas table setting | Nicole Michalou | Pexels License | https://www.pexels.com/video/christmas-table-setting-6139296/ |
+| pexels | person teaching a girl about table etiquette | Monstera Production | Pexels License | https://www.pexels.com/video/person-teaching-a-girl-about-table-etiquette-7123783/ |
+| pexels | person placing a thank you card on ceramic plate | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-placing-a-thank-you-card-on-ceramic-plate-5848223/ |
+| pexels | girl slicing food with a table knife | Kampus Production | Pexels License | https://www.pexels.com/video/girl-slicing-food-with-a-table-knife-7491821/ |
+| pexels | people drinking on goblets | cottonbro studio | Pexels License | https://www.pexels.com/video/people-drinking-on-goblets-10034021/ |
+| pexels | person painting with a paint brush | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-painting-with-a-paint-brush-6957408/ |
+| pexels | adding 2 stroke oil in motorcycle during service | Themba Mtegha | Pexels License | https://www.pexels.com/video/adding-2-stroke-oil-in-motorcycle-during-service-28197087/ |
+| pexels | video of a man putting hinge | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/video-of-a-man-putting-hinge-7314251/ |
+| pexels | secure safe locking process in progress | Kiwi and Camera | Pexels License | https://www.pexels.com/video/secure-safe-locking-process-in-progress-39060937/ |
+| pexels | a person lighting a palo santo | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-lighting-a-palo-santo-6573599/ |
+| pexels | open open door | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/open-open-door-4101574/ |
+| pixabay | pan  oil  ingredients  cook  cooking  kitchen  meal  dish | DavlatTursunov | Pixabay Content License | https://pixabay.com/videos/id-59785/ |
+| pixabay | door  lock  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20459/ |
+| pixabay | drag lift  lift  to ski  ironing lift  ski lift  tractor  re | Hans | Pixabay Content License | https://pixabay.com/videos/id-13446/ |
+| pixabay | cutting carrots into slices  chef  cook  cutting board  food | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11547/ |
+| pixabay | green onions  onion  vegetables  cut  woman  cutting board   | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-9395/ |
+| pixabay | food  mushrooms  knife  nutrition  cut | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-8477/ |
+| pixabay | tomato  knife  cutting board  cooking utensils  sunshine  ca | JiyaH96 | Pixabay Content License | https://pixabay.com/videos/id-133983/ |
+| pixabay | tomato  fruit  knife  vegan  vegetables  vegetarian  diet  s | SergioParadox | Pixabay Content License | https://pixabay.com/videos/id-75271/ |
