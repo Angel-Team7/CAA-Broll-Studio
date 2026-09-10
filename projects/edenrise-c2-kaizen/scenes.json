@@ -1184,8 +1184,8 @@
      "shot": "",
      "shoot": "pexels-industrial-construction-site",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 11,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V02",
@@ -1232,7 +1232,7 @@
      "shot": "",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 12,
+     "rank": 28,
      "shown": false
     },
     {
@@ -1260,7 +1260,7 @@
      "shot": "",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 5,
+     "rank": 21,
      "shown": false
     },
     {
@@ -1288,8 +1288,8 @@
      "shot": "",
      "shoot": "pexels-hivis-workers-talking",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 9,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V12",
@@ -1316,8 +1316,8 @@
      "shot": "B",
      "shoot": "pexels-hardhat-reviewing-plan",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 4,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V15",
@@ -1345,8 +1345,8 @@
      "shot": "",
      "shoot": "pexels-hivis-workers-talking",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 10,
-     "shown": true
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S02-V16",
@@ -1374,7 +1374,7 @@
      "shot": "",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 13,
+     "rank": 29,
      "shown": false
     },
     {
@@ -1402,7 +1402,7 @@
      "shot": "B",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 6,
+     "rank": 22,
      "shown": false
     },
     {
@@ -1430,7 +1430,7 @@
      "shot": "B",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 7,
+     "rank": 23,
      "shown": false
     },
     {
@@ -1457,7 +1457,7 @@
      "shot": "",
      "shoot": "pexels-hinge-drill-closeup",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -1484,7 +1484,7 @@
      "shot": "",
      "shoot": "pexels-handplane-edge-smoothing",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 3,
+     "rank": 4,
      "shown": true
     },
     {
@@ -1538,7 +1538,7 @@
      "shot": "B",
      "shoot": "pexels-construction-tablet-check",
      "judged_at": "2026-09-09T17:52:34Z",
-     "rank": 8,
+     "rank": 24,
      "shown": false
     },
     {
@@ -1631,15 +1631,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V28.strip.jpg",
      "title": "greenhouse workers posing looking at camera",
      "query": "greenhouse worker pausing thinking rows",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "6509248",
      "download_url": "https://videos.pexels.com/video-files/6509248/6509248-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two greenhouse workers pose looking at the camera",
+     "violation": "",
+     "shoot": "pexels-greenhouse-pair-pose",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-kaizen-S02-V29",
@@ -1653,15 +1661,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V29.strip.jpg",
      "title": "woman hand picking peppers in a greenhouse",
      "query": "greenhouse worker pausing thinking rows",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "6194548",
      "download_url": "https://videos.pexels.com/video-files/6194548/6194548-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked woman picks peppers in a greenhouse",
+     "violation": "face masks",
+     "shoot": "pexels-masked-pepper-picking",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-kaizen-S02-V30",
@@ -1675,15 +1691,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V30.strip.jpg",
      "title": "growing strawberries in the greenhouse garden",
      "query": "greenhouse worker pausing thinking rows",
-     "shot": "A",
+     "shot": "D",
      "duration": 25,
      "src_id": "7852247",
      "download_url": "https://videos.pexels.com/video-files/7852247/7852247-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "workers in hats tend rows of strawberries in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-strawberry-greenhouse-hats",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-kaizen-S02-V31",
@@ -1704,8 +1728,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man arranges vegetable seedlings in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-seedling-tray-arrange",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-kaizen-S02-V32",
@@ -1726,8 +1758,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a gloved woman checks seedling trays in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-gloved-tray-check",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-kaizen-S02-V33",
@@ -1741,15 +1781,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V33.strip.jpg",
      "title": "two women are working in a greenhouse with plants",
      "query": "greenhouse worker pausing thinking rows",
-     "shot": "A",
+     "shot": "D",
      "duration": 7,
      "src_id": "20179399",
      "download_url": "https://videos.pexels.com/video-files/20179399/20179399-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "two women push a cart of tomato plants through a greenhouse",
+     "violation": "",
+     "shoot": "pexels-tomato-cart-greenhouse",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-kaizen-S02-V34",
@@ -1763,15 +1811,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V34.strip.jpg",
      "title": "a man arranging a seedling tray",
      "query": "greenhouse worker pausing thinking rows",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "5391456",
      "download_url": "https://videos.pexels.com/video-files/5391456/5391456-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a gloved hand arranges a tray of microgreens",
+     "violation": "",
+     "shoot": "pexels-microgreens-tray-hand",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-kaizen-S02-V35",
@@ -1792,8 +1848,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man examines hanging plants in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-hanging-plants-examine",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-kaizen-S02-V36",
@@ -1814,8 +1878,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a small toy rake rests in a sandbox",
+     "violation": "",
+     "shoot": "pexels-toy-rake-sandbox",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-kaizen-S02-V37",
@@ -1829,15 +1901,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V37.strip.jpg",
      "title": "a garden hose is watering the soil",
      "query": "hand resting on rake handle close",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "20521980",
      "download_url": "https://videos.pexels.com/video-files/20521980/20521980-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a garden hose sprinkler waters dark soil",
+     "violation": "",
+     "shoot": "pexels-hose-sprinkler-soil",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-kaizen-S02-V38",
@@ -1858,8 +1938,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand rakes sand in a miniature zen garden",
+     "violation": "",
+     "shoot": "pexels-zen-garden-rake-a",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-kaizen-S02-V39",
@@ -1880,8 +1968,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:44:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a pull-out shot reveals a miniature zen garden",
+     "violation": "",
+     "shoot": "pexels-zen-garden-pullout",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-kaizen-S02-V40",
@@ -1902,8 +1998,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand rakes sand in a small tabletop zen garden",
+     "violation": "",
+     "shoot": "pexels-zen-garden-rake-b",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-kaizen-S02-V41",
@@ -1924,8 +2028,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand rakes a miniature zen garden closeup",
+     "violation": "",
+     "shoot": "pexels-zen-garden-rake-c",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-kaizen-S02-V42",
@@ -1939,15 +2051,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V42.strip.jpg",
      "title": "beef  patty  hamburger  burger  grill  electric grill  meal  flesh  tasty  close up  food",
      "query": "hand rake handle close",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "199545",
      "download_url": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a beef patty sizzles on a ridged grill",
+     "violation": "",
+     "shoot": "pixabay-burger-grill",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 33
     },
     {
      "id": "edenrise-c2-kaizen-S02-V43",
@@ -1961,15 +2081,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V43.strip.jpg",
      "title": "hands  hand cream  cream  health  skin  care",
      "query": "hand rake handle close",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "38079",
      "download_url": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "hands smooth cream onto a wrist closeup",
+     "violation": "",
+     "shoot": "pixabay-hand-cream",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-kaizen-S02-V44",
@@ -1990,8 +2118,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a canopy daybed sits in a lush landscaped garden",
+     "violation": "",
+     "shoot": "pixabay-garden-villa-daybed",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-kaizen-S02-V45",
@@ -2005,15 +2141,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V45.strip.jpg",
      "title": "plant  watering  grow  gardening  ewer  watering can  watering pot  water  nature  green  care  garden  spring  ecology  growth  environment  growing  summer  young  agriculture",
      "query": "gardener garden wide",
-     "shot": "D",
+     "shot": "",
      "duration": 14,
      "src_id": "5635",
      "download_url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a red watering can pours water over a potted plant",
+     "violation": "",
+     "shoot": "pixabay-watering-can-plant",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-kaizen-S02-V46",
@@ -2027,15 +2171,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V46.strip.jpg",
      "title": "automobile  black  antique car  vehicle  luxury  car  dare  vintage  dynamics  glittering  workshop  dark  service",
      "query": "carpenter looking workshop",
-     "shot": "B",
+     "shot": "",
      "duration": 5,
      "src_id": "24388",
      "download_url": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a vintage car's headlights gleam in darkness",
+     "violation": "",
+     "shoot": "pixabay-vintage-car-dark",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 34
     },
     {
      "id": "edenrise-c2-kaizen-S02-V47",
@@ -2049,15 +2201,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V47.strip.jpg",
      "title": "tree  branches  space  stars  nebula  loop  looking up",
      "query": "carpenter looking workshop",
-     "shot": "B",
+     "shot": "",
      "duration": 48,
      "src_id": "170030",
      "download_url": "https://cdn.pixabay.com/video/2023/07/04/170030-842720091_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "bare tree branches loom against a glowing night sky",
+     "violation": "abstract loops",
+     "shoot": "pixabay-bare-tree-night-loop",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 35
     },
     {
      "id": "edenrise-c2-kaizen-S02-V48",
@@ -2078,8 +2238,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a power drill drives a screw into wood closeup",
+     "violation": "",
+     "shoot": "pixabay-drill-screw-wood",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-kaizen-S02-V49",
@@ -2093,15 +2261,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S02__strip__edenrise-c2-kaizen-S02-V49.strip.jpg",
      "title": "market  walking  shopping people  looking  verona  italy",
      "query": "carpenter looking workshop",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "148501",
      "download_url": "https://cdn.pixabay.com/video/2023/01/29/148501-794344007_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:45:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "shoppers browse an outdoor market in an old european square",
+     "violation": "",
+     "shoot": "pixabay-verona-market-shoppers",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:38:49Z",
+     "rank": 32
     }
    ],
    "onscreen": "Don't only do the work. Improve how the work gets done.",
@@ -2144,11 +2320,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:52:34Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:38:49Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:52:34Z"
+   "judged_at": "2026-09-10T09:38:49Z"
   },
   {
    "id": "S03",
