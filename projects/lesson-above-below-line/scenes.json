@@ -5200,13 +5200,13 @@
      "staged_at": "2026-09-10T05:09:46Z",
      "judged": true,
      "shown": true,
-     "relevance": 7,
+     "relevance": 8,
      "brand_fit": 7,
-     "caption": "a hand tucks a seedling into a hole in a weed-block garden bed",
+     "caption": "a hand plants a small seedling into a hole in black mulch",
      "violation": "",
-     "shoot": "seedling-planting-weedfabric-bed-1",
-     "score": 7.0,
-     "judged_at": "2026-09-10T09:30:28Z",
+     "shoot": "pexels-seedling-blackmat-h1",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:31:25Z",
      "rank": 4
     },
     {
@@ -5230,13 +5230,13 @@
      "staged_at": "2026-09-10T05:09:52Z",
      "judged": true,
      "shown": true,
-     "relevance": 7,
+     "relevance": 8,
      "brand_fit": 7,
-     "caption": "a hand presses a young seedling into soil through garden fabric",
+     "caption": "a hand presses a seedling into dark soil beneath black mulch",
      "violation": "",
-     "shoot": "seedling-planting-weedfabric-bed-2",
-     "score": 7.0,
-     "judged_at": "2026-09-10T09:30:28Z",
+     "shoot": "pexels-seedling-blackmat-h2",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:31:25Z",
      "rank": 5
     },
     {
@@ -5261,13 +5261,13 @@
      "judged": true,
      "shown": true,
      "relevance": 7,
-     "brand_fit": 8,
-     "caption": "gloved hands place a seedling into a propagation tray",
+     "brand_fit": 6,
+     "caption": "gloved hands plant seedlings into a nursery tray",
      "violation": "",
-     "shoot": "greenhouse-propagation-orange-gloves",
-     "score": 7.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 3
+     "shoot": "pexels-orangegloves-seedling-tray",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 7
     },
     {
      "id": "lesson-above-below-line-S11-V03",
@@ -5290,14 +5290,14 @@
      "staged_at": "2026-09-10T05:10:03Z",
      "judged": true,
      "shown": false,
-     "relevance": 3,
+     "relevance": 5,
      "brand_fit": 0,
-     "caption": "a masked worker in a hat plants seedlings in an outdoor nursery",
-     "violation": "face masks",
-     "shoot": "masked-worker-seedling-nursery",
-     "score": 1.95,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 17
+     "caption": "a man in a face mask plants seedlings in a nursery row",
+     "violation": "face mask (never-list)",
+     "shoot": "pexels-nurseryman-mask-seedlings",
+     "score": 3.25,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 16
     },
     {
      "id": "lesson-above-below-line-S11-V04",
@@ -5320,14 +5320,14 @@
      "staged_at": "2026-09-10T05:10:11Z",
      "judged": true,
      "shown": true,
-     "relevance": 7,
-     "brand_fit": 7,
-     "caption": "a hand plants a small seedling directly into dry cracked soil",
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a hand plants a small seedling into dry soil",
      "violation": "",
-     "shoot": "hand-planting-dry-soil-field",
-     "score": 7.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 6
+     "shoot": "pexels-hand-seedling-drysoil",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 2
     },
     {
      "id": "lesson-above-below-line-S11-V05",
@@ -5350,14 +5350,14 @@
      "staged_at": "2026-09-10T05:10:17Z",
      "judged": true,
      "shown": true,
-     "relevance": 6,
+     "relevance": 7,
      "brand_fit": 7,
-     "caption": "two women plant seedlings into rows of a farm bed",
+     "caption": "two workers plant seedlings together along a mulched row",
      "violation": "",
-     "shoot": "two-women-planting-weedfabric-farm",
-     "score": 6.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 8
+     "shoot": "pexels-pair-planting-blackmat-farm",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 6
     },
     {
      "id": "lesson-above-below-line-S11-V06",
@@ -5381,13 +5381,13 @@
      "judged": true,
      "shown": true,
      "relevance": 6,
-     "brand_fit": 7,
-     "caption": "hands place seedlings into brown grow bags outdoors",
+     "brand_fit": 6,
+     "caption": "hands settle young seedlings into rows of grow bags",
      "violation": "",
-     "shoot": "hands-planting-growbags-outdoor",
-     "score": 6.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 9
+     "shoot": "pexels-hands-seedlings-growbags",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 10
     },
     {
      "id": "lesson-above-below-line-S11-V07",
@@ -5410,14 +5410,14 @@
      "staged_at": "2026-09-10T05:10:30Z",
      "judged": true,
      "shown": false,
-     "relevance": 5,
-     "brand_fit": 5,
-     "caption": "a hand settles a small plant into a terracotta pot indoors",
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a person plants a tomato seedling into a terracotta pot indoors",
      "violation": "",
-     "shoot": "indoor-potting-terracotta-barefoot",
-     "score": 5.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 11
+     "shoot": "pexels-indoor-tomato-pot",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 15
     },
     {
      "id": "lesson-above-below-line-S11-V08",
@@ -5440,14 +5440,14 @@
      "staged_at": "2026-09-10T05:10:36Z",
      "judged": true,
      "shown": false,
-     "relevance": 3,
-     "brand_fit": 3,
-     "caption": "two children's hands plant a seedling into a dug hole",
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a child's hands plant a seedling into a dug hole",
      "violation": "",
-     "shoot": "children-hands-planting-hole",
-     "score": 3.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 15
+     "shoot": "pexels-child-hands-planting",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 14
     },
     {
      "id": "lesson-above-below-line-S11-V09",
@@ -5471,13 +5471,13 @@
      "judged": true,
      "shown": true,
      "relevance": 9,
-     "brand_fit": 7,
-     "caption": "cupped hands cradle a small seedling rooted in soil",
+     "brand_fit": 6,
+     "caption": "cupped hands cradle a small seedling with soil",
      "violation": "",
-     "shoot": "cupped-hands-eucalyptus-seedling-studio",
-     "score": 8.3,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 2
+     "shoot": "pexels-cupped-hands-eucalyptus",
+     "score": 7.95,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 3
     },
     {
      "id": "lesson-above-below-line-S11-V10",
@@ -5502,12 +5502,12 @@
      "shown": true,
      "relevance": 7,
      "brand_fit": 6,
-     "caption": "aerial view of young crop rows growing through plastic mulch",
+     "caption": "an aerial view of neat crop rows under black mulch",
      "violation": "",
-     "shoot": "aerial-crop-rows-mulch",
+     "shoot": "pexels-aerial-croprows-mulch",
      "score": 6.65,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 7
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 8
     },
     {
      "id": "lesson-above-below-line-S11-V11",
@@ -5530,14 +5530,14 @@
      "staged_at": "2026-09-10T05:10:57Z",
      "judged": true,
      "shown": false,
-     "relevance": 4,
+     "relevance": 5,
      "brand_fit": 5,
-     "caption": "aerial view of a large farm with mixed crop patterns",
+     "caption": "an aerial view of varied farm plots beside a stream",
      "violation": "",
-     "shoot": "aerial-mixed-farmland-wide",
-     "score": 4.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 14
+     "shoot": "pexels-aerial-farmplots-stream",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 12
     },
     {
      "id": "lesson-above-below-line-S11-V12",
@@ -5560,14 +5560,14 @@
      "staged_at": "2026-09-10T05:11:04Z",
      "judged": true,
      "shown": true,
-     "relevance": 6,
+     "relevance": 7,
      "brand_fit": 6,
-     "caption": "an overhead view of many young seedlings in nursery trays",
+     "caption": "an overhead view of rows of young potted seedlings",
      "violation": "",
-     "shoot": "aerial-topdown-nursery-trays",
-     "score": 6.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 10
+     "shoot": "pexels-overhead-seedling-trays",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 9
     },
     {
      "id": "lesson-above-below-line-S11-V13",
@@ -5592,11 +5592,11 @@
      "shown": false,
      "relevance": 4,
      "brand_fit": 6,
-     "caption": "rows of hanging potted plants line a greenhouse aisle",
+     "caption": "potted plants hang in a row inside a greenhouse",
      "violation": "",
-     "shoot": "greenhouse-hanging-pots-row",
+     "shoot": "pexels-greenhouse-hangingpots-row",
      "score": 4.7,
-     "judged_at": "2026-09-10T09:30:28Z",
+     "judged_at": "2026-09-10T09:31:25Z",
      "rank": 13
     },
     {
@@ -5611,7 +5611,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S11__strip__lesson-above-below-line-S11-V14.strip.jpg",
      "title": "corn field  maize field  young corn  sprouting corn  planted field  crop rows  agriculture  farmland  aerial view  drone footage  low altitude drone  rural landscape  farming  agricultural field  new crop  spring planting  perspective lines  green crops  crop growth  fields from above  nature  countryside  landscape drone  farmland aerial  soil rows",
      "query": "young plants rows",
-     "shot": "",
+     "shot": "C",
      "duration": 18,
      "src_id": "313652",
      "download_url": "https://cdn.pixabay.com/video/2025/11/03/313652_large.mp4",
@@ -5620,14 +5620,14 @@
      "staged_at": "2026-09-10T05:11:18Z",
      "judged": true,
      "shown": false,
-     "relevance": 5,
-     "brand_fit": 5,
-     "caption": "aerial view of a green field with young crop rows",
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "an aerial view of a green crop field beside a dirt path",
      "violation": "",
-     "shoot": "aerial-cornfield-green-rows",
-     "score": 5.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 12
+     "shoot": "pixabay-aerial-cropfield-path",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 11
     },
     {
      "id": "lesson-above-below-line-S11-V15",
@@ -5651,13 +5651,13 @@
      "judged": true,
      "shown": false,
      "relevance": 0,
-     "brand_fit": 1,
-     "caption": "a blurred man laughs while looking at his phone",
+     "brand_fit": 0,
+     "caption": "a man smiles while looking at his phone",
      "violation": "",
-     "shoot": "man-phone-laughing-blurred",
-     "score": 0.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 20
+     "shoot": "pixabay-phone-dating-blur",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 19
     },
     {
      "id": "lesson-above-below-line-S11-V16",
@@ -5682,12 +5682,12 @@
      "shown": false,
      "relevance": 0,
      "brand_fit": 0,
-     "caption": "a grey 3D animated figure lies restless in bed",
-     "violation": "abstract / CGI",
-     "shoot": "cgi-sleeping-figure-bed",
+     "caption": "a 3d animated figure lies sleeping in bed",
+     "violation": "3d CGI rendering, not authentic footage",
+     "shoot": "pixabay-cgi-sleep-mannequin",
      "score": 0.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 22
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 20
     },
     {
      "id": "lesson-above-below-line-S11-V17",
@@ -5712,12 +5712,12 @@
      "shown": false,
      "relevance": 0,
      "brand_fit": 0,
-     "caption": "a family of swans rests in a grassy field",
-     "violation": "wildlife",
-     "shoot": "swans-cygnets-grass-field",
+     "caption": "young swans rest in a grassy field near houses",
+     "violation": "wildlife (never-list)",
+     "shoot": "pixabay-swans-fieldvillage",
      "score": 0.0,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 23
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 21
     },
     {
      "id": "lesson-above-below-line-S11-V18",
@@ -5740,14 +5740,14 @@
      "staged_at": "2026-09-10T05:11:43Z",
      "judged": true,
      "shown": false,
-     "relevance": 2,
-     "brand_fit": 4,
-     "caption": "aerial view of a tractor spraying a tan field",
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a tractor sprays a large golden field from above",
      "violation": "",
-     "shoot": "aerial-tractor-sprayer-field",
-     "score": 2.7,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 16
+     "shoot": "pixabay-aerial-tractor-field",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 17
     },
     {
      "id": "lesson-above-below-line-S11-V19",
@@ -5771,13 +5771,13 @@
      "judged": true,
      "shown": false,
      "relevance": 0,
-     "brand_fit": 2,
-     "caption": "a woman sleeps peacefully among pink pillows",
+     "brand_fit": 0,
+     "caption": "a woman lies asleep among pink pillows",
      "violation": "",
-     "shoot": "woman-sleeping-pink-pillows",
-     "score": 0.7,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 18
+     "shoot": "pixabay-woman-wakeup-bed1",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 22
     },
     {
      "id": "lesson-above-below-line-S11-V20",
@@ -5801,13 +5801,13 @@
      "judged": true,
      "shown": false,
      "relevance": 0,
-     "brand_fit": 2,
-     "caption": "a woman wakes and stretches happily in bed",
+     "brand_fit": 1,
+     "caption": "a woman stretches happily waking up in bed",
      "violation": "",
-     "shoot": "woman-waking-stretching-bedroom",
-     "score": 0.7,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 19
+     "shoot": "pixabay-woman-stretch-bed2",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 18
     },
     {
      "id": "lesson-above-below-line-S11-V21",
@@ -5831,13 +5831,13 @@
      "judged": true,
      "shown": false,
      "relevance": 0,
-     "brand_fit": 1,
-     "caption": "close-up of a person's face sleeping in dim blue light",
+     "brand_fit": 0,
+     "caption": "a person sleeps in a dark room lit by a window",
      "violation": "",
-     "shoot": "closeup-face-sleeping-dark",
-     "score": 0.35,
-     "judged_at": "2026-09-10T09:30:28Z",
-     "rank": 21
+     "shoot": "pixabay-mansleep-dark",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:31:25Z",
+     "rank": 23
     }
    ],
    "shots": [
@@ -5869,7 +5869,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:39:20Z",
-   "judged_at": "2026-09-10T09:30:28Z"
+   "judged_at": "2026-09-10T09:31:25Z"
   },
   {
    "id": "S12",
