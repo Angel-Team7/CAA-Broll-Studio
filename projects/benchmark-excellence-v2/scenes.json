@@ -37,7 +37,7 @@
      "shoot": "pexels-bricklayer-wall-hand",
      "score": 5.35,
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 3,
+     "rank": 10,
      "shown": true
     },
     {
@@ -59,7 +59,7 @@
      "shoot": "pexels-village-dawn-aerial",
      "score": 4.7,
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 4,
+     "rank": 15,
      "shown": false
     },
     {
@@ -81,7 +81,7 @@
      "shoot": "pexels-excavator-urban-dawn",
      "score": 2.0,
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 11,
+     "rank": 26,
      "shown": false
     },
     {
@@ -103,7 +103,7 @@
      "shoot": "pexels-watering-garden-morning",
      "score": 7.35,
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -125,7 +125,7 @@
      "shoot": "pixabay-sunrise-misty-mountains",
      "score": 6.05,
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 2,
+     "rank": 6,
      "shown": false
     },
     {
@@ -184,7 +184,7 @@
      "shot": "",
      "shoot": "pexels-crew-foundation-pour",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 12,
+     "rank": 27,
      "shown": false
     },
     {
@@ -213,8 +213,8 @@
      "shot": "",
      "shoot": "pixabay-jigsaw-board-mark",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "benchmark-excellence-v2-S01-V02",
@@ -242,8 +242,8 @@
      "shot": "",
      "shoot": "pexels-excavator-dirt-lot-aerial",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 8,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "benchmark-excellence-v2-S01-V03",
@@ -271,7 +271,7 @@
      "shot": "",
      "shoot": "pixabay-rooftop-workers-aerial-1",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 9,
+     "rank": 24,
      "shown": false
     },
     {
@@ -300,7 +300,7 @@
      "shot": "",
      "shoot": "pexels-hazy-development-aerial",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 13,
+     "rank": 29,
      "shown": false
     },
     {
@@ -329,8 +329,8 @@
      "shot": "",
      "shoot": "pixabay-culvert-excavator-site",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 6,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "benchmark-excellence-v2-S01-V06",
@@ -358,8 +358,8 @@
      "shot": "",
      "shoot": "pexels-dusty-roadcut-aerial",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "benchmark-excellence-v2-S01-V07",
@@ -387,7 +387,7 @@
      "shot": "",
      "shoot": "pixabay-multitower-cranes-aerial",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 15,
+     "rank": 31,
      "shown": false
     },
     {
@@ -416,7 +416,7 @@
      "shot": "",
      "shoot": "pexels-desert-trucks-cranes-aerial",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 14,
+     "rank": 30,
      "shown": false
     },
     {
@@ -445,7 +445,7 @@
      "shot": "",
      "shoot": "pixabay-rooftop-workers-aerial-2",
      "judged_at": "2026-09-09T18:53:40Z",
-     "rank": 10,
+     "rank": 25,
      "shown": false
     },
     {
@@ -460,15 +460,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V10.strip.jpg",
      "title": "a person using a front loader truck",
      "query": "worker carrying one stone at a time",
-     "shot": "B",
+     "shot": "A",
      "duration": 45,
      "src_id": "3919168",
      "download_url": "https://videos.pexels.com/video-files/3919168/3919168-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a wheel loader moves gravel at a construction site at dawn",
+     "violation": "",
+     "shoot": "pexels-loader-dawn",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 4
     },
     {
      "id": "benchmark-excellence-v2-S01-V11",
@@ -489,8 +497,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "bare feet stand in rocky soil as someone digs with a tool",
+     "violation": "",
+     "shoot": "pexels-dig-feet",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 12
     },
     {
      "id": "benchmark-excellence-v2-S01-V12",
@@ -511,8 +527,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "workers in hi-vis vests build a stone wall together",
+     "violation": "",
+     "shoot": "pexels-stonewall-crew",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 16
     },
     {
      "id": "benchmark-excellence-v2-S01-V13",
@@ -533,8 +557,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "workers carry baskets of bricks up a ladder at a brick stack",
+     "violation": "",
+     "shoot": "pexels-brick-ladder",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 3
     },
     {
      "id": "benchmark-excellence-v2-S01-V14",
@@ -555,8 +587,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a worker carries a heavy bundle of bricks across a brick yard",
+     "violation": "",
+     "shoot": "pexels-brick-bundle",
+     "score": 6.3,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 5
     },
     {
      "id": "benchmark-excellence-v2-S01-V15",
@@ -577,8 +617,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a worker balances a stack of bricks on their head",
+     "violation": "",
+     "shoot": "pexels-brick-head",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 7
     },
     {
      "id": "benchmark-excellence-v2-S01-V16",
@@ -599,8 +647,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman mixes mortar with a hoe at a construction site",
+     "violation": "",
+     "shoot": "pexels-mortar-woman",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 8
     },
     {
      "id": "benchmark-excellence-v2-S01-V17",
@@ -614,15 +670,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V17.strip.jpg",
      "title": "people working on a construction",
      "query": "worker carrying one stone at a time",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "4852141",
      "download_url": "https://videos.pexels.com/video-files/4852141/4852141-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:32:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "two men load a portable cement mixer at a work site",
+     "violation": "",
+     "shoot": "pexels-mixer-load",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 18
     },
     {
      "id": "benchmark-excellence-v2-S01-V18",
@@ -636,15 +700,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V18.strip.jpg",
      "title": "footage",
      "query": "worker carrying one stone at a time",
-     "shot": "B",
+     "shot": "A",
      "duration": 6,
      "src_id": "19832481",
      "download_url": "https://videos.pexels.com/video-files/19832481/19832481-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "workers in hi-vis vests build a stone wall at a dawn work site",
+     "violation": "",
+     "shoot": "pexels-stonewall-crew",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 9
     },
     {
      "id": "benchmark-excellence-v2-S01-V19",
@@ -665,8 +737,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a farmer leads an ox cart loaded with greens through a field",
+     "violation": "",
+     "shoot": "pexels-oxcart-field",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 13
     },
     {
      "id": "benchmark-excellence-v2-S01-V20",
@@ -680,15 +760,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V20.strip.jpg",
      "title": "close up view of land in hands",
      "query": "dawn landscaper beginning work",
-     "shot": "A",
+     "shot": "",
      "duration": 4,
      "src_id": "11960802",
      "download_url": "https://videos.pexels.com/video-files/11960802/11960802-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "hands cradle soil with a small green sprout",
+     "violation": "",
+     "shoot": "pexels-hands-soil-sprout",
+     "score": 3.75,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 19
     },
     {
      "id": "benchmark-excellence-v2-S01-V21",
@@ -709,8 +797,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "an aerial view shows a loader working gravel at dusk",
+     "violation": "",
+     "shoot": "pexels-loader-dusk-aerial",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 14
     },
     {
      "id": "benchmark-excellence-v2-S01-V22",
@@ -724,15 +820,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V22.strip.jpg",
      "title": "worker wearing blue jeans while edging a driveway with a gas powered stick edger",
      "query": "dawn landscaper beginning work",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "27092790",
      "download_url": "https://videos.pexels.com/video-files/27092790/12068977_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a worker edges a driveway with a gas-powered trimmer",
+     "violation": "",
+     "shoot": "pexels-edger-driveway",
+     "score": 5.05,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 11
     },
     {
      "id": "benchmark-excellence-v2-S01-V23",
@@ -746,15 +850,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V23.strip.jpg",
      "title": "sun shot",
      "query": "dawn landscaper beginning work",
-     "shot": "A",
+     "shot": "C",
      "duration": 23,
      "src_id": "17759816",
      "download_url": "https://videos.pexels.com/video-files/17759816/17759816-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "the sun rises over a misty silhouetted field",
+     "violation": "",
+     "shoot": "pexels-sunrise-field",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 1
     },
     {
      "id": "benchmark-excellence-v2-S01-V24",
@@ -768,15 +880,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V24.strip.jpg",
      "title": "countdown  timer  seconds  start",
      "query": "dawn landscaper work start",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "170063",
      "download_url": "https://cdn.pixabay.com/video/2023/07/04/170063-842720159_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated countdown number bursts with sparks",
+     "violation": "abstract loops",
+     "shoot": "pixabay-countdown-a",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 32
     },
     {
      "id": "benchmark-excellence-v2-S01-V25",
@@ -790,15 +910,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V25.strip.jpg",
      "title": "nature  moutains  landscape  darling  sun  field  boil  view",
      "query": "sun rising field close",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "111056",
      "download_url": "https://cdn.pixabay.com/video/2022/03/17/111056-689510856_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a green field stretches toward distant hills",
+     "violation": "",
+     "shoot": "pixabay-ricefield-wide",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 20
     },
     {
      "id": "benchmark-excellence-v2-S01-V26",
@@ -812,15 +940,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V26.strip.jpg",
      "title": "field  grain  summer  sun  wind  agriculture  nature  landscape",
      "query": "sun rising field close",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "215854",
      "download_url": "https://cdn.pixabay.com/video/2024/06/08/215854_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "close-up view of a green wheat field",
+     "violation": "",
+     "shoot": "pixabay-wheatfield-close",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 28
     },
     {
      "id": "benchmark-excellence-v2-S01-V27",
@@ -834,15 +970,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S01__strip__benchmark-excellence-v2-S01-V27.strip.jpg",
      "title": "countdown  numbers  3d numbers  start sequence  timer",
      "query": "dawn landscaper work start",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "9462",
      "download_url": "https://cdn.pixabay.com/video/2017/05/31/9462-219710533_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:33:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "animated countdown numbers flash against a dark background",
+     "violation": "abstract loops",
+     "shoot": "pixabay-countdown-b",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:10:02Z",
+     "rank": 33
     }
    ],
    "shots": [
@@ -875,12 +1019,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T18:53:40Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T18:53:40Z"
+   "judged_at": "2026-09-10T09:10:02Z"
   },
   {
    "id": "S02",
