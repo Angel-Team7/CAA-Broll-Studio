@@ -558,16 +558,16 @@
   "from": "belong-module9/S03"
  },
  "pexels:4941364": {
-  "at": "2026-09-10T08:49:01Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S02",
-  "reason": "face mask, industrial/factory setting"
+  "reason": "dark industrial workshops",
+  "at": "2026-09-10T08:57:28Z",
+  "from": "attention-to-detail-v2/S02"
  },
  "pexels:4941367": {
-  "at": "2026-09-10T08:49:01Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S02",
-  "reason": "industrial warehouse setting"
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T08:57:28Z",
+  "from": "attention-to-detail-v2/S02"
  },
  "pexels:5100043": {
   "brand": "belong",
@@ -822,10 +822,10 @@
   "from": "belong-module9/S07"
  },
  "pexels:6474172": {
-  "at": "2026-09-10T08:53:12Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S08",
-  "reason": "face mask / respirator, spray booth PPE"
+  "reason": "face masks",
+  "at": "2026-09-10T09:01:25Z",
+  "from": "attention-to-detail-v2/S08"
  },
  "pexels:6474370": {
   "brand": "belong",
@@ -864,10 +864,10 @@
   "from": "belong-module9/S03"
  },
  "pexels:6520274": {
-  "brand": "belong",
+  "brand": "edenrise",
   "reason": "face masks",
-  "at": "2026-09-10T09:22:47Z",
-  "from": "belong-module10/S13"
+  "at": "2026-09-10T09:03:21Z",
+  "from": "attention-to-detail-v2/S09"
  },
  "pexels:6532783": {
   "brand": "edenrise",
@@ -876,10 +876,10 @@
   "from": "communication-dont-assume-clarify-v2/S09"
  },
  "pexels:6538448": {
-  "at": "2026-09-10T08:54:24Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S09",
-  "reason": "office setting"
+  "reason": "office",
+  "at": "2026-09-10T09:03:21Z",
+  "from": "attention-to-detail-v2/S09"
  },
  "pexels:6538597": {
   "brand": "edenrise",
@@ -888,10 +888,10 @@
   "from": "be-a-lifelong-learner-v2/S16"
  },
  "pexels:6563927": {
-  "at": "2026-09-10T08:54:24Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S09",
-  "reason": "office setting, sticky notes on glass wall"
+  "reason": "office, whiteboards",
+  "at": "2026-09-10T09:03:21Z",
+  "from": "attention-to-detail-v2/S09"
  },
  "pexels:6567824": {
   "brand": "edenrise",
@@ -1020,10 +1020,10 @@
   "from": "be-a-lifelong-learner-v2/S16"
  },
  "pexels:7019774": {
-  "at": "2026-09-10T08:50:36Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S04",
-  "reason": "dark industrial workshop"
+  "reason": "dark industrial workshops",
+  "at": "2026-09-10T08:58:41Z",
+  "from": "attention-to-detail-v2/S04"
  },
  "pexels:7103531": {
   "brand": "edenrise",
@@ -1614,10 +1614,10 @@
   "from": "belong-module9/S02"
  },
  "pexels:8134336": {
-  "at": "2026-09-10T08:54:24Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S09",
-  "reason": "laptop visible"
+  "reason": "laptops",
+  "at": "2026-09-10T09:03:21Z",
+  "from": "attention-to-detail-v2/S09"
  },
  "pexels:8135468": {
   "brand": "edenrise",
@@ -3696,10 +3696,10 @@
   "from": "belong-module9/S01"
  },
  "pixabay:130651": {
-  "at": "2026-09-10T08:47:27Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S01",
-  "reason": "off-brand indoor lifestyle scene, wrong world"
+  "reason": "off-brand indoor lifestyle scene, wrong world",
+  "at": "2026-09-10T08:47:27Z",
+  "from": "attention-to-detail-v2/S01"
  },
  "pixabay:131161": {
   "brand": "belong",
@@ -3750,10 +3750,10 @@
   "from": "attention-to-detail-v2/S12"
  },
  "pixabay:135851": {
-  "at": "2026-09-10T08:47:27Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S01",
-  "reason": "welding sparks, face mask (helmet)"
+  "reason": "welding sparks, dark industrial workshops",
+  "at": "2026-09-10T08:56:15Z",
+  "from": "attention-to-detail-v2/S01"
  },
  "pixabay:135891": {
   "brand": "edenrise",
@@ -3870,10 +3870,10 @@
   "from": "belong-module12/S03"
  },
  "pixabay:166273": {
-  "at": "2026-09-10T08:53:12Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S08",
-  "reason": "cartoon character"
+  "reason": "cartoons",
+  "at": "2026-09-10T09:01:25Z",
+  "from": "attention-to-detail-v2/S08"
  },
  "pixabay:170063": {
   "brand": "edenrise",
@@ -3961,8 +3961,8 @@
  },
  "pixabay:202135": {
   "brand": "belong",
-  "reason": "corporate office; anger theatre on a composure line",
-  "at": "2026-09-10T09:22:47Z",
+  "reason": "corporate office",
+  "at": "2026-09-10T09:21:10Z",
   "from": "belong-module10/S04"
  },
  "pixabay:202392": {
@@ -3972,10 +3972,10 @@
   "from": "belong-module9/S01"
  },
  "pixabay:202559": {
-  "at": "2026-09-10T08:49:01Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S02",
-  "reason": "industrial scrapyard, wrong world and scale"
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T08:57:28Z",
+  "from": "attention-to-detail-v2/S02"
  },
  "pixabay:20264": {
   "brand": "edenrise",
@@ -4026,10 +4026,10 @@
   "from": "be-a-lifelong-learner-v2/S13"
  },
  "pixabay:215070": {
-  "at": "2026-09-10T08:53:12Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S08",
-  "reason": "wildlife"
+  "reason": "wildlife",
+  "at": "2026-09-10T09:01:25Z",
+  "from": "attention-to-detail-v2/S08"
  },
  "pixabay:2196": {
   "brand": "belong",
@@ -4536,10 +4536,10 @@
   "from": "belong-module9/S05"
  },
  "pixabay:75999": {
-  "brand": "belong",
-  "reason": "animated silhouette graphic, not authentic footage",
-  "at": "2026-09-10T09:22:47Z",
-  "from": "belong-module10/S04"
+  "brand": "edenrise",
+  "reason": "abstract loops",
+  "at": "2026-09-10T09:15:17Z",
+  "from": "edenrise-c2-kaizen/S01"
  },
  "pixabay:76425": {
   "brand": "belong",
@@ -4644,10 +4644,10 @@
   "from": "communication-dont-assume-clarify-v2/S09"
  },
  "pixabay:8989": {
-  "at": "2026-09-10T08:50:36Z",
   "brand": "edenrise",
-  "from": "attention-to-detail-v2/S04",
-  "reason": "abstract loop graphic"
+  "reason": "abstract loops",
+  "at": "2026-09-10T08:58:41Z",
+  "from": "attention-to-detail-v2/S04"
  },
  "pixabay:9247": {
   "brand": "edenrise",
@@ -4657,8 +4657,8 @@
  },
  "pixabay:92662": {
   "brand": "belong",
-  "reason": "animated cartoon graphic, not authentic footage",
-  "at": "2026-09-10T09:22:47Z",
+  "reason": "cartoons, green screen",
+  "at": "2026-09-10T09:21:10Z",
   "from": "belong-module10/S04"
  },
  "pixabay:9462": {
@@ -5102,13 +5102,13 @@
  "pixabay:135167": {
   "brand": "belong",
   "reason": "corporate hotel chains",
-  "at": "2026-09-10T09:22:46Z",
+  "at": "2026-09-10T09:16:02Z",
   "from": "belong-module10/S11"
  },
  "pexels:13869648": {
   "brand": "belong",
-  "reason": "resort pools and beaches",
-  "at": "2026-09-10T09:22:47Z",
+  "reason": "resort pool",
+  "at": "2026-09-10T09:18:24Z",
   "from": "belong-module10/S10"
  },
  "pexels:27864930": {
@@ -5138,25 +5138,25 @@
  "pexels:9165939": {
   "brand": "belong",
   "reason": "luxury spa clichés",
-  "at": "2026-09-10T09:22:47Z",
+  "at": "2026-09-10T09:19:51Z",
   "from": "belong-module10/S05"
  },
  "pixabay:213833": {
   "brand": "belong",
-  "reason": "resort pools and beaches",
-  "at": "2026-09-10T09:22:47Z",
+  "reason": "luxury resort pool with loungers",
+  "at": "2026-09-10T09:19:51Z",
   "from": "belong-module10/S05"
  },
  "pixabay:214928": {
   "brand": "belong",
-  "reason": "resort pools and beaches",
-  "at": "2026-09-10T09:22:47Z",
+  "reason": "luxury resort pool with loungers",
+  "at": "2026-09-10T09:19:51Z",
   "from": "belong-module10/S05"
  },
  "pexels:6566845": {
   "brand": "belong",
   "reason": "corporate office",
-  "at": "2026-09-10T09:22:47Z",
+  "at": "2026-09-10T09:21:10Z",
   "from": "belong-module10/S04"
  },
  "pexels:6390324": {
@@ -5182,5 +5182,53 @@
   "reason": "factories, warehouses",
   "at": "2026-09-10T09:22:47Z",
   "from": "belong-module10/S13"
+ },
+ "coverr:https://coverr.co/videos/mobile-home-in-construction-qpcdls9heb": {
+  "brand": "edenrise",
+  "reason": "factory/industrial interior, not a workshop",
+  "at": "2026-09-09T18:22:05Z",
+  "from": "attention-to-detail-v2/S02"
+ },
+ "coverr:https://coverr.co/videos/set-of-bits-in-a-toolbox-lz6bwkbnye": {
+  "brand": "edenrise",
+  "reason": "dark, moody industrial-workshop framing",
+  "at": "2026-09-09T18:24:19Z",
+  "from": "attention-to-detail-v2/S06"
+ },
+ "coverr:https://coverr.co/videos/store-assistant-wiping-surfaces-yfx3brh85t": {
+  "brand": "edenrise",
+  "reason": "suit worn by worker; upscale boutique retail setting",
+  "at": "2026-09-09T18:24:47Z",
+  "from": "attention-to-detail-v2/S07"
+ },
+ "archive:https://archive.org/details/img-20201212121049": {
+  "brand": "edenrise",
+  "reason": "suits",
+  "at": "2026-09-09T18:33:41Z",
+  "from": "be-a-lifelong-learner-v2/S02"
+ },
+ "pexels (royalty-free):None": {
+  "brand": "edenrise",
+  "reason": "intense stare",
+  "at": "2026-09-09T18:59:35Z",
+  "from": "lesson-above-below-line/S05"
+ },
+ "upload:None": {
+  "brand": "edenrise",
+  "reason": "suit-clad manager, not the brand's foreman-in-the-field world",
+  "at": "2026-09-09T19:03:06Z",
+  "from": "communication-dont-assume-clarify-v2/S02"
+ },
+ "mixkit:https://mixkit.co/free-stock-video/gigantic-field-of-sunflowers-on-a-sunny-day-4881/": {
+  "brand": "edenrise",
+  "reason": "flowers-only",
+  "at": "2026-09-09T19:31:13Z",
+  "from": "edenrise-c2-six-needs-drives/S08"
+ },
+ "pexels/pixabay (royalty-free):None": {
+  "brand": "edenrise",
+  "reason": "office, laptops",
+  "at": "2026-09-09T20:27:55Z",
+  "from": "lesson-no-failure-feedback/S07"
  }
 }
