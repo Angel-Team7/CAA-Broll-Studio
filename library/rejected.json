@@ -366,10 +366,10 @@
   "reason": "hi-vis crowd"
  },
  "pexels:27514205": {
-  "at": "2026-09-10T09:47:38Z",
   "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S13",
-  "reason": "hi-vis crowd"
+  "reason": "factory/industrial site, scaffolding-gang signifiers",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
  },
  "pexels:27785687": {
   "at": "2026-09-10T09:27:39Z",
@@ -5610,10 +5610,10 @@
   "reason": "wildlife"
  },
  "pixabay:14222": {
-  "at": "2026-09-10T09:10:14Z",
   "brand": "edenrise",
-  "from": "purpose-at-work/S06",
-  "reason": "wildlife, flowers-only"
+  "reason": "wildlife",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
  },
  "pixabay:142271": {
   "at": "2026-09-10T09:45:58Z",
@@ -6648,10 +6648,10 @@
   "reason": "unrelated cassette tape imagery"
  },
  "pixabay:4948": {
-  "at": "2026-09-10T09:14:36Z",
   "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S09",
-  "reason": "unrelated subject"
+  "reason": "unrelated product close-up, no people or brand world",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
  },
  "pixabay:50109": {
   "at": "2026-09-10T09:31:24Z",
@@ -7792,5 +7792,71 @@
   "reason": "open-pit mining machinery, wrong world entirely",
   "at": "2026-09-10T10:27:07Z",
   "from": "edenrise-c2-goal-setting/S07"
+ },
+ "pexels:6474173": {
+  "brand": "edenrise",
+  "reason": "dark industrial workshop, unsettling background figure",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pexels:20639316": {
+  "brand": "edenrise",
+  "reason": "factory/industrial vehicle-repair setting",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pexels:5481308": {
+  "brand": "edenrise",
+  "reason": "factory/warehouse setting, crowd doing the same manual task",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pexels:4291724": {
+  "brand": "edenrise",
+  "reason": "factory/warehouse setting",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pexels:19115722": {
+  "brand": "edenrise",
+  "reason": "crowd doing the same manual task",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:32023": {
+  "brand": "edenrise",
+  "reason": "unrelated astronomy footage, no people or brand world",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:313652": {
+  "brand": "edenrise",
+  "reason": "no people, unrelated agricultural aerial",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:11254": {
+  "brand": "edenrise",
+  "reason": "office setting",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:119875": {
+  "brand": "edenrise",
+  "reason": "wildlife/flowers-only close-up, not a planted row",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:122389": {
+  "brand": "edenrise",
+  "reason": "intense studio portrait, not brand world",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
+ },
+ "pixabay:91633": {
+  "brand": "edenrise",
+  "reason": "abstract loop, unrelated to brand world",
+  "at": "2026-09-10T10:27:58Z",
+  "from": "edenrise-c2-six-needs-drives/S03"
  }
 }
