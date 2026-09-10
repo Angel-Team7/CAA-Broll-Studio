@@ -8279,8 +8279,8 @@
      "shot": "",
      "shoot": "pixabay-man-portrait-green",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 2,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V01",
@@ -8324,7 +8324,7 @@
      "shot": "B",
      "shoot": "pexels-notebook-closeup",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -8352,8 +8352,8 @@
      "shot": "A",
      "shoot": "pexels-apartment-writing",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 3,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V03",
@@ -8380,8 +8380,8 @@
      "shot": "",
      "shoot": "pixabay-beach-couple",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 4,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V10",
@@ -8405,8 +8405,8 @@
      "shot": "",
      "shoot": "mixkit-sea-sunset",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 5,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V11",
@@ -8430,8 +8430,8 @@
      "shot": "",
      "shoot": "mixkit-beach-sunset",
      "judged_at": "2026-09-09T19:31:52Z",
-     "rank": 6,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-I06",
@@ -8513,8 +8513,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands compare an open book against notes in a notebook",
+     "violation": "",
+     "shoot": "pexels-book-notebook-compare",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V13",
@@ -8535,8 +8543,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes with a pen in a notebook close up",
+     "violation": "",
+     "shoot": "pexels-hand-pen-notebook-closeup",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V14",
@@ -8557,8 +8573,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand with rings writes in a notebook resting on a pillow",
+     "violation": "",
+     "shoot": "pexels-hand-rings-notebook-pillow",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V15",
@@ -8579,8 +8603,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man in a suit writes in a notebook at a desk",
+     "violation": "suits",
+     "shoot": "pexels-suit-notebook-desk",
+     "score": 1.95,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V16",
@@ -8601,8 +8633,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a hand writes in a notebook beside desk organizers",
+     "violation": "",
+     "shoot": "pexels-hand-notebook-deskorganizer",
+     "score": 5.3,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V17",
@@ -8623,8 +8663,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand writes in a notebook resting on a stone table outdoors",
+     "violation": "",
+     "shoot": "pexels-hand-notebook-stonetable",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V18",
@@ -8645,8 +8693,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a pen rests across an open notebook in soft focus",
+     "violation": "",
+     "shoot": "pexels-pen-notebook-softfocus",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V19",
@@ -8660,15 +8716,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V19.strip.jpg",
      "title": "a woman writing on her planner",
      "query": "pen notebook page close outdoors",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "4393235",
      "download_url": "https://videos.pexels.com/video-files/4393235/4393235-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a woman flips through a planner beside an open laptop",
+     "violation": "laptop",
+     "shoot": "pexels-planner-laptop-flip",
+     "score": 2.3,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V20",
@@ -8689,8 +8753,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes in a notebook in a cozy indoor setting",
+     "violation": "",
+     "shoot": "pexels-hand-notebook-cozy",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V21",
@@ -8704,15 +8776,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V21.strip.jpg",
      "title": "a person writing in french using pen and notebook",
      "query": "person writing notebook bench thinking",
-     "shot": "A",
+     "shot": "B",
      "duration": 35,
      "src_id": "8626583",
      "download_url": "https://videos.pexels.com/video-files/8626583/8626583-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand writes in a small journal while seated on a couch",
+     "violation": "",
+     "shoot": "pexels-hand-journal-couch",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V22",
@@ -8733,8 +8813,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:13:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes in a notebook while seated on a patterned rug",
+     "violation": "",
+     "shoot": "pexels-hand-notebook-rug",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V23",
@@ -8755,8 +8843,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a smiling woman writes in a notebook on a bench by flowering bushes",
+     "violation": "",
+     "shoot": "pexels-woman-bench-smiling-flowers",
+     "score": 6.3,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V24",
@@ -8777,8 +8873,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand pauses with a pen held over an open notebook",
+     "violation": "",
+     "shoot": "pexels-hand-pause-pen-notebook",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V25",
@@ -8792,15 +8896,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V25.strip.jpg",
      "title": "person writing on a notebook using a pen",
      "query": "person writing notebook bench thinking",
-     "shot": "A",
+     "shot": "B",
      "duration": 13,
      "src_id": "6326847",
      "download_url": "https://videos.pexels.com/video-files/6326847/6326847-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand writes in a notebook at a wooden table",
+     "violation": "",
+     "shoot": "pexels-hand-notebook-woodtable",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V26",
@@ -8821,8 +8933,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man sits on a rock looking off thoughtfully into the distance",
+     "violation": "",
+     "shoot": "pixabay-man-rock-thoughtful",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V27",
@@ -8836,15 +8956,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V27.strip.jpg",
      "title": "man  person  reflection  thinking  think  lifestyle",
      "query": "notebook bench thinking outdoor",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "126558",
      "download_url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man stands troubled behind a chain-link fence in sunlight",
+     "violation": "behind a fence (gangster signifier)",
+     "shoot": "pixabay-man-fence-troubled",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V28",
@@ -8865,8 +8993,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man in glasses looks off thoughtfully in a golden field",
+     "violation": "",
+     "shoot": "pixabay-man-glasses-field-portrait",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V29",
@@ -8880,15 +9016,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V29.strip.jpg",
      "title": "man  face  look  person  reflection  thinking  lifestyle",
      "query": "notebook bench thinking outdoor",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "126560",
      "download_url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man in glasses gazes calmly at the camera outdoors",
+     "violation": "",
+     "shoot": "pixabay-man-glasses-gaze-portrait",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V30",
@@ -8902,15 +9046,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V30.strip.jpg",
      "title": "brain  mind  knowledge  think  thinking  creativity  anatomy  memory  head  mental",
      "query": "notebook bench thinking outdoor",
-     "shot": "A",
+     "shot": "",
      "duration": 25,
      "src_id": "206173",
      "download_url": "https://cdn.pixabay.com/video/2024/03/30/206173_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a glowing 3d brain rotates against a black background",
+     "violation": "abstract",
+     "shoot": "pixabay-glowing-brain-3d",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V31",
@@ -8924,15 +9076,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V31.strip.jpg",
      "title": "book  write  pen  diary  letter  hands  girl  notebook",
      "query": "notebook bench thinking outdoor",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "4952",
      "download_url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:14:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a child writes in a binder beside a teddy bear",
+     "violation": "",
+     "shoot": "pixabay-child-binder-teddybear",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V32",
@@ -8946,15 +9106,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V32.strip.jpg",
      "title": "village  nature  landscape  pond  green  outdoor",
      "query": "rejoining colleagues outdoor",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "38955",
      "download_url": "https://cdn.pixabay.com/video/2020/05/13/38955-420224562_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:15:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a calm pond reflects trees and cabins under a blue sky",
+     "violation": "",
+     "shoot": "pixabay-pond-village-landscape",
+     "score": 0.7,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-six-needs-drives-S09-V33",
@@ -8968,15 +9136,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S09__strip__edenrise-c2-six-needs-drives-S09-V33.strip.jpg",
      "title": "woman  exploration  nature  outdoors",
      "query": "rejoining colleagues outdoor",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "240659",
      "download_url": "https://cdn.pixabay.com/video/2024/11/10/240659_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:15:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman twirls joyfully in a white dress through a wheat field",
+     "violation": "",
+     "shoot": "pixabay-woman-twirl-wheatfield",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:22:08Z",
+     "rank": 27
     }
    ],
    "timing_source": "estimated",
@@ -9010,12 +9186,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T19:31:52Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:31:52Z"
+   "judged_at": "2026-09-10T10:22:08Z"
   }
  ]
 }
