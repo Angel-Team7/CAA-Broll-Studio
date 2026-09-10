@@ -864,10 +864,10 @@
   "from": "belong-module9/S03"
  },
  "pexels:6520274": {
-  "at": "2026-09-10T08:54:24Z",
-  "brand": "edenrise",
-  "from": "attention-to-detail-v2/S09",
-  "reason": "face mask"
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S13"
  },
  "pexels:6532783": {
   "brand": "edenrise",
@@ -3960,10 +3960,10 @@
   "from": "attention-to-detail-v2/S08"
  },
  "pixabay:202135": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T09:15:17Z",
-  "from": "edenrise-c2-kaizen/S01"
+  "brand": "belong",
+  "reason": "corporate office; anger theatre on a composure line",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S04"
  },
  "pixabay:202392": {
   "brand": "belong",
@@ -4536,10 +4536,10 @@
   "from": "belong-module9/S05"
  },
  "pixabay:75999": {
-  "brand": "edenrise",
-  "reason": "abstract loops",
-  "at": "2026-09-10T09:15:17Z",
-  "from": "edenrise-c2-kaizen/S01"
+  "brand": "belong",
+  "reason": "animated silhouette graphic, not authentic footage",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S04"
  },
  "pixabay:76425": {
   "brand": "belong",
@@ -4656,10 +4656,10 @@
   "from": "purpose-at-work/S10"
  },
  "pixabay:92662": {
-  "brand": "edenrise",
-  "reason": "cartoons, green screen",
-  "at": "2026-09-10T09:15:17Z",
-  "from": "edenrise-c2-kaizen/S01"
+  "brand": "belong",
+  "reason": "animated cartoon graphic, not authentic footage",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S04"
  },
  "pixabay:9462": {
   "brand": "edenrise",
@@ -5086,5 +5086,101 @@
   "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
+ },
+ "pixabay:38079": {
+  "brand": "belong",
+  "reason": "luxury spa clichés",
+  "at": "2026-09-10T09:22:46Z",
+  "from": "belong-module10/S01"
+ },
+ "pixabay:223170": {
+  "brand": "belong",
+  "reason": "factories, warehouses",
+  "at": "2026-09-10T09:22:46Z",
+  "from": "belong-module10/S01"
+ },
+ "pixabay:135167": {
+  "brand": "belong",
+  "reason": "corporate hotel chains",
+  "at": "2026-09-10T09:22:46Z",
+  "from": "belong-module10/S11"
+ },
+ "pexels:13869648": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S10"
+ },
+ "pexels:27864930": {
+  "brand": "belong",
+  "reason": "construction",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S10"
+ },
+ "pexels:38958215": {
+  "brand": "belong",
+  "reason": "factories, warehouses",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pexels:31751401": {
+  "brand": "belong",
+  "reason": "factories, warehouses",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pexels:6616603": {
+  "brand": "belong",
+  "reason": "luxury spa clichés",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pexels:9165939": {
+  "brand": "belong",
+  "reason": "luxury spa clichés",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pixabay:213833": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pixabay:214928": {
+  "brand": "belong",
+  "reason": "resort pools and beaches",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S05"
+ },
+ "pexels:6566845": {
+  "brand": "belong",
+  "reason": "corporate office",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S04"
+ },
+ "pexels:6390324": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S07"
+ },
+ "pexels:10222206": {
+  "brand": "belong",
+  "reason": "luxury spa clichés",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S13"
+ },
+ "pexels:8293501": {
+  "brand": "belong",
+  "reason": "construction and building trades",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S13"
+ },
+ "pexels:6169403": {
+  "brand": "belong",
+  "reason": "factories, warehouses",
+  "at": "2026-09-10T09:22:47Z",
+  "from": "belong-module10/S13"
  }
 }

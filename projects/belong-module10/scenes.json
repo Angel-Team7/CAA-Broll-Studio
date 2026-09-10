@@ -333,8 +333,8 @@
      "shot": "C",
      "shoot": "pixabay-cornfield-farmer",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 1,
-     "shown": true
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-V02",
@@ -364,8 +364,8 @@
      "shot": "C",
      "shoot": "pixabay-aerial-tractor",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 2,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-V03",
@@ -409,7 +409,7 @@
      "shot": "",
      "shoot": "pixabay-typing-hands",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 6,
+     "rank": 46,
      "shown": false
     },
     {
@@ -434,8 +434,8 @@
      "shot": "",
      "shoot": "pixabay-sand-hand",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 3,
-     "shown": true
+     "rank": 38,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-V06",
@@ -461,8 +461,8 @@
      "shot": "",
      "shoot": "pixabay-washing-hands",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 5,
-     "shown": true
+     "rank": 42,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-V07",
@@ -488,8 +488,8 @@
      "shot": "",
      "shoot": "pixabay-caterpillar-pot",
      "judged_at": "2026-09-09T17:10:23Z",
-     "rank": 4,
-     "shown": true
+     "rank": 39,
+     "shown": false
     },
     {
      "id": "belong-m10-S01-I01",
@@ -568,8 +568,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:28:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "aerial view of large greenhouse tunnels amid rolling farmland",
+     "violation": "",
+     "shoot": "pexels-aerial-farmland-a",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 20
     },
     {
      "id": "belong-module10-S01-V09",
@@ -590,8 +598,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:28:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "aerial view of a green crop field near a forest",
+     "violation": "",
+     "shoot": "pexels-aerial-farmland-a",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 17
     },
     {
      "id": "belong-module10-S01-V10",
@@ -612,8 +628,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:28:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "sunlight glows through closed window shutters in a dark room",
+     "violation": "",
+     "shoot": "pexels-dark-window",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 28
     },
     {
      "id": "belong-module10-S01-V11",
@@ -634,8 +658,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:28:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "aerial view of vegetable plots and houses beside a canal",
+     "violation": "",
+     "shoot": "pexels-aerial-village-fields",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S01-V12",
@@ -649,15 +681,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V12.strip.jpg",
      "title": "charming house facade with green foliage",
      "query": "switching off light closing shutters",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "32098852",
      "download_url": "https://videos.pexels.com/video-files/32098852/13684059_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:28:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a house facade with shuttered windows behind green foliage",
+     "violation": "",
+     "shoot": "pexels-house-facade",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 25
     },
     {
      "id": "belong-module10-S01-V13",
@@ -678,8 +718,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "aerial view of a worker walking through vineyard rows",
+     "violation": "",
+     "shoot": "pexels-aerial-vineyard-worker",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S01-V14",
@@ -693,15 +741,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V14.strip.jpg",
      "title": "woman enjoying fresh morning air by window",
      "query": "switching off light closing shutters",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "34506423",
      "download_url": "https://videos.pexels.com/video-files/34506423/14620233_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "a woman leans out a window in a white robe",
+     "violation": "",
+     "shoot": "pexels-woman-window-morning",
+     "score": 2.75,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 31
     },
     {
      "id": "belong-module10-S01-V15",
@@ -722,8 +778,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a worm moves through dark compost soil in close-up",
+     "violation": "",
+     "shoot": "pexels-compost-worm-macro",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S01-V16",
@@ -744,8 +808,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a curtain hangs beside a window with a visible handle",
+     "violation": "",
+     "shoot": "pexels-window-curtain-dark",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S01-V17",
@@ -766,8 +838,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "two people plant seedlings in mulch with hand tools",
+     "violation": "",
+     "shoot": "pexels-hands-gardening-tools",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S01-V18",
@@ -788,8 +868,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "earthworms move through dark compost soil in close-up",
+     "violation": "",
+     "shoot": "pexels-compost-worm-macro",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 13
     },
     {
      "id": "belong-module10-S01-V19",
@@ -810,8 +898,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand switches off a wall light switch in a kitchen",
+     "violation": "",
+     "shoot": "pexels-light-switch-kitchen",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S01-V20",
@@ -825,15 +921,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V20.strip.jpg",
      "title": "person sitting on bed while stretching her arms up",
      "query": "switching off light closing shutters",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "5983662",
      "download_url": "https://videos.pexels.com/video-files/5983662/5983662-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a woman stretches her arms while sitting on a bed",
+     "violation": "",
+     "shoot": "pexels-woman-bed-stretch",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 35
     },
     {
      "id": "belong-module10-S01-V21",
@@ -854,8 +958,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "aerial view of rows of leafy vegetables in a field",
+     "violation": "",
+     "shoot": "pexels-aerial-cabbage-field",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 9
     },
     {
      "id": "belong-module10-S01-V22",
@@ -869,15 +981,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V22.strip.jpg",
      "title": "hand washing  washing  hand  hygiene  soap  bathroom",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 51,
      "src_id": "51807",
      "download_url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:29:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "hands are washed under running water at a bathroom sink",
+     "violation": "",
+     "shoot": "pixabay-handwashing-sink",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 40
     },
     {
      "id": "belong-module10-S01-V23",
@@ -891,15 +1011,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V23.strip.jpg",
      "title": "hands  hand cream  cream  health  skin  care",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "38079",
      "download_url": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand applies cream to the other hand's wrist",
+     "violation": "luxury spa clichés",
+     "shoot": "pixabay-hand-cream",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 44
     },
     {
      "id": "belong-module10-S01-V24",
@@ -913,15 +1041,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V24.strip.jpg",
      "title": "spoon  fork  restaurant  food",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "31324",
      "download_url": "https://cdn.pixabay.com/video/2020/01/17/31324-385863197_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "polished forks and spoons are arranged on a dark surface",
+     "violation": "",
+     "shoot": "pixabay-cutlery-bokeh",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 41
     },
     {
      "id": "belong-module10-S01-V25",
@@ -935,15 +1071,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V25.strip.jpg",
      "title": "scrambled eggs  plate  cucumbers  food  fork  breakfast  nutrition  taste  knife  café  a restaurant  there is  hands  close-up",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "4972",
      "download_url": "https://cdn.pixabay.com/video/2016/09/06/4972-181688489_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a person cuts into a fried egg on a plate",
+     "violation": "",
+     "shoot": "pixabay-breakfast-plate",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 30
     },
     {
      "id": "belong-module10-S01-V26",
@@ -957,15 +1101,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V26.strip.jpg",
      "title": "chess  chess board  strategy  play  board game  chess pieces  think  challenge  game board  chess game  king  springer  tower  runners  leadership  decisions  people  hands",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "19600",
      "download_url": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand moves a chess piece on a chessboard",
+     "violation": "",
+     "shoot": "pixabay-chess",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 47
     },
     {
      "id": "belong-module10-S01-V27",
@@ -986,8 +1138,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands roll raw meat into a roulade on a cutting board",
+     "violation": "",
+     "shoot": "pixabay-meat-roulade",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 32
     },
     {
      "id": "belong-module10-S01-V28",
@@ -1001,15 +1161,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S01__strip__belong-module10-S01-V28.strip.jpg",
      "title": "kitchen  plate  healthy  appetizers  pasta  sweet  organic  food",
      "query": "kitchen scraps compost bucket",
-     "shot": "D",
+     "shot": "",
      "duration": 10,
      "src_id": "254753",
      "download_url": "https://cdn.pixabay.com/video/2025/01/26/254753_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a woman in an apron places dough into a loaf pan",
+     "violation": "",
+     "shoot": "pixabay-bread-dough-apron",
+     "score": 4.4,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S01-V29",
@@ -1030,8 +1198,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:30:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "hands slice a red onion on a wooden cutting board",
+     "violation": "",
+     "shoot": "pixabay-onion-cutting",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 14
     },
     {
      "id": "belong-module10-S01-V30",
@@ -1052,8 +1228,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:45:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of crop rows covered in black plastic mulch",
+     "violation": "",
+     "shoot": "pexels-aerial-mulch-field",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 29
     },
     {
      "id": "belong-module10-S01-V31",
@@ -1067,15 +1251,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V31.strip.jpg",
      "title": "worker sorting scrap metal in industrial area",
      "query": "kitchen scraps sorted into bucket",
-     "shot": "D",
+     "shot": "",
      "duration": 15,
      "src_id": "38400373",
      "download_url": "https://videos.pexels.com/video-files/38400373/16305576_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:45:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a person sorts through bags of scrap in an alley",
+     "violation": "",
+     "shoot": "pexels-scrap-sorting-alley",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 48
     },
     {
      "id": "belong-module10-S01-V32",
@@ -1096,8 +1288,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "gloved hands sift through compost in a wheelbarrow",
+     "violation": "",
+     "shoot": "pexels-wheelbarrow-gloves-compost",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S01-V33",
@@ -1118,8 +1318,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a shovel scoops compost soil into a bin",
+     "violation": "",
+     "shoot": "pexels-shovel-compost-bin",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S01-V34",
@@ -1140,8 +1348,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man pours soil into a rotating compost tumbler",
+     "violation": "",
+     "shoot": "pexels-compost-tumbler",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S01-V35",
@@ -1162,8 +1378,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a woman opens curtains in a warmly lit room",
+     "violation": "",
+     "shoot": "pexels-woman-curtains-room",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 18
     },
     {
      "id": "belong-module10-S01-V36",
@@ -1177,15 +1401,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V36.strip.jpg",
      "title": "young woman taking off a tape on her mouth",
      "query": "switching off light closing shutters",
-     "shot": "B",
+     "shot": "",
      "duration": 17,
      "src_id": "7698903",
      "download_url": "https://videos.pexels.com/video-files/7698903/7698903-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman removes tape from her mouth",
+     "violation": "",
+     "shoot": "pexels-woman-tape-mouth",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 49
     },
     {
      "id": "belong-module10-S01-V37",
@@ -1206,8 +1438,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of a vegetable garden beside rustic farm buildings",
+     "violation": "",
+     "shoot": "pexels-aerial-garden-houses",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S01-V38",
@@ -1228,8 +1468,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "aerial view of greenhouse tunnels stretching across farmland",
+     "violation": "",
+     "shoot": "pexels-aerial-greenhouse-rows",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 21
     },
     {
      "id": "belong-module10-S01-V39",
@@ -1250,8 +1498,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "hands plant a small seedling into the ground",
+     "violation": "",
+     "shoot": "pexels-hands-planting-ground",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S01-V40",
@@ -1272,8 +1528,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:46:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "aerial view of nursery plant rows near a city",
+     "violation": "",
+     "shoot": "pexels-aerial-nursery-rows",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 22
     },
     {
      "id": "belong-module10-S01-V41",
@@ -1294,8 +1558,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "hands pot a small plant into a terracotta pot",
+     "violation": "",
+     "shoot": "pexels-potting-plant-table",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S01-V42",
@@ -1316,8 +1588,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "earthworms burrow through compost soil in close-up",
+     "violation": "",
+     "shoot": "pexels-earthworm-macro-b",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S01-V43",
@@ -1338,8 +1618,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand switches on a bedside table lamp",
+     "violation": "",
+     "shoot": "pexels-table-lamp-switch",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S01-V44",
@@ -1353,15 +1641,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V44.strip.jpg",
      "title": "hand sanitizer  sanitizer  hygiene  washing  hand",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "35005",
      "download_url": "https://cdn.pixabay.com/video/2020/04/04/35005-405620753_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "hands apply gel from a hand sanitizer bottle",
+     "violation": "",
+     "shoot": "pixabay-hand-sanitizer",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 43
     },
     {
      "id": "belong-module10-S01-V45",
@@ -1375,15 +1671,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V45.strip.jpg",
      "title": "watermelon  fruit  summer  pour  pouring  fork  freshness  juicy  melted  refreshment  tropical  decorated  meal  sauce",
      "query": "compost garden fork hands",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "71744",
      "download_url": "https://cdn.pixabay.com/video/2021/04/21/71744-539969563_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "chocolate sauce drizzles over watermelon slices on forks",
+     "violation": "",
+     "shoot": "pixabay-watermelon-fork",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 45
     },
     {
      "id": "belong-module10-S01-V46",
@@ -1397,15 +1701,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V46.strip.jpg",
      "title": "scrap  recycling  recovery  metal  trash  sustainability  savings",
      "query": "kitchen scraps compost bucket",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "223170",
      "download_url": "https://cdn.pixabay.com/video/2024/07/25/223170_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a large industrial scrap metal yard",
+     "violation": "factories, warehouses",
+     "shoot": "pixabay-scrapyard-aerial",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 50
     },
     {
      "id": "belong-module10-S01-V47",
@@ -1426,8 +1738,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a chef tosses food in a flaming wok",
+     "violation": "",
+     "shoot": "pixabay-wok-kitchen-flame",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 33
     },
     {
      "id": "belong-module10-S01-V48",
@@ -1441,15 +1761,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S01__strip__belong-module10-S01-V48.strip.jpg",
      "title": "tea  coffee  drink  cup  books  teacup  food  oil  kitchen",
      "query": "kitchen scraps compost bucket",
-     "shot": "D",
+     "shot": "",
      "duration": 5,
      "src_id": "149938",
      "download_url": "https://cdn.pixabay.com/video/2023/02/09/149938-797491652_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "tea is poured into a cup beside lilac flowers",
+     "violation": "",
+     "shoot": "pixabay-tea-lilac",
+     "score": 1.75,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 37
     },
     {
      "id": "belong-module10-S01-V49",
@@ -1470,8 +1798,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:47:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman tends a fire in a rustic wooden hut",
+     "violation": "",
+     "shoot": "pixabay-rural-kitchen-fire",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 34
     },
     {
      "id": "belong-module10-S01-V50",
@@ -1492,8 +1828,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:48:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "corn pieces sizzle in a steaming frying pan",
+     "violation": "",
+     "shoot": "pixabay-corn-pan",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 23
     },
     {
      "id": "belong-module10-S01-V51",
@@ -1514,8 +1858,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T08:48:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a fried egg cooks in a nonstick pan",
+     "violation": "",
+     "shoot": "pixabay-fried-egg-pan",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 36
     }
    ],
    "shots": [
@@ -1555,12 +1907,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:10:23Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:10:23Z"
+   "judged_at": "2026-09-10T09:22:46Z"
   },
   {
    "id": "S12",
@@ -1908,8 +2255,8 @@
      "shot": "",
      "shoot": "pixabay-wind-turbines",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 3,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m10-S11-V02",
@@ -1950,8 +2297,8 @@
      "shot": "",
      "shoot": "pixabay-floating-market",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 5,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "belong-m10-S11-V04",
@@ -1978,7 +2325,7 @@
      "shot": "B",
      "shoot": "pixabay-luxury-bathroom",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 1,
+     "rank": 17,
      "shown": false
     },
     {
@@ -2003,7 +2350,7 @@
      "shot": "",
      "shoot": "pexels-resort-aerial",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 6,
+     "rank": 27,
      "shown": false
     },
     {
@@ -2028,7 +2375,7 @@
      "shot": "",
      "shoot": "pexels-woman-bedroom",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 2,
+     "rank": 18,
      "shown": true
     },
     {
@@ -2053,8 +2400,8 @@
      "shot": "",
      "shoot": "pexels-street-houses",
      "judged_at": "2026-09-09T17:11:35Z",
-     "rank": 4,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m10-S11-I01",
@@ -2124,8 +2471,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "cotton swabs are bundled atop a soap bar with green leaves",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-still01",
+     "score": 9.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S11-V09",
@@ -2146,8 +2501,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "hands arrange a metal basket of natural bathroom amenities",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-basket-hands",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S11-V10",
@@ -2168,8 +2531,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "a loofah and soap bar sit among dried flowers",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-still02",
+     "score": 8.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S11-V11",
@@ -2190,8 +2561,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a small soap bar is styled with dried flowers on wood",
+     "violation": "",
+     "shoot": "pexels-organic-soap-styled",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 9
     },
     {
      "id": "belong-module10-S11-V12",
@@ -2212,8 +2591,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand places a cotton swab into a metal basket",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-basket-hands",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S11-V13",
@@ -2234,8 +2621,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand reaches toward a basket of natural toiletries",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-basket-top",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S11-V14",
@@ -2256,8 +2651,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "natural sponges and stones are displayed on a cloth surface",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-still03",
+     "score": 8.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S11-V15",
@@ -2278,8 +2681,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand reaches into a basket of organic toiletries",
+     "violation": "",
+     "shoot": "pexels-organic-amenities-basket-top",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S11-V16",
@@ -2300,8 +2711,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand arranges plates and candles on a christmas table",
+     "violation": "",
+     "shoot": "pexels-christmas-table-setting",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 14
     },
     {
      "id": "belong-module10-S11-V17",
@@ -2322,8 +2741,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:31:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a woman in a red cardigan serves food onto her own plate",
+     "violation": "",
+     "shoot": "pexels-holiday-dinner-serving",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S11-V18",
@@ -2344,8 +2771,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a woman carries a strawberry dessert tray to a dinner table",
+     "violation": "",
+     "shoot": "pexels-holiday-dinner-dessert",
+     "score": 5.3,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S11-V19",
@@ -2366,8 +2801,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a chef carries a plated slider dish over a flatbread",
+     "violation": "",
+     "shoot": "pexels-chef-plating-sliders",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S11-V20",
@@ -2388,8 +2831,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a waiter sets a plated meal in front of a seated guest",
+     "violation": "",
+     "shoot": "pexels-waiter-diner-service",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S11-V21",
@@ -2410,8 +2861,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a person photographs a family gathered at a christmas dinner table",
+     "violation": "",
+     "shoot": "pexels-family-christmas-dinner",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 13
     },
     {
      "id": "belong-module10-S11-V22",
@@ -2425,15 +2884,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V22.strip.jpg",
      "title": "toilet paper  tissue  bathroom  hygiene  wipe  toiletries  white  potty  wipes  tp  bathroom tissue  loo roll  soft paper  bog roll  sanitized  lavatory  diarrhea  sick  towel",
      "query": "towel handing guest reception",
-     "shot": "D",
+     "shot": "B",
      "duration": 10,
      "src_id": "34344",
      "download_url": "https://cdn.pixabay.com/video/2020/03/27/34344-402380852_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand pulls tissue from a wall mounted toilet paper holder",
+     "violation": "",
+     "shoot": "pixabay-hotel-bathroom-tp",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S11-V23",
@@ -2447,15 +2914,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V23.strip.jpg",
      "title": "flesh  oven  grill  fried meat  preparation  in the oven  food  pork  chop  hot dish",
      "query": "seasonal dish serving guest",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "14133",
      "download_url": "https://cdn.pixabay.com/video/2018/02/05/14133-254487725_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two seasoned pork roasts cook inside an open oven",
+     "violation": "",
+     "shoot": "pixabay-roast-oven-prep",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S11-V24",
@@ -2476,8 +2951,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "sliced roasted pork is plated with purple flowers",
+     "violation": "",
+     "shoot": "pixabay-roast-plated",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S11-V25",
@@ -2491,15 +2974,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V25.strip.jpg",
      "title": "hands  candle  candlelight  prayer  pray  light  flame  open hands  hope  spirit",
      "query": "towel handing guest reception",
-     "shot": "D",
+     "shot": "",
      "duration": 15,
      "src_id": "75702",
      "download_url": "https://cdn.pixabay.com/video/2021/05/29/75702-556671987_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "cupped hands hold a lit candle in darkness",
+     "violation": "",
+     "shoot": "pixabay-candle-hands",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S11-V26",
@@ -2513,15 +3004,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V26.strip.jpg",
      "title": "zombie  hand  graveyard  halloween",
      "query": "towel handing guest reception",
-     "shot": "D",
+     "shot": "",
      "duration": 26,
      "src_id": "138931",
      "download_url": "https://cdn.pixabay.com/video/2022/11/14/138931-770799907_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a decayed hand rises from dirt under blue horror lighting",
+     "violation": "",
+     "shoot": "pixabay-zombie-hand",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 28
     },
     {
      "id": "belong-module10-S11-V27",
@@ -2535,15 +3034,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V27.strip.jpg",
      "title": "book  write  pen  diary  letter  hands  girl  notebook",
      "query": "towel handing guest reception",
-     "shot": "D",
+     "shot": "",
      "duration": 16,
      "src_id": "4952",
      "download_url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:32:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a child writes in a notebook beside a teddy bear",
+     "violation": "",
+     "shoot": "pixabay-child-writing",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S11-V28",
@@ -2564,8 +3071,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a modern hotel bed with orange pillows and wall art",
+     "violation": "corporate hotel chains",
+     "shoot": "pixabay-hotel-room-bed",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 20
     },
     {
      "id": "belong-module10-S11-V29",
@@ -2579,15 +3094,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S11__strip__belong-module10-S11-V29.strip.jpg",
      "title": "ai generated  wedding cake  cake  wedding  marriage  celebration  sweet  party  food  yummy  delicious  pastry  reception  event  catering  elegant",
      "query": "towel handing guest reception",
-     "shot": "D",
+     "shot": "A",
      "duration": 5,
      "src_id": "366918",
      "download_url": "https://cdn.pixabay.com/video/2026/07/27/366918_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a three tier wedding cake sits on a decorated table",
+     "violation": "",
+     "shoot": "pixabay-wedding-cake-ai",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:22:46Z",
+     "rank": 21
     }
    ],
    "shots": [
@@ -2628,12 +3151,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:11:35Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:11:35Z"
+   "judged_at": "2026-09-10T09:22:46Z"
   },
   {
    "id": "S08",
@@ -2690,8 +3208,8 @@
      "shot": "",
      "shoot": "pixabay-combine-harvest",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 4,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m10-S08-V03",
@@ -2720,8 +3238,8 @@
      "shot": "",
      "shoot": "pixabay-combine-harvest",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 5,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m10-S08-V04",
@@ -2749,8 +3267,8 @@
      "shot": "D",
      "shoot": "pixabay-vietnam-market",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 2,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m10-S08-V05",
@@ -2778,8 +3296,8 @@
      "shot": "",
      "shoot": "pixabay-wind-turbine-fog",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 6,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-m10-S08-V06",
@@ -2807,7 +3325,7 @@
      "shot": "",
      "shoot": "pixabay-ham-kitchen",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 1,
+     "rank": 9,
      "shown": true
     },
     {
@@ -2832,8 +3350,8 @@
      "shot": "D",
      "shoot": "pixabay-nigeria-vendor",
      "judged_at": "2026-09-09T17:12:11Z",
-     "rank": 3,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m10-S08-I01",
@@ -2914,8 +3432,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "euro coins fall onto a bright orange surface",
+     "violation": "",
+     "shoot": "pexels-coins-orangestudio",
+     "score": 4.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S08-V09",
@@ -2936,8 +3462,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "euro coins fall onto a folded newspaper",
+     "violation": "",
+     "shoot": "pexels-coins-newspaper",
+     "score": 4.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S08-V10",
@@ -2958,8 +3492,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two euro coins rest on a mossy stone",
+     "violation": "",
+     "shoot": "pexels-coins-mossyrock",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S08-V11",
@@ -2980,8 +3522,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a gloved beekeeper handles a frame covered in bees",
+     "violation": "",
+     "shoot": "pexels-apiary-frame-orchard",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S08-V12",
@@ -3002,8 +3552,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "a beekeeper lifts a frame from a hive outdoors",
+     "violation": "",
+     "shoot": "pexels-apiary-frame-hives",
+     "score": 9.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S08-V13",
@@ -3024,8 +3582,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:33:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a close-up pile of assorted tarnished coins",
+     "violation": "",
+     "shoot": "pexels-coins-pile-generic",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S08-V14",
@@ -3039,15 +3605,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V14.strip.jpg",
      "title": "close up of a variety of bracelets and necklaces",
      "query": "coin on market stall close up",
-     "shot": "D",
+     "shot": "",
      "duration": 14,
      "src_id": "3064261",
      "download_url": "https://videos.pexels.com/video-files/3064261/3064261-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "beaded bracelets and necklaces hang at a stall",
+     "violation": "",
+     "shoot": "pexels-bazaar-beads",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S08-V15",
@@ -3068,8 +3642,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a beekeeper holds up a frame covered in bees",
+     "violation": "",
+     "shoot": "pexels-apiary-frame-baretrees",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S08-V16",
@@ -3090,8 +3672,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a beekeeper holds a wooden hive frame in low light",
+     "violation": "",
+     "shoot": "pexels-apiary-frame-goldlight",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S08-V17",
@@ -3112,8 +3702,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "two farmers examine a beehive frame outdoors",
+     "violation": "",
+     "shoot": "pexels-apiary-twofarmers",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S08-V18",
@@ -3134,8 +3732,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a coin spins on top of Argentine banknotes",
+     "violation": "",
+     "shoot": "pexels-coins-argentinepeso",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 18
     },
     {
      "id": "belong-module10-S08-V19",
@@ -3156,8 +3762,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a close-up pile of foreign coins",
+     "violation": "",
+     "shoot": "pexels-coins-romanianbani",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S08-V20",
@@ -3178,8 +3792,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a beekeeper opens a smoking hive box outdoors",
+     "violation": "",
+     "shoot": "pexels-apiary-smoke-harvest",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S08-V21",
@@ -3200,8 +3822,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a beekeeper works among hives on a hillside",
+     "violation": "",
+     "shoot": "pexels-apiary-hillside-hat",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S08-V22",
@@ -3222,8 +3852,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:34:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "cherries sit on display at a market stall with price signs",
+     "violation": "",
+     "shoot": "pixabay-market-cherries-gbp",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S08-V23",
@@ -3237,15 +3875,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V23.strip.jpg",
      "title": "market  values  stock  exchange  financial  graphics  silver  currency  company  economy  banking  bank  euro  payment  bitcoin",
      "query": "coin market stall hand",
-     "shot": "D",
+     "shot": "",
      "duration": 14,
      "src_id": "204306",
      "download_url": "https://cdn.pixabay.com/video/2024/03/15/204306-923909642_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "digital stock market data and charts glow on a screen",
+     "violation": "",
+     "shoot": "pixabay-stockmarket-graphics",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 25
     },
     {
      "id": "belong-module10-S08-V24",
@@ -3259,15 +3905,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V24.strip.jpg",
      "title": "woman  joy  happiness  cattle  grassland  farm  celebrate  countryside",
      "query": "produce crate handover farm",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "171116",
      "download_url": "https://cdn.pixabay.com/video/2023/07/11/171116-844787898_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a woman runs through a grassy field near cows",
+     "violation": "",
+     "shoot": "pixabay-woman-running-cattle",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 17
     },
     {
      "id": "belong-module10-S08-V25",
@@ -3281,15 +3935,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V25.strip.jpg",
      "title": "bananas  falling  fruits  diet  fresh  healthy  organic  nutrition  calcium sources  yellow  tropical  ripe  produce  harvest",
      "query": "produce crate handover farm",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "103205",
      "download_url": "https://cdn.pixabay.com/video/2022/01/02/103205-662114448_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "bananas fall through the air against a yellow background",
+     "violation": "",
+     "shoot": "pixabay-bananas-falling",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S08-V26",
@@ -3303,15 +3965,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V26.strip.jpg",
      "title": "agriculture  tractor  planting  field  farm  machine  industry  machinery  equipment  work  countryside  vehicle  farm field  aerial view  drone  133680158",
      "query": "produce crate handover farm",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "1098",
      "download_url": "https://cdn.pixabay.com/video/2015/10/19/1098-143052476_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a tractor plants rows across a large aerial field",
+     "violation": "",
+     "shoot": "pixabay-tractor-aerial",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 22
     },
     {
      "id": "belong-module10-S08-V27",
@@ -3325,15 +3995,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V27.strip.jpg",
      "title": "windmill  agriculture  farm  rural  mill  wind  power  old  countryside  field  grains  flour  production  cultivation  process  handicraft  139201250",
      "query": "produce crate handover farm",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "784",
      "download_url": "https://cdn.pixabay.com/video/2015/09/16/784-139519770_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "sunlight shines through a windmill's turning wooden sails",
+     "violation": "",
+     "shoot": "pixabay-windmill-sacks",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S08-V28",
@@ -3347,15 +4025,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S08__strip__belong-module10-S08-V28.strip.jpg",
      "title": "field  harvester  farm  cereals  cornfield  farming",
      "query": "produce crate handover farm",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "45221",
      "download_url": "https://cdn.pixabay.com/video/2020/07/21/45221-442642947_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:35:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a combine harvester works through a wheat field",
+     "violation": "",
+     "shoot": "pixabay-combine-harvester",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 23
     }
    ],
    "shots": [
@@ -3395,12 +4081,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:12:11Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:12:11Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   },
   {
    "id": "S10",
@@ -3450,8 +4131,8 @@
      "shot": "A",
      "shoot": "pixabay-aerial-mountain-road",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 6,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-V02",
@@ -3478,7 +4159,7 @@
      "shot": "B",
      "shoot": "pixabay-wooden-boardwalk",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 1,
+     "rank": 7,
      "shown": true
     },
     {
@@ -3506,8 +4187,8 @@
      "shot": "B",
      "shoot": "pixabay-garden-stairs",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 4,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-V04",
@@ -3533,8 +4214,8 @@
      "shot": "C",
      "shoot": "pixabay-forest-garden-path",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 2,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-V05",
@@ -3560,8 +4241,8 @@
      "shot": "C",
      "shoot": "pixabay-forest-garden-path",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-V06",
@@ -3587,8 +4268,8 @@
      "shot": "",
      "shoot": "pixabay-pine-forest",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-V07",
@@ -3614,8 +4295,8 @@
      "shot": "D",
      "shoot": "pixabay-mossy-forest-trail",
      "judged_at": "2026-09-09T17:12:49Z",
-     "rank": 3,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m10-S10-I01",
@@ -3672,8 +4353,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of a farm with orchard rows and a red-roofed house",
+     "violation": "",
+     "shoot": "pexels-farm-aerial-orchard",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S10-V09",
@@ -3694,8 +4383,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "aerial view of a dense village surrounded by green farm fields",
+     "violation": "",
+     "shoot": "pexels-village-aerial-fields",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S10-V10",
@@ -3716,8 +4413,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of small cabins among green fields and forest",
+     "violation": "",
+     "shoot": "pexels-farm-aerial-cabins",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S10-V11",
@@ -3738,8 +4443,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of a farm village among trees and plowed fields",
+     "violation": "",
+     "shoot": "pexels-farm-aerial-plowed",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S10-V12",
@@ -3760,8 +4473,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a wooden boardwalk winds through wild green brush and trees",
+     "violation": "",
+     "shoot": "pexels-boardwalk-wetland",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S10-V13",
@@ -3782,8 +4503,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "aerial view of a farmhouse surrounded by green fields",
+     "violation": "",
+     "shoot": "pexels-farm-aerial-barn-fields",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S10-V14",
@@ -3797,15 +4526,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V14.strip.jpg",
      "title": "man in swamp walking on planks",
      "query": "wooden walkway through meadow guest",
-     "shot": "B",
+     "shot": "C",
      "duration": 16,
      "src_id": "12058591",
      "download_url": "https://videos.pexels.com/video-files/12058591/12058591-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:36:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a person walks across a makeshift wooden plank over a muddy embankment",
+     "violation": "",
+     "shoot": "pexels-plank-bridge-river",
+     "score": 3.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 21
     },
     {
      "id": "belong-module10-S10-V15",
@@ -3826,8 +4563,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "aerial view of a red barn farmhouse near open fields and mountains",
+     "violation": "",
+     "shoot": "pexels-farm-aerial-redbarn",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 9
     },
     {
      "id": "belong-module10-S10-V16",
@@ -3841,15 +4586,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V16.strip.jpg",
      "title": "village among trees and hills",
      "query": "aerial farm houses among trees",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "13869648",
      "download_url": "https://videos.pexels.com/video-files/13869648/13869648-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial view of cabins arranged around a small pool in a garden",
+     "violation": "resort pools and beaches",
+     "shoot": "pexels-resort-aerial-pool",
+     "score": 1.95,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 25
     },
     {
      "id": "belong-module10-S10-V17",
@@ -3870,8 +4623,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "aerial view of green misty hills with scattered farm structures",
+     "violation": "",
+     "shoot": "pexels-hills-aerial-misty",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S10-V18",
@@ -3885,15 +4646,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V18.strip.jpg",
      "title": "a person is walking down a dirt path",
      "query": "wooden walkway through meadow guest",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "27864930",
      "download_url": "https://videos.pexels.com/video-files/27864930/12248171_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a person walks down a rough dirt embankment near parked vehicles",
+     "violation": "construction",
+     "shoot": "pexels-embankment-dirt-path",
+     "score": 2.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S10-V19",
@@ -3914,8 +4683,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a woman in a white dress walks along a wooden walkway through greenery",
+     "violation": "",
+     "shoot": "pexels-boardwalk-woman-dress",
+     "score": 8.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S10-V20",
@@ -3929,15 +4706,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V20.strip.jpg",
      "title": "aerial view of scenic riverside path and huts",
      "query": "wooden walkway through meadow guest",
-     "shot": "B",
+     "shot": "A",
      "duration": 9,
      "src_id": "35650627",
      "download_url": "https://videos.pexels.com/video-files/35650627/15107981_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "aerial view of thatched-roof huts connected by paths on a green lawn",
+     "violation": "",
+     "shoot": "pexels-huts-aerial-thatched",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 20
     },
     {
      "id": "belong-module10-S10-V21",
@@ -3958,8 +4743,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "aerial view of a long wooden boardwalk winding through open heathland",
+     "violation": "",
+     "shoot": "pexels-boardwalk-aerial-heath",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S10-V22",
@@ -3980,8 +4773,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:37:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a red watering can pours water over a potted garden plant",
+     "violation": "",
+     "shoot": "pixabay-garden-watering-can",
+     "score": 4.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S10-V23",
@@ -3995,15 +4796,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V23.strip.jpg",
      "title": "walking  sneakers  nike  shoes  walk  path  outdoors  lifestyle  young  boy  legs  foot  jeans  adult  summer  style  feet  person  step",
      "query": "wooden walkway meadow path",
-     "shot": "B",
+     "shot": "C",
      "duration": 10,
      "src_id": "3171",
      "download_url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "close-up of sneakers walking along a gravel path lined with trees",
+     "violation": "",
+     "shoot": "pixabay-feet-orchard-path",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S10-V24",
@@ -4024,8 +4833,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand sprays water from a garden hose in close-up",
+     "violation": "",
+     "shoot": "pixabay-garden-hose-spray",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S10-V25",
@@ -4039,15 +4856,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V25.strip.jpg",
      "title": "carrot  plant  gardening  nature  lapse",
      "query": "gardener pruning plants",
-     "shot": "D",
+     "shot": "",
      "duration": 20,
      "src_id": "10646",
      "download_url": "https://cdn.pixabay.com/video/2017/07/13/10646-226156890_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a carrot with green leaves rotates against a black background",
+     "violation": "",
+     "shoot": "pixabay-carrot-timelapse",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S10-V26",
@@ -4061,15 +4886,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V26.strip.jpg",
      "title": "escalator  airport  terminal  moving  transport  technology  modern  walkway  perspective",
      "query": "wooden walkway meadow path",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "3593",
      "download_url": "https://cdn.pixabay.com/video/2016/06/27/3593-172488287_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an empty moving walkway inside an airport terminal",
+     "violation": "",
+     "shoot": "pixabay-airport-walkway",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 29
     },
     {
      "id": "belong-module10-S10-V27",
@@ -4083,15 +4916,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V27.strip.jpg",
      "title": "bridge  wood  romantic  landscape  railing  transition  water  mood  wooden bridge  boardwalk  ratzeburg",
      "query": "boardwalk feet walking",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "45140",
      "download_url": "https://cdn.pixabay.com/video/2020/07/20/45140-441301029_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a wooden pier extends over calm water at sunset",
+     "violation": "",
+     "shoot": "pixabay-pier-sunset",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 23
     },
     {
      "id": "belong-module10-S10-V28",
@@ -4105,15 +4946,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V28.strip.jpg",
      "title": "walk  welcome  slow  legs  feet  shoes  trainers  pants  trousers  walking  alone  peaceful  stroll  saunter  dark  black background  coming  arriving  arrive  close",
      "query": "boardwalk feet walking",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "47128",
      "download_url": "https://cdn.pixabay.com/video/2020/08/14/47128-450995496_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "close-up of legs walking against a plain black background",
+     "violation": "",
+     "shoot": "pixabay-feet-studio-black",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 27
     },
     {
      "id": "belong-module10-S10-V29",
@@ -4127,15 +4976,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S10__strip__belong-module10-S10-V29.strip.jpg",
      "title": "shoes  walking  feet  legs  many  crowd  people  city  town",
      "query": "boardwalk feet walking",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "3627",
      "download_url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "close-up of many feet and shoes walking in a busy crowd",
+     "violation": "",
+     "shoot": "pixabay-feet-crowd-street",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 28
     }
    ],
    "shots": [
@@ -4175,12 +5032,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:12:49Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:12:49Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   },
   {
    "id": "S05",
@@ -4218,8 +5070,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-palm-road",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 1,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-V02",
@@ -4246,8 +5098,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-palm-road",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 2,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-V03",
@@ -4274,7 +5126,7 @@
      "shot": "",
      "shoot": "pixabay-sicily-resort",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 5,
+     "rank": 25,
      "shown": false
     },
     {
@@ -4315,8 +5167,8 @@
      "shot": "",
      "shoot": "pixabay-3d-corridor",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 3,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-V06",
@@ -4342,8 +5194,8 @@
      "shot": "",
      "shoot": "pixabay-solar-suburb",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 4,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m10-S05-V07",
@@ -4369,7 +5221,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool-loungers",
      "judged_at": "2026-09-09T17:13:20Z",
-     "rank": 6,
+     "rank": 26,
      "shown": false
     },
     {
@@ -4442,8 +5294,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:38:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a hand presses buttons on a glowing industrial control panel",
+     "violation": "factories, warehouses",
+     "shoot": "pexels-controlpanel-industrial-dark",
+     "score": 2.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S05-V09",
@@ -4457,15 +5317,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V09.strip.jpg",
      "title": "securely closing a modern window for insulation",
      "query": "hand switching off air conditioner",
-     "shot": "A",
+     "shot": "B",
      "duration": 5,
      "src_id": "32078278",
      "download_url": "https://videos.pexels.com/video-files/32078278/13674013_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand closes a modern balcony window from inside",
+     "violation": "",
+     "shoot": "pexels-window-closing-modernbalcony",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S05-V10",
@@ -4479,15 +5347,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V10.strip.jpg",
      "title": "industrial control panel with colorful buttons",
      "query": "hand switching off air conditioner",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "31751401",
      "download_url": "https://videos.pexels.com/video-files/31751401/13528253_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a colorful industrial control panel sits on a metal table",
+     "violation": "factories, warehouses",
+     "shoot": "pexels-controlpanel-industrial-static",
+     "score": 1.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 14
     },
     {
      "id": "belong-module10-S05-V11",
@@ -4508,8 +5384,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a hand adjusts a smart thermostat dial mounted on a radiator",
+     "violation": "",
+     "shoot": "pexels-thermostat-radiator-hand",
+     "score": 6.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S05-V12",
@@ -4523,15 +5407,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V12.strip.jpg",
      "title": "a person wearing a glove handing over a glucometer",
      "query": "hand switching off air conditioner",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "8670975",
      "download_url": "https://videos.pexels.com/video-files/8670975/8670975-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two hands exchange a small medical glucose meter",
+     "violation": "",
+     "shoot": "pexels-glucometer-handoff-studio",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 27
     },
     {
      "id": "belong-module10-S05-V13",
@@ -4552,8 +5444,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand touches a glowing bedside smart clock at night",
+     "violation": "",
+     "shoot": "pexels-bedsideclock-wickerlamp-night",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S05-V14",
@@ -4567,15 +5467,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V14.strip.jpg",
      "title": "a man dancing",
      "query": "hand switching off air conditioner",
-     "shot": "A",
+     "shot": "",
      "duration": 59,
      "src_id": "6221600",
      "download_url": "https://videos.pexels.com/video-files/6221600/6221600-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a shirtless dancer moves through striped shadow and light",
+     "violation": "",
+     "shoot": "pexels-dancer-shadowwall-artistic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 28
     },
     {
      "id": "belong-module10-S05-V15",
@@ -4589,15 +5497,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V15.strip.jpg",
      "title": "light bulb going on and off",
      "query": "hand switching off air conditioner",
-     "shot": "A",
+     "shot": "C",
      "duration": 13,
      "src_id": "853772",
      "download_url": "https://videos.pexels.com/video-files/853772/853772-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a vintage filament light bulb glows against a black background",
+     "violation": "",
+     "shoot": "pexels-filamentbulb-macro-black",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S05-V16",
@@ -4618,8 +5534,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "sunlight streams into a dusty abandoned room through a window",
+     "violation": "",
+     "shoot": "pexels-abandonedhouse-ruins-dustylight",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 13
     },
     {
      "id": "belong-module10-S05-V17",
@@ -4640,8 +5564,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "furniture sits covered in plastic sheeting in an empty bright room",
+     "violation": "",
+     "shoot": "pexels-coveredfurniture-renovatedflat",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S05-V18",
@@ -4655,15 +5587,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V18.strip.jpg",
      "title": "oriental coffee ritual with hand and mug",
      "query": "indoor pool steam morning",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "39431248",
      "download_url": "https://videos.pexels.com/video-files/39431248/16791661_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:39:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a hand places an ornate coffee cup beside a glass of water",
+     "violation": "",
+     "shoot": "pexels-turkishcoffee-woodtable",
+     "score": 1.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S05-V19",
@@ -4684,8 +5624,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "a tattooed man's head surfaces above steamy indoor pool water",
+     "violation": "luxury spa clichés",
+     "shoot": "pexels-manportrait-indoorpool-steam",
+     "score": 3.95,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S05-V20",
@@ -4699,15 +5647,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V20.strip.jpg",
      "title": "barista crafting perfect latte art",
      "query": "indoor pool steam morning",
-     "shot": "D",
+     "shot": "",
      "duration": 16,
      "src_id": "36838680",
      "download_url": "https://videos.pexels.com/video-files/36838680/15608267_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a barista pours milk to create latte art in a cup",
+     "violation": "",
+     "shoot": "pexels-latteart-barista-pour",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S05-V21",
@@ -4728,8 +5684,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "silhouettes of women sit in a steam-filled sauna room",
+     "violation": "luxury spa clichés",
+     "shoot": "pexels-womensauna-steamroom",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S05-V22",
@@ -4750,8 +5714,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "an ornate iron garden gate glows with lanterns at dusk",
+     "violation": "",
+     "shoot": "pixabay-fantasygarden-gate-lanterns",
+     "score": 4.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S05-V23",
@@ -4765,15 +5737,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S05__strip__belong-module10-S05-V23.strip.jpg",
      "title": "ruins  house  burnt  burned  building  door  windows",
      "query": "shutters window closing",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "20263",
      "download_url": "https://cdn.pixabay.com/video/2018/12/26/20263-308335545_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "sunbeams cut through a burned-out abandoned building interior",
+     "violation": "",
+     "shoot": "pixabay-burnedruins-windowlight",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 20
     },
     {
      "id": "belong-module10-S05-V24",
@@ -4794,8 +5774,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an aerial night view shows a lit resort swimming pool complex",
+     "violation": "resort pools and beaches",
+     "shoot": "pixabay-aerialresortpool-night",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 23
     },
     {
      "id": "belong-module10-S05-V25",
@@ -4816,8 +5804,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an aerial night view shows glowing resort pools and walkways",
+     "violation": "resort pools and beaches",
+     "shoot": "pixabay-aerialresortpool-night",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S05-V26",
@@ -4838,8 +5834,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:40:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "an empty indoor lap pool sits under festive bunting banners",
+     "violation": "",
+     "shoot": "pixabay-indoorlappool-bunting",
+     "score": 3.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S05-V27",
@@ -4860,8 +5864,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a fantastical glowing garden gate stands open under a full moon",
+     "violation": "",
+     "shoot": "pixabay-fantasygarden-gate-lanterns",
+     "score": 2.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S05-V28",
@@ -4882,8 +5894,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "warm golden bokeh lights blur softly against a dark background",
+     "violation": "",
+     "shoot": "pixabay-bokehlights-warmblur",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S05-V29",
@@ -4904,8 +5924,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a glowing fairy-light archway lines a sandy garden path at night",
+     "violation": "",
+     "shoot": "pixabay-fairylightarchway-sandpath",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 9
     }
    ],
    "shots": [
@@ -4945,12 +5973,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:13:20Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:13:20Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   },
   {
    "id": "S06",
@@ -7000,7 +8023,7 @@
      "shot": "",
      "shoot": "pixabay-rebar-grinder",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 16,
+     "rank": 35,
      "shown": false
     },
     {
@@ -7027,8 +8050,8 @@
      "shot": "",
      "shoot": "pexels-handwash-bathroom",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 7,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V03",
@@ -7054,7 +8077,7 @@
      "shot": "",
      "shoot": "pexels-child-handwash",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 12,
+     "rank": 27,
      "shown": false
     },
     {
@@ -7081,7 +8104,7 @@
      "shot": "A",
      "shoot": "pixabay-screwdriver-macro",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 2,
+     "rank": 4,
      "shown": true
     },
     {
@@ -7108,7 +8131,7 @@
      "shot": "A",
      "shoot": "pixabay-screwdriver-macro",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 3,
+     "rank": 5,
      "shown": true
     },
     {
@@ -7133,7 +8156,7 @@
      "shot": "A",
      "shoot": "pexels-faucet-running",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 4,
+     "rank": 7,
      "shown": true
     },
     {
@@ -7160,8 +8183,8 @@
      "shot": "",
      "shoot": "pixabay-handwash-soap",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 8,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V09",
@@ -7185,8 +8208,8 @@
      "shot": "",
      "shoot": "pexels-saucepan-fill",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 9,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V10",
@@ -7215,7 +8238,7 @@
      "shot": "C",
      "shoot": "pixabay-chopping-garlic",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -7240,7 +8263,7 @@
      "shot": "",
      "shoot": "pexels-wash-vegetables-a",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 17,
+     "rank": 36,
      "shown": false
     },
     {
@@ -7265,7 +8288,7 @@
      "shot": "",
      "shoot": "pexels-wash-vegetables-b",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 18,
+     "rank": 37,
      "shown": false
     },
     {
@@ -7292,8 +8315,8 @@
      "shot": "",
      "shoot": "pixabay-dishwashing",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 10,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m10-S04-V14",
@@ -7320,7 +8343,7 @@
      "shot": "C",
      "shoot": "pexels-chef-utensil-wash",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 6,
+     "rank": 11,
      "shown": true
     },
     {
@@ -7455,7 +8478,7 @@
      "shot": "D",
      "shoot": "pexels-office-chart-review",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -7484,7 +8507,7 @@
      "shot": "",
      "shoot": "pixabay-calculator-desk-math",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -7513,7 +8536,7 @@
      "shot": "D",
      "shoot": "pexels-reception-desk-papers",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 5,
+     "rank": 8,
      "shown": true
     },
     {
@@ -7542,7 +8565,7 @@
      "shot": "",
      "shoot": "pixabay-tropical-pool-walk",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 19,
+     "rank": 38,
      "shown": false
     },
     {
@@ -7571,7 +8594,7 @@
      "shot": "",
      "shoot": "pexels-corridor-suit-man",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 13,
+     "rank": 28,
      "shown": false
     },
     {
@@ -7600,7 +8623,7 @@
      "shot": "",
      "shoot": "pixabay-resort-pool-swim",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 20,
+     "rank": 39,
      "shown": false
     },
     {
@@ -7629,7 +8652,7 @@
      "shot": "",
      "shoot": "pexels-corridor-suit-man",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 14,
+     "rank": 29,
      "shown": false
     },
     {
@@ -7658,7 +8681,7 @@
      "shot": "",
      "shoot": "pixabay-office-handshake",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 21,
+     "rank": 40,
      "shown": false
     },
     {
@@ -7687,7 +8710,7 @@
      "shot": "",
      "shoot": "pexels-hotel-reception-mask",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 22,
+     "rank": 41,
      "shown": false
     },
     {
@@ -7716,7 +8739,7 @@
      "shot": "",
      "shoot": "pixabay-welcome-text-graphic",
      "judged_at": "2026-09-09T17:18:42Z",
-     "rank": 23,
+     "rank": 42,
      "shown": false
     },
     {
@@ -7731,15 +8754,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V25.strip.jpg",
      "title": "a baking sheet with cookies on it in the kitchen",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "27818226",
      "download_url": "https://videos.pexels.com/video-files/27818226/12233035_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "cookies cool on a baking tray in a kitchen",
+     "violation": "",
+     "shoot": "pexels-cookies-baking-sheet",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S04-V26",
@@ -7760,8 +8791,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman reaches into a fridge and takes out a container",
+     "violation": "",
+     "shoot": "pexels-fridge-woman-modern-kitchen",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 9
     },
     {
      "id": "belong-module10-S04-V27",
@@ -7775,15 +8814,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V27.strip.jpg",
      "title": "a person rubbing a raw turkey",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "5848453",
      "download_url": "https://videos.pexels.com/video-files/5848453/5848453-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands rub seasoning onto a raw turkey on a tray",
+     "violation": "",
+     "shoot": "pexels-turkey-rubbing",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 13
     },
     {
      "id": "belong-module10-S04-V28",
@@ -7797,15 +8844,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V28.strip.jpg",
      "title": "italian bread",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "26620537",
      "download_url": "https://videos.pexels.com/video-files/26620537/11976535_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a man carries a tray toward an oven in a dim kitchen",
+     "violation": "",
+     "shoot": "pexels-dim-kitchen-man-oven",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 14
     },
     {
      "id": "belong-module10-S04-V29",
@@ -7826,8 +8881,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a woman sits at a kitchen counter writing notes on paper",
+     "violation": "",
+     "shoot": "pexels-woman-planning-counter",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S04-V30",
@@ -7841,15 +8904,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V30.strip.jpg",
      "title": "a person slicing a vegetable",
      "query": "cook writing prep list kitchen board",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "8625872",
      "download_url": "https://videos.pexels.com/video-files/8625872/8625872-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:41:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands slice fruit on a cutting board in a kitchen",
+     "violation": "",
+     "shoot": "pexels-fruit-slicing-board",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S04-V31",
@@ -7863,15 +8934,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V31.strip.jpg",
      "title": "home cooking slicing red peppers in kitchen",
      "query": "cook writing prep list kitchen board",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "37239371",
      "download_url": "https://videos.pexels.com/video-files/37239371/15776008_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands slice red peppers on a cutting board at home",
+     "violation": "",
+     "shoot": "pexels-pepper-slicing-home",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S04-V32",
@@ -7885,15 +8964,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V32.strip.jpg",
      "title": "people working together",
      "query": "housekeeper talking to manager corridor",
-     "shot": "D",
+     "shot": "",
      "duration": 51,
      "src_id": "6566845",
      "download_url": "https://videos.pexels.com/video-files/6566845/6566845-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "coworkers in blazers stand and talk in an office hallway",
+     "violation": "corporate office",
+     "shoot": "pexels-office-hallway-meeting",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 43
     },
     {
      "id": "belong-module10-S04-V33",
@@ -7907,15 +8994,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V33.strip.jpg",
      "title": "a chef washing a baking tray in a kitchen",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "8627106",
      "download_url": "https://videos.pexels.com/video-files/8627106/8627106-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a chef in whites works at a sink in an industrial kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-white-industrial-kitchen",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 18
     },
     {
      "id": "belong-module10-S04-V34",
@@ -7936,8 +9031,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a woman opens a kitchen cabinet then a fridge with shelves of food",
+     "violation": "",
+     "shoot": "pexels-woman-cabinet-fridge",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S04-V35",
@@ -7951,15 +9054,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V35.strip.jpg",
      "title": "person baking a pizza",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "8627108",
      "download_url": "https://videos.pexels.com/video-files/8627108/8627108-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a chef slides a pizza toward an oven in a restaurant kitchen",
+     "violation": "",
+     "shoot": "pexels-pizza-oven-chef",
+     "score": 3.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 17
     },
     {
      "id": "belong-module10-S04-V36",
@@ -7973,15 +9084,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V36.strip.jpg",
      "title": "delicious fried finger foods on metal tray",
      "query": "thawing food on tray in fridge",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "34614973",
      "download_url": "https://videos.pexels.com/video-files/34614973/14669986_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a tray of fried finger foods sits under warm light",
+     "violation": "",
+     "shoot": "pexels-fried-croquettes-tray",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S04-V37",
@@ -8002,8 +9121,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a woman in an apron writes in a notebook in a decorated kitchen",
+     "violation": "",
+     "shoot": "pexels-styled-kitchen-notebook",
+     "score": 6.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S04-V38",
@@ -8017,15 +9144,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V38.strip.jpg",
      "title": "culinary technique for cutting vegetables carrots for baking in the oven with potatoes",
      "query": "cook writing prep list kitchen board",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "20024041",
      "download_url": "https://videos.pexels.com/video-files/20024041/20024041-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 7,
+     "caption": "a knife chops carrots on a rustic wooden board",
+     "violation": "",
+     "shoot": "pexels-carrot-chopping-rustic",
+     "score": 3.75,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S04-V39",
@@ -8039,15 +9174,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V39.strip.jpg",
      "title": "cooking  steak  food  meat  beef  meal  pepper  fresh  barbecue  dinner  red  board  cut  salt  grill  rosemary  ingredient  kitchen  fillet  raw  restaurant  cuisine  herb  preparation  sirloin  tenderloin  gourmet  roast  butcher  protein  cook",
      "query": "cook kitchen board planning",
-     "shot": "C",
+     "shot": "",
      "duration": 59,
      "src_id": "11655",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11655-231758764_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:42:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "hands mix minced garlic and sauce in a bowl on a wood table",
+     "violation": "",
+     "shoot": "pexels-garlic-sauce-bowl",
+     "score": 2.75,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S04-V40",
@@ -8061,15 +9204,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V40.strip.jpg",
      "title": "cook  wooden spoon  knife  kitchen  vegetables  board  3d  blender",
      "query": "cook kitchen board planning",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "65104",
      "download_url": "https://cdn.pixabay.com/video/2021/02/13/65104-512069285_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a knife, wooden spoon and vegetables are arranged on a board",
+     "violation": "",
+     "shoot": "pixabay-knife-spoon-vegetables-stock",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 30
     },
     {
      "id": "belong-module10-S04-V41",
@@ -8083,15 +9234,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V41.strip.jpg",
      "title": "meat  loin  food  frying  kitchen  dish  lunch  chops  cook  pan",
      "query": "cook kitchen board planning",
-     "shot": "C",
+     "shot": "",
      "duration": 22,
      "src_id": "2640",
      "download_url": "https://cdn.pixabay.com/video/2016/04/02/2640-161442825_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a plated meat dish sits in sauce on a white plate",
+     "violation": "",
+     "shoot": "pixabay-meat-plated-stock",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 31
     },
     {
      "id": "belong-module10-S04-V42",
@@ -8105,15 +9264,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V42.strip.jpg",
      "title": "boss  employee  talking  angry  argument",
      "query": "housekeeping manager talking",
-     "shot": "D",
+     "shot": "",
      "duration": 19,
      "src_id": "202135",
      "download_url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man angrily confronts a woman at a desk in an office",
+     "violation": "corporate office; anger theatre on a composure line",
+     "shoot": "pixabay-office-argument",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 34
     },
     {
      "id": "belong-module10-S04-V43",
@@ -8127,15 +9294,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V43.strip.jpg",
      "title": "woman  welcome  social media  hello  girl  reading  teach  explaining  woman explaining  teaching  teacher  woman talking  talking character",
      "query": "housekeeping manager talking",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "92662",
      "download_url": "https://cdn.pixabay.com/video/2021/10/20/92662-637274989_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated cartoon woman gestures on a green screen",
+     "violation": "animated cartoon graphic, not authentic footage",
+     "shoot": "pixabay-cartoon-greenscreen",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 44
     },
     {
      "id": "belong-module10-S04-V44",
@@ -8149,15 +9324,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V44.strip.jpg",
      "title": "woman  social networking  post  website management  communication  network  online  internet  asian  phone",
      "query": "housekeeping manager talking",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "174003",
      "download_url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a woman's hands hold and use a phone outdoors",
+     "violation": "",
+     "shoot": "pixabay-phone-texting-woman",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 33
     },
     {
      "id": "belong-module10-S04-V45",
@@ -8178,8 +9361,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two people in business attire talk on a bench by shipping containers",
+     "violation": "",
+     "shoot": "pixabay-outdoor-meeting-notebook",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S04-V46",
@@ -8193,15 +9384,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S04__strip__belong-module10-S04-V46.strip.jpg",
      "title": "conversation  talking  chatting  meet up  communication  people  friendship  together",
      "query": "housekeeping manager talking",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "75999",
      "download_url": "https://cdn.pixabay.com/video/2021/05/31/75999-557395104_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a silhouette animation shows two people talking",
+     "violation": "animated silhouette graphic, not authentic footage",
+     "shoot": "pixabay-silhouette-conversation",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 45
     }
    ],
    "shots": [
@@ -8242,11 +9441,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:31:53Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:22:47Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:31:53Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   },
   {
    "id": "S07",
@@ -8288,7 +9487,7 @@
      "shot": "A",
      "shoot": "pixabay-canning-kitchen",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -8319,8 +9518,8 @@
      "shot": "C",
      "shoot": "pixabay-chard-field",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m10-S07-V03",
@@ -8348,8 +9547,8 @@
      "shot": "A",
      "shoot": "pixabay-pickle-cup",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 6,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m10-S07-V04",
@@ -8395,7 +9594,7 @@
      "shot": "B",
      "shoot": "pixabay-chili-chopping",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 3,
+     "rank": 9,
      "shown": true
     },
     {
@@ -8423,7 +9622,7 @@
      "shot": "C",
      "shoot": "pixabay-tomato-heap",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -8451,8 +9650,8 @@
      "shot": "",
      "shoot": "pixabay-steaming-pot",
      "judged_at": "2026-09-09T17:19:20Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m10-S07-I01",
@@ -8511,8 +9710,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a hand opens the gold lid of an empty glass jar",
+     "violation": "",
+     "shoot": "pexels-empty-jar-lid-white-studio",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 20
     },
     {
      "id": "belong-module10-S07-V09",
@@ -8533,8 +9740,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:43:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand pours sugar into a glass jar on a wood board",
+     "violation": "",
+     "shoot": "pexels-pouring-sugar-jar-dark-kitchen",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S07-V10",
@@ -8548,15 +9763,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V10.strip.jpg",
      "title": "woman looking at a magazine on the kitchen counter",
      "query": "jars of pickles pantry shelf",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "8581177",
      "download_url": "https://videos.pexels.com/video-files/8581177/8581177-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman flips through a magazine beside jars on a counter",
+     "violation": "",
+     "shoot": "pexels-woman-magazine-counter-jars",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 19
     },
     {
      "id": "belong-module10-S07-V11",
@@ -8577,8 +9800,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "jars filled with grains and pulses line a pantry shelf",
+     "violation": "",
+     "shoot": "pexels-jars-white-cabinet-pantry",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S07-V12",
@@ -8599,8 +9830,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "glass jars packed with different pantry snacks sit on a shelf",
+     "violation": "",
+     "shoot": "pexels-jars-white-cabinet-pantry",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S07-V13",
@@ -8614,15 +9853,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V13.strip.jpg",
      "title": "turkish street vendor prepares pickles",
      "query": "jars of pickles pantry shelf",
-     "shot": "A",
+     "shot": "",
      "duration": 27,
      "src_id": "37187923",
      "download_url": "https://videos.pexels.com/video-files/37187923/15754042_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "a street vendor rolls dough and prepares pickles outdoors",
+     "violation": "",
+     "shoot": "pexels-turkish-street-vendor-bw",
+     "score": 2.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 23
     },
     {
      "id": "belong-module10-S07-V14",
@@ -8643,8 +9890,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "glass jars with handwritten labels hold dried fruit and oats",
+     "violation": "",
+     "shoot": "pexels-jars-labeled-cupboard-ru",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S07-V15",
@@ -8665,8 +9920,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "jars of honey and spices sit on a rustic blue wooden shelf",
+     "violation": "",
+     "shoot": "pexels-rustic-blue-shelf-jars",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 2
     },
     {
      "id": "belong-module10-S07-V16",
@@ -8680,15 +9943,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V16.strip.jpg",
      "title": "professional chef seasoning dish in modern kitchen",
      "query": "cook weighing portion on scale",
-     "shot": "D",
+     "shot": "",
      "duration": 20,
      "src_id": "33739011",
      "download_url": "https://videos.pexels.com/video-files/33739011/14324519_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a chef pours ingredients into a steel bowl in a commercial kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-commercial-kitchen-bowl",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S07-V17",
@@ -8702,15 +9973,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V17.strip.jpg",
      "title": "two men in aprons are cooking food in a kitchen",
      "query": "cook weighing portion on scale",
-     "shot": "D",
+     "shot": "",
      "duration": 31,
      "src_id": "4253355",
      "download_url": "https://videos.pexels.com/video-files/4253355/4253355-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two chefs plate seafood in a stainless steel restaurant kitchen",
+     "violation": "",
+     "shoot": "pexels-two-chefs-restaurant-kitchen",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 25
     },
     {
      "id": "belong-module10-S07-V18",
@@ -8731,8 +10010,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:44:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a bowl of batter rests on a digital kitchen scale on a wood table",
+     "violation": "",
+     "shoot": "pexels-batter-bowl-scale-wood-table",
+     "score": 8.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S07-V19",
@@ -8746,15 +10033,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V19.strip.jpg",
      "title": "chef preparing fresh burritos in restaurant kitchen",
      "query": "cook weighing portion on scale",
-     "shot": "D",
+     "shot": "",
      "duration": 20,
      "src_id": "31887618",
      "download_url": "https://videos.pexels.com/video-files/31887618/13582427_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a gloved chef arranges wraps on a tray in a food truck kitchen",
+     "violation": "",
+     "shoot": "pexels-food-truck-wraps-tray",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S07-V20",
@@ -8768,15 +10063,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V20.strip.jpg",
      "title": "a man mixing the pot in the kitchen",
      "query": "cook weighing portion on scale",
-     "shot": "D",
+     "shot": "",
      "duration": 14,
      "src_id": "6390324",
      "download_url": "https://videos.pexels.com/video-files/6390324/6390324-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a cook wearing a face mask stirs a large steel pot",
+     "violation": "face masks",
+     "shoot": "pexels-cook-mask-steel-pot",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 28
     },
     {
      "id": "belong-module10-S07-V21",
@@ -8790,15 +10093,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V21.strip.jpg",
      "title": "chef cooking in a food trucks kitchen",
      "query": "cook weighing portion on scale",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "5780553",
      "download_url": "https://videos.pexels.com/video-files/5780553/5780553-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "gloved hands prepare food beside bottles on a steel counter",
+     "violation": "",
+     "shoot": "pexels-gloved-hands-steel-counter",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 27
     },
     {
      "id": "belong-module10-S07-V22",
@@ -8819,8 +10130,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "green tomatoes ripen on the vine in a garden greenhouse",
+     "violation": "",
+     "shoot": "pixabay-green-tomatoes-greenhouse",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S07-V23",
@@ -8834,15 +10153,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S07__strip__belong-module10-S07-V23.strip.jpg",
      "title": "kitchen  nutrition  onion  vegetables  healthy diet  products  food  cook  organic products  healthy eating",
      "query": "kitchen scale portion cook",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "14418",
      "download_url": "https://cdn.pixabay.com/video/2018/02/21/14418-257068796_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "hands slice red onion on a wooden board beside garden vegetables",
+     "violation": "",
+     "shoot": "pexels-chopping-vegetables-wood-board",
+     "score": 5.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 11
     },
     {
      "id": "belong-module10-S07-V24",
@@ -8863,8 +10190,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "green tomatoes hang on the vine in a garden greenhouse",
+     "violation": "",
+     "shoot": "pixabay-green-tomatoes-greenhouse",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 8
     },
     {
      "id": "belong-module10-S07-V25",
@@ -8878,15 +10213,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S07__strip__belong-module10-S07-V25.strip.jpg",
      "title": "vegetables  greens  kitchen  cook  preparation  healthy  food",
      "query": "kitchen scale portion cook",
-     "shot": "D",
+     "shot": "",
      "duration": 43,
      "src_id": "143425",
      "download_url": "https://cdn.pixabay.com/video/2022/12/18/143425-782373961_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:45:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "water droplets fall on large green cabbage leaves in a garden",
+     "violation": "",
+     "shoot": "pixabay-wet-cabbage-leaves-garden",
+     "score": 4.4,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S07-V26",
@@ -8900,15 +10243,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S07__strip__belong-module10-S07-V26.strip.jpg",
      "title": "kimchi  korean  vegetables  korean food  cabbage field",
      "query": "fermentation cabbage jar hands",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "269483",
      "download_url": "https://cdn.pixabay.com/video/2025/04/03/269483_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hand picks a chili pepper from plates of garlic and peppers",
+     "violation": "",
+     "shoot": "pixabay-garlic-peppers-market-display",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 16
     },
     {
      "id": "belong-module10-S07-V27",
@@ -8922,15 +10273,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S07__strip__belong-module10-S07-V27.strip.jpg",
      "title": "vegetables  vegan  hand  organic  food  4k",
      "query": "fermentation cabbage jar hands",
-     "shot": "B",
+     "shot": "",
      "duration": 31,
      "src_id": "167735",
      "download_url": "https://cdn.pixabay.com/video/2023/06/18/167735-837429013_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand shreds cabbage with a knife on a kitchen counter",
+     "violation": "",
+     "shoot": "pixabay-shredding-cabbage-counter",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 13
     },
     {
      "id": "belong-module10-S07-V28",
@@ -8944,15 +10303,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S07__strip__belong-module10-S07-V28.strip.jpg",
      "title": "salad  food  kitchen  white cabbage  restaurant  healthy  dinner  table  vegetables  lunch  green  plate  diet  fresh  feeding  epicurean  delicious  hand  cooking  slicing  chopped",
      "query": "fermentation cabbage jar hands",
-     "shot": "B",
+     "shot": "",
      "duration": 27,
      "src_id": "48042",
      "download_url": "https://cdn.pixabay.com/video/2020/08/24/48042-452601009_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a plated salad is garnished with edible flowers and tomato",
+     "violation": "",
+     "shoot": "pixabay-plated-salad-flowers",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 21
     },
     {
      "id": "belong-module10-S07-V29",
@@ -8966,15 +10333,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S07__strip__belong-module10-S07-V29.strip.jpg",
      "title": "cabbage tomato  stir fry  dish  food  meal  vegetable  cabbage  plate  cuisine  dinner  tomato  fried  meat  healthy  hot  gourmet  red  delicious  vegetarian  cooked  homemade  sauce  cook  green  onion  traditional  salad  cherry  fast  thai  white  mushroom  chopped  shiitake  restaurant  snack  chinese  spicy  thailand  slice",
      "query": "fermentation cabbage jar hands",
-     "shot": "B",
+     "shot": "",
      "duration": 25,
      "src_id": "11719",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11719-231759056_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a plated salad with cabbage and edible flowers sits on a dark surface",
+     "violation": "",
+     "shoot": "pixabay-plated-salad-flowers",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 22
     }
    ],
    "shots": [
@@ -9014,12 +10389,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T17:19:20Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:19:20Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   },
   {
    "id": "S13",
@@ -9058,7 +10428,7 @@
      "shot": "A",
      "shoot": "pixabay-rubber-boots-puddle-splash",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -9083,8 +10453,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-cracked-earth-channel",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 6,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V03",
@@ -9108,8 +10478,8 @@
      "shot": "",
      "shoot": "pixabay-muddy-river-autumn",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 9,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V04",
@@ -9133,8 +10503,8 @@
      "shot": "",
      "shoot": "pixabay-woman-laptop-fan",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 10,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V05",
@@ -9160,7 +10530,7 @@
      "shot": "",
      "shoot": "pixabay-office-meeting-laptop",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -9185,8 +10555,8 @@
      "shot": "B",
      "shoot": "pixabay-hand-writing-notebook-laptop",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 5,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V07",
@@ -9212,7 +10582,7 @@
      "shot": "",
      "shoot": "pixabay-typing-laptop-keyboard",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 14,
+     "rank": 31,
      "shown": false
     },
     {
@@ -9243,7 +10613,7 @@
      "shot": "",
      "shoot": "pexels-farmer-harvesting-wheat-hand",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 2,
+     "rank": 8,
      "shown": true
     },
     {
@@ -9272,7 +10642,7 @@
      "shot": "",
      "shoot": "pexels-farmworker-planting-field",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 3,
+     "rank": 9,
      "shown": true
     },
     {
@@ -9301,7 +10671,7 @@
      "shot": "C",
      "shoot": "pexels-tractor-sunset-field",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 4,
+     "rank": 11,
      "shown": true
     },
     {
@@ -9333,8 +10703,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-green-field-road",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 7,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-V14",
@@ -9365,8 +10735,8 @@
      "shot": "",
      "shoot": "pixabay-aerial-green-field-plowed",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 8,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m10-S13-I01",
@@ -9504,7 +10874,7 @@
      "shot": "",
      "shoot": "pexels-street-dusk-storefronts",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 16,
+     "rank": 35,
      "shown": false
     },
     {
@@ -9533,7 +10903,7 @@
      "shot": "",
      "shoot": "pixabay-dice-rolling-black-bg",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 11,
+     "rank": 28,
      "shown": false
     },
     {
@@ -9562,7 +10932,7 @@
      "shot": "",
      "shoot": "pexels-hotel-corridor-art",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 17,
+     "rank": 36,
      "shown": false
     },
     {
@@ -9591,7 +10961,7 @@
      "shot": "",
      "shoot": "pixabay-indoor-flea-market-crowd",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -9620,7 +10990,7 @@
      "shot": "",
      "shoot": "pixabay-dirtbike-boot-wheel",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 12,
+     "rank": 29,
      "shown": false
     },
     {
@@ -9649,7 +11019,7 @@
      "shot": "",
      "shoot": "pixabay-aerial-city-kampala-construction",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 19,
+     "rank": 39,
      "shown": false
     },
     {
@@ -9678,7 +11048,7 @@
      "shot": "",
      "shoot": "pexels-hotel-room-bed-tv",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 18,
+     "rank": 37,
      "shown": false
     },
     {
@@ -9707,7 +11077,7 @@
      "shot": "",
      "shoot": "pixabay-aerial-office-complex-crane",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 20,
+     "rank": 40,
      "shown": false
     },
     {
@@ -9736,7 +11106,7 @@
      "shot": "",
      "shoot": "pexels-street-marks-spencer-bus-slogan",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 21,
+     "rank": 41,
      "shown": false
     },
     {
@@ -9765,7 +11135,7 @@
      "shot": "",
      "shoot": "pixabay-castle-hotel-aerial-scotland",
      "judged_at": "2026-09-09T17:31:53Z",
-     "rank": 22,
+     "rank": 42,
      "shown": false
     },
     {
@@ -9787,8 +11157,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand turns a brass outdoor faucet, water flows into a basin",
+     "violation": "",
+     "shoot": "pexels-rustic-outdoor-tap",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 1
     },
     {
      "id": "belong-module10-S13-V26",
@@ -9809,8 +11187,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "an arm reaches under a bathroom faucet with water running",
+     "violation": "",
+     "shoot": "pexels-modern-bathroom-sink",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 17
     },
     {
      "id": "belong-module10-S13-V27",
@@ -9831,8 +11217,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:46:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "wooden ladles rest in a stone water basin in a garden",
+     "violation": "",
+     "shoot": "pexels-japanese-water-ritual",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 15
     },
     {
      "id": "belong-module10-S13-V28",
@@ -9846,15 +11240,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V28.strip.jpg",
      "title": "serene cascading water fountain in park",
      "query": "washing hands stone basin outdoor",
-     "shot": "D",
+     "shot": "",
      "duration": 4,
      "src_id": "38903612",
      "download_url": "https://videos.pexels.com/video-files/38903612/16543161_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "water cascades down a carved stone fountain wall",
+     "violation": "",
+     "shoot": "pexels-park-stone-fountain",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 22
     },
     {
      "id": "belong-module10-S13-V29",
@@ -9875,8 +11277,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "water drips from a spout into a rippling stone basin",
+     "violation": "",
+     "shoot": "pexels-garden-stone-basin-drip",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 4
     },
     {
      "id": "belong-module10-S13-V30",
@@ -9897,8 +11307,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "black and white footage of boys gathering water at a stone trough",
+     "violation": "",
+     "shoot": "pexels-bw-rural-water-trough",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 18
     },
     {
      "id": "belong-module10-S13-V31",
@@ -9919,8 +11337,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "water flows from an outdoor tap into a round stone basin",
+     "violation": "",
+     "shoot": "pexels-autumn-outdoor-tap",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 3
     },
     {
      "id": "belong-module10-S13-V32",
@@ -9934,15 +11360,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V32.strip.jpg",
      "title": "a woman looking at the camera",
      "query": "washing hands stone basin outdoor",
-     "shot": "D",
+     "shot": "",
      "duration": 28,
      "src_id": "10222206",
      "download_url": "https://videos.pexels.com/video-files/10222206/10222206-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a woman with wet hair stands in a spa-style bathroom",
+     "violation": "luxury spa clichés",
+     "shoot": "pexels-spa-bathroom-robe",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 25
     },
     {
      "id": "belong-module10-S13-V33",
@@ -9956,15 +11390,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V33.strip.jpg",
      "title": "paramedic writing",
      "query": "worker reading meter clipboard",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "6520274",
      "download_url": "https://videos.pexels.com/video-files/6520274/6520274-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a uniformed person in a face mask adjusts a control panel with a clipboard",
+     "violation": "face masks",
+     "shoot": "pexels-van-panel-mask",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 26
     },
     {
      "id": "belong-module10-S13-V34",
@@ -9985,8 +11427,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "a hand in a hard hat writes on a clipboard at a jobsite",
+     "violation": "construction and building trades",
+     "shoot": "pexels-construction-clipboard",
+     "score": 4.55,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 7
     },
     {
      "id": "belong-module10-S13-V35",
@@ -10007,8 +11457,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a hooded person writes on a clipboard inside a vehicle near boxes",
+     "violation": "",
+     "shoot": "pexels-delivery-van-clipboard",
+     "score": 5.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 5
     },
     {
      "id": "belong-module10-S13-V36",
@@ -10029,8 +11487,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:47:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a person in a dark uniform writes on a clipboard near cardboard boxes",
+     "violation": "",
+     "shoot": "pexels-courier-clipboard-boxes",
+     "score": 5.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 6
     },
     {
      "id": "belong-module10-S13-V37",
@@ -10051,8 +11517,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a man in a cap writes on a clipboard inside a warehouse",
+     "violation": "factories, warehouses",
+     "shoot": "pexels-warehouse-clipboard",
+     "score": 3.9,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 14
     },
     {
      "id": "belong-module10-S13-V38",
@@ -10073,8 +11547,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "a delivery man holds a clipboard and a box beside a van",
+     "violation": "",
+     "shoot": "pexels-courier-van-box",
+     "score": 4.3,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 10
     },
     {
      "id": "belong-module10-S13-V39",
@@ -10088,15 +11570,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V39.strip.jpg",
      "title": "library  books  the corridor  window  rack  the culture  reading  classic  new items  reading room  society  shelves  education  studies  school",
      "query": "meter reading clipboard worker",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "846",
      "download_url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "an empty library corridor lined with bookshelves and windows",
+     "violation": "",
+     "shoot": "pixabay-library-corridor",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 33
     },
     {
      "id": "belong-module10-S13-V40",
@@ -10110,15 +11600,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V40.strip.jpg",
      "title": "door  squeak  door opening",
      "query": "muddy boots door farm",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "6714",
      "download_url": "https://cdn.pixabay.com/video/2016/12/09/6714-195124800_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a silhouetted doorway glows with light in a dark room",
+     "violation": "",
+     "shoot": "pixabay-glowing-doorway",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 24
     },
     {
      "id": "belong-module10-S13-V41",
@@ -10132,15 +11630,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V41.strip.jpg",
      "title": "spectrum  green  react  music  sound  meter  analyser  disco  volume",
      "query": "meter reading clipboard worker",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "5167",
      "download_url": "https://cdn.pixabay.com/video/2016/09/13/5167-183709922_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "green abstract audio spectrum bars pulse against black",
+     "violation": "",
+     "shoot": "pixabay-audio-spectrum",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 43
     },
     {
      "id": "belong-module10-S13-V42",
@@ -10154,15 +11660,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V42.strip.jpg",
      "title": "key  take  open  key code  instrument  door",
      "query": "muddy boots door farm",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "131988",
      "download_url": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand sets a small key down on a wooden table",
+     "violation": "",
+     "shoot": "pixabay-key-on-table",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 34
     },
     {
      "id": "belong-module10-S13-V43",
@@ -10176,15 +11690,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V43.strip.jpg",
      "title": "ruins  house  burnt  burned  building  door  nails  light  architecture  old",
      "query": "muddy boots door farm",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "20265",
      "download_url": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "sunlight streams through broken windows inside an abandoned building",
+     "violation": "",
+     "shoot": "pixabay-abandoned-building",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 38
     },
     {
      "id": "belong-module10-S13-V44",
@@ -10205,8 +11727,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a padlock secures a weathered wooden door outdoors",
+     "violation": "",
+     "shoot": "pixabay-wooden-door-padlock",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 12
     },
     {
      "id": "belong-module10-S13-V45",
@@ -10220,15 +11750,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10-2/S13__strip__belong-module10-S13-V45.strip.jpg",
      "title": "gate  door  afterlife  ghost  journey  new age  out of body experience  reincarnation  religion  science  spirituality  walking  yoga  door of light  man  walk  path  into light",
      "query": "muddy boots door farm",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "203363",
      "download_url": "https://cdn.pixabay.com/video/2024/03/07/203363-920724138_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "cgi silhouettes walk toward glowing doorways in darkness",
+     "violation": "",
+     "shoot": "pixabay-cgi-doorway-silhouettes",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 44
     },
     {
      "id": "belong-module10-S13-V46",
@@ -10249,8 +11787,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:48:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a weathered wooden barn door stands against tall trees",
+     "violation": "",
+     "shoot": "pixabay-wooden-barn-door",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:22:47Z",
+     "rank": 13
     }
    ],
    "shots": [
@@ -10290,12 +11836,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:31:53Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:31:53Z"
+   "judged_at": "2026-09-10T09:22:47Z"
   }
  ],
  "title": "Belong — Module 10: Daily Sustainability",
