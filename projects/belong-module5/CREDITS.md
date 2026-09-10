@@ -179,3 +179,25 @@
 | pixabay | sauce  spice  spoon  jam  food  table  kitchen  healthy  veg | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-72935/ |
 | pixabay | counter  numbers  one to ten  1 to 10  time  progress  passi | JCI-21 | Pixabay Content License | https://pixabay.com/videos/id-124746/ |
 | pixabay | egg  food  protein  breakfast  healthy  kitchen | KunalKapoor7 | Pixabay Content License | https://pixabay.com/videos/id-213748/ |
+| pexels | two men in aprons cooking in a kitchen | cottonbro studio | Pexels License | https://www.pexels.com/video/two-men-in-aprons-cooking-in-a-kitchen-4253329/ |
+| pexels | a chef is preparing food in a kitchen | cottonbro studio | Pexels License | https://www.pexels.com/video/a-chef-is-preparing-food-in-a-kitchen-4253140/ |
+| pexels | a man in an apron cooking food in a kitchen | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-in-an-apron-cooking-food-in-a-kitchen-4253323/ |
+| pexels | a man standing in a kitchen with a counter | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-standing-in-a-kitchen-with-a-counter-4252284/ |
+| pexels | chef preparing food on a plate in a kitchen | K | Pexels License | https://www.pexels.com/video/chef-preparing-food-on-a-plate-in-a-kitchen-19905875/ |
+| pexels | a person is preparing food on plates in a kitchen | K | Pexels License | https://www.pexels.com/video/a-person-is-preparing-food-on-plates-in-a-kitchen-19905870/ |
+| pexels | family cooking metis bannock in the kitchen | Jelly Marketing | Pexels License | https://www.pexels.com/video/family-cooking-metis-bannock-in-the-kitchen-38810809/ |
+| pexels | professional chef preparing gourmet dish in kitchen | Floating Rabbit | Pexels License | https://www.pexels.com/video/professional-chef-preparing-gourmet-dish-in-kitchen-33738988/ |
+| pexels | handing over the keys | RDNE Stock project | Pexels License | https://www.pexels.com/video/handing-over-the-keys-10375432/ |
+| pexels | a man buying car | Antoni Shkraba | Pexels License | https://www.pexels.com/video/a-man-buying-car-7154208/ |
+| pexels | a man passing a package to another person | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-passing-a-package-to-another-person-7463953/ |
+| pexels | people talking while walking | Kindel Media | Pexels License | https://www.pexels.com/video/people-talking-while-walking-7652288/ |
+| pexels | a man riding a horse by the stable | Billy Llano | Pexels License | https://www.pexels.com/video/a-man-riding-a-horse-by-the-stable-11011847/ |
+| pexels | child walking through rural path by farmhouse | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/child-walking-through-rural-path-by-farmhouse-37489720/ |
+| pixabay | dancer  girl  dancing  movement  perfomer | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75329/ |
+| pixabay | conversation  talk  dialogue  coffee  colleagues  discussion | Republica | Pixabay Content License | https://pixabay.com/videos/id-180/ |
+| pixabay | sweeping  cleaning  clean  work  dirty  housekeeping  broom  | jaumeps99 | Pixabay Content License | https://pixabay.com/videos/id-34821/ |
+| pixabay | disinfectant  spray  trigger  disinfect  cleaner  sprayer  h | Squirrel_photos | Pixabay Content License | https://pixabay.com/videos/id-37187/ |
+| pixabay | three clothespins  pin  wobble  rope  linen  washing  cord   | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-10174/ |
+| pixabay | light  linear  movement  blue | Jacques_Barrette | Pixabay Content License | https://pixabay.com/videos/id-9506/ |
+| pixabay | clothespins  clothesline  rope  linen  to dry  drying  wind  | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-9503/ |
+| pixabay | glacier  ice  rhone  hotel  restaurant  belvedere  switzerla | xat-ch | Pixabay Content License | https://pixabay.com/videos/id-83926/ |
