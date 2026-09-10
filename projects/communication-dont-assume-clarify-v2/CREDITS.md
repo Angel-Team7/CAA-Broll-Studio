@@ -167,3 +167,123 @@
 | pixabay | builder  machine  mason  construction  building  work  archi | Digital_Expert | Pixabay Content License | https://pixabay.com/videos/id-88231/ |
 | pixabay | marketing  doodle  planning  write  style  presentation | RaniRamli | Pixabay Content License | https://pixabay.com/videos/id-22191/ |
 | pixabay | marketing  doodle  planning  write  style  presentation | RaniRamli | Pixabay Content License | https://pixabay.com/videos/id-22194/ |
+| pexels | a man pushing a trolley having back pain | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-pushing-a-trolley-having-back-pain-8965387/ |
+| pexels | a man and woman having a break | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-woman-having-a-break-8965247/ |
+| pexels | men having a conversation while eating | Tiger Lily | Pexels License | https://www.pexels.com/video/men-having-a-conversation-while-eating-4296844/ |
+| pexels | two people having a conversation | fauxels | Pexels License | https://www.pexels.com/video/two-people-having-a-conversation-3044655/ |
+| pexels | a man handing out cleaning equipment to his co worker | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-worker-6195151/ |
+| pexels | construction workers using shovels and wheelbarrow | Everett Bumstead | Pexels License | https://www.pexels.com/video/construction-workers-using-shovels-and-wheelbarrow-5434222/ |
+| pexels | branches on wheelbarrow | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/branches-on-wheelbarrow-11960822/ |
+| pexels | a man and a woman collaborating their work | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-collaborating-their-work-5977259/ |
+| pexels | men talking | RDNE Stock project | Pexels License | https://www.pexels.com/video/men-talking-7463955/ |
+| pexels | a woman holding her backside | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-holding-her-backside-8965384/ |
+| pexels | women wearing coats and carrying briefcase | cottonbro studio | Pexels License | https://www.pexels.com/video/women-wearing-coats-and-carrying-briefcase-6532783/ |
+| pexels | stairs man person walking | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/stairs-man-person-walking-7702050/ |
+| pexels | two persons sitting by the table while drinking their coffee | cottonbro studio | Pexels License | https://www.pexels.com/video/two-persons-sitting-by-the-table-while-drinking-their-coffee-near-the-window-glass-4828606/ |
+| pexels | a couple walking while holding their hands | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-couple-walking-while-holding-their-hands-9565188/ |
+| pixabay | industry  factory  steel  iron  iron bars  workers  hard wor | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40054/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11750/ |
+| pixabay | earth running  blue planet  space  3d  time back  universe   | RPXStudio | Pixabay Content License | https://pixabay.com/videos/id-8947/ |
+| pixabay | jigsaw  board  construction  repair  square  pencil  to nag  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4973/ |
+| pixabay | coffee  grains  black  pour  close-up  coffee beans  fried   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4948/ |
+| pixabay | woman  fast food  workshop  safety  convenience  lifestyle   | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-130651/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135891/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pexels | man in dark green long sleeves putting his airpods | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-in-dark-green-long-sleeves-putting-his-airpods-4873116/ |
+| pexels | casual conversational interaction | Giorgio Tomassetti | Pexels License | https://www.pexels.com/video/casual-conversational-interaction-35402261/ |
+| pexels | a woman leaning on her hand | KoolShooters | Pexels License | https://www.pexels.com/video/a-woman-leaning-on-her-hand-8955664/ |
+| pexels | a woman using smartphone | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-using-smartphone-6890228/ |
+| pexels | video of a sad girl | KoolShooters | Pexels License | https://www.pexels.com/video/video-of-a-sad-girl-7327405/ |
+| pexels | girl doing facial expressions | KoolShooters | Pexels License | https://www.pexels.com/video/girl-doing-facial-expressions-7330440/ |
+| pexels | a woman dancing while listening to music | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-woman-dancing-while-listening-to-music-6961545/ |
+| pexels | close up video of a woman talking | Kampus Production | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-talking-6104314/ |
+| pexels | a woman making faces | KoolShooters | Pexels License | https://www.pexels.com/video/a-woman-making-faces-6977186/ |
+| pexels | a couple having a conversation | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-couple-having-a-conversation-8135155/ |
+| pexels | a man and woman talking while using tablet | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-woman-talking-while-using-tablet-8964795/ |
+| pexels | a couple discussing | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-discussing-7735869/ |
+| pexels | men eating break warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/men-eating-break-warehouse-4296998/ |
+| pexels | construction workers on an elevated platform | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-workers-on-an-elevated-platform-32244799/ |
+| pixabay | headphones  music  swing  listening  wind  technology  sound | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-84583/ |
+| pixabay | boss  employee  talking  angry  argument | Samidurrakzai | Pixabay Content License | https://pixabay.com/videos/id-202135/ |
+| pixabay | conversation  talking  chatting  meet up  communication  peo | patw64 | Pixabay Content License | https://pixabay.com/videos/id-75999/ |
+| pixabay | woman  welcome  social media  girl  reading  teach  explaini | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pexels | two men having a discussion | Gustavo Fring | Pexels License | https://www.pexels.com/video/two-men-having-a-discussion-6285680/ |
+| pexels | african construction workers building wall together | Gpop NL | Pexels License | https://www.pexels.com/video/african-construction-workers-building-wall-together-39334654/ |
+| pexels | a man and a woman checking the walls of a house | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-checking-the-walls-of-a-house-8965437/ |
+| pexels | people having a discussion | Ron Lach | Pexels License | https://www.pexels.com/video/people-having-a-discussion-10366110/ |
+| pexels | a woman walking while pushing a construction cart | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-walking-while-pushing-a-construction-cart-8965385/ |
+| pexels | female engineers planning together | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-planning-together-8488068/ |
+| pexels | man using digital tablet | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-digital-tablet-6473959/ |
+| pexels | women in a under construction area wearing safety gears | Kindel Media | Pexels License | https://www.pexels.com/video/women-in-a-under-construction-area-wearing-safety-gears-8487073/ |
+| pexels | man wearing eyeglasses talking | Theo  Decker | Pexels License | https://www.pexels.com/video/man-wearing-eyeglasses-talking-5939450/ |
+| pexels | colleagues discussing paperwork | Kindel Media | Pexels License | https://www.pexels.com/video/colleagues-discussing-paperwork-7687894/ |
+| pexels | people pointing at tile samples | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-pointing-at-tile-samples-8293307/ |
+| pexels | worker cutting stone pavement on construction site | FÁBIO REIS DE ABREU (PORTUGA) | Pexels License | https://www.pexels.com/video/worker-cutting-stone-pavement-on-construction-site-39055626/ |
+| pexels | a mechanic woman and a man assisting her | cottonbro studio | Pexels License | https://www.pexels.com/video/a-mechanic-woman-and-a-man-assisting-her-7006120/ |
+| pexels | expert welder at work in workshop | Yusuf kerem Çolak | Pexels License | https://www.pexels.com/video/expert-welder-at-work-in-workshop-37096388/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4728/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4729/ |
+| pixabay | woman  social networking  post  website management  communic | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174003/ |
+| pixabay | delete  error  fix | LightGraph | Pixabay Content License | https://pixabay.com/videos/id-145013/ |
+| pixabay | drill  board  hole  repair  construction  square  carpenter  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4974/ |
+| pixabay | woman  selfie  social networking  post  website management   | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174004/ |
+| pexels | workers posing with cleaning tools | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-posing-with-cleaning-tools-6197060/ |
+| pexels | one man and two women coming out of a car | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/one-man-and-two-women-coming-out-of-a-car-6195137/ |
+| pexels | man standing at the middle of two women | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-standing-at-the-middle-of-two-women-6195155/ |
+| pexels | a man handing out cleaning equipment to his co workers | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-workers-6195143/ |
+| pexels | two men in hard hats and red vests are working on a pipe | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-hard-hats-and-red-vests-are-working-on-a-pipe-27514205/ |
+| pexels | workers posing for photoshoot | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-posing-for-photoshoot-6197062/ |
+| pexels | workers posing for camera with orange coveralls | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-posing-for-camera-with-orange-coveralls-6195530/ |
+| pexels | two men in red and white work on a large piece of machinery | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-red-and-white-work-on-a-large-piece-of-machinery-27513374/ |
+| pexels | jcb excavator demolishing concrete structure | NiAksh Prit | Pexels License | https://www.pexels.com/video/jcb-excavator-demolishing-concrete-structure-39081921/ |
+| pexels | roof construction on rustic structure amidst nature | Gabriel Vázquez | Pexels License | https://www.pexels.com/video/roof-construction-on-rustic-structure-amidst-nature-30874718/ |
+| pexels | close up view of two people shaking their hands | Jack Sparrow | Pexels License | https://www.pexels.com/video/close-up-view-of-two-people-shaking-their-hands-5977121/ |
+| pexels | close up video of people shaking hands | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-video-of-people-shaking-hands-7490501/ |
+| pexels | woman shaking hands of co workers | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-shaking-hands-of-co-workers-8102929/ |
+| pexels | men greeting each other by shaking hands | Gustavo Fring | Pexels License | https://www.pexels.com/video/men-greeting-each-other-by-shaking-hands-6637175/ |
+| pixabay | man  smile  smiling  happy  male  person  outdoors  portrait | magicmore | Pixabay Content License | https://pixabay.com/videos/id-171044/ |
+| pixabay | woman  wake-up  morning  bed  smile  cute | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-151297/ |
+| pexels | video of a missing paper | Ron Lach | Pexels License | https://www.pexels.com/video/video-of-a-missing-paper-10349944/ |
+| pexels | person receiving parcel | Gustavo Fring | Pexels License | https://www.pexels.com/video/person-receiving-parcel-4266803/ |
+| pexels | a man paying with credit card to the delivery man | Yan Krukau | Pexels License | https://www.pexels.com/video/a-man-paying-with-credit-card-to-the-delivery-man-6818122/ |
+| pexels | a woman receiving a package from a delivery man | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-receiving-a-package-from-a-delivery-man-7191322/ |
+| pexels | people having a discussion at work | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-having-a-discussion-at-work-7593788/ |
+| pexels | women talking to each other | Vlada Karpovich | Pexels License | https://www.pexels.com/video/women-talking-to-each-other-7552663/ |
+| pexels | close up of a person writing in a notebook | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-of-a-person-writing-in-a-notebook-8554164/ |
+| pexels | sticky notes on wall | Coverr | Pexels License | https://www.pexels.com/video/sticky-notes-on-wall-853759/ |
+| pexels | a hand holding a pen | Kindel Media | Pexels License | https://www.pexels.com/video/a-hand-holding-a-pen-7651531/ |
+| pexels | a person passing out missing posters | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-passing-out-missing-posters-10349947/ |
+| pexels | man asking a woman for work advices | Kampus Production | Pexels License | https://www.pexels.com/video/man-asking-a-woman-for-work-advices-8460904/ |
+| pexels | hand writing checklist at work desk | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/hand-writing-checklist-at-work-desk-29568794/ |
+| pexels | volunteers holding missing person posters | Ron Lach | Pexels License | https://www.pexels.com/video/volunteers-holding-missing-person-posters-10349948/ |
+| pexels | a group of people holding missing person posters | Ron Lach | Pexels License | https://www.pexels.com/video/a-group-of-people-holding-missing-person-posters-10349941/ |
+| pixabay | dj  music  sound  note  equipment  audio  party  turntable   | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-5180/ |
+| pixabay | music  nuts  music notes  sheet music  musical  show ladder  | ACpixl | Pixabay Content License | https://pixabay.com/videos/id-13192/ |
+| pixabay | dollars  money  cash  finance  currency  business  wealth  b | olenchic | Pixabay Content License | https://pixabay.com/videos/id-228218/ |
+| pixabay | book  pencil  notebook  paper  document  education  diary  n | wonderlandwoo | Pixabay Content License | https://pixabay.com/videos/id-41121/ |
+| pixabay | notes  music  his  composition color  partition  eighth note | Jacques_Barrette | Pixabay Content License | https://pixabay.com/videos/id-13203/ |
+| pixabay | music  clef  run  eighth notes | Prora | Pixabay Content License | https://pixabay.com/videos/id-33522/ |
+| pixabay | documents  paper  research  study  education  knowledge | MaxMedyk | Pixabay Content License | https://pixabay.com/videos/id-212508/ |
+| pixabay | ai generated  book  reading  magic  study  literature  read  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-188807/ |
+| pexels | man talking while holding clipboard | Kindel Media | Pexels License | https://www.pexels.com/video/man-talking-while-holding-clipboard-7651535/ |
+| pexels | urban construction workers in city center | Kiwi and Camera | Pexels License | https://www.pexels.com/video/urban-construction-workers-in-city-center-38885286/ |
+| pexels | business people signing a contract and shaking hands | Werner Pfennig | Pexels License | https://www.pexels.com/video/business-people-signing-a-contract-and-shaking-hands-6952022/ |
+| pexels | people looking at a folder | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-looking-at-a-folder-8298181/ |
+| pexels | angry woman talking to a man | Yan Krukau | Pexels License | https://www.pexels.com/video/angry-woman-talking-to-a-man-7640704/ |
+| pexels | two men discussing business | Monstera Production | Pexels License | https://www.pexels.com/video/two-men-discussing-business-5282125/ |
+| pexels | showing the new workplace | Edmond Dantès | Pexels License | https://www.pexels.com/video/showing-the-new-workplace-4435249/ |
+| pexels | modern traffic management control room | Kiwi and Camera | Pexels License | https://www.pexels.com/video/modern-traffic-management-control-room-38779110/ |
+| pexels | an information on the screen at the train station | Samson Katt | Pexels License | https://www.pexels.com/video/an-information-on-the-screen-at-the-train-station-5219628/ |
+| pexels | changi airport immigration area overview | LayG Traveller | Pexels License | https://www.pexels.com/video/changi-airport-immigration-area-overview-36679174/ |
+| pexels | close up video of a person writing on a paper | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-paper-8125994/ |
+| pexels | man measuring using a ruler | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-measuring-using-a-ruler-6614781/ |
+| pexels | close up of drawing with pencil | victor díaz | Pexels License | https://www.pexels.com/video/close-up-of-drawing-with-pencil-13593921/ |
+| pexels | close up video of floor plans | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/close-up-video-of-floor-plans-6281081/ |
+| pixabay | child  drawing  kid  pencil | Bairyna | Pixabay Content License | https://pixabay.com/videos/id-86242/ |
+| pixabay | countdown  digital  timer  clock  numbers  digit  alarm  tim | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-31098/ |
+| pixabay | pencil  drawing  girl  figure  cute  childhood  creativity   | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-62524/ |
+| pixabay | sketch  draw  pencil  drawing  design  hand  paper  creative | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-10824/ |
+| pixabay | timer  clock  alarm  ticking  countdown  digital  numbers  d | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-43613/ |
+| pixabay | whiteboard  sketching  planning  drawing  sketch  board  bus | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3161/ |
+| pixabay | israel  jerusalem  western wall  wailing wall  wall  religio | 2427999 | Pixabay Content License | https://pixabay.com/videos/id-15230/ |
+| pixabay | counter  numbers  one to ten  1 to 10  time  progress  passi | JCI-21 | Pixabay Content License | https://pixabay.com/videos/id-124746/ |
