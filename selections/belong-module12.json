@@ -96,7 +96,9 @@
       "note": "",
       "reason": "direction",
       "avoid": [],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-09-10T11:34:20Z",
+      "added": 22
     }
   }
 }

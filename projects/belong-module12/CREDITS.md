@@ -194,3 +194,25 @@
 | pixabay | yawn  woman  relax  back  shoulder  ache  pain  disease  bon | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-45286/ |
 | pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
 | pixabay | zombie  hand  graveyard  halloween | 11455326 | Pixabay Content License | https://pixabay.com/videos/id-138931/ |
+| pexels | close up video of fork and knives on a box | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/close-up-video-of-fork-and-knives-on-a-box-7123322/ |
+| pexels | spoon and fork silverwares in close up view | Hoang Nguyen | Pexels License | https://www.pexels.com/video/spoon-and-fork-silverwares-in-close-up-view-4751314/ |
+| pexels | fork and knife on table | Monstera Production | Pexels License | https://www.pexels.com/video/fork-and-knife-on-table-5900580/ |
+| pexels | close up shot of utensils | Tim Douglas | Pexels License | https://www.pexels.com/video/close-up-shot-of-utensils-6205805/ |
+| pexels | female hands decorating thanksgiving table | RDNE Stock project | Pexels License | https://www.pexels.com/video/female-hands-decorating-thanksgiving-table-5848302/ |
+| pexels | a restaurant or other place to eat at the hotel | Ammad Rasool | Pexels License | https://www.pexels.com/video/a-restaurant-or-other-place-to-eat-at-the-hotel-20697248/ |
+| pexels | person putting plate on a wooden table | Monstera Production | Pexels License | https://www.pexels.com/video/person-putting-plate-on-a-wooden-table-5899694/ |
+| pexels | a table set for two with wine and food | Ron Lach | Pexels License | https://www.pexels.com/video/a-table-set-for-two-with-wine-and-food-9579390/ |
+| pexels | a person mixing paint using knife | Thirdman | Pexels License | https://www.pexels.com/video/a-person-mixing-paint-using-knife-6731286/ |
+| pexels | woman applying oil on her hands | KoolShooters | Pexels License | https://www.pexels.com/video/woman-applying-oil-on-her-hands-6628409/ |
+| pexels | person opening and closing the door | Nazar Matveichev | Pexels License | https://www.pexels.com/video/person-opening-and-closing-the-door-2108274/ |
+| pexels | person cleaning a spray gun | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/person-cleaning-a-spray-gun-8470704/ |
+| pexels | applying massage oil on both hands | KoolShooters | Pexels License | https://www.pexels.com/video/applying-massage-oil-on-both-hands-6628407/ |
+| pexels | rustic barn winter scene with wooden door | Salih Sezgen | Pexels License | https://www.pexels.com/video/rustic-barn-winter-scene-with-wooden-door-31340418/ |
+| pixabay | door  squeak  door opening | tv84 | Pixabay Content License | https://pixabay.com/videos/id-6714/ |
+| pixabay | olive oil  kitchen  salt  oil  olive  health | danielcuzma | Pixabay Content License | https://pixabay.com/videos/id-143799/ |
+| pixabay | ironing  iron  ironing clothes  clothes  housework  clothing | jaumeps99 | Pixabay Content License | https://pixabay.com/videos/id-34772/ |
+| pixabay | scrambled eggs  plate  cucumbers  food  fork  breakfast  nut | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4972/ |
+| pixabay | hand washing  washing  hand  hygiene  soap  bathroom | mrbobdobolina | Pixabay Content License | https://pixabay.com/videos/id-51807/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | drag lift  lift  to ski  ironing lift  winter fun  winter sp | Hans | Pixabay Content License | https://pixabay.com/videos/id-13444/ |
+| pixabay | antique book  book opening  book scrolling  books  candlelig | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-111280/ |
