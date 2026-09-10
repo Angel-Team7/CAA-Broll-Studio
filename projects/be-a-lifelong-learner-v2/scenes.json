@@ -8358,8 +8358,8 @@
      "shoot": "pexels-skyline-sunset",
      "score": 2.65,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pexels_34535506_builder-gazing-at-the-horizon",
@@ -8390,8 +8390,8 @@
      "shoot": "pexels-yard-sunrise",
      "score": 2.0,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 9,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "pexels_6474251_builder-standing-proud-site",
@@ -8412,8 +8412,8 @@
      "shoot": "pexels-portrait-hardhat",
      "score": 2.35,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 7,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "pexels_8487126_worker-gazing-over-site",
@@ -8434,7 +8434,7 @@
      "shoot": "pexels-wiring-point",
      "score": 4.05,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 2,
+     "rank": 9,
      "shown": true
     },
     {
@@ -8456,7 +8456,7 @@
      "shoot": "pexels-rooftop-solar",
      "score": 1.65,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 12,
+     "rank": 24,
      "shown": false
     },
     {
@@ -8478,7 +8478,7 @@
      "shoot": "pexels-crane-structure-gaze",
      "score": 4.3,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 1,
+     "rank": 8,
      "shown": true
     },
     {
@@ -8500,8 +8500,8 @@
      "shoot": "pixabay-frost-sunrise",
      "score": 3.4,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 4,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pixabay_275983_builder-gazing-at-the-horizon",
@@ -8522,8 +8522,8 @@
      "shoot": "pixabay-shrine-ocean",
      "score": 1.7,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 10,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "pixabay_342533_construction-worker-sunrise-silh",
@@ -8544,8 +8544,8 @@
      "shoot": "pixabay-beam-handshake",
      "score": 3.65,
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 3,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "openverse_2f0c3e14-39f2-4f79-9c30-97b1_construction-worker-sunrise-silh",
@@ -8643,8 +8643,8 @@
      "shot": "",
      "shoot": "v00-rebar-tying",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 8,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V01",
@@ -8672,7 +8672,7 @@
      "shot": "",
      "shoot": "v01-aerial-towers",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 16,
+     "rank": 31,
      "shown": false
     },
     {
@@ -8701,7 +8701,7 @@
      "shot": "",
      "shoot": "v02-excavator-gravel",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 17,
+     "rank": 32,
      "shown": false
     },
     {
@@ -8730,8 +8730,8 @@
      "shot": "",
      "shoot": "v03-jigsaw-hands",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 5,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V04",
@@ -8759,7 +8759,7 @@
      "shot": "",
      "shoot": "v04-equipment-operator",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 13,
+     "rank": 25,
      "shown": false
     },
     {
@@ -8788,7 +8788,7 @@
      "shot": "",
      "shoot": "v05-aerial-rooftop",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 14,
+     "rank": 28,
      "shown": false
     },
     {
@@ -8817,7 +8817,7 @@
      "shot": "",
      "shoot": "v06-scaffold-warehouse",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 11,
+     "rank": 23,
      "shown": false
     },
     {
@@ -8846,7 +8846,7 @@
      "shot": "",
      "shoot": "v07-aerial-red-crane",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 18,
+     "rank": 33,
      "shown": false
     },
     {
@@ -8875,7 +8875,7 @@
      "shot": "",
      "shoot": "v08-aerial-gravel-lot",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 19,
+     "rank": 34,
      "shown": false
     },
     {
@@ -8904,7 +8904,7 @@
      "shot": "",
      "shoot": "v09-tower-scaffold",
      "judged_at": "2026-09-09T18:47:40Z",
-     "rank": 15,
+     "rank": 30,
      "shown": false
     },
     {
@@ -8919,15 +8919,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S13__strip__be-a-lifelong-learner-v2-S13-V10.strip.jpg",
      "title": "stylish man looking at camera",
      "query": "calm hopeful face warm light close",
-     "shot": "C",
+     "shot": "",
      "duration": 22,
      "src_id": "8087778",
      "download_url": "https://videos.pexels.com/video-files/8087778/8087778-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "an older man's face looks troubled in warm indoor light",
+     "violation": "",
+     "shoot": "pexels-elderly-man-face-indoor",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 15
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V11",
@@ -8948,8 +8956,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a young man's face glows with a gentle hopeful smile",
+     "violation": "",
+     "shoot": "pexels-young-man-face-window-light",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 3
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V12",
@@ -8970,8 +8986,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "an extreme close-up of a woman's face outdoors in sunlight",
+     "violation": "",
+     "shoot": "pexels-woman-face-extreme-closeup-outdoor",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 10
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V13",
@@ -8992,8 +9016,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a woman's portrait against a warm evening sky",
+     "violation": "",
+     "shoot": "pexels-blonde-woman-sky-portrait",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 7
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V14",
@@ -9014,8 +9046,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "an older woman's face breaks into a warm smile outdoors",
+     "violation": "",
+     "shoot": "pexels-older-woman-smile-outdoor",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 1
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V15",
@@ -9029,15 +9069,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S13__strip__be-a-lifelong-learner-v2-S13-V15.strip.jpg",
      "title": "close up video of a woman face",
      "query": "calm hopeful face warm light close",
-     "shot": "C",
+     "shot": "",
      "duration": 34,
      "src_id": "8296917",
      "download_url": "https://videos.pexels.com/video-files/8296917/8296917-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a blurred, foggy close-up of a face through glass",
+     "violation": "",
+     "shoot": "pexels-blurry-foggy-face",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 26
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V16",
@@ -9058,8 +9106,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a young man smiles warmly against an orange backdrop",
+     "violation": "",
+     "shoot": "pexels-man-smile-orange-backdrop",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 13
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V17",
@@ -9073,15 +9129,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S13__strip__be-a-lifelong-learner-v2-S13-V17.strip.jpg",
      "title": "close up video of a girl s face",
      "query": "calm hopeful face warm light close",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "7494694",
      "download_url": "https://videos.pexels.com/video-files/7494694/7494694-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a young girl's face is lit warmly indoors",
+     "violation": "",
+     "shoot": "pexels-girl-face-indoor-lamp",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 27
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V18",
@@ -9095,15 +9159,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S13__strip__be-a-lifelong-learner-v2-S13-V18.strip.jpg",
      "title": "extreme close up shot of a woman",
      "query": "calm hopeful face warm light close",
-     "shot": "C",
+     "shot": "",
      "duration": 32,
      "src_id": "10272635",
      "download_url": "https://videos.pexels.com/video-files/10272635/10272635-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:00:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "an extreme close-up of an eye and eyebrow",
+     "violation": "",
+     "shoot": "pexels-eye-eyebrow-extreme-closeup",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 18
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V19",
@@ -9124,8 +9196,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a woman's profile is backlit by sunlight through trees",
+     "violation": "",
+     "shoot": "pexels-woman-profile-backlit-trees",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 4
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V20",
@@ -9146,8 +9226,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man carries a toolbox walking from a garage past plants",
+     "violation": "",
+     "shoot": "pexels-man-garage-toolbox-walk",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 5
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V21",
@@ -9168,8 +9256,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a distant figure walks up a paved path on a green hill",
+     "violation": "",
+     "shoot": "pexels-distant-figure-road-hill",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 2
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V22",
@@ -9190,8 +9286,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a lone figure with an umbrella walks across a grassy hill",
+     "violation": "",
+     "shoot": "pexels-umbrella-figure-hill-rain",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 16
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V23",
@@ -9205,15 +9309,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S13__strip__be-a-lifelong-learner-v2-S13-V23.strip.jpg",
      "title": "workers repair sleepers at a railroad crossing",
      "query": "worker walking uphill path tools morning",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "19478306",
      "download_url": "https://videos.pexels.com/video-files/19478306/19478306-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "workers in hi-vis repair a railroad crossing near traffic",
+     "violation": "hi-vis crowd / wrong world",
+     "shoot": "pexels-railway-workers-hivis",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 29
     },
     {
      "id": "be-a-lifelong-learner-v2-S13-V24",
@@ -9234,8 +9346,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:01:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a misty tree-lined avenue stretches into the morning fog",
+     "violation": "",
+     "shoot": "pixabay-foggy-tree-avenue",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:12:04Z",
+     "rank": 6
     }
    ],
    "shots": [
@@ -9268,11 +9388,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T18:47:40Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:12:04Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:47:40Z"
+   "judged_at": "2026-09-10T09:12:04Z"
   },
   {
    "id": "S14",
