@@ -6415,7 +6415,7 @@
      "shoot": "pexels-bmx-dark-tricks",
      "score": 0.0,
      "judged_at": "2026-09-10T09:38:32Z",
-     "rank": 22
+     "rank": 24
     },
     {
      "id": "benchmark-excellence-v2-S13-V04",
@@ -6835,7 +6835,7 @@
      "shoot": "pixabay-greenscreen-counter",
      "score": 0.0,
      "judged_at": "2026-09-10T09:38:32Z",
-     "rank": 23
+     "rank": 25
     },
     {
      "id": "benchmark-excellence-v2-S13-V18",
@@ -6849,15 +6849,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__strip__benchmark-excellence-v2-S13-V18.strip.jpg",
      "title": "bike  bicycle  transport  travel  wheel  drive  trick  traffic  car  cycle  outdoor  fun  leisure  activity  sports  140593812",
      "query": "worker showing trick",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "911",
      "download_url": "https://cdn.pixabay.com/video/2015/10/08/911-141888473_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:48:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a cyclist does a wheelie trick on a paved path",
+     "violation": "",
+     "shoot": "pixabay-bmx-wheelie-trick",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:40:04Z",
+     "rank": 22
     },
     {
      "id": "benchmark-excellence-v2-S13-V19",
@@ -6871,15 +6879,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__strip__benchmark-excellence-v2-S13-V19.strip.jpg",
      "title": "walkway  city  roadside  road  street  urban  cars  passing by  town",
      "query": "hands passing tool",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "1639",
      "download_url": "https://cdn.pixabay.com/video/2015/12/11/1639-148614417_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:48:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "black and white footage of a city sidewalk with parked cars",
+     "violation": "",
+     "shoot": "pixabay-city-sidewalk-bw",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:40:04Z",
+     "rank": 26
     },
     {
      "id": "benchmark-excellence-v2-S13-V20",
@@ -6893,15 +6909,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__strip__benchmark-excellence-v2-S13-V20.strip.jpg",
      "title": "industry  factory  steel  iron  iron bars  workers  hard work  work  engineer  assembly  helmet  tool  hard",
      "query": "hands passing tool",
-     "shot": "C",
+     "shot": "",
      "duration": 48,
      "src_id": "40054",
      "download_url": "https://cdn.pixabay.com/video/2020/05/24/40054-424371552_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:48:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "workers move steel coils with cranes in a factory",
+     "violation": "factories",
+     "shoot": "pixabay-steel-factory-cranes",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:40:04Z",
+     "rank": 27
     },
     {
      "id": "benchmark-excellence-v2-S13-V21",
@@ -6915,15 +6939,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-benchmark-excellence-v2/S13__strip__benchmark-excellence-v2-S13-V21.strip.jpg",
      "title": "skateboarder  skateboard  skating  jump  trick  skateboarding  boy  man  sport  urban  city  cool",
      "query": "worker showing trick",
-     "shot": "B",
+     "shot": "",
      "duration": 9,
      "src_id": "37845",
      "download_url": "https://cdn.pixabay.com/video/2020/05/02/37845-415200790_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:48:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a skateboarder jumps a trick in a city plaza",
+     "violation": "",
+     "shoot": "pixabay-skateboard-plaza-trick",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:40:04Z",
+     "rank": 23
     }
    ],
    "shots": [
@@ -6956,7 +6988,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "judged_at": "2026-09-10T09:38:32Z"
+   "judged_at": "2026-09-10T09:40:04Z"
   },
   {
    "id": "S14",
