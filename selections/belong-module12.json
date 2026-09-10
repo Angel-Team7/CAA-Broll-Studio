@@ -1,6 +1,6 @@
 {
   "project": "belong-module12",
-  "updated": "2026-09-10T11:31:26.790Z",
+  "updated": "2026-09-10T11:31:29.342Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -32,7 +32,8 @@
     ]
   },
   "needs_broll": {
-    "S03": "generates more contextual videos"
+    "S03": "generates more contextual videos",
+    "S06": ""
   },
   "topup_requests": {
     "S03": {
@@ -89,6 +90,13 @@
       "reason": "stock_gap",
       "fulfilled": "2026-09-09T23:22:15Z",
       "added": 22
+    },
+    "S06": {
+      "requested": "2026-09-10T11:31:29.330Z",
+      "note": "",
+      "reason": "direction",
+      "avoid": [],
+      "done": false
     }
   }
 }
