@@ -8277,7 +8277,7 @@
      "shot": "D",
      "shoot": "pexels-microgreen-harvest",
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 1,
+     "rank": 8,
      "shown": true
     },
     {
@@ -8305,7 +8305,7 @@
      "shot": "A",
      "shoot": "pexels-seedling-hand",
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 2,
+     "rank": 10,
      "shown": true
     },
     {
@@ -8348,8 +8348,8 @@
      "shot": "D",
      "shoot": "pexels-field-harvest-hands",
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 3,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S10-V05",
@@ -8376,7 +8376,7 @@
      "shot": "",
      "shoot": "pixabay-ornate-courtyard",
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 13,
+     "rank": 33,
      "shown": false
     },
     {
@@ -8420,8 +8420,8 @@
      "shot": "D",
      "shoot": "pixabay-potting-flowers",
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 6,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m8-S10-I01",
@@ -8501,8 +8501,8 @@
      "shoot": "pexels-chef-plating-counter",
      "score": 4.35,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pexels_7244293_one-idea-many-places",
@@ -8523,8 +8523,8 @@
      "shoot": "pexels-diner-eating",
      "score": 2.4,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 9,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "pexels_4254313_one-idea-many-places",
@@ -8545,8 +8545,8 @@
      "shoot": "pexels-trendy-restaurant-setting",
      "score": 5.0,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 4,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "pexels_4254301_one-idea-many-places",
@@ -8567,8 +8567,8 @@
      "shoot": "pexels-trendy-restaurant-setting",
      "score": 2.7,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 8,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "pexels_4255439_one-idea-many-places",
@@ -8589,7 +8589,7 @@
      "shoot": "pexels-lounge-couple",
      "score": 1.4,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 11,
+     "rank": 30,
      "shown": false
     },
     {
@@ -8611,7 +8611,7 @@
      "shoot": "pexels-lounge-couple",
      "score": 1.4,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 12,
+     "rank": 31,
      "shown": false
     },
     {
@@ -8633,8 +8633,8 @@
      "shoot": "pexels-lounge-couple",
      "score": 1.4,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 10,
-     "shown": true
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "pexels_4255438_one-idea-many-places",
@@ -8655,8 +8655,8 @@
      "shoot": "pexels-lounge-couple",
      "score": 3.7,
      "judged_at": "2026-09-09T17:11:57Z",
-     "rank": 7,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-module8-S10-V08",
@@ -8677,8 +8677,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:19:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a farmer waters vegetable rows in a sunny field",
+     "violation": "",
+     "shoot": "pexels-farmer-watering-solo",
+     "score": 8.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S10-V09",
@@ -8699,8 +8707,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:19:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a farmer tends a lush cabbage field with yellow flowers",
+     "violation": "",
+     "shoot": "pexels-farmer-cabbagefield",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S10-V10",
@@ -8721,8 +8737,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:19:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a dim aerial view of a tilled field with distant workers",
+     "violation": "",
+     "shoot": "pexels-aerial-tilledfield",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 24
     },
     {
      "id": "belong-module8-S10-V11",
@@ -8743,8 +8767,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a worker picks tea leaves near an industrial building",
+     "violation": "",
+     "shoot": "pexels-teafield-worker",
+     "score": 2.65,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 26
     },
     {
      "id": "belong-module8-S10-V12",
@@ -8765,8 +8797,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "workers in conical hats fill baskets under a farm tarp",
+     "violation": "",
+     "shoot": "pexels-karst-basketharvest",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 19
     },
     {
      "id": "belong-module8-S10-V13",
@@ -8787,8 +8827,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a farmer tends a lush cabbage field with yellow flowers",
+     "violation": "",
+     "shoot": "pexels-farmer-cabbagefield",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 4
     },
     {
      "id": "belong-module8-S10-V14",
@@ -8809,8 +8857,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hazy wide view of workers tending a green cabbage field",
+     "violation": "",
+     "shoot": "pexels-hazy-cabbagewide",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 14
     },
     {
      "id": "belong-module8-S10-V15",
@@ -8831,8 +8887,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two people harvest greens in a large commercial field",
+     "violation": "",
+     "shoot": "pexels-largefield-harvest",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S10-V16",
@@ -8853,8 +8917,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a wooden crate holds an assortment of small pumpkins",
+     "violation": "",
+     "shoot": "pexels-crate-pumpkins",
+     "score": 5.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S10-V17",
@@ -8875,8 +8947,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands gather freshly pulled carrots into a cloth bag",
+     "violation": "",
+     "shoot": "pexels-hands-carrotbag",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 5
     },
     {
      "id": "belong-module8-S10-V18",
@@ -8890,15 +8970,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V18.strip.jpg",
      "title": "vegan food being placed on table",
      "query": "hands placing vegetables in crate",
-     "shot": "D",
+     "shot": "C",
      "duration": 10,
      "src_id": "6328269",
      "download_url": "https://videos.pexels.com/video-files/6328269/6328269-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a hand sets a plated dish onto a marble restaurant table",
+     "violation": "",
+     "shoot": "pexels-hand-tableplating",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 20
     },
     {
      "id": "belong-module8-S10-V19",
@@ -8919,8 +9007,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:20:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands pull red lettuce from the garden soil",
+     "violation": "",
+     "shoot": "pexels-hands-lettucepull",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 6
     },
     {
      "id": "belong-module8-S10-V20",
@@ -8941,8 +9037,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "two hands hold a small wooden crate of garden vegetables",
+     "violation": "",
+     "shoot": "pexels-hands-woodencrate",
+     "score": 7.65,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S10-V21",
@@ -8963,8 +9067,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand arranges fresh vegetables on a wooden countertop",
+     "violation": "",
+     "shoot": "pexels-hand-countertopveg",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 7
     },
     {
      "id": "belong-module8-S10-V22",
@@ -8978,15 +9090,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V22.strip.jpg",
      "title": "chop  vegetables  food  cooking  kitchen  meal  dinner  healthy  cuisine  chopping  vegetarian  preparation  knife  fresh  cutting  meat  cook  board  recipe  diet  nutrition  table  pepper  restaurant  ingredient  eating  rustic  woman  green",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "D",
      "duration": 60,
      "src_id": "11638",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11638-231758689_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands chop assorted vegetables on a wooden cutting board",
+     "violation": "",
+     "shoot": "pixabay-chop-vegetables",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 16
     },
     {
      "id": "belong-module8-S10-V23",
@@ -9007,8 +9127,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a close-up cluster of decorative gourds and pumpkins",
+     "violation": "",
+     "shoot": "pixabay-gourds-closeup",
+     "score": 3.7,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 21
     },
     {
      "id": "belong-module8-S10-V24",
@@ -9029,8 +9157,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand reaches for ripe tomatoes on the vine",
+     "violation": "",
+     "shoot": "pixabay-hand-tomatovine",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 12
     },
     {
      "id": "belong-module8-S10-V25",
@@ -9044,15 +9180,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V25.strip.jpg",
      "title": "mixing  sauce  food  plate  meal  mixed  dish  gourmet  dinner  cuisine  lunch  healthy  spicy  mix  vegetable  chinese  delicious  restaurant  hot  fresh  table  tasty  wooden  bowl  vegetarian  red  chili  oil  seasoning  cooking  culture",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "",
      "duration": 52,
      "src_id": "11640",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11640-231758701_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand pours ingredients into a dark mortar bowl",
+     "violation": "",
+     "shoot": "pixabay-hand-mortarpour",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 28
     },
     {
      "id": "belong-module8-S10-V26",
@@ -9066,15 +9210,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V26.strip.jpg",
      "title": "spicy  tofu  food  meal  cuisine  healthy  vegetable  restaurant  asian  traditional  cooking  delicious  dinner  dish  fresh  tasty  thai  chili  chinese  plate  fried  lunch  gourmet  white  minced  red  pepper  glass  organic  green  table",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "",
      "duration": 24,
      "src_id": "11672",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11672-231758827_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a plated tofu dish is garnished with a rose",
+     "violation": "",
+     "shoot": "pixabay-tofu-roseplate",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 32
     },
     {
      "id": "belong-module8-S10-V27",
@@ -9088,15 +9240,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V27.strip.jpg",
      "title": "slice  chinese  cabbage  food  cuisine  vegetable  healthy  meal  asian  dish  restaurant  delicious  meat  china  dinner  crispy  sweet  oriental  beijing  peking  herb  fried",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "D",
      "duration": 19,
      "src_id": "11610",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:21:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands shred a head of Chinese cabbage on a board",
+     "violation": "",
+     "shoot": "pixabay-cabbage-shredding",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 23
     },
     {
      "id": "belong-module8-S10-V28",
@@ -9110,15 +9270,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V28.strip.jpg",
      "title": "vietnamese  dumplings  food  meat  asian  dish  cuisine  chinese  dinner  rice  bowl  chopsticks  vegetable  bean  table  restaurant  oriental  plate  set  china  black  dim  above  assorted  dark  fry  noodles  party  salad  spring  wok  roll",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "",
      "duration": 28,
      "src_id": "11683",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11683-231758914_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:22:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "plated dumplings are garnished with small pink flowers",
+     "violation": "",
+     "shoot": "pixabay-dumplings-flowers",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 34
     },
     {
      "id": "belong-module8-S10-V29",
@@ -9132,15 +9300,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S10__strip__belong-module8-S10-V29.strip.jpg",
      "title": "chinese  hot pot  hot  pot  food  healthy  asian  meal  cooking  table  cuisine  green  soup  vegetable  traditional  bowl  restaurant  meat  cook  dinner  china  delicious  fresh  tofu  cup  beef  beverage  white  herbal  lunch",
      "query": "waiter setting table restaurant",
-     "shot": "C",
+     "shot": "",
      "duration": 24,
      "src_id": "11700",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11700-231758986_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:22:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a close-up of shrimp and tofu in a simmering hot pot",
+     "violation": "",
+     "shoot": "pixabay-hotpot-closeup",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:11:03Z",
+     "rank": 35
     }
    ],
    "shots": [
@@ -9180,12 +9356,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:11:57Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:11:57Z"
+   "judged_at": "2026-09-10T10:11:03Z"
   },
   {
    "id": "S11",
