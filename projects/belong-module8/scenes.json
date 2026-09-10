@@ -5571,8 +5571,8 @@
      "shot": "",
      "shoot": "pexels-outdoor-coworkers",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 5,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V02",
@@ -5613,8 +5613,8 @@
      "shot": "",
      "shoot": "pexels-students-papers",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 11,
-     "shown": true
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V04",
@@ -5640,8 +5640,8 @@
      "shot": "",
      "shoot": "pexels-outdoor-presentation",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 9,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V05",
@@ -5667,8 +5667,8 @@
      "shot": "",
      "shoot": "pixabay-meditation-hand",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 8,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V06",
@@ -5694,8 +5694,8 @@
      "shot": "",
      "shoot": "pixabay-forest-yoga",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 4,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "belong-m8-S08-V07",
@@ -5719,7 +5719,7 @@
      "shot": "B",
      "shoot": "pixabay-blurred-couple-restaurant",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 1,
+     "rank": 7,
      "shown": true
     },
     {
@@ -5800,7 +5800,7 @@
      "shot": "A",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 2,
+     "rank": 9,
      "shown": false
     },
     {
@@ -5829,8 +5829,8 @@
      "shot": "",
      "shoot": "pixabay-stadium",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 14,
-     "shown": true
+     "rank": 32,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V10",
@@ -5858,7 +5858,7 @@
      "shot": "A",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 3,
+     "rank": 10,
      "shown": false
     },
     {
@@ -5887,7 +5887,7 @@
      "shot": "",
      "shoot": "pixabay-network-graphic",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 15,
+     "rank": 34,
      "shown": false
     },
     {
@@ -5916,8 +5916,8 @@
      "shot": "",
      "shoot": "pexels-luxury-lobby-bellhop",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 12,
-     "shown": true
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V13",
@@ -5945,8 +5945,8 @@
      "shot": "",
      "shoot": "pixabay-kids-diner",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V14",
@@ -5974,7 +5974,7 @@
      "shot": "A",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 10,
+     "rank": 27,
      "shown": false
     },
     {
@@ -6003,8 +6003,8 @@
      "shot": "",
      "shoot": "pixabay-office-corridor",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 13,
-     "shown": true
+     "rank": 30,
+     "shown": false
     },
     {
      "id": "belong-module8-S08-V16",
@@ -6032,7 +6032,7 @@
      "shot": "A",
      "shoot": "pexels-hotel-reception-masks",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 7,
+     "rank": 19,
      "shown": false
     },
     {
@@ -6061,7 +6061,7 @@
      "shot": "",
      "shoot": "pixabay-elephants-desert",
      "judged_at": "2026-09-09T17:09:35Z",
-     "rank": 16,
+     "rank": 35,
      "shown": false
     },
     {
@@ -6076,15 +6076,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V18.strip.jpg",
      "title": "close up view of a person sketching on a paper",
      "query": "hand writing on napkin",
-     "shot": "D",
+     "shot": "A",
      "duration": 11,
      "src_id": "5966353",
      "download_url": "https://videos.pexels.com/video-files/5966353/5966353-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand marks a paper map on an outdoor wooden table",
+     "violation": "",
+     "shoot": "pexels-hand-mapoutdoor",
+     "score": 6.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S08-V20",
@@ -6105,8 +6113,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand writes notes in a spiral notebook",
+     "violation": "",
+     "shoot": "pexels-hand-notebook1",
+     "score": 2.7,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 8
     },
     {
      "id": "belong-module8-S08-V21",
@@ -6127,8 +6143,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand writes with a pen on a desk notepad",
+     "violation": "",
+     "shoot": "pexels-hand-desknote",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 12
     },
     {
      "id": "belong-module8-S08-V22",
@@ -6149,8 +6173,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand writes on lined paper against a blue backdrop",
+     "violation": "",
+     "shoot": "pexels-hand-linedpaper",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 24
     },
     {
      "id": "belong-module8-S08-V23",
@@ -6164,15 +6196,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V23.strip.jpg",
      "title": "person pointing services on a brochure using a pen",
      "query": "receptionist showing map to guest",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "6631696",
      "download_url": "https://videos.pexels.com/video-files/6631696/6631696-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a hand points a pen at services listed in a brochure",
+     "violation": "brochure racks",
+     "shoot": "pexels-brochure-pointing",
+     "score": 1.95,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 20
     },
     {
      "id": "belong-module8-S08-V24",
@@ -6186,15 +6226,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V24.strip.jpg",
      "title": "close up video of a person writing on a paper",
      "query": "hand writing on napkin",
-     "shot": "D",
+     "shot": "",
      "duration": 22,
      "src_id": "8125994",
      "download_url": "https://videos.pexels.com/video-files/8125994/8125994-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:14:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand writes with a pencil on a colorful chart",
+     "violation": "",
+     "shoot": "pexels-hand-chartwriting",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 26
     },
     {
      "id": "belong-module8-S08-V25",
@@ -6215,8 +6263,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "two hands point together at a route on a paper road map",
+     "violation": "",
+     "shoot": "pexels-hands-roadmap",
+     "score": 7.65,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S08-V26",
@@ -6237,8 +6293,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand writes on a small tag attached to a wrapped gift",
+     "violation": "",
+     "shoot": "pexels-hand-gifttag",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 4
     },
     {
      "id": "belong-module8-S08-V27",
@@ -6259,8 +6323,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand grips a pen writing in a notebook",
+     "violation": "",
+     "shoot": "pexels-hand-notebook2",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 13
     },
     {
      "id": "belong-module8-S08-V28",
@@ -6281,8 +6353,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a masked couple arrives at a hotel reception desk",
+     "violation": "face masks",
+     "shoot": "pexels-reception-maskedcouple",
+     "score": 2.6,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 11
     },
     {
      "id": "belong-module8-S08-V29",
@@ -6303,8 +6383,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a masked waiter takes an order from a seated couple",
+     "violation": "face masks",
+     "shoot": "pexels-waiter-maskedorder",
+     "score": 1.95,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 21
     },
     {
      "id": "belong-module8-S08-V30",
@@ -6325,8 +6413,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a hostess brings flowers to a couple at a trendy bar table",
+     "violation": "",
+     "shoot": "pexels-bar-hostessflowers",
+     "score": 2.0,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 18
     },
     {
      "id": "belong-module8-S08-V31",
@@ -6347,8 +6443,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a host leans in to seat a couple at a restaurant table",
+     "violation": "",
+     "shoot": "pexels-host-seatingcouple",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S08-V32",
@@ -6362,15 +6466,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V32.strip.jpg",
      "title": "couple  lovers  hands  love  street  walking",
      "query": "waiter couple recommendation dinner",
-     "shot": "B",
+     "shot": "",
      "duration": 27,
      "src_id": "152798",
      "download_url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a couple holds hands walking a street at sunset",
+     "violation": "",
+     "shoot": "pixabay-couple-handssunset",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 25
     },
     {
      "id": "belong-module8-S08-V33",
@@ -6384,15 +6496,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V33.strip.jpg",
      "title": "couple  lovers  romance  love  valentine's day  joy  hug",
      "query": "waiter couple recommendation dinner",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "148598",
      "download_url": "https://cdn.pixabay.com/video/2023/01/30/148598-794221563_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a couple embraces joyfully in a sunlit plaza",
+     "violation": "",
+     "shoot": "pixabay-couple-plazahug",
+     "score": 0.7,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 31
     },
     {
      "id": "belong-module8-S08-V34",
@@ -6406,15 +6526,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V34.strip.jpg",
      "title": "couple  love  lovers  together  relationship  romance  romantic",
      "query": "waiter couple recommendation dinner",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "245932",
      "download_url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:15:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a couple in glossy formalwear stands back to camera in studio",
+     "violation": "",
+     "shoot": "pixabay-couple-studioback",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 33
     },
     {
      "id": "belong-module8-S08-V35",
@@ -6428,15 +6556,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V35.strip.jpg",
      "title": "love  couple  park  old  care  friends  people",
      "query": "waiter couple recommendation dinner",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "151194",
      "download_url": "https://cdn.pixabay.com/video/2023/02/18/151194-800210466_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:16:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 6,
+     "caption": "an older couple embraces tenderly outdoors in nature",
+     "violation": "",
+     "shoot": "pixabay-oldercouple-nature",
+     "score": 2.75,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 6
     },
     {
      "id": "belong-module8-S08-V36",
@@ -6457,8 +6593,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:16:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "blurred diners talk at a candlelit restaurant table",
+     "violation": "",
+     "shoot": "pixabay-restaurant-blurbg",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 5
     },
     {
      "id": "belong-module8-S08-V37",
@@ -6479,8 +6623,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:16:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a dim close-up of an old paper map",
+     "violation": "",
+     "shoot": "pixabay-map-dimcloseup",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 14
     },
     {
      "id": "belong-module8-S08-V38",
@@ -6494,15 +6646,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V38.strip.jpg",
      "title": "boss  employee  talking  angry  argument",
      "query": "staff guest talking outdoor",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "202135",
      "download_url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:16:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man scolds a seated woman in an office argument",
+     "violation": "",
+     "shoot": "pixabay-office-argument",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 36
     },
     {
      "id": "belong-module8-S08-V39",
@@ -6516,15 +6676,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S08__strip__belong-module8-S08-V39.strip.jpg",
      "title": "earth  animation  revolution  planet  world  globe  space  map of the world  africa  europe  a day  rendering  3d  3d model",
      "query": "reception map guest directions",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "4788",
      "download_url": "https://cdn.pixabay.com/video/2016/08/24/4788-180289892_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:16:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated globe of earth spins in black space",
+     "violation": "",
+     "shoot": "pixabay-earth-animation",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:09:54Z",
+     "rank": 37
     }
    ],
    "shots": [
@@ -6565,11 +6733,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:09:35Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T10:09:54Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:09:35Z"
+   "judged_at": "2026-09-10T10:09:54Z"
   },
   {
    "id": "S09",
