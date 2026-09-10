@@ -7796,8 +7796,8 @@
      "shot": "",
      "shoot": "pexels-construction-pavers",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 2,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S09-V02",
@@ -7827,7 +7827,7 @@
      "shot": "",
      "shoot": "pexels-steelframe-site",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 4,
+     "rank": 17,
      "shown": false
     },
     {
@@ -7876,7 +7876,7 @@
      "shot": "",
      "shoot": "pexels-aerial-construction",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 5,
+     "rank": 19,
      "shown": false
     },
     {
@@ -7906,7 +7906,7 @@
      "shot": "",
      "shoot": "pexels-aerial-construction",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 6,
+     "rank": 20,
      "shown": false
     },
     {
@@ -7936,7 +7936,7 @@
      "shot": "",
      "shoot": "pixabay-wheelbarrow-worker",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 1,
+     "rank": 7,
      "shown": true
     },
     {
@@ -7964,7 +7964,7 @@
      "shot": "",
      "shoot": "pexels-editorial-group",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 7,
+     "rank": 21,
      "shown": false
     },
     {
@@ -7992,7 +7992,7 @@
      "shot": "",
      "shoot": "pexels-editorial-couple",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 8,
+     "rank": 22,
      "shown": false
     },
     {
@@ -8019,7 +8019,7 @@
      "shot": "",
      "shoot": "pexels-neon-fashion",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 9,
+     "rank": 23,
      "shown": false
     },
     {
@@ -8047,8 +8047,8 @@
      "shot": "",
      "shoot": "pexels-hillside-couple",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 3,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S09-V12",
@@ -8076,7 +8076,7 @@
      "shot": "",
      "shoot": "pexels-beauty-portrait",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 10,
+     "rank": 24,
      "shown": false
     },
     {
@@ -8106,7 +8106,7 @@
      "shot": "",
      "shoot": "pexels-beauty-portrait",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -8134,7 +8134,7 @@
      "shot": "",
      "shoot": "pexels-moody-portrait",
      "judged_at": "2026-09-09T19:56:15Z",
-     "rank": 12,
+     "rank": 26,
      "shown": false
     },
     {
@@ -8250,8 +8250,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a close-up of a hoe striking dark garden soil",
+     "violation": "",
+     "shoot": "pexels-hoe-soil-macro",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S09-V16",
@@ -8272,8 +8280,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand ties a string to a stake for a newly planted sapling",
+     "violation": "",
+     "shoot": "pexels-stake-sapling-tie",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 4
     },
     {
      "id": "edenrise-gratitude-S09-V17",
@@ -8294,8 +8310,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "an elderly man plants seedlings in a raised garden bed by a fence",
+     "violation": "",
+     "shoot": "pexels-elder-raisedbed-planting",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S09-V18",
@@ -8316,8 +8340,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand uses a clamp tool on a riveted metal panel",
+     "violation": "",
+     "shoot": "pexels-clamp-metal-panel",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 13
     },
     {
      "id": "edenrise-gratitude-S09-V19",
@@ -8331,15 +8363,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V19.strip.jpg",
      "title": "artisan craftsmanship of traditional handicrafts",
      "query": "hand on well made wooden gate close",
-     "shot": "B",
+     "shot": "",
      "duration": 38,
      "src_id": "34111304",
      "download_url": "https://videos.pexels.com/video-files/34111304/14466622_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "hands work leather with a tool and red cord",
+     "violation": "",
+     "shoot": "pexels-leather-craft-cord",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 14
     },
     {
      "id": "edenrise-gratitude-S09-V20",
@@ -8353,15 +8393,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V20.strip.jpg",
      "title": "a leatherworker using a tool to putting a hole on a belt",
      "query": "hand on well made wooden gate close",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "6654781",
      "download_url": "https://videos.pexels.com/video-files/6654781/6654781-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a leatherworker punches a hole in a belt",
+     "violation": "",
+     "shoot": "pexels-leather-hole-punch",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 16
     },
     {
      "id": "edenrise-gratitude-S09-V21",
@@ -8382,8 +8430,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two people measure and mark a soil bed with a tape measure",
+     "violation": "",
+     "shoot": "pexels-bed-measure-mark",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 5
     },
     {
      "id": "edenrise-gratitude-S09-V22",
@@ -8404,8 +8460,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man waters rows of lettuce in a netted garden bed",
+     "violation": "",
+     "shoot": "pexels-lettuce-rows-watering",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S09-V23",
@@ -8419,15 +8483,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V23.strip.jpg",
      "title": "vibrant spring tulips and daffodils in bloom",
      "query": "gardener planning next bed with stake",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "38605615",
      "download_url": "https://videos.pexels.com/video-files/38605615/16396351_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "pink tulips and yellow daffodils bloom by a fence",
+     "violation": "flowers-only",
+     "shoot": "pexels-tulips-daffodils-fence",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 27
     },
     {
      "id": "edenrise-gratitude-S09-V24",
@@ -8448,8 +8520,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:13:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a woman poses in an ornate arched doorway with a carved wooden door",
+     "violation": "",
+     "shoot": "pexels-ornate-door-doorway",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 10
     },
     {
      "id": "edenrise-gratitude-S09-V25",
@@ -8463,15 +8543,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V25.strip.jpg",
      "title": "person holding cup on railing",
      "query": "hand on well made wooden gate close",
-     "shot": "B",
+     "shot": "C",
      "duration": 14,
      "src_id": "7118147",
      "download_url": "https://videos.pexels.com/video-files/7118147/7118147-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a hand holds a small cup on a terrace railing",
+     "violation": "",
+     "shoot": "pexels-cup-terrace-railing",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 11
     },
     {
      "id": "edenrise-gratitude-S09-V26",
@@ -8492,8 +8580,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a couple hammers a stake into the ground for tree planting",
+     "violation": "",
+     "shoot": "pexels-couple-stake-hammer",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S09-V27",
@@ -8514,8 +8610,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "gloved hands weed and tend a mulched garden bed",
+     "violation": "",
+     "shoot": "pexels-gloved-weeding-mulch",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S09-V28",
@@ -8536,8 +8640,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "two people tend plants with small tools in a mulched bed",
+     "violation": "",
+     "shoot": "pexels-pair-mulchbed-tools",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 6
     },
     {
      "id": "edenrise-gratitude-S09-V29",
@@ -8551,15 +8663,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V29.strip.jpg",
      "title": "woman  wake-up  morning  bed  smile  cute",
      "query": "gardener stake planning bed",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "151297",
      "download_url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a woman wakes and stretches in bed near houseplants",
+     "violation": "",
+     "shoot": "pixabay-woman-wake-stretch-plants",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 18
     },
     {
      "id": "edenrise-gratitude-S09-V30",
@@ -8573,15 +8693,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V30.strip.jpg",
      "title": "astronaut  space  land  stars  universe",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "213648",
      "download_url": "https://cdn.pixabay.com/video/2024/05/25/213648_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI astronaut floats above earth in space",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-astronaut-space",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 28
     },
     {
      "id": "edenrise-gratitude-S09-V31",
@@ -8595,15 +8723,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V31.strip.jpg",
      "title": "tunnel  space  aliens  land  planet  ufo  extraterrestrial",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "192318",
      "download_url": "https://cdn.pixabay.com/video/2023/12/06/192318-892419032_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI spaceship interior view of earth ahead",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-spaceship-interior",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 29
     },
     {
      "id": "edenrise-gratitude-S09-V32",
@@ -8617,15 +8753,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V32.strip.jpg",
      "title": "planet  satellite  land  space",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "216981",
      "download_url": "https://cdn.pixabay.com/video/2024/06/16/216981_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI space station orbits above earth",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-spacestation-earth",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 30
     },
     {
      "id": "edenrise-gratitude-S09-V33",
@@ -8639,15 +8783,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V33.strip.jpg",
      "title": "voyager  probe  universe  galaxy  space  stars  astronomy  nasa  spaceship  3d  future  spacecraft  solar system  beyond  discovery",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "20042",
      "download_url": "https://cdn.pixabay.com/video/2018/12/15/20042-306716498_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI space probe passes a spiral galaxy",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-probe-galaxy",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 31
     },
     {
      "id": "edenrise-gratitude-S09-V34",
@@ -8661,15 +8813,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V34.strip.jpg",
      "title": "earth  moon  land  planet  space  universe  stars",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "232205",
      "download_url": "https://cdn.pixabay.com/video/2024/09/19/232205_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:14:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI view of earth and moon from space",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-earth-moon",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 32
     },
     {
      "id": "edenrise-gratitude-S09-V35",
@@ -8683,15 +8843,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V35.strip.jpg",
      "title": "land  planet  space  universe  astronomy  stars  moon",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "215598",
      "download_url": "https://cdn.pixabay.com/video/2024/06/06/215598_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:15:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI view of earth lit by a distant star flare",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-earth-starflare",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 33
     },
     {
      "id": "edenrise-gratitude-S09-V36",
@@ -8705,15 +8873,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S09__strip__edenrise-gratitude-S09-V36.strip.jpg",
      "title": "moon  sun  space  land  universe  stars  fantasy",
      "query": "terrace finished land beyond",
-     "shot": "C",
+     "shot": "",
      "duration": 24,
      "src_id": "232050",
      "download_url": "https://cdn.pixabay.com/video/2024/09/18/232050_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:15:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "CGI planets float in space beside a bright sun",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-planets-sun",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:54:33Z",
+     "rank": 34
     }
    ],
    "shots": [
@@ -8745,12 +8921,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T19:56:15Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:56:15Z"
+   "judged_at": "2026-09-10T09:54:33Z"
   },
   {
    "id": "S10",
