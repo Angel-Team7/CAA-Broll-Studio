@@ -4914,10 +4914,10 @@
   "reason": "cartoons, whiteboards"
  },
  "pixabay:60721": {
-  "at": "2026-09-10T09:14:53Z",
   "brand": "edenrise",
-  "from": "lesson-no-failure-feedback/S04",
-  "reason": "cartoons, abstract loops"
+  "reason": "graphic / not real footage",
+  "at": "2026-09-10T09:34:12Z",
+  "from": "lesson-above-below-line/S08"
  },
  "pixabay:61299": {
   "at": "2026-09-10T09:25:43Z",
@@ -6010,5 +6010,11 @@
   "reason": "office",
   "at": "2026-09-10T09:33:23Z",
   "from": "lesson-above-below-line/S05"
+ },
+ "pexels:13892558": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:34:12Z",
+  "from": "lesson-above-below-line/S08"
  }
 }
