@@ -826,7 +826,7 @@
      "shot": "",
      "shoot": "pixabay-shoreline-closeup",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 3,
+     "rank": 9,
      "shown": true
     },
     {
@@ -855,8 +855,8 @@
      "shot": "",
      "shoot": "pixabay-sunset-boat",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-V03",
@@ -883,8 +883,8 @@
      "shot": "A",
      "shoot": "pexels-cafe-tea-table",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 5,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-V04",
@@ -911,8 +911,8 @@
      "shot": "",
      "shoot": "pexels-lanterns-decor",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 9,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-V05",
@@ -939,8 +939,8 @@
      "shot": "",
      "shoot": "pixabay-turquoise-water-aerial",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 8,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-V06",
@@ -964,8 +964,8 @@
      "shot": "",
      "shoot": "pexels-modern-restaurant",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 10,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "belong-m8-S02-V07",
@@ -989,7 +989,7 @@
      "shot": "",
      "shoot": "pexels-poolside-drink",
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 12,
+     "rank": 20,
      "shown": false
     },
     {
@@ -1071,7 +1071,7 @@
      "shoot": "pixabay-surf-aerial",
      "score": 6.0,
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 2,
+     "rank": 8,
      "shown": true
     },
     {
@@ -1093,7 +1093,7 @@
      "shoot": "pixabay-surf-group-aerial",
      "score": 7.65,
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -1125,7 +1125,7 @@
      "shoot": "pixabay-alpine-cows",
      "score": 1.05,
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 11,
+     "rank": 19,
      "shown": false
     },
     {
@@ -1147,8 +1147,8 @@
      "shoot": "pixabay-sunset-boat",
      "score": 3.4,
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 7,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "pixabay_268562_golden-hour-beach-walk",
@@ -1169,7 +1169,7 @@
      "shoot": "pixabay-aerial-beach-topdown",
      "score": 4.05,
      "judged_at": "2026-09-09T17:03:30Z",
-     "rank": 4,
+     "rank": 10,
      "shown": true
     },
     {
@@ -1211,8 +1211,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a family sits and talks at a table strung with lights",
+     "violation": "",
+     "shoot": "pexels-family-dinner-treelit-backyard",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 6
     },
     {
      "id": "belong-module8-S02-V09",
@@ -1226,15 +1234,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S02__strip__belong-module8-S02-V09.strip.jpg",
      "title": "people playing table tennis",
      "query": "outdoor dinner string lights night",
-     "shot": "D",
+     "shot": "",
      "duration": 8,
      "src_id": "5592050",
      "download_url": "https://videos.pexels.com/video-files/5592050/5592050-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "people play table tennis at night under string lights",
+     "violation": "",
+     "shoot": "pexels-tabletennis-park-night",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 18
     },
     {
      "id": "belong-module8-S02-V10",
@@ -1255,8 +1271,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a family shares a backyard dinner under string lights",
+     "violation": "",
+     "shoot": "pexels-family-dinner-whitehouse-backyard",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 7
     },
     {
      "id": "belong-module8-S02-V11",
@@ -1277,8 +1301,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a family dines at a white-clothed table by a dark wood house",
+     "violation": "",
+     "shoot": "pexels-family-dinner-tablecloth-house",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S02-V12",
@@ -1292,15 +1324,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S02__strip__belong-module8-S02-V12.strip.jpg",
      "title": "friends walking outside",
      "query": "outdoor dinner string lights night",
-     "shot": "D",
+     "shot": "",
      "duration": 22,
      "src_id": "7645530",
      "download_url": "https://videos.pexels.com/video-files/7645530/7645530-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "friends walk through a lit night market street",
+     "violation": "",
+     "shoot": "pexels-friends-walking-nightmarket",
+     "score": 2.05,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S02-V13",
@@ -1321,8 +1361,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a family eats together at a candlelit outdoor table",
+     "violation": "",
+     "shoot": "pexels-family-dinner-tablecloth-house",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S02-V14",
@@ -1343,8 +1391,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "friends raise glasses in a toast at a farm table",
+     "violation": "",
+     "shoot": "pexels-family-toast-farmtable-candles",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S02-V15",
@@ -1365,8 +1421,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:07:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "friends clink glasses at a candlelit outdoor dinner",
+     "violation": "",
+     "shoot": "pexels-family-toast-farmtable-candles",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:15:45Z",
+     "rank": 4
     }
    ],
    "shots": [
@@ -1406,12 +1470,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T17:03:30Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:03:30Z"
+   "judged_at": "2026-09-10T09:15:45Z"
   },
   {
    "id": "S03",
