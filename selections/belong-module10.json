@@ -1,6 +1,6 @@
 {
   "project": "belong-module10",
-  "updated": "2026-08-17T11:45:43.997Z",
+  "updated": "2026-09-10T08:45:24.448Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -73,12 +73,9 @@
       "added": 22
     },
     "S01": {
-      "requested": "2026-09-09T21:22:54Z",
+      "requested": "2026-09-10T08:45:24.441Z",
       "note": "",
-      "done": true,
-      "reason": "stock_gap",
-      "fulfilled": "2026-09-09T22:30:44Z",
-      "added": 22
+      "done": false
     },
     "S11": {
       "requested": "2026-09-09T21:22:55Z",
