@@ -6114,22 +6114,22 @@
   "reason": "abstract graphic"
  },
  "pixabay:22190": {
-  "at": "2026-09-10T09:10:14Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S11",
-  "reason": "cartoon/whiteboard animation"
+  "reason": "cartoons",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  },
  "pixabay:22191": {
-  "at": "2026-09-10T09:10:14Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S11",
-  "reason": "cartoon/whiteboard animation"
+  "reason": "cartoons, laptops",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  },
  "pixabay:22192": {
-  "at": "2026-09-10T09:10:14Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S11",
-  "reason": "cartoon/whiteboard animation"
+  "reason": "cartoons, laptops",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  },
  "pixabay:22193": {
   "at": "2026-09-10T09:10:14Z",
@@ -6138,10 +6138,10 @@
   "reason": "cartoon/whiteboard animation"
  },
  "pixabay:22194": {
-  "at": "2026-09-10T09:10:14Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S11",
-  "reason": "cartoon/whiteboard animation"
+  "reason": "cartoons",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  },
  "pixabay:223170": {
   "at": "2026-09-10T09:22:46Z",
@@ -6726,10 +6726,10 @@
   "reason": "cartoons, abstract loops"
  },
  "pixabay:60113": {
-  "at": "2026-09-10T09:01:33Z",
   "brand": "edenrise",
-  "from": "be-a-lifelong-learner-v2/S01",
-  "reason": "cartoons, whiteboards"
+  "reason": "whiteboards, cartoons",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  },
  "pixabay:60721": {
   "at": "2026-09-10T09:14:53Z",
@@ -7483,8 +7483,20 @@
  },
  "pixabay:88231": {
   "brand": "edenrise",
-  "reason": "cartoons",
-  "at": "2026-09-10T10:22:08Z",
-  "from": "benchmark-excellence-v2/S15"
+  "reason": "cartoons, factories",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
+ },
+ "pexels:8482292": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
+ },
+ "pexels:8960784": {
+  "brand": "edenrise",
+  "reason": "suits",
+  "at": "2026-09-10T10:22:32Z",
+  "from": "communication-dont-assume-clarify-v2/S07"
  }
 }
