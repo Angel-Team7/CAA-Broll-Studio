@@ -5472,8 +5472,8 @@
      "shot": "",
      "shoot": "pixabay-wall-demolition",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 6,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V05",
@@ -5518,7 +5518,7 @@
      "shot": "",
      "shoot": "pixabay-garden-hose-watering",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 2,
+     "rank": 6,
      "shown": true
     },
     {
@@ -5543,7 +5543,7 @@
      "shot": "",
      "shoot": "pixabay-goldfish-pond",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 10,
+     "rank": 24,
      "shown": false
     },
     {
@@ -5630,8 +5630,8 @@
      "shot": "",
      "shoot": "pexels-excavator-fence",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 7,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V11",
@@ -5659,8 +5659,8 @@
      "shot": "",
      "shoot": "pixabay-cement-mixer-pour",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 3,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V12",
@@ -5688,7 +5688,7 @@
      "shot": "",
      "shoot": "pexels-protest-masks",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -5717,7 +5717,7 @@
      "shot": "",
      "shoot": "pexels-night-grinder-sparks",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 12,
+     "rank": 26,
      "shown": false
     },
     {
@@ -5746,8 +5746,8 @@
      "shot": "",
      "shoot": "pexels-hivis-netting",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 8,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V15",
@@ -5775,8 +5775,8 @@
      "shot": "",
      "shoot": "pixabay-workout-midriff",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 9,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V16",
@@ -5804,7 +5804,7 @@
      "shot": "A",
      "shoot": "pixabay-roadside-raking",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -5833,8 +5833,8 @@
      "shot": "",
      "shoot": "pixabay-cornfield-harvest",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V18",
@@ -5862,7 +5862,7 @@
      "shot": "",
      "shoot": "pexels-roadcrew-masks-dusk",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 13,
+     "rank": 27,
      "shown": false
     },
     {
@@ -5891,8 +5891,8 @@
      "shot": "",
      "shoot": "pixabay-woman-portrait-smile",
      "judged_at": "2026-09-09T19:37:19Z",
-     "rank": 5,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V20",
@@ -5913,8 +5913,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands sharpen a chisel on a grinding wheel",
+     "violation": "",
+     "shoot": "pexels-chisel-sharpening-closeup",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V21",
@@ -5928,15 +5936,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V21.strip.jpg",
      "title": "close up footage of a person adjusting the lens of a camera",
      "query": "worker adjusting technique checking edge",
-     "shot": "B",
+     "shot": "",
      "duration": 21,
      "src_id": "8089525",
      "download_url": "https://videos.pexels.com/video-files/8089525/8089525-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand adjusts the focus ring on a camera lens",
+     "violation": "",
+     "shoot": "pexels-camera-lens-adjust",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V22",
@@ -5957,8 +5973,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:28:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a gloved hand checks alignment with a level ruler",
+     "violation": "",
+     "shoot": "pexels-level-ruler-glove-check",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V23",
@@ -5972,15 +5996,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V23.strip.jpg",
      "title": "a person getting a plastic container from the table",
      "query": "worker adjusting technique checking edge",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "8986481",
      "download_url": "https://videos.pexels.com/video-files/8986481/8986481-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a mechanic reaches for a container in a garage",
+     "violation": "",
+     "shoot": "pexels-garage-container-reach",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V24",
@@ -5994,15 +6026,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V24.strip.jpg",
      "title": "person industry metal plant",
      "query": "worker adjusting technique checking edge",
-     "shot": "B",
+     "shot": "",
      "duration": 27,
      "src_id": "5846671",
      "download_url": "https://videos.pexels.com/video-files/5846671/5846671-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker leans over machinery in an industrial plant",
+     "violation": "factories",
+     "shoot": "pexels-industrial-plant-worker",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V25",
@@ -6023,8 +6063,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a carpenter carefully clamps a wood plank at a workbench",
+     "violation": "",
+     "shoot": "pexels-carpenter-clamp-focus",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V26",
@@ -6038,15 +6086,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V26.strip.jpg",
      "title": "man looking a motor oil",
      "query": "worker adjusting technique checking edge",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "8986482",
      "download_url": "https://videos.pexels.com/video-files/8986482/8986482-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a mechanic checks motor oil in a garage",
+     "violation": "",
+     "shoot": "pexels-garage-oil-check",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V27",
@@ -6067,8 +6123,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a hand adjusts a spirit level on camera equipment",
+     "violation": "",
+     "shoot": "pexels-spirit-level-tripod",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V28",
@@ -6082,15 +6146,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V28.strip.jpg",
      "title": "a man checking the car engine",
      "query": "worker adjusting technique checking edge",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "8986890",
      "download_url": "https://videos.pexels.com/video-files/8986890/8986890-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a mechanic checks a car engine in a garage",
+     "violation": "",
+     "shoot": "pexels-garage-engine-check",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V29",
@@ -6111,8 +6183,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands closely check the surface of a wood plank",
+     "violation": "",
+     "shoot": "pexels-wood-surface-check-hands",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V30",
@@ -6133,8 +6213,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand rakes a small desktop zen garden",
+     "violation": "",
+     "shoot": "pexels-desktop-zen-garden-rake",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V31",
@@ -6155,8 +6243,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand arranges rocks in a small sand garden",
+     "violation": "",
+     "shoot": "pexels-desktop-zen-garden-rake",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V32",
@@ -6170,15 +6266,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V32.strip.jpg",
      "title": "a group of men working on a roof",
      "query": "worker raking path repetitive",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "16222744",
      "download_url": "https://videos.pexels.com/video-files/16222744/16222744-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:29:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two workers in yellow gear work on a sloped roof",
+     "violation": "",
+     "shoot": "pexels-sloped-roof-workers",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V33",
@@ -6199,8 +6303,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:30:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a distant figure bends over a grassy path among trees",
+     "violation": "",
+     "shoot": "pexels-countryside-path-distant",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V34",
@@ -6214,15 +6326,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-reactions/S06__strip__edenrise-c2-six-needs-reactions-S06-V34.strip.jpg",
      "title": "labyrinth  center  way out  seek  graphic  circles  meditation  path",
      "query": "raking path worker",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "8989",
      "download_url": "https://cdn.pixabay.com/video/2017/05/05/8989-216205165_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:30:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated spinning labyrinth graphic",
+     "violation": "abstract loops",
+     "shoot": "pixabay-labyrinth-graphic-spin",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 29
     },
     {
      "id": "edenrise-c2-six-needs-reactions-S06-V35",
@@ -6243,8 +6363,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:30:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a person walks along a gravel path between rows of trees",
+     "violation": "",
+     "shoot": "pixabay-orchard-path-walker",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:50:22Z",
+     "rank": 7
     }
    ],
    "timing_source": "estimated",
@@ -6279,12 +6407,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T19:37:19Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:37:19Z"
+   "judged_at": "2026-09-10T09:50:22Z"
   },
   {
    "id": "S07",
