@@ -3812,7 +3812,7 @@
      "shoot": "pexels-soloprep-kitchen",
      "score": 3.05,
      "judged_at": "2026-09-09T17:51:37Z",
-     "rank": 12,
+     "rank": 13,
      "shown": false
     },
     {
@@ -3885,7 +3885,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:17:41Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 5,
      "caption": "a hand rests on an older person's shoulder in an embrace",
@@ -3893,7 +3893,7 @@
      "shoot": "pexels-ronlach-embrace",
      "score": 3.05,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 11
+     "rank": 12
     },
     {
      "id": "belong-module12-S07-V02",
@@ -3937,7 +3937,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S07__strip__belong-module12-S07-V03.strip.jpg",
      "title": "a man fixing a watch while following the guide on the book",
      "query": "hands guiding hands close up",
-     "shot": "",
+     "shot": "C",
      "duration": 17,
      "src_id": "8322051",
      "download_url": "https://videos.pexels.com/video-files/8322051/8322051-hd_2048_1080_25fps.mp4",
@@ -3945,15 +3945,15 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:17:52Z",
      "judged": true,
-     "shown": false,
-     "relevance": 2,
+     "shown": true,
+     "relevance": 3,
      "brand_fit": 4,
-     "caption": "a hand repairs a watch while following notes in a book",
+     "caption": "a hand points to entries in an open ledger book on a wooden desk",
      "violation": "",
-     "shoot": "pexels-watch-repair-book-notes",
-     "score": 2.7,
-     "judged_at": "2026-09-10T09:33:36Z",
-     "rank": 13
+     "shoot": "pexels-watchrepair-ledger",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:34:20Z",
+     "rank": 11
     },
     {
      "id": "belong-module12-S07-V04",
@@ -4043,7 +4043,7 @@
      "shoot": "kaboompics-clap",
      "score": 1.05,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 16
+     "rank": 17
     },
     {
      "id": "belong-module12-S07-V07",
@@ -4073,7 +4073,7 @@
      "shoot": "pexels-roman-canister",
      "score": 1.05,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 17
+     "rank": 18
     },
     {
      "id": "belong-module12-S07-V08",
@@ -4103,7 +4103,7 @@
      "shoot": "pexels-mikhailnilov-braille",
      "score": 2.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 13
+     "rank": 14
     },
     {
      "id": "belong-module12-S07-V09",
@@ -4223,7 +4223,7 @@
      "shoot": "pexels-mikhailnilov-braille",
      "score": 2.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 14
+     "rank": 15
     },
     {
      "id": "belong-module12-S07-V13",
@@ -4253,7 +4253,7 @@
      "shoot": "pexels-utopia36-chainsaw",
      "score": 1.7,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 15
+     "rank": 16
     },
     {
      "id": "belong-module12-S07-V14",
@@ -4283,7 +4283,7 @@
      "shoot": "pixabay-stuck1-stretch",
      "score": 0.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 20
+     "rank": 21
     },
     {
      "id": "belong-module12-S07-V15",
@@ -4313,7 +4313,7 @@
      "shoot": "pixabay-marketingvm-cpr",
      "score": 0.0,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 24
+     "rank": 25
     },
     {
      "id": "belong-module12-S07-V16",
@@ -4343,7 +4343,7 @@
      "shoot": "pixabay-amornmimi-workout",
      "score": 0.7,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 18
+     "rank": 19
     },
     {
      "id": "belong-module12-S07-V17",
@@ -4373,7 +4373,7 @@
      "shoot": "pixabay-xatch-tennis",
      "score": 0.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 21
+     "rank": 22
     },
     {
      "id": "belong-module12-S07-V18",
@@ -4403,7 +4403,7 @@
      "shoot": "pixabay-fokusmedia-soccer",
      "score": 0.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 22
+     "rank": 23
     },
     {
      "id": "belong-module12-S07-V19",
@@ -4433,7 +4433,7 @@
      "shoot": "pixabay-patw64-cgi",
      "score": 0.0,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 25
+     "rank": 26
     },
     {
      "id": "belong-module12-S07-V20",
@@ -4463,7 +4463,7 @@
      "shoot": "pixabay-uixz8-boxing",
      "score": 0.35,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 23
+     "rank": 24
     },
     {
      "id": "belong-module12-S07-V21",
@@ -4493,7 +4493,7 @@
      "shoot": "pixabay-amornmimi-workout",
      "score": 0.7,
      "judged_at": "2026-09-10T09:31:24Z",
-     "rank": 19
+     "rank": 20
     }
    ],
    "timing_source": "unrecorded",
@@ -4534,7 +4534,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
-   "judged_at": "2026-09-10T09:31:24Z"
+   "judged_at": "2026-09-10T09:34:20Z"
   },
   {
    "id": "S08",
