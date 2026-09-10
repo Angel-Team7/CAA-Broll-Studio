@@ -54,8 +54,8 @@
      "shot": "",
      "shoot": "pexels-industrial-electronics-bench",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 10,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V03",
@@ -82,7 +82,7 @@
      "shot": "C",
      "shoot": "pexels-pegboard-tool-wall",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 5,
+     "rank": 10,
      "shown": false
     },
     {
@@ -110,7 +110,7 @@
      "shot": "",
      "shoot": "pexels-dim-electronics-workshop",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 9,
+     "rank": 23,
      "shown": false
     },
     {
@@ -138,7 +138,7 @@
      "shot": "C",
      "shoot": "pexels-handplane-shavings",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -165,7 +165,7 @@
      "shot": "B",
      "shoot": "pexels-bright-carpentry-studio",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 2,
+     "rank": 5,
      "shown": true
     },
     {
@@ -193,8 +193,8 @@
      "shot": "C",
      "shoot": "pixabay-hammer-nail-boards",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V15",
@@ -220,7 +220,7 @@
      "shot": "C",
      "shoot": "pexels-vintage-tool-bench",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -249,8 +249,8 @@
      "shot": "D",
      "shoot": "pexels-leather-craftsman-studio",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 7,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V17",
@@ -276,8 +276,8 @@
      "shot": "",
      "shoot": "pexels-circuitboard-wires",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 11,
-     "shown": true
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V20",
@@ -303,7 +303,7 @@
      "shot": "B",
      "shoot": "pexels-lightbulb-toolbox",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 4,
+     "rank": 8,
      "shown": true
     },
     {
@@ -331,8 +331,8 @@
      "shot": "",
      "shoot": "pexels-industrial-battery-bank",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 12,
-     "shown": true
+     "rank": 29,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-V22",
@@ -360,8 +360,8 @@
      "shot": "C",
      "shoot": "pexels-leather-craftsman-studio",
      "judged_at": "2026-09-09T17:48:20Z",
-     "rank": 8,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S01-I01",
@@ -462,8 +462,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:41:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a man walks alone across a stone courtyard toward a farmhouse",
+     "violation": "",
+     "shoot": "man-courtyard-walk",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-kaizen-S01-V24",
@@ -477,15 +485,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V24.strip.jpg",
      "title": "close up of shovel and worker outdoors",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "C",
      "duration": 10,
      "src_id": "38045743",
      "download_url": "https://videos.pexels.com/video-files/38045743/16148728_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:41:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "close-up of a hand trowel clipped to a gardener's belt",
+     "violation": "",
+     "shoot": "trowel-belt-closeup",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-kaizen-S01-V25",
@@ -499,15 +515,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V25.strip.jpg",
      "title": "back view of a woman hanging a wreath on a door",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "",
      "duration": 18,
      "src_id": "8890610",
      "download_url": "https://videos.pexels.com/video-files/8890610/8890610-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:41:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a woman in a pink dress hangs a wreath on a festive door",
+     "violation": "",
+     "shoot": "wreath-door-festive",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-kaizen-S01-V26",
@@ -521,15 +545,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V26.strip.jpg",
      "title": "woman carrying a tree branch",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "B",
      "duration": 14,
      "src_id": "8125917",
      "download_url": "https://videos.pexels.com/video-files/8125917/8125917-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:41:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a woman prunes and carries a tree branch near a cabin",
+     "violation": "",
+     "shoot": "woman-pruning-branch-cabin",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-kaizen-S01-V27",
@@ -550,8 +582,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:41:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a man walks alone through a field of marigold flowers",
+     "violation": "",
+     "shoot": "man-flower-field-walk",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-kaizen-S01-V28",
@@ -565,15 +605,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V28.strip.jpg",
      "title": "lawn mowing in sunlit garden",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "B",
      "duration": 31,
      "src_id": "37733805",
      "download_url": "https://videos.pexels.com/video-files/37733805/16005469_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a lawn mower rolls across sunlit grass",
+     "violation": "",
+     "shoot": "lawnmower-grass-closeup",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-kaizen-S01-V29",
@@ -587,15 +635,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V29.strip.jpg",
      "title": "a low angle shot of a person walking between plants",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "7006397",
      "download_url": "https://videos.pexels.com/video-files/7006397/7006397-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a worker in a hi-vis jacket walks along a greenhouse frame",
+     "violation": "",
+     "shoot": "hivis-greenhouse-walk",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-kaizen-S01-V30",
@@ -609,15 +665,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V30.strip.jpg",
      "title": "a person wearing gloves",
      "query": "gardener walking back and forth fetching tools",
-     "shot": "A",
+     "shot": "C",
      "duration": 24,
      "src_id": "7654682",
      "download_url": "https://videos.pexels.com/video-files/7654682/7654682-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "gloved hands arrange small garden tools laid out in order",
+     "violation": "",
+     "shoot": "garden-tools-flatlay-gloves",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-kaizen-S01-V31",
@@ -638,8 +702,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a worker in yellow boots shovels feed into a wheelbarrow",
+     "violation": "",
+     "shoot": "coveralls-wheelbarrow-shovel",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-kaizen-S01-V32",
@@ -653,15 +725,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V32.strip.jpg",
      "title": "laborer working with wheelbarrow outdoors",
      "query": "worker moving wheelbarrow closer to garden bed",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "36708578",
      "download_url": "https://videos.pexels.com/video-files/36708578/15559654_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a barefoot boy shovels sand alone into a wheelbarrow at a building site",
+     "violation": "forced-labour framing",
+     "shoot": "barefoot-boy-wheelbarrow",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-kaizen-S01-V33",
@@ -675,15 +755,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V33.strip.jpg",
      "title": "a man working at a plantation",
      "query": "worker moving wheelbarrow closer to garden bed",
-     "shot": "B",
+     "shot": "D",
      "duration": 15,
      "src_id": "17194368",
      "download_url": "https://videos.pexels.com/video-files/17194368/17194368-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a man kneels tending young plants in orderly field rows",
+     "violation": "",
+     "shoot": "man-kneel-field-rows",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-kaizen-S01-V34",
@@ -704,8 +792,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "leather crafting tools laid out in a row on a workbench",
+     "violation": "",
+     "shoot": "leather-tools-row-bench",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-kaizen-S01-V35",
@@ -726,8 +822,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a worker spreads soil on a raised vegetable bed under netting",
+     "violation": "",
+     "shoot": "soil-spread-vegetable-bed",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-kaizen-S01-V36",
@@ -748,8 +852,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand arranges leather tools neatly on a workbench",
+     "violation": "",
+     "shoot": "leather-tools-arrange-hand",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-kaizen-S01-V37",
@@ -763,15 +875,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V37.strip.jpg",
      "title": "worker  early  morning  people  person  shiva  field work  field worker  farmer  india  asia  man  male  labor  hard  gardening  farming",
      "query": "wheelbarrow garden worker",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "1635",
      "download_url": "https://cdn.pixabay.com/video/2015/12/11/1635-148614401_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:42:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a silhouetted man digs on a riverbank at dusk",
+     "violation": "",
+     "shoot": "riverbank-dig-dusk2",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-kaizen-S01-V38",
@@ -785,15 +905,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V38.strip.jpg",
      "title": "cement  batter  development  building  machine  worker  work  rural",
      "query": "wheelbarrow garden worker",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "148540",
      "download_url": "https://cdn.pixabay.com/video/2023/01/30/148540-794355630_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand pours material into a cement mixer drum",
+     "violation": "",
+     "shoot": "cement-mixer-pour",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-kaizen-S01-V39",
@@ -814,8 +942,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a wheelbarrow of wet concrete sits beside rubble on a site",
+     "violation": "",
+     "shoot": "wheelbarrow-concrete-site",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-kaizen-S01-V40",
@@ -829,15 +965,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V40.strip.jpg",
      "title": "hosing  watering  gardening  garden  water  sprinkler  hose  liquid  plants  growing  gardener",
      "query": "gardeners talking pointing",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "145",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/145-135737266_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand sprays water from a garden hose nozzle",
+     "violation": "",
+     "shoot": "hose-spray-hand",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-kaizen-S01-V41",
@@ -851,15 +995,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V41.strip.jpg",
      "title": "street  man  worker  vietnam  life",
      "query": "wheelbarrow garden worker",
-     "shot": "B",
+     "shot": "",
      "duration": 29,
      "src_id": "45686",
      "download_url": "https://cdn.pixabay.com/video/2020/07/27/45686-446485357_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "men sweep a wet urban street with a squeegee broom",
+     "violation": "",
+     "shoot": "street-sweep-urban",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-kaizen-S01-V42",
@@ -873,15 +1025,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V42.strip.jpg",
      "title": "boss  employee  talking  angry  argument",
      "query": "gardeners talking pointing",
-     "shot": "D",
+     "shot": "",
      "duration": 19,
      "src_id": "202135",
      "download_url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a man scolds a woman seated at a desk in an office",
+     "violation": "office",
+     "shoot": "office-scold-desk",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-kaizen-S01-V43",
@@ -895,15 +1055,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S01__strip__edenrise-c2-kaizen-S01-V43.strip.jpg",
      "title": "woman  welcome  social media  girl  reading  teach  explaining  woman explaining  teaching  teacher  hello  woman talking  talking character",
      "query": "gardeners talking pointing",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "92662",
      "download_url": "https://cdn.pixabay.com/video/2021/10/20/92662-637274989_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a cartoon woman gestures against a green screen background",
+     "violation": "cartoons, green screen",
+     "shoot": "cartoon-greenscreen-woman",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 33
     },
     {
      "id": "edenrise-c2-kaizen-S01-V44",
@@ -924,8 +1092,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:43:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two white silhouette figures converse against black",
+     "violation": "abstract loops",
+     "shoot": "silhouette-motion-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:15:17Z",
+     "rank": 34
     }
    ],
    "onscreen": "Kaizen = Continuous Improvement",
@@ -968,12 +1144,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:48:20Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:48:20Z"
+   "judged_at": "2026-09-10T09:15:17Z"
   },
   {
    "id": "S02",

@@ -67,7 +67,7 @@
  },
  "pexels:4487290": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9s",
+  "reason": "luxury spa clichés",
   "at": "2026-09-09T16:04:41Z",
   "from": "belong-module9/S03"
  },
@@ -1243,7 +1243,7 @@
  },
  "pexels:https://www.pexels.com/video/a-person-touching-a-plant-7944616/": {
   "brand": "belong",
-  "reason": "seedling in cupped hands clich\u00e9",
+  "reason": "seedling in cupped hands cliché",
   "at": "2026-09-09T17:35:17Z",
   "from": "belong-module2/S02"
  },
@@ -1339,19 +1339,19 @@
  },
  "heygen:": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/an-indoor-swimming-pool-used-for-training-6012515/": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
  "pexels:https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/": {
   "brand": "belong",
-  "reason": "luxury spa clich\u00e9",
+  "reason": "luxury spa cliché",
   "at": "2026-09-09T17:42:26Z",
   "from": "belong-module3/S06"
  },
@@ -1645,7 +1645,7 @@
  },
  "pixabay:88686": {
   "brand": "edenrise",
-  "reason": "green screen phone display \u2014 explicit never-list",
+  "reason": "green screen phone display — explicit never-list",
   "at": "2026-09-09T19:08:26Z",
   "from": "communication-dont-assume-clarify-v2/S16"
  },
@@ -2557,13 +2557,13 @@
  },
  "pexels:https://www.pexels.com/video/people-working-on-a-construction-site-9991144/": {
   "brand": "edenrise",
-  "reason": "office desk, laptop, corporate attire \u2014 explicit never-list",
+  "reason": "office desk, laptop, corporate attire — explicit never-list",
   "at": "2026-09-09T19:10:43Z",
   "from": "edenrise-c2-goal-setting/S05"
  },
  "pexels:https://www.pexels.com/video/people-working-at-a-construction-site-9991145/": {
   "brand": "edenrise",
-  "reason": "office desk, laptop, corporate startup setting \u2014 explicit never-list",
+  "reason": "office desk, laptop, corporate startup setting — explicit never-list",
   "at": "2026-09-09T19:10:43Z",
   "from": "edenrise-c2-goal-setting/S05"
  },
@@ -2635,7 +2635,7 @@
  },
  "pexels:https://www.pexels.com/video/people-using-laptop-while-talking-8482302/": {
   "brand": "edenrise",
-  "reason": "face masks, laptop indoors, suit \u2014 explicit never-list",
+  "reason": "face masks, laptop indoors, suit — explicit never-list",
   "at": "2026-09-09T19:05:19Z",
   "from": "communication-dont-assume-clarify-v2/S11"
  },
@@ -2695,7 +2695,7 @@
  },
  "pexels:8347252": {
   "brand": "edenrise",
-  "reason": "office desk, suit \u2014 explicit never-list",
+  "reason": "office desk, suit — explicit never-list",
   "at": "2026-09-09T19:08:26Z",
   "from": "communication-dont-assume-clarify-v2/S16"
  },
@@ -2725,13 +2725,13 @@
  },
  "pexels:https://www.pexels.com/video/colleagues-working-and-discussing-ideas-6913865/": {
   "brand": "edenrise",
-  "reason": "office desk, laptop, corporate attire \u2014 explicit never-list",
+  "reason": "office desk, laptop, corporate attire — explicit never-list",
   "at": "2026-09-09T19:10:43Z",
   "from": "edenrise-c2-goal-setting/S05"
  },
  "pexels:https://www.pexels.com/video/colleagues-disturbing-a-coworker-while-working-8135863/": {
   "brand": "edenrise",
-  "reason": "office desk, laptop, corporate startup setting \u2014 explicit never-list",
+  "reason": "office desk, laptop, corporate startup setting — explicit never-list",
   "at": "2026-09-09T19:10:43Z",
   "from": "edenrise-c2-goal-setting/S05"
  },
@@ -4672,5 +4672,29 @@
   "reason": "face masks",
   "at": "2026-09-10T09:14:45Z",
   "from": "edenrise-gratitude/S14"
+ },
+ "pexels:36708578": {
+  "brand": "edenrise",
+  "reason": "forced-labour framing",
+  "at": "2026-09-10T09:15:17Z",
+  "from": "edenrise-c2-kaizen/S01"
+ },
+ "pixabay:202135": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:15:17Z",
+  "from": "edenrise-c2-kaizen/S01"
+ },
+ "pixabay:92662": {
+  "brand": "edenrise",
+  "reason": "cartoons, green screen",
+  "at": "2026-09-10T09:15:17Z",
+  "from": "edenrise-c2-kaizen/S01"
+ },
+ "pixabay:75999": {
+  "brand": "edenrise",
+  "reason": "abstract loops",
+  "at": "2026-09-10T09:15:17Z",
+  "from": "edenrise-c2-kaizen/S01"
  }
 }
