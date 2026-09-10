@@ -27,7 +27,7 @@
      "shoot": "coverr-phone-balcony",
      "score": 1.35,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 26,
+     "rank": 27,
      "shown": false
     },
     {
@@ -71,7 +71,7 @@
      "shoot": "pexels-formal-restaurant-waiter",
      "score": 2.0,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 23,
+     "rank": 24,
      "shown": false
     },
     {
@@ -115,7 +115,7 @@
      "shoot": "pexels-urban-cafe-women",
      "score": 2.0,
      "judged_at": "2026-09-09T17:35:56Z",
-     "rank": 24,
+     "rank": 25,
      "shown": false
     },
     {
@@ -520,15 +520,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S01__strip__belong-module11-S01-V12.strip.jpg",
      "title": "people having a conversation while eating",
      "query": "friends talking farm table pines",
-     "shot": "A",
+     "shot": "B",
      "duration": 18,
      "src_id": "6017622",
      "download_url": "https://videos.pexels.com/video-files/6017622/6017622-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:50:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a family talks over dinner at an apartment table",
+     "violation": "",
+     "shoot": "pexels-family-apartment-dinner",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:24:02Z",
+     "rank": 18
     },
     {
      "id": "belong-module11-S01-V13",
@@ -618,7 +626,7 @@
      "shoot": "pexels-coffee-pinecone-stilllife",
      "score": 2.05,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 21
+     "rank": 22
     },
     {
      "id": "belong-module11-S01-V16",
@@ -678,7 +686,7 @@
      "shoot": "pixabay-boy-mirror-talk",
      "score": 1.35,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 25
+     "rank": 26
     },
     {
      "id": "belong-module11-S01-V18",
@@ -708,7 +716,7 @@
      "shoot": "pixabay-pine-branch-closeup",
      "score": 2.75,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 18
+     "rank": 19
     },
     {
      "id": "belong-module11-S01-V19",
@@ -738,7 +746,7 @@
      "shoot": "pixabay-coffee-book-stilllife",
      "score": 2.05,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 22
+     "rank": 23
     },
     {
      "id": "belong-module11-S01-V20",
@@ -768,7 +776,7 @@
      "shoot": "pixabay-pine-tree-closeup",
      "score": 2.75,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 19
+     "rank": 20
     },
     {
      "id": "belong-module11-S01-V21",
@@ -798,7 +806,7 @@
      "shoot": "pixabay-woman-campus-portrait",
      "score": 2.7,
      "judged_at": "2026-09-10T09:22:47Z",
-     "rank": 20
+     "rank": 21
     }
    ],
    "timing_source": "unrecorded",
@@ -832,7 +840,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:14Z",
-   "judged_at": "2026-09-10T09:22:47Z"
+   "judged_at": "2026-09-10T09:24:02Z"
   },
   {
    "id": "S02",
