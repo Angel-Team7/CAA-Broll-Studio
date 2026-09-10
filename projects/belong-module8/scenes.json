@@ -10526,7 +10526,7 @@
      "shot": "",
      "shoot": "pixabay-haybales-field",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 4,
+     "rank": 10,
      "shown": true
     },
     {
@@ -10556,7 +10556,7 @@
      "shot": "",
      "shoot": "pexels-rustickitchen-herbs",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -10584,8 +10584,8 @@
      "shot": "",
      "shoot": "pexels-greenhouse-microgreens",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 6,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m8-S13-V11",
@@ -10613,8 +10613,8 @@
      "shot": "",
      "shoot": "pexels-tractor-sunrise",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 5,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "belong-m8-S13-V24",
@@ -10652,7 +10652,7 @@
      "shot": "",
      "shoot": "pexels-mintpick-glass",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 2,
+     "rank": 4,
      "shown": true
     },
     {
@@ -10677,7 +10677,7 @@
      "shot": "",
      "shoot": "pexels-mintpick-garden",
      "judged_at": "2026-09-09T17:39:53Z",
-     "rank": 3,
+     "rank": 5,
      "shown": true
     },
     {
@@ -10757,8 +10757,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:22:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a family walks hand in hand along a pier at sunset",
+     "violation": "",
+     "shoot": "pexels-family-piersunset",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 22
     },
     {
      "id": "belong-module8-S13-V30",
@@ -10779,8 +10787,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:22:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two people stand on a cliff overlooking mountains",
+     "violation": "",
+     "shoot": "pexels-cliff-overlookduo",
+     "score": 2.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 20
     },
     {
      "id": "belong-module8-S13-V31",
@@ -10794,15 +10810,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V31.strip.jpg",
      "title": "back view of a couple walking together",
      "query": "team walking together farm dusk",
-     "shot": "B",
+     "shot": "",
      "duration": 40,
      "src_id": "5418493",
      "download_url": "https://videos.pexels.com/video-files/5418493/5418493-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:22:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a couple embraces on a hillside at dusk under the moon",
+     "violation": "",
+     "shoot": "pexels-couple-hillsidedusk",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 24
     },
     {
      "id": "belong-module8-S13-V32",
@@ -10823,8 +10847,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a couple runs hand in hand along a golden wheat field",
+     "violation": "",
+     "shoot": "pexels-couple-wheatfield",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 11
     },
     {
      "id": "belong-module8-S13-V33",
@@ -10845,8 +10877,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two people walk together along a path through green fields",
+     "violation": "",
+     "shoot": "pexels-path-greenfieldwalk",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S13-V34",
@@ -10860,15 +10900,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V34.strip.jpg",
      "title": "serene walk through lush green rice fields",
      "query": "team walking together farm dusk",
-     "shot": "B",
+     "shot": "",
      "duration": 29,
      "src_id": "34842116",
      "download_url": "https://videos.pexels.com/video-files/34842116/14769585_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a person walks through a tall green field of grass",
+     "violation": "",
+     "shoot": "pexels-greenfield-walker",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 27
     },
     {
      "id": "belong-module8-S13-V35",
@@ -10889,8 +10937,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "three men in leather jackets walk a field leading a horse",
+     "violation": "",
+     "shoot": "pexels-menhorse-fieldwalk",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 19
     },
     {
      "id": "belong-module8-S13-V36",
@@ -10911,8 +10967,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a couple walks bicycles along a grassy country path",
+     "violation": "",
+     "shoot": "pexels-couple-bicyclewalk",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 16
     },
     {
      "id": "belong-module8-S13-V37",
@@ -10933,8 +10997,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a chef garnishes small plated pastries on a counter",
+     "violation": "",
+     "shoot": "pexels-pastry-garnish",
+     "score": 3.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 17
     },
     {
      "id": "belong-module8-S13-V38",
@@ -10955,8 +11027,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a fresh pizza rests on a wooden board in the kitchen",
+     "violation": "",
+     "shoot": "pexels-pizza-kitchenboard",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 6
     },
     {
      "id": "belong-module8-S13-V39",
@@ -10977,8 +11057,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "hands pass a stack of plates from one person to another",
+     "violation": "",
+     "shoot": "pexels-hands-platehandoff",
+     "score": 7.3,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S13-V40",
@@ -10999,8 +11087,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hand slices a red onion on a wooden board outdoors",
+     "violation": "",
+     "shoot": "pixabay-onion-slicing",
+     "score": 3.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 12
     },
     {
      "id": "belong-module8-S13-V41",
@@ -11021,8 +11117,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:23:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a woman writes in a leather notebook seated indoors",
+     "violation": "",
+     "shoot": "pexels-woman-notebookindoors",
+     "score": 5.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S13-V42",
@@ -11043,8 +11147,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand writes in a notebook resting on a lap outdoors",
+     "violation": "",
+     "shoot": "pexels-hand-notebookoutdoors",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 7
     },
     {
      "id": "belong-module8-S13-V43",
@@ -11058,15 +11170,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V43.strip.jpg",
      "title": "scrambled eggs  plate  cucumbers  food  fork  breakfast  nutrition  taste  knife  café  a restaurant  there is  hands  close-up",
      "query": "kitchen pass plate hands",
-     "shot": "C",
+     "shot": "",
      "duration": 17,
      "src_id": "4972",
      "download_url": "https://cdn.pixabay.com/video/2016/09/06/4972-181688489_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a person eats eggs and vegetables from a patterned plate",
+     "violation": "",
+     "shoot": "pexels-breakfast-platteneating",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 25
     },
     {
      "id": "belong-module8-S13-V44",
@@ -11087,8 +11207,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "hands lift stacked ceramic plates from a pottery wheel",
+     "violation": "",
+     "shoot": "pexels-pottery-platestack",
+     "score": 3.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 13
     },
     {
      "id": "belong-module8-S13-V45",
@@ -11102,15 +11230,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V45.strip.jpg",
      "title": "plate  gas  fire  kitchen  matches  burns  prepare",
      "query": "kitchen pass plate hands",
-     "shot": "C",
+     "shot": "",
      "duration": 5,
      "src_id": "141854",
      "download_url": "https://cdn.pixabay.com/video/2022/12/06/141854-778906872_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand lights a gas stove burner with a match",
+     "violation": "",
+     "shoot": "pixabay-stove-matchlight",
+     "score": 1.7,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 26
     },
     {
      "id": "belong-module8-S13-V46",
@@ -11124,15 +11260,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V46.strip.jpg",
      "title": "kitchen  plate  healthy  appetizers  pasta  sweet  organic  food",
      "query": "kitchen pass plate hands",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "254753",
      "download_url": "https://cdn.pixabay.com/video/2025/01/26/254753_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands place shaped dough balls into a baking pan",
+     "violation": "",
+     "shoot": "pixabay-dough-breadpan",
+     "score": 3.4,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 14
     },
     {
      "id": "belong-module8-S13-V47",
@@ -11153,8 +11297,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a girl sits by a window writing in a notebook",
+     "violation": "",
+     "shoot": "pixabay-girl-windownotebook",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 8
     },
     {
      "id": "belong-module8-S13-V48",
@@ -11175,8 +11327,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand writes in a worn notebook on a wooden table",
+     "violation": "",
+     "shoot": "pixabay-hand-wornnotebook",
+     "score": 4.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S13-V49",
@@ -11197,8 +11357,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a child writes in a decorated binder beside a teddy bear",
+     "violation": "",
+     "shoot": "pixabay-child-binderwriting",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 23
     },
     {
      "id": "belong-module8-S13-V50",
@@ -11212,15 +11380,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S13__strip__belong-module8-S13-V50.strip.jpg",
      "title": "write  writing  calligraphy  letters  paper  lettering  old script  nostalgia  old paper  read  text  font  china  chinese  graphically  art",
      "query": "guestbook writing reception",
-     "shot": "D",
+     "shot": "",
      "duration": 40,
      "src_id": "13053",
      "download_url": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:24:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand practices calligraphy with an ink brush on paper",
+     "violation": "",
+     "shoot": "pixabay-calligraphy-brush",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:12:16Z",
+     "rank": 28
     }
    ],
    "shots": [
@@ -11261,11 +11437,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:39:53Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-09-10T10:12:16Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:39:53Z"
+   "judged_at": "2026-09-10T10:12:16Z"
   }
  ]
 }
