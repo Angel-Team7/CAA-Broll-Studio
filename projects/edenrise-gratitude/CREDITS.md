@@ -189,3 +189,112 @@
 | pixabay | earth  moon  land  planet  space  universe  stars | olenchic | Pixabay Content License | https://pixabay.com/videos/id-232205/ |
 | pixabay | land  planet  space  universe  astronomy  stars  moon | olenchic | Pixabay Content License | https://pixabay.com/videos/id-215598/ |
 | pixabay | moon  sun  space  land  universe  stars  fantasy | olenchic | Pixabay Content License | https://pixabay.com/videos/id-232050/ |
+| pexels | cultural iftar gathering with sharing bread | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/cultural-iftar-gathering-with-sharing-bread-36587262/ |
+| pexels | video of food on the table | Kampus Production | Pexels License | https://www.pexels.com/video/video-of-food-on-the-table-6305113/ |
+| pexels | a mother teaching her daughter proper posture while sitting  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-mother-teaching-her-daughter-proper-posture-while-sitting-at-the-dinner-table-6958181/ |
+| pexels | man holding a challah bread and sharing with the group | cottonbro studio | Pexels License | https://www.pexels.com/video/man-holding-a-challah-bread-and-sharing-with-the-group-6054232/ |
+| pexels | a person holding a bread | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-person-holding-a-bread-8775756/ |
+| pexels | close up of a bun with sesame seeds | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-of-a-bun-with-sesame-seeds-8862078/ |
+| pexels | a woman is holding a plate of food on a table | Matheus Bertelli | Pexels License | https://www.pexels.com/video/a-woman-is-holding-a-plate-of-food-on-a-table-19229672/ |
+| pexels | people are eating food at a picnic table | cottonbro studio | Pexels License | https://www.pexels.com/video/people-are-eating-food-at-a-picnic-table-4873809/ |
+| pexels | a person making a sandwich | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-making-a-sandwich-8187800/ |
+| pexels | a person holding a sandwich | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-person-holding-a-sandwich-4992090/ |
+| pexels | food served on wooden table outdoors | Kampus Production | Pexels License | https://www.pexels.com/video/food-served-on-wooden-table-outdoors-6760585/ |
+| pexels | a group of people having a working lunch over a wooden table | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-having-a-working-lunch-over-a-wooden-table-3253797/ |
+| pexels | person putting cheese on bread | Kampus Production | Pexels License | https://www.pexels.com/video/person-putting-cheese-on-bread-8912883/ |
+| pexels | man tearing loaf of bread | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-tearing-loaf-of-bread-7781826/ |
+| pixabay | cook  meal  food  carbohydrates  raw  nourishment  dough  fl | Pana68 | Pixabay Content License | https://pixabay.com/videos/id-200157/ |
+| pixabay | roulades  cook  wrap  beef  food  beef roulades  bacon  meat | jensb | Pixabay Content License | https://pixabay.com/videos/id-4352/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pixabay | like  share  button | Aashish_2808 | Pixabay Content License | https://pixabay.com/videos/id-151831/ |
+| pixabay | field  paddy field  plantation  agriculture  rural  rice  pl | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-231246/ |
+| pexels | man looking a motor oil | Artem Podrez | Pexels License | https://www.pexels.com/video/man-looking-a-motor-oil-8986482/ |
+| pexels | man looking for wrench and socket | utopia 36 | Pexels License | https://www.pexels.com/video/man-looking-for-wrench-and-socket-14514417/ |
+| pexels | person looking at tools in the garage | Artem Podrez | Pexels License | https://www.pexels.com/video/person-looking-at-tools-in-the-garage-8986477/ |
+| pexels | skilled workers applying concrete floor indoors | Pexels User | Pexels License | https://www.pexels.com/video/skilled-workers-applying-concrete-floor-indoors-35769623/ |
+| pexels | construction worker securing rebar on site | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-worker-securing-rebar-on-site-32244802/ |
+| pexels | a man working while wearing a beanie | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-working-while-wearing-a-beanie-7480739/ |
+| pexels | a man checking the engine of the car | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-checking-the-engine-of-the-car-8986485/ |
+| pexels | person grabbing tools from toolbox | Phillips Vinegar | Pexels License | https://www.pexels.com/video/person-grabbing-tools-from-toolbox-6390049/ |
+| pexels | man using digital tablet | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-digital-tablet-6474139/ |
+| pexels | a man putting his safety goggles while working in the truck  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-putting-his-safety-goggles-while-working-in-the-truck-workshot-7019774/ |
+| pexels | woman planting seeds on small pots | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-planting-seeds-on-small-pots-4768551/ |
+| pexels | close up of person planting seedlings | K | Pexels License | https://www.pexels.com/video/close-up-of-person-planting-seedlings-9737857/ |
+| pexels | chipmunk snatches peanut from hand | Allen Y | Pexels License | https://www.pexels.com/video/chipmunk-snatches-peanut-from-hand-27372917/ |
+| pexels | woman doing gardening | Kampus Production | Pexels License | https://www.pexels.com/video/woman-doing-gardening-7655268/ |
+| pixabay | cone  brown  spice  seed  food  close  coffee  drink  closeu | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55413/ |
+| pixabay | antique book  book opening  book scrolling  books  candlelig | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-111280/ |
+| pixabay | barrier  open  close  fence  fencing  gate  checkpoint  entr | sv320197 | Pixabay Content License | https://pixabay.com/videos/id-93008/ |
+| pixabay | countdown  timer  seconds  start | olenchic | Pixabay Content License | https://pixabay.com/videos/id-170063/ |
+| pixabay | hands  candle  candlelight  prayer  pray  light  flame  open | Mohamed_hassan | Pixabay Content License | https://pixabay.com/videos/id-75702/ |
+| pixabay | teasels  plant  seed head  dry  spikes  prickles  stem  autu | MabelAmber | Pixabay Content License | https://pixabay.com/videos/id-135365/ |
+| pixabay | teasels  plant  seed head  dry  spikes  prickles  stem  autu | MabelAmber | Pixabay Content License | https://pixabay.com/videos/id-135374/ |
+| pixabay | dandelion  seeds  wind  flying  seed  botany  tranquil  soft | NeuroPixels | Pixabay Content License | https://pixabay.com/videos/id-4505/ |
+| pexels | a person getting a plastic container from the table | Artem Podrez | Pexels License | https://www.pexels.com/video/a-person-getting-a-plastic-container-from-the-table-8986481/ |
+| pexels | a man is cutting a piece of wood with a knife | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-is-cutting-a-piece-of-wood-with-a-knife-17669870/ |
+| pexels | a person cleaning an engine | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-cleaning-an-engine-7541932/ |
+| pexels | a worker closing a toolbox | Artem Podrez | Pexels License | https://www.pexels.com/video/a-worker-closing-a-toolbox-8987010/ |
+| pexels | man buffing a car | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-buffing-a-car-6157779/ |
+| pexels | hair products and combs | cottonbro studio | Pexels License | https://www.pexels.com/video/hair-products-and-combs-7428173/ |
+| pexels | mechanic cleaning hands after car repair | svetlana photographer | Pexels License | https://www.pexels.com/video/mechanic-cleaning-hands-after-car-repair-33129175/ |
+| pexels | workers cleaning warehouse | Rodrigo Garcin | Pexels License | https://www.pexels.com/video/workers-cleaning-warehouse-13422071/ |
+| pexels | close up of cleaning tool | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/close-up-of-cleaning-tool-11554487/ |
+| pexels | a man using a grinder | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-using-a-grinder-8987012/ |
+| pexels | man taking care of green potted plant | cottonbro studio | Pexels License | https://www.pexels.com/video/man-taking-care-of-green-potted-plant-9720753/ |
+| pexels | a man taking care of a plant | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-taking-care-of-a-plant-7101062/ |
+| pexels | a person taking care of plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-taking-care-of-plants-6510771/ |
+| pexels | a woman harvesting coffee beans | Ucundinamarca Virtual | Pexels License | https://www.pexels.com/video/a-woman-harvesting-coffee-beans-17191112/ |
+| pixabay | hosing  watering  gardening  garden  water  sprinkler  hose  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-145/ |
+| pixabay | carrot  plant  gardening  nature  lapse | waterlettuce | Pixabay Content License | https://pixabay.com/videos/id-10646/ |
+| pixabay | tractor  agriculture  agricultural machine  farm yard  rural | TPMotion | Pixabay Content License | https://pixabay.com/videos/id-84624/ |
+| pixabay | nature  plant  yard  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-102666/ |
+| pixabay | yard  spider  web  arachnid  armenia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-14222/ |
+| pixabay | yard  web  spider  drops  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-18955/ |
+| pixabay | nature  yard  floors  flora  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-113530/ |
+| pexels | a person watering the plants | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-watering-the-plants-7781749/ |
+| pexels | gardener handling rich compost in wheelbarrow | K | Pexels License | https://www.pexels.com/video/gardener-handling-rich-compost-in-wheelbarrow-31145888/ |
+| pexels | shoveling soil in a sunny garden | Videas Cl | Pexels License | https://www.pexels.com/video/shoveling-soil-in-a-sunny-garden-37771810/ |
+| pexels | red barn on a farm | Stephen Pierce | Pexels License | https://www.pexels.com/video/red-barn-on-a-farm-15148904/ |
+| pexels | aerial view of suburban neighborhood street | SINAL Multimédia | Pexels License | https://www.pexels.com/video/aerial-view-of-suburban-neighborhood-street-28781830/ |
+| pexels | aerial view of rural farm landscape | Progga Media | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-farm-landscape-35664081/ |
+| pexels | people gardening | Kampus Production | Pexels License | https://www.pexels.com/video/people-gardening-7655278/ |
+| pexels | aerial view of backyard garden renovation | K | Pexels License | https://www.pexels.com/video/aerial-view-of-backyard-garden-renovation-31025306/ |
+| pexels | leafy pathway between urban houses | Doğan Alpaslan  Demir | Pexels License | https://www.pexels.com/video/leafy-pathway-between-urban-houses-38253208/ |
+| pexels | view of the farm with a tractor in the road | Kindel Media | Pexels License | https://www.pexels.com/video/view-of-the-farm-with-a-tractor-in-the-road-7456687/ |
+| pexels | two men working and brainstorming | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/two-men-working-and-brainstorming-6913262/ |
+| pexels | man wearing eyeglasses talking | Theo  Decker | Pexels License | https://www.pexels.com/video/man-wearing-eyeglasses-talking-5939450/ |
+| pexels | woman presenting and explaining a chart | Antoni Shkraba | Pexels License | https://www.pexels.com/video/woman-presenting-and-explaining-a-chart-5020286/ |
+| pexels | a man and a woman discussing a document | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-discussing-a-document-8298405/ |
+| pixabay | boss  employee  talking  angry  argument | Samidurrakzai | Pixabay Content License | https://pixabay.com/videos/id-202135/ |
+| pixabay | woman  welcome  social media  girl  reading  teach  explaini | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pexels | a man looking at the ceramics on the table | KoolShooters | Pexels License | https://www.pexels.com/video/a-man-looking-at-the-ceramics-on-the-table-9736323/ |
+| pexels | hands shaping clay | khanhhoangminh | Pexels License | https://www.pexels.com/video/hands-shaping-clay-12690270/ |
+| pexels | fire taste | Imrana Kousar | Pexels License | https://www.pexels.com/video/fire-taste-18245634/ |
+| pexels | a person s hands are holding a red light | AP Vibes | Pexels License | https://www.pexels.com/video/a-person-s-hands-are-holding-a-red-light-28000758/ |
+| pexels | a man is making a pottery bowl on a pottery wheel | AP Vibes | Pexels License | https://www.pexels.com/video/a-man-is-making-a-pottery-bowl-on-a-pottery-wheel-28000752/ |
+| pexels | a group of men in orange vests and hard hats working on a co | CP Khanal | Pexels License | https://www.pexels.com/video/a-group-of-men-in-orange-vests-and-hard-hats-working-on-a-construction-site-19832500/ |
+| pexels | a person cutting wood using chainsaw | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-cutting-wood-using-chainsaw-4383226/ |
+| pexels | a potter is making a pot on the potter s wheel | AP Vibes | Pexels License | https://www.pexels.com/video/a-potter-is-making-a-pot-on-the-potter-s-wheel-28000737/ |
+| pexels | a potter kneading clay indoors | KoolShooters | Pexels License | https://www.pexels.com/video/a-potter-kneading-clay-indoors-9736514/ |
+| pexels | a person is holding a red light on a piece of metal | AP Vibes | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-red-light-on-a-piece-of-metal-28000736/ |
+| pexels | engineers looking at the blueprint they are holding | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/ |
+| pexels | interior painting work in progress | Nishant Aneja | Pexels License | https://www.pexels.com/video/interior-painting-work-in-progress-28900197/ |
+| pexels | expert welder at work in industrial setting | blacxird Offical | Pexels License | https://www.pexels.com/video/expert-welder-at-work-in-industrial-setting-30748963/ |
+| pexels | man working pencil paper | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-working-pencil-paper-5846462/ |
+| pexels | man using digital tablet | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-using-digital-tablet-6473959/ |
+| pexels | efficient motorcycle engine assembly process | Emrul Kausar Emon | Pexels License | https://www.pexels.com/video/efficient-motorcycle-engine-assembly-process-30288954/ |
+| pexels | man doing car polish on white car | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-doing-car-polish-on-white-car-4822548/ |
+| pexels | a man using a walkie talkie while at the site | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/ |
+| pexels | two men in hard hats and safety vests are working on a truck | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-hard-hats-and-safety-vests-are-working-on-a-truck-27514738/ |
+| pexels | man showing catalog to the woman | cottonbro studio | Pexels License | https://www.pexels.com/video/man-showing-catalog-to-the-woman-6568704/ |
+| pexels | a man painting wall using paint spray | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-painting-wall-using-paint-spray-6473939/ |
+| pexels | elderly man painting the pot | Los Muertos Crew | Pexels License | https://www.pexels.com/video/elderly-man-painting-the-pot-8066061/ |
+| pexels | man doing car polish on white car | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-doing-car-polish-on-white-car-4822549/ |
+| pexels | traditional wood carving craftsmanship | Liuuu _61 | Pexels License | https://www.pexels.com/video/traditional-wood-carving-craftsmanship-34133303/ |
+| pixabay | money  euro  finance  salary  cash  economy  income  bank  p | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4853/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135887/ |
+| pixabay | woman  card  shopping  communication  smartphone  phone  fem | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-83865/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135889/ |
+| pixabay | pizza oven  pizza  restaurant  job  food | Citor3 | Pixabay Content License | https://pixabay.com/videos/id-17177/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135891/ |
+| pixabay | nature  job  work  ants  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-110822/ |
