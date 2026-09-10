@@ -5548,7 +5548,7 @@
      "shoot": "lesson-flowers-gardener",
      "score": 9.0,
      "judged_at": "2026-09-09T18:59:35Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -5570,8 +5570,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands reach through a field of clover and tiny wildflowers",
+     "violation": "",
+     "shoot": "pexels-hands-wildflower-field",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 5
     },
     {
      "id": "lesson-above-below-line-S12-V01",
@@ -5592,8 +5600,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands in cozy sleeves hold a daisy in a flower field",
+     "violation": "",
+     "shoot": "pexels-hands-daisy-field",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 6
     },
     {
      "id": "lesson-above-below-line-S12-V02",
@@ -5607,15 +5623,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__strip__lesson-above-below-line-S12-V02.strip.jpg",
      "title": "elegant white and pink tulips in bloom",
      "query": "flowering garden gardener wide",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "32113051",
      "download_url": "https://videos.pexels.com/video-files/32113051/13690800_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "white and pink tulips bloom in a field with no one present",
+     "violation": "flowers-only",
+     "shoot": "pexels-tulips-closeup",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 8
     },
     {
      "id": "lesson-above-below-line-S12-V03",
@@ -5629,15 +5653,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__strip__lesson-above-below-line-S12-V03.strip.jpg",
      "title": "a man inspecting a plant",
      "query": "flowering garden gardener wide",
-     "shot": "C",
+     "shot": "A",
      "duration": 20,
      "src_id": "7101071",
      "download_url": "https://videos.pexels.com/video-files/7101071/7101071-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 10,
+     "brand_fit": 9,
+     "caption": "a man smiles while tending colorful potted flowers in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-greenhouse-gardener",
+     "score": 9.65,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 1
     },
     {
      "id": "lesson-above-below-line-S12-V04",
@@ -5658,8 +5690,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand wearing a smartwatch reaches toward yellow blossoms",
+     "violation": "",
+     "shoot": "pexels-smartwatch-yellow-flowers",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 7
     },
     {
      "id": "lesson-above-below-line-S12-V05",
@@ -5680,8 +5720,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "potted seedlings line a bench inside a greenhouse",
+     "violation": "",
+     "shoot": "pexels-greenhouse-seedlings",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 4
     },
     {
      "id": "lesson-above-below-line-S12-V06",
@@ -5695,15 +5743,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__strip__lesson-above-below-line-S12-V06.strip.jpg",
      "title": "vibrant pink tulip field in springtime",
      "query": "flowering garden gardener wide",
-     "shot": "C",
+     "shot": "",
      "duration": 48,
      "src_id": "39073769",
      "download_url": "https://videos.pexels.com/video-files/39073769/16626394_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:12:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "pink and yellow tulips fill a field with no one present",
+     "violation": "flowers-only",
+     "shoot": "pexels-tulip-field",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 9
     },
     {
      "id": "lesson-above-below-line-S12-V07",
@@ -5724,8 +5780,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:13:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a hand reaches gently into a colorful bouquet of blooms",
+     "violation": "",
+     "shoot": "pexels-hand-bouquet-touch",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 3
     },
     {
      "id": "lesson-above-below-line-S12-V08",
@@ -5739,15 +5803,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-lesson-above-below-line/S12__strip__lesson-above-below-line-S12-V08.strip.jpg",
      "title": "close up video of a people holding hands together",
      "query": "hands touching blooms close",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "9479751",
      "download_url": "https://videos.pexels.com/video-files/9479751/9479751-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T05:13:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "three generations stack hands together on a knee",
+     "violation": "",
+     "shoot": "pexels-generations-hands",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:13:04Z",
+     "rank": 10
     }
    ],
    "shots": [
@@ -5779,12 +5851,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:39:20Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T18:59:35Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T18:59:35Z"
+   "judged_at": "2026-09-10T09:13:04Z"
   },
   {
    "id": "S13",
