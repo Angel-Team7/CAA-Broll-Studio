@@ -3450,7 +3450,7 @@
      "shoot": "pexels-sanding-wood-corner",
      "score": 4.05,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -3472,7 +3472,7 @@
      "shoot": "pexels-latte-art-pour-a",
      "score": 3.05,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 16,
+     "rank": 46,
      "shown": false
     },
     {
@@ -3494,7 +3494,7 @@
      "shoot": "pexels-knife-sharpening-whetstone",
      "score": 8.3,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -3516,7 +3516,7 @@
      "shoot": "pexels-linen-ironing-hands",
      "score": 8.3,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -3538,7 +3538,7 @@
      "shoot": "pexels-leather-oiling-hands",
      "score": 4.35,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 12,
+     "rank": 29,
      "shown": false
     },
     {
@@ -3560,8 +3560,8 @@
      "shoot": "pexels-napkin-folding-precise",
      "score": 5.35,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 8,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "pexels_7199617_precise-table-setting",
@@ -3582,8 +3582,8 @@
      "shoot": "pexels-table-setting-studio",
      "score": 5.3,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 9,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "pexels_7220979_polishing-wine-glass-close-up",
@@ -3604,7 +3604,7 @@
      "shoot": "pexels-glass-bottle-machine",
      "score": 2,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 24,
+     "rank": 60,
      "shown": false
     },
     {
@@ -3626,7 +3626,7 @@
      "shoot": "pixabay-circular-saw-precision",
      "score": 3.05,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 17,
+     "rank": 47,
      "shown": false
     },
     {
@@ -3658,7 +3658,7 @@
      "shoot": "pixabay-latte-art-pour-b",
      "score": 3.05,
      "judged_at": "2026-09-09T17:46:20Z",
-     "rank": 18,
+     "rank": 48,
      "shown": false
     },
     {
@@ -3709,7 +3709,7 @@
      "shoot": "pexels-cutlery-tray",
      "score": 3.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 19
+     "rank": 49
     },
     {
      "id": "belong-module12-S06-V01",
@@ -3739,7 +3739,7 @@
      "shoot": "pexels-cutlery-fan",
      "score": 2.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 21
+     "rank": 52
     },
     {
      "id": "belong-module12-S06-V02",
@@ -3769,7 +3769,7 @@
      "shoot": "pexels-thanksgiving-tablescape",
      "score": 4.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 11
+     "rank": 26
     },
     {
      "id": "belong-module12-S06-V03",
@@ -3791,7 +3791,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:32:26Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 6,
      "brand_fit": 6,
      "caption": "overhead plate with napkin-wrapped cutlery and a pinecone",
@@ -3799,7 +3799,7 @@
      "shoot": "pexels-rustic-plate-napkin",
      "score": 6.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 6
+     "rank": 11
     },
     {
      "id": "belong-module12-S06-V04",
@@ -3829,7 +3829,7 @@
      "shoot": "pexels-farm-table-hand",
      "score": 7.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 5
+     "rank": 7
     },
     {
      "id": "belong-module12-S06-V05",
@@ -3859,7 +3859,7 @@
      "shoot": "pexels-restaurant-blur",
      "score": 3.35,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 14
+     "rank": 37
     },
     {
      "id": "belong-module12-S06-V06",
@@ -3881,7 +3881,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:32:43Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 6,
      "brand_fit": 5,
      "caption": "hands place a white plate on a wood table with autumn leaves",
@@ -3889,7 +3889,7 @@
      "shoot": "pexels-thanksgiving-tablescape",
      "score": 5.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 7
+     "rank": 12
     },
     {
      "id": "belong-module12-S06-V07",
@@ -3919,7 +3919,7 @@
      "shoot": "pexels-picnic-field-table",
      "score": 8.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 3
+     "rank": 4
     },
     {
      "id": "belong-module12-S06-V08",
@@ -3949,7 +3949,7 @@
      "shoot": "pexels-paint-knife",
      "score": 1.35,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 27
+     "rank": 65
     },
     {
      "id": "belong-module12-S06-V09",
@@ -3979,7 +3979,7 @@
      "shoot": "pexels-spa-oil-hands",
      "score": 1.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 26
+     "rank": 64
     },
     {
      "id": "belong-module12-S06-V10",
@@ -4009,7 +4009,7 @@
      "shoot": "pexels-door-handle-blur",
      "score": 3.35,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 15
+     "rank": 38
     },
     {
      "id": "belong-module12-S06-V11",
@@ -4039,7 +4039,7 @@
      "shoot": "pexels-spray-gun-workshop",
      "score": 0.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 31
+     "rank": 69
     },
     {
      "id": "belong-module12-S06-V12",
@@ -4069,7 +4069,7 @@
      "shoot": "pexels-hands-blur",
      "score": 1.7,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 25
+     "rank": 62
     },
     {
      "id": "belong-module12-S06-V13",
@@ -4099,7 +4099,7 @@
      "shoot": "pexels-snow-barn-door",
      "score": 2.65,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 22
+     "rank": 53
     },
     {
      "id": "belong-module12-S06-V14",
@@ -4129,7 +4129,7 @@
      "shoot": "pixabay-door-light-cg",
      "score": 1.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 28
+     "rank": 66
     },
     {
      "id": "belong-module12-S06-V15",
@@ -4151,7 +4151,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:33:34Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 7,
      "caption": "hand pours olive oil beside garlic on a woven mat",
@@ -4159,7 +4159,7 @@
      "shoot": "pixabay-olive-oil-kitchen",
      "score": 5.05,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 10
+     "rank": 21
     },
     {
      "id": "belong-module12-S06-V16",
@@ -4189,7 +4189,7 @@
      "shoot": "pixabay-ironing-board",
      "score": 7.3,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 4
+     "rank": 6
     },
     {
      "id": "belong-module12-S06-V17",
@@ -4219,7 +4219,7 @@
      "shoot": "pixabay-breakfast-plate",
      "score": 2.35,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 23
+     "rank": 55
     },
     {
      "id": "belong-module12-S06-V18",
@@ -4249,7 +4249,7 @@
      "shoot": "pixabay-hand-wash",
      "score": 0.7,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 30
+     "rank": 68
     },
     {
      "id": "belong-module12-S06-V19",
@@ -4279,7 +4279,7 @@
      "shoot": "pixabay-hand-sanitizer",
      "score": 1.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 29
+     "rank": 67
     },
     {
      "id": "belong-module12-S06-V20",
@@ -4309,7 +4309,7 @@
      "shoot": "pixabay-ski-lift",
      "score": 0.0,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 32
+     "rank": 72
     },
     {
      "id": "belong-module12-S06-V21",
@@ -4339,7 +4339,7 @@
      "shoot": "pixabay-candlelit-book",
      "score": 2.7,
      "judged_at": "2026-09-10T11:38:22Z",
-     "rank": 20
+     "rank": 50
     },
     {
      "id": "belong-module12-S06-V22",
@@ -4360,8 +4360,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:57:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman in a floral dress arranges plates and gold cutlery on a table",
+     "violation": "",
+     "shoot": "pexels-girl-floral-tableset",
+     "score": 5.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 13
     },
     {
      "id": "belong-module12-S06-V23",
@@ -4382,8 +4390,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:57:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands arrange autumn leaves and a card on teal plates",
+     "violation": "",
+     "shoot": "pexels-fall-tableset-teal",
+     "score": 5.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 22
     },
     {
      "id": "belong-module12-S06-V24",
@@ -4404,8 +4420,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:57:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "a man in a blazer and a woman set food on a modern dining table",
+     "violation": "",
+     "shoot": "pexels-modern-dinner-prep",
+     "score": 3.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 34
     },
     {
      "id": "belong-module12-S06-V25",
@@ -4426,8 +4450,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:58:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a candlelit table is set with black plates and pine wreaths",
+     "violation": "",
+     "shoot": "pexels-christmas-table",
+     "score": 5.3,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 19
     },
     {
      "id": "belong-module12-S06-V26",
@@ -4448,8 +4480,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:58:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a woman teaches a girl to hold a fork and knife at a wooden table",
+     "violation": "",
+     "shoot": "pexels-etiquette-lesson",
+     "score": 5.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 17
     },
     {
      "id": "belong-module12-S06-V27",
@@ -4470,8 +4510,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:58:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "hands place a thank-you card and wheat sprig on a table plate",
+     "violation": "",
+     "shoot": "pexels-fall-tableset-teal",
+     "score": 5.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 14
     },
     {
      "id": "belong-module12-S06-V28",
@@ -4485,15 +4533,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V28.strip.jpg",
      "title": "girl slicing food with a table knife",
      "query": "perfectly set table cutlery aligned",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "7491821",
      "download_url": "https://videos.pexels.com/video-files/7491821/7491821-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:59:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "two children eat breakfast with bread and orange juice at a table",
+     "violation": "",
+     "shoot": "pexels-kids-breakfast",
+     "score": 3.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 41
     },
     {
      "id": "belong-module12-S06-V29",
@@ -4514,8 +4570,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:59:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "a rustic outdoor table is set with blue goblets, bread and fresh fruit",
+     "violation": "",
+     "shoot": "pexels-garden-table-goblets",
+     "score": 6.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 9
     },
     {
      "id": "belong-module12-S06-V30",
@@ -4529,15 +4593,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V30.strip.jpg",
      "title": "person painting with a paint brush",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "6957408",
      "download_url": "https://videos.pexels.com/video-files/6957408/6957408-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:59:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a person paints red stain onto a wooden plank",
+     "violation": "",
+     "shoot": "pexels-diy-painting",
+     "score": 1.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 63
     },
     {
      "id": "belong-module12-S06-V31",
@@ -4551,15 +4623,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V31.strip.jpg",
      "title": "adding 2 stroke oil in motorcycle during service",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 52,
      "src_id": "28197087",
      "download_url": "https://videos.pexels.com/video-files/28197087/12324762_2522_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T11:59:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a mechanic services a motorcycle engine with gloved hands",
+     "violation": "construction and building trades",
+     "shoot": "pexels-moto-service",
+     "score": 0.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 70
     },
     {
      "id": "belong-module12-S06-V32",
@@ -4580,8 +4660,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:00:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a gloved hand drills a hinge into raw wood with a power tool",
+     "violation": "construction and building trades",
+     "shoot": "pexels-hinge-drill",
+     "score": 3.3,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 40
     },
     {
      "id": "belong-module12-S06-V33",
@@ -4595,15 +4683,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V33.strip.jpg",
      "title": "secure safe locking process in progress",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 24,
      "src_id": "39060937",
      "download_url": "https://videos.pexels.com/video-files/39060937/16622011_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:00:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand turns a key in a dark metal safe door",
+     "violation": "",
+     "shoot": "pexels-safe-lock",
+     "score": 2.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 56
     },
     {
      "id": "belong-module12-S06-V34",
@@ -4617,15 +4713,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V34.strip.jpg",
      "title": "a person lighting a palo santo",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "6573599",
      "download_url": "https://videos.pexels.com/video-files/6573599/6573599-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:00:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "hands wrap string around a palo santo stick near flowers",
+     "violation": "",
+     "shoot": "pexels-palo-santo",
+     "score": 3.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 42
     },
     {
      "id": "belong-module12-S06-V35",
@@ -4639,15 +4743,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V35.strip.jpg",
      "title": "open open door",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 5,
      "src_id": "4101574",
      "download_url": "https://videos.pexels.com/video-files/4101574/4101574-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:00:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand opens a dark door at a brick entrance",
+     "violation": "",
+     "shoot": "pexels-open-door-brick",
+     "score": 3.4,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 35
     },
     {
      "id": "belong-module12-S06-V36",
@@ -4661,15 +4773,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V36.strip.jpg",
      "title": "pan  oil  ingredients  cook  cooking  kitchen  meal  dish",
      "query": "door hinge oil hand",
-     "shot": "C",
+     "shot": "",
      "duration": 50,
      "src_id": "59785",
      "download_url": "https://cdn.pixabay.com/video/2020/12/20/59785-494332137_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:01:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "chicken pieces fry in oil in a dark pan",
+     "violation": "",
+     "shoot": "pixabay-fry-pan",
+     "score": 3.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 43
     },
     {
      "id": "belong-module12-S06-V37",
@@ -4690,8 +4810,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:01:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "an old padlock secures a weathered wooden barn door",
+     "violation": "",
+     "shoot": "pixabay-rustic-padlock",
+     "score": 4.4,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 27
     },
     {
      "id": "belong-module12-S06-V38",
@@ -4705,15 +4833,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V38.strip.jpg",
      "title": "drag lift  lift  to ski  ironing lift  ski lift  tractor  return station  redirection  ski sport  pulleys",
      "query": "ironing linen hands",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "13446",
      "download_url": "https://cdn.pixabay.com/video/2017/12/17/13446-248520529_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:01:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a ski lift chair hangs over a snowy mountain",
+     "violation": "",
+     "shoot": "pixabay-ski-lift",
+     "score": 0.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 73
     },
     {
      "id": "belong-module12-S06-V39",
@@ -4734,8 +4870,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:02:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands slice a carrot into rounds on a wooden board",
+     "violation": "",
+     "shoot": "pixabay-carrot-cutting",
+     "score": 4.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 28
     },
     {
      "id": "belong-module12-S06-V40",
@@ -4756,8 +4900,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:02:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands chop green onions on a wooden cutting board",
+     "violation": "",
+     "shoot": "pixabay-herb-cutting",
+     "score": 4.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 24
     },
     {
      "id": "belong-module12-S06-V41",
@@ -4778,8 +4930,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:02:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "hands slice mushrooms on a wooden board in a kitchen",
+     "violation": "",
+     "shoot": "pixabay-mushroom-cutting",
+     "score": 3.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 32
     },
     {
      "id": "belong-module12-S06-V42",
@@ -4800,8 +4960,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:03:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands slice a tomato on a plastic board at an outdoor table",
+     "violation": "",
+     "shoot": "pixabay-tomato-camping",
+     "score": 3.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 39
     },
     {
      "id": "belong-module12-S06-V43",
@@ -4815,15 +4983,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V43.strip.jpg",
      "title": "tomato  fruit  knife  vegan  vegetables  vegetarian  diet  salad  food",
      "query": "knife sharpening whetstone",
-     "shot": "A",
+     "shot": "D",
      "duration": 24,
      "src_id": "75271",
      "download_url": "https://cdn.pixabay.com/video/2021/05/25/75271-555047154_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:03:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "two women in evening wear raise champagne glasses at a candlelit table",
+     "violation": "",
+     "shoot": "pixabay-champagne-toast",
+     "score": 2.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 54
     },
     {
      "id": "belong-module12-S06-V44",
@@ -4844,8 +5020,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:11:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a single egg rests on a white plate beside a folded napkin and flowers",
+     "violation": "",
+     "shoot": "pexels-egg-plate-styling",
+     "score": 5.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 15
     },
     {
      "id": "belong-module12-S06-V45",
@@ -4866,8 +5050,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a brown egg sits centered on a white plate with pale flowers nearby",
+     "violation": "",
+     "shoot": "pexels-egg-plate-styling",
+     "score": 5.65,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 16
     },
     {
      "id": "belong-module12-S06-V46",
@@ -4888,8 +5080,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "a round table is set with white linen and glassware in a dim banquet hall",
+     "violation": "",
+     "shoot": "pexels-banquet-table",
+     "score": 3.95,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 31
     },
     {
      "id": "belong-module12-S06-V47",
@@ -4903,15 +5103,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V47.strip.jpg",
      "title": "hotel buffet",
      "query": "perfectly set table cutlery aligned",
-     "shot": "D",
+     "shot": "",
      "duration": 15,
      "src_id": "857149",
      "download_url": "https://videos.pexels.com/video-files/857149/857149-hd_1920_742_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a commercial buffet restaurant with orange chairs and place settings",
+     "violation": "corporate hotel chains",
+     "shoot": "pexels-hotel-buffet",
+     "score": 1.95,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 61
     },
     {
      "id": "belong-module12-S06-V48",
@@ -4932,8 +5140,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a woman arranges orange flowers and plates on an outdoor wooden table",
+     "violation": "",
+     "shoot": "pexels-outdoor-table-styling",
+     "score": 7.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 5
     },
     {
      "id": "belong-module12-S06-V49",
@@ -4954,8 +5170,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a woman teaches a girl table manners in a bright modern dining room",
+     "violation": "",
+     "shoot": "pexels-etiquette-modern",
+     "score": 3.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 33
     },
     {
      "id": "belong-module12-S06-V50",
@@ -4976,8 +5200,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "wine glasses and folded napkins are arranged on a dark restaurant table",
+     "violation": "",
+     "shoot": "pexels-restaurant-cutlery",
+     "score": 4.95,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 23
     },
     {
      "id": "belong-module12-S06-V51",
@@ -4998,8 +5230,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "people share a soup meal at a table set with orange flowers",
+     "violation": "",
+     "shoot": "pexels-soup-meal",
+     "score": 4.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 25
     },
     {
      "id": "belong-module12-S06-V52",
@@ -5020,8 +5260,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "an iron presses smooth over a white linen cloth close to a face",
+     "violation": "",
+     "shoot": "pexels-linen-ironing",
+     "score": 8.3,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 1
     },
     {
      "id": "belong-module12-S06-V53",
@@ -5035,15 +5283,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V53.strip.jpg",
      "title": "person using angle grinder",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "6046351",
      "download_url": "https://videos.pexels.com/video-files/6046351/6046351-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an angle grinder throws sparks while cutting metal",
+     "violation": "construction and building trades",
+     "shoot": "pexels-angle-grinder",
+     "score": 0.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 74
     },
     {
      "id": "belong-module12-S06-V54",
@@ -5057,15 +5313,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V54.strip.jpg",
      "title": "a girl opening the door",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 12,
      "src_id": "8746855",
      "download_url": "https://videos.pexels.com/video-files/8746855/8746855-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:12:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a laughing child opens an interior door at home",
+     "violation": "",
+     "shoot": "pexels-kid-door",
+     "score": 3.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 44
     },
     {
      "id": "belong-module12-S06-V55",
@@ -5079,15 +5343,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V55.strip.jpg",
      "title": "close up footage of a woman getting out of the elevator",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 6,
      "src_id": "5075507",
      "download_url": "https://videos.pexels.com/video-files/5075507/5075507-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a woman opens a blue rustic door into a warmly lit room",
+     "violation": "",
+     "shoot": "pexels-rustic-door-open",
+     "score": 3.4,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 36
     },
     {
      "id": "belong-module12-S06-V56",
@@ -5101,15 +5373,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V56.strip.jpg",
      "title": "a woman smelling the fragrance of an essential oil",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "6707261",
      "download_url": "https://videos.pexels.com/video-files/6707261/6707261-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a woman smells oil from a small bottle beside a box of vials",
+     "violation": "",
+     "shoot": "pexels-essential-oil",
+     "score": 2.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 57
     },
     {
      "id": "belong-module12-S06-V57",
@@ -5123,15 +5403,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V57.strip.jpg",
      "title": "video of paintbrush",
      "query": "oiling door hinge close up",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "8814079",
      "download_url": "https://videos.pexels.com/video-files/8814079/8814079-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "hands arrange a set of makeup brushes on a table",
+     "violation": "",
+     "shoot": "pexels-makeup-brushes",
+     "score": 2.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 58
     },
     {
      "id": "belong-module12-S06-V58",
@@ -5145,15 +5433,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V58.strip.jpg",
      "title": "drag lift  lift  to ski  ironing lift  winter fun  winter sports  ski lift  tractor  return station  redirection  ski sport  pulleys",
      "query": "ironing linen hands",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "13445",
      "download_url": "https://cdn.pixabay.com/video/2017/12/17/13445-248520525_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a ski lift chair hangs over a snowy mountain",
+     "violation": "",
+     "shoot": "pixabay-ski-lift",
+     "score": 0.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 75
     },
     {
      "id": "belong-module12-S06-V59",
@@ -5167,15 +5463,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V59.strip.jpg",
      "title": "key  take  open  key code  instrument  door",
      "query": "door hinge oil hand",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "131988",
      "download_url": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand reaches for a small key on a wooden table",
+     "violation": "",
+     "shoot": "pixabay-key-table",
+     "score": 2.7,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 51
     },
     {
      "id": "belong-module12-S06-V60",
@@ -5189,15 +5493,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V60.strip.jpg",
      "title": "ruins  house  burnt  burned  building  door  nails  light  architecture  old",
      "query": "door hinge oil hand",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "20265",
      "download_url": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "sunlight enters broken windows of an abandoned building",
+     "violation": "",
+     "shoot": "pixabay-ruins",
+     "score": 0.35,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 71
     },
     {
      "id": "belong-module12-S06-V61",
@@ -5211,15 +5523,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V61.strip.jpg",
      "title": "gate  door  afterlife  ghost  journey  new age  out of body experience  reincarnation  religion  science  spirituality  walking  yoga  door of light  man  walk  path  into light",
      "query": "door hinge oil hand",
-     "shot": "C",
+     "shot": "",
      "duration": 13,
      "src_id": "203363",
      "download_url": "https://cdn.pixabay.com/video/2024/03/07/203363-920724138_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a silhouette walks toward a glowing doorway in darkness",
+     "violation": "",
+     "shoot": "pixabay-glow-door",
+     "score": 0.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 76
     },
     {
      "id": "belong-module12-S06-V62",
@@ -5240,8 +5560,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 8,
+     "caption": "hands slice a warm loaf of bread on a rustic wooden table",
+     "violation": "",
+     "shoot": "pexels-bread-slicing",
+     "score": 6.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 10
     },
     {
      "id": "belong-module12-S06-V63",
@@ -5255,15 +5583,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V63.strip.jpg",
      "title": "onion  cooking  kitchen  cookhouse  food  cook  chef  pot  cuisine  eat  preparing  ingredients  baking  restaurant  preparation  recipe  knife  spices  pizza  soup",
      "query": "knife sharpening whetstone",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "36004",
      "download_url": "https://cdn.pixabay.com/video/2020/04/15/36004-409042478_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:13:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "sliced red onion cooks in oil in a pan on a stove",
+     "violation": "",
+     "shoot": "pixabay-onion-pan",
+     "score": 3.05,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 45
     },
     {
      "id": "belong-module12-S06-V64",
@@ -5284,8 +5620,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:14:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "an extreme close-up of a damascus knife blade in a palm",
+     "violation": "",
+     "shoot": "pixabay-knife-macro",
+     "score": 7.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 8
     },
     {
      "id": "belong-module12-S06-V65",
@@ -5299,15 +5643,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module12/S06__strip__belong-module12-S06-V65.strip.jpg",
      "title": "raw  meat  slice  knife  fresh  uncooked  red  protein  dark  grotesque",
      "query": "knife sharpening whetstone",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "14685",
      "download_url": "https://cdn.pixabay.com/video/2018/03/04/14685-258543601_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T12:14:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a knife slices raw meat on a plate under moody purple light",
+     "violation": "",
+     "shoot": "pixabay-meat-purple",
+     "score": 2.0,
+     "judged_at": "2026-09-10T18:35:15Z",
+     "rank": 59
     }
    ],
    "timing_source": "estimated",
@@ -5348,7 +5700,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:27:29Z",
-   "judged_at": "2026-09-10T11:38:22Z",
+   "judged_at": "2026-09-10T18:35:15Z",
    "t": 169.66,
    "end": 217.66
   },
