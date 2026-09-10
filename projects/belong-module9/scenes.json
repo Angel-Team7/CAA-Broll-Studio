@@ -5439,7 +5439,7 @@
      "shot": "A",
      "shoot": "pexels-reception-masked-couple",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 14,
+     "rank": 20,
      "shown": false
     },
     {
@@ -5466,7 +5466,7 @@
      "shot": "C",
      "shoot": "pexels-reception-masked-woman",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 15,
+     "rank": 21,
      "shown": false
     },
     {
@@ -5491,7 +5491,7 @@
      "shot": "A",
      "shoot": "pexels-reception-masked-couple",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 16,
+     "rank": 22,
      "shown": false
     },
     {
@@ -5516,7 +5516,7 @@
      "shot": "",
      "shoot": "stock-tv-static",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 27,
+     "rank": 45,
      "shown": false
     },
     {
@@ -5541,7 +5541,7 @@
      "shot": "D",
      "shoot": "pixabay-mug-laptop",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 11,
+     "rank": 15,
      "shown": false
     },
     {
@@ -5569,7 +5569,7 @@
      "shot": "B",
      "shoot": "pexels-plates-outdoor-table",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -5649,8 +5649,8 @@
      "shot": "B",
      "shoot": "pexels-waiter-order-upscale",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 10,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-module9-S01-V12",
@@ -5678,7 +5678,7 @@
      "shot": "",
      "shoot": "pixabay-pyramid-corporate",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 28,
+     "rank": 46,
      "shown": false
     },
     {
@@ -5707,7 +5707,7 @@
      "shot": "",
      "shoot": "pixabay-aigenerated-lobby",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 29,
+     "rank": 47,
      "shown": false
     },
     {
@@ -5736,7 +5736,7 @@
      "shot": "D",
      "shoot": "pixabay-masked-laptop",
      "judged_at": "2026-09-09T16:29:58Z",
-     "rank": 18,
+     "rank": 26,
      "shown": false
     },
     {
@@ -5767,7 +5767,7 @@
      "shoot": "pexels-phone-scroll-home",
      "score": 4.35,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 3
+     "rank": 4
     },
     {
      "id": "belong-module9-S01-V18",
@@ -5797,7 +5797,7 @@
      "shoot": "pexels-phone-scroll-dark",
      "score": 3.35,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 7
+     "rank": 10
     },
     {
      "id": "belong-module9-S01-V19",
@@ -5827,7 +5827,7 @@
      "shoot": "pexels-plated-sliders",
      "score": 2.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 12
+     "rank": 16
     },
     {
      "id": "belong-module9-S01-V20",
@@ -5857,7 +5857,7 @@
      "shoot": "pexels-industrial-pizza-kitchen",
      "score": 1.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 19
+     "rank": 27
     },
     {
      "id": "belong-module9-S01-V21",
@@ -5887,7 +5887,7 @@
      "shoot": "pexels-pizza-peel",
      "score": 1.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 20
+     "rank": 28
     },
     {
      "id": "belong-module9-S01-V22",
@@ -5909,7 +5909,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:56:05Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 4,
      "caption": "a hand scrolls a shopping app on a smartphone",
@@ -5917,7 +5917,7 @@
      "shoot": "pexels-phone-scroll-app",
      "score": 3.35,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 8
+     "rank": 11
     },
     {
      "id": "belong-module9-S01-V23",
@@ -5939,7 +5939,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T16:56:11Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 4,
      "caption": "a hand scrolls a smartphone screen resting in a lap",
@@ -5947,7 +5947,7 @@
      "shoot": "pexels-phone-scroll-lap",
      "score": 3.35,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 9
+     "rank": 12
     },
     {
      "id": "belong-module9-S01-V24",
@@ -5977,7 +5977,7 @@
      "shoot": "pexels-waiter-nightclub",
      "score": 1.65,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 24
+     "rank": 34
     },
     {
      "id": "belong-module9-S01-V25",
@@ -6007,7 +6007,7 @@
      "shoot": "pexels-commercial-plating",
      "score": 1.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 21
+     "rank": 29
     },
     {
      "id": "belong-module9-S01-V26",
@@ -6037,7 +6037,7 @@
      "shoot": "pexels-commercial-plating-2",
      "score": 1.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 22
+     "rank": 30
     },
     {
      "id": "belong-module9-S01-V27",
@@ -6067,7 +6067,7 @@
      "shoot": "pexels-phone-dog-couch",
      "score": 4.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 1
+     "rank": 2
     },
     {
      "id": "belong-module9-S01-V28",
@@ -6097,7 +6097,7 @@
      "shoot": "pexels-buffet-counter",
      "score": 4.05,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 4
+     "rank": 5
     },
     {
      "id": "belong-module9-S01-V29",
@@ -6127,7 +6127,7 @@
      "shoot": "pexels-croquette-lamp",
      "score": 1.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 23
+     "rank": 31
     },
     {
      "id": "belong-module9-S01-V30",
@@ -6157,7 +6157,7 @@
      "shoot": "pexels-phone-scroll-table",
      "score": 4.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 5
+     "rank": 6
     },
     {
      "id": "belong-module9-S01-V31",
@@ -6187,7 +6187,7 @@
      "shoot": "pexels-picnic-greenscreen",
      "score": 2.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 13
+     "rank": 17
     },
     {
      "id": "belong-module9-S01-V32",
@@ -6217,7 +6217,7 @@
      "shoot": "pexels-phone-deck",
      "score": 3.7,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 6
+     "rank": 8
     },
     {
      "id": "belong-module9-S01-V33",
@@ -6247,7 +6247,7 @@
      "shoot": "pixabay-airport-baggage",
      "score": 2.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 17
+     "rank": 23
     },
     {
      "id": "belong-module9-S01-V34",
@@ -6277,7 +6277,7 @@
      "shoot": "pixabay-highrise-resort",
      "score": 0.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 30
+     "rank": 48
     },
     {
      "id": "belong-module9-S01-V35",
@@ -6307,7 +6307,7 @@
      "shoot": "pixabay-luxury-lobby",
      "score": 0.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 31
+     "rank": 49
     },
     {
      "id": "belong-module9-S01-V36",
@@ -6337,7 +6337,7 @@
      "shoot": "pixabay-resort-pool",
      "score": 0.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 32
+     "rank": 50
     },
     {
      "id": "belong-module9-S01-V37",
@@ -6367,7 +6367,7 @@
      "shoot": "pixabay-plain-hotel-room",
      "score": 1.0,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 26
+     "rank": 42
     },
     {
      "id": "belong-module9-S01-V38",
@@ -6397,7 +6397,7 @@
      "shoot": "pixabay-train-station",
      "score": 1.35,
      "judged_at": "2026-09-09T18:08:11Z",
-     "rank": 25
+     "rank": 35
     },
     {
      "id": "belong-module9-S01-V39",
@@ -6411,15 +6411,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V39.strip.jpg",
      "title": "man carrying a plate of vietnamese fresh spring rolls",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "6645680",
      "download_url": "https://videos.pexels.com/video-files/6645680/6645680-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A hand carries a plate of spring rolls with dipping sauce",
+     "violation": "",
+     "shoot": "pexels-spring-rolls-outdoor",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 32
     },
     {
      "id": "belong-module9-S01-V40",
@@ -6433,15 +6441,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V40.strip.jpg",
      "title": "a man preparing food while talking to his customers",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 17,
      "src_id": "5920174",
      "download_url": "https://videos.pexels.com/video-files/5920174/5920174-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A chef works inside a food truck kitchen",
+     "violation": "",
+     "shoot": "pexels-foodtruck-chef-talking",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 36
     },
     {
      "id": "belong-module9-S01-V41",
@@ -6455,15 +6471,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V41.strip.jpg",
      "title": "waiter serving street food to customers",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 28,
      "src_id": "5920314",
      "download_url": "https://videos.pexels.com/video-files/5920314/5920314-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A food truck chef chats with two smiling customers",
+     "violation": "",
+     "shoot": "pexels-foodtruck-couple-serving",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 37
     },
     {
      "id": "belong-module9-S01-V42",
@@ -6477,15 +6501,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V42.strip.jpg",
      "title": "a person putting cream on a small plate",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "4555803",
      "download_url": "https://videos.pexels.com/video-files/4555803/4555803-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A hand pipes cream onto a small ceramic plate",
+     "violation": "",
+     "shoot": "pexels-plating-cream-closeup",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 33
     },
     {
      "id": "belong-module9-S01-V43",
@@ -6499,15 +6531,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V43.strip.jpg",
      "title": "hamburger being prepared by chef in a foodtruck",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "5920312",
      "download_url": "https://videos.pexels.com/video-files/5920312/5920312-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A chef plates a dish inside a food truck",
+     "violation": "",
+     "shoot": "pexels-chef-foodtruck-plating",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 38
     },
     {
      "id": "belong-module9-S01-V44",
@@ -6521,15 +6561,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V44.strip.jpg",
      "title": "serving food in a local eatery",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 9,
      "src_id": "39350848",
      "download_url": "https://videos.pexels.com/video-files/39350848/16749496_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "A gloved server scoops rice from a large pot",
+     "violation": "",
+     "shoot": "pexels-rice-serving-eatery",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 18
     },
     {
      "id": "belong-module9-S01-V45",
@@ -6543,15 +6591,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V45.strip.jpg",
      "title": "gourmet cod plated with vegetables",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "28743417",
      "download_url": "https://videos.pexels.com/video-files/28743417/12463079_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "A plated fish dish sits garnished with vegetables",
+     "violation": "",
+     "shoot": "pexels-gourmet-cod-plate",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 43
     },
     {
      "id": "belong-module9-S01-V46",
@@ -6565,15 +6621,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V46.strip.jpg",
      "title": "close up of preparing cakes",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "12678033",
      "download_url": "https://videos.pexels.com/video-files/12678033/12678033-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "A hand pipes cream onto small pastries on plates",
+     "violation": "",
+     "shoot": "pexels-pastry-plating-dim",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 44
     },
     {
      "id": "belong-module9-S01-V47",
@@ -6594,8 +6658,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:25:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "Black-and-white close-up of hands holding a smartphone",
+     "violation": "",
+     "shoot": "pexels-bw-phone-hands",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 9
     },
     {
      "id": "belong-module9-S01-V48",
@@ -6616,8 +6688,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "Overhead hands hold a phone beside a notebook and coffee",
+     "violation": "",
+     "shoot": "pexels-flatlay-phone-notebook",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 14
     },
     {
      "id": "belong-module9-S01-V49",
@@ -6638,8 +6718,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "A woman scrolls through social media on her phone",
+     "violation": "",
+     "shoot": "pexels-woman-social-scroll",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 1
     },
     {
      "id": "belong-module9-S01-V50",
@@ -6653,15 +6741,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V50.strip.jpg",
      "title": "close up video of phone camera",
      "query": "hands reading review on phone",
-     "shot": "D",
+     "shot": "",
      "duration": 15,
      "src_id": "853818",
      "download_url": "https://videos.pexels.com/video-files/853818/853818-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A hand holds a phone photographing a city skyline",
+     "violation": "",
+     "shoot": "pexels-phone-camera-skyline",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 39
     },
     {
      "id": "belong-module9-S01-V51",
@@ -6682,8 +6778,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "A hand scrolls a blank phone screen on a wood table",
+     "violation": "",
+     "shoot": "pexels-phone-blank-screen-wood",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 7
     },
     {
      "id": "belong-module9-S01-V52",
@@ -6697,15 +6801,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V52.strip.jpg",
      "title": "person writing on a piece of paper",
      "query": "hands reading review on phone",
-     "shot": "D",
+     "shot": "",
      "duration": 7,
      "src_id": "7947485",
      "download_url": "https://videos.pexels.com/video-files/7947485/7947485-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A hand writes notes beside a phone showing a chart",
+     "violation": "",
+     "shoot": "pexels-phone-chart-notes",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 40
     },
     {
      "id": "belong-module9-S01-V53",
@@ -6719,15 +6831,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V53.strip.jpg",
      "title": "ai generated  book  reading  magic  study  literature  read  poetry  paper  page  fantasy",
      "query": "hand phone reading review",
-     "shot": "D",
+     "shot": "",
      "duration": 8,
      "src_id": "188807",
      "download_url": "https://cdn.pixabay.com/video/2023/11/12/188807-883827737_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Glowing pages swirl above an open book in the dark",
+     "violation": "",
+     "shoot": "pixabay-ai-book-glow",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 51
     },
     {
      "id": "belong-module9-S01-V54",
@@ -6741,15 +6861,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V54.strip.jpg",
      "title": "novel  flip  page  flipping  chapter  education  book  turning  letters  writing  dictionary  tale  medicine  inspiration  storytelling  stack  literature  learning  material  human hand  paper  reading  text",
      "query": "hand phone reading review",
-     "shot": "D",
+     "shot": "",
      "duration": 16,
      "src_id": "143683",
      "download_url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "An open book's pages glow with magical light",
+     "violation": "",
+     "shoot": "pixabay-ai-book-glow",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 52
     },
     {
      "id": "belong-module9-S01-V55",
@@ -6763,15 +6891,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V55.strip.jpg",
      "title": "hotel  room  travel  service  bed  vacation  reception  apartment  lifestyle  business  resort",
      "query": "hotel reception guest complaint",
-     "shot": "A",
+     "shot": "",
      "duration": 7,
      "src_id": "135167",
      "download_url": "https://cdn.pixabay.com/video/2022/10/16/135167-761273582_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A tidy hotel bedroom with pillows and a seascape painting",
+     "violation": "",
+     "shoot": "pixabay-hotel-bedroom",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 41
     },
     {
      "id": "belong-module9-S01-V56",
@@ -6785,15 +6921,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V56.strip.jpg",
      "title": "tarmac  airport  turbine  luggage  transportation  aviation  aircraft  airplane  flight  departure  airliner  passengers  deboarding",
      "query": "traveler luggage arrival evening",
-     "shot": "C",
+     "shot": "",
      "duration": 38,
      "src_id": "6414",
      "download_url": "https://cdn.pixabay.com/video/2016/11/15/6414-191719619_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "Airport ground crew stand beside a parked jet engine",
+     "violation": "",
+     "shoot": "pixabay-airport-tarmac-crew",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 24
     },
     {
      "id": "belong-module9-S01-V57",
@@ -6807,15 +6951,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V57.strip.jpg",
      "title": "cockpit  space travel  arrival  planet  mars  welcome  futuristic  technology  astronomy",
      "query": "traveler luggage arrival evening",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "174071",
      "download_url": "https://cdn.pixabay.com/video/2023/07/31/174071-850361338_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:26:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "A spaceship cockpit overlooks a Mars-like landscape",
+     "violation": "",
+     "shoot": "pixabay-scifi-mars-cockpit",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 53
     },
     {
      "id": "belong-module9-S01-V58",
@@ -6829,15 +6981,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V58.strip.jpg",
      "title": "ufo  saucer  alien  arrival  spaceship  extraterrestrial  spacecraft  flying  ship  welcome  science-fiction  3d  universe  martian  technology  fiction  cosmos  galaxy",
      "query": "traveler luggage arrival evening",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "40604",
      "download_url": "https://cdn.pixabay.com/video/2020/05/30/40604-426174976_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:27:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "A glowing UFO hovers over a dark field",
+     "violation": "",
+     "shoot": "pixabay-ufo-field",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 54
     },
     {
      "id": "belong-module9-S01-V59",
@@ -6858,8 +7018,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:27:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "Black-and-white view of an airport baggage carousel",
+     "violation": "",
+     "shoot": "pixabay-baggage-claim-bw",
+     "score": 2.65,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 19
     },
     {
      "id": "belong-module9-S01-V60",
@@ -6873,15 +7041,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module9-3/S01__strip__belong-module9-S01-V60.strip.jpg",
      "title": "baggage claim  luggage  conveyor  travel  airport  transportation  terminal  carousel  airline  baggage",
      "query": "traveler luggage arrival evening",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "5643",
      "download_url": "https://cdn.pixabay.com/video/2016/09/22/5643-183850485_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:27:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "Blurred black-and-white luggage moves on a conveyor belt",
+     "violation": "",
+     "shoot": "pixabay-baggage-claim-bw",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:25:26Z",
+     "rank": 25
     }
    ],
    "shots": [
@@ -6923,11 +7099,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T18:08:11Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-09-10T09:25:26Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T18:08:11Z"
+   "judged_at": "2026-09-10T09:25:26Z"
   },
   {
    "id": "S07",
