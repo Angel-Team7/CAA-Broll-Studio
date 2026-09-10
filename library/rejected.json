@@ -4632,10 +4632,10 @@
   "from": "extreme-ownership-v2/S01"
  },
  "pixabay:138931": {
-  "brand": "belong",
-  "reason": "off-brand horror content",
-  "at": "2026-09-10T09:13:38Z",
-  "from": "belong-module1/S06"
+  "brand": "edenrise",
+  "reason": "abstract loops, ruins/abandoned",
+  "at": "2026-09-10T09:15:25Z",
+  "from": "lesson-no-failure-feedback/S06"
  },
  "pexels:14592740": {
   "brand": "edenrise",
@@ -4696,5 +4696,11 @@
   "reason": "abstract loops",
   "at": "2026-09-10T09:15:17Z",
   "from": "edenrise-c2-kaizen/S01"
+ },
+ "pixabay:63328": {
+  "brand": "edenrise",
+  "reason": "cartoons",
+  "at": "2026-09-10T09:15:25Z",
+  "from": "lesson-no-failure-feedback/S06"
  }
 }
