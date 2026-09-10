@@ -202,3 +202,25 @@
 | pixabay | pottery  clay  handicraft  modeling  craft  art  dirty  cera | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41390/ |
 | pixabay | student  to write  to study  work  task  issue  question  st | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131990/ |
 | pixabay | begin  hook  presentation  change  reorganization  new begin | geralt | Pixabay Content License | https://pixabay.com/videos/id-541/ |
+| pexels | industrial machinery cleaning with brush tool | Mumtaz  Niazi | Pexels License | https://www.pexels.com/video/industrial-machinery-cleaning-with-brush-tool-35535613/ |
+| pexels | a person holding a paint brush | Anna Shvets | Pexels License | https://www.pexels.com/video/a-person-holding-a-paint-brush-5758634/ |
+| pexels | close up video of painting materials | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-video-of-painting-materials-8347734/ |
+| pexels | a man brushing a lumber wood | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-brushing-a-lumber-wood-5973223/ |
+| pexels | close up footage of a person putting paint on a brush | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-putting-paint-on-a-brush-9736808/ |
+| pexels | artist painting on canvas with spatula | Thirdman | Pexels License | https://www.pexels.com/video/artist-painting-on-canvas-with-spatula-6931942/ |
+| pexels | painting a piece of wood | Aleksandar Petrovic | Pexels License | https://www.pexels.com/video/painting-a-piece-of-wood-6561655/ |
+| pexels | crop person holding brush tool | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/crop-person-holding-brush-tool-6474254/ |
+| pexels | house apartment home clean | cottonbro studio | Pexels License | https://www.pexels.com/video/house-apartment-home-clean-4109227/ |
+| pexels | wood man hands working | Ono  Kosuki | Pexels License | https://www.pexels.com/video/wood-man-hands-working-5972650/ |
+| pexels | person looking the plan | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-looking-the-plan-6473952/ |
+| pexels | man and woman looking at the under construction house | Thirdman | Pexels License | https://www.pexels.com/video/man-and-woman-looking-at-the-under-construction-house-8471068/ |
+| pexels | woman wearing protective gear looking at the camera | Kindel Media | Pexels License | https://www.pexels.com/video/woman-wearing-protective-gear-looking-at-the-camera-8486728/ |
+| pexels | a man and woman looking at the window | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-and-woman-looking-at-the-window-8726424/ |
+| pixabay | builder  machine  mason  construction  building  work  archi | Digital_Expert | Pixabay Content License | https://pixabay.com/videos/id-88231/ |
+| pixabay | fog  landscape  ground fog  mystical  mist  nature | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-103840/ |
+| pixabay | fog  landscape  ground fog  mist  mystical | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-103810/ |
+| pixabay | tomato sauce  ground beef  pasta  spaghetti  bolognese sauce | rogeriodasilvadotcom | Pixabay Content License | https://pixabay.com/videos/id-4658/ |
+| pixabay | tree  house  wall  windows  wind | ForceLabs | Pixabay Content License | https://pixabay.com/videos/id-44374/ |
+| pixabay | moss  wood  wall  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20264/ |
+| pixabay | workers  builders  job  work  colombia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-135892/ |
+| pixabay | coffee  espresso  coffee beans  beans  cup  datailaufnahme   | ThorstenF | Pixabay Content License | https://pixabay.com/videos/id-15483/ |
