@@ -238,3 +238,25 @@
 | pixabay | food  mushrooms  knife  nutrition  cut | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-8477/ |
 | pixabay | tomato  knife  cutting board  cooking utensils  sunshine  ca | JiyaH96 | Pixabay Content License | https://pixabay.com/videos/id-133983/ |
 | pixabay | tomato  fruit  knife  vegan  vegetables  vegetarian  diet  s | SergioParadox | Pixabay Content License | https://pixabay.com/videos/id-75271/ |
+| pexels | people drinking alcoholic beverages | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/people-drinking-alcoholic-beverages-5478764/ |
+| pexels | egg spinning on a plate | Ivan S | Pexels License | https://www.pexels.com/video/egg-spinning-on-a-plate-7121321/ |
+| pexels | a table setting on a wedding reception | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-table-setting-on-a-wedding-reception-8247208/ |
+| pexels | hotel buffet | Vimeo | Pexels License | https://www.pexels.com/video/hotel-buffet-857149/ |
+| pexels | elderly woman arranging dinning table | RDNE Stock project | Pexels License | https://www.pexels.com/video/elderly-woman-arranging-dinning-table-5848304/ |
+| pexels | mother teaching her daughter about table etiquette | Monstera Production | Pexels License | https://www.pexels.com/video/mother-teaching-her-daughter-about-table-etiquette-7123918/ |
+| pexels | cutleries on the table | Bonus Studio | Pexels License | https://www.pexels.com/video/cutleries-on-the-table-5498728/ |
+| pexels | person teaching napkin etiquette | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-teaching-napkin-etiquette-6958202/ |
+| pexels | a teenager holding a flat iron sticking on a cloth | cottonbro studio | Pexels License | https://www.pexels.com/video/a-teenager-holding-a-flat-iron-sticking-on-a-cloth-7705261/ |
+| pexels | person using angle grinder | K | Pexels License | https://www.pexels.com/video/person-using-angle-grinder-6046351/ |
+| pexels | a girl opening the door | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-girl-opening-the-door-8746855/ |
+| pexels | close up footage of a woman getting out of the elevator | Kamaji Ogino | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-woman-getting-out-of-the-elevator-5075507/ |
+| pexels | a woman smelling the fragrance of an essential oil | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-smelling-the-fragrance-of-an-essential-oil-6707261/ |
+| pexels | video of paintbrush | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/video-of-paintbrush-8814079/ |
+| pixabay | drag lift  lift  to ski  ironing lift  winter fun  winter sp | Hans | Pixabay Content License | https://pixabay.com/videos/id-13445/ |
+| pixabay | key  take  open  key code  instrument  door | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131988/ |
+| pixabay | ruins  house  burnt  burned  building  door  nails  light  a | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20265/ |
+| pixabay | gate  door  afterlife  ghost  journey  new age  out of body  | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-203363/ |
+| pixabay | bread  knife  breakfast  healthy  home  bakery  baked  flour | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-63066/ |
+| pixabay | onion  cooking  kitchen  cookhouse  food  cook  chef  pot  c | Artvan93 | Pixabay Content License | https://pixabay.com/videos/id-36004/ |
+| pixabay | knife  sharp  utensils  cook  kitchen  restaurant | SergioParadox | Pixabay Content License | https://pixabay.com/videos/id-75267/ |
+| pixabay | raw  meat  slice  knife  fresh  uncooked  red  protein  dark | StefWithAnF | Pixabay Content License | https://pixabay.com/videos/id-14685/ |
