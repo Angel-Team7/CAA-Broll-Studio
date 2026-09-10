@@ -7141,7 +7141,7 @@
      "shot": "",
      "shoot": "pexels-manager-suit-phone",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 10,
+     "rank": 21,
      "shown": false
     },
     {
@@ -7170,8 +7170,8 @@
      "shot": "B",
      "shoot": "pexels-rebar-worker",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V03",
@@ -7199,7 +7199,7 @@
      "shot": "B",
      "shoot": "pexels-wheelbarrow-street",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 1,
+     "rank": 8,
      "shown": true
     },
     {
@@ -7224,7 +7224,7 @@
      "shot": "",
      "shoot": "mixkit-sunflower-field",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 15,
+     "rank": 31,
      "shown": false
     },
     {
@@ -7251,8 +7251,8 @@
      "shot": "",
      "shoot": "pixabay-misty-sunrise",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 8,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V13",
@@ -7276,7 +7276,7 @@
      "shot": "",
      "shoot": "pixabay-clouds-sunset",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 13,
+     "rank": 24,
      "shown": false
     },
     {
@@ -7304,8 +7304,8 @@
      "shot": "",
      "shoot": "pexels-building-timelapse",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 12,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-I01",
@@ -7375,8 +7375,8 @@
      "shot": "",
      "shoot": "pexels-asphalt-crew",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 4,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V16",
@@ -7404,8 +7404,8 @@
      "shot": "",
      "shoot": "pixabay-desert-road",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 9,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V17",
@@ -7433,8 +7433,8 @@
      "shot": "",
      "shoot": "pexels-hivis-netting",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V18",
@@ -7462,7 +7462,7 @@
      "shot": "",
      "shoot": "pexels-road-roller",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 14,
+     "rank": 25,
      "shown": false
     },
     {
@@ -7491,8 +7491,8 @@
      "shot": "",
      "shoot": "pexels-aerial-rebar",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 7,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V20",
@@ -7538,8 +7538,8 @@
      "shot": "",
      "shoot": "pexels-street-crouch",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 5,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V22",
@@ -7567,7 +7567,7 @@
      "shot": "",
      "shoot": "pixabay-bee-flower",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 16,
+     "rank": 32,
      "shown": false
     },
     {
@@ -7596,7 +7596,7 @@
      "shot": "",
      "shoot": "pexels-shirtless-grinder",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 11,
+     "rank": 22,
      "shown": false
     },
     {
@@ -7625,8 +7625,8 @@
      "shot": "C",
      "shoot": "pixabay-sanding-closeup",
      "judged_at": "2026-09-09T19:31:13Z",
-     "rank": 2,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V25",
@@ -7640,15 +7640,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V25.strip.jpg",
      "title": "close up view of person drawing on a paper",
      "query": "hands fine task mastery close",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "6996519",
      "download_url": "https://videos.pexels.com/video-files/6996519/6996519-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a child draws with a pencil at a table",
+     "violation": "",
+     "shoot": "pexels-child-drawing-table",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V26",
@@ -7669,8 +7677,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:10:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a hand carefully cuts a fine line on a wood surface",
+     "violation": "",
+     "shoot": "pexels-fine-cutting-closeup",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V27",
@@ -7691,8 +7707,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands sharpen a pencil with a small blade",
+     "violation": "",
+     "shoot": "pexels-pencil-sharpen-blade",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V28",
@@ -7706,15 +7730,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V28.strip.jpg",
      "title": "a kid drawing a line using a pen",
      "query": "hands fine task mastery close",
-     "shot": "C",
+     "shot": "",
      "duration": 22,
      "src_id": "3678318",
      "download_url": "https://videos.pexels.com/video-files/3678318/3678318-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a child draws a line with a pen near toys",
+     "violation": "",
+     "shoot": "pexels-child-pen-toys",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V29",
@@ -7728,15 +7760,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V29.strip.jpg",
      "title": "woman writing on the sticky notes",
      "query": "hands fine task mastery close",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "7651685",
      "download_url": "https://videos.pexels.com/video-files/7651685/7651685-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a hand places sticky notes on a colorful chart",
+     "violation": "offices",
+     "shoot": "pexels-stickynotes-chart-office",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 33
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V30",
@@ -7757,8 +7797,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands decorate an egg with ribbon close up",
+     "violation": "",
+     "shoot": "pexels-egg-ribbon-decorate",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V31",
@@ -7772,15 +7820,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V31.strip.jpg",
      "title": "sharpening a pencil",
      "query": "hands fine task mastery close",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "854165",
      "download_url": "https://videos.pexels.com/video-files/854165/854165-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand sharpens a pencil close up",
+     "violation": "",
+     "shoot": "pexels-pencil-sharpening",
+     "score": 2.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V32",
@@ -7801,8 +7857,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands carefully shape a small clay figurine",
+     "violation": "",
+     "shoot": "pexels-clay-figurine-hands",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V33",
@@ -7816,15 +7880,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V33.strip.jpg",
      "title": "close up of gloved hands in outdoor activity",
      "query": "crew varied tasks garden midday",
-     "shot": "B",
+     "shot": "C",
      "duration": 5,
      "src_id": "34573369",
      "download_url": "https://videos.pexels.com/video-files/34573369/14649874_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "gloved hands work outdoors in a dirt field",
+     "violation": "",
+     "shoot": "pexels-gloved-hands-outdoor",
+     "score": 5.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V34",
@@ -7845,8 +7917,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a hand sprays water from a garden hose",
+     "violation": "",
+     "shoot": "pexels-hose-spray-hand",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V35",
@@ -7867,8 +7947,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a robed man sweeps a courtyard alone in the morning",
+     "violation": "",
+     "shoot": "pexels-monk-sweeping-courtyard",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V36",
@@ -7882,15 +7970,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V36.strip.jpg",
      "title": "woman carrying a tree branch",
      "query": "morning checklist tidy yard worker",
-     "shot": "A",
+     "shot": "B",
      "duration": 14,
      "src_id": "8125917",
      "download_url": "https://videos.pexels.com/video-files/8125917/8125917-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:11:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a woman carries a pruned tree branch near a cabin",
+     "violation": "",
+     "shoot": "pexels-branch-carrying-cabin",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V37",
@@ -7911,8 +8007,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man breaks ground with a mattock in a rural yard",
+     "violation": "",
+     "shoot": "pexels-mattock-yard-worker",
+     "score": 6.65,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V38",
@@ -7926,15 +8030,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V38.strip.jpg",
      "title": "gardener tying plant vine to support structure",
      "query": "crew varied tasks garden midday",
-     "shot": "B",
+     "shot": "C",
      "duration": 9,
      "src_id": "35461836",
      "download_url": "https://videos.pexels.com/video-files/35461836/15024476_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a gardener ties a plant vine to a support string",
+     "violation": "",
+     "shoot": "pexels-vine-tying-gardener",
+     "score": 8.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V39",
@@ -7948,15 +8060,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V39.strip.jpg",
      "title": "student  to write  to study  work  task  issue  question  study",
      "query": "crew garden tasks",
-     "shot": "B",
+     "shot": "",
      "duration": 24,
      "src_id": "131990",
      "download_url": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a student writes at a table indoors",
+     "violation": "",
+     "shoot": "pixabay-student-homework-desk2",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V40",
@@ -7970,15 +8090,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V40.strip.jpg",
      "title": "happy new year  christmas  christmas tree  winter  lights  evening  night  new year",
      "query": "workers water laughing evening",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "3565",
      "download_url": "https://cdn.pixabay.com/video/2016/06/27/3565-172488151_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a lit Christmas tree glows beside a stone fireplace",
+     "violation": "",
+     "shoot": "pixabay-christmas-tree-fireplace",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 34
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V41",
@@ -7992,15 +8120,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V41.strip.jpg",
      "title": "to write  to study  task  job  issue  question  study  student  hand  ballpoint  pen",
      "query": "crew garden tasks",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "131993",
      "download_url": "https://cdn.pixabay.com/video/2022/09/20/131993-751915314_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a close-up hand writes on paper",
+     "violation": "",
+     "shoot": "pixabay-hand-writing-closeup2",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 29
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V42",
@@ -8014,15 +8150,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V42.strip.jpg",
      "title": "tv  test  pattern  color  television  screen  media  cameraman  crew  audiovisual  broadcast  display  intermission  4k  device  colors  set  cinematography  camera  equipment  electronic  designer",
      "query": "crew garden tasks",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "31851",
      "download_url": "https://cdn.pixabay.com/video/2020/02/01/31851-389009390_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a television test pattern fills the screen",
+     "violation": "abstract loops",
+     "shoot": "pixabay-tv-test-pattern2",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 35
     },
     {
      "id": "edenrise-c2-six-needs-drives-S08-V43",
@@ -8036,15 +8180,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S08__strip__edenrise-c2-six-needs-drives-S08-V43.strip.jpg",
      "title": "garden  read  roundup  garden villa",
      "query": "crew garden tasks",
-     "shot": "B",
+     "shot": "",
      "duration": 21,
      "src_id": "9740",
      "download_url": "https://cdn.pixabay.com/video/2017/06/09/9740-221158546_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:12:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a canopied daybed sits in a lush garden villa",
+     "violation": "",
+     "shoot": "pixabay-garden-villa-daybed",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:00:14Z",
+     "rank": 30
     }
    ],
    "timing_source": "estimated",
@@ -8086,12 +8238,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T19:31:13Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:31:13Z"
+   "judged_at": "2026-09-10T10:00:14Z"
   },
   {
    "id": "S09",
