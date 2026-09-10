@@ -4741,7 +4741,7 @@
      "shot": "",
      "shoot": "pexels-loft-office-chat",
      "judged_at": "2026-09-09T19:46:01Z",
-     "rank": 6,
+     "rank": 22,
      "shown": false
     },
     {
@@ -4769,8 +4769,8 @@
      "shot": "",
      "shoot": "pexels-box-packing-hands",
      "judged_at": "2026-09-09T19:46:01Z",
-     "rank": 3,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V02",
@@ -4812,7 +4812,7 @@
      "shot": "D",
      "shoot": "pexels-steel-frame-back-view",
      "judged_at": "2026-09-09T19:46:01Z",
-     "rank": 2,
+     "rank": 5,
      "shown": true
     },
     {
@@ -4869,7 +4869,7 @@
      "shot": "",
      "shoot": "pexels-grinder-sparks",
      "judged_at": "2026-09-09T19:46:01Z",
-     "rank": 5,
+     "rank": 19,
      "shown": false
     },
     {
@@ -4898,8 +4898,8 @@
      "shot": "",
      "shoot": "pixabay-puzzle-hands",
      "judged_at": "2026-09-09T19:46:01Z",
-     "rank": 4,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-I00",
@@ -4979,8 +4979,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand writes calligraphy in black marker on pink paper",
+     "violation": "",
+     "shoot": "pexels-calligraphy-pink-paper",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 12
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V08",
@@ -5001,8 +5009,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand writes notes with a pen on a printed sheet",
+     "violation": "",
+     "shoot": "pexels-pen-notes-printed-sheet",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V09",
@@ -5016,15 +5032,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V09.strip.jpg",
      "title": "chemists organizing chemistry lab equipment on a table",
      "query": "worker testing new approach small task",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "8540170",
      "download_url": "https://videos.pexels.com/video-files/8540170/8540170-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "masked lab workers organize colorful chemistry equipment",
+     "violation": "face masks",
+     "shoot": "pexels-masked-lab-chemistry",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V10",
@@ -5045,8 +5069,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in a hardhat measures ceiling height in an unfinished kitchen",
+     "violation": "",
+     "shoot": "pexels-hardhat-measure-ceiling",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V11",
@@ -5067,8 +5099,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand writes on a small tag with a pen",
+     "violation": "",
+     "shoot": "pexels-hand-write-tag",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V12",
@@ -5082,15 +5122,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V12.strip.jpg",
      "title": "efficient factory worker organizing inventory",
      "query": "worker testing new approach small task",
-     "shot": "C",
+     "shot": "",
      "duration": 18,
      "src_id": "31580812",
      "download_url": "https://videos.pexels.com/video-files/31580812/13458384_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a uniformed woman organizes inventory bins in a warehouse aisle",
+     "violation": "factories, assembly lines",
+     "shoot": "pexels-warehouse-inventory-woman",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V13",
@@ -5111,8 +5159,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man sands and shapes wood on a workbench",
+     "violation": "",
+     "shoot": "pexels-wood-sanding-workbench",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V14",
@@ -5133,8 +5189,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:48:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two people write a note together on paper",
+     "violation": "",
+     "shoot": "pexels-pair-write-note",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V15",
@@ -5155,8 +5219,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a woman's hand writes in a purple journal",
+     "violation": "",
+     "shoot": "pexels-woman-journal-write",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V16",
@@ -5170,15 +5242,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V16.strip.jpg",
      "title": "barista making coffee",
      "query": "worker testing new approach small task",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "6828878",
      "download_url": "https://videos.pexels.com/video-files/6828878/6828878-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a masked barista grinds coffee at an espresso machine",
+     "violation": "face masks",
+     "shoot": "pexels-masked-barista-grind",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V17",
@@ -5199,8 +5279,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in a hardhat builds a dry stone wall with wire mesh",
+     "violation": "",
+     "shoot": "pexels-hardhat-stonewall-build",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 4
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V18",
@@ -5214,15 +5302,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V18.strip.jpg",
      "title": "working",
      "query": "worker testing new approach small task",
-     "shot": "C",
+     "shot": "",
      "duration": 39,
      "src_id": "20638294",
      "download_url": "https://videos.pexels.com/video-files/20638294/20638294-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man welds with sparks flying in an industrial warehouse",
+     "violation": "welding sparks",
+     "shoot": "pexels-welding-sparks-warehouse",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V19",
@@ -5243,8 +5339,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand places rubber letter stamps spelling 'Original'",
+     "violation": "",
+     "shoot": "pexels-stamp-letters-original",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V20",
@@ -5265,8 +5369,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a young person's hands break rocks with a hammer on gravel",
+     "violation": "",
+     "shoot": "pexels-hands-hammer-rocks",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V21",
@@ -5280,15 +5392,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V21.strip.jpg",
      "title": "broadway  street  new york  crossing  usa  america  manhattan  urban  downtown",
      "query": "crossing out word pen card",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "10836",
      "download_url": "https://cdn.pixabay.com/video/2017/07/23/10836-226625000_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "traffic crosses a busy Manhattan street intersection",
+     "violation": "",
+     "shoot": "pixabay-manhattan-street-traffic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V22",
@@ -5302,15 +5422,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V22.strip.jpg",
      "title": "earth running  blue planet  space  3d  time back  universe  solar system",
      "query": "worker stepping back done",
-     "shot": "D",
+     "shot": "",
      "duration": 15,
      "src_id": "8947",
      "download_url": "https://cdn.pixabay.com/video/2017/05/03/8947-215890483_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a CGI rendering of earth spinning in space",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-earth-spin",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V23",
@@ -5331,8 +5459,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:49:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "misty stepping stones cross a stream through a grassy wetland",
+     "violation": "",
+     "shoot": "pixabay-misty-steppingstones-wetland",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V24",
@@ -5353,8 +5489,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:50:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "stepping stones cross a river before forested hills",
+     "violation": "",
+     "shoot": "pixabay-steppingstones-river-hills",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V25",
@@ -5368,15 +5512,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V25.strip.jpg",
      "title": "merry christmas  new year  2023  greeting card  christmas",
      "query": "crossing out word pen card",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "137338",
      "download_url": "https://cdn.pixabay.com/video/2022/11/01/137338-766338297_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:50:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a graphic of gold ornaments reads 'Happy New Year 2023'",
+     "violation": "cartoons",
+     "shoot": "pixabay-newyear-ornament-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V26",
@@ -5390,15 +5542,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V26.strip.jpg",
      "title": "stepping stone  stone bridge  mother  stream  water  landscape  spring",
      "query": "worker stepping back done",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "143873",
      "download_url": "https://cdn.pixabay.com/video/2022/12/22/143873-784164197_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:50:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a woman washes something in a basin beside a stepping-stone stream",
+     "violation": "",
+     "shoot": "pixabay-woman-basin-stream",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V27",
@@ -5412,15 +5572,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S07__strip__edenrise-c2-winning-beliefs-S07-V27.strip.jpg",
      "title": "girl  road  back view  autumn  beautiful  nature",
      "query": "worker stepping back done",
-     "shot": "D",
+     "shot": "",
      "duration": 14,
      "src_id": "221151",
      "download_url": "https://cdn.pixabay.com/video/2024/07/14/221151_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:50:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a woman in a flowing dress walks a sunlit coastal road",
+     "violation": "",
+     "shoot": "pixabay-woman-dress-coastal-road",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-winning-beliefs-S07-V28",
@@ -5441,8 +5609,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T03:50:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a wide grassy wetland with a distant stepping-stone stream",
+     "violation": "",
+     "shoot": "pixabay-wide-wetland-steppingstones",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:59:50Z",
+     "rank": 16
     }
    ],
    "timing_source": "estimated",
@@ -5484,12 +5660,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T19:46:01Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:46:01Z"
+   "judged_at": "2026-09-10T09:59:50Z"
   },
   {
    "id": "S08",

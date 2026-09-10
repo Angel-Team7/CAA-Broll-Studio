@@ -6534,10 +6534,10 @@
   "reason": "green screen phone display — explicit never-list"
  },
  "pixabay:8947": {
-  "at": "2026-09-10T09:14:36Z",
   "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S09",
-  "reason": "unrelated abstract content"
+  "reason": "abstract loops",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
  },
  "pixabay:8989": {
   "at": "2026-09-10T09:50:22Z",
@@ -7096,5 +7096,35 @@
   "reason": "off-brand horror decor",
   "at": "2026-09-10T09:59:56Z",
   "from": "belong-module6/S05"
+ },
+ "pexels:8540170": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
+ },
+ "pexels:31580812": {
+  "brand": "edenrise",
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
+ },
+ "pexels:6828878": {
+  "brand": "edenrise",
+  "reason": "face masks",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
+ },
+ "pexels:20638294": {
+  "brand": "edenrise",
+  "reason": "welding sparks",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
+ },
+ "pixabay:137338": {
+  "brand": "edenrise",
+  "reason": "cartoons",
+  "at": "2026-09-10T09:59:50Z",
+  "from": "edenrise-c2-winning-beliefs/S07"
  }
 }
