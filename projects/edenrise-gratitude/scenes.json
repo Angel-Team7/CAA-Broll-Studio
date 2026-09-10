@@ -11698,7 +11698,7 @@
      "shot": "",
      "shoot": "pixabay-carpentry-measure",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 1,
+     "rank": 6,
      "shown": true
     },
     {
@@ -11726,8 +11726,8 @@
      "shot": "",
      "shoot": "pexels-cleaning-service",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 4,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V06",
@@ -11754,8 +11754,8 @@
      "shot": "",
      "shoot": "pexels-cleaning-service",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 5,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V07",
@@ -11781,7 +11781,7 @@
      "shot": "",
      "shoot": "pexels-cleaning-service",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 6,
+     "rank": 23,
      "shown": false
     },
     {
@@ -11826,8 +11826,8 @@
      "shot": "",
      "shoot": "pexels-patio-journal",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 3,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V10",
@@ -11855,8 +11855,8 @@
      "shot": "",
      "shoot": "pexels-couch-comfort",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 7,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V11",
@@ -11884,8 +11884,8 @@
      "shot": "",
      "shoot": "pexels-mug-sip",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 8,
-     "shown": true
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V12",
@@ -11913,8 +11913,8 @@
      "shot": "",
      "shoot": "pexels-plain-relax",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 2,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V13",
@@ -11942,8 +11942,8 @@
      "shot": "",
      "shoot": "pexels-skincare-mirror",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 9,
-     "shown": true
+     "rank": 27,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-V14",
@@ -11967,8 +11967,8 @@
      "shot": "",
      "shoot": "pexels-desk-journal",
      "judged_at": "2026-09-09T20:00:39Z",
-     "rank": 10,
-     "shown": true
+     "rank": 28,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S12-I03",
@@ -12058,8 +12058,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a mechanic reaches for an oil bottle beside a tool in a garage",
+     "violation": "",
+     "shoot": "pexels-mechanic-oilbottle-garage",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S12-V16",
@@ -12080,8 +12088,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man carefully polishes a leather shoe at a dining table",
+     "violation": "",
+     "shoot": "pexels-shoe-polish-table",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 12
     },
     {
      "id": "edenrise-gratitude-S12-V17",
@@ -12095,15 +12111,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V17.strip.jpg",
      "title": "a person cleaning an engine",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "7541932",
      "download_url": "https://videos.pexels.com/video-files/7541932/7541932-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a dark close-up of a hand reaching into heavy machinery",
+     "violation": "",
+     "shoot": "pexels-dark-machinery-hand",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 16
     },
     {
      "id": "edenrise-gratitude-S12-V18",
@@ -12124,8 +12148,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a mechanic closes a toolbox on a garage workbench",
+     "violation": "",
+     "shoot": "pexels-mechanic-toolbox-close",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S12-V19",
@@ -12139,15 +12171,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V19.strip.jpg",
      "title": "man buffing a car",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 24,
      "src_id": "6157779",
      "download_url": "https://videos.pexels.com/video-files/6157779/6157779-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man buffs the hood of a car in a tiled garage",
+     "violation": "",
+     "shoot": "pexels-car-buff-garage",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 17
     },
     {
      "id": "edenrise-gratitude-S12-V20",
@@ -12161,15 +12201,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V20.strip.jpg",
      "title": "hair products and combs",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "7428173",
      "download_url": "https://videos.pexels.com/video-files/7428173/7428173-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hair care bottles and combs are arranged on a backdrop",
+     "violation": "",
+     "shoot": "pexels-haircare-flatlay",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 24
     },
     {
      "id": "edenrise-gratitude-S12-V21",
@@ -12183,15 +12231,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V21.strip.jpg",
      "title": "mechanic cleaning hands after car repair",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 7,
      "src_id": "33129175",
      "download_url": "https://videos.pexels.com/video-files/33129175/14120079_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a mechanic wipes his hands with a rag near an open car engine",
+     "violation": "",
+     "shoot": "pexels-mechanic-wipe-hands",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 13
     },
     {
      "id": "edenrise-gratitude-S12-V22",
@@ -12205,15 +12261,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V22.strip.jpg",
      "title": "workers cleaning warehouse",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "13422071",
      "download_url": "https://videos.pexels.com/video-files/13422071/13422071-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "workers clean a warehouse floor with an industrial scrubber",
+     "violation": "factories, assembly lines",
+     "shoot": "pexels-warehouse-floor-scrubber",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 29
     },
     {
      "id": "edenrise-gratitude-S12-V23",
@@ -12234,8 +12298,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a hand carefully oils a curved metal tool blade with a brush",
+     "violation": "",
+     "shoot": "pexels-oil-brush-toolblade",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S12-V24",
@@ -12249,15 +12321,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V24.strip.jpg",
      "title": "a man using a grinder",
      "query": "worker oiling cleaning tool care",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "8987012",
      "download_url": "https://videos.pexels.com/video-files/8987012/8987012-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man grinds metal with sparks flying in a workshop",
+     "violation": "welding sparks",
+     "shoot": "pexels-grinder-sparks-workshop",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 20
     },
     {
      "id": "edenrise-gratitude-S12-V25",
@@ -12278,8 +12358,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man smiles tending a houseplant near a sunlit skylight",
+     "violation": "",
+     "shoot": "pexels-man-houseplant-skylight",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S12-V26",
@@ -12300,8 +12388,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a man smiles proudly holding a potted plant in a greenhouse",
+     "violation": "",
+     "shoot": "pexels-man-potted-plant-greenhouse",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S12-V27",
@@ -12322,8 +12418,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:21:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "gloved hands tend rows of potted geraniums closely",
+     "violation": "",
+     "shoot": "pexels-gloved-geranium-tending",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 4
     },
     {
      "id": "edenrise-gratitude-S12-V28",
@@ -12344,8 +12448,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a man in a rain jacket harvests coffee berries from a bush",
+     "violation": "",
+     "shoot": "pexels-coffee-harvest-rainjacket",
+     "score": 5.7,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 5
     },
     {
      "id": "edenrise-gratitude-S12-V29",
@@ -12359,15 +12471,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V29.strip.jpg",
      "title": "hosing  watering  gardening  garden  water  sprinkler  hose  liquid  plants  growing  gardener",
      "query": "gardener plant tending",
-     "shot": "B",
+     "shot": "A",
      "duration": 11,
      "src_id": "145",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/145-135737266_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hose nozzle sprays water against a bright blurred backdrop",
+     "violation": "",
+     "shoot": "pixabay-hose-nozzle-spray",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 7
     },
     {
      "id": "edenrise-gratitude-S12-V30",
@@ -12381,15 +12501,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V30.strip.jpg",
      "title": "carrot  plant  gardening  nature  lapse",
      "query": "gardener plant tending",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "10646",
      "download_url": "https://cdn.pixabay.com/video/2017/07/13/10646-226156890_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a timelapse of a carrot with leafy top against black backdrop",
+     "violation": "",
+     "shoot": "pixabay-carrot-timelapse-studio",
+     "score": 2.05,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 14
     },
     {
      "id": "edenrise-gratitude-S12-V31",
@@ -12410,8 +12538,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an aerial view of a tractor working a large agricultural field",
+     "violation": "",
+     "shoot": "pixabay-aerial-tractor-field",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 10
     },
     {
      "id": "edenrise-gratitude-S12-V32",
@@ -12425,15 +12561,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V32.strip.jpg",
      "title": "nature  plant  yard  colombia",
      "query": "work yard cared for",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "102666",
      "download_url": "https://cdn.pixabay.com/video/2021/12/27/102666-660588656_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a close-up of an unusual dangling green seed pod",
+     "violation": "",
+     "shoot": "pixabay-green-seedpod-macro",
+     "score": 2.4,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 11
     },
     {
      "id": "edenrise-gratitude-S12-V33",
@@ -12447,15 +12591,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V33.strip.jpg",
      "title": "yard  spider  web  arachnid  armenia",
      "query": "work yard cared for",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "14222",
      "download_url": "https://cdn.pixabay.com/video/2018/02/10/14222-255658061_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a spider rests on its web near a pink geranium flower",
+     "violation": "wildlife",
+     "shoot": "pixabay-spider-web-geranium",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 30
     },
     {
      "id": "edenrise-gratitude-S12-V34",
@@ -12469,15 +12621,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V34.strip.jpg",
      "title": "yard  web  spider  drops  colombia",
      "query": "work yard cared for",
-     "shot": "C",
+     "shot": "",
      "duration": 18,
      "src_id": "18955",
      "download_url": "https://cdn.pixabay.com/video/2018/10/28/18955-297537884_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "dew covers a spider web in a garden",
+     "violation": "wildlife",
+     "shoot": "pixabay-dew-spiderweb-garden",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 19
     },
     {
      "id": "edenrise-gratitude-S12-V35",
@@ -12491,15 +12651,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S12__strip__edenrise-gratitude-S12-V35.strip.jpg",
      "title": "nature  yard  floors  flora  colombia",
      "query": "work yard cared for",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "113530",
      "download_url": "https://cdn.pixabay.com/video/2022/04/10/113530-698386241_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:22:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "white and pink rose blooms grow on a garden trellis",
+     "violation": "flowers-only",
+     "shoot": "pixabay-rose-blooms-trellis",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:51:16Z",
+     "rank": 31
     }
    ],
    "shots": [
@@ -12531,12 +12699,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T20:00:39Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T20:00:39Z"
+   "judged_at": "2026-09-10T09:51:16Z"
   },
   {
    "id": "S13",
