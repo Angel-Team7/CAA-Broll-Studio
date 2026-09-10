@@ -2040,10 +2040,10 @@
   "reason": "business suits"
  },
  "pexels:8798432": {
-  "at": "2026-09-10T09:09:46Z",
   "brand": "belong",
-  "from": "belong-module1/S03",
-  "reason": "bouquets"
+  "reason": "flower shop",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S07"
  },
  "pexels:8814519": {
   "at": "2026-09-10T09:17:08Z",
@@ -4206,10 +4206,10 @@
   "reason": "AI-generated content, luxury spa scene, wrong world"
  },
  "pixabay:202135": {
-  "at": "2026-09-10T09:15:17Z",
-  "brand": "edenrise",
-  "from": "edenrise-c2-kaizen/S01",
-  "reason": "office"
+  "brand": "belong",
+  "reason": "corporate office setting with anger theatre",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
  },
  "pixabay:202392": {
   "at": "2026-09-09T18:08:11Z",
@@ -5362,5 +5362,89 @@
   "reason": "wrong city, not Lisbon",
   "at": "2026-09-10T09:27:26Z",
   "from": "belong-module8/S03"
+ },
+ "pexels:8922363": {
+  "brand": "belong",
+  "reason": "corporate restaurant (black-tie fine-dining service, not the farmhouse world)",
+  "at": "2026-09-10T09:27:38Z",
+  "from": "belong-module11/S04"
+ },
+ "pexels:6828886": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S05"
+ },
+ "pexels:6828880": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S05"
+ },
+ "pexels:8068944": {
+  "brand": "belong",
+  "reason": "business suits / corporate setting",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
+ },
+ "pexels:7841864": {
+  "brand": "belong",
+  "reason": "business suits / corporate setting",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
+ },
+ "pexels:7149052": {
+  "brand": "belong",
+  "reason": "business suits / office setting",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
+ },
+ "pexels:6099467": {
+  "brand": "belong",
+  "reason": "business suits",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
+ },
+ "pexels:4436876": {
+  "brand": "belong",
+  "reason": "corporate/office desk with laptop and tie",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S06"
+ },
+ "pixabay:149477": {
+  "brand": "belong",
+  "reason": "luxury spa clichés",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S08"
+ },
+ "pexels:38298786": {
+  "brand": "belong",
+  "reason": "elegant luxury wedding reception, conflicts with brand's not-luxury authentic world",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S10"
+ },
+ "pexels:27785687": {
+  "brand": "belong",
+  "reason": "elegant luxury garden wedding venue, conflicts with brand's not-luxury world",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S10"
+ },
+ "pexels:29420616": {
+  "brand": "belong",
+  "reason": "nightclub-like purple stage lighting at a night event",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S10"
+ },
+ "pixabay:212404": {
+  "brand": "belong",
+  "reason": "urban corporate skyline, wrong brand world entirely",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S10"
+ },
+ "pixabay:250395": {
+  "brand": "belong",
+  "reason": "unrelated foreign landmark, wrong brand world entirely",
+  "at": "2026-09-10T09:27:39Z",
+  "from": "belong-module11/S10"
  }
 }
