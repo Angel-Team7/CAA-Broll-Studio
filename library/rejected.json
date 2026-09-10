@@ -4764,10 +4764,10 @@
   "from": "be-a-lifelong-learner-v2/S16b"
  },
  "pixabay:44223": {
-  "brand": "edenrise",
-  "reason": "child, studio backdrop",
-  "at": "2026-09-10T09:20:23Z",
-  "from": "be-a-lifelong-learner-v2/S16b"
+  "brand": "belong",
+  "reason": "unrelated studio child portrait, no farm context",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
  },
  "heygen:": {
   "brand": "belong",
@@ -4852,5 +4852,47 @@
   "reason": "suits, office",
   "at": "2026-09-10T09:21:10Z",
   "from": "edenrise-c2-six-needs-reactions/S01"
+ },
+ "pexels:6286304": {
+  "brand": "belong",
+  "reason": "face masks",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pexels:31638875": {
+  "brand": "belong",
+  "reason": "wrong regional look, not Alentejo farmhouse",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pixabay:76884": {
+  "brand": "belong",
+  "reason": "wrong regional look, not Alentejo farmhouse",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pixabay:26644": {
+  "brand": "belong",
+  "reason": "cartoon",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pixabay:76881": {
+  "brand": "belong",
+  "reason": "wrong regional look, not Alentejo farmhouse",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pixabay:29874": {
+  "brand": "belong",
+  "reason": "staged product graphic, not documentary look",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
+ },
+ "pixabay:76882": {
+  "brand": "belong",
+  "reason": "wrong regional look, not Alentejo farmhouse",
+  "at": "2026-09-10T09:22:14Z",
+  "from": "belong-module1/S10"
  }
 }
