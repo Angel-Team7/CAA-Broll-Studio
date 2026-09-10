@@ -3769,9 +3769,9 @@
  },
  "pixabay:52886": {
   "brand": "edenrise",
-  "reason": "heavy industrial construction site",
-  "at": "2026-09-10T08:50:36Z",
-  "from": "attention-to-detail-v2/S04"
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
  },
  "pixabay:143479": {
   "brand": "edenrise",
@@ -4012,5 +4012,35 @@
   "reason": "cartoons, whiteboards",
   "at": "2026-09-10T09:01:33Z",
   "from": "be-a-lifelong-learner-v2/S01"
+ },
+ "pexels:8108225": {
+  "brand": "edenrise",
+  "reason": "classroom",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
+ },
+ "pexels:8478953": {
+  "brand": "edenrise",
+  "reason": "office, suits, whiteboards",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
+ },
+ "pexels:7504484": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
+ },
+ "pexels:8108341": {
+  "brand": "edenrise",
+  "reason": "classroom, whiteboards",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
+ },
+ "pixabay:140080": {
+  "brand": "edenrise",
+  "reason": "wildlife",
+  "at": "2026-09-10T09:02:59Z",
+  "from": "be-a-lifelong-learner-v2/S03"
  }
 }
