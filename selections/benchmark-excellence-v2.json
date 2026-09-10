@@ -58,8 +58,10 @@
     "S01": {
       "requested": "2026-09-09T21:24:11Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:33:57Z",
+      "added": 18
     },
     "S05": {
       "requested": "2026-09-09T06:00:25Z",
@@ -82,8 +84,10 @@
     "S04": {
       "requested": "2026-09-09T21:24:12Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:36:19Z",
+      "added": 22
     },
     "S07": {
       "requested": "2026-09-09T21:24:13Z",

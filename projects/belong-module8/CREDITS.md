@@ -160,3 +160,25 @@
 | pixabay | slice  chinese  cabbage  food  cuisine  vegetable  healthy   | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11610/ |
 | pixabay | vietnamese  dumplings  food  meat  asian  dish  cuisine  chi | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11683/ |
 | pixabay | chinese  hot pot  hot  pot  food  healthy  asian  meal  cook | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11700/ |
+| pexels | video of a family holding their hands while walking together | Mikhail Nilov | Pexels License | https://www.pexels.com/video/video-of-a-family-holding-their-hands-while-walking-together-9240948/ |
+| pexels | rear view on two women holding thier hands and walking away  | cottonbro studio | Pexels License | https://www.pexels.com/video/rear-view-on-two-women-holding-thier-hands-and-walking-away-with-view-on-hills-9950689/ |
+| pexels | back view of a couple walking together | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/back-view-of-a-couple-walking-together-5418493/ |
+| pexels | a couple holding each other s hands while running outdoors | Maksim Goncharenok | Pexels License | https://www.pexels.com/video/a-couple-holding-each-other-s-hands-while-running-outdoors-5617541/ |
+| pexels | people walking with their bicycles on a pathway of a field | Ron Lach | Pexels License | https://www.pexels.com/video/people-walking-with-their-bicycles-on-a-pathway-of-a-field-10203252/ |
+| pexels | serene walk through lush green rice fields | Panya Niyomtham | Pexels License | https://www.pexels.com/video/serene-walk-through-lush-green-rice-fields-34842116/ |
+| pexels | people walking together with horse | cottonbro studio | Pexels License | https://www.pexels.com/video/people-walking-together-with-horse-7622158/ |
+| pexels | a couple walking with their bicycles on a grassy field | Ron Lach | Pexels License | https://www.pexels.com/video/a-couple-walking-with-their-bicycles-on-a-grassy-field-10203246/ |
+| pexels | close up of preparing cakes | Joffray Jouve | Pexels License | https://www.pexels.com/video/close-up-of-preparing-cakes-12678033/ |
+| pexels | close up of cooking pizza and putting on plate | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/close-up-of-cooking-pizza-and-putting-on-plate-14584577/ |
+| pexels | a person handing a plates to another person | KoolShooters | Pexels License | https://www.pexels.com/video/a-person-handing-a-plates-to-another-person-9733028/ |
+| pixabay | onion  cut  hands  knife  cook  prepare  food  kitchen  clos | klimkin | Pixabay Content License | https://pixabay.com/videos/id-11230/ |
+| pexels | close up of woman reading notebook | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-woman-reading-notebook-11025488/ |
+| pexels | close up of handwriting on notebook outdoors | Arijit Dey | Pexels License | https://www.pexels.com/video/close-up-of-handwriting-on-notebook-outdoors-31126274/ |
+| pixabay | scrambled eggs  plate  cucumbers  food  fork  breakfast  nut | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4972/ |
+| pexels | a person taking out ceramic plates from a kiln | KoolShooters | Pexels License | https://www.pexels.com/video/a-person-taking-out-ceramic-plates-from-a-kiln-9732950/ |
+| pixabay | plate  gas  fire  kitchen  matches  burns  prepare | Amina_Salim | Pixabay Content License | https://pixabay.com/videos/id-141854/ |
+| pixabay | kitchen  plate  healthy  appetizers  pasta  sweet  organic   | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-254753/ |
+| pixabay | girl  writing  student  female  book  school  person  woman | Nicolas_Garay | Pixabay Content License | https://pixabay.com/videos/id-43459/ |
+| pixabay | on the table lies a thick textbook  homework  textbook  tuto | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-12040/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pixabay | write  writing  calligraphy  letters  paper  lettering  old  | HolgersFotografie | Pixabay Content License | https://pixabay.com/videos/id-13053/ |

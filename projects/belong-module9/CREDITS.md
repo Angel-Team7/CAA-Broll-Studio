@@ -620,3 +620,68 @@
 | pixabay | thank you  thank you animation  shards animation  thanks  th | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-104483/ |
 | pixabay | thank you  thank you animation  shards animation  thanks  th | PhamXuanThuy | Pixabay Content License | https://pixabay.com/videos/id-104232/ |
 | pixabay | student  write  tasks  analog  pen  handwriting  letter  to  | Alexandra_Koch | Pixabay Content License | https://pixabay.com/videos/id-213746/ |
+| pexels | man carrying a plate of vietnamese fresh spring rolls | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-carrying-a-plate-of-vietnamese-fresh-spring-rolls-6645680/ |
+| pexels | a man preparing food while talking to his customers | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-preparing-food-while-talking-to-his-customers-5920174/ |
+| pexels | waiter serving street food to customers | Kampus Production | Pexels License | https://www.pexels.com/video/waiter-serving-street-food-to-customers-5920314/ |
+| pexels | a person putting cream on a small plate | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-person-putting-cream-on-a-small-plate-4555803/ |
+| pexels | hamburger being prepared by chef in a foodtruck | Kampus Production | Pexels License | https://www.pexels.com/video/hamburger-being-prepared-by-chef-in-a-foodtruck-5920312/ |
+| pexels | serving food in a local eatery | Mahadi Hassan Molla | Pexels License | https://www.pexels.com/video/serving-food-in-a-local-eatery-39350848/ |
+| pexels | gourmet cod plated with vegetables | Lees Is More Creative | Pexels License | https://www.pexels.com/video/gourmet-cod-plated-with-vegetables-28743417/ |
+| pexels | close up of preparing cakes | Joffray Jouve | Pexels License | https://www.pexels.com/video/close-up-of-preparing-cakes-12678033/ |
+| pexels | close up video of a person using cellphone | Artem Podrez | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-using-cellphone-8992552/ |
+| pexels | a person taking notes while scrolling photo shots on a smart | fauxels | Pexels License | https://www.pexels.com/video/a-person-taking-notes-while-scrolling-photo-shots-on-a-smart-phone-3251842/ |
+| pexels | woman scrolling social media | Josh Tavernier | iCapture Media Digital Marketing Agency | Pexels License | https://www.pexels.com/video/woman-scrolling-social-media-10238038/ |
+| pexels | close up video of phone camera | Coverr | Pexels License | https://www.pexels.com/video/close-up-video-of-phone-camera-853818/ |
+| pexels | man scrolling on mobile phone screen | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-scrolling-on-mobile-phone-screen-6611954/ |
+| pexels | person writing on a piece of paper | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-writing-on-a-piece-of-paper-7947485/ |
+| pixabay | ai generated  book  reading  magic  study  literature  read  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-188807/ |
+| pixabay | novel  flip  page  flipping  chapter  education  book  turni | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-143683/ |
+| pixabay | hotel  room  travel  service  bed  vacation  reception  apar | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-135167/ |
+| pixabay | tarmac  airport  turbine  luggage  transportation  aviation  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-6414/ |
+| pixabay | cockpit  space travel  arrival  planet  mars  welcome  futur | spacetrip | Pixabay Content License | https://pixabay.com/videos/id-174071/ |
+| pixabay | ufo  saucer  alien  arrival  spaceship  extraterrestrial  sp | Luis_Humanoide | Pixabay Content License | https://pixabay.com/videos/id-40604/ |
+| pixabay | baggage claim  luggage  travel  journey  suitcase  belt  tou | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-2272/ |
+| pixabay | baggage claim  luggage  conveyor  travel  airport  transport | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5643/ |
+| pexels | friends on changing room | SHVETS production | Pexels License | https://www.pexels.com/video/friends-on-changing-room-8059619/ |
+| pexels | a woman counting the bath towels | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-woman-counting-the-bath-towels-5892545/ |
+| pexels | bellboy pushing a luggage trolley in the hallway | cottonbro studio | Pexels License | https://www.pexels.com/video/bellboy-pushing-a-luggage-trolley-in-the-hallway-5372868/ |
+| pexels | elegant hotel corridor interior view | Dominik Zítka | Pexels License | https://www.pexels.com/video/elegant-hotel-corridor-interior-view-31751335/ |
+| pexels | man and woman having conversation with a red wine | cottonbro studio | Pexels License | https://www.pexels.com/video/man-and-woman-having-conversation-with-a-red-wine-7339495/ |
+| pexels | man placing test papers on desks | Andy Barbour | Pexels License | https://www.pexels.com/video/man-placing-test-papers-on-desks-6671555/ |
+| pexels | man delivering food | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/man-delivering-food-7706007/ |
+| pexels | woman organizing towels in a closet | Gustavo Fring | Pexels License | https://www.pexels.com/video/woman-organizing-towels-in-a-closet-5892548/ |
+| pexels | elderly couple taking order in the restaurant | Yan Krukau | Pexels License | https://www.pexels.com/video/elderly-couple-taking-order-in-the-restaurant-6816201/ |
+| pexels | person opening a bottle of champagne | Thirdman | Pexels License | https://www.pexels.com/video/person-opening-a-bottle-of-champagne-6959753/ |
+| pexels | an elderly woman pouring wine from a decanter | RDNE Stock project | Pexels License | https://www.pexels.com/video/an-elderly-woman-pouring-wine-from-a-decanter-5848235/ |
+| pexels | android tablet zoom in gesture | BRoll.io | Pexels License | https://www.pexels.com/video/android-tablet-zoom-in-gesture-852315/ |
+| pexels | a man and woman standing in front of a hotel room | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-and-woman-standing-in-front-of-a-hotel-room-18513396/ |
+| pexels | a person getting keys on the table | SHVETS production | Pexels License | https://www.pexels.com/video/a-person-getting-keys-on-the-table-7986194/ |
+| pixabay | sparkling wine  give a  glass  alcohol  celebration | torstensimon | Pixabay Content License | https://pixabay.com/videos/id-14627/ |
+| pixabay | wine  drink  toast  glass  beverage  valentine's day  celebr | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-63545/ |
+| pixabay | wine  red wine  red  celebration  bowl  glass of wine  red w | Luiz-Jorge-Artista | Pixabay Content License | https://pixabay.com/videos/id-3708/ |
+| pixabay | restaurant  meal  lunch  spain  traditional  food  table  pl | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-910/ |
+| pixabay | corridor  hallway  tunnel  loop  science fiction | AdisResic | Pixabay Content License | https://pixabay.com/videos/id-261898/ |
+| pixabay | man  call  smartphone  anger  to speak  yell  discuss  unhap | conte_public | Pixabay Content License | https://pixabay.com/videos/id-204421/ |
+| pixabay | woman  phone  smartphone  technology  mobile  telephone  cel | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38084/ |
+| pixabay | cell phone  internet  technology | Henhen1 | Pixabay Content License | https://pixabay.com/videos/id-148493/ |
+| pexels | close up of woman writing in notebook | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-woman-writing-in-notebook-11025558/ |
+| pexels | close up of handwriting in red light | Azhaan Bashmil | Pexels License | https://www.pexels.com/video/close-up-of-handwriting-in-red-light-33363804/ |
+| pexels | close up view of a person writing notes on her notebook | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-writing-notes-on-her-notebook-6929044/ |
+| pexels | person writing notes | Artem Podrez | Pexels License | https://www.pexels.com/video/person-writing-notes-6781562/ |
+| pexels | a person reading a book while writing on notebook | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-reading-a-book-while-writing-on-notebook-8478114/ |
+| pexels | hand drawing star on notepad with marker | Raphael Kim | Pexels License | https://www.pexels.com/video/hand-drawing-star-on-notepad-with-marker-35660682/ |
+| pexels | back view of a women working together | Artem Podrez | Pexels License | https://www.pexels.com/video/back-view-of-a-women-working-together-8512998/ |
+| pexels | dentist posing on camera | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/dentist-posing-on-camera-6631692/ |
+| pexels | person writing on a notepad | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-on-a-notepad-8134336/ |
+| pexels | a man reading while in his clinic | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-reading-while-in-his-clinic-6763251/ |
+| pexels | reviewing of paperworks | Monstera Production | Pexels License | https://www.pexels.com/video/reviewing-of-paperworks-9464465/ |
+| pexels | man and woman looking at a list | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-and-woman-looking-at-a-list-7100879/ |
+| pexels | a man making a bowl | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-making-a-bowl-7222343/ |
+| pexels | woman writing on clipboard while holding sprouts | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-writing-on-clipboard-while-holding-sprouts-7475779/ |
+| pixabay | corn  roasted  cooking  kitchen  food | MRubs | Pixabay Content License | https://pixabay.com/videos/id-128186/ |
+| pixabay | cooking  wok  squid  kitchen  food  food preparation | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-1498/ |
+| pixabay | meeting  chalkboard  write  meeting time chalkboard  hello   | 2seewell | Pixabay Content License | https://pixabay.com/videos/id-39802/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pixabay | wash  hands  soap  tap  water  clean  bath | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4906/ |
+| pixabay | pinecone  nature  tap  tree  branch  needles  conifer  wind | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-90995/ |
+| pixabay | repair  services  robot  future | didzisrubenis | Pixabay Content License | https://pixabay.com/videos/id-118091/ |
