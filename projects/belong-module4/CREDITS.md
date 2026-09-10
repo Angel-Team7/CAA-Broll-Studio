@@ -154,3 +154,69 @@
 | pixabay | map  cashew nuts  nuts  world  cashew  countries | Glitztk | Pixabay Content License | https://pixabay.com/videos/id-134051/ |
 | pixabay | present  message  presentation  map  information | Jacques_Barrette | Pixabay Content License | https://pixabay.com/videos/id-22332/ |
 | pixabay | milano  italia  map  city | NikoJimsheleishvili | Pixabay Content License | https://pixabay.com/videos/id-37001/ |
+| pexels | two wine glasses and a bottle on a table | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/two-wine-glasses-and-a-bottle-on-a-table-4513040/ |
+| pexels | sommelier pouring the wine in a glass | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/sommelier-pouring-the-wine-in-a-glass-8764590/ |
+| pexels | an elderly woman pouring wine from a decanter | RDNE Stock project | Pexels License | https://www.pexels.com/video/an-elderly-woman-pouring-wine-from-a-decanter-5848235/ |
+| pexels | glass set on a table | Zak Chapman | Pexels License | https://www.pexels.com/video/glass-set-on-a-table-2174411/ |
+| pexels | table set under the tree | Ron Lach | Pexels License | https://www.pexels.com/video/table-set-under-the-tree-9579392/ |
+| pexels | a man talking while holding a wine bottle | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-talking-while-holding-a-wine-bottle-8764339/ |
+| pexels | glasses and wine on table | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/glasses-and-wine-on-table-8765010/ |
+| pexels | person pouring wine in a wine glass | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-pouring-wine-in-a-wine-glass-8764784/ |
+| pexels | a pen and a christmas card on the table | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-pen-and-a-christmas-card-on-the-table-6519697/ |
+| pexels | professional podcast interview in modern studio | Mihaela Claudia  Puscas | Pexels License | https://www.pexels.com/video/professional-podcast-interview-in-modern-studio-37874112/ |
+| pexels | a person arranging envelopes on a flat surface | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-arranging-envelopes-on-a-flat-surface-10203040/ |
+| pexels | a person writing a love letter and putting it in an envelop | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-writing-a-love-letter-and-putting-it-in-an-envelop-6851677/ |
+| pexels | signing a christmas card for santa | KoolShooters | Pexels License | https://www.pexels.com/video/signing-a-christmas-card-for-santa-6157582/ |
+| pexels | man giving gifts to hosts | Cedric Fauntleroy | Pexels License | https://www.pexels.com/video/man-giving-gifts-to-hosts-7246549/ |
+| pixabay | clock  alarm  desk  time  lapse  moving  watch  vintage  tim | wastedgeneration | Pixabay Content License | https://pixabay.com/videos/id-61621/ |
+| pixabay | letter  envelope  hearts  love  valentine  cute  romance  dr | LifeSigner | Pixabay Content License | https://pixabay.com/videos/id-161949/ |
+| pixabay | sleep  dream  fantasy  fairy tale  child  moon  bear  teddy  | JuliusH | Pixabay Content License | https://pixabay.com/videos/id-98501/ |
+| pixabay | ai generated  candles  pillow  spa  wellness  meditation  re | BackgroundsCHAIR | Pixabay Content License | https://pixabay.com/videos/id-207496/ |
+| pixabay | bear  teddy bear  monster  cute  grey  innocent  sweet | LifeSigner | Pixabay Content License | https://pixabay.com/videos/id-122724/ |
+| pixabay | icebear  polar bear  bear  predator  zoo  ursus maritimus  w | dianakuehn30010 | Pixabay Content License | https://pixabay.com/videos/id-6643/ |
+| pixabay | ai generated  candles  pillow  spa  wellness  meditation  re | BackgroundsCHAIR | Pixabay Content License | https://pixabay.com/videos/id-207498/ |
+| pixabay | alarm  time  to wake up  morning  bell  pillow  bed  room  r | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-224421/ |
+| pexels | close up view of a swaying hammock | Taryn Elliott | Pexels License | https://www.pexels.com/video/close-up-view-of-a-swaying-hammock-5738219/ |
+| pexels | close up video of a woman face | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-face-8296917/ |
+| pexels | a woman reading a book while resting | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-woman-reading-a-book-while-resting-7260699/ |
+| pexels | close up video of a woman s face | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-s-face-8534963/ |
+| pexels | close up video of a man face | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-face-6620875/ |
+| pexels | close up footage of a person s eye blinking | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-s-eye-blinking-9808079/ |
+| pexels | close up of a woman wearing a white long sleeves | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-a-woman-wearing-a-white-long-sleeves-8348812/ |
+| pexels | close up of a sleepy woman on a hammock | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-of-a-sleepy-woman-on-a-hammock-6907905/ |
+| pexels | a woman reading a book | Los Muertos Crew | Pexels License | https://www.pexels.com/video/a-woman-reading-a-book-7260696/ |
+| pexels | young man resting on table with eyes closed | Norma Mortenson | Pexels License | https://www.pexels.com/video/young-man-resting-on-table-with-eyes-closed-7349678/ |
+| pexels | serene woodland view of tall pine trees | Engin Akyurt | Pexels License | https://www.pexels.com/video/serene-woodland-view-of-tall-pine-trees-35254694/ |
+| pexels | tall trees swaying in the wind | Klaus | Pexels License | https://www.pexels.com/video/tall-trees-swaying-in-the-wind-8573570/ |
+| pexels | trees swaying by the wind blows | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/trees-swaying-by-the-wind-blows-4211175/ |
+| pexels | tranquil close up of pine branches swaying | Ahmed ؜ | Pexels License | https://www.pexels.com/video/tranquil-close-up-of-pine-branches-swaying-30682767/ |
+| pixabay | book  shop  people  reading  tutorials  writer  education  r | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-39888/ |
+| pixabay | hair  wind  girl  woman  people  person  model  young  dream | GreenCardShow | Pixabay Content License | https://pixabay.com/videos/id-43633/ |
+| pixabay | spring  book  lilac  garden  literature  education  reading  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-277042/ |
+| pixabay | girl  student  book  read  reading  story  education  educat | Vacampbe | Pixabay Content License | https://pixabay.com/videos/id-215474/ |
+| pixabay | book  read  novel  literature  learning  pages  knowledge  i | Oliver_GR | Pixabay Content License | https://pixabay.com/videos/id-84006/ |
+| pixabay | holy quran reading  muslim  quran  book reading  islam  girl | AbdulWahab_092 | Pixabay Content License | https://pixabay.com/videos/id-261978/ |
+| pixabay | ai generated  book  reading  magic  study  literature  read  | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-188807/ |
+| pixabay | book  read  novel  literature  learning  pages  knowledge  i | Oliver_GR | Pixabay Content License | https://pixabay.com/videos/id-84007/ |
+| pexels | chef in professional kitchen standing calmly | dp singh Bhullar | Pexels License | https://www.pexels.com/video/chef-in-professional-kitchen-standing-calmly-29815092/ |
+| pexels | a man is standing at the bar in a restaurant | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-is-standing-at-the-bar-in-a-restaurant-4252794/ |
+| pexels | a man standing in a kitchen with a counter | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-standing-in-a-kitchen-with-a-counter-4252284/ |
+| pexels | close up video of a woman looking at the camera showing no e | Anna Shvets | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-looking-at-the-camera-showing-no-emotions-6665217/ |
+| pexels | a man smiling and looking at the camera | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-smiling-and-looking-at-the-camera-8626274/ |
+| pexels | close up video of a man looking at camera | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-looking-at-camera-9464484/ |
+| pexels | smiling male chef looking at camera | Kampus Production | Pexels License | https://www.pexels.com/video/smiling-male-chef-looking-at-camera-6604373/ |
+| pexels | close up shot of a naked woman looking at the camera | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-naked-woman-looking-at-the-camera-6568056/ |
+| pexels | a girl holding a baking dish | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-holding-a-baking-dish-8509083/ |
+| pexels | a man sharpening his knife | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-sharpening-his-knife-8625856/ |
+| pexels | chef wearing his apron | Los Muertos Crew | Pexels License | https://www.pexels.com/video/chef-wearing-his-apron-8477157/ |
+| pexels | woman looking at camera | Engin Akyurt | Pexels License | https://www.pexels.com/video/woman-looking-at-camera-8462022/ |
+| pexels | stylish man looking at camera | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/stylish-man-looking-at-camera-8087778/ |
+| pexels | a woman in a white jacket is looking at the camera | Connor Scott McManus | Pexels License | https://www.pexels.com/video/a-woman-in-a-white-jacket-is-looking-at-the-camera-18400987/ |
+| pixabay | beauty  portrait  woman  female  face  glowing skin  violet  | MoonpetalMedia | Pixabay Content License | https://pixabay.com/videos/id-349640/ |
+| pixabay | man  angry  pissed off  anger  stress  depression  male  mod | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-61294/ |
+| pixabay | plant  watering  grow  gardening  ewer  watering can  wateri | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-5635/ |
+| pixabay | hosing  watering  gardening  garden  water  sprinkler  hose  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-145/ |
+| pixabay | lathe  wood  craft  handmade  work  processing  tool | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94444/ |
+| pixabay | garden  read  roundup  garden villa | videomoon | Pixabay Content License | https://pixabay.com/videos/id-9740/ |
+| pixabay | trader  woman  portrait  people  selling  africa  face  fema | xtrovarts | Pixabay Content License | https://pixabay.com/videos/id-275172/ |
+| pixabay | man  angry  stress  depression  anxiety  male  model  human  | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-61299/ |
