@@ -81,8 +81,11 @@
     "S07": {
       "requested": "2026-09-09T21:22:50Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "added": 0,
+      "fulfilled": "2026-09-10T10:39:17Z",
+      "note_bot": "shot-list recall found no new candidates (all seen, rejected or off-brand); needs different shots or generated visuals"
     },
     "S08": {
       "requested": "2026-09-09T21:22:51Z",
