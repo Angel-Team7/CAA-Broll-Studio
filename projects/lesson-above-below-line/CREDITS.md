@@ -110,3 +110,118 @@
 | pixabay | people  commerce  shop  busy  mall  walking | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-6387/ |
 | pixabay | new york city  manhattan  people  cars  crossroads  america  | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1044/ |
 | pixabay | lunch  meal  people  tea cup  tea  couple  table  restaurant | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-2339/ |
+| pexels | woman talking on the cellphone | Alena Darmel | Pexels License | https://www.pexels.com/video/woman-talking-on-the-cellphone-7660494/ |
+| pexels | man going upstairs | Kampus Production | Pexels License | https://www.pexels.com/video/man-going-upstairs-8814519/ |
+| pexels | two men working on a steel structure | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-working-on-a-steel-structure-16111731/ |
+| pexels | a man wearing a hard hat | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-wearing-a-hard-hat-6474360/ |
+| pexels | efficient factory worker organizing inventory | EqualStock IN | Pexels License | https://www.pexels.com/video/efficient-factory-worker-organizing-inventory-31580812/ |
+| pexels | electrician working on industrial battery bank | Mumtaz  Niazi | Pexels License | https://www.pexels.com/video/electrician-working-on-industrial-battery-bank-36167827/ |
+| pexels | a man in gloves and goggles is using a grinder | Nishant Aneja | Pexels License | https://www.pexels.com/video/a-man-in-gloves-and-goggles-is-using-a-grinder-20455991/ |
+| pexels | nighttime oil field maintenance by crew | abdo alshreef | Pexels License | https://www.pexels.com/video/nighttime-oil-field-maintenance-by-crew-36713758/ |
+| pexels | tyre transporting | Tamoor Ahmed | Pexels License | https://www.pexels.com/video/tyre-transporting-20713314/ |
+| pexels | a man scanning stocks in the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/a-man-scanning-stocks-in-the-warehouse-4292300/ |
+| pexels | picking a goggles to protect the eye in working | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/picking-a-goggles-to-protect-the-eye-in-working-4888900/ |
+| pexels | mechanic getting a tool in a tool box | Artem Podrez | Pexels License | https://www.pexels.com/video/mechanic-getting-a-tool-in-a-tool-box-8986493/ |
+| pexels | person looking at tools in the garage | Artem Podrez | Pexels License | https://www.pexels.com/video/person-looking-at-tools-in-the-garage-8986477/ |
+| pexels | a person picking up a plantain bunch from the ground | FRANK MERIÑO | Pexels License | https://www.pexels.com/video/a-person-picking-up-a-plantain-bunch-from-the-ground-15538382/ |
+| pixabay | industry  factory  steel  iron  iron bars  workers  hard wor | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40054/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4729/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |
+| pixabay | fries  food  fried  meal  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-214512/ |
+| pixabay | jigsaw  board  construction  repair  square  pencil  to nag  | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4973/ |
+| pixabay | mirabelle  mirabelle tree  yellow  orange  fruit  harvest  f | TheMarcKnight | Pixabay Content License | https://pixabay.com/videos/id-27462/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4728/ |
+| pixabay | builder  worker  building  repair  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85349/ |
+| pexels | man and woman checking the plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-checking-the-plants-6508711/ |
+| pexels | a woman and man inspecting their plants | Anna Shvets | Pexels License | https://www.pexels.com/video/a-woman-and-man-inspecting-their-plants-5492775/ |
+| pexels | people modeling inside the green house | cottonbro studio | Pexels License | https://www.pexels.com/video/people-modeling-inside-the-green-house-5561414/ |
+| pexels | close up video of a man with facial hair | Mikhail Nilov | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-with-facial-hair-6964019/ |
+| pexels | close up video of a blue eyed woman | Artem Podrez | Pexels License | https://www.pexels.com/video/close-up-video-of-a-blue-eyed-woman-7648784/ |
+| pexels | close up video of a woman opening and closing her eyes | Andy Barbour | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-opening-and-closing-her-eyes-5336777/ |
+| pexels | a group of people raises their hands in unison inside a gree | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-raises-their-hands-in-unison-inside-a-greenhouse-3252651/ |
+| pexels | a couple in amaze of a plant specie hanging inside a greenho | fauxels | Pexels License | https://www.pexels.com/video/a-couple-in-amaze-of-a-plant-specie-hanging-inside-a-greenhouse-3249906/ |
+| pexels | three women wearing gloves | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/three-women-wearing-gloves-8514321/ |
+| pexels | woman wearing airpods | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-wearing-airpods-6889288/ |
+| pexels | extreme close up shot of a person s ear | Kindel Media | Pexels License | https://www.pexels.com/video/extreme-close-up-shot-of-a-person-s-ear-7298066/ |
+| pexels | a man s eyes | SHVETS production | Pexels License | https://www.pexels.com/video/a-man-s-eyes-6968218/ |
+| pexels | a man discussing the plants to a woman | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-discussing-the-plants-to-a-woman-6508491/ |
+| pexels | man planting seedlings on a pot tray | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-planting-seedlings-on-a-pot-tray-6508933/ |
+| pixabay | tomatoes  greenhouse  plant  vegetables  green  immature  fo | My_movie | Pixabay Content License | https://pixabay.com/videos/id-76994/ |
+| pixabay | tomato  vegetables  garden  agriculture  greenhouse  vitamin | My_movie | Pixabay Content License | https://pixabay.com/videos/id-79391/ |
+| pixabay | cement  batter  development  building  machine  worker  work | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148540/ |
+| pixabay | cement  concrete  cast  concrete dough  development  boat sh | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148541/ |
+| pixabay | worker  hard work  man  builder  work  workers  building  en | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40816/ |
+| pixabay | worker  early  morning  people  person  field work  field wo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1635/ |
+| pixabay | headphones  music  swing  listening  wind  technology  sound | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-84583/ |
+| pixabay | worker  car  building  shovel  pour in  builder  wheelbarrow | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67460/ |
+| pexels | a craftsman working in a workshop | Nathan Cowley | Pexels License | https://www.pexels.com/video/a-craftsman-working-in-a-workshop-2480790/ |
+| pexels | craftsman carving wood in rural workshop | Shanto Debnath | Pexels License | https://www.pexels.com/video/craftsman-carving-wood-in-rural-workshop-34821462/ |
+| pexels | craftsman carving wooden sculptures in workshop | Altamash Mallick | Pexels License | https://www.pexels.com/video/craftsman-carving-wooden-sculptures-in-workshop-35310617/ |
+| pexels | carpenter in the workshop | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/carpenter-in-the-workshop-6789591/ |
+| pexels | artisan hand carving wooden sculpture in workshop | Liuuu _61 | Pexels License | https://www.pexels.com/video/artisan-hand-carving-wooden-sculpture-in-workshop-34133304/ |
+| pexels | carpenter working with a drill | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/carpenter-working-with-a-drill-6789900/ |
+| pexels | person doing woodcraft | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-doing-woodcraft-6790439/ |
+| pexels | close up footage of people completing a jigsaw puzzle | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-footage-of-people-completing-a-jigsaw-puzzle-9786224/ |
+| pexels | people doing high five | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/people-doing-high-five-6193974/ |
+| pexels | artisan wood carving workshop craftsmanship | Liuuu _61 | Pexels License | https://www.pexels.com/video/artisan-wood-carving-workshop-craftsmanship-31980327/ |
+| pexels | woman wearing an ear protection | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-wearing-an-ear-protection-6790006/ |
+| pexels | man cutting the wood | Anna Shvets | Pexels License | https://www.pexels.com/video/man-cutting-the-wood-5759849/ |
+| pexels | person solving a wooden puzzle | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-solving-a-wooden-puzzle-7312064/ |
+| pexels | women discussing about documents | Musko io | Pexels License | https://www.pexels.com/video/women-discussing-about-documents-13892558/ |
+| pixabay | puzzle  puzzling  game  play  playing  people  girl  woman   | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-132/ |
+| pixabay | glass processing  grinding wheel  drill  glass  polishing  g | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11750/ |
+| pixabay | can you solve this  solve it  quiz  puzzle  riddle  puzzles  | fervent7 | Pixabay Content License | https://pixabay.com/videos/id-60721/ |
+| pixabay | modeling  clay  pottery  craft  art  ceramic  handmade  work | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41394/ |
+| pixabay | science  discovery  solve  problem | zclckz | Pixabay Content License | https://pixabay.com/videos/id-161739/ |
+| pixabay | modeling  clay  pottery  craft  dirty  art  ceramic  handmad | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41387/ |
+| pixabay | vegetables  vegan  hand  organic  food  4k | kamranwada786 | Pixabay Content License | https://pixabay.com/videos/id-167735/ |
+| pixabay | pottery  clay  handicraft  modeling  craft  art  dirty  cera | taliibaer | Pixabay Content License | https://pixabay.com/videos/id-41390/ |
+| pexels | close up footage of a sad woman smoking cigarette | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-sad-woman-smoking-cigarette-7279754/ |
+| pexels | close up footage of a woman s face full of freckles touching | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-woman-s-face-full-of-freckles-touching-her-hair-8946464/ |
+| pexels | a woman in a white jacket is looking at the camera | Connor Scott McManus | Pexels License | https://www.pexels.com/video/a-woman-in-a-white-jacket-is-looking-at-the-camera-18400987/ |
+| pexels | close up footage of a person s eye blinking | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-s-eye-blinking-9808079/ |
+| pexels | close up of a woman staring | Engin Akyurt | Pexels License | https://www.pexels.com/video/close-up-of-a-woman-staring-8525154/ |
+| pexels | a woman blowing a candle | KoolShooters | Pexels License | https://www.pexels.com/video/a-woman-blowing-a-candle-6907755/ |
+| pexels | close up video of a man | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-6979942/ |
+| pexels | a woman looking out the window at the sun | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-looking-out-the-window-at-the-sun-5103567/ |
+| pexels | close up footage of a woman s face | Engin Akyurt | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-woman-s-face-8461989/ |
+| pexels | close up video of a woman face | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-face-8296917/ |
+| pexels | close up of shovel and worker outdoors | K | Pexels License | https://www.pexels.com/video/close-up-of-shovel-and-worker-outdoors-38045743/ |
+| pexels | hardworking woman laboring at construction site | AMIT PANDEY | Pexels License | https://www.pexels.com/video/hardworking-woman-laboring-at-construction-site-30836674/ |
+| pexels | a shovel is digging into the ground with dirt | K | Pexels License | https://www.pexels.com/video/a-shovel-is-digging-into-the-ground-with-dirt-20521982/ |
+| pexels | street cleaning by roadside worker | Sky Bangla | Pexels License | https://www.pexels.com/video/street-cleaning-by-roadside-worker-34402981/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85350/ |
+| pixabay | builder  repair  worker  building  professional  tools  safe | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-85351/ |
+| pixabay | man  kefalonia  greece  island  walking  alone  landscape | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-245583/ |
+| pixabay | worker  cut  building  grinder  pour in  builder  wheelbarro | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-67461/ |
+| pexels | a person planting a seeds | K | Pexels License | https://www.pexels.com/video/a-person-planting-a-seeds-9737847/ |
+| pexels | close up of hand of person planting seedling | K | Pexels License | https://www.pexels.com/video/close-up-of-hand-of-person-planting-seedling-9737853/ |
+| pexels | propagating plants in greenhouse close up | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/propagating-plants-in-greenhouse-close-up-6508913/ |
+| pexels | man planting plants | FRANK MERIÑO | Pexels License | https://www.pexels.com/video/man-planting-plants-8468175/ |
+| pexels | video of person planting | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/video-of-person-planting-4238310/ |
+| pexels | two women planting seedlings at farm | K | Pexels License | https://www.pexels.com/video/two-women-planting-seedlings-at-farm-9737856/ |
+| pexels | people planting a trees | ArtHouse Studio | Pexels License | https://www.pexels.com/video/people-planting-a-trees-5121695/ |
+| pexels | nature plant pot plants | cottonbro studio | Pexels License | https://www.pexels.com/video/nature-plant-pot-plants-4503294/ |
+| pexels | chidlren hands planting plants | K | Pexels License | https://www.pexels.com/video/chidlren-hands-planting-plants-13244335/ |
+| pexels | a person holding a eucalyptus plant with soil | Cup of  Couple | Pexels License | https://www.pexels.com/video/a-person-holding-a-eucalyptus-plant-with-soil-6963393/ |
+| pexels | an aerial footage of a field | Kindel Media | Pexels License | https://www.pexels.com/video/an-aerial-footage-of-a-field-7457079/ |
+| pexels | an aerial view of a farm with rows of crops | wowi allinsky | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-farm-with-rows-of-crops-27775524/ |
+| pexels | high angle shot of seedlings | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/high-angle-shot-of-seedlings-6510772/ |
+| pexels | row of hanging plants | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/row-of-hanging-plants-6508915/ |
+| pixabay | corn field  maize field  young corn  sprouting corn  planted | aerofotografialincoln | Pixabay Content License | https://pixabay.com/videos/id-313652/ |
+| pixabay | mobile phone  man  chat  dating  partner search  smartphone  | SamuelFJohanns | Pixabay Content License | https://pixabay.com/videos/id-42408/ |
+| pixabay | bed  human  sleep  restless  night  3d  cgi  fall asleep  ni | NickiAnimations | Pixabay Content License | https://pixabay.com/videos/id-85004/ |
+| pixabay | swans  cub  swan  plumage  young swan  schwimmvogel  young   | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-27454/ |
+| pixabay | tractor  crops  planting  soil  equipment  farming  agricult | kingimaging | Pixabay Content License | https://pixabay.com/videos/id-166485/ |
+| pixabay | woman  wake up  bed  sleep  pose  morning | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-151295/ |
+| pixabay | woman  wake-up  morning  bed  smile  cute | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-151297/ |
+| pixabay | sleeping  man  person  alarm  clock  morning  wakeup  male   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-729/ |
+| pexels | hands touching wildflowers | SHVETS production | Pexels License | https://www.pexels.com/video/hands-touching-wildflowers-8928590/ |
+| pexels | close up of hands holding daisies in field | iddea photo | Pexels License | https://www.pexels.com/video/close-up-of-hands-holding-daisies-in-field-38798250/ |
+| pexels | elegant white and pink tulips in bloom | Efrem  Efre | Pexels License | https://www.pexels.com/video/elegant-white-and-pink-tulips-in-bloom-32113051/ |
+| pexels | a man inspecting a plant | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-inspecting-a-plant-7101071/ |
+| pexels | close up of woman touching yellow plants | Josh Tavernier | iCapture Media Digital Marketing Agency | Pexels License | https://www.pexels.com/video/close-up-of-woman-touching-yellow-plants-20154981/ |
+| pexels | video of a plant | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/video-of-a-plant-6509171/ |
+| pexels | vibrant pink tulip field in springtime | Alex Ohan | Pexels License | https://www.pexels.com/video/vibrant-pink-tulip-field-in-springtime-39073769/ |
+| pexels | close up of man touching bouquet | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-man-touching-bouquet-9954992/ |
+| pexels | close up video of a people holding hands together | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-people-holding-hands-together-9479751/ |
