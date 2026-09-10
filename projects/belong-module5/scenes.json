@@ -1908,8 +1908,8 @@
      "shoot": "pexels-modern-bedroom-bedmaking",
      "score": 3.65,
      "judged_at": "2026-09-09T17:45:47Z",
-     "rank": 2,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "pexels_6958098_fresh-bread-preserves",
@@ -1982,8 +1982,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:25:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "an overhead farm breakfast spread of quail eggs, bread and pasta",
+     "violation": "",
+     "shoot": "pexels-farm-breakfast-overhead-spread",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 2
     },
     {
      "id": "belong-module5-S04-V01",
@@ -2004,8 +2012,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a minimalist dining table is set by large garden windows",
+     "violation": "",
+     "shoot": "pexels-minimalist-dining-window-table",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 15
     },
     {
      "id": "belong-module5-S04-V02",
@@ -2026,8 +2042,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "white eggs rest in a cloth-lined basket",
+     "violation": "",
+     "shoot": "pexels-white-eggs-basket-cloth2",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 9
     },
     {
      "id": "belong-module5-S04-V03",
@@ -2048,8 +2072,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "quail and chicken eggs scattered on parchment with greenery",
+     "violation": "",
+     "shoot": "pexels-quail-chicken-eggs-parchment",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 3
     },
     {
      "id": "belong-module5-S04-V04",
@@ -2070,8 +2102,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "soft morning light falls on a linen-covered bed with a nightstand",
+     "violation": "",
+     "shoot": "pexels-morning-light-linen-bed-nightstand",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 5
     },
     {
      "id": "belong-module5-S04-V05",
@@ -2092,8 +2132,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "bread with jam and cream cheese sits on a wooden board with coffee",
+     "violation": "",
+     "shoot": "pexels-bread-jam-board-coffee",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 6
     },
     {
      "id": "belong-module5-S04-V06",
@@ -2114,8 +2162,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman wakes and sits up in a bright minimalist bedroom",
+     "violation": "",
+     "shoot": "pexels-woman-wake-bright-bedroom",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 13
     },
     {
      "id": "belong-module5-S04-V07",
@@ -2136,8 +2192,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a dark bread loaf and eggs rest on grey linen against a stone wall",
+     "violation": "",
+     "shoot": "pexels-dark-bread-eggs-linen-stone",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 7
     },
     {
      "id": "belong-module5-S04-V08",
@@ -2158,8 +2222,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "eggs sit in a plastic tray on a bright orange background",
+     "violation": "supermarket/hotel-buffet product feel",
+     "shoot": "pexels-eggs-plastic-tray-orange",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 23
     },
     {
      "id": "belong-module5-S04-V09",
@@ -2180,8 +2252,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand slices a croissant beside jam on a styled linen table",
+     "violation": "",
+     "shoot": "pexels-croissant-jam-linen-styled",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 10
     },
     {
      "id": "belong-module5-S04-V10",
@@ -2202,8 +2282,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:26:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a blooming rosemary bush with purple flowers in daylight",
+     "violation": "",
+     "shoot": "pexels-rosemary-bush-bloom-daylight",
+     "score": 7.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 4
     },
     {
      "id": "belong-module5-S04-V11",
@@ -2224,8 +2312,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "close-up of rosemary sprigs in dim evening light",
+     "violation": "",
+     "shoot": "pexels-rosemary-sprigs-dim-light",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 11
     },
     {
      "id": "belong-module5-S04-V12",
@@ -2246,8 +2342,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a steaming coffee service sits on a tray on a sunlit patio table",
+     "violation": "",
+     "shoot": "pexels-coffee-service-tray-patio",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 16
     },
     {
      "id": "belong-module5-S04-V13",
@@ -2268,8 +2372,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "children eat pastries and tea at a breakfast table on a veranda",
+     "violation": "",
+     "shoot": "pexels-children-breakfast-veranda",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 8
     },
     {
      "id": "belong-module5-S04-V14",
@@ -2283,15 +2395,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__strip__belong-module5-S04-V14.strip.jpg",
      "title": "fog  dewdrop  haze  tomorrow  nature  morning dew  dew  morning light dew drops",
      "query": "morning light curtains bed",
-     "shot": "A",
+     "shot": "C",
      "duration": 48,
      "src_id": "14206",
      "download_url": "https://cdn.pixabay.com/video/2018/02/09/14206-255658035_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "sunbeams stream through morning mist over dewy grass",
+     "violation": "",
+     "shoot": "pixabay-sunbeams-mist-dewy-grass",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 19
     },
     {
      "id": "belong-module5-S04-V15",
@@ -2312,8 +2432,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman stretches happily waking up in a plant-filled bedroom",
+     "violation": "",
+     "shoot": "pixabay-woman-stretch-wake-plants",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 14
     },
     {
      "id": "belong-module5-S04-V16",
@@ -2334,8 +2462,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a woman wakes slowly on a bed with pink and white pillows",
+     "violation": "",
+     "shoot": "pixabay-woman-wake-pink-pillows",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 17
     },
     {
      "id": "belong-module5-S04-V17",
@@ -2356,8 +2492,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "morning light streams through a sheer curtain into a dim room",
+     "violation": "",
+     "shoot": "pixabay-morning-light-sheer-curtain-dim",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 12
     },
     {
      "id": "belong-module5-S04-V18",
@@ -2371,15 +2515,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__strip__belong-module5-S04-V18.strip.jpg",
      "title": "sleeping  man  person  alarm  clock  morning  wakeup  male  adult  sleep  bed  bedroom  home  lying  pillow  resting  comfortable  head  136919573",
      "query": "morning light curtains bed",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "729",
      "download_url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a person sleeps as a bright light shaft crosses a dark room",
+     "violation": "alarm clock light effect",
+     "shoot": "pixabay-sleep-light-shaft-dark",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 24
     },
     {
      "id": "belong-module5-S04-V19",
@@ -2393,15 +2545,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S04__strip__belong-module5-S04-V19.strip.jpg",
      "title": "fog  morning mist  nature  haze  tomorrow  morning light  mist  mood",
      "query": "morning light curtains bed",
-     "shot": "A",
+     "shot": "D",
      "duration": 40,
      "src_id": "242905",
      "download_url": "https://cdn.pixabay.com/video/2024/11/23/242905_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:27:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "misty rolling countryside hills glow at sunrise",
+     "violation": "",
+     "shoot": "pixabay-misty-hills-sunrise-wide",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 20
     },
     {
      "id": "belong-module5-S04-V20",
@@ -2422,8 +2582,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:28:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a decoratively plated avocado toast with a poached egg",
+     "violation": "",
+     "shoot": "pixabay-avocado-toast-decorative-egg",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 22
     },
     {
      "id": "belong-module5-S04-V21",
@@ -2444,8 +2612,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T00:28:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a steaming mug sits on a windowsill in warm morning light",
+     "violation": "",
+     "shoot": "pixabay-steaming-mug-windowsill-morning",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:52:30Z",
+     "rank": 18
     }
    ],
    "shots": [
@@ -2485,12 +2661,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:30:48Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T17:45:47Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:45:47Z"
+   "judged_at": "2026-09-10T09:52:30Z"
   },
   {
    "id": "S05",
