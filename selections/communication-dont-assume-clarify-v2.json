@@ -89,8 +89,10 @@
     "S17": {
       "requested": "2026-09-09T21:24:31Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T02:21:06Z",
+      "added": 19
     },
     "S16": {
       "requested": "2026-09-09T06:00:31Z",

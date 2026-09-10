@@ -287,3 +287,22 @@
 | pixabay | whiteboard  sketching  planning  drawing  sketch  board  bus | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-3161/ |
 | pixabay | israel  jerusalem  western wall  wailing wall  wall  religio | 2427999 | Pixabay Content License | https://pixabay.com/videos/id-15230/ |
 | pixabay | counter  numbers  one to ten  1 to 10  time  progress  passi | JCI-21 | Pixabay Content License | https://pixabay.com/videos/id-124746/ |
+| pexels | two wood workers talking to each other | Gustavo Fring | Pexels License | https://www.pexels.com/video/two-wood-workers-talking-to-each-other-5895494/ |
+| pexels | coach giving the rhythm to a deaf dancer | cottonbro studio | Pexels License | https://www.pexels.com/video/coach-giving-the-rhythm-to-a-deaf-dancer-6332465/ |
+| pexels | close up view of sticky notes on a brick wall | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-view-of-sticky-notes-on-a-brick-wall-6804115/ |
+| pexels | close up shot of person writing on a paper | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-person-writing-on-a-paper-6538447/ |
+| pexels | man walking towards the forklift inside the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/man-walking-towards-the-forklift-inside-the-warehouse-4294434/ |
+| pexels | woman posting sticky notes | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-posting-sticky-notes-6563922/ |
+| pexels | a construction worker entering a building basement | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/ |
+| pexels | workers with safety helmets in warehouse | Низам  DRedd | Pexels License | https://www.pexels.com/video/workers-with-safety-helmets-in-warehouse-10817415/ |
+| pexels | urban workers pushing wheelbarrows on city road | Achilé Attah | Pexels License | https://www.pexels.com/video/urban-workers-pushing-wheelbarrows-on-city-road-39290031/ |
+| pexels | digital checklist completion on tablet | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/digital-checklist-completion-on-tablet-32089998/ |
+| pexels | aerial view of coastal terrain and calm waters | Deek Van der aa | Pexels License | https://www.pexels.com/video/aerial-view-of-coastal-terrain-and-calm-waters-34362494/ |
+| pexels | a construction worker walking inside a building | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-walking-inside-a-building-5423610/ |
+| pexels | person writing in the notepad | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-writing-in-the-notepad-6186804/ |
+| pexels | seo optimized title efficient digital notetaking with stylus | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/seo-optimized-title-efficient-digital-notetaking-with-stylus-34225447/ |
+| pixabay | student  to write  to study  work  task  issue  question  st | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131990/ |
+| pixabay | brazil  football  title  world wide  sport  fifa  world cup  | Eartvideos | Pixabay Content License | https://pixabay.com/videos/id-80213/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | fries  food  fried  meal  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-214512/ |
+| pixabay | workout  athlete  sports training  active lifestyle  close-u | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-189730/ |
