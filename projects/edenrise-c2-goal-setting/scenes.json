@@ -36,7 +36,7 @@
      "shot": "A",
      "shoot": "pexels-S06V03-gloved-soil-digging",
      "judged_at": "2026-09-09T19:10:24Z",
-     "rank": 2,
+     "rank": 4,
      "shown": true
     },
     {
@@ -66,8 +66,8 @@
      "shot": "",
      "shoot": "pexels-hivis-workers-car-talk",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 9,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V13",
@@ -95,7 +95,7 @@
      "shot": "",
      "shoot": "pexels-construction-walkietalkie-steel",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 14,
+     "rank": 27,
      "shown": false
     },
     {
@@ -123,8 +123,8 @@
      "shot": "C",
      "shoot": "pexels-hardhat-floorplan-indoor",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 8,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V09",
@@ -155,7 +155,7 @@
      "shot": "",
      "shoot": "pixabay-scaffolding-aerial-highrise",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 13,
+     "rank": 26,
      "shown": false
     },
     {
@@ -184,7 +184,7 @@
      "shot": "A",
      "shoot": "pexels-S06V04-gloved-wall-clearing",
      "judged_at": "2026-09-09T19:10:24Z",
-     "rank": 4,
+     "rank": 8,
      "shown": true
     },
     {
@@ -241,8 +241,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-armscrossed-steel",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 10,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V02",
@@ -272,8 +272,8 @@
      "shot": "A",
      "shoot": "pixabay-lawnmower-bowling-green",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V05",
@@ -304,7 +304,7 @@
      "shot": "",
      "shoot": "pixabay-office-meeting-blurred",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 12,
+     "rank": 25,
      "shown": false
     },
     {
@@ -332,7 +332,7 @@
      "shot": "",
      "shoot": "pexels-construction-gesture-walkietalkie",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 11,
+     "rank": 22,
      "shown": false
     },
     {
@@ -360,8 +360,8 @@
      "shot": "",
      "shoot": "pexels-electrical-install-wall",
      "judged_at": "2026-09-09T18:31:01Z",
-     "rank": 7,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-c2-goal-setting-S06-I06",
@@ -484,8 +484,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands review charts spread on a wooden table",
+     "violation": "",
+     "shoot": "pexels-wooden-table-charts",
+     "score": 4.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V17",
@@ -506,8 +514,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands point at a floor plan spread on a table",
+     "violation": "",
+     "shoot": "pexels-floorplan-point-table",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V18",
@@ -528,8 +544,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two people point at a floor plan on a round table",
+     "violation": "",
+     "shoot": "pexels-floorplan-point-duo",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V19",
@@ -550,8 +574,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands gather around an architectural blueprint on a table",
+     "violation": "",
+     "shoot": "pexels-blueprint-table-hands",
+     "score": 5.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V20",
@@ -572,8 +604,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "women look over a rolled architectural plan indoors",
+     "violation": "",
+     "shoot": "pexels-rolled-plan-indoor",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V21",
@@ -587,15 +627,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V21.strip.jpg",
      "title": "women looking at the white paper",
      "query": "team planning outdoor table paper plan",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "8517250",
      "download_url": "https://videos.pexels.com/video-files/8517250/8517250-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two women review documents in an upscale interior",
+     "violation": "",
+     "shoot": "pexels-upscale-document-review",
+     "score": 1.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V22",
@@ -609,15 +657,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V22.strip.jpg",
      "title": "colleagues discussing on paperworks",
      "query": "team planning outdoor table paper plan",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "8688055",
      "download_url": "https://videos.pexels.com/video-files/8688055/8688055-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:21:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "colleagues review a magazine in a library setting",
+     "violation": "",
+     "shoot": "pexels-library-magazine-review",
+     "score": 1.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V23",
@@ -631,15 +687,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V23.strip.jpg",
      "title": "colleagues discussing the report papers",
      "query": "team planning outdoor table paper plan",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "8478752",
      "download_url": "https://videos.pexels.com/video-files/8478752/8478752-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "coworkers review reports beside a laptop and calculator",
+     "violation": "laptops",
+     "shoot": "pexels-office-report-laptop",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 28
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V24",
@@ -660,8 +724,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a gloved hand pours water from an irrigation pipe into a bucket",
+     "violation": "",
+     "shoot": "pexels-irrigation-pipe-bucket",
+     "score": 7.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V25",
@@ -675,15 +747,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V25.strip.jpg",
      "title": "a mechanic looking at a dipstick",
      "query": "technician checking irrigation pump",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "8986882",
      "download_url": "https://videos.pexels.com/video-files/8986882/8986882-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mechanic checks an oil dipstick indoors",
+     "violation": "",
+     "shoot": "pexels-mechanic-dipstick-indoor",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V26",
@@ -697,15 +777,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V26.strip.jpg",
      "title": "skilled mechanic working in workshop",
      "query": "technician checking irrigation pump",
-     "shot": "B",
+     "shot": "",
      "duration": 45,
      "src_id": "39310412",
      "download_url": "https://videos.pexels.com/video-files/39310412/16726999_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mechanic works at a cluttered workshop bench",
+     "violation": "",
+     "shoot": "pexels-mechanic-cluttered-bench",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V27",
@@ -726,8 +814,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a water pump irrigates a green rice paddy field",
+     "violation": "",
+     "shoot": "pexels-pump-irrigation-paddy",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V28",
@@ -748,8 +844,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hardhat worker inspects an oven in a kitchen",
+     "violation": "",
+     "shoot": "pexels-hardhat-oven-inspect",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V29",
@@ -763,15 +867,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V29.strip.jpg",
      "title": "person holding a wire",
      "query": "technician checking irrigation pump",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "6079433",
      "download_url": "https://videos.pexels.com/video-files/6079433/6079433-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker holds wire in a textile warehouse",
+     "violation": "textile mills",
+     "shoot": "pexels-textile-warehouse-wire",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 29
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V31",
@@ -785,15 +897,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V31.strip.jpg",
      "title": "hands  hand cream  cream  health  skin  care",
      "query": "craftsman hands wood",
-     "shot": "D",
+     "shot": "",
      "duration": 10,
      "src_id": "38079",
      "download_url": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands apply lotion in close up",
+     "violation": "",
+     "shoot": "pixabay-hand-cream-closeup2",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V32",
@@ -807,15 +927,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V32.strip.jpg",
      "title": "balloon  pump  3d  record  design  studio  motion graphics  3d inflation  3d scene  3d balloon  art  scene",
      "query": "technician pump checking",
-     "shot": "B",
+     "shot": "",
      "duration": 6,
      "src_id": "62348",
      "download_url": "https://cdn.pixabay.com/video/2021/01/19/62348-504643741_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated 3d balloon pump inflates a balloon",
+     "violation": "abstract loops",
+     "shoot": "pixabay-cgi-balloon-pump",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 31
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V33",
@@ -836,8 +964,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:22:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a circular saw cuts through a wood plank close up",
+     "violation": "",
+     "shoot": "pixabay-circular-saw-plank",
+     "score": 6.35,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V34",
@@ -858,8 +994,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:23:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a craftsman shapes a wood chair in a workshop",
+     "violation": "",
+     "shoot": "pixabay-craftsman-chair-workshop",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V35",
@@ -880,8 +1024,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:23:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a gloved hand splits firewood with an axe outdoors",
+     "violation": "",
+     "shoot": "pixabay-axe-firewood-split",
+     "score": 6.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 7
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V36",
@@ -895,15 +1047,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V36.strip.jpg",
      "title": "hand washing  washing  hand  hygiene  soap  bathroom",
      "query": "craftsman hands wood",
-     "shot": "D",
+     "shot": "",
      "duration": 51,
      "src_id": "51807",
      "download_url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:23:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands wash under a bathroom faucet",
+     "violation": "",
+     "shoot": "pixabay-handwashing-bathroom",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-goal-setting-S06-V37",
@@ -917,15 +1077,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-goal-setting/S06__strip__edenrise-c2-goal-setting-S06-V37.strip.jpg",
      "title": "fire  flames  wood  burn  campfire  hot  warmth  embers  firewood  glow",
      "query": "craftsman hands wood",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "192687",
      "download_url": "https://cdn.pixabay.com/video/2023/12/10/192687-893427276_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:23:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "flames rise from a burning campfire at night",
+     "violation": "",
+     "shoot": "pixabay-campfire-flames-night",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:11:38Z",
+     "rank": 33
     }
    ],
    "shots": [
@@ -965,12 +1133,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-09T19:10:24Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:10:24Z"
+   "judged_at": "2026-09-10T10:11:38Z"
   },
   {
    "id": "S05",
