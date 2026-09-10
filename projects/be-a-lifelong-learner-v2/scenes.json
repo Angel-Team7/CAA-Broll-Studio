@@ -9962,8 +9962,8 @@
      "shoot": "pexels-candlelit-notebook-man",
      "score": 3.0,
      "judged_at": "2026-09-09T18:39:18Z",
-     "rank": 4,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "pexels_15909398_thoughtful-worker-golden-hour",
@@ -10006,8 +10006,8 @@
      "shoot": "pexels-forest-silhouette-dusk",
      "score": 4.35,
      "judged_at": "2026-09-09T18:39:18Z",
-     "rank": 3,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "pexels_9305503_end-of-day-journal-writing",
@@ -10028,7 +10028,7 @@
      "shoot": "pexels-notebook-handwriting-tabs",
      "score": 7.0,
      "judged_at": "2026-09-09T18:39:18Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -10063,15 +10063,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V00.strip.jpg",
      "title": "vintage 1950s woman raking outdoors",
      "query": "field evening worker small in frame",
-     "shot": "C",
+     "shot": "",
      "duration": 13,
      "src_id": "31966141",
      "download_url": "https://videos.pexels.com/video-files/31966141/13621248_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:03:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "vintage black-and-white footage of a woman raking outdoors",
+     "violation": "",
+     "shoot": "pexels-vintage-bw-woman-raking",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 23
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V01",
@@ -10092,8 +10100,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:03:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand writes in a journal at a warmly lit desk",
+     "violation": "",
+     "shoot": "pexels-journal-writing-desk-laptop",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 7
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V02",
@@ -10114,8 +10130,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:03:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand holds a pen over an open notebook",
+     "violation": "",
+     "shoot": "pexels-pen-notebook-teal-bg",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 8
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V03",
@@ -10136,8 +10160,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:03:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a hand writes in a notebook resting on a lap",
+     "violation": "",
+     "shoot": "pexels-notebook-lap-pillow-writing",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 13
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V04",
@@ -10158,8 +10190,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:03:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a tattooed hand writes in a notebook",
+     "violation": "",
+     "shoot": "pexels-tattoo-arm-notebook-writing",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 9
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V05",
@@ -10180,8 +10220,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a misty valley and fields are seen through a window at dusk",
+     "violation": "",
+     "shoot": "pexels-window-frame-valley-dusk",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 4
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V06",
@@ -10202,8 +10250,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an older woman writes quietly on her couch in evening light",
+     "violation": "",
+     "shoot": "pexels-elderly-woman-laptop-couch",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 10
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V07",
@@ -10224,8 +10280,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an older woman writes quietly on her couch in evening light",
+     "violation": "",
+     "shoot": "pexels-elderly-woman-laptop-couch",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 11
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V08",
@@ -10246,8 +10310,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a young man reads quietly at sundown",
+     "violation": "",
+     "shoot": "pexels-young-man-tablet-sundown",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 6
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V09",
@@ -10268,8 +10340,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands write with a pen in an old book at a wooden table",
+     "violation": "",
+     "shoot": "pexels-hands-old-book-writing",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 14
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V10",
@@ -10290,8 +10370,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand writes a note with a pen in a planner",
+     "violation": "",
+     "shoot": "pexels-planner-writing-savethedate",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 16
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V11",
@@ -10305,15 +10393,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V11.strip.jpg",
      "title": "woman writing on the notebook",
      "query": "pen on notebook page outdoors close",
-     "shot": "B",
+     "shot": "A",
      "duration": 9,
      "src_id": "4393233",
      "download_url": "https://videos.pexels.com/video-files/4393233/4393233-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman sits cross-legged writing quietly in a notebook",
+     "violation": "",
+     "shoot": "pexels-woman-bed-notebook-writing",
+     "score": 5.65,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 5
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V12",
@@ -10334,8 +10430,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a wide view of a train passing misty rice fields at dusk",
+     "violation": "",
+     "shoot": "pexels-aerial-train-ricefield-dusk",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 17
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V13",
@@ -10356,8 +10460,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a lone farmer walks across a flooded field at dusk",
+     "violation": "",
+     "shoot": "pexels-farmer-walking-paddy-dusk",
+     "score": 7.3,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 2
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V14",
@@ -10371,15 +10483,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V14.strip.jpg",
      "title": "book  write  pen  diary  letter  hands  girl  notebook",
      "query": "worker notebook evening",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "4952",
      "download_url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:04:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a child writes in a notebook beside a teddy bear",
+     "violation": "",
+     "shoot": "pexels-child-teddybear-notebook",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 21
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V15",
@@ -10400,8 +10520,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:05:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "hands write notes in a thick textbook",
+     "violation": "",
+     "shoot": "pixabay-textbook-writing-hands",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 18
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V16",
@@ -10415,15 +10543,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V16.strip.jpg",
      "title": "billet  bank  debt  pen",
      "query": "pen notebook outdoor close",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "13477",
      "download_url": "https://cdn.pixabay.com/video/2017/12/19/13477-248644896_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:05:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a pen rests on printed bank documents",
+     "violation": "",
+     "shoot": "pixabay-pen-bank-documents",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 22
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V17",
@@ -10437,15 +10573,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V17.strip.jpg",
      "title": "happy new year  christmas  christmas tree  winter  lights  evening  night  new year",
      "query": "worker notebook evening",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "3565",
      "download_url": "https://cdn.pixabay.com/video/2016/06/27/3565-172488151_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:05:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a lit Christmas tree stands beside a stone fireplace",
+     "violation": "",
+     "shoot": "pixabay-christmas-tree-fireplace",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 24
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V18",
@@ -10466,8 +10610,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:05:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a close-up of a hand writing on paper",
+     "violation": "",
+     "shoot": "pixabay-pen-paper-dark-closeup",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 15
     },
     {
      "id": "be-a-lifelong-learner-v2-S15-V19",
@@ -10481,15 +10633,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-be-a-lifelong-learner-v2-2/S15__strip__be-a-lifelong-learner-v2-S15-V19.strip.jpg",
      "title": "school  scribble  student  drawing  notepad  sketchbook  pupil  learning  pen  write  doodle",
      "query": "pen notebook outdoor close",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "80",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/80-135733160_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T22:05:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand sketches a diagram in a notebook near a laptop",
+     "violation": "",
+     "shoot": "pixabay-sketch-notebook-glass-laptop",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:14:56Z",
+     "rank": 19
     }
    ],
    "shots": [
@@ -10521,12 +10681,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:37:00Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T18:39:18Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T18:39:18Z"
+   "judged_at": "2026-09-10T09:14:56Z"
   },
   {
    "id": "S16",
