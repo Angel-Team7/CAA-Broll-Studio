@@ -5394,10 +5394,10 @@
   "reason": "cartoon graphic"
  },
  "pixabay:124746": {
-  "at": "2026-09-10T09:38:32Z",
   "brand": "edenrise",
-  "from": "benchmark-excellence-v2/S13",
-  "reason": "green screen, abstract loops"
+  "reason": "green screen",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
  },
  "pixabay:124983": {
   "at": "2026-09-10T09:44:46Z",
@@ -6360,10 +6360,10 @@
   "reason": "factory / sewing industry"
  },
  "pixabay:3161": {
-  "at": "2026-09-10T09:37:27Z",
   "brand": "edenrise",
-  "from": "edenrise-c2-winning-beliefs/S09",
-  "reason": "whiteboard"
+  "reason": "whiteboards",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
  },
  "pixabay:31654": {
   "at": "2026-09-10T09:33:05Z",
@@ -7516,5 +7516,47 @@
   "reason": "abstract",
   "at": "2026-09-10T10:22:08Z",
   "from": "edenrise-c2-six-needs-drives/S09"
+ },
+ "pexels:6536353": {
+  "brand": "edenrise",
+  "reason": "face coverings, unrelated",
+  "at": "2026-09-10T10:20:36Z",
+  "from": "edenrise-c2-six-needs-reactions/S08"
+ },
+ "pexels:7651535": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:6952022": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:8298181": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:7640704": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:4435249": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
+ },
+ "pexels:38779110": {
+  "brand": "edenrise",
+  "reason": "office",
+  "at": "2026-09-10T10:22:41Z",
+  "from": "communication-dont-assume-clarify-v2/S15"
  }
 }

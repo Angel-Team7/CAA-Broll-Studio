@@ -8954,8 +8954,8 @@
      "shoot": "pexels-37335840-rivet-tool",
      "score": 2.7,
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 9,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "pexels_8964772_foreman-redirecting-worker-site",
@@ -8976,7 +8976,7 @@
      "shoot": "pexels-8964772-vests-talk-crane",
      "score": 6.65,
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -8998,7 +8998,7 @@
      "shoot": "pixabay-202987-phone-closeup",
      "score": 6.0,
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 2,
+     "rank": 3,
      "shown": true
     },
     {
@@ -9020,7 +9020,7 @@
      "shoot": "pixabay-85350-shovel-wheelbarrow",
      "score": 4.7,
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 4,
+     "rank": 7,
      "shown": true
     },
     {
@@ -9069,8 +9069,8 @@
      "shot": "A",
      "shoot": "pexels-S15V00-vest-netting",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 6,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V01",
@@ -9098,8 +9098,8 @@
      "shot": "",
      "shoot": "pixabay-S15V01-scaffold-climb",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 7,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V02",
@@ -9127,8 +9127,8 @@
      "shot": "",
      "shoot": "pexels-S15V02-notebook-box",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 10,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V03",
@@ -9156,7 +9156,7 @@
      "shot": "",
      "shoot": "pixabay-S15V03-corn-harvest",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 5,
+     "rank": 10,
      "shown": true
     },
     {
@@ -9185,7 +9185,7 @@
      "shot": "",
      "shoot": "pexels-S15V04-masks-delivery",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 14,
+     "rank": 24,
      "shown": false
     },
     {
@@ -9214,8 +9214,8 @@
      "shot": "",
      "shoot": "pixabay-S15V05-aerial-flatroof",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 8,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V06",
@@ -9243,7 +9243,7 @@
      "shot": "",
      "shoot": "pexels-S15V06-hallway-delivery",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 11,
+     "rank": 18,
      "shown": false
     },
     {
@@ -9272,7 +9272,7 @@
      "shot": "",
      "shoot": "pixabay-S15V07-aerial-trucks",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 12,
+     "rank": 19,
      "shown": false
     },
     {
@@ -9301,7 +9301,7 @@
      "shot": "A",
      "shoot": "pixabay-S15V08-excavator-brick",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 3,
+     "rank": 6,
      "shown": true
     },
     {
@@ -9330,7 +9330,7 @@
      "shot": "",
      "shoot": "pixabay-S15V09-aerial-highrise-cranes",
      "judged_at": "2026-09-09T19:07:31Z",
-     "rank": 13,
+     "rank": 23,
      "shown": false
     },
     {
@@ -9352,8 +9352,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man in glasses talks while a colleague hands over a binder",
+     "violation": "office",
+     "shoot": "pexels-office-binder-handoff",
+     "score": 1.3,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 21
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V11",
@@ -9374,8 +9382,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "two hi-vis workers talk behind barriers on a city street",
+     "violation": "",
+     "shoot": "pexels-hivis-construction-street",
+     "score": 2.3,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 17
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V12",
@@ -9389,15 +9405,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V12.strip.jpg",
      "title": "business people signing a contract and shaking hands",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "6952022",
      "download_url": "https://videos.pexels.com/video-files/6952022/6952022-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "business people in suits sign a contract in a glass office",
+     "violation": "office",
+     "shoot": "pexels-contract-signing-office",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 25
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V13",
@@ -9418,8 +9442,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "young office workers discuss folders in a loft workspace",
+     "violation": "office",
+     "shoot": "pexels-office-folders-group",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 26
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V14",
@@ -9433,15 +9465,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V14.strip.jpg",
      "title": "angry woman talking to a man",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "7640704",
      "download_url": "https://videos.pexels.com/video-files/7640704/7640704-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman gestures animatedly at a man seated with a laptop",
+     "violation": "office",
+     "shoot": "pexels-woman-laptop-argument",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 27
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V15",
@@ -9462,8 +9502,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "two men review a document together against a plain wall",
+     "violation": "",
+     "shoot": "pexels-two-men-paper-review-plainwall",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 4
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V16",
@@ -9477,15 +9525,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V16.strip.jpg",
      "title": "showing the new workplace",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "4435249",
      "download_url": "https://videos.pexels.com/video-files/4435249/4435249-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:16:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man shows a colleague around a modern open office",
+     "violation": "office",
+     "shoot": "pexels-showing-workplace-office",
+     "score": 1.3,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 22
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V17",
@@ -9499,15 +9555,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V17.strip.jpg",
      "title": "modern traffic management control room",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 9,
      "src_id": "38779110",
      "download_url": "https://videos.pexels.com/video-files/38779110/16477701_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "workers monitor traffic camera feeds in a control room",
+     "violation": "office",
+     "shoot": "pexels-traffic-control-room",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 31
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V18",
@@ -9521,15 +9585,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V18.strip.jpg",
      "title": "an information on the screen at the train station",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "5219628",
      "download_url": "https://videos.pexels.com/video-files/5219628/5219628-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a digital train arrival board displays departure times",
+     "violation": "",
+     "shoot": "pexels-train-station-display",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 29
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V19",
@@ -9543,15 +9615,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V19.strip.jpg",
      "title": "changi airport immigration area overview",
      "query": "manager arriving new information worker",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "36679174",
      "download_url": "https://videos.pexels.com/video-files/36679174/15549571_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "travelers walk through an airport immigration hall",
+     "violation": "",
+     "shoot": "pexels-airport-immigration-hall",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 32
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V20",
@@ -9572,8 +9652,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand marks up a colorful chart with a pencil",
+     "violation": "",
+     "shoot": "pexels-hand-colorchart-pencil",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 8
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V21",
@@ -9594,8 +9682,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand writes notes on papers spread on a desk",
+     "violation": "",
+     "shoot": "pexels-hand-writing-desk-papers",
+     "score": 4.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 9
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V22",
@@ -9616,8 +9712,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand sketches with a pencil on a dark clipboard",
+     "violation": "",
+     "shoot": "pexels-pencil-sketch-clipboard-dark",
+     "score": 5.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 5
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V23",
@@ -9638,8 +9742,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a hand-drawn floor plan sits on a desk beside glasses",
+     "violation": "",
+     "shoot": "pexels-floorplan-blueprint-desk",
+     "score": 7.3,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 1
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V24",
@@ -9653,15 +9765,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V24.strip.jpg",
      "title": "child  drawing  kid  pencil",
      "query": "plan pencil adjust close",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "86242",
      "download_url": "https://cdn.pixabay.com/video/2021/08/24/86242-591841114_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a child draws with a red pencil in a notebook on the floor",
+     "violation": "",
+     "shoot": "pixabay-child-drawing-carpet",
+     "score": 1.35,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 20
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V25",
@@ -9675,15 +9795,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V25.strip.jpg",
      "title": "countdown  digital  timer  clock  numbers  digit  alarm  time  schedule  reminder  snooze  indicator  count  plan  mechanical  hour  design  machine  numeric  i",
      "query": "plan pencil adjust close",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "31098",
      "download_url": "https://cdn.pixabay.com/video/2020/01/09/31098-384511753_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a digital countdown timer counts down on a dark screen",
+     "violation": "",
+     "shoot": "pixabay-countdown-timer-digits",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 33
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V26",
@@ -9697,15 +9825,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V26.strip.jpg",
      "title": "pencil  drawing  girl  figure  cute  childhood  creativity  child",
      "query": "plan pencil adjust close",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "62524",
      "download_url": "https://cdn.pixabay.com/video/2021/01/20/62524-504239033_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a child colors a drawing of a person with a red pencil",
+     "violation": "",
+     "shoot": "pixabay-child-coloring-drawing",
+     "score": 0.35,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 30
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V27",
@@ -9726,8 +9862,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:17:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand sketches with colored pencils on a cutting mat",
+     "violation": "",
+     "shoot": "pixabay-sketch-colored-pencils-mat",
+     "score": 3.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 14
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V28",
@@ -9741,15 +9885,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V28.strip.jpg",
      "title": "timer  clock  alarm  ticking  countdown  digital  numbers  digit  time  schedule  reminder  snooze  indicator  count  plan  mechanical  hour  design",
      "query": "plan pencil adjust close",
-     "shot": "C",
+     "shot": "",
      "duration": 60,
      "src_id": "43613",
      "download_url": "https://cdn.pixabay.com/video/2020/07/02/43613-436237593_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:18:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "multiple digital timers count down on a black screen",
+     "violation": "",
+     "shoot": "pixabay-multi-countdown-timers",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 34
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V29",
@@ -9770,8 +9922,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:18:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a hand writes on a whiteboard with a marker",
+     "violation": "whiteboards",
+     "shoot": "pixabay-whiteboard-marker-writing",
+     "score": 0.65,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 28
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V30",
@@ -9785,15 +9945,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V30.strip.jpg",
      "title": "israel  jerusalem  western wall  wailing wall  wall  religion  fanatism",
      "query": "worker wall progress",
-     "shot": "A",
+     "shot": "",
      "duration": 58,
      "src_id": "15230",
      "download_url": "https://cdn.pixabay.com/video/2018/03/28/15230-262569937_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:18:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "people gather to pray at a historic stone wall",
+     "violation": "",
+     "shoot": "pixabay-western-wall-jerusalem",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 35
     },
     {
      "id": "communication-dont-assume-clarify-v2-S15-V31",
@@ -9807,15 +9975,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2-2/S15__strip__communication-dont-assume-clarify-v2-S15-V31.strip.jpg",
      "title": "counter  numbers  one to ten  1 to 10  time  progress  passing counter",
      "query": "worker wall progress",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "124746",
      "download_url": "https://cdn.pixabay.com/video/2022/07/20/124746-732633064_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:18:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "large numbers count up on a green screen background",
+     "violation": "green screen",
+     "shoot": "pixabay-greenscreen-numbers-count",
+     "score": 0.0,
+     "judged_at": "2026-09-10T10:22:41Z",
+     "rank": 36
     }
    ],
    "shots": [
@@ -9847,12 +10023,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:38:19Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T19:07:31Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T19:07:31Z"
+   "judged_at": "2026-09-10T10:22:41Z"
   },
   {
    "id": "S16",
