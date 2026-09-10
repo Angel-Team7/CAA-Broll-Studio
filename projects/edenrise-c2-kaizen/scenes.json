@@ -3550,7 +3550,7 @@
      "shot": "",
      "shoot": "pexels-construction-crane-conversation",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 7,
+     "rank": 22,
      "shown": false
     },
     {
@@ -3578,8 +3578,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-blueprint-wall",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 5,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S04-V12",
@@ -3606,8 +3606,8 @@
      "shot": "",
      "shoot": "pexels-photo-album-flip",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 9,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S04-V02",
@@ -3637,7 +3637,7 @@
      "shot": "",
      "shoot": "pexels-construction-crane-conversation",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 8,
+     "rank": 23,
      "shown": false
     },
     {
@@ -3665,8 +3665,8 @@
      "shot": "",
      "shoot": "pexels-hardhat-blueprint-empty-room",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 4,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S04-V15",
@@ -3692,8 +3692,8 @@
      "shot": "",
      "shoot": "pexels-flatlay-blueprint-tools",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 6,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "edenrise-c2-kaizen-S04-V16",
@@ -3720,7 +3720,7 @@
      "shot": "",
      "shoot": "pexels-office-desk-filing",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 11,
+     "rank": 31,
      "shown": false
     },
     {
@@ -3747,7 +3747,7 @@
      "shot": "B",
      "shoot": "pexels-workshop-plan-pointing",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 1,
+     "rank": 3,
      "shown": true
     },
     {
@@ -3774,7 +3774,7 @@
      "shot": "B",
      "shoot": "pexels-renovation-couple-plan",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 2,
+     "rank": 4,
      "shown": true
     },
     {
@@ -3801,7 +3801,7 @@
      "shot": "B",
      "shoot": "pexels-floorplan-table-pointing",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -3844,7 +3844,7 @@
      "shot": "",
      "shoot": "pexels-masked-hardhat-unfinished-room",
      "judged_at": "2026-09-09T17:59:12Z",
-     "rank": 10,
+     "rank": 29,
      "shown": false
     },
     {
@@ -3983,8 +3983,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:48:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "labeled apothecary drawers with brass handles",
+     "violation": "",
+     "shoot": "pexels-apothecary-drawers",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-kaizen-S04-V28",
@@ -4005,8 +4013,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:48:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "yellow-painted tools hang neatly on a pegboard",
+     "violation": "",
+     "shoot": "pexels-yellow-tools-pegboard",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-kaizen-S04-V29",
@@ -4027,8 +4043,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:48:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a hand reaches for a hammer on an organized tool rack",
+     "violation": "",
+     "shoot": "pexels-hammer-rack-organized",
+     "score": 7.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-kaizen-S04-V30",
@@ -4042,15 +4066,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V30.strip.jpg",
      "title": "courier boxes in the racks",
      "query": "labelled shelves tidy tool store",
-     "shot": "C",
+     "shot": "",
      "duration": 17,
      "src_id": "6169987",
      "download_url": "https://videos.pexels.com/video-files/6169987/6169987-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "cardboard boxes labeled fragile sit on warehouse shelving",
+     "violation": "",
+     "shoot": "pexels-fragile-boxes-warehouse",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-kaizen-S04-V31",
@@ -4064,15 +4096,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V31.strip.jpg",
      "title": "books arranged orderly",
      "query": "labelled shelves tidy tool store",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "1580500",
      "download_url": "https://videos.pexels.com/video-files/1580500/1580500-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "rows of books line library shelves",
+     "violation": "",
+     "shoot": "pexels-library-bookshelves",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-kaizen-S04-V32",
@@ -4086,15 +4126,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V32.strip.jpg",
      "title": "a person putting ceramics to the shelf",
      "query": "labelled shelves tidy tool store",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "7221526",
      "download_url": "https://videos.pexels.com/video-files/7221526/7221526-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand places ceramic pieces on a shelf",
+     "violation": "",
+     "shoot": "pexels-ceramics-shelf-hand",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 20
     },
     {
      "id": "edenrise-c2-kaizen-S04-V33",
@@ -4115,8 +4163,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "rows of labeled storage bins fill a large shed",
+     "violation": "",
+     "shoot": "pexels-storage-bins-shed",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-kaizen-S04-V34",
@@ -4130,15 +4186,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V34.strip.jpg",
      "title": "a footage inside the warehouse",
      "query": "labelled shelves tidy tool store",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "4294436",
      "download_url": "https://videos.pexels.com/video-files/4294436/4294436-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "aisles of packaged goods fill a large warehouse",
+     "violation": "",
+     "shoot": "pexels-warehouse-aisles-goods",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 30
     },
     {
      "id": "edenrise-c2-kaizen-S04-V35",
@@ -4152,15 +4216,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V35.strip.jpg",
      "title": "men opening a garage door together",
      "query": "searching messy shed for part",
-     "shot": "A",
+     "shot": "D",
      "duration": 12,
      "src_id": "8551363",
      "download_url": "https://videos.pexels.com/video-files/8551363/8551363-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "two men lift open a suburban garage door",
+     "violation": "",
+     "shoot": "pexels-garage-door-two-men",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-kaizen-S04-V36",
@@ -4174,15 +4246,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V36.strip.jpg",
      "title": "man knocking on wooden cabin door",
      "query": "searching messy shed for part",
-     "shot": "A",
+     "shot": "D",
      "duration": 11,
      "src_id": "11764857",
      "download_url": "https://videos.pexels.com/video-files/11764857/11764857-hd_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a man approaches an old wooden shed in the snow",
+     "violation": "",
+     "shoot": "pexels-snow-shed-approach",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-kaizen-S04-V37",
@@ -4196,15 +4276,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V37.strip.jpg",
      "title": "man carrying bags",
      "query": "searching messy shed for part",
-     "shot": "A",
+     "shot": "D",
      "duration": 12,
      "src_id": "11960824",
      "download_url": "https://videos.pexels.com/video-files/11960824/11960824-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a man carries bags toward a wooden shed by a greenhouse",
+     "violation": "",
+     "shoot": "pexels-shed-greenhouse-carry",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 2
     },
     {
      "id": "edenrise-c2-kaizen-S04-V38",
@@ -4218,15 +4306,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V38.strip.jpg",
      "title": "a woman holding a pitchfork",
      "query": "searching messy shed for part",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "8890677",
      "download_url": "https://videos.pexels.com/video-files/8890677/8890677-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a woman moves hay with a pitchfork near a shed",
+     "violation": "",
+     "shoot": "pexels-pitchfork-hay-shed",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 11
     },
     {
      "id": "edenrise-c2-kaizen-S04-V39",
@@ -4247,8 +4343,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:49:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a courier checks a clipboard beside delivery boxes",
+     "violation": "",
+     "shoot": "pexels-courier-clipboard-boxes",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 21
     },
     {
      "id": "edenrise-c2-kaizen-S04-V40",
@@ -4269,8 +4373,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "suited attendees hold papers and clipboards at an event",
+     "violation": "suits",
+     "shoot": "pexels-suits-clipboard-event",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 32
     },
     {
      "id": "edenrise-c2-kaizen-S04-V41",
@@ -4284,15 +4396,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V41.strip.jpg",
      "title": "lathe  wood  craft  handmade  work  processing  tool",
      "query": "messy shed searching tools",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "94444",
      "download_url": "https://cdn.pixabay.com/video/2021/11/03/94444-643067803_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 8,
+     "caption": "a lathe shapes a piece of wood as shavings fly",
+     "violation": "",
+     "shoot": "pixabay-lathe-wood-shape",
+     "score": 4.75,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-kaizen-S04-V42",
@@ -4313,8 +4433,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a weathered wooden shed door stands before pine trees",
+     "violation": "",
+     "shoot": "pixabay-weathered-shed-door",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 10
     },
     {
      "id": "edenrise-c2-kaizen-S04-V43",
@@ -4328,15 +4456,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V43.strip.jpg",
      "title": "moss  shed  tree  outhouse",
      "query": "messy shed searching tools",
-     "shot": "A",
+     "shot": "",
      "duration": 27,
      "src_id": "20464",
      "download_url": "https://cdn.pixabay.com/video/2019/01/04/20464-309694556_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mossy stone cabin sits deep in a bare winter forest",
+     "violation": "",
+     "shoot": "pixabay-mossy-cabin-winter",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-kaizen-S04-V44",
@@ -4350,15 +4486,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V44.strip.jpg",
      "title": "old  shed  window  rustic",
      "query": "messy shed searching tools",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "20467",
      "download_url": "https://cdn.pixabay.com/video/2019/01/04/20467-309694570_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a cracked window is covered by rusted wire mesh",
+     "violation": "ruins/abandoned",
+     "shoot": "pixabay-cracked-window-mesh",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 33
     },
     {
      "id": "edenrise-c2-kaizen-S04-V45",
@@ -4372,15 +4516,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V45.strip.jpg",
      "title": "girl  writing  student  female  book  school  person  woman",
      "query": "clipboards writing outdoor",
-     "shot": "B",
+     "shot": "",
      "duration": 9,
      "src_id": "43459",
      "download_url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman writes in a notebook while sitting on a bed",
+     "violation": "",
+     "shoot": "pixabay-woman-bed-notebook",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 27
     },
     {
      "id": "edenrise-c2-kaizen-S04-V46",
@@ -4401,8 +4553,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand writes in a thick notebook on a table",
+     "violation": "",
+     "shoot": "pixabay-thick-notebook-write",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 18
     },
     {
      "id": "edenrise-c2-kaizen-S04-V47",
@@ -4416,15 +4576,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V47.strip.jpg",
      "title": "student  to write  to study  work  task  issue  question  study",
      "query": "workers question greenhouse",
-     "shot": "D",
+     "shot": "B",
      "duration": 24,
      "src_id": "131990",
      "download_url": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man writes in a spiral notebook at a desk",
+     "violation": "",
+     "shoot": "pixabay-spiralnotebook-write-desk",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 19
     },
     {
      "id": "edenrise-c2-kaizen-S04-V48",
@@ -4438,15 +4606,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-kaizen/S04__strip__edenrise-c2-kaizen-S04-V48.strip.jpg",
      "title": "write  writing  calligraphy  letters  paper  lettering  old script  nostalgia  old paper  read  text  font  china  chinese  graphically  art",
      "query": "clipboards writing outdoor",
-     "shot": "B",
+     "shot": "",
      "duration": 40,
      "src_id": "13053",
      "download_url": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:50:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand paints chinese calligraphy with a brush",
+     "violation": "",
+     "shoot": "pixabay-calligraphy-brush-paper",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:40:55Z",
+     "rank": 28
     }
    ],
    "onscreen": "Friction is a clue.",
@@ -4489,11 +4665,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:32:27Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:59:12Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:40:55Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:59:12Z"
+   "judged_at": "2026-09-10T09:40:55Z"
   },
   {
    "id": "S05",
