@@ -38,7 +38,7 @@
      "shot": "",
      "shoot": "pexels-office-craft-laptop-team",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 11,
+     "rank": 28,
      "shown": false
     },
     {
@@ -67,7 +67,7 @@
      "shot": "",
      "shoot": "pexels-highrise-rebar-crowd",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 7,
+     "rank": 18,
      "shown": false
     },
     {
@@ -116,7 +116,7 @@
      "shot": "A",
      "shoot": "pixabay-lawn-mower-suburb",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 1,
+     "rank": 2,
      "shown": true
     },
     {
@@ -146,7 +146,7 @@
      "shot": "C",
      "shoot": "pexels-hivis-women-hillside-planning",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 2,
+     "rank": 4,
      "shown": true
     },
     {
@@ -175,7 +175,7 @@
      "shot": "",
      "shoot": "pexels-highrise-blueprint-review",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 5,
+     "rank": 11,
      "shown": false
     },
     {
@@ -205,8 +205,8 @@
      "shot": "",
      "shoot": "pexels-hivis-hallway-construction",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-I01",
@@ -295,7 +295,7 @@
      "shot": "",
      "shoot": "pexels-whiteboard-hand-writing",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 12,
+     "rank": 29,
      "shown": false
     },
     {
@@ -324,7 +324,7 @@
      "shot": "D",
      "shoot": "pixabay-riverbank-digger-dusk",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 3,
+     "rank": 7,
      "shown": true
     },
     {
@@ -353,7 +353,7 @@
      "shot": "",
      "shoot": "pexels-office-team-greenscreen-monitor",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -382,8 +382,8 @@
      "shot": "",
      "shoot": "pixabay-glassblower-flame",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 14,
-     "shown": true
+     "rank": 31,
+     "shown": false
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V15",
@@ -411,7 +411,7 @@
      "shot": "",
      "shoot": "pixabay-cartoon-laptop-idea",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -440,7 +440,7 @@
      "shot": "",
      "shoot": "pixabay-street-mopping-parkinglot",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 4,
+     "rank": 10,
      "shown": true
     },
     {
@@ -469,7 +469,7 @@
      "shot": "",
      "shoot": "pixabay-quarry-rock-breaking",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 8,
+     "rank": 19,
      "shown": false
     },
     {
@@ -498,7 +498,7 @@
      "shot": "",
      "shoot": "pixabay-aerial-highrise-scaffold-crew",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 9,
+     "rank": 20,
      "shown": false
     },
     {
@@ -527,7 +527,7 @@
      "shot": "",
      "shoot": "pexels-greenscreen-woman-talking",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 16,
+     "rank": 33,
      "shown": false
     },
     {
@@ -556,7 +556,7 @@
      "shot": "",
      "shoot": "pixabay-aerial-highrise-scaffold-crew",
      "judged_at": "2026-09-09T19:20:18Z",
-     "rank": 10,
+     "rank": 21,
      "shown": false
     },
     {
@@ -578,8 +578,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a gloved hi-vis worker holds an open project plan booklet",
+     "violation": "",
+     "shoot": "hivis-plan-booklet",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 3
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V22",
@@ -593,15 +601,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V22.strip.jpg",
      "title": "people looking at a floor plan",
      "query": "three workers planning outdoors paper",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "8725801",
      "download_url": "https://videos.pexels.com/video-files/8725801/8725801-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "well-dressed people review a blueprint at a table",
+     "violation": "corporate",
+     "shoot": "corporate-blueprint-table",
+     "score": 1.3,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 15
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V23",
@@ -622,8 +638,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a gloved hi-vis hand flips through a safety instruction sheet",
+     "violation": "",
+     "shoot": "hivis-instruction-sheet",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 6
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V24",
@@ -637,15 +661,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V24.strip.jpg",
      "title": "man working pencil paper",
      "query": "three workers planning outdoors paper",
-     "shot": "C",
+     "shot": "",
      "duration": 12,
      "src_id": "5846462",
      "download_url": "https://videos.pexels.com/video-files/5846462/5846462-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in military camouflage works at a dark workshop table",
+     "violation": "dark industrial workshops",
+     "shoot": "camo-dark-workshop",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 22
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V25",
@@ -659,15 +691,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V25.strip.jpg",
      "title": "people discussing a document while walking",
      "query": "three workers planning outdoors paper",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "5977049",
      "download_url": "https://videos.pexels.com/video-files/5977049/5977049-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman in a business coat reviews papers while walking",
+     "violation": "corporate",
+     "shoot": "corporate-walk-papers",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 23
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V26",
@@ -681,15 +721,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V26.strip.jpg",
      "title": "colleagues having a conversation regarding a document",
      "query": "three workers planning outdoors paper",
-     "shot": "C",
+     "shot": "",
      "duration": 13,
      "src_id": "5311354",
      "download_url": "https://videos.pexels.com/video-files/5311354/5311354-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "three professionals in suits chat outdoors with coffee",
+     "violation": "corporate",
+     "shoot": "corporate-suits-coffee-chat",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 24
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V27",
@@ -703,15 +751,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V27.strip.jpg",
      "title": "colleagues having a conversation",
      "query": "three workers planning outdoors paper",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "7952181",
      "download_url": "https://videos.pexels.com/video-files/7952181/7952181-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "colleagues wearing lanyards chat outside a building",
+     "violation": "corporate",
+     "shoot": "corporate-lanyard-chat",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 25
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V28",
@@ -732,8 +788,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hi-vis volunteers comfort a distressed woman outdoors",
+     "violation": "",
+     "shoot": "hivis-comfort-group",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 9
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V29",
@@ -754,8 +818,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a hand connects a hose fitting under an indoor sink",
+     "violation": "",
+     "shoot": "indoor-plumbing-fitting",
+     "score": 4.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 5
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V30",
@@ -769,15 +841,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V30.strip.jpg",
      "title": "bearded man doing car service",
      "query": "technician hands on irrigation valve",
-     "shot": "B",
+     "shot": "",
      "duration": 24,
      "src_id": "6685036",
      "download_url": "https://videos.pexels.com/video-files/6685036/6685036-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a man services a car engine bay",
+     "violation": "",
+     "shoot": "car-engine-service",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 16
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V31",
@@ -791,15 +871,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V31.strip.jpg",
      "title": "a man is working on a machine in a workshop",
      "query": "technician hands on irrigation valve",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "18101986",
      "download_url": "https://videos.pexels.com/video-files/18101986/18101986-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:56:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "gloved hands work at a bench against a green screen",
+     "violation": "green screen",
+     "shoot": "greenscreen-bench-hands",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 34
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V32",
@@ -813,15 +901,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V32.strip.jpg",
      "title": "mechanic working inside car dashboard wiring",
      "query": "technician hands on irrigation valve",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "32329408",
      "download_url": "https://videos.pexels.com/video-files/32329408/13790336_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a mechanic works on car dashboard wiring",
+     "violation": "",
+     "shoot": "car-dashboard-wiring",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 17
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V33",
@@ -835,15 +931,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V33.strip.jpg",
      "title": "close up of a man working on a car part",
      "query": "technician hands on irrigation valve",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "8065317",
      "download_url": "https://videos.pexels.com/video-files/8065317/8065317-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "hands assemble a mechanical part in a dim workshop",
+     "violation": "",
+     "shoot": "mechanical-part-dim-workshop",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 13
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V34",
@@ -864,8 +968,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 7,
+     "caption": "a hand turns a blue irrigation valve in an open field",
+     "violation": "",
+     "shoot": "irrigation-valve-field",
+     "score": 8.3,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 1
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V35",
@@ -879,15 +991,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V35.strip.jpg",
      "title": "barber  barbershop  hairstyle  hand  human hand  man  males  lifestyles  people  skill  work  beauty  care  hair  cutting  stylist  hairdresser  barber shop  slow",
      "query": "technician valve hands",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "48968",
      "download_url": "https://cdn.pixabay.com/video/2020/09/03/48968-459186304_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a barber trims hair close with electric clippers",
+     "violation": "",
+     "shoot": "barber-clippers-closeup",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 26
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V36",
@@ -901,15 +1021,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V36.strip.jpg",
      "title": "bacon  pan  hot  belly bacon  meal  food  close up",
      "query": "worker focused face close",
-     "shot": "D",
+     "shot": "",
      "duration": 7,
      "src_id": "240531",
      "download_url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "bacon strips cook in a hot pan",
+     "violation": "",
+     "shoot": "bacon-pan-cook2",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 35
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V37",
@@ -930,8 +1058,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "close-up of a large industrial pipeline valve wheel",
+     "violation": "",
+     "shoot": "industrial-valve-wheel",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 8
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V38",
@@ -945,15 +1081,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V38.strip.jpg",
      "title": "crane  container  port  ship  transport  cargo  freight  boat  work  morning  evening  dock  trade  transfer",
      "query": "gardener outdoor work morning",
-     "shot": "A",
+     "shot": "",
      "duration": 59,
      "src_id": "129250",
      "download_url": "https://cdn.pixabay.com/video/2022/08/27/129250-744370398_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "shipping port cranes silhouetted at sunset",
+     "violation": "",
+     "shoot": "port-cranes-sunset",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 36
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V39",
@@ -967,15 +1111,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V39.strip.jpg",
      "title": "phone  smartphone  mobile  portable  screen  digital  communication  texting  business  work",
      "query": "gardener outdoor work morning",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "202987",
      "download_url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "close-up of hands scrolling a smartphone on a wood table",
+     "violation": "",
+     "shoot": "phone-hands-wood-table2",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 14
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V40",
@@ -989,15 +1141,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V40.strip.jpg",
      "title": "crane  container  port  ship  transport  cargo  freight  boat  work  morning  nature  evening  dock  trade  transfer",
      "query": "gardener outdoor work morning",
-     "shot": "A",
+     "shot": "",
      "duration": 54,
      "src_id": "129249",
      "download_url": "https://cdn.pixabay.com/video/2022/08/27/129249-744370394_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:57:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "shipping port cranes and containers at dusk",
+     "violation": "",
+     "shoot": "port-cranes-dusk",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 37
     },
     {
      "id": "edenrise-c2-six-needs-drives-S01-V41",
@@ -1011,15 +1171,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-six-needs-drives/S01__strip__edenrise-c2-six-needs-drives-S01-V41.strip.jpg",
      "title": "morning  fog  national park  netherlands  drenthe  dwingelderveld  nature  scenic  landscape  aerial  drone  4k",
      "query": "gardener outdoor work morning",
-     "shot": "A",
+     "shot": "",
      "duration": 52,
      "src_id": "177223",
      "download_url": "https://cdn.pixabay.com/video/2023/08/22/177223-857013274_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T02:58:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a misty lake reflects the treeline at dawn",
+     "violation": "",
+     "shoot": "misty-lake-dawn",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:16:43Z",
+     "rank": 27
     }
    ],
    "timing_source": "estimated",
@@ -1062,11 +1230,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:34:03Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T19:20:18Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-09-10T09:16:43Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T19:20:18Z"
+   "judged_at": "2026-09-10T09:16:43Z"
   },
   {
    "id": "S02",
