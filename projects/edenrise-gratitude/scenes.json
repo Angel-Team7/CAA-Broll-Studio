@@ -12236,7 +12236,7 @@
      "shot": "",
      "shoot": "pexels-boardroom-meeting",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 4,
+     "rank": 14,
      "shown": false
     },
     {
@@ -12266,7 +12266,7 @@
      "shot": "",
      "shoot": "pexels-office-folders",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 5,
+     "rank": 15,
      "shown": false
     },
     {
@@ -12294,7 +12294,7 @@
      "shot": "",
      "shoot": "pexels-suits-document",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 6,
+     "rank": 16,
      "shown": false
     },
     {
@@ -12323,7 +12323,7 @@
      "shot": "",
      "shoot": "pexels-office-argument",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 7,
+     "rank": 17,
      "shown": false
     },
     {
@@ -12351,8 +12351,8 @@
      "shot": "",
      "shoot": "pixabay-metro-station",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 2,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S14-V07",
@@ -12379,7 +12379,7 @@
      "shot": "",
      "shoot": "pexels-plan-documents",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 1,
+     "rank": 11,
      "shown": true
     },
     {
@@ -12408,7 +12408,7 @@
      "shot": "",
      "shoot": "pexels-boardroom-meeting",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 8,
+     "rank": 18,
      "shown": false
     },
     {
@@ -12456,8 +12456,8 @@
      "shot": "",
      "shoot": "pixabay-archival-carousel",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 9,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S14-V12",
@@ -12481,7 +12481,7 @@
      "shot": "",
      "shoot": "pixabay-geese-lake",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 10,
+     "rank": 20,
      "shown": false
     },
     {
@@ -12509,8 +12509,8 @@
      "shot": "",
      "shoot": "pixabay-stadium-crowd",
      "judged_at": "2026-09-09T20:01:56Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S14-I02",
@@ -12613,8 +12613,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a man inspects rows of ceramic pots on a workshop shelf",
+     "violation": "",
+     "shoot": "pexels-potter-inspect-shelf",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 5
     },
     {
      "id": "edenrise-gratitude-S14-V16",
@@ -12628,15 +12636,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V16.strip.jpg",
      "title": "hands shaping clay",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "12690270",
      "download_url": "https://videos.pexels.com/video-files/12690270/12690270-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "hands shape wet clay on a spinning pottery wheel",
+     "violation": "",
+     "shoot": "pexels-clay-wheel-hands",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 6
     },
     {
      "id": "edenrise-gratitude-S14-V17",
@@ -12650,15 +12666,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V17.strip.jpg",
      "title": "fire taste",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "",
      "duration": 6,
      "src_id": "18245634",
      "download_url": "https://videos.pexels.com/video-files/18245634/18245634-hd_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "small clay pots fire inside a glowing kiln",
+     "violation": "",
+     "shoot": "pexels-kiln-pots-fire",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S14-V18",
@@ -12672,15 +12696,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V18.strip.jpg",
      "title": "a person s hands are holding a red light",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "C",
      "duration": 7,
      "src_id": "28000758",
      "download_url": "https://videos.pexels.com/video-files/28000758/12285795_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands knead red clay under dramatic red lighting",
+     "violation": "",
+     "shoot": "pexels-red-clay-hands",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S14-V19",
@@ -12694,15 +12726,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V19.strip.jpg",
      "title": "a man is making a pottery bowl on a pottery wheel",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "28000752",
      "download_url": "https://videos.pexels.com/video-files/28000752/12285871_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands shape a clay cup on a pottery wheel",
+     "violation": "",
+     "shoot": "pexels-clay-cup-wheel",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 4
     },
     {
      "id": "edenrise-gratitude-S14-V20",
@@ -12716,15 +12756,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V20.strip.jpg",
      "title": "a group of men in orange vests and hard hats working on a construction site",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "A",
      "duration": 4,
      "src_id": "19832500",
      "download_url": "https://videos.pexels.com/video-files/19832500/19832500-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "workers in hi-vis gear and a face covering build a stone wall",
+     "violation": "face masks",
+     "shoot": "pexels-hivis-wall-crew",
+     "score": 3.65,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 7
     },
     {
      "id": "edenrise-gratitude-S14-V21",
@@ -12738,15 +12786,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V21.strip.jpg",
      "title": "a person cutting wood using chainsaw",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "A",
      "duration": 23,
      "src_id": "4383226",
      "download_url": "https://videos.pexels.com/video-files/4383226/4383226-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a worker in waterproof gear cuts a log with a chainsaw outdoors",
+     "violation": "",
+     "shoot": "pexels-chainsaw-rain-gear",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S14-V22",
@@ -12760,15 +12816,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V22.strip.jpg",
      "title": "a potter is making a pot on the potter s wheel",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "",
      "duration": 6,
      "src_id": "28000737",
      "download_url": "https://videos.pexels.com/video-files/28000737/12285819_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands carefully shape a small clay pot on a wheel",
+     "violation": "",
+     "shoot": "pexels-small-pot-wheel",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S14-V23",
@@ -12789,8 +12853,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a man reaches up amid tall stacks of orange ceramic plates",
+     "violation": "",
+     "shoot": "pexels-stacked-ceramic-plates",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S14-V24",
@@ -12804,15 +12876,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S14__strip__edenrise-gratitude-S14-V24.strip.jpg",
      "title": "a person is holding a red light on a piece of metal",
      "query": "worker restacking fallen pots",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "28000736",
      "download_url": "https://videos.pexels.com/video-files/28000736/12285835_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:25:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand forges glowing red-hot metal in a dark workshop",
+     "violation": "",
+     "shoot": "pexels-forge-red-metal",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:14:45Z",
+     "rank": 10
     }
    ],
    "shots": [
@@ -12846,11 +12926,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T20:01:56Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-09-10T09:14:45Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T20:01:56Z"
+   "judged_at": "2026-09-10T09:14:45Z"
   },
   {
    "id": "S15",
