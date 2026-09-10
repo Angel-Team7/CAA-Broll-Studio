@@ -10505,8 +10505,8 @@
      "shot": "",
      "shoot": "pexels-framing-worker",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V02",
@@ -10534,8 +10534,8 @@
      "shot": "",
      "shoot": "pexels-framing-worker",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 4,
-     "shown": true
+     "rank": 14,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V03",
@@ -10579,7 +10579,7 @@
      "shot": "",
      "shoot": "pexels-warehouse-forklift",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 16,
+     "rank": 35,
      "shown": false
     },
     {
@@ -10607,8 +10607,8 @@
      "shot": "",
      "shoot": "pexels-plaster-mixing",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 5,
-     "shown": true
+     "rank": 15,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V06",
@@ -10634,7 +10634,7 @@
      "shot": "",
      "shoot": "pexels-machinery-cleaning",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 11,
+     "rank": 28,
      "shown": false
     },
     {
@@ -10664,8 +10664,8 @@
      "shot": "",
      "shoot": "pexels-rope-access-workers",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 7,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V09",
@@ -10693,8 +10693,8 @@
      "shot": "",
      "shoot": "pexels-urban-roadwork",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 8,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V10",
@@ -10721,7 +10721,7 @@
      "shot": "",
      "shoot": "pixabay-asphalt-paver",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 17,
+     "rank": 36,
      "shown": false
     },
     {
@@ -10750,8 +10750,8 @@
      "shot": "",
      "shoot": "pexels-hands-comfort",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 6,
-     "shown": true
+     "rank": 19,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V12",
@@ -10779,7 +10779,7 @@
      "shot": "",
      "shoot": "pixabay-blurry-hair",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 12,
+     "rank": 29,
      "shown": false
     },
     {
@@ -10807,8 +10807,8 @@
      "shot": "",
      "shoot": "pexels-hands-clasped",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 9,
-     "shown": true
+     "rank": 25,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V14",
@@ -10835,7 +10835,7 @@
      "shot": "",
      "shoot": "pixabay-beauty-lipstick",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 18,
+     "rank": 37,
      "shown": false
     },
     {
@@ -10860,7 +10860,7 @@
      "shot": "B",
      "shoot": "coverr-furniture-assembly",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 1,
+     "rank": 5,
      "shown": true
     },
     {
@@ -10887,8 +10887,8 @@
      "shot": "C",
      "shoot": "pixabay-meadow-house",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 2,
-     "shown": true
+     "rank": 11,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V17",
@@ -10915,8 +10915,8 @@
      "shot": "",
      "shoot": "pexels-hand-oil",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 10,
-     "shown": true
+     "rank": 26,
+     "shown": false
     },
     {
      "id": "edenrise-gratitude-S11-V18",
@@ -10943,7 +10943,7 @@
      "shot": "",
      "shoot": "pexels-vase-touch",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 13,
+     "rank": 30,
      "shown": false
     },
     {
@@ -10971,7 +10971,7 @@
      "shot": "",
      "shoot": "pexels-moving-box",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 14,
+     "rank": 31,
      "shown": false
     },
     {
@@ -10996,7 +10996,7 @@
      "shot": "",
      "shoot": "pexels-intimate-touch",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 19,
+     "rank": 38,
      "shown": false
     },
     {
@@ -11024,7 +11024,7 @@
      "shot": "",
      "shoot": "pexels-formal-handhold",
      "judged_at": "2026-09-09T20:00:02Z",
-     "rank": 15,
+     "rank": 32,
      "shown": false
     },
     {
@@ -11159,8 +11159,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mechanic works at a bench in an auto garage",
+     "violation": "",
+     "shoot": "pexels-mechanic-bench-garage",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 20
     },
     {
      "id": "edenrise-gratitude-S11-V23",
@@ -11181,8 +11189,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand takes a wrench from a red toolbox at a workbench",
+     "violation": "",
+     "shoot": "pexels-wrench-toolbox-bench",
+     "score": 3.0,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 12
     },
     {
      "id": "edenrise-gratitude-S11-V24",
@@ -11203,8 +11219,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a mechanic looks at wrenches on a shelf through a car window",
+     "violation": "",
+     "shoot": "pexels-mechanic-wrenches-shelf",
+     "score": 2.0,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 18
     },
     {
      "id": "edenrise-gratitude-S11-V25",
@@ -11218,15 +11242,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V25.strip.jpg",
      "title": "skilled workers applying concrete floor indoors",
      "query": "worker laying out tools he has",
-     "shot": "B",
+     "shot": "",
      "duration": 32,
      "src_id": "35769623",
      "download_url": "https://videos.pexels.com/video-files/35769623/15164981_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "two builders smooth a concrete floor in a small room",
+     "violation": "",
+     "shoot": "pexels-concrete-floor-builders",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 6
     },
     {
      "id": "edenrise-gratitude-S11-V26",
@@ -11240,15 +11272,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V26.strip.jpg",
      "title": "construction worker securing rebar on site",
      "query": "worker laying out tools he has",
-     "shot": "B",
+     "shot": "",
      "duration": 9,
      "src_id": "32244802",
      "download_url": "https://videos.pexels.com/video-files/32244802/13751973_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a construction worker secures rebar at a large building site",
+     "violation": "",
+     "shoot": "pexels-rebar-largesite",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 21
     },
     {
      "id": "edenrise-gratitude-S11-V27",
@@ -11269,8 +11309,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a woodworker uses a saw among tools hanging on a workshop wall",
+     "violation": "",
+     "shoot": "pexels-woodworker-tools-wall",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 9
     },
     {
      "id": "edenrise-gratitude-S11-V28",
@@ -11284,15 +11332,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V28.strip.jpg",
      "title": "a man checking the engine of the car",
      "query": "worker laying out tools he has",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "8986485",
      "download_url": "https://videos.pexels.com/video-files/8986485/8986485-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mechanic opens a car hood in a garage",
+     "violation": "",
+     "shoot": "pexels-mechanic-carhood-garage",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 22
     },
     {
      "id": "edenrise-gratitude-S11-V29",
@@ -11313,8 +11369,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hands lay out simple tools from a toolbox on the grass",
+     "violation": "",
+     "shoot": "pexels-toolbox-grass-layout",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 1
     },
     {
      "id": "edenrise-gratitude-S11-V30",
@@ -11328,15 +11392,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V30.strip.jpg",
      "title": "man using digital tablet",
      "query": "worker laying out tools he has",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "6474139",
      "download_url": "https://videos.pexels.com/video-files/6474139/6474139-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:18:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man in a hardhat reviews notes on a tablet in a renovation",
+     "violation": "",
+     "shoot": "pexels-hardhat-tablet-renovation",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 16
     },
     {
      "id": "edenrise-gratitude-S11-V31",
@@ -11350,15 +11422,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V31.strip.jpg",
      "title": "a man putting his safety goggles while working in the truck workshot",
      "query": "worker laying out tools he has",
-     "shot": "B",
+     "shot": "",
      "duration": 43,
      "src_id": "7019774",
      "download_url": "https://videos.pexels.com/video-files/7019774/7019774-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man puts on welding goggles in a dark workshop",
+     "violation": "dark industrial workshops",
+     "shoot": "pexels-welding-goggles-dark",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 27
     },
     {
      "id": "edenrise-gratitude-S11-V32",
@@ -11379,8 +11459,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands fill small terracotta pots with soil for seeds",
+     "violation": "",
+     "shoot": "pexels-potting-soil-seedtray",
+     "score": 4.7,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 4
     },
     {
      "id": "edenrise-gratitude-S11-V33",
@@ -11401,8 +11489,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "open hands hold small bare-root seedlings with soil",
+     "violation": "",
+     "shoot": "pexels-openhands-seedlings-soil",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 2
     },
     {
      "id": "edenrise-gratitude-S11-V34",
@@ -11416,15 +11512,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V34.strip.jpg",
      "title": "chipmunk snatches peanut from hand",
      "query": "open hands holding seeds",
-     "shot": "A",
+     "shot": "",
      "duration": 45,
      "src_id": "27372917",
      "download_url": "https://videos.pexels.com/video-files/27372917/12126987_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a chipmunk snatches a peanut from a hand",
+     "violation": "wildlife",
+     "shoot": "pexels-chipmunk-peanut-hand",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 39
     },
     {
      "id": "edenrise-gratitude-S11-V35",
@@ -11445,8 +11549,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a woman gardens a raised bed with a simple hand tool",
+     "violation": "",
+     "shoot": "pexels-woman-raisedbed-handtool",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 3
     },
     {
      "id": "edenrise-gratitude-S11-V36",
@@ -11467,8 +11579,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a studio close-up of a brown seed pod",
+     "violation": "",
+     "shoot": "pixabay-seedpod-studio-closeup",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 17
     },
     {
      "id": "edenrise-gratitude-S11-V37",
@@ -11482,15 +11602,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V37.strip.jpg",
      "title": "antique book  book opening  book scrolling  books  candlelight  compass  gold ring in hand",
      "query": "hands seeds open close",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "111280",
      "download_url": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand opens an antique book by candlelight",
+     "violation": "",
+     "shoot": "pixabay-antique-book-candlelight",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 33
     },
     {
      "id": "edenrise-gratitude-S11-V38",
@@ -11504,15 +11632,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V38.strip.jpg",
      "title": "barrier  open  close  fence  fencing  gate  checkpoint  entry  exit",
      "query": "hands seeds open close",
-     "shot": "A",
+     "shot": "",
      "duration": 32,
      "src_id": "93008",
      "download_url": "https://cdn.pixabay.com/video/2021/10/23/93008-638414220_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an animated toll barrier gate opens on a green screen",
+     "violation": "cartoons, green screen",
+     "shoot": "pixabay-cartoon-barrier-greenscreen",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 40
     },
     {
      "id": "edenrise-gratitude-S11-V39",
@@ -11526,15 +11662,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V39.strip.jpg",
      "title": "countdown  timer  seconds  start",
      "query": "small plot start tools",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "170063",
      "download_url": "https://cdn.pixabay.com/video/2023/07/04/170063-842720159_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a graphic countdown timer with fireworks",
+     "violation": "abstract loops",
+     "shoot": "pixabay-countdown-fireworks-graphic",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 41
     },
     {
      "id": "edenrise-gratitude-S11-V40",
@@ -11555,8 +11699,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:19:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "cupped hands hold a lit candle in darkness",
+     "violation": "",
+     "shoot": "pixabay-cupped-hands-candle",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 10
     },
     {
      "id": "edenrise-gratitude-S11-V41",
@@ -11570,15 +11722,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V41.strip.jpg",
      "title": "teasels  plant  seed head  dry  spikes  prickles  stem  autumn colors",
      "query": "hands seeds open close",
-     "shot": "A",
+     "shot": "",
      "duration": 19,
      "src_id": "135365",
      "download_url": "https://cdn.pixabay.com/video/2022/10/17/135365-761601335_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "dried teasel seed heads stand backlit in golden light",
+     "violation": "",
+     "shoot": "pixabay-teasel-seedheads-backlit",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 7
     },
     {
      "id": "edenrise-gratitude-S11-V42",
@@ -11592,15 +11752,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V42.strip.jpg",
      "title": "teasels  plant  seed head  dry  spikes  prickles  stem  autumn colors",
      "query": "hands seeds open close",
-     "shot": "A",
+     "shot": "",
      "duration": 18,
      "src_id": "135374",
      "download_url": "https://cdn.pixabay.com/video/2022/10/17/135374-761601377_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a close-up of a dried teasel seed head glowing in sunlight",
+     "violation": "",
+     "shoot": "pixabay-teasel-seedhead-closeup",
+     "score": 4.05,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 8
     },
     {
      "id": "edenrise-gratitude-S11-V43",
@@ -11614,15 +11782,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-gratitude-2/S11__strip__edenrise-gratitude-S11-V43.strip.jpg",
      "title": "dandelion  seeds  wind  flying  seed  botany  tranquil  softness  fluffy  blowing  float",
      "query": "hands seeds open close",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "4505",
      "download_url": "https://cdn.pixabay.com/video/2016/08/16/4505-179376430_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T04:20:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "an abstract blue underwater-like scene with floating particles",
+     "violation": "abstract loops",
+     "shoot": "pixabay-abstract-blue-particles",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:52:48Z",
+     "rank": 34
     }
    ],
    "shots": [
@@ -11655,11 +11831,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:35:33Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T20:00:02Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:52:48Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T20:00:02Z"
+   "judged_at": "2026-09-10T09:52:48Z"
   },
   {
    "id": "S12",
