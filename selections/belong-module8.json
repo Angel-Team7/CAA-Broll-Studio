@@ -67,14 +67,18 @@
     "S08": {
       "requested": "2026-09-09T21:24:04Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:16:33Z",
+      "added": 21
     },
     "S09": {
       "requested": "2026-09-09T21:24:05Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:19:27Z",
+      "added": 22
     },
     "S01": {
       "requested": "2026-09-09T21:23:59Z",
@@ -95,26 +99,34 @@
     "S03": {
       "requested": "2026-09-09T21:24:01Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:08:58Z",
+      "added": 8
     },
     "S04": {
       "requested": "2026-09-09T21:24:02Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:11:40Z",
+      "added": 22
     },
     "S05": {
       "requested": "2026-09-09T21:24:03Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:14:10Z",
+      "added": 21
     },
     "S10": {
       "requested": "2026-09-09T21:24:06Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T01:22:07Z",
+      "added": 22
     }
   }
 }

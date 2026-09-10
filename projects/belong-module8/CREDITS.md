@@ -44,3 +44,119 @@
 | pexels | family eating together | Julia M Cameron | Pexels License | https://www.pexels.com/video/family-eating-together-8775771/ |
 | pexels | family toasting and celebrating | Askar Abayev | Pexels License | https://www.pexels.com/video/family-toasting-and-celebrating-5617254/ |
 | pexels | family member toasting drinks at dinner party | Askar Abayev | Pexels License | https://www.pexels.com/video/family-member-toasting-drinks-at-dinner-party-5617261/ |
+| pexels | sunny day at historical building in coimbra | Mark Holmes | Pexels License | https://www.pexels.com/video/sunny-day-at-historical-building-in-coimbra-36902336/ |
+| pexels | people walking in front of the building | Hirsh Philippe | Pexels License | https://www.pexels.com/video/people-walking-in-front-of-the-building-4476055/ |
+| pexels | low angle view of a modern building at park of the nations p | ed1toR ㅤ | Pexels License | https://www.pexels.com/video/low-angle-view-of-a-modern-building-at-park-of-the-nations-portugal-12938104/ |
+| pexels | majestic neoclassical building at night | Caleb Oquendo | Pexels License | https://www.pexels.com/video/majestic-neoclassical-building-at-night-34539253/ |
+| pexels | a building with a glass roof and trees in front | LayG Traveller | Pexels License | https://www.pexels.com/video/a-building-with-a-glass-roof-and-trees-in-front-20260823/ |
+| pexels | architectural design of a building exterior | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/architectural-design-of-a-building-exterior-7251016/ |
+| pexels | a view of a city from a high building | Musko io | Pexels License | https://www.pexels.com/video/a-view-of-a-city-from-a-high-building-27404890/ |
+| pexels | aerial view of lisbon s waterfront architecture | Efrem  Efre | Pexels License | https://www.pexels.com/video/aerial-view-of-lisbon-s-waterfront-architecture-35834297/ |
+| pexels | the sun is setting over a small town | Everton Adriano Lader | Pexels License | https://www.pexels.com/video/the-sun-is-setting-over-a-small-town-27917416/ |
+| pexels | white house in city | Ignacio Pereira | Pexels License | https://www.pexels.com/video/white-house-in-city-12300923/ |
+| pexels | aerial view of picturesque whitewashed village | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-picturesque-whitewashed-village-34335676/ |
+| pexels | drone shot of houses in greece | Dimitris Mourousiadis | Pexels License | https://www.pexels.com/video/drone-shot-of-houses-in-greece-6434890/ |
+| pexels | scenic beachfront at twilight in cascais | Tatianaa Co | Pexels License | https://www.pexels.com/video/scenic-beachfront-at-twilight-in-cascais-39434594/ |
+| pexels | serene evening walk in rolling hills | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/serene-evening-walk-in-rolling-hills-33830477/ |
+| pexels | aerial footage of a town at dawn | John  Morgan | Pexels License | https://www.pexels.com/video/aerial-footage-of-a-town-at-dawn-7247372/ |
+| pexels | aerial view of abandoned building ruins | Rui Veiga | Pexels License | https://www.pexels.com/video/aerial-view-of-abandoned-building-ruins-28732014/ |
+| pexels | a person putting sliced veggies into a plate | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-putting-sliced-veggies-into-a-plate-6822613/ |
+| pexels | food presentation in a plate done by a chef | Pressmaster | Pexels License | https://www.pexels.com/video/food-presentation-in-a-plate-done-by-a-chef-3209765/ |
+| pexels | person serving drinks | Gustavo Fring | Pexels License | https://www.pexels.com/video/person-serving-drinks-3981581/ |
+| pexels | cooking pasta and putting on plate | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/cooking-pasta-and-putting-on-plate-14584573/ |
+| pexels | a person holding a plate of food in front of a buffet | LayG Traveller | Pexels License | https://www.pexels.com/video/a-person-holding-a-plate-of-food-in-front-of-a-buffet-28099100/ |
+| pixabay | cutting carrots into slices  chef  cook  cutting board  food | chayka1270 | Pixabay Content License | https://pixabay.com/videos/id-11547/ |
+| pexels | person enjoying wiener schnitzel in restaurant | Anh Nguyen | Pexels License | https://www.pexels.com/video/person-enjoying-wiener-schnitzel-in-restaurant-39294463/ |
+| pixabay | beef  steak  meat  food  meal  dinner  tenderloin  pepper  g | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11654/ |
+| pixabay | cooking  prawn  in  sauce  food  seafood  shrimp  meal  cuis | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11657/ |
+| pixabay | chinese  duck  food  asian  china  cuisine  meat  meal  trad | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11627/ |
+| pixabay | pork  cook  meat  food  cooking  dinner  steak  barbecue  de | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11603/ |
+| pixabay | crispy  beef  food  meal  meat  dinner  delicious  lunch  gr | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11625/ |
+| pixabay | help  sign  banner  symbol  icon  information  business  sup | TheDigitalArtist | Pixabay Content License | https://pixabay.com/videos/id-577/ |
+| pixabay | ai generated  coffee  premium coffee  restaurant  coffee men | MozoMozo | Pixabay Content License | https://pixabay.com/videos/id-171178/ |
+| pexels | close up waiter hands carrying food | Denys Gromov | Pexels License | https://www.pexels.com/video/close-up-waiter-hands-carrying-food-5820011/ |
+| pexels | elegant dining table with various delicious dishes | Ahmed ؜ | Pexels License | https://www.pexels.com/video/elegant-dining-table-with-various-delicious-dishes-36581799/ |
+| pexels | elegant dining table with assorted dishes | Ahmed ؜ | Pexels License | https://www.pexels.com/video/elegant-dining-table-with-assorted-dishes-36581797/ |
+| pexels | man carrying packages | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-carrying-packages-6637317/ |
+| pexels | a man carrying a box while walking | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-carrying-a-box-while-walking-6637321/ |
+| pexels | close up shot of a couple holding hands | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-couple-holding-hands-8902835/ |
+| pexels | person lighting a candle lights | Bonus Studio | Pexels License | https://www.pexels.com/video/person-lighting-a-candle-lights-5032275/ |
+| pexels | friends celebrating an event party at the backyard | cottonbro studio | Pexels License | https://www.pexels.com/video/friends-celebrating-an-event-party-at-the-backyard-5961379/ |
+| pexels | a man handing out cleaning equipment to his co workers | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-workers-6195143/ |
+| pexels | man opening a cargo van full with boxes to be delivered | Artem Podrez | Pexels License | https://www.pexels.com/video/man-opening-a-cargo-van-full-with-boxes-to-be-delivered-5044418/ |
+| pexels | courier delivering boxes | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/courier-delivering-boxes-6169114/ |
+| pexels | close up view of a lighted candle being blown | Mikhail Nilov | Pexels License | https://www.pexels.com/video/close-up-view-of-a-lighted-candle-being-blown-7707972/ |
+| pexels | professional chef preparing gourmet dish in kitchen | Floating Rabbit | Pexels License | https://www.pexels.com/video/professional-chef-preparing-gourmet-dish-in-kitchen-33738988/ |
+| pexels | delivery men looking at the camera | K2 Production | Pexels License | https://www.pexels.com/video/delivery-men-looking-at-the-camera-9507653/ |
+| pixabay | restaurant  wine glasses  wine  glass  drink  celebration  a | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-3152/ |
+| pixabay | ai generated  wedding cake  cake  wedding  marriage  celebra | flutie8211 | Pixabay Content License | https://pixabay.com/videos/id-366918/ |
+| pixabay | dining table  table  eat  dinner  family  family dinner | Eaktas06 | Pixabay Content License | https://pixabay.com/videos/id-172686/ |
+| pixabay | candle  light  flame  burn  match  candlelight  christmas  a | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-143419/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pixabay | rocks  worksite  i unload  truck  boulders  work  equipment  | eroyka | Pixabay Content License | https://pixabay.com/videos/id-12714/ |
+| pixabay | candle  fire  flicker  darkness  light  bright  combustion | MixailMixail | Pixabay Content License | https://pixabay.com/videos/id-4101/ |
+| pexels | close up view of a person sketching on a paper | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-sketching-on-a-paper-5966353/ |
+| pexels | close up of a person doing knitting | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-a-person-doing-knitting-5900949/ |
+| pexels | close up shot of person writing on a paper | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-person-writing-on-a-paper-6538447/ |
+| pexels | close up view of person s hands writing on a book | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-view-of-person-s-hands-writing-on-a-book-5531656/ |
+| pexels | person pointing services on a brochure using a pen | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-pointing-services-on-a-brochure-using-a-pen-6631696/ |
+| pexels | close up video of a person writing on a paper | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-paper-8125994/ |
+| pexels | people finger pointing to map | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-finger-pointing-to-map-7009786/ |
+| pexels | close up view of a person writing | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-writing-7308166/ |
+| pexels | close up view of handwriting in notebook | Harvey Tan Villarino | Pexels License | https://www.pexels.com/video/close-up-view-of-handwriting-in-notebook-11995909/ |
+| pexels | couple arriving at reception desk | Mikhail Nilov | Pexels License | https://www.pexels.com/video/couple-arriving-at-reception-desk-7820551/ |
+| pexels | a couple ordering at a restaurant | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-ordering-at-a-restaurant-6816127/ |
+| pexels | a woman and a man sitting at a table with a drink | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-woman-and-a-man-sitting-at-a-table-with-a-drink-18513389/ |
+| pexels | a couple dating at a restaurant | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-couple-dating-at-a-restaurant-9761524/ |
+| pixabay | couple  lovers  hands  love  street  walking | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-152798/ |
+| pixabay | couple  lovers  romance  love  valentine's day  joy  hug | Domka_1611 | Pixabay Content License | https://pixabay.com/videos/id-148598/ |
+| pixabay | couple  love  lovers  together  relationship  romance  roman | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-245932/ |
+| pixabay | love  couple  park  old  care  friends  people | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-151194/ |
+| pixabay | discussion  restaurant  people  talk  communication  lunch   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-10878/ |
+| pixabay | map  world  medieval  old map | tarlamu | Pixabay Content License | https://pixabay.com/videos/id-33237/ |
+| pixabay | boss  employee  talking  angry  argument | Samidurrakzai | Pixabay Content License | https://pixabay.com/videos/id-202135/ |
+| pixabay | earth  animation  revolution  planet  world  globe  space  m | PIRO4D | Pixabay Content License | https://pixabay.com/videos/id-4788/ |
+| pexels | close up video of a person feeding a woman with chopsticks | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-feeding-a-woman-with-chopsticks-8907705/ |
+| pexels | selective focus of a man eating while talking | Jep Gambardella | Pexels License | https://www.pexels.com/video/selective-focus-of-a-man-eating-while-talking-5101344/ |
+| pexels | enjoying authentic japanese ramen indoors | Ali  Alcántara | Pexels License | https://www.pexels.com/video/enjoying-authentic-japanese-ramen-indoors-31387396/ |
+| pexels | traditional mexican cuisine served with refreshing drinks | Kuiyibo Campos | Pexels License | https://www.pexels.com/video/traditional-mexican-cuisine-served-with-refreshing-drinks-39030377/ |
+| pexels | couple having breakfast outdoors | RDNE Stock project | Pexels License | https://www.pexels.com/video/couple-having-breakfast-outdoors-6529488/ |
+| pexels | a man eating | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-eating-7244287/ |
+| pexels | eating french fries | cottonbro studio | Pexels License | https://www.pexels.com/video/eating-french-fries-7653238/ |
+| pexels | close up view of a person serving an appetizer | Bonus Studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-serving-an-appetizer-5498733/ |
+| pexels | girl waking up from bed | Artem Podrez | Pexels License | https://www.pexels.com/video/girl-waking-up-from-bed-7505324/ |
+| pexels | man waking up on his bed | Kampus Production | Pexels License | https://www.pexels.com/video/man-waking-up-on-his-bed-5983685/ |
+| pexels | man waking up in bed | Kampus Production | Pexels License | https://www.pexels.com/video/man-waking-up-in-bed-7556227/ |
+| pexels | close up shot of a person putting pin on the corkboard | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-putting-pin-on-the-corkboard-6100411/ |
+| pexels | man waking up on his bed | Kampus Production | Pexels License | https://www.pexels.com/video/man-waking-up-on-his-bed-5983705/ |
+| pexels | woman waking up from her bed | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/woman-waking-up-from-her-bed-7131640/ |
+| pixabay | field  paddy field  plantation  agriculture  rural  rice  pl | TungArt7 | Pixabay Content License | https://pixabay.com/videos/id-231246/ |
+| pixabay | vegetables  chard  vegetable plant  meal  food  chard field  | Juncala | Pixabay Content License | https://pixabay.com/videos/id-130226/ |
+| pixabay | milano  italia  map  city | NikoJimsheleishvili | Pixabay Content License | https://pixabay.com/videos/id-37001/ |
+| pixabay | harvest  grain harvest  agriculture  field  combine harveste | Thomas-Ritter | Pixabay Content License | https://pixabay.com/videos/id-86122/ |
+| pixabay | barley  field  combine  harvest  farmer  loading  summer | orko46 | Pixabay Content License | https://pixabay.com/videos/id-83897/ |
+| pixabay | farmer  agriculture  combine  harvest  field  nature  set  s | adamixx | Pixabay Content License | https://pixabay.com/videos/id-137853/ |
+| pixabay | harvest  combine harvester  grain  grain harvest  field  agr | Thomas-Ritter | Pixabay Content License | https://pixabay.com/videos/id-77204/ |
+| pixabay | barley  field  combine  harvest  farmer  loading  summer | orko46 | Pixabay Content License | https://pixabay.com/videos/id-83896/ |
+| pexels | farmer watering vegetables in sunny field | Panya Niyomtham | Pexels License | https://www.pexels.com/video/farmer-watering-vegetables-in-sunny-field-35036267/ |
+| pexels | farmer tending lush green cabbage field outdoors | Panya Niyomtham | Pexels License | https://www.pexels.com/video/farmer-tending-lush-green-cabbage-field-outdoors-35035963/ |
+| pexels | drone shot over a farm land | Joey D. | Pexels License | https://www.pexels.com/video/drone-shot-over-a-farm-land-4200484/ |
+| pexels | man harvesting tea at plantation | Bùi Hoàng Long | Pexels License | https://www.pexels.com/video/man-harvesting-tea-at-plantation-11046782/ |
+| pexels | women working and carrying baskets with vegetables | khanhhoangminh | Pexels License | https://www.pexels.com/video/women-working-and-carrying-baskets-with-vegetables-13534810/ |
+| pexels | farmer tending lush green vegetable field | Panya Niyomtham | Pexels License | https://www.pexels.com/video/farmer-tending-lush-green-vegetable-field-35036265/ |
+| pexels | people working on a field | khanhhoangminh | Pexels License | https://www.pexels.com/video/people-working-on-a-field-10396266/ |
+| pexels | a man and woman harvesting from grown plants in the field | Kindel Media | Pexels License | https://www.pexels.com/video/a-man-and-woman-harvesting-from-grown-plants-in-the-field-7456579/ |
+| pexels | pumpkins in a wooden crate | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/pumpkins-in-a-wooden-crate-5241103/ |
+| pexels | close up on human hand tying bag with carrots | Los Muertos Crew | Pexels License | https://www.pexels.com/video/close-up-on-human-hand-tying-bag-with-carrots-10041408/ |
+| pexels | vegan food being placed on table | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/vegan-food-being-placed-on-table-6328269/ |
+| pexels | man harvesting vegetable | Kampus Production | Pexels License | https://www.pexels.com/video/man-harvesting-vegetable-7655578/ |
+| pexels | people holding a crate of vegetables | Zen Chung | Pexels License | https://www.pexels.com/video/people-holding-a-crate-of-vegetables-5527792/ |
+| pexels | a person placing assorted vegetables on the kitchen countert | Anna Shvets | Pexels License | https://www.pexels.com/video/a-person-placing-assorted-vegetables-on-the-kitchen-countertop-12691772/ |
+| pixabay | chop  vegetables  food  cooking  kitchen  meal  dinner  heal | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11638/ |
+| pixabay | pumpkin  fruit  vegetable  halloween  plant  vegetarian  fea | Kmeel_com | Pixabay Content License | https://pixabay.com/videos/id-137366/ |
+| pixabay | tomatoes  red  vegetables  fruit  food  hand  grab  vegetabl | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-147/ |
+| pixabay | mixing  sauce  food  plate  meal  mixed  dish  gourmet  dinn | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11640/ |
+| pixabay | spicy  tofu  food  meal  cuisine  healthy  vegetable  restau | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11672/ |
+| pixabay | slice  chinese  cabbage  food  cuisine  vegetable  healthy   | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11610/ |
+| pixabay | vietnamese  dumplings  food  meat  asian  dish  cuisine  chi | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11683/ |
+| pixabay | chinese  hot pot  hot  pot  food  healthy  asian  meal  cook | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11700/ |
