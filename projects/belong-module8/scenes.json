@@ -40,8 +40,8 @@
      "shot": "B",
      "shoot": "pixabay-rice-paddy-aerial",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 4,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-V02",
@@ -70,8 +70,8 @@
      "shot": "",
      "shoot": "pixabay-mountain-road-aerial",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 9,
-     "shown": true
+     "rank": 22,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-V03",
@@ -98,7 +98,7 @@
      "shot": "A",
      "shoot": "pixabay-aerial-beach",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 2,
+     "rank": 7,
      "shown": true
     },
     {
@@ -126,8 +126,8 @@
      "shot": "",
      "shoot": "pexels-bw-countryside-aerial",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 7,
-     "shown": true
+     "rank": 20,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-V05",
@@ -154,8 +154,8 @@
      "shot": "",
      "shoot": "pexels-bw-countryside-aerial",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 8,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-V06",
@@ -182,7 +182,7 @@
      "shot": "",
      "shoot": "pixabay-lake-town-mismatch",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 11,
+     "rank": 25,
      "shown": false
     },
     {
@@ -209,8 +209,8 @@
      "shot": "B",
      "shoot": "pexels-yellow-field-aerial",
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 3,
-     "shown": true
+     "rank": 13,
+     "shown": false
     },
     {
      "id": "belong-m8-S01-I01",
@@ -296,8 +296,8 @@
      "shoot": "pixabay-cornfield-aerial",
      "score": 3.35,
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 5,
-     "shown": true
+     "rank": 17,
+     "shown": false
     },
     {
      "id": "pixabay_13772_portugal-coast-drone",
@@ -318,8 +318,8 @@
      "shoot": "pixabay-surf-aerial",
      "score": 3.35,
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 6,
-     "shown": true
+     "rank": 18,
+     "shown": false
     },
     {
      "id": "pixabay_67201_coastline-panorama-aerial",
@@ -340,7 +340,7 @@
      "shoot": "pixabay-lake-town-mismatch",
      "score": 0.35,
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 12,
+     "rank": 26,
      "shown": false
     },
     {
@@ -382,8 +382,8 @@
      "shoot": "pexels-thankyou-signs",
      "score": 1.05,
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 10,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "pexels_8363293_barefoot-beach-cafe",
@@ -404,7 +404,7 @@
      "shoot": "pexels-barefoot-beach",
      "score": 7.65,
      "judged_at": "2026-09-09T17:02:37Z",
-     "rank": 1,
+     "rank": 6,
      "shown": true
     },
     {
@@ -456,8 +456,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a man in a hat stands among tall agave plants at golden hour",
+     "violation": "",
+     "shoot": "pexels-agave-golden-hour-man",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 9
     },
     {
      "id": "belong-module8-S01-V09",
@@ -478,8 +486,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "bare feet walk slowly across wet sand",
+     "violation": "",
+     "shoot": "pexels-barefoot-wet-sand-slowmo",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 1
     },
     {
      "id": "belong-module8-S01-V10",
@@ -500,8 +516,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "bare feet walk across rippled dry sand",
+     "violation": "",
+     "shoot": "pexels-feet-dry-sand-closeup",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 2
     },
     {
      "id": "belong-module8-S01-V11",
@@ -515,15 +539,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S01__strip__belong-module8-S01-V11.strip.jpg",
      "title": "farm machinery loading soy harvest in rural setting",
      "query": "farmer looking at horizon golden hour",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "32059969",
      "download_url": "https://videos.pexels.com/video-files/32059969/13665424_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a man in a hat watches a machine load soy harvest",
+     "violation": "",
+     "shoot": "pexels-soy-harvest-machinery",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 19
     },
     {
      "id": "belong-module8-S01-V12",
@@ -537,15 +569,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S01__strip__belong-module8-S01-V12.strip.jpg",
      "title": "close up shot of a person walking in the seashore",
      "query": "bare feet walking on sand",
-     "shot": "D",
+     "shot": "A",
      "duration": 10,
      "src_id": "4019382",
      "download_url": "https://videos.pexels.com/video-files/4019382/4019382-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "bare feet walk along a reflective shoreline near cliffs",
+     "violation": "",
+     "shoot": "pexels-shoreline-feet-cliffs",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 3
     },
     {
      "id": "belong-module8-S01-V13",
@@ -566,8 +606,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a man in a hat looks out over a golden cornfield",
+     "violation": "",
+     "shoot": "pexels-cornfield-horizon-man",
+     "score": 8.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 4
     },
     {
      "id": "belong-module8-S01-V14",
@@ -588,8 +636,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a silhouetted man in a hat faces the sunset over open land",
+     "violation": "",
+     "shoot": "pexels-sunset-silhouette-hat",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 10
     },
     {
      "id": "belong-module8-S01-V15",
@@ -610,8 +666,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:05:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a person in a flowing dress walks across sand dunes at golden hour",
+     "violation": "",
+     "shoot": "pexels-dress-dunes-goldenhour",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 14
     },
     {
      "id": "belong-module8-S01-V16",
@@ -625,15 +689,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module8-2/S01__strip__belong-module8-S01-V16.strip.jpg",
      "title": "close up of an affectionate couple",
      "query": "farmer looking at horizon golden hour",
-     "shot": "B",
+     "shot": "",
      "duration": 36,
      "src_id": "9756919",
      "download_url": "https://videos.pexels.com/video-files/9756919/9756919-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a couple looks out over a river at sunset",
+     "violation": "",
+     "shoot": "pexels-couple-river-sunset",
+     "score": 1.35,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 23
     },
     {
      "id": "belong-module8-S01-V17",
@@ -654,8 +726,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a woman's bare feet step across white sand",
+     "violation": "",
+     "shoot": "pexels-feet-white-sand-step",
+     "score": 7.65,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 5
     },
     {
      "id": "belong-module8-S01-V18",
@@ -676,8 +756,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a couple draws a heart shape in beach sand with their feet",
+     "violation": "",
+     "shoot": "pexels-heart-sand-couple-feet",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 15
     },
     {
      "id": "belong-module8-S01-V19",
@@ -698,8 +786,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a shepherd herds sheep across a field at golden hour",
+     "violation": "",
+     "shoot": "pexels-shepherd-sheep-goldenhour",
+     "score": 6.35,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 8
     },
     {
      "id": "belong-module8-S01-V20",
@@ -720,8 +816,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a person walks alone across a golden field at dusk",
+     "violation": "",
+     "shoot": "pexels-field-dusk-walker",
+     "score": 6.0,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 11
     },
     {
      "id": "belong-module8-S01-V21",
@@ -742,8 +846,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:06:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "an older man leans on a fence gate at golden hour",
+     "violation": "",
+     "shoot": "pexels-fence-gate-goldenhour",
+     "score": 5.35,
+     "judged_at": "2026-09-10T09:45:05Z",
+     "rank": 12
     }
    ],
    "shots": [
@@ -783,12 +895,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:25:20Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-09T17:02:37Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-09T17:02:37Z"
+   "judged_at": "2026-09-10T09:45:05Z"
   },
   {
    "id": "S02",
