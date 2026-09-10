@@ -126,10 +126,10 @@
   "reason": "crowd doing the same manual task"
  },
  "pexels:1191936": {
-  "brand": "belong",
-  "reason": "resort pools and beaches",
   "at": "2026-09-10T10:08:24Z",
-  "from": "belong-module6/S10"
+  "brand": "belong",
+  "from": "belong-module6/S10",
+  "reason": "resort pools and beaches"
  },
  "pexels:12098511": {
   "at": "2026-09-10T09:34:26Z",
@@ -208,6 +208,12 @@
   "brand": "belong",
   "from": "belong-module6/S07",
   "reason": "face masks"
+ },
+ "pexels:16106604": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "hi-vis crew, industrial yard"
  },
  "pexels:17807763": {
   "at": "2026-09-10T09:59:56Z",
@@ -317,11 +323,29 @@
   "from": "edenrise-c2-kaizen/S07",
   "reason": "dark industrial workshops"
  },
+ "pexels:20713630": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "heavy industrial site, hi-vis crew"
+ },
  "pexels:25525258": {
   "at": "2026-09-10T09:58:14Z",
   "brand": "edenrise",
   "from": "edenrise-c2-winning-beliefs/S08",
   "reason": "ruins/abandoned"
+ },
+ "pexels:26288492": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "wrong scale, crowd labor"
+ },
+ "pexels:26288494": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "crowd labor"
  },
  "pexels:27372917": {
   "at": "2026-09-10T09:52:48Z",
@@ -372,10 +396,10 @@
   "reason": "corporate restaurant"
  },
  "pexels:28099100": {
-  "brand": "belong",
-  "reason": "corporate event",
   "at": "2026-09-10T10:08:45Z",
-  "from": "belong-module8/S04"
+  "brand": "belong",
+  "from": "belong-module8/S04",
+  "reason": "corporate event"
  },
  "pexels:28134027": {
   "at": "2026-09-10T09:42:04Z",
@@ -460,6 +484,12 @@
   "brand": "belong",
   "from": "belong-module9/S13",
   "reason": "corporate hotel chains"
+ },
+ "pexels:29837696": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "dark industrial workshop"
  },
  "pexels:3012516": {
   "at": "2026-09-10T09:53:24Z",
@@ -857,6 +887,12 @@
   "from": "edenrise-c2-winning-beliefs/S08",
   "reason": "ruins/abandoned"
  },
+ "pexels:36290717": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "hi-vis crew, commercial construction"
+ },
  "pexels:36306522": {
   "at": "2026-09-10T08:50:36Z",
   "brand": "edenrise",
@@ -977,11 +1013,29 @@
   "from": "edenrise-c2-six-needs-drives/S02",
   "reason": "panic gestures"
  },
+ "pexels:38885276": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "hi-vis crew, commercial construction"
+ },
+ "pexels:38885282": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "hi-vis crew, urban construction"
+ },
  "pexels:38958215": {
   "at": "2026-09-10T09:22:47Z",
   "brand": "belong",
   "from": "belong-module10/S05",
   "reason": "factories, warehouses"
+ },
+ "pexels:38993512": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "wrong scale, aerial construction"
  },
  "pexels:39073769": {
   "at": "2026-09-10T09:13:04Z",
@@ -1014,10 +1068,10 @@
   "reason": "factories"
  },
  "pexels:39434594": {
-  "brand": "belong",
-  "reason": "resort pools and beaches",
   "at": "2026-09-10T10:08:45Z",
-  "from": "belong-module8/S04"
+  "brand": "belong",
+  "from": "belong-module8/S04",
+  "reason": "resort pools and beaches"
  },
  "pexels:3970140": {
   "at": "2026-09-09T16:43:59Z",
@@ -1042,6 +1096,12 @@
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S15",
   "reason": "face masks, staged delivery scene"
+ },
+ "pexels:4280923": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "warehouse/industrial"
  },
  "pexels:4281405": {
   "at": "2026-09-09T19:14:43Z",
@@ -1163,6 +1223,12 @@
   "from": "belong-module3/S10",
   "reason": "supermarket carton"
  },
+ "pexels:5211966": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "graphic overlay, talking-head format"
+ },
  "pexels:5311250": {
   "at": "2026-09-10T09:13:05Z",
   "brand": "edenrise",
@@ -1228,6 +1294,18 @@
   "brand": "belong",
   "from": "belong-module9/S10",
   "reason": "face masks"
+ },
+ "pexels:5434223": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "hi-vis crew, crowd labor"
+ },
+ "pexels:5439032": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "office, laptops"
  },
  "pexels:5499030": {
   "at": "2026-09-10T09:41:52Z",
@@ -1343,6 +1421,12 @@
   "from": "edenrise-gratitude/S05",
   "reason": "office"
  },
+ "pexels:5944681": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "office, laptops"
+ },
  "pexels:5971457": {
   "at": "2026-09-10T10:03:46Z",
   "brand": "edenrise",
@@ -1362,10 +1446,10 @@
   "reason": "office"
  },
  "pexels:5977259": {
-  "brand": "edenrise",
-  "reason": "office",
   "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "office"
  },
  "pexels:5977261": {
   "at": "2026-09-09T19:25:36Z",
@@ -1673,6 +1757,12 @@
   "from": "edenrise-gratitude/S08",
   "reason": "office"
  },
+ "pexels:6534178": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "suits, staged fashion shoot"
+ },
  "pexels:6538448": {
   "at": "2026-09-10T09:03:21Z",
   "brand": "edenrise",
@@ -1746,10 +1836,10 @@
   "reason": "face masks"
  },
  "pexels:6631696": {
-  "brand": "belong",
-  "reason": "brochure racks",
   "at": "2026-09-10T10:09:54Z",
-  "from": "belong-module8/S08"
+  "brand": "belong",
+  "from": "belong-module8/S08",
+  "reason": "brochure racks"
  },
  "pexels:6637175": {
   "at": "2026-09-10T09:47:38Z",
@@ -1866,10 +1956,10 @@
   "reason": "office, laptops"
  },
  "pexels:6816127": {
-  "brand": "belong",
-  "reason": "face masks",
   "at": "2026-09-10T10:09:54Z",
-  "from": "belong-module8/S08"
+  "brand": "belong",
+  "from": "belong-module8/S08",
+  "reason": "face masks"
  },
  "pexels:6816192": {
   "at": "2026-09-09T16:04:41Z",
@@ -1932,10 +2022,10 @@
   "reason": "office, laptops, whiteboards"
  },
  "pexels:6913262": {
-  "brand": "edenrise",
-  "reason": "laptops, office",
   "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "laptops, office"
  },
  "pexels:6913858": {
   "at": "2026-09-10T09:01:33Z",
@@ -2009,6 +2099,12 @@
   "from": "attention-to-detail-v2/S04",
   "reason": "dark industrial workshops"
  },
+ "pexels:7045192": {
+  "at": "2026-09-10T10:15:15Z",
+  "brand": "edenrise",
+  "from": "benchmark-excellence-v2/S04",
+  "reason": "gangster signifiers"
+ },
  "pexels:7103501": {
   "at": "2026-09-10T09:42:03Z",
   "brand": "edenrise",
@@ -2032,6 +2128,12 @@
   "brand": "belong",
   "from": "belong-module5/S10",
   "reason": "business suits, corporate"
+ },
+ "pexels:7154213": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "suits, office"
  },
  "pexels:7163092": {
   "at": "2026-09-10T09:56:28Z",
@@ -2147,6 +2249,12 @@
   "from": "edenrise-c2-winning-beliefs/S06",
   "reason": "military/face masks"
  },
+ "pexels:7475779": {
+  "at": "2026-09-10T10:13:57Z",
+  "brand": "belong",
+  "from": "belong-module9/S10",
+  "reason": "face masks"
+ },
  "pexels:7484279": {
   "at": "2026-09-10T09:45:58Z",
   "brand": "edenrise",
@@ -2230,6 +2338,12 @@
   "brand": "belong",
   "from": "belong-module9/S02",
   "reason": "face masks"
+ },
+ "pexels:7592065": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "office"
  },
  "pexels:7592079": {
   "at": "2026-09-09T20:19:20Z",
@@ -2435,6 +2549,12 @@
   "from": "belong-module9/S02",
   "reason": "corporate office, business suits"
  },
+ "pexels:7735488": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "office"
+ },
  "pexels:7754471": {
   "at": "2026-09-09T16:04:41Z",
   "brand": "belong",
@@ -2598,10 +2718,10 @@
   "reason": "face masks"
  },
  "pexels:7820551": {
-  "brand": "belong",
-  "reason": "face masks",
   "at": "2026-09-10T10:09:54Z",
-  "from": "belong-module8/S08"
+  "brand": "belong",
+  "from": "belong-module8/S08",
+  "reason": "face masks"
  },
  "pexels:7820552": {
   "at": "2026-09-09T17:35:56Z",
@@ -2790,10 +2910,10 @@
   "reason": "corporate office"
  },
  "pexels:8102929": {
-  "brand": "edenrise",
-  "reason": "office",
   "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "office"
  },
  "pexels:8103018": {
   "at": "2026-09-10T09:30:40Z",
@@ -2927,6 +3047,12 @@
   "from": "edenrise-c2-six-needs-reactions/S05",
   "reason": "office"
  },
+ "pexels:8201572": {
+  "at": "2026-09-10T10:12:27Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "office"
+ },
  "pexels:8293501": {
   "at": "2026-09-10T09:22:47Z",
   "brand": "belong",
@@ -2970,10 +3096,10 @@
   "reason": "face masks"
  },
  "pexels:8460904": {
-  "brand": "edenrise",
-  "reason": "suits, office",
   "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "suits, office"
  },
  "pexels:8465133": {
   "at": "2026-09-09T16:04:41Z",
@@ -5117,6 +5243,12 @@
   "from": "attention-to-detail-v2/S04",
   "reason": "motorsport drifting, wrong valence and world"
  },
+ "pixabay:114728": {
+  "at": "2026-09-10T10:13:55Z",
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "cartoons, unrelated"
+ },
  "pixabay:1152": {
   "at": "2026-09-10T09:14:43Z",
   "brand": "edenrise",
@@ -5622,10 +5754,10 @@
   "reason": "abstract loops"
  },
  "pixabay:188807": {
-  "brand": "edenrise",
-  "reason": "abstract, ai-generated",
   "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S04",
+  "reason": "abstract, ai-generated"
  },
  "pixabay:18941": {
   "at": "2026-09-10T08:59:55Z",
@@ -6306,10 +6438,10 @@
   "reason": "large-scale high-rise development, wrong world entirely"
  },
  "pixabay:40054": {
-  "brand": "edenrise",
-  "reason": "factory",
   "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
+  "brand": "edenrise",
+  "from": "edenrise-c2-winning-beliefs/S05",
+  "reason": "factory"
  },
  "pixabay:40289": {
   "at": "2026-09-10T09:43:26Z",
@@ -6324,10 +6456,10 @@
   "reason": "abstract graphic"
  },
  "pixabay:40797": {
-  "brand": "belong",
-  "reason": "corporate",
   "at": "2026-09-10T10:08:24Z",
-  "from": "belong-module6/S10"
+  "brand": "belong",
+  "from": "belong-module6/S10",
+  "reason": "corporate"
  },
  "pixabay:40813": {
   "at": "2026-09-09T20:12:42Z",
@@ -7258,131 +7390,5 @@
   "brand": "edenrise",
   "from": "communication-dont-assume-clarify-v2/S02",
   "reason": "suit-clad manager, not the brand's foreman-in-the-field world"
- },
- "pexels:7475779": {
-  "brand": "belong",
-  "reason": "face masks",
-  "at": "2026-09-10T10:13:57Z",
-  "from": "belong-module9/S10"
- },
- "pexels:7592065": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:4280923": {
-  "brand": "edenrise",
-  "reason": "warehouse/industrial",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:7154213": {
-  "brand": "edenrise",
-  "reason": "suits, office",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:7735488": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:8201572": {
-  "brand": "edenrise",
-  "reason": "office",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:5211966": {
-  "brand": "edenrise",
-  "reason": "graphic overlay, talking-head format",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:5439032": {
-  "brand": "edenrise",
-  "reason": "office, laptops",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:20713630": {
-  "brand": "edenrise",
-  "reason": "heavy industrial site, hi-vis crew",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:29837696": {
-  "brand": "edenrise",
-  "reason": "dark industrial workshop",
-  "at": "2026-09-10T10:12:27Z",
-  "from": "edenrise-c2-winning-beliefs/S05"
- },
- "pexels:26288492": {
-  "brand": "edenrise",
-  "reason": "wrong scale, crowd labor",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:38885282": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, urban construction",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:38885276": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, commercial construction",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:5434223": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, crowd labor",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:36290717": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, commercial construction",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:38993512": {
-  "brand": "edenrise",
-  "reason": "wrong scale, aerial construction",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:26288494": {
-  "brand": "edenrise",
-  "reason": "crowd labor",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:16106604": {
-  "brand": "edenrise",
-  "reason": "hi-vis crew, industrial yard",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:6534178": {
-  "brand": "edenrise",
-  "reason": "suits, staged fashion shoot",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pexels:5944681": {
-  "brand": "edenrise",
-  "reason": "office, laptops",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
- },
- "pixabay:114728": {
-  "brand": "edenrise",
-  "reason": "cartoons, unrelated",
-  "at": "2026-09-10T10:13:55Z",
-  "from": "edenrise-c2-winning-beliefs/S04"
  }
 }
