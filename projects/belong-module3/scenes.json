@@ -1786,7 +1786,7 @@
      "shoot": "heygen-indoor-pool-glow",
      "score": 4.6,
      "judged_at": "2026-09-09T17:42:26Z",
-     "rank": 1,
+     "rank": 4,
      "shown": false
     },
     {
@@ -1808,7 +1808,7 @@
      "shoot": "pexels-indoor-pool-reflection-light",
      "score": 4.6,
      "judged_at": "2026-09-09T17:42:26Z",
-     "rank": 2,
+     "rank": 5,
      "shown": false
     },
     {
@@ -1830,7 +1830,7 @@
      "shoot": "pexels-spa-indoor-pool-interior",
      "score": 3.6,
      "judged_at": "2026-09-09T17:42:26Z",
-     "rank": 3,
+     "rank": 7,
      "shown": false
     },
     {
@@ -1852,7 +1852,7 @@
      "shoot": "pexels-modern-indoor-pool-warm-glow",
      "score": 2.65,
      "judged_at": "2026-09-09T17:42:26Z",
-     "rank": 4,
+     "rank": 13,
      "shown": true
     },
     {
@@ -1874,7 +1874,7 @@
      "shoot": "pixabay-heated-indoor-pool-architecture",
      "score": 1.65,
      "judged_at": "2026-09-09T17:42:26Z",
-     "rank": 5,
+     "rank": 21,
      "shown": false
     },
     {
@@ -1926,8 +1926,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:44:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand reaches to touch the surface of outdoor lake water at sunset",
+     "violation": "",
+     "shoot": "pexels-hand-touching-lake-sunset",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 8
     },
     {
      "id": "belong-module3-S06-V01",
@@ -1941,15 +1949,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V01.strip.jpg",
      "title": "water splash",
      "query": "steam rising indoor pool",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "855333",
      "download_url": "https://videos.pexels.com/video-files/855333/855333-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:44:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a small geyser bursts from rocky ground outdoors",
+     "violation": "",
+     "shoot": "pexels-geyser-burst-rocky-outdoor",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 23
     },
     {
      "id": "belong-module3-S06-V02",
@@ -1970,8 +1986,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand reaches toward calm lake water at dusk",
+     "violation": "",
+     "shoot": "pexels-hand-lake-dusk-reach",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 11
     },
     {
      "id": "belong-module3-S06-V03",
@@ -1992,8 +2016,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand touches water inside a glass vase against white",
+     "violation": "",
+     "shoot": "pexels-hand-glass-vase-water-studio",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 9
     },
     {
      "id": "belong-module3-S06-V04",
@@ -2007,15 +2039,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V04.strip.jpg",
      "title": "hands of couple touching",
      "query": "hand touching water surface close",
-     "shot": "C",
+     "shot": "",
      "duration": 18,
      "src_id": "9590514",
      "download_url": "https://videos.pexels.com/video-files/9590514/9590514-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two hands rest together on a railing",
+     "violation": "",
+     "shoot": "pexels-hands-railing-resting",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 17
     },
     {
      "id": "belong-module3-S06-V05",
@@ -2036,8 +2076,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand reaches to touch a rocky river's surface",
+     "violation": "",
+     "shoot": "pexels-hand-river-rocks-touch",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 12
     },
     {
      "id": "belong-module3-S06-V06",
@@ -2058,8 +2106,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand splashes dramatically through dark water",
+     "violation": "",
+     "shoot": "pexels-hand-splash-dark-dramatic",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 14
     },
     {
      "id": "belong-module3-S06-V07",
@@ -2080,8 +2136,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand cups water beneath a green-tinted surface",
+     "violation": "",
+     "shoot": "pexels-hand-cupping-underwater-green",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 10
     },
     {
      "id": "belong-module3-S06-V08",
@@ -2095,15 +2159,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V08.strip.jpg",
      "title": "a person touching water",
      "query": "hand touching water surface close",
-     "shot": "C",
+     "shot": "",
      "duration": 36,
      "src_id": "9388643",
      "download_url": "https://videos.pexels.com/video-files/9388643/9388643-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand reaches to touch murky river water from a boat",
+     "violation": "",
+     "shoot": "pexels-hand-boat-river-touch",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 18
     },
     {
      "id": "belong-module3-S06-V09",
@@ -2124,8 +2196,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "two hands ripple dark water together",
+     "violation": "",
+     "shoot": "pexels-hands-rippling-dark-water",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 15
     },
     {
      "id": "belong-module3-S06-V10",
@@ -2139,15 +2219,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V10.strip.jpg",
      "title": "index fingers touching",
      "query": "hand touching water surface close",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "8981833",
      "download_url": "https://videos.pexels.com/video-files/8981833/8981833-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "two fingertips almost touch over a cloudy horizon",
+     "violation": "",
+     "shoot": "pexels-fingertips-touching-sky",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 19
     },
     {
      "id": "belong-module3-S06-V11",
@@ -2168,8 +2256,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:45:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a woman relaxes in a steaming outdoor hot spring in the snow",
+     "violation": "",
+     "shoot": "pexels-woman-hotspring-snow-steam",
+     "score": 4.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 6
     },
     {
      "id": "belong-module3-S06-V12",
@@ -2190,8 +2286,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "a glowing turquoise indoor pool sits beneath an ornate arched ceiling",
+     "violation": "",
+     "shoot": "pexels-indoor-pool-glow-architecture",
+     "score": 8.65,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 1
     },
     {
      "id": "belong-module3-S06-V13",
@@ -2212,8 +2316,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a swimmer surfaces in a modern indoor lap pool with pendant lights",
+     "violation": "",
+     "shoot": "pexels-swimmer-indoor-lap-pool-lights",
+     "score": 6.65,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 2
     },
     {
      "id": "belong-module3-S06-V14",
@@ -2234,8 +2346,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "steam rises from a pot on a stove",
+     "violation": "",
+     "shoot": "pixabay-steam-pot-stove",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 20
     },
     {
      "id": "belong-module3-S06-V15",
@@ -2256,8 +2376,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "an indoor competition pool is strung with colorful bunting",
+     "violation": "",
+     "shoot": "pixabay-indoor-pool-bunting-competition",
+     "score": 5.0,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 3
     },
     {
      "id": "belong-module3-S06-V16",
@@ -2271,15 +2399,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V16.strip.jpg",
      "title": "pool  infinity pool  relax  woman  turquoise  vacations  happy  smiling  luxury holiday  swim  the pool area  asia  thailand  fun  fun activity  joy  summer time  dream life  beautiful view",
      "query": "indoor pool steam",
-     "shot": "B",
+     "shot": "",
      "duration": 39,
      "src_id": "40289",
      "download_url": "https://cdn.pixabay.com/video/2020/05/27/40289-425429031_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a woman floats on a ring in an outdoor infinity pool with loungers",
+     "violation": "resort outdoor pool with loungers",
+     "shoot": "pixabay-infinity-pool-loungers-woman",
+     "score": 0.65,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 24
     },
     {
      "id": "belong-module3-S06-V17",
@@ -2293,15 +2429,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V17.strip.jpg",
      "title": "fire  burn  flame  hot  heat  glow  burning  fireplace  light",
      "query": "indoor pool water glow",
-     "shot": "A",
+     "shot": "",
      "duration": 28,
      "src_id": "21531",
      "download_url": "https://cdn.pixabay.com/video/2019/02/19/21531-318988171_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "dark flames burn against a black background",
+     "violation": "",
+     "shoot": "pixabay-fire-flames-dark",
+     "score": 0.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 25
     },
     {
      "id": "belong-module3-S06-V18",
@@ -2315,15 +2459,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V18.strip.jpg",
      "title": "swimming pool  swimmers  swimming  pool  water sports  summer  water  sport  aerial view",
      "query": "indoor pool water glow",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "78059",
      "download_url": "https://cdn.pixabay.com/video/2021/06/17/78059-564490562_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "an aerial view of many swimmers racing in a pool",
+     "violation": "",
+     "shoot": "pixabay-aerial-swim-meet-lanes",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 16
     },
     {
      "id": "belong-module3-S06-V19",
@@ -2337,15 +2489,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V19.strip.jpg",
      "title": "volcano  iceland  icelandic  eruption  smoking  fire  lava  glow  drone  nature  pollution",
      "query": "indoor pool water glow",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "152085",
      "download_url": "https://cdn.pixabay.com/video/2023/02/25/152085-802335503_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:46:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an aerial view of an erupting volcano with flowing lava",
+     "violation": "",
+     "shoot": "pixabay-volcano-eruption-aerial",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 26
     },
     {
      "id": "belong-module3-S06-V20",
@@ -2359,15 +2519,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V20.strip.jpg",
      "title": "swiming pool  swimming  pool  water  diving  holiday  vacation  summer  travel  luxury",
      "query": "indoor pool water glow",
-     "shot": "A",
+     "shot": "",
      "duration": 19,
      "src_id": "93705",
      "download_url": "https://cdn.pixabay.com/video/2021/10/28/93705-642181946_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:47:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "two people swim in a tiled outdoor villa pool",
+     "violation": "resort outdoor pool",
+     "shoot": "pixabay-aerial-villa-pool-swimmers",
+     "score": 1.0,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 22
     },
     {
      "id": "belong-module3-S06-V21",
@@ -2381,15 +2549,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module3/S06__strip__belong-module3-S06-V21.strip.jpg",
      "title": "woman  model  swimming pool  girl  pool  summer  relaxation  holiday",
      "query": "indoor pool water glow",
-     "shot": "A",
+     "shot": "",
      "duration": 6,
      "src_id": "140022",
      "download_url": "https://cdn.pixabay.com/video/2022/11/22/140022-774032939_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-09T23:47:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman in a bikini floats in a bright turquoise pool",
+     "violation": "resort pool / swimwear model",
+     "shoot": "pixabay-woman-bikini-floating-pool",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:44:58Z",
+     "rank": 27
     }
    ],
    "shots": [
@@ -2423,11 +2599,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-09T14:29:10Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-09T17:42:26Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-10T09:44:58Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T17:42:26Z"
+   "judged_at": "2026-09-10T09:44:58Z"
   },
   {
    "id": "S07",
