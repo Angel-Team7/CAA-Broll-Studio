@@ -8530,15 +8530,15 @@
  },
  "pixabay:135851": {
   "brand": "edenrise",
-  "reason": "welding sparks, face mask (helmet)",
-  "at": "2026-09-10T08:47:27Z",
+  "reason": "welding sparks, dark industrial workshops",
+  "at": "2026-09-10T08:56:15Z",
   "from": "attention-to-detail-v2/S01"
  },
  "pixabay:130651": {
   "brand": "edenrise",
-  "reason": "off-brand indoor lifestyle scene, wrong world",
-  "at": "2026-09-10T08:47:27Z",
-  "from": "attention-to-detail-v2/S01"
+  "reason": "indoor lifestyle scene, wrong world",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
  },
  "pixabay:24386": {
   "brand": "edenrise",
@@ -8548,14 +8548,14 @@
  },
  "pexels:4941367": {
   "brand": "edenrise",
-  "reason": "industrial warehouse setting",
-  "at": "2026-09-10T08:49:01Z",
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T08:57:28Z",
   "from": "attention-to-detail-v2/S02"
  },
  "pexels:4941364": {
   "brand": "edenrise",
-  "reason": "face mask, industrial/factory setting",
-  "at": "2026-09-10T08:49:01Z",
+  "reason": "dark industrial workshops",
+  "at": "2026-09-10T08:57:28Z",
   "from": "attention-to-detail-v2/S02"
  },
  "pexels:4821691": {
@@ -8572,14 +8572,14 @@
  },
  "pixabay:6387": {
   "brand": "edenrise",
-  "reason": "crowds doing the same manual task",
-  "at": "2026-09-10T09:11:23Z",
-  "from": "lesson-no-failure-feedback/S01"
+  "reason": "unrelated crowd scene",
+  "at": "2026-09-10T08:49:01Z",
+  "from": "attention-to-detail-v2/S02"
  },
  "pixabay:202559": {
   "brand": "edenrise",
-  "reason": "industrial scrapyard, wrong world and scale",
-  "at": "2026-09-10T08:49:01Z",
+  "reason": "factories, assembly lines",
+  "at": "2026-09-10T08:57:28Z",
   "from": "attention-to-detail-v2/S02"
  },
  "pixabay:150317": {
@@ -8590,8 +8590,8 @@
  },
  "pexels:7019774": {
   "brand": "edenrise",
-  "reason": "dark industrial workshop",
-  "at": "2026-09-10T08:50:36Z",
+  "reason": "dark industrial workshops",
+  "at": "2026-09-10T08:58:41Z",
   "from": "attention-to-detail-v2/S04"
  },
  "pexels:36306522": {
@@ -8614,8 +8614,8 @@
  },
  "pixabay:8989": {
   "brand": "edenrise",
-  "reason": "abstract loop graphic",
-  "at": "2026-09-10T08:50:36Z",
+  "reason": "abstract loops",
+  "at": "2026-09-10T08:58:41Z",
   "from": "attention-to-detail-v2/S04"
  },
  "pixabay:1137": {
@@ -8674,8 +8674,8 @@
  },
  "pexels:6474172": {
   "brand": "edenrise",
-  "reason": "face mask / respirator, spray booth PPE",
-  "at": "2026-09-10T08:53:12Z",
+  "reason": "face masks",
+  "at": "2026-09-10T09:01:25Z",
   "from": "attention-to-detail-v2/S08"
  },
  "pixabay:4942": {
@@ -8693,13 +8693,13 @@
  "pixabay:215070": {
   "brand": "edenrise",
   "reason": "wildlife",
-  "at": "2026-09-10T08:53:12Z",
+  "at": "2026-09-10T09:01:25Z",
   "from": "attention-to-detail-v2/S08"
  },
  "pixabay:166273": {
   "brand": "edenrise",
-  "reason": "cartoon character",
-  "at": "2026-09-10T08:53:12Z",
+  "reason": "cartoons",
+  "at": "2026-09-10T09:01:25Z",
   "from": "attention-to-detail-v2/S08"
  },
  "pixabay:86867": {
@@ -8710,14 +8710,14 @@
  },
  "pexels:6538448": {
   "brand": "edenrise",
-  "reason": "office setting",
-  "at": "2026-09-10T08:54:24Z",
+  "reason": "office",
+  "at": "2026-09-10T09:03:21Z",
   "from": "attention-to-detail-v2/S09"
  },
  "pexels:6563927": {
   "brand": "edenrise",
-  "reason": "office setting, sticky notes on glass wall",
-  "at": "2026-09-10T08:54:24Z",
+  "reason": "office, whiteboards",
+  "at": "2026-09-10T09:03:21Z",
   "from": "attention-to-detail-v2/S09"
  },
  "pexels:7507664": {
@@ -8728,14 +8728,14 @@
  },
  "pexels:8134336": {
   "brand": "edenrise",
-  "reason": "laptop visible",
-  "at": "2026-09-10T08:54:24Z",
+  "reason": "laptops",
+  "at": "2026-09-10T09:03:21Z",
   "from": "attention-to-detail-v2/S09"
  },
  "pexels:6520274": {
   "brand": "edenrise",
-  "reason": "face mask",
-  "at": "2026-09-10T08:54:24Z",
+  "reason": "face masks",
+  "at": "2026-09-10T09:03:21Z",
   "from": "attention-to-detail-v2/S09"
  },
  "pixabay:86242": {
@@ -9130,8 +9130,8 @@
  },
  "pexels:8798432": {
   "brand": "belong",
-  "reason": "bouquets, florist styling",
-  "at": "2026-09-10T09:10:43Z",
+  "reason": "bouquets",
+  "at": "2026-09-10T09:09:46Z",
   "from": "belong-module1/S03"
  },
  "pixabay:2800": {
@@ -9551,8 +9551,159 @@
  "pixabay:8051": {
   "brand": "belong",
   "reason": "abstract loops",
+<<<<<<< HEAD
   "at": "2026-09-10T09:14:25Z",
   "from": "belong-module6/S04"
  }
 }
 >>>>>>> ec0bb38 ([judge-bot] judged 1 scene(s): belong-module6/S04)
+=======
+  "at": "2026-09-10T09:14:43Z",
+  "from": "lesson-no-failure-feedback/S03"
+ },
+ "pixabay:1152": {
+  "brand": "edenrise",
+  "reason": "cartoons, abstract loops",
+  "at": "2026-09-10T09:14:43Z",
+  "from": "lesson-no-failure-feedback/S03"
+ },
+ "pixabay:18099": {
+  "brand": "edenrise",
+  "reason": "abstract loops",
+  "at": "2026-09-10T09:14:43Z",
+  "from": "lesson-no-failure-feedback/S03"
+ },
+ "pexels:31651129": {
+  "brand": "edenrise",
+  "reason": "office, laptops",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pexels:6804643": {
+  "brand": "edenrise",
+  "reason": "office, laptops, whiteboards",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pexels:32244795": {
+  "brand": "edenrise",
+  "reason": "scaffolding gangs",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pexels:6804706": {
+  "brand": "edenrise",
+  "reason": "office, laptops",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pexels:6804126": {
+  "brand": "edenrise",
+  "reason": "office, laptops, whiteboards",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pixabay:60721": {
+  "brand": "edenrise",
+  "reason": "cartoons, abstract loops",
+  "at": "2026-09-10T09:14:53Z",
+  "from": "lesson-no-failure-feedback/S04"
+ },
+ "pexels:8725801": {
+  "brand": "edenrise",
+  "reason": "corporate",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:5846462": {
+  "brand": "edenrise",
+  "reason": "dark industrial workshops",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:5977049": {
+  "brand": "edenrise",
+  "reason": "corporate",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:5311354": {
+  "brand": "edenrise",
+  "reason": "corporate",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:7952181": {
+  "brand": "edenrise",
+  "reason": "corporate",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:18101986": {
+  "brand": "edenrise",
+  "reason": "green screen",
+  "at": "2026-09-10T09:16:43Z",
+  "from": "edenrise-c2-six-needs-drives/S01"
+ },
+ "pexels:3044655": {
+  "brand": "edenrise",
+  "reason": "office setting",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pexels:5977259": {
+  "brand": "edenrise",
+  "reason": "office setting",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pexels:6532783": {
+  "brand": "edenrise",
+  "reason": "office/corporate attire",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pexels:4828606": {
+  "brand": "edenrise",
+  "reason": "unrelated cafe/office scene",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pexels:9565188": {
+  "brand": "edenrise",
+  "reason": "unrelated fashion content",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pixabay:40054": {
+  "brand": "edenrise",
+  "reason": "factory setting",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pixabay:8947": {
+  "brand": "edenrise",
+  "reason": "unrelated abstract content",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pixabay:4948": {
+  "brand": "edenrise",
+  "reason": "unrelated subject",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pixabay:135891": {
+  "brand": "edenrise",
+  "reason": "crowd doing same manual task",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ },
+ "pixabay:199545": {
+  "brand": "edenrise",
+  "reason": "unrelated subject",
+  "at": "2026-09-10T09:14:36Z",
+  "from": "communication-dont-assume-clarify-v2/S09"
+ }
+}
+>>>>>>> dedd26b ([judge-bot] judged 1 scene(s): communication-dont-assume-clarify-v2/S09)
