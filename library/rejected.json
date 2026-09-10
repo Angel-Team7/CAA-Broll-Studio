@@ -6954,10 +6954,10 @@
   "reason": "ruins/abandoned"
  },
  "pixabay:86507": {
-  "at": "2026-09-10T09:32:27Z",
-  "brand": "belong",
-  "from": "belong-module12/S07",
-  "reason": "corporate training room"
+  "brand": "edenrise",
+  "reason": "wrong world / not Edenrise",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
  },
  "pixabay:86867": {
   "at": "2026-09-10T08:53:12Z",
@@ -7882,5 +7882,47 @@
   "reason": "ruins/abandoned",
   "at": "2026-09-10T10:27:57Z",
   "from": "edenrise-c2-six-needs-reactions/S02"
+ },
+ "pexels:6655832": {
+  "brand": "edenrise",
+  "reason": "wrong world / not Edenrise",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pexels:3805776": {
+  "brand": "edenrise",
+  "reason": "flowers-only",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pexels:7006656": {
+  "brand": "edenrise",
+  "reason": "factory / welding sparks",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pexels:6655812": {
+  "brand": "edenrise",
+  "reason": "wrong world / not Edenrise",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pixabay:203945": {
+  "brand": "edenrise",
+  "reason": "abstract / fantasy art, not real footage",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pixabay:846": {
+  "brand": "edenrise",
+  "reason": "wrong world / institutional",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
+ },
+ "pixabay:215472": {
+  "brand": "edenrise",
+  "reason": "classroom",
+  "at": "2026-09-10T10:29:51Z",
+  "from": "edenrise-c2-six-needs-drives/S06"
  }
 }
