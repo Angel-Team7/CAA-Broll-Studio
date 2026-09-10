@@ -366,10 +366,10 @@
   "reason": "hi-vis crowd"
  },
  "pexels:27514205": {
-  "at": "2026-09-10T09:47:38Z",
   "brand": "edenrise",
-  "from": "communication-dont-assume-clarify-v2/S13",
-  "reason": "hi-vis crowd"
+  "reason": "factory / heavy industrial rigging site",
+  "at": "2026-09-10T10:25:44Z",
+  "from": "edenrise-c2-goal-setting/S04"
  },
  "pexels:27785687": {
   "at": "2026-09-10T09:27:39Z",
@@ -7538,8 +7538,8 @@
  "pexels:7640704": {
   "brand": "edenrise",
   "reason": "office",
-  "at": "2026-09-10T10:22:41Z",
-  "from": "communication-dont-assume-clarify-v2/S15"
+  "at": "2026-09-10T10:25:44Z",
+  "from": "edenrise-c2-goal-setting/S04"
  },
  "pexels:4435249": {
   "brand": "edenrise",
@@ -7654,5 +7654,23 @@
   "reason": "ruins/abandoned",
   "at": "2026-09-10T10:23:32Z",
   "from": "edenrise-c2-six-needs-drives/S07"
+ },
+ "pexels:32329420": {
+  "brand": "edenrise",
+  "reason": "dark industrial workshop",
+  "at": "2026-09-10T10:25:44Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:37546343": {
+  "brand": "edenrise",
+  "reason": "factory-like warehouse work",
+  "at": "2026-09-10T10:25:44Z",
+  "from": "edenrise-c2-goal-setting/S04"
+ },
+ "pexels:36167827": {
+  "brand": "edenrise",
+  "reason": "factory / industrial equipment",
+  "at": "2026-09-10T10:25:44Z",
+  "from": "edenrise-c2-goal-setting/S04"
  }
 }
