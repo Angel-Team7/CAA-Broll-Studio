@@ -136,3 +136,110 @@
 | pixabay | man  surprise  thinking  idea | u_n92ynpt32e | Pixabay Content License | https://pixabay.com/videos/id-122389/ |
 | pixabay | neuron  brain  mind  psychology  thought  idea  electricity | mirerek8 | Pixabay Content License | https://pixabay.com/videos/id-91633/ |
 | pixabay | yard  spider  web  arachnid  armenia | TRAPHITHO | Pixabay Content License | https://pixabay.com/videos/id-14222/ |
+| pexels | person using socket wrench to loosen bolts | cottonbro studio | Pexels License | https://www.pexels.com/video/person-using-socket-wrench-to-loosen-bolts-7565183/ |
+| pexels | shoemaker working with grinder | Media Dung | Pexels License | https://www.pexels.com/video/shoemaker-working-with-grinder-9936742/ |
+| pexels | a person is working on a leather belt | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-is-working-on-a-leather-belt-5095286/ |
+| pexels | an elderly man repairing a pocket watch | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/an-elderly-man-repairing-a-pocket-watch-8322275/ |
+| pexels | person using heat gun on wire | K | Pexels License | https://www.pexels.com/video/person-using-heat-gun-on-wire-6079664/ |
+| pexels | a person fixing electronic | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-fixing-electronic-9431253/ |
+| pexels | a mechanic using a ratchet | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-mechanic-using-a-ratchet-8470000/ |
+| pexels | close up on cleaning tools | khanhhoangminh | Pexels License | https://www.pexels.com/video/close-up-on-cleaning-tools-11271607/ |
+| pexels | close up footage of employees stacking hands together | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-footage-of-employees-stacking-hands-together-7844939/ |
+| pexels | men shaking hands and women talking in background | Theo  Decker | Pexels License | https://www.pexels.com/video/men-shaking-hands-and-women-talking-in-background-5940518/ |
+| pexels | close up view of a man repairing electronic | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-view-of-a-man-repairing-electronic-6755167/ |
+| pexels | close up view of a man fixing the parts of a truck | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-man-fixing-the-parts-of-a-truck-7568443/ |
+| pexels | people laughing while talking to each other | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/people-laughing-while-talking-to-each-other-4624652/ |
+| pexels | a man fixing the machine | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-man-fixing-the-machine-6685031/ |
+| pixabay | screwdriver  screw  handyman  repairs  build  work  fix  too | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-4728/ |
+| pixabay | unimog  mercedes-benz  off-road  military  truck | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-217278/ |
+| pixabay | hands  good  accept  vote  ok  gesture  sign  symbol  positi | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-168344/ |
+| pixabay | construction  city  crane  building  concrete pump  basement | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-41828/ |
+| pixabay | couple  dancers  silhouette  dance off  street dancer  dance | patw64 | Pixabay Content License | https://pixabay.com/videos/id-77004/ |
+| pixabay | rallye  car race  rally  drifting  dirt  dust  curve  speed  | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1295/ |
+| pixabay | construction  crane  truck  building  concrete pump  basemen | LadislavBur | Pixabay Content License | https://pixabay.com/videos/id-41826/ |
+| pixabay | hammer  nail  carpentry  carpenter  wood  woodworker  craft  | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-277/ |
+| pexels | couple hammering a stick with an axe for tree planting | Thirdman | Pexels License | https://www.pexels.com/video/couple-hammering-a-stick-with-an-axe-for-tree-planting-7655149/ |
+| pexels | elderly man reading a book | Kampus Production | Pexels License | https://www.pexels.com/video/elderly-man-reading-a-book-7517372/ |
+| pexels | a woman pruning a leafless tree in a garden | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-woman-pruning-a-leafless-tree-in-a-garden-11122306/ |
+| pexels | a man is standing in front of an olive tree | K | Pexels License | https://www.pexels.com/video/a-man-is-standing-in-front-of-an-olive-tree-20606525/ |
+| pexels | an elderly man cutting the stem of a plant using shears | Kampus Production | Pexels License | https://www.pexels.com/video/an-elderly-man-cutting-the-stem-of-a-plant-using-shears-7844375/ |
+| pexels | a man is using a hose to clean an olive tree | K | Pexels License | https://www.pexels.com/video/a-man-is-using-a-hose-to-clean-an-olive-tree-20606519/ |
+| pexels | man teaching girl archery | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-teaching-girl-archery-6655832/ |
+| pexels | an elderly man cutting plants | Kampus Production | Pexels License | https://www.pexels.com/video/an-elderly-man-cutting-plants-7844380/ |
+| pexels | close up on cutting branch in orchard | Grigoriy Bunkov | Pexels License | https://www.pexels.com/video/close-up-on-cutting-branch-in-orchard-11389408/ |
+| pexels | a florist working at a table | Lina Fresco | Pexels License | https://www.pexels.com/video/a-florist-working-at-a-table-3805776/ |
+| pexels | woman wearing overalls inside a garage | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-wearing-overalls-inside-a-garage-7006656/ |
+| pexels | woman teaching girl archery | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-teaching-girl-archery-6655812/ |
+| pexels | two women planting seedlings at farm | K | Pexels License | https://www.pexels.com/video/two-women-planting-seedlings-at-farm-9737858/ |
+| pexels | female botanists working in a lab | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/female-botanists-working-in-a-lab-8513264/ |
+| pixabay | tree  tree of life  stars  sparkle  multicoloured  multi col | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-203945/ |
+| pixabay | tree trimming  tree pruning  chainsaw | Milldad | Pixabay Content License | https://pixabay.com/videos/id-146086/ |
+| pixabay | cpr  cpr training  simulator  cpr mannequin  instructor  pra | marketingvm | Pixabay Content License | https://pixabay.com/videos/id-86507/ |
+| pixabay | library  books  the corridor  window  rack  the culture  rea | klimkin | Pixabay Content License | https://pixabay.com/videos/id-846/ |
+| pixabay | book  read  novel  literature  learning  pages  knowledge  i | Oliver_GR | Pixabay Content License | https://pixabay.com/videos/id-84005/ |
+| pixabay | coffee  cup  morning  breakfast  reading  book  bible  cafe  | jeffjacobs1990 | Pixabay Content License | https://pixabay.com/videos/id-27230/ |
+| pixabay | field  hedge  tree  bare  winter  topdown | Trek_Jason | Pixabay Content License | https://pixabay.com/videos/id-111084/ |
+| pixabay | students  education  school  reading  learning | Vacampbe | Pixabay Content License | https://pixabay.com/videos/id-215472/ |
+| pexels | three people carrying cleaning equipment | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/three-people-carrying-cleaning-equipment-6195141/ |
+| pexels | emergency paramedics assisting outdoors | Kiwi and Camera | Pexels License | https://www.pexels.com/video/emergency-paramedics-assisting-outdoors-39317895/ |
+| pexels | construction workers operating on building site | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-workers-operating-on-building-site-32245123/ |
+| pexels | a man carrying planks of wood | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-carrying-planks-of-wood-8965388/ |
+| pexels | a group of men in orange vests and hard hats working on a co | CP Khanal | Pexels License | https://www.pexels.com/video/a-group-of-men-in-orange-vests-and-hard-hats-working-on-a-construction-site-19832500/ |
+| pexels | hammering tyre | Tamoor Ahmed | Pexels License | https://www.pexels.com/video/hammering-tyre-20713630/ |
+| pexels | a man saving a woman | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-saving-a-woman-8965523/ |
+| pexels | people in red clothes looking at camera | cottonbro studio | Pexels License | https://www.pexels.com/video/people-in-red-clothes-looking-at-camera-6565766/ |
+| pexels | person tying a string to a newly planted tree | Thirdman | Pexels License | https://www.pexels.com/video/person-tying-a-string-to-a-newly-planted-tree-7655144/ |
+| pexels | woman talking to horticulturist | Antoni Shkraba | Pexels License | https://www.pexels.com/video/woman-talking-to-horticulturist-7421694/ |
+| pexels | drone footage of a landscape | K | Pexels License | https://www.pexels.com/video/drone-footage-of-a-landscape-8177441/ |
+| pexels | grandfather and his grandchildren holding gardening tools | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-and-his-grandchildren-holding-gardening-tools-7844363/ |
+| pexels | people hoeing on agricultural field | Md Anwar Hossin | Pexels License | https://www.pexels.com/video/people-hoeing-on-agricultural-field-11623320/ |
+| pexels | a woman wearing white long sleeve shirt | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-woman-wearing-white-long-sleeve-shirt-8512874/ |
+| pixabay | students  books  education  teaching  read  kids  remote  sc | Tanya50 | Pixabay Content License | https://pixabay.com/videos/id-63328/ |
+| pixabay | street  cars  london  traffic  people  tilt shift | Kapuzinerkresschen | Pixabay Content License | https://pixabay.com/videos/id-28693/ |
+| pixabay | woman  welcome  social media  girl  reading  teach  explaini | GreenScreenFX | Pixabay Content License | https://pixabay.com/videos/id-92662/ |
+| pixabay | moss  shed  tree  outhouse | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20464/ |
+| pixabay | traffic  korea  seoul  city  landscape  travel  asia  street | RafterJr72 | Pixabay Content License | https://pixabay.com/videos/id-23863/ |
+| pixabay | door  wood  shed  old | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20458/ |
+| pixabay | lathe  wood  craft  handmade  work  processing  tool | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-94444/ |
+| pixabay | old  shed  window  rustic | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20467/ |
+| pexels | close up view of person drawing on a paper | Artem Podrez | Pexels License | https://www.pexels.com/video/close-up-view-of-person-drawing-on-a-paper-6996519/ |
+| pexels | person cutting an object | cottonbro studio | Pexels License | https://www.pexels.com/video/person-cutting-an-object-6654039/ |
+| pexels | close up view of person sharpening a pencil using a cutter | Ivan S | Pexels License | https://www.pexels.com/video/close-up-view-of-person-sharpening-a-pencil-using-a-cutter-6815516/ |
+| pexels | a kid drawing a line using a pen | cottonbro studio | Pexels License | https://www.pexels.com/video/a-kid-drawing-a-line-using-a-pen-3678318/ |
+| pexels | woman writing on the sticky notes | Kindel Media | Pexels License | https://www.pexels.com/video/woman-writing-on-the-sticky-notes-7651685/ |
+| pexels | person decorating the egg with ribbon | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/person-decorating-the-egg-with-ribbon-7037444/ |
+| pexels | sharpening a pencil | Coverr | Pexels License | https://www.pexels.com/video/sharpening-a-pencil-854165/ |
+| pexels | hands working on clay figurine | INOCENTE SANCHEZ GUADARRAMA | Pexels License | https://www.pexels.com/video/hands-working-on-clay-figurine-12029707/ |
+| pexels | close up of gloved hands in outdoor activity | Caleb Oquendo | Pexels License | https://www.pexels.com/video/close-up-of-gloved-hands-in-outdoor-activity-34573369/ |
+| pexels | spraying water with hose | Coverr | Pexels License | https://www.pexels.com/video/spraying-water-with-hose-853784/ |
+| pexels | buddhist monk sweeping temple courtyard | Pete Miller Portraits | Pexels License | https://www.pexels.com/video/buddhist-monk-sweeping-temple-courtyard-36709711/ |
+| pexels | woman carrying a tree branch | Martina Tomšič | Pexels License | https://www.pexels.com/video/woman-carrying-a-tree-branch-8125917/ |
+| pexels | man working with shovel | Oscar  Lara | Pexels License | https://www.pexels.com/video/man-working-with-shovel-11662255/ |
+| pexels | gardener tying plant vine to support structure | Amel Uzunovic | Pexels License | https://www.pexels.com/video/gardener-tying-plant-vine-to-support-structure-35461836/ |
+| pixabay | student  to write  to study  work  task  issue  question  st | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131990/ |
+| pixabay | happy new year  christmas  christmas tree  winter  lights  e | Skylent | Pixabay Content License | https://pixabay.com/videos/id-3565/ |
+| pixabay | to write  to study  task  job  issue  question  study  stude | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-131993/ |
+| pixabay | tv  test  pattern  color  television  screen  media  cameram | Ceos_Stock | Pixabay Content License | https://pixabay.com/videos/id-31851/ |
+| pixabay | garden  read  roundup  garden villa | videomoon | Pixabay Content License | https://pixabay.com/videos/id-9740/ |
+| pexels | a person reading a book while writing on notebook | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-reading-a-book-while-writing-on-notebook-8478114/ |
+| pexels | close up video of a person writing on a notebook | ArtHouse Studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-notebook-8478113/ |
+| pexels | a person writing in the planner | Polina ⠀ | Pexels License | https://www.pexels.com/video/a-person-writing-in-the-planner-6541138/ |
+| pexels | person writing on notebook | Mikhail Nilov | Pexels License | https://www.pexels.com/video/person-writing-on-notebook-8731583/ |
+| pexels | person writing on a notebook | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-8108608/ |
+| pexels | a person writing on a notebook | Barbara Olsen | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-notebook-7866236/ |
+| pexels | a person is holding a pen in front of an open book | Адам Аушев | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-pen-in-front-of-an-open-book-28405799/ |
+| pexels | a woman writing on her planner | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-writing-on-her-planner-4393235/ |
+| pexels | a person writing on a notebook | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-notebook-9683618/ |
+| pexels | a person writing in french using pen and notebook | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-writing-in-french-using-pen-and-notebook-8626583/ |
+| pexels | person writing on a notebook | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-7278330/ |
+| pexels | a woman sitting on a bench and writing in a notebook | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-sitting-on-a-bench-and-writing-in-a-notebook-6413980/ |
+| pexels | a woman holding a pen | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-holding-a-pen-7681168/ |
+| pexels | person writing on a notebook using a pen | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-using-a-pen-6326847/ |
+| pixabay | thoughtful  person  thinking  male  head  calm  idea  alone  | pnepalensis | Pixabay Content License | https://pixabay.com/videos/id-35590/ |
+| pixabay | man  person  reflection  thinking  think  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126558/ |
+| pixabay | man  person  reflection  thinking  think  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126557/ |
+| pixabay | man  face  look  person  reflection  thinking  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126560/ |
+| pixabay | brain  mind  knowledge  think  thinking  creativity  anatomy | TiagoLevi351 | Pixabay Content License | https://pixabay.com/videos/id-206173/ |
+| pixabay | book  write  pen  diary  letter  hands  girl  notebook | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4952/ |
+| pixabay | village  nature  landscape  pond  green  outdoor | dinar011184 | Pixabay Content License | https://pixabay.com/videos/id-38955/ |
+| pixabay | woman  exploration  nature  outdoors | u_bz9cn6vat4 | Pixabay Content License | https://pixabay.com/videos/id-240659/ |

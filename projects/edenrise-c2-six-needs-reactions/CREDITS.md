@@ -52,3 +52,25 @@
 | pixabay | man  farmer  agriculture  countryside  field  rural  farming | ammarvid | Pixabay Content License | https://pixabay.com/videos/id-243239/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-group-of-construction-workers-standing-on-the-side-of-the-road-19559851/ |
 | pixabay | woman  smile  communication  gesture  expression  asian  clo | Amorn_mimi | Pixabay Content License | https://pixabay.com/videos/id-174008/ |
+| pexels | a female worker harvesting | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-female-worker-harvesting-7332181/ |
+| pexels | people working in picking on tea plantation | Maison Delia | Pexels License | https://www.pexels.com/video/people-working-in-picking-on-tea-plantation-10389452/ |
+| pexels | aerial view of manikganj jomidar bari gardens | Progga Media | Pexels License | https://www.pexels.com/video/aerial-view-of-manikganj-jomidar-bari-gardens-35735728/ |
+| pexels | man cutting tree branches with chainsaw outdoors | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/man-cutting-tree-branches-with-chainsaw-outdoors-34223315/ |
+| pexels | farmer harvesting crops in lush green field | Panya Niyomtham | Pexels License | https://www.pexels.com/video/farmer-harvesting-crops-in-lush-green-field-34755123/ |
+| pexels | workers clearing branches with chainsaw outdoors | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/workers-clearing-branches-with-chainsaw-outdoors-34223310/ |
+| pexels | construction workers using cement mixer outdoors | Saulo Nulo | Pexels License | https://www.pexels.com/video/construction-workers-using-cement-mixer-outdoors-36021065/ |
+| pexels | people gardening together | Andi  Farruku | Pexels License | https://www.pexels.com/video/people-gardening-together-6194561/ |
+| pexels | boss looking her employee working | Yan Krukau | Pexels License | https://www.pexels.com/video/boss-looking-her-employee-working-7640705/ |
+| pexels | a medium close up of a woman wearing safety gear | Kindel Media | Pexels License | https://www.pexels.com/video/a-medium-close-up-of-a-woman-wearing-safety-gear-8486682/ |
+| pexels | close up video man looking at machine | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-video-man-looking-at-machine-7479046/ |
+| pexels | people looking at a paper | Kindel Media | Pexels License | https://www.pexels.com/video/people-looking-at-a-paper-7687898/ |
+| pexels | a man using a walkie talkie while at the site | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/ |
+| pexels | people arriving at conference room | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-arriving-at-conference-room-8847930/ |
+| pixabay | woman  face  color  glow | Shayea_Kim | Pixabay Content License | https://pixabay.com/videos/id-153927/ |
+| pixabay | bacon  pan  hot  belly bacon  meal  food  close up | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-240531/ |
+| pixabay | man  face  look  person  reflection  thinking  lifestyle | SoyKhaler | Pixabay Content License | https://pixabay.com/videos/id-126560/ |
+| pixabay | coffee  grains  black  pour  close-up  coffee beans  fried   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4948/ |
+| pixabay | boy  face  emotions  waiting  street  boy watching  child | Roxolana | Pixabay Content License | https://pixabay.com/videos/id-47064/ |
+| pixabay | man  authority  attorney  law  judge  face  lawyers  chief   | Roque_dg | Pixabay Content License | https://pixabay.com/videos/id-198887/ |
+| pixabay | woman  cyborg  android  future  technology  face  robot  hea | Eartvideos | Pixabay Content License | https://pixabay.com/videos/id-174167/ |
+| pixabay | beef  patty  hamburger  burger  grill  electric grill  meal  | Kaffeesüchtig | Pixabay Content License | https://pixabay.com/videos/id-199545/ |

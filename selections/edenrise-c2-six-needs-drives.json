@@ -48,8 +48,10 @@
     "S07": {
       "requested": "2026-09-09T21:24:51Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:10:38Z",
+      "added": 22
     },
     "S01": {
       "requested": "2026-09-09T21:24:46Z",
@@ -62,14 +64,18 @@
     "S04": {
       "requested": "2026-09-09T21:24:49Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:05:37Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-09T21:24:52Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:12:47Z",
+      "added": 19
     },
     "S02": {
       "requested": "2026-09-09T21:24:47Z",
@@ -82,14 +88,18 @@
     "S06": {
       "requested": "2026-09-09T21:24:50Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:08:13Z",
+      "added": 22
     },
     "S09": {
       "requested": "2026-09-09T21:24:53Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T03:15:11Z",
+      "added": 22
     }
   }
 }
