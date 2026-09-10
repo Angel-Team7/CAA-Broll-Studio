@@ -37,7 +37,7 @@
      "shoot": "upload-suit-workers-stadium",
      "score": 2.65,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 7,
+     "rank": 14,
      "shown": false
     },
     {
@@ -59,8 +59,8 @@
      "shoot": "pexels-cafe-chairs-hands",
      "score": 2.35,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 8,
-     "shown": true
+     "rank": 16,
+     "shown": false
     },
     {
      "id": "pexels_6344435_moving-chairs",
@@ -103,8 +103,8 @@
      "shoot": "pexels-chair-books-static",
      "score": 1.7,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 10,
-     "shown": true
+     "rank": 21,
+     "shown": false
     },
     {
      "id": "pexels_7508814_carrying-chairs",
@@ -125,7 +125,7 @@
      "shoot": "pexels-studio-carrying-chair",
      "score": 2.3,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 9,
+     "rank": 17,
      "shown": false
     },
     {
@@ -147,7 +147,7 @@
      "shoot": "pexels-furniture-showroom",
      "score": 1.65,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 11,
+     "rank": 22,
      "shown": false
     },
     {
@@ -169,8 +169,8 @@
      "shoot": "pexels-beach-chair",
      "score": 1.35,
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 13,
-     "shown": true
+     "rank": 24,
+     "shown": false
     },
     {
      "id": "upload_1784643240327_S01-Imagine-this...-",
@@ -220,8 +220,8 @@
      "shot": "",
      "shoot": "pexels-rainy-cafe-umbrella",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 12,
-     "shown": true
+     "rank": 23,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V01",
@@ -278,7 +278,7 @@
      "shot": "",
      "shoot": "pixabay-welding-workshop",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 16,
+     "rank": 31,
      "shown": false
     },
     {
@@ -307,7 +307,7 @@
      "shot": "",
      "shoot": "pixabay-angle-grinder-rebar",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 14,
+     "rank": 26,
      "shown": false
     },
     {
@@ -365,7 +365,7 @@
      "shot": "",
      "shoot": "pixabay-highrise-aerial-workers",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 17,
+     "rank": 32,
      "shown": false
     },
     {
@@ -394,7 +394,7 @@
      "shot": "",
      "shoot": "pexels-studio-black-dress-chair",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 15,
+     "rank": 27,
      "shown": false
     },
     {
@@ -423,7 +423,7 @@
      "shot": "",
      "shoot": "pixabay-highrise-crane-aerial",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 18,
+     "rank": 33,
      "shown": false
     },
     {
@@ -452,7 +452,7 @@
      "shot": "",
      "shoot": "pexels-workshop-portrait-man",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 5,
+     "rank": 7,
      "shown": true
     },
     {
@@ -481,8 +481,8 @@
      "shot": "",
      "shoot": "pixabay-cement-mixer-hands",
      "judged_at": "2026-09-09T19:03:06Z",
-     "rank": 6,
-     "shown": true
+     "rank": 12,
+     "shown": false
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V10",
@@ -503,8 +503,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two men load cardboard boxes into a delivery van",
+     "violation": "",
+     "shoot": "pexels-van-loading-boxes-gloves",
+     "score": 2.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 13
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V11",
@@ -518,15 +526,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V11.strip.jpg",
      "title": "a man pouring coffee to another man",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "7581295",
      "download_url": "https://videos.pexels.com/video-files/7581295/7581295-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "two men talk while pouring coffee in a break room",
+     "violation": "",
+     "shoot": "pexels-kitchen-coffee-pour-talking",
+     "score": 1.05,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 25
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V12",
@@ -547,8 +563,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a man carries a stack of boxes outdoors",
+     "violation": "",
+     "shoot": "pexels-man-carrying-boxes-sky",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 10
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V13",
@@ -562,15 +586,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V13.strip.jpg",
      "title": "a man is working in a wood shop with a saw",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "",
      "duration": 30,
      "src_id": "20374744",
      "download_url": "https://videos.pexels.com/video-files/20374744/20374744-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "masked workers operate a table saw in a wood shop",
+     "violation": "face masks",
+     "shoot": "pexels-woodshop-masked-tablesaw",
+     "score": 1.95,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 18
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V14",
@@ -584,15 +616,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V14.strip.jpg",
      "title": "people working on building construction",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "11733685",
      "download_url": "https://videos.pexels.com/video-files/11733685/11733685-hd_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a group of workers stack and carry bricks at a yard",
+     "violation": "crowds doing the same manual task",
+     "shoot": "pexels-brickyard-crowd-southasia",
+     "score": 2.35,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 15
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V15",
@@ -613,8 +653,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "two workers in overalls unload a van outside a house",
+     "violation": "",
+     "shoot": "pexels-aerial-van-orange-overalls",
+     "score": 3.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 6
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V16",
@@ -628,15 +676,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V16.strip.jpg",
      "title": "man and woman talking",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "C",
      "duration": 16,
      "src_id": "6197077",
      "download_url": "https://videos.pexels.com/video-files/6197077/6197077-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a man and woman in matching overalls sit talking indoors",
+     "violation": "",
+     "shoot": "pexels-overalls-pair-sitting2",
+     "score": 3.05,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 11
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V17",
@@ -650,15 +706,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V17.strip.jpg",
      "title": "man working warehouse talking",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "4293956",
      "download_url": "https://videos.pexels.com/video-files/4293956/4293956-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "warehouse workers carry boxes and check a tablet",
+     "violation": "",
+     "shoot": "pexels-warehouse-boxes-tablet-walk",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 19
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V18",
@@ -672,15 +736,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V18.strip.jpg",
      "title": "employee playing foosball",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "",
      "duration": 19,
      "src_id": "6804643",
      "download_url": "https://videos.pexels.com/video-files/6804643/6804643-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:54:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "an employee plays foosball in an office",
+     "violation": "office",
+     "shoot": "pexels-office-foosball",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 34
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V19",
@@ -694,15 +766,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V19.strip.jpg",
      "title": "construction team planning near beachside location",
      "query": "two workers carrying chairs opposite directions",
-     "shot": "B",
+     "shot": "A",
      "duration": 44,
      "src_id": "30539909",
      "download_url": "https://videos.pexels.com/video-files/30539909/13081791_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands point at a construction plan on a beachside site",
+     "violation": "",
+     "shoot": "pexels-beachside-construction-plan-pointing",
+     "score": 4.0,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 5
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V20",
@@ -716,15 +796,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V20.strip.jpg",
      "title": "construction worker looking at the camera",
      "query": "foreman pointing worker puzzled outdoors",
-     "shot": "A",
+     "shot": "",
      "duration": 7,
      "src_id": "8964296",
      "download_url": "https://videos.pexels.com/video-files/8964296/8964296-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hi-vis construction worker holds a clipboard near a crane",
+     "violation": "",
+     "shoot": "pexels-hivis-worker-crane-clipboard",
+     "score": 1.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 20
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V21",
@@ -745,8 +833,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two hi-vis workers talk near a large construction crane",
+     "violation": "",
+     "shoot": "pexels-hivis-pair-crane-talking",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 8
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V22",
@@ -767,8 +863,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two hi-vis workers review a plan near a construction crane",
+     "violation": "",
+     "shoot": "pexels-hivis-pair-crane-plan",
+     "score": 3.35,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 9
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V23",
@@ -782,15 +886,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V23.strip.jpg",
      "title": "people looking a house",
      "query": "foreman pointing worker puzzled outdoors",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "8482291",
      "download_url": "https://videos.pexels.com/video-files/8482291/8482291-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "masked realtors and hardhat workers tour a house",
+     "violation": "face masks",
+     "shoot": "pexels-realtor-masks-hardhats-house",
+     "score": 0.0,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 35
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V24",
@@ -804,15 +916,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V24.strip.jpg",
      "title": "puzzle  puzzling  game  play  playing  people  girl  woman  problem solving  puzzle pieces  matching  thinking  intelligence",
      "query": "foreman pointing worker puzzled",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "132",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a child assembles a puzzle on a table indoors",
+     "violation": "",
+     "shoot": "pixabay-child-puzzle-table2",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 28
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V25",
@@ -826,15 +946,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V25.strip.jpg",
      "title": "windmill  green electricity  electricity  confused pinwheel  windmill turns  energy transition  climate neutral  no electricity  confused",
      "query": "confused face close worker",
-     "shot": "C",
+     "shot": "",
      "duration": 18,
      "src_id": "134507",
      "download_url": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a wind turbine spins against a blue sky",
+     "violation": "",
+     "shoot": "pixabay-windmill-turbine-sky",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 29
     },
     {
      "id": "communication-dont-assume-clarify-v2-S02-V26",
@@ -848,15 +976,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-communication-dont-assume-clarify-v2/S02__strip__communication-dont-assume-clarify-v2-S02-V26.strip.jpg",
      "title": "bacon  pan  hot  belly bacon  meal  food  close up",
      "query": "confused face close worker",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "240531",
      "download_url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-10T01:55:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "bacon strips sizzle in a hot pan",
+     "violation": "",
+     "shoot": "pixabay-bacon-frying-pan",
+     "score": 0.7,
+     "judged_at": "2026-09-10T09:22:17Z",
+     "rank": 30
     }
    ],
    "shots": [
@@ -890,10 +1026,10 @@
    "shots_at": "2026-09-09T14:38:19Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-09T19:03:06Z",
+    "at": "2026-09-10T09:22:17Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-09T19:03:06Z"
+   "judged_at": "2026-09-10T09:22:17Z"
   },
   {
    "id": "S03",
