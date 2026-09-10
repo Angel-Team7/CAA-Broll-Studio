@@ -225,3 +225,43 @@
 | pexels | vibrant pink tulip field in springtime | Alex Ohan | Pexels License | https://www.pexels.com/video/vibrant-pink-tulip-field-in-springtime-39073769/ |
 | pexels | close up of man touching bouquet | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-man-touching-bouquet-9954992/ |
 | pexels | close up video of a people holding hands together | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-people-holding-hands-together-9479751/ |
+| pexels | woman putting hands together and bow her head | Antoni Shkraba | Pexels License | https://www.pexels.com/video/woman-putting-hands-together-and-bow-her-head-7525854/ |
+| pexels | close up of a person s face | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-a-person-s-face-7297902/ |
+| pexels | extreme close up of a man massaging his temples | Kindel Media | Pexels License | https://www.pexels.com/video/extreme-close-up-of-a-man-massaging-his-temples-7297914/ |
+| pexels | close up of a man talking and shaking his head | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-a-man-talking-and-shaking-his-head-7297923/ |
+| pexels | man bowing in field with scenic view | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/man-bowing-in-field-with-scenic-view-34374699/ |
+| pexels | man holding his head | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-holding-his-head-5713826/ |
+| pexels | elderly man wiping his tears | Ivan S | Pexels License | https://www.pexels.com/video/elderly-man-wiping-his-tears-9644446/ |
+| pexels | backpacker guy talking | Kamaji Ogino | Pexels License | https://www.pexels.com/video/backpacker-guy-talking-5060410/ |
+| pexels | the looks of a healthy young man | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/the-looks-of-a-healthy-young-man-4069103/ |
+| pexels | close up of a man talking and shaking his head | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-of-a-man-talking-and-shaking-his-head-7297925/ |
+| pexels | warm embrace hands touching in nature | Ds babariya | Pexels License | https://www.pexels.com/video/warm-embrace-hands-touching-in-nature-33126246/ |
+| pexels | close up video of people holding hands | Dimitar Dimitrov | Pexels License | https://www.pexels.com/video/close-up-video-of-people-holding-hands-10083255/ |
+| pexels | a couple holding hands and caressing each other | Midtrack - | Pexels License | https://www.pexels.com/video/a-couple-holding-hands-and-caressing-each-other-11971116/ |
+| pexels | couple holding hands | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/couple-holding-hands-6028844/ |
+| pixabay | chess  chess board  strategy  play  board game  chess pieces | OrcaTec | Pixabay Content License | https://pixabay.com/videos/id-19600/ |
+| pixabay | hand sanitizer  sanitizer  hygiene  washing  hand | gcova | Pixabay Content License | https://pixabay.com/videos/id-35005/ |
+| pixabay | power socket  electricity  fork  wire  turn on  switch off   | klimkin | Pixabay Content License | https://pixabay.com/videos/id-4975/ |
+| pixabay | fall  baroque castle seußlitz  golden autumn  pension  pensi | glorydays2012pro | Pixabay Content License | https://pixabay.com/videos/id-8039/ |
+| pixabay | canal  water  tree  park  bridge  seagull  bench  autumn col | MabelAmber | Pixabay Content License | https://pixabay.com/videos/id-29258/ |
+| pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
+| pixabay | barber  barbershop  hairstyle  hand  human hand  man  males  | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-48968/ |
+| pixabay | hands  girl  people  young  female  table  hand  white  go   | loilamtan | Pixabay Content License | https://pixabay.com/videos/id-31654/ |
+| pexels | a woman with long hair looking at the trees | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-woman-with-long-hair-looking-at-the-trees-25636139/ |
+| pexels | serene evening stroll along decorated bridge | Tường Chopper | Pexels License | https://www.pexels.com/video/serene-evening-stroll-along-decorated-bridge-31933595/ |
+| pexels | a woman picking up a mango from the ground | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-picking-up-a-mango-from-the-ground-11760146/ |
+| pexels | slow motion of shoes while walking | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/slow-motion-of-shoes-while-walking-10805312/ |
+| pexels | peaceful urban park scene with pedestrians | Anh Nguyen | Pexels License | https://www.pexels.com/video/peaceful-urban-park-scene-with-pedestrians-33667564/ |
+| pexels | nature shadows dancing on sandy pathway | Circuit Occidental | Pexels License | https://www.pexels.com/video/nature-shadows-dancing-on-sandy-pathway-36632293/ |
+| pexels | close up of farmer pulling weeds | Los Muertos Crew | Pexels License | https://www.pexels.com/video/close-up-of-farmer-pulling-weeds-10041359/ |
+| pexels | a woman walking in a dragon fruit plantation | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-walking-in-a-dragon-fruit-plantation-11760145/ |
+| pexels | man walking in peacful outdoor park aerial view | Akey jarwal | Pexels License | https://www.pexels.com/video/man-walking-in-peacful-outdoor-park-aerial-view-38985320/ |
+| pexels | a man in a hat and plaid shirt is walking through a corn fie | Vadim Starling | Pexels License | https://www.pexels.com/video/a-man-in-a-hat-and-plaid-shirt-is-walking-through-a-corn-field-15909400/ |
+| pexels | shoes of person walking on muddy ground | Csaba Városi | Pexels License | https://www.pexels.com/video/shoes-of-person-walking-on-muddy-ground-12288496/ |
+| pexels | slow motion video of three men walking in the woods | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/slow-motion-video-of-three-men-walking-in-the-woods-5099058/ |
+| pexels | person walking on the outdoors | Jarod Barton | Pexels License | https://www.pexels.com/video/person-walking-on-the-outdoors-4941684/ |
+| pexels | a person walking on unpaved pathway | Thirdman | Pexels License | https://www.pexels.com/video/a-person-walking-on-unpaved-pathway-5612232/ |
+| pixabay | gravel pit  quarry pond  nature  northern germany  hamburg   | 43485955 | Pixabay Content License | https://pixabay.com/videos/id-210647/ |
+| pixabay | labyrinth  center  way out  seek  graphic  circles  meditati | PIRO4D | Pixabay Content License | https://pixabay.com/videos/id-8989/ |
+| pixabay | market  walking  shopping people  looking  verona  italy | AttilaPergel | Pixabay Content License | https://pixabay.com/videos/id-148501/ |
+| pixabay | tree  branches  space  stars  nebula  loop  looking up | cryptoblender | Pixabay Content License | https://pixabay.com/videos/id-170030/ |

@@ -95,14 +95,18 @@
     "S13": {
       "requested": "2026-09-09T21:25:43Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:15:34Z",
+      "added": 22
     },
     "S14": {
       "requested": "2026-09-09T21:25:44Z",
       "note": "",
-      "done": false,
-      "reason": "stock_gap"
+      "done": true,
+      "reason": "stock_gap",
+      "fulfilled": "2026-09-10T05:17:37Z",
+      "added": 18
     }
   }
 }
