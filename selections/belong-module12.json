@@ -1,6 +1,6 @@
 {
   "project": "belong-module12",
-  "updated": "2026-09-10T11:37:12.893Z",
+  "updated": "2026-09-10T11:56:39.246Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -29,6 +29,9 @@
     ],
     "S10": [
       "pexels_3256548_staff-group-meeting-garden"
+    ],
+    "S06": [
+      "belong-module12-S06-V04"
     ]
   },
   "needs_broll": {
