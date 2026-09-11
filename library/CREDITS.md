@@ -1487,3 +1487,33 @@
 | pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/young-people-talking-at-dinner-table-6185226/ |
 | pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/friends-talking-at-a-table-on-hanukkah-6185053/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-bringing-food-to-the-table-6948637/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/charming-aerial-view-of-english-suburban-neighborhood-34751142/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-suburban-neighborhood-in-black-and-white-39222319/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-urban-neighborhood-in-black-and-white-39288939/ |
+| pixabay | woman  phone  smartphone  technology  mobile  telephone  cel | mephala1980 | Pixabay Content License | https://pixabay.com/videos/id-38084/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/couple-picking-a-christmas-tree-6286318/ |
+| pexels |  | Uriel Mont | Pexels License | https://www.pexels.com/video/person-talking-to-a-man-under-the-tree-6308527/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/capturing-scenic-views-in-lush-green-hills-28769578/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/person-sitting-on-his-bed-while-stretching-his-arms-5983676/ |
+| pexels |  | Martina Tomšič | Pexels License | https://www.pexels.com/video/woman-cleaning-a-window-9086561/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/woman-looking-at-the-window-8091708/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/hands-rubbing-the-soap-7615780/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/washing-hand-in-bathroom-sink-10574228/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-close-up-video-of-a-woman-smelling-a-rose-10544167/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-beekeeper-holding-a-hive-frame-8191014/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/beekeeper-harvesting-honey-8190931/ |
+| pexels |  | Peter Smit | Pexels License | https://www.pexels.com/video/beekeeper-among-beehives-11244241/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/person-offering-chips-7716917/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/comparing-gray-color-of-the-background-to-the-paper-6567826/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-passing-a-gold-coin-8370149/ |
+| pexels |  | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/soil-with-earthworms-3046309/ |
+| pixabay | tomatoes  red  vegetables  fruit  food  hand  grab  vegetabl | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-147/ |
+| pixabay | almonds  peeling almonds  work  hammer  job  process  peel   | Dx21 | Pixabay Content License | https://pixabay.com/videos/id-129727/ |
+| pexels |  | md Jahangir alam | Pexels License | https://www.pexels.com/video/street-vendor-serving-fresh-papaya-slices-38406489/ |
+| pexels |  | Dmytro Glazunov | Pexels License | https://www.pexels.com/video/bees-flying-around-hives-13629648/ |
+| pexels |  | FRANK MERIÑO | Pexels License | https://www.pexels.com/video/beekeepers-using-a-bee-smoker-8420016/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-doing-christmas-decorating-6063493/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/people-eating-together-3253973/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/women-holding-pregnancy-test-6967715/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/realtor-greets-the-family-to-the-viewing-of-the-new-home-7646493/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-chatting-with-his-grandson-through-an-open-window-10397845/ |
