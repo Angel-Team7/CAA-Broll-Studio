@@ -1517,3 +1517,33 @@
 | pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/women-holding-pregnancy-test-6967715/ |
 | pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/realtor-greets-the-family-to-the-viewing-of-the-new-home-7646493/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-chatting-with-his-grandson-through-an-open-window-10397845/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-suburban-neighborhood-in-black-and-white-39222321/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/aerial-landing-shot-of-a-person-in-a-pool-6942634/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/aerial-shot-of-a-landscape-6943591/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-couple-holding-champagne-together-6289728/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-couple-sitting-in-a-courtyard-with-a-table-and-chairs-17688641/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-and-woman-in-dark-woods-6318572/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/teenage-girl-brings-condom-to-her-room-secretly-6473443/ |
+| pixabay | man  angry  pissed off  anger  stress  depression  male  mod | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-61294/ |
+| pexels |  | Lê Cuộc | Pexels License | https://www.pexels.com/video/aerial-view-on-plantation-10396646/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-smelling-flowers-6863725/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/woman-holding-vegetables-7198689/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-smelling-a-carnation-flower-while-posing-8102248/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-looking-at-a-crate-of-fruits-8428494/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-receiving-her-order-8926180/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/vegetables-in-a-basket-8540410/ |
+| pixabay | stereo  tuner  music  technology  sound  radio  audio  equip | InspiredImages | Pixabay Content License | https://pixabay.com/videos/id-3013/ |
+| pixabay | plane  paint brush  f-104  starfighter  miniature  modelling | Matias_Luge | Pixabay Content License | https://pixabay.com/videos/id-131666/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/smoke-in-the-sunrays-coming-from-a-window-5155194/ |
+| pixabay | zucchini  knife  vegetable  green  nutrition  kitchen  food | SergioParadox | Pixabay Content License | https://pixabay.com/videos/id-75266/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-man-is-digging-in-the-dirt-with-a-shovel-20522545/ |
+| pexels |  | Karl  Byron | Pexels License | https://www.pexels.com/video/gardener-clearing-leaves-with-shovel-35493376/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/beekeepers-working-at-an-apiary-8841374/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/kitchen-cooking-spices-baking-4487954/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/bee-farming-for-honey-production-8191098/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/group-of-friends-chatting-and-clapping-while-on-the-table-6185056/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-drinking-wine-6961768/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/friends-having-a-conversation-at-the-table-on-hanukkah-6184745/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/a-woman-leaving-a-crying-man-6654083/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-family-celebrating-and-making-a-toast-during-hanukkah-6123055/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-having-conversation-at-a-party-while-standing-6761146/ |
