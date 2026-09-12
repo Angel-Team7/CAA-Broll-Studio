@@ -1727,3 +1727,33 @@
 | pexels |  | Mizuno K | Pexels License | https://www.pexels.com/video/two-young-men-talking-while-having-coffee-at-home-13322600/ |
 | pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/two-women-enjoying-conversation-while-having-coffee-4052972/ |
 | pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/women-using-laptop-while-on-sitting-6035121/ |
+| pexels |  | Mukhtar Shuaib Mukhtar | Pexels License | https://www.pexels.com/video/aerial-view-of-outdoor-kitchen-setup-36964227/ |
+| pexels |  | fjeijf bfiqbfcq | Pexels License | https://www.pexels.com/video/professional-fish-cleaning-process-close-up-28783841/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/dropping-cans-into-the-container-6591440/ |
+| pixabay | paste  pasta  spaghetti  nutrition  food  cook  frying pan   | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-14137/ |
+| pixabay | schnitzel  grill  pan  flesh  food  cook  meal  nourishment  | jensb | Pixabay Content License | https://pixabay.com/videos/id-2067/ |
+| pixabay | meat  kazan  food  frying  nutrition  cooking  roast  kitche | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-15735/ |
+| pexels |  | Alex Dos Santos | Pexels License | https://www.pexels.com/video/monochrome-close-up-of-spinning-coin-35996676/ |
+| pexels |  | Grisha Grishkoff | Pexels License | https://www.pexels.com/video/bright-colorful-marble-stone-balls-5964100/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/euro-coins-on-mossy-rock-surface-36036684/ |
+| pexels |  | Evgenij Mikhailov | Pexels License | https://www.pexels.com/video/camera-moving-in-park-at-night-10084928/ |
+| pexels |  | ALTECH Studio's | Pexels License | https://www.pexels.com/video/illuminated-decorations-on-tree-11353216/ |
+| pexels |  | WeStarMoney  Rec | Pexels License | https://www.pexels.com/video/night-view-of-a-road-trip-in-forest-5098921/ |
+| pexels |  | George Pak | Pexels License | https://www.pexels.com/video/man-and-woman-talking-to-each-other-7823731/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-woman-having-conversation-8519470/ |
+| pixabay | coffee  cup  cafe  caffeine  colombia  drink  smell  breakfa | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-236256/ |
+| pixabay | ai generated  clothesline  dress  laundry  countryside  coun | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-192142/ |
+| pixabay | ai generated  clothesline  dress  clothes  laundry  countrys | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-192140/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-carrying-basket-while-walking-on-the-farm-11760148/ |
+| pexels |  | Mizuno K | Pexels License | https://www.pexels.com/video/woman-getting-her-morning-coffee-13737091/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-woman-orders-a-cup-of-coffee-from-a-coffee-shop-3044454/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-making-coffee-6828880/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/group-in-19th-century-costume-waking-up-drunk-6728589/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/an-elderly-woman-on-a-date-6840130/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-talking-with-someone-while-eats-mussels-6953391/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/men-talking-while-having-breakfast-6481734/ |
+| pexels |  | Liza Summer | Pexels License | https://www.pexels.com/video/women-talking-to-each-other-6380996/ |
+| pexels |  | T Leish | Pexels License | https://www.pexels.com/video/elderly-couple-drinking-coffee-in-the-morning-6975691/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/grass-field-during-golden-hour-4812009/ |
+| pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/masked-figure-walks-through-cornfield-at-sunset-32219497/ |
+| pexels |  | Rüveyda | Pexels License | https://www.pexels.com/video/a-person-walking-through-a-field-with-the-sun-setting-behind-them-20139157/ |
