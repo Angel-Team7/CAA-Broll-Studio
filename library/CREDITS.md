@@ -1667,3 +1667,33 @@
 | pexels |  | Claudio AFC | Pexels License | https://www.pexels.com/video/people-dining-al-fresco-during-sundown-15207783/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-sitting-together-with-the-soldiers-6718809/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-group-of-people-sitting-at-a-table-with-wine-5019049/ |
+| pexels |  | Sagor  Mondol | Pexels License | https://www.pexels.com/video/farmers-tilling-rice-fields-at-sunset-in-bangladesh-36099191/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/man-and-woman-laughing-7278630/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/people-working-on-rice-field-13020377/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/aerial-footage-of-farmland-3256392/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/close-up-footage-of-fresh-greens-7002246/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76881/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/waiter-taking-order-from-a-couple-6816118/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/an-elderly-couple-on-a-date-6816116/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/elderly-woman-refusing-food-8870230/ |
+| pexels |  | Dominik Zítka | Pexels License | https://www.pexels.com/video/a-pile-of-assorted-shiny-coins-31750576/ |
+| pexels |  | Jourean van Beek | Pexels License | https://www.pexels.com/video/falling-euro-coins-on-newspaper-in-slow-motion-39108087/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/kid-putting-the-coins-to-the-glass-jar-7118320/ |
+| pexels |  | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/a-man-with-a-flashlight-walking-in-a-park-at-night-11792116/ |
+| pexels |  | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/man-walking-among-trees-with-flashlight-at-night-11839715/ |
+| pexels |  | Evgenij Mikhailov | Pexels License | https://www.pexels.com/video/path-in-park-at-night-10084924/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/women-talking-while-looking-at-a-succulent-plant-5044225/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/friends-hanging-out-at-a-coffee-house-4918993/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-and-woman-having-a-conversation-while-drinking-a-beverage-7231139/ |
+| pexels |  | Eric Skaggs | Pexels License | https://www.pexels.com/video/old-country-church-19493799/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76883/ |
+| pixabay | ai generated  clothesline  dress  laundry  countryside  coun | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-192139/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/cheerful-couple-chatting-in-a-bar-8155853/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-and-woman-talking-to-each-other-5137846/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-and-a-woman-talking-at-a-bar-6174532/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-having-a-toast-6840119/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-eating-a-strawberry-8903548/ |
+| pexels |  | Polina ⠀ | Pexels License | https://www.pexels.com/video/couple-having-video-call-while-on-the-dining-table-6265612/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-talking-and-drinking-coffee-4053039/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-view-of-two-person-holding-each-other-s-hands-4701507/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/couple-talking-while-having-breakfast-8880036/ |
