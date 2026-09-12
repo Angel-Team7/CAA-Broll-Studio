@@ -1697,3 +1697,33 @@
 | pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-talking-and-drinking-coffee-4053039/ |
 | pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-view-of-two-person-holding-each-other-s-hands-4701507/ |
 | pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/couple-talking-while-having-breakfast-8880036/ |
+| pixabay | exercise  running  fitness  lifestyle  woman  workout  activ | Stuck1 | Pixabay Content License | https://pixabay.com/videos/id-32934/ |
+| pexels |  | Hamim Rony | Pexels License | https://www.pexels.com/video/traditional-bangladeshi-village-craftsmanship-32060823/ |
+| pixabay | blue-collar workers  worker  textile  cotton | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-262468/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76882/ |
+| pexels |  | Ahila  Joshi | Pexels License | https://www.pexels.com/video/sorting-grains-by-hand-in-metal-bowls-36169616/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/people-putting-leaves-on-a-mesh-3696019/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-woman-serving-cocktails-3970172/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/women-having-a-conversation-with-a-waiter-6174387/ |
+| pixabay | shish kebab  food  meat  grilled meat  skewers  frying  braz | MixailMixail | Pixabay Content License | https://pixabay.com/videos/id-4296/ |
+| pexels |  | Ricky Esquivel | Pexels License | https://www.pexels.com/video/bottle-filled-with-money-3752538/ |
+| pexels |  | Andrew Schwark | Pexels License | https://www.pexels.com/video/argentine-currency-and-financial-concepts-footage-35824441/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-us-money-coins-5651775/ |
+| pexels |  | Alberto Escalona | Pexels License | https://www.pexels.com/video/enchanted-evening-lights-under-trees-32054992/ |
+| pexels |  | Afin Ruzl | Pexels License | https://www.pexels.com/video/snowy-park-with-festive-lights-in-winter-35774458/ |
+| pexels |  | ulrich Keutchatang | Pexels License | https://www.pexels.com/video/plante-de-nuit-18300595/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/elderly-people-having-coffee-outside-6829634/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/young-women-having-breakfast-together-5381658/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/two-elderly-women-meeting-up-over-coffee-7017774/ |
+| pixabay | ai generated  clothesline  dress  laundry  countryside  coun | stefaniejockschat | Pixabay Content License | https://pixabay.com/videos/id-192141/ |
+| pixabay | farmer  seeds  chicken  feeding chicken  rice  farm  rural h | FnBTV | Pixabay Content License | https://pixabay.com/videos/id-76884/ |
+| pixabay | gate  door  afterlife  ghost  journey  new age  out of body  | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-203363/ |
+| pixabay | fun fair  amusement park  girls  roller coaster  rollercoast | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-40/ |
+| pixabay | interior  room  corner  modern  furniture  home  house  arch | tommyvideo | Pixabay Content License | https://pixabay.com/videos/id-55527/ |
+| pixabay | fun fair  boys  ride  amusement park  girls  roller coaster  | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-41/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-talking-while-sit-on-dining-table-6840125/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-and-woman-are-looking-at-each-other-5019324/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/renaissance-men-posing-at-the-dinner-table-6715391/ |
+| pexels |  | Mizuno K | Pexels License | https://www.pexels.com/video/two-young-men-talking-while-having-coffee-at-home-13322600/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/two-women-enjoying-conversation-while-having-coffee-4052972/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/women-using-laptop-while-on-sitting-6035121/ |
