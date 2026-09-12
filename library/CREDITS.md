@@ -1637,3 +1637,33 @@
 | pexels |  | Harvey Tan Villarino | Pexels License | https://www.pexels.com/video/close-up-view-of-handwriting-in-notebook-11995909/ |
 | pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-4443243/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-making-notes-8085793/ |
+| pexels |  | tejinder ladi photography | Pexels License | https://www.pexels.com/video/worker-with-basket-on-head-climbing-ladder-at-stack-of-klin-bricks-10620626/ |
+| pexels |  | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/vibrant-market-scene-with-colorful-trucks-and-locals-37618873/ |
+| pexels |  | Abdul Ali Siddiqua | Pexels License | https://www.pexels.com/video/farmers-harvesting-using-their-hands-8732183/ |
+| pexels |  | Lê Cuộc | Pexels License | https://www.pexels.com/video/aerial-view-on-woman-in-dress-on-plantation-10396932/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/aerial-view-on-rural-fields-10041368/ |
+| pexels |  | Song Nguyen | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-hoi-an-vegetable-gardens-29031265/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-waiter-giving-menu-to-the-couple-8870231/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/waiter-and-couple-toasting-with-draft-beer-5920302/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/group-of-friends-having-dinner-together-8922355/ |
+| pixabay | windmill  agriculture  farm  rural  mill  wind  power  old   | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-784/ |
+| pixabay | woman  joy  happiness  cattle  grassland  farm  celebrate  c | u_zm0pibx5fn | Pixabay Content License | https://pixabay.com/videos/id-171116/ |
+| pixabay | bananas  falling  fruits  diet  fresh  healthy  organic  nut | motionstock | Pixabay Content License | https://pixabay.com/videos/id-103205/ |
+| pexels |  | Christophe Génot | Pexels License | https://www.pexels.com/video/charming-mediterranean-alleyway-in-spain-36134824/ |
+| pexels |  | Ebahir | Pexels License | https://www.pexels.com/video/man-exiting-room-through-glass-door-35768262/ |
+| pexels |  | Ángel Fernández | Pexels License | https://www.pexels.com/video/modelo-caminando-hacia-una-ventana-27874603/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-talking-to-each-other-7464028/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-choosing-food-from-a-food-truck-5920180/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/friends-talking-while-sitting-in-the-van-8974388/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-woman-pouring-water-on-a-stainless-mug-8965249/ |
+| pexels |  | Lina Fresco | Pexels License | https://www.pexels.com/video/women-talking-outside-on-a-windy-day-3819344/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-surprising-man-with-coffee-6517444/ |
+| pexels |  | Jaxon Matthew Willis | Pexels License | https://www.pexels.com/video/aerial-view-of-green-landscapes-in-wisconsin-32338593/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/drone-footage-of-landscape-4686092/ |
+| pexels |  | Aizen Shinshi | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-green-fields-and-farm-37226962/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/women-having-a-conversation-5705010/ |
+| pexels |  | CityXcape | Pexels License | https://www.pexels.com/video/people-having-fun-behind-the-counter-4053574/ |
+| pexels |  | Michael Takahashi | Pexels License | https://www.pexels.com/video/customer-service-interaction-at-store-counter-35047184/ |
+| pexels |  | Claudio AFC | Pexels License | https://www.pexels.com/video/people-dining-al-fresco-during-sundown-15207783/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-sitting-together-with-the-soldiers-6718809/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-group-of-people-sitting-at-a-table-with-wine-5019049/ |
