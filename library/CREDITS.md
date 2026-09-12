@@ -1607,3 +1607,33 @@
 | pexels |  | Anna Shvets | Pexels License | https://www.pexels.com/video/woman-talking-to-a-person-at-the-counter-10602956/ |
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-wearing-face-mask-at-the-clinic-6997933/ |
 | pexels |  | Doğan Alpaslan  Demir | Pexels License | https://www.pexels.com/video/casual-interaction-at-city-cafe-counter-29887146/ |
+| pexels |  | Prime Media Photography | Pexels License | https://www.pexels.com/video/a-poor-old-man-look-at-camera-in-the-desert-of-pakistan-17996184/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/rohingya-refugees-relocating-amidst-camp-scenery-34596399/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/delivery-men-looking-at-camera-7362580/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/aerial-shot-of-a-landscape-6941496/ |
+| pexels |  | suellen baker | Pexels License | https://www.pexels.com/video/soybean-crops-in-the-farmland-6622665/ |
+| pexels |  | Thiago Zanutim Lucas | Pexels License | https://www.pexels.com/video/aerial-view-of-a-coffee-plantation-12493598/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-talking-in-restaurant-6321920/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/waiter-serving-street-food-to-a-customer-5920303/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/an-elderly-couple-dating-6816128/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/elderly-man-giving-a-basket-of-vegetables-to-the-elderly-woman-7655581/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-paying-a-vendor-8540430/ |
+| pexels |  | Luis Quintero | Pexels License | https://www.pexels.com/video/a-cluster-of-bananas-on-a-crate-2235949/ |
+| pexels |  | Alexander Mass | Pexels License | https://www.pexels.com/video/woman-enjoying-fresh-morning-air-by-window-34506423/ |
+| pexels |  | Alex Moisieiev | Pexels License | https://www.pexels.com/video/woman-standing-on-balcony-looking-out-36624080/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/urban-graffiti-art-on-shuttered-shopfront-38043955/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-at-a-food-truck-s-counter-5920255/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-getting-orders-from-customers-5920176/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/side-view-of-a-male-chef-8627113/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/two-elderly-women-talking-over-coffee-7017911/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-drinking-a-cup-of-coffee-8296454/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/women-talking-and-laughing-5359183/ |
+| pexels |  | Cyrus Photography | Pexels License | https://www.pexels.com/video/a-time-lapse-of-a-farm-4865479/ |
+| pexels |  | Cyrus Photography | Pexels License | https://www.pexels.com/video/moving-clouds-capture-in-time-lapse-5969954/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-close-up-shot-of-glass-windows-6175387/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-getting-his-takeout-order-at-a-cafe-6683941/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-customer-ordering-drinks-8261841/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-arranging-bottles-of-medicines-on-a-rack-8657654/ |
+| pexels |  | Harvey Tan Villarino | Pexels License | https://www.pexels.com/video/close-up-view-of-handwriting-in-notebook-11995909/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-4443243/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-making-notes-8085793/ |
