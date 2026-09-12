@@ -1577,3 +1577,33 @@
 | pexels |  | Dan Melo | Pexels License | https://www.pexels.com/video/aerial-view-of-rustic-farm-buildings-35691052/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-waitress-serving-water-in-the-cafe-8430967/ |
 | pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-sliding-a-pizza-7008583/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/industrial-workshop-metalworking-process-34704448/ |
+| pexels |  | Sojib Omar | Pexels License | https://www.pexels.com/video/portraits-of-joyful-children-in-rural-bangladesh-34178041/ |
+| pexels |  | SUMON AHMED | Pexels License | https://www.pexels.com/video/a-man-carrying-water-buckets-down-a-dirt-road-27576641/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/tomato-farm-7002250/ |
+| pexels |  | Jose Carlos | Pexels License | https://www.pexels.com/video/aerial-view-on-farm-10418118/ |
+| pexels |  | Song Nguyen | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-vegetable-gardens-in-hoi-an-29031266/ |
+| pixabay | salad  cucumber  food  healthy  fresh  diet  green  vegetabl | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11608/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/waiter-attending-to-the-customers-5529327/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-ordering-at-a-restaurant-6816127/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/delivery-man-knocking-on-a-gate-7835178/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-person-unloading-a-basket-of-mangoes-11760120/ |
+| pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/vibrant-autumn-pumpkin-harvest-display-34473151/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/minimalist-window-view-with-carpet-31150111/ |
+| pexels |  | Nino Souza | Pexels License | https://www.pexels.com/video/a-dark-hallway-with-a-light-on-the-ceiling-19217898/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-standing-in-a-room-with-a-cardboard-box-on-their-head-4553187/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/elderly-man-holding-a-green-lettuce-7655577/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/man-in-apron-with-vegetables-on-kitchen-counter-11025551/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/close-up-video-of-carrots-7456468/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-delivering-a-package-6406119/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/waiter-writing-on-a-menu-board-5920135/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/delivery-man-delivering-a-package-6406122/ |
+| pixabay | talk  discussion  meeting  team  group  conference  discuss  | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1112/ |
+| pixabay | table football  game  fun  play  entertainment  football pla | Alessandro89 | Pixabay Content License | https://pixabay.com/videos/id-10024/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/women-talking-indoors-7490449/ |
+| pexels |  | Eric Skaggs | Pexels License | https://www.pexels.com/video/wayne-county-ohio-historical-society-20561190/ |
+| pexels |  | Cyrus Photography | Pexels License | https://www.pexels.com/video/country-side-timelapse-5663403/ |
+| pexels |  | Chris Flaten | Pexels License | https://www.pexels.com/video/aerial-view-of-a-beautiful-mansion-on-the-farmland-5768179/ |
+| pexels |  | Anna Shvets | Pexels License | https://www.pexels.com/video/woman-talking-to-a-person-at-the-counter-10602956/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-wearing-face-mask-at-the-clinic-6997933/ |
+| pexels |  | Doğan Alpaslan  Demir | Pexels License | https://www.pexels.com/video/casual-interaction-at-city-cafe-counter-29887146/ |
