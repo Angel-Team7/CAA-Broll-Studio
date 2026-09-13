@@ -1817,3 +1817,33 @@
 | pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-swirling-a-wine-from-a-decanter-5848238/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-and-a-women-enjoying-eating-6761344/ |
 | pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-preparing-table-for-dinner-5848300/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/aerial-view-of-industrial-scrap-recycling-process-39199056/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/industrial-recycling-facility-with-excavator-29702771/ |
+| pexels |  | Ahila  Joshi | Pexels License | https://www.pexels.com/video/hands-sorting-grains-in-outdoor-natural-setting-36169614/ |
+| pixabay | rotting christ  rock  concert  band  heavy metal  rock conce | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1275/ |
+| pexels |  | Yasin Onuş | Pexels License | https://www.pexels.com/video/barista-crafting-perfect-latte-art-36838680/ |
+| pexels |  | ed br | Pexels License | https://www.pexels.com/video/dynamic-abstract-smoke-on-dark-background-29686188/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-woman-walking-in-a-dragon-fruit-plantation-11760145/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/woman-with-hat-carrying-basket-13534811/ |
+| pexels |  | manas patra | Pexels License | https://www.pexels.com/video/men-and-women-with-bowls-on-head-11842028/ |
+| pexels |  | Swarup Sarkar | Pexels License | https://www.pexels.com/video/barista-pouring-milk-in-coffee-at-cafe-37387021/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/barista-preparing-the-coffee-grinder-8936244/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-inside-a-cafe-6828728/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-pouring-red-wine-on-a-glass-and-offered-it-to-a-woman-3189043/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/family-saying-grace-before-thanksgiving-dinner-5848230/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/man-talking-while-eating-5617301/ |
+| pixabay | drink  café  clean  close-up  coffee  cup  foliage  food  fr | Gam-Ol | Pixabay Content License | https://pixabay.com/videos/id-38048/ |
+| pixabay | cup  coffee  cafe  barista  espresso  caffeine  drink  branc | Visual_Laurence | Pixabay Content License | https://pixabay.com/videos/id-202910/ |
+| pixabay | coffee jet  espresso  coffee  jet  breakfast  cappuccino  ki | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1631/ |
+| pixabay | kefalonia  greece  island  man  walking  alone  landscape  c | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-245582/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-bird-on-a-wooden-fence-4310035/ |
+| pexels |  | Townsend Walton | Pexels License | https://www.pexels.com/video/black-crow-feasting-on-peanuts-outdoors-38893839/ |
+| pexels |  | Aida Shukuhi | Pexels License | https://www.pexels.com/video/delicious-tacos-presented-on-wooden-board-33461799/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-waiting-in-uniform-putting-up-the-ok-sign-6816188/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-barista-sliding-a-drinking-glass-on-a-bar-counter-9563516/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/an-elderly-woman-pouring-wine-from-a-decanter-5848235/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/person-pouring-sauce-on-food-3769033/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-eating-together-6953392/ |
+| pexels |  | Luis Quintero | Pexels License | https://www.pexels.com/video/knife-maker-workshop-5735107/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-sharpening-the-knife-6811292/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-sharpening-a-knife-using-a-honing-steel-8625865/ |
