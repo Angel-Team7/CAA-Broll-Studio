@@ -1907,3 +1907,33 @@
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/person-slicing-bell-pepper-6760557/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/cutting-an-apple-fruit-in-half-4061789/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/scraping-a-piece-of-twig-6132969/ |
+| pixabay | corn  kitchen  cooking  roasted  food | MRubs | Pixabay Content License | https://pixabay.com/videos/id-128189/ |
+| pixabay | tea  coffee  drink  cup  books  teacup  food  oil  kitchen | Charity_donate | Pixabay Content License | https://pixabay.com/videos/id-149938/ |
+| pixabay | vegetables  greens  kitchen  cook  preparation  healthy  foo | 32141219 | Pixabay Content License | https://pixabay.com/videos/id-143425/ |
+| pexels |  | Pexels User | Pexels License | https://www.pexels.com/video/a-swimming-pool-with-a-person-swimming-in-it-18437886/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-swimming-fast-in-the-pool-6012158/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-swimming-in-the-pool-6539514/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/woman-touching-old-wooden-wall-7593610/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/honey-bees-855545/ |
+| pexels |  | JULLIAN PRODUCTION | Pexels License | https://www.pexels.com/video/man-assembling-bicycle-in-workshop-at-night-38226263/ |
+| pixabay | coffee  esspresso  beans  aroma  roasting  coffee pot  caffe | ThorstenF | Pixabay Content License | https://pixabay.com/videos/id-15482/ |
+| pixabay | diversity  meeting  communication  people  against racism  b | aghyadnajjar | Pixabay Content License | https://pixabay.com/videos/id-41820/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/women-having-a-conversation-7783130/ |
+| pexels |  | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/ramadan-iftar-dinner-with-family-and-friends-36587276/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-family-praying-before-meal-5848226/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/people-having-conversation-while-eating-5617369/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/closed-eye-and-face-of-albino-woman-10210552/ |
+| pexels |  | Zulfugar Karimov | Pexels License | https://www.pexels.com/video/close-up-of-woman-s-face-outdoors-natural-beauty-32206370/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-s-eye-blinking-9808079/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/video-footage-of-bird-854876/ |
+| pexels |  | Judas Isariot | Pexels License | https://www.pexels.com/video/scenic-wheatfield-and-rustic-fence-in-summer-35199730/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/a-man-holding-a-stick-in-his-hand-17746799/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-signing-on-a-document-8465133/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-talking-to-the-hotel-receptionist-7820476/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-at-a-hotel-talking-to-the-receptionist-7820475/ |
+| pixabay | vineyards  wine  italy  landscape  cellar  beyond  lombardy  | micegreens | Pixabay Content License | https://pixabay.com/videos/id-135643/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/a-person-lighting-candles-on-a-cake-8877889/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/adults-eating-together-and-having-a-good-time-6948933/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-chopped-a-sweet-potato-4061840/ |
+| pexels |  | Juan Pablo GÃ³mez | Pexels License | https://www.pexels.com/video/person-grinding-a-metal-8148684/ |
+| pexels |  | Eleonora Vokueva | Pexels License | https://www.pexels.com/video/handcrafted-knife-sharpening-at-outdoor-market-37685507/ |
