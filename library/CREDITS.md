@@ -1787,3 +1787,33 @@
 | pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-person-walking-down-a-dirt-road-at-sunset-17422809/ |
 | pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/serene-sunset-stroll-through-cornfield-32090695/ |
 | pexels |  | Aida Shukuhi | Pexels License | https://www.pexels.com/video/casual-dining-with-pizza-served-in-restaurant-32046327/ |
+| pexels |  | Ahila  Joshi | Pexels License | https://www.pexels.com/video/sorting-brown-rice-outdoors-on-sunny-day-36169474/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/industrial-scrap-yard-with-heavy-machinery-29702756/ |
+| pexels |  | FÁBIO REIS DE ABREU (PORTUGA) | Pexels License | https://www.pexels.com/video/lixo-reciclado-na-esteira-para-separacao-18093468/ |
+| pexels |  | Rafael Minguet Delgado | Pexels License | https://www.pexels.com/video/gold-bitcoin-with-stock-market-chart-background-38905685/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-golden-coin-and-paper-cut-outs-8370055/ |
+| pexels |  | Barış  Şeref | Pexels License | https://www.pexels.com/video/close-up-of-a-variety-of-bracelets-and-necklaces-3064261/ |
+| pexels |  | Evgenij Mikhailov | Pexels License | https://www.pexels.com/video/beautiful-garden-with-nighttime-festival-lights-35375458/ |
+| pexels |  | Suraphat Nuea-on | Pexels License | https://www.pexels.com/video/revolving-shot-of-an-establishment-at-night-4102917/ |
+| pexels |  | Hideyoshi isai | Pexels License | https://www.pexels.com/video/a-walkway-with-blue-lights-and-christmas-decorations-19554195/ |
+| pexels |  | Hùng Hoa Lư | Pexels License | https://www.pexels.com/video/person-pushing-a-wheelbarrow-14890123/ |
+| pexels |  | Anil  Sharma | Pexels License | https://www.pexels.com/video/camel-with-cart-in-rural-setting-36591885/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/man-on-bicycle-11852773/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-putting-bread-inside-a-paper-bag-8430965/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/barista-talking-to-a-customer-8935807/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-woman-pouring-a-foamy-coffee-on-a-cup-7171091/ |
+| pixabay | steak  grill  meat  beef  food  dinner  grilled  meal  bbq   | max_bbb | Pixabay Content License | https://pixabay.com/videos/id-16395/ |
+| pixabay | mushrooms  knife  cut  vegetables  food  cook  dinner  prepa | Amina_Salim | Pixabay Content License | https://pixabay.com/videos/id-141853/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/family-saying-grace-before-christmas-dinner-5814422/ |
+| pexels |  | Edmond Dantès | Pexels License | https://www.pexels.com/video/woman-drinking-coffee-during-meeting-4427210/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-at-a-coffee-shop-6602319/ |
+| pixabay | coffee  bread  fruit  breakfast  food  healthy  cup  table   | xBriantcx | Pixabay Content License | https://pixabay.com/videos/id-238823/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-man-walking-through-a-field-with-trees-28450006/ |
+| pexels |  | Bofforss | Pexels License | https://www.pexels.com/video/nighttime-walk-in-urban-park-setting-28828934/ |
+| pexels |  | Tacettin Veli Çetin | Pexels License | https://www.pexels.com/video/a-person-sitting-under-a-willow-tree-at-sunset-20750079/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-couple-and-a-waiter-talking-in-the-restaurant-6816192/ |
+| pexels |  | Vimeo | Pexels License | https://www.pexels.com/video/man-serving-a-meal-in-a-hot-pot-857081/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/menu-restaurant-woman-waiter-4254314/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-swirling-a-wine-from-a-decanter-5848238/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-and-a-women-enjoying-eating-6761344/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-preparing-table-for-dinner-5848300/ |
