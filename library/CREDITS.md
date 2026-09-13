@@ -1877,3 +1877,33 @@
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-chef-sharpening-a-knife-using-a-honing-steel-8626267/ |
 | pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-chef-holding-a-knife-8094254/ |
 | pexels |  | Elements Interactive | Pexels License | https://www.pexels.com/video/metal-polishing-with-grinding-wheel-close-up-37465966/ |
+| pixabay | man  kitchen  model  dishes | muhammedguv | Pixabay Content License | https://pixabay.com/videos/id-143161/ |
+| pixabay | woman  cook  kitchen  traditional  java  indonesia  rural  v | Joko_Narimo | Pixabay Content License | https://pixabay.com/videos/id-148542/ |
+| pixabay | pan  food  cook  preparation  spices  ingredients  kitchen   | 32141219 | Pixabay Content License | https://pixabay.com/videos/id-143420/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/video-of-a-woman-in-the-swimming-pool-7222590/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/an-indoor-olympic-size-swimming-pool-6011916/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/women-posing-in-a-sauna-9165945/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-reading-a-notebook-8561464/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/historic-doors-interior-with-warm-lighting-34800569/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/shadow-of-a-person-moving-on-a-curtain-8516592/ |
+| pixabay | mall  shop  store  department store  people  busy  buy  sell | wcw6900 | Pixabay Content License | https://pixabay.com/videos/id-24114/ |
+| pixabay | cafe  restaurant  talking  talk  people  sitting  chatting   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-1623/ |
+| pixabay | shopping  restaurant  cafe  shop  coffee  food  drink  store | tiburi | Pixabay Content License | https://pixabay.com/videos/id-13533/ |
+| pexels |  | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/traditional-iftar-meal-during-ramadan-36587278/ |
+| pexels |  | StefWithAnF | Pexels License | https://www.pexels.com/video/a-person-putting-condiment-on-a-plated-meat-3583034/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-enjoying-asian-cuisine-6645761/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/blinking-eye-close-up-7298047/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-man-is-looking-at-the-camera-with-his-eyes-closed-19212505/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-wearing-headphones-8103046/ |
+| pexels |  | Townsend Walton | Pexels License | https://www.pexels.com/video/black-crow-pecks-peanuts-on-outdoor-table-38893838/ |
+| pexels |  | Dan Cristian Pădureț | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-web-4146521/ |
+| pexels |  | max laurell | Pexels License | https://www.pexels.com/video/close-up-video-of-a-log-6236306/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/a-car-driving-on-the-road-8549413/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-choosing-a-date-7339688/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-writing-on-the-paper-8102411/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/serving-fodd-at-the-thanksgiving-dinner-5848452/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-giving-present-to-a-little-kid-7156942/ |
+| pexels |  | olia danilevich | Pexels License | https://www.pexels.com/video/people-reunited-at-the-table-on-holidays-5866466/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/person-slicing-bell-pepper-6760557/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/cutting-an-apple-fruit-in-half-4061789/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/scraping-a-piece-of-twig-6132969/ |
