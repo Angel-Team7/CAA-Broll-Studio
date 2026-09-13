@@ -1937,3 +1937,33 @@
 | pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-chopped-a-sweet-potato-4061840/ |
 | pexels |  | Juan Pablo GÃ³mez | Pexels License | https://www.pexels.com/video/person-grinding-a-metal-8148684/ |
 | pexels |  | Eleonora Vokueva | Pexels License | https://www.pexels.com/video/handcrafted-knife-sharpening-at-outdoor-market-37685507/ |
+| pixabay | stove  gas  flame  heat  hot  kitchen | EtoileOfficial | Pixabay Content License | https://pixabay.com/videos/id-75534/ |
+| pixabay | pepper  spoon  spice  cook  kitchen  food  foodstuffs | 753tomas753 | Pixabay Content License | https://pixabay.com/videos/id-21198/ |
+| pixabay | cooking  wok  squid  kitchen  food  food preparation | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-1497/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/man-doing-swimming-8050153/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-swimmer-doing-butterfly-6012507/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/ripples-on-a-swimming-pool-8050101/ |
+| pexels |  | AP Vibes | Pexels License | https://www.pexels.com/video/close-up-of-rustic-wooden-door-with-metal-studs-36229321/ |
+| pexels |  | lam loi | Pexels License | https://www.pexels.com/video/a-woman-hands-grazing-the-concrete-wall-barrister-while-walking-3635371/ |
+| pexels |  | Magda Ehlers | Pexels License | https://www.pexels.com/video/artisan-weaving-on-traditional-loom-32655899/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/happy-couple-hugging-each-other-3704257/ |
+| pexels |  | Bethany Ferr | Pexels License | https://www.pexels.com/video/close-up-view-of-a-man-smiling-5181954/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-girl-smiling-7327402/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/mother-and-son-holding-each-other-hands-8550932/ |
+| pexels |  | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/cultural-iftar-gathering-with-sharing-bread-36587262/ |
+| pixabay | girl  hug  cheerful  gesture  cute  expression  face  finger | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-129420/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/shot-of-a-man-s-face-with-eyeglasses-7299502/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-7304307/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-close-up-of-a-man-s-eyes-5103564/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/grandfather-teaching-his-grandchildren-on-how-to-hammer-a-nail-7853960/ |
+| pexels |  | Kyle Trusky | Pexels License | https://www.pexels.com/video/close-up-brush-painting-fence-white-outdoors-39264139/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/wind-and-waves-854526/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-woman-grasping-a-laptop-approach-the-information-desk-3044654/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-receptionist-assisting-a-guest-7820469/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-talking-about-her-teeth-6192866/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/women-surprising-pregnant-friend-at-a-baby-shower-7799986/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-family-celebrating-a-birthday-6666640/ |
+| pexels |  | Alexander Mass | Pexels License | https://www.pexels.com/video/elegant-wedding-celebration-at-reception-dinner-34506427/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-cutting-a-frankfurter-5780425/ |
+| pexels |  | Rachel Claire | Pexels License | https://www.pexels.com/video/a-person-slicing-using-a-kitchen-knife-8714035/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-peron-placing-a-pillowcase-on-a-pillow-10555329/ |
