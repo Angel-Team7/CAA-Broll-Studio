@@ -1757,3 +1757,33 @@
 | pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/grass-field-during-golden-hour-4812009/ |
 | pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/masked-figure-walks-through-cornfield-at-sunset-32219497/ |
 | pexels |  | Rüveyda | Pexels License | https://www.pexels.com/video/a-person-walking-through-a-field-with-the-sun-setting-behind-them-20139157/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/brown-soil-in-the-basin-6160033/ |
+| pexels |  | vidya nath bharti | Pexels License | https://www.pexels.com/video/hands-kneading-dough-outdoors-in-green-buckets-39156244/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-view-of-woodchips-being-grounded-in-a-grinding-machine-6159968/ |
+| pixabay | restaurant  meal  lunch  spain  traditional  food  table  pl | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-910/ |
+| pixabay | meat  steak  grilled meat  beef  nutrition  marble  frying   | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-14241/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/dog-figurine-biting-a-gold-coin-8369905/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-pile-of-coins-on-a-wooden-surface-8369906/ |
+| pexels |  | Rafael Minguet Delgado | Pexels License | https://www.pexels.com/video/vibrant-cryptocurrency-coins-with-bokeh-lights-38919827/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/close-up-video-of-string-lights-5614403/ |
+| pexels |  | Arto Suraj | Pexels License | https://www.pexels.com/video/scenic-pathway-lined-with-lush-greenery-36958000/ |
+| pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/a-person-is-walking-through-the-dark-with-a-flashlight-18359612/ |
+| pixabay | drinking coffee  while enjoying the coffee  coffee  enjoy  m | kelvinreislavras | Pixabay Content License | https://pixabay.com/videos/id-31672/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-moving-it-s-hands-with-smoke-effect-6961964/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-hands-7581217/ |
+| pexels |  | azra melek | Pexels License | https://www.pexels.com/video/fresh-apricot-harvest-in-outdoor-orchard-38552421/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-carrying-a-basket-of-glass-bottles-8540477/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/woman-carrying-plants-in-baskets-13513921/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-man-steaming-milk-7171087/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-taking-a-customer-s-payment-at-a-cashier-6683953/ |
+| pexels |  | Orhan Pergel | Pexels License | https://www.pexels.com/video/two-women-are-standing-in-front-of-a-counter-with-a-tablet-26798535/ |
+| pixabay | chinese  hot pot  hot  pot  food  healthy  asian  meal  cook | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11700/ |
+| pixabay | pancake  wrap  food  snack  meal  lunch  cheese  breakfast   | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11670/ |
+| pixabay | discussion  restaurant  people  talk  communication  lunch   | Life-Of-Vids | Pixabay Content License | https://pixabay.com/videos/id-10878/ |
+| pexels |  | Melike | Pexels License | https://www.pexels.com/video/pouring-coffee-into-colorful-mugs-indoors-39457267/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-eating-while-working-in-the-workplace-3252146/ |
+| pexels |  | Alexander Suhorucov | Pexels License | https://www.pexels.com/video/two-women-drinking-coffee-6534146/ |
+| pexels |  | Bakshi Rahil | Pexels License | https://www.pexels.com/video/peaceful-walk-by-the-rice-fields-at-sunset-37822002/ |
+| pexels |  | Matthias Groeneveld | Pexels License | https://www.pexels.com/video/a-person-walking-down-a-dirt-road-at-sunset-17422809/ |
+| pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/serene-sunset-stroll-through-cornfield-32090695/ |
+| pexels |  | Aida Shukuhi | Pexels License | https://www.pexels.com/video/casual-dining-with-pizza-served-in-restaurant-32046327/ |
