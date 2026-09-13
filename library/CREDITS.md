@@ -1847,3 +1847,33 @@
 | pexels |  | Luis Quintero | Pexels License | https://www.pexels.com/video/knife-maker-workshop-5735107/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-sharpening-the-knife-6811292/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-person-sharpening-a-knife-using-a-honing-steel-8625865/ |
+| pexels |  | Lara Jameson | Pexels License | https://www.pexels.com/video/a-person-separating-recyclable-materials-9323702/ |
+| pixabay | cooking  wok  squid  kitchen  food  food preparation | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-1493/ |
+| pixabay | roulades  cook  wrap  beef  food  beef roulades  bacon  meat | jensb | Pixabay Content License | https://pixabay.com/videos/id-4352/ |
+| pexels |  | uhumrea D. | Pexels License | https://www.pexels.com/video/oriental-coffee-ritual-with-hand-and-mug-39431248/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/female-swimmer-looking-at-camera-6012393/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-diving-in-a-swimming-pool-6011929/ |
+| pexels |  | João  Pavese | Pexels License | https://www.pexels.com/video/women-seeding-plants-12201593/ |
+| pixabay | rice field  agriculture  farm  vietnam  hoian  danang  work  | Quankawa | Pixabay Content License | https://pixabay.com/videos/id-150950/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-metal-door-handles-7318017/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/barista-looking-at-the-camera-while-wearing-an-apron-8428462/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-man-making-coffee-7171097/ |
+| pixabay | mall  shopping  people  timelapse  shopping mall  shop  shop | SaigonJoe | Pixabay Content License | https://pixabay.com/videos/id-12513/ |
+| pexels |  | Gary  Barnes | Pexels License | https://www.pexels.com/video/couple-having-a-date-6248213/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/close-up-video-of-food-6305028/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-eating-6565155/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/a-man-putting-a-sea-shell-on-his-ear-9757053/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-woman-massaging-her-face-6961757/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-of-a-man-and-a-woman-9756925/ |
+| pexels |  | Papy Nounn | Pexels License | https://www.pexels.com/video/farm-life-holding-a-hen-in-the-countryside-34798888/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-walking-and-standing-on-grass-10648319/ |
+| pexels |  | Tomaž Rakovec | Pexels License | https://www.pexels.com/video/close-up-of-spider-web-on-wooden-fence-outdoors-34427377/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-and-woman-in-white-dresses-walking-down-a-hallway-18513383/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-drinking-whiskey-9198384/ |
+| pexels |  | Denys Gromov | Pexels License | https://www.pexels.com/video/waiter-serving-meal-to-the-customer-5223106/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-eating-cake-6718015/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/sommelier-pouring-the-wine-in-a-glass-8764590/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-tasting-a-glass-of-red-wine-8764778/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-chef-sharpening-a-knife-using-a-honing-steel-8626267/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-chef-holding-a-knife-8094254/ |
+| pexels |  | Elements Interactive | Pexels License | https://www.pexels.com/video/metal-polishing-with-grinding-wheel-close-up-37465966/ |
