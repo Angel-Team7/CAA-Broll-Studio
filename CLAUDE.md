@@ -47,6 +47,11 @@ Per clip: `id`, `type`, `source`, `src_id`, `page_url`, `download_url`, `preview
 ## Rules that are never broken
 1. **Never edit `selections/*.json` approvals.** Automation appends candidates and judge
    fields on cards; only a human ticks or unticks. Ticks are training data.
+   **A tick must never be lost and never move.** An approved clip stays on the card and on
+   the scene it was approved for, whatever else changes — culls, renumbers, re-gathers and
+   judge passes all skip it. After any operation that removes or renumbers clips, run
+   `python3 tools/recover_approvals.py --dry`; it restores approved footage to its own
+   scene by source id or page_url and reports anything it cannot find.
 2. **Never commit media.** Previews and thumbs go to Releases through
    `tools/release_media.py`; the cockpit reaches them through the media proxy.
 3. **Never change a slug.** Selections key on slugs. Titles may change.
