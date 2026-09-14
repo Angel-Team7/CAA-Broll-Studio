@@ -2057,3 +2057,33 @@
 | pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-farmstead-and-fields-32092698/ |
 | pexels |  | Kurt Tranås | Pexels License | https://www.pexels.com/video/midtsummers-night-part-4-14121171/ |
 | pexels |  | Gonzalo Garcia | Pexels License | https://www.pexels.com/video/elite-tactical-operators-in-action-outdoor-34055202/ |
+| pixabay | woman  model  swimming pool  girl  pool  summer  relaxation  | u_mg2kz3dw90 | Pixabay Content License | https://pixabay.com/videos/id-140022/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-touching-a-woman-s-face-10220168/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-girl-s-eye-7327410/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/whole-family-on-dining-table-waving-for-camera-5617143/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/smiling-young-couple-chatting-and-drinking-champagne-5365218/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-couple-touching-noses-8503159/ |
+| pexels |  | Grace Adinda | Pexels License | https://www.pexels.com/video/hujan-20699236/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/cozy-hotel-room-with-modern-decor-at-night-29456463/ |
+| pexels |  | Belén Montero | Pexels License | https://www.pexels.com/video/woman-reading-a-book-in-cozy-room-setting-36643092/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-in-white-long-sleeve-shirt-5988898/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/silhouette-of-a-man-looking-outside-5320198/ |
+| pexels |  | Michael Burrows | Pexels License | https://www.pexels.com/video/man-drinking-coffee-by-the-window-7118148/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-riding-a-garden-cart-while-pushing-by-his-grandfather-7844227/ |
+| pexels |  | Mika Mark | Pexels License | https://www.pexels.com/video/professional-tree-felling-with-chainsaw-in-autumn-34440198/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-little-boy-and-an-elderly-man-walking-in-the-forest-6133547/ |
+| pexels |  | Nicole Michalou | Pexels License | https://www.pexels.com/video/poring-red-wine-on-a-glass-5747357/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-pouring-white-wine-on-a-wine-glass-8764786/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/a-person-pouring-red-wine-4110423/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-fixing-her-bed-9058229/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/man-talking-on-the-phone-while-ironing-money-8715498/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-girl-house-apartment-4109308/ |
+| pexels |  | Julia M Cameron | Pexels License | https://www.pexels.com/video/family-talking-to-each-other-while-having-dinner-outdoors-8775774/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/lively-outdoor-cafe-with-people-enjoying-brunch-32937978/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-senior-people-making-a-toast-outdoors-5961959/ |
+| pexels |  | Volkan Yılmaz | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-large-orchard-19458324/ |
+| pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-farmland-and-houses-32092453/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/drone-footage-of-an-agricultural-land-9374404/ |
+| pexels |  | PNW Production | Pexels License | https://www.pexels.com/video/people-talking-each-other-in-jungle-7624698/ |
+| pexels |  | David Kanigan | Pexels License | https://www.pexels.com/video/spectacular-sunrise-over-tranquil-cove-37015099/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/volunteers-holding-missing-person-posters-10349948/ |
