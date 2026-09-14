@@ -2117,3 +2117,33 @@
 | pexels |  | QUADRO VIVO | Pexels License | https://www.pexels.com/video/plantacao-19599627/ |
 | pexels |  | Oskar Gross | Pexels License | https://www.pexels.com/video/idyllic-aerial-view-of-tuscany-countryside-36746045/ |
 | pexels |  | Samar L. | Pexels License | https://www.pexels.com/video/vibrant-college-campus-life-in-india-36878022/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-man-reading-a-book-in-a-dark-room-16820074/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-and-woman-dancing-in-a-kitchen-17904321/ |
+| pixabay | croissants  baking  kitchen  pastry  french  woman  preparat | Vimeo-Free-Videos | Pixabay Content License | https://pixabay.com/videos/id-1261/ |
+| pixabay | summer  field  harvest  combine  farmer  agriculture  work   | adamixx | Pixabay Content License | https://pixabay.com/videos/id-137851/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/apple-picking-on-the-orchard-trees-19666849/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/cutting-plants-with-chainsaw-12101701/ |
+| pixabay | man  moon  astronaut  earth view from the moon  apollo 11  a | UniverseUnique | Pixabay Content License | https://pixabay.com/videos/id-216035/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/pouring-champagne-in-a-champagne-glass-6289658/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-person-pouring-champagne-8684432/ |
+| pexels |  | Marian Croitoru | Pexels License | https://www.pexels.com/video/elegant-outdoor-wedding-reception-with-aperol-spritz-29956464/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/person-using-angle-grinder-6046351/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/detail-shot-of-a-mechanic-working-on-an-engine-7564885/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-lighting-a-palo-santo-6573599/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-sharing-food-6645758/ |
+| pexels |  | Oğuzhan Kara | Pexels License | https://www.pexels.com/video/chef-plating-gourmet-dish-in-professional-kitchen-39453091/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-eating-salmon-in-the-restaurant-7244294/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-picturesque-vineyard-in-australia-36746909/ |
+| pixabay | corn field  maize field  young corn  sprouting corn  planted | aerofotografialincoln | Pixabay Content License | https://pixabay.com/videos/id-313652/ |
+| pexels |  | Oskar Gross | Pexels License | https://www.pexels.com/video/aerial-view-of-italian-countryside-at-sunset-36730008/ |
+| pexels |  | Alex Moliski | Pexels License | https://www.pexels.com/video/exploring-grand-teton-national-park-34173456/ |
+| pexels |  | PNW Production | Pexels License | https://www.pexels.com/video/friends-on-a-hike-7624694/ |
+| pexels |  | utopia 36 | Pexels License | https://www.pexels.com/video/drone-video-of-people-getting-ready-for-an-off-road-race-14490844/ |
+| pexels |  | Oskar Gross | Pexels License | https://www.pexels.com/video/aerial-view-of-tuscan-countryside-villa-34350684/ |
+| pexels |  | Veysel Karani ÜNLÜSOY | Pexels License | https://www.pexels.com/video/breathtaking-aerial-view-of-yozgat-countryside-at-sunset-28724549/ |
+| pexels |  | Matheus Bertelli | Pexels License | https://www.pexels.com/video/house-in-village-13869651/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/a-group-of-people-walking-outside-a-building-7652287/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/happy-people-walking-on-grass-7551578/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-and-woman-checking-the-plants-6508703/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-shovel-is-digging-into-the-ground-with-dirt-20521982/ |
+| pexels |  | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/an-earthworm-burrowing-in-a-wet-compost-soil-3045868/ |
