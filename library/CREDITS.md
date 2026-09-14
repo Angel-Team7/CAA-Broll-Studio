@@ -2027,3 +2027,33 @@
 | pexels |  | K | Pexels License | https://www.pexels.com/video/aerial-view-of-green-trees-and-farm-fields-15437336/ |
 | pexels |  | Braeson Holland | Pexels License | https://www.pexels.com/video/drone-footage-of-farmland-8851166/ |
 | pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/dramatic-sunrise-on-snow-capped-volcanic-summit-30624848/ |
+| pixabay | sausage  sausages  meat products  food  kitchen  homemade sa | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-14147/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-two-men-smilling-4845018/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-talking-6963829/ |
+| pexels |  | Sasha Poberailo | Pexels License | https://www.pexels.com/video/close-up-of-a-young-woman-posing-15849839/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-man-and-woman-laughing-together-8684265/ |
+| pexels |  | Alexander Mass | Pexels License | https://www.pexels.com/video/joyful-wedding-exit-at-capela-da-paz-chapel-37690789/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-group-of-friends-having-conversation-8684475/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/man-reading-newspaper-in-cozy-indoor-setting-35172376/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/cozy-empty-cafe-at-night-29562989/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-young-man-and-woman-playing-guitar-in-a-room-17904248/ |
+| pexels |  | Arto Suraj | Pexels License | https://www.pexels.com/video/thoughtful-man-contemplating-urban-view-37453053/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/thoughtful-man-looking-out-a-window-34535508/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/close-up-video-of-a-man-looking-around-8906103/ |
+| pexels |  | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/man-clearing-leaves-with-machete-in-outdoor-setting-34223321/ |
+| pexels |  | William Adams | Pexels License | https://www.pexels.com/video/worker-wearing-blue-jeans-while-edging-a-driveway-with-a-gas-powered-stick-edger-27092790/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/back-view-of-a-child-walking-outdoors-3998667/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/pouring-red-wine-on-a-glass-6004993/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-pouring-sparkling-wine-in-a-champagne-glass-8764582/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/pouring-red-wine-in-a-glass-5666723/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/steam-iron-on-ironing-board-4474206/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-holding-a-steamer-9594991/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/setting-up-organic-coasters-for-a-photo-shoot-3755398/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961960/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/man-talking-while-holding-a-glass-5617294/ |
+| pexels |  | Kuiyibo Campos | Pexels License | https://www.pexels.com/video/group-enjoying-refreshing-drinks-and-tacos-outdoors-38969160/ |
+| pexels |  | Rudi Singh | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-green-farm-fields-34793791/ |
+| pexels |  | Volkan Yılmaz | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-field-with-trees-19539646/ |
+| pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-farmstead-and-fields-32092698/ |
+| pexels |  | Kurt Tranås | Pexels License | https://www.pexels.com/video/midtsummers-night-part-4-14121171/ |
+| pexels |  | Gonzalo Garcia | Pexels License | https://www.pexels.com/video/elite-tactical-operators-in-action-outdoor-34055202/ |
