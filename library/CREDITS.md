@@ -1967,3 +1967,33 @@
 | pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-cutting-a-frankfurter-5780425/ |
 | pexels |  | Rachel Claire | Pexels License | https://www.pexels.com/video/a-person-slicing-using-a-kitchen-knife-8714035/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-peron-placing-a-pillowcase-on-a-pillow-10555329/ |
+| pixabay | knife  sharp  utensils  cook  kitchen  restaurant | SergioParadox | Pixabay Content License | https://pixabay.com/videos/id-75267/ |
+| pixabay | meat  cook  kitchen  food  beef  a restaurant  nutrition  me | AlekseiyPovar | Pixabay Content License | https://pixabay.com/videos/id-14419/ |
+| pixabay | olive oil  kitchen  salt  oil  olive  health | danielcuzma | Pixabay Content License | https://pixabay.com/videos/id-143799/ |
+| pixabay | woman  bikini  swim  pool  holiday | isaaxxx | Pixabay Content License | https://pixabay.com/videos/id-134546/ |
+| pixabay | pool  infinity pool  relax  woman  turquoise  vacations  hap | Peggy_Marco | Pixabay Content License | https://pixabay.com/videos/id-40289/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/woman-entering-the-house-8517260/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/smoke-coming-out-of-a-wooden-grills-6961970/ |
+| pexels |  | Orhan Pergel | Pexels License | https://www.pexels.com/video/a-woman-standing-in-front-of-a-door-20671533/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-wearing-eyeglasses-8902251/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/video-of-a-girl-smiling-7330444/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/close-up-of-a-woman-smiling-at-the-camera-9489826/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/man-talking-in-front-of-a-food-gathering-5617273/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/man-and-woman-having-conversation-8684264/ |
+| pexels |  | Askar Abayev | Pexels License | https://www.pexels.com/video/a-happy-family-sitting-at-the-dining-table-5616717/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-s-face-8534963/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/a-man-s-ear-7298138/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/woman-with-make-up-7297394/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/silhouette-of-man-looking-out-window-at-sunset-34535507/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-sad-man-looking-at-the-picture-of-her-child-10473215/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/man-silhouette-in-serene-natural-wetland-landscape-34535517/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/leaving-keys-on-the-table-4513069/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/patient-paying-a-medic-service-6755012/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-woman-talking-to-the-receptionist-4264864/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/happy-couple-at-the-dining-table-6270174/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-bonding-over-food-6948948/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-happy-girl-receiving-her-birthday-present-7156936/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/a-person-holding-a-thread-8484886/ |
+| pexels |  | PinkWitch 诸葛筱暖 | Pexels License | https://www.pexels.com/video/a-person-ironing-clothes-9427283/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-steaming-a-white-t-shirt-10558373/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961383/ |
