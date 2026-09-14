@@ -111,6 +111,7 @@ async function loadProject(slug) {
   state.topup = sel.topup_requests || {};
   render();
   updateFinaliseBtn();
+  startWatch();
 }
 
 // Prefer GitHub selections when connected, else localStorage. Returns the full
@@ -203,17 +204,18 @@ function render() {
 // clips stay one click away so a late judge never hides footage from a reviewer.
 function visibleClips(sc, appr) {
   const all = sc.clips || [];
-  const isShown = c => appr.includes(c.id) || c.shown !== false;
+  // judged:false = just arrived, not ranked yet. Show it — the reviewer asked for it.
+  const isShown = c => appr.includes(c.id) || c.judged === false || c.shown !== false;
   const num = c => (c.rank !== undefined ? c.rank : 9999);
   const shown = all.filter(isShown).sort((a, b) => num(a) - num(b));
   const pending = all.filter(c => c.judged === false);
-  const hidden = all.filter(c => !isShown(c) && c.judged !== false);
+  const hidden = all.filter(c => !isShown(c));
   const open = state.reveal && state.reveal[sc.id];
   return { shown: open ? all.slice().sort((a, b) => num(a) - num(b)) : shown, pending, hidden, open };
 }
 function clipStatus(sc, v) {
   const bits = [];
-  if (v.pending.length) bits.push(`${v.pending.length} new candidate${v.pending.length > 1 ? "s" : ""} awaiting the judge`);
+  if (v.pending.length) bits.push(`${v.pending.length} new clip${v.pending.length > 1 ? "s" : ""} just in — shown below, ranking still to come`);
   if (v.hidden.length) bits.push(`${v.hidden.length} ranked below the top ten`);
   if (sc.judged_at) bits.push(`judged ${esc(String(sc.judged_at).slice(0, 16).replace("T", " "))}`);
   if (!bits.length) return "";
@@ -222,6 +224,77 @@ function clipStatus(sc, v) {
   return `<div class="clipstatus">${bits.join(" · ")}${link}</div>`;
 }
 function toggleReveal(sid) { state.reveal = state.reveal || {}; state.reveal[sid] = !state.reveal[sid]; render(); }
+
+// While a 🔎 / 🔁 request is out, keep checking the card and announce the moment the
+// clips land, so nobody is left staring at an unchanged page wondering if it worked.
+let watchTimer = null, watchSince = {};
+function sceneCounts(data) {
+  const m = {};
+  for (const s of (data.scenes || [])) m[s.id] = (s.clips || []).length;
+  return m;
+}
+function outstanding() {
+  return Object.keys(state.topup || {}).filter(sid => pendingReq(sid) || pendingReq(sid, "direction"));
+}
+function startWatch() {
+  clearTimeout(watchTimer);
+  if (!outstanding().length) { setWaitBanner(0); return; }
+  setWaitBanner(outstanding().length);
+  watchTimer = setTimeout(checkForArrivals, 20000);
+}
+async function checkForArrivals() {
+  const slug = state.slug;
+  try {
+    const fresh = await fetch(`projects/${slug}/scenes.json?v=${Date.now()}`, { cache: "no-store" }).then(r => r.json());
+    if (slug !== state.slug) return;
+    const before = sceneCounts(state.data), after = sceneCounts(fresh);
+    const grew = Object.keys(after).filter(id => (after[id] || 0) > (before[id] || 0));
+    if (grew.length) {
+      const n = grew.reduce((t, id) => t + (after[id] - before[id]), 0);
+      state.data = fresh;
+      // the bot marks the request done when it delivers; pick that up too
+      const sel = await loadSelections(slug).catch(() => null);
+      if (sel) { state.approved = sel.approved || state.approved; state.topup = sel.topup_requests || state.topup;
+                 state.reshoot = sel.needs_broll || state.reshoot; }
+      render();
+      announce(`${n} new clip${n > 1 ? "s" : ""} arrived for ${grew.join(", ")} — scroll down, they are on the card`);
+      grew.forEach(id => {
+        const el = document.querySelector(`.scene[data-scene="${id}"]`);
+        if (el) { el.classList.add("justlanded"); setTimeout(() => el.classList.remove("justlanded"), 12000); }
+      });
+    }
+  } catch (e) { /* offline or mid-deploy; try again on the next tick */ }
+  startWatch();
+}
+function setWaitBanner(n) {
+  let el = document.getElementById("waitbar");
+  if (!el) {
+    el = document.createElement("div"); el.id = "waitbar"; el.className = "waitbar";
+    document.body.appendChild(el);
+  }
+  el.hidden = !n;
+  if (n) el.innerHTML = `<span class="spin"></span> looking for ${n} new set${n > 1 ? "s" : ""} of B-roll — this page updates itself, you can keep working`;
+}
+// A toast can be missed. This stays until it is dismissed, and flashes the tab title.
+function announce(msg) {
+  let el = document.getElementById("arrived");
+  if (!el) {
+    el = document.createElement("div"); el.id = "arrived"; el.className = "arrived";
+    document.body.appendChild(el);
+  }
+  el.innerHTML = `<b>✅ New B-roll is in.</b> <span>${esc(msg)}</span>
+    <button class="linkbtn" id="arrived_x">dismiss</button>`;
+  el.hidden = false;
+  document.getElementById("arrived_x").onclick = () => { el.hidden = true; document.title = titleBase; };
+  try { new Audio("data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAgD4AAAB9AAACABAAZGF0YQAAAAA=").play().catch(()=>{}); } catch {}
+  let flash = 0;
+  clearInterval(announce._t);
+  announce._t = setInterval(() => {
+    document.title = (flash++ % 2) ? "🟢 New B-roll" : titleBase;
+    if (flash > 20) { clearInterval(announce._t); document.title = titleBase; }
+  }, 900);
+}
+const titleBase = document.title;
 
 let previewWarned = false;
 // A grid can hold 300 clips. A <video> per card is what turned Safari black once the
@@ -350,7 +423,7 @@ async function toggleReshoot(sid) {
   persistLocal(); render();
   if (gh && gh.token) {
     toast(`${sid}: finding a different direction…`);
-    try { await save(false, true); toast(`${sid}: 10 different options on the way (about 2 min)`); }
+    try { await save(false, true); toast(`${sid}: looking for 10 different options — the page will tell you when they land`); startWatch(); }
     catch (e) { toast(`${sid}: flagged, but saving failed — hit Save approvals`); }
   } else {
     toast(`${sid}: flagged — connect GitHub to send it`);
@@ -373,7 +446,7 @@ async function requestTopup(sid) {
   state.topup[sid] = { requested: new Date().toISOString(), note: "", done: false };
   persistLocal(); render();
   if (gh && gh.token) {
-    try { await save(false, true); toast(`${sid}: 10 more on the way (about 2 min)`); }
+    try { await save(false, true); toast(`${sid}: looking for 10 more — the page will tell you when they land`); startWatch(); }
     catch (e) { toast(`${sid}: queued, but saving failed — hit Save approvals`); }
   } else {
     toast(`${sid}: queued — connect GitHub to send it`);
