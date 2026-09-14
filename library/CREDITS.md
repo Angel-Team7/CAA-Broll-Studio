@@ -1997,3 +1997,33 @@
 | pexels |  | PinkWitch 诸葛筱暖 | Pexels License | https://www.pexels.com/video/a-person-ironing-clothes-9427283/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-person-steaming-a-white-t-shirt-10558373/ |
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/elegant-senior-people-having-meal-outdoors-5961383/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/a-shadow-of-a-moving-hand-8517520/ |
+| pexels |  | Orhan Pergel | Pexels License | https://www.pexels.com/video/a-window-in-a-room-with-a-wooden-door-20671532/ |
+| pexels |  | Josh Tavernier | iCapture Media Digital Marketing Agency | Pexels License | https://www.pexels.com/video/woman-smiling-by-plant-10238034/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/beach-couple-waves-portrait-4918069/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-shot-of-two-little-girls-whispering-and-laughing-in-a-park-10653575/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/girls-hanging-out-at-night-7645744/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-drinking-wine-while-on-the-table-6961518/ |
+| pexels |  | Coverr | Pexels License | https://www.pexels.com/video/blurry-footage-of-people-in-a-party-854010/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-man-sitting-at-a-table-writing-on-a-piece-of-paper-17661963/ |
+| pexels |  | diego florit | Pexels License | https://www.pexels.com/video/empty-colorful-classroom-with-educational-posters-29809709/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-woman-is-standing-in-front-of-a-mirror-17850955/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/silhouette-of-man-looking-out-window-countryside-view-34535502/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/close-up-video-of-an-elderly-man-8872087/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/contemplative-man-walking-in-sunlit-field-34374524/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/patient-in-a-reception-of-a-clinic-6755024/ |
+| pixabay | money  man  key  dollar  to buy  count  stack  rich  days we | RoyBuri | Pixabay Content License | https://pixabay.com/videos/id-109146/ |
+| pexels |  | Zuzanna Musial | Pexels License | https://www.pexels.com/video/nature-video-of-green-leaves-1207785/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-friends-hagging-out-in-dining-table-6289662/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-talking-while-at-the-dining-area-6948940/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-family-gathering-in-a-dining-table-showing-love-and-care-among-each-other-3198222/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-teenager-holding-a-flat-iron-sticking-on-a-cloth-7705261/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-man-using-a-steamer-on-a-white-t-shirt-10558367/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-girl-house-apartment-4109319/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-handshake-with-each-other-8764338/ |
+| pexels |  | Kuiyibo Campos | Pexels License | https://www.pexels.com/video/joyful-friends-dining-outdoors-at-a-cafe-39030467/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-eating-5794590/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/the-aerial-view-of-a-farm-with-a-large-house-and-a-pond-20800488/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/aerial-view-of-green-trees-and-farm-fields-15437336/ |
+| pexels |  | Braeson Holland | Pexels License | https://www.pexels.com/video/drone-footage-of-farmland-8851166/ |
+| pexels |  | Florian Delée | Pexels License | https://www.pexels.com/video/dramatic-sunrise-on-snow-capped-volcanic-summit-30624848/ |
