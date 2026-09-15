@@ -42,7 +42,7 @@
      "shoot": "pexels-van-crew-a",
      "score": 2.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 12
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S01-V01",
@@ -64,7 +64,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:46:44Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 4,
      "caption": "a cleaning crew unloads equipment from a van",
@@ -72,7 +72,7 @@
      "shoot": "pexels-van-crew-a",
      "score": 3.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 8
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S01-V02",
@@ -102,7 +102,7 @@
      "shoot": "pexels-family-garden",
      "score": 2.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 13
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S01-V03",
@@ -132,7 +132,7 @@
      "shoot": "pexels-radio-handoff-crew",
      "score": 4.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 3
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S01-V04",
@@ -162,7 +162,7 @@
      "shoot": "pexels-van-crew-b",
      "score": 2.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 14
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S01-V05",
@@ -184,7 +184,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:47:10Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 4,
      "caption": "two women repot houseplants together on a rooftop",
@@ -192,7 +192,7 @@
      "shoot": "pexels-rooftop-potting",
      "score": 3.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 9
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S01-V06",
@@ -222,7 +222,7 @@
      "shoot": "pexels-radio-handoff-crew",
      "score": 4.25,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 5
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S01-V07",
@@ -252,7 +252,7 @@
      "shoot": "pexels-sunflower-farm-planting",
      "score": 6.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 1
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S01-V08",
@@ -282,7 +282,7 @@
      "shoot": "pexels-greenhouse-chat",
      "score": 5.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 2
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S01-V09",
@@ -312,7 +312,7 @@
      "shoot": "pexels-timber-house-repair",
      "score": 4.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 4
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S01-V10",
@@ -334,7 +334,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:47:41Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 4,
      "caption": "two workers stand close together beside a wheelbarrow at a build site",
@@ -342,7 +342,7 @@
      "shoot": "pexels-timber-house-repair",
      "score": 2.7,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 10
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S01-V11",
@@ -372,7 +372,7 @@
      "shoot": "pexels-warehouse-crew",
      "score": 1.0,
      "judged_at": "2026-09-15T14:16:45Z",
-     "rank": 20
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S01-V12",
@@ -394,7 +394,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:47:56Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 2,
      "caption": "two engineers in hardhats talk on an urban high-rise site",
@@ -402,7 +402,7 @@
      "shoot": "pexels-highrise-site",
      "score": 2.65,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 11
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S01-V13",
@@ -432,7 +432,7 @@
      "shoot": "pexels-wall-crew",
      "score": 1.3,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 19
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S01-V14",
@@ -462,7 +462,7 @@
      "shoot": "pexels-paver-solo",
      "score": 3.4,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 6
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S01-V15",
@@ -492,7 +492,7 @@
      "shoot": "pexels-road-crew",
      "score": 2.0,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 17
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S01-V16",
@@ -522,7 +522,7 @@
      "shoot": "",
      "score": 2.05,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 16
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S01-V17",
@@ -552,7 +552,7 @@
      "shoot": "",
      "score": 2.35,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 15
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S01-V18",
@@ -582,7 +582,7 @@
      "shoot": "",
      "score": 0.0,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 21
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S01-V19",
@@ -612,7 +612,7 @@
      "shoot": "",
      "score": 1.7,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 18
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S01-V20",
@@ -642,7 +642,7 @@
      "shoot": "",
      "score": 0.0,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 22
+     "rank": 37
     },
     {
      "id": "edenrise-speed-of-trust-S01-V21",
@@ -672,7 +672,7 @@
      "shoot": "pexels-paver-solo",
      "score": 3.4,
      "judged_at": "2026-09-15T14:11:15Z",
-     "rank": 7
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S01-V22",
@@ -686,15 +686,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V22.strip.jpg",
      "title": "construction workers using shovels and wheelbarrow",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 47,
      "src_id": "5434222",
      "download_url": "https://videos.pexels.com/video-files/5434222/5434222-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:03:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "Crew shovels dirt and pushes a loaded wheelbarrow at a construction site",
+     "violation": "crowd of workers doing the same manual task at a heavy construction site",
+     "shoot": "pexels-construction-site-rebar",
+     "score": 1.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S01-V23",
@@ -708,15 +716,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V23.strip.jpg",
      "title": "a man and a woman working while eating at a cafe",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 16,
      "src_id": "5977265",
      "download_url": "https://videos.pexels.com/video-files/5977265/5977265-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Two colleagues in business wear work on laptops at a cafe table",
+     "violation": "office attire and laptops",
+     "shoot": "pexels-cafe-laptops-suits",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S01-V24",
@@ -730,15 +746,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V24.strip.jpg",
      "title": "man working warehouse talking",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "4293956",
      "download_url": "https://videos.pexels.com/video-files/4293956/4293956-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "Two warehouse workers carry a box down a storage aisle",
+     "violation": "factory-like warehouse setting",
+     "shoot": "pexels-warehouse-boxes",
+     "score": 2.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S01-V25",
@@ -752,15 +776,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V25.strip.jpg",
      "title": "a man handing out cleaning equipment to his co worker",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "A",
      "duration": 31,
      "src_id": "6195151",
      "download_url": "https://videos.pexels.com/video-files/6195151/6195151-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "Worker in coveralls hands equipment to a coworker beside a van",
+     "violation": "",
+     "shoot": "pexels-driveway-van-coveralls",
+     "score": 5.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S01-V26",
@@ -774,15 +806,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V26.strip.jpg",
      "title": "close up video of people talking",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "4991863",
      "download_url": "https://videos.pexels.com/video-files/4991863/4991863-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Two people in business collars talk in extreme close-up",
+     "violation": "business suit attire",
+     "shoot": "pexels-closeup-suits",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S01-V27",
@@ -796,15 +836,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V27.strip.jpg",
      "title": "men having a conversation while eating",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 6,
      "src_id": "4296844",
      "download_url": "https://videos.pexels.com/video-files/4296844/4296844-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "Two men in casual clothes chat and eat on a balcony",
+     "violation": "",
+     "shoot": "pexels-balcony-eating",
+     "score": 2.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S01-V28",
@@ -818,15 +866,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V28.strip.jpg",
      "title": "men talking to each other",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "4168109",
      "download_url": "https://videos.pexels.com/video-files/4168109/4168109-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "Two men talk beside parked cars in a lot",
+     "violation": "",
+     "shoot": "pexels-parking-lot-talk",
+     "score": 2.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S01-V29",
@@ -840,15 +896,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V29.strip.jpg",
      "title": "close up video of a woman talking to a person",
      "query": "two workers talking outdoors",
-     "shot": "D",
+     "shot": "",
      "duration": 19,
      "src_id": "8943559",
      "download_url": "https://videos.pexels.com/video-files/8943559/8943559-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "A paramedic in uniform talks near an ambulance",
+     "violation": "",
+     "shoot": "pexels-ambulance-paramedic",
+     "score": 2.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S01-V30",
@@ -862,15 +926,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V30.strip.jpg",
      "title": "a woman going up the stairs while carrying a toolbox",
      "query": "worker holding ladder",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "8487664",
      "download_url": "https://videos.pexels.com/video-files/8487664/8487664-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Worker in hi-vis vest and hardhat climbs an exterior stairway",
+     "violation": "",
+     "shoot": "pexels-rooftop-hivis",
+     "score": 2.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S01-V31",
@@ -884,15 +956,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V31.strip.jpg",
      "title": "people carrying a small plant",
      "query": "gardeners working together",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "8543981",
      "download_url": "https://videos.pexels.com/video-files/8543981/8543981-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "Stacked hands hold a small potted plant in a studio",
+     "violation": "",
+     "shoot": "pexels-studio-hands-plant",
+     "score": 1.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S01-V32",
@@ -913,8 +993,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:04:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 9,
+     "caption": "Older man kneels planting vegetables in a garden bed",
+     "violation": "",
+     "shoot": "pexels-garden-picket-fence",
+     "score": 7.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 1
     },
     {
      "id": "edenrise-speed-of-trust-S01-V33",
@@ -928,15 +1016,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V33.strip.jpg",
      "title": "woman using her smartphone while above a ladder",
      "query": "worker holding ladder",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "7112846",
      "download_url": "https://videos.pexels.com/video-files/7112846/7112846-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:05:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "Woman on a ladder checks her phone by a graffiti wall",
+     "violation": "",
+     "shoot": "pexels-ladder-graffiti-phone",
+     "score": 2.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S01-V34",
@@ -950,15 +1046,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V34.strip.jpg",
      "title": "man posing and looking at camrea while the couples are talking",
      "query": "worker holding ladder",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "7647254",
      "download_url": "https://videos.pexels.com/video-files/7647254/7647254-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:05:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Man in a suit stands in a hallway near a wooden ladder",
+     "violation": "suit and tie",
+     "shoot": "pexels-suit-hallway-ladder",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S01-V35",
@@ -972,15 +1076,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S01__strip__edenrise-speed-of-trust-S01-V35.strip.jpg",
      "title": "gardener digging in the garden patch",
      "query": "gardeners working together",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "37019468",
      "download_url": "https://videos.pexels.com/video-files/37019468/15684890_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:05:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "Hands prune small plants in garden soil close up",
+     "violation": "",
+     "shoot": "pexels-macro-pruning-hands",
+     "score": 5.4,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S01-V36",
@@ -1001,8 +1113,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:05:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "Worker climbs a red ladder amid loose wiring indoors",
+     "violation": "",
+     "shoot": "pixabay-ladder-wiring-repair",
+     "score": 3.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 9
     }
    ],
    "shots": [
@@ -1044,12 +1164,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-15T14:16:45Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-15T14:16:45Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S02",
@@ -1114,7 +1229,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:49:21Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 3,
      "caption": "a worker unloads a vacuum cleaner from a van",
@@ -1122,7 +1237,7 @@
      "shoot": "pexels-van-crew-a",
      "score": 1.7,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 9
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S02-V02",
@@ -1182,7 +1297,7 @@
      "shoot": "pexels-dark-garage",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 15
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S02-V04",
@@ -1212,7 +1327,7 @@
      "shoot": "pexels-dark-garage",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 16
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S02-V05",
@@ -1242,7 +1357,7 @@
      "shoot": "pexels-toolbox-mechanic",
      "score": 2.0,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 7
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S02-V06",
@@ -1272,7 +1387,7 @@
      "shoot": "pexels-crane-stare",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 17
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S02-V07",
@@ -1302,7 +1417,7 @@
      "shoot": "pexels-camo-workshop",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 18
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S02-V08",
@@ -1332,7 +1447,7 @@
      "shoot": "pexels-drift-cars",
      "score": 0.0,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 22
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S02-V09",
@@ -1392,7 +1507,7 @@
      "shoot": "pexels-steel-plant-aerial",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 19
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S02-V11",
@@ -1422,7 +1537,7 @@
      "shoot": "pexels-plant-lounge",
      "score": 2.0,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 8
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S02-V12",
@@ -1452,7 +1567,7 @@
      "shoot": "pexels-boardroom-suits",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 20
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S02-V13",
@@ -1482,7 +1597,7 @@
      "shoot": "pexels-office-desk",
      "score": 0.65,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 21
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S02-V14",
@@ -1504,7 +1619,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:50:53Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 3,
      "caption": "aerial view of a tractor working a large farm field",
@@ -1512,7 +1627,7 @@
      "shoot": "pexels-tractor-aerial",
      "score": 1.7,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 10
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S02-V15",
@@ -1542,7 +1657,7 @@
      "shoot": "pixabay-chainsaw-log",
      "score": 2.4,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 6
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S02-V16",
@@ -1572,7 +1687,7 @@
      "shoot": "pixabay-lathe-wood",
      "score": 2.75,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 5
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S02-V17",
@@ -1602,7 +1717,7 @@
      "shoot": "pixabay-chainsaw-workshop",
      "score": 1.7,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 11
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S02-V18",
@@ -1632,7 +1747,7 @@
      "shoot": "pixabay-chainsaw-workshop",
      "score": 1.7,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 12
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S02-V19",
@@ -1662,7 +1777,7 @@
      "shoot": "pixabay-drill-press",
      "score": 1.35,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 14
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S02-V20",
@@ -1722,7 +1837,7 @@
      "shoot": "pixabay-chainsaw-workshop",
      "score": 1.7,
      "judged_at": "2026-09-15T14:13:26Z",
-     "rank": 13
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S02-V22",
@@ -1736,15 +1851,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V22.strip.jpg",
      "title": "walk  slow  legs  feet  shoes  trainers  pants  trousers  walking  alone  peaceful  stroll  saunter  dark  black background  walking away  leaving  lonely  single  past  romance  love  broken heart",
      "query": "worker walking away",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "47129",
      "download_url": "https://cdn.pixabay.com/video/2020/08/14/47129-450995499_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:05:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "A person's legs walk away in dim light",
+     "violation": "",
+     "shoot": "pixabay-legs-walk-dark",
+     "score": 3.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S02-V23",
@@ -1758,15 +1881,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V23.strip.jpg",
      "title": "men having a conversation while at work",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "4293960",
      "download_url": "https://videos.pexels.com/video-files/4293960/4293960-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Uniformed workers carry boxes through a warehouse aisle",
+     "violation": "factory/warehouse setting, crowd doing the same manual task",
+     "shoot": "pexels-warehouse-workers",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S02-V25",
@@ -1780,15 +1911,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V25.strip.jpg",
      "title": "a man giving the middle finger",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 7,
      "src_id": "10373988",
      "download_url": "https://videos.pexels.com/video-files/10373988/10373988-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Man in a dress shirt gestures in a bright office",
+     "violation": "office with visible computer monitors",
+     "shoot": "pexels-office-tie-guy",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S02-V26",
@@ -1802,15 +1941,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V26.strip.jpg",
      "title": "woman removing hair stick from bun",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "6257873",
      "download_url": "https://videos.pexels.com/video-files/6257873/6257873-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "Woman adjusts her hair outside a shopfront window",
+     "violation": "",
+     "shoot": "pexels-hairfix-street",
+     "score": 2.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S02-V27",
@@ -1824,15 +1971,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V27.strip.jpg",
      "title": "two women in red blazers talking while on an elevator",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 24,
      "src_id": "3045075",
      "download_url": "https://videos.pexels.com/video-files/3045075/3045075-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Two women in red blazers talk on an escalator",
+     "violation": "suits/corporate blazers in a glass office lobby",
+     "shoot": "pexels-redblazer-escalator",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S02-V28",
@@ -1846,15 +2001,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V28.strip.jpg",
      "title": "a construction worker entering a building basement",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "5434217",
      "download_url": "https://videos.pexels.com/video-files/5434217/5434217-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Worker in a vest and hard hat stands behind a fence",
+     "violation": "gangster signifier: subject shown behind a chain-link fence",
+     "shoot": "pexels-construction-fence",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S02-V29",
@@ -1868,15 +2031,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V29.strip.jpg",
      "title": "video of a man walking away",
      "query": "worker walking away frustrated",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "7038135",
      "download_url": "https://videos.pexels.com/video-files/7038135/7038135-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Man in a blue hoodie walks alone across snow",
+     "violation": "gangster signifier: hoodie; wrong world (empty snow field)",
+     "shoot": "pexels-hoodie-snowfield",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S02-V30",
@@ -1890,15 +2061,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust/S02__strip__edenrise-speed-of-trust-S02-V30.strip.jpg",
      "title": "traffic  london  england  left side driving  city  urban  uk  british  taxi  cars",
      "query": "tools left ground",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "21438",
      "download_url": "https://cdn.pixabay.com/video/2019/02/15/21438-317457608_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:06:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "Traffic and pedestrians move through a city street",
+     "violation": "",
+     "shoot": "pixabay-london-traffic",
+     "score": 0.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S02-V31",
@@ -1912,15 +2091,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V31.strip.jpg",
      "title": "cologne  rhine  crane house  shipping  barge  freight transport  excursion steamer  oncoming traffic  kai  waterway  traffic  concept  container ship  rhine shipping  facade  in the opposite direction  from left to right  right-to-left",
      "query": "tools left ground",
-     "shot": "C",
+     "shot": "",
      "duration": 57,
      "src_id": "8818",
      "download_url": "https://cdn.pixabay.com/video/2017/04/22/8818-215588811_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "A barge passes beneath a glass riverside building",
+     "violation": "",
+     "shoot": "pixabay-cologne-barge",
+     "score": 0.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S02-V32",
@@ -1934,15 +2121,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V32.strip.jpg",
      "title": "confetti  confetti from left  trending confetti  celebration  fun  colorful  colorful confetti  party  party poppers  birthday poppers  colorful party poppers  overlay video  overlay poppers",
      "query": "tools left ground",
-     "shot": "C",
+     "shot": "",
      "duration": 6,
      "src_id": "121984",
      "download_url": "https://cdn.pixabay.com/video/2022/06/24/121984-724732207_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Colorful confetti falls against a black background",
+     "violation": "abstract graphic effect, no real-world scene",
+     "shoot": "pixabay-confetti",
+     "score": 0.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S02-V33",
@@ -1956,15 +2151,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V33.strip.jpg",
      "title": "coffee  espresso  coffee beans  beans  cup  datailaufnahme  portafilter  coffee ground  ground coffee  ground  porcelain  drink  composing  aroma  make coffee  coffee machine  italian coffee  caffeine  making coffee  metallic espresso  preparation  barista",
      "query": "tools left ground",
-     "shot": "C",
+     "shot": "",
      "duration": 28,
      "src_id": "15483",
      "download_url": "https://cdn.pixabay.com/video/2018/04/08/15483-264671695_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Espresso pours from a machine into a cup",
+     "violation": "",
+     "shoot": "pixabay-coffee-espresso",
+     "score": 1.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S02-V34",
@@ -1978,15 +2181,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V34.strip.jpg",
      "title": "tomato sauce  ground beef  pasta  spaghetti  bolognese sauce",
      "query": "tools left ground",
-     "shot": "C",
+     "shot": "",
      "duration": 13,
      "src_id": "4658",
      "download_url": "https://cdn.pixabay.com/video/2016/08/20/4658-179633575_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "Tomato sauce simmers with ground beef in a pan",
+     "violation": "",
+     "shoot": "pixabay-bolognese-pasta",
+     "score": 1.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S02-V35",
@@ -2000,15 +2211,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V35.strip.jpg",
      "title": "system  web  news  people  characters  network  connection  connected  with each other  together  agreement  action  allies  work  asia  effort  reviews  relationship  bookmarks  brotherhood  for this  democratization  service  digital  outdoors  i  you  an equal  impression  impressions  recommendations  relaxation  experience  recovery  facebook  free  friends  friendly  friendship  peace  community  community work  cooperative  global  globalization  group  information  interaction  internet  collaboration  collegial  comments  communication  consumer  cooperate  coorparative  team  mass media  media  opinion  opinions  work with  networks  users  organization  in partnership  person  platform  project  social  game  teamwork  twitter  compatible  united  promise  diversity  wiki  wikis  weather  knowledge  www",
      "query": "people ignoring each other",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "697",
      "download_url": "https://cdn.pixabay.com/video/2015/09/06/697-138443977_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "Face icons connect across a blue network graphic",
+     "violation": "abstract/cartoon-like motion graphic, no real-world scene",
+     "shoot": "pixabay-network-faces",
+     "score": 0.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S02-V36",
@@ -2022,15 +2241,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S02__strip__edenrise-speed-of-trust-S02-V36.strip.jpg",
      "title": "seoul  street  traffic  cars  speed  motorcycle  people  movement",
      "query": "people ignoring each other",
-     "shot": "B",
+     "shot": "",
      "duration": 6,
      "src_id": "21115",
      "download_url": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "Blurred pedestrians cross a busy city intersection",
+     "violation": "",
+     "shoot": "pixabay-seoul-crosswalk",
+     "score": 1.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 17
     }
    ],
    "shots": [
@@ -2073,10 +2300,10 @@
    "shots_at": "2026-09-15T13:45:33Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-15T14:13:26Z",
+    "at": "2026-09-15T15:22:31Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T14:13:26Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S03",
@@ -2826,7 +3053,7 @@
      "shoot": "pexels-keyboard-hands",
      "score": 1.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 10
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S04-V02",
@@ -2856,7 +3083,7 @@
      "shoot": "pexels-hand-stack-wood",
      "score": 3.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 3
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S04-V03",
@@ -2886,7 +3113,7 @@
      "shoot": "pexels-puzzle-hands",
      "score": 1.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 7
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S04-V04",
@@ -2916,7 +3143,7 @@
      "shoot": "pexels-office-laptop-pair-a",
      "score": 0.65,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 14
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S04-V05",
@@ -2946,7 +3173,7 @@
      "shoot": "pexels-hand-touch-studio",
      "score": 2.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 5
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S04-V06",
@@ -2976,7 +3203,7 @@
      "shoot": "pexels-office-laptop-pair-b",
      "score": 0.65,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 15
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S04-V07",
@@ -3006,7 +3233,7 @@
      "shoot": "pexels-laptop-pair-plants",
      "score": 1.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 11
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S04-V08",
@@ -3036,7 +3263,7 @@
      "shoot": "pexels-laptop-lounge-pair",
      "score": 1.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 12
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S04-V09",
@@ -3066,7 +3293,7 @@
      "shoot": "pexels-suit-laptop-outdoor",
      "score": 0.65,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 16
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S04-V10",
@@ -3096,7 +3323,7 @@
      "shoot": "pexels-fabric-cutting",
      "score": 2.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 6
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S04-V11",
@@ -3126,7 +3353,7 @@
      "shoot": "pexels-office-explain",
      "score": 0.65,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 17
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S04-V12",
@@ -3156,7 +3383,7 @@
      "shoot": "pexels-hand-reach-studio",
      "score": 2.65,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 4
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S04-V13",
@@ -3186,7 +3413,7 @@
      "shoot": "pexels-hand-stack-office",
      "score": 1.3,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 9
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S04-V14",
@@ -3216,7 +3443,7 @@
      "shoot": "pixabay-puzzle-child",
      "score": 1.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 8
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S04-V15",
@@ -3246,7 +3473,7 @@
      "shoot": "pixabay-glassboard",
      "score": 0.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 20
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S04-V16",
@@ -3276,7 +3503,7 @@
      "shoot": "pixabay-construction-aerial",
      "score": 0.7,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 13
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S04-V17",
@@ -3306,7 +3533,7 @@
      "shoot": "pixabay-city-night",
      "score": 0.0,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 21
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S04-V18",
@@ -3336,7 +3563,7 @@
      "shoot": "pixabay-watering-can",
      "score": 4.75,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 2
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S04-V19",
@@ -3366,7 +3593,7 @@
      "shoot": "pixabay-walkway-abstract",
      "score": 0.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 18
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S04-V21",
@@ -3396,7 +3623,7 @@
      "shoot": "pixabay-library-study",
      "score": 0.35,
      "judged_at": "2026-09-15T14:18:11Z",
-     "rank": 19
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S04-V22",
@@ -3410,15 +3637,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V22.strip.jpg",
      "title": "close up video of a person cutting the wood",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 27,
      "src_id": "8818344",
      "download_url": "https://videos.pexels.com/video-files/8818344/8818344-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 8,
+     "caption": "Hands guide a saw cutting wood as two others work behind",
+     "violation": "",
+     "shoot": "pexels-carpentry-timber-build",
+     "score": 5.4,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S04-V23",
@@ -3432,15 +3667,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V23.strip.jpg",
      "title": "group of people discussing project close up",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "5923505",
      "download_url": "https://videos.pexels.com/video-files/5923505/5923505-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:07:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "Hands point at colorful printed charts spread on a table",
+     "violation": "",
+     "shoot": "pexels-handson-charts-table",
+     "score": 3.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S04-V24",
@@ -3461,8 +3704,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "Hands sketch together on paper beside an open laptop",
+     "violation": "laptop open on the desk",
+     "shoot": "pexels-overhead-sketch-laptop",
+     "score": 4.55,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S04-V25",
@@ -3476,15 +3727,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V25.strip.jpg",
      "title": "a guy shaking hands with a woman while looking at the tablet",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "5941103",
      "download_url": "https://videos.pexels.com/video-files/5941103/5941103-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "Man and woman shake hands holding a tablet in an office",
+     "violation": "office interior with glass partitions",
+     "shoot": "pexels-office-handshake-tablet",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S04-V26",
@@ -3498,15 +3757,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V26.strip.jpg",
      "title": "a man teaching his team",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 12,
      "src_id": "4628736",
      "download_url": "https://videos.pexels.com/video-files/4628736/4628736-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Man presents a color chart to a colleague in an office",
+     "violation": "office with flipchart easel",
+     "shoot": "pexels-office-presentation",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S04-V27",
@@ -3520,15 +3787,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V27.strip.jpg",
      "title": "colleagues celebrating and stacking hands",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 13,
      "src_id": "3256548",
      "download_url": "https://videos.pexels.com/video-files/3256548/3256548-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "Group stacks hands together in a huddle indoors",
+     "violation": "",
+     "shoot": "pexels-huddle-handstack-indoor",
+     "score": 3.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S04-V28",
@@ -3542,15 +3817,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V28.strip.jpg",
      "title": "man and woman holding each others hand",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "6646707",
      "download_url": "https://videos.pexels.com/video-files/6646707/6646707-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "Two people clasp hands, one wearing a volunteer t-shirt",
+     "violation": "",
+     "shoot": "pexels-volunteer-handhold",
+     "score": 5.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S04-V29",
@@ -3564,15 +3847,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V29.strip.jpg",
      "title": "group of people stacking hands together",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "6192771",
      "download_url": "https://videos.pexels.com/video-files/6192771/6192771-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "Close-up of several hands stacked together against a plain wall",
+     "violation": "",
+     "shoot": "pexels-handstack-closeup-plain",
+     "score": 3.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S04-V30",
@@ -3586,15 +3877,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V30.strip.jpg",
      "title": "traditional straw crafting in nepalese village",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 26,
      "src_id": "38976793",
      "download_url": "https://videos.pexels.com/video-files/38976793/16581939_1922_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "Elderly man crafts straw by hand as others look on",
+     "violation": "",
+     "shoot": "pexels-village-strawcraft",
+     "score": 3.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S04-V31",
@@ -3608,15 +3907,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V31.strip.jpg",
      "title": "colleagues discussing",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "7660493",
      "download_url": "https://videos.pexels.com/video-files/7660493/7660493-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "Man and woman stand talking while holding a tablet indoors",
+     "violation": "modern office/lobby interior",
+     "shoot": "pexels-office-tablet-discuss",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S04-V32",
@@ -3630,15 +3937,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V32.strip.jpg",
      "title": "men working together",
      "query": "hands working together",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "5285698",
      "download_url": "https://videos.pexels.com/video-files/5285698/5285698-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "Man looks down typing on a laptop at a desk",
+     "violation": "laptop at desk",
+     "shoot": "pexels-desk-laptop-typing",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S04-V33",
@@ -3652,15 +3967,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V33.strip.jpg",
      "title": "man talking to women",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "8632593",
      "download_url": "https://videos.pexels.com/video-files/8632593/8632593-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:08:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Man in glasses talks near a monitor with a sticky note",
+     "violation": "office desk with sticky note",
+     "shoot": "pexels-office-standingdesk",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S04-V34",
@@ -3674,15 +3997,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V34.strip.jpg",
      "title": "people discussing while writing on a glass",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "6913272",
      "download_url": "https://videos.pexels.com/video-files/6913272/6913272-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Three colleagues discuss beside a whiteboard covered in notes",
+     "violation": "whiteboard meeting room",
+     "shoot": "pexels-office-whiteboard-group",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S04-V35",
@@ -3696,15 +4027,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S04__strip__edenrise-speed-of-trust-S04-V35.strip.jpg",
      "title": "male at work reporting",
      "query": "worker pointing showing colleague",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "6561565",
      "download_url": "https://videos.pexels.com/video-files/6561565/6561565-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "Colleagues point at a chart on a large screen indoors",
+     "violation": "boardroom screen with laptop",
+     "shoot": "pexels-boardroom-screen-chart",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 23
     }
    ],
    "shots": [
@@ -3747,10 +4086,10 @@
    "shots_at": "2026-09-15T13:45:33Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-09-15T14:18:11Z",
+    "at": "2026-09-15T15:22:31Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T14:18:11Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S05",
@@ -3823,7 +4162,7 @@
      "shoot": "pexels-blue-mood-face",
      "score": 2.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 11
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S05-V02",
@@ -3853,7 +4192,7 @@
      "shoot": "pexels-neutral-face-a",
      "score": 4.35,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 6
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S05-V03",
@@ -3883,7 +4222,7 @@
      "shoot": "pexels-blue-mood-face",
      "score": 2.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 12
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S05-V04",
@@ -3913,7 +4252,7 @@
      "shoot": "pexels-workshop-man",
      "score": 3.35,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 7
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S05-V05",
@@ -3943,7 +4282,7 @@
      "shoot": "pexels-office-stress",
      "score": 1.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 19
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S05-V06",
@@ -3973,7 +4312,7 @@
      "shoot": "pexels-blue-mood-face",
      "score": 2.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 13
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S05-V07",
@@ -4003,7 +4342,7 @@
      "shoot": "pexels-blue-mood-face",
      "score": 2.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 14
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S05-V08",
@@ -4033,7 +4372,7 @@
      "shoot": "pexels-woman-carpenter-build",
      "score": 5.4,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 2
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S05-V09",
@@ -4055,7 +4394,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:58:00Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 4,
      "caption": "close-up of a wall clock's hands sweeping past three o'clock",
@@ -4063,7 +4402,7 @@
      "shoot": "pexels-clock-a",
      "score": 2.7,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 9
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S05-V10",
@@ -4093,7 +4432,7 @@
      "shoot": "pexels-carpentry-workshop",
      "score": 4.4,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 3
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S05-V11",
@@ -4115,7 +4454,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:58:12Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 4,
      "caption": "close-up of a wall clock's hands nearing twelve",
@@ -4123,7 +4462,7 @@
      "shoot": "pexels-clock-b",
      "score": 2.7,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 10
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S05-V12",
@@ -4153,7 +4492,7 @@
      "shoot": "pexels-rebar-site",
      "score": 3.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 8
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S05-V13",
@@ -4183,7 +4522,7 @@
      "shoot": "pexels-warehouse-frame",
      "score": 1.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 20
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S05-V14",
@@ -4213,7 +4552,7 @@
      "shoot": "pixabay-glass-grind",
      "score": 1.65,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 16
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S05-V15",
@@ -4243,7 +4582,7 @@
      "shoot": "pixabay-concrete-wheelbarrow",
      "score": 4.4,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 4
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S05-V16",
@@ -4265,7 +4604,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:58:44Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 3,
      "caption": "close-up of hands holding a smartphone",
@@ -4273,7 +4612,7 @@
      "shoot": "pixabay-phone-hands",
      "score": 1.7,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 15
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S05-V17",
@@ -4303,7 +4642,7 @@
      "shoot": "pixabay-farmer-corn",
      "score": 4.4,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 5
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S05-V18",
@@ -4333,7 +4672,7 @@
      "shoot": "pixabay-glass-grind",
      "score": 1.65,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 17
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S05-V19",
@@ -4363,7 +4702,7 @@
      "shoot": "pixabay-road-machinery",
      "score": 0.35,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 21
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S05-V20",
@@ -4393,7 +4732,7 @@
      "shoot": "pixabay-airport-wait",
      "score": 1.65,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 18
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S05-V21",
@@ -4423,7 +4762,7 @@
      "shoot": "pixabay-boy-plaza",
      "score": 0.0,
      "judged_at": "2026-09-15T14:19:54Z",
-     "rank": 22
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S05-V22",
@@ -4437,15 +4776,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V22.strip.jpg",
      "title": "a frustrated man looking at the time",
      "query": "worker waiting doing nothing",
-     "shot": "C",
+     "shot": "D",
      "duration": 20,
      "src_id": "8136376",
      "download_url": "https://videos.pexels.com/video-files/8136376/8136376-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "A man in a suit looks troubled at a desk",
+     "violation": "office / suit",
+     "shoot": "pexels-suit-man-office",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S05-V23",
@@ -4466,8 +4813,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "An elderly man in a headset reclines with feet on the desk",
+     "violation": "office / laptop",
+     "shoot": "pexels-elderly-office-desk",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S05-V24",
@@ -4481,15 +4836,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V24.strip.jpg",
      "title": "close up shot of a woman coughing",
      "query": "exhausted worker end of day",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "4122606",
      "download_url": "https://videos.pexels.com/video-files/4122606/4122606-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A woman coughs into her hand indoors",
+     "violation": "",
+     "shoot": "pexels-woman-coughing-shop",
+     "score": 1.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S05-V25",
@@ -4510,8 +4873,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "A woman rubs her tired face at an office desk",
+     "violation": "office / whiteboard-like planning notes",
+     "shoot": "pexels-woman-office-stickynotes",
+     "score": 4.55,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S05-V26",
@@ -4532,8 +4903,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "A man sits idle watching machines in an industrial laundry",
+     "violation": "factory / industrial",
+     "shoot": "pexels-man-laundry-industrial",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S05-V27",
@@ -4554,8 +4933,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "A tired boy falls asleep while studying at a table",
+     "violation": "",
+     "shoot": "pexels-boy-studying-home",
+     "score": 3.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S05-V28",
@@ -4576,8 +4963,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:09:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "A businesswoman rubs her tired eyes at her laptop",
+     "violation": "office / laptop",
+     "shoot": "pexels-woman-blazer-office",
+     "score": 4.55,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S05-V29",
@@ -4598,8 +4993,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "A person stands alone waiting at a night bus stop",
+     "violation": "",
+     "shoot": "pexels-night-busstop",
+     "score": 2.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S05-V30",
@@ -4613,15 +5016,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V30.strip.jpg",
      "title": "a bored person with sad face",
      "query": "exhausted worker end of day",
-     "shot": "D",
+     "shot": "",
      "duration": 12,
      "src_id": "6032133",
      "download_url": "https://videos.pexels.com/video-files/6032133/6032133-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "A woman at an office desk wipes tears with a tissue",
+     "violation": "office / laptop",
+     "shoot": "pexels-woman-tissue-office",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S05-V31",
@@ -4635,15 +5046,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V31.strip.jpg",
      "title": "a worker sanding a wood plank",
      "query": "worker waiting doing nothing",
-     "shot": "C",
+     "shot": "",
      "duration": 50,
      "src_id": "7482653",
      "download_url": "https://videos.pexels.com/video-files/7482653/7482653-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 9,
+     "caption": "A carpenter sands a wood plank by hand",
+     "violation": "",
+     "shoot": "pexels-carpenter-sanding-wood",
+     "score": 5.75,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S05-V32",
@@ -4657,15 +5076,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V32.strip.jpg",
      "title": "a call center agent on his coffee break",
      "query": "worker waiting doing nothing",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "7683422",
      "download_url": "https://videos.pexels.com/video-files/7683422/7683422-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A man with headphones drinks coffee on a break",
+     "violation": "",
+     "shoot": "pexels-man-coffeebreak-loft",
+     "score": 1.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S05-V33",
@@ -4679,15 +5106,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V33.strip.jpg",
      "title": "a woman still working while feeling tired",
      "query": "exhausted worker end of day",
-     "shot": "D",
+     "shot": "A",
      "duration": 29,
      "src_id": "8086208",
      "download_url": "https://videos.pexels.com/video-files/8086208/8086208-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "A woman writes notes on paperwork at a desk",
+     "violation": "",
+     "shoot": "pexels-woman-writing-papers",
+     "score": 3.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S05-V34",
@@ -4701,15 +5136,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V34.strip.jpg",
      "title": "a pedestrian traffic light",
      "query": "worker waiting doing nothing",
-     "shot": "C",
+     "shot": "",
      "duration": 23,
      "src_id": "5514350",
      "download_url": "https://videos.pexels.com/video-files/5514350/5514350-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "A pedestrian traffic signal counts down at a crosswalk",
+     "violation": "",
+     "shoot": "pexels-pedestrian-trafficlight",
+     "score": 0.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S05-V35",
@@ -4723,15 +5166,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S05__strip__edenrise-speed-of-trust-S05-V35.strip.jpg",
      "title": "a man sitting on the chair",
      "query": "worker waiting doing nothing",
-     "shot": "C",
+     "shot": "D",
      "duration": 9,
      "src_id": "8135021",
      "download_url": "https://videos.pexels.com/video-files/8135021/8135021-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "A man in a suit sits pensively in an office chair",
+     "violation": "office / suit",
+     "shoot": "pexels-suit-man-office",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 31
     }
    ],
    "shots": [
@@ -4774,10 +5225,10 @@
    "shots_at": "2026-09-15T13:45:33Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-09-15T14:19:54Z",
+    "at": "2026-09-15T15:22:31Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T14:19:54Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S06",
@@ -4820,7 +5271,7 @@
      "shoot": "pexels-donation-van-group",
      "score": 0.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 20
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S06-V01",
@@ -4842,7 +5293,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:59:43Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 6,
      "caption": "aerial view of a small crew building a roof structure in a rural clearing",
@@ -4850,7 +5301,7 @@
      "shoot": "pexels-aerial-roof-build",
      "score": 4.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 6
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S06-V02",
@@ -4880,7 +5331,7 @@
      "shoot": "pexels-aerial-road-paving",
      "score": 1.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 15
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S06-V03",
@@ -4910,7 +5361,7 @@
      "shoot": "pexels-donation-pose-indoor",
      "score": 0.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 21
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S06-V04",
@@ -4932,7 +5383,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:00:01Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 5,
      "caption": "two men work with hand tools along a railway track outdoors",
@@ -4940,7 +5391,7 @@
      "shoot": "pexels-railway-tools",
      "score": 3.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 8
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S06-V05",
@@ -4962,7 +5413,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:00:08Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 5,
      "brand_fit": 7,
      "caption": "a small crew builds a thatched roof structure together outdoors",
@@ -4970,7 +5421,7 @@
      "shoot": "pexels-thatch-roof-crew",
      "score": 5.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 3
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S06-V06",
@@ -5000,7 +5451,7 @@
      "shoot": "pexels-urban-excavator",
      "score": 1.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 16
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S06-V07",
@@ -5022,7 +5473,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:00:22Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 5,
      "caption": "a small crew resurfaces a swimming pool together",
@@ -5030,7 +5481,7 @@
      "shoot": "pexels-pool-resurface",
      "score": 3.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 9
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S06-V08",
@@ -5060,7 +5511,7 @@
      "shoot": "pexels-donation-sort-a",
      "score": 0.35,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 18
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S06-V09",
@@ -5090,7 +5541,7 @@
      "shoot": "pexels-donation-sort-b",
      "score": 0.35,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 19
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S06-V10",
@@ -5120,7 +5571,7 @@
      "shoot": "pexels-valentine-string",
      "score": 1.65,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 14
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S06-V11",
@@ -5150,7 +5601,7 @@
      "shoot": "pexels-valentine-flatlay",
      "score": 0.65,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 17
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S06-V12",
@@ -5180,7 +5631,7 @@
      "shoot": "pexels-corkboard-pin-a",
      "score": 2.65,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 11
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S06-V13",
@@ -5210,7 +5661,7 @@
      "shoot": "pexels-corkboard-pin-b",
      "score": 2.65,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 12
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S06-V14",
@@ -5232,7 +5683,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:01:10Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 5,
      "brand_fit": 7,
      "caption": "a chainsaw cuts through a log on a woodpile outdoors",
@@ -5240,7 +5691,7 @@
      "shoot": "pixabay-chainsaw-logs",
      "score": 5.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 4
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S06-V15",
@@ -5262,7 +5713,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:01:19Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 4,
      "caption": "close-up of a chainsaw's worn gear mechanism",
@@ -5270,7 +5721,7 @@
      "shoot": "pixabay-chainsaw-detail",
      "score": 2.05,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 13
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S06-V16",
@@ -5300,7 +5751,7 @@
      "shoot": "pixabay-chainsaw-logs",
      "score": 4.35,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 7
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S06-V17",
@@ -5330,7 +5781,7 @@
      "shoot": "pixabay-chainsaw-urban",
      "score": 3.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 10
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S06-V18",
@@ -5360,7 +5811,7 @@
      "shoot": "pixabay-carpentry-drill",
      "score": 6.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 1
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S06-V19",
@@ -5390,7 +5841,7 @@
      "shoot": "pixabay-western-wall",
      "score": 0.0,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 22
+     "rank": 37
     },
     {
      "id": "edenrise-speed-of-trust-S06-V20",
@@ -5412,7 +5863,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:01:56Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 8,
      "caption": "a weathered wooden shed door stands against a backdrop of trees",
@@ -5420,7 +5871,7 @@
      "shoot": "pixabay-shed-door",
      "score": 5.4,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 5
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S06-V21",
@@ -5450,7 +5901,7 @@
      "shoot": "pixabay-wood-plane",
      "score": 6.7,
      "judged_at": "2026-09-15T14:21:39Z",
-     "rank": 2
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S06-V22",
@@ -5471,8 +5922,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "A hand uses a trowel to dig into garden soil.",
+     "violation": "",
+     "shoot": "pexels-solo-trowel-digging",
+     "score": 9.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S06-V23",
@@ -5486,15 +5945,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V23.strip.jpg",
      "title": "people doing gardening",
      "query": "hands working soil garden",
-     "shot": "B",
+     "shot": "C",
      "duration": 9,
      "src_id": "7844382",
      "download_url": "https://videos.pexels.com/video-files/7844382/7844382-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:10:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "Adults and a child plant seedlings together in mulch.",
+     "violation": "",
+     "shoot": "pexels-family-planting-mulch",
+     "score": 7.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S06-V24",
@@ -5508,15 +5975,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V24.strip.jpg",
      "title": "a man reading the sticky notes",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "6804116",
      "download_url": "https://videos.pexels.com/video-files/6804116/6804116-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "A man reads colorful sticky notes on a wall.",
+     "violation": "office / whiteboard sticky-note wall",
+     "shoot": "pexels-office-stickynotes-wall",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S06-V25",
@@ -5530,15 +6005,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V25.strip.jpg",
      "title": "a person putting sticky notes on a glass wall",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 16,
      "src_id": "6563923",
      "download_url": "https://videos.pexels.com/video-files/6563923/6563923-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "A hand places sticky notes onto a glass wall.",
+     "violation": "office / whiteboard sticky-note wall",
+     "shoot": "pexels-stickynote-wall-silhouette",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S06-V26",
@@ -5559,8 +6042,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "A gloved hand digs into dark garden soil with a trowel.",
+     "violation": "",
+     "shoot": "pexels-green-gloves-trowel",
+     "score": 9.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S06-V27",
@@ -5574,15 +6065,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V27.strip.jpg",
      "title": "a person doing a report while working",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 24,
      "src_id": "7791926",
      "download_url": "https://videos.pexels.com/video-files/7791926/7791926-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "A hand writes on a sticky note beside a laptop.",
+     "violation": "laptop / office desk",
+     "shoot": "pexels-laptop-stickynote-desk",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S06-V28",
@@ -5596,15 +6095,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V28.strip.jpg",
      "title": "person pinning paper on corkboard",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 19,
      "src_id": "9306134",
      "download_url": "https://videos.pexels.com/video-files/9306134/9306134-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "Hands pin printed charts to an office corkboard.",
+     "violation": "office corkboard with monitor and charts",
+     "shoot": "pexels-corkboard-charts-office",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S06-V29",
@@ -5618,15 +6125,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V29.strip.jpg",
      "title": "person sticking sticky notes on a whiteboard",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 35,
      "src_id": "7429487",
      "download_url": "https://videos.pexels.com/video-files/7429487/7429487-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "A person sticks notes onto a whiteboard.",
+     "violation": "whiteboard sticky notes",
+     "shoot": "pexels-whiteboard-stickynotes",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S06-V30",
@@ -5647,8 +6162,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 10,
+     "caption": "A gloved hand shovels compost into a wheelbarrow.",
+     "violation": "",
+     "shoot": "pexels-wheelbarrow-shovel-compost",
+     "score": 9.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 1
     },
     {
      "id": "edenrise-speed-of-trust-S06-V31",
@@ -5669,8 +6192,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "Gloved hands dig together into dark soil.",
+     "violation": "",
+     "shoot": "pexels-yellow-black-gloves-dirt",
+     "score": 9.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S06-V32",
@@ -5691,8 +6222,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "A gloved hand plants a seedling into a dug hole.",
+     "violation": "",
+     "shoot": "pexels-yellow-gloves-planting-hole",
+     "score": 9.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S06-V33",
@@ -5706,15 +6245,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V33.strip.jpg",
      "title": "a person writing",
      "query": "note pinned wall workshop",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "8257209",
      "download_url": "https://videos.pexels.com/video-files/8257209/8257209-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "A hand writes on colorful sticky notes.",
+     "violation": "office sticky notes writing",
+     "shoot": "pexels-stickynotes-writing-pastel",
+     "score": 0.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S06-V34",
@@ -5735,8 +6282,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:11:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "Gloved hands work into a dark garden soil bed.",
+     "violation": "",
+     "shoot": "pexels-gray-gloves-soilbed",
+     "score": 9.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S06-V35",
@@ -5757,8 +6312,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 9,
+     "caption": "Cupped hands hold dark soil with earthworms.",
+     "violation": "",
+     "shoot": "pexels-cupped-hands-soil-worms",
+     "score": 8.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S06-V36",
@@ -5772,15 +6335,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S06__strip__edenrise-speed-of-trust-S06-V36.strip.jpg",
      "title": "tractor  crops  planting  soil  equipment  farming  agriculture  drone  aerial",
      "query": "hands soil garden",
-     "shot": "B",
+     "shot": "",
      "duration": 5,
      "src_id": "166485",
      "download_url": "https://cdn.pixabay.com/video/2023/06/09/166485-834930379_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "Aerial view of a lone tractor working a large field.",
+     "violation": "",
+     "shoot": "pixabay-aerial-tractor-field",
+     "score": 2.05,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     }
    ],
    "shots": [
@@ -5814,12 +6385,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-15T14:21:39Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-15T14:21:39Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S07",
@@ -5862,7 +6428,7 @@
      "shoot": "pexels-office-convo-a",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 6
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S07-V01",
@@ -5892,7 +6458,7 @@
      "shoot": "pexels-studio-blazer-convo",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 7
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S07-V02",
@@ -5922,7 +6488,7 @@
      "shoot": "pexels-office-convo-b",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 8
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S07-V03",
@@ -5952,7 +6518,7 @@
      "shoot": "pexels-office-convo-c",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 9
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S07-V04",
@@ -5982,7 +6548,7 @@
      "shoot": "pexels-office-convo-d",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 10
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S07-V05",
@@ -6012,7 +6578,7 @@
      "shoot": "pexels-meeting-review",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 11
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S07-V06",
@@ -6042,7 +6608,7 @@
      "shoot": "pexels-kitchen-convo",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 12
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S07-V07",
@@ -6072,7 +6638,7 @@
      "shoot": "pexels-window-convo",
      "score": 1.3,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 2
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S07-V08",
@@ -6102,7 +6668,7 @@
      "shoot": "pexels-office-convo-e",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 13
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S07-V09",
@@ -6132,7 +6698,7 @@
      "shoot": "pexels-suit-laptop-present",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 14
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S07-V10",
@@ -6162,7 +6728,7 @@
      "shoot": "pexels-laptop-convo-women",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 15
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S07-V11",
@@ -6192,7 +6758,7 @@
      "shoot": "pexels-bookshelf-talk",
      "score": 1.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 4
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S07-V12",
@@ -6222,7 +6788,7 @@
      "shoot": "pexels-angry-boss",
      "score": 0.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 18
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S07-V13",
@@ -6252,7 +6818,7 @@
      "shoot": "pexels-boardroom-convo",
      "score": 0.65,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 16
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S07-V14",
@@ -6282,7 +6848,7 @@
      "shoot": "pixabay-alien-contact",
      "score": 0.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 19
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S07-V15",
@@ -6312,7 +6878,7 @@
      "shoot": "pixabay-concrete-surfacer",
      "score": 1.75,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 1
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S07-V16",
@@ -6342,7 +6908,7 @@
      "shoot": "pixabay-neuron-cgi",
      "score": 0.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 20
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S07-V17",
@@ -6372,7 +6938,7 @@
      "shoot": "pixabay-woman-smile-outdoor",
      "score": 1.05,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 3
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S07-V18",
@@ -6402,7 +6968,7 @@
      "shoot": "pixabay-globe-cgi",
      "score": 0.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 21
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S07-V19",
@@ -6432,7 +6998,7 @@
      "shoot": "pixabay-crowd-feet",
      "score": 0.35,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 17
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S07-V20",
@@ -6462,7 +7028,7 @@
      "shoot": "pixabay-explosion-vfx",
      "score": 0.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 22
+     "rank": 37
     },
     {
      "id": "edenrise-speed-of-trust-S07-V21",
@@ -6492,7 +7058,7 @@
      "shoot": "pixabay-ok-hands",
      "score": 1.0,
      "judged_at": "2026-09-15T14:22:48Z",
-     "rank": 5
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S07-V22",
@@ -6506,15 +7072,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V22.strip.jpg",
      "title": "men having a conversation at work in the warehouse",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "A",
      "duration": 17,
      "src_id": "4293549",
      "download_url": "https://videos.pexels.com/video-files/4293549/4293549-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 2,
+     "caption": "Three men talk together walking through a warehouse aisle",
+     "violation": "industrial warehouse setting, outside the brand's land/hands-worker world",
+     "shoot": "pexels-warehouse-conversation",
+     "score": 5.25,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S07-V23",
@@ -6535,8 +7109,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 8,
+     "brand_fit": 3,
+     "caption": "Woman in a blazer gestures with her hands while talking",
+     "violation": "formal blazer/business attire suggests an office setting",
+     "shoot": "pexels-studio-handgesture-blazer",
+     "score": 6.25,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S07-V24",
@@ -6550,15 +7132,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V24.strip.jpg",
      "title": "men wearing harness having a conversation",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "A",
      "duration": 11,
      "src_id": "8964931",
      "download_url": "https://videos.pexels.com/video-files/8964931/8964931-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "Two men in hardhats talk on a raised platform",
+     "violation": "scaffolding gang / construction site",
+     "shoot": "pexels-bridge-scaffold-hardhat",
+     "score": 2.6,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S07-V25",
@@ -6579,8 +7169,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "A woman makes a hand gesture while seated indoors",
+     "violation": "",
+     "shoot": "pexels-indoor-handgesture-plain",
+     "score": 5.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S07-V26",
@@ -6594,15 +7192,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V26.strip.jpg",
      "title": "young woman and man talking while arriving at work",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "A",
      "duration": 17,
      "src_id": "5941024",
      "download_url": "https://videos.pexels.com/video-files/5941024/5941024-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "A man and woman talk while walking through an office",
+     "violation": "office corridor, carrying a laptop",
+     "shoot": "pexels-office-corridor-glass",
+     "score": 3.9,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S07-V27",
@@ -6623,8 +7229,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:12:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 3,
+     "caption": "A man gestures with his hands while speaking indoors",
+     "violation": "background suggests an office/presentation easel setup",
+     "shoot": "pexels-loft-handgesture-brick",
+     "score": 5.6,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S07-V28",
@@ -6638,15 +7252,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V28.strip.jpg",
      "title": "a man talking while walking back and forth",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "",
      "duration": 44,
      "src_id": "8865837",
      "download_url": "https://videos.pexels.com/video-files/8865837/8865837-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "A man with a headset talks in a glass high-rise office",
+     "violation": "office, tablet, corporate high-rise",
+     "shoot": "pexels-office-highrise-headset",
+     "score": 1.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S07-V29",
@@ -6667,8 +7289,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "A man and woman in coats talk while walking outside",
+     "violation": "suits/coats and tie, corporate street setting",
+     "shoot": "pexels-street-corporate-coats",
+     "score": 3.25,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S07-V30",
@@ -6682,15 +7312,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V30.strip.jpg",
      "title": "colleagues having a conversation",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "7652233",
      "download_url": "https://videos.pexels.com/video-files/7652233/7652233-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "A group of colleagues walk together down an office hallway",
+     "violation": "office corridor, crowd of business-dressed colleagues",
+     "shoot": "pexels-office-corridor-group",
+     "score": 1.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S07-V31",
@@ -6711,8 +7349,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "Two women in blazers talk while walking across a lobby",
+     "violation": "corporate/hotel lobby setting, outside the brand's world",
+     "shoot": "pexels-lobby-aerial-blazer",
+     "score": 3.6,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S07-V32",
@@ -6726,15 +7372,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V32.strip.jpg",
      "title": "a man and a woman discussing proposal on the street",
      "query": "two workers walking talking",
-     "shot": "D",
+     "shot": "C",
      "duration": 10,
      "src_id": "5977056",
      "download_url": "https://videos.pexels.com/video-files/5977056/5977056-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "A man and woman read papers together outside a building",
+     "violation": "coats/business attire outside a glass corporate building",
+     "shoot": "pexels-street-corporate-papers",
+     "score": 2.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S07-V33",
@@ -6755,8 +7409,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "A woman gestures with her hands at a white counter",
+     "violation": "",
+     "shoot": "pexels-studio-handgesture-counter",
+     "score": 6.3,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 1
     },
     {
      "id": "edenrise-speed-of-trust-S07-V34",
@@ -6770,15 +7432,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V34.strip.jpg",
      "title": "a patient talking to a psychotherapist",
      "query": "hands gesturing while talking",
-     "shot": "B",
+     "shot": "A",
      "duration": 13,
      "src_id": "8428212",
      "download_url": "https://videos.pexels.com/video-files/8428212/8428212-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 1,
+     "caption": "A man gestures while talking to a seated woman",
+     "violation": "consulting/therapy office setting, outside the brand's world",
+     "shoot": "pexels-therapy-room-counseling",
+     "score": 3.6,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S07-V35",
@@ -6792,15 +7462,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V35.strip.jpg",
      "title": "people talking",
      "query": "hands gesturing while talking",
-     "shot": "B",
+     "shot": "A",
      "duration": 11,
      "src_id": "6149774",
      "download_url": "https://videos.pexels.com/video-files/6149774/6149774-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "A woman gestures while talking to a seated group outdoors",
+     "violation": "",
+     "shoot": "pexels-garden-pergola-group",
+     "score": 4.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S07-V36",
@@ -6814,15 +7492,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S07__strip__edenrise-speed-of-trust-S07-V36.strip.jpg",
      "title": "boy  talk  conversation  people  mirror  reflection",
      "query": "two people serious talk",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "119698",
      "download_url": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:13:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "A boy talks to his reflection in a mirror",
+     "violation": "",
+     "shoot": "pixabay-mirror-boy",
+     "score": 1.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 15
     }
    ],
    "shots": [
@@ -6865,11 +7551,11 @@
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
    "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-15T14:22:48Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-09-15T15:22:31Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T14:22:48Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S08",
@@ -6912,7 +7598,7 @@
      "shoot": "pexels-plan-marker",
      "score": 4.65,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 4
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S08-V01",
@@ -6942,7 +7628,7 @@
      "shoot": "pexels-plan-point",
      "score": 5.3,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 1
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S08-V02",
@@ -6964,7 +7650,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:05:02Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 3,
      "caption": "hands use a triangle ruler to draw a technical line",
@@ -6972,7 +7658,7 @@
      "shoot": "pexels-drafting-ruler",
      "score": 3.65,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 7
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S08-V03",
@@ -7002,7 +7688,7 @@
      "shoot": "pexels-crane-signal",
      "score": 1.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 14
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S08-V04",
@@ -7024,7 +7710,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:05:15Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a hand sketches a rough drawing with a pencil on paper",
@@ -7032,7 +7718,7 @@
      "shoot": "pexels-casual-sketch-a",
      "score": 3.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 8
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S08-V05",
@@ -7062,7 +7748,7 @@
      "shoot": "pexels-arch-sketch-a",
      "score": 4.65,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 5
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S08-V06",
@@ -7084,7 +7770,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:05:27Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a hand sketches lines with a pencil on paper",
@@ -7092,7 +7778,7 @@
      "shoot": "pexels-casual-sketch-b",
      "score": 3.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 9
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S08-V07",
@@ -7122,7 +7808,7 @@
      "shoot": "pexels-rebar-bind",
      "score": 3.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 10
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S08-V08",
@@ -7152,7 +7838,7 @@
      "shoot": "pexels-arch-sketch-b",
      "score": 5.3,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 2
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S08-V09",
@@ -7182,7 +7868,7 @@
      "shoot": "pexels-hivis-folder-talk",
      "score": 4.7,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 3
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S08-V10",
@@ -7212,7 +7898,7 @@
      "shoot": "pexels-blueprint-hands",
      "score": 4.3,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 6
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S08-V11",
@@ -7242,7 +7928,7 @@
      "shoot": "pexels-guitar-case",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 16
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S08-V12",
@@ -7264,7 +7950,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:06:18Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 3,
      "brand_fit": 3,
      "caption": "a hand slides a transparent ruler across a drawing",
@@ -7272,7 +7958,7 @@
      "shoot": "pexels-transparent-ruler",
      "score": 3.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 11
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S08-V13",
@@ -7302,7 +7988,7 @@
      "shoot": "pexels-guitar-strum-a",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 17
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S08-V14",
@@ -7332,7 +8018,7 @@
      "shoot": "pixabay-guitar-play-a",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 18
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S08-V15",
@@ -7362,7 +8048,7 @@
      "shoot": "pixabay-solar-panels",
      "score": 0.35,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 15
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S08-V16",
@@ -7392,7 +8078,7 @@
      "shoot": "pixabay-sketch-wireframe",
      "score": 1.35,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 13
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S08-V17",
@@ -7422,7 +8108,7 @@
      "shoot": "pixabay-violin",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 19
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S08-V18",
@@ -7452,7 +8138,7 @@
      "shoot": "pixabay-abstract-tubes",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 20
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S08-V19",
@@ -7482,7 +8168,7 @@
      "shoot": "pixabay-abstract-noise",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 21
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S08-V20",
@@ -7504,7 +8190,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:07:13Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 0,
      "brand_fit": 5,
      "caption": "mist drifts through trees on a forested hillside",
@@ -7512,7 +8198,7 @@
      "shoot": "pixabay-misty-forest",
      "score": 1.75,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 12
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S08-V21",
@@ -7542,7 +8228,7 @@
      "shoot": "pixabay-guitar-play-b",
      "score": 0.0,
      "judged_at": "2026-09-15T14:24:12Z",
-     "rank": 22
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S08-V22",
@@ -7563,8 +8249,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand traces a line of printed text on paper",
+     "violation": "",
+     "shoot": "pexels-finger-document-macro",
+     "score": 3.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S08-V23",
@@ -7585,8 +8279,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "several hands point at a floor plan on a table",
+     "violation": "",
+     "shoot": "pexels-blueprint-review-team",
+     "score": 4.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S08-V24",
@@ -7600,15 +8302,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V24.strip.jpg",
      "title": "a close up shot of people reading the flyers",
      "query": "finger pointing at plan",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "7647680",
      "download_url": "https://videos.pexels.com/video-files/7647680/7647680-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "hands hold and read a printed flyer up close",
+     "violation": "",
+     "shoot": "pexels-reading-flyers-hands",
+     "score": 1.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S08-V25",
@@ -7629,8 +8339,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "a hand points at a blueprint while others look on",
+     "violation": "",
+     "shoot": "pexels-blueprint-review-team",
+     "score": 4.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S08-V26",
@@ -7651,8 +8369,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand draws a line on a dark blueprint sheet",
+     "violation": "",
+     "shoot": "pexels-blueprint-pen-draft",
+     "score": 6.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S08-V27",
@@ -7666,15 +8392,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V27.strip.jpg",
      "title": "close up of energy bill review with hands",
      "query": "finger pointing at plan",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "35402332",
      "download_url": "https://videos.pexels.com/video-files/35402332/14999615_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand checks figures on a printed energy bill",
+     "violation": "",
+     "shoot": "pexels-energy-bill-review",
+     "score": 0.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S08-V28",
@@ -7688,15 +8422,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V28.strip.jpg",
      "title": "close up of a person writing in a notebook",
      "query": "finger pointing at plan",
-     "shot": "B",
+     "shot": "",
      "duration": 11,
      "src_id": "8141654",
      "download_url": "https://videos.pexels.com/video-files/8141654/8141654-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a person writes in a notebook beside a phone",
+     "violation": "",
+     "shoot": "pexels-notebook-writing-blazer",
+     "score": 2.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S08-V29",
@@ -7717,8 +8459,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a hand traces a line across a sunlit blueprint",
+     "violation": "",
+     "shoot": "pexels-blueprint-sun-shadow",
+     "score": 7.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 1
     },
     {
      "id": "edenrise-speed-of-trust-S08-V30",
@@ -7732,15 +8482,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V30.strip.jpg",
      "title": "a person passing out missing posters",
      "query": "foreman instructing workers",
-     "shot": "D",
+     "shot": "",
      "duration": 26,
      "src_id": "10349947",
      "download_url": "https://videos.pexels.com/video-files/10349947/10349947-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "workers in hi-vis vests hand out missing-person flyers",
+     "violation": "",
+     "shoot": "pexels-missing-posters-vests",
+     "score": 1.7,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S08-V31",
@@ -7754,15 +8512,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V31.strip.jpg",
      "title": "a man using a walkie talkie while at the site",
      "query": "foreman instructing workers",
-     "shot": "D",
+     "shot": "",
      "duration": 8,
      "src_id": "8963857",
      "download_url": "https://videos.pexels.com/video-files/8963857/8963857-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:14:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a hard-hatted worker gestures while using a walkie-talkie",
+     "violation": "",
+     "shoot": "pexels-construction-crane-radio",
+     "score": 2.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S08-V32",
@@ -7783,8 +8549,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "two workers with a clipboard talk at a building site",
+     "violation": "",
+     "shoot": "pexels-construction-clipboard-discussion",
+     "score": 4.95,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S08-V33",
@@ -7798,15 +8572,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V33.strip.jpg",
      "title": "aerial view of modern construction site",
      "query": "foreman instructing workers",
-     "shot": "D",
+     "shot": "",
      "duration": 25,
      "src_id": "31696674",
      "download_url": "https://videos.pexels.com/video-files/31696674/13504982_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "aerial view of a large concrete formwork construction site",
+     "violation": "large industrial building site, not small building repair",
+     "shoot": "pexels-construction-formwork-aerial",
+     "score": 1.0,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S08-V34",
@@ -7820,15 +8602,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V34.strip.jpg",
      "title": "people looking at floor plan",
      "query": "workers looking at blueprint",
-     "shot": "A",
+     "shot": "B",
      "duration": 19,
      "src_id": "8836122",
      "download_url": "https://videos.pexels.com/video-files/8836122/8836122-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "hands draft on a blueprint with a compass at a table",
+     "violation": "",
+     "shoot": "pexels-marble-drafting-compass",
+     "score": 4.65,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S08-V35",
@@ -7842,15 +8632,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S08__strip__edenrise-speed-of-trust-S08-V35.strip.jpg",
      "title": "construction site workers",
      "query": "foreman instructing workers",
-     "shot": "D",
+     "shot": "",
      "duration": 4,
      "src_id": "10810477",
      "download_url": "https://videos.pexels.com/video-files/10810477/10810477-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "workers in hi-vis vests handle rebar near a crane hook",
+     "violation": "",
+     "shoot": "pexels-construction-formwork-aerial",
+     "score": 1.35,
+     "judged_at": "2026-09-15T15:22:31Z",
+     "rank": 25
     }
    ],
    "shots": [
@@ -7892,12 +8690,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": "2026-09-15T14:24:12Z",
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-15T14:24:12Z"
+   "judged_at": "2026-09-15T15:22:31Z"
   },
   {
    "id": "S09",
@@ -7940,7 +8733,7 @@
      "shoot": "pexels-writing-desk-a",
      "score": 2.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 8
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S09-V01",
@@ -7962,7 +8755,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:08:18Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 3,
      "caption": "a hand marks a paper with a marker indoors",
@@ -7970,7 +8763,7 @@
      "shoot": "pexels-writing-marker",
      "score": 2.35,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 7
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S09-V02",
@@ -8000,7 +8793,7 @@
      "shoot": "pexels-sticky-note-desk",
      "score": 2.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 9
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S09-V03",
@@ -8030,7 +8823,7 @@
      "shoot": "pexels-insurance-forms",
      "score": 1.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 13
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S09-V04",
@@ -8060,7 +8853,7 @@
      "shoot": "pexels-storyboard-doc",
      "score": 0.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 15
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S09-V05",
@@ -8090,7 +8883,7 @@
      "shoot": "pexels-woman-chart-office",
      "score": 2.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 10
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S09-V06",
@@ -8112,7 +8905,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:08:49Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 4,
      "brand_fit": 3,
      "caption": "a hand checks off items on a paper checklist",
@@ -8120,7 +8913,7 @@
      "shoot": "pexels-checklist-notebook",
      "score": 3.65,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 5
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S09-V07",
@@ -8142,7 +8935,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:08:56Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 5,
      "brand_fit": 3,
      "caption": "a hand writes done on a sticky note over a checklist",
@@ -8150,7 +8943,7 @@
      "shoot": "pexels-checklist-done",
      "score": 4.3,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 4
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S09-V08",
@@ -8180,7 +8973,7 @@
      "shoot": "pexels-aerial-roadpaving",
      "score": 4.65,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 2
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S09-V09",
@@ -8202,7 +8995,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:09:15Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 0,
      "brand_fit": 2,
      "caption": "an aerial view of a city skyline at twilight",
@@ -8210,7 +9003,7 @@
      "shoot": "pexels-aerial-citytwilight",
      "score": 0.7,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 14
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S09-V10",
@@ -8232,7 +9025,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:09:22Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 2,
      "brand_fit": 5,
      "caption": "an aerial view of countryside fields at dusk",
@@ -8240,7 +9033,7 @@
      "shoot": "pexels-aerial-countryside",
      "score": 3.05,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 6
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S09-V11",
@@ -8270,7 +9063,7 @@
      "shoot": "pexels-school-kids",
      "score": 0.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 16
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S09-V12",
@@ -8292,7 +9085,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:09:39Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 5,
      "brand_fit": 4,
      "caption": "an aerial view of a paving crew resurfacing a residential street",
@@ -8300,7 +9093,7 @@
      "shoot": "pexels-aerial-roadpaving",
      "score": 4.65,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 3
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S09-V13",
@@ -8322,7 +9115,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:09:47Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 2,
      "caption": "an aerial view of a large construction development site",
@@ -8330,7 +9123,7 @@
      "shoot": "pexels-aerial-construction-site",
      "score": 1.35,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 12
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S09-V14",
@@ -8352,7 +9145,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T14:09:53Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 1,
      "brand_fit": 3,
      "caption": "a hand holds a warm mug near a window",
@@ -8360,7 +9153,7 @@
      "shoot": "pixabay-coffee-mug",
      "score": 1.7,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 11
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S09-V15",
@@ -8390,7 +9183,7 @@
      "shoot": "pixabay-wheelbarrow-worker",
      "score": 7.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 1
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S09-V16",
@@ -8420,7 +9213,7 @@
      "shoot": "pixabay-christmas-tree",
      "score": 0.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 17
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S09-V17",
@@ -8450,7 +9243,7 @@
      "shoot": "pixabay-pushups-gym",
      "score": 0.0,
      "judged_at": "2026-09-15T14:27:35Z",
-     "rank": 18
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S09-V18",
@@ -8471,8 +9264,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "A hand plane smooths a wooden board close up",
+     "violation": "",
+     "shoot": "pexels-plane-workshop-a",
+     "score": 8.65,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 1
     },
     {
      "id": "edenrise-speed-of-trust-S09-V19",
@@ -8493,8 +9294,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "Hands push a wood plane shaving curls of wood",
+     "violation": "",
+     "shoot": "pexels-plane-workshop-a",
+     "score": 8.0,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 2
     },
     {
      "id": "edenrise-speed-of-trust-S09-V20",
@@ -8515,8 +9324,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "A man power-sands a wooden board in a workshop",
+     "violation": "",
+     "shoot": "pexels-sander-workshop-b",
+     "score": 7.65,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S09-V21",
@@ -8530,15 +9347,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S09__strip__edenrise-speed-of-trust-S09-V21.strip.jpg",
      "title": "painting a piece of wood",
      "query": "hands finishing woodwork",
-     "shot": "B",
+     "shot": "A",
      "duration": 11,
      "src_id": "6561655",
      "download_url": "https://videos.pexels.com/video-files/6561655/6561655-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:15:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "Hands paint dark stain onto a wooden plank outdoors",
+     "violation": "",
+     "shoot": "pexels-paint-outdoor-c",
+     "score": 7.35,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S09-V22",
@@ -8559,8 +9384,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "A hand sands a wooden plank outdoors near greenery",
+     "violation": "",
+     "shoot": "pexels-sand-outdoor-d",
+     "score": 8.0,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 3
     },
     {
      "id": "edenrise-speed-of-trust-S09-V23",
@@ -8574,15 +9407,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S09__strip__edenrise-speed-of-trust-S09-V23.strip.jpg",
      "title": "a man holding a chisel",
      "query": "hands finishing woodwork",
-     "shot": "B",
+     "shot": "A",
      "duration": 12,
      "src_id": "4480558",
      "download_url": "https://videos.pexels.com/video-files/4480558/4480558-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "A man chisels a wooden beam with a mallet",
+     "violation": "",
+     "shoot": "pexels-chisel-indoor-e",
+     "score": 8.0,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S09-V24",
@@ -8603,8 +9444,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "Two workers in hard hats review blueprints at a site",
+     "violation": "large industrial construction site with hi-vis vests and hard hats, outside the small-scale land/hands world",
+     "shoot": "pexels-engineers-steelsite-f",
+     "score": 3.65,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S09-V25",
@@ -8618,15 +9467,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S09__strip__edenrise-speed-of-trust-S09-V25.strip.jpg",
      "title": "a man brushing a lumber wood",
      "query": "hands finishing woodwork",
-     "shot": "B",
+     "shot": "A",
      "duration": 4,
      "src_id": "5973223",
      "download_url": "https://videos.pexels.com/video-files/5973223/5973223-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "A man varnishes a wooden plank while seated outdoors",
+     "violation": "",
+     "shoot": "pexels-varnish-outdoor-g",
+     "score": 7.35,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S09-V26",
@@ -8647,8 +9504,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "Hands fit and tap a wooden joint together",
+     "violation": "",
+     "shoot": "pexels-woodjoint-workshop-h",
+     "score": 8.0,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S09-V27",
@@ -8669,8 +9534,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "Two engineers in hard hats talk at a construction site",
+     "violation": "large industrial construction site with hi-vis vests and hard hats, outside the small-scale land/hands world",
+     "shoot": "pexels-engineers-steelsite-f",
+     "score": 4.3,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S09-V28",
@@ -8684,15 +9557,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S09__strip__edenrise-speed-of-trust-S09-V28.strip.jpg",
      "title": "a man and woman standing while looking at the site",
      "query": "worker talking to foreman",
-     "shot": "C",
+     "shot": "",
      "duration": 7,
      "src_id": "8964770",
      "download_url": "https://videos.pexels.com/video-files/8964770/8964770-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "Two workers in hi-vis vests talk on a platform",
+     "violation": "large industrial construction site with hi-vis vests and hard hats, outside the small-scale land/hands world",
+     "shoot": "pexels-engineers-steelsite-f",
+     "score": 3.0,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S09-V29",
@@ -8706,15 +9587,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S09__strip__edenrise-speed-of-trust-S09-V29.strip.jpg",
      "title": "serene evening stroll along decorated bridge",
      "query": "finished garden evening",
-     "shot": "D",
+     "shot": "",
      "duration": 33,
      "src_id": "31933595",
      "download_url": "https://videos.pexels.com/video-files/31933595/13602699_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "A person walks alone along a decorated garden path at night",
+     "violation": "no work or commitment action shown, does not serve any listed shot",
+     "shoot": "pexels-eveningstroll-garden-i",
+     "score": 1.7,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S09-V30",
@@ -8735,8 +9624,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:16:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "Two workers in hard hats point at a wall indoors",
+     "violation": "hi-vis vests and hard hats read as a corporate construction crew, not small-scale land/hands work",
+     "shoot": "pexels-hivis-drywall-j",
+     "score": 4.3,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S09-V31",
@@ -8757,8 +9654,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T15:17:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "Two engineers review a clipboard at a construction site",
+     "violation": "large industrial construction site with hi-vis vests and hard hats, outside the small-scale land/hands world",
+     "shoot": "pexels-engineers-steelsite-f",
+     "score": 3.65,
+     "judged_at": "2026-09-15T15:22:32Z",
+     "rank": 17
     }
    ],
    "shots": [
@@ -8799,12 +9704,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-15T14:27:35Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
-   "judged_at": "2026-09-15T14:27:35Z"
+   "judged_at": "2026-09-15T15:22:32Z"
   },
   {
    "id": "S10",
