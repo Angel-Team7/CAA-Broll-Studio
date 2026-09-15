@@ -78,8 +78,10 @@
     "S10": {
       "requested": "2026-09-15T15:03:29Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:19:27Z",
+      "added": 17
     },
     "S11": {
       "requested": "2026-09-15T13:46:00Z",
@@ -91,26 +93,34 @@
     "S12": {
       "requested": "2026-09-15T15:03:30Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:21:58Z",
+      "added": 22
     },
     "S13": {
       "requested": "2026-09-15T15:03:31Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:23:45Z",
+      "added": 16
     },
     "S14": {
       "requested": "2026-09-15T15:03:32Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:25:21Z",
+      "added": 14
     },
     "S15": {
       "requested": "2026-09-15T15:03:33Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:27:00Z",
+      "added": 14
     }
   }
 }

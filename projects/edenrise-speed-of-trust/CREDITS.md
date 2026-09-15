@@ -430,3 +430,86 @@
 | pexels | serene evening stroll along decorated bridge | Tường Chopper | Pexels License | https://www.pexels.com/video/serene-evening-stroll-along-decorated-bridge-31933595/ |
 | pexels | female engineers having a discussion | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-having-a-discussion-8487985/ |
 | pexels | a man and woman talking while looking at the clipboard | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-woman-talking-while-looking-at-the-clipboard-8964380/ |
+| pexels | a woman listening to her colleagues | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-woman-listening-to-her-colleagues-8554252/ |
+| pexels | colleagues talking and laughing together | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/colleagues-talking-and-laughing-together-7279404/ |
+| pexels | a group of people put their hands together gesturing allianc | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-put-their-hands-together-gesturing-alliance-3255387/ |
+| pexels | people having an argument at work | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-having-an-argument-at-work-9034407/ |
+| pexels | colleagues talking together while working | Kampus Production | Pexels License | https://www.pexels.com/video/colleagues-talking-together-while-working-8632187/ |
+| pexels | people at work planning on a strategy | Ivan S | Pexels License | https://www.pexels.com/video/people-at-work-planning-on-a-strategy-8125931/ |
+| pexels | a group of people is doing hand gesture in unison | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-is-doing-hand-gesture-in-unison-3248780/ |
+| pexels | close up footage of a person using level ruler | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-person-using-level-ruler-6474281/ |
+| pexels | man and woman working together | ArtHouse Studio | Pexels License | https://www.pexels.com/video/man-and-woman-working-together-8266178/ |
+| pexels | people brainstorming | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/people-brainstorming-7534730/ |
+| pexels | worker drilling brick wall | FÁBIO REIS DE ABREU (PORTUGA) | Pexels License | https://www.pexels.com/video/worker-drilling-brick-wall-13367963/ |
+| pexels | construction worker on scaffolding building exterior | Guadalupe Aizaga | Pexels License | https://www.pexels.com/video/construction-worker-on-scaffolding-building-exterior-32228166/ |
+| pexels | people discussing around a table | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/people-discussing-around-a-table-7668952/ |
+| pexels | people sitting on floor while writing on paper | Alena Darmel | Pexels License | https://www.pexels.com/video/people-sitting-on-floor-while-writing-on-paper-7660013/ |
+| pixabay | ai generated  man  worker  hardhat  electrician  install  wi | LiskaRed | Pixabay Content License | https://pixabay.com/videos/id-357279/ |
+| pixabay | hard work  worker  tractor  road  builder  work  workers  bu | AlexKopeykin | Pixabay Content License | https://pixabay.com/videos/id-40812/ |
+| pixabay | road  building  excavator  road repair  ukraine  workers | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-118616/ |
+| pexels | hand sorting euro banknotes on wooden table | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/hand-sorting-euro-banknotes-on-wooden-table-31568471/ |
+| pexels | a person getting keys on the table | SHVETS production | Pexels License | https://www.pexels.com/video/a-person-getting-keys-on-the-table-7986194/ |
+| pexels | couple holding house keys | RDNE Stock project | Pexels License | https://www.pexels.com/video/couple-holding-house-keys-8293504/ |
+| pexels | person giving the keys to the new home owner | Thirdman | Pexels License | https://www.pexels.com/video/person-giving-the-keys-to-the-new-home-owner-8482325/ |
+| pexels | hands of pianist playing piano | cottonbro studio | Pexels License | https://www.pexels.com/video/hands-of-pianist-playing-piano-10254021/ |
+| pexels | man busy at work | Yan Krukau | Pexels License | https://www.pexels.com/video/man-busy-at-work-7692787/ |
+| pexels | a key on people s hands | Kindel Media | Pexels License | https://www.pexels.com/video/a-key-on-people-s-hands-7766931/ |
+| pexels | a man using a power tool on a wood plank | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-using-a-power-tool-on-a-wood-plank-6790431/ |
+| pexels | a person giving a key to a couple | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-person-giving-a-key-to-a-couple-7647563/ |
+| pexels | close up of hands playing bluthner piano | 23  Audiovisual | Pexels License | https://www.pexels.com/video/close-up-of-hands-playing-bluthner-piano-36589136/ |
+| pexels | a working woman | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-working-woman-5682914/ |
+| pexels | warehouse employees preparing order | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/warehouse-employees-preparing-order-6169422/ |
+| pexels | woman talking to her boss | fauxels | Pexels License | https://www.pexels.com/video/woman-talking-to-her-boss-3255327/ |
+| pexels | a man posing while holding a clipboard | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-posing-while-holding-a-clipboard-6169407/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150364/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150341/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150347/ |
+| pixabay | the end  the finish  credits  movie  font  inscription | klimkin | Pixabay Content License | https://pixabay.com/videos/id-1860/ |
+| pixabay | aerial view  wilderness  land  skyline  4k  modern  virtual  | JosephSenior | Pixabay Content License | https://pixabay.com/videos/id-110946/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150352/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150337/ |
+| pixabay | chainsaw  saw  tool  machine  work  equipment  chain  wood   | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-150368/ |
+| pexels | pensive hooded man looking out window | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/pensive-hooded-man-looking-out-window-35890807/ |
+| pexels | a man sitting on the rock looking pensive | Martina Tomšič | Pexels License | https://www.pexels.com/video/a-man-sitting-on-the-rock-looking-pensive-5509004/ |
+| pexels | people coloring and painting while sitting | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/people-coloring-and-painting-while-sitting-7311284/ |
+| pexels | a boy writing on a paper | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-boy-writing-on-a-paper-5301822/ |
+| pexels | a person drawing circle using compass | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-person-drawing-circle-using-compass-7744348/ |
+| pexels | a person writing in a notebook with a blue pen | Адам Аушев | Pexels License | https://www.pexels.com/video/a-person-writing-in-a-notebook-with-a-blue-pen-28405797/ |
+| pexels | a close up of a man wearing goggles on his head | Nitin Khajotia | Pexels License | https://www.pexels.com/video/a-close-up-of-a-man-wearing-goggles-on-his-head-8278125/ |
+| pexels | a person writing in a diary | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-writing-in-a-diary-10673308/ |
+| pexels | a person writing on notebook | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-writing-on-notebook-10474629/ |
+| pexels | man writing on his notebook | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-writing-on-his-notebook-5212605/ |
+| pexels | a woman tutoring a kid at his home | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-tutoring-a-kid-at-his-home-5183315/ |
+| pexels | people studying and playing with a pen | cottonbro studio | Pexels License | https://www.pexels.com/video/people-studying-and-playing-with-a-pen-7128778/ |
+| pexels | close up of woman writing in notebook | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-of-woman-writing-in-notebook-11025558/ |
+| pexels | close up shot of a young man in denim thinking thoughtfully  | Ezekiel Olaleye | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-young-man-in-denim-thinking-thoughtfully-and-deeply-26837707/ |
+| pixabay | man  human  person  male  sad  depression  prayer  lonely  e | TonyDias7 | Pixabay Content License | https://pixabay.com/videos/id-326221/ |
+| pixabay | man  think  alone  emotion  lonely  quiet  to sit  nature  p | GIUSEPPE-DE-BERGOLIS | Pixabay Content License | https://pixabay.com/videos/id-123168/ |
+| pexels | two people walking outside while talking | Jack Sparrow | Pexels License | https://www.pexels.com/video/two-people-walking-outside-while-talking-5977046/ |
+| pexels | two people riding an elevator | Tiger Lily | Pexels License | https://www.pexels.com/video/two-people-riding-an-elevator-7148922/ |
+| pexels | people talking about kitchen utensils | cottonbro studio | Pexels License | https://www.pexels.com/video/people-talking-about-kitchen-utensils-7223589/ |
+| pexels | drone footage of workers at a farm | K | Pexels License | https://www.pexels.com/video/drone-footage-of-workers-at-a-farm-9455877/ |
+| pexels | farm workers harvesting rice in a flooded field | Nothing Ahead | Pexels License | https://www.pexels.com/video/farm-workers-harvesting-rice-in-a-flooded-field-13020380/ |
+| pexels | group of people having a coffee break | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/group-of-people-having-a-coffee-break-6339933/ |
+| pexels | two men working in a rice field | ❤️DREAM 2.0❤️ | Pexels License | https://www.pexels.com/video/two-men-working-in-a-rice-field-12268400/ |
+| pexels | two young men working in a vegetable garden | Greencycle Bangladesh | Pexels License | https://www.pexels.com/video/two-young-men-working-in-a-vegetable-garden-15355674/ |
+| pexels | a man pouring coffee to another man | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-pouring-coffee-to-another-man-7581295/ |
+| pexels | man shaking hands with his client | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-shaking-hands-with-his-client-7821623/ |
+| pexels | a man and a woman having some business arguments | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-having-some-business-arguments-5977119/ |
+| pexels | a man and woman talking and discussing documents | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-woman-talking-and-discussing-documents-5977458/ |
+| pexels | close up of skateboard wheel maintenance | khanhhoangminh  3 | Pexels License | https://www.pexels.com/video/close-up-of-skateboard-wheel-maintenance-28985126/ |
+| pexels | people harvesting vegetables from the field | Kindel Media | Pexels License | https://www.pexels.com/video/people-harvesting-vegetables-from-the-field-7456581/ |
+| pexels | a close up of a stone wall with a stone wall | Адам Аушев | Pexels License | https://www.pexels.com/video/a-close-up-of-a-stone-wall-with-a-stone-wall-28309302/ |
+| pexels | a close up of a rock wall with some rocks | Адам Аушев | Pexels License | https://www.pexels.com/video/a-close-up-of-a-rock-wall-with-some-rocks-28309337/ |
+| pexels | close up of joined hands on a rustic wall | Bolly Clips | Pexels License | https://www.pexels.com/video/close-up-of-joined-hands-on-a-rustic-wall-28727693/ |
+| pexels | close up shot of a woman doing rock climbing | Grisha Grishkoff | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-woman-doing-rock-climbing-5963291/ |
+| pexels | a close up of a stone wall with some holes in it | Адам Аушев | Pexels License | https://www.pexels.com/video/a-close-up-of-a-stone-wall-with-some-holes-in-it-28222218/ |
+| pexels | couple holding hands while walking together | cottonbro studio | Pexels License | https://www.pexels.com/video/couple-holding-hands-while-walking-together-6328529/ |
+| pexels | bearded man walking away | cottonbro studio | Pexels License | https://www.pexels.com/video/bearded-man-walking-away-6328469/ |
+| pexels | an aerial view of an old castle | Адам Аушев | Pexels License | https://www.pexels.com/video/an-aerial-view-of-an-old-castle-28246683/ |
+| pexels | serene sunlit park morning landscape | Duc Nguyen | Pexels License | https://www.pexels.com/video/serene-sunlit-park-morning-landscape-34531312/ |
+| pexels | aerial view of houses and trees | Marc Espejo | Pexels License | https://www.pexels.com/video/aerial-view-of-houses-and-trees-10225209/ |
+| pexels | a view of the city from a hillside | Griffin Wooldridge | Pexels License | https://www.pexels.com/video/a-view-of-the-city-from-a-hillside-18533883/ |
+| pexels | sunlight filtering through lush autumn trees | Dominik Gryzbon | Pexels License | https://www.pexels.com/video/sunlight-filtering-through-lush-autumn-trees-34551268/ |
+| pexels | aerial view of coastal park with walking path | Frederick Adegoke Snr. | Pexels License | https://www.pexels.com/video/aerial-view-of-coastal-park-with-walking-path-37224351/ |
+| pexels | the sun is setting over a field with trees | Milton Good | Pexels License | https://www.pexels.com/video/the-sun-is-setting-over-a-field-with-trees-17358131/ |
