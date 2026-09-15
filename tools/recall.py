@@ -68,6 +68,81 @@ def pre_score(c, shot, all_shots, avoid, rank):
     return s
 
 
+# words so common in stock metadata that matching on them means nothing
+GENERIC = {"work", "worker", "workers", "working", "people", "person", "man", "men", "woman",
+           "women", "video", "videos", "job", "team", "day", "time", "young", "old", "adult",
+           "professional", "business", "indoor", "outdoor", "background", "footage", "shot"}
+LIB_MAX = int(os.environ.get("STAGE_LIBRARY_MAX", "8"))   # of STAGE_N, how many may come off our own shelf
+
+
+def library_assets():
+    p = ROOT / "library" / "index.json"
+    if not p.exists():
+        return []
+    return [a for a in json.load(open(p)).get("assets", [])
+            if not a.get("dead") and a.get("type") == "video"
+            and str(a.get("preview", "")).startswith("http")]
+
+
+def shot_action_map(shots):
+    """What each shot is DOING, in the same vocabulary the library was indexed with."""
+    import build_library as bl
+    return {sh["id"]: set(bl.classify({"title": sh["text"], "query": sh.get("pexels", "")}, "")["actions"])
+            for sh in shots}
+
+
+def library_picks(shots, brand, seen, rejected, want, must_not):
+    """Serve the beat off our own shelf first. We already own 3,700+ clips with previews
+    built and uploaded, so a library hit costs one small download instead of a fetch,
+    a transcode and three uploads. Text match only — the judge still vets every one
+    against this beat's shots, exactly like a web candidate."""
+    picks, taken = [], set()
+    shot_actions = shot_action_map(shots)
+    if not any(shot_actions.values()):
+        return []                      # nothing to match on — let the web do this beat
+    for a in library_assets():
+        key = f"{a.get('source')}:{a.get('src_id')}"
+        purl = (a.get("page_url") or "").rstrip("/")
+        if key in seen or (purl and purl in seen) or key in rejected or key in taken:
+            continue
+        if a.get("brand") and a["brand"] != brand:
+            continue
+        words = " ".join([a.get("title") or "", a.get("query") or "",
+                          " ".join(a.get("tags") or []), " ".join(a.get("subjects") or []),
+                          " ".join(a.get("actions") or []), " ".join(a.get("setting") or [])])
+        if tb.blocked(words, brand):
+            continue
+        low = words.lower()
+        if any(m and m in low for m in must_not):
+            continue
+        t = toks(words)
+        acts = set(a.get("actions") or [])
+        best, best_shot, best_gen = 0.0, None, 0
+        for sh in shots:
+            # The VERB carries the meaning. "worker + garden" without the action is how
+            # generic footage gets in, so a shelf clip must be doing the same thing.
+            if not (acts & shot_actions.get(sh["id"], set())):
+                continue
+            hits = t & toks(sh["text"])
+            meaty = hits - GENERIC
+            if len(meaty) > best:
+                best, best_shot, best_gen = len(meaty), sh["id"], len(hits & GENERIC)
+        if best < 2 or best_shot is None:
+            continue
+        a = dict(a); a["shot"] = best_shot; a["_score"] = 4.0 * best + 0.5 * best_gen
+        picks.append(a); taken.add(key)
+    picks.sort(key=lambda a: -a["_score"])
+    out, per_shot = [], {}
+    cap = max(1, want // max(1, len(shots)) + 1)
+    for a in picks:
+        if len(out) >= want:
+            break
+        if per_shot.get(a["shot"], 0) >= cap:
+            continue
+        out.append(a); per_shot[a["shot"]] = per_shot.get(a["shot"], 0) + 1
+    return out
+
+
 def make_strip(preview, strip):
     """Three frames across the preview, tiled 3×1 — what the judge looks at."""
     r = tb.sh("ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(preview))
@@ -97,6 +172,12 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     shots = shot_order(scene, direction)
     must_not = [m.lower() for m in scene.get("must_not") or []]
     print(f"  recall v2: {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}")
+
+    # ---- our own shelf first -------------------------------------------------------
+    from_lib = library_picks(shots, profile, seen, rejected, min(LIB_MAX, STAGE_N), must_not) if not direction else []
+    if from_lib:
+        print(f"  library: {len(from_lib)} owned clip(s) fit this beat — no re-download needed")
+    web_target = max(0, STAGE_N - len(from_lib))
 
     # ---- recall: metadata only ----------------------------------------------------
     cands, tried = [], set()
@@ -129,7 +210,7 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
                     c["_score"] = pre_score(c, shot, shots, avoid, rank)
                     cands.append(c)
     print(f"  recalled {len(cands)} candidates from {len(shots)} shots")
-    if not cands:
+    if not cands and not from_lib:
         return 0
 
     # ---- shortlist: best score, spread across shots and sources -------------------
@@ -137,7 +218,7 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     picks, per_src, per_shot = [], {}, {}
     per_shot_cap = max(4, STAGE_N // max(1, len(shots)) + 2)
     for c in cands:
-        if len(picks) >= STAGE_N:
+        if len(picks) >= web_target:
             break
         if per_src.get(c["source"], 0) >= SOURCE_CAP.get(c["source"], 4):
             continue
@@ -153,6 +234,34 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
         td = pathlib.Path(td)
+        for a in from_lib:
+            stem = f"{slug}-{scene_id}-V{idx:02d}"
+            idx += 1
+            strip_url = ""
+            try:                                   # the preview is ~0.3 MB; a strip off it is seconds
+                pv = td / f"{stem}.pv.mp4"
+                with requests.get(a["preview"], stream=True, timeout=60, headers={"User-Agent": tb.UA}) as r:
+                    r.raise_for_status()
+                    with open(pv, "wb") as fh:
+                        for chunk in r.iter_content(1 << 20):
+                            fh.write(chunk)
+                st = td / f"{stem}.strip.jpg"
+                if make_strip(pv, st):
+                    strip_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "strip", st), st) or ""
+                pv.unlink(missing_ok=True)
+            except Exception as e:
+                print(f"    library strip failed for {stem}: {str(e)[:60]}")
+            scene.setdefault("clips", []).append({
+                "id": stem, "type": "video", "source": a.get("source", ""), "author": a.get("author", ""),
+                "license": a.get("license", ""), "page_url": a.get("page_url", ""),
+                "thumb": a.get("thumb", ""), "preview": a["preview"], "strip": strip_url,
+                "title": a.get("title", ""), "query": a.get("query", ""), "shot": a.get("shot", ""),
+                "src_id": a.get("src_id", ""), "download_url": a.get("download_url", ""),
+                "fresh": True, "added_by": "library", "staged_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                "judged": False, "shown": False,
+            })
+            credits.append(tb.credit_line(a))
+            added += 1
         for c in picks:
             stem = f"{slug}-{scene_id}-V{idx:02d}"
             idx += 1

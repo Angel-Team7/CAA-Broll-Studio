@@ -94,7 +94,9 @@ def facet(t, table):
     return out
 
 def classify(clip, brand):
-    text = " ".join(str(clip.get(k) or "") for k in ("title", "query", "id"))
+    # The judge's caption is the best description we have of a clip — a human-grade line
+    # about what is actually on screen — so index it alongside the stock metadata.
+    text = " ".join(str(clip.get(k) or "") for k in ("caption", "title", "query", "id"))
     cats = " ".join(clip.get("categories") or [])
     t = toks(text, cats)
     scale = next((k for k, ws in SCALE.items() if any(w in text.lower() for w in ws)), "medium")
