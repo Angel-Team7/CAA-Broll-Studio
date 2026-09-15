@@ -315,3 +315,118 @@
 | pixabay | door  gate  castle  fortress  nexus  passage  wall  stone  w | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-214855/ |
 | pixabay | wall  old  architecture | Matthias_Groeneveld | Pixabay Content License | https://pixabay.com/videos/id-20274/ |
 | pixabay | chopping  cutting  ingredients  mortar  garlic  prepare  gri | XiaosKitchen | Pixabay Content License | https://pixabay.com/videos/id-11606/ |
+| pexels | construction workers using shovels and wheelbarrow | Everett Bumstead | Pexels License | https://www.pexels.com/video/construction-workers-using-shovels-and-wheelbarrow-5434222/ |
+| pexels | a man and a woman working while eating at a cafe | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-working-while-eating-at-a-cafe-5977265/ |
+| pexels | man working warehouse talking | Tiger Lily | Pexels License | https://www.pexels.com/video/man-working-warehouse-talking-4293956/ |
+| pexels | a man handing out cleaning equipment to his co worker | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-handing-out-cleaning-equipment-to-his-co-worker-6195151/ |
+| pexels | close up video of people talking | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/close-up-video-of-people-talking-4991863/ |
+| pexels | men having a conversation while eating | Tiger Lily | Pexels License | https://www.pexels.com/video/men-having-a-conversation-while-eating-4296844/ |
+| pexels | men talking to each other | Norma Mortenson | Pexels License | https://www.pexels.com/video/men-talking-to-each-other-4168109/ |
+| pexels | close up video of a woman talking to a person | Mikhail Nilov | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-talking-to-a-person-8943559/ |
+| pexels | a woman going up the stairs while carrying a toolbox | Kindel Media | Pexels License | https://www.pexels.com/video/a-woman-going-up-the-stairs-while-carrying-a-toolbox-8487664/ |
+| pexels | people carrying a small plant | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-carrying-a-small-plant-8543981/ |
+| pexels | man planting a small tree | Kampus Production | Pexels License | https://www.pexels.com/video/man-planting-a-small-tree-7655273/ |
+| pexels | woman using her smartphone while above a ladder | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-using-her-smartphone-while-above-a-ladder-7112846/ |
+| pexels | man posing and looking at camrea while the couples are talki | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/man-posing-and-looking-at-camrea-while-the-couples-are-talking-7647254/ |
+| pexels | gardener digging in the garden patch | K | Pexels License | https://www.pexels.com/video/gardener-digging-in-the-garden-patch-37019468/ |
+| pixabay | craft  handcraft  ladder  working  repair  repairman  room   | faxtastic | Pixabay Content License | https://pixabay.com/videos/id-4504/ |
+| pixabay | walk  slow  legs  feet  shoes  trainers  pants  trousers  wa | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-47129/ |
+| pexels | men having a conversation while at work | Tiger Lily | Pexels License | https://www.pexels.com/video/men-having-a-conversation-while-at-work-4293960/ |
+| pexels | a man giving the middle finger | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-giving-the-middle-finger-10373988/ |
+| pexels | woman removing hair stick from bun | ArtHouse Studio | Pexels License | https://www.pexels.com/video/woman-removing-hair-stick-from-bun-6257873/ |
+| pexels | two women in red blazers talking while on an elevator | fauxels | Pexels License | https://www.pexels.com/video/two-women-in-red-blazers-talking-while-on-an-elevator-3045075/ |
+| pexels | a construction worker entering a building basement | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-construction-worker-entering-a-building-basement-5434217/ |
+| pexels | video of a man walking away | cottonbro studio | Pexels License | https://www.pexels.com/video/video-of-a-man-walking-away-7038135/ |
+| pixabay | traffic  london  england  left side driving  city  urban  uk | lizmavor | Pixabay Content License | https://pixabay.com/videos/id-21438/ |
+| pixabay | cologne  rhine  crane house  shipping  barge  freight transp | KlausHausmann | Pixabay Content License | https://pixabay.com/videos/id-8818/ |
+| pixabay | confetti  confetti from left  trending confetti  celebration | hirken8 | Pixabay Content License | https://pixabay.com/videos/id-121984/ |
+| pixabay | coffee  espresso  coffee beans  beans  cup  datailaufnahme   | ThorstenF | Pixabay Content License | https://pixabay.com/videos/id-15483/ |
+| pixabay | tomato sauce  ground beef  pasta  spaghetti  bolognese sauce | rogeriodasilvadotcom | Pixabay Content License | https://pixabay.com/videos/id-4658/ |
+| pixabay | system  web  news  people  characters  network  connection   | geralt | Pixabay Content License | https://pixabay.com/videos/id-697/ |
+| pixabay | seoul  street  traffic  cars  speed  motorcycle  people  mov | RafterJr72 | Pixabay Content License | https://pixabay.com/videos/id-21115/ |
+| pexels | close up video of a person cutting the wood | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-cutting-the-wood-8818344/ |
+| pexels | group of people discussing project close up | RDNE Stock project | Pexels License | https://www.pexels.com/video/group-of-people-discussing-project-close-up-5923505/ |
+| pexels | two people making their drawing while working together | Gustavo Fring | Pexels License | https://www.pexels.com/video/two-people-making-their-drawing-while-working-together-8779813/ |
+| pexels | a guy shaking hands with a woman while looking at the tablet | Theo  Decker | Pexels License | https://www.pexels.com/video/a-guy-shaking-hands-with-a-woman-while-looking-at-the-tablet-5941103/ |
+| pexels | a man teaching his team | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-man-teaching-his-team-4628736/ |
+| pexels | colleagues celebrating and stacking hands | fauxels | Pexels License | https://www.pexels.com/video/colleagues-celebrating-and-stacking-hands-3256548/ |
+| pexels | man and woman holding each others hand | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-and-woman-holding-each-others-hand-6646707/ |
+| pexels | group of people stacking hands together | Diva Plavalaguna | Pexels License | https://www.pexels.com/video/group-of-people-stacking-hands-together-6192771/ |
+| pexels | traditional straw crafting in nepalese village | Shital Khadgi | Pexels License | https://www.pexels.com/video/traditional-straw-crafting-in-nepalese-village-38976793/ |
+| pexels | colleagues discussing | Alena Darmel | Pexels License | https://www.pexels.com/video/colleagues-discussing-7660493/ |
+| pexels | men working together | Monstera Production | Pexels License | https://www.pexels.com/video/men-working-together-5285698/ |
+| pexels | man talking to women | Kampus Production | Pexels License | https://www.pexels.com/video/man-talking-to-women-8632593/ |
+| pexels | people discussing while writing on a glass | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/people-discussing-while-writing-on-a-glass-6913272/ |
+| pexels | male at work reporting | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/male-at-work-reporting-6561565/ |
+| pexels | a frustrated man looking at the time | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-frustrated-man-looking-at-the-time-8136376/ |
+| pexels | elderly man sleeping at work | Ron Lach | Pexels License | https://www.pexels.com/video/elderly-man-sleeping-at-work-8719401/ |
+| pexels | close up shot of a woman coughing | Edward Jenner | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-woman-coughing-4122606/ |
+| pexels | a tired woman massaging her eyes | cottonbro studio | Pexels License | https://www.pexels.com/video/a-tired-woman-massaging-her-eyes-9080637/ |
+| pexels | tired man looking at spinning towels inside a washing machin | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/tired-man-looking-at-spinning-towels-inside-a-washing-machine-8756623/ |
+| pexels | boy looking tired while self studying at his home | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/boy-looking-tired-while-self-studying-at-his-home-5182689/ |
+| pexels | a woman massaging her tired eyes | Marcus Aurelius | Pexels License | https://www.pexels.com/video/a-woman-massaging-her-tired-eyes-4115525/ |
+| pexels | city road person street | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/city-road-person-street-7252611/ |
+| pexels | a bored person with sad face | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-bored-person-with-sad-face-6032133/ |
+| pexels | a worker sanding a wood plank | cottonbro studio | Pexels License | https://www.pexels.com/video/a-worker-sanding-a-wood-plank-7482653/ |
+| pexels | a call center agent on his coffee break | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-call-center-agent-on-his-coffee-break-7683422/ |
+| pexels | a woman still working while feeling tired | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-still-working-while-feeling-tired-8086208/ |
+| pexels | a pedestrian traffic light | K | Pexels License | https://www.pexels.com/video/a-pedestrian-traffic-light-5514350/ |
+| pexels | a man sitting on the chair | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-man-sitting-on-the-chair-8135021/ |
+| pexels | a person doing gardening | CESAR CASANOVA | Pexels License | https://www.pexels.com/video/a-person-doing-gardening-9041934/ |
+| pexels | people doing gardening | Kampus Production | Pexels License | https://www.pexels.com/video/people-doing-gardening-7844382/ |
+| pexels | a man reading the sticky notes | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-reading-the-sticky-notes-6804116/ |
+| pexels | a person putting sticky notes on a glass wall | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-person-putting-sticky-notes-on-a-glass-wall-6563923/ |
+| pexels | a person cultivating the land | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-cultivating-the-land-7781742/ |
+| pexels | a person doing a report while working | Yan Krukau | Pexels License | https://www.pexels.com/video/a-person-doing-a-report-while-working-7791926/ |
+| pexels | person pinning paper on corkboard | Monstera Production | Pexels License | https://www.pexels.com/video/person-pinning-paper-on-corkboard-9306134/ |
+| pexels | person sticking sticky notes on a whiteboard | cottonbro studio | Pexels License | https://www.pexels.com/video/person-sticking-sticky-notes-on-a-whiteboard-7429487/ |
+| pexels | a person shoveling dirt | K | Pexels License | https://www.pexels.com/video/a-person-shoveling-dirt-6160034/ |
+| pexels | a person wearing gardening gloves digging in the dirt | K | Pexels License | https://www.pexels.com/video/a-person-wearing-gardening-gloves-digging-in-the-dirt-20521979/ |
+| pexels | video of person digging soil | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-person-digging-soil-4625734/ |
+| pexels | a person writing | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-writing-8257209/ |
+| pexels | person gardening | K | Pexels License | https://www.pexels.com/video/person-gardening-9477620/ |
+| pexels | person holding soil | Deeana Arts 🇵🇷 | Pexels License | https://www.pexels.com/video/person-holding-soil-3568957/ |
+| pixabay | tractor  crops  planting  soil  equipment  farming  agricult | kingimaging | Pixabay Content License | https://pixabay.com/videos/id-166485/ |
+| pexels | men having a conversation at work in the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/men-having-a-conversation-at-work-in-the-warehouse-4293549/ |
+| pexels | close up video of a woman hands | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-hands-7581217/ |
+| pexels | men wearing harness having a conversation | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/men-wearing-harness-having-a-conversation-8964931/ |
+| pexels | close up woman doing hand sign | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-woman-doing-hand-sign-10374288/ |
+| pexels | young woman and man talking while arriving at work | Theo  Decker | Pexels License | https://www.pexels.com/video/young-woman-and-man-talking-while-arriving-at-work-5941024/ |
+| pexels | close up view of a person wearing a blue shirt | RDNE Stock project | Pexels License | https://www.pexels.com/video/close-up-view-of-a-person-wearing-a-blue-shirt-5762291/ |
+| pexels | a man talking while walking back and forth | Yan Krukau | Pexels License | https://www.pexels.com/video/a-man-talking-while-walking-back-and-forth-8865837/ |
+| pexels | man and woman talking while walking | August de Richelieu | Pexels License | https://www.pexels.com/video/man-and-woman-talking-while-walking-4480596/ |
+| pexels | colleagues having a conversation | Kindel Media | Pexels License | https://www.pexels.com/video/colleagues-having-a-conversation-7652233/ |
+| pexels | two women in a business discussion while walking | fauxels | Pexels License | https://www.pexels.com/video/two-women-in-a-business-discussion-while-walking-3044844/ |
+| pexels | a man and a woman discussing proposal on the street | Jack Sparrow | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-discussing-proposal-on-the-street-5977056/ |
+| pexels | person doing non verbal communication with hands | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-doing-non-verbal-communication-with-hands-10373873/ |
+| pexels | a patient talking to a psychotherapist | Kampus Production | Pexels License | https://www.pexels.com/video/a-patient-talking-to-a-psychotherapist-8428212/ |
+| pexels | people talking | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-talking-6149774/ |
+| pixabay | boy  talk  conversation  people  mirror  reflection | Marsel_beijing | Pixabay Content License | https://pixabay.com/videos/id-119698/ |
+| pexels | finger pointing at document text close up | Media Hopper Studio | Pexels License | https://www.pexels.com/video/finger-pointing-at-document-text-close-up-30614439/ |
+| pexels | close up video of a finger pointing the floor plan | Ivan S | Pexels License | https://www.pexels.com/video/close-up-video-of-a-finger-pointing-the-floor-plan-8960786/ |
+| pexels | a close up shot of people reading the flyers | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-close-up-shot-of-people-reading-the-flyers-7647680/ |
+| pexels | close up view of people checking a blueprint | Alena Darmel | Pexels License | https://www.pexels.com/video/close-up-view-of-people-checking-a-blueprint-7646443/ |
+| pexels | a person drawing lines | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-drawing-lines-6614807/ |
+| pexels | close up of energy bill review with hands | Giorgio Tomassetti | Pexels License | https://www.pexels.com/video/close-up-of-energy-bill-review-with-hands-35402332/ |
+| pexels | close up of a person writing in a notebook | Alena Darmel | Pexels License | https://www.pexels.com/video/close-up-of-a-person-writing-in-a-notebook-8141654/ |
+| pexels | close up footage of a blueprint | Thirdman | Pexels License | https://www.pexels.com/video/close-up-footage-of-a-blueprint-8471104/ |
+| pexels | a person passing out missing posters | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-passing-out-missing-posters-10349947/ |
+| pexels | a man using a walkie talkie while at the site | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-using-a-walkie-talkie-while-at-the-site-8963857/ |
+| pexels | man and woman having a conversation | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/man-and-woman-having-a-conversation-8964728/ |
+| pexels | aerial view of modern construction site | Fazlul Kader Chowdhury | Pexels License | https://www.pexels.com/video/aerial-view-of-modern-construction-site-31696674/ |
+| pexels | people looking at floor plan | Yan Krukau | Pexels License | https://www.pexels.com/video/people-looking-at-floor-plan-8836122/ |
+| pexels | construction site workers | This Viktọ | Pexels License | https://www.pexels.com/video/construction-site-workers-10810477/ |
+| pexels | hand planer close up | Everett Bumstead | Pexels License | https://www.pexels.com/video/hand-planer-close-up-20663018/ |
+| pexels | working on wood using plane | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/working-on-wood-using-plane-6789895/ |
+| pexels | power sanding in a wood shop | Everett Bumstead | Pexels License | https://www.pexels.com/video/power-sanding-in-a-wood-shop-20184478/ |
+| pexels | painting a piece of wood | Aleksandar Petrovic | Pexels License | https://www.pexels.com/video/painting-a-piece-of-wood-6561655/ |
+| pexels | a person sanding a wood plank | K | Pexels License | https://www.pexels.com/video/a-person-sanding-a-wood-plank-7165543/ |
+| pexels | a man holding a chisel | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-holding-a-chisel-4480558/ |
+| pexels | engineers looking at the blueprint they are holding | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/engineers-looking-at-the-blueprint-they-are-holding-8964792/ |
+| pexels | a man brushing a lumber wood | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-brushing-a-lumber-wood-5973223/ |
+| pexels | person using a hammer | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-using-a-hammer-4957775/ |
+| pexels | engineers looking at the construction site while having a di | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/engineers-looking-at-the-construction-site-while-having-a-discussion-8964772/ |
+| pexels | a man and woman standing while looking at the site | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-woman-standing-while-looking-at-the-site-8964770/ |
+| pexels | serene evening stroll along decorated bridge | Tường Chopper | Pexels License | https://www.pexels.com/video/serene-evening-stroll-along-decorated-bridge-31933595/ |
+| pexels | female engineers having a discussion | Kindel Media | Pexels License | https://www.pexels.com/video/female-engineers-having-a-discussion-8487985/ |
+| pexels | a man and woman talking while looking at the clipboard | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/a-man-and-woman-talking-while-looking-at-the-clipboard-8964380/ |

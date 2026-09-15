@@ -7,14 +7,18 @@
     "S01": {
       "requested": "2026-09-15T15:03:21Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:05:22Z",
+      "added": 15
     },
     "S02": {
       "requested": "2026-09-15T15:03:22Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:07:31Z",
+      "added": 14
     },
     "S03": {
       "requested": "2026-09-15T13:45:52Z",
@@ -26,38 +30,50 @@
     "S04": {
       "requested": "2026-09-15T15:03:23Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:09:09Z",
+      "added": 14
     },
     "S05": {
       "requested": "2026-09-15T15:03:24Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:10:38Z",
+      "added": 14
     },
     "S06": {
       "requested": "2026-09-15T15:03:25Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:12:12Z",
+      "added": 15
     },
     "S07": {
       "requested": "2026-09-15T15:03:26Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:13:52Z",
+      "added": 15
     },
     "S08": {
       "requested": "2026-09-15T15:03:27Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:15:19Z",
+      "added": 14
     },
     "S09": {
       "requested": "2026-09-15T15:03:28Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:17:01Z",
+      "added": 14
     },
     "S10": {
       "requested": "2026-09-15T15:03:29Z",
