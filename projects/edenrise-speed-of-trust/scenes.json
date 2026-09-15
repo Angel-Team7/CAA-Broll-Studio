@@ -2262,32 +2262,32 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "worker quietly covering up a broken tool and walking away",
-     "pexels": "worker walking away frustrated",
-     "pixabay": "worker walking away",
+     "id": "E",
+     "text": "a worker walking away from a colleague, leaving them standing",
+     "pexels": "man walking away from colleague",
+     "pixabay": "man walking away person",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "two workers turning away from each other, not speaking",
-     "pexels": "coworkers ignoring each other",
-     "pixabay": "people ignoring each other",
+     "id": "F",
+     "text": "a man standing alone with arms crossed, closed off",
+     "pexels": "man arms crossed outdoors serious",
+     "pixabay": "man arms crossed",
      "scale": "medium"
     },
     {
-     "id": "C",
-     "text": "a job left half finished, tools abandoned on the ground",
-     "pexels": "abandoned tools construction",
-     "pixabay": "tools left ground",
-     "scale": "close"
-    },
-    {
-     "id": "D",
-     "text": "wide of a yard where nothing is moving, work stalled",
-     "pexels": "empty construction site quiet",
-     "pixabay": "empty site quiet",
+     "id": "G",
+     "text": "an unfinished wall left half built",
+     "pexels": "unfinished brick wall construction",
+     "pixabay": "unfinished wall bricks",
      "scale": "wide"
+    },
+    {
+     "id": "H",
+     "text": "close-up of a worried face looking down",
+     "pexels": "worried man looking down close",
+     "pixabay": "worried face looking down",
+     "scale": "close"
     }
    ],
    "must_not": [
@@ -2297,7 +2297,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-15T15:22:31Z",
@@ -4048,32 +4048,32 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "two workers making a quick decision on the spot beside the work",
-     "pexels": "workers talking solution site",
-     "pixabay": "workers discussing solution",
+     "id": "E",
+     "text": "two workers agreeing quickly, a nod and straight back to work",
+     "pexels": "two men agreeing nodding work",
+     "pixabay": "men agreeing nod",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "a worker pointing out a problem early and calmly to a colleague",
-     "pexels": "worker pointing showing colleague",
-     "pixabay": "worker pointing colleague",
-     "scale": "medium"
-    },
-    {
-     "id": "C",
-     "text": "close-up of four hands working together on one task",
-     "pexels": "hands working together",
-     "pixabay": "hands teamwork together",
-     "scale": "close"
-    },
-    {
-     "id": "D",
-     "text": "wide of a crew collaborating freely across a garden",
-     "pexels": "team working garden together",
-     "pixabay": "team garden working",
+     "id": "F",
+     "text": "a crew working in sync on one task",
+     "pexels": "team working together construction",
+     "pixabay": "team working together",
      "scale": "wide"
+    },
+    {
+     "id": "G",
+     "text": "two workers planning quickly over a plan outdoors",
+     "pexels": "workers planning outdoors quickly",
+     "pixabay": "workers planning outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "H",
+     "text": "close-up of two hands working on the same piece",
+     "pexels": "two pairs hands working together",
+     "pixabay": "hands working together close",
+     "scale": "close"
     }
    ],
    "must_not": [
@@ -4083,7 +4083,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-15T15:22:31Z",
@@ -5187,42 +5187,42 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "a worker re-checking work another has already done",
-     "pexels": "supervisor checking work",
-     "pixabay": "supervisor checking worker",
+     "id": "E",
+     "text": "a worker checking a watch, waiting for something that has not come",
+     "pexels": "man checking watch waiting",
+     "pixabay": "man checking watch",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "a job being taken apart and done a second time",
-     "pexels": "worker fixing mistake wall",
-     "pixabay": "worker redoing wall",
+     "id": "F",
+     "text": "a tired worker rubbing his eyes at the end of a long day",
+     "pexels": "tired man rubbing eyes",
+     "pixabay": "tired man rubbing eyes",
+     "scale": "close"
+    },
+    {
+     "id": "G",
+     "text": "a worker sitting down exhausted, head lowered",
+     "pexels": "exhausted worker sitting head down",
+     "pixabay": "exhausted worker sitting",
      "scale": "medium"
     },
     {
-     "id": "C",
-     "text": "a worker standing waiting with nothing to do",
-     "pexels": "worker waiting doing nothing",
-     "pixabay": "worker waiting bored",
-     "scale": "wide"
-    },
-    {
-     "id": "D",
-     "text": "close-up of a tired face at the end of a long day",
-     "pexels": "exhausted worker end of day",
-     "pixabay": "tired worker evening",
+     "id": "H",
+     "text": "a stack of paperwork and clipboards piling up",
+     "pexels": "stack of paperwork clipboard",
+     "pixabay": "paperwork stack documents",
      "scale": "close"
     }
    ],
    "must_not": [
-    "office",
-    "meeting room",
-    "smiling crew",
+    "office desk",
+    "boardroom",
+    "suits",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-15T15:22:31Z",
@@ -7513,32 +7513,32 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "two workers having an honest conversation face to face beside the work",
-     "pexels": "two coworkers serious conversation",
-     "pixabay": "two people serious talk",
+     "id": "E",
+     "text": "two men in work clothes talking seriously face to face",
+     "pexels": "two men talking seriously outdoors",
+     "pixabay": "two men serious talking",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "close-up of open hands while speaking, calm not aggressive",
-     "pexels": "hands gesturing while talking",
-     "pixabay": "hands gesture talking",
-     "scale": "close"
-    },
-    {
-     "id": "C",
-     "text": "a worker turning to a colleague to raise something, steady eye contact",
-     "pexels": "man talking to colleague outdoors",
-     "pixabay": "man talking colleague",
+     "id": "F",
+     "text": "a man explaining something with his hands to another",
+     "pexels": "man explaining gesturing another man",
+     "pixabay": "man explaining gesture",
      "scale": "medium"
     },
     {
-     "id": "D",
-     "text": "wide of the two walking on together afterwards",
-     "pexels": "two workers walking talking",
-     "pixabay": "workers walking talking",
+     "id": "G",
+     "text": "two farmers talking at the edge of a field",
+     "pexels": "two farmers talking field",
+     "pixabay": "farmers talking field",
      "scale": "wide"
+    },
+    {
+     "id": "H",
+     "text": "close-up of a calm face speaking honestly",
+     "pexels": "man speaking close up outdoors",
+     "pixabay": "man speaking face close",
+     "scale": "close"
     }
    ],
    "must_not": [
@@ -7549,7 +7549,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-15T15:22:31Z",
@@ -12741,42 +12741,42 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "a foreman handing over the tool and the job, then walking away",
-     "pexels": "foreman giving tools to worker",
-     "pixabay": "foreman giving tool",
+     "id": "E",
+     "text": "an experienced worker handing tools to a younger one",
+     "pexels": "mentor handing tools young worker",
+     "pixabay": "mentor handing tools",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "a younger worker finishing the task alone, concentrating",
-     "pexels": "young worker working alone",
-     "pixabay": "young worker alone",
+     "id": "F",
+     "text": "a young worker working confidently on his own",
+     "pexels": "young worker working confidently",
+     "pixabay": "young worker working",
      "scale": "medium"
     },
     {
-     "id": "C",
-     "text": "close-up of a hand receiving a set of keys or a tool",
-     "pexels": "handing over keys close up",
-     "pixabay": "handing keys hand",
-     "scale": "close"
-    },
-    {
-     "id": "D",
-     "text": "wide of the finished work the younger worker did alone",
-     "pexels": "landscaped garden finished",
-     "pixabay": "garden finished wide",
+     "id": "G",
+     "text": "an older worker watching from a distance, letting them get on with it",
+     "pexels": "older worker watching from distance",
+     "pixabay": "older man watching worker",
      "scale": "wide"
+    },
+    {
+     "id": "H",
+     "text": "close-up of a hand receiving a tool",
+     "pexels": "hand receiving tool close up",
+     "pixabay": "hand receiving tool",
+     "scale": "close"
     }
    ],
    "must_not": [
     "office",
-    "supervisor watching over shoulder",
+    "supervisor over shoulder",
     "suits",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-15T15:30:57Z",
@@ -14974,41 +14974,41 @@
    ],
    "shots": [
     {
-     "id": "A",
-     "text": "two workers shaking hands over a fence at the end of a job",
-     "pexels": "farmers shaking hands field",
-     "pixabay": "farmers handshake field",
+     "id": "E",
+     "text": "two workers shaking hands outdoors at the end of a job",
+     "pexels": "workers shaking hands outdoors",
+     "pixabay": "handshake workers outdoor",
      "scale": "medium"
     },
     {
-     "id": "B",
-     "text": "close-up of a quiet word between two people at work",
-     "pexels": "two workers quiet talk",
-     "pixabay": "two workers talking close",
+     "id": "F",
+     "text": "a hand placed on a colleague's shoulder",
+     "pexels": "hand on shoulder support man",
+     "pixabay": "hand shoulder support",
      "scale": "close"
     },
     {
-     "id": "C",
-     "text": "a correction accepted with a nod, work continuing",
-     "pexels": "worker nodding agreement",
-     "pixabay": "man nodding agreement",
+     "id": "G",
+     "text": "two workers fist bump after finishing something",
+     "pexels": "workers fist bump teamwork",
+     "pixabay": "fist bump workers",
      "scale": "medium"
     },
     {
-     "id": "D",
-     "text": "close-up of a tool or key passed from one hand to another",
-     "pexels": "passing tool between hands",
-     "pixabay": "tool passing hands",
-     "scale": "close"
+     "id": "H",
+     "text": "wide of two people working side by side through the day",
+     "pexels": "two people working side by side",
+     "pixabay": "two people working side",
+     "scale": "wide"
     }
    ],
    "must_not": [
     "office",
-    "business handshake in suits",
+    "business handshake suits",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-15T13:45:33Z",
+   "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-15T15:33:19Z",
