@@ -214,7 +214,18 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
         return 0
 
     # ---- shortlist: best score, spread across shots and sources -------------------
+    # NEVER PAD. Filling 24 slots whether or not the results fit is how a beat ends up
+    # with 22 clips the judge scores 3/10 — half an hour of downloading junk. Keep only
+    # candidates in reach of the best one, and stage fewer when the search came back thin.
     cands.sort(key=lambda c: -c["_score"])
+    if cands:
+        top = cands[0]["_score"]
+        floor = max(2.0, 0.4 * top)
+        keep = [c for c in cands if c["_score"] >= floor]
+        if len(keep) < len(cands):
+            print(f"  no-pad: {len(keep)} of {len(cands)} candidates are in reach of the best "
+                  f"(score ≥ {floor:.1f} of {top:.1f}) — the rest are not staged")
+        cands = keep
     picks, per_src, per_shot = [], {}, {}
     per_shot_cap = max(4, STAGE_N // max(1, len(shots)) + 2)
     for c in cands:
