@@ -15,8 +15,10 @@
     "S02": {
       "requested": "2026-09-15T15:50:29Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:53:33Z",
+      "added": 18
     },
     "S03": {
       "requested": "2026-09-15T13:45:52Z",
@@ -28,14 +30,18 @@
     "S04": {
       "requested": "2026-09-15T15:50:30Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:55:49Z",
+      "added": 19
     },
     "S05": {
       "requested": "2026-09-15T15:50:31Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T15:57:41Z",
+      "added": 16
     },
     "S06": {
       "requested": "2026-09-15T15:03:25Z",
@@ -48,8 +54,10 @@
     "S07": {
       "requested": "2026-09-15T15:50:32Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T16:00:18Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-15T15:03:27Z",
@@ -85,8 +93,10 @@
     "S12": {
       "requested": "2026-09-15T15:50:33Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T16:01:57Z",
+      "added": 14
     },
     "S13": {
       "requested": "2026-09-15T15:03:31Z",
@@ -99,8 +109,10 @@
     "S14": {
       "requested": "2026-09-15T15:50:34Z",
       "note": "",
-      "done": false,
-      "reason": "direction"
+      "done": true,
+      "reason": "direction",
+      "fulfilled": "2026-09-15T16:03:57Z",
+      "added": 18
     },
     "S15": {
       "requested": "2026-09-15T15:03:33Z",
