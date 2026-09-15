@@ -1,0 +1,768 @@
+{
+ "title": "Edenrise — The Speed of Trust",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "Think about a person you really trust at work. When they say they'll do something, you believe them. You can speak openly with them. You don't waste time second-guessing their intentions. And when something goes wrong, you know you can have an honest conversation and move forward.",
+   "visual_direction": "Someone you trust at work: two grounds workers who clearly rely on each other — a tool handed over before it is asked for, easy eye contact, no hesitation.",
+   "onscreen": "The Speed of Trust",
+   "t": 0.0,
+   "end": 19.45,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two grounds workers side by side, one hands a tool over without being asked",
+     "pexels": "worker handing tool to colleague garden",
+     "pixabay": "workers tool handing teamwork",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of one worker steadying a ladder while the other climbs",
+     "pexels": "holding ladder steady for colleague",
+     "pixabay": "ladder holding worker help",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a small crew working calmly together in a garden at morning",
+     "pexels": "small crew working together garden morning",
+     "pixabay": "crew garden working morning",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two workers talking easily over a wheelbarrow, relaxed",
+     "pexels": "two workers talking over wheelbarrow",
+     "pixabay": "workers wheelbarrow talking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "suits",
+    "laptop",
+    "boardroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "Now imagine the opposite. Information gets withheld. Promises are made but not kept. Mistakes get hidden. People start checking up on each other, protecting themselves and questioning motives. Everything slows down.",
+   "visual_direction": "The opposite: work stalling. Someone quietly hiding a mistake, two people avoiding each other, a job half-done and left, a worker re-checking another's work behind their back.",
+   "onscreen": "Withheld · Unkept · Hidden · Checked",
+   "t": 19.45,
+   "end": 32.28,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker quietly covering up a broken tool and walking away",
+     "pexels": "worker hiding broken tool walking away",
+     "pixabay": "broken tool worker leaving",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two workers turning away from each other, not speaking",
+     "pexels": "two workers turning away silent",
+     "pixabay": "workers apart silent outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "a job left half finished, tools abandoned on the ground",
+     "pexels": "unfinished work tools left on ground",
+     "pixabay": "unfinished work tools ground",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a yard where nothing is moving, work stalled",
+     "pexels": "empty work yard nothing moving",
+     "pixabay": "empty yard stalled work",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "smiling crew",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "This is one of the central ideas in Stephen M. R. Covey's The Speed of Trust: When trust goes up, speed goes up and cost goes down. When trust goes down, speed goes down and cost goes up.",
+   "visual_direction": "The central idea as motion: a crew moving fast and smoothly through a job, contrasted with the same kind of work grinding slowly.",
+   "onscreen": "Trust up → speed up, cost down.  Trust down → speed down, cost up.",
+   "t": 32.28,
+   "end": 48.0,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew moving fast and smoothly passing materials down a line",
+     "pexels": "workers passing materials quickly line",
+     "pixabay": "workers passing materials chain",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "the same kind of work grinding slowly, one worker struggling alone",
+     "pexels": "worker struggling alone heavy load",
+     "pixabay": "worker struggling load alone",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands working quickly and surely",
+     "pexels": "skilled hands working quickly close up",
+     "pixabay": "hands working fast close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "stopwatch graphics",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "Covey describes this as the difference between a Trust Dividend and a Trust Tax. In a high-trust environment, communication is faster. Decisions are easier. People collaborate more freely. Problems are raised earlier.",
+   "visual_direction": "The dividend: a short decision made on the spot between two workers, a problem pointed out early and calmly, hands working together on one task.",
+   "onscreen": "Trust Dividend",
+   "t": 48.0,
+   "end": 61.24,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers making a quick decision on the spot beside the work",
+     "pexels": "two workers deciding quickly on site",
+     "pixabay": "workers deciding site quick",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a worker pointing out a problem early and calmly to a colleague",
+     "pexels": "worker pointing out problem calmly colleague",
+     "pixabay": "worker pointing problem colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of four hands working together on one task",
+     "pexels": "four hands working together one task",
+     "pixabay": "hands together working task",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a crew collaborating freely across a garden",
+     "pexels": "crew collaborating across garden wide",
+     "pixabay": "crew garden collaboration",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "meeting room",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "But low-trust organisations pay a tax. More meetings. More checking. More misunderstandings. More delays. And more stress.",
+   "visual_direction": "The tax: the same work weighed down — repeated checking, a job re-done, a worker waiting with nothing to do, visible fatigue at the end of the day.",
+   "onscreen": "Trust Tax",
+   "t": 61.24,
+   "end": 68.28,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker re-checking work another has already done",
+     "pexels": "worker rechecking colleague finished work",
+     "pixabay": "worker checking work again",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a job being taken apart and done a second time",
+     "pexels": "worker redoing job second time",
+     "pixabay": "worker redoing work",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "a worker standing waiting with nothing to do",
+     "pexels": "worker standing waiting idle site",
+     "pixabay": "worker waiting idle",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a tired face at the end of a long day",
+     "pexels": "tired worker face end of day",
+     "pixabay": "tired worker face close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "meeting room",
+    "smiling crew",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "Trust isn't simply a nice value to put on the wall. It has a practical and economic impact. And every one of us contributes to it. So how do we build more trust? Here are six behaviours we can start practising immediately.",
+   "visual_direction": "Not a poster but a practice: a values card pinned in a shed, then hands actually doing the work. Every person on the crew contributes.",
+   "onscreen": "Six behaviours",
+   "t": 68.28,
+   "end": 85.66,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a values card pinned on a shed wall, nobody reading it",
+     "pexels": "card pinned on shed wall",
+     "pixabay": "note pinned wall shed",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "hands actually doing the work instead, soil and tools",
+     "pexels": "hands working soil with tools",
+     "pixabay": "hands soil tools working",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of the whole crew at work, each person contributing",
+     "pexels": "whole crew at work each contributing",
+     "pixabay": "crew working together wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "poster graphics",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "Number one: talk straight. Say what you mean. Be honest about problems. Have the conversations that need to be had. Talking straight doesn't mean being aggressive or insensitive. It means being clear, respectful and truthful. Instead of allowing frustration to build, say: \"I think we may have a problem here. Can we talk about it?\" A short, honest conversation today can prevent a much larger problem tomorrow.",
+   "visual_direction": "Talk straight: two workers having the honest conversation calmly, face to face beside the work — open hands, steady eye contact, no aggression.",
+   "onscreen": "1 · Talk straight",
+   "t": 85.66,
+   "end": 113.38,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers having an honest conversation face to face beside the work",
+     "pexels": "two workers honest conversation beside work",
+     "pixabay": "workers honest conversation outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of open hands while speaking, calm not aggressive",
+     "pexels": "open hands talking calmly close up",
+     "pixabay": "open hands talking gesture",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a worker turning to a colleague to raise something, steady eye contact",
+     "pexels": "worker raising issue with colleague eye contact",
+     "pixabay": "worker colleague eye contact",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the two walking on together afterwards",
+     "pexels": "two workers walking on together after talk",
+     "pixabay": "workers walking together after",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "shouting",
+    "argument",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "Number two: create clarity. A surprising amount of conflict comes from unclear expectations. One person thinks success means one thing. Another thinks it means something completely different. Before important work begins, get clear. What are we trying to achieve? Who is responsible for what? When does it need to happen? And what does a successful result look like? Clarity builds confidence. Ambiguity creates distrust.",
+   "visual_direction": "Create clarity: a foreman and crew around a plan on a tailgate before the work starts — pointing at the drawing, marking out the ground, agreeing who does what.",
+   "onscreen": "2 · Create clarity",
+   "t": 113.38,
+   "end": 139.86,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman and crew around a plan spread on a tailgate before work starts",
+     "pexels": "foreman crew plan on tailgate",
+     "pixabay": "foreman crew plan tailgate",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a finger tracing a line on a drawing",
+     "pexels": "finger tracing line on drawing",
+     "pixabay": "finger drawing plan tracing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "marking out the ground with string and pegs before digging",
+     "pexels": "marking ground with string and pegs",
+     "pixabay": "string pegs marking ground",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two workers agreeing who does what, pointing at different areas",
+     "pexels": "workers agreeing tasks pointing areas",
+     "pixabay": "workers pointing tasks agreeing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "whiteboard",
+    "meeting room",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S09",
+   "script_line": "Number three: keep commitments. Trust is built when our words and actions match. If you say you are going to do something, do everything you reasonably can to follow through. Sometimes circumstances change. The important thing is to communicate early. If you can no longer deliver what you promised, say: \"Something has changed. Here's the situation, and here's what I propose we do.\" Trust does not require perfection. It requires integrity.",
+   "visual_direction": "Keep commitments: a worker finishing the job they said they would, in the rain if needed; and telling a colleague early when something has changed.",
+   "onscreen": "3 · Keep commitments",
+   "t": 139.86,
+   "end": 169.24,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker finishing the job they promised, working on in the rain",
+     "pexels": "worker finishing job in the rain",
+     "pixabay": "worker rain finishing work",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands completing the last part of a task",
+     "pexels": "hands completing last part of task",
+     "pixabay": "hands finishing task close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a worker telling a colleague early that something has changed",
+     "pexels": "worker telling colleague news early",
+     "pixabay": "worker telling colleague outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the finished job at the end of the day",
+     "pexels": "finished job end of day wide",
+     "pixabay": "finished work evening wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "calendar graphics",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S10",
+   "script_line": "Number four: practise accountability. When something goes wrong, low-trust cultures ask: Who can we blame? High-trust cultures ask: What happened? What can we learn? And how do we fix it? If you made the mistake, own it. Imagine someone simply saying: \"That was my responsibility. I got it wrong. Here's what I'm doing to correct it.\" Taking responsibility doesn't weaken credibility. Very often, it strengthens it.",
+   "visual_direction": "Accountability: a worker owning a mistake in front of the crew — hand on chest, calm face — then putting it right with their own hands.",
+   "onscreen": "4 · Practise accountability",
+   "t": 169.24,
+   "end": 196.55,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker owning a mistake in front of colleagues, hand on chest",
+     "pexels": "worker admitting mistake hand on chest",
+     "pixabay": "worker admitting mistake",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of the damaged work being examined together",
+     "pexels": "two workers examining damaged work close",
+     "pixabay": "workers examining damage close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "the same worker putting it right with their own hands",
+     "pexels": "worker repairing own mistake hands",
+     "pixabay": "worker repairing fixing hands",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of the crew carrying on together afterwards",
+     "pexels": "crew continuing work together after",
+     "pixabay": "crew working on together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "blame pointing finger",
+    "shouting",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S11",
+   "script_line": "Number five: listen first. Many trust problems begin with assumptions. We assume we know why someone behaved a certain way. We assume they don't care. We assume they had bad intentions. But assumptions are not facts. Instead, become curious. Ask: \"Help me understand what happened.\" Listen before defending. Understand before judging. People are far more likely to trust us when they feel genuinely heard.",
+   "visual_direction": "Listen first: one worker genuinely listening while another explains — leaning in, not interrupting, a nod of understanding.",
+   "onscreen": "5 · Listen first",
+   "t": 196.55,
+   "end": 223.03,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "one worker listening while another explains, leaning in",
+     "pexels": "worker listening colleague explaining leaning in",
+     "pixabay": "worker listening explaining outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a listening face, a nod of understanding",
+     "pexels": "listening face nodding close up",
+     "pixabay": "listening nod face close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers sitting on a tailgate talking it through",
+     "pexels": "two workers sitting tailgate talking",
+     "pixabay": "workers tailgate talking sitting",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of two people talking at the edge of a field",
+     "pexels": "two people talking edge of field",
+     "pixabay": "two people field talking",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "interrupting",
+    "argument",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S12",
+   "script_line": "Number six: extend trust. Trust also has to be given. If capable people are constantly monitored and second-guessed, eventually they stop taking initiative. Strong leaders give people appropriate responsibility and allow them to own the result. That doesn't mean blind trust. It means what Covey describes as smart trust. Consider the situation. Consider the person's competence and character. Then give them enough trust to act. Responsibility grows when people are trusted with responsibility.",
+   "visual_direction": "Extend trust: a foreman handing over the tool and the job and walking away, leaving a younger worker to finish it alone — and the worker rising to it.",
+   "onscreen": "6 · Extend trust",
+   "t": 223.03,
+   "end": 253.24,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a foreman handing over the tool and the job, then walking away",
+     "pexels": "foreman handing tool to worker leaving",
+     "pixabay": "foreman handing tool worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a younger worker finishing the task alone, concentrating",
+     "pexels": "young worker finishing task alone",
+     "pixabay": "young worker working alone",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand receiving a set of keys or a tool",
+     "pexels": "hand receiving keys close up",
+     "pixabay": "hand receiving keys tool",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of the finished work the younger worker did alone",
+     "pexels": "finished garden work wide morning",
+     "pixabay": "finished garden work wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "supervisor watching over shoulder",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S13",
+   "script_line": "So here is a simple challenge. During the next week, pay attention to the trust you create around you. Ask yourself: Do I speak honestly? Do I make expectations clear? Do I keep my commitments? Do I take responsibility for my mistakes? Do I genuinely listen? And do I give trustworthy people the opportunity to take ownership?",
+   "visual_direction": "The challenge: a worker alone at the end of a shift, thinking it over and writing the questions down in a small notebook.",
+   "onscreen": "Your week: honest · clear · committed · accountable · listening · trusting",
+   "t": 253.24,
+   "end": 276.83,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker alone at the end of a shift writing in a small notebook",
+     "pexels": "worker writing notebook end of shift",
+     "pixabay": "worker notebook writing evening",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a pencil writing a short list on a card",
+     "pexels": "pencil writing short list on card",
+     "pixabay": "pencil card writing close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a worker sitting on a step looking out, thinking",
+     "pexels": "worker sitting on step thinking",
+     "pixabay": "worker sitting step thinking",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "laptop",
+    "suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S14",
+   "script_line": "Trust is not created by one big event. It is created through hundreds of small moments. A promise kept. A difficult truth spoken respectfully. A mistake acknowledged. A person listened to. A responsibility entrusted.",
+   "visual_direction": "Hundreds of small moments, shown as small moments: a hand shaking on a deal by the fence, a quiet word, a correction accepted, a key or tool passed over.",
+   "onscreen": "Hundreds of small moments",
+   "t": 276.83,
+   "end": 290.9,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers shaking hands over a fence at the end of a job",
+     "pexels": "two workers shaking hands over fence",
+     "pixabay": "workers handshake fence outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a quiet word between two people at work",
+     "pexels": "quiet word between two workers close",
+     "pixabay": "two workers quiet talk close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a correction accepted with a nod, work continuing",
+     "pexels": "worker accepting correction nodding",
+     "pixabay": "worker nodding correction",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a tool or key passed from one hand to another",
+     "pexels": "tool passed from hand to hand",
+     "pixabay": "tool passing hands close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "business handshake in suits",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  },
+  {
+   "id": "S15",
+   "script_line": "Over time, those moments create something extremely valuable. A team where people can move quickly because they don't have to protect themselves from one another. A team where communication becomes easier. Where accountability becomes normal. And where more energy can be spent doing great work. So if you want better communication, stronger teamwork and better performance, start with trust. Because when trust increases, almost everything else becomes easier.",
+   "visual_direction": "What it adds up to: a crew moving quickly and easily together, finishing well, and a wide closing shot of the finished work in good light.",
+   "onscreen": "Start with trust",
+   "t": 290.9,
+   "end": 319.03,
+   "timing_source": "estimated",
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a crew moving quickly and easily together to finish a job",
+     "pexels": "crew working quickly together finishing",
+     "pixabay": "crew finishing work together",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide closing shot of finished landscaped grounds in warm light",
+     "pexels": "finished landscaped grounds warm light",
+     "pixabay": "landscaped grounds finished light",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two workers' hands resting on a finished wall",
+     "pexels": "hands resting on finished wall",
+     "pixabay": "hands finished wall close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "the crew walking off together at the end of the day",
+     "pexels": "crew walking off together end of day",
+     "pixabay": "crew walking together evening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "suits",
+    "face masks",
+    "hi-vis crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-15T13:45:33Z"
+  }
+ ]
+}
