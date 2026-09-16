@@ -2881,7 +2881,7 @@
      "shoot": "pexels-ring-filing",
      "score": 6.65,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 5
+     "rank": 6
     },
     {
      "id": "edenrise-speed-of-trust-S03-V01",
@@ -2911,7 +2911,7 @@
      "shoot": "pexels-lathe-craft",
      "score": 6.65,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 6
+     "rank": 7
     },
     {
      "id": "edenrise-speed-of-trust-S03-V02",
@@ -2933,7 +2933,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:52:12Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 6,
      "brand_fit": 6,
      "caption": "a gloved hand sketches a pattern surely on hide",
@@ -2941,7 +2941,7 @@
      "shoot": "pexels-leather-draw",
      "score": 6.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 9
+     "rank": 12
     },
     {
      "id": "edenrise-speed-of-trust-S03-V03",
@@ -2971,7 +2971,7 @@
      "shoot": "pexels-loader-tractor",
      "score": 1.35,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 37
+     "rank": 45
     },
     {
      "id": "edenrise-speed-of-trust-S03-V04",
@@ -2993,7 +2993,7 @@
      "added_by": "recall-v2",
      "staged_at": "2026-09-15T13:52:27Z",
      "judged": true,
-     "shown": true,
+     "shown": false,
      "relevance": 6,
      "brand_fit": 6,
      "caption": "close-up of hands scoring a wood surface with a blade",
@@ -3001,7 +3001,7 @@
      "shoot": "pexels-wood-cut-closeup",
      "score": 6.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 10
+     "rank": 13
     },
     {
      "id": "edenrise-speed-of-trust-S03-V05",
@@ -3031,7 +3031,7 @@
      "shoot": "pexels-electrical-repair",
      "score": 5.35,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 13
+     "rank": 16
     },
     {
      "id": "edenrise-speed-of-trust-S03-V06",
@@ -3061,7 +3061,7 @@
      "shoot": "pexels-leather-grind",
      "score": 6.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 11
+     "rank": 14
     },
     {
      "id": "edenrise-speed-of-trust-S03-V07",
@@ -3091,7 +3091,7 @@
      "shoot": "pexels-leather-cut",
      "score": 6.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 12
+     "rank": 15
     },
     {
      "id": "edenrise-speed-of-trust-S03-V08",
@@ -3151,7 +3151,7 @@
      "shoot": "pexels-jewelry-craft",
      "score": 7.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 4
+     "rank": 5
     },
     {
      "id": "edenrise-speed-of-trust-S03-V10",
@@ -3211,7 +3211,7 @@
      "shoot": "pexels-crane-rebar",
      "score": 1.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 40
+     "rank": 52
     },
     {
      "id": "edenrise-speed-of-trust-S03-V12",
@@ -3241,7 +3241,7 @@
      "shoot": "pexels-rebar-warehouse",
      "score": 1.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 41
+     "rank": 53
     },
     {
      "id": "edenrise-speed-of-trust-S03-V13",
@@ -3271,7 +3271,7 @@
      "shoot": "pexels-factory-bulk",
      "score": 0.65,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 43
+     "rank": 55
     },
     {
      "id": "edenrise-speed-of-trust-S03-V14",
@@ -3301,7 +3301,7 @@
      "shoot": "pixabay-cement-mixer",
      "score": 3.05,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 20
+     "rank": 26
     },
     {
      "id": "edenrise-speed-of-trust-S03-V15",
@@ -3331,7 +3331,7 @@
      "shoot": "pixabay-scrap-yard",
      "score": 0.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 47
+     "rank": 61
     },
     {
      "id": "edenrise-speed-of-trust-S03-V16",
@@ -3361,7 +3361,7 @@
      "shoot": "pixabay-train-speed",
      "score": 1.35,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 38
+     "rank": 46
     },
     {
      "id": "edenrise-speed-of-trust-S03-V17",
@@ -3391,7 +3391,7 @@
      "shoot": "pixabay-crane-trees",
      "score": 0.35,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 46
+     "rank": 59
     },
     {
      "id": "edenrise-speed-of-trust-S03-V18",
@@ -3421,7 +3421,7 @@
      "shoot": "pixabay-chili-loading",
      "score": 0.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 48
+     "rank": 62
     },
     {
      "id": "edenrise-speed-of-trust-S03-V19",
@@ -3451,7 +3451,7 @@
      "shoot": "pixabay-chili-loading",
      "score": 0.0,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 49
+     "rank": 63
     },
     {
      "id": "edenrise-speed-of-trust-S03-V20",
@@ -3481,7 +3481,7 @@
      "shoot": "pixabay-street-squeegee",
      "score": 2.7,
      "judged_at": "2026-09-15T14:15:37Z",
-     "rank": 23
+     "rank": 30
     },
     {
      "id": "edenrise-speed-of-trust-S03-V21",
@@ -3511,7 +3511,7 @@
      "shoot": "pexels-scaffold-brickhouse",
      "score": 2.3,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 26
+     "rank": 33
     },
     {
      "id": "edenrise-speed-of-trust-S03-V22",
@@ -3541,7 +3541,7 @@
      "shoot": "pexels-brickyard-wide",
      "score": 2.95,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 21
+     "rank": 28
     },
     {
      "id": "edenrise-speed-of-trust-S03-V23",
@@ -3571,7 +3571,7 @@
      "shoot": "pexels-brickwall-pair",
      "score": 6.35,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 8
+     "rank": 10
     },
     {
      "id": "edenrise-speed-of-trust-S03-V24",
@@ -3601,7 +3601,7 @@
      "shoot": "pexels-brick-machine",
      "score": 1.3,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 39
+     "rank": 49
     },
     {
      "id": "edenrise-speed-of-trust-S03-V25",
@@ -3631,7 +3631,7 @@
      "shoot": "pexels-excavator-site",
      "score": 3.95,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 16
+     "rank": 20
     },
     {
      "id": "edenrise-speed-of-trust-S03-V26",
@@ -3661,7 +3661,7 @@
      "shoot": "pexels-cement-mixer-crew",
      "score": 2.95,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 22
+     "rank": 29
     },
     {
      "id": "edenrise-speed-of-trust-S03-V27",
@@ -3691,7 +3691,7 @@
      "shoot": "pexels-brick-loading-pair",
      "score": 6.65,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 7
+     "rank": 8
     },
     {
      "id": "edenrise-speed-of-trust-S03-V28",
@@ -3721,7 +3721,7 @@
      "shoot": "pexels-outdoor-cooking",
      "score": 2.4,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 25
+     "rank": 32
     },
     {
      "id": "edenrise-speed-of-trust-S03-V29",
@@ -3751,7 +3751,7 @@
      "shoot": "pexels-masked-worker",
      "score": 1.95,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 31
+     "rank": 39
     },
     {
      "id": "edenrise-speed-of-trust-S03-V30",
@@ -3781,7 +3781,7 @@
      "shoot": "pexels-dust-site",
      "score": 3.3,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 18
+     "rank": 22
     },
     {
      "id": "edenrise-speed-of-trust-S03-V31",
@@ -3811,7 +3811,7 @@
      "shoot": "pexels-shoulder-pole",
      "score": 3.7,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 17
+     "rank": 21
     },
     {
      "id": "edenrise-speed-of-trust-S03-V32",
@@ -3871,7 +3871,7 @@
      "shoot": "pexels-dark-workshop",
      "score": 3.25,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 19
+     "rank": 23
     },
     {
      "id": "edenrise-speed-of-trust-S03-V34",
@@ -3901,7 +3901,7 @@
      "shoot": "pexels-warehouse-trolley",
      "score": 2.65,
      "judged_at": "2026-09-16T10:12:23Z",
-     "rank": 24
+     "rank": 31
     },
     {
      "id": "edenrise-speed-of-trust-S03-V35",
@@ -3931,7 +3931,7 @@
      "shoot": "pexels-factory-conveyor",
      "score": 0.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 44
+     "rank": 56
     },
     {
      "id": "edenrise-speed-of-trust-S03-V36",
@@ -3961,7 +3961,7 @@
      "shoot": "pexels-bricks-headcarry",
      "score": 2.3,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 27
+     "rank": 34
     },
     {
      "id": "edenrise-speed-of-trust-S03-V37",
@@ -3991,7 +3991,7 @@
      "shoot": "pexels-aerial-construction",
      "score": 1.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 32
+     "rank": 40
     },
     {
      "id": "edenrise-speed-of-trust-S03-V38",
@@ -4021,7 +4021,7 @@
      "shoot": "pexels-truck-construction",
      "score": 1.0,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 42
+     "rank": 54
     },
     {
      "id": "edenrise-speed-of-trust-S03-V39",
@@ -4051,7 +4051,7 @@
      "shoot": "pexels-brickyard-carry",
      "score": 2.3,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 28
+     "rank": 35
     },
     {
      "id": "edenrise-speed-of-trust-S03-V40",
@@ -4081,7 +4081,7 @@
      "shoot": "pexels-plaster-wall",
      "score": 4.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 15
+     "rank": 18
     },
     {
      "id": "edenrise-speed-of-trust-S03-V41",
@@ -4111,7 +4111,7 @@
      "shoot": "pexels-brick-machine",
      "score": 1.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 33
+     "rank": 41
     },
     {
      "id": "edenrise-speed-of-trust-S03-V42",
@@ -4141,7 +4141,7 @@
      "shoot": "pexels-roadworks-jackhammer",
      "score": 1.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 34
+     "rank": 42
     },
     {
      "id": "edenrise-speed-of-trust-S03-V43",
@@ -4171,7 +4171,7 @@
      "shoot": "pexels-brickyard-cart",
      "score": 1.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 35
+     "rank": 43
     },
     {
      "id": "edenrise-speed-of-trust-S03-V44",
@@ -4201,7 +4201,7 @@
      "shoot": "pexels-bricks-overhead",
      "score": 2.3,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 29
+     "rank": 36
     },
     {
      "id": "edenrise-speed-of-trust-S03-V45",
@@ -4231,7 +4231,7 @@
      "shoot": "pexels-forklift-lumber",
      "score": 1.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 36
+     "rank": 44
     },
     {
      "id": "edenrise-speed-of-trust-S03-V46",
@@ -4261,7 +4261,7 @@
      "shoot": "pexels-sackcarry-rural",
      "score": 2.0,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 30
+     "rank": 37
     },
     {
      "id": "edenrise-speed-of-trust-S03-V47",
@@ -4291,7 +4291,7 @@
      "shoot": "pexels-cementmixer-wheelbarrow",
      "score": 5.0,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 14
+     "rank": 17
     },
     {
      "id": "edenrise-speed-of-trust-S03-V48",
@@ -4321,7 +4321,7 @@
      "shoot": "pexels-warehouse-box",
      "score": 0.65,
      "judged_at": "2026-09-16T10:18:07Z",
-     "rank": 45
+     "rank": 57
     },
     {
      "id": "edenrise-speed-of-trust-S03-V49",
@@ -4335,15 +4335,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V49.strip.jpg",
      "title": "aerial view of train on rural track in winter",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "",
      "duration": 50,
      "src_id": "29016437",
      "download_url": "https://videos.pexels.com/video-files/29016437/12546259_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a train moves through a snowy rural landscape from above",
+     "violation": "",
+     "shoot": "pexels-aerial-train",
+     "score": 0.35,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 60
     },
     {
      "id": "edenrise-speed-of-trust-S03-V50",
@@ -4364,8 +4372,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "factory workers lift steel beams together in a smoky industrial hall",
+     "violation": "factory / assembly line, smoke-filled industrial hall",
+     "shoot": "pexels-steel-factory",
+     "score": 3.25,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 24
     },
     {
      "id": "edenrise-speed-of-trust-S03-V51",
@@ -4379,15 +4395,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V51.strip.jpg",
      "title": "a man painting the asphalt floor of a road",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "B",
      "duration": 10,
      "src_id": "7408971",
      "download_url": "https://videos.pexels.com/video-files/7408971/7408971-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a road worker paints a crosswalk alone at a city intersection",
+     "violation": "",
+     "shoot": "pexels-road-paint",
+     "score": 3.0,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 27
     },
     {
      "id": "edenrise-speed-of-trust-S03-V52",
@@ -4408,8 +4432,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "workers build a low brick wall together in an open yard",
+     "violation": "",
+     "shoot": "pexels-wall-build",
+     "score": 6.35,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 11
     },
     {
      "id": "edenrise-speed-of-trust-S03-V53",
@@ -4423,15 +4455,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V53.strip.jpg",
      "title": "street sweepers taking a break on sidewalk",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "",
      "duration": 5,
      "src_id": "31337218",
      "download_url": "https://videos.pexels.com/video-files/31337218/13375562_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "street sweepers in orange vests sit resting against a wall",
+     "violation": "crowd in matching uniforms, urban infrastructure workers",
+     "shoot": "pexels-street-sweepers",
+     "score": 1.35,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 47
     },
     {
      "id": "edenrise-speed-of-trust-S03-V54",
@@ -4445,15 +4485,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V54.strip.jpg",
      "title": "aerial view of brick kilns in gazipur bangladesh",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "32943452",
      "download_url": "https://videos.pexels.com/video-files/32943452/14040538_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of a large brick kiln and factory yard by a river",
+     "violation": "factory / industrial production site",
+     "shoot": "pexels-brick-kiln-aerial",
+     "score": 0.65,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 58
     },
     {
      "id": "edenrise-speed-of-trust-S03-V55",
@@ -4474,8 +4522,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "workers pour concrete from a mixer at a building site",
+     "violation": "face mask visible on a worker",
+     "shoot": "pexels-cement-mixer",
+     "score": 3.25,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 25
     },
     {
      "id": "edenrise-speed-of-trust-S03-V56",
@@ -4489,15 +4545,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V56.strip.jpg",
      "title": "aerial view of modern residential construction site",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "",
      "duration": 24,
      "src_id": "33051078",
      "download_url": "https://videos.pexels.com/video-files/33051078/14087142_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "aerial view of a large concrete housing development under construction",
+     "violation": "",
+     "shoot": "pexels-housing-aerial",
+     "score": 1.35,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 48
     },
     {
      "id": "edenrise-speed-of-trust-S03-V57",
@@ -4511,15 +4575,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V57.strip.jpg",
      "title": "industrial worker arranging bricks outdoors",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "B",
      "duration": 12,
      "src_id": "36437156",
      "download_url": "https://videos.pexels.com/video-files/36437156/15450954_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a man bends to arrange rows of bricks alone in a yard",
+     "violation": "",
+     "shoot": "pexels-brick-arrange-solo",
+     "score": 6.65,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 9
     },
     {
      "id": "edenrise-speed-of-trust-S03-V58",
@@ -4533,15 +4605,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V58.strip.jpg",
      "title": "construction worker arranging bricks on job site",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "B",
      "duration": 13,
      "src_id": "38240889",
      "download_url": "https://videos.pexels.com/video-files/38240889/16237402_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:21:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a man in white walks past a pile of red bricks",
+     "violation": "",
+     "shoot": "pexels-brick-walk",
+     "score": 4.35,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 19
     },
     {
      "id": "edenrise-speed-of-trust-S03-V59",
@@ -4555,15 +4635,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V59.strip.jpg",
      "title": "two men loading boxes in a van",
      "query": "worker carrying heavy load alone",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "9507645",
      "download_url": "https://videos.pexels.com/video-files/9507645/9507645-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:22:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two men load cardboard boxes into the back of a van",
+     "violation": "",
+     "shoot": "pexels-van-loading",
+     "score": 2.0,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 38
     },
     {
      "id": "edenrise-speed-of-trust-S03-V60",
@@ -4584,8 +4672,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:22:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 9,
+     "caption": "a man leads a loaded mule up a green hillside path",
+     "violation": "",
+     "shoot": "pexels-mule-farm",
+     "score": 7.05,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 4
     },
     {
      "id": "edenrise-speed-of-trust-S03-V61",
@@ -4599,15 +4695,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V61.strip.jpg",
      "title": "man looking at the camera while sitting on a forklift",
      "query": "worker carrying heavy load alone",
-     "shot": "B",
+     "shot": "",
      "duration": 10,
      "src_id": "4295734",
      "download_url": "https://videos.pexels.com/video-files/4295734/4295734-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:22:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man sits on a forklift and stares directly into the camera",
+     "violation": "intense stare into camera, industrial yard",
+     "shoot": "pexels-forklift-stare",
+     "score": 1.3,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 50
     },
     {
      "id": "edenrise-speed-of-trust-S03-V62",
@@ -4621,15 +4725,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V62.strip.jpg",
      "title": "video footage of hardware warehouse",
      "query": "worker carrying heavy load alone",
-     "shot": "B",
+     "shot": "",
      "duration": 43,
      "src_id": "4727768",
      "download_url": "https://videos.pexels.com/video-files/4727768/4727768-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-16T10:22:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "forklifts move through the aisles of a hardware warehouse",
+     "violation": "warehouse / industrial retail setting",
+     "shoot": "pexels-warehouse-forklift",
+     "score": 1.3,
+     "judged_at": "2026-09-16T10:24:16Z",
+     "rank": 51
     }
    ],
    "shots": [
@@ -4663,7 +4775,7 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-16T10:18:07Z"
+   "judged_at": "2026-09-16T10:24:16Z"
   },
   {
    "id": "S04",
