@@ -634,3 +634,17 @@
 | pexels | a pair of hands working and molding a clay | cottonbro studio | Pexels License | https://www.pexels.com/video/a-pair-of-hands-working-and-molding-a-clay-6754420/ |
 | pexels | skilled craftsman working in workshop | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-craftsman-working-in-workshop-39310419/ |
 | pexels | close up shot of a man pushing a trolley | Tiger Lily | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-man-pushing-a-trolley-4292302/ |
+| pexels | people working together in a factory | Amar  Preciado | Pexels License | https://www.pexels.com/video/people-working-together-in-a-factory-8633310/ |
+| pexels | laborer carrying bricks on construction site | Arunangshu Banerjee | Pexels License | https://www.pexels.com/video/laborer-carrying-bricks-on-construction-site-32534659/ |
+| pexels | construction of brick structures | TR Studio | Pexels License | https://www.pexels.com/video/construction-of-brick-structures-35411576/ |
+| pexels | red truck on rural road with construction sites | aksinfo7 universe | Pexels License | https://www.pexels.com/video/red-truck-on-rural-road-with-construction-sites-29845858/ |
+| pexels | brick workers laboring at construction site outdoors | Faisal Ibne Kalam | Pexels License | https://www.pexels.com/video/brick-workers-laboring-at-construction-site-outdoors-37500917/ |
+| pexels | construction workers applying cement to wall | Sergei Starostin | Pexels License | https://www.pexels.com/video/construction-workers-applying-cement-to-wall-34572321/ |
+| pexels | workers processing bricks at outdoor construction site | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/workers-processing-bricks-at-outdoor-construction-site-37640485/ |
+| pexels | a man using a jack hammer | George Morina | Pexels License | https://www.pexels.com/video/a-man-using-a-jack-hammer-6719463/ |
+| pexels | workers with cart | manas patra | Pexels License | https://www.pexels.com/video/workers-with-cart-11798563/ |
+| pexels | woman stacking bricks on her head | Nishant Aneja | Pexels License | https://www.pexels.com/video/woman-stacking-bricks-on-her-head-9148719/ |
+| pexels | construction site forklift moving lumber efficiently | Usman AbdulrasheedGambo | Pexels License | https://www.pexels.com/video/construction-site-forklift-moving-lumber-efficiently-32244798/ |
+| pexels | men carrying heavy bag | khanhhoangminh | Pexels License | https://www.pexels.com/video/men-carrying-heavy-bag-8803459/ |
+| pexels | mezcla de cemento 2 | Giovanni Franco | Pexels License | https://www.pexels.com/video/mezcla-de-cemento-2-18775028/ |
+| pexels | man lifting box inside the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/man-lifting-box-inside-the-warehouse-4292578/ |
