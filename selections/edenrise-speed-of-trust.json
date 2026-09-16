@@ -1,6 +1,6 @@
 {
   "project": "edenrise-speed-of-trust",
-  "updated": "2026-09-16T10:15:20.599Z",
+  "updated": "2026-09-16T10:15:56.645Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -41,6 +41,9 @@
     ],
     "S14": [
       "edenrise-speed-of-trust-S14-V20"
+    ],
+    "S15": [
+      "edenrise-speed-of-trust-S15-V35"
     ]
   },
   "needs_broll": {
@@ -77,9 +80,7 @@
         "alone",
         "load"
       ],
-      "done": true,
-      "fulfilled": "2026-09-16T10:15:33Z",
-      "added": 14
+      "done": false
     },
     "S04": {
       "requested": "2026-09-15T15:50:30Z",
