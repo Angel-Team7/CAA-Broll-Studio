@@ -620,3 +620,17 @@
 | pixabay | girl  karate  sport  fight  competition  fist  kick  defense | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-241405/ |
 | pixabay | girl  teen  teenager  martial arts  karate  sport  fight  ki | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-236320/ |
 | pixabay | maternity  expecting  motherhood  pregnancy  baby  light  mo | holy_ff | Pixabay Content License | https://pixabay.com/videos/id-245204/ |
+| pexels | men working with the tiles of the house | K | Pexels License | https://www.pexels.com/video/men-working-with-the-tiles-of-the-house-3978637/ |
+| pexels | rural brickmakers at work on a sunny day | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/rural-brickmakers-at-work-on-a-sunny-day-37500520/ |
+| pexels | men working on construction | khanhhoangminh | Pexels License | https://www.pexels.com/video/men-working-on-construction-11355903/ |
+| pexels | efficient brick production with automated machine | Abdul Wali Khan | Pexels License | https://www.pexels.com/video/efficient-brick-production-with-automated-machine-36437155/ |
+| pexels | construction workers building foundation at site | Sergei Starostin | Pexels License | https://www.pexels.com/video/construction-workers-building-foundation-at-site-34521514/ |
+| pexels | a group of men are working on a cement mixer | Ammad Rasool | Pexels License | https://www.pexels.com/video/a-group-of-men-are-working-on-a-cement-mixer-26288497/ |
+| pexels | hardworking indian laborers loading bricks onto truck | Sahil Mishra | Pexels License | https://www.pexels.com/video/hardworking-indian-laborers-loading-bricks-onto-truck-32165834/ |
+| pexels | a man is cooking potatoes in an outdoor oven | khanhhoangminh | Pexels License | https://www.pexels.com/video/a-man-is-cooking-potatoes-in-an-outdoor-oven-15842191/ |
+| pexels | man standing at the construction site | Nishant Aneja | Pexels License | https://www.pexels.com/video/man-standing-at-the-construction-site-9226230/ |
+| pexels | construction workers are working on a building | Nishant Aneja | Pexels License | https://www.pexels.com/video/construction-workers-are-working-on-a-building-9226051/ |
+| pexels | a man carrying water buckets down a dirt road | SUMON AHMED | Pexels License | https://www.pexels.com/video/a-man-carrying-water-buckets-down-a-dirt-road-27576641/ |
+| pexels | a pair of hands working and molding a clay | cottonbro studio | Pexels License | https://www.pexels.com/video/a-pair-of-hands-working-and-molding-a-clay-6754420/ |
+| pexels | skilled craftsman working in workshop | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-craftsman-working-in-workshop-39310419/ |
+| pexels | close up shot of a man pushing a trolley | Tiger Lily | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-man-pushing-a-trolley-4292302/ |
