@@ -2537,3 +2537,33 @@
 | pexels |  | Polina ⠀ | Pexels License | https://www.pexels.com/video/video-of-a-bedroom-5644684/ |
 | pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-placing-a-pillow-in-a-pillowcase-10555336/ |
 | pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-swimmer-in-the-pool-6012160/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/people-in-the-office-7844876/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/group-of-people-in-a-meeting-7655220/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-having-a-meeting-7804837/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/nighttime-outdoor-gathering-with-social-interaction-39329490/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/people-sitting-in-front-of-lighted-candles-8811058/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/people-having-a-conversation-6017627/ |
+| pexels |  | Eva Bronzini | Pexels License | https://www.pexels.com/video/close-up-view-of-spinning-vinyl-in-graphic-design-7606544/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/person-cleaning-picture-frame-4440684/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/creepy-woman-looking-at-a-mirror-6961936/ |
+| pixabay | welcome  channel  message  information  hello  text | olenchic | Pixabay Content License | https://pixabay.com/videos/id-201292/ |
+| pixabay | venice  italy  people  channel  street  tour  travel  city   | caelan | Pixabay Content License | https://pixabay.com/videos/id-51130/ |
+| pixabay | venice  italy  street  people  boats  city  travel  architec | caelan | Pixabay Content License | https://pixabay.com/videos/id-51129/ |
+| pexels |  | Ignacio Pereira | Pexels License | https://www.pexels.com/video/solar-panels-on-plains-12277500/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/solar-panel-in-rows-used-for-energy-production-2804595/ |
+| pexels |  | Bedrijfsfilmspecialist.nl | Pexels License | https://www.pexels.com/video/solar-panels-2887464/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/close-up-shot-of-various-ceramic-items-in-a-shelf-7280012/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/a-man-placing-a-ceramic-cup-on-a-table-9736288/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-putting-a-stalk-in-a-vase-6739246/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-waking-up-on-her-bed-5983721/ |
+| pexels |  | Owen Mathias | Pexels License | https://www.pexels.com/video/modern-cozy-bedroom-with-minimalist-decor-34954995/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-walking-towards-the-bed-and-tried-to-arrange-beddings-6863726/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-swimming-fast-in-the-pool-6012157/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/video-of-a-swimming-pool-underwater-6616502/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/woman-in-swimsuit-sitting-on-poolside-6012324/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-man-teaching-a-young-girl-surfing-6299842/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/girl-learning-how-to-surf-6299801/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-walking-on-water-5679348/ |
+| pexels |  | Alazar Ferrazzini | Pexels License | https://www.pexels.com/video/aerial-view-of-lone-horseback-rider-in-open-field-31963935/ |
+| pexels |  | Ojyrai Films | Pexels License | https://www.pexels.com/video/four-people-riding-horses-9607638/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-riding-of-a-horses-together-9466531/ |
