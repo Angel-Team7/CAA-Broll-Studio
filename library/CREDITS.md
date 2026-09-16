@@ -2507,3 +2507,33 @@
 | pexels |  | Leeloo The First | Pexels License | https://www.pexels.com/video/flowers-on-an-open-book-6955280/ |
 | pexels |  | Leeloo The First | Pexels License | https://www.pexels.com/video/candles-and-flowers-on-bed-6955265/ |
 | pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-sitting-on-her-bed-while-stretching-her-arms-5983665/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/a-woman-touching-her-face-and-body-8955763/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-showing-her-clothing-designs-7775087/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/women-looking-at-camera-8136834/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/plant-shadow-on-a-wall-4238473/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/shadow-on-pavement-with-sparse-vegetation-34575707/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-eating-noodles-7594431/ |
+| pexels |  | Nicole Michalou | Pexels License | https://www.pexels.com/video/passing-the-glass-pitcher-of-lemonade-tea-5747354/ |
+| pexels |  | Cemrecan Yurtman | Pexels License | https://www.pexels.com/video/traditional-middle-eastern-iftar-gathering-36587237/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/a-vineyard-with-grapes-growing-on-it-27679995/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/a-video-of-a-grapevine-6895105/ |
+| pexels |  | Koji Waki | Pexels License | https://www.pexels.com/video/close-up-view-of-a-grape-vines-5449159/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/female-hands-stacking-ceramic-bowls-and-dishes-5564616/ |
+| pixabay | plate  gas  fire  kitchen  matches  burns  prepare | Amina_Salim | Pixabay Content License | https://pixabay.com/videos/id-141854/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-and-woman-talking-6949557/ |
+| pixabay | fire  burn  flame  light  wood  orange  fireplace  burning | Christopher_OToole_Images | Pixabay Content License | https://pixabay.com/videos/id-21664/ |
+| pixabay | fire  flames  wood  burn  campfire  hot  warmth  embers  fir | NickyPe | Pixabay Content License | https://pixabay.com/videos/id-192687/ |
+| pixabay | fireplace  fire  wood  house  winter  heat  holiday cottage  | 1837081 | Pixabay Content License | https://pixabay.com/videos/id-7070/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-close-up-of-a-watering-hose-in-the-dirt-20521978/ |
+| pexels |  | Erkan Avanoğlu | Pexels License | https://www.pexels.com/video/river-water-flowing-from-the-dam-gates-3820576/ |
+| pexels |  | SweeMing YOUNG | Pexels License | https://www.pexels.com/video/aerial-view-of-vast-green-paddy-fields-33056980/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-drone-shot-over-a-solar-panel-farm-4324105/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/aerial-view-of-expansive-solar-panel-farm-33004948/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/aerial-view-of-vast-solar-panel-farm-in-countryside-32939545/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/modern-minimalist-hotel-lobby-interior-36188237/ |
+| pixabay | fire  fireplace  warm  heat  hot  red  home  flame  winter   | tiburi | Pixabay Content License | https://pixabay.com/videos/id-7489/ |
+| pixabay | fireplace  fire  wood  house  winter  heat  holiday cottage  | 1837081 | Pixabay Content License | https://pixabay.com/videos/id-7069/ |
+| pexels |  | Max Vakhtbovych | Pexels License | https://www.pexels.com/video/warm-and-cozy-bedroom-7749196/ |
+| pexels |  | Polina ⠀ | Pexels License | https://www.pexels.com/video/video-of-a-bedroom-5644684/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-woman-placing-a-pillow-in-a-pillowcase-10555336/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-swimmer-in-the-pool-6012160/ |
