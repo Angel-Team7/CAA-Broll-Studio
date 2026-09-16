@@ -648,3 +648,17 @@
 | pexels | men carrying heavy bag | khanhhoangminh | Pexels License | https://www.pexels.com/video/men-carrying-heavy-bag-8803459/ |
 | pexels | mezcla de cemento 2 | Giovanni Franco | Pexels License | https://www.pexels.com/video/mezcla-de-cemento-2-18775028/ |
 | pexels | man lifting box inside the warehouse | Tiger Lily | Pexels License | https://www.pexels.com/video/man-lifting-box-inside-the-warehouse-4292578/ |
+| pexels | aerial view of train on rural track in winter | Rudy Cummings | Pexels License | https://www.pexels.com/video/aerial-view-of-train-on-rural-track-in-winter-29016437/ |
+| pexels | industrial workers in steel fabrication plant | ranjeet . | Pexels License | https://www.pexels.com/video/industrial-workers-in-steel-fabrication-plant-33855578/ |
+| pexels | a man painting the asphalt floor of a road | K | Pexels License | https://www.pexels.com/video/a-man-painting-the-asphalt-floor-of-a-road-7408971/ |
+| pexels | construction workers building brick wall outdoors | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/construction-workers-building-brick-wall-outdoors-37500519/ |
+| pexels | street sweepers taking a break on sidewalk | Shariar Tawsif | Pexels License | https://www.pexels.com/video/street-sweepers-taking-a-break-on-sidewalk-31337218/ |
+| pexels | aerial view of brick kilns in gazipur bangladesh | Emrul Kausar Emon | Pexels License | https://www.pexels.com/video/aerial-view-of-brick-kilns-in-gazipur-bangladesh-32943452/ |
+| pexels | workers using concrete mixer at construction site | Nafhathulla Murungoli | Pexels License | https://www.pexels.com/video/workers-using-concrete-mixer-at-construction-site-29537791/ |
+| pexels | aerial view of modern residential construction site | mg shotz | Pexels License | https://www.pexels.com/video/aerial-view-of-modern-residential-construction-site-33051078/ |
+| pexels | industrial worker arranging bricks outdoors | Abdul Wali Khan | Pexels License | https://www.pexels.com/video/industrial-worker-arranging-bricks-outdoors-36437156/ |
+| pexels | construction worker arranging bricks on job site | Umar Khan | Pexels License | https://www.pexels.com/video/construction-worker-arranging-bricks-on-job-site-38240889/ |
+| pexels | two men loading boxes in a van | K2 Production | Pexels License | https://www.pexels.com/video/two-men-loading-boxes-in-a-van-9507645/ |
+| pexels | a man and a mule working in a farm field | FRANK MERIÑO | Pexels License | https://www.pexels.com/video/a-man-and-a-mule-working-in-a-farm-field-11256646/ |
+| pexels | man looking at the camera while sitting on a forklift | Tiger Lily | Pexels License | https://www.pexels.com/video/man-looking-at-the-camera-while-sitting-on-a-forklift-4295734/ |
+| pexels | video footage of hardware warehouse | Luday Leguen | Pexels License | https://www.pexels.com/video/video-footage-of-hardware-warehouse-4727768/ |
