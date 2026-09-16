@@ -1,6 +1,6 @@
 {
   "project": "edenrise-speed-of-trust",
-  "updated": "2026-09-16T10:06:13.777Z",
+  "updated": "2026-09-16T10:07:19.064Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -10,7 +10,9 @@
       "edenrise-speed-of-trust-S02-V40"
     ]
   },
-  "needs_broll": {},
+  "needs_broll": {
+    "S03": ""
+  },
   "topup_requests": {
     "S01": {
       "requested": "2026-09-15T15:03:21Z",
@@ -29,11 +31,20 @@
       "added": 18
     },
     "S03": {
-      "requested": "2026-09-15T13:45:52Z",
+      "requested": "2026-09-16T10:07:19.046Z",
       "note": "",
-      "done": true,
-      "fulfilled": "2026-09-15T13:54:20Z",
-      "added": 21
+      "reason": "direction",
+      "avoid": [
+        "quickly",
+        "hands",
+        "skilled",
+        "close",
+        "worker",
+        "struggling",
+        "alone",
+        "load"
+      ],
+      "done": false
     },
     "S04": {
       "requested": "2026-09-15T15:50:30Z",
