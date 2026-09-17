@@ -11,7 +11,7 @@ from word count at 145 wpm, marked timing_source=estimated.
 Never touches clips or approvals. Never invents a quote: if a scene has no
 narration the line is left empty and the card shows NARRATION NOT RECORDED YET.
 
-    python3 tools/script_to_card.py <slug> <script.txt> [--title "Card title"]
+    python3 tools/script_to_card.py <slug> <script.txt> [--title "Card title"] [--sector <id>]
 
 Plain-prose scripts (no SCENE headers — the "current script of the rendered
 video" docs) are handled too: if the card is already timed to the recorded
@@ -20,6 +20,9 @@ nothing is written; otherwise paragraphs are grouped into ~PROSE_WORDS-word
 scenes with estimated windows and no visual brief.
 """
 import json, re, sys, pathlib
+
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import sectors
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WPM = 145.0
@@ -85,7 +88,7 @@ def card_is_audio_timed(slug):
     with_lines = sum(1 for s in sc if (s.get("script_line") or "").strip())
     return bool(sc) and with_lines * 2 >= len(sc)
 
-def apply(slug, scenes, title=None):
+def apply(slug, scenes, title=None, sector=None):
     card_p = ROOT / "projects" / slug / "scenes.json"
     card = json.load(open(card_p)) if card_p.exists() else {"scenes": []}
     by = {s["id"]: s for s in card["scenes"]}
@@ -108,18 +111,37 @@ def apply(slug, scenes, title=None):
     card_p.parent.mkdir(parents=True, exist_ok=True)
     json.dump(card, open(card_p, "w"), indent=1, ensure_ascii=False)
     reg_p = ROOT / "projects.json"; reg = json.load(open(reg_p))
-    if not any(p["slug"] == slug for p in reg["projects"]):
-        reg["projects"].append({"slug": slug, "title": title or slug,
+    entry = next((p for p in reg["projects"] if p["slug"] == slug), None)
+    if entry is None:
+        # A card's SECTOR decides its whole taste law (sectors.json). Without one the
+        # legacy rule guesses from the slug, which only knows the first two clients — so
+        # a new company's first lesson must name it, or it silently inherits Edenrise's
+        # world and every clip is judged against the wrong never-list.
+        sec = sector or sectors.legacy_for_slug(slug)
+        if sector and sector not in sectors.all_sectors():
+            sys.exit(f"unknown sector {sector!r} — run `python3 tools/sectors.py` for the list, "
+                     f"or add it to sectors.json first")
+        if not sector:
+            print(f"  ! no --sector given; falling back to '{sec}' from the slug. "
+                  f"Pass --sector for anything that is not Edenrise or Belong.")
+        reg["projects"].append({"slug": slug, "title": title or slug, "sector": sec,
                                 "scenes": len(card["scenes"]),
                                 "clips": sum(len(s["clips"]) for s in card["scenes"])})
         reg["projects"].sort(key=lambda p: p["slug"])
         json.dump(reg, open(reg_p, "w"), indent=1, ensure_ascii=False)
+    elif sector and entry.get("sector") != sector:
+        if sector not in sectors.all_sectors():
+            sys.exit(f"unknown sector {sector!r} — run `python3 tools/sectors.py` for the list")
+        entry["sector"] = sector
+        json.dump(reg, open(reg_p, "w"), indent=1, ensure_ascii=False)
+        print(f"  sector set to '{sector}'")
     return card, t
 
 if __name__ == "__main__":
     if len(sys.argv) < 3: sys.exit(__doc__)
     slug, path = sys.argv[1], sys.argv[2]
     title = sys.argv[sys.argv.index("--title") + 1] if "--title" in sys.argv else None
+    sector = sys.argv[sys.argv.index("--sector") + 1] if "--sector" in sys.argv else None
     text = open(path, encoding="utf-8").read()
     scenes = parse(text)
     if not scenes:
@@ -129,6 +151,6 @@ if __name__ == "__main__":
         scenes = parse_prose(text)
         if not scenes: sys.exit("no narration found in the script")
         print(f"{slug}: no SCENE headers — {len(scenes)} scenes estimated from paragraphs (no visual brief in the script)")
-    card, total = apply(slug, scenes, title)
+    card, total = apply(slug, scenes, title, sector)
     for s in scenes: print(f"  S{s['n']:02d} {len(s['narration'].split()):3}w  {s['narration'][:56]}…")
     print(f"applied {len(scenes)} scenes to {slug}; est. {total/60:.1f} min")

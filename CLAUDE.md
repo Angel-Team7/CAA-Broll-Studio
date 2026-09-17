@@ -44,6 +44,24 @@ The two client sectors carry extra valence rules a registry cannot hold:
 - **Any sector** — a negative or difficult line wants a frame that matches it. The judge
   caps a smiling stock crew on a hard line at `brand_fit` 4.
 
+## Adding a sector (a new client or department)
+1. Add an entry to `sectors.json`: `name`, `world` (the prose the judge reads — say what
+   is IN frame, not what it feels like), `never` (the classes that would embarrass the
+   client; a word barred here must not appear in `positive`), `positive` (the vocabulary a
+   clip must show to earn its place — include the subjects, the settings and the verbs of
+   that trade), `prefix` (2–3 openers a bare reviewer note can be set in), `tail` (one
+   word for the world), `seeds` (the standard soft-skills beats in that world, ≤9 words,
+   no commas, always with a person in them).
+2. `python3 tools/verify/sector_law.py` — it refuses contradictions, seeds barred by their
+   own sector, seeds with no vocabulary and cards pointing at sectors that do not exist.
+   The harvester will not spend a budget while this fails.
+3. Card the lesson with `--sector <id>` (see the intake skill), or add `"sector": "<id>"`
+   to its `projects.json` entry.
+4. The hourly harvester picks the new seeds up on its next run; nothing else to do.
+
+Do not fork a sector per client when an existing world already fits — two hotel clients
+share `hospitality`. Write a new sector when the *never*-list genuinely differs.
+
 ## The shared shelf is shared
 `library/index.json` is one shelf for every sector, not a partition per client. A clip of
 two people talking something through serves an office lesson as well as the Edenrise beat
