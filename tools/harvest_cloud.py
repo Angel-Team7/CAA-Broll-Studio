@@ -13,6 +13,8 @@ against everything already owned, per-run budget so a cron tick stays short,
 and masters are never stored — only 480p previews + metadata.
 """
 import json, os, subprocess, pathlib, sys, tempfile, time, re
+from itertools import zip_longest
+
 import requests
 
 HERE = pathlib.Path(__file__).resolve().parent
@@ -92,9 +94,31 @@ def main():
     tag, rel_id = rm.ensure_release(LIB_SLUG)
     ths = themes()
     thin = [t for t in ths if owned_for(t, assets) < THIN_AT]
+
+    # Two starvation traps, both fixed here.
+    #
+    # 1. A budget of 30 spent down a fixed list means the first themes are shopped every
+    #    hour forever and the tail is never reached — a thin theme does not stop being
+    #    thin after 3 clips. So the list is ROTATED by the number of runs so far: each run
+    #    starts where the last one left off and the whole list gets served over a day.
+    # 2. Real lessons' beats and sector seeds compete for the same budget, and there are
+    #    always more thin lesson beats than a run can hold — seeds would never get a
+    #    single clip. So they are INTERLEAVED: a run stocks lessons and new sectors both.
+    runs = 0
+    log_p = ROOT / "library" / "harvest_log.jsonl"
+    if log_p.exists():
+        runs = sum(1 for _ in open(log_p))
+    cards = [t for t in thin if not t.get("seed")]
+    seeds_t = [t for t in thin if t.get("seed")]
+    for lst in (cards, seeds_t):
+        if lst:
+            off = (runs * PER_THEME) % len(lst)
+            lst[:] = lst[off:] + lst[:off]
+    thin = [t for pair in zip_longest(cards, seeds_t) for t in pair if t]
     nseed = sum(1 for t in thin if t.get("seed"))
     print(f"themes: {len(ths)} ({sum(1 for t in ths if t.get('seed'))} sector seeds) | "
-          f"thin (<{THIN_AT} owned videos): {len(thin)} of which {nseed} seeds | budget {BUDGET}")
+          f"thin (<{THIN_AT} owned videos): {len(thin)} of which {nseed} seeds | "
+          f"run #{runs + 1}, rotated | budget {BUDGET}")
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
         for t in thin:
@@ -156,10 +180,12 @@ def main():
     log = ROOT / "library" / "harvest_log.jsonl"
     brands = {}
     for a in assets[-added:] if added else []:
-        brands[a.get("brand", "?")] = brands.get(a.get("brand", "?"), 0) + 1
+        k = a.get("sector") or a.get("brand") or "?"
+        brands[k] = brands.get(k, 0) + 1
     with open(log, "a") as fh:
         fh.write(json.dumps({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "added": added,
-                             "themes": len(ths), "thin": len(thin), "library": len(assets), "by_brand": brands}) + "\n")
+                             "themes": len(ths), "thin": len(thin), "library": len(assets),
+                             "by_sector": brands, "by_brand": brands}) + "\n")
 
 if __name__ == "__main__":
     main()
