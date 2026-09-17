@@ -110,15 +110,18 @@ def main():
         runs = sum(1 for _ in open(log_p))
     cards = [t for t in thin if not t.get("seed")]
     seeds_t = [t for t in thin if t.get("seed")]
+    # Step by what a run actually consumes — half its themes from each list — or the
+    # rotation crawls behind the budget and every run re-serves the same beats.
+    step = max(1, (BUDGET // max(1, PER_THEME)) // 2)
     for lst in (cards, seeds_t):
         if lst:
-            off = (runs * PER_THEME) % len(lst)
+            off = (runs * step) % len(lst)
             lst[:] = lst[off:] + lst[:off]
     thin = [t for pair in zip_longest(cards, seeds_t) for t in pair if t]
     nseed = sum(1 for t in thin if t.get("seed"))
     print(f"themes: {len(ths)} ({sum(1 for t in ths if t.get('seed'))} sector seeds) | "
           f"thin (<{THIN_AT} owned videos): {len(thin)} of which {nseed} seeds | "
-          f"run #{runs + 1}, rotated | budget {BUDGET}")
+          f"run #{runs + 1}, rotated by {step} | budget {BUDGET}")
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
         for t in thin:
