@@ -2627,3 +2627,33 @@
 | pexels |  | Alex Moliski | Pexels License | https://www.pexels.com/video/exploring-canyonlands-national-park-trails-37845400/ |
 | pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/drone-footage-of-a-woman-standing-near-a-cliff-6836776/ |
 | pexels |  | Alex Moliski | Pexels License | https://www.pexels.com/video/hikers-traversing-the-grand-canyon-at-sunrise-32320460/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/skilled-mechanic-working-in-workshop-39310412/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/close-up-of-a-router-in-action-6474280/ |
+| pexels |  | GKVP | Pexels License | https://www.pexels.com/video/a-person-using-circular-saw-9765444/ |
+| pexels |  | Thirty Story | Pexels License | https://www.pexels.com/video/getting-clean-water-in-nigeria-27272845/ |
+| pexels |  | Philippe WEICKMANN | Pexels License | https://www.pexels.com/video/footage-of-a-vehicle-traveling-the-road-3782354/ |
+| pexels |  | Casey  Whalen | Pexels License | https://www.pexels.com/video/logging-workers-preparing-truck-in-forest-36130427/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/dleivery-man-in-a-truck-6406170/ |
+| pexels |  | Thirty Story | Pexels License | https://www.pexels.com/video/drilling-rig-in-tanzania-26795925/ |
+| pexels |  | Tim Douglas | Pexels License | https://www.pexels.com/video/removing-coffee-from-espresso-machine-filter-6201677/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/needle-in-close-up-7033785/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/raindrops-dripping-from-canopy-focused-in-frame-39485454/ |
+| pexels |  | Efrem  Efre | Pexels License | https://www.pexels.com/video/water-dripping-from-wooden-spout-against-red-wall-36462694/ |
+| pexels |  | Ono  Kosuki | Pexels License | https://www.pexels.com/video/a-man-marking-a-lumber-wood-5972085/ |
+| pexels |  | Anna Tarazevich | Pexels License | https://www.pexels.com/video/a-person-turning-the-knob-of-the-heat-press-5963498/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/two-men-in-hard-hats-and-red-vests-are-working-on-a-pipe-27514205/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/people-using-small-garden-tools-on-potted-plants-8544042/ |
+| pexels |  | Marc Espejo | Pexels License | https://www.pexels.com/video/child-playing-with-cat-by-rustic-wall-outdoors-36054286/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-wearing-medical-gloves-8539069/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/medical-professional-with-syringe-7469663/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/supporting-a-growing-fruit-bearing-tree-with-a-wooden-pole-3696023/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-planting-vegetables-7655283/ |
+| pexels |  | Att Unchalisangkat | Pexels License | https://www.pexels.com/video/a-man-walking-across-a-suspension-bridge-over-a-river-20711638/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-with-words-written-on-face-6670678/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/portrait-of-a-dark-angel-8512784/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/documenting-experiences-at-a-refugee-camp-34596366/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/woman-using-a-laptop-6781550/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/person-walking-toward-open-window-frame-34387139/ |
+| pexels |  | Rasheed | Pexels License | https://www.pexels.com/video/colorful-dump-truck-in-lush-rural-field-34380953/ |
+| pexels |  | khanhhoangminh | Pexels License | https://www.pexels.com/video/people-working-on-a-field-10396266/ |
+| pexels |  | Mahmut Yılmaz | Pexels License | https://www.pexels.com/video/aerial-view-of-farmers-harvesting-in-fields-39328008/ |
