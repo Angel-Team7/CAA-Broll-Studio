@@ -1,7 +1,12 @@
 name: Harvest B-roll
 
 # Stocks the shared library ahead of demand so 🔎 / 🔁 promote off the shelf.
-# Hourly, every day (UTC). Runs entirely on GitHub; no Mac involved.
+# Hourly on paper; GitHub throttles scheduled runs hard, so in practice this fires
+# about every six hours. A run of 30 clips took 4-5 minutes of a 40-minute timeout,
+# so the budget is 120 and the timeout 55 — the throttling is answered with depth
+# per run instead of frequency. harvest_cloud.py rotates and interleaves the theme
+# list, so a bigger budget reaches the sector seeds rather than going deeper on the
+# same first few beats.
 on:
   # a script intake (the Claude routine committing new/changed cards) starts a gather
   push:
@@ -13,7 +18,7 @@ on:
     inputs:
       budget:
         description: 'New clips to harvest this run'
-        default: '30'
+        default: '120'
 
 permissions:
   contents: write
@@ -26,7 +31,7 @@ jobs:
   harvest:
     if: "!contains(github.event.head_commit.message, '[harvest-bot]') && !contains(github.event.head_commit.message, '[judge-bot]') && !contains(github.event.head_commit.message, '[topup-bot]')"
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
         with:
@@ -68,7 +73,7 @@ jobs:
           PEXELS_API_KEY:  ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           COVERR_API_KEY:  ${{ secrets.COVERR_API_KEY }}
-          HARVEST_BUDGET: ${{ github.event.inputs.budget || '30' }}
+          HARVEST_BUDGET: ${{ github.event.inputs.budget || '120' }}
         run: |
           python tools/harvest_cloud.py | tee /tmp/h.log
           echo "n=$(grep -oP 'HARVESTED=\K[0-9]+' /tmp/h.log || echo 0)" >> "$GITHUB_OUTPUT"
