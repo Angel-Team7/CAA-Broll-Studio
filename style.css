@@ -292,3 +292,10 @@ table.meta a{color:var(--accent)}
 .arrived b{white-space:nowrap}
 .scene.justlanded{outline:2px solid #2f9c6a;outline-offset:3px;animation:landpulse 1.6s ease-out 3}
 @keyframes landpulse{0%{outline-color:#2f9c6a}50%{outline-color:rgba(47,156,106,.25)}100%{outline-color:#2f9c6a}}
+
+/* which world this lesson lives in — the sector the judge scored it against */
+.sectorchip {
+  font-size: 12px; padding: 2px 8px; border-radius: 10px; white-space: nowrap;
+  background: #23252b; color: #cfd3da; border: 1px solid #343842; cursor: help;
+  max-width: 260px; overflow: hidden; text-overflow: ellipsis;
+}

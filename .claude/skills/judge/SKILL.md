@@ -20,20 +20,23 @@ python3 tools/judge.py strips <slug> <scene>
 ```
 Downloads every unjudged clip's 3-frame contact strip to a temp folder and prints, per
 clip: `clip_id  path  source  title  duration`. It also prints the spoken line, the brief,
-the shot list, the must-not list, the brand, and the brand's standing never-list from
-`CLAUDE.md`. If it prints a `REFERENCE:` line, **Read that sheet first**: it is the
-client's most recent approvals for this brand, and your scores should reward that look.
+the shot list, the must-not list, and the card's SECTOR — its world and its standing
+never-list, straight from `sectors.json`. **Judge against the sector it prints, not from
+memory**: `office` is built on the desks and meetings that `edenrise` bars outright. If it
+prints a `REFERENCE:` line, **Read that sheet first**: it is the client's most recent
+approvals in this sector, and your scores should reward that look.
 **Read every strip image** with the Read tool. Judge only what you can see.
 
 ## Step 2 — score each clip
 - `relevance` 0–10: does it show one of the shots? 9–10 the shot itself; 6–8 the same
   subject and action in a different setting; 3–5 same world, wrong action; 0–2 unrelated.
-- `brand_fit` 0–10: is it in the brand's world and free of the never-list? Masks,
-  offices, factories, resort pools, cartoons, wildlife: 0. Wrong valence (smiling crew on a
-  negative line): at most 4.
+- `brand_fit` 0–10 (sector fit; you may write it as `sector_fit`): is it in THIS
+  sector's world and free of THIS sector's never-list? Anything on the printed never-list:
+  0. Cartoons, green screen, stock end-cards: 0 in every sector. Wrong valence (a smiling
+  stock crew on a negative line): at most 4.
 - `caption`: one plain line of what the clip shows, 6–14 words, present tense, no
   adjectives about quality ("a receptionist listens to a guest across a wooden desk").
-- `violation`: the never-list item it breaks, or empty.
+- `violation`: the sector never-list item it breaks, or empty.
 - `shot`: the shot id it best serves, or empty.
 - `shoot`: a short key for "same shoot" (same set, same people, same look), so the
   diversity rule can cap it. Use the author plus the set, e.g. "pexels-cottonbro-reception".

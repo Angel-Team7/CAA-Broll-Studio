@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Phase 3 — the taste loop. The reviewer's most recent approvals per brand become a
+"""Phase 3 — the taste loop. The reviewer's most recent approvals per SECTOR become a
 reference sheet the judge looks at before scoring, so every verdict is calibrated to
 what the client actually ticks, not to a written rule alone.
 
-    python3 tools/exemplars.py            # rebuild both brands' sheets, upload, write library/exemplars.json
+    python3 tools/exemplars.py            # rebuild every sector's sheet, upload, write library/exemplars.json
 
 Sheets are uploaded to the shared media shard (never committed); library/exemplars.json
 holds the URLs plus the clip ids they were built from, so a rebuild is skipped when the
@@ -14,6 +14,7 @@ import requests
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import release_media as rm
+import sectors
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 N = 8                     # approvals per sheet
@@ -24,7 +25,7 @@ def recent_approvals(brand):
     rows = []
     for sel in glob.glob(str(ROOT / "selections" / "*.json")):
         slug = pathlib.Path(sel).stem
-        if (slug.startswith("belong")) != (brand == "belong") or slug == "belong-module7":
+        if sectors.for_slug(slug) != brand or slug == "belong-module7":
             continue
         d = json.load(open(sel))
         card_p = ROOT / "projects" / slug / "scenes.json"
@@ -74,7 +75,7 @@ def main():
     state_p = ROOT / "library" / "exemplars.json"
     state = json.load(open(state_p)) if state_p.exists() else {}
     changed = False
-    for brand in ("edenrise", "belong"):
+    for brand in sorted(sectors.all_sectors()):      # a sheet per sector with approvals
         items = recent_approvals(brand)
         ids = [c["id"] for _, _, c in items]
         if state.get(brand, {}).get("clips") == ids and state.get(brand, {}).get("url"):

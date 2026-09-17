@@ -18,6 +18,7 @@ import requests
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from build_library import classify, toks, VOCAB, facet, SCALE, PEOPLE
 import release_media
+import sectors
 
 LIBRARY_MAX_SHARE = float(os.environ.get("TOPUP_LIBRARY_SHARE", "0.4"))
 LIBRARY_URL = os.environ.get(
@@ -131,66 +132,41 @@ JUNK = {
 JUNK_PHRASES = ("thanks for watching", "thank you for watching", "no copyright",
                 "free download", "lower third", "green screen", "stock footage")
 
-EDENRISE_BLOCK = {
-    "abandoned", "derelict", "ruin", "ruins", "debris", "demolition", "demolished",
-    "collapse", "collapsed", "destroyed", "destruction", "graffiti", "vandalism",
-    "war", "rubble", "decay", "cube", "geometric", "minimalist",
-    "sewing", "seamstress", "textile", "businessman", "businesswoman", "boardroom",
-    "startup", "laptop", "office", "medical", "doctor", "nurse", "hospital",
-    "mask", "masks", "masked", "covid", "coronavirus", "pandemic", "suit", "suits", "tie",
-    "keyboard", "typing", "computer", "monitor", "corporate", "coworkers", "meeting",
-    "massage", "yoga", "gym", "wedding", "romantic", "kiss", "cocktail", "makeup",
-    "model", "fashion", "casino", "gaming",
-}
-BELONG_BLOCK = {
-    "businessman", "boardroom", "hospital", "gym", "casino", "nightclub",
-    "skyscraper", "traffic", "factory",
-    # classes the judge rejected on sight in every batch so far
-    "mask", "masks", "masked", "covid", "coronavirus", "pandemic", "suit", "suits", "tie",
-    "laptop", "keyboard", "typing", "computer", "monitor", "startup", "corporate", "office", "coworkers",
-    "sold", "realtor", "estate", "client", "contract", "handshake",
-    # a hospitality lesson never wants the building trades or industry
-    "construction", "builder", "builders", "asphalt", "paver", "road", "roadwork", "excavator",
-    "crane", "scaffold", "scaffolding", "cement", "concrete", "bricklayer", "welder", "welding",
-    "mining", "warehouse", "sewing", "seamstress", "tailor", "mechanic", "assembly", "steel",
-    "helmet", "hardhat", "demolition", "plumber", "electrician", "drill", "forklift", "logistics",
-}
+# The taste laws live in sectors.json, one entry per world the studio serves — so a new
+# client or department is a registry entry, not a code change. `sector` here is a sector id
+# ("edenrise", "belong", "office", "hospitality", …); tools/sectors.py resolves it per card.
 
-# what a Belong query is built around — the setting is a farmhouse hotel in the Alentejo
-BRAND_PREFIX = {"belong": ["hotel staff", "guesthouse host", "farmhouse hospitality"],
-                "edenrise": ["worker", "hands at work", "outdoor worker"]}
-BRAND_TAIL = {"belong": "guest", "edenrise": "site"}
+def sector_prefixes(sector):
+    return sectors.prefixes(sector)
 
-# a candidate must show a person, their hands, or their work — not a mood
-POSITIVE = {
-    "worker", "workers", "man", "men", "woman", "women", "people", "person",
-    "guy", "lady", "hand", "hands", "builder", "builders",
-    "construction", "site", "labour", "labor", "tool", "tools", "craft",
-    "craftsman", "artisan", "carpenter", "carpentry", "mason", "masonry", "brick",
-    "bricks", "wood", "woodwork", "timber", "concrete", "cement", "mortar",
-    "trowel", "shovel", "drill", "hammer", "saw", "welder", "welding", "garden",
-    "gardener", "gardening", "farm", "farmer", "farming", "harvest", "vineyard",
-    "olive", "landscaping", "plaster", "plastering", "painter", "painting",
-    "repair", "install", "installation", "renovation", "team", "teamwork",
-    "colleague", "colleagues", "crew", "apprentice", "training", "workshop",
-    "helmet", "hardhat", "vest", "engineer", "foreman", "supervisor", "chef",
-    "kitchen", "hotel", "waiter", "kneading", "serving", "tiling", "tiles",
-    "guest", "guests", "host", "hostess", "waitress", "receptionist", "reception", "housekeeper",
-    "housekeeping", "maid", "staff", "barista", "bartender", "concierge", "cook", "innkeeper",
-    "hospitality", "farmhouse", "guesthouse", "welcome", "check-in", "breakfast",
-}
 
-def blocked(text, profile):
+def sector_tail(sector):
+    return sectors.tail(sector)
+
+
+def _all_positive():
+    """Every sector's vocabulary, for the few checks that run before a sector is known."""
+    out = set()
+    for sid in sectors.all_sectors():
+        out |= sectors.positive(sid)
+    return out
+
+
+def blocked(text, sector):
     low = (text or "").lower()
     if any(ph in low for ph in JUNK_PHRASES):
         return True
     toks = _tok(text)
     if toks & JUNK:
         return True
-    return bool(toks & (BELONG_BLOCK if profile == "belong" else EDENRISE_BLOCK))
+    return bool(toks & sectors.never(sector))
 
-def has_signal(text):
-    return bool(_tok(text) & POSITIVE)
+
+def has_signal(text, sector=None):
+    """A candidate must EARN its place: its own words have to show a person, their hands or
+    their work in this sector's world. With no sector named, any sector's vocabulary counts."""
+    return bool(_tok(text) & (sectors.positive(sector) if sector else _all_positive()))
+
 
 # ------------------------------------------------------------------- sources
 def _cand(**kw):
@@ -362,7 +338,7 @@ def parse_note(note):
     return [w for w in want if w], avoid
 
 
-def queries_for(scene, note):
+def queries_for(scene, note, sector=None):
     """Reuse the scene's own proven queries, then widen with its visual direction."""
     seen, qs = set(), []
     for c in scene.get("clips", []):
@@ -380,9 +356,10 @@ def queries_for(scene, note):
         if w.lower() not in STOP and len(qs) < 14:
             qs.append(w.lower())
     fixed = []
+    opener = sector_prefixes(sector)[0]
     for q in qs[:14]:
-        fixed.append(q if has_signal(q) else f"worker {q}")
-    return fixed or ["worker hands work"]
+        fixed.append(q if has_signal(q, sector) else f"{opener} {q}")
+    return fixed or [f"{opener} hands work"]
 
 def next_index(scene, letter):
     n = -1
@@ -420,16 +397,16 @@ def credit_line(c):
     return f"| {c['source']} | {c.get('title','')[:60]} | {c.get('author','')} | {c['license']} | {c.get('page_url','')} |"
 
 # ---------------------------------------------------------------------- main
-def direction_queries(scene, want, profile):
-    """Queries for a 'direction is wrong' search: the reviewer's terms, each set in
-    the brand's world (a Belong beat is a farmhouse hotel, not a building site), plus
-    the beat's own visual brief so a bare note like "hospitality" still lands on
-    what this scene is about."""
-    prefixes = BRAND_PREFIX.get(profile, BRAND_PREFIX["edenrise"])
-    tail = BRAND_TAIL.get(profile, "")
+def direction_queries(scene, want, sector):
+    """Queries for a 'direction is wrong' search: the reviewer's terms, each set in the
+    sector's world (a hospitality beat is a farmhouse hotel, not a building site), plus the
+    beat's own visual brief so a bare note like "front of house" still lands on what this
+    scene is about."""
+    prefixes = sector_prefixes(sector)
+    tail = sector_tail(sector)
     qs = []
     for w in want:
-        qs.append(w if has_signal(w) and profile != "belong" else f"{prefixes[0]} {w}")
+        qs.append(w if has_signal(w, sector) else f"{prefixes[0]} {w}")
         qs.append(f"{w} {tail}".strip())
     vd_words = [x for x in re.findall(r"[a-zA-Z]{4,}", scene.get("visual_direction", "").lower())
                 if x not in NOTE_NOISE and x not in {"that", "this", "with", "them", "their", "into", "from", "what", "when", "where", "which", "about", "reaches", "through"}]
@@ -443,7 +420,7 @@ def direction_queries(scene, want, profile):
         if k and k not in seen: seen.add(k); out.append(q)
     return out
 
-def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
+def run_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
         print(f"  ! no scenes.json for {slug} — skipped")
@@ -464,7 +441,7 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     # Owned footage is exactly what is being rejected, so skip the library when the
     # direction is wrong; only top-ups for "need more" shop our own shelves.
     from_lib = [] if direction else library_picks(
-        scene, note, profile, seen, max(1, int(WANT_VIDEOS * LIBRARY_MAX_SHARE)))
+        scene, note, sector, seen, max(1, int(WANT_VIDEOS * LIBRARY_MAX_SHARE)))
     need_web = WANT_VIDEOS - len(from_lib)
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat")
@@ -473,9 +450,9 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
         want = [" ".join(w) for w in [re.findall(r"[a-zA-Z]{4,}", vd)[i:i+3]
                                       for i in range(0, 9, 3)] if w]
     if direction and want:
-        qs = direction_queries(scene, want, profile)
+        qs = direction_queries(scene, want, sector)
     else:
-        qs = queries_for(scene, note)
+        qs = queries_for(scene, note, sector)
     print(f"  queries: {qs[:6]}{'…' if len(qs) > 6 else ''}")
 
     # start deep enough in the result pages that we are not re-offering page 1
@@ -498,14 +475,14 @@ def run_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
                         continue
                     tried.add(key)
                     desc = (c.get("title") or "").strip()
-                    if blocked(f"{desc} {c.get('query','')}", profile):
+                    if blocked(f"{desc} {c.get('query','')}", sector):
                         continue
                     if avoid and (_tok(desc) & set(avoid)):
                         continue                    # the reviewer said: not this
                     # A tagged candidate must EARN its place: its own words have to
                     # show a person, their hands or their work. Untagged ones (pexels
                     # often has no alt text) fall back to query relevance.
-                    if desc and not has_signal(desc):
+                    if desc and not has_signal(desc, sector):
                         continue
                     if c.get("duration") and c["duration"] > 180:
                         continue
@@ -625,16 +602,16 @@ def main():
 
     total = 0
     for path, slug, sid, note, reason, auto_avoid in pending[:MAX_SCENES_PER_RUN]:
-        profile = "belong" if slug.startswith("belong") else "edenrise"
+        sector = sectors.for_slug(slug)
         print(f"→ {slug} {sid}  ({note!r})")
         # materialise this project in the sparse checkout
         sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
         # beats with a shot list go through recall v2 (stage for the judge); others
         # keep the old gather until their shot list exists
         import recall
-        n = recall.stage_scene(slug, sid, note, profile, reason, auto_avoid)
+        n = recall.stage_scene(slug, sid, note, sector, reason, auto_avoid)
         if n is None:
-            n = run_scene(slug, sid, note, profile, reason, auto_avoid)
+            n = run_scene(slug, sid, note, sector, reason, auto_avoid)
         if n:
             sel = json.load(open(path))
             sel["topup_requests"][sid]["done"] = True

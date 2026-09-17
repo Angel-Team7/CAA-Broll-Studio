@@ -3,7 +3,7 @@
 // is connected, Save/Send also commit selections/<slug>.json to the repo.
 
 const $ = s => document.querySelector(s);
-const state = { slug: null, data: null, approved: {}, reshoot: {}, finalised: [], projects: [] };
+const state = { slug: null, data: null, approved: {}, reshoot: {}, finalised: [], projects: [], sectors: {} };
 const gh = JSON.parse(localStorage.getItem("gh") || "null"); // {owner,repo,token,branch}
 
 function toast(msg, ms) {
@@ -31,6 +31,10 @@ async function loadProjects() {
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
   state.projects = idx.projects;
   state.mediaProxy = (idx.media_proxy || "").trim();
+  // The sector registry says which world each lesson lives in — the picker groups by it
+  // and the chip tells the reviewer what the judge was told to look for.
+  state.sectors = await fetch("sectors.json?v=" + Date.now(), { cache: "no-store" })
+    .then(r => r.json()).catch(() => ({}));
   state.finalised = await loadFinalised();
   renderProjectSelect();
   renderProgress();
@@ -52,11 +56,35 @@ function setDeepLink(slug) {
   history.replaceState(null, "", u);        // shareable URL, no reload
 }
 
+function sectorOf(slug) {
+  const p = state.projects.find(x => x.slug === slug);
+  const id = (p && p.sector) || (String(slug || "").startsWith("belong") ? "belong" : "edenrise");
+  return { id, cfg: state.sectors[id] || {} };
+}
+
 function renderProjectSelect() {
   const sel = $("#project"); const cur = sel.value;
-  sel.innerHTML = state.projects.map(p =>
-    `<option value="${p.slug}">${state.finalised.includes(p.slug) ? "✅ " : "◻︎ "}${p.title} — ${p.scenes} scenes</option>`).join("");
+  const groups = {};
+  for (const p of state.projects) {
+    const id = p.sector || (p.slug.startsWith("belong") ? "belong" : "edenrise");
+    (groups[id] = groups[id] || []).push(p);
+  }
+  sel.innerHTML = Object.keys(groups).sort().map(id => {
+    const label = (state.sectors[id] && state.sectors[id].name) || id;
+    const opts = groups[id].map(p =>
+      `<option value="${p.slug}">${state.finalised.includes(p.slug) ? "✅ " : "◻︎ "}${p.title} — ${p.scenes} scenes</option>`).join("");
+    return `<optgroup label="${esc(label)}">${opts}</optgroup>`;
+  }).join("");
   if (cur) sel.value = cur;
+}
+
+function renderSectorChip(slug) {
+  const el = document.getElementById("sectorchip");
+  if (!el) return;
+  const { id, cfg } = sectorOf(slug);
+  el.textContent = "🏷 " + (cfg.name || id);
+  el.title = (cfg.world || "") + (cfg.never ? "\n\nNever: " + cfg.never.join(", ") : "");
+  el.hidden = false;
 }
 
 // ---- Finalised tracking (shared list in the repo, like selections) ----
@@ -109,6 +137,7 @@ async function loadProject(slug) {
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
   state.topup = sel.topup_requests || {};
+  renderSectorChip(slug);
   render();
   updateFinaliseBtn();
   startWatch();

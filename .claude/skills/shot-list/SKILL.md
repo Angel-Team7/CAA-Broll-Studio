@@ -1,6 +1,6 @@
 ---
 name: shot-list
-description: Write the shot list for a beat — 4 to 6 literal, filmable shots in the brand's world, each with a Pexels phrasing and a Pixabay tag phrasing, plus a must-not list. Use for every scene that has no `shots`, after intake or on request.
+description: Write the shot list for a beat — 4 to 6 literal, filmable shots in the card's sector world, each with a Pexels phrasing and a Pixabay tag phrasing, plus a must-not list. Use for every scene that has no `shots`, after intake or on request.
 ---
 
 # Shot list
@@ -11,15 +11,21 @@ an action, a setting, a scale. Never a feeling, never a metaphor, never the beat
 
 ## Inputs
 Run `python3 tools/shot_list.py show <slug>` — prints every scene: id, spoken line,
-brief, on-screen text, brand, lesson title, and whether shots already exist.
-Read `CLAUDE.md` for the brand's world and never-list first.
+brief, on-screen text, sector, lesson title, and whether shots already exist.
+Then run `python3 tools/sectors.py <slug>` and write to THAT world and THAT never-list.
+Never work from memory of the two original clients: `office` is built on the desks and
+meetings `edenrise` bars, and a sector's own `seeds` in `sectors.json` show the house
+phrasing for its standard beats.
 
 ## Rules
 1. **Literal.** "A complaint is a gift" → "hotel receptionist listening calmly to an
    upset guest at the front desk". "Process becomes simpler" → "hands sorting loose
    screws into labelled jars on a workbench".
-2. **In the brand's world.** Edenrise: land, garden, greenhouse, small repair, hands.
-   Belong: farmhouse hotel, reception, farm table, kitchen, garden, Alentejo fields.
+2. **In the sector's world.** Take it from `sectors.json`, never from habit — e.g.
+   edenrise: land, garden, greenhouse, small repair, hands; belong: farmhouse hotel,
+   reception, farm table, kitchen, Alentejo fields; office: desks, small meetings,
+   whiteboards, one-to-ones; healthcare: bedside, ward handover, clinic reception.
+   The same spoken line gets a different shot list in each sector — that is the point.
 3. **Match the valence.** Negative lines get neutral or troubled frames; lines about
    being seen or thanked need a face; openers are warm establishing shots.
 4. **Vary the scale.** Across the 4 to 6 shots: at least one wide establishing, one
@@ -28,7 +34,7 @@ Read `CLAUDE.md` for the brand's world and never-list first.
    listening to upset guest"). `pixabay`: 2–4 comma-free tag words ("hotel reception
    guest"). No brand names, no adjectives the engines cannot see ("calm", "dignified").
 6. **Must-not list.** 3 to 8 concrete things that would be wrong for this beat, beyond
-   the brand's standing never-list (e.g. "smiling crew" on a negative line).
+   the sector's standing never-list (e.g. "smiling crew" on a negative line).
 7. **On-screen text is not a shot.** Diagrams and lists live in the composition; the
    shot list covers the footage behind or beside them.
 

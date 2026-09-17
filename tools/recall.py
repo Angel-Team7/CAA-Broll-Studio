@@ -13,6 +13,7 @@ import requests
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import topup_bot as tb          # sources, filters, preview builder
+import sectors
 import release_media
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -91,11 +92,17 @@ def shot_action_map(shots):
             for sh in shots}
 
 
-def library_picks(shots, brand, seen, rejected, want, must_not):
-    """Serve the beat off our own shelf first. We already own 3,700+ clips with previews
+def library_picks(shots, sector, seen, rejected, want, must_not):
+    """Serve the beat off our own shelf first. We already own 5,000+ clips with previews
     built and uploaded, so a library hit costs one small download instead of a fetch,
     a transcode and three uploads. Text match only — the judge still vets every one
-    against this beat's shots, exactly like a web candidate."""
+    against this beat's shots, exactly like a web candidate.
+
+    The shelf is shared across sectors, not partitioned by the client it was gathered for:
+    a clip of two people talking something through serves an office lesson as well as the
+    one it was harvested for. What decides admission is this sector's own law — the clip
+    must clear the never-list and show the sector's vocabulary — with a preference, not a
+    lock, for footage already proven in this sector."""
     picks, taken = [], set()
     shot_actions = shot_action_map(shots)
     if not any(shot_actions.values()):
@@ -105,13 +112,14 @@ def library_picks(shots, brand, seen, rejected, want, must_not):
         purl = (a.get("page_url") or "").rstrip("/")
         if key in seen or (purl and purl in seen) or key in rejected or key in taken:
             continue
-        if a.get("brand") and a["brand"] != brand:
-            continue
+        a_sector = a.get("sector") or a.get("brand") or ""
         words = " ".join([a.get("title") or "", a.get("query") or "",
                           " ".join(a.get("tags") or []), " ".join(a.get("subjects") or []),
                           " ".join(a.get("actions") or []), " ".join(a.get("setting") or [])])
-        if tb.blocked(words, brand):
+        if tb.blocked(words, sector):
             continue
+        if not tb.has_signal(words, sector):
+            continue                   # nothing in it belongs to this sector's world
         low = words.lower()
         if any(m and m in low for m in must_not):
             continue
@@ -129,7 +137,8 @@ def library_picks(shots, brand, seen, rejected, want, must_not):
                 best, best_shot, best_gen = len(meaty), sh["id"], len(hits & GENERIC)
         if best < 2 or best_shot is None:
             continue
-        a = dict(a); a["shot"] = best_shot; a["_score"] = 4.0 * best + 0.5 * best_gen
+        a = dict(a); a["shot"] = best_shot
+        a["_score"] = 4.0 * best + 0.5 * best_gen + (1.0 if a_sector == sector else 0.0)
         picks.append(a); taken.add(key)
     picks.sort(key=lambda a: -a["_score"])
     out, per_shot = [], {}
@@ -156,7 +165,7 @@ def make_strip(preview, strip):
     return strip.exists() and strip.stat().st_size > 5_000
 
 
-def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
+def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
         return None                                   # caller reports the missing card
@@ -171,10 +180,10 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
     rejected = rejected_keys()
     shots = shot_order(scene, direction)
     must_not = [m.lower() for m in scene.get("must_not") or []]
-    print(f"  recall v2: {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}")
+    print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}")
 
     # ---- our own shelf first -------------------------------------------------------
-    from_lib = library_picks(shots, profile, seen, rejected, min(LIB_MAX, STAGE_N), must_not) if not direction else []
+    from_lib = library_picks(shots, sector, seen, rejected, min(LIB_MAX, STAGE_N), must_not) if not direction else []
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat — no re-download needed")
     web_target = max(0, STAGE_N - len(from_lib))
@@ -200,7 +209,7 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
                     tried.add(key)
                     c["title"] = pexels_title(c) if c["source"] == "pexels" else (c.get("title") or "")
                     desc = f"{c['title']} {c.get('query', '')}"
-                    if tb.blocked(desc, profile):
+                    if tb.blocked(desc, sector):
                         continue
                     if any(m and m in desc.lower() for m in must_not):
                         continue
@@ -324,6 +333,6 @@ def stage_scene(slug, scene_id, note, profile, reason="", auto_avoid=None):
 if __name__ == "__main__":
     slug, sid = sys.argv[1], sys.argv[2]
     note = sys.argv[3] if len(sys.argv) > 3 else ""
-    n = stage_scene(slug, sid, note, "belong" if slug.startswith("belong") else "edenrise",
+    n = stage_scene(slug, sid, note, sectors.for_slug(slug),
                     reason=("direction" if "--direction" in sys.argv else ""))
     print("STAGED", n)

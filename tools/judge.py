@@ -8,6 +8,9 @@ this tool finds the work, fetches the frames, and applies the verdicts.
 """
 import json, re, sys, time, pathlib, tempfile, urllib.request
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import sectors
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SKIP = {"belong-module7"}
 SHOW_TOP = 10          # clips shown on the card after judging
@@ -39,40 +42,35 @@ def pending():
     return out
 
 
-def brand_rules(brand):
-    txt = (ROOT / "CLAUDE.md").read_text()
-    m = re.search(r"### (Edenrise|Belong).*?(?=\n### |\n## )", txt, re.S)
-    for sec in re.findall(r"(### (?:Edenrise|Belong)[^\n]*\n(?:.*?\n)*?)(?=### |## )", txt):
-        if brand == "belong" and sec.startswith("### Belong"):
-            return sec
-        if brand == "edenrise" and sec.startswith("### Edenrise"):
-            return sec
-    return ""
+def sector_rules(sector):
+    """The world and the never-list, from the registry. This used to be scraped out of
+    CLAUDE.md's two brand sections, which is why a third client had nowhere to live."""
+    return sectors.rules_text(sector)
 
 
 def strips(slug, sid):
     card = json.load(open(ROOT / "projects" / slug / "scenes.json"))
     sc = next(s for s in card["scenes"] if s["id"] == sid)
-    brand = "belong" if slug.startswith("belong") else "edenrise"
+    sector = sectors.for_slug(slug)
     tmp = pathlib.Path(tempfile.mkdtemp(prefix=f"judge-{slug}-{sid}-"))
-    print(f"# {slug} {sid} — brand {brand}")
+    print(f"# {slug} {sid} — sector {sector} ({sectors.name(sector)})")
     print("HEARS:", (sc.get("script_line") or "(narration not recorded)").strip())
     print("BRIEF:", (sc.get("visual_direction") or "").strip())
     print("SHOTS:")
     for sh in sc.get("shots") or []:
         print(f"  {sh['id']} [{sh['scale']}] {sh['text']}")
-    print("MUST NOT:", ", ".join(sc.get("must_not") or []) or "(none beyond the brand list)")
-    print("BRAND RULES:\n" + brand_rules(brand))
+    print("MUST NOT:", ", ".join(sc.get("must_not") or []) or "(none beyond the sector list)")
+    print("SECTOR RULES:\n" + sector_rules(sector))
     ex_p = ROOT / "library" / "exemplars.json"
     if ex_p.exists():
-        ex = json.load(open(ex_p)).get(brand) or {}
+        ex = json.load(open(ex_p)).get(sector) or {}
         if ex.get("url"):
-            dest = tmp / f"REFERENCE-{brand}.jpg"
+            dest = tmp / f"REFERENCE-{sector}.jpg"
             try:
                 req = urllib.request.Request(ex["url"], headers={"User-Agent": "broll-judge/1.0"})
                 with urllib.request.urlopen(req, timeout=60) as r, open(dest, "wb") as fh:
                     fh.write(r.read())
-                print(f"REFERENCE: {dest}  (the client's {len(ex.get('clips', []))} most recent approvals for this brand — read it first; match this look)")
+                print(f"REFERENCE: {dest}  (the client's {len(ex.get('clips', []))} most recent approvals in this sector — read it first; match this look)")
             except Exception as e:
                 print(f"REFERENCE: (unavailable: {str(e)[:60]})")
     print("\nCLIPS (clip_id  path  source  title  duration):")
@@ -124,7 +122,9 @@ def apply(slug, sid, vpath):
             continue
         c["judged"] = True
         c["relevance"] = int(v.get("relevance", 0))
-        c["brand_fit"] = int(v.get("brand_fit", 0))
+        # `brand_fit` is the field name on every card already written; the judge may
+        # write it as `sector_fit` now that worlds are sectors. Same number.
+        c["brand_fit"] = int(v.get("sector_fit", v.get("brand_fit", 0)))
         c["caption"] = str(v.get("caption", "")).strip()
         c["violation"] = str(v.get("violation", "")).strip()
         c["shot"] = str(v.get("shot", "")).strip()
@@ -135,7 +135,7 @@ def apply(slug, sid, vpath):
                               "src_id": c.get("src_id"), "page_url": c.get("page_url"), **v, "at": now}) + "\n")
         if c["violation"]:
             key = f"{c.get('source')}:{c.get('src_id') or c.get('page_url')}"
-            rejected[key] = {"brand": "belong" if slug.startswith("belong") else "edenrise",
+            rejected[key] = {"sector": sectors.for_slug(slug),
                              "reason": c["violation"], "at": now, "from": f"{slug}/{sid}"}
         n += 1
     log.close()

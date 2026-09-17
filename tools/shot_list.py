@@ -8,13 +8,16 @@ engines can find. See .claude/skills/shot-list/SKILL.md.
 """
 import json, re, sys, time, pathlib
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import sectors
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCALES = {"wide", "medium", "close"}
 SKIP = {"belong-module7", "edenrise-builders-pool", "belong-craveiral-originals", "belong-module2-heygen"}
 
 
 def brand_of(slug):
-    return "belong" if slug.startswith("belong") else "edenrise"
+    return sectors.for_slug(slug)
 
 
 def title_of(slug):

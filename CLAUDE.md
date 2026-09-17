@@ -1,40 +1,55 @@
 # B-roll Cockpit — how every Claude session works here
 
-This repo is the brain of the B-roll pipeline for two clients. Any Claude session that
+This repo is the brain of the B-roll pipeline. It serves any number of clients and
+departments through the sector registry. Any Claude session that
 clones it (a cloud routine, a Mac session, a one-off run) follows this file. Procedures
 live in `.claude/skills/*/SKILL.md`; read the skill before doing its job.
 
 ## The goal, in one line
 **The right ten clips on every beat**: footage that shows what the viewer hears, in the
-brand's world, ranked and captioned before a reviewer sees it. Measured by ticks.
+sector's world, ranked and captioned before a reviewer sees it. Measured by ticks.
 
-## The two brands (taste laws — these override any stock result)
+## Sectors (taste laws — these override any stock result)
 
-### Edenrise (slugs without `belong-`)
-Soft-skills lessons for land and hands workers at a wellness resort; the team is African.
-- **World:** grounds-keeping, landscaping, gardening, greenhouse, orchard, vineyard, small
-  building repair, carpentry, painting, pruning, hands in soil, a foreman guiding one
-  apprentice, two crew talking by a wheelbarrow. Calm, dignified, single people or pairs.
-- **Never:** offices, laptops, suits, boardrooms, whiteboards; factories, assembly lines,
-  textile mills, crowds doing the same manual task; scaffolding gangs, welding sparks;
-  cartoons, green screen, abstract loops, wildlife, flowers-only, ruins/abandoned; face
-  masks; "gangster" signifiers (intense stare into camera, hoodie, behind a fence or bars,
-  boxing gyms, dark industrial workshops); forced-labour or slave-like framing.
-- **Valence:** a negative line ("things become invisible", "below the line") wants a
-  neutral or troubled frame, not smiling crews. Lines about being seen, thanked or
-  noticed need a face. Openers are warm establishing shots, never an intense portrait.
+The studio is not two clients. Every world it gathers for is a **sector**, declared in
+`sectors.json` at the repo root: a `name`, the `world` in prose, a `never` list of barred
+words, the `positive` vocabulary a clip must show to earn its place, query `prefix`/`tail`
+flavour, and `seeds` — the beats the harvester shops so a sector is stocked before its
+first lesson exists. Adding a client or a department is a registry entry, not a code change.
 
-### Belong (slugs `belong-*`) — Craveiral Farmhouse, Alentejo
-Hospitality lessons for a farmhouse hotel. Authentic, warm, tactile, nature-rooted,
-community and circular economy. **Not luxury.**
-- **World:** small guesthouse reception, host welcoming a guest at a door, farm table,
-  kitchen with local produce, garden, orchard, vegetable rows, a waiter at a wooden table,
-  housekeeping with care, hands with cherries or bread, sunset over fields, Alentejo light.
-- **Never:** corporate hotel chains, glass lobbies, resort pools and beaches, luxury
-  spa clichés, business suits, construction and building trades, factories, warehouses,
-  sewing and industry, face masks, stock "customer service" call centres.
-- **Valence:** complaints, mistakes and difficult guests are shown with composure and
-  listening, never with anger theatre.
+A project names its sector in `projects.json` (`"sector": "office"`). With none named the
+legacy rule still holds (`belong-*` → belong, anything else → edenrise), so no existing
+card changed behaviour when sectors landed.
+
+    python3 tools/sectors.py                  # every sector
+    python3 tools/sectors.py <slug>           # a card's sector, world and never-list
+    python3 tools/sectors.py --check          # every card, and any unknown sector name
+
+Sectors today: `universal`, `edenrise`, `belong`, `office`, `hospitality`, `healthcare`,
+`retail`, `logistics`, `manufacturing`, `construction`, `education`, `finance`,
+`field-service`, `agriculture`, `tech`.
+
+**Read the sector, never assume.** A word barred in one sector is the subject of another:
+Edenrise bars `office`, `laptop` and `meeting`; the office sector is built on them.
+`tools/sectors.py <slug>` prints the law that actually applies — nothing is hardcoded.
+
+The two client sectors carry extra valence rules a registry cannot hold:
+- **Edenrise** — a negative line ("things become invisible", "below the line") wants a
+  neutral or troubled frame, not smiling crews. Lines about being seen, thanked or noticed
+  need a face. Openers are warm establishing shots, never an intense portrait. No
+  "gangster" signifiers (intense stare into camera, hoodie, behind bars, dark industrial
+  workshops) and no forced-labour framing. The team is African.
+- **Belong** — complaints, mistakes and difficult guests are shown with composure and
+  listening, never with anger theatre. Authentic, not luxury.
+- **Any sector** — a negative or difficult line wants a frame that matches it. The judge
+  caps a smiling stock crew on a hard line at `brand_fit` 4.
+
+## The shared shelf is shared
+`library/index.json` is one shelf for every sector, not a partition per client. A clip of
+two people talking something through serves an office lesson as well as the Edenrise beat
+it was harvested for. Admission is decided by the sector's own law — clear the `never`
+list, show the `positive` vocabulary, and match the beat's shot **action** — with a
+preference, not a lock, for footage already proven in that sector.
 
 ## The card model (`projects/<slug>/scenes.json`)
 Per scene: `id` (S01…), `script_line` (what the viewer hears, verbatim), `visual_direction`
@@ -42,7 +57,8 @@ Per scene: `id` (S01…), `script_line` (what the viewer hears, verbatim), `visu
 `shots[]` (the shot list — see the shot-list skill), `must_not[]`, `clips[]`.
 Per clip: `id`, `type`, `source`, `src_id`, `page_url`, `download_url`, `preview`, `thumb`
 (both on GitHub Releases), `query`, `title`, plus judge fields: `judged`, `relevance`,
-`brand_fit`, `caption`, `violation`, `rank`, `shown`, `strip` (contact strip URL).
+`brand_fit` (the sector-fit score — the field name predates sectors and is kept so no
+card has to be rewritten), `caption`, `violation`, `rank`, `shown`, `strip`.
 
 ## Rules that are never broken
 1. **Never edit `selections/*.json` approvals.** Automation appends candidates and judge
@@ -65,10 +81,13 @@ Per clip: `id`, `type`, `source`, `src_id`, `page_url`, `download_url`, `preview
 2. **Recall + stage** (GitHub Action on a click): shot phrasings → Pexels/Pixabay/Coverr →
    ~150 candidates → shortlist 24 → previews, thumbs, 3-frame strips uploaded →
    clips appended to the card with `judged:false`.
-3. **Judge** (routine, fired by the push): reads strips, scores, captions, ranks, shows
-   the top ten, appends verdicts to `library/verdicts.jsonl`.
+3. **Judge** (routine, fired by the push): reads strips, scores against the beat's shot
+   list and the card's SECTOR rules, captions, ranks, shows the top ten, appends verdicts
+   to `library/verdicts.jsonl`.
 4. **Cockpit** (GitHub Pages): ranked grid, captions, shot list, status line.
-Harvester (Action, hourly) stocks the shared library the same way, without a click.
+Harvester (Action, hourly) stocks the shared library the same way, without a click:
+real cards' beats first, then every sector's `seeds`, so a new sector fills up before it
+has a lesson.
 
 ## Commit tags (loop guards)
 `[intake-bot]`, `[topup-bot]`, `[harvest-bot]`, `[judge-bot]`. Workflows skip their own tags.

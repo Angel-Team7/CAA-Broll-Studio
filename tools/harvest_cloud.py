@@ -12,7 +12,7 @@ Guards: taste filter (blocked / has_signal), dedupe on source:id and page_url
 against everything already owned, per-run budget so a cron tick stays short,
 and masters are never stored — only 480p previews + metadata.
 """
-import json, os, pathlib, sys, tempfile, time, re
+import json, os, subprocess, pathlib, sys, tempfile, time, re
 import requests
 
 HERE = pathlib.Path(__file__).resolve().parent
@@ -20,6 +20,7 @@ sys.path.insert(0, str(HERE))
 import release_media as rm                                   # noqa: E402
 from build_library import classify, toks                     # noqa: E402
 import topup_bot as tb                                       # noqa: E402
+import sectors                                               # noqa: E402
 
 ROOT = HERE.parent
 LIB_PATH = ROOT / "library" / "index.json"
@@ -29,11 +30,11 @@ THIN_AT = int(os.environ.get("HARVEST_THIN_AT", "12"))      # themes with fewer 
 PER_THEME = int(os.environ.get("HARVEST_PER_THEME", "3"))
 
 def themes():
-    """One theme per distinct beat across all cards, with brand and sample words."""
+    """One theme per distinct beat across all cards, with its sector and sample words."""
     seen, out = set(), []
     for card in sorted((ROOT / "projects").glob("*/scenes.json")):
         slug = card.parent.name
-        brand = "belong" if slug.startswith("belong") else "edenrise"
+        brand = sectors.for_slug(slug)
         try: data = json.load(open(card))
         except Exception: continue
         for sc in data.get("scenes", []):
@@ -50,6 +51,18 @@ def themes():
             if key in seen: continue
             seen.add(key)
             out.append({"brand": brand, "direction": vd, "queries": queries})
+
+    # Cards come first — a real lesson's beats are the truest demand signal. Then every
+    # sector's seed beats, so a sector with no cards at all (a new client, a new
+    # department) still gets stocked by the hourly run instead of waiting for its first
+    # lesson to be written.
+    for sid, cfg in sectors.all_sectors().items():
+        for seed in cfg.get("seeds") or []:
+            key = re.sub(r"\W+", " ", seed.lower())[:80]
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append({"brand": sid, "direction": seed, "queries": [seed], "seed": True})
     return out
 
 def owned_for(theme, lib):
@@ -63,13 +76,25 @@ def owned_for(theme, lib):
     return n
 
 def main():
+    # A contradictory sector entry does not crash a gather, it quietly wastes one: the
+    # harvester shops for footage the same sector's never-list then throws away. Refuse
+    # to spend a budget on a broken registry. (Workflow files need a token scope this bot
+    # does not have, so the guard lives here rather than as a workflow step.)
+    chk = subprocess.run([sys.executable, str(ROOT / "tools" / "verify" / "sector_law.py")],
+                         capture_output=True, text=True)
+    if chk.returncode:
+        print(chk.stdout[-2000:] or chk.stderr[-2000:])
+        print("! sector registry is not sound — harvest aborted")
+        return
     lib = json.load(open(LIB_PATH))
     assets = lib["assets"]
     seen = {a["key"] for a in assets} | {(a.get("page_url") or "").rstrip("/") for a in assets}
     tag, rel_id = rm.ensure_release(LIB_SLUG)
     ths = themes()
     thin = [t for t in ths if owned_for(t, assets) < THIN_AT]
-    print(f"themes: {len(ths)} | thin (<{THIN_AT} owned videos): {len(thin)} | budget {BUDGET}")
+    nseed = sum(1 for t in thin if t.get("seed"))
+    print(f"themes: {len(ths)} ({sum(1 for t in ths if t.get('seed'))} sector seeds) | "
+          f"thin (<{THIN_AT} owned videos): {len(thin)} of which {nseed} seeds | budget {BUDGET}")
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
         for t in thin:
@@ -87,7 +112,7 @@ def main():
                         if key in seen or (purl and purl in seen): continue
                         desc = (c.get("title") or "").strip()
                         if tb.blocked(f"{desc} {q}", t["brand"]): continue
-                        if desc and not tb.has_signal(desc): continue
+                        if desc and not tb.has_signal(desc, t["brand"]): continue
                         if c.get("duration") and c["duration"] > 180: continue
                         seen.add(key); seen.add(purl)
                         stem = f"lib-{c['source']}-{c['src_id']}"
@@ -112,7 +137,7 @@ def main():
                                "license": c["license"], "download_url": c["download_url"],
                                "preview": pv_url, "thumb": th_url, "used_in": [],
                                "harvested": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-                               "theme": t["direction"][:120]}
+                               "theme": t["direction"][:120], "sector": t["brand"]}
                         row.update(classify({"title": desc, "query": q}, t["brand"]))
                         assets.append(row); credits.append(tb.credit_line(c))
                         got += 1; added += 1
