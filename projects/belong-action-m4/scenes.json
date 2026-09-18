@@ -1,0 +1,448 @@
+{
+ "slug": "belong-action-m4",
+ "title": "Belong em Ação — M4: Bar da Praia do Carvalhal",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "On the sand of the Costa Vicentina, minutes from Craveiral, is the beach our guests use most — the easiest access on this stretch of coast, the one families prefer. That is where Bar da Praia do Carvalhal is — the beach bar. And the shortest definition I can give you is this: the beach bar is the Craveiral philosophy in flip-flops. Easier, looser, more informal. Never more careless.",
+   "visual_direction": "[ARCHIVE] 12s Praia do Carvalhal, wide, morning, sea. | [GRAPHICS] 8s Title card on coastal blue background #759BA3. | [ARCHIVE] 10s The bar seen from the sand, afternoon movement. | [ARCHIVE] 7s Detail: feet in sand, flip-flops, wooden counter.",
+   "onscreen": "BAR DA PRAIA DO CARVALHAL · The same care, in flip-flops.",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a quiet Atlantic beach in the morning with dune and sea",
+     "pexels": "quiet atlantic beach morning dune",
+     "pixabay": "beach dune morning sea",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a simple wooden beach bar seen from the sand in the afternoon",
+     "pexels": "wooden beach bar seen from sand",
+     "pixabay": "wooden beach bar sand",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of bare feet and flip-flops on sand by a wooden counter",
+     "pexels": "bare feet flip flops on sand",
+     "pixabay": "feet flip flops sand",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "family with children walking onto a beach with towels",
+     "pexels": "family children walking onto beach",
+     "pixabay": "family children beach walking",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a weathered wooden bar counter with sand on it",
+     "pexels": "weathered wooden bar counter sand",
+     "pixabay": "wooden counter bar weathered",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "beach party",
+    "sunbathers with cocktails",
+    "resort beach club",
+    "crowded tourist beach",
+    "jet ski",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "There is a temptation in this unit, and it is worth naming: because the register is more informal, it is easy to let the standard slide with it. They are not the same thing. Informal means no linen tablecloth and no formal address. It does not mean a badly washed glass, a toilet nobody is checking, or a twenty-minute wait with nobody saying anything. The register changes; the standard does not. If you keep one line from this module, keep that one.",
+   "visual_direction": "[GRAPHICS] 12s Two columns: CHANGES — register, tone, pace, clothes / DOES NOT CHANGE — hygiene, attention, honesty, response time. | [GENERATE] 6s PROMPT: Two glasses side by side on a weathered wooden bar counter, one spotless catching light, one with visible water marks and a smudge. Static macro, harsh midday beach light. Palette: sea blue, sand, wood brown. 6 seconds. No people, no text, no branding. | [ARCHIVE] 10s Counter being wiped, routine gesture. | [ARCHIVE] 9s Team member greeting someone arriving at the bar.",
+   "onscreen": "The register changes. Never the standard.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a spotless glass catching light on a wooden bar counter",
+     "pexels": "clean glass on wooden bar counter",
+     "pixabay": "clean glass bar counter",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "bar counter being wiped down as a routine gesture",
+     "pexels": "bar counter being wiped cloth",
+     "pixabay": "wiping bar counter cloth",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "bar staff greeting someone arriving at the counter",
+     "pexels": "bar staff greeting customer counter",
+     "pixabay": "bartender greeting customer",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of glasses being dried with a clean cloth",
+     "pexels": "glasses being dried clean cloth",
+     "pixabay": "drying glasses cloth bar",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of a simple beach bar interior being set up before service",
+     "pexels": "beach bar interior set up before service",
+     "pixabay": "beach bar interior setup",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "nightclub bar",
+    "cocktail flair bartending",
+    "beach party",
+    "dirty kitchen shock footage",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "And there is something the bar team needs to see clearly: to anyone walking off that beach and into the bar, you are Craveiral. Many of those people have never slept on the farm and perhaps never will. That glass, that plate, that good morning is the only sample of the brand they will get. A good hour in that bar sells room nights we will never be able to attribute to anyone. A bad hour closes doors we never knew we closed.",
+   "visual_direction": "[ARCHIVE] 11s Customer coming up from the water into the bar. | [GENERATE] 7s PROMPT: Wide shot from behind a beach bar counter looking out at the sea, silhouetted figures approaching from the water, no identifiable faces. Golden hour. Palette: sea blue, gold, sand. 7 seconds. No text, no signage. | [ARCHIVE] 10s Simple dish served at the counter. | [ARCHIVE] 9s Brief exchange between team member and customer, natural gesture.",
+   "onscreen": "Out of the water, you are Craveiral.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a customer walking up from the sea towards a beach bar",
+     "pexels": "customer walking from sea to bar",
+     "pixabay": "person walking sea bar",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide from behind a bar counter looking out at the sea",
+     "pexels": "view from behind bar counter to sea",
+     "pixabay": "bar counter view sea",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a simple plate being served at a bar counter",
+     "pexels": "simple plate served at bar counter",
+     "pixabay": "plate food bar counter",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "brief friendly exchange between bar staff and a customer",
+     "pexels": "bar staff and customer talking briefly",
+     "pixabay": "bartender customer talking",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "silhouetted figures approaching a bar from the water at golden hour",
+     "pexels": "silhouette figures approaching from water",
+     "pixabay": "silhouette people water evening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "beach party",
+    "influencer photo shoot",
+    "cocktail",
+    "crowded bar queue",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "The menu follows the same logic as the house: honest, simple, with an origin. Fish from this coast, products from the region, wines we know the source of, and whatever the farm can send. The chain is told here as it is told at the FarmTable — only instead of a sentence at the table, it is a sentence at the counter, in five seconds: “this is from our garden, twenty minutes from here.” Five seconds. Nobody is in a hurry for a lecture on the beach, but everyone warms to something true.",
+   "visual_direction": "[ARCHIVE] 10s Fresh fish, preparation at the bar. | [ARCHIVE] 9s Farm basket arriving at the bar. | [GRAPHICS] 10s Card: One sentence. Five seconds. with the example. | [ARCHIVE] 9s Drink being served with the sea behind.",
+   "onscreen": "One true sentence. Five seconds.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of fresh fish being prepared at a counter",
+     "pexels": "fresh fish being prepared counter",
+     "pixabay": "fresh fish preparation counter",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "a farm basket of vegetables arriving at a bar counter",
+     "pexels": "vegetable basket arriving bar counter",
+     "pixabay": "vegetable basket bar counter",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "a drink being served with the sea in the background",
+     "pexels": "drink served with sea behind",
+     "pixabay": "drink served sea background",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "bar staff saying one short sentence to a customer at the counter",
+     "pexels": "bar staff speaking to customer counter",
+     "pixabay": "bartender speaking customer",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a hand chalking a short line on a small menu board",
+     "pexels": "hand writing chalk menu board",
+     "pixabay": "chalk menu board hand",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cocktail menu",
+    "fast food counter",
+    "supermarket fish counter",
+    "beach party",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "The bar is also where the surf lessons start, booked through reception. And here is the rhythm of the perfect day, which I want you to know by heart because it is the best recommendation we have: morning on the farm, lunch and afternoon at Carvalhal, dinner under the stars back home. Recommending the beach is not sending the guest out of the business — it is moving them inside it. And when reception says this on arrival, the guest feels somebody thought about their day. That is hospitality, not selling.",
+   "visual_direction": "[ARCHIVE] 9s Surf lesson, boards, sea. | [GRAPHICS] 14s Timeline of the day: MORNING farm -> AFTERNOON Carvalhal -> EVENING dinner. Three real images inside the line. | [ARCHIVE] 8s Reception explaining something to a guest, with a map. | [ARCHIVE] 6s Dinner under the stars, fire pits.",
+   "onscreen": "Morning farm · Afternoon Carvalhal · Dinner home",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "surf lesson on the sand with boards laid out and an instructor",
+     "pexels": "surf lesson instructor boards sand",
+     "pixabay": "surf lesson boards instructor",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "receptionist explaining a route to a guest using a paper map",
+     "pexels": "receptionist explaining map to guest",
+     "pixabay": "receptionist map guest explaining",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand tracing a route on a printed map",
+     "pexels": "hand tracing route printed map",
+     "pixabay": "hand map route finger",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "dinner outdoors at night beside lit fire pits",
+     "pexels": "outdoor dinner night fire pits",
+     "pixabay": "outdoor dinner night fire",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a farm in the early morning before guests are up",
+     "pexels": "farm early morning before guests",
+     "pixabay": "farm early morning light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "surf competition",
+    "tour bus group",
+    "travel agency advert",
+    "beach party",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "Two operational demands the beach makes and the farm does not. The first is time. On the beach people get hungry at unpredictable hours and have short patience under the sun. A wait time communicated — “it is twenty minutes, shall I bring you water meanwhile?” — settles ninety per cent of complaints before they exist. What generates a complaint is not waiting; it is waiting without information. The second is sun and water. Shade, cold water, toilets checked hourly, attention to children and older people at midday. Wellbeing on the beach is mostly reducing physical discomfort nobody puts into words.",
+   "visual_direction": "[GENERATE] 7s PROMPT: A glass of water with condensation being placed on a hot wooden table under bright sun, ice shifting. Static macro, harsh overhead light, strong shadow. Palette: sea blue, sand, clear glass. 7 seconds. No people beyond a hand, no text. | [ARCHIVE] 10s Shade being adjusted, parasol or awning. | [ARCHIVE] 10s Team member updating a waiting customer. | [ARCHIVE] 10s Toilet being checked — discreet routine shot.",
+   "onscreen": "Nobody minds waiting. They mind not knowing.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a cold glass of water with condensation set on a hot wooden table",
+     "pexels": "cold glass water condensation wooden table",
+     "pixabay": "glass water condensation table",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "a parasol or awning being adjusted for shade over a table",
+     "pexels": "parasol awning adjusted for shade table",
+     "pixabay": "parasol shade table adjust",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "bar staff updating a waiting customer at the counter",
+     "pexels": "staff updating waiting customer counter",
+     "pixabay": "staff customer waiting counter",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "a cleaner checking and tidying a washroom discreetly",
+     "pexels": "cleaner checking washroom discreetly",
+     "pixabay": "cleaner washroom checking",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of an older guest being handed water in the shade",
+     "pexels": "older guest handed water in shade",
+     "pixabay": "elderly person water shade",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "angry customer shouting",
+    "queue frustration stock shot",
+    "hospital",
+    "sunburn advert",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "And because we are on a Costa Vicentina beach, inside a protected area, there is a coherence that is not negotiable. We do not let plastic loose in the wind. We collect what is ours and some of what is not. We close the day with the sand in front of us better than we found it. A bar that lives off the beauty of that coast and dirties it is the most visible contradiction this group can produce — and it is visible to hundreds of people a day, not to an annual audit.",
+   "visual_direction": "[ARCHIVE] 10s End of day at the bar, collecting, tidying. | [GENERATE] 6s PROMPT: A single plastic cup tumbling across empty sand in the wind at dusk, then a hand catching it. No faces, deserted beach. Low sun, long shadows. Palette: sand, dusk blue, white. 6 seconds. No text, no branding. | [ARCHIVE] 11s Costa Vicentina at dusk, wide, no litter. | [ARCHIVE] 10s Team clearing up, chairs stacked, clean sand.",
+   "onscreen": "Leave the sand better than before.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "bar team collecting and tidying at the end of the day",
+     "pexels": "bar team tidying end of day",
+     "pixabay": "staff tidying bar evening",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand picking up a plastic cup from the sand",
+     "pexels": "hand picking plastic cup from sand",
+     "pixabay": "hand picking litter sand",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a clean empty coastline at dusk with long shadows",
+     "pexels": "clean empty coastline dusk shadows",
+     "pixabay": "empty coast dusk",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "chairs being stacked and sand raked clean at closing",
+     "pexels": "chairs stacked sand raked closing",
+     "pixabay": "stacking chairs sand closing",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a bag of collected litter being tied shut",
+     "pexels": "bag of collected litter tied",
+     "pixabay": "litter bag collected tied",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "plastic pollution shock montage",
+    "protest",
+    "landfill",
+    "beach party",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "Your module in three things. You change the register, never the standard. To anyone coming out of that water, you are the whole of Craveiral. And what you serve has an origin you can tell in five seconds. The rest is what you already know how to do: be present, see before you are asked, and treat that counter as if it were your own living room. Because it is. In the next module, the shop — the territory condensed and portable.",
+   "visual_direction": "[GRAPHICS] 14s Three summary cards in sequence, sand background. | [ARCHIVE] 12s The bar at sunset, calm movement, sea. | [ARCHIVE] 10s Last customer leaving, team member saying goodbye. | [GRAPHICS] 8s Belong close.",
+   "onscreen": "Register changes. Standard does not. · You are Craveiral. · Five seconds of truth.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a beach bar at dusk with calm movement and the sea behind",
+     "pexels": "beach bar dusk calm sea behind",
+     "pixabay": "beach bar dusk sea",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "bar staff saying goodbye to the last customer leaving",
+     "pexels": "staff saying goodbye last customer",
+     "pixabay": "staff goodbye customer leaving",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a counter being wiped down for the last time",
+     "pexels": "counter wiped down closing time",
+     "pixabay": "wiping counter closing",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two bar staff sharing a few words after closing",
+     "pexels": "two bar staff talking after closing",
+     "pixabay": "staff talking after closing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "nightclub closing",
+    "drunk customers",
+    "cocktail",
+    "beach party",
+    "logo animation"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  }
+ ]
+}

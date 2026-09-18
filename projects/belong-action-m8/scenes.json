@@ -1,0 +1,86 @@
+{
+ "slug": "belong-action-m8",
+ "title": "Belong em Ação — M8: Wellbeing and Service Recovery",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "This module has two halves that look separate and are not. The first is about wellbeing: how a stay here leaves a person better than it found them. The second is what to do when something goes wrong, the moment any hospitality career is truly tested. The link is simple: most of the wellbeing we offer does not come from what we add. It comes from what we avoid and what we fix fast.",
+   "visual_direction": "[ARCHIVE] 12s STAYING & FEELING: guest resting, slow breathing of the shot. | [GRAPHICS] 8s Title card. | [ARCHIVE] 10s Wellness deck in the pine wood, steam, late afternoon. | [ARCHIVE] 7s Detail: a hand shading closed eyes in the sun, or a towel on the deck.",
+   "onscreen": "WELLBEING AND RECOVERY · Module 8 · Belong in Action",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S02",
+   "script_line": "First lever: dose of nature. A study of nearly twenty thousand people found the association between contact with nature and reported wellbeing plateaus at around two hours a week. You will not quote that to a guest — but see what it means. Our competitive advantage is dose of nature, and nine hectares with four per cent built are only worth it if the guest leaves the house. Your job is to reduce friction: the map in their hand, the harvest basket at the door, the blanket on the deck.",
+   "visual_direction": "[GRAPHICS] 10s Large number: 120 min / week, with a small source note. | [ARCHIVE] 10s Boardwalk, guest walking in the pine wood. | [ARCHIVE] 9s Harvest basket delivered to the door of the house. | [ARCHIVE] 9s Blanket on the deck, low light.",
+   "onscreen": "Our advantage is dose of nature.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S03",
+   "script_line": "Second lever: sleep. It is the strongest wellbeing determinant of a stay, almost always compromised by operational causes, not design. Total blackout verified, not assumed. Maintenance noise at an agreed hour. Night-time quiet explained warmly on arrival, not as a house rule. And never knocking on a door before ten in the morning without an express request. People who sleep well forgive almost anything; people who sleep badly forgive nothing — and the reason given in the review is rarely sleep.",
+   "visual_direction": "[ARCHIVE] 10s Curtain closing, bedroom going dark. | [GENERATE] 6s PROMPT: A dark bedroom interior with a thin line of bright light leaking at the edge of a curtain, then the gap closing to total darkness. Static, slow. Palette: near-black, warm amber sliver. 6 seconds. No people, no text, no identifiable furniture. | [ARCHIVE] 11s Maintenance team starting late, discreetly. | [ARCHIVE] 10s House at dawn, silence, nobody knocking.",
+   "onscreen": "Never before 10. No exception unrequested.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S04",
+   "script_line": "Third lever: choice. Control over your own time is one of the strongest recovery factors there is — which is why freedom is a value of ours, not a brochure adjective. We do not over-programme, over-explain or interrupt. Fourth: quiet and pace. We are the antidote to the city, with concrete consequences: no rushing a table, no loud music at the pool at three in the afternoon, no vacuuming a corridor at half past eight. In doubt between adding and removing, remove.",
+   "visual_direction": "[ARCHIVE] 10s Guest deciding, map, short conversation. | [ARCHIVE] 10s Calm pool, no music, mid-afternoon. | [GENERATE] 6s PROMPT: A speaker cone vibrating slightly then going completely still, extreme macro, dust settling. Static macro, low warm light. Palette: black, brown, sand. 6 seconds. No people, no text. | [ARCHIVE] 11s Corridor or house in silence, morning light.",
+   "onscreen": "In doubt, remove.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S05",
+   "script_line": "Before complaints, the list of what must never happen, because it is the source of most of them. A guest in front of a team member who does not acknowledge them. A guest passed between three people for a simple question. A guest waiting without knowing why. A guest hearing two versions of the same answer. A guest sensing the team in conflict or short- staffed. A guest forced to repeat themselves. And worst: a guest who leaves with a complaint we never knew about.",
+   "visual_direction": "[GRAPHICS] 22s Seven lines appearing as a list, one by one, on sand background. Reading pace. | [GENERATE] 6s PROMPT: A figure standing alone at a counter in a lobby-like space, waiting, no one behind the counter, seen from behind, unidentifiable. Static wide. Flat neutral light. Palette: sand, grey, brown. 6 seconds. No faces, no text, no signage. | [ARCHIVE] 9s Contrast: immediate acknowledgement, eye contact, a smile.",
+   "onscreen": "Worst: a complaint we never knew about.",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S06",
+   "script_line": "The protocol. Four steps, in this order. One: acknowledge. Immediately and without defending. You do not argue with a guest's perception — you deal with it. Two: own it. Whoever hears a complaint owns it until it is resolved, even if the fix belongs to another department. Passing it on is not resolving it; following through is. Three: resolve within the hour — if that is impossible, report back every hour until it is done. Silence turns a problem into an incident. Four: close the loop. One contact before departure, confirming it was resolved. The most forgotten step, and the one weighing most on the final rating.",
+   "visual_direction": "[GRAPHICS] 20s Four numbered steps building: ACKNOWLEDGE · OWN IT · RESOLVE WITHIN THE HOUR · CLOSE THE LOOP. | [GENERATE] 6s PROMPT: A broken ceramic cup on a wooden table, then hands entering to lift the pieces carefully, calmly, no rush. No faces. Warm side light. Palette: clay, terracotta, brown. 6 seconds. No text. | [ARCHIVE] 11s Team member in attentive conversation with a guest, listening.",
+   "onscreen": "ACKNOWLEDGE · OWN · RESOLVE · CLOSE THE LOOP",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S07",
+   "script_line": "Two notes. First: a problem solved within the hour is a story the guest tells friends; a problem that drags on is a story they tell on a review platform. Speed is not courtesy, it is strategy. Second: you do not buy a guest's forgiveness. Research in hospitality shows a well-recovered failure can generate as much loyalty as faultless service, or more — but also that over-compensation backfires, shifting the gesture from care to transaction. Resolve, acknowledge, offer a proportionate gesture. Not three free nights for a tap.",
+   "visual_direction": "[GRAPHICS] 12s Split: within the hour -> friends / dragged out -> reviews. | [ARCHIVE] 10s Maintenance fixing something quickly. | [GENERATE] 6s PROMPT: A single small bunch of flowers set on a table, then a second and third identical bunch being piled beside it, becoming excessive and awkward. Static wide. Neutral light. Palette: sand, green, white. 6 seconds. No people beyond hands, no text. | [ARCHIVE] 11s Follow-up contact, brief conversation before departure.",
+   "onscreen": "Proportionate gesture. Never over-compensation.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S08",
+   "script_line": "And the half that closes this series. We treat the team as we expect the team to treat the guest, and the standard is the same. Not a nice statement: three behaviours from the heads. Breaks taken in August and not only in November. A reported error handled at no personal cost to whoever reported it — the problem is not the error, it is hiding it. And shift handover as a transfer of care, not an end of responsibility. Standards drift when people are tired. Stay. Belong.",
+   "visual_direction": "[ARCHIVE] 12s Team at shift handover, real conversation. | [GRAPHICS] 12s Three head-of-unit behaviours on cards. | [ARCHIVE] 14s Final wide shot of the farm at dusk, music rising. | [GRAPHICS] 8s STAY. BELONG. · Belong logo · Giving Shape to Meaning.",
+   "onscreen": "The standard is the same. · close: STAY. BELONG.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": []
+  }
+ ]
+}

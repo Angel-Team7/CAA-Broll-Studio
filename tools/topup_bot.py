@@ -153,11 +153,17 @@ def _all_positive():
 
 
 def blocked(text, sector):
+    """JUNK is the global scenery-and-cartoon bar: words nobody asked for. A sector that
+    names one in its own `positive` list HAS asked for it — Belong runs a beach bar on the
+    Costa Vicentina, so "beach" and "sea" are its subject, not scenery. The sector's own
+    vocabulary therefore lifts the global bar for those words; its `never` list never
+    lifts, and the judge still looks at every frame."""
     low = (text or "").lower()
     if any(ph in low for ph in JUNK_PHRASES):
         return True
     toks = _tok(text)
-    if toks & JUNK:
+    wanted = sectors.positive(sector)
+    if toks & (JUNK - wanted):
         return True
     return bool(toks & sectors.never(sector))
 

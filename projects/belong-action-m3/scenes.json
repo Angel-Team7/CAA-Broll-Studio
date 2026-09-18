@@ -1,0 +1,454 @@
+{
+ "slug": "belong-action-m3",
+ "title": "Belong em Ação — M3: FarmTable",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "If Craveiral has a soul, you can taste it. Literally. This module is about the FarmTable, and the philosophy fits in one line: before the plate, there is someone who grows. Everything else follows. More than seventy per cent of what we serve is born here. The vegetables ripened in this soil. The herbs were cut this morning. The eggs were laid today, by hens the guest can go and see.",
+   "visual_direction": "[ARCHIVE] 12s GROWING & TASTING, opening. Harvest at dawn. | [GRAPHICS] 8s Title card. | [ARCHIVE] 10s Herbs being cut, hands, scissors. | [ARCHIVE] 7s Eggs being collected.",
+   "onscreen": "FARMTABLE · Before the plate, someone grows.",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of vegetables being harvested in a garden at first light",
+     "pexels": "harvesting vegetables garden early morning",
+     "pixabay": "vegetable harvest garden morning",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands cutting fresh herbs with scissors",
+     "pexels": "hands cutting fresh herbs scissors",
+     "pixabay": "hands cutting herbs",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of eggs being collected into a basket",
+     "pexels": "eggs being collected into basket",
+     "pixabay": "collecting eggs basket",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "hens in a farmyard beside a vegetable plot",
+     "pexels": "hens farmyard vegetable plot",
+     "pixabay": "chickens farmyard garden",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a farm kitchen garden with rows of ripening vegetables",
+     "pexels": "kitchen garden rows ripening vegetables",
+     "pixabay": "kitchen garden vegetable rows",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "supermarket produce aisle",
+    "industrial greenhouse",
+    "food advert plating",
+    "chef competition",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "What we do not grow, we buy as close as possible: cheeses from the region, fish from this coast, wines from the Alentejo and the Vicentina vineyards just up the road, medronho from the local distillery. The menu turns with the seasons because the farm does — not a limitation, the whole point. A tomato in August here tastes like something other than a supermarket tomato in January. That is what root-to-table means: not marketing decoration, but a supply chain you can walk in five minutes.",
+   "visual_direction": "[ARCHIVE] 9s Cheese, fish, a bottle of regional wine — real products. | [GENERATE] 6s PROMPT: Split-frame comparison: left, a pale watery tomato slice under cold flat light; right, a deep red ripe tomato slice under warm natural light, juice beading. Macro, static. 6 seconds. No text, no branding, no hands. | [ARCHIVE] 12s The walk: garden -> kitchen door, continuous shot if possible. | [ARCHIVE] 10s Basket arriving at the kitchen counter.",
+   "onscreen": "Root-to-table: five minutes on foot.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "regional cheese and a bottle of wine on a wooden counter",
+     "pexels": "regional cheese wine wooden counter",
+     "pixabay": "cheese wine wooden table",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of ripe red tomatoes cut open on a board",
+     "pexels": "ripe red tomatoes cut board",
+     "pixabay": "ripe tomato cut board",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "someone carrying a basket of vegetables from garden to kitchen door",
+     "pexels": "carrying vegetable basket to kitchen door",
+     "pixabay": "carrying vegetable basket kitchen",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a vegetable basket set down on a kitchen counter",
+     "pexels": "vegetable basket on kitchen counter",
+     "pixabay": "vegetable basket counter kitchen",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of vineyard rows on a hillside in summer",
+     "pexels": "vineyard rows hillside summer",
+     "pixabay": "vineyard rows hill",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "supermarket shelf",
+    "packaged food factory",
+    "wine tasting event crowd",
+    "price label",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "Breakfast is a statement of identity, and I treat it as one. House breads, our jams, local cheeses, farm eggs cooked to order. Generous, honest, unhurried. Many guests will tell you at check-out that breakfast was the best part of the day — that is normal, and a compliment worth protecting. At lunch and dinner: seasonal, simple, satisfying. Dishes with character, made with care. Inside in the light-filled room, or out on the terrace with the garden and the Alentejo evening.",
+   "visual_direction": "[ARCHIVE] 10s Bread coming out of the oven, steam. | [ARCHIVE] 9s Full breakfast table, morning light. | [ARCHIVE] 9s Eggs being cooked to order. | [ARCHIVE] 9s Terrace at dinner, late afternoon light.",
+   "onscreen": "Breakfast is identity. Protect it.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of bread coming out of an oven with steam rising",
+     "pexels": "bread coming out of oven steam",
+     "pixabay": "bread oven baking steam",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide of a generous breakfast table laid in morning light",
+     "pexels": "breakfast table laid morning light",
+     "pixabay": "breakfast table morning",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "eggs being cooked to order in a pan in a kitchen",
+     "pexels": "eggs cooked to order in pan",
+     "pixabay": "cooking eggs pan kitchen",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "terrace table at dinner in late afternoon light with a garden behind",
+     "pexels": "terrace dinner table late afternoon garden",
+     "pixabay": "terrace dinner table garden",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of jam being spread on house bread",
+     "pexels": "jam spread on bread close",
+     "pixabay": "jam bread spoon",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hotel buffet queue",
+    "pancake stack advert",
+    "fast food",
+    "crowded dining hall",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "And the pizzas, because guests will talk about them. The outdoor wood oven is one of the most loved things on this property. Sun-ripened tomato, herbs picked here, local cheeses, fire. Children make their own in the pizza classes and eat their creation with a pride worth photographing. Never talk the pizza down for being humble: the wood oven on a summer night, children on the grass, the fire pits being lit — that is Craveiral at full power.",
+   "visual_direction": "[ARCHIVE] 10s Wood oven, flame, peel going in. | [ARCHIVE] 10s Child making pizza, hands in the dough. | [ARCHIVE] 9s Children running on the grass at dusk. | [ARCHIVE] 8s Fire pits being lit, wide shot of the terrace.",
+   "onscreen": "Nothing here is too humble.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wood fired oven with flame and a pizza peel going in",
+     "pexels": "wood fired oven pizza peel flame",
+     "pixabay": "wood oven pizza flame",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a child's hands pressing pizza dough",
+     "pexels": "child hands pressing pizza dough",
+     "pixabay": "child hands dough pizza",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "children running on grass at dusk near a farm building",
+     "pexels": "children running on grass dusk",
+     "pixabay": "children running grass evening",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "fire pit being lit on a terrace at dusk",
+     "pexels": "fire pit being lit terrace dusk",
+     "pixabay": "fire pit lighting terrace",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of herbs and cheese being scattered on a pizza base",
+     "pexels": "herbs cheese scattered pizza base",
+     "pixabay": "pizza herbs cheese hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "pizza delivery box",
+    "fast food chain",
+    "birthday party balloons",
+    "food advert slow motion cheese pull",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "Wine. You do not need to be a sommelier — you need three sentences: where it is from, what it is like, what it goes with. Example: “this white comes from vineyards near the coast, twenty minutes from here; fresh, slightly saline, exactly what the fish is asking for.” Done. That sells the wine, honours the producer and connects the guest to the territory. Three sentences. And the preserves, jams and ferments — the old crafts. Explaining that a jam exists because July gave more fruit than we could serve fresh teaches regeneration with a spoon.",
+   "visual_direction": "[ARCHIVE] 9s Wine being poured, label visible. | [GRAPHICS] 12s Three cards: WHERE IT IS FROM · WHAT IT IS LIKE · WHAT IT GOES WITH, with the example sentence below. | [ARCHIVE] 9s Jars of preserves on a shelf, backlit. | [GENERATE] 6s PROMPT: Macro of amber jam being spooned slowly from a glass jar, thick and glossy, light passing through. Static macro, warm backlight. Palette: honey amber, sand, brown. 6 seconds. No hands visible beyond the spoon, no text, no labels.",
+   "onscreen": "Three sentences per wine. Enough.",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wine being poured into a glass at a wooden table",
+     "pexels": "wine poured into glass wooden table",
+     "pixabay": "pouring wine glass table",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "waiter describing a wine to a seated guest",
+     "pexels": "waiter describing wine to guest",
+     "pixabay": "waiter wine guest table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of jars of preserves backlit on a shelf",
+     "pexels": "jars of preserves backlit shelf",
+     "pixabay": "preserve jars shelf light",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of amber jam being spooned from a glass jar",
+     "pexels": "amber jam spooned from jar",
+     "pixabay": "jam spoon jar honey",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of fruit being picked into crates in an orchard in July",
+     "pexels": "fruit picked into crates orchard",
+     "pixabay": "fruit picking crates orchard",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "sommelier competition",
+    "wine bar crowd",
+    "supermarket wine shelf",
+    "cocktail",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "Now service, where this module is decided. Four principles, and they are hard. One: never rush a table. We are the antidote to the city, and the long meal is the ceremony of this place. The table under the stars, the second bottle, the conversation that stretches — protect that. Efficiency belongs to the kitchen; at the table, what counts is presence. Two: tell the chain. Every dish has a story and the story is true. Not a lecture, one line: “the courgettes are from the garden, picked this morning.” One line changes the meal.",
+   "visual_direction": "[GENERATE] 7s PROMPT: Two contrasting moments of the same restaurant table: first a rushed clearing of plates mid-conversation, hurried hands; then a calm pause, plates left, glasses refilled. No faces, torso and hands only. Warm candlelight. Palette: terracotta, amber, deep brown. 7 seconds. No text. | [ARCHIVE] 12s Long table at night, candles, conversation. | [ARCHIVE] 10s Team member talking to a guest at the table, calm gesture. | [GRAPHICS] 8s Card with the courgette example line.",
+   "onscreen": "Never rush a table.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "long table at night lit by candles with people in conversation",
+     "pexels": "long table night candles conversation",
+     "pixabay": "long table candles dinner",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "waiter standing calmly at a table talking with guests",
+     "pexels": "waiter talking calmly with guests table",
+     "pixabay": "waiter talking guests table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a glass being refilled without hurry at a dinner table",
+     "pexels": "glass being refilled dinner table",
+     "pixabay": "refilling glass dinner table",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands clearing plates gently from a table",
+     "pexels": "hands clearing plates from table",
+     "pixabay": "hands clearing plates table",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "waiter pointing out a dish's ingredient to a guest at the table",
+     "pexels": "waiter explaining dish to guest",
+     "pixabay": "waiter explaining dish guest",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "busy restaurant rush timelapse",
+    "angry customer",
+    "fine dining tweezers plating",
+    "empty restaurant stock shot",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "Three: honesty about what we are. We are not a temple of tweezers and foams, but honest cooking, excellent and with soul, from a working farm. Own that with pride: anyone wanting a starred performance has other addresses; anyone wanting to taste a territory has us, and there are far more of them. Four: dietary requirements are hospitality, not a nuisance. Allergies, intolerances, vegetarians, the child who only eats pasta — each is a person hoping not to be a problem. A kitchen that improvises a beautiful vegetarian dish without sighing wins a family for good.",
+   "visual_direction": "[ARCHIVE] 10s Simple, beautiful plate, honest plating, no artifice. | [GENERATE] 6s PROMPT: A handwritten note on a small paper slip reading only “no gluten”, pinned to a rustic kitchen rail. Shallow focus, warm kitchen light behind. Palette: sand, steel, brown. 6 seconds. No people, no other text. | [ARCHIVE] 12s Kitchen at work, rhythm, concentration. | [ARCHIVE] 9s Vegetarian dish going out, the same care.",
+   "onscreen": "We are honest, not a temple.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a simple honest plate of food set down on wood",
+     "pexels": "simple plate of food on wood",
+     "pixabay": "simple plate food wooden",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "kitchen team at work with quiet concentration",
+     "pexels": "kitchen team working concentration",
+     "pixabay": "kitchen team cooking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "a vegetarian dish being finished and passed to the pass",
+     "pexels": "vegetarian dish finished kitchen pass",
+     "pixabay": "vegetarian dish kitchen plate",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a handwritten order slip clipped to a kitchen rail",
+     "pexels": "handwritten order slip kitchen rail",
+     "pixabay": "order slip kitchen ticket",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of a farm kitchen in service with daylight from a window",
+     "pexels": "farm kitchen in service daylight",
+     "pixabay": "rustic kitchen service window",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "michelin tweezers plating",
+    "chef shouting",
+    "cooking competition",
+    "allergy warning graphic",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "The FarmTable is not only this room. It is the same kitchen that goes to the weddings, the companies, and A Mesa do CAM in a museum in Lisbon. One kitchen philosophy, many tables. The gesture is always the same: bring the person who eats closer to the person who grows. A closing thought. Food is where trust becomes physical — the guest hands us their hunger three times a day, and there is something old and intimate in that. Feed people as if it mattered. Because here it does.",
+   "visual_direction": "[ARCHIVE] 10s Catering off the property: long table at a private house or wedding. | [ARCHIVE] 9s A Mesa do CAM: room, table laid. | [GENERATE] 6s PROMPT: A plate being placed onto a linen tablecloth by unseen hands, then a second pair of hands receiving it. No faces, no identifiable food, warm evening light. Palette: linen white, terracotta, amber. 6 seconds. No text. | [ARCHIVE] 15s Full table at dusk, wide, music rising. Belong close.",
+   "onscreen": "One kitchen. Many tables. · close: Bring eater closer to grower.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "long table laid for a private dinner outdoors under trees",
+     "pexels": "long table private dinner outdoors trees",
+     "pixabay": "long table outdoor dinner trees",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "table laid in a calm modern dining room with tall windows",
+     "pexels": "table laid modern dining room windows",
+     "pixabay": "dining room table windows",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a plate being placed on a linen tablecloth by unseen hands",
+     "pexels": "plate placed on linen tablecloth",
+     "pixabay": "plate linen tablecloth hands",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a full table at dusk with warm light and people eating",
+     "pexels": "full table dusk warm light eating",
+     "pixabay": "table dusk people eating",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of two hands passing a serving dish across a table",
+     "pexels": "hands passing serving dish table",
+     "pixabay": "hands passing dish table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hotel banquet hall",
+    "wedding first dance",
+    "corporate catering buffet",
+    "logo animation",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:56:38Z"
+  }
+ ]
+}

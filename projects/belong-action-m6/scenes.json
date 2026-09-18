@@ -1,0 +1,447 @@
+{
+ "slug": "belong-action-m6",
+ "title": "Belong em Ação — M6: The São Teotónio Laundry",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "This is the module a lot of people will assume has nothing to do with them. It does. The São Teotónio laundry is the least visible unit at Craveiral and probably the easiest way to explain circular economy to anyone who doubts it. Because here there is no metaphor: a laundry set up to serve a hotel operation also serves the village it sits in. That is it. Circular economy in the plainest clothes there are.",
+   "visual_direction": "[ARCHIVE] 12s Laundry façade in São Teotónio, street, village context. | [GRAPHICS] 8s Title card. | [ARCHIVE] 10s Interior: machines running, steam, movement. | [ARCHIVE] 7s Detail: stack of folded linen, linen texture.",
+   "onscreen": "SÃO TEOTÓNIO LAUNDRY · Circular economy, no metaphors.",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a small laundry shopfront on a village street",
+     "pexels": "small laundry shopfront village street",
+     "pixabay": "laundry shop street front",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "industrial washing machines running inside a laundry with steam",
+     "pexels": "industrial washing machines laundry steam",
+     "pixabay": "laundry machines industrial",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a stack of folded white linen showing weave texture",
+     "pexels": "stack folded white linen texture",
+     "pixabay": "folded linen stack white",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "laundry worker moving a trolley of linen indoors",
+     "pexels": "laundry worker trolley of linen",
+     "pixabay": "laundry worker linen trolley",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a quiet Portuguese village street with small shops",
+     "pexels": "quiet portuguese village street shops",
+     "pixabay": "village street small shops",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "laundromat coin machines advert",
+    "hotel chain basement",
+    "detergent commercial",
+    "face masks",
+    "dryer tumbling logo"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "It is worth seeing what the alternative would have been. A thirty-eight house hotel on the Costa Vicentina normally hands its linen to an industrial operator in a city, an hour or more away. Lorries covering that distance every week. Jobs created in another municipality. Nothing for São Teotónio. Building this here traded all of that for local employment, money circulating in this parish, and a service the village did not have and now does.",
+   "visual_direction": "[GRAPHICS] 14s Map comparison: scenario A, lorry to a distant city; scenario B, short circle inside the parish. | [ARCHIVE] 9s São Teotónio: street, shops, local life. | [ARCHIVE] 9s Laundry team at work, respectful framing. | [GENERATE] 6s PROMPT: A short length of rope being tied into a closed loop, hands only, plain background. Slow deliberate movement. Soft side light. Palette: sand, rope beige, brown. 6 seconds. No faces, no text.",
+   "onscreen": "Local jobs. Value stays. A new service.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "village street with small shops and local people going about the day",
+     "pexels": "village street shops local people",
+     "pixabay": "village street people shops",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "laundry team working together sorting linen",
+     "pexels": "laundry team sorting linen together",
+     "pixabay": "laundry team sorting linen",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands tying a length of rope into a closed loop",
+     "pexels": "hands tying rope into loop",
+     "pixabay": "hands tying rope knot",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "delivery van parked on a narrow village street",
+     "pexels": "delivery van narrow village street",
+     "pixabay": "van village street parked",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "two local workers talking outside a small business doorway",
+     "pexels": "two workers talking outside small business",
+     "pixabay": "workers talking doorway shop",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "motorway lorry convoy",
+    "industrial estate aerial",
+    "city skyline",
+    "factory production line",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "Now the part that matters to anyone in accommodation. Linen is the most intimate physical contact the guest has with Craveiral. Eight hours a night with their skin against our sheet. They touch our towel straight out of the shower, when they are most sensitive to everything. No amenity, no view, no dish makes up for a rough sheet or a towel that smells damp. This unit's work goes straight into the guest's sleep — and sleep is the most decisive wellbeing indicator of a stay.",
+   "visual_direction": "[GENERATE] 7s PROMPT: Extreme macro of woven white linen fibres, light raking across the weave, fabric shifting slightly. Static macro, soft window light. Palette: white, cream, sand. 7 seconds. No people, no text, no logos. | [ARCHIVE] 10s Bed being dressed, sheet settling. | [ARCHIVE] 10s Towels folded, stacked, detail. | [ARCHIVE] 10s Bedroom in half light, bed ready.",
+   "onscreen": "Eight hours of skin on our sheet.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "extreme close-up of woven white linen fibres with light across the weave",
+     "pexels": "macro white linen weave fibres",
+     "pixabay": "linen fabric macro weave",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "a bed being dressed with a sheet settling over the mattress",
+     "pexels": "bed being dressed sheet settling",
+     "pixabay": "making bed sheet settling",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of folded towels stacked on a shelf",
+     "pexels": "folded towels stacked shelf",
+     "pixabay": "folded towels stack shelf",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a bedroom in half light with the bed ready",
+     "pexels": "bedroom half light bed ready",
+     "pixabay": "bedroom dim light bed",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a hand smoothing a pillowcase flat",
+     "pexels": "hand smoothing pillowcase flat",
+     "pixabay": "hand pillowcase smoothing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hotel maid trolley corridor",
+    "detergent advert",
+    "model sleeping in silk",
+    "fabric softener bear",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "The standard is measured in four things. Correct sorting on the way in: by type, by soiling, by temperature — most damage happens before the machine starts. Stain protocol on the first pass: a stain that goes through the dryer once never comes out. Traceability: we know which linen is from which house and which day, and what is out of circulation and why. And rejection without hesitation: a piece with a hole, a set stain or fraying never goes back on a bed. Cheaper to lose the piece than the guest.",
+   "visual_direction": "[ARCHIVE] 10s Sorting on the way in, baskets, triage. | [ARCHIVE] 10s Stain treatment, product being applied. | [GRAPHICS] 12s Four cards: SORT · TREAT FIRST PASS · TRACE · REJECT WITHOUT MERCY. | [GENERATE] 6s PROMPT: A small tear in white fabric held up to the light, fingers at the edges, then the fabric being set aside on a separate pile. No faces. Clean utilitarian light. Palette: white, grey, sand. 6 seconds. No text.",
+   "onscreen": "Cheaper to lose linen than a guest.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "linen being sorted into baskets on the way into a laundry",
+     "pexels": "linen sorted into baskets laundry",
+     "pixabay": "sorting linen baskets laundry",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of stain treatment being applied to white fabric",
+     "pexels": "stain treatment applied white fabric",
+     "pixabay": "stain treatment fabric hands",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a small tear in white fabric held up to the light",
+     "pexels": "small tear white fabric held light",
+     "pixabay": "torn fabric held light",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker setting a damaged item aside onto a separate pile",
+     "pexels": "worker setting damaged linen aside",
+     "pixabay": "worker damaged linen pile",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of labelled laundry trolleys lined up in a work room",
+     "pexels": "labelled laundry trolleys work room",
+     "pixabay": "laundry trolleys labelled room",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "dry cleaning shop front",
+    "clothes shopping rail",
+    "sewing factory",
+    "laundry detergent advert",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "Water and energy. A laundry is by nature the unit that consumes the most water and the most energy per square metre in the whole group. Which means it is also where a good decision is worth most. A full load instead of a half load. The right temperature, not the highest out of habit. Measured dosing, not by eye. Machine maintenance on a schedule, not on a breakdown. None of this is decorative ecology: it is the same waste-nothing logic we apply in the kitchen, applied where the numbers are bigger.",
+   "visual_direction": "[ARCHIVE] 10s Machine being loaded, full load. | [GENERATE] 7s PROMPT: Macro of clean water pouring from a metal pipe into a drain, then the flow reducing to a trickle and stopping. Static macro, cool industrial light with warm accent. Palette: steel grey, water clear, sand. 7 seconds. No people, no text. | [ARCHIVE] 10s Control panel, dosing, measuring. | [ARCHIVE] 10s Preventive maintenance, technician checking.",
+   "onscreen": "Where numbers are bigger, decisions matter more.",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "an industrial washing machine being loaded to a full load",
+     "pexels": "industrial washing machine being loaded",
+     "pixabay": "loading washing machine industrial",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of clean water running from a metal pipe into a drain",
+     "pexels": "water running metal pipe into drain",
+     "pixabay": "water pipe drain running",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand setting a temperature on a control panel",
+     "pexels": "hand setting temperature control panel",
+     "pixabay": "hand control panel dial",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "technician checking a machine during preventive maintenance",
+     "pexels": "technician checking machine maintenance",
+     "pixabay": "technician machine maintenance",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of detergent being measured into a dosing cup",
+     "pexels": "detergent measured into dosing cup",
+     "pixabay": "detergent measuring cup dosing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "water waste shock footage",
+    "energy bill graphics",
+    "power station",
+    "detergent commercial",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "And the service to the village, which asks something not obvious. The neighbour who brings in a bag of washing is not a lesser customer because they do not sleep in one of our houses. Same treatment, same turnaround, same courtesy. On principle: we said we would open our doors to the village, and integration is judged by that, not by press releases. In practice: those people are our neighbours, some will be our colleagues, and all of them talk about us in the café. Local reputation is built one exchange at a time.",
+   "visual_direction": "[ARCHIVE] 11s Counter service to a local customer. | [ARCHIVE] 10s São Teotónio: café, square, conversation. | [GENERATE] 6s PROMPT: A cloth bag of laundry being handed across a plain counter from one pair of hands to another. No faces, neutral setting. Warm daylight. Palette: sand, cloth white, brown. 6 seconds. No text. | [ARCHIVE] 10s Finished laundry, delivered, wrapped.",
+   "onscreen": "The neighbour is not a lesser customer.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "counter service to a local customer in a small laundry",
+     "pexels": "counter service local customer laundry",
+     "pixabay": "laundry counter customer service",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "village café and square with people in conversation",
+     "pexels": "village cafe square people talking",
+     "pixabay": "village cafe square people",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a cloth bag of laundry handed across a counter",
+     "pexels": "cloth laundry bag handed across counter",
+     "pixabay": "laundry bag handed counter",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "finished laundry wrapped and ready for collection",
+     "pexels": "finished laundry wrapped ready collection",
+     "pixabay": "wrapped laundry ready collection",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "staff member greeting a neighbour coming through the door",
+     "pexels": "staff greeting neighbour at door",
+     "pixabay": "staff greeting customer door",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel concierge in uniform",
+    "corporate customer service desk",
+    "angry queue",
+    "face masks",
+    "call centre"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "A word to the heads, because this unit carries a specific risk. It is physically demanding work, in heat, with little visibility and little spontaneous recognition — no guest writes a review praising the laundry. And our internal principle is explicit: we treat the team as we expect the team to treat the guest, and the standard is the same. In practice: breaks taken in August and not only in November, thermal conditions checked, and recognition said out loud when the work is good — because here nobody else will say it.",
+   "visual_direction": "[ARCHIVE] 11s Laundry team, working shot, dignity. | [GENERATE] 6s PROMPT: Steam rising slowly in a warm industrial room, light beam cutting through it, no machinery detail identifiable. Static wide, backlit. Palette: warm grey, white steam, amber. 6 seconds. No people, no text. | [ARCHIVE] 10s A break, water, a moment of rest. | [ARCHIVE] 10s Head of unit talking to the team, recognition.",
+   "onscreen": "Nobody reviews the laundry. We say it.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "laundry worker at work shown with dignity in a warm room",
+     "pexels": "laundry worker working warm room",
+     "pixabay": "laundry worker working",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "steam rising in a warm work room with a beam of light through it",
+     "pexels": "steam rising warm room light beam",
+     "pixabay": "steam light beam room",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "worker taking a break with a glass of water",
+     "pexels": "worker taking break glass of water",
+     "pixabay": "worker break water glass",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "supervisor talking to a small team and thanking them",
+     "pexels": "supervisor thanking small team",
+     "pixabay": "supervisor team thanking talking",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a worker wiping their forehead in a hot work room",
+     "pexels": "worker wiping forehead hot work room",
+     "pixabay": "worker wiping forehead heat",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "sweatshop",
+    "forced labour framing",
+    "exhausted collapse",
+    "sewing factory rows",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "To close. A farm that preaches love of the land and runs a laundry wasting water is the same contradiction as a dead bulb on a boardwalk — except nobody sees it, which makes it easier to let happen. Coherence is the highest standard we have, and it is measured where nobody is looking. The short version: the back of house is the proof that the promise is true. In the last two modules we leave the units for what runs through all of them — experience and wellbeing.",
+   "visual_direction": "[GRAPHICS] 12s Line full screen, clay background. | [ARCHIVE] 10s Clean linen being loaded for the farm, the circle closing. | [ARCHIVE] 12s Bed ready in a house, late afternoon light — the result. | [GRAPHICS] 8s Belong close.",
+   "onscreen": "Coherence is measured where nobody looks.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "clean linen being loaded into a van for delivery",
+     "pexels": "clean linen loaded into van",
+     "pixabay": "loading clean linen van",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide of a bed ready in a simple room in late afternoon light",
+     "pexels": "bed ready simple room afternoon light",
+     "pixabay": "bed ready room afternoon",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands placing folded linen into a cupboard",
+     "pexels": "hands placing folded linen cupboard",
+     "pixabay": "hands folded linen cupboard",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "laundry worker closing up the premises at the end of the day",
+     "pexels": "laundry worker closing up premises",
+     "pixabay": "worker closing shop evening",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel lobby reveal",
+    "logo animation",
+    "industrial estate drone",
+    "face masks",
+    "before after graphics"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  }
+ ]
+}

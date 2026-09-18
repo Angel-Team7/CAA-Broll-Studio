@@ -1,0 +1,450 @@
+{
+ "slug": "belong-action-m1",
+ "title": "Belong em Ação — M1: One Single House",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "Nine hectares. Thirty-eight independent houses. And only four per cent of the land built on. Everything else is a working farm: vegetable garden, orchard, animals, pine wood, stitched together by wooden boardwalks. If you arrived a week ago or three years ago, you probably know this. What this module asks of you is different: stop seeing five units and start seeing one single house. Because that is how the guest sees it.",
+   "visual_direction": "[ARCHIVE] 12s Master CRAVEIRAL_HERO, opening aerial. No music for the first 4 seconds: wind only. | [ARCHIVE] 10s Wooden boardwalk, backlit late afternoon, no people. | [GRAPHICS] 8s Title card on sand background #EFE7DA. | [ARCHIVE] 7s Detail of a hand closing a gate, or hens on the land.",
+   "onscreen": "ONE SINGLE HOUSE · below, smaller: Module 1 · Belong in Action",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "aerial wide of a small rural farm estate with scattered cottages among trees",
+     "pexels": "aerial small farm estate trees",
+     "pixabay": "aerial farmland houses",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "wooden boardwalk path crossing a farm in backlit late afternoon light, no people",
+     "pexels": "wooden boardwalk path farm backlit",
+     "pixabay": "wooden walkway field",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand closing a wooden farm gate latch",
+     "pexels": "hand closing wooden farm gate",
+     "pixabay": "hand wooden gate latch",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "hens walking on farm soil beside vegetable garden rows",
+     "pexels": "hens walking farm vegetable garden",
+     "pixabay": "chickens farm garden",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of vegetable garden and orchard rows with a pine wood behind",
+     "pexels": "vegetable garden orchard rows trees",
+     "pixabay": "vegetable garden orchard",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel tower",
+    "resort pool",
+    "city skyline",
+    "large crowd",
+    "branded signage",
+    "tractor on industrial farmland"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "Craveiral belongs to the Belong family of brands, and Belong's signature is Giving Shape to Meaning. Behind it sits a simple and demanding idea: a place that is well cared for cares for the people in it. That is why we exist. Not to run a hotel with a pretty garden next door. We exist to regenerate this territory through circular economy, and we use hospitality because it is the strongest economic and cultural engine we have to prove it.",
+   "visual_direction": "[GRAPHICS] 8s Belong symbol: circle and line. Circle draws itself, line enters from below. Clay background #B09189. | [GENERATE] 6s PROMPT: Extreme macro of dry cracked earth absorbing a slow trickle of water, soil darkening and swelling. Static macro lens, shallow depth of field. Warm late-afternoon light. Palette: terracotta, clay, sand. 6 seconds. No text, no people, no buildings. | [ARCHIVE] 12s Wide shot of the garden with someone working, from behind or side on. | [ARCHIVE] 11s São Teotónio: street, café, a façade — the territory beyond the farm.",
+   "onscreen": "A cared-for place cares for its people.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker seen from behind tending rows in a vegetable garden, wide",
+     "pexels": "worker tending vegetable garden rows",
+     "pixabay": "gardener vegetable rows",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "quiet Portuguese village street with a small café and whitewashed facades",
+     "pexels": "portuguese village street small cafe",
+     "pixabay": "village street whitewashed houses",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands cupping dark garden soil",
+     "pexels": "hands holding dark garden soil",
+     "pixabay": "hands soil earth",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "olive trees in a dry field in late afternoon light",
+     "pexels": "olive trees dry field afternoon",
+     "pixabay": "olive grove field",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "village shopkeeper standing in a doorway of a small shop",
+     "pexels": "shopkeeper standing shop doorway village",
+     "pixabay": "shopkeeper small shop door",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate office",
+    "city traffic",
+    "luxury interior",
+    "conference stage",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "Circular economy here is not a slogan. It is a chain you can walk in five minutes. The garden gives more than seventy per cent of what the kitchen serves. What the kitchen does not use goes to compost. The compost goes back to the garden. What we cannot grow, we buy in the shortest radius possible — cheeses from the region, fish from this coast, wines from the Alentejo and the Vicentina. And the São Teotónio laundry washes our linen and the village's. Our back of house is itself a service to our neighbours.",
+   "visual_direction": "[GRAPHICS] 14s Animated circular diagram, four nodes: GARDEN -> KITCHEN -> TABLE -> COMPOST -> GARDEN. Each node lights up with a real cut inside the circle. | [ARCHIVE] 8s GROWING & TASTING: harvest, hands, basket. | [ARCHIVE] 8s Compost box, or soil being turned. | [ARCHIVE] 7s The São Teotónio laundry: façade or a stack of folded linen.",
+   "onscreen": "+70% of what we serve, born here.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands picking vegetables into a wicker basket",
+     "pexels": "hands picking vegetables into basket",
+     "pixabay": "hands harvest basket vegetables",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "compost heap being turned with a garden fork",
+     "pexels": "compost heap turned garden fork",
+     "pixabay": "compost heap garden fork",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a stack of folded white linen on a wooden shelf",
+     "pexels": "stack folded white linen shelf",
+     "pixabay": "folded linen towels shelf",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "local cheese and bread laid on a wooden counter",
+     "pexels": "local cheese bread wooden counter",
+     "pixabay": "cheese bread wooden table",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "small fishing boat in a quiet coastal harbour at first light",
+     "pexels": "small fishing boat coastal harbour",
+     "pixabay": "fishing boat harbour",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "industrial food factory",
+    "supermarket aisle",
+    "recycling plant machinery",
+    "stock infographic",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "We run five units: the accommodation, the FarmTable, Bar da Praia do Carvalhal — the beach bar, the shop and the São Teotónio laundry. Five teams, five routines, five heads. But guests are not buying five things. They are buying Craveiral. And when the shop holds one standard and the restaurant another, they do not think the shop is worse. They think Craveiral is inconsistent. Consistency across units is not a management detail. It is the promise.",
+   "visual_direction": "[GRAPHICS] 10s Five icons appearing in a row, then merging into a single Belong symbol. | [ARCHIVE] 8s Fast cut: reception. | [ARCHIVE] 8s Fast cut: a table being laid at the FarmTable. | [ARCHIVE] 6s Fast cut: shop shelf. | [ARCHIVE] 5s Fast cut: the beach bar, sand.",
+   "onscreen": "Five units. One promise.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guesthouse reception desk with one member of staff behind it",
+     "pexels": "small guesthouse reception desk staff",
+     "pixabay": "guesthouse reception desk",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands laying cutlery on a wooden farm table",
+     "pexels": "hands laying cutlery wooden table",
+     "pixabay": "hands cutlery table setting",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "shelf of local jars and preserves in a small shop",
+     "pexels": "shelf jars preserves small shop",
+     "pixabay": "jars preserves shop shelf",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "beach bar with wooden tables on sand, sea behind",
+     "pexels": "beach bar wooden tables sand",
+     "pixabay": "beach bar tables sand",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "two members of staff exchanging a few words across a counter",
+     "pexels": "two staff talking across counter",
+     "pixabay": "staff talking counter",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel chain lobby",
+    "cocktail party",
+    "nightclub",
+    "crowded restaurant queue",
+    "corporate meeting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "And the house is bigger than the farm. There is the beach bar, minutes from here, on the sand of the Costa Vicentina. There is A Mesa do CAM, in Lisbon, at the Modern Art Centre of the Calouste Gulbenkian Foundation — the cooking of this territory served at a city table, inside a museum. There are the weddings, the retreats, the companies that come here to think. Different stages, the same play. And when you recommend something of ours, you are not selling. You are taking the guest to more of what they already chose.",
+   "visual_direction": "[GRAPHICS] 10s Schematic map: Craveiral at the centre, Carvalhal west, Lisbon north. Lines drawing themselves between points. | [ARCHIVE] 9s The beach bar, afternoon light, sea behind. | [ARCHIVE] 9s A Mesa do CAM: interior, table laid, architecture. | [ARCHIVE] 9s EXPERIENCES: long wedding table under the pines.",
+   "onscreen": "Different stages. The same play.",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "beach bar on sand with the sea behind in afternoon light",
+     "pexels": "beach bar sand sea afternoon",
+     "pixabay": "beach bar sea",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "table laid in a calm modern restaurant interior with tall windows",
+     "pexels": "table laid modern restaurant interior",
+     "pixabay": "restaurant table interior windows",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "long table set for an outdoor dinner under pine trees",
+     "pexels": "long table outdoor dinner under trees",
+     "pixabay": "long table outdoor dinner",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "small group seated in a circle outdoors for a workshop",
+     "pexels": "small group seated circle outdoors workshop",
+     "pixabay": "group circle outdoor workshop",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of hands pouring wine at an outdoor table",
+     "pexels": "hands pouring wine outdoor table",
+     "pixabay": "pouring wine glass table",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "nightclub",
+    "cocktail bar neon",
+    "wedding kiss",
+    "hotel ballroom",
+    "conference hall",
+    "drone over a resort"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "There is a part of this we say too little, and it is worth saying. Regeneration here has to work as a business, or it is not regeneration — it is charity in disguise. We have commitments to the house owners, to our suppliers, to the team and to this land. Meeting them is not the opposite of purpose. It is the condition for it. That is why waste bothers us so much. Food, water, energy, time, talent or goodwill — we waste nothing, because everything wasted is regeneration we can no longer pay for.",
+   "visual_direction": "[GENERATE] 7s PROMPT: Slow close-up of a single drop of water falling and being caught in a cupped ceramic bowl, nothing spilling. Macro, static camera, side light. Palette: clay, sand, deep brown. 7 seconds. No people, no text, no branding. | [ARCHIVE] 12s Kitchen: using everything, preserves, jars lined up. | [ARCHIVE] 10s Solar panels, water system or composting — real infrastructure. | [ARCHIVE] 8s Team at shift handover, respectful side angle.",
+   "onscreen": "We waste nothing. Nothing.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "rows of preserve jars lined up on a kitchen shelf",
+     "pexels": "preserve jars lined kitchen shelf",
+     "pixabay": "preserve jars kitchen shelf",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "solar panels on a rural building roof in sunlight",
+     "pexels": "solar panels rural roof sunlight",
+     "pixabay": "solar panels roof farm",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "two kitchen staff at a shift handover by a doorway",
+     "pexels": "two kitchen staff shift handover",
+     "pixabay": "kitchen staff talking doorway",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of vegetable trimmings tipped into a compost bucket",
+     "pexels": "vegetable trimmings compost bucket",
+     "pixabay": "vegetable peelings compost bucket",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "irrigation pipes and a water tank on a working farm",
+     "pexels": "irrigation pipes water tank farm",
+     "pixabay": "irrigation pipe water tank",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "landfill",
+    "industrial plant chimney",
+    "money cash",
+    "corporate boardroom",
+    "stock chart graphics"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "If all this works, the guest feels six things. Welcomed — recognised as a person, not processed as a booking. Slowed down — with permission to do less. Cared for, without ceremony. Connected — to the land, the food, the people, the village, and whoever came with them. Restored: they leave lighter than they arrived. And trusted — free to decide how they use their time here. Those six words are your job description, whatever your role.",
+   "visual_direction": "[GRAPHICS] 20s Six cards in sequence, one word each, on sand background, with a 2s real cut between each. | [ARCHIVE] 8s Arrival: a bag passing from hand to hand, water being poured. | [ARCHIVE] 9s STAYING & FEELING: guest reading on the terrace, unhurried.",
+   "onscreen": "sequence: WELCOMED · SLOWED DOWN · CARED FOR · CONNECTED · RESTORED · TRUSTED",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host taking a guest's bag at a doorway on arrival",
+     "pexels": "host taking guest bag doorway",
+     "pixabay": "host guest luggage door",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of water being poured into a glass for a guest",
+     "pexels": "water poured into glass guest",
+     "pixabay": "pouring water glass",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "guest reading in a chair on a quiet terrace, unhurried",
+     "pexels": "guest reading chair quiet terrace",
+     "pixabay": "woman reading terrace chair",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "host and guest talking warmly across a farm table",
+     "pexels": "host and guest talking farm table",
+     "pixabay": "host guest talking table",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a guest walking slowly alone through a garden path",
+     "pexels": "guest walking slowly garden path",
+     "pixabay": "person walking garden path",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel check-in queue",
+    "spa massage",
+    "yoga class",
+    "cocktail",
+    "crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "You leave with one question, for whenever you are unsure whether something is Craveiral or not. It is this: does this bring the person who eats closer to the person who grows? If it does, it is ours. If it does not, it is not — however profitable it looks. That holds for an investment decision and it holds for how you answer a guest on the boardwalk. In the next modules we go to each unit, one by one, and to the standard each one has to hold. Stay. Belong.",
+   "visual_direction": "[GENERATE] 6s PROMPT: Two hands, one holding freshly pulled root vegetables with soil still on them, passing them into another pair of hands. Neutral rustic linen sleeves, no faces, no identifiable location. Shallow depth of field, warm side light. Palette: sand, soil brown, olive green. 6 seconds. No text. | [GRAPHICS] 12s The question full screen, clay background, brown type. | [ARCHIVE] 14s Sunset over the farm, wide, music rising. | [GRAPHICS] 8s Belong logo · Giving Shape to Meaning. Close.",
+   "onscreen": "Does this bring eater closer to grower? · close: STAY. BELONG.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands passing freshly pulled root vegetables to another pair of hands",
+     "pexels": "hands passing root vegetables hands",
+     "pixabay": "hands passing vegetables soil",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "farmer and cook talking over a crate of vegetables",
+     "pexels": "farmer and cook talking vegetable crate",
+     "pixabay": "farmer chef vegetable crate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of farm fields in warm evening light with one figure walking",
+     "pexels": "farm field evening light person walking",
+     "pixabay": "farm field evening person",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of soil being brushed from a freshly pulled carrot",
+     "pexels": "soil brushed from fresh carrot",
+     "pixabay": "hand carrot soil",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "supermarket produce",
+    "market crowd",
+    "logo animation",
+    "business handshake",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  }
+ ]
+}

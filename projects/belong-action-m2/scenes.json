@@ -1,0 +1,455 @@
+{
+ "slug": "belong-action-m2",
+ "title": "Belong em Ação — M2: The Houses",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "If you are going to represent Craveiral, you have to know Craveiral the way you know your own home. This module is a visit, and it has two parts: the facts, and the standard. The facts, because confidence sells and vagueness kills. The standard, because a house made ready is not a clean room — it is a promise kept. We start with the facts.",
+   "visual_direction": "[ARCHIVE] 12s STAYING & FEELING, opening shot. House interior, natural light. | [GRAPHICS] 8s Title card, sand background. | [ARCHIVE] 10s Slow tracking shot along a boardwalk between clusters. | [ARCHIVE] 7s Detail: door handle, wood, wall texture.",
+   "onscreen": "THE HOUSES · Module 2 · Belong in Action",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a simple rustic cottage interior in natural daylight",
+     "pexels": "rustic cottage interior natural light",
+     "pixabay": "cottage interior daylight",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "slow tracking along a wooden boardwalk between small whitewashed houses",
+     "pexels": "wooden boardwalk between small houses",
+     "pixabay": "wooden path houses",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand on a wooden door handle",
+     "pexels": "hand on wooden door handle",
+     "pixabay": "hand door handle wood",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of whitewashed wall and weathered wood texture",
+     "pexels": "whitewashed wall wood texture detail",
+     "pixabay": "white wall wood texture",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "housekeeper opening the door of a small cottage",
+     "pexels": "housekeeper opening cottage door",
+     "pixabay": "housekeeper opening door",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel corridor with numbered doors",
+    "glass lobby",
+    "city apartment block",
+    "resort pool",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "Thirty-eight independent houses, organised in clusters — three main clusters plus the Studios, closer to the central services. They share the same DNA: sustainability, local craft, a nod to Portuguese heritage. Minimal, but warm. Every unit has a properly equipped kitchen, organic amenities, air conditioning, and a private terrace with table and armchairs. And pets are welcome — which matters to more guests every year, and which we do properly, not grudgingly.",
+   "visual_direction": "[GRAPHICS] 10s Schematic site plan, clusters lighting up one by one. | [ARCHIVE] 9s Kitchen of a house, wide shot. | [ARCHIVE] 9s Private terrace with table laid, late afternoon. | [ARCHIVE] 9s Dog on the boardwalk or by the terrace, with a guest.",
+   "onscreen": "38 houses. One DNA.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a small cottage kitchen fully equipped in daylight",
+     "pexels": "small cottage kitchen daylight",
+     "pixabay": "cottage kitchen interior",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "private terrace with a wooden table and two armchairs in late afternoon",
+     "pexels": "private terrace table armchairs afternoon",
+     "pixabay": "terrace table chairs",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "dog walking beside a guest on a wooden path",
+     "pexels": "dog walking beside person wooden path",
+     "pixabay": "dog walking path owner",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of soap and amenities set on a stone basin",
+     "pexels": "soap amenities on stone basin",
+     "pixabay": "soap bathroom basin stone",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of a cluster of small whitewashed farm houses among trees",
+     "pexels": "cluster small white farm houses trees",
+     "pixabay": "white farm houses trees",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hotel room service trolley",
+    "apartment block",
+    "resort pool bar",
+    "crowd",
+    "luxury suite"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "The typologies, and these you should know by heart. Studios: forty square metres, two guests. Farm Houses: sixty-four metres, one bedroom, up to four. Farm Lofts: also sixty-four metres, two guests, WeWood interiors in cherry and oak, in the Cravo cluster — which has a private pool for its guests. Two-bedroom houses: eighty-five metres, four in comfort, up to six, wood burner in the living room. Farmers House: two bedrooms, Dam furniture, Smeg kitchen, two decks. And the Owner's House WeWood: our signature — eighty-five metres, Hästens mattress, cork bathtub, a small library.",
+   "visual_direction": "[GRAPHICS] 30s Sequence of six cards, one per typology: name, metres, capacity, one distinctive detail. Each card over a real image of the typology, text on a sand band. | [ARCHIVE] 7s Owner’s House detail: cork, library, mattress.",
+   "onscreen": "per card: STUDIO · 40 m² · 2 / FARM HOUSE · 64 m² · 4 / FARM LOFT · 64 m² · 2 · Cravo cluster / 2 BEDROOMS · 85 m² · 4–6 / FARMERS HOUSE · 2 bedrooms · 2 decks / OWNER'S HOUSE · 85 m² · signature",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a cork wall or cork bath detail in a bathroom",
+     "pexels": "cork wall bathroom detail",
+     "pixabay": "cork texture bathroom",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "small bookshelf in the corner of a quiet bedroom",
+     "pexels": "small bookshelf bedroom corner",
+     "pixabay": "bookshelf bedroom books",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide of a bedroom with a made bed and a wooden ceiling",
+     "pexels": "bedroom made bed wooden ceiling",
+     "pixabay": "bedroom wooden ceiling bed",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of cherry and oak joinery detail in a wooden interior",
+     "pexels": "oak joinery detail wooden interior",
+     "pixabay": "oak wood joinery detail",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wood burner alight in a rustic living room",
+     "pexels": "wood burner rustic living room",
+     "pixabay": "wood burner stove living room",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel suite tour",
+    "estate agent showing a property",
+    "luxury penthouse",
+    "price tag graphics",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "Why do we make you learn square metres? Because of this situation. A guest asks: “does the two-bedroom house work for us with the children?” Two answers are possible. The vague one — “yes, I think so” — leaves the guest where they were. The precise one: “yes, and if they are small the sofa bed in the living room gives you room to spare; the second bedroom can be twins or a double, tell me which you prefer.” That answer has just built trust. And trust is the currency of this business.",
+   "visual_direction": "[GENERATE] 7s PROMPT: Over-the-shoulder shot of an unrecognisable staff member’s hands gesturing while speaking with a guest across a wooden counter; faces out of frame or heavily out of focus. Neutral interior, no identifiable decor. Warm natural light. Palette: sand, clay, brown. 7 seconds. No text. | [GRAPHICS] 12s Split screen: left, in grey, the vague answer; right, in terracotta, the precise answer. | [ARCHIVE] 10s Living room of a two-bedroom house, sofa bed visible. | [ARCHIVE] 8s Family with children on the terrace or the boardwalk.",
+   "onscreen": "Trust is the currency of this business.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff member gesturing while answering a guest across a wooden counter",
+     "pexels": "staff explaining to guest at counter",
+     "pixabay": "staff guest counter talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide of a rustic living room with a sofa and doors open to a terrace",
+     "pexels": "rustic living room sofa open doors",
+     "pixabay": "living room sofa terrace doors",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "family with two young children on a terrace",
+     "pexels": "family with children on terrace",
+     "pixabay": "family children terrace",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands pointing at a floor plan on a counter",
+     "pexels": "hands pointing floor plan counter",
+     "pixabay": "hands pointing plan paper",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "receptionist listening attentively to a guest's question",
+     "pexels": "receptionist listening to guest question",
+     "pixabay": "receptionist listening guest",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "call centre headset",
+    "real estate contract signing",
+    "corporate sales pitch",
+    "angry guest",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "The shared spaces, half of what the guest is buying. Three pools: the big outdoor one, twenty-four by nine metres, for real swimming; the heated indoor, twelve by five, with the glass-fronted sauna beside it; and the children's pool. The wellness deck, raised in the pine wood: outdoor sauna, hot tub, cold plunge — a full thermal circuit. The gym. The Nature Interpretation Center, wood and glass among the pines: yoga twice a week, retreats, workshops, meetings; fifty seated for a banquet, eighty standing. The terrace with the fire pits. And the playground area, for events up to three hundred people.",
+   "visual_direction": "[ARCHIVE] 8s Outdoor pool, wide, morning. | [ARCHIVE] 8s Indoor pool and glass sauna. | [ARCHIVE] 9s Wellness deck in the pine wood: hot tub, steam. | [ARCHIVE] 8s Interpretation Centre, interior, yoga. | [ARCHIVE] 6s Fire pits at dusk on the terrace.",
+   "onscreen": "3 pools · thermal circuit · CIN up to 80",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of an outdoor swimming pool at a rural farmhouse in morning light",
+     "pexels": "outdoor pool rural farmhouse morning",
+     "pixabay": "outdoor pool farmhouse",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "wooden sauna cabin with a glass front, steam inside",
+     "pexels": "wooden sauna glass front steam",
+     "pixabay": "sauna wooden glass",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "outdoor hot tub on a wooden deck among pine trees",
+     "pexels": "outdoor hot tub wooden deck pines",
+     "pixabay": "hot tub wooden deck trees",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a wood and glass pavilion among pine trees",
+     "pexels": "wood glass pavilion pine trees",
+     "pixabay": "wooden glass pavilion trees",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a fire pit burning on a terrace at dusk",
+     "pexels": "fire pit burning terrace dusk",
+     "pixabay": "fire pit terrace evening",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "water park",
+    "pool party",
+    "sunbathers with cocktails",
+    "hotel gym machines row",
+    "spa treatment massage",
+    "crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "Now the standard, and here the tone changes. A standard is a promise we made to every future guest, based on what we delivered to the past ones. The guest paid for the Craveiral of the photographs and the reviews. Every detail right keeps that promise: the flawless bed, the kitchen without a mark, the inviting terrace, the amenities complete. Every detail wrong breaks it a little. Broken promises pile up in silence: guests rarely complain about small things — they think less of us quietly, book elsewhere one day, and we never know why.",
+   "visual_direction": "[ARCHIVE] 10s Bed being made, hands, sheet settling. Slow rhythm. | [GENERATE] 6s PROMPT: Macro of a single fingerprint smudge on a polished glass surface, catching hard light, then the same surface clean. Static macro, high contrast side light. Palette: neutral grey-brown, sand. 6 seconds. No people, no text. | [ARCHIVE] 11s Sequence of details done right: amenities aligned, jug filled, terrace cushion dry. | [GRAPHICS] 10s Visual counter: promises kept adding up, one failing.",
+   "onscreen": "A standard promises a future guest.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands smoothing a white sheet over a bed",
+     "pexels": "hands smoothing white sheet bed",
+     "pixabay": "hands bed sheet making",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "housekeeper making a bed in a bright simple room",
+     "pexels": "housekeeper making bed bright room",
+     "pixabay": "housekeeper making bed",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of amenities aligned neatly on a bathroom shelf",
+     "pexels": "amenities aligned bathroom shelf",
+     "pixabay": "bathroom amenities shelf",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a glass jug being filled with water",
+     "pexels": "glass jug being filled water",
+     "pixabay": "glass jug water filling",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "a clean kitchen counter being wiped down",
+     "pexels": "kitchen counter being wiped clean",
+     "pixabay": "wiping kitchen counter cloth",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel maid trolley in a corridor",
+    "cleaning product advert",
+    "smiling model in uniform",
+    "face masks",
+    "before and after graphics"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "Hence the rule I want you to keep: details are not small. Here, details are everything, because our whole promise is care. A farm that preaches love of the land and has a dirty pool filter or a dead bulb on a boardwalk is a contradiction the guest feels at once, even if they cannot explain it. Coherence between what we say and what we do is our highest standard. And one thing only guest wellbeing asks for gets forgotten: sleep. Total blackout, maintenance noise at an agreed hour, never knocking before ten in the morning unless asked.",
+   "visual_direction": "[GENERATE] 6s PROMPT: A single dead lightbulb on a weathered wooden post at dusk, unlit while others glow further down the path. Slow push in. Blue-hour light. Palette: dusk blue, warm amber, brown. 6 seconds. Generic rural walkway, no identifiable buildings, no text. | [ARCHIVE] 10s Maintenance working early, discreetly. | [ARCHIVE] 10s Bedroom in full darkness, curtain closing. | [GRAPHICS] 11s Three sleep rules on short cards.",
+   "onscreen": "Details are not small. · then: Blackout · Noise by appointment · Never before 10",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "an unlit lamp on a wooden post at dusk beside a path",
+     "pexels": "unlit lamp wooden post path dusk",
+     "pixabay": "lamp post path evening",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "maintenance worker working quietly early in the morning outdoors",
+     "pexels": "maintenance worker early morning outdoors",
+     "pixabay": "maintenance worker morning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "curtain being drawn to darken a bedroom",
+     "pexels": "curtain being drawn dark bedroom",
+     "pixabay": "curtain closing bedroom",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand switching off a bedside lamp",
+     "pexels": "hand switching off bedside lamp",
+     "pixabay": "hand bedside lamp switch",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "worker checking a pool filter at the poolside",
+     "pexels": "worker checking pool filter",
+     "pixabay": "pool maintenance filter worker",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "sleeping model in silk sheets",
+    "alarm clock stock shot",
+    "noisy construction site",
+    "face masks",
+    "do not disturb sign close-up"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "Last point, and a test of character. When you see something wrong that is not “your job” — a fallen branch on the boardwalk, a dirty window, litter by the pool — there are two kinds of people. The one who thinks “someone should sort that out”, and the one who sorts it or reports it within the hour. Craveiral was built by the second kind. Be the second kind. Next module: the FarmTable — where all this philosophy lands.",
+   "visual_direction": "[GENERATE] 7s PROMPT: A fallen pine branch lying across a wooden boardwalk. A pair of work-worn hands enters frame, lifts it, carries it out of frame. No faces, generic rural setting. Handheld, slight movement. Warm morning light. Palette: sand, pine green, brown. 7 seconds. No text. | [GRAPHICS] 12s Split: “someone should sort that out” fading / “within the hour” locking in terracotta. | [ARCHIVE] 14s Wide shot of the houses at end of day, music rising. | [GRAPHICS] 8s Belong close.",
+   "onscreen": "Fix or report. Within the hour.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of work-worn hands lifting a fallen branch from a path",
+     "pexels": "hands lifting fallen branch path",
+     "pixabay": "hands branch path lifting",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker picking up litter beside a garden path",
+     "pexels": "worker picking litter garden path",
+     "pixabay": "picking litter garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands cleaning a window pane with a cloth",
+     "pexels": "hands cleaning window pane cloth",
+     "pixabay": "hands cleaning window glass",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "staff member reporting something on a phone outdoors",
+     "pexels": "staff reporting on phone outdoors",
+     "pixabay": "worker phone outdoors call",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of small farm houses at end of day in warm light",
+     "pexels": "small farm houses warm evening light",
+     "pixabay": "farm houses evening light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "street sweeping machine",
+    "protest litter pick crowd",
+    "corporate volunteer day",
+    "face masks",
+    "rubbish dump"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:54:07Z"
+  }
+ ]
+}

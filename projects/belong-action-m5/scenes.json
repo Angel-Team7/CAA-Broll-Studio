@@ -1,0 +1,454 @@
+{
+ "slug": "belong-action-m5",
+ "title": "Belong em Ação — M5: The Shop",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "The shop is the most misunderstood thing at Craveiral. Seen as a place that sells souvenirs, it is a small shop with a tight margin. Seen as what it actually is — the territory condensed and portable — it becomes one of the most effective brand tools we have. This module is about the second reading.",
+   "visual_direction": "[ARCHIVE] 12s Shop interior, opening shot, natural light. | [GRAPHICS] 8s Title card. | [ARCHIVE] 10s Slow tracking shot across the shelves: jars, bottles, soaps. | [ARCHIVE] 7s Detail: handwritten label, paper texture.",
+   "onscreen": "THE SHOP · The territory, condensed and portable.",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a small farm shop interior in natural light",
+     "pexels": "small farm shop interior natural light",
+     "pixabay": "farm shop interior",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "slow tracking across shelves of jars bottles and soaps",
+     "pexels": "shelves of jars bottles soaps shop",
+     "pixabay": "shop shelves jars bottles",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a handwritten paper label on a jar",
+     "pexels": "handwritten paper label on jar",
+     "pixabay": "handwritten label jar",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "shopkeeper standing behind a small wooden counter",
+     "pexels": "shopkeeper behind small wooden counter",
+     "pixabay": "shopkeeper wooden counter",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of hands straightening a row of products on a shelf",
+     "pexels": "hands straightening products on shelf",
+     "pixabay": "hands arranging shop shelf",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "supermarket aisle",
+    "souvenir tourist stall",
+    "shopping mall",
+    "barcode scanner close-up",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "What we carry: local wines, craft rum, small-production honey, jams, olive oil, infusions, soaps and body oils made nearby by traditional methods, and comfortable clothing inspired by farm life. At first glance, a selection. In fact it is a map: every shelf is a producer, and almost all of them are less than half an hour's drive from here. The shop is the only place on the property where the guest can literally put the territory in their suitcase.",
+   "visual_direction": "[ARCHIVE] 9s Wines and rum, group shot. | [ARCHIVE] 9s Honey and jams, backlit through the glass. | [ARCHIVE] 9s Soaps and oils, texture. | [GRAPHICS] 10s Schematic map: shop at the centre, producer points within a 30 km radius.",
+   "onscreen": "Every shelf is a producer.",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "bottles of local wine grouped on a wooden shelf",
+     "pexels": "bottles local wine wooden shelf",
+     "pixabay": "wine bottles shelf shop",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of honey and jam jars backlit through the glass",
+     "pexels": "honey jam jars backlit glass",
+     "pixabay": "honey jam jars light",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of handmade soaps and oil bottles showing texture",
+     "pexels": "handmade soaps oil bottles texture",
+     "pixabay": "handmade soap bottles",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "folded linen clothing stacked on a shop table",
+     "pexels": "folded linen clothing shop table",
+     "pixabay": "folded clothes shop table",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a small producer's workshop with jars being filled",
+     "pexels": "small producer workshop filling jars",
+     "pixabay": "small producer jars workshop",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "supermarket shelf",
+    "duty free shop",
+    "gift wrapping advert",
+    "branded packaging close-up",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "And here is the only sales technique I will ask of you. One sentence about origin turns a souvenir into a relationship. Compare: “this honey is very good” — what any shop says — with “this honey comes from a producer twenty minutes from here; his hives are in the eucalyptus wood, and the taste changes from year to year with the flowering.” The second costs no more time, is not pushy, and turns a jar of honey into an object with a story the guest will tell at home. Minimum target: five products, five stories, by heart.",
+   "visual_direction": "[GRAPHICS] 12s Split: left, in grey, “this honey is very good”; right, in terracotta, the full sentence. | [GENERATE] 6s PROMPT: Macro of a honey jar held up against soft window light, amber glowing, dust motes in the air. Slow rotation. No label text, no hands beyond fingers at the edge of frame. Palette: honey amber, sand, warm brown. 6 seconds. No text. | [ARCHIVE] 10s Team member explaining a product to a guest. | [ARCHIVE] 9s Local producer, if archive footage exists; if not, hands wrapping.",
+   "onscreen": "Five products. Five stories. By heart.",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "shop assistant explaining a product to a guest across the counter",
+     "pexels": "shop assistant explaining product to customer",
+     "pixabay": "shop assistant customer explaining",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a honey jar held up against soft window light",
+     "pexels": "honey jar held up window light",
+     "pixabay": "honey jar light glow",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "beekeeper lifting a frame from a hive in a wood",
+     "pexels": "beekeeper lifting frame from hive",
+     "pixabay": "beekeeper hive frame",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands wrapping a jar in paper",
+     "pexels": "hands wrapping jar in paper",
+     "pixabay": "hands wrapping paper jar",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "customer listening with interest while holding a product",
+     "pexels": "customer listening holding product shop",
+     "pixabay": "customer listening product shop",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hard sell pitch",
+    "supermarket promotion",
+    "influencer unboxing",
+    "price tag graphics",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "There is something about when the shop happens that changes everything. The memory of a stay is not an average: it forms mostly at the most intense moment and at the last one. And the shop is often the last place the guest is before getting into the car. So the shop is not a commercial extra at the end — it is one of the two pieces that weigh most in the memory they take away. A cold shop, with little attention, wipes out three good days. A warm one closes the stay on a high note.",
+   "visual_direction": "[GRAPHICS] 12s Simple chart: memory curve of a stay, with the peak and the end picked out in terracotta. | [ARCHIVE] 10s Guest in the shop, bags already packed, shortly before leaving. | [GENERATE] 6s PROMPT: A small paper bag being folded closed and tied with natural twine by unseen hands. Slow, careful movement. Warm interior light. Palette: kraft paper, sand, terracotta. 6 seconds. No faces, no text, no branding. | [ARCHIVE] 9s Goodbye at the door, guest with a bag in hand.",
+   "onscreen": "Memory forms at the peak and end.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest in a small shop with packed bags shortly before leaving",
+     "pexels": "guest in shop with packed bags",
+     "pixabay": "guest shop luggage bags",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a paper bag being folded closed and tied with twine",
+     "pexels": "paper bag folded tied with twine",
+     "pixabay": "paper bag twine tied",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "host saying goodbye to a departing guest at a door",
+     "pexels": "host saying goodbye guest at door",
+     "pixabay": "host goodbye guest door",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a car being loaded outside a farm building",
+     "pexels": "car being loaded outside farm building",
+     "pixabay": "loading car luggage house",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a purchase being handed over with both hands",
+     "pexels": "purchase handed over both hands",
+     "pixabay": "handing purchase bag hands",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "airport departure gate",
+    "hotel checkout queue",
+    "credit card advert",
+    "crying farewell",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "Two things we do not do. We do not push. The practical rule: we recommend what we would recommend to a friend, and we stop the first time the guest hesitates. A “no, thank you” taken naturally preserves the relationship; a second argument after the “no” ruins it. And we do not inflate. If a product is not organic, we do not say it is. If that olive oil is not our production, we say whose it is — with pride, because it belongs to someone from this land. Honesty about origin is what gives origin its value.",
+   "visual_direction": "[GRAPHICS] 12s Two rules on cards: We stop at the first hesitation. / We never inflate the origin. | [ARCHIVE] 10s Light, unpressured interaction in the shop, open gesture. | [GENERATE] 6s PROMPT: An open palm gesture beside a shelf of jars, relaxed and unhurried, then withdrawing. Torso and hand only, no face. Soft interior light. Palette: sand, clay, glass. 6 seconds. No text. | [ARCHIVE] 9s Label with the producer’s name visible, detail.",
+   "onscreen": "We stop at the first hesitation.",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "relaxed unpressured exchange between shop staff and a customer",
+     "pexels": "relaxed shop staff customer exchange",
+     "pixabay": "shop staff customer relaxed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an open palm gesture beside a shelf of jars",
+     "pexels": "open palm gesture beside shelf jars",
+     "pixabay": "open hand gesture shelf",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a producer's name on a bottle label",
+     "pexels": "producer name on bottle label",
+     "pixabay": "bottle label name detail",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "customer shaking their head politely and the assistant stepping back",
+     "pexels": "customer declining politely shop assistant",
+     "pixabay": "customer declining shop",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a quiet shop with one customer browsing alone",
+     "pexels": "quiet shop one customer browsing",
+     "pixabay": "customer browsing quiet shop",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "aggressive salesman",
+    "telemarketing headset",
+    "discount sale signage",
+    "crowd of shoppers",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "The physical standard of the shop has its own rules and they are harder than they look, because a small shop does not forgive disorder. Shelves full but not piled. Labels legible and all facing front. Nothing dusty — and in a farm setting, with doors open, that means checking daily, not weekly. Nothing out of date, ever. And no stock-outs on the ten best-selling products: if the honey runs out in August, the problem is not August, it is the July order.",
+   "visual_direction": "[ARCHIVE] 10s Shelf being aligned, labels turned front. | [GENERATE] 6s PROMPT: Close-up of a dusty glass jar surface, then the same jar wiped clean with a cloth, dust visible in the light beam. Static macro, strong side light. Palette: sand, glass, brown. 6 seconds. No faces, no text. | [ARCHIVE] 10s Stock check, list or tablet. | [GRAPHICS] 11s Daily checklist on cards: Aligned · Legible · Dust-free · In date · Top 10 in stock.",
+   "onscreen": "Checked daily. Not weekly.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands turning labels to face front on a shelf",
+     "pexels": "hands turning labels face front shelf",
+     "pixabay": "hands labels shelf front",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a dusty jar being wiped clean with a cloth",
+     "pexels": "dusty jar wiped clean cloth",
+     "pixabay": "wiping dusty jar cloth",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "shop worker doing a stock check with a list",
+     "pexels": "shop worker stock check with list",
+     "pixabay": "stock check list shop",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of tidy well stocked shelves in a small shop",
+     "pexels": "tidy well stocked shelves small shop",
+     "pixabay": "tidy shop shelves stocked",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a hand checking a date on the base of a jar",
+     "pexels": "hand checking date on jar base",
+     "pixabay": "hand checking jar date",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "warehouse racking",
+    "barcode scanner gun",
+    "supermarket restocking pallet",
+    "empty shelves panic buying",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S07",
+   "script_line": "And the shop is a listening tool we are not using well. Whoever is in the shop hears things that reach nobody else: what the guest says they wish they could find and cannot, what they praise without knowing it is praise, what they say about price. It is the only conversation of the stay where the guest is comparing us with the real world. Write it down. One line per shift, at the end of the day, somewhere shared. Three months of that is worth more than a market study.",
+   "visual_direction": "[ARCHIVE] 11s Conversation in the shop, mid shot, atmosphere. | [GENERATE] 7s PROMPT: A short handwritten line being added to a lined notebook page beside a shop counter, pen in motion, illegible handwriting. Static overhead macro. Warm lamp light. Palette: paper cream, brown ink, sand. 7 seconds. No readable text, no faces. | [ARCHIVE] 10s End of day in the shop, low light, tidying. | [GRAPHICS] 9s Card: One line per shift.",
+   "onscreen": "One line per shift beats market studies.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "conversation between shop staff and a customer, mid shot",
+     "pexels": "shop staff customer conversation",
+     "pixabay": "shop staff customer talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a short line being written in a lined notebook by a counter",
+     "pexels": "writing line in notebook by counter",
+     "pixabay": "writing notebook counter pen",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "shop being tidied at the end of the day in low light",
+     "pexels": "shop tidied end of day low light",
+     "pixabay": "shop tidying evening",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "staff member listening carefully to a customer's remark",
+     "pexels": "staff listening carefully to customer",
+     "pixabay": "staff listening customer",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a notebook left open on a shop counter",
+     "pexels": "notebook open on shop counter",
+     "pixabay": "notebook counter open shop",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "market research focus group",
+    "survey tablet",
+    "call centre",
+    "corporate whiteboard",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  },
+  {
+   "id": "S08",
+   "script_line": "I will close with the underlying reason. Every product that leaves that shop is money that stays in this region, with a producer who lives half an hour away. A bottle of wine sold there is circular economy happening on a small scale, and small is where this gets done. When you explain an origin to a guest, you are not selling a jar: you are doing the work the whole brand says it came here to do. In the next module, the São Teotónio laundry — where circular economy is seen closer still.",
+   "visual_direction": "[GRAPHICS] 12s Diagram: guest -> shop -> local producer -> territory. Animated flow. | [ARCHIVE] 10s Producer or small local production, real footage. | [ARCHIVE] 12s The shop at end of day, warm light, wide. | [GRAPHICS] 8s Belong close.",
+   "onscreen": "A bottle sold is value staying here.",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "local producer at work in a small production room",
+     "pexels": "local producer working small production room",
+     "pixabay": "small producer working workshop",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a bottle being handed to a customer over a counter",
+     "pexels": "bottle handed to customer over counter",
+     "pixabay": "handing bottle customer counter",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide of a small shop at end of day in warm light",
+     "pexels": "small shop end of day warm light",
+     "pixabay": "small shop warm evening light",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of coins and notes being put in a wooden till drawer",
+     "pexels": "coins notes wooden till drawer",
+     "pixabay": "coins till drawer money",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "producer and shopkeeper talking over a crate of products",
+     "pexels": "producer and shopkeeper talking crate",
+     "pixabay": "producer shopkeeper crate talking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "stock market graphics",
+    "bank building",
+    "cash stacks",
+    "corporate handshake",
+    "logo animation"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-18T16:58:06Z"
+  }
+ ]
+}

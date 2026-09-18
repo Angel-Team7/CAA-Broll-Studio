@@ -1,0 +1,86 @@
+{
+ "slug": "belong-action-m7",
+ "title": "Belong em Ação — M7: Experiential Tourism",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "There is a difference between an activity and an experience, and it is not vocabulary. An activity is something the guest did. An experience is something they take away. The same harvest, at five in the afternoon, with the same people, can be either — and what decides it is not the script or the equipment. It is how it is led. This module gives you the tool to decide that on purpose, not by luck.",
+   "visual_direction": "[ARCHIVE] 12s EXPERIENCES, opening. Harvest or workshop. | [GRAPHICS] 8s Title card. | [GRAPHICS] 10s Two words alternating: ACTIVITY / EXPERIENCE. | [ARCHIVE] 7s Hands in the soil, detail.",
+   "onscreen": "EXPERIENTIAL TOURISM · Activity is done. Experience is taken.",
+   "t": 0.0,
+   "end": 37.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S02",
+   "script_line": "The tool has four registers, from research into the experience economy. Any moment you offer lives in four dimensions: aesthetic — the guest is somewhere beautiful and needs to do nothing; educational — they learn something new; escapist — they take part, they choose, they get their hands dirty; entertainment — they enjoy themselves, they laugh. Memorable experiences touch all four. Weak ones stay in one. And most badly designed activities get stuck in the educational: someone explaining things to people standing still.",
+   "visual_direction": "[GRAPHICS] 20s Four quadrants building one by one: AESTHETIC, EDUCATIONAL, ESCAPIST, ENTERTAINMENT. Each with a 3s real image inside. | [GENERATE] 6s PROMPT: A group of blurred silhouettes standing still in a semicircle listening to one figure gesturing, all backlit and unidentifiable, static and stiff. Flat overcast light. Palette: grey-green, sand. 6 seconds. No faces, no text. | [ARCHIVE] 11s Contrast: guests taking part actively, movement.",
+   "onscreen": "AESTHETIC · EDUCATIONAL · ESCAPIST · ENTERTAINMENT",
+   "t": 37.0,
+   "end": 74.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S03",
+   "script_line": "Apply it to the harvest, our most common experience. Aesthetic: arriving at the garden late in the afternoon and just being there, because the light does the work — do not fill it with information. Educational: one thing, one only, that they did not know — why this courgette exists in August and not January. Escapist: they cut, they pick, they choose. If they only watch, it is a demonstration. Entertainment: something that makes them laugh — the hen that follows them, the child who finds an egg.",
+   "visual_direction": "[ARCHIVE] 9s Garden in late afternoon, low light, nobody talking. | [ARCHIVE] 9s Short explanation, gesture showing a plant. | [ARCHIVE] 9s Guest cutting, hands busy. | [ARCHIVE] 10s Laughter: child with an egg, a hen, a spontaneous moment.",
+   "onscreen": "sequence: Be · Learn one thing · Do · Laugh",
+   "t": 74.0,
+   "end": 111.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S04",
+   "script_line": "Second rule: choice instead of a programme. The value a guest puts on an experience rises when they help decide what to do, not only do it. In practice, a different sentence. Instead of “tomorrow at ten there is a harvest”, we say: “tomorrow there is a harvest at ten and bread at five — both, one, or would you rather keep the morning free?” The option of doing nothing has to be on the table, said by us. That makes the rest an invitation, not a timetable.",
+   "visual_direction": "[GRAPHICS] 14s Split: left, in grey, the fixed timetable; right, in terracotta, the sentence with three options. | [ARCHIVE] 10s Reception talking with a guest, no leaflet in hand. | [ARCHIVE] 8s Guest resting, no activity, deliberately. | [GENERATE] 6s PROMPT: An open hand offering two small stones on the palm, then the other person’s hand hovering, choosing. No faces, plain neutral background. Soft light. Palette: sand, grey stone, clay. 6 seconds. No text.",
+   "onscreen": "Doing nothing must be offered by us.",
+   "t": 111.0,
+   "end": 148.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S05",
+   "script_line": "Third rule: the first ninety seconds. Arrival sets the expectation for the whole stay, the only moment with no second chance. The standard: recognise by name, take the bag, offer water, drop the pace immediately. We do not check in at a counter if we can avoid it — we walk and talk. One or two real questions — “first time with us?”, “anything we should know to make this better?” — and we listen to the answer. Ninety seconds done well buy margin for three days.",
+   "visual_direction": "[ARCHIVE] 10s Arrival by car, someone approaching, luggage. | [ARCHIVE] 10s Water being offered, welcoming gesture. | [ARCHIVE] 11s Check-in while walking along the boardwalk, conversation. | [GRAPHICS] 8s Visual stopwatch: 0:00 -> 1:30.",
+   "onscreen": "Recognise · Take the bag · Offer water · Slow down",
+   "t": 148.0,
+   "end": 185.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S06",
+   "script_line": "Fourth rule: the peak and the end. Memory forms at the peak and at the end, not on the average. Two consequences. One: guarantee a deliberate peak per stay — dinner under the stars, the sauna at dusk, bread out of the oven. A stay can be entirely correct and have no peak, and no peak means no recommendation. Two: the goodbye can never be the weakest moment. A rushed departure wipes out three good days. A genuine farewell, help with the luggage, a small gesture from the farm, an invitation to return that does not sound commercial.",
+   "visual_direction": "[GRAPHICS] 12s Memory curve with peak and end in terracotta. | [ARCHIVE] 10s Dinner under the stars or sauna at dusk — the peak. | [ARCHIVE] 10s Departure: luggage, goodbye at the door. | [GENERATE] 6s PROMPT: A small bundle of fresh herbs tied with twine being placed into an open car door pocket by unseen hands. No faces, no identifiable vehicle interior. Warm morning light. Palette: green, sand, brown. 6 seconds. No text.",
+   "onscreen": "No peak, no recommendation.",
+   "t": 185.0,
+   "end": 222.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S07",
+   "script_line": "Fifth rule: whoever leads has to know the land, not the script. An experience led by someone who memorised a text is obvious within thirty seconds. Led by someone who knows what goes on here, it takes any question and survives the rain, the delay, the difficult group. And when a guest asks something you cannot answer — which will happen — do not invent. Take them to someone who knows, then learn the answer for next time. That is not failure; inventing is.",
+   "visual_direction": "[ARCHIVE] 11s Host with guests in the garden, natural gesture, no paper. | [GENERATE] 6s PROMPT: A laminated script card being lowered and set down on a wooden bench, then hands moving to soil instead. No faces, no readable text on the card. Natural light. Palette: sand, soil brown, olive. 6 seconds. | [ARCHIVE] 11s Team member taking a guest to another person, handover. | [ARCHIVE] 9s Group in the rain or in imperfect conditions, good humour.",
+   "onscreen": "Do not invent. Refer and learn.",
+   "t": 222.0,
+   "end": 259.0,
+   "timing_source": "estimated",
+   "clips": []
+  },
+  {
+   "id": "S08",
+   "script_line": "And the last: cross-recommendation is hospitality, not selling. Sending a guest from the pool to the beach bar, or a couple who loved dinner into a conversation about weddings, takes them to more of what they already chose. The practical distinction: recommend what you would recommend to a friend, and stop at the first hesitation. Five rules, then: the four registers, choice instead of a programme, ninety seconds, peak and end, and whoever leads knows the land. Last module: wellbeing — guest and team — and what to do when something goes wrong.",
+   "visual_direction": "[GRAPHICS] 18s Five summary cards in sequence. | [ARCHIVE] 12s Guests in an experience, wide and happy, music rising. | [GRAPHICS] 8s Belong close.",
+   "onscreen": "4 registers · Choice · 90 seconds · Peak · Land",
+   "t": 259.0,
+   "end": 300.0,
+   "timing_source": "estimated",
+   "clips": []
+  }
+ ]
+}
