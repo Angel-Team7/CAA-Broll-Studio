@@ -5417,3 +5417,123 @@
 | pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/close-up-of-a-girl-in-a-wheelchair-wearing-a-hoodie-and-boots-6194736/ |
 | pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/aerial-view-of-snowy-construction-site-in-winter-30026867/ |
 | pixabay | field  cowherd  cow  farm  nature  countryside | Ponnguyenduy | Pixabay Content License | https://pixabay.com/videos/id-175305/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-ball-going-into-the-basketball-hoop-4376503/ |
+| pexels |  | Devin Huynh | Pexels License | https://www.pexels.com/video/top-view-of-an-empty-basketball-court-10708812/ |
+| pexels |  | olia danilevich | Pexels License | https://www.pexels.com/video/men-playing-basketball-4965423/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/call-center-agents-at-work-7592074/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/video-of-a-person-broken-heart-6654096/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-at-work-6803588/ |
+| pexels |  | Yesim  G. Ozdemir | Pexels License | https://www.pexels.com/video/boiling-corn-on-the-cob-in-water-39331259/ |
+| pexels |  | Murisiku Amure | Pexels License | https://www.pexels.com/video/street-vendor-organizing-fresh-pears-on-display-37210381/ |
+| pexels |  | Ahimsa -  OM | Pexels License | https://www.pexels.com/video/clay-pot-for-preparing-stew-with-potatoes-and-carrots-20054875/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-blue-collar-workers-in-textile-factory-31352811/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/women-having-a-conversation-while-walking-at-the-office-8102928/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-having-a-conversation-while-looking-at-the-white-paper-9056548/ |
+| pexels |  | Ammad Rasool | Pexels License | https://www.pexels.com/video/a-baker-is-making-some-muffins-on-a-tray-20315920/ |
+| pixabay | pizza oven  bread  oven  baking | Derrin | Pixabay Content License | https://pixabay.com/videos/id-2874/ |
+| pixabay | cheese  bread  breakfast  food  cuisine | emredoganfilms | Pixabay Content License | https://pixabay.com/videos/id-170912/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/pensive-adult-in-thoughtful-profile-close-up-38707994/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/a-girl-looking-serious-5026739/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/man-in-hoodie-with-closed-eyes-outdoors-39622048/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/a-man-planting-in-the-woods-7004478/ |
+| pexels |  | Jay's Photography | Pexels License | https://www.pexels.com/video/winter-walk-through-snowy-irish-countryside-30112854/ |
+| pexels |  | Ben Garves | Pexels License | https://www.pexels.com/video/step-into-the-world-of-construction-in-the-heart-of-new-york-city-with-this-intriguing-video-as-darkness-falls-the-camera-follows-a-courageous-man-as-he-navigates-a-tunnel-of-constructio-16967284/ |
+| pixabay | rice  field  agriculture  harvest  farm  autumn  fall | Oliverstar | Pixabay Content License | https://pixabay.com/videos/id-184808/ |
+| pixabay | horses  countryside  field  space  green  play  tree  farm | VariousPhotography | Pixabay Content License | https://pixabay.com/videos/id-1902/ |
+| pixabay | field  agriculture  countryside  farm  nature | judasboyz | Pixabay Content License | https://pixabay.com/videos/id-178825/ |
+| pexels |  | Marc Espejo | Pexels License | https://www.pexels.com/video/scenic-aerial-view-of-riverside-recreation-area-38350623/ |
+| pexels |  | Afonso Oliveira | Pexels License | https://www.pexels.com/video/race-mechanics-getting-ready-for-pit-stop-9823142/ |
+| pexels |  | Marc Espejo | Pexels License | https://www.pexels.com/video/aerial-view-of-rowing-team-on-lake-dock-31732424/ |
+| pexels |  | Ahmed ؜ | Pexels License | https://www.pexels.com/video/delicious-mediterranean-breakfast-spread-36581780/ |
+| pixabay | nutella  chocolate  bread  toast  breakfast  food | ghasoub | Pixabay Content License | https://pixabay.com/videos/id-186709/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/carpentry-tools-on-wooden-table-4480587/ |
+| pexels |  | Ashish Jatiani | Pexels License | https://www.pexels.com/video/muddy-mountain-bike-wheel-close-up-on-trail-34978996/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-close-up-of-a-person-s-face-in-the-dirt-20522549/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/call-center-representatives-working-in-the-office-7706611/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-person-removing-wood-dust-6789566/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/people-holding-marble-8901251/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-dipping-paintbrush-on-paint-8348029/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-talking-at-a-business-conference-8716582/ |
+| pixabay | city  mexico  architecture  tourism  forms  urban  building  | Irving_Agui | Pixabay Content License | https://pixabay.com/videos/id-26208/ |
+| pixabay | woman  office  notebook  overworked  pain  people  person  p | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-83875/ |
+| pexels |  | Yaşar Başkurt | Pexels License | https://www.pexels.com/video/elderly-craftsman-in-vintage-workshop-39400704/ |
+| pexels |  | Mikael Blomkvist | Pexels License | https://www.pexels.com/video/office-table-computer-keyboard-6558420/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-woman-talking-on-her-phone-while-walking-across-the-office-3044678/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/person-discussing-a-graph-7804936/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/clothes-drying-outdoors-on-a-windy-day-39598589/ |
+| pexels |  | Werner Pfennig | Pexels License | https://www.pexels.com/video/people-talking-in-the-hall-of-the-office-6952086/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/corporate-colleague-talking-while-drinking-a-coffee-6563962/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-coffee-men-sitting-5529096/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/a-person-writing-6101323/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/counting-euro-banknotes-on-desk-in-office-34993321/ |
+| pixabay | teacup  green tea  drink  beverage  desk  computer | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-133318/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/man-working-on-a-laptop-7100912/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/woman-using-a-laptop-8439810/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-typing-on-a-laptop-while-talking-on-the-phone-10374958/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/closing-an-agreement-with-investors-7413756/ |
+| pixabay | girl  office  w  computer  work  business  laptop  woman  yo | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-27095/ |
+| pixabay | computer  laptop  keyboard  to write  research  screen  keys | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-47158/ |
+| pixabay | office  secretary  business  work  woman  businesswoman  peo | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-7269/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/pouring-beer-from-taps-in-a-bar-38683328/ |
+| pixabay | coffee  pouring  serving  breakfast  food and drink  chocola | InsomneMedia | Pixabay Content License | https://pixabay.com/videos/id-36703/ |
+| pixabay | ufo  science fiction  alien  spaceship  future  technology   | Luis_Humanoide | Pixabay Content License | https://pixabay.com/videos/id-35126/ |
+| pixabay | ship  cruise ship  passenger ship  arrival  osaka port  welc | Kanenori | Pixabay Content License | https://pixabay.com/videos/id-191891/ |
+| pixabay | ufos  earth  space  alien  spaceship  fantasy  future  unive | NewHumanDesigns | Pixabay Content License | https://pixabay.com/videos/id-23138/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/aerial-view-of-lush-green-valley-in-bali-39633010/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/person-slicing-meat-5793732/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/coworkers-having-a-meeting-in-the-meeting-room-8141558/ |
+| pexels |  | Distill | Pexels License | https://www.pexels.com/video/night-sky-full-of-stars-852369/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/explorer-walking-on-scenic-jungle-boardwalk-39613480/ |
+| pexels |  | SHVETS production | Pexels License | https://www.pexels.com/video/person-throwing-plastic-bottle-into-bin-7551091/ |
+| pixabay | bike  cycling  cyclist  sports  exercise  wheels  young  lei | useche360 | Pixabay Content License | https://pixabay.com/videos/id-207800/ |
+| pixabay | fitness  workout  gym  sport  equipment  healthy  lifestyle  | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-148212/ |
+| pixabay | fitness  workout  gym  sport  equipment  healthy  lifestyle  | blackmarketmusic | Pixabay Content License | https://pixabay.com/videos/id-148201/ |
+| pixabay | market  market place  square plaza  town  village  city | u_5swm885tjk | Pixabay Content License | https://pixabay.com/videos/id-173555/ |
+| pixabay | butcher  meat  food  asia  fresh market | waterlettuce | Pixabay Content License | https://pixabay.com/videos/id-15421/ |
+| pixabay | market  residential area  duc trong  lam dong  lien nghia  v | quocthanh218 | Pixabay Content License | https://pixabay.com/videos/id-221593/ |
+| pexels |  | Yasin Onuş | Pexels License | https://www.pexels.com/video/rustic-farm-scene-at-sunset-39617500/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-folding-clothes-on-the-table-7308230/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/a-man-sitting-on-a-forklift-inside-the-warehouse-4294435/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/elderly-woman-opening-a-wine-bottle-5848220/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/group-of-female-friends-talking-and-drinking-at-the-bar-6174391/ |
+| pixabay | amazon  box  parcels  warehouse  post  shelf  rack  shipping | Exceptional_3D | Pixabay Content License | https://pixabay.com/videos/id-43658/ |
+| pixabay | money  dollars  finance  currency  business  wealth  bank  c | olenchic | Pixabay Content License | https://pixabay.com/videos/id-179650/ |
+| pixabay | money  dollars  money conveyor  money printing  animation lo | sharaed | Pixabay Content License | https://pixabay.com/videos/id-112397/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/solar-panels-on-field-drone-footage-14067718/ |
+| pexels |  | Videas Cl | Pexels License | https://www.pexels.com/video/solar-panels-on-solar-farm-10312637/ |
+| pexels |  | Giant Asparagus | Pexels License | https://www.pexels.com/video/aerial-view-of-solar-panels-and-wind-turbine-shadow-35897377/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/dried-flowers-seeds-and-cinnamon-on-a-wooden-plate-above-the-table-6956368/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-women-playing-together-8296865/ |
+| pixabay | city  night  lights  busy  urban  street  drive  automobile  | Mistir_F | Pixabay Content License | https://pixabay.com/videos/id-190488/ |
+| pixabay | blue-collar workers  textile  cotton  worker  factory worker | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-262471/ |
+| pixabay | yoga  woman  sports  relaxing  exercise  healthy  fitness  r | Coverr-Free-Footage | Pixabay Content License | https://pixabay.com/videos/id-1059/ |
+| pixabay | pharmacy  production  factory  chemistry  product drug  medi | chuduyen215 | Pixabay Content License | https://pixabay.com/videos/id-45675/ |
+| pixabay | cow  pasture  cowbells  milk cow  cow udder  milk production | adege | Pixabay Content License | https://pixabay.com/videos/id-118772/ |
+| pixabay | video  recording  cinema  camera  image  the media  technolo | ninosouza | Pixabay Content License | https://pixabay.com/videos/id-26537/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-using-magnifying-glass-on-stamps-6657747/ |
+| pixabay | stamp  seal  best  quality  mark  red stamp  red  wax seal   | andrey3dp | Pixabay Content License | https://pixabay.com/videos/id-13719/ |
+| pixabay | developing city  midday  economic development  route  econom | tomalauphi | Pixabay Content License | https://pixabay.com/videos/id-32062/ |
+| pexels |  | Saqib Rafiq Najar | Pexels License | https://www.pexels.com/video/horseback-riding-through-misty-mountains-39635859/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-person-feeding-a-horse-8625412/ |
+| pexels |  | Joshua Woroniecki | Pexels License | https://www.pexels.com/video/close-up-view-of-two-brown-horses-5654013/ |
+| pixabay | blue-collar workers  textile  cotton  worker  factory worker | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-262482/ |
+| pixabay | slow motion from tree to street  pan  tree  automobile  ligh | gasinkas | Pixabay Content License | https://pixabay.com/videos/id-17836/ |
+| pixabay | textile  worker  factory worker  indian blue-collar workers  | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-267359/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-walking-on-mossy-rocks-6002908/ |
+| pexels |  | Nitin Khajotia | Pexels License | https://www.pexels.com/video/a-person-walking-on-a-dirt-road-in-the-woods-17453725/ |
+| pexels |  | Burak Bahadır  Büyükkılınç | Pexels License | https://www.pexels.com/video/autumn-hike-on-leaf-covered-trail-34783407/ |
+| pexels |  | Vanessa Loring | Pexels License | https://www.pexels.com/video/a-person-looking-at-a-circuit-board-7868369/ |
+| pexels |  | hung chou | Pexels License | https://www.pexels.com/video/detailed-electronic-device-repair-process-37770745/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-working-using-magnifying-glass-7314026/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/person-cracking-an-egg-8503204/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/a-man-putting-an-egg-in-a-mixing-bowl-6998414/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/video-of-a-people-cracking-eggs-together-8480203/ |
+| pixabay | capsules  pills  medicine  treatment  pharma  production  3d | MasterTux | Pixabay Content License | https://pixabay.com/videos/id-57049/ |
+| pixabay | capsules  pills  medicine  treatment  pharma  production  3d | MasterTux | Pixabay Content License | https://pixabay.com/videos/id-57050/ |
+| pixabay | pepper  chili  vegetables  oil  bread  breakfast  cheese  cu | emredoganfilms | Pixabay Content License | https://pixabay.com/videos/id-170914/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/top-view-of-a-people-eating-together-9579108/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/jars-and-saucers-on-a-white-background-6343878/ |
+| pexels |  | Everett Bumstead | Pexels License | https://www.pexels.com/video/logging-operations-on-a-serene-river-29975897/ |
+| pexels |  | EqualStock IN | Pexels License | https://www.pexels.com/video/indian-textile-worker-operating-loom-machine-31370996/ |
+| pixabay | blue-collar workers  textile  worker  factory worker  indian | EqualStock | Pixabay Content License | https://pixabay.com/videos/id-265357/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/baby-being-fed-by-dad-while-sitting-in-the-back-of-car-6181462/ |
