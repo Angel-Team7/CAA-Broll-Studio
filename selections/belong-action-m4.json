@@ -1,0 +1,57 @@
+{
+  "project": "belong-action-m4",
+  "updated": "2026-09-23T14:08:02Z",
+  "ready": false,
+  "approved": {},
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-09-23T14:32:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S02": {
+      "requested": "2026-09-23T14:33:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S03": {
+      "requested": "2026-09-23T14:34:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S04": {
+      "requested": "2026-09-23T14:35:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S05": {
+      "requested": "2026-09-23T14:36:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S06": {
+      "requested": "2026-09-23T14:37:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S07": {
+      "requested": "2026-09-23T14:38:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S08": {
+      "requested": "2026-09-23T14:39:02Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    }
+  }
+}
