@@ -10,7 +10,53 @@
    "t": 0.0,
    "end": 37.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a guest resting outdoors, the shot itself unhurried",
+     "pexels": "guest resting outdoors unhurried",
+     "pixabay": "person resting outdoor calm",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "wooden wellness deck among pine trees with steam in late afternoon",
+     "pexels": "wooden deck pine trees steam afternoon",
+     "pixabay": "wooden deck pines steam",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand shading closed eyes in the sun",
+     "pexels": "hand shading closed eyes sun",
+     "pixabay": "hand shading eyes sun",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a folded towel left on a wooden deck",
+     "pexels": "folded towel on wooden deck",
+     "pixabay": "towel wooden deck folded",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "guest breathing slowly with eyes closed in a quiet outdoor spot",
+     "pexels": "person breathing eyes closed outdoors",
+     "pixabay": "person eyes closed calm outdoor",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "spa treatment massage table",
+    "meditation class",
+    "yoga studio",
+    "wellness advert",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S02",
@@ -20,7 +66,53 @@
    "t": 37.0,
    "end": 74.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a guest walking a boardwalk through a pine wood",
+     "pexels": "guest walking boardwalk pine wood",
+     "pixabay": "person walking boardwalk forest",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a harvest basket left at the door of a small house",
+     "pexels": "harvest basket at house door",
+     "pixabay": "basket vegetables door house",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a blanket folded on an outdoor deck in low light",
+     "pexels": "blanket folded outdoor deck low light",
+     "pixabay": "blanket deck outdoor evening",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "host handing a guest a paper map at a doorway",
+     "pexels": "host handing guest paper map",
+     "pixabay": "handing map guest door",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of walking boots being laced on a wooden step",
+     "pexels": "walking boots laced wooden step",
+     "pixabay": "boots laces step hiking",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "fitness tracker graphics",
+    "hiking advert",
+    "statistics chart",
+    "gym",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S03",
@@ -30,7 +122,53 @@
    "t": 74.0,
    "end": 111.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "curtain being drawn and a bedroom going dark",
+     "pexels": "curtain drawn bedroom going dark",
+     "pixabay": "curtain closing dark bedroom",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a thin line of light at the edge of a closed curtain",
+     "pexels": "line of light edge closed curtain",
+     "pixabay": "light gap curtain dark",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "maintenance worker starting work discreetly later in the morning",
+     "pexels": "maintenance worker starting late morning",
+     "pixabay": "maintenance worker morning quiet",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide of a quiet house exterior at dawn with nobody about",
+     "pexels": "quiet house exterior dawn nobody",
+     "pixabay": "house exterior dawn quiet",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a made bed in a darkened room",
+     "pexels": "made bed darkened room",
+     "pixabay": "bed dark room made",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "alarm clock stock shot",
+    "model sleeping in silk sheets",
+    "do not disturb sign",
+    "sleeping pill advert",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S04",
@@ -40,7 +178,53 @@
    "t": 111.0,
    "end": 148.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "guest deciding what to do while looking at a map with a host",
+     "pexels": "guest deciding looking at map host",
+     "pixabay": "guest map deciding host",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide of a calm empty pool in mid afternoon with no music",
+     "pexels": "calm empty pool mid afternoon",
+     "pixabay": "calm empty pool afternoon",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a speaker cone going completely still",
+     "pexels": "extreme close up of a speaker cone going still",
+     "pixabay": "speaker cone close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a silent corridor or house interior in morning light",
+     "pexels": "silent house interior morning light",
+     "pixabay": "quiet interior morning light",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "staff member pausing rather than interrupting a resting guest",
+     "pexels": "staff pausing not interrupting guest",
+     "pixabay": "staff pausing doorway quiet",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "pool party",
+    "loud music dj",
+    "vacuum cleaner advert",
+    "crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S05",
@@ -50,7 +234,53 @@
    "t": 148.0,
    "end": 185.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of one person waiting alone at an empty counter, seen from behind",
+     "pexels": "person waiting alone empty counter",
+     "pixabay": "person waiting counter alone",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "staff member acknowledging a guest immediately with eye contact",
+     "pexels": "staff acknowledging guest eye contact",
+     "pixabay": "staff greeting guest eye contact",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a guest's face while repeating themselves, patient but tired",
+     "pexels": "guest face repeating patient tired",
+     "pixabay": "person face patient tired",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a guest being passed from one staff member to another",
+     "pexels": "guest passed between staff members",
+     "pixabay": "guest staff passing question",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a hand raised slightly to get attention at a counter",
+     "pexels": "hand raised for attention at counter",
+     "pixabay": "hand raised counter attention",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "shouting argument",
+    "angry fist on counter",
+    "call centre headset",
+    "comedy sketch",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S06",
@@ -60,7 +290,53 @@
    "t": 185.0,
    "end": 222.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "staff member listening attentively to a guest explaining a problem",
+     "pexels": "staff listening guest explaining problem",
+     "pixabay": "staff listening guest problem",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands lifting the pieces of a broken cup from a table calmly",
+     "pexels": "hands lifting broken cup pieces",
+     "pixabay": "hands broken cup pieces",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand writing a complaint into a notebook at a desk",
+     "pexels": "hand writing complaint into notebook",
+     "pixabay": "hand writing notebook desk",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "staff member on the phone following up on a guest's problem",
+     "pexels": "staff on phone following up problem",
+     "pixabay": "staff phone following up",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "a member of staff returning to a guest at a table to confirm something",
+     "pexels": "staff returning to guest at table",
+     "pixabay": "staff returning guest table",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "shouting customer",
+    "apology gift basket",
+    "legal complaint form",
+    "corporate escalation chart",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S07",
@@ -70,7 +346,53 @@
    "t": 222.0,
    "end": 259.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "maintenance worker fixing a tap quickly and neatly",
+     "pexels": "maintenance worker fixing tap quickly",
+     "pixabay": "worker fixing tap plumbing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a small bunch of flowers set on a table",
+     "pexels": "small bunch of flowers on table",
+     "pixabay": "small flowers table bunch",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "staff member having a brief follow-up word with a guest before departure",
+     "pexels": "staff brief follow up word with guest",
+     "pixabay": "staff guest brief conversation",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "a last quiet word between staff member and guest at the door before departure",
+     "pexels": "staff member and guest exchanging a last quiet word at a door",
+     "pixabay": "staff guest quiet word door",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of a guest leaving satisfied with their bag over a shoulder",
+     "pexels": "guest leaving satisfied bag shoulder",
+     "pixabay": "guest leaving bag satisfied",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "online review stars graphic",
+    "gift hamper pile",
+    "money refund cash",
+    "angry confrontation",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S08",
@@ -80,7 +402,53 @@
    "t": 259.0,
    "end": 300.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "team at a shift handover in real conversation",
+     "pexels": "team shift handover real conversation",
+     "pixabay": "team shift handover talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "head of unit talking with two team members, listening",
+     "pexels": "supervisor talking with two team members",
+     "pixabay": "supervisor team members talking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a tired worker taking a moment with a glass of water",
+     "pexels": "tired worker moment glass of water",
+     "pixabay": "worker tired water break",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a farm in warm evening light at the end of the day",
+     "pexels": "farm warm evening light end of day",
+     "pixabay": "farm evening light warm",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "two colleagues exchanging a few words as one finishes a shift",
+     "pexels": "colleagues few words finishing shift",
+     "pixabay": "colleagues talking shift end",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "corporate team building",
+    "motivational poster",
+    "logo animation",
+    "exhausted collapse",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   }
  ]
 }

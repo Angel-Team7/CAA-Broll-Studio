@@ -10,7 +10,53 @@
    "t": 0.0,
    "end": 37.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of guests taking part in a vegetable harvest late in the afternoon",
+     "pexels": "guests harvesting vegetables late afternoon",
+     "pixabay": "guests harvest garden afternoon",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands working in garden soil",
+     "pexels": "hands working in garden soil",
+     "pixabay": "hands garden soil working",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a host leading a small group through a kitchen garden",
+     "pexels": "host leading small group kitchen garden",
+     "pixabay": "guide group vegetable garden",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a guest's face concentrating while picking something",
+     "pexels": "guest face concentrating while picking",
+     "pixabay": "person concentrating picking vegetable",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "wide of a bread or cooking workshop with guests at a wooden table",
+     "pexels": "cooking workshop guests wooden table",
+     "pixabay": "cooking workshop guests table",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "tour bus group",
+    "theme park",
+    "guide with a microphone",
+    "lecture with slides",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S02",
@@ -20,7 +66,53 @@
    "t": 37.0,
    "end": 74.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a garden in beautiful low light with a guest simply standing in it",
+     "pexels": "guest standing garden low light",
+     "pixabay": "person standing garden evening",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a host showing a plant to two guests with a short gesture",
+     "pexels": "host showing plant to two guests",
+     "pixabay": "showing plant guests garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a guest's hands cutting herbs themselves",
+     "pexels": "guest hands cutting herbs",
+     "pixabay": "hands cutting herbs garden",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "guests laughing together during an outdoor activity",
+     "pexels": "guests laughing outdoor activity",
+     "pixabay": "people laughing outdoor activity",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "a group standing still in a semicircle listening to one person talk",
+     "pexels": "group standing semicircle listening",
+     "pixabay": "group listening standing outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "classroom projector",
+    "conference audience",
+    "theme park queue",
+    "corporate training room",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S03",
@@ -30,7 +122,53 @@
    "t": 74.0,
    "end": 111.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of a vegetable garden in late afternoon light with nobody talking",
+     "pexels": "vegetable garden late afternoon light",
+     "pixabay": "vegetable garden evening light",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "a host pointing out a courgette plant to a guest",
+     "pexels": "host pointing out plant to guest",
+     "pixabay": "pointing plant guest garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a guest cutting a courgette from the plant",
+     "pexels": "guest cutting courgette from plant",
+     "pixabay": "cutting courgette plant hands",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a child finding an egg and laughing near hens",
+     "pexels": "child finding egg laughing hens",
+     "pixabay": "child egg hens laughing",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "close-up of a hen following behind someone's feet on soil",
+     "pexels": "hen following person feet soil",
+     "pixabay": "hen following feet farm",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "petting zoo",
+    "farm demonstration stage",
+    "tourist photo pose",
+    "theme park",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S04",
@@ -40,7 +178,53 @@
    "t": 111.0,
    "end": 148.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "receptionist talking with a guest without a leaflet in hand",
+     "pexels": "receptionist talking with guest no leaflet",
+     "pixabay": "receptionist talking guest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "guest resting in a chair doing nothing, deliberately unhurried",
+     "pexels": "guest resting chair doing nothing",
+     "pixabay": "person resting chair relaxed",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of an open hand offering two small stones to choose from",
+     "pexels": "open hand offering two small stones",
+     "pixabay": "hand offering stones choice",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide of a guest walking off alone down a path, free to choose",
+     "pexels": "guest walking alone down path",
+     "pixabay": "person walking alone path",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "host and guest looking at a hand drawn map together",
+     "pexels": "host and guest looking at map",
+     "pixabay": "host guest map together",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "activity timetable board",
+    "tour schedule leaflet stack",
+    "resort entertainment programme",
+    "crowd queue",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S05",
@@ -50,7 +234,53 @@
    "t": 148.0,
    "end": 185.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a guest arriving by car with luggage as someone walks out to meet them",
+     "pexels": "guest arriving car luggage greeted",
+     "pixabay": "guest arriving car luggage",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of water being offered to an arriving guest",
+     "pexels": "water offered to arriving guest",
+     "pixabay": "offering water glass guest",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "host and guest walking and talking along a wooden path",
+     "pexels": "host and guest walking talking path",
+     "pixabay": "host guest walking talking",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a bag being taken from a guest's hand",
+     "pexels": "bag taken from guest hand",
+     "pixabay": "taking luggage bag guest",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "host listening attentively to a guest's answer on arrival",
+     "pexels": "host listening attentively to guest",
+     "pixabay": "host listening guest attentive",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "hotel check-in counter queue",
+    "airport arrivals",
+    "bellhop uniform trolley",
+    "crowd",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S06",
@@ -60,7 +290,53 @@
    "t": 185.0,
    "end": 222.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of dinner under the stars at a long outdoor table",
+     "pexels": "dinner under stars long outdoor table",
+     "pixabay": "outdoor dinner night table",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "wooden sauna at dusk with steam and low light",
+     "pexels": "wooden sauna dusk steam low light",
+     "pixabay": "sauna dusk steam",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "host helping a departing guest with luggage at a door",
+     "pexels": "host helping departing guest luggage",
+     "pixabay": "host guest luggage departure",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a small bundle of herbs tied with twine being handed over",
+     "pexels": "bundle of herbs tied twine handed",
+     "pixabay": "herbs bundle twine hands",
+     "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "close-up of bread coming out of an oven with steam",
+     "pexels": "bread out of oven steam close",
+     "pixabay": "bread oven steam",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "fireworks",
+    "hotel farewell gift box",
+    "logo animation",
+    "tour bus departure",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S07",
@@ -70,7 +346,53 @@
    "t": 222.0,
    "end": 259.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "host talking with guests in a garden with a natural gesture and no paper",
+     "pexels": "host talking with guests in garden",
+     "pixabay": "host talking guests garden",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a card being set down on a wooden bench and hands moving to soil",
+     "pexels": "card set down bench hands to soil",
+     "pixabay": "card bench hands soil",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a team member walking a guest over to another colleague",
+     "pexels": "team member walking guest to colleague",
+     "pixabay": "staff introducing guest colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "a small group outdoors in the rain in good humour",
+     "pexels": "small group outdoors in rain good humour",
+     "pixabay": "group rain outdoors laughing",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide of a gardener explaining something while still working",
+     "pexels": "gardener explaining while working",
+     "pixabay": "gardener explaining working garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "presenter with a clipboard script",
+    "actor reading autocue",
+    "tour guide with flag",
+    "classroom",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   },
   {
    "id": "S08",
@@ -80,7 +402,46 @@
    "t": 259.0,
    "end": 300.0,
    "timing_source": "estimated",
-   "clips": []
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide of guests happy in the middle of an outdoor experience",
+     "pexels": "guests happy outdoor experience wide",
+     "pixabay": "guests happy outdoor activity",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "staff member recommending something to a guest by a pool",
+     "pexels": "staff recommending something to guest",
+     "pixabay": "staff recommending guest talking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two hands pointing the same direction on a map",
+     "pexels": "two hands pointing on a map",
+     "pixabay": "hands pointing map direction",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a couple talking with a host at a farm table after dinner",
+     "pexels": "couple talking with host farm table",
+     "pixabay": "couple host table talking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "sales pitch",
+    "brochure rack",
+    "commission handshake",
+    "crowd",
+    "logo animation"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-09-23T14:06:05Z"
   }
  ]
 }
