@@ -9535,26 +9535,26 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cartoon/CGI render",
-  "at": "2026-09-24T05:46:16Z",
+  "reason": "computer-generated 3D render, not real footage",
+  "at": "2026-09-24T05:53:49Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cartoon/CGI render",
-  "at": "2026-09-24T05:46:16Z",
+  "reason": "computer-generated/game render, not real footage",
+  "at": "2026-09-24T05:53:49Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
-  "reason": "sewing",
-  "at": "2026-09-24T05:47:59Z",
+  "reason": "sewing machine visible — barred (sewing)",
+  "at": "2026-09-24T05:55:25Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "AI-generated / synthetic footage",
-  "at": "2026-09-24T05:47:59Z",
+  "reason": "AI-generated image, not real footage",
+  "at": "2026-09-24T05:55:25Z",
   "from": "belong-action-m1/S03"
  }
 }
