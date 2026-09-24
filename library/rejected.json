@@ -9535,8 +9535,8 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "computer-generated 3D render, not real footage",
-  "at": "2026-09-24T05:53:49Z",
+  "reason": "corporate",
+  "at": "2026-09-24T06:00:59Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
@@ -9547,8 +9547,8 @@
  },
  "pexels:6459997": {
   "sector": "belong",
-  "reason": "sewing machine visible — barred (sewing)",
-  "at": "2026-09-24T05:55:25Z",
+  "reason": "sewing",
+  "at": "2026-09-24T06:02:31Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
@@ -9556,5 +9556,23 @@
   "reason": "AI-generated image, not real footage",
   "at": "2026-09-24T05:55:25Z",
   "from": "belong-action-m1/S03"
+ },
+ "pixabay:32600": {
+  "sector": "belong",
+  "reason": "luxury",
+  "at": "2026-09-24T05:58:52Z",
+  "from": "belong-action-m1/S01"
+ },
+ "pexels:29814585": {
+  "sector": "belong",
+  "reason": "supermarket aisle",
+  "at": "2026-09-24T06:03:54Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:10783543": {
+  "sector": "belong",
+  "reason": "suit",
+  "at": "2026-09-24T06:05:32Z",
+  "from": "belong-action-m1/S05"
  }
 }
