@@ -9827,82 +9827,34 @@
   "at": "2026-09-24T12:31:50Z",
   "from": "belong-action-m2/S08"
  },
- "pexels:19909059": {
-  "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T12:33:12Z",
-  "from": "belong-action-m3/S01"
- },
- "pexels:34897104": {
-  "sector": "belong",
-  "reason": "industrial greenhouse",
-  "at": "2026-09-24T12:33:12Z",
-  "from": "belong-action-m3/S01"
- },
  "pexels:8633314": {
   "sector": "belong",
   "reason": "industrial greenhouse",
-  "at": "2026-09-24T12:33:12Z",
+  "at": "2026-09-24T12:33:40Z",
   "from": "belong-action-m3/S01"
  },
- "pexels:7048578": {
+ "pixabay:7515": {
   "sector": "belong",
-  "reason": "food advert plating",
-  "at": "2026-09-24T12:33:12Z",
-  "from": "belong-action-m3/S01"
- },
- "pexels:6666436": {
-  "sector": "belong",
-  "reason": "food advert plating",
-  "at": "2026-09-24T12:34:34Z",
+  "reason": "stock graphic",
+  "at": "2026-09-24T12:34:58Z",
   "from": "belong-action-m3/S02"
  },
  "pixabay:122366": {
   "sector": "belong",
   "reason": "computer",
-  "at": "2026-09-24T12:34:34Z",
+  "at": "2026-09-24T12:34:58Z",
   "from": "belong-action-m3/S02"
  },
  "pexels:9716421": {
   "sector": "belong",
   "reason": "factory",
-  "at": "2026-09-24T12:35:59Z",
+  "at": "2026-09-24T12:36:20Z",
   "from": "belong-action-m3/S03"
- },
- "pixabay:356066": {
-  "sector": "belong",
-  "reason": "AI-generated",
-  "at": "2026-09-24T12:35:59Z",
-  "from": "belong-action-m3/S03"
- },
- "pexels:33952115": {
-  "sector": "belong",
-  "reason": "concrete",
-  "at": "2026-09-24T12:37:24Z",
-  "from": "belong-action-m3/S04"
- },
- "pexels:5900938": {
-  "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-09-24T12:37:24Z",
-  "from": "belong-action-m3/S04"
- },
- "pixabay:72945": {
-  "sector": "belong",
-  "reason": "food advert plating",
-  "at": "2026-09-24T12:37:24Z",
-  "from": "belong-action-m3/S04"
- },
- "pixabay:80139": {
-  "sector": "belong",
-  "reason": "food advert plating",
-  "at": "2026-09-24T12:37:24Z",
-  "from": "belong-action-m3/S04"
  },
  "pixabay:375390": {
   "sector": "belong",
-  "reason": "AI-generated",
-  "at": "2026-09-24T12:37:24Z",
+  "reason": "food advert slow motion cheese pull",
+  "at": "2026-09-24T12:37:40Z",
   "from": "belong-action-m3/S04"
  }
 }
