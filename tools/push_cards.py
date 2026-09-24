@@ -17,8 +17,10 @@ There is no conflict to resolve because nothing is ever rebased.
 Rules it will not break:
   * `selections/*.json` — only the `topup_requests` keys this run changed are replayed.
     `approved` is taken from origin, untouched, always. A tick cannot be lost here.
-  * an existing clip is never modified, reordered or removed, so the judge's verdicts on
-    clips already on the card survive: only unknown clip ids are appended.
+  * an existing clip is never removed or reordered. The only fields allowed to land on one
+    are the judge's verdict, and only when origin has not judged that clip already — so
+    whoever looked at the frames first keeps the verdict and a stale copy can never revert
+    a fresh one. A topup's new clips and a judge's verdicts both survive the same push.
   * `library/index.json` rows origin already has stay as origin wrote them, including
     `dead` flags and `used_in` — findings we paid to learn, never overwritten from a
     stale in-memory copy.
@@ -75,27 +77,47 @@ def snapshot(paths):
     return mine
 
 
+# What the judge writes onto a clip it has looked at. These are the only fields allowed to
+# land on a clip that already exists, and only when origin has not judged it yet.
+VERDICT = ("judged", "relevance", "brand_fit", "caption", "violation", "shot", "shoot",
+           "score", "rank", "shown", "strip", "judged_at")
+
+
 def replay_card(mine, fresh):
-    """Append clips origin does not have. Never touch one it does."""
+    """Two kinds of run write cards, and both have to survive.
+
+    A topup APPENDS clips: those are added, and clips origin already has are left alone.
+    The judge MODIFIES clips it looked at, writing a verdict onto each — so a pure append
+    would silently drop every score it just spent a session producing. A verdict is
+    therefore overlaid onto an existing clip, but only when origin has not judged that
+    clip already: whoever looked at the frames first keeps the verdict, and a stale copy
+    can never revert a fresh one."""
     fresh_scenes = {s["id"]: s for s in fresh.get("scenes", [])}
-    added = 0
+    added = judged = 0
     for s in mine.get("scenes", []):
         tgt = fresh_scenes.get(s["id"])
         if tgt is None:
             fresh.setdefault("scenes", []).append(s)
             added += len(s.get("clips") or [])
             continue
-        have = {c["id"] for c in tgt.setdefault("clips", [])}
+        at = {c["id"]: c for c in tgt.setdefault("clips", [])}
         for c in s.get("clips") or []:
-            if c["id"] not in have:
-                tgt["clips"].append(c); have.add(c["id"]); added += 1
+            cur = at.get(c["id"])
+            if cur is None:
+                tgt["clips"].append(c); at[c["id"]] = c; added += 1
+                continue
+            if c.get("judged") is True and cur.get("judged") is not True:
+                for f in VERDICT:
+                    if f in c:
+                        cur[f] = c[f]
+                judged += 1
         for field in ("shots", "must_not", "shots_by", "shots_at"):
             if s.get(field) and not tgt.get(field):
                 tgt[field] = s[field]          # a shot list authored on a beat with none
         for field in ("stock_gap", "stock_gap_reason"):
             if field in s and field not in tgt:
                 tgt[field] = s[field]
-    return added
+    return added + judged
 
 
 def replay_selection(mine, fresh, touched):

@@ -58,11 +58,20 @@ comes first; report the remainder (the next push picks it up). A scene with more
 clips is fine to judge in one go — read every strip.
 
 ## Step 4 — commit
-`git config user.name judge-bot && git config user.email bot@edenrise.com`, then commit
-only `projects/**/scenes.json` and `library/` with message
-`[judge-bot] judged <n> scene(s): <slug/scene, …>` and push to main (rebase and retry up
-to 5 times). Never touch `selections/`. Report in three lines: scenes judged, stock gaps
-declared, anything skipped.
+`git config user.name judge-bot && git config user.email bot@edenrise.com`, then
+
+```
+python3 tools/push_cards.py "[judge-bot] judged <n> scene(s): <slug/scene, …>"
+```
+
+**Never commit and rebase by hand.** The topup bot writes the same `scenes.json` files you
+do and a push arrives between your read and your write more often than not — on
+2026-09-23 a hand rebase reverted 182 freshly judged clips on `belong-action-m1` back to
+awaiting, and a separate one destroyed 181 staged candidates outright. `push_cards.py`
+replays instead of rebasing: your verdicts land on the clips you looked at, a concurrent
+topup's new candidates survive alongside them, a verdict someone else already wrote is
+left alone, and `selections/` is never written. It commits `projects/**` and `library/`
+for you. Report in three lines: scenes judged, stock gaps declared, anything skipped.
 
 ## What good looks like
 Ten clips a reviewer can approve without wading. Three usable is the floor; if the frames

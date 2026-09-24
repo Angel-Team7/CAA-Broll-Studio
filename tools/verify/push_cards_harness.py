@@ -10,6 +10,11 @@ the work away. This asserts the replay keeps both sides:
   * every candidate the topup staged                  (not lost)
   * the client's approvals exactly as origin has them (never written by this path)
 
+Then it runs the collision the other way round — the judge replaying verdicts while a
+topup has pushed fresh candidates underneath it — because a replay that only appended
+clips would silently drop every score the judge spent a session producing. That is the
+shape of the real failure on belong-action-m1: 182 clips judged, then back to awaiting.
+
     python3 tools/verify/push_cards_harness.py
 """
 import json, pathlib, shutil, subprocess, sys, tempfile
@@ -129,6 +134,53 @@ try:
           f"approvals changed: {fsel['approved']}")
     check(fsel["topup_requests"].get("S01", {}).get("done") is True,
           "the top-up request was not marked fulfilled")
+
+    # ---------------------------------------------------------------------------------
+    # Round two, the other direction: the JUDGE replays verdicts while a topup has
+    # meanwhile pushed fresh candidates. A pure append would drop every score. This is
+    # what actually happened on belong-action-m1: 182 clips judged, then reverted to
+    # awaiting, because the judge hand-rebased over another push.
+    print("\n-- judge direction --")
+    topup = tmp / "topup2"
+    sh("git", "clone", "-q", str(origin), str(topup), cwd=tmp)
+    sh("git", "config", "user.name", "topup", cwd=topup)
+    sh("git", "config", "user.email", "t@t", cwd=topup)
+    more = json.load(open(topup / "projects/demo/scenes.json"))
+    more["scenes"][0]["clips"].append(clip(7, judged=False))
+    json.dump(more, open(topup / "projects/demo/scenes.json", "w"), indent=1)
+    sh("git", "add", "-A", cwd=topup)
+    sh("git", "commit", "-q", "-m", "[topup-bot] +1 while the judge works", cwd=topup)
+    sh("git", "push", "-q", "origin", "HEAD:main", cwd=topup)
+
+    # the judge, working from before that push, writes verdicts on clips 3-6
+    sh("git", "fetch", "-q", "origin", "main", cwd=work)
+    sh("git", "reset", "-q", "--hard", "HEAD", cwd=work)
+    judge_copy = json.load(open(work / "projects/demo/scenes.json"))
+    for c in judge_copy["scenes"][0]["clips"]:
+        if c["id"] in {f"pexels_{i}_demo" for i in (3, 4, 5, 6)}:
+            c.update({"judged": True, "relevance": 8, "brand_fit": 7,
+                      "caption": f"judged {c['id']}", "rank": 3, "shown": True})
+    json.dump(judge_copy, open(work / "projects/demo/scenes.json", "w"), indent=1)
+
+    r2 = subprocess.run([sys.executable, "tools/push_cards.py",
+                         "[judge-bot] judged 1 scene(s): demo/S01"],
+                        cwd=work, capture_output=True, text=True)
+    print(r2.stdout.strip() or r2.stderr.strip())
+    check(r2.returncode == 0, f"judge-direction push_cards exited {r2.returncode}")
+
+    final2 = json.loads(sh("git", "show", "origin/main:projects/demo/scenes.json",
+                           cwd=work).stdout)
+    by2 = {c["id"]: c for c in final2["scenes"][0]["clips"]}
+    for i in (3, 4, 5, 6):
+        cid = f"pexels_{i}_demo"
+        check(by2.get(cid, {}).get("judged") is True, f"the judge's verdict on {cid} was LOST")
+        check(by2.get(cid, {}).get("caption") == f"judged {cid}",
+              f"the judge's caption on {cid} was LOST")
+    check("pexels_7_demo" in by2, "the concurrent topup's clip 7 was LOST")
+    check(by2.get("pexels_1_demo", {}).get("caption") == "a real caption",
+          "an earlier verdict on clip 1 was overwritten by the stale copy")
+    check(by2.get("pexels_1_demo", {}).get("relevance") == 9,
+          "an earlier score on clip 1 was overwritten by the stale copy")
 
     print()
     for f in fails:

@@ -99,7 +99,7 @@ TIMEOUT = 30
 UA = "CAA-Broll-Studio-Bot/1.0 (+https://github.com/Angel-Team7/CAA-Broll-Studio)"
 WANT_VIDEOS = int(os.environ.get("TOPUP_VIDEOS", "10"))
 PREVIEW_SECONDS = os.environ.get("TOPUP_PREVIEW_SECONDS", "20")
-MAX_SCENES_PER_RUN = int(os.environ.get("TOPUP_MAX_SCENES", "8"))
+MAX_SCENES_PER_RUN = int(os.environ.get("TOPUP_MAX_SCENES", "12"))
 
 # ---------------------------------------------------------------- taste filter
 # Matching is WORD-BOUNDED on purpose: substring matching let "german" satisfy
