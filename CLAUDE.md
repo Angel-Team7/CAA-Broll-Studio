@@ -111,6 +111,21 @@ has a lesson.
 `[intake-bot]`, `[topup-bot]`, `[harvest-bot]`, `[judge-bot]`. Workflows skip their own tags.
 Every job is idempotent: re-running it must not duplicate clips or verdicts.
 
+## How a bot commits — `tools/push_cards.py`, never a rebase
+The judge (a routine) and the topup and harvest (Actions) all write the same files, and no
+concurrency group spans a routine and an Action. **Never `git rebase` bot output.** On
+2026-09-23 a topup staged 181 candidates, the judge pushed verdicts to the same
+`scenes.json` mid-run, the rebase hit a content conflict, aborted five times, and every
+staged clip was lost with the runner — media already uploaded to Releases, gone.
+
+Everything these bots produce is an APPEND, so it can be replayed onto whatever the file
+says now. `push_cards.py` snapshots the run's output, resets to origin, replays the
+append, pushes, and rebuilds on the fresh origin after each rejection. It never modifies
+an existing clip (the judge's verdicts survive), never writes `approved` (origin's is
+kept, always), and never overwrites a library row origin already has (`dead` flags and
+`used_in` are findings, not state to clobber). Proven by
+`tools/verify/push_cards_harness.py`, which reproduces the real collision first.
+
 ## Verify before depending
 Harnesses live in `tools/verify/`. New hosts, players, triggers or APIs get a harness
 before the pipeline relies on them (the Cloudflare worker, Safari playback and the
