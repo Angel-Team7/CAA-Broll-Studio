@@ -9535,32 +9535,32 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "cartoon",
+  "at": "2026-09-24T06:32:33Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "cartoon",
+  "at": "2026-09-24T06:32:33Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:45:35Z",
+  "at": "2026-09-24T06:51:33Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated, not real footage",
-  "at": "2026-09-24T06:45:35Z",
+  "reason": "AI-generated image, not real footage",
+  "at": "2026-09-24T06:19:32Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T05:58:52Z",
+  "at": "2026-09-24T06:39:04Z",
   "from": "belong-action-m1/S01"
  },
  "pexels:29814585": {
@@ -9571,14 +9571,14 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-09-24T06:57:01Z",
+  "reason": "suit",
+  "at": "2026-09-24T06:46:09Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
   "sector": "belong",
-  "reason": "large crowd, wrong world (indoor market, not farm)",
-  "at": "2026-09-24T06:16:02Z",
+  "reason": "estate",
+  "at": "2026-09-24T06:30:54Z",
   "from": "belong-action-m1/S01"
  },
  "pexels:19412028": {
@@ -9641,34 +9641,70 @@
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
- "pexels:34165010": {
+ "pixabay:8453": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:35:57Z",
-  "from": "belong-action-m1/S01"
+  "reason": "DJ/turntable imagery (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
  },
- "pexels:35036267": {
+ "pexels:36746501": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:37:19Z",
-  "from": "belong-action-m1/S02"
+  "reason": "industrial warehouse building with silos (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
  },
- "pexels:8813146": {
+ "pexels:33226461": {
   "sector": "belong",
-  "reason": "drone over a resort",
-  "at": "2026-09-24T06:48:33Z",
-  "from": "belong-action-m1/S05"
+  "reason": "industrial factory with silos (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:8086148": {
+  "sector": "belong",
+  "reason": "party celebration, wrong world",
+  "at": "2026-09-24T06:26:05Z",
+  "from": "belong-action-m1/S07"
+ },
+ "pixabay:5628": {
+  "sector": "belong",
+  "reason": "airport/crowd, wrong world",
+  "at": "2026-09-24T06:26:05Z",
+  "from": "belong-action-m1/S07"
  },
  "pexels:8540470": {
   "sector": "belong",
-  "reason": "supermarket produce",
-  "at": "2026-09-24T06:52:55Z",
+  "reason": "supermarket produce display (barred)",
+  "at": "2026-09-24T06:27:35Z",
   "from": "belong-action-m1/S08"
  },
  "pixabay:4569": {
   "sector": "belong",
-  "reason": "stock collage with text overlay, not usable footage",
-  "at": "2026-09-24T06:52:55Z",
+  "reason": "stock photo collage with text overlay, not real footage",
+  "at": "2026-09-24T06:27:35Z",
   "from": "belong-action-m1/S08"
+ },
+ "pexels:34165010": {
+  "sector": "belong",
+  "reason": "road",
+  "at": "2026-09-24T06:30:54Z",
+  "from": "belong-action-m1/S01"
+ },
+ "pexels:8421346": {
+  "sector": "belong",
+  "reason": "sold",
+  "at": "2026-09-24T06:36:26Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:39030499": {
+  "sector": "belong",
+  "reason": "cocktail",
+  "at": "2026-09-24T06:52:58Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:6948266": {
+  "sector": "belong",
+  "reason": "cocktail",
+  "at": "2026-09-24T06:56:50Z",
+  "from": "belong-action-m1/S07"
  }
 }
