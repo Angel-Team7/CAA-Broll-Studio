@@ -2297,11 +2297,6 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-18T16:54:07Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-23T14:11:59Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
    "judged_at": "2026-09-23T14:11:59Z"
   },
   {
@@ -3191,11 +3186,6 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-18T16:54:07Z",
-   "stock_gap": {
-    "usable": 0,
-    "at": "2026-09-23T14:12:36Z",
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   },
    "judged_at": "2026-09-23T14:12:36Z"
   },
   {
@@ -4031,11 +4021,6 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-18T16:54:07Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-23T14:12:53Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
    "judged_at": "2026-09-23T14:12:53Z"
   },
   {
@@ -5902,11 +5887,6 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-18T16:54:07Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-23T14:14:08Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
    "judged_at": "2026-09-23T14:14:08Z"
   },
   {
@@ -6672,11 +6652,6 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-18T16:54:07Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": "2026-09-23T14:14:28Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   },
    "judged_at": "2026-09-23T14:14:28Z"
   }
  ]
