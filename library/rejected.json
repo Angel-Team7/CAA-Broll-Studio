@@ -9547,14 +9547,14 @@
  },
  "pexels:6459997": {
   "sector": "belong",
-  "reason": "sewing machine in frame (sewing/tailor barred)",
-  "at": "2026-09-24T06:19:32Z",
+  "reason": "sewing machine visible (barred: sewing)",
+  "at": "2026-09-24T06:31:05Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "AI-generated image, not real footage",
-  "at": "2026-09-24T06:19:32Z",
+  "reason": "ai-generated image, not real footage",
+  "at": "2026-09-24T06:31:05Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
