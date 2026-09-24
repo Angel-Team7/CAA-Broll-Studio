@@ -10523,106 +10523,130 @@
   "at": "2026-09-24T14:10:03Z",
   "from": "belong-action-m7/S06"
  },
+ "pexels:7330829": {
+  "sector": "belong",
+  "reason": "casino",
+  "at": "2026-09-24T14:14:13Z",
+  "from": "belong-action-m7/S07"
+ },
  "pexels:3044789": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "office",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3045058": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "office",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:5971455": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
-  "from": "belong-action-m7/S07"
- },
- "pexels:3201879": {
-  "sector": "belong",
-  "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3044862": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:4480389": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "suit",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
+ },
+ "pexels:38655900": {
+  "sector": "belong",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
+ },
+ "pexels:37521540": {
+  "sector": "belong",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
+ },
+ "pexels:38630317": {
+  "sector": "belong",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
  },
  "pexels:38630307": {
   "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-09-24T14:12:49Z",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
   "from": "belong-action-m7/S08"
  },
- "pexels:32731600": {
+ "pixabay:2301": {
   "sector": "belong",
-  "reason": "resort",
-  "at": "2026-09-24T14:16:49Z",
-  "from": "belong-action-m8/S01"
- },
- "pexels:14049560": {
-  "sector": "belong",
-  "reason": "resort",
-  "at": "2026-09-24T14:16:49Z",
-  "from": "belong-action-m8/S01"
+  "reason": "skyscraper",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
  },
  "pixabay:5875": {
   "sector": "belong",
-  "reason": "cartoons/CG render barred in every sector",
-  "at": "2026-09-24T14:16:49Z",
+  "reason": "cgi test render, not real footage",
+  "at": "2026-09-24T14:18:46Z",
   "from": "belong-action-m8/S01"
  },
- "pexels:8534956": {
+ "pexels:37598487": {
   "sector": "belong",
-  "reason": "sunbathing",
-  "at": "2026-09-24T14:18:16Z",
+  "reason": "reads as hiking-advert imagery",
+  "at": "2026-09-24T14:19:54Z",
   "from": "belong-action-m8/S02"
  },
- "pexels:7507165": {
+ "pexels:36672127": {
   "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-09-24T14:20:07Z",
-  "from": "belong-action-m8/S03"
+  "reason": "reads as hiking-advert imagery",
+  "at": "2026-09-24T14:19:54Z",
+  "from": "belong-action-m8/S02"
  },
- "pexels:10507434": {
+ "pixabay:203363": {
   "sector": "belong",
-  "reason": "nightlife",
-  "at": "2026-09-24T14:20:07Z",
+  "reason": "stock cgi render, tonally wrong (afterlife imagery)",
+  "at": "2026-09-24T14:19:54Z",
+  "from": "belong-action-m8/S02"
+ },
+ "pixabay:22332": {
+  "sector": "belong",
+  "reason": "template/mockup graphic, not real footage",
+  "at": "2026-09-24T14:19:54Z",
+  "from": "belong-action-m8/S02"
+ },
+ "pexels:8322008": {
+  "sector": "belong",
+  "reason": "clock/alarm imagery, explicitly barred by must_not",
+  "at": "2026-09-24T14:21:09Z",
   "from": "belong-action-m8/S03"
  },
  "pexels:8986477": {
   "sector": "belong",
-  "reason": "mechanic",
-  "at": "2026-09-24T14:20:07Z",
+  "reason": "mechanic/garage imagery on sector never-list",
+  "at": "2026-09-24T14:21:09Z",
   "from": "belong-action-m8/S03"
  },
  "pixabay:224421": {
   "sector": "belong",
-  "reason": "alarm clock stock shot",
-  "at": "2026-09-24T14:20:07Z",
+  "reason": "alarm clock stock shot, explicitly barred by must_not",
+  "at": "2026-09-24T14:21:09Z",
   "from": "belong-action-m8/S03"
  },
- "pexels:15769083": {
+ "pexels:8865758": {
   "sector": "belong",
-  "reason": "pool party",
-  "at": "2026-09-24T14:21:43Z",
+  "reason": "road/roadside visible, sector never-list item",
+  "at": "2026-09-24T14:22:23Z",
   "from": "belong-action-m8/S04"
  },
- "pexels:20057396": {
+ "pexels:10391102": {
   "sector": "belong",
-  "reason": "resort",
-  "at": "2026-09-24T14:21:43Z",
+  "reason": "resort setting, sector never-list item",
+  "at": "2026-09-24T14:22:23Z",
   "from": "belong-action-m8/S04"
  }
 }
