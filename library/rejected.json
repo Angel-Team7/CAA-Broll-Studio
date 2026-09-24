@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit / upscale restaurant",
-  "at": "2026-09-24T06:57:55Z",
+  "reason": "suit",
+  "at": "2026-09-24T07:01:16Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9619,8 +9619,8 @@
  },
  "pexels:5601391": {
   "sector": "belong",
-  "reason": "nightclub/party atmosphere at a beach venue",
-  "at": "2026-09-24T06:21:07Z",
+  "reason": "nightlife",
+  "at": "2026-09-24T06:59:34Z",
   "from": "belong-action-m1/S04"
  },
  "pixabay:173315": {
@@ -9667,14 +9667,38 @@
  },
  "pixabay:4569": {
   "sector": "belong",
-  "reason": "logo animation / on-screen text collage",
-  "at": "2026-09-24T07:03:13Z",
+  "reason": "stock collage with text overlay, not usable footage",
+  "at": "2026-09-24T06:52:55Z",
   "from": "belong-action-m1/S08"
  },
- "pexels:20516741": {
+ "pexels:39030499": {
   "sector": "belong",
-  "reason": "crowd",
-  "at": "2026-09-24T07:01:30Z",
-  "from": "belong-action-m1/S07"
+  "reason": "cocktail",
+  "at": "2026-09-24T06:59:34Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:9020973": {
+  "sector": "belong",
+  "reason": "cocktail",
+  "at": "2026-09-24T06:59:34Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pixabay:7262": {
+  "sector": "belong",
+  "reason": "resort",
+  "at": "2026-09-24T06:59:34Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:36746501": {
+  "sector": "belong",
+  "reason": "factory",
+  "at": "2026-09-24T07:03:24Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:33226461": {
+  "sector": "belong",
+  "reason": "factory",
+  "at": "2026-09-24T07:03:24Z",
+  "from": "belong-action-m1/S06"
  }
 }
