@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T07:01:57Z",
+  "reason": "suit worn (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9619,8 +9619,8 @@
  },
  "pexels:5601391": {
   "sector": "belong",
-  "reason": "nightclub-like beach party lighting",
-  "at": "2026-09-24T06:59:01Z",
+  "reason": "nightclub/party atmosphere at a beach venue",
+  "at": "2026-09-24T06:21:07Z",
   "from": "belong-action-m1/S04"
  },
  "pixabay:173315": {
@@ -9631,8 +9631,8 @@
  },
  "pexels:4513040": {
   "sector": "belong",
-  "reason": "cocktail bar neon",
-  "at": "2026-09-24T07:01:57Z",
+  "reason": "neon signage — cocktail bar look (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:4315": {
@@ -9653,10 +9653,16 @@
   "at": "2026-09-24T06:37:19Z",
   "from": "belong-action-m1/S02"
  },
- "pexels:39030499": {
+ "pexels:6948266": {
   "sector": "belong",
-  "reason": "cocktail",
-  "at": "2026-09-24T06:59:01Z",
-  "from": "belong-action-m1/S04"
+  "reason": "resembles a cocktail drink, barred by this scene's must-not list",
+  "at": "2026-09-24T07:00:12Z",
+  "from": "belong-action-m1/S07"
+ },
+ "pixabay:4569": {
+  "sector": "belong",
+  "reason": "stock photo collage with on-screen text, not real footage",
+  "at": "2026-09-24T07:01:57Z",
+  "from": "belong-action-m1/S08"
  }
 }
