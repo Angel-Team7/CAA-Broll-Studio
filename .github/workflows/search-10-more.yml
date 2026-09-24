@@ -76,20 +76,17 @@ jobs:
           echo "added=$(grep -oP 'TOTAL_ADDED=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
           echo "left=$(grep -oP 'LEFT=\K[0-9]+' /tmp/bot.log || echo 0)" >> "$GITHUB_OUTPUT"
 
+      # A topup's change to a card is an APPEND, and an append can always be replayed
+      # onto whatever the file says now. Rebasing cannot: on 2026-09-23 the judge pushed
+      # verdicts to the same scenes.json mid-run, the rebase hit a content conflict,
+      # aborted five times, and 181 staged candidates — previews, thumbs and strips
+      # already on Releases — were lost with the runner. push_cards.py replays instead.
       - name: Commit and push
         if: steps.bot.outputs.added != '0'
         run: |
           git config user.name  "broll-bot"
           git config user.email "bot@edenrise.com"
-          git add selections projects
-          git commit -m "[topup-bot] Search 10 more: +${{ steps.bot.outputs.added }} candidates"
-          for i in 1 2 3 4 5; do
-            if git push origin HEAD:main; then echo "pushed"; exit 0; fi
-            echo "push rejected - rebasing on origin/main (attempt $i)"
-            git fetch origin main && git rebase origin/main || git rebase --abort
-            sleep $((i * 5))
-          done
-          echo "::error::could not push after 5 attempts"; exit 1
+          python tools/push_cards.py "[topup-bot] Search 10 more: +${{ steps.bot.outputs.added }} candidates"
 
       - name: Re-queue for the requests that did not fit this run
         if: steps.bot.outputs.left != '0'

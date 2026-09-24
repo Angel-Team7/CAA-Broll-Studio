@@ -78,16 +78,16 @@ jobs:
           python tools/harvest_cloud.py | tee /tmp/h.log
           echo "n=$(grep -oP 'HARVESTED=\K[0-9]+' /tmp/h.log || echo 0)" >> "$GITHUB_OUTPUT"
 
+      # library/index.json is one large JSON file every bot appends to, so a rebase
+      # against a concurrent judge or topup write conflicts on the whole file and the
+      # harvest is thrown away. push_cards.py replays the appended rows onto whatever
+      # origin says now instead — and rows origin already has keep their dead flags and
+      # used_in, which a stale in-memory copy would otherwise overwrite.
       - name: Commit the index
         if: steps.h.outputs.n != '0'
         run: |
           git config user.name broll-bot && git config user.email bot@edenrise.com
-          git add library
-          git commit -m "[harvest-bot] stocked ${{ steps.h.outputs.n }} clips into the shared library"
-          for i in 1 2 3 4 5; do
-            git push origin HEAD:main && exit 0
-            git fetch origin main && git rebase origin/main || git rebase --abort; sleep $((i*5))
-          done; exit 1
+          python tools/push_cards.py "[harvest-bot] stocked ${{ steps.h.outputs.n }} clips into the shared library"
 
       - name: Summary
         run: |
