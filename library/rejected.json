@@ -10081,9 +10081,9 @@
  },
  "pixabay:5628": {
   "sector": "belong",
-  "reason": "airport departure gate",
-  "at": "2026-09-24T13:27:42Z",
-  "from": "belong-action-m5/S04"
+  "reason": "airport arrivals",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
  },
  "pixabay:5643": {
   "sector": "belong",
@@ -10177,9 +10177,9 @@
  },
  "pixabay:345910": {
   "sector": "belong",
-  "reason": "cartoon",
-  "at": "2026-09-24T13:34:29Z",
-  "from": "belong-action-m5/S07"
+  "reason": "stock end-card",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
  },
  "pexels:8198305": {
   "sector": "belong",
@@ -10487,292 +10487,250 @@
   "at": "2026-09-24T14:07:01Z",
   "from": "belong-action-m7/S04"
  },
+ "pexels:19229776": {
+  "sector": "belong",
+  "reason": "airport arrivals",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
+ },
  "pexels:6602326": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T14:08:40Z",
+  "at": "2026-09-24T14:11:00Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:8344931": {
   "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-09-24T14:08:40Z",
+  "reason": "suit",
+  "at": "2026-09-24T14:11:00Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:7821155": {
   "sector": "belong",
   "reason": "masked",
-  "at": "2026-09-24T14:08:40Z",
+  "at": "2026-09-24T14:11:00Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:7821171": {
   "sector": "belong",
   "reason": "masked",
-  "at": "2026-09-24T14:08:40Z",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
+ },
+ "pexels:8044821": {
+  "sector": "belong",
+  "reason": "airport arrivals",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
+ },
+ "pixabay:202856": {
+  "sector": "belong",
+  "reason": "stock end-card",
+  "at": "2026-09-24T14:11:00Z",
+  "from": "belong-action-m7/S05"
+ },
+ "pixabay:218617": {
+  "sector": "belong",
+  "reason": "stock end-card",
+  "at": "2026-09-24T14:11:00Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:5372866": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T14:10:03Z",
+  "at": "2026-09-24T14:13:07Z",
+  "from": "belong-action-m7/S06"
+ },
+ "pexels:32054993": {
+  "sector": "belong",
+  "reason": "luxury",
+  "at": "2026-09-24T14:13:07Z",
   "from": "belong-action-m7/S06"
  },
  "pixabay:205890": {
   "sector": "belong",
   "reason": "factory",
-  "at": "2026-09-24T14:10:03Z",
+  "at": "2026-09-24T14:13:07Z",
   "from": "belong-action-m7/S06"
  },
  "pexels:3044789": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "office",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3045058": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "office",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:5971455": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3201879": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3044862": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:11:38Z",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:4480389": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-09-24T14:11:38Z",
+  "reason": "suit",
+  "at": "2026-09-24T14:14:54Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:38630307": {
   "sector": "belong",
   "reason": "laptop",
-  "at": "2026-09-24T14:12:49Z",
+  "at": "2026-09-24T14:17:05Z",
   "from": "belong-action-m7/S08"
  },
- "pexels:5991816": {
+ "pixabay:2301": {
   "sector": "belong",
-  "reason": "meditation class / yoga (must-not)",
-  "at": "2026-09-24T14:15:30Z",
-  "from": "belong-action-m8/S01"
+  "reason": "skyscraper",
+  "at": "2026-09-24T14:17:05Z",
+  "from": "belong-action-m7/S08"
  },
- "pixabay:5875": {
+ "pixabay:6174": {
   "sector": "belong",
-  "reason": "cartoon/CG render stock asset",
-  "at": "2026-09-24T14:15:30Z",
-  "from": "belong-action-m8/S01"
- },
- "pexels:8534956": {
-  "sector": "belong",
-  "reason": "fitness/exercise content reads as gym advert",
-  "at": "2026-09-24T14:16:45Z",
-  "from": "belong-action-m8/S02"
- },
- "pixabay:203363": {
-  "sector": "belong",
-  "reason": "generic CG stock asset, off-brand afterlife imagery",
-  "at": "2026-09-24T14:16:45Z",
-  "from": "belong-action-m8/S02"
+  "reason": "logo animation",
+  "at": "2026-09-24T14:17:05Z",
+  "from": "belong-action-m7/S08"
  },
  "pexels:10507434": {
   "sector": "belong",
-  "reason": "cocktail/wine drinking scene (must-not: cocktail)",
-  "at": "2026-09-24T14:18:04Z",
+  "reason": "cocktails",
+  "at": "2026-09-24T14:19:53Z",
   "from": "belong-action-m8/S03"
  },
  "pexels:8986477": {
   "sector": "belong",
-  "reason": "mechanic garage scene (must-not: mechanic)",
-  "at": "2026-09-24T14:18:04Z",
+  "reason": "mechanic",
+  "at": "2026-09-24T14:19:53Z",
   "from": "belong-action-m8/S03"
  },
- "pixabay:224421": {
+ "pexels:6196267": {
   "sector": "belong",
-  "reason": "alarm clock stock shot (explicit must-not)",
-  "at": "2026-09-24T14:18:04Z",
+  "reason": "skyscraper",
+  "at": "2026-09-24T14:19:53Z",
   "from": "belong-action-m8/S03"
  },
- "pexels:8053107": {
+ "pexels:8865758": {
   "sector": "belong",
-  "reason": "nightlife/bar setting (must-not: nightlife)",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "road",
+  "at": "2026-09-24T14:21:29Z",
+  "from": "belong-action-m8/S04"
+ },
+ "pexels:8865219": {
+  "sector": "belong",
+  "reason": "road",
+  "at": "2026-09-24T14:21:29Z",
+  "from": "belong-action-m8/S04"
+ },
+ "pexels:10391102": {
+  "sector": "belong",
+  "reason": "resort",
+  "at": "2026-09-24T14:21:29Z",
+  "from": "belong-action-m8/S04"
+ },
+ "pexels:20057396": {
+  "sector": "belong",
+  "reason": "resort",
+  "at": "2026-09-24T14:21:29Z",
+  "from": "belong-action-m8/S04"
+ },
+ "pixabay:146171": {
+  "sector": "belong",
+  "reason": "road",
+  "at": "2026-09-24T14:21:29Z",
+  "from": "belong-action-m8/S04"
+ },
+ "pexels:7820477": {
+  "sector": "belong",
+  "reason": "masks",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:8865777": {
   "sector": "belong",
-  "reason": "call centre headset (explicit must-not)",
-  "at": "2026-09-24T14:20:37Z",
-  "from": "belong-action-m8/S05"
- },
- "pexels:16093083": {
-  "sector": "belong",
-  "reason": "cartoon emoji graphic, off-brand stock asset",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "office",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:17880980": {
   "sector": "belong",
-  "reason": "face mask / medical scene (must-not: face masks; never: hospital)",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "hospital",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:3188891": {
   "sector": "belong",
-  "reason": "crowd/party scene (must-not: crowd; luxury-coded)",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "nightclub",
+  "at": "2026-09-24T14:23:01Z",
+  "from": "belong-action-m8/S05"
+ },
+ "pexels:39091513": {
+  "sector": "belong",
+  "reason": "monitor",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:6998171": {
   "sector": "belong",
-  "reason": "face mask / hospital medical scene (must-not: face masks; never: hospital)",
-  "at": "2026-09-24T14:20:37Z",
-  "from": "belong-action-m8/S05"
- },
- "pixabay:210934": {
-  "sector": "belong",
-  "reason": "generic stock space graphic, off-brand",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "hospital",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
  },
  "pixabay:143434": {
   "sector": "belong",
-  "reason": "hospital/medical training scene (never: hospital)",
-  "at": "2026-09-24T14:20:37Z",
+  "reason": "hospital",
+  "at": "2026-09-24T14:23:01Z",
   "from": "belong-action-m8/S05"
+ },
+ "pexels:5054247": {
+  "sector": "belong",
+  "reason": "skyscraper",
+  "at": "2026-09-24T14:24:32Z",
+  "from": "belong-action-m8/S06"
  },
  "pexels:7683085": {
   "sector": "belong",
-  "reason": "office/startup whiteboard scene with headset gear",
-  "at": "2026-09-24T14:21:54Z",
+  "reason": "office",
+  "at": "2026-09-24T14:24:32Z",
   "from": "belong-action-m8/S06"
  },
  "pexels:7685207": {
   "sector": "belong",
-  "reason": "office/corporate meeting scene (never: office, laptop, coworkers)",
-  "at": "2026-09-24T14:21:54Z",
+  "reason": "laptop",
+  "at": "2026-09-24T14:24:32Z",
   "from": "belong-action-m8/S06"
  },
  "pexels:6829141": {
   "sector": "belong",
-  "reason": "corporate boardroom meeting (never: office/corporate/boardroom)",
-  "at": "2026-09-24T14:21:54Z",
+  "reason": "coworkers",
+  "at": "2026-09-24T14:24:32Z",
   "from": "belong-action-m8/S06"
  },
  "pexels:8189158": {
   "sector": "belong",
-  "reason": "corporate office presentation (never: office, suit)",
-  "at": "2026-09-24T14:21:54Z",
+  "reason": "suits",
+  "at": "2026-09-24T14:24:32Z",
   "from": "belong-action-m8/S06"
  },
  "pexels:7647677": {
   "sector": "belong",
-  "reason": "businesswoman/office paperwork scene (never: businessman/suit/office)",
-  "at": "2026-09-24T14:21:54Z",
+  "reason": "boardroom",
+  "at": "2026-09-24T14:24:32Z",
   "from": "belong-action-m8/S06"
- },
- "pexels:https://www.pexels.com/video/a-man-fixing-the-machine-6685031/": {
-  "sector": "belong",
-  "reason": "mechanic/warehouse repair scene (never: mechanic, warehouse)",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pexels:7541837": {
-  "sector": "belong",
-  "reason": "mechanic/warehouse truck repair scene (never: mechanic, warehouse)",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pexels:6685031": {
-  "sector": "belong",
-  "reason": "mechanic/warehouse repair scene (never: mechanic, warehouse)",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pexels:7647615": {
-  "sector": "belong",
-  "reason": "corporate interview/office meeting scene (never: office, suit, corporate)",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pexels:7820515": {
-  "sector": "belong",
-  "reason": "face masks worn at reception (explicit must-not & never: masks)",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pixabay:142368": {
-  "sector": "belong",
-  "reason": "generic unrelated sports prop, off-brand",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pixabay:39509": {
-  "sector": "belong",
-  "reason": "generic stock space graphic, off-brand",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pixabay:217981": {
-  "sector": "belong",
-  "reason": "spooky cemetery/horror imagery, off-brand",
-  "at": "2026-09-24T14:23:13Z",
-  "from": "belong-action-m8/S07"
- },
- "pexels:8716867": {
-  "sector": "belong",
-  "reason": "corporate networking/seminar scene (must-not: corporate team building)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:8102978": {
-  "sector": "belong",
-  "reason": "office coworkers kitchen scene (never: coworkers, office)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:9063070": {
-  "sector": "belong",
-  "reason": "exhausted collapse - sleeping at desk (explicit must-not: exhausted collapse)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:7506831": {
-  "sector": "belong",
-  "reason": "startup/office casual chat scene (never: startup, office)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:8275862": {
-  "sector": "belong",
-  "reason": "business meeting with laptops (never: laptop, office)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:7652152": {
-  "sector": "belong",
-  "reason": "corporate interview/award set (never: corporate/office)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
- },
- "pexels:8865779": {
-  "sector": "belong",
-  "reason": "office/corporate attire with headset-like gear (never: office; must-not: call centre headset)",
-  "at": "2026-09-24T14:24:33Z",
-  "from": "belong-action-m8/S08"
  }
 }
