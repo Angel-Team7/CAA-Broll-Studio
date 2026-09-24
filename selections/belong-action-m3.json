@@ -40,26 +40,34 @@
     "S05": {
       "requested": "2026-09-23T14:28:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:22:04Z",
+      "added": 24
     },
     "S06": {
       "requested": "2026-09-23T14:29:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:24:28Z",
+      "added": 24
     },
     "S07": {
       "requested": "2026-09-23T14:30:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:27:09Z",
+      "added": 22
     },
     "S08": {
       "requested": "2026-09-23T14:31:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:30:00Z",
+      "added": 24
     }
   }
 }
