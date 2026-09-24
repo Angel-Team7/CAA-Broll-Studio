@@ -10526,55 +10526,67 @@
  "pexels:7330829": {
   "sector": "belong",
   "reason": "casino",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3044789": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3045058": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
- "pexels:3201879": {
+ "pexels:5971455": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:3044862": {
   "sector": "belong",
   "reason": "office",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
  },
  "pexels:4480389": {
   "sector": "belong",
   "reason": "suit",
-  "at": "2026-09-24T14:12:46Z",
+  "at": "2026-09-24T14:14:13Z",
   "from": "belong-action-m7/S07"
+ },
+ "pexels:38655900": {
+  "sector": "belong",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
+ },
+ "pexels:37521540": {
+  "sector": "belong",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
+  "from": "belong-action-m7/S08"
  },
  "pexels:38630317": {
   "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-09-24T14:14:26Z",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
   "from": "belong-action-m7/S08"
  },
  "pexels:38630307": {
   "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-09-24T14:14:26Z",
+  "reason": "corporate",
+  "at": "2026-09-24T14:16:01Z",
   "from": "belong-action-m7/S08"
  },
  "pixabay:2301": {
   "sector": "belong",
   "reason": "skyscraper",
-  "at": "2026-09-24T14:14:26Z",
+  "at": "2026-09-24T14:16:01Z",
   "from": "belong-action-m7/S08"
  }
 }
