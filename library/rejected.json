@@ -9640,5 +9640,47 @@
   "reason": "appears CG-rendered, nightclub-like beach bar at night (barred)",
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
+ },
+ "pixabay:8453": {
+  "sector": "belong",
+  "reason": "DJ/turntable imagery (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:36746501": {
+  "sector": "belong",
+  "reason": "industrial warehouse building with silos (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:33226461": {
+  "sector": "belong",
+  "reason": "industrial factory with silos (barred)",
+  "at": "2026-09-24T06:24:29Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:8086148": {
+  "sector": "belong",
+  "reason": "party celebration, wrong world",
+  "at": "2026-09-24T06:26:05Z",
+  "from": "belong-action-m1/S07"
+ },
+ "pixabay:5628": {
+  "sector": "belong",
+  "reason": "airport/crowd, wrong world",
+  "at": "2026-09-24T06:26:05Z",
+  "from": "belong-action-m1/S07"
+ },
+ "pexels:8540470": {
+  "sector": "belong",
+  "reason": "supermarket produce display (barred)",
+  "at": "2026-09-24T06:27:35Z",
+  "from": "belong-action-m1/S08"
+ },
+ "pixabay:4569": {
+  "sector": "belong",
+  "reason": "stock photo collage with text overlay, not real footage",
+  "at": "2026-09-24T06:27:35Z",
+  "from": "belong-action-m1/S08"
  }
 }
