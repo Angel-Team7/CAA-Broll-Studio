@@ -10429,26 +10429,62 @@
  },
  "pexels:10692772": {
   "sector": "belong",
-  "reason": "masks",
-  "at": "2026-09-24T14:03:09Z",
+  "reason": "masked",
+  "at": "2026-09-24T14:02:30Z",
   "from": "belong-action-m7/S01"
  },
- "pexels:3255159": {
+ "pixabay:11654": {
   "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-09-24T14:05:32Z",
-  "from": "belong-action-m7/S02"
+  "reason": "luxury",
+  "at": "2026-09-24T14:02:30Z",
+  "from": "belong-action-m7/S01"
  },
  "pexels:6248578": {
   "sector": "belong",
   "reason": "monitor",
-  "at": "2026-09-24T14:05:32Z",
+  "at": "2026-09-24T14:04:03Z",
   "from": "belong-action-m7/S02"
  },
- "pexels:5590282": {
+ "pexels:7883386": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T14:05:32Z",
+  "reason": "handshake",
+  "at": "2026-09-24T14:04:03Z",
   "from": "belong-action-m7/S02"
+ },
+ "pixabay:229069": {
+  "sector": "belong",
+  "reason": "hospital",
+  "at": "2026-09-24T14:04:03Z",
+  "from": "belong-action-m7/S02"
+ },
+ "pexels:37751422": {
+  "sector": "belong",
+  "reason": "laptop",
+  "at": "2026-09-24T14:05:29Z",
+  "from": "belong-action-m7/S03"
+ },
+ "pexels:37521543": {
+  "sector": "belong",
+  "reason": "laptop",
+  "at": "2026-09-24T14:05:29Z",
+  "from": "belong-action-m7/S03"
+ },
+ "pexels:6755013": {
+  "sector": "belong",
+  "reason": "monitor",
+  "at": "2026-09-24T14:07:01Z",
+  "from": "belong-action-m7/S04"
+ },
+ "pexels:6755019": {
+  "sector": "belong",
+  "reason": "monitor",
+  "at": "2026-09-24T14:07:01Z",
+  "from": "belong-action-m7/S04"
+ },
+ "pixabay:245932": {
+  "sector": "belong",
+  "reason": "luxury",
+  "at": "2026-09-24T14:07:01Z",
+  "from": "belong-action-m7/S04"
  }
 }
