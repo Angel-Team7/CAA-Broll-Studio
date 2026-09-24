@@ -9653,16 +9653,40 @@
   "at": "2026-09-24T06:37:19Z",
   "from": "belong-action-m1/S02"
  },
- "pexels:6948266": {
+ "pexels:36746501": {
   "sector": "belong",
-  "reason": "resembles a cocktail drink, barred by this scene's must-not list",
-  "at": "2026-09-24T07:00:12Z",
+  "reason": "warehouse",
+  "at": "2026-09-24T06:59:46Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:33226461": {
+  "sector": "belong",
+  "reason": "warehouse",
+  "at": "2026-09-24T06:59:46Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:32026188": {
+  "sector": "belong",
+  "reason": "cocktail",
+  "at": "2026-09-24T07:01:17Z",
   "from": "belong-action-m1/S07"
+ },
+ "pexels:20516741": {
+  "sector": "belong",
+  "reason": "crowd",
+  "at": "2026-09-24T07:01:17Z",
+  "from": "belong-action-m1/S07"
+ },
+ "pexels:8540470": {
+  "sector": "belong",
+  "reason": "supermarket produce",
+  "at": "2026-09-24T07:02:34Z",
+  "from": "belong-action-m1/S08"
  },
  "pixabay:4569": {
   "sector": "belong",
-  "reason": "stock photo collage with on-screen text, not real footage",
-  "at": "2026-09-24T07:01:57Z",
+  "reason": "logo animation",
+  "at": "2026-09-24T07:02:34Z",
   "from": "belong-action-m1/S08"
  }
 }
