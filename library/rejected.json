@@ -9536,31 +9536,31 @@
  "pixabay:14476": {
   "sector": "belong",
   "reason": "skyscraper",
-  "at": "2026-09-24T06:53:30Z",
+  "at": "2026-09-24T06:54:15Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cartoon",
-  "at": "2026-09-24T06:53:30Z",
+  "reason": "cartoon/CGI render, not real footage",
+  "at": "2026-09-24T06:47:49Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:56:20Z",
+  "at": "2026-09-24T06:55:54Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated, not authentic footage",
-  "at": "2026-09-24T06:56:20Z",
+  "reason": "AI-generated image, not real footage",
+  "at": "2026-09-24T06:49:22Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T06:50:55Z",
+  "at": "2026-09-24T05:58:52Z",
   "from": "belong-action-m1/S01"
  },
  "pexels:29814585": {
@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit worn (barred)",
-  "at": "2026-09-24T06:22:45Z",
+  "reason": "suit",
+  "at": "2026-09-24T06:59:07Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9641,22 +9641,28 @@
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
- "pexels:34165010": {
+ "pixabay:1785": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:35:57Z",
-  "from": "belong-action-m1/S01"
+  "reason": "appears ai-generated, not real footage",
+  "at": "2026-09-24T06:36:16Z",
+  "from": "belong-action-m1/S03"
  },
- "pexels:35036267": {
+ "pexels:39030499": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:37:19Z",
-  "from": "belong-action-m1/S02"
+  "reason": "cocktail",
+  "at": "2026-09-24T06:57:35Z",
+  "from": "belong-action-m1/S04"
  },
- "pexels:6948266": {
+ "pexels:36746501": {
   "sector": "belong",
-  "reason": "resembles a cocktail drink, barred by this scene's must-not list",
-  "at": "2026-09-24T07:00:12Z",
-  "from": "belong-action-m1/S07"
+  "reason": "warehouse",
+  "at": "2026-09-24T07:00:36Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:33226461": {
+  "sector": "belong",
+  "reason": "warehouse",
+  "at": "2026-09-24T07:00:36Z",
+  "from": "belong-action-m1/S06"
  }
 }
