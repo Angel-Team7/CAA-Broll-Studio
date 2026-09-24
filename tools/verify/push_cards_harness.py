@@ -81,7 +81,8 @@ try:
                         rank=1, shown=True),
                    clip(2, judged=True, relevance=3, brand_fit=5, caption="weak one",
                         rank=2, shown=False)])
-    judged["scenes"][0]["stock_gap"] = True
+    judged["scenes"][0]["stock_gap"] = {"usable": 1, "at": "then",
+                                        "reason": "only 1 clip(s) reached relevance 6"}
     json.dump(judged, open(other / "projects/demo/scenes.json", "w"), indent=1)
     sh("git", "add", "-A", cwd=other)
     sh("git", "commit", "-q", "-m", "[judge-bot] judged 1 scene", cwd=other)
@@ -129,7 +130,8 @@ try:
           "the judge's score on clip 1 was reverted")
     check(by.get("pexels_2_demo", {}).get("shown") is False,
           "the judge's hide on clip 2 was reverted")
-    check(sc.get("stock_gap") is True, "the judge's stock_gap on the scene was reverted")
+    # only clip 1 is judged and usable, so the beat is genuinely still a gap
+    check(bool(sc.get("stock_gap")), "the stock gap on a beat with one usable clip was lost")
     check(fsel["approved"] == {"S01": ["pexels_1_demo"]},
           f"approvals changed: {fsel['approved']}")
     check(fsel["topup_requests"].get("S01", {}).get("done") is True,
@@ -181,6 +183,33 @@ try:
           "an earlier verdict on clip 1 was overwritten by the stale copy")
     check(by2.get("pexels_1_demo", {}).get("relevance") == 9,
           "an earlier score on clip 1 was overwritten by the stale copy")
+
+    # And the point of recomputing rather than merging: the beat now holds five usable
+    # clips (1 at relevance 9, plus 3-6 at 8), so the gap the earlier partial pass
+    # declared must be GONE. Merging the field would have left a false alarm standing on
+    # a beat that is fine — which is exactly what the client saw on belong-action-m1.
+    check("stock_gap" not in final2["scenes"][0],
+          f"a stale stock gap survived a pass that cleared it: "
+          f"{final2['scenes'][0].get('stock_gap')}")
+
+    # ---------------------------------------------------------------------------------
+    # And the guard: a local commit not on origin must stop the tool, not be discarded.
+    # This case exists because the tool ate one of mine while it was being written.
+    print("\n-- local-commit guard --")
+    (work / "scratch.txt").write_text("a human's unpushed work\n")
+    sh("git", "add", "scratch.txt", cwd=work)
+    sh("git", "commit", "-q", "-m", "a human commit that must not be eaten", cwd=work)
+    head = sh("git", "rev-parse", "HEAD", cwd=work).stdout.strip()
+    more2 = json.load(open(work / "projects/demo/scenes.json"))
+    more2["scenes"][0]["clips"].append(clip(8, judged=False))
+    json.dump(more2, open(work / "projects/demo/scenes.json", "w"), indent=1)
+    r3 = subprocess.run([sys.executable, "tools/push_cards.py", "[topup-bot] +1"],
+                        cwd=work, capture_output=True, text=True)
+    first = ((r3.stdout or r3.stderr).strip().splitlines() or [""])[0]
+    print(first)
+    check(r3.returncode == 2, f"the guard did not refuse (exit {r3.returncode})")
+    check(sh("git", "rev-parse", "HEAD", cwd=work).stdout.strip() == head,
+          "the human commit was discarded despite the guard")
 
     print()
     for f in fails:

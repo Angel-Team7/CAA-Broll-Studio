@@ -82,8 +82,32 @@ def snapshot(paths):
 VERDICT = ("judged", "relevance", "brand_fit", "caption", "violation", "shot", "shoot",
            "score", "rank", "shown", "strip", "judged_at")
 
+# `stock_gap` is not state to merge, it is a fact DERIVED from the scene's judged clips —
+# so merging it leaves a stale alarm on a beat a later pass already cleared. The floors
+# come from judge.py so the two can never drift apart.
+sys.path.insert(0, str(ROOT / "tools"))
+try:
+    from judge import USABLE_AT, GAP_BELOW
+except Exception:                                  # judging deps absent: use the same numbers
+    USABLE_AT, GAP_BELOW = 6, 3
 
-def replay_card(mine, fresh):
+
+def recompute_gap(scene, now):
+    """Re-derive the beat's stock gap from whatever clips it ends up holding."""
+    judged = [c for c in scene.get("clips") or [] if c.get("judged") is True]
+    if not judged:
+        return
+    usable = sum(1 for c in judged
+                 if (c.get("relevance") or 0) >= USABLE_AT and not c.get("violation"))
+    if usable < GAP_BELOW:
+        scene["stock_gap"] = {"usable": usable, "at": now,
+                              "reason": f"only {usable} clip(s) reached relevance "
+                                        f"{USABLE_AT} without a violation"}
+    else:
+        scene.pop("stock_gap", None)
+
+
+def replay_card(mine, fresh, now):
     """Two kinds of run write cards, and both have to survive.
 
     A topup APPENDS clips: those are added, and clips origin already has are left alone.
@@ -97,6 +121,7 @@ def replay_card(mine, fresh):
     for s in mine.get("scenes", []):
         tgt = fresh_scenes.get(s["id"])
         if tgt is None:
+            recompute_gap(s, now)
             fresh.setdefault("scenes", []).append(s)
             added += len(s.get("clips") or [])
             continue
@@ -114,9 +139,7 @@ def replay_card(mine, fresh):
         for field in ("shots", "must_not", "shots_by", "shots_at"):
             if s.get(field) and not tgt.get(field):
                 tgt[field] = s[field]          # a shot list authored on a beat with none
-        for field in ("stock_gap", "stock_gap_reason"):
-            if field in s and field not in tgt:
-                tgt[field] = s[field]
+        recompute_gap(tgt, now)
     return added + judged
 
 
@@ -159,11 +182,24 @@ def replay_text(mine_text, base_text, fp):
 
 
 def main():
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     dry = "--dry" in sys.argv
-    args = [a for a in sys.argv[1:] if a != "--dry"]
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
     if not args:
         sys.exit(__doc__)
     message = args[0]
+
+    # This resets hard to origin, which is right for a bot (its only work is in the
+    # working tree) and destructive for anyone with a local commit not yet pushed — it
+    # ate one while this tool was being written. Refuse rather than discard.
+    sh("git", "fetch", "-q", "origin", "main")
+    ahead = sh("git", "rev-list", "--count", "origin/main..HEAD", check=False).stdout.strip()
+    if ahead and ahead != "0" and "--discard-local-commits" not in sys.argv:
+        print(f"! HEAD has {ahead} commit(s) not on origin/main. This tool resets hard to "
+              f"origin and would throw them away.\n"
+              f"  Push or rebase them first, or re-run with --discard-local-commits if you "
+              f"are certain they are disposable.")
+        return 2
 
     paths = changed_files()
     if not paths:
@@ -209,7 +245,7 @@ def main():
             elif p.startswith(CARDS):
                 if fp.exists():
                     fresh = json.load(open(fp))
-                    clips += replay_card(doc, fresh)
+                    clips += replay_card(doc, fresh, now)
                     json.dump(fresh, open(fp, "w"), indent=1, ensure_ascii=False)
                 else:
                     json.dump(doc, open(fp, "w"), indent=1, ensure_ascii=False)
