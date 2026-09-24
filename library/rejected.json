@@ -9535,26 +9535,26 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "skyscraper",
-  "at": "2026-09-24T06:54:15Z",
+  "reason": "cg render, not live footage",
+  "at": "2026-09-24T06:43:28Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cartoon/CGI render, not real footage",
-  "at": "2026-09-24T06:47:49Z",
+  "reason": "cg render, not live footage",
+  "at": "2026-09-24T06:43:28Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:55:54Z",
+  "at": "2026-09-24T06:45:35Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "AI-generated image, not real footage",
-  "at": "2026-09-24T06:49:22Z",
+  "reason": "ai-generated, not real footage",
+  "at": "2026-09-24T06:45:35Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T06:59:07Z",
+  "reason": "luxury",
+  "at": "2026-09-24T06:57:01Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9641,28 +9641,46 @@
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
- "pixabay:1785": {
+ "pexels:34165010": {
   "sector": "belong",
-  "reason": "appears ai-generated, not real footage",
-  "at": "2026-09-24T06:36:16Z",
-  "from": "belong-action-m1/S03"
+  "reason": "road",
+  "at": "2026-09-24T06:35:57Z",
+  "from": "belong-action-m1/S01"
  },
- "pexels:39030499": {
+ "pexels:35036267": {
   "sector": "belong",
-  "reason": "cocktail",
-  "at": "2026-09-24T06:57:35Z",
-  "from": "belong-action-m1/S04"
+  "reason": "road",
+  "at": "2026-09-24T06:37:19Z",
+  "from": "belong-action-m1/S02"
  },
- "pexels:36746501": {
+ "pexels:8813146": {
   "sector": "belong",
-  "reason": "warehouse",
-  "at": "2026-09-24T07:00:36Z",
+  "reason": "drone over a resort",
+  "at": "2026-09-24T06:48:33Z",
+  "from": "belong-action-m1/S05"
+ },
+ "pexels:8540470": {
+  "sector": "belong",
+  "reason": "supermarket produce",
+  "at": "2026-09-24T06:52:55Z",
+  "from": "belong-action-m1/S08"
+ },
+ "pixabay:4569": {
+  "sector": "belong",
+  "reason": "stock collage with text overlay, not usable footage",
+  "at": "2026-09-24T06:52:55Z",
+  "from": "belong-action-m1/S08"
+ },
+ "pexels:29543195": {
+  "sector": "belong",
+  "reason": "estate",
+  "at": "2026-09-24T06:58:38Z",
   "from": "belong-action-m1/S06"
  },
- "pexels:33226461": {
+ "pexels:20516741": {
   "sector": "belong",
-  "reason": "warehouse",
-  "at": "2026-09-24T07:00:36Z",
-  "from": "belong-action-m1/S06"
+  "reason": "crowd",
+  "at": "2026-09-24T06:59:59Z",
+  "from": "belong-action-m1/S07"
  }
 }
