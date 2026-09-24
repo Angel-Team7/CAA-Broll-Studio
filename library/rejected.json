@@ -9535,32 +9535,32 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "skyscraper",
+  "at": "2026-09-24T06:53:30Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "cartoon",
+  "at": "2026-09-24T06:53:30Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:45:35Z",
+  "at": "2026-09-24T06:56:20Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated, not real footage",
-  "at": "2026-09-24T06:45:35Z",
+  "reason": "ai-generated, not authentic footage",
+  "at": "2026-09-24T06:56:20Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T05:58:52Z",
+  "at": "2026-09-24T06:50:55Z",
   "from": "belong-action-m1/S01"
  },
  "pexels:29814585": {
@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T06:57:22Z",
+  "reason": "suit worn (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9619,8 +9619,8 @@
  },
  "pexels:5601391": {
   "sector": "belong",
-  "reason": "nightlife",
-  "at": "2026-09-24T06:55:51Z",
+  "reason": "nightclub/party atmosphere at a beach venue",
+  "at": "2026-09-24T06:21:07Z",
   "from": "belong-action-m1/S04"
  },
  "pixabay:173315": {
@@ -9637,8 +9637,8 @@
  },
  "pixabay:4315": {
   "sector": "belong",
-  "reason": "nightclub",
-  "at": "2026-09-24T06:57:22Z",
+  "reason": "appears CG-rendered, nightclub-like beach bar at night (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pexels:34165010": {
@@ -9653,40 +9653,10 @@
   "at": "2026-09-24T06:37:19Z",
   "from": "belong-action-m1/S02"
  },
- "pexels:8813146": {
+ "pexels:6948266": {
   "sector": "belong",
-  "reason": "drone over a resort",
-  "at": "2026-09-24T06:48:33Z",
-  "from": "belong-action-m1/S05"
- },
- "pexels:8540470": {
-  "sector": "belong",
-  "reason": "supermarket produce",
-  "at": "2026-09-24T06:52:55Z",
-  "from": "belong-action-m1/S08"
- },
- "pixabay:4569": {
-  "sector": "belong",
-  "reason": "stock collage with text overlay, not usable footage",
-  "at": "2026-09-24T06:52:55Z",
-  "from": "belong-action-m1/S08"
- },
- "pixabay:8453": {
-  "sector": "belong",
-  "reason": "dj",
-  "at": "2026-09-24T06:58:54Z",
-  "from": "belong-action-m1/S06"
- },
- "pexels:36746501": {
-  "sector": "belong",
-  "reason": "warehouse",
-  "at": "2026-09-24T06:58:54Z",
-  "from": "belong-action-m1/S06"
- },
- "pexels:33226461": {
-  "sector": "belong",
-  "reason": "warehouse",
-  "at": "2026-09-24T06:58:54Z",
-  "from": "belong-action-m1/S06"
+  "reason": "resembles a cocktail drink, barred by this scene's must-not list",
+  "at": "2026-09-24T07:00:12Z",
+  "from": "belong-action-m1/S07"
  }
 }
