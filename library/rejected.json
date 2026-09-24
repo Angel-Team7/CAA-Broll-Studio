@@ -9535,26 +9535,26 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "skyscraper",
+  "at": "2026-09-24T06:47:54Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cg render, not live footage",
-  "at": "2026-09-24T06:43:28Z",
+  "reason": "non-photoreal 3D render, not real footage",
+  "at": "2026-09-24T06:42:37Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:45:35Z",
+  "at": "2026-09-24T06:49:18Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated, not real footage",
-  "at": "2026-09-24T06:45:35Z",
+  "reason": "AI-generated image, not real footage",
+  "at": "2026-09-24T06:44:18Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
@@ -9641,16 +9641,16 @@
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
- "pexels:34165010": {
+ "pixabay:1785": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:35:57Z",
-  "from": "belong-action-m1/S01"
+  "reason": "appears ai-generated, not real footage",
+  "at": "2026-09-24T06:36:16Z",
+  "from": "belong-action-m1/S03"
  },
- "pexels:35036267": {
+ "pexels:39030499": {
   "sector": "belong",
-  "reason": "road",
-  "at": "2026-09-24T06:37:19Z",
-  "from": "belong-action-m1/S02"
+  "reason": "cocktail glass visible",
+  "at": "2026-09-24T06:37:37Z",
+  "from": "belong-action-m1/S04"
  }
 }
