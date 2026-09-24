@@ -9535,32 +9535,32 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "skyscraper",
-  "at": "2026-09-24T06:53:30Z",
+  "reason": "cg render, not live footage",
+  "at": "2026-09-24T06:43:28Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cartoon",
-  "at": "2026-09-24T06:53:30Z",
+  "reason": "cg render, not live footage",
+  "at": "2026-09-24T06:43:28Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
   "reason": "sewing",
-  "at": "2026-09-24T06:56:20Z",
+  "at": "2026-09-24T06:45:35Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated, not authentic footage",
-  "at": "2026-09-24T06:56:20Z",
+  "reason": "ai-generated, not real footage",
+  "at": "2026-09-24T06:45:35Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
   "sector": "belong",
   "reason": "luxury",
-  "at": "2026-09-24T06:50:55Z",
+  "at": "2026-09-24T05:58:52Z",
   "from": "belong-action-m1/S01"
  },
  "pexels:29814585": {
@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T07:01:57Z",
+  "reason": "luxury",
+  "at": "2026-09-24T06:57:01Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9619,8 +9619,8 @@
  },
  "pexels:5601391": {
   "sector": "belong",
-  "reason": "nightclub-like beach party lighting",
-  "at": "2026-09-24T06:59:01Z",
+  "reason": "nightclub/party atmosphere at a beach venue",
+  "at": "2026-09-24T06:21:07Z",
   "from": "belong-action-m1/S04"
  },
  "pixabay:173315": {
@@ -9631,8 +9631,8 @@
  },
  "pexels:4513040": {
   "sector": "belong",
-  "reason": "cocktail bar neon",
-  "at": "2026-09-24T07:01:57Z",
+  "reason": "neon signage — cocktail bar look (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:4315": {
@@ -9653,22 +9653,34 @@
   "at": "2026-09-24T06:37:19Z",
   "from": "belong-action-m1/S02"
  },
- "pexels:39030499": {
+ "pexels:8813146": {
   "sector": "belong",
-  "reason": "cocktail",
-  "at": "2026-09-24T06:59:01Z",
-  "from": "belong-action-m1/S04"
+  "reason": "drone over a resort",
+  "at": "2026-09-24T06:48:33Z",
+  "from": "belong-action-m1/S05"
  },
- "pexels:9020658": {
+ "pexels:8540470": {
   "sector": "belong",
   "reason": "supermarket produce",
-  "at": "2026-09-24T07:04:50Z",
+  "at": "2026-09-24T06:52:55Z",
   "from": "belong-action-m1/S08"
  },
  "pixabay:4569": {
   "sector": "belong",
-  "reason": "stock end-card graphic overlay",
-  "at": "2026-09-24T07:04:50Z",
+  "reason": "stock end-card / collage graphic",
+  "at": "2026-09-24T07:05:15Z",
   "from": "belong-action-m1/S08"
+ },
+ "pexels:29543195": {
+  "sector": "belong",
+  "reason": "estate",
+  "at": "2026-09-24T06:58:38Z",
+  "from": "belong-action-m1/S06"
+ },
+ "pexels:20516741": {
+  "sector": "belong",
+  "reason": "crowd",
+  "at": "2026-09-24T06:59:59Z",
+  "from": "belong-action-m1/S07"
  }
 }
