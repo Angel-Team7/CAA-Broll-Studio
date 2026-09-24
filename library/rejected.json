@@ -9761,10 +9761,46 @@
   "at": "2026-09-24T12:32:09Z",
   "from": "belong-action-m2/S08"
  },
+ "pexels:19909059": {
+  "sector": "belong",
+  "reason": "road",
+  "at": "2026-09-24T12:33:43Z",
+  "from": "belong-action-m3/S01"
+ },
+ "pexels:34897104": {
+  "sector": "belong",
+  "reason": "industrial greenhouse",
+  "at": "2026-09-24T12:33:43Z",
+  "from": "belong-action-m3/S01"
+ },
+ "pexels:8633314": {
+  "sector": "belong",
+  "reason": "industrial greenhouse",
+  "at": "2026-09-24T12:33:43Z",
+  "from": "belong-action-m3/S01"
+ },
+ "pexels:7048578": {
+  "sector": "belong",
+  "reason": "food advert plating",
+  "at": "2026-09-24T12:33:43Z",
+  "from": "belong-action-m3/S01"
+ },
+ "pexels:6667225": {
+  "sector": "belong",
+  "reason": "logistics",
+  "at": "2026-09-24T12:35:19Z",
+  "from": "belong-action-m3/S02"
+ },
+ "pixabay:122366": {
+  "sector": "belong",
+  "reason": "monitor",
+  "at": "2026-09-24T12:35:19Z",
+  "from": "belong-action-m3/S02"
+ },
  "pexels:9716421": {
   "sector": "belong",
-  "reason": "factory",
-  "at": "2026-09-24T12:34:51Z",
+  "reason": "packaged food factory",
+  "at": "2026-09-24T12:36:41Z",
   "from": "belong-action-m3/S03"
  }
 }
