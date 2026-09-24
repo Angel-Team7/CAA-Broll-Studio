@@ -8,50 +8,66 @@
     "S01": {
       "requested": "2026-09-23T14:40:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:53:37Z",
+      "added": 23
     },
     "S02": {
       "requested": "2026-09-23T14:41:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:56:22Z",
+      "added": 24
     },
     "S03": {
       "requested": "2026-09-23T14:42:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T12:58:38Z",
+      "added": 24
     },
     "S04": {
       "requested": "2026-09-23T14:43:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:01:29Z",
+      "added": 24
     },
     "S05": {
       "requested": "2026-09-23T14:44:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:03:47Z",
+      "added": 20
     },
     "S06": {
       "requested": "2026-09-23T14:45:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:05:50Z",
+      "added": 23
     },
     "S07": {
       "requested": "2026-09-23T14:46:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:08:10Z",
+      "added": 24
     },
     "S08": {
       "requested": "2026-09-23T14:47:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:10:43Z",
+      "added": 24
     }
   }
 }

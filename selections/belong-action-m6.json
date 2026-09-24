@@ -8,26 +8,34 @@
     "S01": {
       "requested": "2026-09-23T14:48:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:13:12Z",
+      "added": 23
     },
     "S02": {
       "requested": "2026-09-23T14:49:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:15:59Z",
+      "added": 24
     },
     "S03": {
       "requested": "2026-09-23T14:50:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:18:18Z",
+      "added": 21
     },
     "S04": {
       "requested": "2026-09-23T14:51:02Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-09-24T13:21:02Z",
+      "added": 22
     },
     "S05": {
       "requested": "2026-09-23T14:52:02Z",
