@@ -9535,26 +9535,26 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cgi render, not live footage",
-  "at": "2026-09-24T06:28:15Z",
+  "reason": "cgi render, not real footage",
+  "at": "2026-09-24T06:33:57Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cgi render, not live footage",
-  "at": "2026-09-24T06:28:15Z",
+  "reason": "cgi render / game asset, not real footage",
+  "at": "2026-09-24T06:33:57Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
-  "reason": "sewing machine visible (barred: sewing)",
-  "at": "2026-09-24T06:31:05Z",
+  "reason": "sewing machine visible",
+  "at": "2026-09-24T06:36:16Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
-  "reason": "ai-generated image, not real footage",
-  "at": "2026-09-24T06:31:05Z",
+  "reason": "AI-generated image, not real footage",
+  "at": "2026-09-24T06:19:32Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
@@ -9571,8 +9571,8 @@
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit visible (barred: suit)",
-  "at": "2026-09-24T06:35:06Z",
+  "reason": "suit worn (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  },
  "pixabay:21776": {
@@ -9640,5 +9640,17 @@
   "reason": "appears CG-rendered, nightclub-like beach bar at night (barred)",
   "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
+ },
+ "pixabay:1785": {
+  "sector": "belong",
+  "reason": "appears ai-generated, not real footage",
+  "at": "2026-09-24T06:36:16Z",
+  "from": "belong-action-m1/S03"
+ },
+ "pexels:39030499": {
+  "sector": "belong",
+  "reason": "cocktail glass visible",
+  "at": "2026-09-24T06:37:37Z",
+  "from": "belong-action-m1/S04"
  }
 }
