@@ -9535,26 +9535,26 @@
  },
  "pixabay:14476": {
   "sector": "belong",
-  "reason": "cartoon/CG render",
-  "at": "2026-09-24T06:12:15Z",
+  "reason": "CG render, skyscraper/city — not real footage",
+  "at": "2026-09-24T06:17:44Z",
   "from": "belong-action-m1/S02"
  },
  "pixabay:7128": {
   "sector": "belong",
-  "reason": "cartoon/CG render",
-  "at": "2026-09-24T06:12:15Z",
+  "reason": "CG/fantasy render — not real footage",
+  "at": "2026-09-24T06:17:44Z",
   "from": "belong-action-m1/S02"
  },
  "pexels:6459997": {
   "sector": "belong",
-  "reason": "sewing",
-  "at": "2026-09-24T06:02:31Z",
+  "reason": "sewing machine in frame (sewing/tailor barred)",
+  "at": "2026-09-24T06:19:32Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:371871": {
   "sector": "belong",
   "reason": "AI-generated image, not real footage",
-  "at": "2026-09-24T05:55:25Z",
+  "at": "2026-09-24T06:19:32Z",
   "from": "belong-action-m1/S03"
  },
  "pixabay:32600": {
@@ -9565,14 +9565,80 @@
  },
  "pexels:29814585": {
   "sector": "belong",
-  "reason": "supermarket aisle",
-  "at": "2026-09-24T06:03:54Z",
+  "reason": "supermarket aisle, wrong world",
+  "at": "2026-09-24T06:21:07Z",
   "from": "belong-action-m1/S04"
  },
  "pexels:10783543": {
   "sector": "belong",
-  "reason": "suit",
-  "at": "2026-09-24T06:05:32Z",
+  "reason": "suit worn (barred)",
+  "at": "2026-09-24T06:22:45Z",
+  "from": "belong-action-m1/S05"
+ },
+ "pixabay:21776": {
+  "sector": "belong",
+  "reason": "large crowd, wrong world (indoor market, not farm)",
+  "at": "2026-09-24T06:16:02Z",
+  "from": "belong-action-m1/S01"
+ },
+ "pexels:19412028": {
+  "sector": "belong",
+  "reason": "large crowd, wrong world (foreign street market)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pexels:39633156": {
+  "sector": "belong",
+  "reason": "wrong world (foreign market stall)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pexels:20606525": {
+  "sector": "belong",
+  "reason": "branded signage, wrong world (foreign street shop)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pexels:35036265": {
+  "sector": "belong",
+  "reason": "wrong world (foreign packaged-goods shop)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pixabay:134115": {
+  "sector": "belong",
+  "reason": "wrong world (urban basketball court)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pixabay:35609": {
+  "sector": "belong",
+  "reason": "wrong world (cold coastal fishing village)",
+  "at": "2026-09-24T06:17:44Z",
+  "from": "belong-action-m1/S02"
+ },
+ "pexels:5601391": {
+  "sector": "belong",
+  "reason": "nightclub/party atmosphere at a beach venue",
+  "at": "2026-09-24T06:21:07Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pixabay:173315": {
+  "sector": "belong",
+  "reason": "wrong world (library)",
+  "at": "2026-09-24T06:21:07Z",
+  "from": "belong-action-m1/S04"
+ },
+ "pexels:4513040": {
+  "sector": "belong",
+  "reason": "neon signage — cocktail bar look (barred)",
+  "at": "2026-09-24T06:22:45Z",
+  "from": "belong-action-m1/S05"
+ },
+ "pixabay:4315": {
+  "sector": "belong",
+  "reason": "appears CG-rendered, nightclub-like beach bar at night (barred)",
+  "at": "2026-09-24T06:22:45Z",
   "from": "belong-action-m1/S05"
  }
 }
