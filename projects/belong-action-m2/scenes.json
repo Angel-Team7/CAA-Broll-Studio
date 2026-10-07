@@ -5084,49 +5084,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "an unlit lamp on a wooden post at dusk beside a path",
-     "pexels": "unlit lamp wooden post path dusk",
-     "pixabay": "lamp post path evening",
+     "text": "a hand changing a light bulb in a lamp",
+     "pexels": "hand changing light bulb",
+     "pixabay": "hand light bulb changing",
      "scale": "close"
     },
     {
      "id": "B",
-     "text": "maintenance worker working quietly early in the morning outdoors",
-     "pexels": "maintenance worker early morning outdoors",
-     "pixabay": "maintenance worker morning",
+     "text": "a maintenance worker with tools working outdoors",
+     "pexels": "maintenance worker with tools",
+     "pixabay": "maintenance worker tools",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "curtain being drawn to darken a bedroom",
-     "pexels": "curtain being drawn dark bedroom",
-     "pixabay": "curtain closing bedroom",
+     "text": "curtains being closed in a bedroom",
+     "pexels": "closing curtains bedroom",
+     "pixabay": "closing curtains window",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "close-up of a hand switching off a bedside lamp",
-     "pexels": "hand switching off bedside lamp",
-     "pixabay": "hand bedside lamp switch",
+     "text": "a hand turning off a bedside lamp",
+     "pexels": "turning off bedside lamp",
+     "pixabay": "hand lamp switch bedside",
      "scale": "close"
     },
     {
      "id": "E",
-     "text": "worker checking a pool filter at the poolside",
-     "pexels": "worker checking pool filter",
-     "pixabay": "pool maintenance filter worker",
+     "text": "a worker cleaning a swimming pool",
+     "pexels": "cleaning swimming pool",
+     "pixabay": "cleaning swimming pool worker",
      "scale": "medium"
     }
    ],
    "must_not": [
-    "sleeping model in silk sheets",
-    "alarm clock stock shot",
+    "hotel corridor numbered doors",
+    "sleeping model silk sheets",
     "noisy construction site",
-    "face masks",
-    "do not disturb sign close-up"
+    "alarm clock",
+    "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:54:07Z",
+   "shots_at": "2026-10-07T15:44:23Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-24T12:35:36Z",
@@ -5858,49 +5858,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "close-up of work-worn hands lifting a fallen branch from a path",
-     "pexels": "hands lifting fallen branch path",
-     "pixabay": "hands branch path lifting",
+     "text": "hands picking up fallen branches in a garden",
+     "pexels": "picking up branches garden",
+     "pixabay": "picking branches garden hands",
      "scale": "close"
     },
     {
      "id": "B",
-     "text": "worker picking up litter beside a garden path",
-     "pexels": "worker picking litter garden path",
-     "pixabay": "picking litter garden",
+     "text": "someone picking up litter outdoors",
+     "pexels": "picking up litter",
+     "pixabay": "picking up litter outdoor",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "close-up of hands cleaning a window pane with a cloth",
-     "pexels": "hands cleaning window pane cloth",
-     "pixabay": "hands cleaning window glass",
+     "text": "hands cleaning a window with a cloth",
+     "pexels": "cleaning window glass cloth",
+     "pixabay": "cleaning window glass",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "staff member reporting something on a phone outdoors",
-     "pexels": "staff reporting on phone outdoors",
-     "pixabay": "worker phone outdoors call",
+     "text": "a worker using a phone outdoors",
+     "pexels": "worker using phone outdoors",
+     "pixabay": "worker phone outdoor",
      "scale": "medium"
     },
     {
      "id": "E",
-     "text": "wide of small farm houses at end of day in warm light",
-     "pexels": "small farm houses warm evening light",
-     "pixabay": "farm houses evening light",
+     "text": "country houses in warm evening light",
+     "pexels": "country houses evening light",
+     "pixabay": "country houses evening",
      "scale": "wide"
     }
    ],
    "must_not": [
     "street sweeping machine",
-    "protest litter pick crowd",
+    "rubbish dump",
     "corporate volunteer day",
-    "face masks",
-    "rubbish dump"
+    "protest",
+    "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:54:07Z",
+   "shots_at": "2026-10-07T15:44:23Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-24T12:35:36Z",

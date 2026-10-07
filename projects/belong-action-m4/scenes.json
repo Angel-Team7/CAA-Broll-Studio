@@ -1447,49 +1447,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "close-up of a spotless glass catching light on a wooden bar counter",
-     "pexels": "clean glass on wooden bar counter",
-     "pixabay": "clean glass bar counter",
+     "text": "a glass being polished with a cloth",
+     "pexels": "polishing a glass cloth",
+     "pixabay": "polishing glass cloth",
      "scale": "close"
     },
     {
      "id": "B",
-     "text": "bar counter being wiped down as a routine gesture",
-     "pexels": "bar counter being wiped cloth",
-     "pixabay": "wiping bar counter cloth",
+     "text": "a bar counter being wiped down",
+     "pexels": "wiping bar counter",
+     "pixabay": "wiping bar counter",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "bar staff greeting someone arriving at the counter",
-     "pexels": "bar staff greeting customer counter",
-     "pixabay": "bartender greeting customer",
+     "text": "a bartender serving a customer at the counter",
+     "pexels": "bartender serving customer",
+     "pixabay": "bartender serving customer",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "close-up of glasses being dried with a clean cloth",
-     "pexels": "glasses being dried clean cloth",
-     "pixabay": "drying glasses cloth bar",
+     "text": "glasses being dried with a towel",
+     "pexels": "drying glasses towel",
+     "pixabay": "drying glasses towel",
      "scale": "close"
     },
     {
      "id": "E",
-     "text": "wide of a simple beach bar interior being set up before service",
-     "pexels": "beach bar interior set up before service",
-     "pixabay": "beach bar interior setup",
+     "text": "an empty bar being set up before opening",
+     "pexels": "empty bar before opening",
+     "pixabay": "empty bar interior morning",
      "scale": "wide"
     }
    ],
    "must_not": [
-    "nightclub bar",
+    "nightclub",
     "cocktail flair bartending",
     "beach party",
-    "dirty kitchen shock footage",
+    "drunk customers",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:56:38Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-24T13:12:36Z",
@@ -5944,42 +5944,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "wide of a beach bar at dusk with calm movement and the sea behind",
-     "pexels": "beach bar dusk calm sea behind",
-     "pixabay": "beach bar dusk sea",
+     "text": "a beach bar in the evening with the sea behind",
+     "pexels": "beach bar evening sea",
+     "pixabay": "beach bar evening",
      "scale": "wide"
     },
     {
      "id": "B",
-     "text": "bar staff saying goodbye to the last customer leaving",
-     "pexels": "staff saying goodbye last customer",
-     "pixabay": "staff goodbye customer leaving",
+     "text": "a waiter saying goodbye to a customer",
+     "pexels": "waiter saying goodbye customer",
+     "pixabay": "waiter goodbye customer",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "close-up of a counter being wiped down for the last time",
-     "pexels": "counter wiped down closing time",
+     "text": "a counter being wiped down at closing time",
+     "pexels": "wiping counter cloth",
      "pixabay": "wiping counter closing",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "two bar staff sharing a few words after closing",
-     "pexels": "two bar staff talking after closing",
-     "pixabay": "staff talking after closing",
+     "text": "two bar staff talking after service",
+     "pexels": "two bartenders talking",
+     "pixabay": "bartenders talking bar",
      "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "people walking off a beach in the evening",
+     "pexels": "people leaving beach evening",
+     "pixabay": "people walking beach evening",
+     "scale": "wide"
     }
    ],
    "must_not": [
     "nightclub closing",
-    "drunk customers",
-    "cocktail",
     "beach party",
+    "cocktail",
+    "drunk customers",
     "logo animation"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:56:38Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-24T13:12:36Z",

@@ -2764,37 +2764,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "guest deciding what to do while looking at a map with a host",
-     "pexels": "guest deciding looking at map host",
-     "pixabay": "guest map deciding host",
+     "text": "two people looking at a map together",
+     "pexels": "two people looking at map",
+     "pixabay": "people looking map together",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "wide of a calm empty pool in mid afternoon with no music",
-     "pexels": "calm empty pool mid afternoon",
-     "pixabay": "calm empty pool afternoon",
+     "text": "an empty swimming pool in the morning",
+     "pexels": "empty swimming pool morning",
+     "pixabay": "empty swimming pool morning",
      "scale": "wide"
     },
     {
      "id": "C",
-     "text": "close-up of a speaker cone going completely still",
-     "pexels": "extreme close up of a speaker cone going still",
-     "pixabay": "speaker cone close",
+     "text": "a hand turning a volume knob down",
+     "pexels": "turning volume knob down",
+     "pixabay": "hand volume knob",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "wide of a silent corridor or house interior in morning light",
-     "pexels": "silent house interior morning light",
-     "pixabay": "quiet interior morning light",
+     "text": "an empty hallway in morning light",
+     "pexels": "empty hallway morning light",
+     "pixabay": "empty hallway light",
      "scale": "wide"
     },
     {
      "id": "E",
-     "text": "staff member pausing rather than interrupting a resting guest",
-     "pexels": "staff pausing not interrupting guest",
-     "pixabay": "staff pausing doorway quiet",
+     "text": "a woman relaxing and reading outdoors",
+     "pexels": "woman relaxing reading outdoors",
+     "pixabay": "woman reading outdoors relaxing",
      "scale": "medium"
     }
    ],
@@ -2806,7 +2806,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-23T14:06:05Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-24T14:27:25Z",
@@ -3486,37 +3486,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "wide of one person waiting alone at an empty counter, seen from behind",
-     "pexels": "person waiting alone empty counter",
-     "pixabay": "person waiting counter alone",
+     "text": "an empty reception desk with nobody behind it",
+     "pexels": "empty reception desk",
+     "pixabay": "empty reception desk",
      "scale": "wide"
     },
     {
      "id": "B",
-     "text": "staff member acknowledging a guest immediately with eye contact",
-     "pexels": "staff acknowledging guest eye contact",
-     "pixabay": "staff greeting guest eye contact",
+     "text": "a receptionist greeting a guest warmly",
+     "pexels": "receptionist greeting guest",
+     "pixabay": "receptionist greeting guest",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "close-up of a guest's face while repeating themselves, patient but tired",
-     "pexels": "guest face repeating patient tired",
-     "pixabay": "person face patient tired",
+     "text": "a person waiting and checking the time",
+     "pexels": "person waiting checking time",
+     "pixabay": "person waiting checking watch",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "a guest being passed from one staff member to another",
-     "pexels": "guest passed between staff members",
-     "pixabay": "guest staff passing question",
+     "text": "two staff members talking at a desk",
+     "pexels": "two staff talking at desk",
+     "pixabay": "two staff talking desk",
      "scale": "medium"
     },
     {
      "id": "E",
-     "text": "close-up of a hand raised slightly to get attention at a counter",
-     "pexels": "hand raised for attention at counter",
-     "pixabay": "hand raised counter attention",
+     "text": "a hand resting on a reception counter",
+     "pexels": "hand on reception counter",
+     "pixabay": "hand reception counter",
      "scale": "close"
     }
    ],
@@ -3528,7 +3528,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-23T14:06:05Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-09-24T14:27:25Z",
@@ -5810,49 +5810,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "team at a shift handover in real conversation",
-     "pexels": "team shift handover real conversation",
-     "pixabay": "team shift handover talking",
+     "text": "a team briefing before a shift",
+     "pexels": "team briefing staff meeting",
+     "pixabay": "team briefing staff",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "head of unit talking with two team members, listening",
-     "pexels": "supervisor talking with two team members",
-     "pixabay": "supervisor team members talking",
+     "text": "a manager listening to two workers",
+     "pexels": "manager listening to workers",
+     "pixabay": "manager listening workers",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "close-up of a tired worker taking a moment with a glass of water",
-     "pexels": "tired worker moment glass of water",
-     "pixabay": "worker tired water break",
+     "text": "a tired worker resting for a moment",
+     "pexels": "tired worker resting",
+     "pixabay": "tired worker resting break",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "wide of a farm in warm evening light at the end of the day",
-     "pexels": "farm warm evening light end of day",
-     "pixabay": "farm evening light warm",
+     "text": "farm buildings in warm evening light",
+     "pexels": "farm buildings evening light",
+     "pixabay": "farm buildings evening",
      "scale": "wide"
     },
     {
      "id": "E",
-     "text": "two colleagues exchanging a few words as one finishes a shift",
-     "pexels": "colleagues few words finishing shift",
-     "pixabay": "colleagues talking shift end",
+     "text": "colleagues talking at the end of a shift",
+     "pexels": "colleagues talking end of shift",
+     "pixabay": "colleagues talking workplace",
      "scale": "medium"
     }
    ],
    "must_not": [
     "corporate team building",
     "motivational poster",
-    "logo animation",
     "exhausted collapse",
+    "logo animation",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-23T14:06:05Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-24T14:27:25Z",

@@ -3789,49 +3789,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "a guest arriving by car with luggage as someone walks out to meet them",
-     "pexels": "guest arriving car luggage greeted",
-     "pixabay": "guest arriving car luggage",
+     "text": "a guest arriving with luggage",
+     "pexels": "guest arriving with luggage",
+     "pixabay": "guest arriving luggage",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "close-up of water being offered to an arriving guest",
-     "pexels": "water offered to arriving guest",
-     "pixabay": "offering water glass guest",
+     "text": "water being poured into a glass",
+     "pexels": "pouring glass of water",
+     "pixabay": "pouring water glass",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "host and guest walking and talking along a wooden path",
-     "pexels": "host and guest walking talking path",
-     "pixabay": "host guest walking talking",
+     "text": "two people walking and talking in a garden",
+     "pexels": "two people walking talking garden",
+     "pixabay": "people walking talking garden",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "close-up of a bag being taken from a guest's hand",
-     "pexels": "bag taken from guest hand",
-     "pixabay": "taking luggage bag guest",
+     "text": "a hand carrying a suitcase",
+     "pexels": "carrying suitcase hand",
+     "pixabay": "carrying suitcase hand",
      "scale": "close"
     },
     {
      "id": "E",
-     "text": "host listening attentively to a guest's answer on arrival",
-     "pexels": "host listening attentively to guest",
-     "pixabay": "host listening guest attentive",
+     "text": "a receptionist welcoming a guest",
+     "pexels": "receptionist welcoming guest",
+     "pixabay": "receptionist welcoming guest",
      "scale": "medium"
     }
    ],
    "must_not": [
-    "hotel check-in counter queue",
+    "hotel check-in queue",
     "airport arrivals",
-    "bellhop uniform trolley",
+    "bellhop trolley",
     "crowd",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-23T14:06:05Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-24T14:17:12Z",

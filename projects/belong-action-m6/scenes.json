@@ -2876,49 +2876,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "linen being sorted into baskets on the way into a laundry",
-     "pexels": "linen sorted into baskets laundry",
-     "pixabay": "sorting linen baskets laundry",
+     "text": "laundry being sorted into baskets",
+     "pexels": "sorting laundry into baskets",
+     "pixabay": "sorting laundry baskets",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "close-up of stain treatment being applied to white fabric",
-     "pexels": "stain treatment applied white fabric",
-     "pixabay": "stain treatment fabric hands",
+     "text": "a stain being treated on white fabric",
+     "pexels": "removing stain from fabric",
+     "pixabay": "removing stain fabric",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "close-up of a small tear in white fabric held up to the light",
-     "pexels": "small tear white fabric held light",
-     "pixabay": "torn fabric held light",
+     "text": "torn white fabric held in two hands",
+     "pexels": "torn fabric in hands",
+     "pixabay": "torn fabric hands",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "worker setting a damaged item aside onto a separate pile",
-     "pexels": "worker setting damaged linen aside",
-     "pixabay": "worker damaged linen pile",
+     "text": "white sheets being folded by hand",
+     "pexels": "folding white sheets",
+     "pixabay": "folding white sheets",
      "scale": "medium"
     },
     {
      "id": "E",
-     "text": "wide of labelled laundry trolleys lined up in a work room",
-     "pexels": "labelled laundry trolleys work room",
-     "pixabay": "laundry trolleys labelled room",
+     "text": "a commercial laundry room with machines",
+     "pexels": "commercial laundry room machines",
+     "pixabay": "commercial laundry room",
      "scale": "wide"
     }
    ],
    "must_not": [
     "dry cleaning shop front",
-    "clothes shopping rail",
+    "detergent advert",
     "sewing factory",
-    "laundry detergent advert",
+    "clothes shopping rail",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:58:06Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-24T13:59:39Z",
@@ -5198,37 +5198,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "laundry worker at work shown with dignity in a warm room",
-     "pexels": "laundry worker working warm room",
-     "pixabay": "laundry worker working",
+     "text": "a laundry worker ironing in a warm room",
+     "pexels": "laundry worker ironing",
+     "pixabay": "laundry worker ironing",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "steam rising in a warm work room with a beam of light through it",
-     "pexels": "steam rising warm room light beam",
-     "pixabay": "steam light beam room",
+     "text": "steam rising in a work room",
+     "pexels": "steam rising in work room",
+     "pixabay": "steam rising room",
      "scale": "wide"
     },
     {
      "id": "C",
-     "text": "worker taking a break with a glass of water",
-     "pexels": "worker taking break glass of water",
-     "pixabay": "worker break water glass",
+     "text": "a worker drinking water during a break",
+     "pexels": "worker drinking water break",
+     "pixabay": "worker drinking water break",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "supervisor talking to a small team and thanking them",
-     "pexels": "supervisor thanking small team",
-     "pixabay": "supervisor team thanking talking",
+     "text": "a manager talking with workers",
+     "pexels": "manager talking to workers",
+     "pixabay": "manager talking workers",
      "scale": "medium"
     },
     {
      "id": "E",
-     "text": "close-up of a worker wiping their forehead in a hot work room",
-     "pexels": "worker wiping forehead hot work room",
-     "pixabay": "worker wiping forehead heat",
+     "text": "a tired worker wiping their face",
+     "pexels": "tired worker wiping face",
+     "pixabay": "tired worker wiping face",
      "scale": "close"
     }
    ],
@@ -5240,7 +5240,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:58:06Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-24T13:59:39Z",

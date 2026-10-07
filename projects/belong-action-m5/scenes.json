@@ -3017,37 +3017,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "guest in a small shop with packed bags shortly before leaving",
-     "pexels": "guest in shop with packed bags",
-     "pixabay": "guest shop luggage bags",
+     "text": "a customer browsing in a small shop",
+     "pexels": "customer in small shop",
+     "pixabay": "customer browsing small shop",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "close-up of a paper bag being folded closed and tied with twine",
-     "pexels": "paper bag folded tied with twine",
-     "pixabay": "paper bag twine tied",
+     "text": "hands wrapping a purchase in paper",
+     "pexels": "wrapping purchase in paper",
+     "pixabay": "wrapping paper hands gift",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "host saying goodbye to a departing guest at a door",
-     "pexels": "host saying goodbye guest at door",
-     "pixabay": "host goodbye guest door",
+     "text": "a woman waving goodbye at a doorway",
+     "pexels": "woman waving goodbye door",
+     "pixabay": "waving goodbye door",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "wide of a car being loaded outside a farm building",
-     "pexels": "car being loaded outside farm building",
-     "pixabay": "loading car luggage house",
+     "text": "a suitcase being loaded into a car",
+     "pexels": "loading suitcase into car",
+     "pixabay": "loading suitcase car",
      "scale": "wide"
     },
     {
      "id": "E",
-     "text": "close-up of a purchase being handed over with both hands",
-     "pexels": "purchase handed over both hands",
-     "pixabay": "handing purchase bag hands",
+     "text": "a shopping bag handed across a counter",
+     "pexels": "handing shopping bag customer",
+     "pixabay": "handing shopping bag",
      "scale": "close"
     }
    ],
@@ -3055,11 +3055,11 @@
     "airport departure gate",
     "hotel checkout queue",
     "credit card advert",
-    "crying farewell",
+    "shopping mall",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:58:06Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-09-24T13:35:56Z",
@@ -4416,49 +4416,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "close-up of hands turning labels to face front on a shelf",
-     "pexels": "hands turning labels face front shelf",
-     "pixabay": "hands labels shelf front",
+     "text": "hands arranging products on a shop shelf",
+     "pexels": "arranging products on shelf",
+     "pixabay": "arranging products shelf hands",
      "scale": "close"
     },
     {
      "id": "B",
-     "text": "close-up of a dusty jar being wiped clean with a cloth",
-     "pexels": "dusty jar wiped clean cloth",
-     "pixabay": "wiping dusty jar cloth",
+     "text": "a shelf being dusted with a cloth",
+     "pexels": "dusting shelf with cloth",
+     "pixabay": "dusting shelf cloth",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "shop worker doing a stock check with a list",
-     "pexels": "shop worker stock check with list",
-     "pixabay": "stock check list shop",
+     "text": "a shop worker checking stock with a clipboard",
+     "pexels": "shop inventory check clipboard",
+     "pixabay": "inventory check clipboard shop",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "wide of tidy well stocked shelves in a small shop",
-     "pexels": "tidy well stocked shelves small shop",
-     "pixabay": "tidy shop shelves stocked",
+     "text": "the interior of a small shop with full shelves",
+     "pexels": "small shop interior shelves",
+     "pixabay": "small shop interior shelves",
      "scale": "wide"
     },
     {
      "id": "E",
-     "text": "close-up of a hand checking a date on the base of a jar",
-     "pexels": "hand checking date on jar base",
-     "pixabay": "hand checking jar date",
+     "text": "a hand checking the label on a jar",
+     "pexels": "checking label on jar",
+     "pixabay": "hand checking jar label",
      "scale": "close"
     }
    ],
    "must_not": [
     "warehouse racking",
+    "supermarket pallet",
     "barcode scanner gun",
-    "supermarket restocking pallet",
     "empty shelves panic buying",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:58:06Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-24T13:35:56Z",
@@ -5966,37 +5966,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "local producer at work in a small production room",
-     "pexels": "local producer working small production room",
-     "pixabay": "small producer working workshop",
+     "text": "an artisan at work in a small workshop",
+     "pexels": "artisan working in workshop",
+     "pixabay": "artisan workshop working",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "close-up of a bottle being handed to a customer over a counter",
-     "pexels": "bottle handed to customer over counter",
-     "pixabay": "handing bottle customer counter",
+     "text": "a bottle handed to a customer over a counter",
+     "pexels": "handing wine bottle customer",
+     "pixabay": "handing bottle counter",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "wide of a small shop at end of day in warm light",
-     "pexels": "small shop end of day warm light",
-     "pixabay": "small shop warm evening light",
+     "text": "a small shop interior in warm light",
+     "pexels": "small shop interior warm light",
+     "pixabay": "small shop interior light",
      "scale": "wide"
     },
     {
      "id": "D",
-     "text": "close-up of coins and notes being put in a wooden till drawer",
-     "pexels": "coins notes wooden till drawer",
-     "pixabay": "coins till drawer money",
+     "text": "coins in a cash register drawer",
+     "pexels": "cash register coins drawer",
+     "pixabay": "cash register coins",
      "scale": "close"
     },
     {
      "id": "E",
-     "text": "producer and shopkeeper talking over a crate of products",
-     "pexels": "producer and shopkeeper talking crate",
-     "pixabay": "producer shopkeeper crate talking",
+     "text": "a farmer delivering a crate of produce",
+     "pexels": "farmer delivering produce crate",
+     "pixabay": "farmer delivering crate produce",
      "scale": "medium"
     }
    ],
@@ -6004,11 +6004,11 @@
     "stock market graphics",
     "bank building",
     "cash stacks",
-    "corporate handshake",
+    "corporate meeting",
     "logo animation"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-09-18T16:58:06Z",
+   "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-09-24T13:35:56Z",
