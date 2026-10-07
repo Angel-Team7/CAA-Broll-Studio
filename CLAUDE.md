@@ -126,6 +126,19 @@ kept, always), and never overwrites a library row origin already has (`dead` fla
 `used_in` are findings, not state to clobber). Proven by
 `tools/verify/push_cards_harness.py`, which reproduces the real collision first.
 
+## A green run that did nothing is a failure
+Between 2026-09-24 and 2026-10-07 every scheduled harvest exited 0 and stocked nothing,
+while 282 themes needed stock. The cause was an ambiguous empty list: a source whose key
+is missing or rejected returned `[]`, exactly like a search with no hits, and the commit
+step is skipped when nothing was added — so the Action stayed green for two weeks with no
+signal. Two weeks of stocking lost.
+
+Every source now records WHY it is empty (`tb.SOURCE_HEALTH`, read with
+`tb.health_report()`), and the harvester **exits non-zero** when it added nothing while
+themes still needed stock and a source is unhealthy. A genuinely empty search stays green.
+Hold anything new to the same rule: never let "it did nothing" and "it is broken" look the
+same. `tools/verify/source_health_harness.py` proves it.
+
 ## Verify before depending
 Harnesses live in `tools/verify/`. New hosts, players, triggers or APIs get a harness
 before the pipeline relies on them (the Cloudflare worker, Safari playback and the

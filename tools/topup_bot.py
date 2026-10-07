@@ -175,6 +175,23 @@ def has_signal(text, sector=None):
 
 
 # ------------------------------------------------------------------- sources
+# Why a source came back empty. "" means it answered normally (even with no hits); any
+# other value is a fault the caller must be able to see. An empty list is otherwise
+# indistinguishable from a dead key, which is how a two-week harvest outage went unnoticed
+# in October 2026: green runs, zero clips, no signal.
+SOURCE_HEALTH = {}
+
+
+def _note_health(name, reason):
+    SOURCE_HEALTH[name] = reason
+
+
+def health_report():
+    """One line per source that is not answering, or '' when all is well."""
+    bad = {k: v for k, v in SOURCE_HEALTH.items() if v}
+    if not bad:
+        return ""
+    return "; ".join(f"{k}: {v}" for k, v in sorted(bad.items()))
 def _cand(**kw):
     kw.setdefault("title", "")
     kw.setdefault("author", "")
@@ -184,8 +201,10 @@ def _cand(**kw):
 def search_pexels(query, page):
     key = os.environ.get("PEXELS_API_KEY")
     if not key:
+        _note_health("pexels", "no PEXELS_API_KEY in the environment")
         return []
     out = []
+    r = None
     try:
         r = requests.get("https://api.pexels.com/videos/search",
                          params={"query": query, "per_page": 15, "page": page,
@@ -204,14 +223,23 @@ def search_pexels(query, page):
                              duration=v.get("duration", 0), query=query,
                              title=(v.get("alt") or "").strip()))
     except Exception as e:
+        _note_health("pexels", f"request failed: {str(e)[:90]}")
         print(f"  ! pexels: {e}")
+        return out
+    if r is not None and r.status_code >= 400:
+        _note_health("pexels", f"HTTP {r.status_code} — key rejected, expired or out of quota")
+        print(f"  ! pexels: HTTP {r.status_code} {r.text[:120]}")
+    else:
+        _note_health("pexels", "")
     return out
 
 def search_pixabay(query, page):
     key = os.environ.get("PIXABAY_API_KEY")
     if not key:
+        _note_health("pixabay", "no PIXABAY_API_KEY in the environment")
         return []
     out = []
+    r = None
     try:
         r = requests.get("https://pixabay.com/api/videos/",
                          params={"key": key, "q": query, "per_page": 20, "page": page,
@@ -232,12 +260,20 @@ def search_pixabay(query, page):
                              duration=v.get("duration", 0), query=query,
                              title=" ".join((v.get("tags") or "").split(",")).strip()))
     except Exception as e:
+        _note_health("pixabay", f"request failed: {str(e)[:90]}")
         print(f"  ! pixabay: {e}")
+        return out
+    if r is not None and r.status_code >= 400:
+        _note_health("pixabay", f"HTTP {r.status_code} — key rejected, expired or out of quota")
+        print(f"  ! pixabay: HTTP {r.status_code} {r.text[:120]}")
+    else:
+        _note_health("pixabay", "")
     return out
 
 def search_coverr(query, page):
     key = os.environ.get("COVERR_API_KEY")
     if not key:
+        _note_health("coverr", "no COVERR_API_KEY in the environment")
         return []
     out = []
     try:
@@ -256,7 +292,14 @@ def search_coverr(query, page):
                              duration=v.get("duration", 0), query=query,
                              title=v.get("title", "")))
     except Exception as e:
+        _note_health("coverr", f"request failed: {str(e)[:90]}")
         print(f"  ! coverr: {e}")
+        return out
+    if r is not None and r.status_code >= 400:
+        _note_health("coverr", f"HTTP {r.status_code} — key rejected, expired or out of quota")
+        print(f"  ! coverr: HTTP {r.status_code} {r.text[:120]}")
+    else:
+        _note_health("coverr", "")
     return out
 
 def search_wikimedia(query, page):

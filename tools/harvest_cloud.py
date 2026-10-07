@@ -77,6 +77,19 @@ def owned_for(theme, lib):
             n += 1
     return n
 
+def _log(ths, thin, assets, added, sick=""):
+    """One line per run so the week's stocking can be tracked without reading Actions logs."""
+    brands = {}
+    for a in assets[-added:] if added else []:
+        k = a.get("sector") or a.get("brand") or "?"
+        brands[k] = brands.get(k, 0) + 1
+    with open(ROOT / "library" / "harvest_log.jsonl", "a") as fh:
+        fh.write(json.dumps({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                             "added": added, "themes": len(ths), "thin": len(thin),
+                             "library": len(assets), "by_sector": brands,
+                             "by_brand": brands, "sources": sick or "ok"}) + "\n")
+
+
 def main():
     # A contradictory sector entry does not crash a gather, it quietly wastes one: the
     # harvester shops for footage the same sector's never-list then throws away. Refuse
@@ -179,16 +192,25 @@ def main():
             cf.write_text("# Credits — shared library\n\n| source | title | author | license | page |\n|---|---|---|---|---|\n")
         with open(cf, "a") as fh: fh.write("\n".join(credits) + "\n")
     print(f"HARVESTED={added}  library now {len(assets)} assets")
-    # one line per run so the week's stocking can be tracked without reading Actions logs
-    log = ROOT / "library" / "harvest_log.jsonl"
-    brands = {}
-    for a in assets[-added:] if added else []:
-        k = a.get("sector") or a.get("brand") or "?"
-        brands[k] = brands.get(k, 0) + 1
-    with open(log, "a") as fh:
-        fh.write(json.dumps({"ts": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "added": added,
-                             "themes": len(ths), "thin": len(thin), "library": len(assets),
-                             "by_sector": brands, "by_brand": brands}) + "\n")
+
+    # A green run that stocked nothing is the failure mode that hid a two-week outage:
+    # the stock keys stopped answering, every source returned an empty list, and the run
+    # exited 0 with "HARVESTED=0" looking exactly like "the shelf is full". If there was
+    # work to do and a source is not answering, say so and FAIL, so it shows up red.
+    sick = tb.health_report()
+    if sick:
+        print(f"! sources not answering — {sick}")
+    if added == 0 and thin:
+        print(f"! {len(thin)} theme(s) still need stock and this run added nothing.")
+        if sick:
+            print("::error::harvest stocked nothing because the stock sources are not "
+                  f"answering — {sick}. Check the repo secrets PEXELS_API_KEY, "
+                  "PIXABAY_API_KEY and COVERR_API_KEY (expired, revoked or out of quota).")
+            _log(ths, thin, assets, added, sick)
+            sys.exit(1)
+        print("  (sources answered normally, so the thin themes simply had no new hits)")
+    _log(ths, thin, assets, added, sick)
+
 
 if __name__ == "__main__":
     main()
