@@ -36,8 +36,31 @@ class ReleaseFull(Exception):
 
 
 def _release_by_tag(tag):
-    r = requests.get(f"{API}/repos/{REPO}/releases/tags/{tag}", headers=_h(), timeout=60)
-    return r.json() if r.status_code == 200 else None
+    """Look a release up, distinguishing "not there" from "could not ask".
+
+    Returning None for a rate-limited 403 was a trap: the caller read it as "this release
+    does not exist", tried to create one whose tag was already taken, and GitHub's 422
+    came back through raise_for_status to kill the whole run. A gather hammering the
+    releases API across nineteen beats hits that secondary limit routinely.
+    """
+    h = _h()            # a missing token is not transient — let it say so immediately
+    for i in range(5):
+        try:
+            r = requests.get(f"{API}/repos/{REPO}/releases/tags/{tag}", headers=h, timeout=60)
+        except Exception as e:
+            print(f"    release lookup network error ({tag}): {str(e)[:70]}")
+            time.sleep(10 * (i + 1)); continue
+        if r.status_code == 200:
+            return r.json()
+        if r.status_code == 404:
+            return None                                  # genuinely not there
+        if r.status_code in (403, 429) or r.status_code >= 500:
+            wait = int(r.headers.get("Retry-After") or 0) or 30 * (i + 1)
+            print(f"    release lookup {r.status_code} ({tag}) — waiting {wait}s")
+            time.sleep(wait); continue
+        print(f"    release lookup {r.status_code} ({tag}): {r.text[:100]}")
+        return None
+    raise RuntimeError(f"could not reach the releases API for {tag} after 5 tries")
 
 
 def _create_release(tag, slug):
@@ -45,6 +68,12 @@ def _create_release(tag, slug):
         "tag_name": tag, "name": f"Media — {slug}" + ("" if tag == f"media-{slug}" else f" ({tag.rsplit('-', 1)[-1]})"),
         "body": f"480p previews, thumbnails and judge strips for the {slug} cockpit card. "
                 "Kept out of git so Pages deploys stay small. Releases are sharded at 1,000 assets."})
+    if r.status_code == 422:
+        # Already exists — another worker created it, or a lookup was rate-limited into
+        # looking like a miss. Take the one that is there rather than dying on the clash.
+        rel = _release_by_tag(tag)
+        if rel:
+            return rel
     r.raise_for_status()
     return r.json()
 
