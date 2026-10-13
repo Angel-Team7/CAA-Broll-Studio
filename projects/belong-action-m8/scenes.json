@@ -2779,8 +2779,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a couple steps out of their car and checks a map on a desert road",
+     "violation": "",
+     "shoot": "pexels-desertroad-mapcar",
+     "score": 5.65,
+     "rank": 5,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V23",
@@ -2801,8 +2809,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a hand adjusts knobs on a dark DJ mixing console",
+     "violation": "dj",
+     "shoot": "pexels-djmixer-hand",
+     "score": 1.3,
+     "rank": 38,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V24",
@@ -2823,8 +2839,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a hand turns knobs on a dark DJ mixing console",
+     "violation": "dj",
+     "shoot": "pexels-djmixer-hand",
+     "score": 1.3,
+     "rank": 39,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V25",
@@ -2845,8 +2869,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a hand adjusts dials on a dark DJ mixing console",
+     "violation": "dj",
+     "shoot": "pexels-djmixer-hand",
+     "score": 1.3,
+     "rank": 40,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V26",
@@ -2867,8 +2899,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "three friends look together at a subway line map",
+     "violation": "",
+     "shoot": "pexels-subwaymap-friends",
+     "score": 3.65,
+     "rank": 28,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V27",
@@ -2889,8 +2929,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a couple checks a paper map on a cobblestone village street",
+     "violation": "",
+     "shoot": "pexels-cobblestone-mapcouple",
+     "score": 7.65,
+     "rank": 2,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V28",
@@ -2911,8 +2959,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a hand moves knobs on a dark DJ mixing console",
+     "violation": "dj",
+     "shoot": "pexels-djmixer-hand",
+     "score": 1.3,
+     "rank": 41,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V29",
@@ -2933,8 +2989,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a hand touches knobs on a dark DJ mixing console",
+     "violation": "dj",
+     "shoot": "pexels-djmixer-hand",
+     "score": 1.3,
+     "rank": 42,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V30",
@@ -2955,8 +3019,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a woman reads a book sitting alone in a sunny meadow",
+     "violation": "",
+     "shoot": "pexels-meadow-readingwoman",
+     "score": 7.65,
+     "rank": 3,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V31",
@@ -2977,8 +3049,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a stylish couple reads a map beside a parked scooter",
+     "violation": "",
+     "shoot": "pexels-scooter-mapcouple",
+     "score": 5.3,
+     "rank": 10,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V32",
@@ -2999,8 +3079,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 3,
+     "caption": "two people in ski gear look at a map against a plain backdrop",
+     "violation": "",
+     "shoot": "pexels-skigear-mapstudio",
+     "score": 4.3,
+     "rank": 20,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V33",
@@ -3021,8 +3109,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:36:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman unrolls a world map on the floor beside a suitcase",
+     "violation": "",
+     "shoot": "pexels-floormap-suitcase",
+     "score": 4.0,
+     "rank": 23,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V34",
@@ -3043,8 +3139,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a woman looks through papers while sitting outdoors on a mat",
+     "violation": "",
+     "shoot": "pexels-outdoor-papersread",
+     "score": 5.35,
+     "rank": 8,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V35",
@@ -3065,8 +3169,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a long glass-railed corridor sits empty under skylights",
+     "violation": "",
+     "shoot": "pexels-corridor-modernglass",
+     "score": 2.65,
+     "rank": 33,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V36",
@@ -3087,8 +3199,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a green cup sits on an open book in soft morning light",
+     "violation": "",
+     "shoot": "pixabay-cup-openbook",
+     "score": 5.35,
+     "rank": 9,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V37",
@@ -3109,8 +3229,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a man swims alone in a pool beside a sandy beach",
+     "violation": "",
+     "shoot": "pixabay-pool-soloswim",
+     "score": 4.0,
+     "rank": 24,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V38",
@@ -3124,15 +3252,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S04__strip__belong-action-m8-S04-V38.strip.jpg",
      "title": "swimming pool  swimmers  swimming  pool  water sports  summer  water  sport  aerial view",
      "query": "empty swimming pool morning",
-     "shot": "B",
+     "shot": "",
      "duration": 23,
      "src_id": "78059",
      "download_url": "https://cdn.pixabay.com/video/2021/06/17/78059-564490562_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an aerial view shows a crowded pool full of swimmers",
+     "violation": "crowd",
+     "shoot": "pixabay-pool-crowdaerial",
+     "score": 0.65,
+     "rank": 44,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V39",
@@ -3153,8 +3289,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "an aerial view shows a riverside park and distant pool",
+     "violation": "",
+     "shoot": "pixabay-aerial-riverpark",
+     "score": 2.35,
+     "rank": 36,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V40",
@@ -3168,15 +3312,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S04__strip__belong-action-m8-S04-V40.strip.jpg",
      "title": "library  books  reading  read  literature",
      "query": "woman reading outdoors relaxing",
-     "shot": "E",
+     "shot": "",
      "duration": 7,
      "src_id": "38918",
      "download_url": "https://cdn.pixabay.com/video/2020/05/12/38918-418897629_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:37:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a blurred pan moves across crowded library bookshelves",
+     "violation": "",
+     "shoot": "pixabay-library-blurpan",
+     "score": 0.7,
+     "rank": 43,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V41",
@@ -3197,8 +3349,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:38:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a lone swimmer moves across a calm open sea",
+     "violation": "",
+     "shoot": "pixabay-sea-loneswimmer",
+     "score": 3.05,
+     "rank": 32,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V42",
@@ -3219,8 +3379,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:38:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "an empty indoor lap pool sits still under hanging bunting",
+     "violation": "",
+     "shoot": "pixabay-indoorpool-empty",
+     "score": 5.3,
+     "rank": 11,
+     "judged_at": "2026-10-13T17:57:27Z"
     },
     {
      "id": "belong-action-m8-S04-V43",
@@ -3241,8 +3409,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:38:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a hand turns the pages of an open book in warm light",
+     "violation": "",
+     "shoot": "pixabay-book-pageturn",
+     "score": 4.35,
+     "rank": 19,
+     "judged_at": "2026-10-13T17:57:27Z"
     }
    ],
    "shots": [
@@ -3290,75 +3466,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-07T15:44:24Z"
   },
   {
    "id": "S05",
@@ -4047,8 +4155,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a patient waits at a dental clinic reception desk",
+     "violation": "hospital",
+     "shoot": "pexels-dental-reception",
+     "score": 1.3,
+     "rank": 26,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V23",
@@ -4062,14 +4178,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V23.strip.jpg",
      "title": "waiter attending to the customers",
      "query": "waiter serving guest eye contact smile",
-     "shot": "B",
+     "shot": "D",
      "src_id": "5529327",
      "download_url": "https://videos.pexels.com/video-files/5529327/5529327-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a waiter in an apron attends to seated guests at a table",
+     "violation": "",
+     "shoot": "pexels-staged-waitertable",
+     "score": 2.05,
+     "rank": 21,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V24",
@@ -4083,14 +4207,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V24.strip.jpg",
      "title": "woman eating breakfast and taking morning pills",
      "query": "two people talking wooden table coffee morning",
-     "shot": "D",
+     "shot": "",
      "src_id": "11125102",
      "download_url": "https://videos.pexels.com/video-files/11125102/11125102-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a woman eats breakfast and takes a morning pill",
+     "violation": "",
+     "shoot": "pexels-breakfast-pills",
+     "score": 1.05,
+     "rank": 31,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V25",
@@ -4110,8 +4242,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "two men talk over coffee at a kitchen counter",
+     "violation": "",
+     "shoot": "pexels-kitchen-coffeetalk",
+     "score": 2.7,
+     "rank": 11,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V26",
@@ -4125,14 +4265,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V26.strip.jpg",
      "title": "a person writing on a paper plate with a pen",
      "query": "hand writing in reception logbook",
-     "shot": "E",
+     "shot": "C",
      "src_id": "20559734",
      "download_url": "https://videos.pexels.com/video-files/20559734/20559734-hd_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand writes on a form at a colorful outdoor table",
+     "violation": "",
+     "shoot": "pexels-outdoor-formwrite",
+     "score": 2.7,
+     "rank": 12,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V27",
@@ -4146,14 +4294,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V27.strip.jpg",
      "title": "close up of hand writing in notebook",
      "query": "hand writing in reception logbook",
-     "shot": "E",
+     "shot": "C",
      "src_id": "31948465",
      "download_url": "https://videos.pexels.com/video-files/31948465/13611447_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand writes in a notebook close up",
+     "violation": "",
+     "shoot": "pexels-notebook-write",
+     "score": 2.7,
+     "rank": 13,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V28",
@@ -4167,14 +4323,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V28.strip.jpg",
      "title": "a woman filling up the form",
      "query": "empty hotel reception bell",
-     "shot": "A",
+     "shot": "C",
      "src_id": "6192881",
      "download_url": "https://videos.pexels.com/video-files/6192881/6192881-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a woman checks her phone standing at a reception counter",
+     "violation": "",
+     "shoot": "pexels-reception-phonecheck",
+     "score": 5.0,
+     "rank": 3,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V29",
@@ -4188,14 +4352,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V29.strip.jpg",
      "title": "cup being placed on pyrex plate",
      "query": "empty hotel reception bell",
-     "shot": "A",
+     "shot": "",
      "src_id": "6278839",
      "download_url": "https://videos.pexels.com/video-files/6278839/6278839-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:38:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a white coffee cup is set down on a saucer in a cafe",
+     "violation": "",
+     "shoot": "pexels-cafe-cupsaucer",
+     "score": 2.05,
+     "rank": 22,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V30",
@@ -4209,15 +4381,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V30.strip.jpg",
      "title": "healthcare reception interaction at clinic",
      "query": "two staff talking at desk",
-     "shot": "D",
+     "shot": "B",
      "duration": 12,
      "src_id": "30510691",
      "download_url": "https://videos.pexels.com/video-files/30510691/13072014_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:38:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a worker in medical scrubs hands a form to a visitor at a clinic desk",
+     "violation": "hospital",
+     "shoot": "pexels-clinic-scrubsdesk",
+     "score": 1.95,
+     "rank": 23,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V31",
@@ -4238,8 +4418,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:38:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "a man in a suit checks his watch while seated with a briefcase",
+     "violation": "suit",
+     "shoot": "pexels-suitman-watchcheck",
+     "score": 4.55,
+     "rank": 6,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V32",
@@ -4253,15 +4441,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V32.strip.jpg",
      "title": "people at the airport",
      "query": "person waiting checking time",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "14936151",
      "download_url": "https://videos.pexels.com/video-files/14936151/14936151-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a crowded airport terminal is full of seated travelers",
+     "violation": "crowd",
+     "shoot": "pexels-airport-crowdseated",
+     "score": 0.65,
+     "rank": 35,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V33",
@@ -4282,8 +4478,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "an elegant older man reads a map beside his suitcase in a corridor",
+     "violation": "",
+     "shoot": "pexels-corridor-mapman",
+     "score": 3.65,
+     "rank": 8,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V34",
@@ -4304,8 +4508,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two coworkers talk across a desk in a glass-walled office",
+     "violation": "office",
+     "shoot": "pexels-office-deskTalk",
+     "score": 1.3,
+     "rank": 27,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V35",
@@ -4326,8 +4538,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two businesswomen talk across a boardroom table",
+     "violation": "boardroom",
+     "shoot": "pexels-boardroom-talk",
+     "score": 1.3,
+     "rank": 28,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V36",
@@ -4341,15 +4561,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V36.strip.jpg",
      "title": "experience the bustling terminal at bangkok airport",
      "query": "person waiting checking time",
-     "shot": "C",
+     "shot": "",
      "duration": 6,
      "src_id": "39290124",
      "download_url": "https://videos.pexels.com/video-files/39290124/16718690_1920_1080_120fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "travelers with luggage move through a crowded airport terminal",
+     "violation": "crowd",
+     "shoot": "pexels-airport-crowdterminal",
+     "score": 0.65,
+     "rank": 36,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V37",
@@ -4370,8 +4598,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "two women review work on a computer in a bright office",
+     "violation": "office",
+     "shoot": "pexels-office-computerwork",
+     "score": 1.3,
+     "rank": 29,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V38",
@@ -4385,15 +4621,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V38.strip.jpg",
      "title": "person teaching the students",
      "query": "person waiting checking time",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "5200024",
      "download_url": "https://videos.pexels.com/video-files/5200024/5200024-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a teacher checks on students writing at classroom desks",
+     "violation": "",
+     "shoot": "pexels-classroom-teacher",
+     "score": 1.7,
+     "rank": 24,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V39",
@@ -4414,8 +4658,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:39:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "a man waits alone looking up in a dim subway station",
+     "violation": "",
+     "shoot": "pexels-subway-waitman",
+     "score": 4.65,
+     "rank": 5,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V40",
@@ -4429,15 +4681,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V40.strip.jpg",
      "title": "man and woman discussing about paperwork",
      "query": "two staff talking at desk",
-     "shot": "D",
+     "shot": "",
      "duration": 17,
      "src_id": "7687712",
      "download_url": "https://videos.pexels.com/video-files/7687712/7687712-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a man gestures angrily at a woman during a tense exchange outdoors",
+     "violation": "shouting argument",
+     "shoot": "pexels-outdoor-argument",
+     "score": 1.3,
+     "rank": 30,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V41",
@@ -4458,8 +4718,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "two women shake hands across an office desk with a keyboard",
+     "violation": "handshake",
+     "shoot": "pexels-office-handshake",
+     "score": 0.65,
+     "rank": 37,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V42",
@@ -4480,8 +4748,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 6,
+     "caption": "a receptionist warmly checks in two backpackers at a hostel desk",
+     "violation": "",
+     "shoot": "pexels-hostel-backpackercheckin",
+     "score": 7.3,
+     "rank": 1,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V43",
@@ -4502,8 +4778,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a receptionist greets two travelers with backpacks at a desk",
+     "violation": "",
+     "shoot": "pexels-hostel-travelergreet",
+     "score": 6.3,
+     "rank": 2,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V44",
@@ -4517,15 +4801,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V44.strip.jpg",
      "title": "hearts  loyalty  togetherness  love  symbol  pulse  heartbeat  love greeting  connectedness  in love  relationship  partnership  united",
      "query": "receptionist greeting guest",
-     "shot": "B",
+     "shot": "",
      "duration": 22,
      "src_id": "13789",
      "download_url": "https://cdn.pixabay.com/video/2018/01/14/13789-251868032_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "two glittering animated hearts spin against a dark background",
+     "violation": "",
+     "shoot": "pixabay-heartsanim-graphic",
+     "score": 0.0,
+     "rank": 45,
+     "judged_at": "2026-10-13T17:58:54Z"
     },
     {
      "id": "belong-action-m8-S05-V45",
@@ -4539,15 +4831,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/S05__strip__belong-action-m8-S05-V45.strip.jpg",
      "title": "christmas  greeting  holiday",
      "query": "receptionist greeting guest",
-     "shot": "B",
+     "shot": "",
      "duration": 41,
      "src_id": "144109",
      "download_url": "https://cdn.pixabay.com/video/2022/12/24/144109-784169749_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:40:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a 3D snow globe holds a snowman and Christmas tree",
+     "violation": "",
+     "shoot": "pixabay-snowglobe-christmas",
+     "score": 0.0,
+     "rank": 46,
+     "judged_at": "2026-10-13T17:58:54Z"
     }
    ],
    "shots": [
@@ -4597,72 +4897,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-10-13T17:58:59Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -6985,70 +7222,7 @@
    "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
+    "at": "2026-10-13T17:58:59Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   }

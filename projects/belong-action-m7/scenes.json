@@ -3803,8 +3803,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "an older man laughs warmly while talking in a leafy garden",
+     "violation": "",
+     "shoot": "pexels-garden-elderlytalk",
+     "score": 5.7,
+     "rank": 8,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V25",
@@ -3818,14 +3826,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V25.strip.jpg",
      "title": "two man and a woman drinking beer on terrace",
      "query": "guest and staff talking garden terrace",
-     "shot": "C",
+     "shot": "",
      "src_id": "5054247",
      "download_url": "https://videos.pexels.com/video-files/5054247/5054247-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "three friends drink beer on an urban rooftop terrace",
+     "violation": "",
+     "shoot": "pexels-rooftop-beer",
+     "score": 1.7,
+     "rank": 30,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V26",
@@ -3839,14 +3855,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V26.strip.jpg",
      "title": "a person pouring wine in glasses",
      "query": "wine poured into glass rustic table",
-     "shot": "B",
+     "shot": "",
      "src_id": "10508548",
      "download_url": "https://videos.pexels.com/video-files/10508548/10508548-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand pours wine into glasses on a styled tabletop",
+     "violation": "",
+     "shoot": "pexels-winepour-studio",
+     "score": 2.05,
+     "rank": 28,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V27",
@@ -3860,14 +3884,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V27.strip.jpg",
      "title": "a chef is preparing food on plates in the kitchen",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "D",
+     "shot": "",
      "src_id": "19905872",
      "download_url": "https://videos.pexels.com/video-files/19905872/19905872-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a chef garnishes plated breakfast dishes in a kitchen",
+     "violation": "",
+     "shoot": "pexels-chef-plating",
+     "score": 1.4,
+     "rank": 31,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V28",
@@ -3887,8 +3919,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand pours champagne into a glass at a dinner table",
+     "violation": "",
+     "shoot": "pexels-champagne-pour",
+     "score": 3.0,
+     "rank": 22,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V29",
@@ -3902,14 +3942,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V29.strip.jpg",
      "title": "a person putting cream on a small plate",
      "query": "waiter carrying plate back to kitchen",
-     "shot": "D",
+     "shot": "",
      "src_id": "4555803",
      "download_url": "https://videos.pexels.com/video-files/4555803/4555803-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a hand places whipped cream on a ceramic plate",
+     "violation": "",
+     "shoot": "pexels-cream-plate",
+     "score": 1.4,
+     "rank": 32,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V30",
@@ -3929,8 +3977,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman pays with a bank card at a hotel reception desk",
+     "violation": "",
+     "shoot": "pexels-reception-cardpay",
+     "score": 4.0,
+     "rank": 16,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V31",
@@ -3950,8 +4006,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:33:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a patient waits at a dental clinic reception desk",
+     "violation": "hospital",
+     "shoot": "pexels-dental-reception",
+     "score": 0.65,
+     "rank": 38,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V32",
@@ -3972,8 +4036,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:33:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two women chat while walking with a backpack through a park",
+     "violation": "",
+     "shoot": "pexels-park-backpacktalk",
+     "score": 6.0,
+     "rank": 6,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V33",
@@ -3994,8 +4066,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:33:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "two women walk arm in arm away through a sunny park",
+     "violation": "",
+     "shoot": "pexels-park-armwalk",
+     "score": 6.0,
+     "rank": 7,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V34",
@@ -4016,8 +4096,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:33:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a couple walks and looks up along an urban street",
+     "violation": "",
+     "shoot": "pexels-streetwalk-couple",
+     "score": 3.0,
+     "rank": 23,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V35",
@@ -4038,8 +4126,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "two women walk through a park holding iced drinks",
+     "violation": "",
+     "shoot": "pexels-park-iceddrinks",
+     "score": 5.0,
+     "rank": 13,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V36",
@@ -4060,8 +4156,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a couple walks together across a muddy farm field",
+     "violation": "",
+     "shoot": "pexels-farmfield-couplewalk",
+     "score": 6.35,
+     "rank": 5,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V37",
@@ -4082,8 +4186,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "two people walk under an umbrella along a forest path",
+     "violation": "",
+     "shoot": "pexels-forest-umbrellawalk",
+     "score": 5.35,
+     "rank": 10,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V38",
@@ -4104,8 +4216,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "water pours into a glass in close-up against a dark background",
+     "violation": "",
+     "shoot": "pexels-waterpour-darkbg",
+     "score": 6.65,
+     "rank": 4,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V39",
@@ -4119,15 +4239,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V39.strip.jpg",
      "title": "back view of people walking in the aerobridge",
      "query": "guest arriving with luggage",
-     "shot": "A",
+     "shot": "D",
      "duration": 14,
      "src_id": "3736790",
      "download_url": "https://videos.pexels.com/video-files/3736790/3736790-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "travelers pull luggage through an airport jet bridge",
+     "violation": "airport arrivals",
+     "shoot": "pexels-jetbridge-luggage",
+     "score": 1.3,
+     "rank": 34,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V40",
@@ -4148,8 +4276,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman pulls a teal suitcase across a sunlit lobby floor",
+     "violation": "",
+     "shoot": "pexels-lobby-tealsuitcase",
+     "score": 5.65,
+     "rank": 9,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V41",
@@ -4170,8 +4306,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "water pours into a glass beside daisies on a patterned runner",
+     "violation": "",
+     "shoot": "pexels-waterpour-daisytable",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V42",
@@ -4185,15 +4329,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V42.strip.jpg",
      "title": "woman with suitcase while walking on the lobby",
      "query": "guest arriving with luggage",
-     "shot": "A",
+     "shot": "D",
      "duration": 18,
      "src_id": "7820834",
      "download_url": "https://videos.pexels.com/video-files/7820834/7820834-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked woman pulls a suitcase through a hotel lobby",
+     "violation": "mask",
+     "shoot": "pexels-lobby-maskedwoman",
+     "score": 1.3,
+     "rank": 35,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V43",
@@ -4207,15 +4359,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V43.strip.jpg",
      "title": "woman in a hotel talking to the receptionist",
      "query": "guest arriving with luggage",
-     "shot": "A",
+     "shot": "E",
      "duration": 29,
      "src_id": "7820472",
      "download_url": "https://videos.pexels.com/video-files/7820472/7820472-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:34:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a masked woman in a hat walks toward a hotel reception counter",
+     "violation": "mask",
+     "shoot": "pexels-reception-maskedwoman",
+     "score": 0.65,
+     "rank": 39,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V44",
@@ -4229,15 +4389,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V44.strip.jpg",
      "title": "woman carrying her luggage while walking",
      "query": "guest arriving with luggage",
-     "shot": "A",
+     "shot": "D",
      "duration": 14,
      "src_id": "7820811",
      "download_url": "https://videos.pexels.com/video-files/7820811/7820811-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a masked woman in a trench coat walks with a suitcase on a street",
+     "violation": "mask",
+     "shoot": "pexels-street-maskedtrench",
+     "score": 1.3,
+     "rank": 36,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V45",
@@ -4258,8 +4426,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "suitcases move along an airport baggage claim carousel",
+     "violation": "airport arrivals",
+     "shoot": "pexels-baggageclaim-carousel",
+     "score": 0.65,
+     "rank": 40,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V46",
@@ -4280,8 +4456,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "masked travelers walk through an airport terminal corridor",
+     "violation": "airport arrivals",
+     "shoot": "pixabay-airport-maskedwalk",
+     "score": 0.65,
+     "rank": 41,
+     "judged_at": "2026-10-13T17:56:17Z"
     },
     {
      "id": "belong-action-m7-S05-V47",
@@ -4295,15 +4479,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/S05__strip__belong-action-m7-S05-V47.strip.jpg",
      "title": "walk  slow  legs  feet  shoes  trainers  pants  trousers  walking  alone  peaceful  stroll  saunter  dark  black background  coming  welcome  arriving  arrive  close",
      "query": "guest arriving luggage",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "47128",
      "download_url": "https://cdn.pixabay.com/video/2020/08/14/47128-450995496_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:35:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "close-up feet walk in sneakers against a black background",
+     "violation": "",
+     "shoot": "pixabay-feet-blackbg",
+     "score": 2.35,
+     "rank": 26,
+     "judged_at": "2026-10-13T17:56:17Z"
     }
    ],
    "shots": [
@@ -4351,75 +4543,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-07T15:44:24Z"
   },
   {
    "id": "S06",
