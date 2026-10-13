@@ -35,8 +35,8 @@
       "done": false,
       "reason": "shots-rewritten",
       "error": "TypeError: '>' not supported between instances of 'str' and 'int'",
-      "attempts": 1,
-      "last_attempt": "2026-10-13T17:22:11Z"
+      "attempts": 2,
+      "last_attempt": "2026-10-13T17:41:06Z"
     },
     "S05": {
       "requested": "2026-09-23T14:44:02Z",

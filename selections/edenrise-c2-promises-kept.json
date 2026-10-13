@@ -8,38 +8,50 @@
     "S01": {
       "requested": "2026-10-13T15:49:30Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T17:47:22Z",
+      "added": 24
     },
     "S02": {
       "requested": "2026-10-13T15:50:00Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T17:50:00Z",
+      "added": 21
     },
     "S03": {
       "requested": "2026-10-13T15:50:30Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T17:52:08Z",
+      "added": 21
     },
     "S04": {
       "requested": "2026-10-13T15:51:00Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T17:55:17Z",
+      "added": 24
     },
     "S05": {
       "requested": "2026-10-13T15:51:30Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T17:58:15Z",
+      "added": 24
     },
     "S06": {
       "requested": "2026-10-13T15:52:00Z",
       "note": "",
-      "done": false,
-      "reason": "first-gather"
+      "done": true,
+      "reason": "first-gather",
+      "fulfilled": "2026-10-13T18:01:26Z",
+      "added": 22
     }
   }
 }
