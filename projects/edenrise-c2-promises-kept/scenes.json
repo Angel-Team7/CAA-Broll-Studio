@@ -1,0 +1,355 @@
+{
+ "slug": "edenrise-c2-promises-kept",
+ "title": "Edenrise C2 — M9: Promises Kept",
+ "scenes": [
+  {
+   "id": "S01",
+   "script_line": "What is your word really worth? Not what you say it's worth. Not what you hope others believe it's worth. But what is it worth… to the people who depend on it? Think about that for a moment. Every time you make a promise, something invisible happens. Someone begins arranging a part of their life around your words. Their time. Their energy. Their expectations. And often, their trust. But there's something even more important happening beneath the surface. Something that shapes the quality of every relationship you build. And it begins with the smallest promises.",
+   "visual_direction": "THE INVISIBLE PROMISE — A beautifully crafted stone bridge at sunrise. Close-up of two people shaking hands. Someone glancing at their phone, waiting for a message that never arrives.",
+   "onscreen": "",
+   "t": 0.0,
+   "end": 40.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a stone footbridge on the grounds in warm early light",
+     "pexels": "stone footbridge garden morning",
+     "pixabay": "stone footbridge garden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two workers shaking hands outdoors after agreeing something",
+     "pexels": "workers shaking hands outdoors",
+     "pixabay": "workers shaking hands outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a worker checking his phone while waiting by a gate",
+     "pexels": "worker checking phone waiting",
+     "pixabay": "worker checking phone outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "grounds crew walking to work along a path in morning light",
+     "pexels": "workers walking path morning",
+     "pixabay": "workers walking path morning",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "a hand resting on a weathered wooden gate",
+     "pexels": "hand on wooden gate",
+     "pixabay": "hand wooden gate",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "intense stare into camera",
+    "hoodie",
+    "crowd of workers",
+    "business suit",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  },
+  {
+   "id": "S02",
+   "script_line": "\"I'll call you tomorrow.\" \"I'll have it ready by Friday.\" \"I'll be there.\" Such simple words. Yet when those words aren't honoured, the consequences extend far beyond the promise itself. Someone waits. Someone rearranges their day. Someone puts their own plans on hold. And perhaps the deepest cost isn't the inconvenience. It's the unspoken message: \"My time matters more than yours.\" Now, that may never have been your intention. Life happens. Circumstances change. We make mistakes. But here's the distinction that changes everything: Breaking a commitment isn't always a failure of character. Refusing to take responsibility for it can become one.",
+   "visual_direction": "THE TRUE COST OF A BROKEN WORD — A colleague preparing an empty meeting room. An unanswered message. Someone rearranging appointments. A parent waiting at a window.",
+   "onscreen": "",
+   "t": 40.0,
+   "end": 90.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker waiting alone outdoors beside his tools",
+     "pexels": "worker waiting with tools",
+     "pixabay": "worker waiting tools outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a phone lying unanswered on a wooden workbench",
+     "pexels": "phone on wooden workbench",
+     "pixabay": "phone wooden bench",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "a worker checking the time on his watch",
+     "pexels": "worker checking his watch",
+     "pixabay": "worker checking watch time",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "an unfinished job left in the garden at the end of the day",
+     "pexels": "unfinished garden work evening",
+     "pixabay": "unfinished garden work",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "garden tools left out on the ground, nobody there",
+     "pexels": "garden tools left on ground",
+     "pixabay": "garden tools ground alone",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "office",
+    "celebration",
+    "crowd",
+    "thumbs up",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  },
+  {
+   "id": "S03",
+   "script_line": "Imagine a different response. You realize you cannot deliver what you promised. Instead of disappearing, delaying, or waiting to be confronted, you reach out. \"I made a commitment to you. I haven't fulfilled it. I'm sorry. Here's what happened, and here's what I'm going to do.\" No elaborate excuses. No shifting blame. Just honesty, responsibility, and a genuine effort to make things right. Researchers have a name for the alignment between our words and actions. Behavioural integrity. And studies of trust show that apologies can help repair damage, while consistent trustworthy actions are essential to rebuilding confidence. Because trust doesn't require perfection. It requires truthfulness. And the courage to face the moments when we've fallen short. But what happens when we stop doing even that?",
+   "visual_direction": "THE COURAGE OF ACCOUNTABILITY — A person stops working, picks up their phone and makes a difficult call. Cut to a sincere face-to-face conversation.",
+   "onscreen": "",
+   "t": 90.0,
+   "end": 135.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a worker stops what he is doing to make a phone call outdoors",
+     "pexels": "worker making phone call outdoors",
+     "pixabay": "worker phone call outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two workers talking seriously face to face",
+     "pexels": "two workers talking seriously",
+     "pixabay": "two workers talking serious",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "a worker listening with a concerned expression",
+     "pexels": "worker listening serious face",
+     "pixabay": "worker listening face",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a foreman explaining something plainly to one worker",
+     "pexels": "foreman talking to worker",
+     "pixabay": "foreman talking worker",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "a hand placed on a colleague's shoulder",
+     "pexels": "hand on shoulder support",
+     "pixabay": "hand shoulder support",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office",
+    "boardroom",
+    "argument shouting",
+    "smiling crew",
+    "handshake deal",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  },
+  {
+   "id": "S04",
+   "script_line": "Imagine a magnificent building. Beautiful architecture. Strong walls. Impressive foundations. From the outside, everything appears secure. But hidden within its structure, termites have begun quietly eating away at the timber. One tiny opening. Then another. And another. For years, the building might appear completely sound. Until one day, under pressure, the structure can no longer carry the weight it was designed to hold. Trust can erode in much the same way. One forgotten commitment. One unanswered message. One broken promise nobody acknowledges. And slowly, something begins to change. People stop relying on each other. They stop believing deadlines. They start protecting their own time because they can no longer trust others to respect it. And eventually, the behaviour spreads. \"If they don't keep their word, why should I?\" A family, a friendship, a team, even an entire organization can begin to lose its invisible foundation. Not through one dramatic betrayal. But through a thousand small moments of indifference. And the real tragedy? The damage may be happening long before anyone notices.",
+   "visual_direction": "THE CONTRAST: THE INVISIBLE COLLAPSE — Cinematic cross-section of a magnificent timber structure. Tiny insects begin consuming the hidden supports. Hairline cracks spread through the beams. The building still looks beautiful from outside.",
+   "onscreen": "",
+   "t": 135.0,
+   "end": 195.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a crack running through a wooden beam",
+     "pexels": "crack in wooden beam",
+     "pixabay": "crack wooden beam",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "a carpenter inspecting a timber post closely",
+     "pexels": "carpenter inspecting wooden post",
+     "pixabay": "carpenter inspecting wood post",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "sawdust gathered at the foot of a timber post",
+     "pexels": "sawdust at base of post",
+     "pixabay": "sawdust wooden post ground",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a timber frame structure that looks sound from outside",
+     "pexels": "timber frame structure outdoors",
+     "pixabay": "timber frame structure",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "a hand running along weathered split wood grain",
+     "pexels": "hand on weathered wood grain",
+     "pixabay": "hand weathered wood grain",
+     "scale": "close"
+    },
+    {
+     "id": "F",
+     "text": "a worker testing a loose plank with his weight",
+     "pexels": "worker testing loose wooden plank",
+     "pixabay": "worker loose plank wood",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "abandoned building",
+    "demolition",
+    "rubble",
+    "pest control advert",
+    "cgi animation",
+    "smiling crew",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  },
+  {
+   "id": "S05",
+   "script_line": "Now imagine the opposite. A world where people do what they say. Where commitments carry meaning. Where someone who makes a mistake acknowledges it before being asked. Where a promise isn't simply something spoken. It's something honoured. Think how much energy that frees. Less chasing. Less checking. Less second-guessing. More trust. More collaboration. More possibility. And something extraordinary happens within you. Every promise you honour reinforces your own identity. Your actions begin to align with your values. You become someone who doesn't merely speak about integrity. You live it. Not for recognition. But because your word has become an expression of who you choose to be.",
+   "visual_direction": "THE OPPOSITE: BECOMING SOMEONE OTHERS CAN TRUST — Reverse the decay. Craftspeople restore the damaged structure. Beams are reinforced. The building becomes strong. Transition to confident teams, warm human connections, promises honoured.",
+   "onscreen": "",
+   "t": 195.0,
+   "end": 245.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a carpenter repairing a timber beam",
+     "pexels": "carpenter repairing wooden beam",
+     "pixabay": "carpenter repairing beam wood",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "hands driving a screw into new timber",
+     "pexels": "hands screwing into timber",
+     "pixabay": "hands screw timber wood",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers lifting a beam into place together",
+     "pexels": "two workers lifting a beam",
+     "pixabay": "two workers lifting beam",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "a finished timber structure standing in the sun",
+     "pexels": "finished timber structure sunlight",
+     "pixabay": "timber structure finished sun",
+     "scale": "wide"
+    },
+    {
+     "id": "E",
+     "text": "a crew standing together looking at a finished job",
+     "pexels": "work crew finished job together",
+     "pixabay": "work crew finished together",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate team building",
+    "stock thumbs up",
+    "trophy",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  },
+  {
+   "id": "S06",
+   "script_line": "So perhaps the question isn't simply: \"Do I keep my promises?\" Perhaps the deeper question is: \"What happens to the people around me because of the way I honour my word?\" Do they feel respected? Can they depend on me? Does my presence create certainty… or uncertainty? Because every promise is an opportunity. To build trust. To show respect. To strengthen your integrity. And to become the kind of person whose words carry genuine weight. Your word is more than a promise. It's a reflection of your character. It's the foundation of your relationships. And it's one of the most powerful gifts of respect you can give another human being. Pause. Promises kept. Your word matters.",
+   "visual_direction": "THE FINAL INVITATION — Return to the stone bridge from the opening. Morning sunlight now illuminates the entire structure. People cross it confidently. Final image: two people clasping hands, then a wide cinematic shot of the bridge.",
+   "onscreen": "",
+   "t": 245.0,
+   "end": 280.0,
+   "timing_source": "estimated",
+   "clips": [],
+   "shots": [
+    {
+     "id": "A",
+     "text": "a stone footbridge in warm morning light",
+     "pexels": "stone footbridge morning light",
+     "pixabay": "stone footbridge light",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "workers crossing a footbridge on the grounds",
+     "pexels": "people crossing a footbridge",
+     "pixabay": "people crossing footbridge",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "two hands clasped firmly in agreement",
+     "pexels": "two hands clasped firmly",
+     "pixabay": "two hands clasped",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "a worker looking out calmly over the grounds",
+     "pexels": "worker looking over fields calm",
+     "pixabay": "worker looking over field",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "a garden path in warm light with one figure walking",
+     "pexels": "garden path person walking light",
+     "pixabay": "garden path person walking",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "business handshake in suits",
+    "crowd",
+    "logo animation",
+    "intense stare into camera",
+    "face masks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-13T15:49:06Z"
+  }
+ ]
+}

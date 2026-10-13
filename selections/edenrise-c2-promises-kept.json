@@ -1,0 +1,45 @@
+{
+  "project": "edenrise-c2-promises-kept",
+  "updated": "2026-10-13T15:49:30Z",
+  "ready": false,
+  "approved": {},
+  "needs_broll": {},
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-10-13T15:49:30Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S02": {
+      "requested": "2026-10-13T15:50:00Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S03": {
+      "requested": "2026-10-13T15:50:30Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S04": {
+      "requested": "2026-10-13T15:51:00Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S05": {
+      "requested": "2026-10-13T15:51:30Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    },
+    "S06": {
+      "requested": "2026-10-13T15:52:00Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather"
+    }
+  }
+}
