@@ -30,6 +30,7 @@ LIB_SLUG = "library"                                         # release tag: medi
 BUDGET = int(os.environ.get("HARVEST_BUDGET", "30"))        # new clips per run
 THIN_AT = int(os.environ.get("HARVEST_THIN_AT", "12"))      # themes with fewer owned videos get stocked
 PER_THEME = int(os.environ.get("HARVEST_PER_THEME", "3"))
+PAGE_SWEEP = int(os.environ.get("HARVEST_PAGE_SWEEP", "8"))  # runs sweep result pages 2..9
 
 def themes():
     """One theme per distinct beat across all cards, with its sector and sample words."""
@@ -132,10 +133,14 @@ def main():
             lst[:] = lst[off:] + lst[:off]
     thin = [t for pair in zip_longest(cards, seeds_t) for t in pair if t]
     nseed = sum(1 for t in thin if t.get("seed"))
+    # Page 2 of a theme is exhausted the moment we own it. Advance with the run counter so
+    # the search walks further into the results each time instead of re-reading one page.
+    page = 2 + (runs % PAGE_SWEEP)
     print(f"themes: {len(ths)} ({sum(1 for t in ths if t.get('seed'))} sector seeds) | "
           f"thin (<{THIN_AT} owned videos): {len(thin)} of which {nseed} seeds | "
-          f"run #{runs + 1}, rotated by {step} | budget {BUDGET}")
+          f"run #{runs + 1}, rotated by {step}, page {page} | budget {BUDGET}")
     added, credits = 0, []
+    looked = dupes = 0
     with tempfile.TemporaryDirectory() as td:
         for t in thin:
             if added >= BUDGET: break
@@ -145,11 +150,14 @@ def main():
                 if got >= PER_THEME or added >= BUDGET: break
                 for src in tb.SOURCES:
                     if got >= PER_THEME: break
-                    for c in src(q, 2):
+                    for c in src(q, page):
                         if got >= PER_THEME or added >= BUDGET:
                             break                 # budgets must bind inside the result loop too
                         key = f"{c['source']}:{c['src_id']}"; purl = (c.get("page_url") or "").rstrip("/")
-                        if key in seen or (purl and purl in seen): continue
+                        looked += 1
+                        if key in seen or (purl and purl in seen):
+                            dupes += 1
+                            continue
                         desc = (c.get("title") or "").strip()
                         if tb.blocked(f"{desc} {q}", t["brand"]): continue
                         if desc and not tb.has_signal(desc, t["brand"]): continue
@@ -208,7 +216,13 @@ def main():
                   "PIXABAY_API_KEY and COVERR_API_KEY (expired, revoked or out of quota).")
             _log(ths, thin, assets, added, sick)
             sys.exit(1)
-        print("  (sources answered normally, so the thin themes simply had no new hits)")
+        if looked and dupes / looked > 0.9:
+            print(f"  exhausted: {dupes} of {looked} results on page {page} are already on "
+                  f"the shelf. The sources are healthy — this sweep has simply been read. "
+                  f"Raise HARVEST_PAGE_SWEEP or give the thin themes new phrasings.")
+        else:
+            print(f"  (sources answered normally; {dupes} of {looked} results were already "
+                  f"owned, so the thin themes genuinely had no new hits)")
     _log(ths, thin, assets, added, sick)
 
 
