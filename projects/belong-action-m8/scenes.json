@@ -4898,56 +4898,7 @@
    "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-10-13T15:49:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:47:22Z",
-      "added": 24
-     },
-     "S02": {
-      "requested": "2026-10-13T15:50:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:50:00Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-10-13T15:50:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:52:08Z",
-      "added": 21
-     },
-     "S04": {
-      "requested": "2026-10-13T15:51:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:55:17Z",
-      "added": 24
-     },
-     "S05": {
-      "requested": "2026-10-13T15:51:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:58:15Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-10-13T15:52:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T18:01:26Z",
-      "added": 22
-     }
-    },
+    "at": "2026-10-13T18:01:39Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7793,56 +7744,7 @@
    "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "S01": {
-      "requested": "2026-10-13T15:49:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:47:22Z",
-      "added": 24
-     },
-     "S02": {
-      "requested": "2026-10-13T15:50:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:50:00Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-10-13T15:50:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:52:08Z",
-      "added": 21
-     },
-     "S04": {
-      "requested": "2026-10-13T15:51:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:55:17Z",
-      "added": 24
-     },
-     "S05": {
-      "requested": "2026-10-13T15:51:30Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:58:15Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-10-13T15:52:00Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T18:01:26Z",
-      "added": 22
-     }
-    },
+    "at": "2026-10-13T18:01:39Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   }
