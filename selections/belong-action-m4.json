@@ -16,8 +16,10 @@
     "S02": {
       "requested": "2026-10-07T15:45:56Z",
       "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
+      "done": true,
+      "reason": "shots-rewritten",
+      "fulfilled": "2026-10-13T17:17:13Z",
+      "added": 24
     },
     "S03": {
       "requested": "2026-09-23T14:34:02Z",
@@ -62,8 +64,10 @@
     "S08": {
       "requested": "2026-10-07T15:46:26Z",
       "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
+      "done": true,
+      "reason": "shots-rewritten",
+      "fulfilled": "2026-10-13T17:22:07Z",
+      "added": 24
     }
   }
 }

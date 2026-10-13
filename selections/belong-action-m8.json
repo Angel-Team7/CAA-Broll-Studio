@@ -32,14 +32,18 @@
     "S04": {
       "requested": "2026-10-07T15:49:56Z",
       "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
+      "done": true,
+      "reason": "shots-rewritten",
+      "fulfilled": "2026-10-13T17:38:15Z",
+      "added": 22
     },
     "S05": {
       "requested": "2026-10-07T15:50:26Z",
       "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
+      "done": true,
+      "reason": "shots-rewritten",
+      "fulfilled": "2026-10-13T17:40:39Z",
+      "added": 24
     },
     "S06": {
       "requested": "2026-09-23T15:09:02Z",
