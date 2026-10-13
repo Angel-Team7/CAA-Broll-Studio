@@ -3062,70 +3062,7 @@
    "shots_at": "2026-10-07T15:44:24Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
+    "at": "2026-10-13T17:52:33Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -4487,14 +4424,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V24.strip.jpg",
      "title": "fresh vegetables variety in market display",
      "query": "small farm shop local produce interior",
-     "shot": "D",
+     "shot": "",
      "src_id": "36483614",
      "download_url": "https://videos.pexels.com/video-files/36483614/15470447_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "fresh cucumbers and vegetables are piled at a market display",
+     "violation": "",
+     "shoot": "pexels-market-veg",
+     "score": 2.05,
+     "rank": 22,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V25",
@@ -4514,8 +4459,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 4,
+     "caption": "a hand arranges bottles on a dark wooden cabinet shelf",
+     "violation": "",
+     "shoot": "pexels-cabinet-bottles",
+     "score": 5.95,
+     "rank": 5,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V26",
@@ -4529,14 +4482,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V26.strip.jpg",
      "title": "fish  cooking  dinner  hand  lemon  rosemary  culinary  family  home  hobby chef  olive oil  preparations",
      "query": "olive oil bottle wooden shelf shop",
-     "shot": "A",
+     "shot": "",
      "src_id": "122360",
      "download_url": "https://cdn.pixabay.com/video/2022/06/28/122360-725513218_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a hand garnishes a whole roasted fish with lemon and herbs",
+     "violation": "",
+     "shoot": "pixabay-fish-garnish",
+     "score": 1.4,
+     "rank": 31,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V27",
@@ -4550,14 +4511,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V27.strip.jpg",
      "title": "a woman checking a recipe book",
      "query": "kitchen team reading clipboard",
-     "shot": "C",
+     "shot": "",
      "src_id": "6942485",
      "download_url": "https://videos.pexels.com/video-files/6942485/6942485-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a woman checks a recipe book in a bright kitchen",
+     "violation": "",
+     "shoot": "pexels-kitchen-recipe",
+     "score": 1.4,
+     "rank": 32,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V28",
@@ -4571,14 +4540,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V28.strip.jpg",
      "title": "a person writing a delivery address on a sealed package",
      "query": "note envelope on bed",
-     "shot": "E",
+     "shot": "",
      "src_id": "7308158",
      "download_url": "https://videos.pexels.com/video-files/7308158/7308158-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a hand writes an address on a sealed yellow package",
+     "violation": "",
+     "shoot": "pexels-package-address",
+     "score": 2.7,
+     "rank": 16,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V29",
@@ -4598,8 +4575,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 0,
+     "caption": "a delivery worker reviews a clipboard list inside a van",
+     "violation": "logistics",
+     "shoot": "pexels-delivery-clipboard",
+     "score": 2.6,
+     "rank": 19,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V30",
@@ -4613,14 +4598,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V30.strip.jpg",
      "title": "pouring water from pipe in bucket",
      "query": "technician checking irrigation pump",
-     "shot": "E",
+     "shot": "",
      "src_id": "11960814",
      "download_url": "https://videos.pexels.com/video-files/11960814/11960814-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "water pours from a pipe into a bucket on a farm plot",
+     "violation": "",
+     "shoot": "pexels-farm-waterpipe",
+     "score": 1.4,
+     "rank": 33,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V31",
@@ -4634,14 +4627,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V31.strip.jpg",
      "title": "close up shot of drawers",
      "query": "labelled shelves tidy tool store",
-     "shot": "D",
+     "shot": "E",
      "src_id": "9029219",
      "download_url": "https://videos.pexels.com/video-files/9029219/9029219-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:22:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a row of labeled apothecary drawers with brass handles",
+     "violation": "",
+     "shoot": "pexels-apothecary-drawers",
+     "score": 3.0,
+     "rank": 14,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V32",
@@ -4662,8 +4663,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:22:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a small wooden shop interior with jars and goods on shelves",
+     "violation": "",
+     "shoot": "pexels-woodshop-interior",
+     "score": 7.0,
+     "rank": 3,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V33",
@@ -4684,8 +4693,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:22:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "two shoppers browse shoes displayed on a boutique shelf",
+     "violation": "",
+     "shoot": "pexels-shoeboutique-shoppers",
+     "score": 3.35,
+     "rank": 13,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V34",
@@ -4699,15 +4716,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V34.strip.jpg",
      "title": "salesperson putting sale tags on products",
      "query": "small shop interior shelves",
-     "shot": "D",
+     "shot": "A",
      "duration": 35,
      "src_id": "6114644",
      "download_url": "https://videos.pexels.com/video-files/6114644/6114644-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a woman arranges blue pottery on a wooden shop shelf",
+     "violation": "",
+     "shoot": "pexels-pottery-shelf",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V35",
@@ -4721,15 +4746,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V35.strip.jpg",
      "title": "a person getting a leather wallet from a shelf",
      "query": "small shop interior shelves",
-     "shot": "D",
+     "shot": "A",
      "duration": 28,
      "src_id": "6649435",
      "download_url": "https://videos.pexels.com/video-files/6649435/6649435-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 4,
+     "caption": "a hand arranges leather wallets upright on a shop shelf",
+     "violation": "",
+     "shoot": "pexels-wallet-shelf",
+     "score": 5.3,
+     "rank": 6,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V36",
@@ -4743,15 +4776,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V36.strip.jpg",
      "title": "woman looking at two types of wood work",
      "query": "small shop interior shelves",
-     "shot": "D",
+     "shot": "",
      "duration": 41,
      "src_id": "7505116",
      "download_url": "https://videos.pexels.com/video-files/7505116/7505116-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a woman speaks to someone in front of a wooden shelf",
+     "violation": "",
+     "shoot": "pexels-interview-shelf",
+     "score": 2.05,
+     "rank": 23,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V37",
@@ -4772,8 +4813,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "men sit in a crowded grocery store stacked with snack bags",
+     "violation": "",
+     "shoot": "pexels-grocery-crowded",
+     "score": 2.65,
+     "rank": 18,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V38",
@@ -4787,15 +4836,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V38.strip.jpg",
      "title": "hand  field  grass  running through crops  relax  green  beautiful  nature",
      "query": "arranging products shelf hands",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "131615",
      "download_url": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 5,
+     "caption": "a hand brushes through green crops in a field",
+     "violation": "",
+     "shoot": "pixabay-field-hand",
+     "score": 1.75,
+     "rank": 27,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V39",
@@ -4816,8 +4873,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a hand slots a book into a white modern bookshelf",
+     "violation": "",
+     "shoot": "pixabay-bookshelf-modern",
+     "score": 4.0,
+     "rank": 9,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V40",
@@ -4831,15 +4896,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V40.strip.jpg",
      "title": "hand getting and putting wooden spoon in the oatmeal container",
      "query": "checking label on jar",
-     "shot": "E",
+     "shot": "",
      "duration": 16,
      "src_id": "8107566",
      "download_url": "https://videos.pexels.com/video-files/8107566/8107566-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand stirs oats in a glass jar on a striped cloth",
+     "violation": "",
+     "shoot": "pexels-oatjar-stir",
+     "score": 2.05,
+     "rank": 24,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V41",
@@ -4853,15 +4926,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V41.strip.jpg",
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh  table  healthy  preparing  homemade  chef  preparation  hand  organic  vegetarian  vegan",
      "query": "arranging products shelf hands",
-     "shot": "A",
+     "shot": "",
      "duration": 38,
      "src_id": "11606",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "hands chop garlic on a wooden cutting board",
+     "violation": "",
+     "shoot": "pixabay-garlic-chop",
+     "score": 1.4,
+     "rank": 34,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V42",
@@ -4875,15 +4956,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V42.strip.jpg",
      "title": "beauty products on shelves",
      "query": "arranging products on shelf",
-     "shot": "A",
+     "shot": "D",
      "duration": 9,
      "src_id": "7754396",
      "download_url": "https://videos.pexels.com/video-files/7754396/7754396-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:23:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 3,
+     "caption": "pink boutique shelves hold rows of skincare and beauty products",
+     "violation": "",
+     "shoot": "pexels-beautyshelf-pink",
+     "score": 4.95,
+     "rank": 8,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V43",
@@ -4897,15 +4986,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V43.strip.jpg",
      "title": "skincare  man  moisturizer  lotion  moisturizing  wellness  healthy  product  cosmetics  face  facial  treatment  bearded man  acne  skin  care  clean  hygiene  health",
      "query": "arranging products shelf hands",
-     "shot": "A",
+     "shot": "",
      "duration": 29,
      "src_id": "42963",
      "download_url": "https://cdn.pixabay.com/video/2020/06/23/42963-434316724_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a man applies moisturizer to his face in a mirror",
+     "violation": "",
+     "shoot": "pixabay-skincare-man",
+     "score": 1.4,
+     "rank": 35,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V44",
@@ -4919,15 +5016,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V44.strip.jpg",
      "title": "turntable  old  vinyl  music  retro  entertainment  record  audio  sound  vintage  analog  label  track",
      "query": "hand checking jar label",
-     "shot": "E",
+     "shot": "",
      "duration": 26,
      "src_id": "8452",
      "download_url": "https://cdn.pixabay.com/video/2017/03/20/8452-209292194_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a vinyl record spins on a retro turntable",
+     "violation": "",
+     "shoot": "pixabay-turntable-vinyl",
+     "score": 1.05,
+     "rank": 37,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V45",
@@ -4941,15 +5046,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V45.strip.jpg",
      "title": "shelves  books  library  education  reading  a shelf  to read  literature  closet  the culture  language  development",
      "query": "arranging products shelf hands",
-     "shot": "A",
+     "shot": "D",
      "duration": 13,
      "src_id": "41506",
      "download_url": "https://cdn.pixabay.com/video/2020/06/08/41506-429661323_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "labeled library shelves hold rows of books",
+     "violation": "",
+     "shoot": "pixabay-library-shelves",
+     "score": 3.0,
+     "rank": 15,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V46",
@@ -4963,15 +5076,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S06__strip__belong-action-m5-S06-V46.strip.jpg",
      "title": "woman at a shopping mart checking products",
      "query": "checking label on jar",
-     "shot": "E",
+     "shot": "C",
      "duration": 27,
      "src_id": "5104003",
      "download_url": "https://videos.pexels.com/video-files/5104003/5104003-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "a woman checks jars of overnight oats on a cafe cart",
+     "violation": "",
+     "shoot": "pexels-cafe-oatcart",
+     "score": 4.0,
+     "rank": 10,
+     "judged_at": "2026-10-13T17:51:12Z"
     },
     {
      "id": "belong-action-m5-S06-V47",
@@ -4992,8 +5113,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a woman poses holding a labeled jar against a pink backdrop",
+     "violation": "",
+     "shoot": "pexels-studio-jarpose",
+     "score": 2.0,
+     "rank": 26,
+     "judged_at": "2026-10-13T17:51:12Z"
     }
    ],
    "shots": [
@@ -5041,75 +5170,7 @@
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-07T15:44:24Z"
   },
   {
    "id": "S07",
@@ -6626,8 +6687,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:24:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a vendor arranges crates of vegetables at an outdoor market stall",
+     "violation": "",
+     "shoot": "pexels-market-stall-vendor",
+     "score": 6.65,
+     "rank": 5,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V25",
@@ -6641,14 +6710,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V25.strip.jpg",
      "title": "farmer  agriculture  combine  harvest  field  nature  set  summer",
      "query": "farmer delivering vegetable box",
-     "shot": "E",
+     "shot": "",
      "src_id": "",
      "download_url": "",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-13T17:24:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "an aerial view shows patchwork farm fields under a blue sky",
+     "violation": "",
+     "shoot": "pixabay-aerial-farmfields",
+     "score": 3.4,
+     "rank": 16,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V26",
@@ -6662,15 +6739,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V26.strip.jpg",
      "title": "man kissing a woman at the counter",
      "query": "small shop interior warm light",
-     "shot": "C",
+     "shot": "B",
      "duration": 37,
      "src_id": "8441766",
      "download_url": "https://videos.pexels.com/video-files/8441766/8441766-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:24:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a barista talks with a customer at a dim modern cafe counter",
+     "violation": "",
+     "shoot": "pexels-cafe-counter-talk",
+     "score": 3.0,
+     "rank": 18,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V27",
@@ -6684,15 +6769,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V27.strip.jpg",
      "title": "busy cafe with customers ordering at counter",
      "query": "small shop interior warm light",
-     "shot": "C",
+     "shot": "",
      "duration": 10,
      "src_id": "35545660",
      "download_url": "https://videos.pexels.com/video-files/35545660/15059169_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a man walks past a modern food court counter",
+     "violation": "",
+     "shoot": "pexels-foodcourt-counter",
+     "score": 1.35,
+     "rank": 30,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V28",
@@ -6706,15 +6799,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V28.strip.jpg",
      "title": "man and woman chatting",
      "query": "small shop interior warm light",
-     "shot": "C",
+     "shot": "B",
      "duration": 12,
      "src_id": "7669064",
      "download_url": "https://videos.pexels.com/video-files/7669064/7669064-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "two people stand at a dim counter under a neon coffee sign",
+     "violation": "",
+     "shoot": "pexels-neoncoffee-counter",
+     "score": 2.0,
+     "rank": 25,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V29",
@@ -6735,8 +6836,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "customers order pastries at a bakery counter with chalkboard menus",
+     "violation": "",
+     "shoot": "pexels-bakery-counter",
+     "score": 5.35,
+     "rank": 11,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V30",
@@ -6750,15 +6859,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V30.strip.jpg",
      "title": "the bar area of a restaurant with a ceiling fan",
      "query": "small shop interior warm light",
-     "shot": "C",
+     "shot": "",
      "duration": 4,
      "src_id": "27660795",
      "download_url": "https://videos.pexels.com/video-files/27660795/12196676_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "staff work behind a counter in an ornate Asian-style restaurant",
+     "violation": "",
+     "shoot": "pexels-asianrestaurant-counter",
+     "score": 1.35,
+     "rank": 31,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V31",
@@ -6772,15 +6889,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V31.strip.jpg",
      "title": "man working in dimly lit workshop",
      "query": "small shop interior warm light",
-     "shot": "C",
+     "shot": "A",
      "duration": 10,
      "src_id": "39498753",
      "download_url": "https://videos.pexels.com/video-files/39498753/16826144_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a man works at a bench in a small tool-lined workshop",
+     "violation": "",
+     "shoot": "pexels-workshop-manbench",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V32",
@@ -6801,8 +6926,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "cash and coins spill out in a close-up finance shot",
+     "violation": "cash stacks",
+     "shoot": "pexels-cash-spill",
+     "score": 1.3,
+     "rank": 32,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V33",
@@ -6823,8 +6956,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 3,
+     "caption": "coins pour into the drawer of a counting machine",
+     "violation": "",
+     "shoot": "pexels-coin-countingmachine",
+     "score": 3.65,
+     "rank": 15,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V34",
@@ -6838,15 +6979,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V34.strip.jpg",
      "title": "falling coins illustrating financial concept",
      "query": "cash register coins drawer",
-     "shot": "D",
+     "shot": "",
      "duration": 5,
      "src_id": "31978273",
      "download_url": "https://videos.pexels.com/video-files/31978273/13626199_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "gold coins fall against a plain background in a finance graphic",
+     "violation": "stock market graphics",
+     "shoot": "pexels-coins-falling-graphic",
+     "score": 0.65,
+     "rank": 35,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V35",
@@ -6867,8 +7016,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:25:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "stacked coins stand on a table beside potted topiary",
+     "violation": "",
+     "shoot": "pexels-coinstacks-topiary",
+     "score": 2.0,
+     "rank": 26,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V36",
@@ -6889,8 +7046,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "a delivery worker hands a crate of produce to a resident",
+     "violation": "",
+     "shoot": "pexels-delivery-crate-suburb",
+     "score": 6.3,
+     "rank": 9,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V37",
@@ -6911,8 +7076,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands sort fresh yellow plums into a crate outdoors",
+     "violation": "",
+     "shoot": "pexels-plums-harvest-crate",
+     "score": 7.0,
+     "rank": 4,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V38",
@@ -6933,8 +7106,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a worker in a muddy field moves a produce crate",
+     "violation": "",
+     "shoot": "pexels-mudfield-crate",
+     "score": 5.35,
+     "rank": 12,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V39",
@@ -6955,8 +7136,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a hand reaches into a bottle stuffed with cash",
+     "violation": "cash stacks",
+     "shoot": "pexels-bottle-cash",
+     "score": 1.95,
+     "rank": 27,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V40",
@@ -6977,8 +7166,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a farmer carries a bundle of harvested corn stalks",
+     "violation": "",
+     "shoot": "pixabay-farmer-cornstalks",
+     "score": 4.7,
+     "rank": 13,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V41",
@@ -6992,15 +7189,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V41.strip.jpg",
      "title": "hay  hay bales  tractor  round balls  agriculture  farmer  machine",
      "query": "farmer delivering crate produce",
-     "shot": "E",
+     "shot": "",
      "duration": 27,
      "src_id": "7578",
      "download_url": "https://cdn.pixabay.com/video/2017/01/30/7578-201691524_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a tractor wraps a round hay bale in a green field",
+     "violation": "",
+     "shoot": "pixabay-tractor-haybale",
+     "score": 2.4,
+     "rank": 20,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V42",
@@ -7014,15 +7219,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/S08__strip__belong-action-m5-S08-V42.strip.jpg",
      "title": "tractor  agriculture  farmer  vegetabes  autumn",
      "query": "farmer delivering crate produce",
-     "shot": "E",
+     "shot": "",
      "duration": 12,
      "src_id": "180892",
      "download_url": "https://cdn.pixabay.com/video/2023/09/16/180892-865216897_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:26:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "an aerial view shows a harvester working a crop field",
+     "violation": "",
+     "shoot": "pixabay-aerial-harvester",
+     "score": 2.4,
+     "rank": 21,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V43",
@@ -7043,8 +7256,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:27:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hands shape wet clay on a pottery wheel in a workshop",
+     "violation": "",
+     "shoot": "pixabay-pottery-wheel-shape",
+     "score": 7.65,
+     "rank": 2,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V44",
@@ -7065,8 +7286,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:27:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a close-up shows euro banknotes fanned out",
+     "violation": "",
+     "shoot": "pixabay-euro-banknotes",
+     "score": 2.35,
+     "rank": 22,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V45",
@@ -7087,8 +7316,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:27:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "an artisan hand-paints ceramic pieces at a cluttered workshop table",
+     "violation": "",
+     "shoot": "pixabay-ceramics-paint",
+     "score": 6.65,
+     "rank": 6,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V46",
@@ -7109,8 +7346,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:27:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a potter dips clay-covered hands into a bucket beside a finished bowl",
+     "violation": "",
+     "shoot": "pixabay-pottery-bucket-bowl",
+     "score": 6.65,
+     "rank": 7,
+     "judged_at": "2026-10-13T17:52:28Z"
     },
     {
      "id": "belong-action-m5-S08-V47",
@@ -7131,8 +7376,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-13T17:27:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a potter's hand smooths a bowl on a spinning wheel",
+     "violation": "",
+     "shoot": "pixabay-pottery-wheel-shape",
+     "score": 7.65,
+     "rank": 3,
+     "judged_at": "2026-10-13T17:52:28Z"
     }
    ],
    "shots": [
@@ -7180,75 +7433,7 @@
     "logo animation"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T15:04:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:55:05Z",
-      "added": 21
-     },
-     "S02": {
-      "requested": "2026-09-23T15:05:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T13:57:21Z",
-      "added": 21
-     },
-     "S03": {
-      "requested": "2026-09-23T15:06:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:00:02Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-10-07T15:49:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:38:15Z",
-      "added": 22
-     },
-     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
-     },
-     "S06": {
-      "requested": "2026-09-23T15:09:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:07:47Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-09-23T15:10:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T14:10:18Z",
-      "added": 24
-     },
-     "S08": {
-      "requested": "2026-10-07T15:50:56Z",
-      "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-07T15:44:24Z"
   }
  ]
 }
