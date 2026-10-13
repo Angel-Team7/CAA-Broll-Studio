@@ -12,7 +12,7 @@ Deliberately raw: no vision curation happens here (that is a human/Claude pass).
 A taste blocklist removes the junk classes we keep hitting — end-cards, cartoons,
 green screen, wildlife, sewing factories, corporate/office stock.
 """
-import json, os, pathlib, re, subprocess, sys, tempfile, time
+import json, os, pathlib, re, subprocess, sys, tempfile, time, traceback
 import requests
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
@@ -650,22 +650,49 @@ def main():
     print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r, _a in pending]}")
 
     total = 0
+    # One scene must never take the run down with it. Before this guard, an exception on
+    # any single beat killed the whole process, the workflow's commit step was skipped
+    # because nothing was reported added, and EVERY scene staged before the crash was
+    # lost — previews and strips already uploaded to Releases, orphaned. That is what
+    # happened on 2026-10-13: twelve minutes of real work, discarded.
+    failures = []
     for path, slug, sid, note, reason, auto_avoid in pending[:MAX_SCENES_PER_RUN]:
         sector = sectors.for_slug(slug)
         print(f"→ {slug} {sid}  ({note!r})")
-        # materialise this project in the sparse checkout
-        sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
-        # beats with a shot list go through recall v2 (stage for the judge); others
-        # keep the old gather until their shot list exists
-        import recall
-        n = recall.stage_scene(slug, sid, note, sector, reason, auto_avoid)
-        if n is None:
-            n = run_scene(slug, sid, note, sector, reason, auto_avoid)
+        n = 0
+        try:
+            # materialise this project in the sparse checkout
+            sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
+            # beats with a shot list go through recall v2 (stage for the judge); others
+            # keep the old gather until their shot list exists
+            import recall
+            n = recall.stage_scene(slug, sid, note, sector, reason, auto_avoid)
+            if n is None:
+                n = run_scene(slug, sid, note, sector, reason, auto_avoid)
+        except Exception as e:
+            err = f"{type(e).__name__}: {str(e)[:220]}"
+            print(f"  ! {slug} {sid} FAILED — {err}")
+            traceback.print_exc()
+            failures.append(f"{slug}/{sid}: {err}")
+            # Record it where it can be READ WITHOUT the Actions log, which needs admin
+            # rights the maintainer may not have to hand. The request stays open.
+            try:
+                sel = json.load(open(path))
+                r = sel.setdefault("topup_requests", {}).setdefault(sid, {})
+                r["error"] = err
+                r["attempts"] = int(r.get("attempts", 0)) + 1
+                r["last_attempt"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+                json.dump(sel, open(path, "w"), indent=2)
+            except Exception as e2:
+                print(f"  ! could not even record the failure: {e2}")
+            continue
         if n:
             sel = json.load(open(path))
-            sel["topup_requests"][sid]["done"] = True
-            sel["topup_requests"][sid]["fulfilled"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-            sel["topup_requests"][sid]["added"] = n
+            req = sel["topup_requests"][sid]
+            req["done"] = True
+            req["fulfilled"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+            req["added"] = n
+            req.pop("error", None)                 # it worked this time
             json.dump(sel, open(path, "w"), indent=2)
         total += n
 
@@ -674,6 +701,21 @@ def main():
         print(f"note: {left} more request(s) left for the next run (cap {MAX_SCENES_PER_RUN})")
     print(f"LEFT={left}")
     print(f"TOTAL_ADDED={total}")
+
+    if failures:
+        print(f"\n{len(failures)} scene(s) failed and stay open for the next run:")
+        for f in failures:
+            print(f"  ! {f}")
+        # The workflow only commits when something was added, so if EVERY scene failed the
+        # error records would never reach git and the fault would be invisible again
+        # without admin access to the Actions log. Commit them ourselves in that case.
+        if total == 0:
+            print("nothing was staged, so committing the failure records directly")
+            r = subprocess.run([sys.executable, str(ROOT / "tools" / "push_cards.py"),
+                                f"[topup-bot] {len(failures)} scene(s) failed to gather"],
+                               cwd=ROOT, capture_output=True, text=True)
+            print((r.stdout or r.stderr).strip()[-600:])
+        print("::warning::" + "; ".join(failures)[:900])
     return 0
 
 
