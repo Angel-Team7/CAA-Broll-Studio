@@ -10853,430 +10853,352 @@
   "at": "2026-10-13T17:52:12Z",
   "from": "belong-action-m4/S08"
  },
+ "pexels:6406124": {
+  "sector": "belong",
+  "reason": "logistics",
+  "at": "2026-10-13T17:54:49Z",
+  "from": "belong-action-m5/S06"
+ },
+ "pexels:7669064": {
+  "sector": "belong",
+  "reason": "nightlife",
+  "at": "2026-10-13T17:56:31Z",
+  "from": "belong-action-m5/S08"
+ },
  "pexels:3752538": {
   "sector": "belong",
-  "reason": "cash stacks",
-  "at": "2026-10-13T17:54:58Z",
+  "reason": "cash stacks (must-not)",
+  "at": "2026-10-13T17:56:31Z",
   "from": "belong-action-m5/S08"
  },
  "pexels:31978273": {
   "sector": "belong",
-  "reason": "stock market graphics",
-  "at": "2026-10-13T17:54:58Z",
+  "reason": "stock market graphics (must-not)",
+  "at": "2026-10-13T17:56:31Z",
+  "from": "belong-action-m5/S08"
+ },
+ "pexels:8369980": {
+  "sector": "belong",
+  "reason": "cash stacks (must-not)",
+  "at": "2026-10-13T17:56:31Z",
   "from": "belong-action-m5/S08"
  },
  "pexels:3752547": {
   "sector": "belong",
-  "reason": "cash stacks",
-  "at": "2026-10-13T17:54:58Z",
+  "reason": "cash stacks (must-not)",
+  "at": "2026-10-13T17:56:31Z",
   "from": "belong-action-m5/S08"
  },
  "pixabay:9728": {
   "sector": "belong",
-  "reason": "cash stacks",
-  "at": "2026-10-13T17:54:58Z",
+  "reason": "cash stacks (must-not)",
+  "at": "2026-10-13T17:56:31Z",
   "from": "belong-action-m5/S08"
- },
- "pexels:3842765": {
-  "sector": "belong",
-  "reason": "sewing",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pexels:37265788": {
-  "sector": "belong",
-  "reason": "sewing",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pexels:8527901": {
-  "sector": "belong",
-  "reason": "sewing",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pixabay:52515": {
-  "sector": "belong",
-  "reason": "face masks",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pixabay:372592": {
-  "sector": "belong",
-  "reason": "luxury, resort",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pixabay:1006": {
-  "sector": "belong",
-  "reason": "clothes shopping rail",
-  "at": "2026-10-13T17:57:29Z",
-  "from": "belong-action-m6/S04"
- },
- "pexels:3255159": {
-  "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-10-13T17:59:15Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:4122518": {
-  "sector": "belong",
-  "reason": "face masks, laptop",
-  "at": "2026-10-13T17:59:15Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:37208838": {
-  "sector": "belong",
-  "reason": "factory",
-  "at": "2026-10-13T17:59:15Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:6286168": {
-  "sector": "belong",
-  "reason": "gym",
-  "at": "2026-10-13T17:59:15Z",
-  "from": "belong-action-m6/S07"
- },
- "pixabay:44647": {
-  "sector": "belong",
-  "reason": "exhausted collapse",
-  "at": "2026-10-13T17:59:15Z",
-  "from": "belong-action-m6/S07"
  },
  "pexels:6755014": {
   "sector": "belong",
   "reason": "hospital",
-  "at": "2026-10-13T18:04:59Z",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:3736790": {
   "sector": "belong",
-  "reason": "airport arrivals",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "mask",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:8044782": {
   "sector": "belong",
-  "reason": "airport arrivals",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "airport arrivals (must-not)",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:7820834": {
   "sector": "belong",
-  "reason": "face masks",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "mask",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:7820472": {
   "sector": "belong",
-  "reason": "face masks",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "mask",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:7820811": {
   "sector": "belong",
-  "reason": "face masks",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "mask",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pexels:3747855": {
   "sector": "belong",
-  "reason": "airport arrivals",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "airport arrivals (must-not)",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
  "pixabay:69545": {
   "sector": "belong",
-  "reason": "airport arrivals, face masks",
-  "at": "2026-10-13T18:01:40Z",
+  "reason": "mask",
+  "at": "2026-10-13T17:58:33Z",
   "from": "belong-action-m7/S05"
  },
- "pexels:12213085": {
+ "pixabay:3629": {
   "sector": "belong",
-  "reason": "loud music dj",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pexels:12213088": {
-  "sector": "belong",
-  "reason": "loud music dj",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pexels:12213084": {
-  "sector": "belong",
-  "reason": "loud music dj",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pexels:12213087": {
-  "sector": "belong",
-  "reason": "loud music dj",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pexels:12213089": {
-  "sector": "belong",
-  "reason": "loud music dj",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pexels:5971054": {
-  "sector": "belong",
-  "reason": "office",
-  "at": "2026-10-13T18:03:23Z",
+  "reason": "sunbathers",
+  "at": "2026-10-13T18:00:18Z",
   "from": "belong-action-m8/S04"
  },
  "pixabay:78059": {
   "sector": "belong",
-  "reason": "crowd",
-  "at": "2026-10-13T18:03:23Z",
-  "from": "belong-action-m8/S04"
- },
- "pixabay:1343": {
-  "sector": "belong",
-  "reason": "pool party",
-  "at": "2026-10-13T18:03:23Z",
+  "reason": "crowd (must-not)",
+  "at": "2026-10-13T18:00:18Z",
   "from": "belong-action-m8/S04"
  },
  "pexels:30510691": {
   "sector": "belong",
   "reason": "hospital",
-  "at": "2026-10-13T18:04:59Z",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:8136377": {
   "sector": "belong",
   "reason": "suit",
-  "at": "2026-10-13T18:04:59Z",
+  "at": "2026-10-13T18:02:01Z",
+  "from": "belong-action-m8/S05"
+ },
+ "pexels:14936151": {
+  "sector": "belong",
+  "reason": "crowd (must-not)",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:5940524": {
   "sector": "belong",
-  "reason": "office, laptop",
-  "at": "2026-10-13T18:04:59Z",
+  "reason": "office",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:7223708": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-13T18:04:59Z",
+  "reason": "boardroom",
+  "at": "2026-10-13T18:02:01Z",
+  "from": "belong-action-m8/S05"
+ },
+ "pexels:39290124": {
+  "sector": "belong",
+  "reason": "crowd (must-not)",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:4630103": {
   "sector": "belong",
   "reason": "computer",
-  "at": "2026-10-13T18:04:59Z",
-  "from": "belong-action-m8/S05"
- },
- "pexels:7687712": {
-  "sector": "belong",
-  "reason": "shouting argument",
-  "at": "2026-10-13T18:04:59Z",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
  "pexels:8835836": {
   "sector": "belong",
-  "reason": "handshake, keyboard",
-  "at": "2026-10-13T18:04:59Z",
+  "reason": "handshake",
+  "at": "2026-10-13T18:02:01Z",
   "from": "belong-action-m8/S05"
  },
- "pixabay:13789": {
+ "pexels:5981602": {
   "sector": "belong",
-  "reason": "cartoon graphic",
-  "at": "2026-10-13T18:04:59Z",
-  "from": "belong-action-m8/S05"
+  "reason": "office",
+  "at": "2026-10-13T18:03:46Z",
+  "from": "belong-action-m8/S08"
  },
- "pixabay:144109": {
+ "pexels:6563957": {
   "sector": "belong",
-  "reason": "cartoon graphic",
-  "at": "2026-10-13T18:04:59Z",
-  "from": "belong-action-m8/S05"
+  "reason": "mask",
+  "at": "2026-10-13T18:03:46Z",
+  "from": "belong-action-m8/S08"
+ },
+ "pexels:8632490": {
+  "sector": "belong",
+  "reason": "office",
+  "at": "2026-10-13T18:03:46Z",
+  "from": "belong-action-m8/S08"
+ },
+ "pexels:8170495": {
+  "sector": "belong",
+  "reason": "boardroom",
+  "at": "2026-10-13T18:03:46Z",
+  "from": "belong-action-m8/S08"
  },
  "pexels:4992566": {
   "sector": "edenrise",
   "reason": "business suit",
-  "at": "2026-10-13T18:08:24Z",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:5734040": {
   "sector": "edenrise",
-  "reason": "laptop, business suit",
-  "at": "2026-10-13T18:08:24Z",
-  "from": "edenrise-c2-promises-kept/S01"
- },
- "pexels:7952211": {
-  "sector": "edenrise",
-  "reason": "suits, corporate",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "laptop",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:10477470": {
   "sector": "edenrise",
-  "reason": "forced-labour framing",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "prison yard / gangster signifiers",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:6761153": {
   "sector": "edenrise",
-  "reason": "cocktail",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "wedding",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:8814975": {
   "sector": "edenrise",
-  "reason": "suits",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "business suit",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:4992555": {
   "sector": "edenrise",
-  "reason": "suit",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "business suit",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
  },
  "pexels:7643457": {
   "sector": "edenrise",
-  "reason": "office, laptop, boardroom",
-  "at": "2026-10-13T18:08:24Z",
+  "reason": "boardroom",
+  "at": "2026-10-13T18:05:39Z",
   "from": "edenrise-c2-promises-kept/S01"
- },
- "pixabay:https://pixabay.com/videos/id-15629/": {
-  "sector": "edenrise",
-  "reason": "stock studio prop",
-  "at": "2026-10-13T18:09:54Z",
-  "from": "edenrise-c2-promises-kept/S02"
  },
  "pexels:https://www.pexels.com/video/a-man-wearing-goggles-and-holding-a-drill-6036763/": {
   "sector": "edenrise",
-  "reason": "thumbs up, studio backdrop",
-  "at": "2026-10-13T18:09:54Z",
+  "reason": "thumbs up",
+  "at": "2026-10-13T18:07:24Z",
   "from": "edenrise-c2-promises-kept/S02"
  },
  "pexels:7868441": {
   "sector": "edenrise",
   "reason": "suit",
-  "at": "2026-10-13T18:09:54Z",
+  "at": "2026-10-13T18:07:24Z",
   "from": "edenrise-c2-promises-kept/S02"
  },
  "pexels:5930358": {
   "sector": "edenrise",
-  "reason": "factory, medical",
-  "at": "2026-10-13T18:09:54Z",
-  "from": "edenrise-c2-promises-kept/S02"
- },
- "pexels:39079873": {
-  "sector": "edenrise",
-  "reason": "face covering reads as mask",
-  "at": "2026-10-13T18:09:54Z",
-  "from": "edenrise-c2-promises-kept/S02"
- },
- "pixabay:40816": {
-  "sector": "edenrise",
-  "reason": "rubble",
-  "at": "2026-10-13T18:09:54Z",
+  "reason": "factory",
+  "at": "2026-10-13T18:07:24Z",
   "from": "edenrise-c2-promises-kept/S02"
  },
  "pexels:6786334": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-10-13T18:11:15Z",
+  "at": "2026-10-13T18:09:00Z",
   "from": "edenrise-c2-promises-kept/S03"
  },
  "pexels:7816448": {
   "sector": "edenrise",
-  "reason": "suit, tie",
-  "at": "2026-10-13T18:11:15Z",
+  "reason": "suit",
+  "at": "2026-10-13T18:09:00Z",
+  "from": "edenrise-c2-promises-kept/S03"
+ },
+ "pexels:4035217": {
+  "sector": "edenrise",
+  "reason": "makeup",
+  "at": "2026-10-13T18:09:00Z",
+  "from": "edenrise-c2-promises-kept/S03"
+ },
+ "pexels:4991862": {
+  "sector": "edenrise",
+  "reason": "romantic",
+  "at": "2026-10-13T18:09:00Z",
   "from": "edenrise-c2-promises-kept/S03"
  },
  "pexels:4296998": {
   "sector": "edenrise",
-  "reason": "dark industrial setting",
-  "at": "2026-10-13T18:11:15Z",
+  "reason": "factory",
+  "at": "2026-10-13T18:09:00Z",
   "from": "edenrise-c2-promises-kept/S03"
  },
  "pexels:8731468": {
   "sector": "edenrise",
-  "reason": "suits",
-  "at": "2026-10-13T18:11:15Z",
+  "reason": "suit",
+  "at": "2026-10-13T18:09:00Z",
   "from": "edenrise-c2-promises-kept/S03"
  },
- "pexels:32132504": {
+ "pexels:13691892": {
   "sector": "edenrise",
-  "reason": "hoodie",
-  "at": "2026-10-13T18:11:15Z",
-  "from": "edenrise-c2-promises-kept/S03"
+  "reason": "factory",
+  "at": "2026-10-13T18:11:44Z",
+  "from": "edenrise-c2-promises-kept/S04"
+ },
+ "pixabay:135377": {
+  "sector": "edenrise",
+  "reason": "cgi animation",
+  "at": "2026-10-13T18:11:44Z",
+  "from": "edenrise-c2-promises-kept/S04"
+ },
+ "pixabay:121556": {
+  "sector": "edenrise",
+  "reason": "cgi animation",
+  "at": "2026-10-13T18:11:44Z",
+  "from": "edenrise-c2-promises-kept/S04"
+ },
+ "pixabay:22257": {
+  "sector": "edenrise",
+  "reason": "cgi animation",
+  "at": "2026-10-13T18:11:44Z",
+  "from": "edenrise-c2-promises-kept/S04"
  },
  "pexels:7683056": {
   "sector": "edenrise",
-  "reason": "office, corporate team building",
-  "at": "2026-10-13T18:13:22Z",
+  "reason": "corporate",
+  "at": "2026-10-13T18:13:16Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
  "pexels:8461075": {
   "sector": "edenrise",
-  "reason": "office, corporate team building, stock thumbs up",
-  "at": "2026-10-13T18:13:22Z",
+  "reason": "corporate, suit, stock thumbs up",
+  "at": "2026-10-13T18:13:16Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
  "pexels:5940601": {
   "sector": "edenrise",
-  "reason": "office, laptop, coworkers",
-  "at": "2026-10-13T18:13:22Z",
+  "reason": "office",
+  "at": "2026-10-13T18:13:16Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
  "pexels:7688001": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-10-13T18:13:22Z",
+  "reason": "businessman",
+  "at": "2026-10-13T18:13:16Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
  "pexels:8836133": {
   "sector": "edenrise",
   "reason": "corporate team building",
-  "at": "2026-10-13T18:13:22Z",
-  "from": "edenrise-c2-promises-kept/S05"
- },
- "pixabay:159409": {
-  "sector": "edenrise",
-  "reason": "unrelated stock footage",
-  "at": "2026-10-13T18:13:22Z",
-  "from": "edenrise-c2-promises-kept/S05"
- },
- "pixabay:370344": {
-  "sector": "edenrise",
-  "reason": "unrelated stock footage",
-  "at": "2026-10-13T18:13:22Z",
-  "from": "edenrise-c2-promises-kept/S05"
- },
- "pixabay:51807": {
-  "sector": "edenrise",
-  "reason": "unrelated stock footage",
-  "at": "2026-10-13T18:13:22Z",
+  "at": "2026-10-13T18:13:16Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
  "pexels:33126246": {
   "sector": "edenrise",
-  "reason": "romantic framing",
-  "at": "2026-10-13T18:14:38Z",
+  "reason": "romantic",
+  "at": "2026-10-13T18:14:44Z",
   "from": "edenrise-c2-promises-kept/S06"
  },
  "pexels:11971116": {
   "sector": "edenrise",
-  "reason": "romantic framing",
-  "at": "2026-10-13T18:14:38Z",
+  "reason": "romantic",
+  "at": "2026-10-13T18:14:44Z",
   "from": "edenrise-c2-promises-kept/S06"
  },
  "pixabay:173333": {
   "sector": "edenrise",
   "reason": "crowd",
-  "at": "2026-10-13T18:14:38Z",
+  "at": "2026-10-13T18:14:44Z",
   "from": "edenrise-c2-promises-kept/S06"
  },
  "pixabay:98177": {
   "sector": "edenrise",
   "reason": "crowd",
-  "at": "2026-10-13T18:14:38Z",
+  "at": "2026-10-13T18:14:44Z",
   "from": "edenrise-c2-promises-kept/S06"
  }
 }
