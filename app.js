@@ -139,18 +139,91 @@ async function loadProject(slug) {
   state.topup = sel.topup_requests || {};
   renderSectorChip(slug);
   render();
+  if (state.needsSync && gh && gh.token && !state.authFailed) {
+    save(false, true)
+      .then(() => toast("Sent the changes that were waiting in this browser ✓"))
+      .catch(() => {});
+  }
   updateFinaliseBtn();
   startWatch();
 }
 
-// Prefer GitHub selections when connected, else localStorage. Returns the full
-// selection object: { approved:{S01:[ids]}, needs_broll:{S01:"reason"} }.
+// GitHub's copy and this browser's copy are MERGED, never one replacing the other.
+// Taking GitHub's copy outright looked harmless until a key expired: every click made
+// while saves were failing lived only in this browser, and the first load after
+// reconnecting would have replaced it with GitHub's older copy — then autosaved that
+// back over the browser too. Three weeks of ticks gone in one page load.
+// A tick in either place is kept (a tick must never be lost); for a top-up request the
+// newer one wins, so a click that never reached GitHub survives and a request the bot
+// has since fulfilled shows as fulfilled.
 async function loadSelections(slug) {
-  if (gh && gh.token) {
-    const got = await ghGet(`selections/${slug}.json`).catch(() => null);
-    if (got) { try { return JSON.parse(atob(got.content)); } catch {} }
+  const local = JSON.parse(localStorage.getItem(`sel:${slug}`) || "{}");
+  state.needsSync = false;
+  if (!(gh && gh.token)) return local;
+  let remote = null;
+  try {
+    const got = await ghGet(`selections/${slug}.json`);
+    if (got) remote = JSON.parse(atob(got.content));
+  } catch (e) {
+    authProblem(e);                     // say so loudly — do not quietly fall back
+    return local;
   }
-  return JSON.parse(localStorage.getItem(`sel:${slug}`) || "{}");
+  if (!remote) { state.needsSync = Object.keys(local.approved || {}).length > 0; return local; }
+  const merged = mergeSelections(remote, local);
+  state.needsSync = selectionDiff(remote, merged);
+  return merged;
+}
+
+function mergeSelections(remote, local) {
+  const out = JSON.parse(JSON.stringify(remote));
+  out.approved = out.approved || {};
+  for (const [sid, ids] of Object.entries(local.approved || {})) {
+    const have = out.approved[sid] || [];
+    out.approved[sid] = have.concat((ids || []).filter(id => !have.includes(id)));
+  }
+  out.needs_broll = Object.assign({}, remote.needs_broll || {}, local.needs_broll || {});
+  out.topup_requests = Object.assign({}, remote.topup_requests || {});
+  for (const [sid, r] of Object.entries(local.topup_requests || {})) {
+    const g = out.topup_requests[sid];
+    const lt = Date.parse(r && r.requested || 0) || 0, gt = Date.parse(g && g.requested || 0) || 0;
+    if (!g || lt > gt) out.topup_requests[sid] = r;   // a click GitHub never saw
+  }
+  return out;
+}
+
+function selectionDiff(a, b) {
+  const n = o => Object.values((o && o.approved) || {}).reduce((k, v) => k + v.length, 0);
+  const req = o => JSON.stringify((o && o.topup_requests) || {});
+  return n(a) !== n(b) || req(a) !== req(b) ||
+         JSON.stringify(a.needs_broll || {}) !== JSON.stringify(b.needs_broll || {});
+}
+
+// A failed save used to flash a toast for three seconds and vanish, while the button
+// went on saying "searching". This stays up until the key works again.
+function authProblem(e) {
+  const msg = String(e && e.message || e);
+  const isAuth = /\b(401|403)\b/.test(msg);
+  state.authFailed = true;
+  let el = document.getElementById("authbanner");
+  if (!el) {
+    el = document.createElement("div");
+    el.id = "authbanner"; el.className = "authbanner";
+    document.body.prepend(el);
+  }
+  el.innerHTML = (isAuth
+      ? "⚠️ <b>Not saving to GitHub — the access key has expired.</b> "
+      : `⚠️ <b>Not saving to GitHub (${msg}).</b> `) +
+    "Your clicks are kept safe in this browser and will be sent as soon as you reconnect. " +
+    "<button id='authfix'>Reconnect</button>";
+  el.hidden = false;
+  const b = document.getElementById("authfix");
+  if (b) b.onclick = () => { const c = document.getElementById("connect"); if (c) c.click(); };
+}
+
+function authOk() {
+  state.authFailed = false;
+  const el = document.getElementById("authbanner");
+  if (el) el.hidden = true;
 }
 
 function persistLocal() {
@@ -485,7 +558,8 @@ async function requestTopup(sid) {
 // Is a request for this scene still waiting for the bot? (optionally of one kind)
 function pendingReq(sid, reason) {
   const r = state.topup && state.topup[sid];
-  if (!r || r.done !== false) return false;                 // fulfilled, or a pre-bot entry
+  if (!r || r.done !== false) return false;
+  if (state.authFailed) return false;   // never sent — saying "searching" would be a lie                 // fulfilled, or a pre-bot entry
   const age = Date.now() - Date.parse(r.requested || 0);
   if (!(age < 24 * 3600 * 1000)) return false;              // stale: the run never came back
   return reason ? r.reason === reason : r.reason !== "direction";
@@ -540,8 +614,10 @@ async function save(ready, quiet) {
     try {
       await ghPut(`selections/${state.slug}.json`, JSON.stringify(payload, null, 2),
         ready ? "cockpit: send to editor" : "cockpit: save approvals");
+      authOk();
+      state.needsSync = false;
       if (!quiet) toast(ready ? "Sent to editor ▸ committed to GitHub" : "Saved to GitHub ✓");
-    } catch (e) { toast("GitHub save failed: " + e.message); throw e; }
+    } catch (e) { authProblem(e); toast("GitHub save failed: " + e.message); throw e; }
   } else {
     // local mode: also drop a downloadable file so the handoff script can read it
     if (ready || !quiet) {

@@ -299,3 +299,15 @@ table.meta a{color:var(--accent)}
   background: #23252b; color: #cfd3da; border: 1px solid #343842; cursor: help;
   max-width: 260px; overflow: hidden; text-overflow: ellipsis;
 }
+
+/* The key has expired: say so, and keep saying so, until it is fixed. A three-second
+   toast was how three weeks of clicks went unsaved without anyone noticing. */
+.authbanner {
+  position: sticky; top: 0; z-index: 50; padding: 10px 16px;
+  background: #5a1d14; color: #ffe9e4; font-size: 14px; line-height: 1.4;
+  border-bottom: 2px solid #c2412d;
+}
+.authbanner button {
+  margin-left: 10px; padding: 4px 12px; border-radius: 6px; border: 0;
+  background: #ffe9e4; color: #5a1d14; font-weight: 600; cursor: pointer;
+}

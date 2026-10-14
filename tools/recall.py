@@ -183,7 +183,13 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}")
 
     # ---- our own shelf first -------------------------------------------------------
-    from_lib = library_picks(shots, sector, seen, rejected, min(LIB_MAX, STAGE_N), must_not) if not direction else []
+    # "Direction is wrong" used to skip the shelf entirely and go to the web — the slowest
+    # path there is, on the one click where a reviewer is sitting there waiting. The old
+    # reasoning was that owned footage is what was just rejected; but the clips on THIS
+    # card are already excluded through `seen`, and the shelf holds 13,000 others. So the
+    # library answers a direction change too, with the reviewer's "not this" words barred.
+    lib_bar = must_not + ([w.lower() for w in avoid] if direction else [])
+    from_lib = library_picks(shots, sector, seen, rejected, min(LIB_MAX, STAGE_N), lib_bar)
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat — no re-download needed")
     web_target = max(0, STAGE_N - len(from_lib))

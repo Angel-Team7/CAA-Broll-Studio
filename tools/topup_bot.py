@@ -646,7 +646,13 @@ def main():
     if not pending:
         print("no pending top-up requests")
         return 0
-    pending.sort(key=lambda x: (json.load(open(x[0])).get("topup_requests", {}).get(x[2], {}) or {}).get("requested", ""))
+    # A click from the cockpit means a reviewer is waiting on it. Bulk work queued by
+    # maintenance (a first gather, a rewritten shot list) can wait its turn behind them.
+    BULK = {"first-gather", "shots-rewritten"}
+    def _key(x):
+        r = (json.load(open(x[0])).get("topup_requests", {}).get(x[2], {}) or {})
+        return (1 if r.get("reason") in BULK else 0, r.get("requested", ""))
+    pending.sort(key=_key)
     print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r, _a in pending]}")
 
     total = 0
