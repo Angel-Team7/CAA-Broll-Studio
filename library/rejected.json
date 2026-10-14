@@ -3800,7 +3800,7 @@
  "pexels:https://www.pexels.com/video/a-man-is-working-on-a-car-in-a-garage-4489808/": {
   "sector": "belong",
   "reason": "mechanic",
-  "at": "2026-10-14T09:44:58Z",
+  "at": "2026-10-14T09:46:44Z",
   "from": "belong-action-m5/S04"
  },
  "pexels:https://www.pexels.com/video/a-man-talking-to-another-person-5977452/": {
@@ -11273,124 +11273,58 @@
   "at": "2026-10-14T09:03:09Z",
   "from": "edenrise-c2-promises-kept/S03"
  },
+ "pexels:6196267": {
+  "sector": "belong",
+  "reason": "office",
+  "at": "2026-10-14T09:45:11Z",
+  "from": "belong-action-m2/S08"
+ },
  "pixabay:141606": {
   "sector": "belong",
   "reason": "skyscraper",
-  "at": "2026-10-14T09:43:24Z",
+  "at": "2026-10-14T09:45:11Z",
   "from": "belong-action-m2/S08"
+ },
+ "pexels:4265082": {
+  "sector": "belong",
+  "reason": "shopping mall",
+  "at": "2026-10-14T09:46:44Z",
+  "from": "belong-action-m5/S04"
+ },
+ "pexels:5103988": {
+  "sector": "belong",
+  "reason": "monitor",
+  "at": "2026-10-14T09:46:44Z",
+  "from": "belong-action-m5/S04"
  },
  "pexels:6818046": {
   "sector": "belong",
   "reason": "mask",
-  "at": "2026-10-14T09:44:58Z",
+  "at": "2026-10-14T09:46:44Z",
   "from": "belong-action-m5/S04"
  },
  "pexels:7100939": {
   "sector": "belong",
   "reason": "mask",
-  "at": "2026-10-14T09:44:58Z",
+  "at": "2026-10-14T09:46:44Z",
   "from": "belong-action-m5/S04"
- },
- "pexels:5892554": {
-  "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-10-14T09:47:55Z",
-  "from": "belong-action-m6/S04"
- },
- "pexels:8756895": {
-  "sector": "belong",
-  "reason": "industrial factory floor",
-  "at": "2026-10-14T09:47:55Z",
-  "from": "belong-action-m6/S04"
- },
- "pexels:7131722": {
-  "sector": "belong",
-  "reason": "detergent advert",
-  "at": "2026-10-14T09:47:55Z",
-  "from": "belong-action-m6/S04"
  },
  "pexels:8756638": {
   "sector": "belong",
-  "reason": "industrial factory floor",
-  "at": "2026-10-14T09:47:55Z",
+  "reason": "industrial factory floor / dry cleaning shop (must-not)",
+  "at": "2026-10-14T09:49:33Z",
   "from": "belong-action-m6/S04"
- },
- "pexels:8485288": {
-  "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:8449445": {
-  "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:8756888": {
-  "sector": "belong",
-  "reason": "industrial factory rows",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:5892544": {
-  "sector": "belong",
-  "reason": "industrial factory rows",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
  },
  "pexels:8124134": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:5900722": {
-  "sector": "belong",
-  "reason": "exhausted collapse",
-  "at": "2026-10-14T09:49:30Z",
+  "reason": "office / corporate (businesswomen, office window)",
+  "at": "2026-10-14T09:51:27Z",
   "from": "belong-action-m6/S07"
  },
  "pexels:7692849": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-14T09:49:30Z",
+  "reason": "office / corporate (businesswomen, documents, studio)",
+  "at": "2026-10-14T09:51:27Z",
   "from": "belong-action-m6/S07"
- },
- "pixabay:5436": {
-  "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-14T09:49:30Z",
-  "from": "belong-action-m6/S07"
- },
- "pexels:6997951": {
-  "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-10-14T09:51:16Z",
-  "from": "belong-action-m8/S05"
- },
- "pexels:4992094": {
-  "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-10-14T09:51:16Z",
-  "from": "belong-action-m8/S05"
- },
- "pexels:7346177": {
-  "sector": "belong",
-  "reason": "comedy sketch",
-  "at": "2026-10-14T09:51:16Z",
-  "from": "belong-action-m8/S05"
- },
- "pexels:7686611": {
-  "sector": "belong",
-  "reason": "handshake",
-  "at": "2026-10-14T09:51:16Z",
-  "from": "belong-action-m8/S05"
- },
- "pixabay:134111": {
-  "sector": "belong",
-  "reason": "nightlife",
-  "at": "2026-10-14T09:51:16Z",
-  "from": "belong-action-m8/S05"
  }
 }
