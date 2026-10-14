@@ -1,9 +1,22 @@
 {
   "project": "edenrise-c2-promises-kept",
-  "updated": "2026-10-14T08:53:35Z",
+  "updated": "2026-10-14T16:05:05.113Z",
   "ready": false,
-  "approved": {},
-  "needs_broll": {},
+  "approved": {
+    "S02": [
+      "edenrise-c2-promises-kept-S02-V06"
+    ],
+    "S03": [
+      "edenrise-c2-promises-kept-S03-V04"
+    ],
+    "S06": [
+      "edenrise-c2-promises-kept-S06-V04"
+    ]
+  },
+  "needs_broll": {
+    "S04": "",
+    "S05": ""
+  },
   "topup_requests": {
     "S01": {
       "requested": "2026-10-13T15:49:30Z",
@@ -30,20 +43,35 @@
       "added": 24
     },
     "S04": {
-      "requested": "2026-10-13T15:51:00Z",
+      "requested": "2026-10-14T15:01:45.134Z",
       "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:55:17Z",
-      "added": 24
+      "reason": "direction",
+      "avoid": [
+        "wood",
+        "wooden",
+        "carpenter",
+        "plank",
+        "worker",
+        "post",
+        "hand",
+        "testing"
+      ],
+      "done": false
     },
     "S05": {
-      "requested": "2026-10-13T15:51:30Z",
+      "requested": "2026-10-14T15:02:40.062Z",
       "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-10-13T17:58:15Z",
-      "added": 24
+      "reason": "direction",
+      "avoid": [
+        "finished",
+        "workers",
+        "construction",
+        "beam",
+        "crew",
+        "together",
+        "lifting"
+      ],
+      "done": false
     },
     "S06": {
       "requested": "2026-10-13T15:52:00Z",
