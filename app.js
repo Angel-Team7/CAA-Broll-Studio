@@ -21,11 +21,30 @@ function mediaUrl(u) {
   return state.mediaProxy.replace(/\/+$/, "") + "/" + u.slice(RELEASE_BASE.length);
 }
 
+// Read data from GitHub itself, not from the Pages copy. Pages republishes on every push
+// and GitHub CANCELS an in-flight deploy when a newer push lands — with the bots pushing
+// every few minutes, no deploy finished for half an hour and the reviewer saw an S03
+// with 63 clips while GitHub held 75. With a key connected, the cockpit reads the
+// committed file directly (the raw media type has no 1 MB limit), so what you see is
+// what is on GitHub this minute. Without a key, or if that read fails, it falls back to
+// the Pages copy as before.
+async function fetchData(path) {
+  if (gh && gh.token && !state.authFailed) {
+    try {
+      const r = await fetch(ghUrl(path) + `?ref=${gh.branch || "main"}&_=${Date.now()}`, {
+        cache: "no-store",
+        headers: { Authorization: `Bearer ${gh.token}`, Accept: "application/vnd.github.raw+json" } });
+      if (r.ok) return await r.json();
+      if (r.status === 401 || r.status === 403) authProblem(new Error("GET " + r.status));
+    } catch (e) { /* fall through to the Pages copy */ }
+  }
+  return fetch(`${path}?v=${Date.now()}`, { cache: "no-store" }).then(r => r.json());
+}
+
 async function loadProjects() {
   // cache-bust: GitHub Pages + the browser will happily serve a stale index for hours,
   // which makes a freshly published project look like it never arrived.
-  const idx = await fetch("projects.json?v=" + Date.now(), { cache: "no-store" })
-    .then(r => r.json()).catch(() => null);
+  const idx = await fetchData("projects.json").catch(() => null);
   const sel = $("#project");
   if (!idx || !idx.projects.length) { $("#scenes").innerHTML =
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
@@ -165,8 +184,7 @@ async function loadProject(slug) {
   state.slug = slug;
   // no-store + cache-bust: a republished pool kept showing the OLD clips because the
   // browser served a cached scenes.json (2026-08-12).
-  state.data = await fetch(`projects/${slug}/scenes.json?v=${Date.now()}`,
-                           { cache: "no-store" }).then(r => r.json());
+  state.data = await fetchData(`projects/${slug}/scenes.json`);
   const sel = await loadSelections(slug);
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
@@ -387,7 +405,7 @@ function startWatch() {
 async function checkForArrivals() {
   const slug = state.slug;
   try {
-    const fresh = await fetch(`projects/${slug}/scenes.json?v=${Date.now()}`, { cache: "no-store" }).then(r => r.json());
+    const fresh = await fetchData(`projects/${slug}/scenes.json`);
     if (slug !== state.slug) return;
     const before = sceneCounts(state.data), after = sceneCounts(fresh);
     const grew = Object.keys(after).filter(id => (after[id] || 0) > (before[id] || 0));
