@@ -1418,37 +1418,37 @@
    "shots": [
     {
      "id": "A",
-     "text": "a worker waiting alone outdoors beside his tools",
-     "pexels": "worker waiting with tools",
-     "pixabay": "worker waiting tools outdoor",
+     "text": "a man sitting alone outdoors, waiting",
+     "pexels": "man sitting alone waiting outdoors",
+     "pixabay": "man sitting waiting outdoor",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "a phone lying unanswered on a wooden workbench",
-     "pexels": "phone on wooden workbench",
-     "pixabay": "phone wooden bench",
+     "text": "work gloves left on a wooden bench",
+     "pexels": "work gloves on bench",
+     "pixabay": "work gloves bench",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "a worker checking the time on his watch",
-     "pexels": "worker checking his watch",
-     "pixabay": "worker checking watch time",
+     "text": "a worker looking at his watch",
+     "pexels": "man looking at watch",
+     "pixabay": "man looking watch time",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "an unfinished job left in the garden at the end of the day",
-     "pexels": "unfinished garden work evening",
-     "pixabay": "unfinished garden work",
+     "text": "an empty wheelbarrow standing in a garden",
+     "pexels": "empty wheelbarrow in garden",
+     "pixabay": "empty wheelbarrow garden",
      "scale": "wide"
     },
     {
      "id": "E",
-     "text": "garden tools left out on the ground, nobody there",
-     "pexels": "garden tools left on ground",
-     "pixabay": "garden tools ground alone",
+     "text": "a worker standing by a gate looking down a path",
+     "pexels": "man standing by gate looking",
+     "pixabay": "man standing gate path",
      "scale": "medium"
     }
    ],
@@ -1457,11 +1457,11 @@
     "office",
     "celebration",
     "crowd",
-    "thumbs up",
+    "phone screen close-up",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-13T15:49:06Z",
+   "shots_at": "2026-10-14T08:53:35Z",
    "stock_gap": {
     "usable": 0,
     "at": "2026-10-13T18:15:47Z",
@@ -2104,50 +2104,50 @@
    "shots": [
     {
      "id": "A",
-     "text": "a worker stops what he is doing to make a phone call outdoors",
-     "pexels": "worker making phone call outdoors",
-     "pixabay": "worker phone call outdoor",
+     "text": "a farmer talking on the phone outdoors",
+     "pexels": "farmer talking on phone",
+     "pixabay": "farmer phone outdoor",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "two workers talking seriously face to face",
-     "pexels": "two workers talking seriously",
-     "pixabay": "two workers talking serious",
+     "text": "two men talking seriously in a field",
+     "pexels": "two men talking in field",
+     "pixabay": "two men talking field",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "a worker listening with a concerned expression",
-     "pexels": "worker listening serious face",
-     "pixabay": "worker listening face",
-     "scale": "close"
-    },
-    {
-     "id": "D",
-     "text": "a foreman explaining something plainly to one worker",
-     "pexels": "foreman talking to worker",
-     "pixabay": "foreman talking worker",
+     "text": "an older worker advising a younger one",
+     "pexels": "older worker advising younger",
+     "pixabay": "older worker advising young",
      "scale": "medium"
     },
     {
+     "id": "D",
+     "text": "a man listening carefully outdoors",
+     "pexels": "man listening carefully outdoors",
+     "pixabay": "man listening outdoor serious",
+     "scale": "close"
+    },
+    {
      "id": "E",
-     "text": "a hand placed on a colleague's shoulder",
-     "pexels": "hand on shoulder support",
-     "pixabay": "hand shoulder support",
+     "text": "a hand on a colleague's shoulder outdoors",
+     "pexels": "hand on shoulder outdoors",
+     "pixabay": "hand shoulder outdoor men",
      "scale": "close"
     }
    ],
    "must_not": [
     "office",
     "boardroom",
-    "argument shouting",
+    "shouting argument",
     "smiling crew",
-    "handshake deal",
+    "business suit",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-13T15:49:06Z",
+   "shots_at": "2026-10-14T08:53:35Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-10-13T18:15:47Z",
