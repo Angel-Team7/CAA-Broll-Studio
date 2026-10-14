@@ -48,6 +48,40 @@ async function loadProjects() {
   const start = hit ? hit.slug : idx.projects[0].slug;
   sel.value = start;
   loadProject(start);
+  syncAllWaiting(start);
+}
+
+// Changes made while saves were failing sit in this browser under sel:<slug>, one entry
+// per lesson. The open lesson syncs itself on load — but every OTHER lesson the reviewer
+// ticked offline would stay stranded until they happened to open it again. Sweep them
+// all once per session: merge each with GitHub's copy (never replace — see
+// mergeSelections) and send the ones GitHub has not got.
+async function syncAllWaiting(skip) {
+  if (!(gh && gh.token) || state.authFailed) return;
+  const slugs = Object.keys(localStorage)
+    .filter(k => k.startsWith("sel:")).map(k => k.slice(4))
+    .filter(s => s !== skip && state.projects.some(p => p.slug === s));
+  let sent = 0;
+  for (const slug of slugs) {
+    try {
+      const local = JSON.parse(localStorage.getItem(`sel:${slug}`) || "{}");
+      const got = await ghGet(`selections/${slug}.json`);
+      const remote = got ? JSON.parse(atob(got.content)) : { project: slug, approved: {} };
+      const merged = mergeSelections(remote, local);
+      if (!selectionDiff(remote, merged)) continue;
+      const payload = { project: slug, updated: new Date().toISOString(),
+        ready: !!remote.ready, approved: merged.approved,
+        needs_broll: merged.needs_broll || {}, topup_requests: merged.topup_requests || {} };
+      await ghPut(`selections/${slug}.json`, JSON.stringify(payload, null, 2),
+                  "cockpit: send changes that were waiting in this browser");
+      localStorage.setItem(`sel:${slug}`, JSON.stringify({ approved: merged.approved,
+        needs_broll: merged.needs_broll, topup_requests: merged.topup_requests }));
+      sent++;
+    } catch (e) {
+      if (/\b(401|403)\b/.test(String(e && e.message))) { authProblem(e); return; }
+    }
+  }
+  if (sent) toast(`Sent waiting changes for ${sent} other lesson${sent > 1 ? "s" : ""} ✓`);
 }
 
 function setDeepLink(slug) {
