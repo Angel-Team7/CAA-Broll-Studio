@@ -274,10 +274,16 @@ function render() {
   wrap.innerHTML = ordered.map(sc => {
     const appr = state.approved[sc.id] || [];
     const flagged = sc.id in state.reshoot;
+    // A finished direction search used to keep the amber "flagged" look forever — so a
+    // scene with 19 fresh, ranked options looked exactly like one still searching.
+    const dreq = state.topup && state.topup[sc.id];
+    const dirDone = !!(dreq && dreq.reason === "direction" && dreq.done);
+    const searching = pendingReq(sc.id, "direction");
+    const amber = flagged && !dirDone;
     const visible = visibleClips(sc, appr);
     const cards = visible.shown.map(c => card(sc.id, c, appr.includes(c.id))).join("");
     const hiddenNote = clipStatus(sc, visible);
-    return `<section class="scene ${flagged ? "flagged" : ""}" data-scene="${sc.id}">
+    return `<section class="scene ${amber || searching ? "flagged" : ""} ${dirDone && !searching ? "ready" : ""}" data-scene="${sc.id}">
       <div class="scene-head">
         <span class="scene-id">${sc.id}</span>
         <div class="scene-meta">
@@ -296,15 +302,15 @@ function render() {
           ${(sc.shots || []).length ? `<div class="scene-shots"><span class="tag shots">SHOT LIST</span>
             <span class="shots-txt">${sc.shots.map(x => `<span class="shot" title="${esc(x.pexels)}">${esc(x.id)} · ${esc(x.text)}</span>`).join("")}</span></div>` : ""}
           ${sc.stock_gap ? `<div class="scene-gap"><span class="tag gap">STOCK CANNOT SHOW THIS</span> ${esc(sc.stock_gap.reason || "")}</div>` : ""}
-          ${flagged ? `<div class="reshoot-note">🔁 ${dirStatus(sc.id)}${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
+          ${flagged ? `<div class="reshoot-note ${dirDone && !searching ? "ready" : ""}">${dirDone && !searching ? "✓" : "🔁"} ${dirStatus(sc.id)}${state.reshoot[sc.id] ? ' — “' + esc(state.reshoot[sc.id]) + '”' : ''}
              <button class="linkbtn addreason" data-scene="${sc.id}">${state.reshoot[sc.id] ? "edit reason" : "+ add a reason"}</button>
              <button class="linkbtn clearflag" data-scene="${sc.id}">clear flag</button></div>` : ""}
         </div>
         <div class="scene-side">
           <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
-          <button class="reshoot ${flagged ? "on" : ""}" data-scene="${sc.id}"
+          <button class="reshoot ${searching || amber ? "on" : ""}" data-scene="${sc.id}"
             title="${flagged ? "Still not it — search again, steering away from everything shown" : "Not this kind of footage — search for a different direction"}">${
-            pendingReq(sc.id, "direction") ? "🔁 Searching…" : flagged ? "🔁 Still wrong — 10 more" : "🔁 Direction is wrong"}</button>
+            searching ? "🔁 Searching…" : dirDone ? "🔁 Still wrong? Search again" : flagged ? "🔁 Still wrong — 10 more" : "🔁 Direction is wrong"}</button>
           <button class="topup ${pendingReq(sc.id) ? "on" : ""}" data-scene="${sc.id}"
             title="Queue another 10 fresh clips for this shot — excludes everything already shown">${pendingReq(sc.id) ? "🔎 10 more queued" : "🔎 Need more"}</button>
           <button class="addbroll" data-scene="${sc.id}" title="Upload a video or image — or drag &amp; drop files here">＋ Add B-roll</button>
@@ -601,8 +607,8 @@ function pendingReq(sid, reason) {
 
 function dirStatus(sid) {
   const r = state.topup && state.topup[sid];
-  if (r && r.reason === "direction" && !r.done) return "searching for a different direction (about 2 min)";
-  if (r && r.reason === "direction" && r.done) return `${r.added || 10} different options added ${(r.fulfilled || "").slice(0, 10)} — still wrong? click again`;
+  if (r && r.reason === "direction" && !r.done) return "searching for a different direction — usually a few minutes";
+  if (r && r.reason === "direction" && r.done) return `Done — ${r.added || 10} new options ready, marked NEW below. Still not right? Search again.`;
   return "flagged as the wrong direction";
 }
 
