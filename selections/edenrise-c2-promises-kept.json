@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-promises-kept",
-  "updated": "2026-10-14T16:05:05.113Z",
+  "updated": "2026-10-14T16:23:02.979Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -11,6 +11,9 @@
     ],
     "S06": [
       "edenrise-c2-promises-kept-S06-V04"
+    ],
+    "S01": [
+      "edenrise-c2-promises-kept-S01-V10"
     ]
   },
   "needs_broll": {
