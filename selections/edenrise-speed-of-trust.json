@@ -1,7 +1,7 @@
 {
   "project": "edenrise-speed-of-trust",
-  "updated": "2026-09-16T10:18:48.368Z",
-  "ready": true,
+  "updated": "2026-10-14T16:00:36.998Z",
+  "ready": false,
   "approved": {
     "S01": [
       "edenrise-speed-of-trust-S01-V25"
@@ -67,22 +67,20 @@
       "added": 18
     },
     "S03": {
-      "requested": "2026-09-16T10:07:19.046Z",
+      "requested": "2026-10-14T14:29:39.079Z",
       "note": "",
       "reason": "direction",
       "avoid": [
-        "quickly",
-        "hands",
-        "skilled",
-        "close",
+        "workers",
+        "passing",
+        "line",
+        "bricks",
         "worker",
-        "struggling",
         "alone",
-        "load"
+        "load",
+        "construction"
       ],
-      "done": true,
-      "fulfilled": "2026-09-16T10:22:18Z",
-      "added": 14
+      "done": false
     },
     "S04": {
       "requested": "2026-09-15T15:50:30Z",
