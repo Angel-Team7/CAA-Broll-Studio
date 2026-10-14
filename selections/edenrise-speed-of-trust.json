@@ -80,7 +80,9 @@
         "load",
         "construction"
       ],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-10-14T16:02:50Z",
+      "added": 12
     },
     "S04": {
       "requested": "2026-09-15T15:50:30Z",
