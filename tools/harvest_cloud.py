@@ -118,10 +118,16 @@ def main():
     # 2. Real lessons' beats and sector seeds compete for the same budget, and there are
     #    always more thin lesson beats than a run can hold — seeds would never get a
     #    single clip. So they are INTERLEAVED: a run stocks lessons and new sectors both.
+    # The rotation counter CANNOT come from the run log alone: that file is only committed
+    # when a run adds something, so a run of zero leaves the count unchanged, the next run
+    # picks the same themes and the same result page, adds zero again, and the harvester
+    # deadlocks on one page forever. That is exactly what three weeks of green empty runs
+    # were. Wall-clock advances whether or not anything was committed, so mix it in.
     runs = 0
     log_p = ROOT / "library" / "harvest_log.jsonl"
     if log_p.exists():
         runs = sum(1 for _ in open(log_p))
+    runs += int(time.time() // 3600)        # advances every hour, committed or not
     cards = [t for t in thin if not t.get("seed")]
     seeds_t = [t for t in thin if t.get("seed")]
     # Step by what a run actually consumes — half its themes from each list — or the
