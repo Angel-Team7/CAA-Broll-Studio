@@ -4755,15 +4755,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V63.strip.jpg",
      "title": "close up on hands cleaning clay bowl",
      "query": "fast skilled hands craft",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "10844243",
      "download_url": "https://videos.pexels.com/video-files/10844243/10844243-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:01:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands shape and smooth a clay bowl on a wheel",
+     "violation": "",
+     "shoot": "pexels-clay-bowl-hands",
+     "score": 5.0,
+     "rank": 22,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V64",
@@ -4777,15 +4785,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V64.strip.jpg",
      "title": "hands working with clay",
      "query": "fast skilled hands craft",
-     "shot": "C",
+     "shot": "",
      "duration": 19,
      "src_id": "12690269",
      "download_url": "https://videos.pexels.com/video-files/12690269/12690269-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:01:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "hands knead rolled clay on a wooden board",
+     "violation": "",
+     "shoot": "pexels-clay-kneading-hands",
+     "score": 5.0,
+     "rank": 23,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V65",
@@ -4799,15 +4815,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V65.strip.jpg",
      "title": "man working in workshop",
      "query": "fast skilled hands craft",
-     "shot": "C",
+     "shot": "",
      "duration": 8,
      "src_id": "12025145",
      "download_url": "https://videos.pexels.com/video-files/12025145/12025145-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:01:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man in dark gear stares into the camera in a workshop",
+     "violation": "dark industrial workshop, intense stare into camera (gangster signifier)",
+     "shoot": "pexels-workshop-stare",
+     "score": 0.65,
+     "rank": 65,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V66",
@@ -4821,15 +4845,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V66.strip.jpg",
      "title": "space travel  nasa  galaxies  deep space  stars  time travel  speed of light  fast  space flight  universe  space  astronautics  space exploration  explore  science  flying  speed  distance  extraterrestrial  planets  planetoids  starlight  comets  asteroids  endless",
      "query": "hands working fast",
-     "shot": "C",
+     "shot": "",
      "duration": 5,
      "src_id": "5",
      "download_url": "https://cdn.pixabay.com/video/2015/08/07/5-135665794_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:01:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "stars and galaxies drift through deep space",
+     "violation": "",
+     "shoot": "pixabay-space-galaxy",
+     "score": 0.0,
+     "rank": 72,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V67",
@@ -4843,15 +4875,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V67.strip.jpg",
      "title": "young  dryer  lifestyle  hand  human hand  man  males  lifestyles  people  skill  work  barbershop  beauty  care  hair  cutting  hairstyle  stylist  hairdresser  barber  barber shop  slow",
      "query": "hands working fast",
-     "shot": "C",
+     "shot": "",
      "duration": 14,
      "src_id": "48969",
      "download_url": "https://cdn.pixabay.com/video/2020/09/03/48969-459186305_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:01:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a barber combs and blow-dries a client's hair",
+     "violation": "",
+     "shoot": "pixabay-barber-haircut",
+     "score": 0.0,
+     "rank": 73,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V68",
@@ -4865,15 +4905,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V68.strip.jpg",
      "title": "tube  metro  subway  underground  transport  transportation  urban  city  train  public  travel  railway  station  railroad  tunnel  traffic  speed  fast  rail",
      "query": "hands working fast",
-     "shot": "C",
+     "shot": "",
      "duration": 17,
      "src_id": "9005",
      "download_url": "https://cdn.pixabay.com/video/2017/05/06/9005-216332135_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a train speeds through a dark subway tunnel",
+     "violation": "",
+     "shoot": "pixabay-subway-tunnel",
+     "score": 0.0,
+     "rank": 74,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V69",
@@ -4887,15 +4935,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S03__strip__edenrise-speed-of-trust-S03-V69.strip.jpg",
      "title": "waterloo station  london  people  busy  station  fast",
      "query": "hands working fast",
-     "shot": "C",
+     "shot": "",
      "duration": 12,
      "src_id": "44968",
      "download_url": "https://cdn.pixabay.com/video/2020/07/18/44968-441206533_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "crowds cross a busy train station concourse",
+     "violation": "",
+     "shoot": "pixabay-train-station",
+     "score": 0.0,
+     "rank": 75,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V70",
@@ -4916,8 +4972,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "hands cut and shape leather with a small hammer",
+     "violation": "",
+     "shoot": "pexels-leather-crafting",
+     "score": 6.0,
+     "rank": 19,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V71",
@@ -4938,8 +5002,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "a man planes wood by hand, shavings curling off the blade",
+     "violation": "",
+     "shoot": "pexels-african-woodcarving",
+     "score": 9.0,
+     "rank": 1,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V72",
@@ -4953,15 +5025,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-3/S03__strip__edenrise-speed-of-trust-S03-V72.strip.jpg",
      "title": "walking  fast  people  street",
      "query": "hands working fast",
-     "shot": "C",
+     "shot": "",
      "duration": 11,
      "src_id": "25208",
      "download_url": "https://cdn.pixabay.com/video/2019/07/14/25208-348661247_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "people walk a decorated outdoor cafe street",
+     "violation": "",
+     "shoot": "pixabay-cafe-street",
+     "score": 0.35,
+     "rank": 68,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V73",
@@ -4975,15 +5055,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-3/S03__strip__edenrise-speed-of-trust-S03-V73.strip.jpg",
      "title": "close up of a person handling bricks",
      "query": "workers passing bricks line",
-     "shot": "A",
+     "shot": "C",
      "duration": 11,
      "src_id": "15990535",
      "download_url": "https://videos.pexels.com/video-files/15990535/15990535-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "a hand stacks and inspects clay bricks in a yard",
+     "violation": "",
+     "shoot": "pexels-brick-stacking",
+     "score": 7.35,
+     "rank": 5,
+     "judged_at": "2026-10-14T16:04:46Z"
     },
     {
      "id": "edenrise-speed-of-trust-S03-V74",
@@ -5004,8 +5092,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T16:02:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "two workers build a brick wall on a rooftop",
+     "violation": "",
+     "shoot": "pexels-rooftop-bricklaying",
+     "score": 6.35,
+     "rank": 14,
+     "judged_at": "2026-10-14T16:04:46Z"
     }
    ],
    "shots": [
@@ -6715,137 +6811,7 @@
    "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 2,
-    "at": {
-     "S01": {
-      "requested": "2026-09-15T15:03:21Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:05:22Z",
-      "added": 15
-     },
-     "S02": {
-      "requested": "2026-09-15T15:50:29Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:53:33Z",
-      "added": 18
-     },
-     "S03": {
-      "requested": "2026-10-14T14:29:39.079Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "workers",
-       "passing",
-       "line",
-       "bricks",
-       "worker",
-       "alone",
-       "load",
-       "construction"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-14T16:02:50Z",
-      "added": 12
-     },
-     "S04": {
-      "requested": "2026-09-15T15:50:30Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:55:49Z",
-      "added": 19
-     },
-     "S05": {
-      "requested": "2026-09-15T15:50:31Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:57:41Z",
-      "added": 16
-     },
-     "S06": {
-      "requested": "2026-09-15T15:03:25Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:12:12Z",
-      "added": 15
-     },
-     "S07": {
-      "requested": "2026-09-15T15:50:32Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:00:18Z",
-      "added": 22
-     },
-     "S08": {
-      "requested": "2026-09-15T15:03:27Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:15:19Z",
-      "added": 14
-     },
-     "S09": {
-      "requested": "2026-09-15T15:03:28Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:17:01Z",
-      "added": 14
-     },
-     "S10": {
-      "requested": "2026-09-15T15:03:29Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:19:27Z",
-      "added": 17
-     },
-     "S11": {
-      "requested": "2026-09-15T13:46:00Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-09-15T14:15:14Z",
-      "added": 20
-     },
-     "S12": {
-      "requested": "2026-09-15T15:50:33Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:01:57Z",
-      "added": 14
-     },
-     "S13": {
-      "requested": "2026-09-15T15:03:31Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:23:45Z",
-      "added": 16
-     },
-     "S14": {
-      "requested": "2026-09-15T15:50:34Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:03:57Z",
-      "added": 18
-     },
-     "S15": {
-      "requested": "2026-09-15T15:03:33Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:27:00Z",
-      "added": 14
-     }
-    },
+    "at": "2026-10-14T16:04:53Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
    "judged_at": "2026-09-15T16:08:59Z"
@@ -19855,137 +19821,7 @@
    "shots_at": "2026-09-15T15:50:29Z",
    "stock_gap": {
     "usable": 0,
-    "at": {
-     "S01": {
-      "requested": "2026-09-15T15:03:21Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:05:22Z",
-      "added": 15
-     },
-     "S02": {
-      "requested": "2026-09-15T15:50:29Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:53:33Z",
-      "added": 18
-     },
-     "S03": {
-      "requested": "2026-10-14T14:29:39.079Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "workers",
-       "passing",
-       "line",
-       "bricks",
-       "worker",
-       "alone",
-       "load",
-       "construction"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-14T16:02:50Z",
-      "added": 12
-     },
-     "S04": {
-      "requested": "2026-09-15T15:50:30Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:55:49Z",
-      "added": 19
-     },
-     "S05": {
-      "requested": "2026-09-15T15:50:31Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:57:41Z",
-      "added": 16
-     },
-     "S06": {
-      "requested": "2026-09-15T15:03:25Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:12:12Z",
-      "added": 15
-     },
-     "S07": {
-      "requested": "2026-09-15T15:50:32Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:00:18Z",
-      "added": 22
-     },
-     "S08": {
-      "requested": "2026-09-15T15:03:27Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:15:19Z",
-      "added": 14
-     },
-     "S09": {
-      "requested": "2026-09-15T15:03:28Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:17:01Z",
-      "added": 14
-     },
-     "S10": {
-      "requested": "2026-09-15T15:03:29Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:19:27Z",
-      "added": 17
-     },
-     "S11": {
-      "requested": "2026-09-15T13:46:00Z",
-      "note": "",
-      "done": true,
-      "fulfilled": "2026-09-15T14:15:14Z",
-      "added": 20
-     },
-     "S12": {
-      "requested": "2026-09-15T15:50:33Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:01:57Z",
-      "added": 14
-     },
-     "S13": {
-      "requested": "2026-09-15T15:03:31Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:23:45Z",
-      "added": 16
-     },
-     "S14": {
-      "requested": "2026-09-15T15:50:34Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T16:03:57Z",
-      "added": 18
-     },
-     "S15": {
-      "requested": "2026-09-15T15:03:33Z",
-      "note": "",
-      "done": true,
-      "reason": "direction",
-      "fulfilled": "2026-09-15T15:27:00Z",
-      "added": 14
-     }
-    },
+    "at": "2026-10-14T16:04:53Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
    "judged_at": "2026-09-15T16:15:15Z"
