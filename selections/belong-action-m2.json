@@ -64,8 +64,10 @@
     "S08": {
       "requested": "2026-10-14T09:28:14Z",
       "note": "",
-      "done": false,
-      "reason": "shots-rewritten"
+      "done": true,
+      "reason": "shots-rewritten",
+      "fulfilled": "2026-10-14T09:31:02Z",
+      "added": 24
     }
   }
 }
