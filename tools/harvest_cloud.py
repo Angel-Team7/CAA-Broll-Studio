@@ -12,7 +12,7 @@ Guards: taste filter (blocked / has_signal), dedupe on source:id and page_url
 against everything already owned, per-run budget so a cron tick stays short,
 and masters are never stored — only 480p previews + metadata.
 """
-import json, os, subprocess, pathlib, sys, tempfile, time, re
+import collections, json, os, shutil, subprocess, pathlib, sys, tempfile, time, re
 from itertools import zip_longest
 
 import requests
@@ -102,6 +102,11 @@ def main():
         print(chk.stdout[-2000:] or chk.stderr[-2000:])
         print("! sector registry is not sound — harvest aborted")
         return
+    if not shutil.which("ffmpeg") or not shutil.which("ffprobe"):
+        print("::error::ffmpeg/ffprobe are not on PATH — every preview would fail and the "
+              "run would add nothing while reporting success. Check the 'Cache ffmpeg' and "
+              "'Install deps' steps; the cache may have been evicted.")
+        sys.exit(1)
     lib = json.load(open(LIB_PATH))
     assets = lib["assets"]
     seen = {a["key"] for a in assets} | {(a.get("page_url") or "").rstrip("/") for a in assets}
@@ -147,6 +152,7 @@ def main():
           f"run #{runs + 1}, rotated by {step}, page {page} | budget {BUDGET}")
     added, credits = 0, []
     looked = dupes = 0
+    lost = collections.Counter()
     with tempfile.TemporaryDirectory() as td:
         for t in thin:
             if added >= BUDGET: break
@@ -178,13 +184,17 @@ def main():
                                 with open(master, "wb") as fh:
                                     for chunk in r.iter_content(1 << 20): fh.write(chunk)
                         except Exception as e:
-                            print(f"  ! download {c['source']}: {str(e)[:60]}"); continue
-                        if master.stat().st_size < 100_000: continue
+                            print(f"  ! download {c['source']}: {str(e)[:60]}")
+                            lost["download"] += 1; continue
+                        if master.stat().st_size < 100_000:
+                            lost["tiny download"] += 1; continue
                         pv, th = master.with_name(f"{stem}.pv.mp4"), master.with_name(f"{stem}.jpg")
-                        if not tb.make_preview(master, pv, th): continue
+                        if not tb.make_preview(master, pv, th):
+                            lost["preview/ffmpeg"] += 1; continue
                         pv_url = rm.upload_for_slug(LIB_SLUG, rm.asset_name("LIB", "preview", pv), pv)
                         th_url = rm.upload_for_slug(LIB_SLUG, rm.asset_name("LIB", "thumb", th), th)
-                        if not (pv_url and th_url): continue
+                        if not (pv_url and th_url):
+                            lost["release upload"] += 1; continue
                         row = {"key": key, "source": c["source"], "src_id": c["src_id"],
                                "page_url": c.get("page_url", ""), "type": "video",
                                "title": desc, "query": q, "author": c.get("author", ""),
@@ -214,6 +224,14 @@ def main():
     sick = tb.health_report()
     if sick:
         print(f"! sources not answering — {sick}")
+    if lost:
+        worst, n = lost.most_common(1)[0]
+        print(f"candidates lost on the way in: {dict(lost)}")
+        if added == 0 and n >= 5:
+            print(f"::error::{n} candidate(s) were found and then lost at '{worst}'. The "
+                  f"search is working; the failure is downstream of it.")
+            _log(ths, thin, assets, added, f"lost at {worst}: {n}")
+            sys.exit(1)
     if added == 0 and thin:
         print(f"! {len(thin)} theme(s) still need stock and this run added nothing.")
         if sick:
