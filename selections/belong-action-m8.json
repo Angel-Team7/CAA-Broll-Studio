@@ -1,6 +1,6 @@
 {
   "project": "belong-action-m8",
-  "updated": "2026-10-07T15:44:56Z",
+  "updated": "2026-10-14T09:28:14Z",
   "ready": false,
   "approved": {},
   "needs_broll": {},
@@ -38,12 +38,10 @@
       "added": 22
     },
     "S05": {
-      "requested": "2026-10-07T15:50:26Z",
+      "requested": "2026-10-14T09:30:14Z",
       "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:40:39Z",
-      "added": 24
+      "done": false,
+      "reason": "shots-rewritten"
     },
     "S06": {
       "requested": "2026-09-23T15:09:02Z",

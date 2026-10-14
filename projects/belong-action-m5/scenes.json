@@ -3017,49 +3017,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "a customer browsing in a small shop",
-     "pexels": "customer in small shop",
-     "pixabay": "customer browsing small shop",
+     "text": "a customer paying in a small shop",
+     "pexels": "customer paying small shop",
+     "pixabay": "customer paying shop",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "hands wrapping a purchase in paper",
-     "pexels": "wrapping purchase in paper",
-     "pixabay": "wrapping paper hands gift",
+     "text": "hands wrapping something in brown paper",
+     "pexels": "hands wrapping brown paper",
+     "pixabay": "wrapping brown paper hands",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "a woman waving goodbye at a doorway",
-     "pexels": "woman waving goodbye door",
-     "pixabay": "waving goodbye door",
+     "text": "saying goodbye at a doorway",
+     "pexels": "saying goodbye at door",
+     "pixabay": "goodbye door waving",
      "scale": "medium"
     },
     {
      "id": "D",
-     "text": "a suitcase being loaded into a car",
-     "pexels": "loading suitcase into car",
-     "pixabay": "loading suitcase car",
-     "scale": "wide"
+     "text": "a woman carrying a shopping bag",
+     "pexels": "woman carrying shopping bag",
+     "pixabay": "woman carrying shopping bag",
+     "scale": "medium"
     },
     {
      "id": "E",
-     "text": "a shopping bag handed across a counter",
-     "pexels": "handing shopping bag customer",
-     "pixabay": "handing shopping bag",
-     "scale": "close"
+     "text": "packing bags into a car boot",
+     "pexels": "packing bags into car",
+     "pixabay": "packing bags car boot",
+     "scale": "wide"
     }
    ],
    "must_not": [
-    "airport departure gate",
-    "hotel checkout queue",
-    "credit card advert",
     "shopping mall",
+    "airport",
+    "credit card advert",
+    "crowd",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
+   "shots_at": "2026-10-14T09:28:03Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-10-13T17:57:40Z",

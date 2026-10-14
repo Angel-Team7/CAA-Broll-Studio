@@ -3536,49 +3536,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "laundry being sorted into baskets",
-     "pexels": "sorting laundry into baskets",
-     "pixabay": "sorting laundry baskets",
+     "text": "a woman sorting laundry into a basket",
+     "pexels": "woman sorting laundry basket",
+     "pixabay": "woman sorting laundry",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "a stain being treated on white fabric",
-     "pexels": "removing stain from fabric",
-     "pixabay": "removing stain fabric",
+     "text": "hands checking a piece of white fabric",
+     "pexels": "hands checking white fabric",
+     "pixabay": "hands checking fabric",
      "scale": "close"
     },
     {
      "id": "C",
-     "text": "torn white fabric held in two hands",
-     "pexels": "torn fabric in hands",
-     "pixabay": "torn fabric hands",
-     "scale": "close"
+     "text": "white sheets drying on a washing line",
+     "pexels": "white sheets washing line",
+     "pixabay": "sheets washing line",
+     "scale": "wide"
     },
     {
      "id": "D",
-     "text": "white sheets being folded by hand",
-     "pexels": "folding white sheets",
-     "pixabay": "folding white sheets",
-     "scale": "medium"
+     "text": "a stack of folded white towels",
+     "pexels": "stack folded white towels",
+     "pixabay": "folded white towels stack",
+     "scale": "close"
     },
     {
      "id": "E",
-     "text": "a commercial laundry room with machines",
-     "pexels": "commercial laundry room machines",
-     "pixabay": "commercial laundry room",
-     "scale": "wide"
+     "text": "hands folding a white sheet",
+     "pexels": "hands folding white sheet",
+     "pixabay": "folding white sheet hands",
+     "scale": "medium"
     }
    ],
    "must_not": [
-    "dry cleaning shop front",
     "detergent advert",
+    "industrial factory floor",
     "sewing factory",
-    "clothes shopping rail",
+    "dry cleaning shop",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
+   "shots_at": "2026-10-14T09:28:03Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-10-13T18:05:04Z",
@@ -6545,49 +6545,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "a laundry worker ironing in a warm room",
-     "pexels": "laundry worker ironing",
-     "pixabay": "laundry worker ironing",
+     "text": "a woman ironing linen by hand",
+     "pexels": "woman ironing linen",
+     "pixabay": "woman ironing linen",
      "scale": "medium"
     },
     {
      "id": "B",
-     "text": "steam rising in a work room",
-     "pexels": "steam rising in work room",
-     "pixabay": "steam rising room",
-     "scale": "wide"
-    },
-    {
-     "id": "C",
-     "text": "a worker drinking water during a break",
-     "pexels": "worker drinking water break",
-     "pixabay": "worker drinking water break",
+     "text": "two women working together with laundry",
+     "pexels": "two women working laundry",
+     "pixabay": "two women laundry working",
      "scale": "medium"
     },
     {
+     "id": "C",
+     "text": "a worker resting with a glass of water",
+     "pexels": "worker resting glass water",
+     "pixabay": "worker resting water",
+     "scale": "close"
+    },
+    {
      "id": "D",
-     "text": "a manager talking with workers",
-     "pexels": "manager talking to workers",
-     "pixabay": "manager talking workers",
+     "text": "an older woman smiling at a younger worker",
+     "pexels": "older woman younger worker talking",
+     "pixabay": "older younger women talking",
      "scale": "medium"
     },
     {
      "id": "E",
-     "text": "a tired worker wiping their face",
-     "pexels": "tired worker wiping face",
-     "pixabay": "tired worker wiping face",
+     "text": "steam rising from hot linen",
+     "pexels": "steam rising from linen",
+     "pixabay": "steam linen hot",
      "scale": "close"
     }
    ],
    "must_not": [
     "sweatshop",
     "forced labour framing",
+    "industrial factory rows",
     "exhausted collapse",
-    "sewing factory rows",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
+   "shots_at": "2026-10-14T09:28:03Z",
    "stock_gap": {
     "usable": 1,
     "at": "2026-10-13T18:05:04Z",

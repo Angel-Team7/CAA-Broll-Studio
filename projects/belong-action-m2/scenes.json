@@ -7227,49 +7227,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "hands picking up fallen branches in a garden",
-     "pexels": "picking up branches garden",
-     "pixabay": "picking branches garden hands",
-     "scale": "close"
+     "text": "a man picking up a fallen branch",
+     "pexels": "man picking up fallen branch",
+     "pixabay": "man picking branch",
+     "scale": "medium"
     },
     {
      "id": "B",
-     "text": "someone picking up litter outdoors",
-     "pexels": "picking up litter",
-     "pixabay": "picking up litter outdoor",
+     "text": "sweeping a garden path with a broom",
+     "pexels": "sweeping garden path broom",
+     "pixabay": "sweeping garden path",
      "scale": "medium"
     },
     {
      "id": "C",
-     "text": "hands cleaning a window with a cloth",
-     "pexels": "cleaning window glass cloth",
-     "pixabay": "cleaning window glass",
+     "text": "cleaning a window from outside",
+     "pexels": "cleaning window outdoors",
+     "pixabay": "cleaning window outside",
      "scale": "close"
     },
     {
      "id": "D",
-     "text": "a worker using a phone outdoors",
-     "pexels": "worker using phone outdoors",
-     "pixabay": "worker phone outdoor",
-     "scale": "medium"
+     "text": "a worker tidying a garden",
+     "pexels": "worker tidying garden",
+     "pixabay": "worker tidying garden",
+     "scale": "wide"
     },
     {
      "id": "E",
-     "text": "country houses in warm evening light",
-     "pexels": "country houses evening light",
-     "pixabay": "country houses evening",
-     "scale": "wide"
+     "text": "hands picking up a dropped cloth from a path",
+     "pexels": "hands picking up from path",
+     "pixabay": "hands picking up path",
+     "scale": "close"
     }
    ],
    "must_not": [
     "street sweeping machine",
     "rubbish dump",
     "corporate volunteer day",
-    "protest",
-    "face masks"
+    "face masks",
+    "smiling crew"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:23Z",
+   "shots_at": "2026-10-14T09:28:03Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-10-13T17:48:35Z",

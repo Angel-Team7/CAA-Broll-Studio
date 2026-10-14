@@ -4853,49 +4853,49 @@
    "shots": [
     {
      "id": "A",
-     "text": "an empty reception desk with nobody behind it",
-     "pexels": "empty reception desk",
-     "pixabay": "empty reception desk",
-     "scale": "wide"
+     "text": "a person waiting at a counter",
+     "pexels": "person waiting at counter",
+     "pixabay": "person waiting counter",
+     "scale": "medium"
     },
     {
      "id": "B",
-     "text": "a receptionist greeting a guest warmly",
-     "pexels": "receptionist greeting guest",
-     "pixabay": "receptionist greeting guest",
-     "scale": "medium"
+     "text": "a woman waiting and looking around",
+     "pexels": "woman waiting looking around",
+     "pixabay": "woman waiting looking",
+     "scale": "close"
     },
     {
      "id": "C",
-     "text": "a person waiting and checking the time",
-     "pexels": "person waiting checking time",
-     "pixabay": "person waiting checking watch",
-     "scale": "close"
-    },
-    {
-     "id": "D",
-     "text": "two staff members talking at a desk",
-     "pexels": "two staff talking at desk",
-     "pixabay": "two staff talking desk",
+     "text": "a staff member greeting a guest warmly",
+     "pexels": "staff greeting guest warmly",
+     "pixabay": "staff greeting guest",
      "scale": "medium"
     },
     {
-     "id": "E",
-     "text": "a hand resting on a reception counter",
-     "pexels": "hand on reception counter",
-     "pixabay": "hand reception counter",
+     "id": "D",
+     "text": "a person checking the time while waiting",
+     "pexels": "person checking time waiting",
+     "pixabay": "person checking watch waiting",
      "scale": "close"
+    },
+    {
+     "id": "E",
+     "text": "an empty reception area",
+     "pexels": "empty reception area",
+     "pixabay": "empty reception area",
+     "scale": "wide"
     }
    ],
    "must_not": [
     "shouting argument",
-    "angry fist on counter",
     "call centre headset",
     "comedy sketch",
+    "crowd queue",
     "face masks"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-07T15:44:24Z",
+   "shots_at": "2026-10-14T09:28:03Z",
    "stock_gap": {
     "usable": 2,
     "at": "2026-10-13T18:11:04Z",

@@ -1,6 +1,6 @@
 {
   "project": "belong-action-m2",
-  "updated": "2026-10-07T15:44:56Z",
+  "updated": "2026-10-14T09:28:14Z",
   "ready": false,
   "approved": {},
   "needs_broll": {},
@@ -62,12 +62,10 @@
       "added": 22
     },
     "S08": {
-      "requested": "2026-10-07T15:45:26Z",
+      "requested": "2026-10-14T09:28:14Z",
       "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:12:37Z",
-      "added": 24
+      "done": false,
+      "reason": "shots-rewritten"
     }
   }
 }
