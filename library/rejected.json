@@ -11623,116 +11623,92 @@
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "clear frontal face, not hands/backs/profiles only",
-  "at": "2026-10-19T17:09:46Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:10:09Z",
   "from": "belong-action-m5/M5-B01"
- },
- "pexels:3838401": {
-  "sector": "belong",
-  "reason": "a black ribbon bow on a gift box is visible in frame",
-  "at": "2026-10-19T17:10:08Z",
-  "from": "belong-action-m5/M5-B02"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "printed sticker/logo on the bag",
-  "at": "2026-10-19T17:10:08Z",
-  "from": "belong-action-m5/M5-B02"
- },
- "pexels:3838399": {
-  "sector": "belong",
-  "reason": "a black ribbon bow on a gift box is visible in frame",
-  "at": "2026-10-19T17:10:08Z",
+  "reason": "logo",
+  "at": "2026-10-19T17:10:33Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "visible price tags and a supermarket-refill-aisle look",
-  "at": "2026-10-19T17:10:35Z",
+  "reason": "price tag",
+  "at": "2026-10-19T17:11:02Z",
   "from": "belong-action-m5/M5-B03"
  },
  "pexels:38806023": {
   "sector": "belong",
-  "reason": "factory conveyor/assembly line",
-  "at": "2026-10-19T17:11:03Z",
+  "reason": "factory",
+  "at": "2026-10-19T17:11:30Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle in frame",
-  "at": "2026-10-19T17:11:03Z",
+  "reason": "spray bottle",
+  "at": "2026-10-19T17:11:30Z",
   "from": "belong-action-m5/M5-B04"
+ },
+ "pixabay:8257": {
+  "sector": "belong",
+  "reason": "non-earth palette, gym setting breaks TASTE",
+  "at": "2026-10-19T17:13:13Z",
+  "from": "belong-action-m6/M6-B01"
  },
  "pixabay:109413": {
   "sector": "belong",
-  "reason": "gym",
-  "at": "2026-10-19T17:12:29Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:13:13Z",
+  "from": "belong-action-m6/M6-B01"
+ },
+ "pixabay:8294": {
+  "sector": "belong",
+  "reason": "logo",
+  "at": "2026-10-19T17:13:13Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:4935736": {
   "sector": "belong",
   "reason": "sailing yacht",
-  "at": "2026-10-19T17:12:29Z",
+  "at": "2026-10-19T17:13:13Z",
+  "from": "belong-action-m6/M6-B01"
+ },
+ "pexels:6473382": {
+  "sector": "belong",
+  "reason": "luxury-resort look",
+  "at": "2026-10-19T17:13:13Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:7792608": {
   "sector": "belong",
-  "reason": "off-palette, luxury sheen",
-  "at": "2026-10-19T17:13:05Z",
+  "reason": "fashion/satin sheen, blue not earth palette",
+  "at": "2026-10-19T17:13:43Z",
   "from": "belong-action-m6/M6-B02"
  },
  "pexels:7677258": {
   "sector": "belong",
-  "reason": "luxury (gold)",
-  "at": "2026-10-19T17:13:05Z",
+  "reason": "gold, luxury-resort look",
+  "at": "2026-10-19T17:13:43Z",
   "from": "belong-action-m6/M6-B02"
  },
  "pexels:9467582": {
   "sector": "belong",
   "reason": "frontal face",
-  "at": "2026-10-19T17:13:38Z",
+  "at": "2026-10-19T17:14:19Z",
   "from": "belong-action-m6/M6-B03"
  },
  "pexels:6950818": {
   "sector": "belong",
-  "reason": "frontal face, smiling",
-  "at": "2026-10-19T17:14:54Z",
+  "reason": "frontal faces, smiling",
+  "at": "2026-10-19T17:15:41Z",
   "from": "belong-action-m6/M6-B05"
- },
- "pexels:6901285": {
-  "sector": "belong",
-  "reason": "marble luxury kitchen",
-  "at": "2026-10-19T17:14:54Z",
-  "from": "belong-action-m6/M6-B05"
- },
- "pexels:5240899": {
-  "sector": "belong",
-  "reason": "corporate client transaction",
-  "at": "2026-10-19T17:14:54Z",
-  "from": "belong-action-m6/M6-B05"
- },
- "pexels:6901279": {
-  "sector": "belong",
-  "reason": "marble luxury kitchen",
-  "at": "2026-10-19T17:14:54Z",
-  "from": "belong-action-m6/M6-B05"
- },
- "pexels:28957437": {
-  "sector": "belong",
-  "reason": "nightclub stage look",
-  "at": "2026-10-19T17:15:34Z",
-  "from": "belong-action-m6/M6-B06"
- },
- "pexels:852222": {
-  "sector": "belong",
-  "reason": "coffee/kettle cliche",
-  "at": "2026-10-19T17:15:34Z",
-  "from": "belong-action-m6/M6-B06"
  },
  "pexels:38917906": {
   "sector": "belong",
-  "reason": "frontal face, vaping",
-  "at": "2026-10-19T17:15:34Z",
+  "reason": "frontal face, vaping subject",
+  "at": "2026-10-19T17:16:24Z",
   "from": "belong-action-m6/M6-B06"
  }
 }
