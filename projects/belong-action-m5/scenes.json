@@ -47,7 +47,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B01__strip__belong-action-m5-M5-B01-V00.strip.jpg",
      "title": "close up view of a person holding a wooden honey dipper",
      "query": "honey jar in window light",
-     "shot": "A",
+     "shot": "B",
      "duration": 27,
      "src_id": "5645193",
      "download_url": "https://videos.pexels.com/video-files/5645193/5645193-hd_1920_1080_25fps.mp4",
@@ -57,8 +57,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:00:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 8,
+     "caption": "fingers hold a honey dipper over a small glass bowl of honey",
+     "violation": "",
+     "shoot": "pexels-honeydipper-driedfruit",
+     "score": 7.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V01",
@@ -82,8 +90,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:00:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "honey pours into a small glass jar outdoors at dusk",
+     "violation": "",
+     "shoot": "pexels-honeypour-outdoorsjar",
+     "score": 7.0,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V02",
@@ -107,8 +123,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "honey pours slowly into an open glass jar, glowing amber",
+     "violation": "",
+     "shoot": "pexels-honeypour-macro",
+     "score": 8.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V03",
@@ -122,7 +146,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B01__strip__belong-action-m5-M5-B01-V03.strip.jpg",
      "title": "woman in white sweater eating biscuits",
      "query": "honey jar in window light",
-     "shot": "A",
+     "shot": "",
      "duration": 18,
      "src_id": "5043260",
      "download_url": "https://videos.pexels.com/video-files/5043260/5043260-hd_1920_1080_30fps.mp4",
@@ -132,8 +156,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a woman eats a biscuit with honey at a table by a window",
+     "violation": "clear frontal face, not hands/backs/profiles only",
+     "shoot": "pexels-womaneating-honeybiscuit",
+     "score": 1.65,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V04",
@@ -147,7 +179,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B01__strip__belong-action-m5-M5-B01-V04.strip.jpg",
      "title": "woman  phone  smartphone  technology  mobile  telephone  cellphone  person  female  wireless  device  media  communication  people  holding  business",
      "query": "holding honey jar",
-     "shot": "B",
+     "shot": "",
      "duration": 8,
      "src_id": "38084",
      "download_url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
@@ -157,8 +189,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a woman holds and looks at a smartphone",
+     "violation": "",
+     "shoot": "pixabay-phone-texting",
+     "score": 1.35,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V05",
@@ -172,7 +212,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B01__strip__belong-action-m5-M5-B01-V05.strip.jpg",
      "title": "rain  water  window  wet  drops  dripping  rainy  night  light  sad",
      "query": "honey jars window",
-     "shot": "C",
+     "shot": "",
      "duration": 33,
      "src_id": "11722",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
@@ -182,8 +222,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "raindrops streak down a window at night with blurred lights",
+     "violation": "",
+     "shoot": "pixabay-rainwindow-night",
+     "score": 1.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:09:46Z"
     },
     {
      "id": "belong-action-m5-M5-B01-V06",
@@ -197,7 +245,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B01__strip__belong-action-m5-M5-B01-V06.strip.jpg",
      "title": "window  clean  to wipe  black  to clean",
      "query": "honey jars window",
-     "shot": "C",
+     "shot": "",
      "duration": 30,
      "src_id": "7954",
      "download_url": "https://cdn.pixabay.com/video/2017/02/26/7954-205810619_large.mp4",
@@ -207,8 +255,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a near-black frame with a hand faintly visible at the edge",
+     "violation": "",
+     "shoot": "pixabay-darkframe-windowwipe",
+     "score": 1.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:09:46Z"
     }
    ],
    "shots": [
@@ -403,7 +459,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B02__strip__belong-action-m5-M5-B02-V39.strip.jpg",
      "title": "a thank you message stamped on a piece of card",
      "query": "tying twine around paper bag",
-     "shot": "A",
+     "shot": "",
      "duration": 42,
      "src_id": "3838401",
      "download_url": "https://videos.pexels.com/video-files/3838401/3838401-hd_2048_1080_25fps.mp4",
@@ -413,8 +469,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "hands stamp letters onto kraft paper tags beside a spool of twine",
+     "violation": "a black ribbon bow on a gift box is visible in frame",
+     "shoot": "pexels-kraftstamping-deskscene",
+     "score": 3.0,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:10:08Z"
     },
     {
      "id": "belong-action-m5-M5-B02-V40",
@@ -428,7 +492,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B02__strip__belong-action-m5-M5-B02-V40.strip.jpg",
      "title": "a paper bag with dog stickers",
      "query": "tying twine around paper bag",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "7308052",
      "download_url": "https://videos.pexels.com/video-files/7308052/7308052-hd_1920_1080_24fps.mp4",
@@ -438,8 +502,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a paper bag with a printed sticker stands beside wrapped treats",
+     "violation": "printed sticker/logo on the bag",
+     "shoot": "pexels-paperbag-dogsticker",
+     "score": 1.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:10:08Z"
     },
     {
      "id": "belong-action-m5-M5-B02-V41",
@@ -463,8 +535,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:01:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hands tie natural twine around a kraft paper parcel",
+     "violation": "",
+     "shoot": "pexels-twinetie-kraftparcel",
+     "score": 8.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:10:08Z"
     },
     {
      "id": "belong-action-m5-M5-B02-V42",
@@ -478,7 +558,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B02__strip__belong-action-m5-M5-B02-V42.strip.jpg",
      "title": "single letters stamps on paper to form a word",
      "query": "tying twine around paper bag",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "3838399",
      "download_url": "https://videos.pexels.com/video-files/3838399/3838399-hd_2048_1080_25fps.mp4",
@@ -488,8 +568,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand stamps letters onto kraft paper tags on a desk",
+     "violation": "a black ribbon bow on a gift box is visible in frame",
+     "shoot": "pexels-kraftstamping-letters",
+     "score": 3.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:10:08Z"
     }
    ],
    "shots": [
@@ -528,26 +616,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 1,
-    "at": {
-     "M7-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:08:50Z",
-      "added": 7
-     },
-     "M7-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": false,
-      "reason": "first-gather",
-      "by": "abstract-rework"
-     }
-    },
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-10-19T17:11:06Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -669,14 +740,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B03__strip__belong-action-m5-M5-B03-V06.strip.jpg",
      "title": "pouring sugar into jar on kitchen counter",
      "query": "jars of pickles pantry shelf",
-     "shot": "B",
+     "shot": "",
      "src_id": "36865173",
      "download_url": "https://videos.pexels.com/video-files/36865173/15617514_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:02:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a hand pours spice into a glass jar on a dark counter",
+     "violation": "",
+     "shoot": "pexels-spicepour-woodboard",
+     "score": 5.7,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:10:35Z"
     },
     {
      "id": "belong-action-m5-M5-B03-V07",
@@ -696,8 +775,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:02:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 1,
+     "caption": "shelves of jars and pump bottles with price tags and a chalkboard sign",
+     "violation": "visible price tags and a supermarket-refill-aisle look",
+     "shoot": "pexels-refillshelf-pricetags",
+     "score": 2.3,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:10:35Z"
     },
     {
      "id": "belong-action-m5-M5-B03-V08",
@@ -711,14 +798,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B03__strip__belong-action-m5-M5-B03-V08.strip.jpg",
      "title": "turntable  old  vinyl  music  retro  entertainment  record  audio  sound  vintage  analog  label  track",
      "query": "honey jars labels shelf",
-     "shot": "A",
+     "shot": "",
      "src_id": "8453",
      "download_url": "https://cdn.pixabay.com/video/2017/03/20/8453-209292199_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:02:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a hand touches a spinning vinyl record on a turntable",
+     "violation": "",
+     "shoot": "pixabay-turntable-vinyl",
+     "score": 1.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:10:35Z"
     },
     {
      "id": "belong-action-m5-M5-B03-V09",
@@ -742,8 +837,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "an older man reaches for a labeled can on a shop shelf",
+     "violation": "",
+     "shoot": "pexels-paintshop-manreaching",
+     "score": 4.65,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:10:35Z"
     },
     {
      "id": "belong-action-m5-M5-B03-V10",
@@ -757,7 +860,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B03__strip__belong-action-m5-M5-B03-V10.strip.jpg",
      "title": "person arranging the scented candles",
      "query": "hand gesturing toward shelf of jars",
-     "shot": "A",
+     "shot": "",
      "duration": 21,
      "src_id": "6343757",
      "download_url": "https://videos.pexels.com/video-files/6343757/6343757-hd_2048_1080_30fps.mp4",
@@ -767,8 +870,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand places a small jar beside styled candles on a wooden board",
+     "violation": "",
+     "shoot": "pexels-flatlay-candlejars",
+     "score": 3.0,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:10:35Z"
     }
    ],
    "shots": [
@@ -808,24 +919,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 2,
-    "at": {
-     "M7-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:08:50Z",
-      "added": 7
-     },
-     "M7-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": false,
-      "reason": "first-gather",
-      "by": "abstract-rework"
-     }
-    },
+    "at": "2026-10-19T17:11:06Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -910,14 +1004,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B04__strip__belong-action-m5-M5-B04-V03.strip.jpg",
      "title": "",
      "query": "glass fermentation jars backlit on a wooden shelf",
-     "shot": "C",
+     "shot": "",
      "src_id": "15860522",
      "download_url": "https://videos.pexels.com/video-files/15860522/15860522-hd_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:02:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a backlit bottle of tea sits on a kitchen counter with fruit",
+     "violation": "",
+     "shoot": "pexels-teabottle-kitchencounter",
+     "score": 2.05,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:11:03Z"
     },
     {
      "id": "belong-action-m5-M5-B04-V04",
@@ -931,14 +1033,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B04__strip__belong-action-m5-M5-B04-V04.strip.jpg",
      "title": "",
      "query": "glass fermentation jars backlit on a wooden shelf",
-     "shot": "C",
+     "shot": "",
      "src_id": "38806023",
      "download_url": "https://videos.pexels.com/video-files/38806023/16494456_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:02:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "wooden crates of bottled product move through an industrial bottling line",
+     "violation": "factory conveyor/assembly line",
+     "shoot": "pexels-bottlingline-factory",
+     "score": 0.65,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:11:03Z"
     },
     {
      "id": "belong-action-m5-M5-B04-V05",
@@ -952,7 +1062,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B04__strip__belong-action-m5-M5-B04-V05.strip.jpg",
      "title": "hand taking cup and cleaning stain with cloth",
      "query": "wiping dust off glass jar",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "10568254",
      "download_url": "https://videos.pexels.com/video-files/10568254/10568254-hd_2048_1080_25fps.mp4",
@@ -962,8 +1072,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand wipes a ring-shaped stain off a wooden table with a cloth",
+     "violation": "",
+     "shoot": "pexels-tablewipe-stain",
+     "score": 6.35,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:11:03Z"
     },
     {
      "id": "belong-action-m5-M5-B04-V06",
@@ -987,8 +1105,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a hand wipes a row of candle jars clean on a table",
+     "violation": "",
+     "shoot": "pexels-candlejar-wipe",
+     "score": 6.65,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:11:03Z"
     },
     {
      "id": "belong-action-m5-M5-B04-V07",
@@ -1012,8 +1138,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:02:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a hand wipes a small dark glass jar clean with a cloth",
+     "violation": "",
+     "shoot": "pexels-jarwipe-apron",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:11:03Z"
     },
     {
      "id": "belong-action-m5-M5-B04-V08",
@@ -1027,7 +1161,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B04__strip__belong-action-m5-M5-B04-V08.strip.jpg",
      "title": "man wiping glass",
      "query": "wiping dust off glass jar",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "7640956",
      "download_url": "https://videos.pexels.com/video-files/7640956/7640956-hd_2048_1080_25fps.mp4",
@@ -1037,8 +1171,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a person sprays and wipes a window with a cloth",
+     "violation": "spray bottle in frame",
+     "shoot": "pexels-windowclean-spraybottle",
+     "score": 1.3,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:11:03Z"
     }
    ],
    "shots": [
@@ -1075,29 +1217,7 @@
     "laboratory"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": {
-     "M7-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:08:50Z",
-      "added": 7
-     },
-     "M7-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": false,
-      "reason": "first-gather",
-      "by": "abstract-rework"
-     }
-    },
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-19T15:58:28Z"
   },
   {
    "id": "M5-B05",
@@ -1243,24 +1363,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "M7-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:08:50Z",
-      "added": 7
-     },
-     "M7-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": false,
-      "reason": "first-gather",
-      "by": "abstract-rework"
-     }
-    },
+    "at": "2026-10-19T17:11:06Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   }
