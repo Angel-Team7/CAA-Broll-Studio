@@ -11563,32 +11563,26 @@
  },
  "pexels:39944365": {
   "sector": "belong",
-  "reason": "drone aerial footage, identifiable coastal village",
-  "at": "2026-10-19T17:06:49Z",
+  "reason": "drone hyperlapse, recognisable village",
+  "at": "2026-10-19T17:07:18Z",
   "from": "belong-action-m4/M4-B02"
  },
  "pexels:28840746": {
   "sector": "belong",
-  "reason": "signage/logo in frame, crowd, drone aerial footage, beach party scene",
-  "at": "2026-10-19T17:06:49Z",
+  "reason": "crowd, beach party, logo",
+  "at": "2026-10-19T17:07:18Z",
   "from": "belong-action-m4/M4-B02"
  },
  "pexels:35776900": {
   "sector": "belong",
-  "reason": "drone aerial footage, luxury-resort look (cabana rows)",
-  "at": "2026-10-19T17:06:49Z",
+  "reason": "crowd, sunbathers",
+  "at": "2026-10-19T17:07:18Z",
   "from": "belong-action-m4/M4-B02"
- },
- "pixabay:14627": {
-  "sector": "belong",
-  "reason": "alcohol (sparkling wine/celebration), studio luxury look",
-  "at": "2026-10-19T17:07:27Z",
-  "from": "belong-action-m4/M4-B03"
  },
  "pixabay:19258": {
   "sector": "belong",
-  "reason": "identifiable city skyline, billboard signage, nightlife setting",
-  "at": "2026-10-19T17:07:27Z",
+  "reason": "nightlife, recognisable skyline, logo billboard",
+  "at": "2026-10-19T17:07:52Z",
   "from": "belong-action-m4/M4-B03"
  }
 }
