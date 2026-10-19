@@ -731,6 +731,8 @@ def main():
                           "closed": "nothing met the beat after 3 tries — see zero_reason"})
             json.dump(sel, open(path, "w"), indent=2)
             zeros.append(f"{slug}/{sid}")
+            if len(zeros) <= 4:                    # annotations are readable without a sign-in
+                print(f"::warning::why {slug}/{sid}: " + r["zero_reason"][-600:].replace("\n", " "))
         if n:
             sel = json.load(open(path))
             req = sel["topup_requests"][sid]
@@ -767,7 +769,10 @@ def main():
             r = subprocess.run([sys.executable, str(ROOT / "tools" / "push_cards.py"),
                                 f"[topup-bot] {len(zeros)} beat(s) came back empty — reasons on the requests"],
                                cwd=ROOT, capture_output=True, text=True)
-            print((r.stdout or r.stderr).strip()[-600:])
+            out = ((r.stdout or "") + " " + (r.stderr or "")).strip()
+            print(out[-600:])
+            if r.returncode:
+                print("::warning::push_cards failed: " + out[-700:].replace("\n", " "))
         print("::warning::empty: " + ", ".join(zeros)[:900])
     return 0
 
