@@ -664,7 +664,7 @@ def main():
     # because nothing was reported added, and EVERY scene staged before the crash was
     # lost — previews and strips already uploaded to Releases, orphaned. That is what
     # happened on 2026-10-13: twelve minutes of real work, discarded.
-    failures = []
+    failures, zeros = [], []
     for path, slug, sid, note, reason, auto_avoid in pending[:MAX_SCENES_PER_RUN]:
         sector = sectors.for_slug(slug)
         print(f"→ {slug} {sid}  ({note!r})")
@@ -689,10 +689,17 @@ def main():
             sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)
             # beats with a shot list go through recall v2 (stage for the judge); others
             # keep the old gather until their shot list exists
-            import recall
-            n = recall.stage_scene(slug, sid, note, sector, reason, auto_avoid)
-            if n is None:
-                n = run_scene(slug, sid, note, sector, reason, auto_avoid)
+            import recall, io, contextlib
+            # Keep what this beat printed, so a zero can say WHY on the request itself —
+            # readable without the Actions log, which needs a sign-in the maintainer may lack.
+            class _Tee(io.StringIO):
+                def write(self, x):
+                    sys.__stdout__.write(x); return super().write(x)
+            buf = _Tee()
+            with contextlib.redirect_stdout(buf):
+                n = recall.stage_scene(slug, sid, note, sector, reason, auto_avoid)
+                if n is None:
+                    n = run_scene(slug, sid, note, sector, reason, auto_avoid)
         except Exception as e:
             err = f"{type(e).__name__}: {str(e)[:220]}"
             print(f"  ! {slug} {sid} FAILED — {err}")
@@ -710,6 +717,20 @@ def main():
             except Exception as e2:
                 print(f"  ! could not even record the failure: {e2}")
             continue
+        if not n:
+            # A beat that comes back empty must not look like a beat still waiting: record
+            # why, and after three empty tries close it as a stock gap instead of retrying
+            # it forever (2026-10-19: 28 beats re-queued every two minutes, adding nothing).
+            sel = json.load(open(path))
+            r = sel["topup_requests"][sid]
+            r["attempts"] = int(r.get("attempts", 0)) + 1
+            r["last_attempt"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+            r["zero_reason"] = " | ".join(l.strip() for l in buf.getvalue().splitlines() if l.strip())[-700:]
+            if r["attempts"] >= 3:
+                r.update({"done": True, "added": 0, "fulfilled": r["last_attempt"],
+                          "closed": "nothing met the beat after 3 tries — see zero_reason"})
+            json.dump(sel, open(path, "w"), indent=2)
+            zeros.append(f"{slug}/{sid}")
         if n:
             sel = json.load(open(path))
             req = sel["topup_requests"][sid]
@@ -740,6 +761,14 @@ def main():
                                cwd=ROOT, capture_output=True, text=True)
             print((r.stdout or r.stderr).strip()[-600:])
         print("::warning::" + "; ".join(failures)[:900])
+    if zeros:
+        print(f"\n{len(zeros)} beat(s) came back empty: {', '.join(zeros)}")
+        if total == 0 and not failures:
+            r = subprocess.run([sys.executable, str(ROOT / "tools" / "push_cards.py"),
+                                f"[topup-bot] {len(zeros)} beat(s) came back empty — reasons on the requests"],
+                               cwd=ROOT, capture_output=True, text=True)
+            print((r.stdout or r.stderr).strip()[-600:])
+        print("::warning::empty: " + ", ".join(zeros)[:900])
     return 0
 
 
