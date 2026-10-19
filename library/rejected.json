@@ -11423,52 +11423,46 @@
   "at": "2026-10-14T16:16:12Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
- "pixabay:https://pixabay.com/videos/id-44771/": {
-  "sector": "belong",
-  "reason": "wrong palette, lush green not earth-toned dry cracked soil",
-  "at": "2026-10-19T16:00:56Z",
-  "from": "belong-action-m1/M1-B01"
- },
- "pexels:3045869": {
-  "sector": "belong",
-  "reason": "title indicates earthworm close-ups, barred by must-not list",
-  "at": "2026-10-19T16:01:31Z",
-  "from": "belong-action-m1/M1-B02"
- },
  "pexels:https://www.pexels.com/video/man-holding-vegetable-harvest-5104194/": {
   "sector": "belong",
-  "reason": "frontal smiling face at camera, barred by TASTE hard rule",
-  "at": "2026-10-19T16:02:19Z",
+  "reason": "frontal face, smiling at camera",
+  "at": "2026-10-19T16:04:46Z",
   "from": "belong-action-m1/M1-B04"
  },
  "pexels:10787013": {
   "sector": "belong",
-  "reason": "studio backdrop and flat artificial light, not the natural outdoor light the brief and hard rules require",
-  "at": "2026-10-19T16:02:19Z",
+  "reason": "studio backdrop, not natural light, no earth palette",
+  "at": "2026-10-19T16:04:46Z",
   "from": "belong-action-m1/M1-B04"
  },
  "pexels:6054010": {
   "sector": "belong",
-  "reason": "crowd",
-  "at": "2026-10-19T16:03:56Z",
+  "reason": "crowd of people, candlelit holiday dinner party, not an unseen-hands plate handoff",
+  "at": "2026-10-19T16:05:29Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:3015489": {
   "sector": "belong",
-  "reason": "beer",
-  "at": "2026-10-19T16:04:26Z",
+  "reason": "looks like beer, hot steaming drink not iced water",
+  "at": "2026-10-19T16:06:05Z",
   "from": "belong-action-m4/M4-B03"
  },
  "pexels:3927678": {
   "sector": "belong",
-  "reason": "gift ribbon bow",
-  "at": "2026-10-19T16:05:25Z",
+  "reason": "gift-ribbon styling, cool grey background, not earth palette",
+  "at": "2026-10-19T16:07:13Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:5332649": {
   "sector": "belong",
-  "reason": "text",
-  "at": "2026-10-19T16:05:25Z",
+  "reason": "handwritten text visible in frame on the bag",
+  "at": "2026-10-19T16:07:13Z",
   "from": "belong-action-m5/M5-B02"
+ },
+ "pexels:34214295": {
+  "sector": "belong",
+  "reason": "readable text visible in frame",
+  "at": "2026-10-19T16:08:13Z",
+  "from": "belong-action-m5/M5-B05"
  }
 }
