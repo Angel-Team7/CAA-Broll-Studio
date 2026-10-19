@@ -194,7 +194,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B02__strip__belong-action-m3-M3-B02-V14.strip.jpg",
      "title": "rich honey harvesting process with wooden tools",
      "query": "spoon scooping jam from jar",
-     "shot": "A",
+     "shot": "B",
      "duration": 9,
      "src_id": "37296034",
      "download_url": "https://videos.pexels.com/video-files/37296034/15798662_1920_1080_24fps.mp4",
@@ -204,8 +204,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:57:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "thick amber honey drips slowly from a spoon into a wooden trough",
+     "violation": "",
+     "shoot": "pexels-honey-drip-spoon",
+     "score": 7.65,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:05:33Z"
     },
     {
      "id": "belong-action-m3-M3-B02-V15",
@@ -219,7 +227,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B02__strip__belong-action-m3-M3-B02-V15.strip.jpg",
      "title": "person scooping an ice cream",
      "query": "spoon scooping jam from jar",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "5657498",
      "download_url": "https://videos.pexels.com/video-files/5657498/5657498-hd_2048_1080_30fps.mp4",
@@ -229,8 +237,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:57:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a gloved hand scoops dark red gelato from a tub",
+     "violation": "",
+     "shoot": "pexels-gelato-scoop",
+     "score": 2.35,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:05:33Z"
     },
     {
      "id": "belong-action-m3-M3-B02-V16",
@@ -254,8 +270,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:57:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "dark pomegranate jam drips off a spoon into a small plastic tub",
+     "violation": "",
+     "shoot": "pexels-pomegranatejam-spoon",
+     "score": 4.65,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:05:33Z"
     },
     {
      "id": "belong-action-m3-M3-B02-V17",
@@ -269,7 +293,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B02__strip__belong-action-m3-M3-B02-V17.strip.jpg",
      "title": "person making sandwich",
      "query": "spoon scooping jam from jar",
-     "shot": "A",
+     "shot": "C",
      "duration": 17,
      "src_id": "4974453",
      "download_url": "https://videos.pexels.com/video-files/4974453/4974453-hd_1920_1080_30fps.mp4",
@@ -279,8 +303,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:57:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a spoon spreads dark jam onto buttered toast beside fresh citrus",
+     "violation": "",
+     "shoot": "pexels-toast-jam-citrus",
+     "score": 5.05,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:05:33Z"
     }
    ],
    "shots": [
@@ -473,14 +505,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V08.strip.jpg",
      "title": "a woman setting up a christmas dinner table",
      "query": "host serving seasonal dish guest",
-     "shot": "B",
+     "shot": "",
      "src_id": "6518125",
      "download_url": "https://videos.pexels.com/video-files/6518125/6518125-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:57:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "an ornate holiday table is set with gold candlesticks and champagne",
+     "violation": "luxury-resort look (gold ornate decor, festive banquet setting)",
+     "shoot": "pexels-christmas-table",
+     "score": 1.3,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V09",
@@ -494,14 +534,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V09.strip.jpg",
      "title": "a person putting sliced veggies into a plate",
      "query": "chef plating fresh vegetables",
-     "shot": "B",
+     "shot": "",
      "src_id": "6822613",
      "download_url": "https://videos.pexels.com/video-files/6822613/6822613-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:57:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand slices leeks on a wooden board beside prepped vegetables",
+     "violation": "",
+     "shoot": "pexels-leek-prep",
+     "score": 3.4,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V10",
@@ -515,7 +563,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V10.strip.jpg",
      "title": "a person putting utensils on plates",
      "query": "hands placing plate on table",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "7331027",
      "download_url": "https://videos.pexels.com/video-files/7331027/7331027-hd_1920_1080_25fps.mp4",
@@ -525,8 +573,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a hand sets cupcake plates on a children's birthday party table",
+     "violation": "",
+     "shoot": "pexels-birthday-party-table",
+     "score": 0.35,
+     "rank": 8,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V11",
@@ -550,8 +606,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "hands stack ceramic plates and bowls beside a folded linen napkin",
+     "violation": "",
+     "shoot": "pexels-stacking-plates",
+     "score": 7.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V12",
@@ -565,7 +629,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V12.strip.jpg",
      "title": "a chef is preparing food on plates",
      "query": "hands placing plate on table",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "19905887",
      "download_url": "https://videos.pexels.com/video-files/19905887/19905887-hd_1920_1080_24fps.mp4",
@@ -575,8 +639,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a chef's hand plates food along a row of dishes in a kitchen line",
+     "violation": "hotel banquet / commercial kitchen plating line",
+     "shoot": "pexels-chef-plating-line",
+     "score": 3.25,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V13",
@@ -590,7 +662,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V13.strip.jpg",
      "title": "vegan food being placed on table",
      "query": "hands placing plate on table",
-     "shot": "A",
+     "shot": "C",
      "duration": 10,
      "src_id": "6328269",
      "download_url": "https://videos.pexels.com/video-files/6328269/6328269-hd_1920_1080_25fps.mp4",
@@ -600,8 +672,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "hands set a plate of food down on a marble outdoor table",
+     "violation": "luxury-resort look (marble tabletop)",
+     "shoot": "pexels-marble-table-plate",
+     "score": 3.9,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:06:14Z"
     },
     {
      "id": "belong-action-m3-M3-B05-V14",
@@ -615,7 +695,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m3/M3-B05__strip__belong-action-m3-M3-B05-V14.strip.jpg",
      "title": "mushrooms  sliced  raw  fresh  food  kitchen  gourmet  healthy  vitamin  protein  nature  organic  vegan  vegetarian  cook  plate  nutrition",
      "query": "plate linen tablecloth",
-     "shot": "C",
+     "shot": "",
      "duration": 32,
      "src_id": "64877",
      "download_url": "https://cdn.pixabay.com/video/2021/02/11/64877-511355204_large.mp4",
@@ -625,8 +705,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a pan is filled edge to edge with sliced raw mushrooms",
+     "violation": "",
+     "shoot": "pixabay-sliced-mushrooms",
+     "score": 2.4,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:06:14Z"
     }
    ],
    "shots": [
@@ -665,37 +753,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-10-19T17:06:16Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   }
  ]
