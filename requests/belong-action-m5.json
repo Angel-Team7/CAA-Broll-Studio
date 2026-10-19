@@ -4,37 +4,48 @@
     "M5-B01": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:01:27Z",
+      "added": 7
     },
     "M5-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:00Z",
+      "added": 4
     },
     "M5-B03": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:26Z",
+      "added": 5
     },
     "M5-B04": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:03:03Z",
+      "added": 6
     },
     "M5-B05": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
       "done": false,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "error": "TypeError: '>' not supported between instances of 'str' and 'int'",
+      "attempts": 1,
+      "last_attempt": "2026-10-19T17:03:08Z"
     }
   },
   "updated": "2026-10-19T15:58:28Z",

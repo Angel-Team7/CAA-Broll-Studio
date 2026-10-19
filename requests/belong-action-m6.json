@@ -4,44 +4,56 @@
     "M6-B01": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:04:08Z",
+      "added": 7
     },
     "M6-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:05:04Z",
+      "added": 6
     },
     "M6-B03": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:05:44Z",
+      "added": 7
     },
     "M6-B04": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:06:01Z",
+      "added": 4
     },
     "M6-B05": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:07:03Z",
+      "added": 7
     },
     "M6-B06": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:07:58Z",
+      "added": 7
     }
   },
   "updated": "2026-10-19T15:58:28Z",
