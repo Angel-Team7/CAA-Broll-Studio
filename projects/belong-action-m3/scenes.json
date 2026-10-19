@@ -89,14 +89,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:20:43Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 13.7,
      "carried_from": {
       "scene": "S05",
       "caption": "honey pours into a glass jar outdoors"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "honey pours into a glass jar outdoors against green foliage",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-honey-pour-outdoor",
+     "score": 6.35,
+     "rank": 3,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:59Z"
     },
     {
      "id": "belong-action-m3-S05-V13",
@@ -116,14 +126,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:20:50Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 13.05,
      "carried_from": {
       "scene": "S05",
       "caption": "honey drips from a wooden spoon in close-up"
-     }
+     },
+     "relevance": 9,
+     "brand_fit": 6,
+     "caption": "thick glossy jam drips slowly off a wooden spoon on a pale stone surface",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-jam-spoon-closeup",
+     "score": 7.95,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:59Z"
     },
     {
      "id": "belong-action-m3-S05-V10",
@@ -143,14 +163,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:20:31Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 9.3,
      "carried_from": {
       "scene": "S05",
       "caption": "two jars of dark berry preserves sit on a wooden table with nuts"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "two small jars of dark berry jam sit on a wooden table with nuts and dried fruit",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-jam-jars-table",
+     "score": 7.0,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:59Z"
     }
    ],
    "shots": [
@@ -312,14 +342,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:28:08Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 35.2,
      "carried_from": {
       "scene": "S08",
       "caption": "a hand passes a dish of food across a set dinner table"
-     }
+     },
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a crowd of diners reaches across a formal table of elaborate dishes and wine",
+     "violation": "crowd of multiple diners and identifiable elaborate dishes, barred by brief and the no-crowd hard rule",
+     "shot": "",
+     "shoot": "pexels-holiday-dinner-party",
+     "score": 1.65,
+     "rank": 1,
+     "shown": false,
+     "judged_at": "2026-10-19T16:03:17Z"
     }
    ],
    "shots": [
@@ -356,7 +396,12 @@
     "hotel banquet"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T16:03:20Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   }
  ]
 }
