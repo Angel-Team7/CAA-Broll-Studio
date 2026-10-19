@@ -89,14 +89,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:36:32Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 20.02,
      "carried_from": {
       "scene": "S03",
       "caption": "silhouetted figures stand by the sea at golden hour"
-     }
+     },
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "silhouetted figures scattered along a paved seaside promenade at golden hour",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-seaside-promenade-silhouette",
+     "score": 5.0,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:03:43Z"
     }
    ],
    "shots": [
@@ -133,7 +143,12 @@
     "sunbathers"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T16:04:39Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M4-B03",
@@ -186,14 +201,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:43:58Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 22.06,
      "carried_from": {
       "scene": "S06",
       "caption": "a cold glass of iced tea sweats on a wicker table outdoors"
-     }
+     },
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a steaming golden drink with a foam head sits on a rooftop terrace table",
+     "violation": "resembles beer with a foam head (barred by must-not list) and shows steam, not cold condensation; wrong subject entirely",
+     "shot": "",
+     "shoot": "pexels-rooftop-hot-drink",
+     "score": 1.0,
+     "rank": 1,
+     "shown": false,
+     "judged_at": "2026-10-19T16:03:59Z"
     }
    ],
    "shots": [
@@ -230,7 +255,12 @@
     "beer"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T16:04:39Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M4-B04",
@@ -283,14 +313,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:46:43Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 8.44,
      "carried_from": {
       "scene": "S07",
       "caption": "a gloved hand picks up a small item from the sand"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a gloved hand picks a piece of debris from overhead sand",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-beach-litter-overhead",
+     "score": 7.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:04:35Z"
     },
     {
      "id": "belong-action-m4-S07-V07",
@@ -310,14 +350,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:46:31Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 32.96,
      "carried_from": {
       "scene": "S07",
       "caption": "wide view of a long clean beach at dusk with soft tide lines"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a long empty sand spit stretches beside the sea at dusk with one distant walker",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-beach-spit-aerial",
+     "score": 6.65,
+     "rank": 3,
+     "shown": true,
+     "judged_at": "2026-10-19T16:04:35Z"
     },
     {
      "id": "belong-action-m4-S07-V06",
@@ -337,14 +387,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:46:23Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 11.07,
      "carried_from": {
       "scene": "S07",
       "caption": "a litter picker grabs a small piece of trash from the sand"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "a grabber tool lifts a small piece of litter from sand beside a collection bag",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-beach-litter-tool",
+     "score": 7.0,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:04:35Z"
     }
    ],
    "shots": [
