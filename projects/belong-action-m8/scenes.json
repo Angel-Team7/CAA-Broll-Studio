@@ -121,7 +121,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V05.strip.jpg",
      "title": "light pattern inside window",
      "query": "curtains closing in a dark room",
-     "shot": "A",
+     "shot": "B",
      "duration": 40,
      "src_id": "5482661",
      "download_url": "https://videos.pexels.com/video-files/5482661/5482661-hd_1920_1080_30fps.mp4",
@@ -131,8 +131,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "warm light streams through a gap between sheer and red curtains",
+     "violation": "",
+     "shoot": "pexels-curtain-light-gap-red",
+     "score": 6.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V06",
@@ -146,7 +154,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V06.strip.jpg",
      "title": "tv with static and man looking through window",
      "query": "curtains closing in a dark room",
-     "shot": "A",
+     "shot": "",
      "duration": 25,
      "src_id": "9902187",
      "download_url": "https://videos.pexels.com/video-files/9902187/9902187-hd_2048_1080_25fps.mp4",
@@ -156,8 +164,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a silhouetted man opens curtains in a room with a static-filled TV",
+     "violation": "identifiable furniture",
+     "shoot": "pexels-man-curtain-tv-static",
+     "score": 1.3,
+     "rank": 8,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V07",
@@ -171,7 +187,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V07.strip.jpg",
      "title": "tv and man looking through window",
      "query": "curtains closing in a dark room",
-     "shot": "A",
+     "shot": "",
      "duration": 34,
      "src_id": "9902178",
      "download_url": "https://videos.pexels.com/video-files/9902178/9902178-hd_2048_1080_25fps.mp4",
@@ -181,8 +197,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a man opens curtains beside a TV showing a news broadcast",
+     "violation": "identifiable furniture",
+     "shoot": "pexels-man-curtain-tv-news",
+     "score": 0.65,
+     "rank": 9,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V08",
@@ -206,8 +230,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a hand opens curtains as bright morning light floods in",
+     "violation": "",
+     "shoot": "pexels-curtain-open-morning",
+     "score": 6.0,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V09",
@@ -221,7 +253,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V09.strip.jpg",
      "title": "curtains  door  window  patio  movement  air  wind  terrace  sun  bright  light  warm  tranquility  beauty  calm  summer",
      "query": "light curtain gap",
-     "shot": "B",
+     "shot": "C",
      "duration": 11,
      "src_id": "128321",
      "download_url": "https://cdn.pixabay.com/video/2022/08/18/128321-741195841_large.mp4",
@@ -231,8 +263,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "a sheer curtain shows the shadow of a chair outside in the wind",
+     "violation": "",
+     "shoot": "pixabay-curtain-chair-shadow",
+     "score": 5.35,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V10",
@@ -246,7 +286,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V10.strip.jpg",
      "title": "candle  light  flame  burn  match  candlelight  christmas  advent",
      "query": "light curtain gap",
-     "shot": "B",
+     "shot": "",
      "duration": 30,
      "src_id": "143419",
      "download_url": "https://cdn.pixabay.com/video/2022/12/18/143419-782363231_large.mp4",
@@ -256,8 +296,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:11:07Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a match lights a candle glowing in total darkness",
+     "violation": "",
+     "shoot": "pixabay-candle-match-dark",
+     "score": 3.05,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:16:07Z"
     },
     {
      "id": "belong-action-m8-M8-B01-V11",
@@ -271,7 +319,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B01__strip__belong-action-m8-M8-B01-V11.strip.jpg",
      "title": "rain  water  window  wet  drops  dripping  rainy  night  light  sad",
      "query": "light curtain gap",
-     "shot": "B",
+     "shot": "",
      "duration": 33,
      "src_id": "11722",
      "download_url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
@@ -281,8 +329,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:11:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "rain streaks down a window at night with bokeh lights",
+     "violation": "",
+     "shoot": "pixabay-rain-window-night",
+     "score": 1.7,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:16:07Z"
     }
    ],
    "shots": [
@@ -321,37 +377,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "M8-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:11:14Z",
-      "added": 7
-     },
-     "M8-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:17Z",
-      "added": 7
-     },
-     "M8-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:55Z",
-      "added": 6
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-10-19T17:17:07Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -435,14 +463,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V00.strip.jpg",
      "title": "a woman paying using a bank card",
      "query": "receptionist listening to upset guest",
-     "shot": "B",
+     "shot": "C",
      "src_id": "6192867",
      "download_url": "https://videos.pexels.com/video-files/6192867/6192867-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:11:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a woman in profile checks a card at a reception counter",
+     "violation": "",
+     "shoot": "pexels-woman-reception-card",
+     "score": 5.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V01",
@@ -456,14 +492,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V01.strip.jpg",
      "title": "cup being placed on pyrex plate",
      "query": "empty hotel reception bell",
-     "shot": "B",
+     "shot": "",
      "src_id": "6278839",
      "download_url": "https://videos.pexels.com/video-files/6278839/6278839-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:11:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand sets a coffee cup on a saucer by soft bokeh lights",
+     "violation": "",
+     "shoot": "pexels-coffee-cup-saucer",
+     "score": 1.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V02",
@@ -477,7 +521,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V02.strip.jpg",
      "title": "person waiting for someone",
      "query": "person waiting alone at counter",
-     "shot": "A",
+     "shot": "",
      "duration": 37,
      "src_id": "7402382",
      "download_url": "https://videos.pexels.com/video-files/7402382/7402382-hd_2048_1080_25fps.mp4",
@@ -487,8 +531,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:11:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a woman sits alone pensively at a modern table",
+     "violation": "frontal face",
+     "shoot": "pexels-woman-alone-table",
+     "score": 1.3,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V03",
@@ -502,7 +554,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V03.strip.jpg",
      "title": "a man waiting alone while having a beer",
      "query": "person waiting alone at counter",
-     "shot": "A",
+     "shot": "",
      "duration": 15,
      "src_id": "5530016",
      "download_url": "https://videos.pexels.com/video-files/5530016/5530016-hd_2048_1080_25fps.mp4",
@@ -512,8 +564,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:11:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a man sits alone at a bench table in a restaurant",
+     "violation": "frontal face",
+     "shoot": "pexels-man-alone-bench",
+     "score": 2.0,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V04",
@@ -527,7 +587,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V04.strip.jpg",
      "title": "blind woman payin by card",
      "query": "person waiting alone at counter",
-     "shot": "A",
+     "shot": "",
      "duration": 12,
      "src_id": "6964425",
      "download_url": "https://videos.pexels.com/video-files/6964425/6964425-hd_1920_1080_25fps.mp4",
@@ -537,8 +597,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a woman in sunglasses holds a folder at a restaurant counter under hanging lights",
+     "violation": "frontal face",
+     "shoot": "pexels-sunglasses-folder-counter",
+     "score": 1.95,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V05",
@@ -552,7 +620,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B03__strip__belong-action-m8-M8-B03-V05.strip.jpg",
      "title": "man drinking from a glass at the bar counter",
      "query": "person waiting alone at counter",
-     "shot": "A",
+     "shot": "",
      "duration": 31,
      "src_id": "9564079",
      "download_url": "https://videos.pexels.com/video-files/9564079/9564079-hd_2048_1080_25fps.mp4",
@@ -562,8 +630,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a man in a suit stands alone in a chandelier-lit dining room",
+     "violation": "chandelier",
+     "shoot": "pexels-suit-chandelier-room",
+     "score": 1.95,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:16:38Z"
     },
     {
      "id": "belong-action-m8-M8-B03-V06",
@@ -587,8 +663,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "hands tap a card payment terminal on a white counter",
+     "violation": "",
+     "shoot": "pexels-card-terminal-counter",
+     "score": 4.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:16:38Z"
     }
    ],
    "shots": [
@@ -625,7 +709,12 @@
     "airport"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T17:17:07Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M8-B04",
@@ -709,14 +798,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V14.strip.jpg",
      "title": "people picking foods from the table",
      "query": "friends long outdoor table farm meal",
-     "shot": "B",
+     "shot": "",
      "src_id": "6760617",
      "download_url": "https://videos.pexels.com/video-files/6760617/6760617-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:12:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "people gather around a table of food and wine outdoors",
+     "violation": "",
+     "shoot": "pexels-outdoor-food-gathering",
+     "score": 0.7,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:17:05Z"
     },
     {
      "id": "belong-action-m8-M8-B04-V15",
@@ -730,14 +827,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V15.strip.jpg",
      "title": "a female person picking up paper bags on a floor",
      "query": "hand on wooden door frame sunlight",
-     "shot": "B",
+     "shot": "",
      "src_id": "9218143",
      "download_url": "https://videos.pexels.com/video-files/9218143/9218143-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:12:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "paper gift bags sit by a sunlit wooden door",
+     "violation": "",
+     "shoot": "pexels-giftbags-doorway",
+     "score": 1.05,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:17:05Z"
     },
     {
      "id": "belong-action-m8-M8-B04-V16",
@@ -751,14 +856,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V16.strip.jpg",
      "title": "pasta  food  pastas  eat  nutrition  spaghetti  noodles  italian  cooker  restaurant  lunch  tomato  italy  vegetarian  ingredient  carbs  delicious  recipes  yummy  healthy",
      "query": "tomato picking garden eating",
-     "shot": "B",
+     "shot": "",
      "src_id": "33261",
      "download_url": "https://cdn.pixabay.com/video/2020/03/05/33261-396488004_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:12:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a woman cooks at a stove with wine and olive oil nearby",
+     "violation": "",
+     "shoot": "pixabay-kitchen-cook-wine",
+     "score": 1.05,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:17:05Z"
     },
     {
      "id": "belong-action-m8-M8-B04-V17",
@@ -772,7 +885,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V17.strip.jpg",
      "title": "middle eastern coffee with dates on wooden table",
      "query": "broken ceramic cup on table",
-     "shot": "A",
+     "shot": "C",
      "duration": 11,
      "src_id": "38707083",
      "download_url": "https://videos.pexels.com/video-files/38707083/16442925_1920_1080_30fps.mp4",
@@ -782,8 +895,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand stirs coffee in a cup beside a date on a wooden table",
+     "violation": "",
+     "shoot": "pexels-coffee-date-wood-table",
+     "score": 3.4,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:17:05Z"
     },
     {
      "id": "belong-action-m8-M8-B04-V18",
@@ -797,7 +918,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V18.strip.jpg",
      "title": "artisan coffee mug with fresh vegetables",
      "query": "broken ceramic cup on table",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "37156059",
      "download_url": "https://videos.pexels.com/video-files/37156059/15740679_1920_1080_50fps.mp4",
@@ -807,8 +928,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a dark painted ceramic cup sits among fresh vegetables",
+     "violation": "",
+     "shoot": "pexels-dark-mug-vegetables",
+     "score": 2.05,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:17:05Z"
     },
     {
      "id": "belong-action-m8-M8-B04-V19",
@@ -822,7 +951,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m8/M8-B04__strip__belong-action-m8-M8-B04-V19.strip.jpg",
      "title": "pouring fresh coffee into ceramic mug",
      "query": "broken ceramic cup on table",
-     "shot": "A",
+     "shot": "",
      "duration": 22,
      "src_id": "27938940",
      "download_url": "https://videos.pexels.com/video-files/27938940/12267006_1920_1080_60fps.mp4",
@@ -832,8 +961,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:12:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "coffee pours into a novelty mug with a printed face design",
+     "violation": "",
+     "shoot": "pexels-coffee-pour-novelty-mug",
+     "score": 2.05,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:17:05Z"
     }
    ],
    "shots": [
@@ -873,35 +1010,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "M8-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:11:14Z",
-      "added": 7
-     },
-     "M8-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:17Z",
-      "added": 7
-     },
-     "M8-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:55Z",
-      "added": 6
-     }
-    },
+    "at": "2026-10-19T17:17:07Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },

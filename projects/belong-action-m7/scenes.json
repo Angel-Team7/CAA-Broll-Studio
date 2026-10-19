@@ -292,7 +292,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-10-19T17:15:36Z",
+    "at": "2026-10-19T17:17:07Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -388,8 +388,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:09:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a hand picks small pebbles off gravel ground outdoors",
+     "violation": "",
+     "shoot": "pexels-pebble-pickup-gravel",
+     "score": 5.7,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:15:32Z"
     },
     {
      "id": "belong-action-m7-M7-B02-V05",
@@ -403,7 +411,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B02__strip__belong-action-m7-M7-B02-V05.strip.jpg",
      "title": "person holding stones",
      "query": "hand holding small stones",
-     "shot": "A",
+     "shot": "B",
      "duration": 9,
      "src_id": "8922385",
      "download_url": "https://videos.pexels.com/video-files/8922385/8922385-hd_1920_1080_25fps.mp4",
@@ -413,8 +421,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:09:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a hand hovers over pebbles resting on another open palm",
+     "violation": "",
+     "shoot": "pexels-pebbles-palm-choose",
+     "score": 7.65,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:15:32Z"
     },
     {
      "id": "belong-action-m7-M7-B02-V06",
@@ -428,7 +444,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B02__strip__belong-action-m7-M7-B02-V06.strip.jpg",
      "title": "hands holding fresh blackberries outdoors",
      "query": "hand holding small stones",
-     "shot": "A",
+     "shot": "B",
      "duration": 11,
      "src_id": "39209569",
      "download_url": "https://videos.pexels.com/video-files/39209569/16684659_1920_1080_25fps.mp4",
@@ -438,8 +454,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:09:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "cupped hands hold a small pile of fresh blackberries outdoors",
+     "violation": "",
+     "shoot": "pexels-blackberries-hands",
+     "score": 5.35,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:15:32Z"
     },
     {
      "id": "belong-action-m7-M7-B02-V07",
@@ -453,7 +477,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B02__strip__belong-action-m7-M7-B02-V07.strip.jpg",
      "title": "close up of a person arranging stones in a mini zen garden",
      "query": "hand holding small stones",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "8347915",
      "download_url": "https://videos.pexels.com/video-files/8347915/8347915-hd_2048_1080_30fps.mp4",
@@ -463,8 +487,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:09:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "hands arrange small stones in a sand zen garden",
+     "violation": "",
+     "shoot": "pexels-zen-garden-stones",
+     "score": 4.7,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:15:32Z"
     },
     {
      "id": "belong-action-m7-M7-B02-V08",
@@ -478,7 +510,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B02__strip__belong-action-m7-M7-B02-V08.strip.jpg",
      "title": "beach  sea  palm trees  caribbean  island",
      "query": "palm pebbles",
-     "shot": "B",
+     "shot": "",
      "duration": 14,
      "src_id": "154197",
      "download_url": "https://cdn.pixabay.com/video/2023/03/11/154197-807166832_large.mp4",
@@ -488,8 +520,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "aerial view of palm trees along a tropical shoreline",
+     "violation": "",
+     "shoot": "pixabay-aerial-palm-beach",
+     "score": 0.7,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:15:32Z"
     },
     {
      "id": "belong-action-m7-M7-B02-V09",
@@ -503,7 +543,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B02__strip__belong-action-m7-M7-B02-V09.strip.jpg",
      "title": "chopping  cutting  ingredients  mortar  garlic  prepare  grind  add  food  kitchen  cooking  adding  cook  making  fresh  table  healthy  preparing  homemade  chef  preparation  hand  organic  vegetarian  vegan",
      "query": "hands exchanging object",
-     "shot": "C",
+     "shot": "",
      "duration": 38,
      "src_id": "11606",
      "download_url": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_large.mp4",
@@ -513,8 +553,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:10:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "hands chop garlic cloves on a wooden board",
+     "violation": "",
+     "shoot": "pixabay-chop-garlic-board",
+     "score": 2.4,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:15:32Z"
     }
    ],
    "shots": [
@@ -553,9 +601,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 1,
-    "at": "2026-10-19T17:15:36Z",
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-10-19T17:17:07Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
   {
