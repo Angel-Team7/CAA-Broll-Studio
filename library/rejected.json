@@ -11422,5 +11422,29 @@
   "reason": "hospital",
   "at": "2026-10-14T16:16:12Z",
   "from": "edenrise-c2-promises-kept/S05"
+ },
+ "pixabay:https://pixabay.com/videos/id-44771/": {
+  "sector": "belong",
+  "reason": "wrong palette, lush green not earth-toned dry cracked soil",
+  "at": "2026-10-19T16:00:56Z",
+  "from": "belong-action-m1/M1-B01"
+ },
+ "pexels:3045869": {
+  "sector": "belong",
+  "reason": "title indicates earthworm close-ups, barred by must-not list",
+  "at": "2026-10-19T16:01:31Z",
+  "from": "belong-action-m1/M1-B02"
+ },
+ "pexels:https://www.pexels.com/video/man-holding-vegetable-harvest-5104194/": {
+  "sector": "belong",
+  "reason": "frontal smiling face at camera, barred by TASTE hard rule",
+  "at": "2026-10-19T16:02:19Z",
+  "from": "belong-action-m1/M1-B04"
+ },
+ "pexels:10787013": {
+  "sector": "belong",
+  "reason": "studio backdrop and flat artificial light, not the natural outdoor light the brief and hard rules require",
+  "at": "2026-10-19T16:02:19Z",
+  "from": "belong-action-m1/M1-B04"
  }
 }

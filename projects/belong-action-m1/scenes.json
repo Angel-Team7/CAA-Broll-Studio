@@ -51,7 +51,7 @@
      ],
      "title": "garden  green  sprinkler  agriculture  bio garden  irrigated  bio  irrigation  plant  water  food  eat  agricultural  gr",
      "query": "irrigation water field",
-     "judged": false,
+     "judged": true,
      "fresh": true,
      "added_by": "abstract-rework",
      "staged_at": "2026-10-19T15:58:28Z",
@@ -64,7 +64,17 @@
      "download_url": "https://cdn.pixabay.com/video/2020/07/15/44771-440059557_large.mp4",
      "real_w": 1920,
      "real_h": 1080,
-     "real_seconds": 21.96
+     "real_seconds": 21.96,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a sprinkler sprays water across green garden foliage",
+     "violation": "wrong palette, lush green not earth-toned dry cracked soil",
+     "shot": "",
+     "shoot": "pixabay-garden-sprinkler",
+     "score": 3.35,
+     "rank": 2,
+     "shown": false,
+     "judged_at": "2026-10-19T16:00:56Z"
     },
     {
      "id": "belong-action-m1-M1-B01-R02",
@@ -81,7 +91,7 @@
      ],
      "title": "soil  cave  garden  forest  nature",
      "query": "hands working soil",
-     "judged": false,
+     "judged": true,
      "fresh": true,
      "added_by": "abstract-rework",
      "staged_at": "2026-10-19T15:58:28Z",
@@ -90,7 +100,17 @@
       "scene": "S01",
       "clip": "belong-m10-S01-V03",
       "note": "approved on that card"
-     }
+     },
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "sunlit dry rocky ground with scattered green shoots",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-dry-rocky-ground",
+     "score": 5.05,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:00:56Z"
     }
    ],
    "shots": [
@@ -127,7 +147,12 @@
     "drought news"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T16:02:23Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M1-B02",
@@ -177,7 +202,7 @@
      ],
      "title": "soil  cave  garden  forest  nature",
      "query": "hands working soil",
-     "judged": false,
+     "judged": true,
      "fresh": true,
      "added_by": "abstract-rework",
      "staged_at": "2026-10-19T15:58:28Z",
@@ -186,7 +211,17 @@
       "scene": "S01",
       "clip": "belong-m10-S01-V03",
       "note": "approved on that card"
-     }
+     },
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "sunlit dry rocky ground with scattered green shoots",
+     "violation": "",
+     "shot": "",
+     "shoot": "pixabay-dry-rocky-ground",
+     "score": 3.4,
+     "rank": 3,
+     "shown": true,
+     "judged_at": "2026-10-19T16:01:31Z"
     },
     {
      "id": "belong-action-m1-S03-V09",
@@ -206,14 +241,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:20:53Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 29.05,
      "carried_from": {
       "scene": "S03",
       "caption": "gloved hands turn dark compost with a small trowel in a bin"
-     }
+     },
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "gloved hands turn dark compost inside a bin",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-compost-bin",
+     "score": 8.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:01:31Z"
     },
     {
      "id": "belong-action-m1-S03-V14",
@@ -233,14 +278,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:21:42Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 22.38,
      "carried_from": {
       "scene": "S03",
       "caption": "a gloved hand shovels dark compost soil into a bin"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "gloved hands shovel compost into a wheelbarrow",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-compost-shovel",
+     "score": 7.0,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:01:31Z"
     },
     {
      "id": "belong-action-m1-S03-V16",
@@ -260,14 +315,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:22:01Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 14.97,
      "carried_from": {
       "scene": "S03",
       "caption": "a garden hoe turns dark soil in a vegetable bed"
-     }
+     },
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "a garden tool digs into dark soil among weeds",
+     "violation": "title indicates earthworm close-ups, barred by must-not list",
+     "shot": "B",
+     "shoot": "pexels-compost-shovel",
+     "score": 3.3,
+     "rank": 4,
+     "shown": false,
+     "judged_at": "2026-10-19T16:01:31Z"
     }
    ],
    "shots": [
@@ -304,7 +369,12 @@
     "worm close up"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-10-19T16:02:23Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M1-B03",
@@ -424,7 +494,7 @@
      ],
      "title": "video man holding vegetable harvest",
      "query": "farmer handing basket vegetables",
-     "judged": false,
+     "judged": true,
      "fresh": true,
      "added_by": "abstract-rework",
      "staged_at": "2026-10-19T15:58:28Z",
@@ -433,7 +503,17 @@
       "scene": "S11",
       "clip": "belong-m8-S11-V13",
       "note": "approved on that card"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "a man smiles at camera holding a basket of vegetables",
+     "violation": "frontal smiling face at camera, barred by TASTE hard rule",
+     "shot": "C",
+     "shoot": "pexels-farmer-basket-smile",
+     "score": 3.9,
+     "rank": 4,
+     "shown": false,
+     "judged_at": "2026-10-19T16:02:19Z"
     },
     {
      "id": "belong-action-m1-M1-B04-R02",
@@ -450,7 +530,7 @@
      "title": "video women checking the newly harvested eggplants",
      "query": "farmer delivering vegetable box",
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module10/S09__strip__belong-m10-S09-V12.strip.jpg",
-     "judged": false,
+     "judged": true,
      "fresh": true,
      "added_by": "abstract-rework",
      "staged_at": "2026-10-19T15:58:28Z",
@@ -459,7 +539,17 @@
       "scene": "S09",
       "clip": "belong-m10-S09-V12",
       "note": "approved on that card"
-     }
+     },
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman holds a crate of eggplants in a field and tastes one",
+     "violation": "",
+     "shot": "",
+     "shoot": "pexels-eggplant-crate",
+     "score": 2.7,
+     "rank": 5,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:19Z"
     },
     {
      "id": "belong-action-m1-S08-V08",
@@ -479,14 +569,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:39:20Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 30.53,
      "carried_from": {
       "scene": "S08",
       "caption": "a man holds a bundle of freshly pulled carrots still covered in soil"
-     }
+     },
+     "relevance": 9,
+     "brand_fit": 8,
+     "caption": "hands hold a bundle of carrots pulled fresh with soil clinging to the roots",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-carrot-harvest-handheld",
+     "score": 8.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:19Z"
     },
     {
      "id": "belong-action-m1-S08-V12",
@@ -506,14 +606,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:40:01Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 27.6,
      "carried_from": {
       "scene": "S08",
       "caption": "a hand pulls carrots from dark soil in a field"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a farmer crouches in a field pulling carrots from the soil",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-carrot-harvest-field",
+     "score": 8.0,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:02:19Z"
     },
     {
      "id": "belong-action-m1-S08-V16",
@@ -533,14 +643,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T05:40:42Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 13.48,
      "carried_from": {
       "scene": "S08",
       "caption": "one hand passes a small fruit into another open hand against a plain background"
-     }
+     },
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "two hands pass a small orange round object against a plain grey backdrop",
+     "violation": "studio backdrop and flat artificial light, not the natural outdoor light the brief and hard rules require",
+     "shot": "B",
+     "shoot": "pexels-studio-handoff",
+     "score": 3.95,
+     "rank": 3,
+     "shown": false,
+     "judged_at": "2026-10-19T16:02:19Z"
     }
    ],
    "shots": [
@@ -577,7 +697,12 @@
     "plastic packaging"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-10-19T16:02:23Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   }
   }
  ]
 }
