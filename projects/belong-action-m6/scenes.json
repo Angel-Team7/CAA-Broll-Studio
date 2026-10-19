@@ -47,7 +47,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V00.strip.jpg",
      "title": "shoe laces  tying  shoes  footwear  lifestyle  people  foot  person  sneaker",
      "query": "hands tying rope",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "8257",
      "download_url": "https://cdn.pixabay.com/video/2017/03/08/8257-207598619_large.mp4",
@@ -57,8 +57,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "hands tie the laces of a sneaker on a tile floor",
+     "violation": "",
+     "shoot": "pixabay-sneaker-laces",
+     "score": 2.05,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V01",
@@ -72,7 +80,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V01.strip.jpg",
      "title": "sport  rope  jump  bounce  training  exercise  health  human  male  morning  evening  diet  strong  to enjoy  hobby  foot  leg  finger  movement  energy",
      "query": "hands tying rope",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "122440",
      "download_url": "https://cdn.pixabay.com/video/2022/06/29/122440-725502740_large.mp4",
@@ -82,8 +90,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "bare legs jump over a skipping rope by a pool",
+     "violation": "",
+     "shoot": "pixabay-jumprope-pool",
+     "score": 0.7,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V02",
@@ -97,7 +113,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V02.strip.jpg",
      "title": "woman  rope  sport  closeup",
      "query": "hands tying rope",
-     "shot": "A",
+     "shot": "",
      "duration": 27,
      "src_id": "109413",
      "download_url": "https://cdn.pixabay.com/video/2022/03/02/109413-684053766_large.mp4",
@@ -107,8 +123,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman in a sports bra jump-ropes in a gym",
+     "violation": "gym",
+     "shoot": "pixabay-gym-jumprope-woman",
+     "score": 0.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V03",
@@ -122,7 +146,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V03.strip.jpg",
      "title": "shoes  laces  tying  wrestling  sport  fitness  man  fighter  healthy  exercise  bodybuilder  muscular  training  workout  athlete  power  strong  person  boots  fit",
      "query": "hands tying rope",
-     "shot": "A",
+     "shot": "",
      "duration": 29,
      "src_id": "8294",
      "download_url": "https://cdn.pixabay.com/video/2017/03/10/8294-208046219_large.mp4",
@@ -132,8 +156,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "hands lace a branded wrestling shoe",
+     "violation": "logo",
+     "shoot": "pixabay-wrestling-shoe-lace",
+     "score": 0.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V04",
@@ -147,7 +179,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V04.strip.jpg",
      "title": "tying a sash belt on waist",
      "query": "rope knot close up",
-     "shot": "B",
+     "shot": "A",
      "duration": 22,
      "src_id": "6628020",
      "download_url": "https://videos.pexels.com/video-files/6628020/6628020-hd_2048_1080_25fps.mp4",
@@ -157,8 +189,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:03:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "hands tie a fabric sash belt at the waist",
+     "violation": "",
+     "shoot": "pexels-sash-tie-apron",
+     "score": 6.35,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V05",
@@ -172,7 +212,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V05.strip.jpg",
      "title": "a sailboat is seen in the water",
      "query": "rope knot close up",
-     "shot": "B",
+     "shot": "",
      "duration": 16,
      "src_id": "4935736",
      "download_url": "https://videos.pexels.com/video-files/4935736/4935736-hd_2048_1080_25fps.mp4",
@@ -182,8 +222,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "rigging ropes on a sailing yacht on the water",
+     "violation": "sailing yacht",
+     "shoot": "pexels-sailboat-rigging",
+     "score": 1.3,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:12:20Z"
     },
     {
      "id": "belong-action-m6-M6-B01-V06",
@@ -197,7 +245,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B01__strip__belong-action-m6-M6-B01-V06.strip.jpg",
      "title": "close up view of a hammock at the beach",
      "query": "rope knot close up",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "6473382",
      "download_url": "https://videos.pexels.com/video-files/6473382/6473382-hd_1920_1080_25fps.mp4",
@@ -207,8 +255,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "close view of a knotted rope hammock on a beach",
+     "violation": "",
+     "shoot": "pexels-hammock-beach",
+     "score": 2.05,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:12:20Z"
     }
    ],
    "shots": [
@@ -245,7 +301,12 @@
     "noose"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T17:14:32Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M6-B02",
@@ -329,7 +390,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B02__strip__belong-action-m6-M6-B02-V04.strip.jpg",
      "title": "light blue satin fabric",
      "query": "white linen fabric close up",
-     "shot": "A",
+     "shot": "B",
      "duration": 16,
      "src_id": "7792608",
      "download_url": "https://videos.pexels.com/video-files/7792608/7792608-hd_1920_1080_30fps.mp4",
@@ -339,8 +400,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "pale blue satin fabric folds under soft light",
+     "violation": "",
+     "shoot": "pexels-satin-fabric-fold",
+     "score": 4.0,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:12:41Z"
     },
     {
      "id": "belong-action-m6-M6-B02-V05",
@@ -364,8 +433,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "close view of woven natural linen fabric in soft light",
+     "violation": "",
+     "shoot": "pexels-linen-weave-macro",
+     "score": 8.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:12:41Z"
     },
     {
      "id": "belong-action-m6-M6-B02-V06",
@@ -379,7 +456,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B02__strip__belong-action-m6-M6-B02-V06.strip.jpg",
      "title": "close up video of a gold silk cloth",
      "query": "white linen fabric close up",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "7677258",
      "download_url": "https://videos.pexels.com/video-files/7677258/7677258-hd_1920_1080_25fps.mp4",
@@ -389,8 +466,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "gold silk cloth catches the light in soft folds",
+     "violation": "luxury",
+     "shoot": "pexels-gold-silk-fold",
+     "score": 1.95,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:12:41Z"
     },
     {
      "id": "belong-action-m6-M6-B02-V07",
@@ -404,7 +489,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B02__strip__belong-action-m6-M6-B02-V07.strip.jpg",
      "title": "close up shot of a white cloth",
      "query": "white linen fabric close up",
-     "shot": "A",
+     "shot": "B",
      "duration": 9,
      "src_id": "7233562",
      "download_url": "https://videos.pexels.com/video-files/7233562/7233562-hd_1920_1080_30fps.mp4",
@@ -414,8 +499,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "close view of a textured white waffle-weave towel",
+     "violation": "",
+     "shoot": "pexels-white-waffle-cloth",
+     "score": 8.0,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:12:41Z"
     },
     {
      "id": "belong-action-m6-M6-B02-V08",
@@ -429,7 +522,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B02__strip__belong-action-m6-M6-B02-V08.strip.jpg",
      "title": "forest  trees  sunlight  old forest  dark  woods  moss  pacific northwest  light  shine  rays  old  dark forest  green  beautiful  4k video  sun  morning  nature",
      "query": "linen sheet sunlight",
-     "shot": "C",
+     "shot": "",
      "duration": 15,
      "src_id": "203449",
      "download_url": "https://cdn.pixabay.com/video/2024/03/08/203449-921267347_large.mp4",
@@ -439,8 +532,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:04:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "sunlight filters through a dark mossy forest",
+     "violation": "",
+     "shoot": "pixabay-forest-sunlight",
+     "score": 0.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:12:41Z"
     },
     {
      "id": "belong-action-m6-M6-B02-V09",
@@ -454,7 +555,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B02__strip__belong-action-m6-M6-B02-V09.strip.jpg",
      "title": "learn  seiser alm  sun exposure  fog  fogging  light  lights game  sunlight  sunbeams  santner peak  south-tirol  dolomites  time lapse  timelapse",
      "query": "linen sheet sunlight",
-     "shot": "C",
+     "shot": "",
      "duration": 21,
      "src_id": "15138",
      "download_url": "https://cdn.pixabay.com/video/2018/03/21/15138-261402905_large.mp4",
@@ -464,8 +565,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:05:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a snow-capped mountain peak under a blue sky",
+     "violation": "",
+     "shoot": "pixabay-mountain-peak",
+     "score": 0.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:12:41Z"
     }
    ],
    "shots": [
@@ -502,29 +611,7 @@
     "bedding advert"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": {
-     "M7-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:08:50Z",
-      "added": 7
-     },
-     "M7-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": false,
-      "reason": "first-gather",
-      "by": "abstract-rework"
-     }
-    },
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-19T15:58:28Z"
   },
   {
    "id": "M6-B03",
@@ -571,14 +658,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V00.strip.jpg",
      "title": "a person painting on a white paper",
      "query": "hand drawing plan in dirt close",
-     "shot": "C",
+     "shot": "",
      "src_id": "5442629",
      "download_url": "https://videos.pexels.com/video-files/5442629/5442629-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand holds travel documents outdoors in warm light",
+     "violation": "",
+     "shoot": "pexels-documents-outdoor",
+     "score": 0.7,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V01",
@@ -592,14 +687,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V01.strip.jpg",
      "title": "a person opening a door and checking outside at night",
      "query": "white house door open lantern",
-     "shot": "C",
+     "shot": "",
      "src_id": "5102418",
      "download_url": "https://videos.pexels.com/video-files/5102418/5102418-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a dark silhouette opens a door at night",
+     "violation": "",
+     "shoot": "pexels-night-door-dark",
+     "score": 0.35,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V02",
@@ -613,14 +716,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V02.strip.jpg",
      "title": "pouring water from pipe in bucket",
      "query": "technician checking irrigation pump",
-     "shot": "C",
+     "shot": "",
      "src_id": "11960814",
      "download_url": "https://videos.pexels.com/video-files/11960814/11960814-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "water pours from a pipe into a bucket outdoors",
+     "violation": "",
+     "shoot": "pexels-pipe-bucket-farm",
+     "score": 0.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V03",
@@ -644,8 +755,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:05:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 0,
+     "caption": "a man holds up a large torn sheet of white paper looking at camera",
+     "violation": "frontal face",
+     "shoot": "pexels-man-tear-paper",
+     "score": 3.25,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V04",
@@ -659,7 +778,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V04.strip.jpg",
      "title": "woman wearing hat holding white cloth",
      "query": "torn white fabric held to light",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "6798932",
      "download_url": "https://videos.pexels.com/video-files/6798932/6798932-hd_1920_1080_24fps.mp4",
@@ -669,8 +788,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:05:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a woman on a beach holds white fabric streaming in the wind",
+     "violation": "",
+     "shoot": "pexels-beach-fabric-wind",
+     "score": 2.7,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V05",
@@ -684,7 +811,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V05.strip.jpg",
      "title": "low angle shot of a person steaming a white t shirt",
      "query": "torn white fabric held to light",
-     "shot": "A",
+     "shot": "C",
      "duration": 15,
      "src_id": "10558375",
      "download_url": "https://videos.pexels.com/video-files/10558375/10558375-hd_2048_1080_25fps.mp4",
@@ -694,8 +821,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:05:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a hand holds a steamer against a white garment",
+     "violation": "",
+     "shoot": "pexels-steam-white-shirt",
+     "score": 3.7,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:13:09Z"
     },
     {
      "id": "belong-action-m6-M6-B03-V06",
@@ -709,7 +844,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B03__strip__belong-action-m6-M6-B03-V06.strip.jpg",
      "title": "gentle hands interacting with white curtain",
      "query": "torn white fabric held to light",
-     "shot": "A",
+     "shot": "C",
      "duration": 8,
      "src_id": "38651041",
      "download_url": "https://videos.pexels.com/video-files/38651041/16416802_1920_1080_25fps.mp4",
@@ -719,8 +854,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:05:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a hand gently touches a sheer white curtain",
+     "violation": "",
+     "shoot": "pexels-curtain-hand-touch",
+     "score": 4.7,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:13:09Z"
     }
    ],
    "shots": [
@@ -757,7 +900,12 @@
     "sewing machine"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T17:14:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M6-B04",
@@ -920,8 +1068,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "water runs from a bathroom tap into a white sink",
+     "violation": "",
+     "shoot": "pixabay-bathroom-sink-tap",
+     "score": 5.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:13:30Z"
     },
     {
      "id": "belong-action-m6-M6-B04-V17",
@@ -935,14 +1091,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B04__strip__belong-action-m6-M6-B04-V17.strip.jpg",
      "title": "wash  hands  soap  tap  water  clean  bath",
      "query": "repair tap bathroom hand",
-     "shot": "A",
+     "shot": "",
      "src_id": "4906",
      "download_url": "https://cdn.pixabay.com/video/2016/09/03/4906-181288859_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "hands wash with soap under a running bathroom tap",
+     "violation": "",
+     "shoot": "pixabay-handwash-soap-tap",
+     "score": 3.35,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:13:30Z"
     },
     {
      "id": "belong-action-m6-M6-B04-V18",
@@ -956,14 +1120,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B04__strip__belong-action-m6-M6-B04-V18.strip.jpg",
      "title": "fountain  water  wet  splash  flow  drops  tap  the middle ages  piece",
      "query": "repair tap bathroom hand",
-     "shot": "C",
+     "shot": "B",
      "src_id": "85632",
      "download_url": "https://cdn.pixabay.com/video/2021/08/19/85632-591865283_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:05:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 7,
+     "caption": "water pours from an outdoor metal spigot into a bucket on grass",
+     "violation": "",
+     "shoot": "pixabay-outdoor-spigot-bucket",
+     "score": 7.0,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:13:30Z"
     },
     {
      "id": "belong-action-m6-M6-B04-V19",
@@ -977,7 +1149,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B04__strip__belong-action-m6-M6-B04-V19.strip.jpg",
      "title": "tap water",
      "query": "water flowing from a metal pipe",
-     "shot": "A",
+     "shot": "C",
      "duration": 16,
      "src_id": "2236003",
      "download_url": "https://videos.pexels.com/video-files/2236003/2236003-hd_1920_1080_24fps.mp4",
@@ -987,8 +1159,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a rustic outdoor tap drips water slowly to a stop",
+     "violation": "",
+     "shoot": "pexels-rustic-tap-drip",
+     "score": 8.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:13:30Z"
     }
    ],
    "shots": [
@@ -1072,7 +1252,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V00.strip.jpg",
      "title": "mother and daughter putting pasta in a food container",
      "query": "handing a cloth bag across counter",
-     "shot": "A",
+     "shot": "",
      "duration": 19,
      "src_id": "6950818",
      "download_url": "https://videos.pexels.com/video-files/6950818/6950818-hd_1920_1080_25fps.mp4",
@@ -1082,8 +1262,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a mother and smiling daughter pour pasta into a jar",
+     "violation": "",
+     "shoot": "pexels-mother-daughter-kitchen",
+     "score": 1.35,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V01",
@@ -1097,7 +1285,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V01.strip.jpg",
      "title": "a person putting powder on a bowl",
      "query": "handing a cloth bag across counter",
-     "shot": "A",
+     "shot": "B",
      "duration": 24,
      "src_id": "6901285",
      "download_url": "https://videos.pexels.com/video-files/6901285/6901285-hd_1920_1080_25fps.mp4",
@@ -1107,8 +1295,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:23Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man holds a white paper bag in a modern kitchen",
+     "violation": "",
+     "shoot": "pexels-man-bag-kitchen",
+     "score": 3.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V02",
@@ -1122,7 +1318,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V02.strip.jpg",
      "title": "salesperson handing over the product to customer",
      "query": "handing a cloth bag across counter",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "5240899",
      "download_url": "https://videos.pexels.com/video-files/5240899/5240899-hd_1920_1080_25fps.mp4",
@@ -1132,8 +1328,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a woman in a blazer processes a card payment beside a gift bag",
+     "violation": "corporate",
+     "shoot": "pexels-blazer-card-payment",
+     "score": 1.95,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V03",
@@ -1147,7 +1351,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V03.strip.jpg",
      "title": "a person putting a powder on a bowl using spoon",
      "query": "handing a cloth bag across counter",
-     "shot": "A",
+     "shot": "B",
      "duration": 15,
      "src_id": "6901279",
      "download_url": "https://videos.pexels.com/video-files/6901279/6901279-hd_1920_1080_25fps.mp4",
@@ -1157,8 +1361,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a man pours from a paper bag into a bowl in a kitchen",
+     "violation": "",
+     "shoot": "pexels-man-bag-kitchen",
+     "score": 3.35,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V04",
@@ -1172,7 +1384,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V04.strip.jpg",
      "title": "train  passing  nature  trees  fast  speed",
      "query": "hands passing bag",
-     "shot": "C",
+     "shot": "",
      "duration": 17,
      "src_id": "22686",
      "download_url": "https://cdn.pixabay.com/video/2019/04/08/22686-329198616_large.mp4",
@@ -1182,8 +1394,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a train speeds past trees in open countryside",
+     "violation": "",
+     "shoot": "pixabay-train-countryside",
+     "score": 0.35,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V05",
@@ -1197,7 +1417,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V05.strip.jpg",
      "title": "hand washing  washing  hand  hygiene  soap  bathroom",
      "query": "laundry bag hands",
-     "shot": "B",
+     "shot": "",
      "duration": 51,
      "src_id": "51807",
      "download_url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_large.mp4",
@@ -1207,8 +1427,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:06:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "hands wash under a bathroom tap with teal tile behind",
+     "violation": "",
+     "shoot": "pixabay-handwash-teal-bath",
+     "score": 0.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:13:58Z"
     },
     {
      "id": "belong-action-m6-M6-B05-V06",
@@ -1222,7 +1450,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B05__strip__belong-action-m6-M6-B05-V06.strip.jpg",
      "title": "laundry  clothes line  dry  wind  material  to wash  household  nature",
      "query": "laundry bag hands",
-     "shot": "B",
+     "shot": "",
      "duration": 20,
      "src_id": "165820",
      "download_url": "https://cdn.pixabay.com/video/2023/06/05/165820-833522145_large.mp4",
@@ -1232,8 +1460,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:03Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "checked laundry dries on a line in a wildflower garden",
+     "violation": "",
+     "shoot": "pixabay-clothesline-garden",
+     "score": 4.4,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:13:58Z"
     }
    ],
    "shots": [
@@ -1270,7 +1506,12 @@
     "dry cleaner sign"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T17:14:32Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M6-B06",
@@ -1327,8 +1568,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:20Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "sunlight beams cut through mist in a dark forest",
+     "violation": "",
+     "shoot": "pexels-forest-sunray-mist-a",
+     "score": 6.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V01",
@@ -1352,8 +1601,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:26Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "sun rays burst through a misty forest canopy",
+     "violation": "",
+     "shoot": "pexels-forest-sunray-mist-b",
+     "score": 6.35,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V02",
@@ -1367,7 +1624,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B06__strip__belong-action-m6-M6-B06-V02.strip.jpg",
      "title": "sunlight passing through trees",
      "query": "steam rising in a beam of light",
-     "shot": "A",
+     "shot": "B",
      "duration": 20,
      "src_id": "14057033",
      "download_url": "https://videos.pexels.com/video-files/14057033/14057033-hd_1920_1080_30fps.mp4",
@@ -1377,8 +1634,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "morning mist and sunlight roll over a wooded hillside",
+     "violation": "",
+     "shoot": "pexels-forest-sunray-mist-c",
+     "score": 6.35,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V03",
@@ -1392,7 +1657,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B06__strip__belong-action-m6-M6-B06-V03.strip.jpg",
      "title": "dramatic foggy light show in dark hallway",
      "query": "steam rising in a beam of light",
-     "shot": "A",
+     "shot": "",
      "duration": 38,
      "src_id": "28957437",
      "download_url": "https://videos.pexels.com/video-files/28957437/12527984_1920_1080_30fps.mp4",
@@ -1402,8 +1667,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "geometric stage light beams cut through fog in a dark hall",
+     "violation": "nightclub",
+     "shoot": "pexels-fog-stage-lights",
+     "score": 1.95,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V04",
@@ -1417,7 +1690,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B06__strip__belong-action-m6-M6-B06-V04.strip.jpg",
      "title": "morning coffee",
      "query": "steam in dark room with sunlight",
-     "shot": "B",
+     "shot": "",
      "duration": 44,
      "src_id": "852222",
      "download_url": "https://videos.pexels.com/video-files/852222/852222-hd_1920_1080_30fps.mp4",
@@ -1427,8 +1700,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "steam rises from a coffee mug beside an open laptop",
+     "violation": "laptop",
+     "shoot": "pexels-coffee-mug-laptop",
+     "score": 1.3,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V05",
@@ -1442,7 +1723,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m6/M6-B06__strip__belong-action-m6-M6-B06-V05.strip.jpg",
      "title": "man vaping indoors with dark background",
      "query": "steam in dark room with sunlight",
-     "shot": "B",
+     "shot": "",
      "duration": 24,
      "src_id": "38917906",
      "download_url": "https://videos.pexels.com/video-files/38917906/16550918_1920_1080_25fps.mp4",
@@ -1452,8 +1733,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:52Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a bearded man exhales vapor close to camera",
+     "violation": "",
+     "shoot": "pexels-man-vaping-dark",
+     "score": 0.35,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:14:30Z"
     },
     {
      "id": "belong-action-m6-M6-B06-V06",
@@ -1477,8 +1766,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:07:58Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a sunbeam cuts through dusty haze in a derelict room",
+     "violation": "",
+     "shoot": "pexels-abandoned-room-beam",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:14:30Z"
     }
    ],
    "shots": [
