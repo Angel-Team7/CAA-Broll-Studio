@@ -11518,5 +11518,29 @@
   "reason": "drone aerial footage, industrial mechanized harvest, wrong scale and subject",
   "at": "2026-10-19T17:03:08Z",
   "from": "belong-action-m1/M1-B04"
+ },
+ "pexels:13322600": {
+  "sector": "belong",
+  "reason": "frontal faces visible, smiling at camera",
+  "at": "2026-10-19T17:03:55Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pixabay:39802": {
+  "sector": "belong",
+  "reason": "text in frame",
+  "at": "2026-10-19T17:03:55Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pexels:4213954": {
+  "sector": "belong",
+  "reason": "cleaning product advert",
+  "at": "2026-10-19T17:04:28Z",
+  "from": "belong-action-m2/M2-B02"
+ },
+ "pexels:3171929": {
+  "sector": "belong",
+  "reason": "storm damage (uprooted tree)",
+  "at": "2026-10-19T17:05:00Z",
+  "from": "belong-action-m2/M2-B04"
  }
 }

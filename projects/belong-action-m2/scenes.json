@@ -47,14 +47,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V00.strip.jpg",
      "title": "woman eating breakfast and taking morning pills",
      "query": "two people talking wooden table coffee morning",
-     "shot": "B",
+     "shot": "",
      "src_id": "11125102",
      "download_url": "https://videos.pexels.com/video-files/11125102/11125102-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:55:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand reaches for a pill bottle at a breakfast table",
+     "violation": "",
+     "shoot": "pexels-breakfast-pills",
+     "score": 1.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V01",
@@ -68,14 +76,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V01.strip.jpg",
      "title": "",
      "query": "two people talking wooden table coffee morning",
-     "shot": "C",
+     "shot": "",
      "src_id": "13322600",
      "download_url": "https://videos.pexels.com/video-files/13322600/13322600-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:55:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 0,
+     "caption": "two men smile and talk face to face across a kitchen counter",
+     "violation": "frontal faces visible, smiling at camera",
+     "shoot": "pexels-kitchen-counter-talk",
+     "score": 3.9,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V02",
@@ -95,8 +111,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:55:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "two people's hands gesture across a counter with mugs, faces out of frame",
+     "violation": "",
+     "shoot": "pexels-counter-hands-mugs",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V03",
@@ -110,14 +134,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V03.strip.jpg",
      "title": "man and woman having conversation with a red wine",
      "query": "waiter bringing glass of wine to table",
-     "shot": "A",
+     "shot": "",
      "src_id": "7339495",
      "download_url": "https://videos.pexels.com/video-files/7339495/7339495-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:55:10Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands gesture near wine glasses on a wooden restaurant table",
+     "violation": "",
+     "shoot": "pexels-winetable-hands",
+     "score": 4.0,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V04",
@@ -131,14 +163,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V04.strip.jpg",
      "title": "meeting  chalkboard  write  meeting time chalkboard  hello  chalkboard meet time  chalkboard meeting  chalkboard for wall  chalkboard welcome  unframed chalkboards  webinar time frame  welcome",
      "query": "kitchen staff clipboard meeting",
-     "shot": "B",
+     "shot": "",
      "src_id": "39802",
      "download_url": "https://cdn.pixabay.com/video/2020/05/22/39802-424022749_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:55:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a hand chalks the words meeting 14:30 on a blackboard",
+     "violation": "text in frame",
+     "shoot": "pixabay-chalkboard-meeting",
+     "score": 0.65,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V05",
@@ -152,7 +192,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V05.strip.jpg",
      "title": "man and woman having conversation with a red wine",
      "query": "hands gesturing across wooden counter",
-     "shot": "A",
+     "shot": "",
      "duration": 33,
      "src_id": "7339495",
      "download_url": "https://videos.pexels.com/video-files/7339495/7339495-hd_2048_1080_25fps.mp4",
@@ -162,8 +202,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 4,
+     "caption": "hands gesture near wine glasses on a wooden restaurant table",
+     "violation": "",
+     "shoot": "pexels-winetable-hands",
+     "score": 4.0,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:03:55Z"
     },
     {
      "id": "belong-action-m2-M2-B01-V06",
@@ -177,7 +225,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B01__strip__belong-action-m2-M2-B01-V06.strip.jpg",
      "title": "close up of couple holding hands",
      "query": "hands gesturing across wooden counter",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "8550995",
      "download_url": "https://videos.pexels.com/video-files/8550995/8550995-hd_1920_1080_30fps.mp4",
@@ -187,8 +235,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:25Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "two pairs of hands clasp together on a weathered wooden dock",
+     "violation": "",
+     "shoot": "pexels-hands-dock",
+     "score": 4.05,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:03:55Z"
     }
    ],
    "shots": [
@@ -225,7 +281,12 @@
     "handshake deal"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T17:05:02Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M2-B02",
@@ -282,8 +343,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "a hand presses leaving ink-smudged fingerprints on white paper",
+     "violation": "",
+     "shoot": "pexels-inkprint-hand",
+     "score": 3.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V01",
@@ -297,7 +366,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V01.strip.jpg",
      "title": "hand taking cup and cleaning stain with cloth",
      "query": "wiping fingerprints off glass",
-     "shot": "A",
+     "shot": "B",
      "duration": 20,
      "src_id": "10568254",
      "download_url": "https://videos.pexels.com/video-files/10568254/10568254-hd_2048_1080_25fps.mp4",
@@ -307,8 +376,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "a hand lifts a cup off a wooden table and wipes away the ring stain",
+     "violation": "",
+     "shoot": "pexels-wipe-woodstain",
+     "score": 6.35,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V02",
@@ -322,7 +399,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V02.strip.jpg",
      "title": "woman getting wet wipes",
      "query": "wiping fingerprints off glass",
-     "shot": "A",
+     "shot": "",
      "duration": 9,
      "src_id": "4213954",
      "download_url": "https://videos.pexels.com/video-files/4213954/4213954-hd_1920_1080_25fps.mp4",
@@ -332,8 +409,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand pulls a wet wipe from its green packaging",
+     "violation": "cleaning product advert",
+     "shoot": "pexels-wetwipes-pack",
+     "score": 1.35,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V03",
@@ -347,7 +432,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V03.strip.jpg",
      "title": "using brown sponge with soap",
      "query": "wiping fingerprints off glass",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "6873324",
      "download_url": "https://videos.pexels.com/video-files/6873324/6873324-hd_1920_1080_25fps.mp4",
@@ -357,8 +442,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:55:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a sponge scrubs soapy foam across a car window",
+     "violation": "",
+     "shoot": "pexels-carwash-sponge",
+     "score": 1.35,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V04",
@@ -372,7 +465,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V04.strip.jpg",
      "title": "drink  water  glass  pouring  refreshment  refreshing  reflection  liquid  full  drinking  thirst  table  dishes  transparent  clear  fresh",
      "query": "polishing glass table",
-     "shot": "C",
+     "shot": "",
      "duration": 16,
      "src_id": "95",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/95-135735410_large.mp4",
@@ -382,8 +475,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 4,
+     "caption": "water pours into a glass on a reflective tabletop above the sea",
+     "violation": "",
+     "shoot": "pixabay-glass-seaview",
+     "score": 3.35,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V05",
@@ -397,7 +498,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V05.strip.jpg",
      "title": "lunch  meal  people  tea cup  tea  couple  table  restaurant  diner  service  food  snack  eating",
      "query": "polishing glass table",
-     "shot": "C",
+     "shot": "",
      "duration": 35,
      "src_id": "2339",
      "download_url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
@@ -407,8 +508,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "diners eat salad and drink tea at a restaurant table",
+     "violation": "",
+     "shoot": "pixabay-restaurant-diners",
+     "score": 1.05,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:04:28Z"
     },
     {
      "id": "belong-action-m2-M2-B02-V06",
@@ -422,7 +531,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B02__strip__belong-action-m2-M2-B02-V06.strip.jpg",
      "title": "coffee  cup  morning  breakfast  reading  book  bible  cafe  caffeine  food  espresso  table  relax  study  mug  drink  relaxing",
      "query": "polishing glass table",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "27230",
      "download_url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
@@ -432,8 +541,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a teacup rests on an open book beside a cozy blanket",
+     "violation": "",
+     "shoot": "pixabay-teacup-book",
+     "score": 2.4,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:04:28Z"
     }
    ],
    "shots": [
@@ -470,7 +587,12 @@
     "window cleaner"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T17:05:02Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M2-B03",
@@ -553,14 +675,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V00.strip.jpg",
      "title": "people picking foods from the table",
      "query": "friends long outdoor table farm meal",
-     "shot": "A",
+     "shot": "",
      "src_id": "6760617",
      "download_url": "https://videos.pexels.com/video-files/6760617/6760617-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:56:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "guests pick food from a wooden table spread with pizza and wine",
+     "violation": "",
+     "shoot": "pexels-partytable-food",
+     "score": 0.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V01",
@@ -574,14 +704,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V01.strip.jpg",
      "title": "a female person picking up paper bags on a floor",
      "query": "hand on wooden door frame sunlight",
-     "shot": "A",
+     "shot": "",
      "src_id": "9218143",
      "download_url": "https://videos.pexels.com/video-files/9218143/9218143-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:56:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "paper gift bags sit by a sunlit wooden door",
+     "violation": "",
+     "shoot": "pexels-giftbags-door",
+     "score": 1.05,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V02",
@@ -595,14 +733,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V02.strip.jpg",
      "title": "pasta  food  pastas  eat  nutrition  spaghetti  noodles  italian  cooker  restaurant  lunch  tomato  italy  vegetarian  ingredient  carbs  delicious  recipes  yummy  healthy",
      "query": "tomato picking garden eating",
-     "shot": "A",
+     "shot": "",
      "src_id": "33261",
      "download_url": "https://cdn.pixabay.com/video/2020/03/05/33261-396488004_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:56:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand stirs a pot in a kitchen as a woman holds wine glasses",
+     "violation": "",
+     "shoot": "pexels-kitchen-wine",
+     "score": 0.7,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V03",
@@ -616,7 +762,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V03.strip.jpg",
      "title": "an uprooted tree lying down on the ground",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "3171929",
      "download_url": "https://videos.pexels.com/video-files/3171929/3171929-hd_1920_1080_24fps.mp4",
@@ -626,8 +772,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "an uprooted dead tree lies on its side in a field",
+     "violation": "storm damage (uprooted tree)",
+     "shoot": "pexels-uprooted-tree",
+     "score": 1.3,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V04",
@@ -641,7 +795,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V04.strip.jpg",
      "title": "woman picking up cherries",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 11,
      "src_id": "14079024",
      "download_url": "https://videos.pexels.com/video-files/14079024/14079024-hd_1920_1080_50fps.mp4",
@@ -651,8 +805,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 7,
+     "caption": "a woman's hands pick cherries from a leafy branch",
+     "violation": "",
+     "shoot": "pexels-handscherries-branch",
+     "score": 5.05,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V05",
@@ -666,7 +828,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V05.strip.jpg",
      "title": "a man picking coffee beans from a tree",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "17190655",
      "download_url": "https://videos.pexels.com/video-files/17190655/17190655-hd_1920_1080_24fps.mp4",
@@ -676,8 +838,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a hand picks ripe coffee berries from a bush",
+     "violation": "",
+     "shoot": "pexels-coffeeberries-hand",
+     "score": 1.7,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:05:00Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V06",
@@ -691,7 +861,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V06.strip.jpg",
      "title": "a person cutting and sticking a small sprig on a page",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 39,
      "src_id": "6132798",
      "download_url": "https://videos.pexels.com/video-files/6132798/6132798-hd_2048_1080_25fps.mp4",
@@ -701,8 +871,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:56:59Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 5,
+     "caption": "a hand presses a small green sprig into an open journal outdoors",
+     "violation": "",
+     "shoot": "pexels-sprig-journal",
+     "score": 3.05,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:05:00Z"
     }
    ],
    "shots": [
@@ -739,7 +917,12 @@
     "forest fire"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T17:05:02Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   }
  ]
 }
