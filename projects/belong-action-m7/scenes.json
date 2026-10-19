@@ -47,14 +47,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V00.strip.jpg",
      "title": "a group of people meeting in a coffee shop",
      "query": "guest and staff talking garden terrace",
-     "shot": "A",
+     "shot": "",
      "src_id": "5529078",
      "download_url": "https://videos.pexels.com/video-files/5529078/5529078-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:08:13Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "friends sit around a coffee table, faces visible and smiling",
+     "violation": "clear frontal smiling faces in a casual cafe",
+     "shoot": "pexels-coffeefriends-cafe",
+     "score": 1.0,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V01",
@@ -68,14 +76,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V01.strip.jpg",
      "title": "bearded man doing asmr",
      "query": "listening small nod close",
-     "shot": "A",
+     "shot": "",
      "src_id": "6144020",
      "download_url": "https://videos.pexels.com/video-files/6144020/6144020-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:08:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "extreme close-up of a bearded man's face in the dark",
+     "violation": "close frontal face, not a group scene",
+     "shoot": "pexels-asmr-facecloseup",
+     "score": 1.0,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V02",
@@ -89,14 +105,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V02.strip.jpg",
      "title": "a woman wearing a wireless headphones",
      "query": "listening small nod close",
-     "shot": "A",
+     "shot": "",
      "src_id": "6688235",
      "download_url": "https://videos.pexels.com/video-files/6688235/6688235-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T17:08:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 1,
+     "caption": "a woman in headphones vapes in a plant-filled room",
+     "violation": "clear frontal face; vaping, unrelated subject",
+     "shoot": "pexels-headphones-vaping",
+     "score": 1.0,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V03",
@@ -110,7 +134,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V03.strip.jpg",
      "title": "group of people watching a person playing guitar",
      "query": "silhouettes of people listening",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "8513477",
      "download_url": "https://videos.pexels.com/video-files/8513477/8513477-hd_1920_1080_25fps.mp4",
@@ -120,8 +144,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:08:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "a group sits in a dark room lit by colored stage lights",
+     "violation": "concert/nightclub-style lighting",
+     "shoot": "pexels-neonroom-group",
+     "score": 0.65,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V04",
@@ -135,7 +167,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V04.strip.jpg",
      "title": "a group of people in a psychology session",
      "query": "silhouettes of people listening",
-     "shot": "A",
+     "shot": "",
      "duration": 10,
      "src_id": "7525399",
      "download_url": "https://videos.pexels.com/video-files/7525399/7525399-hd_1920_1080_25fps.mp4",
@@ -145,8 +177,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:08:28Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a group sits in a circle of chairs in a minimalist white room",
+     "violation": "corporate coaching-session look (business attire, boardroom-like white room)",
+     "shoot": "pexels-circlechairs-whiteroom",
+     "score": 2.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V05",
@@ -160,7 +200,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V05.strip.jpg",
      "title": "group of people singing together",
      "query": "silhouettes of people listening",
-     "shot": "A",
+     "shot": "",
      "duration": 17,
      "src_id": "6193820",
      "download_url": "https://videos.pexels.com/video-files/6193820/6193820-hd_1920_1080_25fps.mp4",
@@ -170,8 +210,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:08:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "a choir in black performs for a conductor against a dark curtain",
+     "violation": "staged concert/performance look",
+     "shoot": "pexels-choir-conductor",
+     "score": 1.65,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:15:03Z"
     },
     {
      "id": "belong-action-m7-M7-B01-V06",
@@ -185,7 +233,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m7/M7-B01__strip__belong-action-m7-M7-B01-V06.strip.jpg",
      "title": "sea  sea level  small fish  group  jump  japan",
      "query": "silhouettes group listening",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "228810",
      "download_url": "https://cdn.pixabay.com/video/2024/08/30/228810_large.mp4",
@@ -195,8 +243,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:08:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "small fish jump at the surface of dark blue ocean waves",
+     "violation": "",
+     "shoot": "pixabay-oceanwaves-fish",
+     "score": 1.7,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:15:03Z"
     }
    ],
    "shots": [
@@ -233,7 +289,12 @@
     "protest"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T17:15:06Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M7-B02",
@@ -493,35 +554,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "M8-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:11:14Z",
-      "added": 7
-     },
-     "M8-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:17Z",
-      "added": 7
-     },
-     "M8-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:12:55Z",
-      "added": 6
-     }
-    },
+    "at": "2026-10-19T17:15:06Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },

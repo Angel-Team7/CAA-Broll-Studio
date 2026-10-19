@@ -11521,182 +11521,254 @@
  },
  "pexels:13322600": {
   "sector": "belong",
-  "reason": "frontal faces shown; industrial brick loft, not farmhouse",
-  "at": "2026-10-19T17:04:58Z",
+  "reason": "frontal faces visible, smiling at camera",
+  "at": "2026-10-19T17:03:55Z",
   "from": "belong-action-m2/M2-B01"
  },
  "pixabay:39802": {
   "sector": "belong",
-  "reason": "text in frame; office meeting subject not in sector world",
-  "at": "2026-10-19T17:04:58Z",
+  "reason": "text in frame",
+  "at": "2026-10-19T17:03:55Z",
   "from": "belong-action-m2/M2-B01"
  },
  "pexels:4213954": {
   "sector": "belong",
-  "reason": "cleaning product packaging shown",
-  "at": "2026-10-19T17:05:38Z",
-  "from": "belong-action-m2/M2-B02"
- },
- "pexels:6873324": {
-  "sector": "belong",
-  "reason": "cool dark palette, not earth tones; car wash subject",
-  "at": "2026-10-19T17:05:38Z",
-  "from": "belong-action-m2/M2-B02"
- },
- "pixabay:95": {
-  "sector": "belong",
-  "reason": "luxury-resort look (mirrored surface, infinity-pool-style sea reflection)",
-  "at": "2026-10-19T17:08:45Z",
-  "from": "belong-action-m4/M4-B03"
- },
- "pixabay:2339": {
-  "sector": "belong",
-  "reason": "unrelated dining scene; face visible",
-  "at": "2026-10-19T17:05:38Z",
+  "reason": "cleaning product advert",
+  "at": "2026-10-19T17:04:28Z",
   "from": "belong-action-m2/M2-B02"
  },
  "pexels:3171929": {
   "sector": "belong",
-  "reason": "storm-damage look (uprooted dead tree); no hands or boardwalk",
-  "at": "2026-10-19T17:06:11Z",
+  "reason": "storm damage (uprooted tree)",
+  "at": "2026-10-19T17:05:00Z",
   "from": "belong-action-m2/M2-B04"
  },
  "pexels:5657498": {
   "sector": "belong",
-  "reason": "cold clinical palette and nitrile gloves, not earth tones; wrong food (ice cream not jam)",
-  "at": "2026-10-19T17:06:50Z",
+  "reason": "breaks earth-palette rule (red, not amber/honey) and natural look (clinical nitrile gloves)",
+  "at": "2026-10-19T17:06:22Z",
   "from": "belong-action-m3/M3-B02"
  },
  "pexels:6518125": {
   "sector": "belong",
-  "reason": "identifiable Christmas table styling with champagne, not authentic farmhouse world",
-  "at": "2026-10-19T17:07:33Z",
+  "reason": "Christmas holiday decor and champagne read as festive/luxury, not earth-palette farmhouse",
+  "at": "2026-10-19T17:07:02Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:7331027": {
   "sector": "belong",
-  "reason": "birthday party styling, bright primary colors not earth palette",
-  "at": "2026-10-19T17:07:33Z",
+  "reason": "bright plastic party decor breaks earth palette, not the farmhouse world",
+  "at": "2026-10-19T17:07:02Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:19905887": {
   "sector": "belong",
-  "reason": "professional restaurant kitchen line, not an intimate farmhouse table",
-  "at": "2026-10-19T17:07:33Z",
+  "reason": "stainless-steel restaurant line and chef whites read as fine dining, not farmhouse warmth",
+  "at": "2026-10-19T17:07:02Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:6328269": {
   "sector": "belong",
-  "reason": "marble table surface reads as luxury-resort look",
-  "at": "2026-10-19T17:07:33Z",
+  "reason": "marble table surface breaks the no-luxury rule",
+  "at": "2026-10-19T17:07:02Z",
   "from": "belong-action-m3/M3-B05"
+ },
+ "pexels:20057378": {
+  "sector": "belong",
+  "reason": "bright midday blue sky and sea break the earth-palette rule; bamboo tiki-bar reads as a specific identifiable beach club",
+  "at": "2026-10-19T17:07:38Z",
+  "from": "belong-action-m4/M4-B02"
  },
  "pexels:39944365": {
   "sector": "belong",
-  "reason": "recognisable village buildings in frame",
-  "at": "2026-10-19T17:08:06Z",
+  "reason": "drone aerial shot and identifiable village/buildings",
+  "at": "2026-10-19T17:07:38Z",
   "from": "belong-action-m4/M4-B02"
  },
  "pexels:28840746": {
   "sector": "belong",
-  "reason": "visible text/signage ('KAHUNG BAR'); crowd; beach-party scene",
-  "at": "2026-10-19T17:08:06Z",
+  "reason": "drone aerial, crowd, and visible beach-bar signage",
+  "at": "2026-10-19T17:07:38Z",
   "from": "belong-action-m4/M4-B02"
  },
  "pexels:35776900": {
   "sector": "belong",
-  "reason": "sunbather umbrellas, crowded beach scene",
-  "at": "2026-10-19T17:08:06Z",
+  "reason": "drone aerial shot, crowd of umbrellas, resort look",
+  "at": "2026-10-19T17:07:38Z",
   "from": "belong-action-m4/M4-B02"
+ },
+ "pixabay:14627": {
+  "sector": "belong",
+  "reason": "studio white-background shot, not a natural sunlit scene",
+  "at": "2026-10-19T17:08:34Z",
+  "from": "belong-action-m4/M4-B03"
  },
  "pixabay:19258": {
   "sector": "belong",
-  "reason": "skyscraper cityscape (explicit never-list item); urban night setting, not farmhouse",
-  "at": "2026-10-19T17:08:45Z",
+  "reason": "identifiable city skyline and lit billboard at night, frontal silhouette",
+  "at": "2026-10-19T17:08:34Z",
   "from": "belong-action-m4/M4-B03"
  },
  "pexels:39431248": {
   "sector": "belong",
-  "reason": "ornate gilded cup reads as upscale, not authentic farmhouse",
-  "at": "2026-10-19T17:08:45Z",
+  "reason": "ornate metal Turkish coffee set reads as luxury tableware, not farmhouse beach bar",
+  "at": "2026-10-19T17:08:34Z",
+  "from": "belong-action-m4/M4-B03"
+ },
+ "pexels:4631936": {
+  "sector": "belong",
+  "reason": "studio white/blue backdrop, not a natural sunlit wooden table",
+  "at": "2026-10-19T17:08:34Z",
   "from": "belong-action-m4/M4-B03"
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:10:17Z",
+  "reason": "clear frontal face, not hands/backs/profiles only",
+  "at": "2026-10-19T17:09:46Z",
   "from": "belong-action-m5/M5-B01"
+ },
+ "pexels:3838401": {
+  "sector": "belong",
+  "reason": "a black ribbon bow on a gift box is visible in frame",
+  "at": "2026-10-19T17:10:08Z",
+  "from": "belong-action-m5/M5-B02"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "logo",
-  "at": "2026-10-19T17:10:38Z",
+  "reason": "printed sticker/logo on the bag",
+  "at": "2026-10-19T17:10:08Z",
+  "from": "belong-action-m5/M5-B02"
+ },
+ "pexels:3838399": {
+  "sector": "belong",
+  "reason": "a black ribbon bow on a gift box is visible in frame",
+  "at": "2026-10-19T17:10:08Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "supermarket aisle",
-  "at": "2026-10-19T17:11:05Z",
+  "reason": "visible price tags and a supermarket-refill-aisle look",
+  "at": "2026-10-19T17:10:35Z",
   "from": "belong-action-m5/M5-B03"
  },
  "pexels:38806023": {
   "sector": "belong",
-  "reason": "assembly",
-  "at": "2026-10-19T17:11:31Z",
+  "reason": "factory conveyor/assembly line",
+  "at": "2026-10-19T17:11:03Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle",
-  "at": "2026-10-19T17:11:31Z",
+  "reason": "spray bottle in frame",
+  "at": "2026-10-19T17:11:03Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pixabay:109413": {
   "sector": "belong",
-  "reason": "gym",
-  "at": "2026-10-19T17:12:20Z",
+  "reason": "gym setting and frontal face",
+  "at": "2026-10-19T17:11:47Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pixabay:8294": {
   "sector": "belong",
-  "reason": "logo",
-  "at": "2026-10-19T17:12:20Z",
+  "reason": "visible Adidas logo",
+  "at": "2026-10-19T17:11:47Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:4935736": {
   "sector": "belong",
   "reason": "sailing yacht",
-  "at": "2026-10-19T17:12:20Z",
+  "at": "2026-10-19T17:11:47Z",
   "from": "belong-action-m6/M6-B01"
+ },
+ "pexels:7792608": {
+  "sector": "belong",
+  "reason": "glossy satin sheen and blue tone read as fashion/luxury fabric, not humble white linen",
+  "at": "2026-10-19T17:12:13Z",
+  "from": "belong-action-m6/M6-B02"
  },
  "pexels:7677258": {
   "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-10-19T17:12:41Z",
+  "reason": "gold silk reads as luxury fabric",
+  "at": "2026-10-19T17:12:13Z",
   "from": "belong-action-m6/M6-B02"
+ },
+ "pexels:5442629": {
+  "sector": "belong",
+  "reason": "visible printed text in frame",
+  "at": "2026-10-19T17:12:41Z",
+  "from": "belong-action-m6/M6-B03"
  },
  "pexels:9467582": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:13:09Z",
+  "reason": "clear frontal face",
+  "at": "2026-10-19T17:12:41Z",
   "from": "belong-action-m6/M6-B03"
+ },
+ "pexels:6950818": {
+  "sector": "belong",
+  "reason": "clear frontal smiling faces",
+  "at": "2026-10-19T17:13:41Z",
+  "from": "belong-action-m6/M6-B05"
  },
  "pexels:5240899": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-19T17:13:58Z",
+  "reason": "suit visible; retail checkout with card machine",
+  "at": "2026-10-19T17:13:41Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:28957437": {
   "sector": "belong",
-  "reason": "nightclub",
-  "at": "2026-10-19T17:14:30Z",
+  "reason": "nightclub/concert stage lighting look",
+  "at": "2026-10-19T17:14:13Z",
   "from": "belong-action-m6/M6-B06"
  },
  "pexels:852222": {
   "sector": "belong",
-  "reason": "laptop",
-  "at": "2026-10-19T17:14:30Z",
+  "reason": "steaming coffee mug reads as the forbidden cooking/hot-drink prop",
+  "at": "2026-10-19T17:14:13Z",
   "from": "belong-action-m6/M6-B06"
+ },
+ "pexels:38917906": {
+  "sector": "belong",
+  "reason": "frontal face; vaping, not the intended steam",
+  "at": "2026-10-19T17:14:13Z",
+  "from": "belong-action-m6/M6-B06"
+ },
+ "pexels:5529078": {
+  "sector": "belong",
+  "reason": "clear frontal smiling faces in a casual cafe",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:6144020": {
+  "sector": "belong",
+  "reason": "close frontal face, not a group scene",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:6688235": {
+  "sector": "belong",
+  "reason": "clear frontal face; vaping, unrelated subject",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:8513477": {
+  "sector": "belong",
+  "reason": "concert/nightclub-style lighting",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:7525399": {
+  "sector": "belong",
+  "reason": "corporate coaching-session look (business attire, boardroom-like white room)",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:6193820": {
+  "sector": "belong",
+  "reason": "staged concert/performance look",
+  "at": "2026-10-19T17:15:03Z",
+  "from": "belong-action-m7/M7-B01"
  }
 }
