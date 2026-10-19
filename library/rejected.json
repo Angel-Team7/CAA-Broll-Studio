@@ -11623,38 +11623,32 @@
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "frontal face shown",
-  "at": "2026-10-19T17:09:58Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:10:17Z",
   "from": "belong-action-m5/M5-B01"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "printed logo/branding visible on the bag",
-  "at": "2026-10-19T17:10:21Z",
+  "reason": "logo",
+  "at": "2026-10-19T17:10:38Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "visible product labels and price tags; supermarket/retail-aisle look",
-  "at": "2026-10-19T17:10:56Z",
+  "reason": "supermarket aisle",
+  "at": "2026-10-19T17:11:05Z",
   "from": "belong-action-m5/M5-B03"
  },
- "pexels:6023340": {
+ "pexels:38806023": {
   "sector": "belong",
-  "reason": "face visible; retail-shop shelving, not farmhouse pantry",
-  "at": "2026-10-19T17:10:56Z",
-  "from": "belong-action-m5/M5-B03"
- },
- "pexels:6343757": {
-  "sector": "belong",
-  "reason": "minimalist product-styling look with sage backdrop, not earth-toned farmhouse",
-  "at": "2026-10-19T17:10:56Z",
-  "from": "belong-action-m5/M5-B03"
+  "reason": "assembly",
+  "at": "2026-10-19T17:11:31Z",
+  "from": "belong-action-m5/M5-B04"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle visible",
-  "at": "2026-10-19T17:11:26Z",
+  "reason": "spray bottle",
+  "at": "2026-10-19T17:11:31Z",
   "from": "belong-action-m5/M5-B04"
  }
 }
