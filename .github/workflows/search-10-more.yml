@@ -5,7 +5,7 @@ name: Search 10 more
 on:
   push:
     branches: [main]
-    paths: ['selections/**.json']
+    paths: ['selections/**.json', 'requests/**.json']
   # A run continues itself with `gh workflow run`, which needs the API — and when the
   # installation's rate limit is exhausted (bot pushes also drive Pages builds) that call
   # 403s and every remaining request is stranded with nothing to pick it up. This schedule
@@ -35,6 +35,7 @@ jobs:
           filter: blob:none
           sparse-checkout: |
             selections
+            requests
             tools
             library
             .github
