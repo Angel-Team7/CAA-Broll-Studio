@@ -122,14 +122,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:39:51Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 21.92,
      "carried_from": {
       "scene": "S04",
       "caption": "an open hand offers two small seeds against green leaves"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "an open palm holds two small coffee cherries outdoors",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-palm-coffeecherries",
+     "score": 8.0,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:02Z"
     }
    ],
    "shots": [
@@ -166,7 +176,12 @@
     "coins"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:07:13Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M7-B03",
