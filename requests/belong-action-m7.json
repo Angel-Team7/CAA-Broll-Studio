@@ -13,9 +13,11 @@
     "M7-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:10:11Z",
+      "added": 6
     }
   },
   "updated": "2026-10-19T15:58:28Z",
