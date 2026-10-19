@@ -130,8 +130,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a person leans on a wooden beach bar counter looking out at the sea",
+     "violation": "",
+     "shoot": "pexels-beachbar-counter",
+     "score": 8.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:06:49Z"
     },
     {
      "id": "belong-action-m4-M4-B02-V12",
@@ -145,7 +153,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B02__strip__belong-action-m4-M4-B02-V12.strip.jpg",
      "title": "aerial view of tropical coastal village",
      "query": "view of sea from beach bar",
-     "shot": "A",
+     "shot": "",
      "duration": 37,
      "src_id": "39944365",
      "download_url": "https://videos.pexels.com/video-files/39944365/17044007_1920_1080_60fps.mp4",
@@ -155,8 +163,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:58:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "aerial drone view of waves breaking by a coastal village with rooftops",
+     "violation": "drone aerial footage, identifiable coastal village",
+     "shoot": "pexels-drone-coastalvillage",
+     "score": 1.3,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:06:49Z"
     },
     {
      "id": "belong-action-m4-M4-B02-V13",
@@ -170,7 +186,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B02__strip__belong-action-m4-M4-B02-V13.strip.jpg",
      "title": "aerial view of vibrant kahung beach scene",
      "query": "view of sea from beach bar",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "28840746",
      "download_url": "https://videos.pexels.com/video-files/28840746/12492541_1920_1080_24fps.mp4",
@@ -180,8 +196,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:59:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "aerial view of a crowded beach club with a Kahung Bar sign and umbrellas",
+     "violation": "signage/logo in frame, crowd, drone aerial footage, beach party scene",
+     "shoot": "pexels-drone-kahungbar",
+     "score": 0.65,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:06:49Z"
     },
     {
      "id": "belong-action-m4-M4-B02-V14",
@@ -195,7 +219,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B02__strip__belong-action-m4-M4-B02-V14.strip.jpg",
      "title": "aerial view of beach with sun umbrellas",
      "query": "view of sea from beach bar",
-     "shot": "A",
+     "shot": "",
      "duration": 18,
      "src_id": "35776900",
      "download_url": "https://videos.pexels.com/video-files/35776900/15168489_1920_1080_50fps.mp4",
@@ -205,8 +229,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:59:11Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "aerial top-down view of rows of beach umbrellas along the shore",
+     "violation": "drone aerial footage, luxury-resort look (cabana rows)",
+     "shoot": "pexels-drone-umbrellarows",
+     "score": 1.3,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:06:49Z"
     },
     {
      "id": "belong-action-m4-M4-B02-V15",
@@ -220,7 +252,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B02__strip__belong-action-m4-M4-B02-V15.strip.jpg",
      "title": "reeds  grass  wind  golden sunshine  afternoon",
      "query": "people beach golden hour",
-     "shot": "C",
+     "shot": "",
      "duration": 17,
      "src_id": "152740",
      "download_url": "https://cdn.pixabay.com/video/2023/03/01/152740-803732906_large.mp4",
@@ -230,8 +262,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:59:18Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "golden grass sways in the wind in a sunlit field",
+     "violation": "",
+     "shoot": "pixabay-golden-grass",
+     "score": 1.4,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:06:49Z"
     }
    ],
    "shots": [
@@ -270,37 +310,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-10-19T17:07:53Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -385,14 +397,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V05.strip.jpg",
      "title": "sparkling wine  give a  glass  alcohol  celebration",
      "query": "waiter wine glass table",
-     "shot": "B",
+     "shot": "",
      "src_id": "14627",
      "download_url": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "sparkling wine pours into a flute against a plain white studio backdrop",
+     "violation": "alcohol (sparkling wine/celebration), studio luxury look",
+     "shoot": "pixabay-sparklingwine-pour",
+     "score": 1.3,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V06",
@@ -406,14 +426,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V06.strip.jpg",
      "title": "water  young  bottle  woman  person  drink  beautiful  portrait  sed",
      "query": "wine bottle set on table for two",
-     "shot": "B",
+     "shot": "",
      "src_id": "19258",
      "download_url": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a woman's silhouette drinks from a bottle on a rooftop above a lit-up city",
+     "violation": "identifiable city skyline, billboard signage, nightlife setting",
+     "shoot": "pixabay-rooftop-silhouette",
+     "score": 0.0,
+     "rank": 8,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V07",
@@ -427,14 +455,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V07.strip.jpg",
      "title": "oriental coffee ritual with hand and mug",
      "query": "indoor pool steam morning",
-     "shot": "A",
+     "shot": "",
      "src_id": "39431248",
      "download_url": "https://videos.pexels.com/video-files/39431248/16791661_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "an ornate metal coffee cup sits beside a glass of water on a table",
+     "violation": "",
+     "shoot": "pexels-ornate-coffeeset",
+     "score": 2.35,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V08",
@@ -448,14 +484,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V08.strip.jpg",
      "title": "a person s hand is touching a glass of water",
      "query": "hand touching water surface close",
-     "shot": "A",
+     "shot": "",
      "src_id": "4631936",
      "download_url": "https://videos.pexels.com/video-files/4631936/4631936-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a hand reaches into a glass vessel of water against a plain background",
+     "violation": "",
+     "shoot": "pexels-handinwater-studio",
+     "score": 2.05,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V09",
@@ -469,14 +513,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V09.strip.jpg",
      "title": "drink  refreshment  water  ice  cold water  refreshing  ice cubes",
      "query": "guests arrival drinks pergola",
-     "shot": "A",
+     "shot": "B",
      "src_id": "209665",
      "download_url": "https://cdn.pixabay.com/video/2024/04/27/209665_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "water with ice cubes is poured into a glass on a dark wooden counter",
+     "violation": "",
+     "shoot": "pexels-icewater-darkcounter",
+     "score": 7.65,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V10",
@@ -490,7 +542,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V10.strip.jpg",
      "title": "drink  water  glass  pouring  refreshment  refreshing  reflection  liquid  full  drinking  thirst  table  dishes  transparent  clear  fresh",
      "query": "cold drink wooden table",
-     "shot": "C",
+     "shot": "B",
      "duration": 16,
      "src_id": "95",
      "download_url": "https://cdn.pixabay.com/video/2015/08/08/95-135735410_large.mp4",
@@ -500,8 +552,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:59:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "water is poured into a glass on a reflective table above the sea",
+     "violation": "",
+     "shoot": "pixabay-glass-seaview",
+     "score": 6.65,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:07:27Z"
     },
     {
      "id": "belong-action-m4-M4-B03-V11",
@@ -515,7 +575,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B03__strip__belong-action-m4-M4-B03-V11.strip.jpg",
      "title": "coffee  cup  morning  breakfast  reading  book  bible  cafe  caffeine  food  espresso  table  relax  study  mug  drink  relaxing",
      "query": "cold drink wooden table",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "27230",
      "download_url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
@@ -525,8 +585,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:59:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "a teacup rests on an open book beside a cozy blanket",
+     "violation": "",
+     "shoot": "pixabay-teacup-book",
+     "score": 2.4,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:07:27Z"
     }
    ],
    "shots": [
@@ -565,37 +633,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 2,
+    "at": "2026-10-19T17:07:53Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -754,14 +794,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B04__strip__belong-action-m4-M4-B04-V10.strip.jpg",
      "title": "people picking foods from the table",
      "query": "friends long outdoor table farm meal",
-     "shot": "B",
+     "shot": "",
      "src_id": "6760617",
      "download_url": "https://videos.pexels.com/video-files/6760617/6760617-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:53Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "guests pick food from a wooden table spread with pizza and wine",
+     "violation": "",
+     "shoot": "pexels-partytable-food",
+     "score": 0.7,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:07:50Z"
     },
     {
      "id": "belong-action-m4-M4-B04-V11",
@@ -775,14 +823,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B04__strip__belong-action-m4-M4-B04-V11.strip.jpg",
      "title": "a female person picking up paper bags on a floor",
      "query": "hand on wooden door frame sunlight",
-     "shot": "B",
+     "shot": "",
      "src_id": "9218143",
      "download_url": "https://videos.pexels.com/video-files/9218143/9218143-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:59:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "paper gift bags sit by a sunlit wooden door",
+     "violation": "",
+     "shoot": "pexels-giftbags-door",
+     "score": 1.05,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:07:50Z"
     },
     {
      "id": "belong-action-m4-M4-B04-V12",
@@ -796,7 +852,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B04__strip__belong-action-m4-M4-B04-V12.strip.jpg",
      "title": "beach litter cleanup removing plastic waste",
      "query": "plastic cup blowing on sand",
-     "shot": "A",
+     "shot": "B",
      "duration": 10,
      "src_id": "31285352",
      "download_url": "https://videos.pexels.com/video-files/31285352/13359424_1920_1080_30fps.mp4",
@@ -806,8 +862,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:00:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "legs step across empty sand toward a small piece of blue plastic litter",
+     "violation": "",
+     "shoot": "pexels-beach-litter-legs",
+     "score": 6.0,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:07:50Z"
     },
     {
      "id": "belong-action-m4-M4-B04-V13",
@@ -821,7 +885,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m4/M4-B04__strip__belong-action-m4-M4-B04-V13.strip.jpg",
      "title": "beach pollution plastic waste on sand",
      "query": "plastic cup blowing on sand",
-     "shot": "A",
+     "shot": "B",
      "duration": 9,
      "src_id": "35063581",
      "download_url": "https://videos.pexels.com/video-files/35063581/14853034_1920_1080_60fps.mp4",
@@ -831,8 +895,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T17:00:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "a gloved hand picks a piece of blue plastic litter off empty sand",
+     "violation": "",
+     "shoot": "pexels-beach-litter-glove",
+     "score": 6.65,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:07:50Z"
     }
    ],
    "shots": [
