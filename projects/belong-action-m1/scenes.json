@@ -124,14 +124,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V00.strip.jpg",
      "title": "a close up of a pile of dirt with a small white object",
      "query": "moving water barrel next to garden beds",
-     "shot": "B",
+     "shot": "C",
      "src_id": "20521975",
      "download_url": "https://videos.pexels.com/video-files/20521975/20521975-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:52:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "a garden tool rests in dry cultivated soil",
+     "violation": "",
+     "shoot": "pexels-dirt-tool",
+     "score": 4.05,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V01",
@@ -151,8 +159,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:52:06Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "a hose sprays water over dry garden soil in sunlight",
+     "violation": "",
+     "shoot": "pexels-hose-watering",
+     "score": 8.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V02",
@@ -166,7 +182,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V02.strip.jpg",
      "title": "drone view of dry cracked earth and empty reservoir",
      "query": "dry cracked earth water",
-     "shot": "A",
+     "shot": "",
      "duration": 48,
      "src_id": "37533724",
      "download_url": "https://videos.pexels.com/video-files/37533724/15903361_1920_1080_30fps.mp4",
@@ -176,8 +192,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:52:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "aerial drone view of cracked earth near an empty reservoir",
+     "violation": "drone hyperlapse / aerial drought-news framing",
+     "shoot": "pexels-drone-reservoir",
+     "score": 1.3,
+     "rank": 8,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V03",
@@ -191,7 +215,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V03.strip.jpg",
      "title": "aerial view of cracked dry earth pattern",
      "query": "dry cracked earth water",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "36093771",
      "download_url": "https://videos.pexels.com/video-files/36093771/15307136_1920_1080_30fps.mp4",
@@ -201,8 +225,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:52:22Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "aerial drone view of a cracked dry earth pattern",
+     "violation": "drone hyperlapse / aerial",
+     "shoot": "pexels-drone-cracked",
+     "score": 1.95,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V04",
@@ -216,7 +248,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V04.strip.jpg",
      "title": "view of the dry ground",
      "query": "dry cracked earth water",
-     "shot": "A",
+     "shot": "",
      "duration": 45,
      "src_id": "6498490",
      "download_url": "https://videos.pexels.com/video-files/6498490/6498490-hd_1920_1080_24fps.mp4",
@@ -226,8 +258,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:52:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "overhead close view of a mottled textured ground surface",
+     "violation": "",
+     "shoot": "pexels-ground-texture",
+     "score": 2.7,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V05",
@@ -241,7 +281,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V05.strip.jpg",
      "title": "aerial view of icy landscape with cracks",
      "query": "dry cracked earth water",
-     "shot": "A",
+     "shot": "",
      "duration": 14,
      "src_id": "29504939",
      "download_url": "https://videos.pexels.com/video-files/29504939/12700558_1920_1080_30fps.mp4",
@@ -251,8 +291,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:52:37Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a cracked icy landscape",
+     "violation": "wrong world (icy/snow landscape, not earth or farm) and aerial drone framing",
+     "shoot": "pexels-icy-aerial",
+     "score": 0.0,
+     "rank": 9,
+     "judged_at": "2026-10-19T17:01:35Z"
     },
     {
      "id": "belong-action-m1-M1-B01-V06",
@@ -266,7 +314,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B01__strip__belong-action-m1-M1-B01-V06.strip.jpg",
      "title": "plant  watering  grow  gardening  ewer  watering can  watering pot  water  nature  green  care  garden  spring  ecology  growth  environment  growing  summer  young  agriculture",
      "query": "watering dry soil",
-     "shot": "C",
+     "shot": "B",
      "duration": 14,
      "src_id": "5635",
      "download_url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_large.mp4",
@@ -276,8 +324,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:52:43Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 7,
+     "caption": "a red watering can waters potted plants on a sunny balcony",
+     "violation": "",
+     "shoot": "pexels-wateringcan-plants",
+     "score": 5.7,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:01:35Z"
     }
    ],
    "shots": [
@@ -316,37 +372,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-10-19T17:03:11Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
   {
@@ -541,7 +569,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B02__strip__belong-action-m1-M1-B02-V17.strip.jpg",
      "title": "tulip  flowers  soil  to grow up  nature  summer  petal  spring  beauty  garden  to flourish  floral  flowering",
      "query": "hands digging soil",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "122652",
      "download_url": "https://cdn.pixabay.com/video/2022/06/30/122652-725894645_large.mp4",
@@ -551,8 +579,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 3,
+     "caption": "a field of red and yellow tulips in rows",
+     "violation": "",
+     "shoot": "pixabay-tulip-field",
+     "score": 1.05,
+     "rank": 9,
+     "judged_at": "2026-10-19T17:02:02Z"
     },
     {
      "id": "belong-action-m1-M1-B02-V18",
@@ -566,7 +602,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B02__strip__belong-action-m1-M1-B02-V18.strip.jpg",
      "title": "earthworms burrows on a compost soil",
      "query": "hands turning compost",
-     "shot": "A",
+     "shot": "",
      "duration": 20,
      "src_id": "3045872",
      "download_url": "https://videos.pexels.com/video-files/3045872/3045872-hd_1920_1080_24fps.mp4",
@@ -576,8 +612,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:08Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 0,
+     "caption": "earthworms burrow through dark compost soil",
+     "violation": "worm close-up (explicit must-not)",
+     "shoot": "pexels-worm-compost",
+     "score": 4.55,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:02:02Z"
     },
     {
      "id": "belong-action-m1-M1-B02-V19",
@@ -601,8 +645,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:14Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "hands scoop potting soil from a bag into a pot",
+     "violation": "",
+     "shoot": "pexels-handpot-soil",
+     "score": 6.35,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:02:02Z"
     },
     {
      "id": "belong-action-m1-M1-B02-V20",
@@ -616,7 +668,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B02__strip__belong-action-m1-M1-B02-V20.strip.jpg",
      "title": "person holding soil",
      "query": "hands turning compost",
-     "shot": "A",
+     "shot": "B",
      "duration": 15,
      "src_id": "8544139",
      "download_url": "https://videos.pexels.com/video-files/8544139/8544139-hd_1920_1080_25fps.mp4",
@@ -626,8 +678,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "gloved hands cup a scoop of dark garden soil",
+     "violation": "",
+     "shoot": "pexels-gloved-handsoil",
+     "score": 7.65,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:02:02Z"
     },
     {
      "id": "belong-action-m1-M1-B02-V21",
@@ -641,7 +701,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B02__strip__belong-action-m1-M1-B02-V21.strip.jpg",
      "title": "brown soil in the basin",
      "query": "hands turning compost",
-     "shot": "A",
+     "shot": "C",
      "duration": 11,
      "src_id": "6160033",
      "download_url": "https://videos.pexels.com/video-files/6160033/6160033-hd_1920_1080_24fps.mp4",
@@ -651,8 +711,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:27Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "hands turn dark compost in a large bin outdoors",
+     "violation": "",
+     "shoot": "pexels-compost-bin",
+     "score": 6.3,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:02:02Z"
     }
    ],
    "shots": [
@@ -689,40 +757,7 @@
     "worm close up"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-19T15:58:28Z"
   },
   {
    "id": "M1-B03",
@@ -769,14 +804,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V00.strip.jpg",
      "title": "water  water tap  drinking water  fountain  water pipe  water splashes  slow motion  people in the background",
      "query": "worker pipe fixing",
-     "shot": "B",
+     "shot": "",
      "src_id": "181541",
      "download_url": "https://cdn.pixabay.com/video/2023/09/21/181541-866914085_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:53:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a street fountain spouts water as a crowd walks past",
+     "violation": "crowd, identifiable place, frontal faces (bathroom/public-tap look)",
+     "shoot": "pixabay-street-fountain",
+     "score": 0.0,
+     "rank": 7,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V01",
@@ -790,14 +833,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V01.strip.jpg",
      "title": "close up view of pine needles with water droplets",
      "query": "white wall corner pine trees close",
-     "shot": "A",
+     "shot": "",
      "src_id": "4630977",
      "download_url": "https://videos.pexels.com/video-files/4630977/4630977-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:53:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 5,
+     "caption": "water droplets cling to a sunlit pine branch",
+     "violation": "",
+     "shoot": "pexels-pine-droplets",
+     "score": 2.4,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V02",
@@ -811,14 +862,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V02.strip.jpg",
      "title": "hands of couple touching",
      "query": "hand touching water surface close",
-     "shot": "C",
+     "shot": "",
      "src_id": "9590514",
      "download_url": "https://videos.pexels.com/video-files/9590514/9590514-hd_1920_1080_24fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-19T16:53:40Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 0,
+     "brand_fit": 4,
+     "caption": "a couple's hands touch gently over a railing",
+     "violation": "",
+     "shoot": "pexels-couple-hands",
+     "score": 1.4,
+     "rank": 5,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V03",
@@ -832,7 +891,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V03.strip.jpg",
      "title": "serene water ripples in slow motion",
      "query": "water drop falling into bowl",
-     "shot": "A",
+     "shot": "B",
      "duration": 13,
      "src_id": "33239592",
      "download_url": "https://videos.pexels.com/video-files/33239592/14162335_1920_1080_60fps.mp4",
@@ -842,8 +901,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:48Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "raindrops create ripples on a dark reflective water surface",
+     "violation": "",
+     "shoot": "pexels-dark-ripples",
+     "score": 4.35,
+     "rank": 2,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V04",
@@ -857,7 +924,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V04.strip.jpg",
      "title": "slow motion footage of a drop of red liquid being dropped on a white liquid",
      "query": "water drop falling into bowl",
-     "shot": "A",
+     "shot": "",
      "duration": 58,
      "src_id": "2603665",
      "download_url": "https://videos.pexels.com/video-files/2603665/2603665-hd_1920_1080_24fps.mp4",
@@ -867,8 +934,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:53:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a red liquid drop falls against a plain white studio background",
+     "violation": "",
+     "shoot": "pexels-studio-red-drop",
+     "score": 1.35,
+     "rank": 6,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V05",
@@ -882,7 +957,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V05.strip.jpg",
      "title": "close up shot of water droplets falling onto a calm water",
      "query": "water drop falling into bowl",
-     "shot": "A",
+     "shot": "",
      "duration": 43,
      "src_id": "9667527",
      "download_url": "https://videos.pexels.com/video-files/9667527/9667527-hd_1920_1080_25fps.mp4",
@@ -892,8 +967,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:02Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 2,
+     "caption": "a bubble drifts underwater in teal-tinted light",
+     "violation": "",
+     "shoot": "pexels-underwater-bubble",
+     "score": 2.0,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:02:39Z"
     },
     {
      "id": "belong-action-m1-M1-B03-V06",
@@ -907,7 +990,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B03__strip__belong-action-m1-M1-B03-V06.strip.jpg",
      "title": "drops of water creating ripples",
      "query": "water drop falling into bowl",
-     "shot": "A",
+     "shot": "B",
      "duration": 33,
      "src_id": "2675514",
      "download_url": "https://videos.pexels.com/video-files/2675514/2675514-hd_1920_1080_24fps.mp4",
@@ -917,8 +1000,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "a single drop lands on a calm water surface, rippling outward",
+     "violation": "",
+     "shoot": "pexels-calm-droplet",
+     "score": 6.0,
+     "rank": 1,
+     "judged_at": "2026-10-19T17:02:39Z"
     }
    ],
    "shots": [
@@ -955,7 +1046,12 @@
     "bathroom tap"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T17:03:11Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M1-B04",
@@ -1186,7 +1282,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B04__strip__belong-action-m1-M1-B04-V17.strip.jpg",
      "title": "farmer with bag of harvested carrots",
      "query": "hands holding fresh carrots soil",
-     "shot": "A",
+     "shot": "",
      "duration": 13,
      "src_id": "10041404",
      "download_url": "https://videos.pexels.com/video-files/10041404/10041404-hd_1920_1080_24fps.mp4",
@@ -1196,8 +1292,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 0,
+     "caption": "a farmer in a cowboy hat bags harvested onions by a truck",
+     "violation": "frontal face visible, identifiable open-field farm setting with truck",
+     "shoot": "pexels-farmer-onions",
+     "score": 1.3,
+     "rank": 9,
+     "judged_at": "2026-10-19T17:03:08Z"
     },
     {
      "id": "belong-action-m1-M1-B04-V18",
@@ -1211,7 +1315,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B04__strip__belong-action-m1-M1-B04-V18.strip.jpg",
      "title": "a man holding a basket with vegetables",
      "query": "hands holding fresh carrots soil",
-     "shot": "A",
+     "shot": "C",
      "duration": 8,
      "src_id": "7655567",
      "download_url": "https://videos.pexels.com/video-files/7655567/7655567-hd_1920_1080_25fps.mp4",
@@ -1221,8 +1325,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a man holds a wicker basket of mixed harvested vegetables",
+     "violation": "",
+     "shoot": "pexels-basket-vegetables",
+     "score": 4.7,
+     "rank": 4,
+     "judged_at": "2026-10-19T17:03:08Z"
     },
     {
      "id": "belong-action-m1-M1-B04-V19",
@@ -1236,7 +1348,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B04__strip__belong-action-m1-M1-B04-V19.strip.jpg",
      "title": "a person holding shredded woodchips",
      "query": "hands holding fresh carrots soil",
-     "shot": "A",
+     "shot": "",
      "duration": 33,
      "src_id": "6159954",
      "download_url": "https://videos.pexels.com/video-files/6159954/6159954-hd_1920_1080_24fps.mp4",
@@ -1246,8 +1358,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "hands sift through dark potting soil in a red crate",
+     "violation": "",
+     "shoot": "pexels-handsoil-redcrate",
+     "score": 2.05,
+     "rank": 8,
+     "judged_at": "2026-10-19T17:03:08Z"
     },
     {
      "id": "belong-action-m1-M1-B04-V20",
@@ -1271,8 +1391,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hands pull freshly dug carrots with soil from a sack",
+     "violation": "",
+     "shoot": "pexels-handscarrots-sack",
+     "score": 7.65,
+     "rank": 3,
+     "judged_at": "2026-10-19T17:03:08Z"
     },
     {
      "id": "belong-action-m1-M1-B04-V21",
@@ -1286,7 +1414,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m1/M1-B04__strip__belong-action-m1-M1-B04-V21.strip.jpg",
      "title": "barley  field  combine  harvest  farmer  loading  summer",
      "query": "farmer root vegetables",
-     "shot": "C",
+     "shot": "",
      "duration": 20,
      "src_id": "83896",
      "download_url": "https://cdn.pixabay.com/video/2021/08/04/83896-585600461_large.mp4",
@@ -1296,8 +1424,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-19T16:54:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 0,
+     "caption": "an aerial drone follows a combine harvester across a wheat field",
+     "violation": "drone aerial footage, industrial mechanized harvest, wrong scale and subject",
+     "shoot": "pixabay-drone-combine",
+     "score": 0.65,
+     "rank": 10,
+     "judged_at": "2026-10-19T17:03:08Z"
     }
    ],
    "shots": [
@@ -1334,40 +1470,7 @@
     "plastic packaging"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z",
-   "stock_gap": {
-    "usable": 2,
-    "at": {
-     "M4-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:18Z",
-      "added": 5
-     },
-     "M4-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T16:59:47Z",
-      "added": 7
-     },
-     "M4-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:00:08Z",
-      "added": 4
-     }
-    },
-    "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-19T15:58:28Z"
   }
  ]
 }

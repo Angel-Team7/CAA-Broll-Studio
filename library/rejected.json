@@ -11476,5 +11476,47 @@
   "reason": "no earth palette, cool grey floor and white plate instead of clay/terracotta/brown",
   "at": "2026-10-19T16:10:09Z",
   "from": "belong-action-m8/M8-B04"
+ },
+ "pexels:37533724": {
+  "sector": "belong",
+  "reason": "drone hyperlapse / aerial drought-news framing",
+  "at": "2026-10-19T17:01:35Z",
+  "from": "belong-action-m1/M1-B01"
+ },
+ "pexels:36093771": {
+  "sector": "belong",
+  "reason": "drone hyperlapse / aerial",
+  "at": "2026-10-19T17:01:35Z",
+  "from": "belong-action-m1/M1-B01"
+ },
+ "pexels:29504939": {
+  "sector": "belong",
+  "reason": "wrong world (icy/snow landscape, not earth or farm) and aerial drone framing",
+  "at": "2026-10-19T17:01:35Z",
+  "from": "belong-action-m1/M1-B01"
+ },
+ "pexels:3045872": {
+  "sector": "belong",
+  "reason": "worm close-up (explicit must-not)",
+  "at": "2026-10-19T17:02:02Z",
+  "from": "belong-action-m1/M1-B02"
+ },
+ "pixabay:181541": {
+  "sector": "belong",
+  "reason": "crowd, identifiable place, frontal faces (bathroom/public-tap look)",
+  "at": "2026-10-19T17:02:39Z",
+  "from": "belong-action-m1/M1-B03"
+ },
+ "pexels:10041404": {
+  "sector": "belong",
+  "reason": "frontal face visible, identifiable open-field farm setting with truck",
+  "at": "2026-10-19T17:03:08Z",
+  "from": "belong-action-m1/M1-B04"
+ },
+ "pixabay:83896": {
+  "sector": "belong",
+  "reason": "drone aerial footage, industrial mechanized harvest, wrong scale and subject",
+  "at": "2026-10-19T17:03:08Z",
+  "from": "belong-action-m1/M1-B04"
  }
 }
