@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c2-goal-setting",
-  "updated": "2026-08-20T11:27:23.435Z",
+  "updated": "2026-10-19T15:35:31.200Z",
   "ready": false,
   "approved": {
     "S02": [
@@ -26,6 +26,10 @@
     "S08": [
       "edenrise-c2-goal-setting-S08-V04",
       "edenrise-c2-goal-setting-S08-V06"
+    ],
+    "S06": [
+      "edenrise-c2-goal-setting-S06-V08",
+      "edenrise-c2-goal-setting-S06-V03"
     ]
   },
   "needs_broll": {},
