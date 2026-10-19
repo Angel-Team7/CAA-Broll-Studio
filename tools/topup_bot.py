@@ -723,10 +723,20 @@ def main():
             # it forever (2026-10-19: 28 beats re-queued every two minutes, adding nothing).
             sel = json.load(open(path))
             r = sel["topup_requests"][sid]
-            r["attempts"] = int(r.get("attempts", 0)) + 1
             r["last_attempt"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
             r["zero_reason"] = " | ".join(l.strip() for l in buf.getvalue().splitlines() if l.strip())[-700:]
-            if r["attempts"] >= 3:
+            # Only an honest empty counts toward closing the request. A throttled source or
+            # files the runner could not read say nothing about the beat — keep it open.
+            sick = [k for k, v in SOURCE_HEALTH.items() if v]
+            unreadable = "real file could not be read" in r["zero_reason"] and "passed" in r["zero_reason"] \
+                         and " 0 passed" in r["zero_reason"]
+            if sick or unreadable:
+                r["blocked"] = ("sources: " + ", ".join(f"{k} {SOURCE_HEALTH[k]}" for k in sick)) if sick \
+                               else "the runner could not read the candidate files"
+            else:
+                r.pop("blocked", None)
+                r["attempts"] = int(r.get("attempts", 0)) + 1
+            if r.get("attempts", 0) >= 3:
                 r.update({"done": True, "added": 0, "fulfilled": r["last_attempt"],
                           "closed": "nothing met the beat after 3 tries — see zero_reason"})
             json.dump(sel, open(path, "w"), indent=2)
@@ -744,6 +754,12 @@ def main():
         total += n
 
     left = len(pending) - min(len(pending), MAX_SCENES_PER_RUN)
+    if total == 0 and left:
+        # A run that added nothing must not re-queue itself: on 2026-10-19 that loop re-ran
+        # every two minutes for an hour, added nothing, and spent the Pexels and Coverr
+        # quotas. The hourly schedule picks the rest up.
+        print(f"note: nothing was added, so not re-queuing {left} request(s) — the hourly run will")
+        left = 0
     if left:
         print(f"note: {left} more request(s) left for the next run (cap {MAX_SCENES_PER_RUN})")
     print(f"LEFT={left}")
@@ -774,6 +790,12 @@ def main():
             if r.returncode:
                 print("::warning::push_cards failed: " + out[-700:].replace("\n", " "))
         print("::warning::empty: " + ", ".join(zeros)[:900])
+        try:
+            import recall
+            if recall.PROBE_ERRORS:
+                print("::warning::probe errors (sample): " + " || ".join(dict.fromkeys(recall.PROBE_ERRORS))[:900])
+        except Exception:
+            pass
     return 0
 
 

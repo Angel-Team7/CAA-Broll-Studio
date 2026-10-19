@@ -193,6 +193,11 @@ def main():
     # This resets hard to origin, which is right for a bot (its only work is in the
     # working tree) and destructive for anyone with a local commit not yet pushed — it
     # ate one while this tool was being written. Refuse rather than discard.
+    # A bot may call this before its workflow has set an identity (the topup does, to commit
+    # its own failure records) — and a commit with no identity is refused outright.
+    if not sh("git", "config", "user.email", check=False).stdout.strip():
+        sh("git", "config", "user.name", "broll-bot")
+        sh("git", "config", "user.email", "bot@edenrise.com")
     sh("git", "fetch", "-q", "origin", "main")
     ahead = sh("git", "rev-list", "--count", "origin/main..HEAD", check=False).stdout.strip()
     if ahead and ahead != "0" and "--discard-local-commits" not in sys.argv:

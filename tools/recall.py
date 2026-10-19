@@ -171,6 +171,7 @@ def make_strip(preview, strip):
 # source traps). A beat can carry `requirements` — {"aspect": "16:9", "min_height": 1080,
 # "min_seconds": 7.3} — and every candidate is held to them by probing the actual file.
 _probe_cache = {}
+PROBE_ERRORS = []                # why reads failed, for the run's annotations
 
 
 def probe(url):
@@ -180,17 +181,42 @@ def probe(url):
         return None
     if url in _probe_cache:
         return _probe_cache[url]
-    info = None
-    try:
-        r = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0",
+    # The stock CDNs refuse ffprobe's own user agent from datacenter addresses (every probe
+    # on the GitHub runner came back unreadable on 2026-10-19 while the same URLs read fine
+    # from a desk). Send the browser agent the downloads use; if the header read still fails,
+    # fetch the file the way staging does and read it from disk.
+    def _read(target, extra=()):
+        r = subprocess.run(["ffprobe", "-v", "error", *extra, "-select_streams", "v:0",
                             "-show_entries", "stream=width,height:format=duration",
-                            "-of", "json", url], capture_output=True, text=True, timeout=45)
+                            "-of", "json", target], capture_output=True, text=True, timeout=60)
         j = json.loads(r.stdout or "{}")
         st = (j.get("streams") or [{}])[0]
-        info = {"w": int(st.get("width") or 0), "h": int(st.get("height") or 0),
+        if not st.get("width"):
+            PROBE_ERRORS.append((r.stderr or "no stream")[-160:].strip())
+            return None
+        return {"w": int(st.get("width") or 0), "h": int(st.get("height") or 0),
                 "s": float((j.get("format") or {}).get("duration") or 0)}
-    except Exception:
-        info = None
+    info = None
+    try:
+        info = _read(url, ("-user_agent", tb.UA))
+    except Exception as e:
+        PROBE_ERRORS.append(str(e)[:160])
+    if info is None:
+        try:
+            with tempfile.TemporaryDirectory() as td:
+                fp = pathlib.Path(td) / "probe.mp4"
+                with requests.get(url, stream=True, timeout=90, headers={"User-Agent": tb.UA}) as r:
+                    r.raise_for_status()
+                    got = 0
+                    with open(fp, "wb") as fh:
+                        for chunk in r.iter_content(1 << 20):
+                            fh.write(chunk); got += len(chunk)
+                            if got > 120 << 20:
+                                break
+                info = _read(str(fp))
+        except Exception as e:
+            PROBE_ERRORS.append(f"download: {str(e)[:150]}")
+            info = None
     _probe_cache[url] = info
     return info
 
