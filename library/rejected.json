@@ -11623,152 +11623,86 @@
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "clear frontal face, not hands/backs/profiles only",
-  "at": "2026-10-19T17:09:46Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:10:09Z",
   "from": "belong-action-m5/M5-B01"
- },
- "pexels:3838401": {
-  "sector": "belong",
-  "reason": "a black ribbon bow on a gift box is visible in frame",
-  "at": "2026-10-19T17:10:08Z",
-  "from": "belong-action-m5/M5-B02"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "printed sticker/logo on the bag",
-  "at": "2026-10-19T17:10:08Z",
-  "from": "belong-action-m5/M5-B02"
- },
- "pexels:3838399": {
-  "sector": "belong",
-  "reason": "a black ribbon bow on a gift box is visible in frame",
-  "at": "2026-10-19T17:10:08Z",
+  "reason": "logo",
+  "at": "2026-10-19T17:10:33Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "visible price tags and a supermarket-refill-aisle look",
-  "at": "2026-10-19T17:10:35Z",
+  "reason": "price tag",
+  "at": "2026-10-19T17:11:02Z",
   "from": "belong-action-m5/M5-B03"
  },
  "pexels:38806023": {
   "sector": "belong",
-  "reason": "factory conveyor/assembly line",
-  "at": "2026-10-19T17:11:03Z",
+  "reason": "factory",
+  "at": "2026-10-19T17:11:30Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle in frame",
-  "at": "2026-10-19T17:11:03Z",
+  "reason": "spray bottle",
+  "at": "2026-10-19T17:11:30Z",
   "from": "belong-action-m5/M5-B04"
+ },
+ "pixabay:122440": {
+  "sector": "belong",
+  "reason": "gym",
+  "at": "2026-10-19T17:12:37Z",
+  "from": "belong-action-m6/M6-B01"
  },
  "pixabay:109413": {
   "sector": "belong",
-  "reason": "gym setting and frontal face",
-  "at": "2026-10-19T17:11:47Z",
+  "reason": "gym",
+  "at": "2026-10-19T17:12:37Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pixabay:8294": {
   "sector": "belong",
-  "reason": "visible Adidas logo",
-  "at": "2026-10-19T17:11:47Z",
+  "reason": "logo",
+  "at": "2026-10-19T17:12:37Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:4935736": {
   "sector": "belong",
   "reason": "sailing yacht",
-  "at": "2026-10-19T17:11:47Z",
+  "at": "2026-10-19T17:12:37Z",
   "from": "belong-action-m6/M6-B01"
- },
- "pexels:7792608": {
-  "sector": "belong",
-  "reason": "glossy satin sheen and blue tone read as fashion/luxury fabric, not humble white linen",
-  "at": "2026-10-19T17:12:13Z",
-  "from": "belong-action-m6/M6-B02"
- },
- "pexels:7677258": {
-  "sector": "belong",
-  "reason": "gold silk reads as luxury fabric",
-  "at": "2026-10-19T17:12:13Z",
-  "from": "belong-action-m6/M6-B02"
  },
  "pexels:5442629": {
   "sector": "belong",
-  "reason": "visible printed text in frame",
-  "at": "2026-10-19T17:12:41Z",
+  "reason": "logo",
+  "at": "2026-10-19T17:13:34Z",
   "from": "belong-action-m6/M6-B03"
  },
  "pexels:9467582": {
   "sector": "belong",
-  "reason": "clear frontal face",
-  "at": "2026-10-19T17:12:41Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:13:34Z",
   "from": "belong-action-m6/M6-B03"
  },
  "pexels:6950818": {
   "sector": "belong",
-  "reason": "clear frontal smiling faces",
-  "at": "2026-10-19T17:13:41Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:14:32Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:5240899": {
   "sector": "belong",
-  "reason": "suit visible; retail checkout with card machine",
-  "at": "2026-10-19T17:13:41Z",
+  "reason": "corporate",
+  "at": "2026-10-19T17:14:32Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:28957437": {
   "sector": "belong",
-  "reason": "nightclub/concert stage lighting look",
-  "at": "2026-10-19T17:14:13Z",
+  "reason": "nightclub",
+  "at": "2026-10-19T17:15:09Z",
   "from": "belong-action-m6/M6-B06"
- },
- "pexels:852222": {
-  "sector": "belong",
-  "reason": "steaming coffee mug reads as the forbidden cooking/hot-drink prop",
-  "at": "2026-10-19T17:14:13Z",
-  "from": "belong-action-m6/M6-B06"
- },
- "pexels:38917906": {
-  "sector": "belong",
-  "reason": "frontal face; vaping, not the intended steam",
-  "at": "2026-10-19T17:14:13Z",
-  "from": "belong-action-m6/M6-B06"
- },
- "pexels:5529078": {
-  "sector": "belong",
-  "reason": "clear frontal smiling faces in a casual cafe",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
- },
- "pexels:6144020": {
-  "sector": "belong",
-  "reason": "close frontal face, not a group scene",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
- },
- "pexels:6688235": {
-  "sector": "belong",
-  "reason": "clear frontal face; vaping, unrelated subject",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
- },
- "pexels:8513477": {
-  "sector": "belong",
-  "reason": "concert/nightclub-style lighting",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
- },
- "pexels:7525399": {
-  "sector": "belong",
-  "reason": "corporate coaching-session look (business attire, boardroom-like white room)",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
- },
- "pexels:6193820": {
-  "sector": "belong",
-  "reason": "staged concert/performance look",
-  "at": "2026-10-19T17:15:03Z",
-  "from": "belong-action-m7/M7-B01"
  }
 }
