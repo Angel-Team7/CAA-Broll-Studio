@@ -53,14 +53,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:57:34Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 9.59,
      "carried_from": {
       "scene": "S03",
       "caption": "sheer curtains partly closed let a line of light through a window"
-     }
+     },
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "dim light filters through a sheer curtain beside a window handle",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sheer-curtain-window",
+     "score": 4.35,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:45Z"
     },
     {
      "id": "belong-action-m8-S03-V04",
@@ -80,14 +90,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:58:00Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 13.89,
      "carried_from": {
       "scene": "S03",
       "caption": "light filters through a sheer curtain at a window"
-     }
+     },
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "dim light filters through a sheer curtain beside a window handle",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-sheer-curtain-window",
+     "score": 4.35,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:45Z"
     }
    ],
    "shots": [
@@ -124,7 +144,12 @@
     "neon"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-10-19T16:08:04Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M8-B02",
@@ -282,14 +307,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T14:06:48Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 19.52,
      "carried_from": {
       "scene": "S06",
       "caption": "hands calmly gather broken pieces of a white plate"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "hands calmly gather broken white plate pieces off a wooden floor",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-broken-plate-pickup",
+     "score": 7.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:08:00Z"
     }
    ],
    "shots": [
@@ -326,7 +361,12 @@
     "smashing"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:08:04Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M8-B05",
