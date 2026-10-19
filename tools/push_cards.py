@@ -35,6 +35,7 @@ TRIES = 6
 
 CARDS = "projects/"
 SELECTIONS = "selections/"
+REQUESTS = "requests/"
 LIB_INDEX = "library/index.json"
 TEXT_APPEND = ("library/CREDITS.md", "library/harvest_log.jsonl", "library/verdicts.jsonl")
 LIB_JSON = ("library/rejected.json", "library/exemplars.json", "library/drive_seen.json")
@@ -53,7 +54,7 @@ def changed_files():
         path = line[3:].strip().strip('"')
         if path.startswith(CARDS) and path.endswith("scenes.json"):
             out.append(path)
-        elif path.startswith(SELECTIONS) and path.endswith(".json"):
+        elif (path.startswith(SELECTIONS) or path.startswith(REQUESTS)) and path.endswith(".json"):
             out.append(path)
         elif path == LIB_INDEX or path in TEXT_APPEND or path in LIB_JSON:
             out.append(path)
@@ -212,7 +213,7 @@ def main():
     # HEAD is still the commit the run started from.
     touched, base_text = {}, {}
     for p in mine:
-        if p.startswith(SELECTIONS):
+        if p.startswith(SELECTIONS) or p.startswith(REQUESTS):
             raw = sh("git", "show", f"HEAD:{p}", check=False).stdout
             try:
                 was = (json.loads(raw).get("topup_requests") or {}) if raw.strip() else {}
@@ -261,7 +262,7 @@ def main():
         if dry:
             print("  (dry run — nothing committed)")
             return 0
-        for d in ("projects", "selections", "library"):
+        for d in ("projects", "selections", "requests", "library"):
             if (ROOT / d).exists():
                 sh("git", "add", d)
         if not sh("git", "status", "--porcelain", check=False).stdout.strip():

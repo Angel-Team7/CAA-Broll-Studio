@@ -305,10 +305,14 @@ function render() {
       <div class="scene-head">
         <span class="scene-id">${sc.id}</span>
         <div class="scene-meta">
-          ${sc.t !== undefined ? `<div class="scene-when">${fmtClock(sc.t)} – ${fmtClock(sc.end)}
+          ${sc.abstract ? `<div class="scene-when"><b>${sc.seconds}s beat</b>
+             <span class="dur">segment ${sc.segment} · ${esc(sc.segment_window || "")}</span>
+             <span class="tag warn" title="The voice is recorded later. The words below are the segment's script, so the timing is not final.">NARRATION NOT RECORDED YET</span></div>`
+          : sc.t !== undefined ? `<div class="scene-when">${fmtClock(sc.t)} – ${fmtClock(sc.end)}
              <span class="dur">${Math.round(sc.end - sc.t)}s on screen</span>
              ${sc.timing_source === "narration" ? '<span class="verified" title="Anchored to the recorded narration">✓ timed to audio</span>' : '<span class="unverified" title="Not yet anchored to the recorded audio — treat as approximate">≈ estimated</span>'}</div>` : ""}
-          ${sc.script_line ? `<div class="scene-heard"><span class="tag">VIEWER HEARS</span>
+          ${sc.needs_ai ? `<div class="scene-gap needs-ai"><span class="tag gap">NEEDS AI</span> No honest stock match — ${esc(sc.needs_ai_reason || "this shot has to be generated")}. Stock is not being gathered for it.</div>` : ""}
+          ${sc.script_line ? `<div class="scene-heard"><span class="tag">VIEWER HEARS${sc.abstract ? " · this segment" : ""}</span>
             <span class="heard-txt clamp" title="Click to show the whole line"
               >“${esc(sc.script_line)}”</span></div>`
             : `<div class="scene-heard"><span class="tag warn">NARRATION NOT RECORDED YET</span>
@@ -526,10 +530,19 @@ function card(sid, c, on) {
                 : c.judged === false ? `<span class="srcbadge src-wait">AWAITING JUDGE</span>` : "";
   const cap = c.caption ? `<div class="clip-cap" title="relevance ${c.relevance ?? "?"}/10 · brand ${c.brand_fit ?? "?"}/10">${esc(c.caption)}</div>` : "";
   const note = c.note ? `<div class="clip-note">${esc(c.note)}</div>` : "";
+  // What we know about the real file and where the clip came from (abstract beats).
+  const facts = [];
+  if (c.reused_from) facts.push(`<span class="fact reuse">approved on ${esc(c.reused_from.slug)} ${esc(c.reused_from.scene)} · not ticked here</span>`);
+  if (c.requirement_fail) facts.push(`<span class="fact fail">real file: ${esc(c.requirement_fail)}</span>`);
+  else if (c.real_w && c.real_h) {
+    const crop = c.real_w / c.real_h > 1.82;
+    facts.push(`<span class="fact${crop ? " crop" : ""}">${c.real_w}×${c.real_h}${c.real_seconds ? ` · ${Number(c.real_seconds).toFixed(1)}s` : ""}${crop ? " · crop to 16:9" : ""}</span>`);
+  }
+  const factLine = facts.length ? `<div class="clip-facts">${facts.join("")}</div>` : "";
   return `<div class="card ${on ? "on" : ""} type-${c.type === "video" ? "vid" : "img"}"
       data-id="${c.id}" data-scene="${sid}">
     <div class="media"${c.type === "video" ? ` data-preview="${mediaUrl(c.preview)}"` : ""}><span class="badge">${c.type}</span>${srcTag}${freshTag}${rankTag}<span class="tick">✓</span>${media}</div>
-    ${cap}${note}
+    ${cap}${note}${factLine}
     <div class="foot"><span>${src}</span><span class="lic">${esc(c.license || "")}</span></div>
   </div>`;
 }

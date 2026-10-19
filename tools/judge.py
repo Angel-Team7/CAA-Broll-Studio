@@ -60,6 +60,17 @@ def strips(slug, sid):
     for sh in sc.get("shots") or []:
         print(f"  {sh['id']} [{sh['scale']}] {sh['text']}")
     print("MUST NOT:", ", ".join(sc.get("must_not") or []) or "(none beyond the sector list)")
+    if sc.get("abstract"):
+        # An abstract beat: stock stands in for an AI shot, so the bar is the shot itself.
+        print(f"ABSTRACT BEAT: {sc.get('seconds')}s on screen, segment {sc.get('segment')} "
+              f"({sc.get('segment_window')}). It must show NO identifiable place, and it is "
+              f"held to the TASTE rules below as hard rules — any breach is a violation.")
+    if sc.get("taste"):
+        print("TASTE (hard rules for this beat):")
+        for t in sc["taste"]:
+            print(f"  - {t}")
+    if sc.get("requirements"):
+        print(f"REQUIREMENTS (already checked on the real file before staging): {sc['requirements']}")
     print("SECTOR RULES:\n" + sector_rules(sector))
     ex_p = ROOT / "library" / "exemplars.json"
     if ex_p.exists():

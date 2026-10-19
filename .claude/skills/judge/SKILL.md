@@ -27,6 +27,15 @@ prints a `REFERENCE:` line, **Read that sheet first**: it is the client's most r
 approvals in this sector, and your scores should reward that look.
 **Read every strip image** with the Read tool. Judge only what you can see.
 
+## Abstract beats (cards marked ABSTRACT BEAT)
+These stand in for a shot that would otherwise be AI-generated, so the brief is one exact
+shot. Score `relevance` against that shot: 9–10 is the shot itself, 6–8 the same subject
+and action close enough to cut in its place. Every TASTE line is a hard rule — a frontal
+face, text or a logo, a luxury-resort look, smiling-at-camera stock, a crowd, a
+teal-and-orange grade, a drone hyperlapse, or anything that shows a recognisable hotel,
+farm or building is a `violation`, whatever its relevance. Resolution, 16:9 and length were
+checked on the real file before staging; do not re-litigate them.
+
 ## Step 2 — score each clip
 - `relevance` 0–10: does it show one of the shots? 9–10 the shot itself; 6–8 the same
   subject and action in a different setting; 3–5 same world, wrong action; 0–2 unrelated.

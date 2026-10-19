@@ -41,6 +41,8 @@ def themes():
         try: data = json.load(open(card))
         except Exception: continue
         for sc in data.get("scenes", []):
+            if sc.get("needs_ai"):
+                continue                  # no honest stock match: this beat is generated
             vd = (sc.get("visual_direction") or "").strip()
             shots = sc.get("shots") or []
             if shots:

@@ -630,9 +630,12 @@ def run_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
 
 
 def main():
-    sel_dir = ROOT / "selections"
+    # Two queues, one shape. selections/ belongs to the cockpit — the reviewer's ticks and
+    # clicks — and nothing automated writes there. Maintenance work (a first gather on a
+    # new card, a rewritten shot list) is queued in requests/<slug>.json instead, so the
+    # client's file is never touched by a bot or by me.
     pending = []
-    for p in sorted(sel_dir.glob("*.json")):
+    for p in sorted(list((ROOT / "selections").glob("*.json")) + list((ROOT / "requests").glob("*.json"))):
         try:
             sel = json.load(open(p))
         except Exception:
@@ -666,6 +669,21 @@ def main():
         sector = sectors.for_slug(slug)
         print(f"→ {slug} {sid}  ({note!r})")
         n = 0
+        # A card can be restructured (belong-action m1–m8 went from segments S01–S08 to
+        # abstract beats M1-B01…). A request left on a scene that no longer exists would
+        # otherwise stay "pending" forever and be retried on every run. Close it, saying why.
+        try:
+            _card = json.load(open(ROOT / "projects" / slug / "scenes.json"))
+            if not any(x["id"] == sid for x in _card.get("scenes", [])):
+                sel = json.load(open(path))
+                r = sel["topup_requests"][sid]
+                r.update({"done": True, "added": 0, "closed": "scene no longer on the card",
+                          "fulfilled": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())})
+                json.dump(sel, open(path, "w"), indent=2)
+                print(f"  {slug} {sid}: scene no longer exists — request closed")
+                continue
+        except FileNotFoundError:
+            pass
         try:
             # materialise this project in the sparse checkout
             sh("git", "sparse-checkout", "add", f"projects/{slug}", cwd=ROOT)

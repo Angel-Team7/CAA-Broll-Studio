@@ -165,6 +165,135 @@ def make_strip(preview, strip):
     return strip.exists() and strip.stat().st_size > 5_000
 
 
+
+# ---- beat requirements: judged on the REAL file, never the advertised size -------------
+# Stock APIs advertise a resolution that is not always what the file holds (see the Pexels
+# source traps). A beat can carry `requirements` — {"aspect": "16:9", "min_height": 1080,
+# "min_seconds": 7.3} — and every candidate is held to them by probing the actual file.
+_probe_cache = {}
+
+
+def probe(url):
+    """Width, height and duration of the real file at `url`, read with ffprobe (it fetches
+    only the header, not the clip). None when the file cannot be read."""
+    if not url:
+        return None
+    if url in _probe_cache:
+        return _probe_cache[url]
+    info = None
+    try:
+        r = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0",
+                            "-show_entries", "stream=width,height:format=duration",
+                            "-of", "json", url], capture_output=True, text=True, timeout=45)
+        j = json.loads(r.stdout or "{}")
+        st = (j.get("streams") or [{}])[0]
+        info = {"w": int(st.get("width") or 0), "h": int(st.get("height") or 0),
+                "s": float((j.get("format") or {}).get("duration") or 0)}
+    except Exception:
+        info = None
+    _probe_cache[url] = info
+    return info
+
+
+def meets(info, req):
+    """(ok, reason) for a probed file against a beat's requirements."""
+    if not req:
+        return True, ""
+    if not info or not info.get("w") or not info.get("h"):
+        return False, "real file could not be read"
+    ar = info["w"] / info["h"]
+    # 2048x1080 (DCI) is the commonest "almost 16:9" stock frame. A centre crop of it is a
+    # true 1920x1080 with no upscaling — 64 px off each side — so it meets the beat; it is
+    # marked on the card as needing that crop. Anything wider, or a crop that would fall
+    # below 1920x1080, does not.
+    if req.get("aspect") == "16:9" and not (1.70 <= ar <= 1.82):
+        h = info["h"]
+        if not (1.82 < ar <= 1.90 and h >= max(1080, req.get("min_height", 0))):
+            return False, f"not 16:9 ({info['w']}x{info['h']})"
+    if info["h"] < req.get("min_height", 0):
+        return False, f"only {info['h']}p"
+    if req.get("min_seconds") and info["s"] and info["s"] < req["min_seconds"]:
+        return False, f"{info['s']:.1f}s, needs {req['min_seconds']}s"
+    return True, ""
+
+
+def resolve_file(c):
+    """Older clip records (approved before download links were stored) carry only a page
+    URL. Ask the source API for the file so it can be probed like any other candidate."""
+    if c.get("download_url"):
+        return c["download_url"]
+    purl = c.get("page_url") or ""
+    m = re.search(r"(\d+)/?$", purl)
+    if not m:
+        return ""
+    vid = m.group(1)
+    try:
+        if c.get("source") == "pexels" and os.environ.get("PEXELS_API_KEY"):
+            r = requests.get(f"https://api.pexels.com/videos/videos/{vid}", timeout=30,
+                             headers={"Authorization": os.environ["PEXELS_API_KEY"], "User-Agent": tb.UA})
+            files = sorted(r.json().get("video_files", []), key=lambda f: (f.get("width") or 0), reverse=True)
+            best = next((f for f in files if (f.get("height") or 0) <= 2160), files[0] if files else None)
+            if best:
+                c["download_url"] = best["link"]; c.setdefault("src_id", vid)
+        elif c.get("source") == "pixabay" and os.environ.get("PIXABAY_API_KEY"):
+            r = requests.get("https://pixabay.com/api/videos/", timeout=30,
+                             params={"key": os.environ["PIXABAY_API_KEY"], "id": vid},
+                             headers={"User-Agent": tb.UA})
+            hit = (r.json().get("hits") or [{}])[0]
+            v = hit.get("videos", {})
+            best = v.get("large") or v.get("medium") or {}
+            if best.get("url"):
+                c["download_url"] = best["url"]; c.setdefault("src_id", vid)
+    except Exception as e:
+        print(f"    could not resolve the file for {c.get('id')}: {str(e)[:60]}")
+    return c.get("download_url", "")
+
+
+def check_held(scene, req):
+    """Reused and carried-over clips are held to the beat's requirements too. A reused
+    clip that fails is kept (a human asked for it) but marked, never silently dropped."""
+    changed = 0
+    for c in scene.get("clips") or []:
+        if not req or c.get("real_w") or c.get("judged") is True:
+            continue
+        info = probe(resolve_file(c))
+        if not info:
+            continue
+        c.update({"real_w": info["w"], "real_h": info["h"], "real_seconds": round(info["s"], 2)})
+        ok, why = meets(info, req)
+        if ok: c.pop("requirement_fail", None)
+        else: c["requirement_fail"] = why
+        changed += 1
+        print(f"    checked {c['id']}: {info['w']}x{info['h']} {info['s']:.1f}s {'meets' if ok else why}")
+    return changed
+
+
+def ensure_strips(slug, scene_id, scene, td):
+    """Clips reused from older lessons may predate contact strips. The judge can only score
+    what it can see, so build the missing ones from each clip's Release preview."""
+    made = 0
+    for c in scene.get("clips") or []:
+        if c.get("strip") or not str(c.get("preview", "")).startswith("http"):
+            continue
+        try:
+            pv = td / f"{c['id']}.bf.mp4"
+            with requests.get(c["preview"], stream=True, timeout=60, headers={"User-Agent": tb.UA}) as r:
+                r.raise_for_status()
+                with open(pv, "wb") as fh:
+                    for chunk in r.iter_content(1 << 20):
+                        fh.write(chunk)
+            st = td / f"{c['id']}.strip.jpg"
+            if make_strip(pv, st):
+                url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "strip", st), st)
+                if url:
+                    c["strip"] = url; made += 1
+            pv.unlink(missing_ok=True)
+        except Exception as e:
+            print(f"    strip backfill failed for {c['id']}: {str(e)[:60]}")
+    if made:
+        print(f"  built {made} missing strip(s) so the judge can see reused clips")
+    return made
+
 def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     card_path = ROOT / "projects" / slug / "scenes.json"
     if not card_path.exists():
@@ -180,7 +309,17 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     rejected = rejected_keys()
     shots = shot_order(scene, direction)
     must_not = [m.lower() for m in scene.get("must_not") or []]
-    print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}")
+    req = scene.get("requirements") or {}
+    # A beat may ask for a set number of candidates (the abstract beats want about 7). A
+    # first gather counts what the beat already holds — reused and carried-over clips —
+    # so it tops up to that number instead of piling the default 24 on top.
+    want_n = int(scene.get("want") or STAGE_N)
+    checked = check_held(scene, req)
+    held = [c for c in scene.get("clips") or [] if not c.get("violation") and not c.get("requirement_fail")]
+    target = max(0, want_n - len(held)) if reason == "first-gather" else want_n
+    print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}"
+          + (f", want {want_n} (holding {len(held)}, staging up to {target})" if scene.get("want") else "")
+          + (f", requirements {req}" if req else ""))
 
     # ---- our own shelf first -------------------------------------------------------
     # "Direction is wrong" used to skip the shelf entirely and go to the web — the slowest
@@ -189,10 +328,17 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     # card are already excluded through `seen`, and the shelf holds 13,000 others. So the
     # library answers a direction change too, with the reviewer's "not this" words barred.
     lib_bar = must_not + ([w.lower() for w in avoid] if direction else [])
-    from_lib = library_picks(shots, sector, seen, rejected, min(LIB_MAX, STAGE_N), lib_bar)
+    from_lib = library_picks(shots, sector, seen, rejected, min(LIB_MAX, target), lib_bar) if target else []
+    if req and from_lib:
+        kept = []
+        for a in from_lib:
+            ok, why = meets(probe(a.get("download_url")), req)
+            if ok: kept.append(a)
+            else: print(f"    shelf clip refused: {why}")
+        from_lib = kept
     if from_lib:
         print(f"  library: {len(from_lib)} owned clip(s) fit this beat — no re-download needed")
-    web_target = max(0, STAGE_N - len(from_lib))
+    web_target = max(0, target - len(from_lib))
 
     # ---- recall: metadata only ----------------------------------------------------
     cands, tried = [], set()
@@ -221,11 +367,13 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
                         continue
                     if c.get("duration") and c["duration"] > MAX_DURATION:
                         continue
+                    if req.get("min_seconds") and c.get("duration") and c["duration"] < req["min_seconds"]:
+                        continue                      # too short even by its own account
                     c["shot"] = shot["id"]
                     c["_score"] = pre_score(c, shot, shots, avoid, rank)
                     cands.append(c)
     print(f"  recalled {len(cands)} candidates from {len(shots)} shots")
-    if not cands and not from_lib:
+    if not cands and not from_lib and not any(not c.get("strip") for c in scene.get("clips") or []):
         return 0
 
     # ---- shortlist: best score, spread across shots and sources -------------------
@@ -242,7 +390,8 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
                   f"(score ≥ {floor:.1f} of {top:.1f}) — the rest are not staged")
         cands = keep
     picks, per_src, per_shot = [], {}, {}
-    per_shot_cap = max(4, STAGE_N // max(1, len(shots)) + 2)
+    per_shot_cap = max(4, max(target, 1) // max(1, len(shots)) + 2)
+    probes, refused = 0, {}
     for c in cands:
         if len(picks) >= web_target:
             break
@@ -250,16 +399,30 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
             continue
         if per_shot.get(c["shot"], 0) >= per_shot_cap:
             continue
+        if req:
+            if probes >= max(12, 6 * web_target):
+                break                                  # bounded: never probe the whole recall
+            probes += 1
+            info = probe(c.get("download_url"))
+            ok, why = meets(info, req)
+            if not ok:
+                refused[why.split(" (")[0].split(",")[0]] = refused.get(why.split(" (")[0].split(",")[0], 0) + 1
+                continue
+            c["_real"] = info
         picks.append(c)
         per_src[c["source"]] = per_src.get(c["source"], 0) + 1
         per_shot[c["shot"]] = per_shot.get(c["shot"], 0) + 1
     print(f"  shortlisted {len(picks)}: " + ", ".join(f"{k}={v}" for k, v in per_src.items()))
+    if req:
+        print(f"  real-file checks: {probes} probed, {len(picks)} passed"
+              + (f", refused {refused}" if refused else ""))
 
     # ---- stage: preview + thumb + strip, uploaded; on the card unjudged ------------
     idx = tb.next_index(scene, "V")
     added, credits = 0, []
     with tempfile.TemporaryDirectory() as td:
         td = pathlib.Path(td)
+        backfilled = ensure_strips(slug, scene_id, scene, td)
         for a in from_lib:
             stem = f"{slug}-{scene_id}-V{idx:02d}"
             idx += 1
@@ -319,13 +482,15 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
                 "title": c.get("title", ""), "query": c.get("query", ""), "shot": c.get("shot", ""),
                 "duration": c.get("duration", 0), "src_id": c.get("src_id", ""),
                 "download_url": c.get("download_url", ""),
+                **({"real_w": c["_real"]["w"], "real_h": c["_real"]["h"], "real_seconds": round(c["_real"]["s"], 2)}
+                   if c.get("_real") else {}),
                 "fresh": True, "added_by": "recall-v2", "staged_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                 "judged": False, "shown": False,
             })
             credits.append(tb.credit_line(c))
             master.unlink(missing_ok=True); pv.unlink(missing_ok=True)
             added += 1
-    if added:
+    if added or backfilled or checked:
         json.dump(card, open(card_path, "w"), indent=1, ensure_ascii=False)
         cf = ROOT / "projects" / slug / "CREDITS.md"
         if not cf.exists():

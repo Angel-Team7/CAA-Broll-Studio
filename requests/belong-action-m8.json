@@ -1,0 +1,27 @@
+{
+  "project": "belong-action-m8",
+  "topup_requests": {
+    "M8-B01": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M8-B03": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M8-B04": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    }
+  },
+  "updated": "2026-10-19T15:58:28Z"
+}

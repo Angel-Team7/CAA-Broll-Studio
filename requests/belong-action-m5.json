@@ -1,0 +1,41 @@
+{
+  "project": "belong-action-m5",
+  "topup_requests": {
+    "M5-B01": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M5-B02": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M5-B03": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M5-B04": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M5-B05": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    }
+  },
+  "updated": "2026-10-19T15:58:28Z"
+}

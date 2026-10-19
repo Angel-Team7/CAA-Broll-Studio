@@ -1,0 +1,20 @@
+{
+  "project": "belong-action-m3",
+  "topup_requests": {
+    "M3-B02": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    },
+    "M3-B05": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "abstract-rework"
+    }
+  },
+  "updated": "2026-10-19T15:58:28Z"
+}

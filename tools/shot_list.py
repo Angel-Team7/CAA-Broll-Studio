@@ -48,7 +48,8 @@ def pending():
         if slug in SKIP:
             continue
         card = json.load(open(p))
-        missing = [s["id"] for s in card["scenes"] if not s.get("shots")]
+        # a beat marked NEEDS AI has no honest stock match — it gets no shot list on purpose
+        missing = [s["id"] for s in card["scenes"] if not s.get("shots") and not s.get("needs_ai")]
         if missing:
             out.append((slug, missing))
             print(f"{slug}: {len(missing)} scene(s) without shots: {' '.join(missing)}")
