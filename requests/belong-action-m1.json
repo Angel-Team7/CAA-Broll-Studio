@@ -4,30 +4,38 @@
     "M1-B01": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:52:43Z",
+      "added": 7
     },
     "M1-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:53:27Z",
+      "added": 5
     },
     "M1-B03": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:54:09Z",
+      "added": 7
     },
     "M1-B04": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:54:55Z",
+      "added": 5
     }
   },
   "updated": "2026-10-19T15:58:28Z",

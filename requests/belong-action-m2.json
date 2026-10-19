@@ -4,23 +4,29 @@
     "M2-B01": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:55:25Z",
+      "added": 7
     },
     "M2-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:56:16Z",
+      "added": 7
     },
     "M2-B04": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:56:59Z",
+      "added": 7
     }
   },
   "updated": "2026-10-19T15:58:28Z",

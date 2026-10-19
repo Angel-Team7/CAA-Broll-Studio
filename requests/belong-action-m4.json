@@ -4,23 +4,29 @@
     "M4-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:59:18Z",
+      "added": 5
     },
     "M4-B03": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:59:47Z",
+      "added": 7
     },
     "M4-B04": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:00:08Z",
+      "added": 4
     }
   },
   "updated": "2026-10-19T15:58:28Z",

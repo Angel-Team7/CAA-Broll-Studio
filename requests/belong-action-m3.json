@@ -4,16 +4,20 @@
     "M3-B02": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:57:40Z",
+      "added": 4
     },
     "M3-B05": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "abstract-rework"
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T16:58:28Z",
+      "added": 7
     }
   },
   "updated": "2026-10-19T15:58:28Z",
