@@ -11623,98 +11623,140 @@
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:10:17Z",
+  "reason": "frontal face shown",
+  "at": "2026-10-19T17:09:58Z",
   "from": "belong-action-m5/M5-B01"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "logo",
-  "at": "2026-10-19T17:10:38Z",
+  "reason": "printed logo/branding visible on the bag",
+  "at": "2026-10-19T17:10:21Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "supermarket aisle",
-  "at": "2026-10-19T17:11:05Z",
+  "reason": "visible product labels and price tags; supermarket/retail-aisle look",
+  "at": "2026-10-19T17:10:56Z",
   "from": "belong-action-m5/M5-B03"
  },
- "pexels:38806023": {
+ "pexels:6023340": {
   "sector": "belong",
-  "reason": "assembly",
-  "at": "2026-10-19T17:11:31Z",
-  "from": "belong-action-m5/M5-B04"
+  "reason": "face visible; retail-shop shelving, not farmhouse pantry",
+  "at": "2026-10-19T17:10:56Z",
+  "from": "belong-action-m5/M5-B03"
+ },
+ "pexels:6343757": {
+  "sector": "belong",
+  "reason": "minimalist product-styling look with sage backdrop, not earth-toned farmhouse",
+  "at": "2026-10-19T17:10:56Z",
+  "from": "belong-action-m5/M5-B03"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle",
-  "at": "2026-10-19T17:11:31Z",
+  "reason": "spray bottle visible",
+  "at": "2026-10-19T17:11:26Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pixabay:8257": {
   "sector": "belong",
-  "reason": "gym",
-  "at": "2026-10-19T17:12:48Z",
+  "reason": "gym setting (explicit never-list item)",
+  "at": "2026-10-19T17:12:09Z",
   "from": "belong-action-m6/M6-B01"
  },
- "pixabay:122440": {
+ "pixabay:109413": {
   "sector": "belong",
-  "reason": "gym",
-  "at": "2026-10-19T17:12:48Z",
+  "reason": "gym setting; frontal face visible",
+  "at": "2026-10-19T17:12:09Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pixabay:8294": {
   "sector": "belong",
-  "reason": "logo",
-  "at": "2026-10-19T17:12:48Z",
+  "reason": "visible brand logo on shoe",
+  "at": "2026-10-19T17:12:09Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:4935736": {
   "sector": "belong",
-  "reason": "sailing yacht",
-  "at": "2026-10-19T17:12:48Z",
+  "reason": "sailing yacht (explicit never-list item)",
+  "at": "2026-10-19T17:12:09Z",
   "from": "belong-action-m6/M6-B01"
  },
- "pexels:5442629": {
+ "pexels:7677258": {
   "sector": "belong",
-  "reason": "text",
-  "at": "2026-10-19T17:13:43Z",
-  "from": "belong-action-m6/M6-B03"
+  "reason": "gold luxury fabric sheen, not earth/cream palette",
+  "at": "2026-10-19T17:12:35Z",
+  "from": "belong-action-m6/M6-B02"
  },
  "pexels:9467582": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:13:43Z",
+  "reason": "frontal face visible",
+  "at": "2026-10-19T17:13:05Z",
   "from": "belong-action-m6/M6-B03"
  },
  "pexels:6950818": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:14:42Z",
+  "reason": "frontal faces visible, smiling",
+  "at": "2026-10-19T17:14:07Z",
+  "from": "belong-action-m6/M6-B05"
+ },
+ "pexels:6901285": {
+  "sector": "belong",
+  "reason": "marble countertop reads as luxury-resort look",
+  "at": "2026-10-19T17:14:07Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:5240899": {
   "sector": "belong",
-  "reason": "client",
-  "at": "2026-10-19T17:14:42Z",
+  "reason": "retail checkout with payment terminal and business attire, not a neighborly hand-off",
+  "at": "2026-10-19T17:14:07Z",
+  "from": "belong-action-m6/M6-B05"
+ },
+ "pexels:6901279": {
+  "sector": "belong",
+  "reason": "marble countertop reads as luxury-resort look",
+  "at": "2026-10-19T17:14:07Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:28957437": {
   "sector": "belong",
-  "reason": "nightclub",
-  "at": "2026-10-19T17:15:20Z",
-  "from": "belong-action-m6/M6-B06"
- },
- "pexels:852222": {
-  "sector": "belong",
-  "reason": "kettle",
-  "at": "2026-10-19T17:15:20Z",
+  "reason": "stage/runway lighting design evokes nightclub atmosphere; cool blue-grey, not warm",
+  "at": "2026-10-19T17:14:49Z",
   "from": "belong-action-m6/M6-B06"
  },
  "pexels:38917906": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:15:20Z",
+  "reason": "face close and visible; vaping subject, not steam/industrial",
+  "at": "2026-10-19T17:14:49Z",
   "from": "belong-action-m6/M6-B06"
+ },
+ "pexels:5529078": {
+  "sector": "belong",
+  "reason": "frontal faces visible, smiling",
+  "at": "2026-10-19T17:15:27Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:6688235": {
+  "sector": "belong",
+  "reason": "frontal face visible",
+  "at": "2026-10-19T17:15:27Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:8513477": {
+  "sector": "belong",
+  "reason": "concert setting with neon teal/pink lighting",
+  "at": "2026-10-19T17:15:27Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:7525399": {
+  "sector": "belong",
+  "reason": "clear faces in a bright sterile studio, not outdoor silhouettes",
+  "at": "2026-10-19T17:15:27Z",
+  "from": "belong-action-m7/M7-B01"
+ },
+ "pexels:6193820": {
+  "sector": "belong",
+  "reason": "faces visible; dark stage performance setting",
+  "at": "2026-10-19T17:15:27Z",
+  "from": "belong-action-m7/M7-B01"
  }
 }
