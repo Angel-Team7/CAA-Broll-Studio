@@ -253,7 +253,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-10-19T16:05:46Z",
+    "at": "2026-10-19T16:06:14Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -308,14 +308,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:01:59Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 16.81,
      "carried_from": {
       "scene": "S05",
       "caption": "close-up of a relaxed open palm gesture against a warm blurred room"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "an open hand reaches forward against a blurred warm interior",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-open-hand-reach",
+     "score": 6.0,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:05:33Z"
     },
     {
      "id": "belong-action-m5-S05-V05",
@@ -335,14 +345,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:02:11Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 7.84,
      "carried_from": {
       "scene": "S05",
       "caption": "a torso with open hands gestures gently, no face shown"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 7,
+     "caption": "cupped hands present an unhurried open gesture at the waist",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-cupped-hands-present",
+     "score": 6.35,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:05:33Z"
     }
    ],
    "shots": [
@@ -379,7 +399,12 @@
     "price tag"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-10-19T16:06:14Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M5-B04",
@@ -431,14 +456,24 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-09-24T13:04:07Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 47.64,
      "carried_from": {
       "scene": "S06",
       "caption": "a hand wipes a dark shelf clean with a cloth beside a bottle"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "a hand wipes a dark wooden shelf clean with a white cloth",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-shelf-dusting",
+     "score": 5.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:05:50Z"
     }
    ],
    "shots": [
@@ -475,7 +510,12 @@
     "laboratory"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:06:14Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M5-B05",
@@ -528,14 +568,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:07:00Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 11.78,
      "carried_from": {
       "scene": "S07",
       "caption": "overhead macro of a hand writing a short line in a lined notebook"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 3,
+     "caption": "an overhead hand begins writing on a lined notebook page",
+     "violation": "handwriting becomes legible (\"pen...\") by the third frame, barred by the no-readable-text rule",
+     "shot": "A",
+     "shoot": "pexels-notebook-overhead",
+     "score": 5.6,
+     "rank": 2,
+     "shown": false,
+     "judged_at": "2026-10-19T16:06:10Z"
     },
     {
      "id": "belong-action-m5-S07-V01",
@@ -554,14 +604,24 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-09-24T13:06:08Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 12.52,
      "carried_from": {
       "scene": "S07",
       "caption": "a hand writes a short line in a notebook on a wooden desk"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "hands write an illegible line in a notebook with a fountain pen",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pexels-notebook-fountainpen",
+     "score": 8.0,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:06:10Z"
     }
    ],
    "shots": [
@@ -598,7 +658,12 @@
     "signature contract"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:06:14Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   }
  ]
 }
