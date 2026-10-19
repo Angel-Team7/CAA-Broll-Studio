@@ -122,14 +122,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:16:27Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 9.63,
      "carried_from": {
       "scene": "S03",
       "caption": "extreme macro of white woven fabric with light across the weave"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 8,
+     "caption": "extreme macro of white ribbed fabric folds in raking light",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-white-fabric-macro",
+     "score": 8.0,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:06:37Z"
     }
    ],
    "shots": [
@@ -166,7 +176,12 @@
     "bedding advert"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:07:04Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M6-B03",
@@ -288,14 +303,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:22:46Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 27.71,
      "carried_from": {
       "scene": "S05",
       "caption": "soapy water swirls down a washbasin drain"
-     }
+     },
+     "relevance": 6,
+     "brand_fit": 6,
+     "caption": "water pools around a chrome drain cover in a white basin",
+     "violation": "",
+     "shot": "B",
+     "shoot": "pixabay-drain-basin",
+     "score": 6.0,
+     "rank": 3,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:00Z"
     },
     {
      "id": "belong-action-m6-S05-V01",
@@ -314,14 +339,24 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-09-24T13:21:42Z",
-     "judged": false,
+     "judged": true,
      "real_w": 3840,
      "real_h": 2160,
      "real_seconds": 12.28,
      "carried_from": {
       "scene": "S05",
       "caption": "water drips slowly from a metal tap indoors"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a thin stream of water runs from a metal faucet in warm light",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pixabay-faucet-stream",
+     "score": 7.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:00Z"
     },
     {
      "id": "belong-action-m6-S05-V10",
@@ -341,14 +376,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T13:22:13Z",
-     "judged": false,
+     "judged": true,
      "real_w": 1920,
      "real_h": 1080,
      "real_seconds": 20.22,
      "carried_from": {
       "scene": "S05",
       "caption": "water drips slowly from a black metal outdoor faucet"
-     }
+     },
+     "relevance": 8,
+     "brand_fit": 7,
+     "caption": "a drop forms and falls from a black metal outdoor tap",
+     "violation": "",
+     "shot": "C",
+     "shoot": "pexels-tap-drip-outdoor",
+     "score": 7.65,
+     "rank": 2,
+     "shown": true,
+     "judged_at": "2026-10-19T16:07:00Z"
     }
    ],
    "shots": [
