@@ -11449,38 +11449,32 @@
  },
  "pexels:6054010": {
   "sector": "belong",
-  "reason": "crowd",
-  "at": "2026-10-19T16:03:56Z",
+  "reason": "crowd of multiple diners and identifiable elaborate dishes, barred by brief and the no-crowd hard rule",
+  "at": "2026-10-19T16:03:17Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:3015489": {
   "sector": "belong",
-  "reason": "beer",
-  "at": "2026-10-19T16:04:26Z",
+  "reason": "resembles beer with a foam head (barred by must-not list) and shows steam, not cold condensation; wrong subject entirely",
+  "at": "2026-10-19T16:03:59Z",
   "from": "belong-action-m4/M4-B03"
- },
- "pexels:3927678": {
-  "sector": "belong",
-  "reason": "gift ribbon bow",
-  "at": "2026-10-19T16:05:25Z",
-  "from": "belong-action-m5/M5-B02"
  },
  "pexels:5332649": {
   "sector": "belong",
-  "reason": "text",
-  "at": "2026-10-19T16:05:25Z",
+  "reason": "text in frame (handwritten label on bag)",
+  "at": "2026-10-19T16:06:00Z",
   "from": "belong-action-m5/M5-B02"
  },
- "pexels:4153743": {
+ "pexels:4109227": {
   "sector": "belong",
-  "reason": "not earth-toned: brief calls for near-black with a warm amber sliver, this is flat grey daylight",
-  "at": "2026-10-19T16:08:49Z",
-  "from": "belong-action-m8/M8-B01"
+  "reason": "no earth palette, white/grey modern interior; glass vessel reads as lab flask",
+  "at": "2026-10-19T16:06:44Z",
+  "from": "belong-action-m5/M5-B04"
  },
- "pexels:4153744": {
+ "pexels:6717618": {
   "sector": "belong",
-  "reason": "not earth-toned: brief calls for near-black with a warm amber sliver, this is flat grey daylight",
-  "at": "2026-10-19T16:08:49Z",
-  "from": "belong-action-m8/M8-B01"
+  "reason": "no earth palette, cool grey floor and white plate instead of clay/terracotta/brown",
+  "at": "2026-10-19T16:10:09Z",
+  "from": "belong-action-m8/M8-B04"
  }
 }
