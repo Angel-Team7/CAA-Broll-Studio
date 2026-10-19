@@ -315,7 +315,9 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     # so it tops up to that number instead of piling the default 24 on top.
     want_n = int(scene.get("want") or STAGE_N)
     checked = check_held(scene, req)
-    held = [c for c in scene.get("clips") or [] if not c.get("violation") and not c.get("requirement_fail")]
+    # a clip the judge already scored below usable does not count toward the beat's number
+    held = [c for c in scene.get("clips") or [] if not c.get("violation") and not c.get("requirement_fail")
+            and not (c.get("judged") is True and (c.get("relevance") or 0) < 6)]
     target = max(0, want_n - len(held)) if reason == "first-gather" else want_n
     print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}"
           + (f", want {want_n} (holding {len(held)}, staging up to {target})" if scene.get("want") else "")
