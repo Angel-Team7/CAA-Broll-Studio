@@ -11423,52 +11423,64 @@
   "at": "2026-10-14T16:16:12Z",
   "from": "edenrise-c2-promises-kept/S05"
  },
- "pixabay:https://pixabay.com/videos/id-44771/": {
-  "sector": "belong",
-  "reason": "wrong palette, lush green not earth-toned dry cracked soil",
-  "at": "2026-10-19T16:00:56Z",
-  "from": "belong-action-m1/M1-B01"
- },
- "pexels:3045869": {
-  "sector": "belong",
-  "reason": "title indicates earthworm close-ups, barred by must-not list",
-  "at": "2026-10-19T16:01:31Z",
-  "from": "belong-action-m1/M1-B02"
- },
  "pexels:https://www.pexels.com/video/man-holding-vegetable-harvest-5104194/": {
   "sector": "belong",
-  "reason": "frontal smiling face at camera, barred by TASTE hard rule",
-  "at": "2026-10-19T16:02:19Z",
+  "reason": "frontal face, smiling at camera",
+  "at": "2026-10-19T16:03:33Z",
+  "from": "belong-action-m1/M1-B04"
+ },
+ "pexels:https://www.pexels.com/video/women-checking-the-newly-harvested-eggplants-5527769/": {
+  "sector": "belong",
+  "reason": "visible text/lettering on clothing in frame",
+  "at": "2026-10-19T16:03:33Z",
   "from": "belong-action-m1/M1-B04"
  },
  "pexels:10787013": {
   "sector": "belong",
-  "reason": "studio backdrop and flat artificial light, not the natural outdoor light the brief and hard rules require",
-  "at": "2026-10-19T16:02:19Z",
+  "reason": "grey studio backdrop, generic stock explainer footage",
+  "at": "2026-10-19T16:03:33Z",
   "from": "belong-action-m1/M1-B04"
  },
  "pexels:6054010": {
   "sector": "belong",
-  "reason": "crowd of multiple diners and identifiable elaborate dishes, barred by brief and the no-crowd hard rule",
-  "at": "2026-10-19T16:03:17Z",
+  "reason": "crowd of diners, identifiable food and wine glasses (barred by must-not list)",
+  "at": "2026-10-19T16:04:10Z",
   "from": "belong-action-m3/M3-B05"
  },
  "pexels:3927678": {
   "sector": "belong",
-  "reason": "no earth palette — cool blue-grey backdrop with ribbon spools, not sand/clay/terracotta/honey",
-  "at": "2026-10-19T16:05:49Z",
+  "reason": "gift ribbon/bow material in frame, cool studio backdrop not earth palette",
+  "at": "2026-10-19T16:05:39Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:5332649": {
   "sector": "belong",
-  "reason": "handwritten text visible on the bag",
-  "at": "2026-10-19T16:05:49Z",
+  "reason": "visible handwriting/text on paper tag",
+  "at": "2026-10-19T16:05:39Z",
   "from": "belong-action-m5/M5-B02"
  },
- "pexels:6326847": {
+ "pexels:10374276": {
   "sector": "belong",
-  "reason": "reads as a formal document-signing scene (fine pen, ring, watch, upholstered armchair), close to the barred signature-contract look",
-  "at": "2026-10-19T16:06:46Z",
-  "from": "belong-action-m5/M5-B05"
+  "reason": "not earth palette - grey/black backdrop, not sand clay terracotta honey",
+  "at": "2026-10-19T16:06:48Z",
+  "from": "belong-action-m5/M5-B03"
+ },
+ "pexels:4109227": {
+  "sector": "belong",
+  "reason": "not earth palette - stark white walls and a lab-style glass flask, not sand/clay/terracotta/honey",
+  "at": "2026-10-19T16:07:13Z",
+  "from": "belong-action-m5/M5-B04"
+ },
+ "pexels:36271582": {
+  "sector": "belong",
+  "reason": "not earth palette, not a plain background - dense green foliage fills the frame",
+  "at": "2026-10-19T16:08:23Z",
+  "from": "belong-action-m7/M7-B02"
+ },
+ "pexels:6717618": {
+  "sector": "belong",
+  "reason": "not warm clay/terracotta palette - cool blue-grey floor tones, not warm side light",
+  "at": "2026-10-19T16:08:53Z",
+  "from": "belong-action-m8/M8-B04"
  }
 }
