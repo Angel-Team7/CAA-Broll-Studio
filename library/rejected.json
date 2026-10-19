@@ -11713,50 +11713,68 @@
  },
  "pixabay:154197": {
   "sector": "belong",
-  "reason": "drone aerial of an identifiable tropical beach, wrong world",
-  "at": "2026-10-19T17:17:59Z",
+  "reason": "drone hyperlapse, recognizable tropical location",
+  "at": "2026-10-19T17:17:21Z",
   "from": "belong-action-m7/M7-B02"
  },
  "pexels:9902187": {
   "sector": "belong",
-  "reason": "shows a person and identifiable furniture, brief requires neither",
-  "at": "2026-10-19T17:18:57Z",
+  "reason": "identifiable furniture, person in frame",
+  "at": "2026-10-19T17:17:57Z",
   "from": "belong-action-m8/M8-B01"
  },
  "pexels:9902178": {
   "sector": "belong",
-  "reason": "shows a person, furniture and on-screen text, brief bars all three",
-  "at": "2026-10-19T17:18:57Z",
+  "reason": "text on screen, identifiable furniture, person in frame",
+  "at": "2026-10-19T17:17:57Z",
+  "from": "belong-action-m8/M8-B01"
+ },
+ "pexels:40103205": {
+  "sector": "belong",
+  "reason": "person in frame, too bright for near-darkness",
+  "at": "2026-10-19T17:17:57Z",
+  "from": "belong-action-m8/M8-B01"
+ },
+ "pixabay:128321": {
+  "sector": "belong",
+  "reason": "identifiable furniture, too bright for near-darkness",
+  "at": "2026-10-19T17:17:57Z",
   "from": "belong-action-m8/M8-B01"
  },
  "pexels:6192867": {
   "sector": "belong",
-  "reason": "frontal face and upscale lobby decor, both barred",
-  "at": "2026-10-19T17:19:36Z",
+  "reason": "frontal/profile face, floral luxury lobby decor",
+  "at": "2026-10-19T17:18:35Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:7402382": {
   "sector": "belong",
-  "reason": "frontal face shown, hard rule breach",
-  "at": "2026-10-19T17:19:36Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:18:35Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:5530016": {
   "sector": "belong",
-  "reason": "frontal face shown, hard rule breach",
-  "at": "2026-10-19T17:19:36Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:18:35Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:6964425": {
   "sector": "belong",
-  "reason": "frontal face shown, hard rule breach",
-  "at": "2026-10-19T17:19:36Z",
+  "reason": "frontal face, two people, stylized stock look",
+  "at": "2026-10-19T17:18:35Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:9564079": {
   "sector": "belong",
-  "reason": "chandelier and luxury restaurant interior, both barred",
-  "at": "2026-10-19T17:19:36Z",
+  "reason": "chandelier, suit, frontal face",
+  "at": "2026-10-19T17:18:35Z",
   "from": "belong-action-m8/M8-B03"
+ },
+ "pexels:6760617": {
+  "sector": "belong",
+  "reason": "crowd",
+  "at": "2026-10-19T17:19:05Z",
+  "from": "belong-action-m8/M8-B04"
  }
 }
