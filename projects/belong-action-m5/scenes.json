@@ -122,14 +122,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T09:32:22Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 37.72,
      "carried_from": {
       "scene": "S04",
       "caption": "hands fold and tie a kraft paper parcel with twine"
-     }
+     },
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "hands fold kraft paper around a box on a cool grey flatlay with ribbons",
+     "violation": "gift ribbon/bow material in frame, cool studio backdrop not earth palette",
+     "shot": "B",
+     "shoot": "pexels-flatlay-giftwrap-01",
+     "score": 3.95,
+     "rank": 3,
+     "shown": false,
+     "judged_at": "2026-10-19T16:05:39Z"
     },
     {
      "id": "belong-action-m5-S04-V06",
@@ -149,14 +159,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-09-24T12:59:28Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 12.78,
      "carried_from": {
       "scene": "S04",
       "caption": "hands fold closed the top of a kraft paper bag"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 4,
+     "caption": "tattooed hands fold a kraft paper bag closed near a handwritten tag",
+     "violation": "visible handwriting/text on paper tag",
+     "shot": "B",
+     "shoot": "pexels-kraft-bag-fold-01",
+     "score": 5.95,
+     "rank": 2,
+     "shown": false,
+     "judged_at": "2026-10-19T16:05:39Z"
     },
     {
      "id": "belong-action-m5-S04-V38",
@@ -176,14 +196,24 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-14T09:32:28Z",
-     "judged": false,
+     "judged": true,
      "real_w": 2048,
      "real_h": 1080,
      "real_seconds": 21.8,
      "carried_from": {
       "scene": "S04",
       "caption": "hands tie twine around a wrapped paper package"
-     }
+     },
+     "relevance": 7,
+     "brand_fit": 6,
+     "caption": "hands tie twine around a wrapped parcel on a wooden table",
+     "violation": "",
+     "shot": "A",
+     "shoot": "pexels-twine-parcel-01",
+     "score": 6.65,
+     "rank": 1,
+     "shown": true,
+     "judged_at": "2026-10-19T16:05:39Z"
     }
    ],
    "shots": [
@@ -220,7 +250,12 @@
     "plastic bag"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "stock_gap": {
+    "usable": 1,
+    "at": "2026-10-19T16:05:46Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "M5-B03",
