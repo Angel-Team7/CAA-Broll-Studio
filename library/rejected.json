@@ -11623,134 +11623,188 @@
  },
  "pexels:5043260": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:10:09Z",
+  "reason": "clear frontal face, not hands/backs/profiles only",
+  "at": "2026-10-19T17:09:46Z",
   "from": "belong-action-m5/M5-B01"
+ },
+ "pexels:3838401": {
+  "sector": "belong",
+  "reason": "a black ribbon bow on a gift box is visible in frame",
+  "at": "2026-10-19T17:10:08Z",
+  "from": "belong-action-m5/M5-B02"
  },
  "pexels:7308052": {
   "sector": "belong",
-  "reason": "logo",
-  "at": "2026-10-19T17:10:33Z",
+  "reason": "printed sticker/logo on the bag",
+  "at": "2026-10-19T17:10:08Z",
+  "from": "belong-action-m5/M5-B02"
+ },
+ "pexels:3838399": {
+  "sector": "belong",
+  "reason": "a black ribbon bow on a gift box is visible in frame",
+  "at": "2026-10-19T17:10:08Z",
   "from": "belong-action-m5/M5-B02"
  },
  "pexels:7250818": {
   "sector": "belong",
-  "reason": "price tag",
-  "at": "2026-10-19T17:11:02Z",
+  "reason": "visible price tags and a supermarket-refill-aisle look",
+  "at": "2026-10-19T17:10:35Z",
   "from": "belong-action-m5/M5-B03"
  },
  "pexels:38806023": {
   "sector": "belong",
-  "reason": "factory",
-  "at": "2026-10-19T17:11:30Z",
+  "reason": "factory conveyor/assembly line",
+  "at": "2026-10-19T17:11:03Z",
   "from": "belong-action-m5/M5-B04"
  },
  "pexels:7640956": {
   "sector": "belong",
-  "reason": "spray bottle",
-  "at": "2026-10-19T17:11:30Z",
+  "reason": "spray bottle in frame",
+  "at": "2026-10-19T17:11:03Z",
   "from": "belong-action-m5/M5-B04"
- },
- "pixabay:122440": {
-  "sector": "belong",
-  "reason": "resort",
-  "at": "2026-10-19T17:13:09Z",
-  "from": "belong-action-m6/M6-B01"
  },
  "pixabay:109413": {
   "sector": "belong",
   "reason": "gym",
-  "at": "2026-10-19T17:13:09Z",
-  "from": "belong-action-m6/M6-B01"
- },
- "pixabay:8294": {
-  "sector": "belong",
-  "reason": "logo in frame",
-  "at": "2026-10-19T17:13:09Z",
+  "at": "2026-10-19T17:12:29Z",
   "from": "belong-action-m6/M6-B01"
  },
  "pexels:4935736": {
   "sector": "belong",
   "reason": "sailing yacht",
-  "at": "2026-10-19T17:13:09Z",
+  "at": "2026-10-19T17:12:29Z",
   "from": "belong-action-m6/M6-B01"
+ },
+ "pexels:7792608": {
+  "sector": "belong",
+  "reason": "off-palette, luxury sheen",
+  "at": "2026-10-19T17:13:05Z",
+  "from": "belong-action-m6/M6-B02"
  },
  "pexels:7677258": {
   "sector": "belong",
-  "reason": "luxury",
-  "at": "2026-10-19T17:13:35Z",
+  "reason": "luxury (gold)",
+  "at": "2026-10-19T17:13:05Z",
   "from": "belong-action-m6/M6-B02"
  },
  "pexels:9467582": {
   "sector": "belong",
   "reason": "frontal face",
-  "at": "2026-10-19T17:14:04Z",
+  "at": "2026-10-19T17:13:38Z",
   "from": "belong-action-m6/M6-B03"
  },
  "pexels:6950818": {
   "sector": "belong",
-  "reason": "smiling",
-  "at": "2026-10-19T17:15:05Z",
+  "reason": "frontal face, smiling",
+  "at": "2026-10-19T17:14:54Z",
+  "from": "belong-action-m6/M6-B05"
+ },
+ "pexels:6901285": {
+  "sector": "belong",
+  "reason": "marble luxury kitchen",
+  "at": "2026-10-19T17:14:54Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:5240899": {
   "sector": "belong",
-  "reason": "corporate",
-  "at": "2026-10-19T17:15:05Z",
+  "reason": "corporate client transaction",
+  "at": "2026-10-19T17:14:54Z",
+  "from": "belong-action-m6/M6-B05"
+ },
+ "pexels:6901279": {
+  "sector": "belong",
+  "reason": "marble luxury kitchen",
+  "at": "2026-10-19T17:14:54Z",
   "from": "belong-action-m6/M6-B05"
  },
  "pexels:28957437": {
   "sector": "belong",
-  "reason": "nightclub",
-  "at": "2026-10-19T17:15:41Z",
+  "reason": "nightclub stage look",
+  "at": "2026-10-19T17:15:34Z",
+  "from": "belong-action-m6/M6-B06"
+ },
+ "pexels:852222": {
+  "sector": "belong",
+  "reason": "coffee/kettle cliche",
+  "at": "2026-10-19T17:15:34Z",
   "from": "belong-action-m6/M6-B06"
  },
  "pexels:38917906": {
   "sector": "belong",
-  "reason": "frontal face",
-  "at": "2026-10-19T17:15:41Z",
+  "reason": "frontal face, vaping",
+  "at": "2026-10-19T17:15:34Z",
   "from": "belong-action-m6/M6-B06"
+ },
+ "pexels:8347915": {
+  "sector": "belong",
+  "reason": "luxury-resort look",
+  "at": "2026-10-19T17:17:41Z",
+  "from": "belong-action-m7/M7-B02"
  },
  "pixabay:154197": {
   "sector": "belong",
-  "reason": "luxury-resort look, drone hyperlapse",
-  "at": "2026-10-19T17:17:07Z",
+  "reason": "luxury-resort look",
+  "at": "2026-10-19T17:17:41Z",
   "from": "belong-action-m7/M7-B02"
  },
  "pexels:9902187": {
   "sector": "belong",
-  "reason": "people and identifiable furniture in frame (brief requires none)",
-  "at": "2026-10-19T17:17:55Z",
+  "reason": "text in frame",
+  "at": "2026-10-19T17:18:32Z",
   "from": "belong-action-m8/M8-B01"
  },
  "pexels:9902178": {
   "sector": "belong",
-  "reason": "on-screen text/map, people and furniture in frame (brief requires none)",
-  "at": "2026-10-19T17:17:55Z",
+  "reason": "text in frame",
+  "at": "2026-10-19T17:18:32Z",
   "from": "belong-action-m8/M8-B01"
  },
  "pexels:6192867": {
   "sector": "belong",
-  "reason": "frontal face (hands/backs/profiles only)",
-  "at": "2026-10-19T17:18:37Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:19:05Z",
+  "from": "belong-action-m8/M8-B03"
+ },
+ "pexels:6278839": {
+  "sector": "belong",
+  "reason": "chandelier",
+  "at": "2026-10-19T17:19:05Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:7402382": {
   "sector": "belong",
-  "reason": "frontal face (hands/backs/profiles only)",
-  "at": "2026-10-19T17:18:37Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:19:05Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:6964425": {
   "sector": "belong",
-  "reason": "frontal face (hands/backs/profiles only)",
-  "at": "2026-10-19T17:18:37Z",
+  "reason": "frontal face",
+  "at": "2026-10-19T17:19:05Z",
   "from": "belong-action-m8/M8-B03"
  },
  "pexels:9564079": {
   "sector": "belong",
-  "reason": "chandelier, luxury-resort look",
-  "at": "2026-10-19T17:18:37Z",
+  "reason": "chandelier",
+  "at": "2026-10-19T17:19:05Z",
   "from": "belong-action-m8/M8-B03"
+ },
+ "pexels:6760617": {
+  "sector": "belong",
+  "reason": "crowd",
+  "at": "2026-10-19T17:19:28Z",
+  "from": "belong-action-m8/M8-B04"
+ },
+ "pixabay:33261": {
+  "sector": "belong",
+  "reason": "text in frame",
+  "at": "2026-10-19T17:19:28Z",
+  "from": "belong-action-m8/M8-B04"
+ },
+ "pexels:27938940": {
+  "sector": "belong",
+  "reason": "logo",
+  "at": "2026-10-19T17:19:28Z",
+  "from": "belong-action-m8/M8-B04"
  }
 }
