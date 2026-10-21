@@ -11776,5 +11776,35 @@
   "reason": "crowd",
   "at": "2026-10-19T17:19:05Z",
   "from": "belong-action-m8/M8-B04"
+ },
+ "pexels:4100474": {
+  "sector": "belong",
+  "reason": "frontal face to camera, no counter or second person present",
+  "at": "2026-10-21T15:53:08Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pexels:6773867": {
+  "sector": "belong",
+  "reason": "laptop and business-meeting setting, barred for this sector",
+  "at": "2026-10-21T15:53:08Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pexels:5682898": {
+  "sector": "belong",
+  "reason": "faces clearly visible and in focus, not out of frame or blurred",
+  "at": "2026-10-21T15:53:08Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pexels:10602708": {
+  "sector": "belong",
+  "reason": "menu board text in frame; faces visible and in focus, not out of frame",
+  "at": "2026-10-21T15:53:08Z",
+  "from": "belong-action-m2/M2-B01"
+ },
+ "pexels:4391962": {
+  "sector": "belong",
+  "reason": "cocktail-bar bottles and shaker signal nightlife, barred for this sector",
+  "at": "2026-10-21T15:53:08Z",
+  "from": "belong-action-m2/M2-B01"
  }
 }
