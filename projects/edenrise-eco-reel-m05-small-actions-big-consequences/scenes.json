@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine spending twenty years developing a place you are proud of. Buildings, paths, trees, careful details. Now imagine someone leaving the site messy for the sake of saving one minute. Does that minute really save anything? A final look, a collected wrapper, a secured tool: tiny actions protect years of work. Take the minute. Finish well.",
+   "t": 0.0,
+   "end": 23.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a finished landscaped area built over many seasons",
+     "pexels": "finished landscaped area wide shot",
+     "pixabay": "landscaped area finished",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker taking one last look around before leaving",
+     "pexels": "worker taking last look before leaving",
+     "pixabay": "worker last look site",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands collecting a stray wrapper from the ground",
+     "pexels": "hands collecting wrapper ground",
+     "pixabay": "hands wrapper ground",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a tool being secured properly in its case",
+     "pexels": "hands securing tool in case",
+     "pixabay": "hands tool case",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "rushed or sloppy work montage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "There is a wrapper beside your boots. Nobody saw who dropped it. Nobody is checking. What do you do? Walk past? Or put it in the right bin? One action won't change the whole world. But actions repeated every day change our habits. And our habits change the place we work. Responsibility starts when we choose to act.",
+   "t": 23.17,
+   "end": 47.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a wrapper lying beside a worker's boots, unnoticed",
+     "pexels": "wrapper beside boots on ground",
+     "pixabay": "wrapper boots ground",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker pausing, then bending to pick up litter",
+     "pexels": "worker pausing to pick up litter",
+     "pixabay": "worker pick up litter",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an empty worksite path with no one watching",
+     "pexels": "empty worksite path quiet",
+     "pixabay": "empty worksite path",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of litter dropped into the correct bin",
+     "pexels": "litter dropped into bin",
+     "pixabay": "litter bin drop",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "person being scolded or watched",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "'It's only this once.' One piece of rubbish. One tool left outside. One small shortcut. But what happens when 'just once' becomes everyday? Little exceptions turn into a pattern. Now try a different sentence: 'Even this once, I'll do it properly.' We don't build a reputation in one grand moment. We build it in repeated small choices.",
+   "t": 47.17,
+   "end": 71.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a single tool left out overnight near tools being packed away",
+     "pexels": "tool left out near packed tools",
+     "pixabay": "tool left out packed",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker deciding to put a tool away properly instead of leaving it",
+     "pexels": "worker putting tool away properly",
+     "pixabay": "worker tool away",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a tidy tool storage area beside the garden worksite",
+     "pexels": "tidy tool storage area garden",
+     "pixabay": "tool storage garden",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands labelling or organising small tools in a case",
+     "pexels": "hands organising tools in case",
+     "pixabay": "hands tools case organise",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "chaotic cluttered workshop",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Two builders complete the same task. One walks away when the main job is done. The other stores the tools, collects the waste and checks the area. Both stopped working. But only one has truly finished. There's a difference between stopping and completing. At Edenrise, the surrounding work area is part of the finished result.",
+   "t": 71.59,
+   "end": 94.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of one worker walking away as another keeps tidying the area",
+     "pexels": "one worker walking away one tidying",
+     "pixabay": "worker walking away tidying",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands collecting the last scraps of waste from the ground",
+     "pexels": "hands collecting last scraps waste",
+     "pixabay": "hands scraps waste",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a completed garden task with the surrounding area also tidy",
+     "pexels": "completed garden task tidy surroundings",
+     "pixabay": "garden task tidy surroundings",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a checklist being ticked off on a clipboard outdoors",
+     "pexels": "clipboard checklist ticked outdoors",
+     "pixabay": "clipboard checklist outdoor",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "messy abandoned worksite",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One person stores materials carefully. Another sorts waste. A third notices a leak and reports it. None of those actions looks dramatic. But when a team repeats them, they become the normal way of working. That is culture. Not simply a poster on a wall, but habits we can see. Culture is built one action at a time.",
+   "t": 94.34,
+   "end": 118.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a worker carefully storing materials in a shed",
+     "pexels": "worker storing materials shed",
+     "pixabay": "worker materials shed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands sorting waste into separate labelled bins",
+     "pexels": "hands sorting waste labelled bins",
+     "pixabay": "hands waste bins sorted",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker noticing and reporting a small leak to a colleague",
+     "pexels": "worker reporting leak to colleague",
+     "pixabay": "worker reporting leak",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a small crew each doing a tidy habit across the site",
+     "pexels": "small crew tidy habits across site",
+     "pixabay": "crew tidy habits site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate poster or slogan on wall",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  }
+ ]
+}

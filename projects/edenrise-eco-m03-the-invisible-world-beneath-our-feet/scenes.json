@@ -1,0 +1,438 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about the ground you walk on every day. You stand on it. You drive across it. You dig into it. Sometimes you carry it away in a truck. We call it soil. And because it is always beneath us, we rarely stop to think about it. But what if the ground beneath our feet was doing important work all the time?",
+   "t": 0.0,
+   "end": 25.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a work boot standing on bare ground",
+     "pexels": "work boot standing bare ground",
+     "pixabay": "boot ground soil",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a worksite with paths crossing open earth",
+     "pexels": "worksite paths open earth",
+     "pixabay": "worksite earth paths",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a small truck moving earth across a site",
+     "pexels": "small truck moving earth site",
+     "pixabay": "truck earth site",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker crouching to look closely at the ground beneath their feet",
+     "pexels": "worker crouching looking ground",
+     "pixabay": "worker crouching ground",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "mining imagery",
+    "quarry explosion",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Work we cannot usually see? Imagine lifting a small handful of healthy soil. It may contain mineral particles, air, water and pieces of old plants. It may also be home to tiny living organisms. Some help break down dead leaves. Some interact with plant roots. Some help nutrients move through the system. Soil is not simply a place where we put buildings or grow plants. It is part of a living system. And here is the idea for today.",
+   "t": 25.66,
+   "end": 58.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a handful of healthy soil with visible roots and fragments",
+     "pexels": "handful healthy soil roots close",
+     "pixabay": "soil handful roots",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "macro shot of a tiny insect moving through garden soil",
+     "pexels": "macro insect moving soil",
+     "pixabay": "insect soil macro",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "gardener holding soil up to inspect its texture",
+     "pexels": "gardener inspecting soil texture",
+     "pixabay": "gardener soil texture",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a vegetable or flower bed with rich dark soil",
+     "pexels": "garden bed rich dark soil",
+     "pixabay": "garden bed soil rich",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "laboratory microscope",
+    "cartoon microorganism diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Healthy soil is more than dirt. Let's say it again. Healthy soil is more than dirt. Think about a fallen leaf. The leaf may look finished with its work. But when it falls onto the ground, another process begins. Over time, fungi, small animals and other organisms help break it down. Some of its materials return to the soil.",
+   "t": 58.34,
+   "end": 82.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a fallen leaf resting on the forest floor",
+     "pexels": "fallen leaf forest floor close",
+     "pixabay": "fallen leaf floor",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "gardener turning compost with a fork, leaves visible breaking down",
+     "pexels": "gardener turning compost fork",
+     "pixabay": "compost fork gardener",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of heavy machine tyre tracks across bare compacted ground",
+     "pexels": "machine tracks compacted ground wide",
+     "pixabay": "tyre tracks compacted soil",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up comparing loose crumbly soil beside hard compacted earth",
+     "pexels": "loose soil beside compacted earth",
+     "pixabay": "soil compacted comparison",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "chemical fertiliser bag"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Plants can use nutrients that become available through these processes. One part of nature helps another. And much of it happens quietly, without anyone watching. Now imagine we remove all the leaves and plants from a slope. Then we drive a heavy machine over the same ground again and again. What might change? The soil can become compacted. There may be less space for air and water to move through it. Roots can find it harder to grow.",
+   "t": 82.76,
+   "end": 115.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a mature tree with its trunk and canopy visible",
+     "pexels": "mature tree trunk canopy wide",
+     "pixabay": "tree trunk canopy",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of exposed tree roots at the base of a trunk",
+     "pexels": "exposed tree roots trunk base",
+     "pixabay": "tree roots base",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker placing a stake marker near a tree's root zone",
+     "pexels": "worker placing stake tree roots",
+     "pixabay": "stake tree roots marker",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a vehicle route marked clearly away from a tree's roots",
+     "pexels": "marked vehicle route away from tree",
+     "pixabay": "vehicle route marker tree",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "tree being cut down",
+    "bulldozer near tree",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And when rain comes, more water may flow across the surface instead of entering the ground. This does not happen in exactly the same way everywhere. But it is a real risk we must understand. Now think about a mature tree. We can see its trunk. We can see its branches. But most of its roots are hidden from view.",
+   "t": 115.03,
+   "end": 139.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers comparing where to store materials on a worksite",
+     "pexels": "workers comparing material storage site",
+     "pixabay": "workers storage site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands checking a site map or marked boundary line",
+     "pexels": "hands checking marked boundary",
+     "pixabay": "hands boundary map",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a clearly marked protected soil area on a building site",
+     "pexels": "marked protected soil area site",
+     "pixabay": "protected area site marker",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker asking a supervisor a question near a boundary marker",
+     "pexels": "worker asking supervisor boundary",
+     "pixabay": "worker supervisor boundary",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "aggressive confrontation"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If we only protect the trunk, have we protected the whole tree? Not necessarily. Soil compaction, deep digging and storing heavy materials near its roots can cause harm. This is why protected tree areas matter. They are not empty space waiting to be used. They are part of the tree's living environment. Imagine two ways of preparing a worksite. One team places materials wherever there is room.",
+   "t": 139.86,
+   "end": 167.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker driving a stake along an approved route line",
+     "pexels": "worker driving stake approved route",
+     "pixabay": "stake route worker",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands unrolling protective ground covering",
+     "pexels": "hands unrolling protective covering",
+     "pixabay": "hands protective covering",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a work area with a visible protected zone boundary",
+     "pexels": "work area protected zone boundary wide",
+     "pixabay": "work area boundary zone",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker pausing to ask a colleague before stepping into an unclear area",
+     "pexels": "worker asking before stepping area",
+     "pixabay": "worker asking colleague",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic damage imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Another checks the approved access route, marks the protected area and chooses a suitable storage place. Both teams want to work efficiently. But which one has taken more care with what cannot be seen? Which one is more likely to prevent a problem before it begins? At Edenrise, the rule is simple. Use approved vehicle routes and work areas. Do not dig, stockpile or drive through protected soil and tree-root zones without authorisation.",
+   "t": 167.59,
+   "end": 198.21,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker kneeling to examine the ground before starting a task",
+     "pexels": "worker kneeling examining ground",
+     "pixabay": "worker kneeling ground",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pressing gently into soil to test its firmness",
+     "pexels": "hand pressing testing soil firmness",
+     "pixabay": "hand soil test",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet worksite with machine and materials safely placed",
+     "pexels": "quiet worksite machine placed safely",
+     "pixabay": "worksite safe placement",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker and supervisor looking together at a safer spot for the next step",
+     "pexels": "worker supervisor looking safer spot",
+     "pixabay": "worker supervisor planning",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "laboratory scene"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If the boundary is unclear, ask before you act. It is easier to protect healthy soil than to repair serious damage later. Let us remember three small habits. Look down. Think below. Protect what is living. Again. Look down. Think below. Protect what is living. We do not need to become soil scientists to begin. We need to notice that the earth under our boots has a purpose.",
+   "t": 198.21,
+   "end": 226.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of cupped hands full of dark healthy soil",
+     "pexels": "cupped hands healthy soil close",
+     "pixabay": "hands soil healthy",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a healthy garden bed beside a protected mature tree",
+     "pexels": "healthy garden bed protected tree",
+     "pixabay": "garden bed tree protected",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "gardener standing back to admire a well-kept planted area",
+     "pexels": "gardener admiring planted area",
+     "pixabay": "gardener planted area",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a worker closing a gate to a protected zone",
+     "pexels": "worker closing gate protected zone",
+     "pixabay": "worker gate protected",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "laboratory scene"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Tomorrow, when you approach a work area, ask: \"What might be happening under this ground?\" And then ask: \"Is there a safer place for the machine, the materials or my next step?\" The invisible world beneath our feet supports much of the visible world around us. Healthy soil is more than dirt. In our next lesson, we will follow something that moves through that soil and connects almost every part of the landscape: water.",
+   "t": 226.34,
+   "end": 256.97,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of water beginning to flow downhill across open land",
+     "pexels": "water flowing downhill open land",
+     "pixabay": "water flow land",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a single raindrop landing on a stone",
+     "pexels": "raindrop landing on stone",
+     "pixabay": "raindrop stone close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker looking toward the horizon as rain clouds gather",
+     "pexels": "worker looking rain clouds gather",
+     "pixabay": "worker clouds rain",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a small stream running through the estate grounds",
+     "pexels": "small stream running estate grounds",
+     "pixabay": "stream estate grounds",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "flood disaster",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:14Z"
+  }
+ ]
+}

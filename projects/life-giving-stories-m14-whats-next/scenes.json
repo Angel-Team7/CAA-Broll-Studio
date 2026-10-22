@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You've completed your story. Congratulations. You've given yourself the gift of bringing your story into alignment, and that is no small thing. So, what now? First, follow through on what you committed to in steps nine and ten. Your rituals and your accountability are what carry this work beyond today. Second, keep your new story where you'll see it. Print a copy and put it next to your mirror, or somewhere you'll connect with it every day, for the next forty-five to ninety days. As you read it, don't just read the words. Let yourself see and feel yourself living inside it. Notice what it's li",
+   "t": 0.0,
+   "end": 55.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person closing a completed workbook, satisfied expression",
+     "pexels": "person closing workbook satisfied",
+     "pixabay": "person closing workbook satisfied",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a printed page pinned beside a mirror",
+     "pexels": "close up printed page beside mirror",
+     "pixabay": "printed page mirror close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person pausing in front of a mirror, reading quietly",
+     "pexels": "person mirror reading quietly",
+     "pixabay": "person mirror reading quiet",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here's a simple way to think about why this works. Beliefs are frozen thoughts about yourself and your life. Stories are built from these beliefs, patterns of thought that have become fixed over time. When you shift a story, you begin to loosen what has been frozen. You create movement where there was stagnation, and space for something new to take shape.",
+   "t": 55.45,
+   "end": 81.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand tracing a sentence slowly on a page",
+     "pexels": "hand tracing sentence slowly page",
+     "pixabay": "hand tracing sentence page",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person sitting quietly, a settled, open expression",
+     "pexels": "person sitting quietly settled open",
+     "pixabay": "person sitting settled open",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of morning light spreading across a quiet room",
+     "pexels": "morning light spreading quiet room wide",
+     "pixabay": "morning light room spreading",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "There will be days when the old story comes back. That's not failure. Old stories are familiar, and familiar things knock on the door. When it happens, go back to your evidence from step six. Re-read your new story. And take one small action that fits it. Each time you do, the new story grows stronger.",
+   "t": 81.1,
+   "end": 104.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person pausing, an old doubt crossing their face briefly",
+     "pexels": "person pausing old doubt briefly",
+     "pixabay": "person pausing doubt briefly",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person reopening their workbook to a familiar page",
+     "pexels": "person reopening workbook familiar page",
+     "pixabay": "person reopening workbook page",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person taking one small confident action right after",
+     "pexels": "person small confident action after",
+     "pixabay": "person confident action small",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And this is just one story. You can return to this process again and again, across the other areas of your life. Be intentional and courageous about it. Because the sum of all your stories becomes the life you live. The more of them that are true and supportive, the more freely you'll move toward who you're meant to be.",
+   "t": 104.69,
+   "end": 129.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person starting a fresh page for a different area of life",
+     "pexels": "person starting fresh page different area",
+     "pixabay": "person fresh page starting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of several completed workbook pages stacked together",
+     "pexels": "close up completed pages stacked",
+     "pixabay": "pages stacked completed close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person walking forward purposefully, open posture",
+     "pexels": "person walking forward purposefully open",
+     "pixabay": "person walking purposeful open",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Thank you for doing this work with honesty. Before you leave today, take one more look at your new story. Read one line that matters most to you. And carry that line with you into the week ahead. Your facilitator will now close the session with you.",
+   "t": 129.52,
+   "end": 148.97,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reading one line aloud quietly, meaning it",
+     "pexels": "person reading line aloud quietly",
+     "pixabay": "person reading aloud quiet",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "facilitator and participant closing the session with a warm nod",
+     "pexels": "facilitator participant closing warm nod",
+     "pixabay": "facilitator closing warm nod",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand folding a page and placing it in a pocket",
+     "pexels": "hand folding page pocket close up",
+     "pixabay": "hand folding page pocket",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  }
+ ]
+}

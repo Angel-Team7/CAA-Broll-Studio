@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine an area of land that has suffered damage. We could simply stop disturbing it. That may help. But sometimes recovery also needs carefully planned protection, planting or water management. That's the idea of regeneration: not only reducing damage, but helping a living system become healthier. Ask not only, 'What can we avoid?' Ask, 'What can we help recover?'",
+   "t": 0.0,
+   "end": 25.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a patch of bare, damaged ground beside healthy growth",
+     "pexels": "bare damaged ground beside healthy growth",
+     "pixabay": "bare ground healthy growth",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a crew planting young shrubs into prepared soil",
+     "pexels": "crew planting young shrubs soil",
+     "pixabay": "crew planting shrubs",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands setting up a small drip irrigation line",
+     "pexels": "hands setting up drip irrigation",
+     "pixabay": "hands drip irrigation",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a small protective fence around newly planted ground",
+     "pexels": "protective fence newly planted ground",
+     "pixabay": "fence planted ground",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "barren wasteland disaster footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine planting one hundred trees. Have we built a healthy woodland? Not necessarily. Trees need suitable soil, water, other plants and relationships with living organisms. Birds and insects also need habitats. Regeneration isn't a numbers contest. A tree planted is a beginning, not the whole result. The real question is whether the ecosystem grows healthier over time.",
+   "t": 25.24,
+   "end": 48.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a row of newly planted saplings",
+     "pexels": "row of newly planted saplings",
+     "pixabay": "saplings row planted",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand testing soil quality near a young tree",
+     "pexels": "hand testing soil near young tree",
+     "pixabay": "hand soil young tree",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a gardener checking surrounding plants and insect activity",
+     "pexels": "gardener checking plants insects",
+     "pixabay": "gardener plants insects",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a small bird or insect near young foliage",
+     "pexels": "insect near young foliage close up",
+     "pixabay": "insect foliage close up",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "single tree in empty lot as 'done'",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A building team can complete a wall in days. A young cork oak may need many years to become a mature tree. Different work. Different clocks. That's why the decisions we make today matter so much. We should never assume that damaged nature can be quickly replaced. Some of our most valuable contributions are simply protecting what already exists.",
+   "t": 48.83,
+   "end": 73.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a crew finishing a small stone wall in a day",
+     "pexels": "crew finishing stone wall quickly",
+     "pixabay": "crew stone wall finish",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a young cork oak sapling beside an older mature tree",
+     "pexels": "young sapling beside mature tree",
+     "pixabay": "sapling mature tree",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand gently supporting a young tree stake",
+     "pexels": "hand supporting young tree stake",
+     "pixabay": "hand tree stake support",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a foreman explaining long-term care to an apprentice beside a sapling",
+     "pexels": "foreman explaining tree care apprentice",
+     "pixabay": "foreman apprentice tree care",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "time-lapse CGI growth",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A swept workshop floor is excellent. But a natural area without leaves, grass or insects is not automatically healthier. Living landscapes can look untidy to an untrained eye. That's why we have different standards for different places. Keep worksites clean and safe. Leave protected ecological areas under appropriate management. Good care begins by knowing the difference.",
+   "t": 73.24,
+   "end": 96.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a clean, swept workshop floor",
+     "pexels": "clean swept workshop floor",
+     "pixabay": "workshop floor clean",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a wild, leafy natural area left undisturbed near the site",
+     "pexels": "wild natural area undisturbed near site",
+     "pixabay": "wild natural area site",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of insects and leaf litter in a healthy untouched patch",
+     "pexels": "insects leaf litter healthy patch",
+     "pixabay": "insects leaf litter patch",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a worker stepping carefully around a marked protected area",
+     "pexels": "worker stepping around protected area",
+     "pixabay": "worker protected area step",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "neglected trash-strewn lot presented as natural",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine returning here in twenty years. The buildings look beautiful. But so do the trees, the soil and the habitats around them. Wouldn't that be a greater achievement than buildings alone? Regeneration invites us to think about the whole place. Not just what we construct. Also what can thrive because we worked carefully. Leave more life behind.",
+   "t": 96.41,
+   "end": 120.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of finished buildings surrounded by healthy mature trees",
+     "pexels": "finished buildings surrounded healthy trees",
+     "pixabay": "buildings healthy trees surround",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a crew member walking past thriving garden beds",
+     "pexels": "worker walking past thriving garden beds",
+     "pixabay": "worker garden beds thriving",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of new growth and healthy soil beside a finished wall",
+     "pexels": "new growth healthy soil finished wall",
+     "pixabay": "new growth soil wall",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the whole site, buildings and greenery together in evening light",
+     "pexels": "site buildings greenery evening light",
+     "pixabay": "site greenery evening light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "buildings only, no greenery",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  }
+ ]
+}

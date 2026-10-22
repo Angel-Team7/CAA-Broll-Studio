@@ -1,0 +1,262 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You've unpacked the old story. You've acknowledged how it served you. Now it's time to see it for what it is. In step six, you'll show yourself why the old story is false. This step has two parts. Part A is about the cost. How specifically will running this old story negatively affect what matters most to you, from step one? Look back at your statements. Then be honest about what this story will cost each one, if you keep living from it. Think beyond today. What will it cost you in a year? In five years? What will it cost the people closest to you?",
+   "t": 0.0,
+   "end": 43.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reading back through earlier pages of their own workbook",
+     "pexels": "person reading back own workbook",
+     "pixabay": "person reading workbook back",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand tallying costs in a short list",
+     "pexels": "hand tallying list costs close up",
+     "pixabay": "hand list tallying",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face turning serious, counting a real cost",
+     "pexels": "face serious counting cost close up",
+     "pixabay": "face serious cost",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Old stories rarely stay in one area. Over time, they spread. Sam wrote, \"If I keep believing I'm not good enough, I'll never lead the team I care about. I'll stay quiet when my ideas could help. And my kids will learn to play small from watching me.\" Seeing the cost clearly breaks the old story's sense of safety.",
+   "t": 43.86,
+   "end": 68.28,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a short cautionary sentence, pausing on it",
+     "pexels": "person writing cautionary sentence pausing",
+     "pixabay": "person writing pausing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a child's hand being held by a parent",
+     "pexels": "close up child hand held parent",
+     "pixabay": "child hand parent",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting alone, recognising the wider cost",
+     "pexels": "person alone recognising cost wide",
+     "pixabay": "person alone recognising",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "distressed child"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Part B is about the truth. On page fourteen, you'll write out why the old story is untrue, and ultimately false. Remember, a limiting belief is built from evidence that only seems real. So now you're looking for real evidence that contradicts it. Look for moments in your life that prove the story wrong. Times you did what the story says you can't. Feedback, results and relationships that tell a different story. It also helps to test the story's logic. Ask yourself, \"Would I say this about a friend in my situation?\" If the answer is no, the story probably isn't fair, or true. And ask, \"Is this ",
+   "t": 68.28,
+   "end": 119.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person flipping back through a workbook, searching for proof",
+     "pexels": "person flipping workbook searching proof",
+     "pixabay": "person flipping workbook",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing the word evidence at the top of a page",
+     "pexels": "hand writing evidence top page",
+     "pixabay": "hand writing evidence",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, testing a thought, head tilted",
+     "pexels": "face testing thought head tilted",
+     "pixabay": "face testing thought",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "courtroom imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Find at least two solid pieces of evidence that confirm the old story is untrue. Sam remembered running a project when a manager was off sick, and the team delivering early. Sam remembered a colleague saying, \"You're the one people actually listen to.\" And Sam noticed that confident people aren't born confident. They become confident by doing. One by one, the old story's foundations start to crack.",
+   "t": 119.59,
+   "end": 147.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person finishing a project at a desk, satisfied, others nearby",
+     "pexels": "person finishing project desk satisfied",
+     "pixabay": "person finishing project desk",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "colleague turning to say something appreciative",
+     "pexels": "colleague saying something appreciative",
+     "pixabay": "colleague appreciative talking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand writing two solid pieces of evidence",
+     "pexels": "hand writing evidence close up",
+     "pixabay": "hand writing evidence page",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "trophy ceremony"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You're not trying to win an argument with yourself. You're simply seeing more of the picture than the old story ever allowed. Then comes the last part of this step. Share and release. Read what you've written to someone you trust, your accountability partner, and say it out loud. Speaking it out loud matters. A story that has lived silently in your head loses much of its power when it's spoken and heard.",
+   "t": 147.31,
+   "end": 177.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two people sitting facing each other, one reading aloud from a notebook",
+     "pexels": "two people reading aloud notebook",
+     "pixabay": "two people reading notebook",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a notebook page being read, finger tracing the line",
+     "pexels": "close up notebook page finger tracing",
+     "pixabay": "notebook page finger",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person speaking quietly, visibly relieved as they speak",
+     "pexels": "person speaking quietly relieved",
+     "pixabay": "person speaking relieved",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "therapy couch cliche"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If you're the listener, your role is simple. Listen fully. Don't fix, advise, or argue. Just hear it, and reflect back what you noticed. Note down anything you notice from that conversation, in the space provided. Your facilitator will guide you through both parts, and help you pair up for sharing.",
+   "t": 177.52,
+   "end": 198.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person listening closely, leaning in, attentive face",
+     "pexels": "person listening closely attentive face",
+     "pixabay": "person listening attentive",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "two people seated, one writing a short note while the other speaks",
+     "pexels": "two people one writing note other speaking",
+     "pixabay": "two people writing speaking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "facilitator moving between pairs in a workshop room",
+     "pexels": "facilitator moving between pairs workshop",
+     "pixabay": "facilitator pairs workshop",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  }
+ ]
+}

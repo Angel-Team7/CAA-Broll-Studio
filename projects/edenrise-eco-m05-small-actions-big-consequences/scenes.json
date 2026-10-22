@@ -1,0 +1,484 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine you see one small cable tie on the ground. You are in the middle of a busy day. You have materials to move. A wall to finish. Tools to put away. One cable tie does not look like a big problem. So perhaps you think, \"It is only one.\" And you carry on. Now imagine the next person thinks the same thing. And the next. And the next.",
+   "t": 0.0,
+   "end": 28.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a single cable tie lying on a clean building floor",
+     "pexels": "cable tie lying clean floor",
+     "pixabay": "cable tie floor",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker busy carrying materials, almost stepping past the cable tie",
+     "pexels": "worker carrying materials busy site",
+     "pixabay": "worker busy materials",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a busy building site with several tasks happening at once",
+     "pexels": "busy building site several tasks",
+     "pixabay": "busy site tasks",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a worker glancing down then continuing to walk",
+     "pexels": "worker glancing down continuing walk",
+     "pixabay": "worker glance walk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dramatic trash pile",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "What happens when a small action is repeated many times? Let's do a simple thought experiment. Imagine a team leaves behind just one small piece of rubbish each working day. After one day, there is one piece. After ten days, there could be ten. After a hundred days, a hundred. And that is only one person's habit.",
+   "t": 28.55,
+   "end": 52.14,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of one small wrapper on the ground near a work area",
+     "pexels": "one wrapper ground work area",
+     "pixabay": "wrapper litter ground",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of several pieces of light debris scattered near a fence",
+     "pexels": "light debris scattered near fence",
+     "pixabay": "debris scattered fence",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a work area gradually collecting loose litter over the day",
+     "pexels": "work area collecting loose litter",
+     "pixabay": "work area litter day",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker looking at a small pile of accumulated debris",
+     "pexels": "worker looking accumulated debris",
+     "pixabay": "worker debris pile",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dramatic landfill",
+    "cartoon trash"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Of course, rubbish may be collected along the way. But the point is easy to see. Small actions can add up. And this gives us today's lesson. Small actions become patterns. Let's repeat it. Small actions become patterns. Now imagine the opposite. One person picks up the cable tie. Another returns an offcut to the reuse shelf.",
+   "t": 52.14,
+   "end": 75.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker bending down to pick up a cable tie and place it in a bin",
+     "pexels": "worker picking up cable tie bin",
+     "pixabay": "worker cable tie bin",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands returning a timber offcut to a reuse shelf",
+     "pexels": "hands returning offcut reuse shelf",
+     "pixabay": "hands offcut shelf",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker closing a tap that was left running",
+     "pexels": "worker closing tap left running",
+     "pixabay": "worker tap closing",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a tidy work area where small daily habits keep it clean",
+     "pexels": "tidy work area daily habits",
+     "pixabay": "tidy work area clean",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Someone closes a tap that was left running. Someone reports a loose cover before rain reaches the materials below. At first, each action seems small. But repeated every day, these actions also add up. A cleaner workplace. Less waste. Fewer avoidable problems. More care. It works in both directions. And we have a choice about which direction we practise.",
+   "t": 75.72,
+   "end": 100.14,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand reporting a loose cover before rain arrives",
+     "pexels": "hand reporting loose cover rain",
+     "pixabay": "hand cover report",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker and supervisor checking a secured material cover together",
+     "pexels": "worker supervisor checking cover together",
+     "pixabay": "worker supervisor cover check",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a well-kept workplace with fewer avoidable problems visible",
+     "pexels": "well kept workplace tidy wide",
+     "pixabay": "workplace tidy wide",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of two workers nodding, agreeing on a small daily habit",
+     "pexels": "workers nodding agreeing habit",
+     "pixabay": "workers agreement habit",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic storm damage"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about learning any skill. At first, you need to remind yourself. Maybe you are learning to use a new tool. Or to check a measurement twice. Or to put equipment back in the right place. The first time, you have to think about it. The second time, you remember a little sooner. And after enough practice, it may become part of how you work. Environmental care is much the same.",
+   "t": 100.14,
+   "end": 129.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice learning to use a new tool under a foreman's guidance",
+     "pexels": "apprentice learning tool foreman guidance",
+     "pixabay": "apprentice tool foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands checking a measurement twice with a tape measure",
+     "pexels": "hands checking measurement twice tape",
+     "pixabay": "hands measurement tape",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker putting equipment back carefully in its proper place",
+     "pexels": "worker putting equipment proper place",
+     "pixabay": "worker equipment storage",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-organised tool storage area on site",
+     "pexels": "organised tool storage area site",
+     "pixabay": "tool storage organised",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "classroom lecture"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It is not only about one great decision. It is about ordinary choices, made again and again. Now let's talk about cigarettes. A cigarette butt is small. But leaving one on dry ground is not a harmless habit. Filters add plastic litter, and a cigarette that is not fully extinguished can create a fire risk. At Edenrise, cigarette litter is never acceptable.",
+   "t": 129.52,
+   "end": 155.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a cigarette being safely extinguished in a proper receptacle",
+     "pexels": "cigarette extinguished proper receptacle",
+     "pixabay": "cigarette receptacle safety",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker checking a posted smoking and fire-safety restriction sign",
+     "pexels": "worker checking smoking restriction sign",
+     "pixabay": "worker sign smoking",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of dry ground near the site with no litter visible",
+     "pexels": "dry ground site no litter",
+     "pixabay": "dry ground clean site",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two colleagues talking calmly beside a marked smoking area",
+     "pexels": "colleagues talking smoking area calm",
+     "pixabay": "colleagues smoking area",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "fire or flames",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The site rules about smoking, including any temporary fire restrictions, must always be followed. This is not about judging people who smoke. It is about protecting everybody who works here, and the land around us. Imagine finishing work with a colleague. You see a bag caught on a fence. Your colleague says, \"That is not ours.\"",
+   "t": 155.17,
+   "end": 178.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two colleagues finishing a task together, one noticing a bag caught on a fence",
+     "pexels": "colleagues noticing bag caught fence",
+     "pixabay": "colleagues bag fence",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a plastic bag caught on a wire fence",
+     "pexels": "plastic bag caught wire fence",
+     "pixabay": "bag fence caught",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker safely collecting the bag and placing it in a bin",
+     "pexels": "worker collecting bag placing bin",
+     "pixabay": "worker bag bin collect",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker telling a supervisor about a recurring litter spot",
+     "pexels": "worker telling supervisor recurring spot",
+     "pixabay": "worker supervisor litter spot",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And perhaps it isn't. What can you do? You can ignore it. Or, if it is safe, you can collect it and put it where it belongs. You can also tell the supervisor if the same problem keeps happening. Taking care does not mean taking responsibility for everything alone. It means choosing an appropriate action instead of walking past a problem.",
+   "t": 178.34,
+   "end": 203.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "team leader moving a waste container closer to a packaging area",
+     "pexels": "team leader moving waste container",
+     "pixabay": "team leader waste container",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a worker asking a question, gesturing toward a reuse pile",
+     "pexels": "worker asking question reuse pile",
+     "pixabay": "worker question reuse",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "manager listening attentively to a worker's suggestion on site",
+     "pexels": "manager listening worker suggestion site",
+     "pixabay": "manager listening worker",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a reorganised work area with containers moved for convenience",
+     "pexels": "reorganised work area containers moved",
+     "pixabay": "work area reorganised",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "office boardroom"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And sometimes the best small action is a question. \"Could we put a container here?\" \"Could we order this material with less packaging?\" \"Could we protect these offcuts so we can use them tomorrow?\" When workers ask useful questions, they help improve the system. And when managers listen, good habits become easier for everyone. Remember three simple words. Notice. Choose. Repeat. Let's say them again.",
+   "t": 203.59,
+   "end": 230.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker choosing one small action, picking up a single piece of litter deliberately",
+     "pexels": "worker picking up litter deliberately",
+     "pixabay": "worker litter deliberate",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands placing an item carefully into the correct container",
+     "pexels": "hands placing item correct container",
+     "pixabay": "hands container correct",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker repeating the same tidy habit the next day on site",
+     "pexels": "worker repeating tidy habit site",
+     "pixabay": "worker habit repeat",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a site that looks cleaner over consecutive days",
+     "pexels": "site looking cleaner consecutive days",
+     "pixabay": "site clean improvement",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice. Choose. Repeat. Notice what is happening. Choose a responsible action. Repeat it until it becomes part of your work. Tomorrow, do not try to change a hundred things. Choose one small action. Do it well. Then do it again. Because small actions become patterns. And the patterns we create today help shape the place we work in tomorrow. In the next lesson, we will learn how to work more intelligently by observing the way nature already works.",
+   "t": 230.48,
+   "end": 262.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a tidy, well-run estate worksite in late afternoon light",
+     "pexels": "tidy estate worksite afternoon light",
+     "pixabay": "estate worksite tidy",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a small crew finishing the day's work together calmly",
+     "pexels": "crew finishing day work calmly",
+     "pixabay": "crew finishing work",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands closing a labelled container lid at the end of the day",
+     "pexels": "hands closing container lid end day",
+     "pixabay": "hands container lid",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker walking away from a clean, finished work area",
+     "pexels": "worker walking away clean area",
+     "pixabay": "worker walking clean area",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:19Z"
+  }
+ ]
+}

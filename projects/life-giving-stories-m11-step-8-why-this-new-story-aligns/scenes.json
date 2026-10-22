@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A new story only lasts if you believe it. And belief needs reasons. Your old story had years of reasons behind it, some true and many not. Your new story needs reasons too. So in step eight, you'll make the case for why your new story is true, and why it fits. There are two parts. Part A, on page seventeen, is about benefit. You're writing how specifically the new story supports what matters most to you from step one. Start with the phrase, \"It benefits what matters most to me because…\" Then go through your step one statements, and connect the new story to each one. Sam wrote, \"It benefits wha",
+   "t": 0.0,
+   "end": 55.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing the phrase it benefits because at the top of a page",
+     "pexels": "person writing phrase top page",
+     "pixabay": "person writing phrase page",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand drawing a line connecting two written statements",
+     "pexels": "hand drawing line connecting statements",
+     "pixabay": "hand connecting line statements",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person flipping back to an earlier page to check a statement",
+     "pexels": "person flipping back earlier page",
+     "pixabay": "person flipping back page",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Part B, on page eighteen, is about alignment. You're writing why the new story is more aligned with who you truly are. Start with, \"The new story is more aligned with who I truly am because…\" Think back to your core, from the beginning of this workshop. The old story was shaped by fear and outside voices. The new story comes from what's actually true about you. Sam wrote, \"The new story is more aligned with who I truly am because people already trust my judgement, and because I care more about the team than about looking perfect.\"",
+   "t": 55.03,
+   "end": 95.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing thoughtfully, considering who they truly are",
+     "pexels": "person writing thoughtfully considering",
+     "pixabay": "person writing thoughtfully",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing the words who I truly am",
+     "pexels": "hand writing words close up",
+     "pixabay": "hand writing words page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, quiet recognition of something true",
+     "pexels": "face quiet recognition close up",
+     "pixabay": "face recognition close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice that Sam isn't inventing anything. Sam is recognising what was already there. Here's how the workbook puts it. \"I am someone committed to moving forward, and this story supports me in that pursuit, because it is more aligned with who I really am.\" Then anchor your new story in at least two strong reasons or pieces of evidence that confirm it's true. These might be facts from your life, feedback you've received, or principles you deeply trust.",
+   "t": 95.59,
+   "end": 127.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reading a line back and nodding slightly",
+     "pexels": "person reading nodding slightly",
+     "pixabay": "person reading nodding",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing two pieces of evidence as bullet points",
+     "pexels": "hand writing bullet points evidence",
+     "pixabay": "hand writing bullet points",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "colleague recalling a piece of feedback, speaking warmly",
+     "pexels": "colleague recalling feedback speaking warmly",
+     "pixabay": "colleague feedback speaking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Why does this matter? Because evidence is stronger than encouragement. Anyone can repeat a positive sentence. But a story backed by real reasons is very hard to argue with, even on a difficult day. When your mind tries to slip back into the old story, and at times it will, these anchors are what hold you steady.",
+   "t": 127.86,
+   "end": 151.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting with a steady, settled expression under pressure",
+     "pexels": "person steady settled expression pressure",
+     "pixabay": "person steady settled",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand touching a written anchor statement on a page",
+     "pexels": "hand touching written statement page",
+     "pixabay": "hand touching statement page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person taking a breath, holding steady on a hard day",
+     "pexels": "person taking breath holding steady",
+     "pixabay": "person breath steady",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think of it like building a case. Part A shows the new story is good for you. Part B shows the new story is true of you. Together, they make it very hard for the old story to come back. Your facilitator will now guide you through both parts.",
+   "t": 151.45,
+   "end": 171.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person laying two pages side by side on a table, comparing",
+     "pexels": "person comparing two pages table",
+     "pixabay": "person comparing pages table",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "facilitator guiding a participant through both pages",
+     "pexels": "facilitator guiding participant pages",
+     "pixabay": "facilitator guiding pages",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two handwritten pages laid together, matching",
+     "pexels": "close up two pages together matching",
+     "pixabay": "two pages together close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  }
+ ]
+}

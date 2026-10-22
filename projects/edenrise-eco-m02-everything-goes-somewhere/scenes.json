@@ -1,0 +1,445 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine you have finished opening a package at work. Inside is the part you need. Outside is a little piece of plastic. You take the part. You start working. And the plastic falls to the ground. It is small. It seems unimportant. Perhaps you think, \"Someone will pick it up later.\" But today, I want to ask you one simple question. When we throw something away, where does it actually go?",
+   "t": 0.0,
+   "end": 29.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker opening a delivery package on site, a small plastic strip falling free",
+     "pexels": "worker opening package plastic falls",
+     "pixabay": "worker package plastic",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a small plastic strip landing on the ground",
+     "pexels": "plastic strip falling ground",
+     "pixabay": "plastic strip ground",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a morning worksite with crates and tools being unpacked",
+     "pexels": "worksite morning unpacking crates",
+     "pixabay": "worksite morning crates",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker continuing to work, not noticing the fallen plastic behind them",
+     "pexels": "worker focused on task",
+     "pixabay": "worker task focused",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "overflowing landfill",
+    "dramatic pollution",
+    "cartoon trash"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about that word: away. Where is away? When the wind moves a wrapper, it has not disappeared. When rain carries a piece of plastic into a ditch, it has not disappeared. When rubbish is hidden beneath leaves, it has not disappeared. It has only moved from one place to another. This is the first idea to remember.",
+   "t": 29.38,
+   "end": 53.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a light plastic wrapper being lifted and carried by wind",
+     "pexels": "wrapper carried by wind",
+     "pixabay": "wrapper wind litter",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of dry open ground with a wrapper blowing across it",
+     "pexels": "wrapper blowing across dry ground",
+     "pixabay": "litter dry ground wind",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "wrapper settling into a drainage ditch beside a path",
+     "pexels": "wrapper settling drainage ditch",
+     "pixabay": "ditch litter drainage",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of rubbish partly hidden beneath fallen leaves",
+     "pexels": "rubbish hidden under leaves",
+     "pixabay": "litter leaves hidden",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "ocean plastic dramatic imagery",
+    "landfill",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "There is no place called away. Let's say it again. There is no place called away. Imagine rain falling on a building site. Some of it enters the soil. Some flows downhill. Along the way, moving water can carry small pieces of rubbish. A wrapper that started beside a wall may reach a ditch. From there, it may travel toward a stream or another waterway. Not every piece follows that journey.",
+   "t": 53.38,
+   "end": 82.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of rain falling across a sloped building site",
+     "pexels": "rain falling sloped site",
+     "pixabay": "rain site slope",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "water running downhill along a shallow channel carrying small debris",
+     "pexels": "water channel carrying debris",
+     "pixabay": "water channel debris",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a small piece of rubbish moving with flowing water",
+     "pexels": "rubbish moving flowing water",
+     "pixabay": "litter water flow",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a stream at the edge of the estate after rain",
+     "pexels": "stream edge estate after rain",
+     "pixabay": "stream estate rain",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "flood disaster",
+    "dramatic storm",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But once rubbish escapes, we no longer control where it goes. And what looked like a tiny problem in one corner can become a problem somewhere else. Now think about a cigarette butt. Some people imagine that the filter is made of cotton. Most conventional cigarette filters are actually made from a type of plastic.",
+   "t": 82.76,
+   "end": 105.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a worker looking down at an empty corner where rubbish has escaped",
+     "pexels": "worker looking escaped rubbish corner",
+     "pixabay": "worker litter corner",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a cigarette filter on a clean surface showing its fibres",
+     "pexels": "cigarette filter close up fibres",
+     "pixabay": "cigarette filter fibres",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker safely extinguishing a cigarette in a proper receptacle",
+     "pexels": "worker extinguishing cigarette receptacle",
+     "pixabay": "cigarette receptacle safety",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of dry ground with a small marked smoking area sign post",
+     "pexels": "dry ground smoking area sign",
+     "pixabay": "smoking area sign site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "fire or flames",
+    "dramatic wildfire",
+    "cartoon cigarette"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "They can remain in the environment and break into smaller pieces. And a cigarette that has not been fully extinguished can also start a fire. On dry land, that is a serious risk. One small object. More than one possible consequence. That is why we never leave cigarette butts on the ground at Edenrise. We follow the site's smoking restrictions, and where smoking is permitted, we use the correct safe receptacle.",
+   "t": 105.52,
+   "end": 134.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workstations side by side, one scattered with wrappers, one tidy and sorted",
+     "pexels": "two workstations one tidy one messy",
+     "pixabay": "workstation tidy messy",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker placing a wrapper straight into a correct waste container",
+     "pexels": "worker placing wrapper waste container",
+     "pixabay": "worker waste container",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands sorting different waste into labelled containers",
+     "pexels": "hands sorting labelled waste",
+     "pixabay": "hands sorting waste",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a row of clearly marked waste bins on site",
+     "pexels": "marked waste bins site row",
+     "pixabay": "waste bins site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "overflowing bins",
+    "biohazard imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Now imagine two workers. Both have opened ten boxes and fitted ten pieces of equipment. The first worker leaves the wrappers where they fall. The second puts them straight into the correct waste container. Which worker has finished the job properly? Which work area is safer when the wind begins to blow? Which worker makes the next person's job easier? The difference is not talent. It is a small choice, repeated throughout the day.",
+   "t": 134.9,
+   "end": 165.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker asking a supervisor a question beside a waste sorting area",
+     "pexels": "worker asking supervisor waste area",
+     "pixabay": "worker supervisor waste",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing to a clearly marked waste label",
+     "pexels": "hand pointing waste label",
+     "pixabay": "hand waste label",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker safely picking up a plastic tie from a path and placing it in a container",
+     "pexels": "worker picking up plastic tie",
+     "pixabay": "worker plastic tie pickup",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-organised site with separated waste streams visible",
+     "pexels": "organised site separated waste streams",
+     "pixabay": "site waste organised",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hazmat suit",
+    "biohazard symbol dramatic",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And there is another important point. Not every kind of waste belongs in the same bin. Clean packaging, reusable offcuts, construction debris and hazardous materials may need different handling. If you are unsure, ask your supervisor. Guessing is not the same as disposing of something correctly. At Edenrise, the company must provide clearly marked places for waste. And each of us must use them.",
+   "t": 165.52,
+   "end": 192.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands carefully avoiding a sharp object on the ground",
+     "pexels": "hands avoiding sharp object ground",
+     "pixabay": "hands caution sharp",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker reporting something to a supervisor using a radio or gesture",
+     "pexels": "worker reporting supervisor site",
+     "pixabay": "worker reporting supervisor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker double-checking before leaving a work area",
+     "pexels": "worker checking before leaving area",
+     "pixabay": "worker final check area",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a clean finished corner of the site at the end of the day",
+     "pexels": "clean finished site corner evening",
+     "pixabay": "site clean finished",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "dramatic injury",
+    "hazmat imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You do not need to solve the world's waste problem today. You can begin with what is in front of you. Notice it. Collect it safely. Put it in the right place. Notice. Collect. Separate. Let's repeat. Notice. Collect. Separate. If something is sharp, contaminated or dangerous, do not pick it up without the right training and equipment. Report it.",
+   "t": 192.0,
+   "end": 216.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker notices a sharp or hazardous item and steps back instead of touching it",
+     "pexels": "worker stepping back hazard caution",
+     "pixabay": "worker hazard caution",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand gesturing for a colleague to keep distance from a hazard",
+     "pexels": "hand gesture keep distance hazard",
+     "pixabay": "hand caution gesture",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "trained worker in protective gloves safely collecting a sharp object",
+     "pexels": "worker gloves collecting sharp object",
+     "pixabay": "gloves sharp object safety",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a supervisor walking toward a reported trouble spot on site",
+     "pexels": "supervisor walking toward reported spot",
+     "pixabay": "supervisor site walking",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "graphic injury",
+    "blood",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Responsibility also means knowing when to ask for help. Tomorrow, when you finish using a material, ask yourself: \"Where will the packaging go?\" And before you leave your work area, ask: \"Is anything left here that could travel somewhere else?\" Because throwing something away does not make it disappear. It always goes somewhere. In the next lesson, we will look beneath our feet and discover why protecting the soil matters just as much as keeping its surface clean.",
+   "t": 216.83,
+   "end": 249.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing at the end of a task, looking around the work area",
+     "pexels": "worker pausing end of task",
+     "pixabay": "worker pause task end",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of empty packaging being placed into a labelled bin by hand",
+     "pexels": "hand placing packaging labelled bin",
+     "pixabay": "hand packaging bin",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a tidy work area left clean at the end of the day",
+     "pexels": "tidy work area clean evening",
+     "pixabay": "work area clean tidy",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker glancing back one more time before leaving the site",
+     "pexels": "worker glancing back leaving site",
+     "pixabay": "worker leaving site glance",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "overflowing landfill",
+    "dramatic pollution",
+    "cartoon trash"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:41Z"
+  }
+ ]
+}

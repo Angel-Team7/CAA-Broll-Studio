@@ -1,0 +1,401 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "There are six core human needs that each of you watching this video have. These human needs are so powerful that they affect nearly every single thing you do in your daily lives. These hidden needs have been driving the actions and non-actions of humanity throughout our history and for most of us we have been blind as to what is truly driving us beneath the surface. It's with special thanks to human behavioral expert Tony Robbins that we can take a look at ourselves with a fresh pair of eyes. The journey of exploring these needs can be one of the most valuable and rewarding experiences any of ",
+   "t": 0.0,
+   "end": 47.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a garden crew gathering at dawn",
+     "pexels": "garden crew gathering morning light",
+     "pixabay": "garden crew morning",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman and two crew talking quietly by a wheelbarrow",
+     "pexels": "foreman crew talking wheelbarrow",
+     "pixabay": "foreman crew talk",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands tying garden twine around a stake",
+     "pexels": "hands tying twine garden stake",
+     "pixabay": "hands twine stake",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "apprentice listening carefully to an experienced gardener",
+     "pexels": "apprentice listening to gardener",
+     "pixabay": "apprentice gardener listening",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "boardroom",
+    "office desk",
+    "laptop screen",
+    "corporate meeting",
+    "intense stare into camera"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Let's begin by diving into core need number one, the need for certainty. The need for certainty can come in a number of various forms ranging from feeling that we have a steady income to feeling that you can get your way with the things that are important to you. The need for certainty can also be thought of as the need for feeling safe comfortable or even secure. This need is constantly playing out in our lives in both ways that we are aware and unaware of.",
+   "t": 47.17,
+   "end": 83.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener checking a greenhouse thermometer calmly",
+     "pexels": "gardener checking greenhouse thermometer",
+     "pixabay": "greenhouse thermometer check",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands checking a secure garden gate latch",
+     "pexels": "hands checking gate latch",
+     "pixabay": "hands gate latch",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of tidy orchard rows in morning light",
+     "pexels": "tidy orchard rows morning",
+     "pixabay": "orchard rows morning",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "foreman reviewing a steady watering schedule on a clipboard",
+     "pexels": "foreman reviewing watering schedule",
+     "pixabay": "foreman clipboard schedule",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "anxious expression",
+    "broken tool",
+    "chaos",
+    "cluttered workshop"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Next is the exact polar opposite human need, the need for uncertainty. Just like the need for certainty the need to feel uncertain can come in a number of forms ranging from the need to eat out in different restaurants or travel to new places through to the need to work at different jobs or even drive your car just that little bit faster than you usually do. The need for uncertainty can also be thought of as a need for experiencing variety, facing new challenges or a strong desire for adventure.",
+   "t": 83.59,
+   "end": 121.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice trying a new pruning technique on a vine",
+     "pexels": "apprentice pruning vine technique",
+     "pixabay": "apprentice pruning vine",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a crew exploring a new greenhouse section",
+     "pexels": "crew exploring new greenhouse section",
+     "pixabay": "crew greenhouse explore",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands testing an unfamiliar garden tool",
+     "pexels": "hands testing new garden tool",
+     "pixabay": "hands garden tools",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "gardener walking a different path through the vineyard",
+     "pexels": "gardener walking vineyard path",
+     "pixabay": "gardener vineyard path",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "extreme sports",
+    "reckless driving",
+    "dangerous stunt"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Next up the need for connection and love. The need for connection drives us to build relationships with animals, friends as well as romantically and within our own families. As our connections strengthen in healthy ways we can experience even greater amounts of the flow of love between ourselves and those we are connected to. Just like the need for certainty and uncertainty the need for connection and love is a powerful human need that is constantly playing out in our lives.",
+   "t": 121.66,
+   "end": 155.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two colleagues laughing together over a shared task",
+     "pexels": "colleagues laughing together at work",
+     "pixabay": "colleagues laughing work",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand offered in help between two workers",
+     "pexels": "hand offered in help",
+     "pixabay": "hand help worker",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "mentor and apprentice walking together through the orchard",
+     "pexels": "mentor apprentice walking orchard",
+     "pixabay": "mentor apprentice orchard",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the whole crew gathered for a shared meal break",
+     "pexels": "crew gathered meal break",
+     "pixabay": "crew break gathering",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "romantic couple",
+    "kiss",
+    "wedding",
+    "office colleagues"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Core need number four, the need to feel significant. The need for significance can also be thought of as the need to feel special, unique and different or important and respected. We each go about meeting our need for significance and each of the core human needs in highly individual ways. As we continue to unlock our awareness of human need psychology we begin to notice why we are doing what we are doing with more clarity and depth which opens up and enhances our ability to read people and the world around us providing us an edge in the areas of life that matter most to us.",
+   "t": 155.59,
+   "end": 200.28,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman thanking a crew member with a warm handshake",
+     "pexels": "foreman thanking worker handshake",
+     "pixabay": "foreman handshake thanks",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a satisfied craftsman inspecting finished work",
+     "pexels": "craftsman inspecting finished work",
+     "pixabay": "craftsman inspect work",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice proudly showing a completed repair to the team",
+     "pexels": "apprentice showing completed repair",
+     "pixabay": "apprentice repair proud",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-kept garden the crew just finished",
+     "pexels": "well kept garden finished work",
+     "pixabay": "garden finished crew",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "trophy",
+    "medal",
+    "stage",
+    "award ceremony"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "We now have completed an overview of the first four needs which are referred to as the needs of the personality. Next up the needs of the spirit. Core need number five, the need for growth. Most of us have heard the saying if you're not green and growing you're ripe and rotting. All of nature has this powerful need for growth active within it and as human beings we experience this in many forms and is considered a need of the spirit due to its inherent existence in all of life ranging from childlike curiosity to learn right through to a caterpillar shifting form and growing into a butterfly.",
+   "t": 200.28,
+   "end": 245.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a seedling pushing through soil",
+     "pexels": "seedling pushing through soil",
+     "pixabay": "seedling soil growth",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "young apprentice curiously examining a growing plant",
+     "pexels": "apprentice examining growing plant",
+     "pixabay": "apprentice plant curious",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an orchard in full bloom",
+     "pexels": "orchard trees in full bloom",
+     "pixabay": "orchard bloom wide",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "gardener gently training a young vine along a trellis",
+     "pexels": "gardener training young vine",
+     "pixabay": "gardener vine trellis",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon butterfly",
+    "time-lapse graphic",
+    "abstract loop"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The need for growth is strongly connected to our final core human need. The need for contribution. As we steadily grow in any of the key seven areas of life we are able to give back to those that are in need sharing the fruits of our growth along the journey. Remembering our need for contribution can take on many forms and is often connected to your own personal set of values and strengths in life. The need for contribution like the needs before it is expressed in very unique ways for each of us and is considered vital to living a truly fulfilling life.",
+   "t": 245.79,
+   "end": 289.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker handing a basket of harvested vegetables to a colleague",
+     "pexels": "worker handing basket vegetables",
+     "pixabay": "worker basket harvest",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands sharing freshly picked fruit",
+     "pexels": "hands sharing freshly picked fruit",
+     "pixabay": "hands fruit sharing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "foreman distributing the day's harvest among the crew",
+     "pexels": "foreman distributing harvest crew",
+     "pixabay": "foreman harvest distribute",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the crew carrying full harvest baskets together",
+     "pexels": "crew carrying harvest baskets",
+     "pixabay": "crew harvest baskets",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "charity handout",
+    "food bank",
+    "begging"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "We may feel great satisfaction from meeting the first four needs of the personality however in order to experience a profoundly fulfilling life the needs for growth and contribution are absolutely fundamental. Congratulations you have completed your overview of the six core human needs. Next up we will show you two very different pathways we can take in getting these six needs met. We call these ways resourceful or unresourceful and learning this was a profound game-changer for myself and many people just like you. I will also share a tip that would have saved me $200,000 if I knew it earlier.",
+   "t": 289.24,
+   "end": 347.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the crew finishing work together at sunset",
+     "pexels": "crew finishing work sunset",
+     "pixabay": "crew sunset finish",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman and crew sharing a quiet moment after work",
+     "pexels": "foreman crew quiet moment",
+     "pixabay": "foreman crew rest",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of weathered hands resting on a garden tool",
+     "pexels": "hands resting on garden tool",
+     "pixabay": "hands tool rest",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two colleagues walking back from the field together",
+     "pexels": "colleagues walking back from field",
+     "pixabay": "colleagues field walk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "fireworks",
+    "celebration party",
+    "confetti"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  }
+ ]
+}

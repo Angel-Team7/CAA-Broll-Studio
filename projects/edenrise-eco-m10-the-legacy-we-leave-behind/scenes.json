@@ -1,0 +1,532 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine standing beside a large tree. Its trunk is wide. Its branches stretch overhead. You can feel the shade beneath it. Now ask yourself a simple question. How long has this tree been here? Perhaps it began growing before some of us were born. Perhaps people who worked on this land many years ago stood in the same shade. A tree reminds us that some things take a long time to grow.",
+   "t": 0.0,
+   "end": 29.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of sunrise lighting up an old cork oak's wide trunk",
+     "pexels": "sunrise old cork oak trunk",
+     "pixabay": "sunrise cork oak trunk",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of textured bark on an old tree trunk",
+     "pexels": "textured bark old tree trunk",
+     "pixabay": "tree bark texture close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker standing in the shade beneath the old tree's branches",
+     "pexels": "worker standing shade old tree",
+     "pixabay": "worker shade tree branches",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a worker looking up at the tree's wide canopy",
+     "pexels": "worker looking up tree canopy",
+     "pixabay": "worker looking canopy tree",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dead or dying tree"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And that what we do today can matter long after our working day has ended. Think about a wall built many years ago. The people who made it are no longer standing beside it. But their work remains. We can still see the decisions they made. How they placed the stones. How they cared for the details.",
+   "t": 29.79,
+   "end": 53.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of old stonework showing careful craftsmanship on the property",
+     "pexels": "old stonework craftsmanship close",
+     "pixabay": "stonework craftsmanship old",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "construction crew carefully building something new beside the old stonework",
+     "pexels": "crew building new beside old stonework",
+     "pixabay": "crew building stonework",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an old stone wall that has lasted through the years",
+     "pexels": "old stone wall lasted years wide",
+     "pixabay": "stone wall old lasting",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker running a hand along a well-placed stone in a wall",
+     "pexels": "worker hand along stone wall",
+     "pixabay": "hand stone wall touch",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "ruined or collapsed wall"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "How the wall has lasted over time. Every builder leaves something behind. A structure. A path. A repair. A change in the landscape. The question is not whether we leave a mark. The question is what kind of mark we leave. During this course, we have learned that the land is alive. We have learned that waste does not disappear just because we stop looking at it.",
+   "t": 53.38,
+   "end": 81.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the estate landscape showing trees, paths and worksites together",
+     "pexels": "estate landscape trees paths worksites",
+     "pixabay": "estate landscape overview",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up cross-fade from a discarded wrapper to a well-maintained path",
+     "pexels": "wrapper cross fade maintained path",
+     "pixabay": "transition litter maintained",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker walking along a path beside protected soil and healthy plants",
+     "pexels": "worker walking path protected soil plants",
+     "pixabay": "worker path soil plants",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of water flowing cleanly through a managed landscape channel",
+     "pexels": "water flowing clean managed channel",
+     "pixabay": "water channel clean managed",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic pollution imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "We have looked beneath our feet and discovered why soil matters. We have followed water through the landscape. We have seen how small actions become patterns. We have learned to observe nature before we act. And we have discovered that regeneration means helping living places recover. These are different lessons. But they all lead to one idea.",
+   "t": 81.1,
+   "end": 104.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced worker showing a younger colleague how to store materials properly",
+     "pexels": "worker showing colleague storing materials",
+     "pixabay": "worker teaching storage materials",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands placing a labelled material onto a proper shelf",
+     "pexels": "hands placing labelled material shelf",
+     "pixabay": "hands material shelf",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "new worker nodding, learning a good habit from a mentor on site",
+     "pexels": "new worker nodding learning mentor",
+     "pixabay": "worker learning mentor nod",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an experienced and new worker walking together across the estate",
+     "pexels": "experienced new worker walking together",
+     "pixabay": "workers walking together estate",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "classroom lecture",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "What we care for today can grow tomorrow. Let's repeat. What we care for today can grow tomorrow. Imagine two people teaching someone new to the team. The first says, \"Finish your work as fast as you can. Someone else will take care of the rest.\" The second says, \"Do your work well. Protect the area. Put materials in the right place. Leave it ready for the next person.\"",
+   "t": 104.69,
+   "end": 133.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot imagining the estate landscape with taller young trees in future years",
+     "pexels": "estate landscape taller young trees future",
+     "pixabay": "landscape young trees future",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a young tree planted beside a mature one, showing growth over time",
+     "pexels": "young tree beside mature tree growth",
+     "pixabay": "young mature tree growth",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker and supervisor reviewing a long-term planting plan outdoors",
+     "pexels": "worker supervisor reviewing planting plan",
+     "pixabay": "worker supervisor plan outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a recovering area with visibly healthier ground cover",
+     "pexels": "recovering area healthier ground cover",
+     "pixabay": "recovering area ground cover",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic time-lapse effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Which message would you want a new worker to learn? Which habit would you want repeated a hundred times? We are always teaching through our actions. Even when we do not realise it. Now imagine the land here in ten years. Some buildings may be finished. Some young trees may have grown taller. Some parts of the landscape may have recovered well. Other parts will still need care. The future is not guaranteed by good intentions.",
+   "t": 133.24,
+   "end": 164.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of workers from different backgrounds sharing a smile during a restoration activity",
+     "pexels": "workers different backgrounds smile restoration",
+     "pixabay": "workers diverse restoration smile",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of two hands from different workers planting together",
+     "pexels": "two hands different workers planting",
+     "pixabay": "hands planting together",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a mixed African and Portuguese crew working side by side",
+     "pexels": "mixed crew working side by side",
+     "pixabay": "mixed crew working together",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker pausing to look at a nearby family visiting the estate grounds",
+     "pexels": "worker looking family visiting grounds",
+     "pixabay": "worker family visiting estate",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "stereotype imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It is shaped by practical decisions, good planning and steady work. No single person can do everything. But each person can contribute something real. People arrive at Edenrise with different histories. Different skills. Different languages. Different ideas. But we share a place where we work. And we share a responsibility to the people who come after us. The next worker. The family who visits.",
+   "t": 164.69,
+   "end": 191.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a clean estate path with no litter or cigarette butts",
+     "pexels": "clean estate path no litter",
+     "pixabay": "estate path clean",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker respecting a marked protected habitat boundary while working nearby",
+     "pexels": "worker respecting protected boundary nearby",
+     "pixabay": "worker boundary respecting",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of correctly sorted waste streams at a tidy site station",
+     "pexels": "sorted waste streams tidy site station",
+     "pixabay": "waste streams sorted station",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker reporting a small risk early, calmly, to a supervisor",
+     "pexels": "worker reporting risk early calmly",
+     "pixabay": "worker reporting risk calm",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic pollution imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The child who walks beside a tree. The neighbour who lives downstream. When we protect this place, we are thinking beyond ourselves. Remember the standards we practise here. No litter left behind. No cigarette butts on the ground. No dumping, burning or burying of site waste. No dirty washwater into soil or drains. Respect protected trees, habitats and approved site boundaries.",
+   "t": 191.17,
+   "end": 216.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker completing a final walkthrough of a finished work area",
+     "pexels": "worker final walkthrough finished area",
+     "pixabay": "worker walkthrough finished",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands ticking off a final item on a site checklist",
+     "pexels": "hands ticking final checklist item",
+     "pixabay": "hands checklist tick final",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot that widens from a finished building to the landscape around it",
+     "pexels": "finished building wide landscape around",
+     "pixabay": "building landscape wide finished",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker standing back, looking proudly at the completed, respected site",
+     "pexels": "worker standing proudly completed site",
+     "pixabay": "worker proud completed site",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "trophy or medal imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Sort waste correctly. Report risks early. Finish each work area safely and cleanly. These are ordinary actions. But ordinary actions, repeated with care, can build something extraordinary. Take one moment now and imagine returning to this place many years from today. Perhaps you will point to a building and say, \"I helped build that.\" That is something to be proud of. But imagine being able to say something more. \"We built it carefully.\"",
+   "t": 216.41,
+   "end": 246.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing at sunrise, noticing the land before starting the day's work",
+     "pexels": "worker pausing sunrise noticing land",
+     "pixabay": "worker sunrise land pause",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands gently caring for a young plant",
+     "pexels": "hands gently caring young plant",
+     "pixabay": "hands plant caring close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker acting decisively on a small task, picking up a tool to begin",
+     "pexels": "worker acting decisively picking tool",
+     "pixabay": "worker decisive tool action",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the estate grounds in soft early light, calm and cared for",
+     "pexels": "estate grounds soft early light calm",
+     "pixabay": "estate grounds calm light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "meditation pose"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "\"We protected what was already here.\" \"We left the place in good condition for the people who followed us.\" That is a deeper kind of pride. So let us remember the journey in three simple words. Notice. Care. Act. Again. Notice. Care. Act. Notice the world around you. Care about the consequences. Act in a way that protects the future.",
+   "t": 246.62,
+   "end": 271.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker considering a choice between a careless shortcut and a careful route",
+     "pexels": "worker considering careless careful choice",
+     "pixabay": "worker choice route careful",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of two paths, one worn and bare, one protected and green",
+     "pexels": "two paths worn bare protected green",
+     "pixabay": "paths comparison worn green",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker choosing the respectful, protected route around a natural area",
+     "pexels": "worker choosing respectful protected route",
+     "pixabay": "worker protected route choosing",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a respected landscape left in good condition at day's end",
+     "pexels": "respected landscape good condition end",
+     "pixabay": "landscape good condition respected",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic before-after effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Tomorrow, when you begin work, ask yourself one final question. \"What will remain because I was here?\" A mess for someone else? Or a job completed with care? A problem ignored? Or a problem prevented? A place treated carelessly? Or a place respected? Each day gives us new opportunities to choose. Because the legacy we leave behind is not made in one moment. It is made through the way we work, every day. What we care for today can grow tomorrow. And at Edenrise, that future belongs to all of us to protect.",
+   "t": 271.45,
+   "end": 309.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the full Edenrise estate landscape at golden hour, cared for and alive",
+     "pexels": "estate landscape golden hour alive",
+     "pixabay": "estate landscape golden hour",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a worker's hands resting on healthy soil at the end of the day",
+     "pexels": "hands resting healthy soil end day",
+     "pixabay": "hands soil evening rest",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a crew walking together across the grounds at the end of the course",
+     "pexels": "crew walking together grounds evening",
+     "pixabay": "crew walking grounds evening",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker looking back once more at the land before heading home",
+     "pexels": "worker looking back land heading home",
+     "pixabay": "worker looking back land",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic sunset cliche"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:50:28Z"
+  }
+ ]
+}

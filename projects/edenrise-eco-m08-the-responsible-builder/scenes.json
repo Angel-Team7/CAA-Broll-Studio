@@ -1,0 +1,533 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine you have just built a wall. The blocks are straight. The measurements are correct. The finish looks excellent. You step back and think, \"The job is done.\" But look down. There are pieces of packaging on the ground. Some tools are still lying where people walk. A few useful materials have been left in the rain.",
+   "t": 0.0,
+   "end": 23.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a freshly built straight stone wall with litter scattered at its base",
+     "pexels": "new wall litter scattered base",
+     "pixabay": "wall litter base",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of loose packaging and dust lying beside a finished wall",
+     "pexels": "loose packaging dust finished wall",
+     "pixabay": "packaging dust wall",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "builder stepping back to look at a finished wall, hands on hips",
+     "pexels": "builder stepping back finished wall",
+     "pixabay": "builder finished wall",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a tool left lying where people walk near the wall",
+     "pexels": "tool left lying walkway wall",
+     "pixabay": "tool lying walkway",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Now I want to ask a simple question. Is the job really finished? Imagine a second worker building exactly the same wall. The wall is just as good. But before leaving, this worker collects loose waste, sorts materials, cleans the area and checks that it is safe. Which result inspires more confidence? Which person would you trust with the next job? Most people understand the difference immediately. Because there is a difference between stopping work and finishing work.",
+   "t": 23.59,
+   "end": 55.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the same style of wall with a clean organised site around it",
+     "pexels": "clean wall organised site wide",
+     "pixabay": "wall clean organised",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker collecting loose waste before leaving a finished work area",
+     "pexels": "worker collecting loose waste finishing",
+     "pixabay": "worker waste collecting finish",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands sorting materials into separate labelled piles",
+     "pexels": "hands sorting materials labelled piles",
+     "pixabay": "hands sorting materials",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker doing a final safety check around a completed wall",
+     "pexels": "worker final safety check wall",
+     "pixabay": "worker safety check wall",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And this is today's lesson. A job is finished when the place is ready. Let's repeat. A job is finished when the place is ready. A responsible builder thinks about three moments. Before the work. During the work. After the work. Let's look at each one. Before the work, we prepare. Do we know where materials belong? Do we know which areas must be protected?",
+   "t": 55.86,
+   "end": 82.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker preparing a work area, checking where materials belong before starting",
+     "pexels": "worker preparing checking materials belong",
+     "pixabay": "worker preparing materials",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand marking a protected area on a site plan",
+     "pexels": "hand marking protected area plan",
+     "pixabay": "hand marking plan",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of waste containers set out ready before work begins",
+     "pexels": "waste containers set ready before work",
+     "pixabay": "waste containers ready",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker checking a safe storage spot for fuels and chemicals",
+     "pexels": "worker checking safe storage fuels",
+     "pixabay": "worker storage fuels safe",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "chemical spill dramatic"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Are the waste containers available? Is there a safe place for tools, fuels and chemicals? Good preparation prevents avoidable problems. During the work, we protect. We keep rubbish under control as it is created. We secure light plastics so the wind cannot carry them away. We use approved access routes. We keep cement washwater, oils, paint and chemicals out of the soil and drains. We do not burn or bury site waste.",
+   "t": 82.76,
+   "end": 112.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker securing light plastic sheeting so the wind cannot carry it away",
+     "pexels": "worker securing plastic sheeting wind",
+     "pixabay": "worker securing sheeting wind",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pouring washwater into a correct containment bin",
+     "pexels": "hand pouring washwater containment bin",
+     "pixabay": "hand washwater containment",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker using an approved access route while carrying materials",
+     "pexels": "worker approved access route materials",
+     "pixabay": "worker route materials",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker stopping to report a small spill before it spreads",
+     "pexels": "worker reporting small spill stopping",
+     "pixabay": "worker spill report",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "chemical spill disaster"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And if we discover a spill, damage or a hazard, we stop unsafe activity and report it. After the work, we finish properly. We collect litter and offcuts. We separate waste into the correct streams. We store reusable materials. We secure tools and equipment. We check that nobody has been left with a hidden problem.",
+   "t": 112.55,
+   "end": 135.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker collecting litter and offcuts at the end of a task",
+     "pexels": "worker collecting litter offcuts end",
+     "pixabay": "worker collecting offcuts",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands separating waste into correct recycling streams",
+     "pexels": "hands separating waste recycling streams",
+     "pixabay": "hands waste recycling",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker securing tools and equipment into a storage box",
+     "pexels": "worker securing tools storage box",
+     "pixabay": "worker tools storage box",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a finished work area checked clean and tidy",
+     "pexels": "finished work area checked tidy wide",
+     "pixabay": "work area finished tidy",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here is something important. Being responsible does not mean doing everything yourself. Some waste needs special equipment or authorised handling. A dangerous spill is not something to clean with bare hands. When you are unsure, ask a trained supervisor. And the company must provide the containers, information and equipment needed to do the job correctly. Good standards are shared responsibilities.",
+   "t": 135.31,
+   "end": 160.14,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker placing a timber offcut on a labelled reuse rack",
+     "pexels": "worker placing offcut reuse rack",
+     "pixabay": "worker offcut reuse rack",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing to a clearly marked hazardous waste container",
+     "pexels": "hand pointing hazardous waste container",
+     "pixabay": "hand hazardous container",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "trained worker in gloves handling a sealed hazardous waste drum",
+     "pexels": "worker gloves handling waste drum",
+     "pixabay": "worker gloves waste drum",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker asking a trained supervisor a question before touching a spill",
+     "pexels": "worker asking supervisor before spill",
+     "pixabay": "worker supervisor spill ask",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dramatic chemical disaster",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Now think about a cigarette butt. At Edenrise, it does not belong on the ground. Not beside the building. Not under a tree. Not on a road. Not anywhere on the estate. We follow the site's smoking and fire-safety restrictions at all times. If smoking is permitted in a designated place, cigarette waste goes into the proper safe receptacle.",
+   "t": 160.14,
+   "end": 184.97,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a cigarette being extinguished properly in a safe receptacle",
+     "pexels": "cigarette extinguished safe receptacle close",
+     "pixabay": "cigarette receptacle extinguished",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker checking a posted fire-safety restriction notice on site",
+     "pexels": "worker checking fire safety notice",
+     "pixabay": "worker fire safety notice",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of dry ground near the estate with no cigarette litter visible",
+     "pexels": "dry ground estate no litter wide",
+     "pixabay": "dry ground clean estate",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two workers talking calmly near a designated smoking area",
+     "pexels": "workers talking calmly smoking area",
+     "pixabay": "workers smoking area calm",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "fire or flames",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "No exceptions for \"just one.\" Imagine you notice that a colleague has left some packaging behind. What is the most useful response? Shout at them? Say nothing and complain later? Or speak respectfully and help find a better way to organise the work? A responsible team corrects problems without humiliating people. It learns, improves and keeps standards clear. The same rules apply to everyone, including supervisors and managers.",
+   "t": 184.97,
+   "end": 213.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "supervisor speaking respectfully to a worker about a packaging oversight",
+     "pexels": "supervisor speaking respectfully worker",
+     "pixabay": "supervisor worker respectful",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand gesturing calmly while explaining a better way to organise work",
+     "pexels": "hand gesturing explaining calmly",
+     "pixabay": "hand explaining gesture",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker nodding and picking up the packaging without embarrassment",
+     "pexels": "worker nodding picking up packaging",
+     "pixabay": "worker nodding packaging",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a supervisor and team member inspecting a work area calmly together",
+     "pexels": "supervisor team member inspecting calmly",
+     "pixabay": "supervisor team inspecting",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shouting or anger",
+    "humiliation imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "At Edenrise, the standard is straightforward. No littering. No abandoned cigarette butts. No dumping, burning or burying of site waste. No pollution of soil or water. No unnecessary damage to protected nature. Use the approved systems. Report problems early. Leave the work area safe and clean. These are not optional extras. They are part of the job.",
+   "t": 213.1,
+   "end": 236.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of an estate site with no litter, no dumping, clean boundaries",
+     "pexels": "estate site no litter clean boundaries",
+     "pixabay": "estate site clean boundaries",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a clearly marked protected nature boundary sign",
+     "pexels": "marked protected nature boundary sign",
+     "pixabay": "protected boundary sign",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker using an approved system to dispose of waste correctly",
+     "pexels": "worker approved system waste disposal",
+     "pixabay": "worker waste system disposal",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker reporting a problem early to a supervisor with a calm expression",
+     "pexels": "worker reporting problem early calm",
+     "pixabay": "worker reporting early calm",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic pollution imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Remember four words. Prepare. Protect. Sort. Finish. Again. Prepare. Protect. Sort. Finish. Tomorrow, before you say, \"I am finished,\" take one more look. Is the work correct? Is the area clean? Is it safe? Is it ready for the next person? Because professional pride is not only in the wall we build. It is also in the place we leave behind.",
+   "t": 236.69,
+   "end": 261.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker looking back over a completed site, ticking a short checklist",
+     "pexels": "worker checklist completed site review",
+     "pixabay": "worker checklist site review",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand ticking the final box on a printed checklist",
+     "pexels": "hand ticking final checklist box",
+     "pixabay": "hand checklist tick",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a safe, clean, ready work area at the end of the day",
+     "pexels": "safe clean ready work area end",
+     "pixabay": "work area clean ready",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker nodding with quiet professional pride at finished work",
+     "pexels": "worker nodding professional pride finished",
+     "pixabay": "worker pride finished work",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "trophy or medal imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A job is finished when the place is ready. In the next lesson, we will talk about the power of one person to begin a positive change.",
+   "t": 261.93,
+   "end": 273.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a well-kept finished wall with the surrounding area left ready",
+     "pexels": "finished wall surrounding area ready",
+     "pixabay": "wall finished ready area",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker walking away from a completed, clean job site",
+     "pexels": "worker walking away clean site",
+     "pixabay": "worker walking clean site",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands closing a tool box after a finished task",
+     "pexels": "hands closing tool box finished",
+     "pixabay": "hands tool box close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of the next worker arriving at a well-prepared site",
+     "pexels": "next worker arriving prepared site",
+     "pixabay": "worker arriving prepared site",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "trophy or medal imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:05Z"
+  }
+ ]
+}

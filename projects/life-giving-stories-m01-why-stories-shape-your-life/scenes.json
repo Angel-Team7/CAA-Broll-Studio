@@ -1,0 +1,251 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about the last time a story changed your mind. A film that stayed with you for days. A conversation that made you see someone differently. Stories have always been one of the most powerful ways to shape how people think, feel and act. Leaders know this. Brands know this. Whole organisations invest heavily in shaping the stories people believe, because whoever shapes the story often shapes the behaviour. Stories shape perception. Perception shapes decisions. And decisions shape outcomes.",
+   "t": 0.0,
+   "end": 32.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a person sitting quietly by a window in morning light, thinking",
+     "pexels": "person thinking quietly by window",
+     "pixabay": "person window thinking",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "two people talking something through at a small table",
+     "pexels": "two people talking at table",
+     "pixabay": "people talking table",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a person's face, genuinely listening",
+     "pexels": "close up face listening attentively",
+     "pixabay": "face listening close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "person writing slowly in a notebook at a desk",
+     "pexels": "person writing in notebook desk",
+     "pixabay": "hand writing notebook",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay",
+    "stock watermark",
+    "intense portrait"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But this isn't only happening out there, in the media or in business. The most powerful stories in your life are the ones you tell about yourself. \"I'm not good with money.\" \"I always mess up relationships.\" \"People like me don't get opportunities.\" These internal stories quietly decide how you read your experiences, what you believe is possible, and how you show up every day. And over time, they become familiar. They feel true, even when they're not.",
+   "t": 32.69,
+   "end": 64.97,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting alone, troubled expression, looking down",
+     "pexels": "person alone troubled thinking",
+     "pixabay": "person alone thinking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands clasped together on a table",
+     "pexels": "hands clasped on table",
+     "pixabay": "hands clasped table",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person staring out of a window, neutral expression",
+     "pexels": "person looking out window neutral",
+     "pixabay": "person window neutral",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an empty quiet room with one person seated",
+     "pexels": "person alone quiet room",
+     "pixabay": "person room alone",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Take a moment and think of one sentence you often say about yourself. Something that starts with \"I'm just…\" or \"I always…\" or \"I could never…\" That sentence is a story. And it has probably been running for a long time. Here's the good news. A story is not a fact. It's an interpretation, and interpretations can be questioned. When you bring awareness to the stories you tell yourself, you create the chance to question them. And when you question them, you create the possibility to change them. That's what this workshop is about.",
+   "t": 64.97,
+   "end": 103.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand writing a single sentence in a workbook",
+     "pexels": "hand writing in workbook close up",
+     "pixabay": "hand writing workbook",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person pausing mid-thought, pen resting on the page",
+     "pexels": "person pausing pen on page",
+     "pixabay": "person pen pause",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting still in a quiet workshop room",
+     "pexels": "person sitting still quiet room",
+     "pixabay": "person quiet room",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay",
+    "stock watermark"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You'll work through a ten-step process, shown on page one of your workbook. It moves in a circle, and each step builds on the one before. First, you'll get clear on what matters most to you. Then you'll name the area of your life where your story isn't working, and why it needs to change. Next comes the honest part. You'll unpack the old story in detail, acknowledge how it has served you, and see clearly why it isn't true. Then you'll create a new story, one that's grounded, inspiring, and aligned with who you really are. And finally, you'll turn that story into everyday actions, and measure y",
+   "t": 103.86,
+   "end": 149.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "overhead shot of an open workbook with a diagram on the page",
+     "pexels": "open workbook on table overhead",
+     "pixabay": "workbook table overhead",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person turning the page of a workbook at a table",
+     "pexels": "person turning page workbook",
+     "pixabay": "person page workbook",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "small group of people seated in a circle, facilitator explaining",
+     "pexels": "small group circle facilitator explaining",
+     "pixabay": "group circle facilitator",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands flipping through workbook pages",
+     "pexels": "hands flipping workbook pages",
+     "pixabay": "hands pages workbook",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "corporate boardroom"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You won't be doing this alone. Your facilitator is here to guide you through each step, and after each short video, you'll have time to write in your workbook. There are no right or wrong answers. The more honest you are with the page, the more this process will give back to you. Three things will help you get the most from this time. First, be honest rather than impressive. Nobody will grade your workbook. Write what's real, not what sounds good. Second, write it down. Thinking about a story is useful, but writing it is where things shift. On paper, a story stops being a feeling and becomes s",
+   "t": 149.79,
+   "end": 209.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "facilitator speaking warmly to a small seated group",
+     "pexels": "facilitator speaking to small group",
+     "pixabay": "facilitator group speaking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person writing honestly in a notebook, unhurried",
+     "pexels": "person writing notebook unhurried",
+     "pixabay": "person writing notebook",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand holding a pen over a blank page",
+     "pexels": "hand holding pen blank page",
+     "pixabay": "hand pen page",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of participants quietly writing at separate tables",
+     "pexels": "people quietly writing at tables",
+     "pixabay": "people writing tables",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "classroom test"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  }
+ ]
+}

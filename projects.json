@@ -219,6 +219,20 @@
    "sector": "edenrise"
   },
   {
+   "slug": "edenrise-c2-six-needs-part1",
+   "title": "Edenrise C2 — Six Core Human Needs: Part 1",
+   "sector": "edenrise",
+   "scenes": 8,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-c2-six-needs-part2",
+   "title": "Edenrise C2 — Six Core Human Needs: Part 2",
+   "sector": "edenrise",
+   "scenes": 7,
+   "clips": 0
+  },
+  {
    "slug": "edenrise-c2-six-needs-reactions",
    "title": "Edenrise C2 — M5: Six Core Human Needs — Master Your Reactions",
    "scenes": 9,
@@ -231,6 +245,146 @@
    "scenes": 9,
    "clips": 97,
    "sector": "edenrise"
+  },
+  {
+   "slug": "edenrise-eco-m01-the-land-is-alive",
+   "title": "Edenrise — Eco-Academy M01: The Land Is Alive",
+   "sector": "edenrise",
+   "scenes": 10,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m02-everything-goes-somewhere",
+   "title": "Edenrise — Eco-Academy M02: Everything Goes Somewhere",
+   "sector": "edenrise",
+   "scenes": 9,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m03-the-invisible-world-beneath-our-feet",
+   "title": "Edenrise — Eco-Academy M03: The Invisible World Beneath Our Feet",
+   "sector": "edenrise",
+   "scenes": 9,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m04-every-drop-has-a-journey",
+   "title": "Edenrise — Eco-Academy M04: Every Drop Has a Journey",
+   "sector": "edenrise",
+   "scenes": 9,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m05-small-actions-big-consequences",
+   "title": "Edenrise — Eco-Academy M05: Small Actions, Big Consequences",
+   "sector": "edenrise",
+   "scenes": 10,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m06-working-with-nature",
+   "title": "Edenrise — Eco-Academy M06: Working With Nature",
+   "sector": "edenrise",
+   "scenes": 10,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m07-from-less-harm-to-more-life",
+   "title": "Edenrise — Eco-Academy M07: From Less Harm to More Life",
+   "sector": "edenrise",
+   "scenes": 10,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m08-the-responsible-builder",
+   "title": "Edenrise — Eco-Academy M08: The Responsible Builder",
+   "sector": "edenrise",
+   "scenes": 11,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m09-the-power-of-one-person",
+   "title": "Edenrise — Eco-Academy M09: The Power of One Person",
+   "sector": "edenrise",
+   "scenes": 11,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-m10-the-legacy-we-leave-behind",
+   "title": "Edenrise — Eco-Academy M10: The Legacy We Leave Behind",
+   "sector": "edenrise",
+   "scenes": 11,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m01-the-land-is-alive",
+   "title": "Edenrise — Eco-Academy Reel M01: The Land Is Alive",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m02-everything-goes-somewhere",
+   "title": "Edenrise — Eco-Academy Reel M02: Everything Goes Somewhere",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m03-the-invisible-world-beneath-our-feet",
+   "title": "Edenrise — Eco-Academy Reel M03: The Invisible World Beneath Our Feet",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m04-every-drop-has-a-journey",
+   "title": "Edenrise — Eco-Academy Reel M04: Every Drop Has a Journey",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m05-small-actions-big-consequences",
+   "title": "Edenrise — Eco-Academy Reel M05: Small Actions, Big Consequences",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m06-working-with-nature",
+   "title": "Edenrise — Eco-Academy Reel M06: Working With Nature",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m07-from-less-harm-to-more-life",
+   "title": "Edenrise — Eco-Academy Reel M07: From Less Harm to More Life",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m08-the-responsible-builder",
+   "title": "Edenrise — Eco-Academy Reel M08: The Responsible Builder",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m09-the-power-of-one-person",
+   "title": "Edenrise — Eco-Academy Reel M09: The Power of One Person",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "edenrise-eco-reel-m10-the-legacy-we-leave-behind",
+   "title": "Edenrise — Eco-Academy Reel M10: The Legacy We Leave Behind",
+   "sector": "edenrise",
+   "scenes": 5,
+   "clips": 0
   },
   {
    "slug": "edenrise-gratitude",
@@ -266,6 +420,104 @@
    "scenes": 8,
    "clips": 8,
    "sector": "edenrise"
+  },
+  {
+   "slug": "life-giving-stories-m01-why-stories-shape-your-life",
+   "title": "Life-Giving Stories — M01: Why Stories Shape Your Life",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m02-the-crust-the-crud-and-the-core",
+   "title": "Life-Giving Stories — M02: The Crust, the Crud and the Core",
+   "sector": "universal",
+   "scenes": 6,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m03-life-giving-stories",
+   "title": "Life-Giving Stories — M03: Life-Giving Stories",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m04-step-1-what-matters-most-to-you",
+   "title": "Life-Giving Stories — M04: Step 1 · What Matters Most to You?",
+   "sector": "universal",
+   "scenes": 6,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m05-step-2-what-is-not-working",
+   "title": "Life-Giving Stories — M05: Step 2 · What Is Not Working?",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m06-step-3-why-does-this-need-to-change",
+   "title": "Life-Giving Stories — M06: Step 3 · Why Does This Need to Change?",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m07-step-4-unpack-the-old-story",
+   "title": "Life-Giving Stories — M07: Step 4 · Unpack the Old Story",
+   "sector": "universal",
+   "scenes": 6,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m08-step-5-acknowledge-how-it-served-you",
+   "title": "Life-Giving Stories — M08: Step 5 · Acknowledge How It Served You",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m09-step-6-why-the-old-story-is-false",
+   "title": "Life-Giving Stories — M09: Step 6 · Why the Old Story Is False",
+   "sector": "universal",
+   "scenes": 6,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m10-step-7-create-a-new-story-that-works",
+   "title": "Life-Giving Stories — M10: Step 7 · Create a New Story That Works",
+   "sector": "universal",
+   "scenes": 6,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m11-step-8-why-this-new-story-aligns",
+   "title": "Life-Giving Stories — M11: Step 8 · Why This New Story Aligns",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m12-step-9-determine-actions-that-support",
+   "title": "Life-Giving Stories — M12: Step 9 · Determine Actions That Support",
+   "sector": "universal",
+   "scenes": 4,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m13-step-10-measure-your-progress",
+   "title": "Life-Giving Stories — M13: Step 10 · Measure Your Progress",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
+  },
+  {
+   "slug": "life-giving-stories-m14-whats-next",
+   "title": "Life-Giving Stories — M14: What's Next?",
+   "sector": "universal",
+   "scenes": 5,
+   "clips": 0
   },
   {
    "slug": "purpose-at-work",

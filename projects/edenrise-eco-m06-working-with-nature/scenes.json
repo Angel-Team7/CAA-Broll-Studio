@@ -1,0 +1,484 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine two places on the same hot day. One is a bare patch of ground in the sun. The other is beneath a tree. Which one feels cooler? You probably do not need a thermometer to answer. You have felt that difference before. And you have just noticed something important. Nature is always offering us information. The question is whether we are paying attention.",
+   "t": 0.0,
+   "end": 26.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot comparing a sunny bare patch beside cool tree shade",
+     "pexels": "sunny bare patch beside tree shade",
+     "pixabay": "sun shade comparison tree",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "carpenter standing comfortably in the shade of a cork oak",
+     "pexels": "carpenter standing shade cork oak",
+     "pixabay": "carpenter shade oak",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of dappled light and shadow moving across the ground under a tree",
+     "pexels": "dappled light shadow ground tree",
+     "pixabay": "dappled light shadow",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker wiping their brow in the sun, then stepping into shade",
+     "pexels": "worker stepping into shade relief",
+     "pixabay": "worker shade relief",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "desert heat disaster"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think of a builder who starts without looking. The wall goes here. The path goes there. The materials go wherever there is space. Now imagine a builder who pauses first. Where does the sun move? Where does the wind come from? Which way does the rain run? What plants are already growing here? These questions do not prevent building. They can help us build more wisely.",
+   "t": 26.48,
+   "end": 53.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "builder pausing to look around a site before placing the first material",
+     "pexels": "builder pausing looking site first",
+     "pixabay": "builder pause site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand feeling wind direction with a raised palm",
+     "pexels": "hand feeling wind direction",
+     "pixabay": "hand wind direction",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of shadow patterns moving slowly across a half-built wall",
+     "pexels": "shadow pattern moving wall",
+     "pixabay": "shadow wall pattern",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker noticing existing plants growing near a new work area",
+     "pexels": "worker noticing plants work area",
+     "pixabay": "worker plants noticing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "demolition"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "This is our lesson today. Observe first. Work wisely. Let's repeat. Observe first. Work wisely. There is a way of thinking called permaculture. It begins with a simple idea: we can design human activities by learning from natural patterns. It is not about doing everything the old way. And it is not about refusing modern tools. It is about observing carefully and making thoughtful choices.",
+   "t": 53.79,
+   "end": 80.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a small diagram-like garden layout showing sun and water paths",
+     "pexels": "garden layout sun water paths",
+     "pixabay": "garden layout design",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "worker and foreman discussing a simple hand-drawn site plan outdoors",
+     "pexels": "worker foreman discussing site plan",
+     "pixabay": "worker foreman plan outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands pointing at natural features on a rough sketch",
+     "pexels": "hands pointing sketch features",
+     "pixabay": "hands sketch pointing",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a vineyard row following the natural slope of the land",
+     "pexels": "vineyard row following slope land",
+     "pixabay": "vineyard slope row",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram overlay",
+    "office whiteboard"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Permaculture is often guided by three ethics. Earth Care. People Care. Fair Share. Let's make those words simple. Care for the land. Care for people. Use resources fairly and responsibly. Now imagine you have some timber left after finishing a job. One piece is too short for the wall you were building. Does that mean it is useless?",
+   "t": 80.69,
+   "end": 104.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of clean wooden offcuts being measured with a tape",
+     "pexels": "wooden offcuts measured tape close",
+     "pixabay": "offcuts measuring wood",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "carpenter placing a timber offcut onto a labelled reuse rack",
+     "pexels": "carpenter placing offcut reuse rack",
+     "pixabay": "carpenter offcut rack",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an organised reuse rack with sorted timber pieces",
+     "pexels": "organised reuse rack timber wide",
+     "pixabay": "reuse rack timber",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker covering stored offcuts to protect them from rain",
+     "pexels": "worker covering stored offcuts rain",
+     "pixabay": "worker offcuts cover rain",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "landfill pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Perhaps not. It could help make a smaller component later. If it is suitable, safe and stored properly, a leftover material may become a useful resource. But if it lies in the rain, it may be damaged before anyone uses it. So we learn to ask a different question. Not only, \"What is left over?\"",
+   "t": 104.69,
+   "end": 127.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a puddle forming in the same low point of a gravel path",
+     "pexels": "puddle forming gravel path close",
+     "pixabay": "puddle path gravel",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker crouching to look closely at where water collects on a path",
+     "pexels": "worker crouching water collects path",
+     "pixabay": "worker crouching puddle",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a pathway with a visible low drainage point",
+     "pexels": "pathway low drainage point wide",
+     "pixabay": "pathway drainage point",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker reporting a drainage pattern to a site supervisor",
+     "pexels": "worker reporting drainage supervisor",
+     "pixabay": "worker drainage report",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "flood disaster",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But, \"What value is still here?\" Now think about a pathway. After rain, a puddle appears in the same place every time. One response is to ignore it. Another is to look more closely. Where is the water coming from? Why does it stop here? Where should it safely go? We are not asking every worker to redesign drainage. That is a task for the people responsible for design and site works.",
+   "t": 127.45,
+   "end": 157.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers from different backgrounds discussing a hand-built stone wall",
+     "pexels": "workers discussing hand built wall",
+     "pixabay": "workers wall discussion",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands demonstrating a traditional stone-fitting technique",
+     "pexels": "hands demonstrating stone technique",
+     "pixabay": "hands stone technique",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a mixed African and Portuguese crew working together on a wall",
+     "pexels": "mixed crew working together wall",
+     "pixabay": "crew together wall build",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "older worker sharing a practical tip with a younger colleague",
+     "pexels": "older worker sharing tip colleague",
+     "pixabay": "older worker tip colleague",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "stereotype imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But noticing and reporting a pattern is something anyone can do. Observation helps people make better decisions. There is another kind of knowledge worth respecting. The knowledge people bring with them. Perhaps you learned how to save water at home. Perhaps you worked with earth, stone or timber in another country. Perhaps an older family member showed you how to repair something instead of replacing it.",
+   "t": 157.24,
+   "end": 184.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing mid-task to consider a better material layout",
+     "pexels": "worker pausing considering layout",
+     "pixabay": "worker pause layout",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands rearranging stacked materials for better use",
+     "pexels": "hands rearranging stacked materials",
+     "pixabay": "hands materials rearrange",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two colleagues having a short respectful conversation about the next step",
+     "pexels": "colleagues conversation next step",
+     "pixabay": "colleagues conversation site",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-planned worksite with materials laid out efficiently",
+     "pexels": "well planned worksite materials laid",
+     "pixabay": "worksite planned materials",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "rushed chaotic site"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Those experiences matter. At Edenrise, we can learn from Portuguese traditions, African building traditions and many other sources of practical experience. Good ideas do not belong to one country. They become more valuable when we share them respectfully and test whether they suit the job. Now imagine two questions at the start of a task. The first is, \"How quickly can we finish?\"",
+   "t": 184.55,
+   "end": 210.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker observing the site quietly before picking up a tool",
+     "pexels": "worker observing site before tool",
+     "pixabay": "worker observing site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand hovering over a tool, pausing to think first",
+     "pexels": "hand pausing over tool thinking",
+     "pixabay": "hand tool pause",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker asking a supervisor a brief question before beginning work",
+     "pexels": "worker asking supervisor before work",
+     "pixabay": "worker supervisor question",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a calm, orderly worksite at the start of the day",
+     "pexels": "calm orderly worksite start day",
+     "pixabay": "worksite calm morning",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "classroom lecture"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The second is, \"How can we finish well, use resources carefully and protect what is already here?\" Speed can matter. But it is not the only measure of a good result. Sometimes five minutes of observation save hours of correction. Sometimes a better material layout prevents waste. Sometimes a conversation reveals a simpler approach. Here are three habits to practise. Observe. Ask. Improve. Again.",
+   "t": 210.62,
+   "end": 237.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker comparing two approaches, one fast and one careful, side by side",
+     "pexels": "worker comparing two approaches site",
+     "pixabay": "worker comparing approach",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand choosing between two labelled material piles",
+     "pexels": "hand choosing material piles close",
+     "pixabay": "hand choosing materials",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a protected natural area beside an active worksite",
+     "pexels": "protected natural area active worksite",
+     "pixabay": "protected area worksite",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "foreman nodding approval at a thoughtful decision made on site",
+     "pexels": "foreman nodding approval decision site",
+     "pixabay": "foreman approval decision",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "speed-blur dramatic effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Observe. Ask. Improve. Observe the conditions. Ask what matters. Improve the way you work, within the approved plan. Tomorrow, before your first task, look at the place for a moment. Ask yourself, \"What is nature telling us about this spot?\" And ask your supervisor if you see a way to protect the land or reduce waste. Working with nature begins before we lift a tool. Observe first. Work wisely. In our next lesson, we will discover the difference between causing less damage and helping a place become healthier than before.",
+   "t": 237.1,
+   "end": 274.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing at the start of the day, looking at the land before lifting a tool",
+     "pexels": "worker pausing start day land",
+     "pixabay": "worker pause land morning",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands picking up a tool thoughtfully after observing",
+     "pexels": "hands picking up tool thoughtfully",
+     "pixabay": "hands tool thoughtful",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of the estate landscape in soft early light before work begins",
+     "pexels": "estate landscape soft early light",
+     "pixabay": "estate landscape morning light",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker asking a supervisor about protecting the land before starting",
+     "pexels": "worker asking supervisor protecting land",
+     "pixabay": "worker supervisor land question",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "classroom lecture"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:47:54Z"
+  }
+ ]
+}

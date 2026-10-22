@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Every builder knows the importance of a foundation. But a landscape has a foundation too: living soil. It supports roots, stores water and contains organisms that recycle nutrients. When we damage soil, we may affect things far beyond the surface. We would never carelessly destroy a building's foundation. Let's give the natural foundation the same respect.",
+   "t": 0.0,
+   "end": 23.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a bricklayer's hand laying a foundation stone",
+     "pexels": "hand laying foundation stone",
+     "pixabay": "hand foundation stone",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "macro of dark living soil with visible roots and organic matter",
+     "pexels": "close up living soil roots",
+     "pixabay": "soil roots macro",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a foreman kneeling to examine soil before building",
+     "pexels": "foreman kneeling examining soil",
+     "pixabay": "foreman soil examine",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a small structure's foundation beside untouched garden ground",
+     "pexels": "building foundation beside garden ground",
+     "pixabay": "foundation garden ground",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "demolition",
+    "office foundation plans on a screen"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Press a sponge hard. Its spaces shrink. Repeated heavy machinery can do something similar to soil: compact it and reduce the space for air and water. The damage may be invisible at first. That's why approved routes matter. Saving a few metres with a shortcut is not always saving time. Sometimes it's creating a problem beneath our feet.",
+   "t": 23.17,
+   "end": 47.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand pressing a sponge to show compression",
+     "pexels": "hand pressing sponge",
+     "pixabay": "hand sponge compress",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a small wheelbarrow following a marked approved route",
+     "pexels": "wheelbarrow on marked path garden",
+     "pixabay": "wheelbarrow path garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of compacted soil contrasted with loose healthy soil",
+     "pexels": "compacted soil versus loose soil",
+     "pixabay": "compacted soil loose soil",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a crew member walking the long marked route instead of a shortcut",
+     "pexels": "worker walking marked path garden",
+     "pixabay": "worker marked path",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "heavy machinery crushing visible plants",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On a building site, we cover materials to protect them. Nature uses covers too. Leaves, plants and mulch protect soil from direct rain and strong sun. So a patch of ground with leaves is not necessarily dirty. It may be functioning well. Clear what must be cleared for safe work. Protect what helps the land stay healthy.",
+   "t": 47.17,
+   "end": 70.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of mulch and fallen leaves covering garden soil",
+     "pexels": "mulch leaves covering soil",
+     "pixabay": "mulch leaves soil",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a gardener spreading protective mulch by hand",
+     "pexels": "gardener spreading mulch by hand",
+     "pixabay": "gardener mulch hand",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a garden bed covered in natural leaf litter",
+     "pexels": "garden bed leaf litter wide",
+     "pixabay": "garden bed leaf litter",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a worker clearing only the marked path, leaving mulch beside it",
+     "pexels": "worker clearing marked path leaving mulch",
+     "pixabay": "worker clearing path mulch",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "swept bare concrete yard",
+    "office carpet"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A machine can clear a patch of ground in a morning. But rebuilding healthy soil and vegetation may take many seasons, sometimes much longer. That's a strange comparison: hours to disturb, years to recover. So before moving beyond the approved work area, ask a simple question. Do we really need to disturb this ground? Sometimes the best job is the damage avoided.",
+   "t": 70.76,
+   "end": 96.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a cleared patch of ground beside an untouched garden area",
+     "pexels": "cleared patch beside untouched garden",
+     "pixabay": "cleared patch garden",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a foreman marking the approved work boundary with tape",
+     "pexels": "foreman marking boundary tape garden",
+     "pixabay": "foreman boundary tape",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of new shoots growing back in a previously cleared area",
+     "pexels": "new shoots growing cleared ground",
+     "pixabay": "new shoots ground",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a worker's hand hesitating over a tool before stepping past the boundary",
+     "pexels": "hand hesitating at boundary marker",
+     "pixabay": "hand boundary marker",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "large scale clear-cutting",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You can see a wall growing course by course. But much of the work inside healthy soil is invisible. Roots extend. Fungi grow. Organisms break down leaves. Invisible doesn't mean unimportant. Think of the hidden wiring and pipes inside a building. We protect them because they make the building work. Soil life deserves thoughtful protection too.",
+   "t": 96.41,
+   "end": 119.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of exposed pipes and wiring inside an unfinished wall",
+     "pexels": "exposed pipes wiring unfinished wall",
+     "pixabay": "pipes wiring wall",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "macro of soil with visible fungi threads and root hairs",
+     "pexels": "close up soil fungi roots",
+     "pixabay": "soil fungi roots",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a crew member carefully covering protected soil with a tarp",
+     "pexels": "worker covering soil with tarp",
+     "pixabay": "worker tarp soil",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a brick wall rising course by course beside a protected garden bed",
+     "pexels": "brick wall rising beside garden bed",
+     "pixabay": "brick wall garden bed",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "x-ray or diagram graphics",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  }
+ ]
+}

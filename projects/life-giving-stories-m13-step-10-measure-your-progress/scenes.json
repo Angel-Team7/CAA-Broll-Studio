@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Your story has shifted. What happens next is how you begin to live from it. For some people, this happens naturally. For others, a simple structure helps reinforce what has already changed. That's what step ten is for. Why measure at all? Because what we pay attention to grows. When you notice your progress, you strengthen it. And when you notice where you're slipping, you can respond early, before the old story settles back in. It's optional, but it can make a real difference to how consistent and lasting this work becomes.",
+   "t": 0.0,
+   "end": 38.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reviewing a simple weekly tracker on a page",
+     "pexels": "person reviewing weekly tracker page",
+     "pixabay": "person reviewing tracker page",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand checking off a small box on a chart",
+     "pexels": "hand checking box chart close up",
+     "pixabay": "hand checking box chart",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a calm, settled room at the end of a session",
+     "pexels": "calm settled room end session wide",
+     "pixabay": "calm room end session",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On page twenty, you'll see three types of accountability. The first is self accountability. This is your personal commitment to live from what you've defined. A quiet awareness of how you think, speak and act, in line with your new story. The second is partner accountability. Someone you trust, who knows about the shift you've made. They support you by reflecting back what they see, and reinforcing the direction you're moving in.",
+   "t": 38.07,
+   "end": 67.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a quiet personal note to themselves",
+     "pexels": "person writing quiet personal note",
+     "pixabay": "person writing personal note",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two people talking, one checking in warmly with the other",
+     "pexels": "two people checking in warmly",
+     "pixabay": "two people checking warmly",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two hands exchanging a written note",
+     "pexels": "close up hands exchanging note",
+     "pixabay": "hands exchanging note close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The third is tribe accountability. A group where growth is shared. Being around others who are also living from what's true creates momentum and encouragement. When choosing a partner, look for someone who will be honest and kind. Not someone who will simply agree with you, and not someone who will judge you. A simple check-in, once a week, can be enough. What did I do that fits my new story? Where did the old story show up? What will I do next?",
+   "t": 67.86,
+   "end": 102.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "small group sitting together, sharing progress openly",
+     "pexels": "small group sharing progress openly",
+     "pixabay": "group sharing progress",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "person listening closely to a trusted peer, honest expression",
+     "pexels": "person listening closely trusted peer",
+     "pixabay": "person listening peer honest",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand writing three short check-in questions",
+     "pexels": "hand writing check in questions",
+     "pixabay": "hand writing questions page",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You might choose one, or all three. Write down which ones you'll use, and who will be involved. Be specific here too. Not \"I'll find someone,\" but a name, and a time you'll check in. You can also create a simple daily alignment practice. Reading your new story. Reflecting on it for a moment. Or taking one small action that fits it. Not as a rule, but as a way of reinforcing what is already true.",
+   "t": 102.62,
+   "end": 134.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a specific name and day in a planner",
+     "pexels": "person writing name day planner",
+     "pixabay": "person writing planner name",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand circling a date on a calendar",
+     "pexels": "hand circling date calendar close up",
+     "pixabay": "hand circling calendar date",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person reading their new story quietly each morning",
+     "pexels": "person reading story quietly morning",
+     "pixabay": "person reading morning quiet",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Over time, you'll notice progress in a simple way. What you believe, what you say, and how you live begin to move together. And if you slip, that's normal. Progress is rarely a straight line. What matters is that you notice, and return. Your facilitator will help you choose your accountability and set it up before you leave.",
+   "t": 134.07,
+   "end": 158.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person walking steadily, composed, after a setback",
+     "pexels": "person walking steadily composed setback",
+     "pixabay": "person walking composed steady",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand returning to a dog-eared page in a workbook",
+     "pexels": "hand returning dog eared page",
+     "pixabay": "hand workbook page return",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "facilitator and participant closing a session together, warm handshake",
+     "pexels": "facilitator participant closing session handshake",
+     "pixabay": "facilitator handshake closing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  }
+ ]
+}

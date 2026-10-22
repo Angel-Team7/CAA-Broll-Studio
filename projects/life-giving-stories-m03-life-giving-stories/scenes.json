@@ -1,0 +1,226 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The quality of your life is shaped by the stories you consistently live from. Some stories move you forward. Others quietly hold you back. Life-giving stories support who you're becoming, and the direction your life is moving in. They reflect what is true, not just what feels true. It helps to see the difference clearly. A draining story is usually fixed. It looks backward, it's built on fear, and it's often borrowed from someone else's voice. A life-giving story is open. It looks forward, it's built on evidence, and it sounds like you at your best.",
+   "t": 0.0,
+   "end": 40.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide establishing shot of a person walking confidently down a sunlit path",
+     "pexels": "person walking confidently sunlit path",
+     "pixabay": "person walking path sunlit",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "person sitting still, weighed down, in dim light",
+     "pexels": "person sitting still dim light",
+     "pixabay": "person sitting dim light",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a person's face turning from doubt to calm resolve",
+     "pexels": "face doubt to calm resolve close up",
+     "pixabay": "face calm resolve",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And this is important. A life-giving story is not just positive thinking. Telling yourself \"everything is perfect\" doesn't last, because part of you knows it isn't true. A life-giving story lasts because it is true. Here's an example of how powerful a story can be. For years, many people believed that running a mile in under four minutes simply couldn't be done. Athletes came close, again and again, and stopped just short. The barrier wasn't only physical. It was a story. Then, in May 1954, Roger Bannister ran a mile in under four minutes. And just weeks later, someone else did it too. Nothing",
+   "t": 40.55,
+   "end": 90.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person running alone on a quiet track at dawn",
+     "pexels": "person running alone track dawn",
+     "pixabay": "person running track dawn",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of running shoes hitting the track",
+     "pexels": "close up running shoes track",
+     "pixabay": "running shoes track",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person checking a stopwatch, focused expression",
+     "pexels": "person checking stopwatch focused",
+     "pixabay": "person stopwatch focused",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "stadium crowd"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The same thing happens in our own lives. Think of someone who has always believed, \"I'm not a leader. That's for other people.\" So they stay quiet in meetings. They let others take the opportunities. And every time they hold back, the story feels a little more true. Then someone they respect says, \"You see things others miss. We need your voice.\" At first, it doesn't match how they see themselves. They question it. They point to their limitations. But something begins to shift. They test it. They speak up once, then again. And as they start to trust the new story, their actions follow. Not bec",
+   "t": 90.62,
+   "end": 140.28,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting quietly at the edge of a meeting, staying silent",
+     "pexels": "person quiet edge of meeting",
+     "pixabay": "person quiet meeting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "colleague turning to the quiet person, inviting them to speak",
+     "pexels": "colleague inviting person to speak",
+     "pixabay": "colleague inviting speak",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of the person's face as they decide to speak up",
+     "pexels": "face deciding to speak close up",
+     "pixabay": "face deciding speak",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the same person now speaking to the group",
+     "pexels": "person speaking to small group",
+     "pixabay": "person speaking group",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "boardroom suits"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice the order. The story changed first. Then the actions. Then the results. That's the order this workshop follows too. That's the heart of this workshop. You're not going to pretend. You're going to find what's actually true about you, and learn to live from it. Some of the steps will feel easy. Others will ask more of you. Trust the order. Each step prepares you for the one that follows.",
+   "t": 140.28,
+   "end": 169.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing steadily in a workbook, settled expression",
+     "pexels": "person writing workbook settled",
+     "pixabay": "person writing settled",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand turning to a new step in a workbook",
+     "pexels": "hand turning page new step",
+     "pixabay": "hand turning page step",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet room, one person working steadily at a table",
+     "pexels": "person working steadily quiet room",
+     "pixabay": "person working steady room",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "In the next ten steps, you'll move from an old story that keeps you stuck, to a new one that gives you life. Your facilitator will now help you reflect on the stories that have shaped you so far.",
+   "t": 169.66,
+   "end": 185.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "facilitator sitting close, speaking gently to one participant",
+     "pexels": "facilitator speaking gently to participant",
+     "pixabay": "facilitator participant speaking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a small group settling in for a workshop session",
+     "pexels": "small group settling workshop session",
+     "pixabay": "group workshop settling",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a person opening a fresh workbook page, ready to begin",
+     "pexels": "person opening fresh workbook page",
+     "pixabay": "person workbook fresh page",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "conference stage"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  }
+ ]
+}

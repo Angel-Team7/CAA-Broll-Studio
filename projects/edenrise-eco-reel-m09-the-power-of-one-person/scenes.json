@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Several people walk past the same piece of litter. Perhaps each thinks, 'It wasn't mine.' So it stays there. Then one person picks it up safely and puts it in the right bin. The problem is gone. Sometimes leadership isn't a speech or a title. It's being the first person to do the useful thing. Who goes first today?",
+   "t": 0.0,
+   "end": 24.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of several workers walking past a piece of litter without stopping",
+     "pexels": "workers walking past litter ground",
+     "pixabay": "workers litter walk past",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of one worker bending down to pick up the litter",
+     "pexels": "worker bending to pick up litter",
+     "pixabay": "worker bend litter pick up",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of litter being placed safely into the correct bin",
+     "pexels": "litter placed into correct bin",
+     "pixabay": "litter bin correct",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a now-clear path where the litter had been",
+     "pexels": "clear path worksite wide",
+     "pixabay": "clear path worksite",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "person shamed or pointed at",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A new worker joins the team. They watch where you place tools, how you measure, what you do with rubbish and whether you protect the ground. You may not be giving a lesson. But you're teaching one. Experience becomes powerful when it sets a good example. Someone is learning from your habits. What would you like them to learn?",
+   "t": 24.83,
+   "end": 49.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of an experienced worker showing a new apprentice where tools go",
+     "pexels": "experienced worker showing apprentice tools",
+     "pixabay": "worker apprentice tools show",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an apprentice watching closely as a task is done carefully",
+     "pexels": "apprentice watching task carefully",
+     "pixabay": "apprentice watching task",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of the apprentice copying the same careful habit moments later",
+     "pexels": "apprentice copying careful habit",
+     "pixabay": "apprentice copying habit",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a mentor's hand guiding an apprentice's hand on a tool",
+     "pexels": "mentor hand guiding apprentice hand tool",
+     "pixabay": "mentor apprentice hand guide",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "classroom lecture setting",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Something goes wrong at work. We can ask, 'Who's to blame?' Or we can ask, 'What can we do now?' The second question doesn't erase responsibility or the need to understand causes. It simply helps us move toward a solution. Report the problem. Ask for help. Learn. Improve. Responsibility is not carrying everything. It's taking the next useful step.",
+   "t": 49.24,
+   "end": 74.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of two workers calmly discussing what went wrong at a task",
+     "pexels": "workers calmly discussing problem",
+     "pixabay": "workers discussing problem calm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a worker writing a short report note outdoors",
+     "pexels": "worker writing report note outdoors",
+     "pixabay": "worker writing note outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a foreman listening and nodding as a worker explains",
+     "pexels": "foreman listening nodding worker explains",
+     "pixabay": "foreman listening worker",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the crew fixing the issue together afterward",
+     "pexels": "crew fixing issue together",
+     "pixabay": "crew fixing issue together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shouting or finger-pointing argument",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You don't need to be a manager to notice a wrapper or suggest a better waste station. Some actions require training and permission, especially around hazardous materials. But everyday care belongs to everyone. The job title doesn't decide whether you can pay attention. Each person can help improve the place where the team works.",
+   "t": 74.48,
+   "end": 96.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a junior crew member suggesting a better spot for a waste bin",
+     "pexels": "worker suggesting bin placement to colleague",
+     "pixabay": "worker suggesting bin placement",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing toward a better bin location",
+     "pexels": "hand pointing bin location",
+     "pixabay": "hand pointing bin location",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a senior worker agreeing and moving the bin together",
+     "pexels": "workers moving bin together",
+     "pixabay": "workers moving bin together",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the whole crew, different roles, working side by side",
+     "pexels": "crew different roles working side by side",
+     "pixabay": "crew roles working together",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "hazardous materials being handled casually",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One worker starts putting packaging straight into the correct container. A colleague notices. Soon another does the same. A small example becomes a routine. The workplace changes, not because someone gave a long lecture, but because good practice became visible. You cannot control everyone's choices. But you can make your own choice worth copying.",
+   "t": 96.83,
+   "end": 119.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a worker placing packaging directly into the correct container",
+     "pexels": "worker placing packaging correct container",
+     "pixabay": "worker packaging container",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a colleague noticing and doing the same nearby",
+     "pexels": "colleague noticing doing same nearby",
+     "pixabay": "colleague noticing copying habit",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a small ripple of workers each adopting the same tidy habit",
+     "pexels": "workers each adopting tidy habit wide",
+     "pixabay": "workers tidy habit ripple",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a now-organised row of sorted containers across the site",
+     "pexels": "organised row sorted containers site",
+     "pixabay": "sorted containers row site",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "crowd cheering or applause",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  }
+ ]
+}

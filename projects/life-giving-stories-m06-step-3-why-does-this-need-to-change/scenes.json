@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You've chosen your story. Before we open it up, there's one more thing you need. A strong reason to change. Change is rarely comfortable. Old stories are familiar, and familiar feels safe, even when it's holding us back. So in step three, you'll build your motivation before you do the deeper work. Think of it like preparing for a long walk. Before you set off, you want to know why the destination is worth reaching. Because at some point, the path will feel steep. And on that part of the path, your reasons are what keep you moving.",
+   "t": 0.0,
+   "end": 40.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a person walking up a steep outdoor path",
+     "pexels": "person walking steep path wide",
+     "pixabay": "person walking path steep",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "person pausing mid-walk, catching their breath, determined",
+     "pexels": "person pausing determined outdoors",
+     "pixabay": "person pausing determined",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of footsteps continuing up the path",
+     "pexels": "close up footsteps path",
+     "pixabay": "footsteps path close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "extreme sport imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On page eight, you'll write out why shifting this story will benefit you as you move forward. Aim for between ten and twenty-five clear statements. That might sound like a lot. It's meant to. The first few come easily. The ones that come after that are usually the most honest, and the most powerful.",
+   "t": 40.55,
+   "end": 63.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing quickly down a long list in a workbook",
+     "pexels": "person writing quickly long list",
+     "pixabay": "person writing list quickly",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand filling lines on a numbered page",
+     "pexels": "hand filling numbered lines page",
+     "pixabay": "hand numbered lines page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person pausing, searching for the next honest line",
+     "pexels": "person pausing searching next line",
+     "pixabay": "person pausing searching",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Write them in the positive. Describe what becomes possible, not just what you'll escape. If you need help getting started, think in layers. What changes for you personally? What changes in your relationships? In your work? In your health and energy? And in your future, five or ten years from now? And connect them to what matters most to you from step one. How will this shift support your life, your direction, and your ability to move forward?",
+   "t": 63.31,
+   "end": 95.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing thoughtfully, considering different areas of life",
+     "pexels": "person writing thoughtfully considering",
+     "pixabay": "person writing considering",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand adding another line to a growing list",
+     "pexels": "hand adding line growing list",
+     "pixabay": "hand adding line list",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person alone at a table, workbook open, focused",
+     "pexels": "person alone table workbook focused",
+     "pixabay": "person table workbook focused",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here are a few of Sam's. \"I'll put my hand up for the team leader role.\" \"I'll share ideas in meetings without rehearsing them for days.\" \"I'll have more energy at home, because I'm not carrying constant self-doubt.\" \"I'll model courage for my kids.\" \"I'll stop replaying every conversation in my head at night.\" \"I'll be able to celebrate my wins instead of dismissing them.\" \"I'll enjoy my work again.\" Some are big, some are small. All of them matter.",
+   "t": 95.59,
+   "end": 129.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person at home, putting their hand up confidently in a small meeting",
+     "pexels": "person hand up confidently meeting",
+     "pixabay": "person hand up meeting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person coming home with lighter energy, greeting family warmly",
+     "pexels": "person coming home greeting family warmly",
+     "pixabay": "person home greeting family",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand writing a hopeful line on a page",
+     "pexels": "hand writing hopeful line page",
+     "pixabay": "hand writing hopeful line",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "staged celebration"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice how specific they are. And notice they reach beyond Sam. Change rarely affects just one person. When your story shifts, the people around you feel it too. Specific benefits are what keep you going when the work gets hard. If you get stuck, ask yourself: \"What would be different in a year if this story changed?\" \"Who else would benefit?\" \"What would I finally allow myself to do?\" Your facilitator will now give you time to write your list. Keep going past the point where it feels easy.",
+   "t": 129.1,
+   "end": 165.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two colleagues talking something through, one visibly encouraged",
+     "pexels": "two colleagues talking encouraged",
+     "pixabay": "colleagues talking encouraged",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person writing steadily, past the point where it felt easy",
+     "pexels": "person writing steadily persistent",
+     "pixabay": "person writing persistent",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a full page of handwritten statements",
+     "pexels": "close up full page handwritten statements",
+     "pixabay": "handwritten page statements",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  }
+ ]
+}

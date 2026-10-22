@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On a hot day, stand beneath a cork oak. Feel the shade. The tree cools the space without a motor or an electricity bill. Nature offers lessons in design, water, shelter and resilience. Permaculture asks us to observe those lessons before deciding what to build. Sometimes the smartest solution begins with watching what already works.",
+   "t": 0.0,
+   "end": 22.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a crew resting in the shade beneath a large cork oak",
+     "pexels": "crew resting shade cork oak",
+     "pixabay": "crew shade tree",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of dappled sunlight through tree branches",
+     "pexels": "dappled sunlight through branches",
+     "pixabay": "sunlight branches close up",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a foreman observing the land before planning work",
+     "pexels": "foreman observing land before work",
+     "pixabay": "foreman observing land",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a greenhouse beside mature trees on the property",
+     "pexels": "greenhouse beside mature trees",
+     "pixabay": "greenhouse trees property",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "air conditioning unit",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A trench may take a morning to dig. But if we ignore the natural flow of rainwater, the next storm could bring days of repairs. One careful observation before starting can prevent wasted effort. Look at the slope. Ask where water goes. Follow the approved plan. Working with nature doesn't mean doing less work. It means doing work more intelligently.",
+   "t": 22.76,
+   "end": 47.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a worker observing the slope of the land before digging",
+     "pexels": "worker observing slope before digging",
+     "pixabay": "worker slope observing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands tracing a line in soil to show water flow",
+     "pexels": "hands tracing water flow line soil",
+     "pixabay": "hands soil water flow",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a trench being dug following a marked plan",
+     "pexels": "trench dug following marked plan",
+     "pixabay": "trench plan dig",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand-drawn plan or stake marking the approved route",
+     "pexels": "stake marking approved route ground",
+     "pixabay": "stake marker ground",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "flooded trench disaster footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine cutting timber for a project. One person throws every offcut away. Another measures carefully and saves suitable pieces for the next job. Same material. Different thinking. Permaculture encourages us to reduce waste and recognise useful resources. Not every leftover piece is safe to reuse. But good planning starts before the cut.",
+   "t": 47.59,
+   "end": 69.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a carpenter measuring a timber offcut before cutting",
+     "pexels": "carpenter measuring timber offcut",
+     "pixabay": "carpenter measuring timber",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker sorting useful offcuts into a labelled crate",
+     "pexels": "worker sorting offcuts into crate",
+     "pixabay": "worker offcuts crate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a tidy timber storage area beside the workshop",
+     "pexels": "tidy timber storage area workshop",
+     "pixabay": "timber storage workshop",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a stack of saved offcuts ready for the next job",
+     "pexels": "stack saved timber offcuts",
+     "pixabay": "timber offcuts stack",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "pile of discarded timber as waste",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "What makes a construction project successful? A strong building? Certainly. But also safe workers, respected neighbours and healthy surroundings. Permaculture offers three simple ethics: Earth Care, People Care and Fair Share. We cannot call a system excellent if it works for the building but harms everything around it. Real quality considers the whole picture.",
+   "t": 69.1,
+   "end": 91.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a mixed crew working safely together on a small build",
+     "pexels": "mixed crew working safely together",
+     "pixabay": "crew working safely",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a neighbour's field bordering a tidy, respectful worksite",
+     "pexels": "tidy worksite bordering field",
+     "pixabay": "worksite bordering field tidy",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands checking a safety harness or hardhat before work",
+     "pexels": "hands checking hardhat before work",
+     "pixabay": "hands hardhat check",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of healthy garden surroundings next to a finished structure",
+     "pexels": "healthy garden surroundings finished structure",
+     "pixabay": "garden surroundings structure",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "worker in distress or unsafe act",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine pushing rainwater straight down a bare slope. It can gain speed and carry soil away. Now imagine a landscape designed to slow, spread and absorb suitable rainfall, with expert planning. Different approach. Different result. Nature responds to how we shape the ground. Before changing a slope, learn how it already behaves. Observation is part of design.",
+   "t": 91.45,
+   "end": 115.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a gently sloped landscape designed to slow rainwater",
+     "pexels": "gently sloped landscape rainwater design",
+     "pixabay": "sloped landscape rainwater",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of water being absorbed into mulched, planted ground",
+     "pexels": "water absorbed mulched ground",
+     "pixabay": "water mulch ground absorb",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker walking the slope studying its contour before changing it",
+     "pexels": "worker studying slope contour",
+     "pixabay": "worker slope contour",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of small terraces or stones slowing water on a slope",
+     "pexels": "stones slowing water on slope",
+     "pixabay": "stones slope water",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "eroded gully disaster footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  }
+ ]
+}

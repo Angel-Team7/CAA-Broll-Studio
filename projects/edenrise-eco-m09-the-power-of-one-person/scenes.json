@@ -1,0 +1,532 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine that five people walk past the same piece of litter. The first is busy. The second does not notice it. The third thinks, \"It is not mine.\" The fourth assumes someone else will collect it. And the fifth sees it, but does not know where to put it. Five people. One small problem. And the litter is still there.",
+   "t": 0.0,
+   "end": 24.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of several workers walking past a piece of litter beside a path, one after another",
+     "pexels": "workers walking past litter path",
+     "pixabay": "workers passing litter",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a piece of light plastic caught beside a busy path",
+     "pexels": "plastic caught beside busy path",
+     "pixabay": "litter plastic path",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker glancing at litter but continuing to walk, unsure what to do",
+     "pexels": "worker glancing litter continuing walk",
+     "pixabay": "worker glance litter",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of busy site traffic passing the same spot repeatedly",
+     "pexels": "busy site traffic passing spot",
+     "pixabay": "site traffic busy",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Have you ever seen something like that? Most of us have. Now imagine a sixth person arrives. They notice the plastic. They check that it is safe to pick up. They collect it and place it in the correct container. The situation changes. Not because the person is stronger or more important. But because they choose to act. This is our lesson today.",
+   "t": 24.83,
+   "end": 50.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker stopping, checking it is safe, and picking up a piece of litter",
+     "pexels": "worker stopping picking up litter",
+     "pixabay": "worker picking litter safe",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand placing litter into the correct container",
+     "pexels": "hand placing litter correct container",
+     "pixabay": "hand litter container",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of the same path now clear of litter",
+     "pexels": "path clear of litter wide",
+     "pixabay": "path clean clear",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker continuing their walk calmly after the small action",
+     "pexels": "worker continuing walk calmly after",
+     "pixabay": "worker walking calm",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Change can begin with me. Let's repeat. Change can begin with me. Sometimes, when we see a problem, we think about whose fault it is. Who left this here? Who was supposed to clean it? Why has nobody done anything? Those questions can matter when we need to understand a repeated issue. But there is another question that may help us begin.",
+   "t": 50.9,
+   "end": 76.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker on a team noticing loose packaging collecting near a fence",
+     "pexels": "worker noticing loose packaging fence",
+     "pixabay": "worker packaging fence",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand securing a loose sheet before the wind lifts it",
+     "pexels": "hand securing loose sheet wind",
+     "pixabay": "hand sheet securing wind",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker telling a supervisor that a waste container is full",
+     "pexels": "worker telling supervisor container full",
+     "pixabay": "worker supervisor container full",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a team working steadily with one member pausing to tidy",
+     "pexels": "team working one member tidying",
+     "pixabay": "team working tidying",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "blame or finger-pointing imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "\"What can I do safely and usefully right now?\" Maybe the answer is to collect a wrapper. Maybe it is to secure a loose sheet before the wind lifts it. Maybe it is to tell the supervisor that a container is full. Different problems need different responses. Responsibility is not doing everything. It is making a thoughtful choice about your part.",
+   "t": 76.55,
+   "end": 101.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker noticing an unknown leaking container and stepping back carefully",
+     "pexels": "worker noticing leaking container stepping back",
+     "pixabay": "worker leaking container caution",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand holding a radio, calling a supervisor about a hazard",
+     "pexels": "hand radio calling supervisor hazard",
+     "pixabay": "hand radio supervisor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker keeping others away from a hazard area with a raised hand",
+     "pexels": "worker keeping others away hazard",
+     "pixabay": "worker hazard keeping away",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "trained supervisor arriving to handle a reported hazard safely",
+     "pexels": "trained supervisor arriving handle hazard",
+     "pixabay": "supervisor hazard arriving",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dramatic chemical disaster",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And there is a very important limit. If you find a chemical spill, a sharp object, damaged electrical equipment or another serious hazard, do not put yourself at risk. Stop nearby unsafe work if appropriate, keep others away and report it immediately. You do not need to become a hero. You need to act responsibly.",
+   "t": 101.79,
+   "end": 124.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "experienced worker speaking kindly to a new colleague about a left-behind wrapper",
+     "pexels": "worker speaking kindly new colleague",
+     "pixabay": "worker mentoring colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand showing a new worker where packaging belongs",
+     "pexels": "hand showing new worker packaging",
+     "pixabay": "hand showing packaging",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "new worker nodding and learning, no embarrassment, respectful tone",
+     "pexels": "new worker nodding learning respectful",
+     "pixabay": "worker learning respectful",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a senior and new worker walking together across the site",
+     "pexels": "senior new worker walking together site",
+     "pixabay": "workers walking together site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "humiliation imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Sometimes the best action is to ask for trained help. Now imagine a colleague who is new to Edenrise. They finish a job and leave a wrapper behind. You could embarrass them in front of the team. You could tell yourself they do not care. Or you could simply say, \"We collect all our packaging here. Let me show you.\" Which response is more likely to help someone learn?",
+   "t": 124.55,
+   "end": 153.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker speaking up at a short team gathering, suggesting a bin be moved",
+     "pexels": "worker speaking up team gathering",
+     "pixabay": "worker speaking team",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing toward a better spot for a waste bin",
+     "pexels": "hand pointing better spot bin",
+     "pixabay": "hand pointing bin spot",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "supervisor listening attentively and moving the bin closer to the work area",
+     "pexels": "supervisor listening moving bin closer",
+     "pixabay": "supervisor listening bin",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the team working more easily after the small change",
+     "pexels": "team working easily after change",
+     "pixabay": "team working improved",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office boardroom",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Which one builds trust? We can keep high standards and still speak with respect. That is how a strong team works. Sometimes one person's action is to speak up. \"This bin is too far from where we are working. Could we move it?\" \"We are losing useful pieces of timber. Could we make a reuse area?\" \"Rain is washing soil onto the path. Could someone check it?\"",
+   "t": 153.1,
+   "end": 180.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "quiet, respected worker noticing a small problem early on site",
+     "pexels": "worker noticing small problem early",
+     "pixabay": "worker noticing problem",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands keeping a promise, finishing a task as agreed",
+     "pexels": "hands keeping promise finishing task",
+     "pixabay": "hands task finishing",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker leaving their work area tidy and ready for the next person",
+     "pexels": "worker leaving area tidy ready",
+     "pixabay": "worker area tidy ready",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of colleagues showing quiet respect for a reliable teammate",
+     "pexels": "colleagues respect reliable teammate wide",
+     "pixabay": "colleagues respect teammate",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "trophy or medal imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One good question may improve the system for everyone. And managers have a responsibility to listen, provide tools and fix obstacles. It would be unfair to ask workers to meet a standard without giving them the means to do it. Think about the people you respect at work. Perhaps they are not always the loudest. Perhaps they are the ones who notice problems early.",
+   "t": 180.83,
+   "end": 207.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing to notice a small leaking tap during a walk around site",
+     "pexels": "worker noticing leaking tap walk",
+     "pixabay": "worker leaking tap noticing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a dripping tap being checked by hand",
+     "pexels": "dripping tap checked by hand",
+     "pixabay": "tap drip hand check",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker choosing a safe, useful action in response to a small problem",
+     "pexels": "worker choosing safe useful action",
+     "pixabay": "worker safe action choosing",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a worker asking for help from a passing colleague",
+     "pexels": "worker asking help passing colleague",
+     "pixabay": "worker asking help colleague",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic water waste imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Who ask questions when they are unsure. Who keep promises. Who leave their work ready for the next person. They influence the team through what they do. And that influence can begin with ordinary actions. Remember three questions. What do I notice? What can I do safely? Who needs to know? Again. What do I notice? What can I do safely? Who needs to know?",
+   "t": 207.31,
+   "end": 234.21,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker beginning a small action, collecting a wrapper near a waste container",
+     "pexels": "worker collecting wrapper waste container",
+     "pixabay": "worker wrapper collecting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand emptying a nearly full waste container responsibly",
+     "pexels": "hand emptying full waste container",
+     "pixabay": "hand waste container empty",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker treating a colleague with visible respect while working together",
+     "pexels": "worker respect colleague working together",
+     "pixabay": "worker respect colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a team quietly supporting one another on a calm worksite",
+     "pexels": "team supporting each other calm worksite",
+     "pixabay": "team supporting worksite",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic trash pile"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "These questions give us a simple way to respond without blame or panic. Tomorrow, perhaps you will see something small that needs attention. A wrapper. A leaking tap. A waste container that needs emptying. You may not be able to solve the whole problem yourself. But you can begin. Choose a useful action. Ask for help when needed. And treat other people with respect. Because change can begin with me.",
+   "t": 234.21,
+   "end": 263.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker crouching beside a small problem, deciding how to respond calmly",
+     "pexels": "worker crouching deciding problem calmly",
+     "pixabay": "worker deciding problem",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand reaching for a radio to tell a supervisor",
+     "pexels": "hand reaching radio tell supervisor",
+     "pixabay": "hand radio supervisor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a worker weighing what they can safely do alone on site",
+     "pexels": "worker weighing safe action site",
+     "pixabay": "worker weighing action safe",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two workers quietly agreeing on the next respectful step together",
+     "pexels": "workers agreeing next step together",
+     "pixabay": "workers agreeing respectful",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "panic or alarm imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And it becomes even stronger when we choose to act together. In our final lesson, we will look beyond today's work and ask what kind of place we want to leave for the future.",
+   "t": 263.17,
+   "end": 277.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker beginning a small useful action the next morning on site",
+     "pexels": "worker beginning small action morning",
+     "pixabay": "worker morning action",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands picking up a leaking tap handle to fix it",
+     "pexels": "hands picking up tap handle fix",
+     "pixabay": "hands tap handle fix",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker asking for help from a colleague with a respectful nod",
+     "pexels": "worker asking help colleague respectful",
+     "pixabay": "worker asking help nod",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of two colleagues walking together to act on a shared decision",
+     "pexels": "colleagues walking together shared decision",
+     "pixabay": "colleagues walking decision",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "trophy or medal imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:49:47Z"
+  }
+ ]
+}

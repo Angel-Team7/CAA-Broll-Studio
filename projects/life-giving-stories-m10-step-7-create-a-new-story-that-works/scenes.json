@@ -1,0 +1,262 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "This is the turning point of the whole process. You've seen the old story clearly. Now you get to write a new one. In step seven, you'll create a new story that is fully aligned with what matters most to you, and with everything you wrote in step one. Why write a whole story, and not just a single positive sentence? Because a single sentence is easy to dismiss. A story has depth. It has reasons, feelings, and a direction. It gives your mind somewhere new to live.",
+   "t": 0.0,
+   "end": 36.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person turning to a fresh page, sitting up a little straighter",
+     "pexels": "person turning fresh page sitting straighter",
+     "pixabay": "person fresh page sitting up",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a pen poised above a clean new page",
+     "pexels": "close up pen poised clean page",
+     "pixabay": "pen poised clean page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of morning light filling a quiet room",
+     "pexels": "wide shot morning light quiet room",
+     "pixabay": "morning light room wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It can help to give your new story a simple shape. Begin with what's true now. Bring in the evidence you found in step six. Describe who you are, using \"I am.\" Then describe where you're going, connected to step one. And end with a clear commitment. Page fifteen gives you seven tips. Get it done. Let go into the process, and allow yourself to write it. It's inspiring. Your new story should excite and inspire you when you read it. Mission. Connect it to the bigger direction you wrote in step one. Why. Let yourself feel why this new story matters as you write it. Positive. Write in positive, for",
+   "t": 36.41,
+   "end": 92.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing steadily, following a structure down the page",
+     "pexels": "person writing steadily structure page",
+     "pixabay": "person writing structure page",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand underlining the words I am on a page",
+     "pexels": "hand underlining words on page",
+     "pixabay": "hand underlining words page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, quietly inspired while writing",
+     "pexels": "face quietly inspired writing close up",
+     "pixabay": "face inspired writing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Those last two matter. \"I am\" speaks to identity. \"The truth is\" anchors the story in reality, not wishful thinking. Together, they keep your story both inspiring and believable. When you write \"the truth is,\" you're inviting yourself to check that what follows really is true. And when you write \"I am,\" you're stepping into it, now, rather than someday.",
+   "t": 92.69,
+   "end": 117.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand writing the phrase the truth is on a page",
+     "pexels": "hand writing phrase on page close up",
+     "pixabay": "hand writing phrase page",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person reading their own written words back, steady gaze",
+     "pexels": "person reading own words steady gaze",
+     "pixabay": "person reading steady",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person's face, grounded and calm, believing what they read",
+     "pexels": "face grounded calm believing close up",
+     "pixabay": "face grounded calm",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here's part of Sam's new story. \"The truth is, I've been leading for years, I just didn't call it that. I am someone people trust and listen to. I am learning, and I grow into every challenge I take on. The truth is, confidence comes from doing, and I am doing it. I am ready to lead a team I'm proud of, and I'm going for the role.\" Notice that it's not fantasy. Every line connects to real evidence from step six. That's what makes a new story believable, and lasting.",
+   "t": 117.52,
+   "end": 155.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reading a finished page aloud quietly to themselves",
+     "pexels": "person reading aloud quietly page",
+     "pixabay": "person reading aloud quiet",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a completed handwritten story on a page",
+     "pexels": "close up completed handwritten story page",
+     "pixabay": "handwritten story page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, settled and sure, finishing the last line",
+     "pexels": "face settled sure finishing close up",
+     "pixabay": "face settled finishing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Watch for three common traps. The first is being too vague. \"I am great\" doesn't give your mind anything to hold on to. The second is being too grand. If you don't believe a line when you read it, rewrite it until you do. And the third is writing what you think you should want. This is your story. It should sound like you.",
+   "t": 155.17,
+   "end": 181.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person crossing out a vague line and rewriting it more specifically",
+     "pexels": "person crossing out rewriting line",
+     "pixabay": "person crossing out rewriting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand hovering, reconsidering a sentence",
+     "pexels": "hand hovering reconsidering sentence close up",
+     "pixabay": "hand hovering reconsidering",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person pausing, checking if a line truly sounds like them",
+     "pexels": "person pausing checking sentence sounds",
+     "pixabay": "person pausing checking",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Like the old story, you can write as many drafts as you need. Use the extra space on page fifteen. Then, when you're ready, write your final version on page sixteen. Read it back out loud when you've finished. If it doesn't move you yet, keep going. Change a word. Add a reason. Bring in another piece of evidence. You'll know it's ready when reading it makes you sit up a little straighter. Your facilitator is here to help you shape it.",
+   "t": 181.66,
+   "end": 215.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a final draft carefully onto a clean page",
+     "pexels": "person writing final draft carefully",
+     "pixabay": "person writing final draft",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a finished handwritten page, final line underlined",
+     "pexels": "close up finished page final line",
+     "pixabay": "handwritten page final line",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of the workshop room as participants finish writing",
+     "pexels": "workshop room participants finish writing",
+     "pixabay": "workshop room finishing writing",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:58Z"
+  }
+ ]
+}

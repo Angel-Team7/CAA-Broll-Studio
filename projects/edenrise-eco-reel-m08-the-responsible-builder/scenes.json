@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a perfect stone wall. Straight lines. Beautiful joints. Twenty years of experience behind the hands that built it. Now look down: scraps of plastic and cigarette butts around its base. Is the job finished? The wall may be, but the work area isn't. Professional pride belongs in every detail, including the ground we leave behind.",
+   "t": 0.0,
+   "end": 23.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a straight, well-finished stone wall joint",
+     "pexels": "close up straight stone wall joint",
+     "pixabay": "stone wall joint close up",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of an experienced mason stepping back to admire a finished wall",
+     "pexels": "mason admiring finished stone wall",
+     "pixabay": "mason finished wall",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of scraps of plastic and litter at the base of a wall",
+     "pexels": "litter scraps base of wall",
+     "pixabay": "litter wall base",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of the same mason crouching to clear the ground around the wall",
+     "pexels": "mason clearing ground around wall",
+     "pixabay": "mason clearing ground",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "sparkling showroom finish, no texture",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A craftsperson signs their work even without writing a name. The signature is in the measurements, the joints, the clean tools and the finished site. Others can see the standard. Every task is a chance to leave that signature. Not just, 'I built this.' But, 'I built this with care.' What signature will your work leave today?",
+   "t": 23.17,
+   "end": 47.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a craftsman's hands carefully measuring a joint",
+     "pexels": "hands measuring joint close up",
+     "pixabay": "hands measuring joint",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of clean tools laid out neatly on site",
+     "pexels": "clean tools laid out neatly",
+     "pixabay": "tools laid out clean",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a finished, tidy site with no loose material",
+     "pexels": "finished tidy site no loose material",
+     "pixabay": "tidy finished site",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a worker's satisfied expression looking over their finished work",
+     "pexels": "worker looking over finished work",
+     "pixabay": "worker finished work satisfied",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "signature or logo graphic overlay",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "We clean tools because they are valuable. We store materials because they cost money. We protect finished surfaces because repairs take time. Apply that same logic to the land. Soil has value. Water has value. Mature trees have value. Respect is not a different skill. It's the same professional habit, extended beyond the building.",
+   "t": 47.59,
+   "end": 69.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands cleaning a trowel after use",
+     "pexels": "hands cleaning trowel after use",
+     "pixabay": "hands cleaning trowel",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker storing materials carefully under cover",
+     "pexels": "worker storing materials under cover",
+     "pixabay": "worker storing materials cover",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands gently checking soil near a mature tree on site",
+     "pexels": "hands checking soil near mature tree",
+     "pixabay": "hands soil tree check",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a protected mature tree standing beside finished construction",
+     "pexels": "protected mature tree beside construction",
+     "pixabay": "mature tree construction protected",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "money or price tags",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think of the hours spent measuring, cutting, lifting and fitting. Now think of the last five minutes of the day. Collect loose waste. Put materials away. Check the ground. Report what needs attention. Those minutes do not erase the day's hard work. They complete it. A great construction team is known not only by its results, but by how it leaves the site.",
+   "t": 69.93,
+   "end": 96.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a worker collecting loose waste at the end of the day",
+     "pexels": "worker collecting loose waste end of day",
+     "pixabay": "worker waste end day",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands putting tools away into a case at dusk",
+     "pexels": "hands putting tools away dusk",
+     "pixabay": "hands tools away dusk",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a crew doing a final walk-around check of the site",
+     "pexels": "crew final walk around check site",
+     "pixabay": "crew walk around site check",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand marking a checklist as complete",
+     "pexels": "hand marking checklist complete",
+     "pixabay": "hand checklist complete",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "clock or watch close-up as a cliche",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine bringing your family to see a project you helped build. What would you want them to notice? The craftsmanship, of course. But also the care: a clean site, protected trees, materials properly managed. A simple question can guide us at the end of the day. Would I be proud to show this place to someone I love?",
+   "t": 96.0,
+   "end": 120.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a worker's family-style visit to a finished garden project",
+     "pexels": "family visiting finished garden project",
+     "pixabay": "family garden project visit",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker proudly showing a finished structure to a visitor",
+     "pexels": "worker showing finished structure to visitor",
+     "pixabay": "worker showing structure visitor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a protected tree standing healthy beside the finished site",
+     "pexels": "protected healthy tree beside finished site",
+     "pixabay": "healthy tree finished site",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a clean, well-kept site in warm late afternoon light",
+     "pexels": "clean well kept site afternoon light",
+     "pixabay": "clean site afternoon light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "staged family photoshoot, posed smiling at camera",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  }
+ ]
+}

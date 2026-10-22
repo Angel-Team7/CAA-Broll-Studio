@@ -1,0 +1,439 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine one drop of rain. It falls onto a stone beside a building site. Then it starts to move. At first, you might not notice it. One drop seems too small to matter. But now imagine hundreds of drops. Thousands of drops. A whole afternoon of rain. Where does all that water go? Some water enters the soil. Some is taken up by plants. Some flows across the surface.",
+   "t": 0.0,
+   "end": 28.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a single raindrop landing on a stone beside a path",
+     "pexels": "raindrop landing stone path",
+     "pixabay": "raindrop stone close",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of rain beginning to fall across an estate worksite",
+     "pexels": "rain beginning fall worksite",
+     "pixabay": "rain worksite wide",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of worker watching rain start from under a shelter",
+     "pexels": "worker watching rain shelter",
+     "pixabay": "worker rain shelter",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of raindrops gathering and merging on a leaf",
+     "pexels": "raindrops merging on leaf",
+     "pixabay": "raindrops leaf close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "storm disaster",
+    "lightning",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Some may travel into channels, streams or ponds. Some later returns to the air through evaporation. Water does not simply arrive and stop. It moves through a landscape. And what happens in one place can affect another. This is the idea to remember today. Water connects places. Let's repeat. Water connects places. Now imagine a worker cleaning up after a job. There is a little dirty water left in a container. Perhaps it contains paint. Perhaps cement residue. Perhaps oil.",
+   "t": 28.55,
+   "end": 61.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of water running downhill into a small channel",
+     "pexels": "water running downhill channel",
+     "pixabay": "water channel downhill",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of water gathering in a shallow pond on the estate",
+     "pexels": "water gathering shallow pond estate",
+     "pixabay": "pond water estate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of water soaking into soil around plant roots",
+     "pexels": "water soaking soil roots close",
+     "pixabay": "water soil roots",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of mist rising off damp ground after rain",
+     "pexels": "mist rising damp ground rain",
+     "pixabay": "mist ground evaporation",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "flood imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It would be easy to pour it onto the ground. After all, it looks like only a small amount. But remember the raindrop. If water can move from one place to another, substances mixed with it may move too. And some substances can damage soil organisms, plants or aquatic life. So the question is not simply, \"Where can I empty this?\" The better question is, \"What is in this water, and how must it be handled?\"",
+   "t": 61.66,
+   "end": 93.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pouring dirty water from a container toward an outdoor drain, pausing before pouring",
+     "pexels": "worker pausing before pouring water",
+     "pixabay": "worker container pause",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of cloudy paint-tinted water inside a container",
+     "pexels": "cloudy tinted water container close",
+     "pixabay": "dirty water container",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker looking thoughtfully at a drain grate",
+     "pexels": "worker looking at drain grate",
+     "pixabay": "worker drain grate",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a paint tray and brushes beside an outdoor tap",
+     "pexels": "paint tray brushes outdoor tap",
+     "pixabay": "paint tray tap outdoor",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "chemical spill disaster",
+    "dramatic pollution",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Clean water and contaminated water are not the same. Water used for drinking, irrigation or approved cleaning has a different purpose from water containing cement, paint, fuel or chemicals. We must not treat them as if they were interchangeable. At Edenrise, cement washwater, oils, fuels, paints and chemicals must never be poured onto soil, into drains or into natural water.",
+   "t": 93.1,
+   "end": 117.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of two labelled containers, one clean water and one contaminated washwater",
+     "pexels": "two labelled water containers close",
+     "pixabay": "containers labelled water",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker carrying a sealed container of washwater to a disposal area",
+     "pexels": "worker carrying sealed container disposal",
+     "pixabay": "worker container disposal",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a designated containment area for used water on site",
+     "pexels": "designated containment area site wide",
+     "pixabay": "containment area site",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a hand sealing a container lid securely",
+     "pexels": "hand sealing container lid",
+     "pixabay": "hand container seal",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "hazmat suit dramatic",
+    "chemical spill",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Use the designated containment and disposal process. And if you are unsure, stop and ask. Now think about a different kind of problem. A hose has been left running. Maybe the water is only flowing a little. You are busy. The next job is waiting. Do you walk past? Or do you stop, turn off what you can safely turn off, and report the problem?",
+   "t": 117.93,
+   "end": 144.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a garden hose dripping slowly onto the ground",
+     "pexels": "hose dripping slowly ground",
+     "pixabay": "hose dripping water",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker turning off a tap and checking the hose connection",
+     "pexels": "worker turning off tap hose",
+     "pixabay": "worker tap hose check",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker reporting a problem to a supervisor nearby",
+     "pexels": "worker reporting problem supervisor",
+     "pixabay": "worker reporting supervisor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a tidy irrigation area with hoses coiled properly",
+     "pexels": "tidy irrigation hoses coiled area",
+     "pixabay": "irrigation hoses coiled",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "drought disaster imagery",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Sometimes environmental responsibility means preventing pollution. Sometimes it means preventing waste. Both matter. There is something else worth noticing. Plants and healthy soil influence how water moves through the land. Roots, leaves and ground cover can help protect soil and slow runoff. Bare or heavily compacted ground may behave differently. This is one reason Edenrise protects vegetation and plans carefully where machines travel. A tree can be more than a tree.",
+   "t": 144.83,
+   "end": 174.21,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of shade beneath a cork oak contrasted with bare sunlit ground",
+     "pexels": "shade cork oak bare ground contrast",
+     "pixabay": "shade cork oak ground",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a protected planting area after rain, water soaking in evenly",
+     "pexels": "protected planting area after rain",
+     "pixabay": "planting area rain soak",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of roots and ground cover holding soil in place",
+     "pexels": "roots ground cover holding soil",
+     "pixabay": "roots ground cover soil",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker checking where machines may safely travel near vegetation",
+     "pexels": "worker checking machine route vegetation",
+     "pixabay": "worker route vegetation check",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic erosion disaster"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Its presence can influence shade, soil and water in the area around it. Imagine two teams preparing for the same day of work. One team focuses only on completing the task. The other also checks the weather, the location of drains, the storage of materials and how to contain dirty water. Which team is better prepared if rain arrives early?",
+   "t": 174.21,
+   "end": 199.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two crew members checking a weather forecast on a tablet before starting work",
+     "pexels": "crew checking weather forecast morning",
+     "pixabay": "crew weather forecast",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand tracing a drain route on a printed site map",
+     "pexels": "hand tracing drain route map",
+     "pixabay": "hand map drain route",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker securing stored materials under cover before expected rain",
+     "pexels": "worker securing materials cover rain",
+     "pixabay": "worker materials cover rain",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-prepared site with containment in place before a storm",
+     "pexels": "prepared site containment before storm",
+     "pixabay": "site prepared containment",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic storm imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Which one is less likely to leave a problem for somebody downstream? The second team has understood something important. The worksite is part of a wider landscape. Remember three questions. Where will the water come from? Where will it go? What might it carry? Again. Where will it come from? Where will it go? What might it carry?",
+   "t": 199.03,
+   "end": 223.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker tracing the slope of land with a hand to find water's path",
+     "pexels": "worker tracing slope hand water",
+     "pixabay": "worker slope hand trace",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing toward an approved washout station sign",
+     "pexels": "hand pointing washout station sign",
+     "pixabay": "hand sign washout",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an approved washout station clearly marked on site",
+     "pexels": "approved washout station marked site",
+     "pixabay": "washout station site",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker washing a tool at a designated safe washing point",
+     "pexels": "worker washing tool designated point",
+     "pixabay": "worker washing tool safely",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic pollution imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Those questions help us think before we act. Tomorrow, when you see water running across a path, or when you are about to wash a tool, pause for a moment. Ask, \"What is in this water?\" Ask, \"Where will it travel?\" And choose the safe, approved action. Because every drop has a journey. And the care we show in one place can protect life in another. Next, we will discover how very small daily choices become something much bigger when we repeat them.",
+   "t": 223.03,
+   "end": 257.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of water running clear along a well-managed channel",
+     "pexels": "clear water running managed channel",
+     "pixabay": "clear water channel",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of the estate landscape with a healthy stream winding through it",
+     "pexels": "estate landscape healthy stream wide",
+     "pixabay": "estate stream landscape",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "worker pausing beside a tap before washing a tool, thinking it through",
+     "pexels": "worker pausing before washing tool",
+     "pixabay": "worker pause tool tap",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of two colleagues nodding in agreement near a water point",
+     "pexels": "colleagues agreement near water point",
+     "pixabay": "colleagues agreement water",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic pollution imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:46:46Z"
+  }
+ ]
+}

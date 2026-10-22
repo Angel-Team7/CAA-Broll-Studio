@@ -1,0 +1,262 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "This is where the real work begins. In step four, you'll unpack the old story you've been telling yourself, in as much detail as you can. Why go into it so fully? Because you can't change what you can't see. Most old stories live in the background, as a vague feeling or a familiar voice. While they stay vague, they stay powerful. When you write them down, in detail, you bring them into the light. And what's in the light can be questioned.",
+   "t": 0.0,
+   "end": 34.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting still, bracing themselves before writing",
+     "pexels": "person bracing before writing still",
+     "pixabay": "person bracing writing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a pen touching down on a blank page",
+     "pexels": "close up pen touching blank page",
+     "pixabay": "pen blank page close",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a dim, quiet room, one person alone with a notebook",
+     "pexels": "person alone dim room notebook",
+     "pixabay": "person dim room notebook",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "horror lighting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Before you begin, it helps to understand one distinction. There's what happened, and there's what you made it mean. What happened might be: \"I was passed over for a promotion.\" What you made it mean might be: \"I'll never be good enough.\" The event is a fact. The meaning is the story. In this step, you're writing the meaning in all its detail.",
+   "t": 34.34,
+   "end": 60.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing two separate columns on a page",
+     "pexels": "person writing two columns page",
+     "pixabay": "person writing columns page",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand underlining one phrase firmly",
+     "pexels": "hand underlining phrase firmly",
+     "pixabay": "hand underlining phrase",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, realising a distinction, eyes narrowing slightly",
+     "pexels": "face realising distinction close up",
+     "pixabay": "face realising close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And pay attention to the voices. Often, the harshest lines in our stories aren't even ours. They're things we heard from a parent, a teacher, a boss, or a friend, and quietly started repeating to ourselves. Write them down exactly as you hear them. Page nine gives you six tips for writing your old story. Let loose. Write freely, and let go of grammar and neatness. Amplify. Turn up the tones, emotions and voices that make up the story. Colour. Bring in as much depth and detail as you can, and let yourself feel it. Voices. Capture the voices inside the story, whether they're yours, your parents'",
+   "t": 60.41,
+   "end": 115.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing fast and freely, not pausing to correct",
+     "pexels": "person writing fast freely notebook",
+     "pixabay": "person writing fast notebook",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of messy, urgent handwriting filling a page",
+     "pexels": "close up messy urgent handwriting",
+     "pixabay": "messy handwriting page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face showing a flicker of old emotion while writing",
+     "pexels": "face flicker emotion writing close up",
+     "pixabay": "face emotion writing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "crying close-up"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "As you write, you'll start to notice limiting beliefs. A limiting belief is simply a belief about the way something is, that holds you back from moving toward your goals. Limiting beliefs are built from evidence that seems real. But when that evidence is questioned, it often turns out to be false. To help you dig deeper, ask yourself these questions. Who, what and how might be behind this story? If you feel defensive about it, what are you actually defending? What fears, and what ultimate fear, has this story been protecting? What faulty logic has kept it alive and looking real? And what limit",
+   "t": 115.86,
+   "end": 163.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person pausing, hand to forehead, working something out",
+     "pexels": "person hand forehead working out",
+     "pixabay": "person hand forehead thinking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a list of questions handwritten down a page",
+     "pexels": "close up handwritten list questions page",
+     "pixabay": "handwritten questions page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting with a notebook, defensive posture softening",
+     "pexels": "person notebook defensive softening wide",
+     "pixabay": "person notebook softening",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If you're struggling to start, try beginning with this sentence: \"The story I've been telling myself is…\" Then just keep writing, without stopping to judge or correct. Here's part of Sam's old story. \"I'm not good enough to lead. Leaders are confident, and I'm not. My dad always said, don't get too big for your boots. Whenever I speak up, I worry I'll say something stupid, so it's safer to stay quiet. If I went for the role and failed, everyone would see I was a fraud.\" Can you see the beliefs woven through it? Confidence comes before leadership. Being seen is dangerous. One failure would prov",
+   "t": 163.03,
+   "end": 207.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand writing the opening line of a sentence",
+     "pexels": "hand writing opening line sentence",
+     "pixabay": "hand writing opening sentence",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person writing without stopping, absorbed",
+     "pexels": "person writing absorbed without stopping",
+     "pixabay": "person writing absorbed",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person's face, a flicker of an old memory surfacing",
+     "pexels": "face old memory surfacing close up",
+     "pixabay": "face memory surfacing",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "flashback effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "This step can stir things up, and that's okay. It's a sign you're getting close to what matters. If it gets heavy, pause. Breathe. Step away for a moment if you need to. Your facilitator is in the room for exactly this reason, so let them know if you'd like support. You can write several drafts. In fact, many people do. When you're ready, write your final version on page ten, with extra space on page eleven. Be as specific as you can, and unearth as many layers as possible. Your facilitator is here to support you. Take your time.",
+   "t": 207.72,
+   "end": 249.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person pausing, taking a slow breath, hand on chest",
+     "pexels": "person pausing slow breath hand chest",
+     "pixabay": "person breathing pause",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "facilitator sitting close, offering quiet support",
+     "pexels": "facilitator sitting close quiet support",
+     "pixabay": "facilitator quiet support",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand finishing a final written line, steady now",
+     "pexels": "hand finishing final line steady",
+     "pixabay": "hand finishing line steady",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "crying close-up"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  }
+ ]
+}

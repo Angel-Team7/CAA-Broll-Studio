@@ -1,0 +1,348 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Welcome back to part 2 of the 6 core human needs. Let's begin by exploring the major development stages that each of us go through. According to sociologist Dr Morris Massey, the first stage is 0-7 and is known as the imprint period. During this time you were like a sponge forming an estimated 20 billion synapses in your little brain as you absorb vast amounts of information without really knowing how to make much sense of it all. 7-14 is known as the Modeling Period, where you begin to find people you admire and copy them taking on much of their beliefs and attitudes. This is a time you are n",
+   "t": 0.0,
+   "end": 79.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "young apprentice watching a foreman closely",
+     "pexels": "apprentice watching foreman closely",
+     "pixabay": "apprentice foreman watch",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "apprentice copying a foreman's pruning technique",
+     "pexels": "apprentice copying pruning technique",
+     "pixabay": "apprentice copy pruning",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a crew of mixed experience working together",
+     "pexels": "crew mixed experience working together",
+     "pixabay": "crew working together",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands guiding a younger worker's grip on a tool",
+     "pexels": "hands guiding younger worker tool",
+     "pixabay": "hands guide tool",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "classroom",
+    "school desk",
+    "graduation cap"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "During these developmental stages we learn either resourceful or unresourceful ways of getting our core needs met, which affects nearly everything we do in our lives. A resourceful way is simply a way that is good for you, good for others, and good for the greater good. It's a choice that is most optimal and sustainable for the long term. An unresourced way of meeting your core needs is one that is restrictive, offers you short-term gratification only and ultimately slows down your growth by keeping you dependent on a weaker choice.",
+   "t": 79.45,
+   "end": 117.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker calmly and carefully pruning a fruit tree",
+     "pexels": "worker calmly pruning fruit tree",
+     "pixabay": "worker pruning calm",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "a rushed worker leaving tools scattered on the ground",
+     "pexels": "rushed worker scattered tools",
+     "pixabay": "worker tools scattered",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands carefully coiling a garden hose",
+     "pexels": "hands carefully coiling hose",
+     "pixabay": "hands hose coil",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a well-organised tool shed",
+     "pexels": "well organised tool shed wide",
+     "pixabay": "tool shed organised",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "anger",
+    "shouting",
+    "thrown tool"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Let's run through a few examples, the need for significance, resourceful. Working hard to be skillful at your job, doing a quality service so that people truly appreciate and thank you for it. Being a giver of significance and genuinely appreciating those around you for all they do. Being thoughtful and attending to somebody else's need and receiving appreciation in return. Unresourceful, excessive bragging, letting everybody know just how wonderful you are in an arrogant way. Using your power to feel important as you threaten somebody in a weaker position to you. And constantly talking over s",
+   "t": 117.93,
+   "end": 161.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "gardener being thanked warmly for careful work",
+     "pexels": "gardener thanked warmly for work",
+     "pixabay": "gardener thanked work",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of skilled hands finishing a precise repair",
+     "pexels": "skilled hands precise repair",
+     "pixabay": "hands precise repair",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "foreman quietly appreciating a crew member's effort",
+     "pexels": "foreman appreciating crew effort",
+     "pixabay": "foreman crew appreciate",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a neatly finished section of garden wall",
+     "pexels": "neatly finished garden wall",
+     "pixabay": "garden wall finished",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "bragging gesture",
+    "arrogant pose",
+    "pointing at camera",
+    "intense stare into camera"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Examples are almost endless and can apply for each of the core human needs. Here's another for uncertainty, otherwise known as variety. Resourceful. Creatively using your imagination to come up with different ways for renovating your home. Unresourceful. Doing something extremely dangerous to feel the adrenaline of being alive. This will definitely meet your need for variety but may not prove the wisest option long-term. Ultimately, we each choose for ourselves what we consider resourceful and unresourced ways in meeting our needs. This video is simply here to bring enhanced awareness to the t",
+   "t": 161.79,
+   "end": 201.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker creatively rearranging a greenhouse layout",
+     "pexels": "worker rearranging greenhouse layout",
+     "pixabay": "worker greenhouse rearrange",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands sketching a new garden bed plan",
+     "pexels": "hands sketching garden bed plan",
+     "pixabay": "hands sketch garden plan",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a newly redesigned garden path",
+     "pexels": "newly redesigned garden path wide",
+     "pixabay": "garden path redesigned",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "gardener trying a new planting arrangement with care",
+     "pexels": "gardener trying new planting arrangement",
+     "pixabay": "gardener planting arrangement",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "reckless climbing",
+    "unsafe ladder",
+    "dangerous stunt"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Next, let's explore vehicles for meeting our needs and how this could have saved me a lot of money. A vehicle is simply anything that helps you get your needs met. It could be a type of career path you take, the different relationships we have or an activity you engage in on a regular basis. When choosing your next career path or business venture it can be a very wise move to gauge how that choice will meet your six core needs. After all you will be spending a huge amount of your life doing it. So the more it meets your needs the more likely you are to do a great job and succeed.",
+   "t": 201.93,
+   "end": 249.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of two paths crossing through the orchard",
+     "pexels": "two paths crossing through orchard",
+     "pixabay": "orchard paths crossing",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman pointing out two different work routes to an apprentice",
+     "pexels": "foreman pointing two work routes",
+     "pixabay": "foreman apprentice routes",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands weighing two garden tools",
+     "pexels": "hands weighing two garden tools",
+     "pixabay": "hands tools weighing",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "apprentice choosing between two tasks on a clipboard list",
+     "pexels": "apprentice choosing tasks clipboard",
+     "pixabay": "apprentice clipboard choose",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "crossroads signpost graphic",
+    "abstract arrows",
+    "corporate ladder"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "For example, let's say you're deciding between two career pathways, option 1 and option 2. Simply take a moment to rate the two options from 1 to 10 in each of the six core needs. As you think about the two choices, work down your list, putting your score next to each of the human needs. Then add up your total and see how they compare. You may also wish to do this for your current job and relationships to gain a fuller sense of your present vehicles. The more vehicles you have that strongly meet your six core needs, the more fulfilled you are likely to be.",
+   "t": 249.93,
+   "end": 294.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands marking a checklist on a clipboard",
+     "pexels": "hands marking checklist clipboard",
+     "pixabay": "hands checklist clipboard",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "foreman measuring a young plant's growth with a ruler",
+     "pexels": "foreman measuring plant growth ruler",
+     "pixabay": "foreman measuring plant",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a row of plants at different growth stages",
+     "pexels": "row of plants different growth stages",
+     "pixabay": "plants growth stages",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "two colleagues comparing notes over a clipboard",
+     "pexels": "colleagues comparing notes clipboard",
+     "pixabay": "colleagues clipboard notes",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "spreadsheet on screen",
+    "laptop",
+    "office desk"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Coming up next in the extended training of human needs psychology, we will be exploring your top two driving needs. These two top needs determine so much of how you experience your life and we will provide some very interesting examples. We will also reveal two extra hidden needs of the spirit which are gaining popular momentum over the last 10 years according to Google Trends. As you continue to deepen your knowledge around human needs psychology, you may find windows of insight and inspiration opening up for you, revealing hidden secrets into what truly drives you and those around you. Which",
+   "t": 294.62,
+   "end": 353.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the farm at golden hour with the crew finishing",
+     "pexels": "farm golden hour crew finishing",
+     "pixabay": "farm golden hour",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman and crew looking out over the fields together",
+     "pexels": "foreman crew looking over fields",
+     "pixabay": "foreman crew fields",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands closing a garden gate at dusk",
+     "pexels": "hands closing garden gate dusk",
+     "pixabay": "hands gate dusk",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two colleagues walking together toward the greenhouse",
+     "pexels": "colleagues walking toward greenhouse",
+     "pixabay": "colleagues greenhouse walk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "fireworks",
+    "dramatic lightning",
+    "crystal ball"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:38:21Z"
+  }
+ ]
+}

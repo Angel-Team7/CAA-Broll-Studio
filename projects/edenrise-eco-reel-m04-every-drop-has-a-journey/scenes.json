@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A raindrop lands on a worksite. Then it moves. Across the ground, into the soil or toward a ditch. It may eventually connect to a stream or lake. Water links places we think are separate. So when we protect water at a building site, we may be protecting much more than that site. Every drop has a journey.",
+   "t": 0.0,
+   "end": 24.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a single raindrop landing on bare worksite soil",
+     "pexels": "raindrop landing on soil",
+     "pixabay": "raindrop soil close up",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of rainwater tracing a path toward a drainage ditch",
+     "pexels": "rainwater flowing toward ditch",
+     "pixabay": "rainwater ditch flow",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker checking a drainage channel near the site",
+     "pexels": "worker checking drainage channel",
+     "pixabay": "worker drainage channel",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of water pooling near young plants at the site edge",
+     "pexels": "water pooling near plants",
+     "pixabay": "water pooling plants",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "flood disaster footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You spend hours making a concrete finish perfect. Then, at the end, you wash the tools. Where does the dirty water go? Concrete washwater can be highly alkaline and harmful if released into the environment. A well-finished job needs a well-planned cleanup. Use the designated contained washout system. Quality continues after the last tool is put down.",
+   "t": 24.0,
+   "end": 48.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of hands washing a trowel in a contained washout bucket",
+     "pexels": "hands washing trowel washout bucket",
+     "pixabay": "hands trowel washout",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker pouring washwater into a designated containment bin",
+     "pexels": "worker pouring washwater containment bin",
+     "pixabay": "worker washwater containment",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a finished concrete surface beside a sealed washout station",
+     "pexels": "concrete surface beside washout station",
+     "pixabay": "concrete washout station",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a labelled sign marking the concrete washout area",
+     "pexels": "sign marking washout area",
+     "pixabay": "sign washout area",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "water poured directly onto bare soil",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Turn on a tap. Water appears. It feels effortless. But behind that moment are collection, treatment, pipes and energy. On a dry Alentejo summer day, that resource deserves attention. The solution is not to stop using water. It is to use what we need and prevent unnecessary waste. Every careful action helps.",
+   "t": 48.41,
+   "end": 69.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand turning an outdoor tap",
+     "pexels": "hand turning outdoor tap",
+     "pixabay": "hand tap outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker filling a watering can carefully, not overflowing",
+     "pexels": "worker filling watering can carefully",
+     "pixabay": "worker watering can",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a dry sunlit Alentejo-style field near the worksite",
+     "pexels": "dry sunlit field summer",
+     "pixabay": "dry field summer sun",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a water meter or hose fitting checked for leaks",
+     "pexels": "hand checking hose fitting leak",
+     "pixabay": "hose fitting leak check",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "running tap wasted continuously",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a little oil leaking from a machine. It looks too small to matter. But rainwater can move pollutants beyond the original spot. What starts under one machine can become an environmental problem elsewhere. Report leaks early and let trained people contain them safely. A small problem noticed today can prevent a larger one tomorrow.",
+   "t": 69.93,
+   "end": 92.69,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a small oil stain beneath a parked machine",
+     "pexels": "small oil stain under machine",
+     "pixabay": "oil stain machine ground",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker reporting a leak on a radio or to a supervisor",
+     "pexels": "worker reporting leak to supervisor",
+     "pixabay": "worker reporting leak",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a trained crew member containing a spill with absorbent mats",
+     "pexels": "worker containing spill absorbent mats",
+     "pixabay": "worker spill containment",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands placing a drip tray under machinery",
+     "pexels": "hands placing drip tray machinery",
+     "pixabay": "hands drip tray",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "large oil spill disaster imagery",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "When we see a stream, we see moving water. But that water began elsewhere: rain, soil, slopes and tiny channels. Every part of the landscape contributes. That's why keeping rubbish, cement and chemicals out of drainage routes matters. The stream doesn't begin only where we can see it. Protecting water starts at the place where we work.",
+   "t": 92.69,
+   "end": 116.28,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a small stream beginning among rocks and slopes",
+     "pexels": "small stream beginning among rocks",
+     "pixabay": "stream rocks slope",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a drainage channel kept clear of rubbish near a worksite",
+     "pexels": "clear drainage channel worksite",
+     "pixabay": "drainage channel clear",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker clearing debris away from a drainage route",
+     "pexels": "worker clearing debris drainage route",
+     "pixabay": "worker drainage debris",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of water flowing clean over stones in a small channel",
+     "pexels": "clean water flowing over stones",
+     "pixabay": "clean water stones channel",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "polluted water with visible chemicals",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  }
+ ]
+}

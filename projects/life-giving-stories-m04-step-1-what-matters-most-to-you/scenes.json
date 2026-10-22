@@ -1,0 +1,262 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Before we look at what isn't working, we start somewhere else. With what matters most to you. Why start here? Because you can't change a story well if you don't know where you want to go. Step one gives the whole process its direction. Everything you write later will be measured against what you write here.",
+   "t": 0.0,
+   "end": 23.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a person looking out over a view, thinking ahead",
+     "pexels": "person looking out view thinking",
+     "pixabay": "person view thinking",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a blank workbook page waiting to be filled",
+     "pexels": "close up blank workbook page",
+     "pixabay": "blank workbook page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person sitting at a table, pen in hand, about to begin",
+     "pexels": "person at table pen in hand",
+     "pixabay": "person table pen hand",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "So, what inspires you about what's ahead? This includes your dreams, your aspirations, and the direction your life is drawing you toward, both in the short term and the long term. Pay attention to what consistently pulls at you. What excites you. What energises you. What feels deeply meaningful. These things usually point to something deeper about who you are.",
+   "t": 23.17,
+   "end": 48.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person with eyes closed, picturing something meaningful",
+     "pexels": "person eyes closed picturing something",
+     "pixabay": "person eyes closed picturing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person smiling gently while watching family across a room",
+     "pexels": "person smiling watching family",
+     "pixabay": "person smiling family",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands holding a pen, about to write",
+     "pexels": "hands holding pen about to write",
+     "pixabay": "hands pen about write",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "fantasy dream sequence"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think across your whole life, not just one part of it. Your work. Your relationships. Your health. Your growth. And the difference you want to make for others. On page six, you'll write between three and fifteen clear statements about what matters most to you moving forward. Two simple rules. First, make them clear. Not \"be happier,\" but \"spend unhurried evenings with my family.\" Second, write them in the positive. Not \"stop being stressed about money,\" but \"feel calm and in control of my finances.\" Your mind moves toward what you focus on, so describe what you want, not what you want to avoid",
+   "t": 48.0,
+   "end": 91.03,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing a list in a workbook at a kitchen table",
+     "pexels": "person writing list workbook table",
+     "pixabay": "person writing list table",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand crossing out a word and rewriting it",
+     "pexels": "hand crossing out rewriting word",
+     "pixabay": "hand rewriting word",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet home at evening, unhurried",
+     "pexels": "quiet home evening unhurried",
+     "pixabay": "home evening quiet",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Let's look at an example. Meet Sam. Sam's list includes statements like these. \"I lead a team I'm proud of.\" \"I share my ideas with confidence.\" \"I have energy for the people I love at the end of the day.\" Simple, clear, and positive. Two things to watch for. First, don't write what other people expect of you. If a statement starts to sound like \"I should,\" pause and ask whether it's truly yours. Second, check how each one feels. Read it back. If it gives you a little lift of energy, it belongs on your list. If it feels heavy, it may belong to someone else.",
+   "t": 91.03,
+   "end": 135.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person reading their own written list back to themselves",
+     "pexels": "person reading own list back",
+     "pixabay": "person reading list",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a face lighting up slightly while reading a line",
+     "pexels": "face lighting up reading line close up",
+     "pixabay": "face lighting reading",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person pausing, pen down, weighing a heavier line",
+     "pexels": "person pausing pen down weighing",
+     "pixabay": "person pausing pen",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Then there's a second part to this step. Your Destiny Scroll. This takes the long view. Imagine you've reached the end of a long and full life. Someone who knows you deeply looks back on it and says: \"Your life was one that…\" How would you want that sentence to end? Think about what you stood for. How others were changed because you were in their lives. The deeper significance your life carried.",
+   "t": 135.31,
+   "end": 165.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "older person looking back thoughtfully, warm light",
+     "pexels": "older person looking back thoughtfully",
+     "pixabay": "person thoughtful warm light",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing a short, careful sentence",
+     "pexels": "hand writing short careful sentence",
+     "pixabay": "hand writing sentence",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting alone in quiet reflection",
+     "pexels": "person alone quiet reflection wide",
+     "pixabay": "person alone reflection",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "funeral imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Complete that summary in no more than three lines. Keep it short. The limit forces you to choose what truly matters. Sam wrote: \"Your life was one that helped others believe in themselves, because you learned to believe in yourself.\" Don't worry about getting it perfect. This is a first draft of your direction, and you can return to it at any time. Your facilitator will guide you as you write your statements and your Destiny Scroll.",
+   "t": 165.52,
+   "end": 197.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person finishing writing three lines, setting the pen down",
+     "pexels": "person finishing writing setting pen down",
+     "pixabay": "person finishing writing",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "facilitator nodding encouragingly beside a participant's workbook",
+     "pexels": "facilitator nodding beside participant workbook",
+     "pixabay": "facilitator nodding workbook",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a finished handwritten line on a workbook page",
+     "pexels": "close up handwritten line workbook",
+     "pixabay": "handwritten line workbook",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:05:29Z"
+  }
+ ]
+}

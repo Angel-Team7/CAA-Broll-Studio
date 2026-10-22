@@ -1,0 +1,484 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a piece of land that has been used for many years. Perhaps vehicles crossed it often. Perhaps the soil lost some of its protective plants. Perhaps rain began to wash part of the surface away. Now imagine we decide to make a change. We stop leaving rubbish. We stop driving where we do not need to. We prevent dirty water from entering the ground. Those are important improvements.",
+   "t": 0.0,
+   "end": 28.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a worn exposed patch of ground beside thriving native vegetation",
+     "pexels": "worn patch beside thriving vegetation",
+     "pixabay": "worn ground vegetation contrast",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of thin eroded soil on a well-used track",
+     "pexels": "eroded soil used track close",
+     "pixabay": "eroded soil track",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker looking at a damaged patch of land, considering next steps",
+     "pexels": "worker looking damaged land considering",
+     "pixabay": "worker land considering",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of a crew stopping a vehicle from crossing a worn area",
+     "pexels": "crew stopping vehicle worn area",
+     "pixabay": "crew vehicle stop area",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dramatic desertification",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But is there anything more we can do? There is a word you may have heard at Edenrise. Regeneration. It sounds complicated. But the central idea is simple. Regeneration means helping a living place recover and become healthier. Not only reducing harm. Also creating better conditions for life. Let's repeat. Regeneration helps life recover. Regeneration helps life recover.",
+   "t": 28.55,
+   "end": 52.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a protected tree with young plants beginning to grow around its base",
+     "pexels": "protected tree young plants base",
+     "pixabay": "tree young plants base",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a recovering area with new ground cover spreading",
+     "pexels": "recovering area new ground cover",
+     "pixabay": "recovering area ground cover",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "gardener tending to newly planted shrubs in a restoration area",
+     "pexels": "gardener tending newly planted shrubs",
+     "pixabay": "gardener planting shrubs",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a small green shoot emerging from bare earth",
+     "pexels": "green shoot emerging bare earth",
+     "pixabay": "shoot emerging earth",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "time-lapse special effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about a damaged pathway. The first sensible action may be to stop vehicles from crossing the wrong area. That prevents more damage. But the soil may still need time and suitable care to recover. Perhaps the site team protects it from further traffic. Perhaps an approved restoration plan allows vegetation to return. The right response depends on the place. And that is an important distinction.",
+   "t": 52.55,
+   "end": 79.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker placing a barrier to stop vehicles crossing a damaged pathway",
+     "pexels": "worker placing barrier damaged pathway",
+     "pixabay": "worker barrier pathway",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a worn pathway beginning to show new grass growth",
+     "pexels": "worn pathway new grass growth",
+     "pixabay": "pathway grass growth",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an approved restoration area fenced off for recovery",
+     "pexels": "restoration area fenced recovery wide",
+     "pixabay": "restoration area fenced",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "crew member checking on a recovering area during a routine walk",
+     "pexels": "crew checking recovering area walk",
+     "pixabay": "crew checking recovery",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic before-after effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Protecting prevents new damage. Restoring helps repair damage already done. Regeneration looks at how the whole living system can become healthier over time. Now think about a tree. Planting a tree can be a wonderful action. But is the work finished the moment the tree is planted? Not really. A young tree may need appropriate soil, protection, watering and care. The right species must suit the location.",
+   "t": 79.86,
+   "end": 107.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker carefully planting a young tree in approved ground",
+     "pexels": "worker planting young tree carefully",
+     "pixabay": "worker planting tree",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands firming soil gently around a newly planted sapling",
+     "pexels": "hands firming soil sapling close",
+     "pixabay": "hands sapling soil",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker watering a young tree with a watering can",
+     "pexels": "worker watering young tree can",
+     "pixabay": "worker watering tree",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a row of young trees protected with stakes and guards",
+     "pexels": "row young trees protected stakes",
+     "pixabay": "young trees stakes protected",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dying sapling imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And it should only be planted where the land team has approved it. A photograph of planting is not the same as a healthy tree years later. Regeneration asks us to think beyond the first day. At Edenrise, the long-term ecological vision includes caring for cork oaks, protecting water and supporting richer habitats. Why might that matter?",
+   "t": 107.59,
+   "end": 131.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of cork oaks with native shrubs flowering nearby",
+     "pexels": "cork oaks native shrubs flowering",
+     "pixabay": "cork oaks shrubs flowering",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of an insect visiting a flowering native shrub",
+     "pexels": "insect visiting flowering shrub close",
+     "pixabay": "insect flower shrub",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a small pond with birds nearby on the estate",
+     "pexels": "small pond birds estate nearby",
+     "pixabay": "pond birds estate",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "gardener checking the health of a young shrub near water",
+     "pexels": "gardener checking shrub near water",
+     "pixabay": "gardener shrub water",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "zoo or caged animal imagery"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Because different living things support one another. Plants offer cover and food. Insects can help pollinate flowers. Birds and other animals use trees, shrubs and water in different ways. Healthy habitats can support more of these relationships. We do not need to understand every one of them to know they deserve care. Now imagine a building team working close to an area set aside for nature. The simplest shortcut would be to drive through it. But the team chooses the approved route instead.",
+   "t": 131.59,
+   "end": 165.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "building crew following a marked route around a protected habitat area",
+     "pexels": "crew following marked route habitat",
+     "pixabay": "crew route habitat marked",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a boundary marker separating construction from protected land",
+     "pexels": "boundary marker construction protected land",
+     "pixabay": "boundary marker construction",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of construction continuing beside an undisturbed natural area",
+     "pexels": "construction beside undisturbed natural area",
+     "pixabay": "construction natural area",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker checking the approved route on a tablet before driving",
+     "pexels": "worker checking approved route tablet",
+     "pixabay": "worker route check tablet",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "vehicle driving through vegetation"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Perhaps that route is a little longer. Perhaps it takes an extra minute. What has the team achieved? It has allowed construction to continue while giving nature the space it needs. That is not a small thing. It is a practical expression of respect. But regeneration is not only about what we avoid. It is also about what we contribute. Could we use approved materials more efficiently?",
+   "t": 165.93,
+   "end": 193.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker carefully storing reusable stone on a labelled pallet",
+     "pexels": "worker storing reusable stone pallet",
+     "pixabay": "worker stone pallet storage",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand pointing out early signs of soil erosion on a slope",
+     "pexels": "hand pointing early erosion slope",
+     "pixabay": "hand erosion slope",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "crew member reporting an erosion patch to a supervisor on a radio",
+     "pexels": "crew reporting erosion supervisor radio",
+     "pixabay": "crew reporting erosion",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a supervised restoration activity with several workers planting",
+     "pexels": "supervised restoration activity workers planting",
+     "pixabay": "restoration activity planting",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic landslide"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Could we protect healthy topsoil during earthworks? Could we store reusable stone and timber properly? Could we report erosion early, before it becomes severe? Could we help the land team with a supervised restoration activity? These questions help us become contributors, not simply visitors. Think about two photographs. In the first, a work area is damaged and untidy.",
+   "t": 193.66,
+   "end": 217.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up comparing a damaged untidy work corner with a cleaned organised one",
+     "pexels": "damaged untidy corner cleaned organised",
+     "pixabay": "before after site corner",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker organising materials neatly in a previously untidy area",
+     "pexels": "worker organising materials untidy area",
+     "pixabay": "worker organising materials",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an undisturbed protected patch beside tidy stored materials",
+     "pexels": "undisturbed protected patch tidy materials",
+     "pixabay": "protected patch materials tidy",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "small group of workers reviewing a printed before-and-after photo together",
+     "pexels": "workers reviewing before after photo",
+     "pixabay": "workers reviewing photo site",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic time-lapse effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "In the second, the waste is gone, materials are organised and the protected ground has been left undisturbed. What changed? People changed their actions. Now imagine what could improve over months and years if those actions continued. Regeneration takes patience. It is built through many careful decisions. Remember three steps. Prevent harm. Protect life. Help recovery. Again.",
+   "t": 217.66,
+   "end": 241.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker gently checking a young plant's progress months after planting",
+     "pexels": "worker checking young plant progress",
+     "pixabay": "worker plant progress check",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a thriving shrub that was planted during an earlier restoration",
+     "pexels": "thriving shrub earlier restoration close",
+     "pixabay": "thriving shrub restoration",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a once-bare patch now covered in healthy young growth",
+     "pexels": "once bare patch healthy growth wide",
+     "pixabay": "bare patch healthy growth",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker and supervisor walking together through a recovering landscape",
+     "pexels": "worker supervisor walking recovering landscape",
+     "pixabay": "worker supervisor landscape walk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic time-lapse effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Prevent harm. Protect life. Help recovery. Not every worker must become an ecologist. But every worker can help create the conditions for good ecological work. Tomorrow, look at your worksite and ask: \"What damage can we prevent?\" Then ask: \"What can we help restore, with the right guidance?\" Because regeneration is more than leaving less harm behind. It is choosing to help life recover. Next, we will bring everything together and ask what it really means to finish a building job with excellence.",
+   "t": 241.24,
+   "end": 275.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of cork oaks and healthy ground cover across the estate",
+     "pexels": "cork oaks healthy ground cover estate",
+     "pixabay": "cork oaks ground cover",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands gently supporting a young plant's stem",
+     "pexels": "hands supporting young plant stem",
+     "pixabay": "hands plant stem support",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker walking through a landscape that is visibly recovering",
+     "pexels": "worker walking recovering landscape",
+     "pixabay": "worker landscape recovering",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of two workers quietly satisfied, looking at a healthy patch of land",
+     "pexels": "workers satisfied looking healthy land",
+     "pixabay": "workers satisfied land healthy",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "dramatic time-lapse effect"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:48:29Z"
+  }
+ ]
+}

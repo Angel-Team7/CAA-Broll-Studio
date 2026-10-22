@@ -1,0 +1,176 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A new story becomes real when you start living it. Thinking changes feelings. Feelings change actions. And consistent actions change your life. In step nine, you'll design specific actions that become lifestyle rituals, so your new story can become your reality. Why rituals, and not just goals? Because a goal is something you reach once. A ritual is something you repeat, until it becomes part of who you are.",
+   "t": 0.0,
+   "end": 28.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person taking one small deliberate action at their desk",
+     "pexels": "person deliberate action desk",
+     "pixabay": "person action desk deliberate",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing the word ritual at the top of a page",
+     "pexels": "hand writing ritual top page",
+     "pixabay": "hand writing ritual page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person repeating a small morning routine",
+     "pexels": "person morning routine wide shot",
+     "pixabay": "person morning routine wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On page nineteen, you'll create three to five rituals that support your new story. Then you'll check each one against a simple test called AIMS. A is for aligns. Does this ritual align with what matters most to you, and your forward-moving goals? I is for invest. Can you invest between forty-five and ninety days in making it part of your lifestyle? That's a real commitment. So choose rituals you're genuinely willing to keep, not ones that only sound impressive today. M is for measurable. Is it clear enough to track, so you know you're doing it consistently? And S is for sustainable. Can it fit",
+   "t": 28.55,
+   "end": 77.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand writing a short checklist with four letters",
+     "pexels": "hand writing short checklist letters",
+     "pixabay": "hand writing checklist",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person checking a calendar, counting out weeks",
+     "pexels": "person checking calendar counting weeks",
+     "pixabay": "person calendar counting",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person pausing, weighing whether a habit is realistic",
+     "pexels": "person pausing weighing habit realistic",
+     "pixabay": "person pausing weighing",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One simple way to make a ritual stick is to attach it to something you already do. After I pour my morning coffee, I read my new story. Before I leave work, I note one thing I did that fits it. Existing habits become reminders for the new ones. Here are two of Sam's rituals. \"Every weekday morning, I read my new story out loud before I open my email.\" \"In every team meeting, I share at least one idea in the first fifteen minutes.\" Both are small. Both are measurable. And both build evidence for the new story, day after day.",
+   "t": 77.79,
+   "end": 120.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person pouring morning coffee, notebook open beside the cup",
+     "pexels": "person pouring coffee notebook beside",
+     "pixabay": "person coffee notebook morning",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing a note before leaving for work",
+     "pexels": "hand writing note before leaving",
+     "pixabay": "hand writing note leaving",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person speaking up in a small team meeting, early in the discussion",
+     "pexels": "person speaking up team meeting early",
+     "pixabay": "person speaking meeting early",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "That's the hidden power of rituals. Every time you do one, you prove the new story a little more true. And the old story gets a little quieter. A common mistake is making rituals too big. If a ritual won't survive a busy week, make it smaller. Small and consistent beats big and occasional. Think across your life as you choose. One ritual might be about your mindset, like reading your story. Another might be about your relationships, like having one honest conversation a week. Another might be about your body or your energy, because it's much easier to live a new story when you're rested. Your ",
+   "t": 120.0,
+   "end": 169.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person doing a small consistent action at the same time each day",
+     "pexels": "person small consistent daily action",
+     "pixabay": "person consistent daily action",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand ticking a box on a simple tracker",
+     "pexels": "hand ticking box tracker close up",
+     "pixabay": "hand ticking tracker",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person resting, well rested, before beginning the day",
+     "pexels": "person resting well before day",
+     "pixabay": "person resting before day",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:07:41Z"
+  }
+ ]
+}

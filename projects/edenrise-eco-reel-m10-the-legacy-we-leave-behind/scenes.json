@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine returning to this project twenty years from now. You remember the early mornings, the hard days and the buildings you helped create. Now look around. Are the trees healthier? Is the land respected? Can people enjoy the place? A legacy is not only the structure that remains. It is also the condition of the world around it.",
+   "t": 0.0,
+   "end": 24.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a mature, established garden around a finished building",
+     "pexels": "mature garden around finished building",
+     "pixabay": "mature garden building",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of an experienced worker looking out over the grounds they helped build",
+     "pexels": "worker looking over grounds built",
+     "pixabay": "worker grounds looking over",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of healthy soil and thriving plants beside an old structure",
+     "pexels": "healthy soil thriving plants old structure",
+     "pixabay": "healthy soil plants structure",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of people enjoying a well-kept outdoor space",
+     "pexels": "people enjoying well kept outdoor space",
+     "pixabay": "people outdoor space enjoy",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "nostalgic sepia filter montage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A building career might last thirty or forty years. Some discarded plastics can persist for decades or centuries, gradually breaking into smaller pieces. Think about that difference. We may spend our working lives creating something worthwhile, then leave waste that outlasts our careers. This isn't a reason for guilt. It's a reason for care. Build things worth keeping. Collect what shouldn't remain.",
+   "t": 24.0,
+   "end": 49.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a worn tool bag showing decades of use",
+     "pexels": "worn tool bag decades of use",
+     "pixabay": "worn tool bag use",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a small piece of discarded plastic beside healthy soil",
+     "pexels": "discarded plastic beside healthy soil",
+     "pixabay": "plastic soil discarded",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker carefully collecting plastic waste into a bag",
+     "pexels": "worker collecting plastic waste bag",
+     "pixabay": "worker plastic waste bag",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a long-serving crew member reflecting beside the finished site",
+     "pexels": "worker reflecting beside finished site",
+     "pixabay": "worker reflecting site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "decay or pollution disaster montage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A child may walk through this place years from now. They won't know who carried each stone or installed each beam. But they'll experience the result. The buildings. The trees. The water. The care, or the lack of it. We build for people we may never meet. That's why the small decisions we make today are part of something larger.",
+   "t": 49.66,
+   "end": 74.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a child walking with a family through a finished garden path",
+     "pexels": "child walking family garden path",
+     "pixabay": "child family garden path",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of healthy trees and water features along the path",
+     "pexels": "healthy trees water features path",
+     "pixabay": "trees water path healthy",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a worker's hands finishing a stone detail, unseen by visitors",
+     "pexels": "hands finishing stone detail",
+     "pixabay": "hands stone detail finish",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the finished grounds in soft afternoon light",
+     "pexels": "finished grounds soft afternoon light",
+     "pixabay": "grounds afternoon light soft",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "posed family photoshoot smiling at camera",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a beautiful house surrounded by damaged, neglected ground. Something is missing. Now imagine the same house in a landscape where soil, trees and water are cared for. The building hasn't changed. But the whole experience has. Excellent construction and ecological care are not rivals. Together, they make a place truly worth visiting.",
+   "t": 74.48,
+   "end": 96.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a beautiful house surrounded by healthy, cared-for garden land",
+     "pexels": "beautiful house healthy garden land",
+     "pixabay": "house healthy garden land",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a gardener tending the land beside the finished house",
+     "pexels": "gardener tending land beside house",
+     "pixabay": "gardener land house",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of healthy soil and plants right up against the building's edge",
+     "pexels": "healthy soil plants building edge",
+     "pixabay": "soil plants building edge",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of the whole property, architecture and greenery together",
+     "pexels": "property architecture greenery together wide",
+     "pixabay": "property architecture greenery",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "building with bare dirt lot, no landscaping",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "At the end of each day, a simple choice remains. Walk past the waste, or collect it. Ignore a small risk, or report it. Leave the ground damaged, or protect what can be protected. Repeated choices become a way of working. And that way of working becomes our legacy. At Edenrise, the promise is simple: care for the land, care for each other, leave every place better.",
+   "t": 96.41,
+   "end": 124.14,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of a worker choosing to collect waste at the end of the day",
+     "pexels": "worker choosing collect waste end day",
+     "pixabay": "worker collect waste end day",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand reporting a small risk on a note or radio",
+     "pexels": "hand reporting small risk note",
+     "pixabay": "hand reporting risk note",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a protected patch of ground left undisturbed on site",
+     "pexels": "protected ground undisturbed site wide",
+     "pixabay": "protected ground undisturbed",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a diverse crew finishing the day together on healthy, cared-for land",
+     "pexels": "crew finishing day together healthy land",
+     "pixabay": "crew finishing day land",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate pledge graphic overlay",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:16Z"
+  }
+ ]
+}

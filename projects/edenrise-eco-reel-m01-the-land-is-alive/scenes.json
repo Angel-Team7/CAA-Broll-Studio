@@ -1,0 +1,246 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Look at the ground beneath your boots. Just dirt? Look closer. There are roots, fungi and tiny living organisms, working even when we cannot see them. A building starts with foundations. Nature has foundations too. Before you move the earth, remember: you are working on a living system, not an empty surface.",
+   "t": 0.0,
+   "end": 21.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of work boots standing on bare soil",
+     "pexels": "boots standing on soil",
+     "pixabay": "boots soil ground",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "macro of roots and small insects in turned earth",
+     "pexels": "close up roots insects soil",
+     "pixabay": "roots soil insects",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "crew member crouching to look closely at the ground before digging",
+     "pexels": "worker crouching looking at ground",
+     "pixabay": "worker ground inspect",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a garden plot with foreman pointing at the earth",
+     "pexels": "foreman pointing at garden plot",
+     "pixabay": "foreman garden plot",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "demolition",
+    "concrete only, no soil visible",
+    "office setting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:54:57Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A mature tree gives shade on a hot working day. Its roots help hold the soil. Its branches shelter birds. And its fallen leaves feed the life beneath it. How long would it take us to replace everything that tree does? Before parking a machine near it, pause. Some things are worth protecting precisely because we cannot rebuild them tomorrow.",
+   "t": 21.52,
+   "end": 46.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a mature tree shading two crew members on a hot day",
+     "pexels": "workers resting under tree shade",
+     "pixabay": "tree shade workers",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of tree roots holding soil in place",
+     "pexels": "close up tree roots soil",
+     "pixabay": "tree roots soil",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker carefully steering a wheelbarrow around a tree",
+     "pexels": "worker wheelbarrow avoiding tree",
+     "pixabay": "wheelbarrow tree worker",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of fallen leaves gathered at the base of a tree",
+     "pexels": "fallen leaves under tree",
+     "pixabay": "fallen leaves ground",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "tree being cut down",
+    "machine crushing roots",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:54:57Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A leaf falls. Small organisms help break it down. The soil gains organic matter. Roots grow, and another leaf appears. Nature is full of connections. Construction is too: a small mistake in one task can affect the next team. When we understand connections, we make better decisions. Look beyond today's job. Ask what your actions affect next.",
+   "t": 46.34,
+   "end": 69.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "macro of a leaf decomposing into soil",
+     "pexels": "leaf decomposing on soil",
+     "pixabay": "leaf soil decay",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "two crew members talking by a wheelbarrow handing off a tool",
+     "pexels": "two colleagues talking wheelbarrow",
+     "pixabay": "colleagues wheelbarrow tool",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "foreman guiding one apprentice pointing down the garden row",
+     "pexels": "foreman guiding apprentice garden",
+     "pixabay": "foreman apprentice garden",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a small crew working in sequence along a planting row",
+     "pexels": "crew working planting row",
+     "pixabay": "crew planting row",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "isolated worker with no connection to others",
+    "office meeting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:54:57Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Two teams build the same wall beside a tree. One puts materials wherever there is space. The other checks the ground and protects the root area first. Both might finish the wall. But which team has finished responsibly? Quality is not only the straightness of a wall. It is also the care taken for everything around it.",
+   "t": 69.93,
+   "end": 93.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of two crew pairs building a low stone wall near a tree",
+     "pexels": "crew building stone wall near tree",
+     "pixabay": "stone wall tree crew",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands carefully laying protective mulch around tree roots",
+     "pexels": "hands laying mulch around tree",
+     "pixabay": "hands mulch tree roots",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a crew member checking the ground before placing materials",
+     "pexels": "worker checking ground before placing materials",
+     "pixabay": "worker ground materials",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a straight brick line being finished by hand",
+     "pexels": "hands finishing brick wall line",
+     "pixabay": "hands brick wall",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "materials dumped carelessly near roots",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:54:57Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Tomorrow, before starting the machine, spend ten seconds looking around. Where does water flow? Is there a young plant? Is loose packaging blowing away? Ten seconds will not complete the work. But they may help prevent a problem that takes hours to correct. Awareness begins with attention. Notice first. Then act.",
+   "t": 93.52,
+   "end": 114.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "medium shot of an apprentice pausing to look around before starting a machine",
+     "pexels": "worker pausing before starting machine",
+     "pixabay": "worker pause machine",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands checking a small plant growing near the work area",
+     "pexels": "hands checking young plant",
+     "pixabay": "hands young plant",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet garden work area in early morning light",
+     "pexels": "quiet garden worksite morning light",
+     "pixabay": "garden worksite morning",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of loose packaging secured under a stone to stop it blowing away",
+     "pexels": "packaging secured under stone",
+     "pixabay": "packaging stone secured",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "littered construction debris",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:54:57Z"
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here's a step that surprises many people. Before you let the old story go, you acknowledge how it has served you. Why would we do that? Because every story, no matter how limiting, exists for a reason. At some point, it helped you. It kept you safe, or helped you make sense of something difficult. If you skip this step, the old story often hangs on, because part of you still believes you need it. When you honour what it gave you, it becomes much easier to release.",
+   "t": 0.0,
+   "end": 36.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person looking at their own written page with a softer expression",
+     "pexels": "person looking softer expression page",
+     "pixabay": "person softer expression page",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand resting gently on top of a closed notebook",
+     "pexels": "hand resting on closed notebook",
+     "pixabay": "hand notebook resting",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting calmly, less tense than before",
+     "pexels": "person sitting calmly less tense",
+     "pixabay": "person calm sitting",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think of it like a coat you wore through a long winter. It kept you warm when you needed it. But the season has changed, and now it's only weighing you down. You don't have to be angry at the coat. You can thank it, and take it off. So ask yourself, what has this story helped me… Avoid? Gain? Feel? Protect? Let's take each one.",
+   "t": 36.41,
+   "end": 63.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a warm winter coat hanging on a hook",
+     "pexels": "close up winter coat hanging hook",
+     "pixabay": "winter coat hook",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person taking off a coat slowly, setting it down",
+     "pexels": "person taking off coat slowly",
+     "pixabay": "person taking off coat",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person writing a short list of four words on a page",
+     "pexels": "person writing short list page",
+     "pixabay": "person writing list page",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Avoid. What has this story helped you stay away from? A risk, a conversation, a disappointment? Gain. What has it given you? Approval, comfort, a sense of control? Feel. What has it let you feel, or not feel? And protect. What has it shielded you from? For Sam, the story \"I'm not good enough to lead\" helped Sam avoid the risk of public failure. It helped Sam gain approval for being humble and reliable. It let Sam feel safe in the background. And it protected Sam from criticism, and from the fear of being exposed. None of that is foolish. It made sense at the time.",
+   "t": 63.72,
+   "end": 107.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person writing steadily down a four-part list",
+     "pexels": "person writing steadily four part list",
+     "pixabay": "person writing list steady",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing single words beside each heading",
+     "pexels": "hand writing words beside heading",
+     "pixabay": "hand writing words heading",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face, understanding dawning, gentle realisation",
+     "pexels": "face understanding dawning gentle close up",
+     "pixabay": "face realisation close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If you find only two or three examples, ask a deeper question. \"If this story weren't true, what would I have to face?\" The answer often reveals what the story has really been protecting. On page twelve, write between ten and twenty-five examples of how your old story has served you. Be generous and honest. This isn't about blame or shame. It's about understanding. You might notice some relief as you write. Recognising that you had good reasons for your story makes it easier to see that you don't need it anymore.",
+   "t": 107.59,
+   "end": 146.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person pausing, asking themselves a deeper question, eyes closed briefly",
+     "pexels": "person pausing eyes closed briefly",
+     "pixabay": "person eyes closed pause",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand filling in a long numbered list, unhurried",
+     "pexels": "hand filling numbered list unhurried",
+     "pixabay": "hand numbered list",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "person's face relaxing slightly, a small sense of relief",
+     "pexels": "face relaxing relief close up",
+     "pixabay": "face relief close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Your facilitator will now give you time to complete your list. Aim for at least ten. The ones that take longest to find are often the most revealing.",
+   "t": 146.07,
+   "end": 157.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "facilitator checking in quietly with a participant, warm",
+     "pexels": "facilitator checking in warm quiet",
+     "pixabay": "facilitator checking participant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person continuing to write, unhurried, focused",
+     "pexels": "person continuing write unhurried focused",
+     "pixabay": "person writing unhurried",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of the quiet workshop room, everyone writing",
+     "pexels": "quiet workshop room everyone writing",
+     "pixabay": "workshop room writing",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  }
+ ]
+}

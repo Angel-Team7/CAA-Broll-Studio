@@ -1,0 +1,244 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "We say, 'Throw it away.' But where is away? A wrapper dropped beside a worksite can move with the wind, enter a ditch or stay in the soil. It has not disappeared. It has only changed location. On a site where we build for the future, our waste also has a future. Put it in the right place.",
+   "t": 0.0,
+   "end": 24.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a wrapper caught by wind near a worksite fence",
+     "pexels": "wind blowing wrapper near fence",
+     "pixabay": "wrapper wind fence",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a ditch beside a building site with loose litter nearby",
+     "pexels": "ditch beside building site",
+     "pixabay": "ditch site litter",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker picking up rubbish and placing it in a bin",
+     "pexels": "worker placing rubbish in bin",
+     "pixabay": "worker rubbish bin",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands sorting waste into a labelled bin",
+     "pexels": "hands sorting waste into bin",
+     "pixabay": "hands waste bin",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "overflowing landfill",
+    "office recycling bin"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine spending twenty years building something extraordinary. Every day matters. Every detail counts. Now imagine leaving one plastic bottle behind. Some plastics can persist in the environment for decades or even centuries, slowly fragmenting rather than simply vanishing. One careless minute can leave a trace far beyond a working career. We build to last. Let's not leave pollution to last too.",
+   "t": 24.41,
+   "end": 49.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a finished garden structure built over many seasons",
+     "pexels": "finished garden structure landscaping",
+     "pixabay": "garden structure landscaping",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a plastic bottle left on the ground among plants",
+     "pexels": "plastic bottle on ground plants",
+     "pixabay": "plastic bottle ground",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a crew member collecting a discarded bottle into a bag",
+     "pexels": "worker collecting bottle into bag",
+     "pixabay": "worker bottle bag",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands tying off a full rubbish bag",
+     "pexels": "hands tying rubbish bag",
+     "pixabay": "hands rubbish bag",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "ocean plastic stock footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A cigarette butt is tiny. But most cigarette filters contain a type of plastic. Left on the ground, they can release contaminants and break into smaller pieces. A lit cigarette can also create a fire risk in dry vegetation. Think of the hours spent preparing one beautiful landscape. Is that worth risking for one butt? Use the approved receptacle, where smoking is permitted.",
+   "t": 49.66,
+   "end": 75.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a cigarette butt on bare ground near dry grass",
+     "pexels": "cigarette butt on ground dry grass",
+     "pixabay": "cigarette butt ground",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker using a designated smoking receptacle",
+     "pexels": "worker using smoking receptacle outdoors",
+     "pixabay": "worker receptacle outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a landscaped area with a sign marking the smoking area",
+     "pexels": "outdoor smoking area sign garden",
+     "pixabay": "outdoor smoking area sign",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands extinguishing a cigarette properly in a metal bin",
+     "pexels": "hands extinguishing cigarette metal bin",
+     "pixabay": "hands cigarette bin",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "fire or flames",
+    "person smoking indoors"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A loose strip of packaging lies beside the materials. 'I'll get it later,' someone thinks. Then the wind arrives. The plastic catches on a bush, or travels toward water. The wind has no bin and no understanding of our intentions. One simple action changes the ending: collect loose waste as you work. Don't leave the cleanup to the weather.",
+   "t": 75.72,
+   "end": 100.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a loose plastic strip caught on a bush in the wind",
+     "pexels": "plastic strip caught on bush wind",
+     "pixabay": "plastic strip bush wind",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "medium shot of a worker chasing down loose packaging before it blows away",
+     "pexels": "worker chasing loose packaging wind",
+     "pixabay": "worker packaging wind",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of materials stacked and weighed down near a water channel",
+     "pexels": "materials weighed down near water channel",
+     "pixabay": "materials secured water",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands placing loose waste into a sealed container",
+     "pexels": "hands placing waste sealed container",
+     "pixabay": "hands waste container",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "storm or extreme weather footage",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Metal, timber, plastic packaging and concrete rubble are not all the same. Some can be reused. Others need separate waste streams and authorised collection. Mixing everything may make recovery harder. The question is not simply, 'Where can I throw this?' It is, 'Where should this material go?' Good construction includes a plan for what remains afterward.",
+   "t": 100.55,
+   "end": 124.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of separated waste streams: metal, timber and rubble in marked areas",
+     "pexels": "separated construction waste piles",
+     "pixabay": "waste piles sorted",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands sorting timber offcuts from rubble",
+     "pexels": "hands sorting timber rubble",
+     "pixabay": "hands timber rubble",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "medium shot of a worker checking a waste-sorting chart on a clipboard",
+     "pexels": "worker checking waste sorting clipboard",
+     "pixabay": "worker clipboard waste",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of a labelled bin for plastic packaging",
+     "pexels": "labelled bin plastic packaging",
+     "pixabay": "labelled bin plastic",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "industrial landfill",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:57:15Z"
+  }
+ ]
+}

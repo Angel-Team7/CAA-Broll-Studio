@@ -1,0 +1,219 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Now that you know what matters most, it's time for an honest look at the other side. Where is your life not working? In this step, you're identifying where your current experience isn't aligned with what truly matters to you. These might be areas that feel frustrating. Stuck. Inconsistent. Or not producing the results you know are possible.",
+   "t": 0.0,
+   "end": 24.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting with a troubled, honest expression, looking at a workbook",
+     "pexels": "person troubled honest expression workbook",
+     "pixabay": "person troubled workbook",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand hovering over a page, hesitating",
+     "pexels": "hand hovering over page hesitating",
+     "pixabay": "hand hovering page",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person sitting alone, surrounded by quiet",
+     "pexels": "person alone quiet room wide",
+     "pixabay": "person alone quiet",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "crying close-up"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice the language here. We're not asking where you are failing. We're asking where your story isn't working for you. That's an important difference. The problem usually isn't you. It's the story you're running in that part of your life. How can you tell when a story isn't working? Look for repeating patterns. The same argument, again and again. The same ceiling you keep hitting at work. The same promise to yourself that never quite happens. When something keeps repeating, there is usually a story underneath it.",
+   "t": 24.0,
+   "end": 60.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two people talking quietly, one nodding in recognition",
+     "pexels": "two people talking nodding recognition",
+     "pixabay": "two people talking nodding",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person staring at the same page of a notebook again, familiar frustration",
+     "pexels": "person staring notebook page frustration",
+     "pixabay": "person notebook frustration",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hand tapping a pen, repeating a thought",
+     "pexels": "hand tapping pen repeating thought",
+     "pixabay": "hand tapping pen",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "angry outburst"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "On page seven, you'll see a list of life areas. Career and business. Health. Money. Family. Relationships. Intimacy. Purpose. And a few more, including \"something else.\" Read through them slowly, and notice your reaction to each one. The area that makes you pause, or wince a little, is often the one to work on. Here's the key instruction. Choose just one area. The one that feels most important, and that will create the greatest shift moving forward. It's tempting to fix everything at once. But this process goes deep, and depth needs focus. Often, when you change one central story, other areas ",
+   "t": 60.0,
+   "end": 104.28,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand running a finger down a printed list in a workbook",
+     "pexels": "hand finger down printed list workbook",
+     "pixabay": "hand list workbook",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person pausing on one line of the list, slight wince",
+     "pexels": "person pausing wince reading list",
+     "pixabay": "person pausing wince",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person thinking deeply at a table, workbook open",
+     "pexels": "person thinking deeply table workbook",
+     "pixabay": "person thinking table workbook",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One more thing. Be careful not to pick the safest option. The area you'd rather avoid is often the one that holds the most energy for change. Once you've chosen, give your story a simple name. Sam chose career, and called it \"the story that I'm not good enough to lead.\" Then write about why you selected this area. What's happening there? What is it costing you? How does it connect to what matters most from step one? Be honest, and be specific. Specific means real moments, not general feelings. Not \"work is hard,\" but \"I haven't applied for a promotion in three years, even when I wanted to.\" Th",
+   "t": 104.28,
+   "end": 154.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a hand circling one word on a page",
+     "pexels": "hand circling word on page",
+     "pixabay": "hand circling word",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "person writing a short title at the top of a fresh page",
+     "pexels": "person writing title fresh page",
+     "pixabay": "person writing title page",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "person pausing, recalling a specific memory, distant look",
+     "pexels": "person recalling memory distant look",
+     "pixabay": "person recalling memory",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "And remember, naming what isn't working takes courage. It's the first real step toward changing it. Your facilitator will help you choose your area, and name the story you'll work on today.",
+   "t": 154.76,
+   "end": 168.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "facilitator speaking quietly to one participant, supportive",
+     "pexels": "facilitator speaking quietly supportive",
+     "pixabay": "facilitator speaking supportive",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "person nodding slowly, resolve settling in",
+     "pexels": "person nodding slowly resolve",
+     "pixabay": "person nodding resolve",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of the workshop room, quiet focus",
+     "pexels": "workshop room quiet focus wide",
+     "pixabay": "workshop room quiet",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:06:24Z"
+  }
+ ]
+}

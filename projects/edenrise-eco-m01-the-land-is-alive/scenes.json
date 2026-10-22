@@ -1,0 +1,495 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine arriving at work in the morning. In front of you, you see the land. There are trees. Stones. Plants. Earth. There are paths where the machines pass. And there is work to do. Is the land really empty? But imagine that you could look inside the soil. What would you discover? You would find roots. Small insects. Fungi. And millions of organisms so small that we cannot see them with the naked eye.",
+   "t": 0.0,
+   "end": 30.62,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of an African grounds crew arriving at a cork-oak estate at sunrise",
+     "pexels": "crew arriving at estate sunrise",
+     "pixabay": "estate sunrise crew",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "gardener crouching to sift a handful of soil, checking roots and insects",
+     "pexels": "gardener sifting soil hands",
+     "pixabay": "soil hands roots",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up macro of soil crumbs with a small insect and root hair",
+     "pexels": "macro soil insect root",
+     "pixabay": "soil macro insect",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker walking a gravel path between trees and stones at the start of the day",
+     "pexels": "worker walking garden path morning",
+     "pixabay": "path garden worker",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "sad or dying tree",
+    "laboratory microscope",
+    "empty desert"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "What looks like ordinary earth is actually a world full of life. And this is the first idea I want you to remember. The land is not empty. The land is alive. Let us say it again. The land is not empty. The land is alive. Now think about a tree. A tree needs water. It needs light. It needs nutrients. But it also needs healthy soil.",
+   "t": 30.62,
+   "end": 58.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of cupped hands holding healthy dark soil",
+     "pexels": "hands holding healthy soil",
+     "pixabay": "hands soil dark",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of a mature cork oak standing alone in the landscape",
+     "pexels": "mature cork oak tree landscape",
+     "pixabay": "oak tree landscape",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "gardener watering a young tree sapling by hand",
+     "pexels": "gardener watering young tree",
+     "pixabay": "watering tree sapling",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "medium shot of sunlight filtering through tree leaves onto ground",
+     "pexels": "sunlight through tree leaves",
+     "pixabay": "sunlight leaves tree",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "dead tree",
+    "indoor plant pot",
+    "cartoon roots diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Its roots help it find water and nutrients. Fallen leaves help form organic matter. And that organic matter helps feed the life in the soil. Notice how everything is connected. The soil helps the tree. The tree helps protect the soil. And both help many other living things. Now imagine that it begins to rain. Rain falls on two areas of land.",
+   "t": 58.34,
+   "end": 84.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of fallen leaves decomposing into dark soil",
+     "pexels": "fallen leaves decomposing soil",
+     "pixabay": "leaves compost soil",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "gardener raking fallen leaves into a compost pile",
+     "pexels": "gardener raking leaves compost",
+     "pixabay": "raking leaves garden",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of an orchard with ground cover plants beneath the trees",
+     "pexels": "orchard ground cover trees",
+     "pixabay": "orchard ground cover",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "hands feeling the texture of moist dark earth",
+     "pexels": "hands feeling moist earth",
+     "pixabay": "hands earth texture",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon diagram",
+    "chemical fertiliser bag",
+    "indoor scene"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "In the first, the soil is covered with plants and leaves. In the second, the soil is bare and heavily compacted by machines. What happens? In the first area, vegetation helps protect the surface, and water may enter the ground more easily. In the second, water may struggle to enter. It may flow across the surface. It may even carry some of the soil away.",
+   "t": 84.0,
+   "end": 110.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of rain falling over a garden bed covered in plants",
+     "pexels": "rain falling garden plants",
+     "pixabay": "rain garden plants",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close-up of bare compacted earth with machine tyre tracks after rain",
+     "pexels": "compacted dirt tyre tracks rain",
+     "pixabay": "compacted soil tracks",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "water pooling and running across hard bare ground",
+     "pexels": "water pooling bare ground",
+     "pixabay": "water runoff ground",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "gardener pointing out the difference between two patches of soil",
+     "pexels": "gardener comparing two soil patches",
+     "pixabay": "gardener soil comparison",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "flood disaster",
+    "storm damage",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The same rain. Two different places. Two different results. Why? Because the way we treat the land makes a difference. Small actions can have big consequences. Let us repeat. Small actions. Big consequences. Now think about our work. A good builder does not focus only on what is being built. A good builder also notices what is around it.",
+   "t": 110.9,
+   "end": 135.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman standing quietly, observing a worksite near a large tree",
+     "pexels": "foreman observing worksite tree",
+     "pixabay": "foreman worksite tree",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand resting gently on tree bark beside a building site",
+     "pexels": "hand on tree bark worksite",
+     "pixabay": "hand tree bark",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a small building site set back from a mature tree",
+     "pexels": "building site beside mature tree",
+     "pixabay": "construction site tree",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "small crew talking together before starting work near the tree",
+     "pexels": "crew talking before work tree",
+     "pixabay": "crew discussion site",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "demolition",
+    "heavy machinery crushing roots",
+    "angry argument"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine two teams. Both need to build a wall near a tree. The first team starts immediately. They put the materials wherever it is most convenient. They drive the machines wherever it seems easiest. And they focus only on the wall. The second team also wants to build that wall. But before beginning, they observe the land. They notice the tree. They think about the roots. They check where materials can be placed without causing unnecessary damage.",
+   "t": 135.31,
+   "end": 167.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "careless worker dumping building materials close to exposed tree roots",
+     "pexels": "worker dumping materials near roots",
+     "pixabay": "materials dumped tree",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "careful crew placing stakes to mark a protected zone around a tree",
+     "pexels": "crew marking protected tree zone",
+     "pixabay": "stakes tree protection",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands driving a marker stake into soil",
+     "pexels": "hands placing stake soil",
+     "pixabay": "hands stake soil",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a low stone wall being built beside a tree",
+     "pexels": "small wall built beside tree",
+     "pixabay": "wall construction tree",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "bulldozer felling tree",
+    "angry confrontation",
+    "cartoon diagram"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Both teams build the wall. But which one showed greater care? Which one thought more about the consequences? And which one is learning to work better? The answer is simple. The team that learned to observe. Because observing helps us understand. And understanding helps us make better decisions. Perhaps your parents or grandparents taught you how to care for the land. Or perhaps you have never thought much about these things.",
+   "t": 167.17,
+   "end": 196.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman and young apprentice talking quietly beside a tree on site",
+     "pexels": "foreman apprentice talking tree",
+     "pixabay": "foreman apprentice site",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of experienced hands showing a younger worker how to check soil",
+     "pexels": "hands showing soil technique",
+     "pixabay": "hands teaching soil",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a mixed-age African crew gathered on a garden site",
+     "pexels": "mixed age crew garden site",
+     "pixabay": "crew garden team",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "older worker crouching to show a younger colleague a handful of soil",
+     "pexels": "older worker showing soil colleague",
+     "pixabay": "mentor soil worker",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "classroom lecture",
+    "office whiteboard",
+    "suit and tie"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Here at Edenrise, we want to learn together. We want to build with quality. But we also want to protect trees. Care for the soil. Respect water. And help nature become healthier. We call this ecological regeneration. It means helping what has been damaged to recover and creating conditions in which life can thrive. It is not just about doing less harm. It is also about finding ways to do more good. And everyone can take part.",
+   "t": 196.55,
+   "end": 228.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a cork oak grove at Edenrise in soft morning light",
+     "pexels": "cork oak grove morning light",
+     "pixabay": "cork oak grove",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "crew planting low ground-cover plants along a garden bed",
+     "pexels": "crew planting ground cover",
+     "pixabay": "planting ground cover crew",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a new seedling being pressed into soil by hand",
+     "pexels": "hand planting seedling soil",
+     "pixabay": "seedling hand planting",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "gardener pruning a shrub carefully with hand shears",
+     "pexels": "gardener pruning shrub shears",
+     "pixabay": "pruning shrub gardener",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "industrial logging",
+    "chemical spraying",
+    "cartoon mascot"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "You can begin with three very simple habits. Observe. Understand. Protect. Let us repeat. Observe. Understand. Protect. So tomorrow, before you begin work, stop for a few seconds. Look around you. Observe the land. And ask yourself two questions. \"What is alive here?\" And \"How can I help protect this place?\" Remember. The land is not empty. The land is alive. And the way we treat it makes a difference.",
+   "t": 228.41,
+   "end": 257.38,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing quietly, looking out over trees and soil before starting work",
+     "pexels": "worker pausing looking at land",
+     "pixabay": "worker pause reflection",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands resting on a tool handle in quiet thought",
+     "pexels": "hands resting tool handle",
+     "pixabay": "hands tool pause",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a quiet garden site in early morning before work begins",
+     "pexels": "quiet garden site morning",
+     "pixabay": "garden site morning calm",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "worker kneeling to inspect the ground closely",
+     "pexels": "worker kneeling inspecting ground",
+     "pixabay": "worker kneeling ground",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "meditation pose",
+    "yoga",
+    "cartoon thought bubble"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A plastic wrapper. A bottle. A single cigarette butt. Do they disappear? Or do they remain part of the environment long after we stop thinking about them? That is what we will discover. Because everything we do leaves a mark. And we can choose what kind of mark we want to leave.",
+   "t": 257.38,
+   "end": 278.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "close-up of a plastic wrapper caught on dry grass at the edge of a site",
+     "pexels": "plastic wrapper caught grass",
+     "pixabay": "litter wrapper grass",
+     "scale": "close"
+    },
+    {
+     "id": "B",
+     "text": "worker noticing a piece of litter on the ground while walking past",
+     "pexels": "worker noticing litter ground",
+     "pixabay": "worker litter noticing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a discarded bottle half buried in soil",
+     "pexels": "discarded bottle buried soil",
+     "pixabay": "bottle litter soil",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of tidy, well-kept estate grounds in good condition",
+     "pexels": "tidy estate grounds wide",
+     "pixabay": "estate grounds tidy",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "overflowing landfill",
+    "dramatic pollution imagery",
+    "cartoon trash"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T09:45:01Z"
+  }
+ ]
+}

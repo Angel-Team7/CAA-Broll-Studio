@@ -1,0 +1,270 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Why do some changes last, while others fade within a week? Often it's because we only change the surface. Picture yourself in three layers. The outer layer is the crust. This is how you show up on the surface. The roles you play, the masks you wear, and the ways you've learned to adapt. The professional face at work. The one who always says, \"I'm fine.\" The crust isn't bad. We all need ways to function in the world. But if we only ever work on the crust, nothing underneath changes.",
+   "t": 0.0,
+   "end": 37.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a person adjusting their expression before a mirror",
+     "pexels": "person looking in mirror adjusting",
+     "pixabay": "person mirror reflection",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "person smiling politely in a professional setting, slightly guarded",
+     "pexels": "person polite smile professional",
+     "pixabay": "person smile professional",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a person's face shifting from a composed smile to stillness",
+     "pexels": "face composed then still close up",
+     "pixabay": "face still close",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "mask prop",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Beneath that is the crud. This is where your fears, limiting beliefs and internal stories live. These patterns shape how you think, feel and respond, often without you noticing. And at the centre is your core. Your true identity. Your deepest values, your strengths, and who you're capable of becoming. The crust and the crud are where your personal stories are formed and reinforced. But they're not who you are. This work is about moving beyond the surface, through the patterns, so you can live from what's true at your core. Moving inward reveals what is true.",
+   "t": 37.66,
+   "end": 77.79,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting alone in dim light, pensive",
+     "pexels": "person alone dim light pensive",
+     "pixabay": "person pensive alone",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands resting still on a table, tense",
+     "pexels": "hands resting tense on table",
+     "pixabay": "hands table tense",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person standing still, looking inward, quiet room",
+     "pexels": "person standing still quiet room",
+     "pixabay": "person standing quiet",
+     "scale": "wide"
+    },
+    {
+     "id": "D",
+     "text": "person writing a private note, shielding the page slightly",
+     "pexels": "person writing private note",
+     "pixabay": "person writing private",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "smiling crew"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "So where do you start? It's best to start with what we call meta-stories. \"Meta\" means above or beyond. Meta-stories are the big, overarching stories that shape how you see yourself, your life, and the world around you. And they influence many smaller stories underneath them. For example, if your meta-story is \"I have to earn my place,\" it will show up everywhere. In how you work. In how you handle feedback. In how you rest, or don't.",
+   "t": 77.79,
+   "end": 111.31,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person thinking with a hand to their chin, concentrating",
+     "pexels": "person thinking hand chin concentrating",
+     "pixabay": "person thinking concentrating",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand underlining a word in a notebook",
+     "pexels": "hand underlining word notebook",
+     "pixabay": "hand underline notebook",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person walking slowly alone outdoors, reflecting",
+     "pexels": "person walking alone reflecting outdoors",
+     "pixabay": "person walking alone",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "When something isn't working in your life, it's rarely just a surface issue. It's usually connected to a deeper story, built from hidden assumptions, beliefs and patterns of thinking formed over time. Most of these beliefs are unconscious. They feel true, even when they're not. So how do you spot a meta-story? Listen for big, absolute words. Always. Never. Everyone. Nobody. \"I always end up doing everything myself.\" \"Nobody really listens to me.\" \"Things never work out for people like me.\" Words like these are a sign that a small experience has grown into a big story.",
+   "t": 111.31,
+   "end": 151.86,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person sitting with crossed arms, defensive posture",
+     "pexels": "person crossed arms defensive",
+     "pixabay": "person defensive posture",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a hand writing the word repeatedly, crossing it out",
+     "pexels": "hand writing crossing out word",
+     "pixabay": "hand writing crossed out",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two people talking quietly, one listening with concern",
+     "pexels": "two people talking quietly concern",
+     "pixabay": "two people talking concern",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "angry shouting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "One of the most powerful meta-stories is the one you hold about who you are. Because when identity shifts, everything else follows. Think of someone who says, \"I'm just not a confident person.\" Every new challenge gets filtered through that sentence. Now imagine that same person coming to believe, \"I'm someone who grows into things.\" Same person. Same skills. A completely different set of choices. When your story about yourself changes, your life begins to change with it.",
+   "t": 151.86,
+   "end": 184.55,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "person looking at their own reflection, uncertain expression",
+     "pexels": "person reflection uncertain expression",
+     "pixabay": "person reflection uncertain",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "same person later, standing taller, steady expression",
+     "pexels": "person standing taller steady",
+     "pixabay": "person standing steady",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands opening a notebook to a fresh page",
+     "pexels": "hands opening notebook fresh page",
+     "pixabay": "hands notebook fresh page",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "triumphant fist pump"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "As you go through this workbook, aim for that level. Not the small irritations on the surface, but the deeper story underneath them. You don't need to know your meta-story yet. The steps ahead will help you find it. For now, simply start noticing the sentences you repeat about yourself. Take a look at the diagram on page three, and your facilitator will help you begin to notice your own layers.",
+   "t": 184.55,
+   "end": 214.34,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "facilitator pointing to a diagram on a workbook page with a participant",
+     "pexels": "facilitator pointing diagram workbook",
+     "pixabay": "facilitator diagram workbook",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a layered diagram drawn by hand on paper",
+     "pexels": "hand drawn layered diagram paper",
+     "pixabay": "diagram paper hand drawn",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "wide shot of a person quietly observing their own notes",
+     "pexels": "person observing own notes quiet",
+     "pixabay": "person notes quiet",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "cartoon",
+    "green screen",
+    "logo",
+    "text overlay"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-22T10:04:27Z"
+  }
+ ]
+}
