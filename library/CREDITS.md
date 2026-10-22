@@ -12017,3 +12017,123 @@
 | pexels |  | Alejandro De Roa | Pexels License | https://www.pexels.com/video/daring-parkour-on-abandoned-building-rooftop-35652526/ |
 | pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/drone-overview-of-winter-construction-site-40302891/ |
 | pexels |  | Alon Angel | Pexels License | https://www.pexels.com/video/building-under-construction-4910145/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/person-playing-ukulele-8043118/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/man-working-out-at-the-gym-4746078/ |
+| pexels |  | Pietro Henricky | Pexels License | https://www.pexels.com/video/instrumento-musical-28223668/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-giving-children-seeds-at-a-farm-7781746/ |
+| pexels |  | Moe Magners | Pexels License | https://www.pexels.com/video/a-woman-smiling-with-her-coworkers-in-the-background-7504244/ |
+| pexels |  | Moe Magners | Pexels License | https://www.pexels.com/video/a-team-discussing-and-talking-7504485/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-thinking-in-front-of-planning-scheme-6804113/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/putting-a-post-it-on-a-laptop-7279013/ |
+| pexels |  | Pressmaster | Pexels License | https://www.pexels.com/video/a-man-writing-a-note-on-a-stick-paper-pad-3195314/ |
+| pexels |  | Akash Malhotra | Pexels License | https://www.pexels.com/video/loneliness-crisis-1-19862091/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/man-wearing-sweater-sitting-on-the-floor-8496758/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/blond-woman-in-front-of-a-window-4079163/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/footage-of-a-depressed-woman-7273602/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/depressed-woman-crying-7273684/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/close-up-of-crying-woman-6870579/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/beautiful-woman-looking-at-mirror-8275437/ |
+| pexels |  | PNW Production | Pexels License | https://www.pexels.com/video/man-fixing-his-hair-7326206/ |
+| pexels |  | John Diez | Pexels License | https://www.pexels.com/video/woman-looking-at-herself-in-the-miiror-7576286/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-group-of-people-looking-at-a-laptop-6563909/ |
+| pixabay | traffic  lights  dawn  morning  fog  city  urban  building   | adege | Pixabay Content License | https://pixabay.com/videos/id-145827/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/man-looking-at-the-camera-and-putting-his-hands-on-his-shoulders-7858271/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-writer-working-on-a-table-8036695/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-using-laptop-6651461/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/close-up-video-of-a-woman-s-face-8225860/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/video-of-a-woman-behind-glasses-of-water-5876892/ |
+| pexels |  | Theo  Decker | Pexels License | https://www.pexels.com/video/young-man-posing-looking-up-5321801/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/agent-showing-the-floor-plan-8471065/ |
+| pexels |  | Sururi Ballıdağ Director | Pexels License | https://www.pexels.com/video/sunny-day-at-urban-street-with-tall-trees-37321021/ |
+| pexels |  | Sasha Poberailo | Pexels License | https://www.pexels.com/video/woman-in-shirt-in-city-12271150/ |
+| pexels |  | Leeloo The First | Pexels License | https://www.pexels.com/video/woman-walking-in-the-footpath-inside-the-forest-5563371/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-large-construction-site-33893680/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/women-running-together-8692159/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/a-male-runner-at-a-running-track-8533475/ |
+| pexels |  | Sarah  Chai | Pexels License | https://www.pexels.com/video/two-people-jogging-together-7263170/ |
+| pexels |  | Kiwi and Camera | Pexels License | https://www.pexels.com/video/modern-urban-construction-site-in-auckland-38885264/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-among-people-holding-red-lines-10621785/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/people-standing-in-hall-and-holding-red-lines-10621789/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/two-people-having-a-conversation-6245804/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-man-proposing-to-a-woman-6570956/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/person-touching-the-hair-of-a-woman-8343899/ |
+| pexels |  | Rafael Nicida | Pexels License | https://www.pexels.com/video/4k-mulher-no-quarto-15725591/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/side-view-of-a-woman-sitting-while-looking-by-the-window-7709317/ |
+| pexels |  | Yura Forrat | Pexels License | https://www.pexels.com/video/contemplative-man-gazing-out-urban-window-38380399/ |
+| pexels |  | TR Studio | Pexels License | https://www.pexels.com/video/construction-site-with-cement-mixer-truck-38780377/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-in-a-white-dress-10210557/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-placing-flowers-in-another-woman-s-eye-8115728/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-video-of-an-emotional-woman-8136787/ |
+| pixabay | hair clipper  hair cutter  vintage  manual  dresser  stylist | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-116192/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-looking-at-document-7490400/ |
+| pexels |  | Esra Afşar | Pexels License | https://www.pexels.com/video/browsing-real-estate-listings-on-mobile-phone-31907490/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/woman-reading-a-book-7310867/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-countryside-at-dusk-35482731/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/industrial-coastal-landscape-at-dusk-35376644/ |
+| pexels |  | Wladimir Guevara | Pexels License | https://www.pexels.com/video/beautiful-coastal-landscape-aerial-view-34290322/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/person-writing-on-a-notebook-6931127/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/person-writing-on-a-sticky-note-7441388/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/male-hands-writing-on-notebook-5704049/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-training-an-elderly-man-at-the-gym-6892074/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-training-an-elderly-man-at-the-gym-6891859/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-woman-training-an-elderly-man-in-a-gym-6892085/ |
+| pexels |  | ANTONI SHKRABA production | Pexels License | https://www.pexels.com/video/a-man-reading-the-papers-while-sitting-8136075/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/a-stressed-woman-using-a-laptop-8011355/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/woman-reading-a-book-8011364/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/man-playing-a-wooden-xylophone-and-turning-his-musical-sheets-7313663/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-of-person-playing-a-xylophone-7313654/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/person-playing-piano-7571454/ |
+| pexels |  | Polina ⠀ | Pexels License | https://www.pexels.com/video/person-browsing-the-planner-pages-5546826/ |
+| pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/person-turning-a-blue-notebook-6187194/ |
+| pexels |  | SHEMÁ    . | Pexels License | https://www.pexels.com/video/hands-organizing-event-flyers-on-table-31789731/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/woman-doing-an-online-class-7013395/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/businessmen-in-a-meeting-6774215/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-writing-on-the-whiteboard-9034413/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-talking-to-a-man-8775890/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-talking-in-a-meeting-8731387/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/angry-woman-sitting-on-chair-talking-9065122/ |
+| pexels |  | Andy Barbour | Pexels License | https://www.pexels.com/video/students-standing-and-giving-their-examination-papers-6672457/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/girls-gossiping-in-the-school-7396441/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/close-up-shot-of-woman-writing-6764570/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/person-wearing-shoes-running-3999619/ |
+| pexels |  | Sergei Skrynnik | Pexels License | https://www.pexels.com/video/a-man-walking-on-dirt-road-11661555/ |
+| pexels |  | Raphael Kim | Pexels License | https://www.pexels.com/video/winter-walk-through-snowy-neighborhood-path-35746302/ |
+| pexels |  | Boris Pavlikovsky | Pexels License | https://www.pexels.com/video/young-man-learning-to-play-the-violin-7507875/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/man-and-woman-reading-books-and-writing-8199397/ |
+| pexels |  | Andy Barbour | Pexels License | https://www.pexels.com/video/two-women-cheating-on-their-examination-6672379/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-writing-on-a-paper-9034456/ |
+| pexels |  | August de Richelieu | Pexels License | https://www.pexels.com/video/man-writing-on-a-note-pad-7443266/ |
+| pexels |  | Barbara Olsen | Pexels License | https://www.pexels.com/video/a-man-writing-using-a-pen-7866237/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/two-women-talking-to-each-other-5676123/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-man-assisting-a-woman-in-her-exercises-6740234/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-man-and-woman-discussing-about-a-smart-pad-data-3253861/ |
+| pexels |  | Rec 9 | Pexels License | https://www.pexels.com/video/cozy-writing-session-in-soft-light-37040372/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/a-person-writing-on-a-notebook-7307973/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/close-up-video-of-a-person-writing-on-a-notebook-8553956/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/woman-and-man-warm-up-before-training-6767183/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/elderly-people-in-a-pottery-class-6023070/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/a-girl-slicing-a-tomato-8508155/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-lifting-dumbbells-8401281/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-young-man-forming-shapes-with-his-fingers-6322574/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/man-using-laptop-6326759/ |
+| pexels |  | Tiger Lily | Pexels License | https://www.pexels.com/video/business-people-shaking-hands-7149005/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/lawyers-discussing-19129215/ |
+| pexels |  | Max Medyk | Pexels License | https://www.pexels.com/video/discussion-18435038/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/woman-with-short-hair-looking-at-camera-9793978/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/woman-with-orange-eye-shadow-6607904/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/man-with-facial-hair-looking-around-8724430/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/people-looking-at-a-report-7804848/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/a-realtor-showing-a-house-floor-plan-7646687/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/people-holding-papers-with-graphs-7651533/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/two-people-choosing-clothes-at-a-store-8387364/ |
+| pexels |  | Oleh  Sokolovsky | Pexels License | https://www.pexels.com/video/a-person-standing-on-the-shore-with-their-hands-in-their-pockets-9512564/ |
+| pexels |  | Nazar Matveichev | Pexels License | https://www.pexels.com/video/man-opening-the-door-2110196/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-working-on-office-desk-7593901/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/a-person-computing-using-a-calculator-8478737/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/computing-using-a-cellphone-calculator-7735854/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/name-tags-and-invitations-at-the-conference-7647864/ |
+| pexels |  | Edmond Dantès | Pexels License | https://www.pexels.com/video/giving-assistance-to-people-7103528/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/women-are-discussing-while-using-laptop-7652001/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/person-taking-notes-on-a-cafeteria-counter-6683730/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/women-preparing-the-online-orders-7855146/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/woman-writing-while-talking-6912157/ |
