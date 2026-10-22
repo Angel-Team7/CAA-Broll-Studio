@@ -307,7 +307,9 @@ function render() {
         <div class="scene-meta">
           ${sc.abstract ? `<div class="scene-when"><b>${sc.seconds}s beat</b>
              <span class="dur">segment ${sc.segment} · ${esc(sc.segment_window || "")}</span>
-             <span class="tag warn" title="The voice is recorded later. The words below are the segment's script, so the timing is not final.">NARRATION NOT RECORDED YET</span></div>`
+             ${sc.timing_source === "narration"
+               ? '<span class="verified" title="Anchored to the recorded narration — the words and window below are what the viewer hears">✓ timed to audio</span>'
+               : '<span class="tag warn" title="The voice is recorded later. The words below are the segment\'s script, so the timing is not final.">NARRATION NOT RECORDED YET</span>'}</div>`
           : sc.t !== undefined ? `<div class="scene-when">${fmtClock(sc.t)} – ${fmtClock(sc.end)}
              <span class="dur">${Math.round(sc.end - sc.t)}s on screen</span>
              ${sc.timing_source === "narration" ? '<span class="verified" title="Anchored to the recorded narration">✓ timed to audio</span>' : '<span class="unverified" title="Not yet anchored to the recorded audio — treat as approximate">≈ estimated</span>'}</div>` : ""}
