@@ -8,20 +8,20 @@
    "source_id": "M1-B01",
    "module": 1,
    "segment": 2,
-   "segment_window": "0:37–1:14",
-   "seconds": 6,
-   "script_line": "Craveiral belongs to the Belong family of brands, and Belong's signature is Giving Shape to Meaning. Behind it sits a simple and demanding idea: a place that is well cared for cares for the people in it. That is why we exist. Not to run a hotel with a pretty garden next door. We exist to regenerate this territory through circular economy, and we use hospitality because it is the strongest economic and cultural engine we have to prove it.",
+   "segment_window": "0:41–0:45",
+   "seconds": 4.2,
+   "script_line": "Behind it sits a simple and demanding idea: a place that",
    "visual_direction": "Extreme macro of dry cracked earth absorbing a slow trickle of water, soil darkening and swelling. Static macro lens, shallow depth of field. Warm late-afternoon light. Palette: terracotta, clay, sand. 6 seconds. No text, no people, no buildings.",
    "onscreen": "",
-   "t": 37.0,
-   "end": 43.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 41.08,
+   "end": 45.31,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 5.5
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -375,7 +375,8 @@
     "usable": 1,
     "at": "2026-10-19T17:03:11Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M1 cut 2026-10-22: open the beat on 'a simple and demanding idea'; dissolves to the family on the boardwalk at 'a place that is well cared for'"
   },
   {
    "id": "M1-B02",
@@ -757,7 +758,8 @@
     "worm close up"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "placement": "Belong C2 M1 cut 2026-10-22: not placed — the chain loop slide already tells garden → kitchen → compost; keep as an alternate for 'we waste nothing'."
   },
   {
    "id": "M1-B03",
@@ -765,20 +767,20 @@
    "source_id": "M1-B20",
    "module": 1,
    "segment": 6,
-   "segment_window": "3:05–3:42",
-   "seconds": 7,
-   "script_line": "There is a part of this we say too little, and it is worth saying. Regeneration here has to work as a business, or it is not regeneration — it is charity in disguise. We have commitments to the house owners, to our suppliers, to the team and to this land. Meeting them is not the opposite of purpose. It is the condition for it. That is why waste bothers us so much. Food, water, energy, time, talent or goodwill — we waste nothing, because everything wasted is regeneration we can no longer pay for.",
+   "segment_window": "3:30–3:37",
+   "seconds": 6.6,
+   "script_line": "we waste nothing, because everything wasted is regeneration we can no longer pay for.",
    "visual_direction": "Slow close-up of a single drop of water falling and being caught in a cupped ceramic bowl, nothing spilling. Macro, static camera, side light. Palette: clay, sand, deep brown. 7 seconds. No people, no text, no branding.",
    "onscreen": "",
-   "t": 185.0,
-   "end": 192.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 210.95,
+   "end": 217.53,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 8.3
+    "min_seconds": 7.9
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -1051,7 +1053,8 @@
     "usable": 1,
     "at": "2026-10-19T17:03:11Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M1 cut 2026-10-22: lands on 'we waste nothing' (nothing spilled) after the hand harvesting peppers"
   },
   {
    "id": "M1-B04",
@@ -1059,20 +1062,20 @@
    "source_id": "M1-B35",
    "module": 1,
    "segment": 8,
-   "segment_window": "4:19–5:00",
-   "seconds": 6,
-   "script_line": "You leave with one question, for whenever you are unsure whether something is Craveiral or not. It is this: does this bring the person who eats closer to the person who grows? If it does, it is ours. If it does not, it is not — however profitable it looks. That holds for an investment decision and it holds for how you answer a guest on the boardwalk. In the next modules we go to each unit, one by one, and to the standard each one has to hold. Stay. Belong.",
+   "segment_window": "4:17–4:22",
+   "seconds": 5.1,
+   "script_line": "It is this: does this bring the person who eats closer to the person who grows?",
    "visual_direction": "Two hands, one holding freshly pulled root vegetables with soil still on them, passing them into another pair of hands. Neutral rustic linen sleeves, no faces, no identifiable location. Shallow depth of field, warm side light. Palette: sand, soil brown, olive green. 6 seconds. No text.",
    "onscreen": "",
-   "t": 259.0,
-   "end": 265.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 257.48,
+   "end": 262.6,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 6.4
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -1470,7 +1473,8 @@
     "plastic packaging"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "placement": "Belong C2 M1 cut 2026-10-22: carries the module's question: 'does this bring the person who eats closer to the person who grows?'"
   }
  ]
 }
