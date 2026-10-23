@@ -8,20 +8,20 @@
    "source_id": "M1-B11",
    "module": 2,
    "segment": 4,
-   "segment_window": "1:51–2:28",
-   "seconds": 7,
-   "script_line": "Why do we make you learn square metres? Because of this situation. A guest asks: “does the two-bedroom house work for us with the children?” Two answers are possible. The vague one — “yes, I think so” — leaves the guest where they were. The precise one: “yes, and if they are small the sofa bed in the living room gives you room to spare; the second bedroom can be twins or a double, tell me which you prefer.” That answer has just built trust. And trust is the currency of this business.",
+   "segment_window": "1:51–1:56",
+   "seconds": 4.8,
+   "script_line": "A guest asks: “does the two-bedroom house work for us with the children?”",
    "visual_direction": "Over-the-shoulder shot of an unrecognisable staff member’s hands gesturing while speaking with a guest across a wooden counter; faces out of frame or heavily out of focus. Neutral interior, no identifiable decor. Warm natural light. Palette: sand, clay, brown. 7 seconds. No text.",
    "onscreen": "",
-   "t": 111.0,
-   "end": 118.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 111.93,
+   "end": 116.78,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 8.3
+    "min_seconds": 6.1
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -517,7 +517,8 @@
     "usable": 1,
     "at": "2026-10-21T15:53:12Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): the guest's question at the counter — would replace the reception clip under 'A guest asks'"
   },
   {
    "id": "M2-B02",
@@ -525,20 +526,20 @@
    "source_id": "M1-B21",
    "module": 2,
    "segment": 6,
-   "segment_window": "3:05–3:42",
-   "seconds": 6,
-   "script_line": "Now the standard, and here the tone changes. A standard is a promise we made to every future guest, based on what we delivered to the past ones. The guest paid for the Craveiral of the photographs and the reviews. Every detail right keeps that promise: the flawless bed, the kitchen without a mark, the inviting terrace, the amenities complete. Every detail wrong breaks it a little. Broken promises pile up in silence: guests rarely complain about small things — they think less of us quietly, book elsewhere one day, and we never know why.",
+   "segment_window": "3:37–3:50",
+   "seconds": 13.0,
+   "script_line": "Broken promises pile up in silence: guests rarely complain about small things — they think less of us quietly, book elsewhere one day, and we never know why.",
    "visual_direction": "Macro of a single fingerprint smudge on a polished glass surface, catching hard light, then the same surface clean. Static macro, high contrast side light. Palette: neutral grey-brown, sand. 6 seconds. No people, no text.",
    "onscreen": "",
-   "t": 185.0,
-   "end": 191.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 217.52,
+   "end": 230.54,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 14.3
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -823,7 +824,8 @@
     "usable": 1,
     "at": "2026-10-21T15:53:12Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): under 'Broken promises pile up in silence' (now a quiet bedroom photo)"
   },
   {
    "id": "M2-B03",
@@ -831,20 +833,20 @@
    "source_id": "M1-B28",
    "module": 2,
    "segment": 7,
-   "segment_window": "3:42–4:19",
-   "seconds": 6,
-   "script_line": "Hence the rule I want you to keep: details are not small. Here, details are everything, because our whole promise is care. A farm that preaches love of the land and has a dirty pool filter or a dead bulb on a boardwalk is a contradiction the guest feels at once, even if they cannot explain it. Coherence between what we say and what we do is our highest standard. And one thing only guest wellbeing asks for gets forgotten: sleep. Total blackout, maintenance noise at an agreed hour, never knocking before ten in the morning unless asked.",
+   "segment_window": "4:02–4:15",
+   "seconds": 12.9,
+   "script_line": "A farm that preaches love of the land and has a dirty pool filter or a dead bulb on a boardwalk is a contradiction the guest feels at once, even if they cannot explain it. Coherence between",
    "visual_direction": "A single dead lightbulb on a weathered wooden post at dusk, unlit while others glow further down the path. Slow push in. Blue-hour light. Palette: dusk blue, warm amber, brown. 6 seconds. Generic rural walkway, no identifiable buildings, no text.",
    "onscreen": "",
-   "t": 222.0,
-   "end": 228.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 242.53,
+   "end": 255.4,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 14.2
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -859,7 +861,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "one dead bulb among lit ones on a path is a staged contrast — stock does not hold that exact scene"
+   "needs_ai_reason": "one dead bulb among lit ones on a path is a staged contrast — stock does not hold that exact scene",
+   "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): under 'A contradiction the guest feels at once' (now string lights at dusk) — still needs AI"
   },
   {
    "id": "M2-B04",
@@ -867,20 +870,20 @@
    "source_id": "M1-B36",
    "module": 2,
    "segment": 8,
-   "segment_window": "4:19–5:00",
-   "seconds": 7,
-   "script_line": "Last point, and a test of character. When you see something wrong that is not “your job” — a fallen branch on the boardwalk, a dirty window, litter by the pool — there are two kinds of people. The one who thinks “someone should sort that out”, and the one who sorts it or reports it within the hour. Craveiral was built by the second kind. Be the second kind. Next module: the FarmTable — where all this philosophy lands.",
+   "segment_window": "4:34–4:54",
+   "seconds": 20.6,
+   "script_line": "Last point, and a test of character. When you see something wrong that is not “your job” — a fallen branch on the boardwalk, a dirty window, litter by the pool — there are two kinds of people. The one who thinks “someone should sort that out”, and the one who sorts it or reports it within the hour.",
    "visual_direction": "A fallen pine branch lying across a wooden boardwalk. A pair of work-worn hands enters frame, lifts it, carries it out of frame. No faces, generic rural setting. Handheld, slight movement. Warm morning light. Palette: sand, pine green, brown. 7 seconds. No text.",
    "onscreen": "",
-   "t": 259.0,
-   "end": 266.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 274.32,
+   "end": 294.87,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 8.3
+    "min_seconds": 21.9
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -1153,7 +1156,8 @@
     "usable": 0,
     "at": "2026-10-21T15:53:12Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): under 'A test of character' — the fallen branch lifted off the boardwalk"
   }
  ]
 }
