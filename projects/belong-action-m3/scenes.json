@@ -8,20 +8,20 @@
    "source_id": "M1-B02",
    "module": 3,
    "segment": 2,
-   "segment_window": "0:37–1:14",
-   "seconds": 6,
-   "script_line": "What we do not grow, we buy as close as possible: cheeses from the region, fish from this coast, wines from the Alentejo and the Vicentina vineyards just up the road, medronho from the local distillery. The menu turns with the seasons because the farm does — not a limitation, the whole point. A tomato in August here tastes like something other than a supermarket tomato in January. That is what root-to-table means: not marketing decoration, but a supply chain you can walk in five minutes.",
+   "segment_window": "0:54–0:59",
+   "seconds": 5.4,
+   "script_line": "A tomato in August here tastes like something other than a supermarket tomato in January.",
    "visual_direction": "Split-frame comparison: left, a pale watery tomato slice under cold flat light; right, a deep red ripe tomato slice under warm natural light, juice beading. Macro, static. 6 seconds. No text, no branding, no hands.",
    "onscreen": "",
-   "t": 37.0,
-   "end": 43.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 54.33,
+   "end": 59.68,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 6.7
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -36,7 +36,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "a split-frame comparison of two tomato slices is constructed in the edit, not filmed"
+   "needs_ai_reason": "a split-frame comparison of two tomato slices is constructed in the edit, not filmed",
+   "placement": "Belong C2 M3 cut 2026-10-23: S07 'A tomato in August here tastes like something other than a supermarket tomato in January.' — would replace the plum-tomato clip for the whole sentence (times are on the C2 M3 cut, which opens with a 2 s lead-in)"
   },
   {
    "id": "M3-B02",
@@ -44,20 +45,20 @@
    "source_id": "M1-B16",
    "module": 3,
    "segment": 5,
-   "segment_window": "2:28–3:05",
-   "seconds": 6,
-   "script_line": "Wine. You do not need to be a sommelier — you need three sentences: where it is from, what it is like, what it goes with. Example: “this white comes from vineyards near the coast, twenty minutes from here; fresh, slightly saline, exactly what the fish is asking for.” Done. That sells the wine, honours the producer and connects the guest to the territory. Three sentences. And the preserves, jams and ferments — the old crafts. Explaining that a jam exists because July gave more fruit than we could serve fresh teaches regeneration with a spoon.",
+   "segment_window": "2:50–2:58",
+   "seconds": 7.7,
+   "script_line": "Explaining that a jam exists because July gave more fruit than we could serve fresh teaches regeneration with a spoon.",
    "visual_direction": "Macro of amber jam being spooned slowly from a glass jar, thick and glossy, light passing through. Static macro, warm backlight. Palette: honey amber, sand, brown. 6 seconds. No hands visible beyond the spoon, no text, no labels.",
    "onscreen": "",
-   "t": 148.0,
-   "end": 154.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 170.78,
+   "end": 178.46,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 9.0
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -349,7 +350,8 @@
     "peanut butter"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "placement": "Belong C2 M3 cut 2026-10-23: S12 preserves beat: dissolves in on 'explaining that a jam exists' after the preserves-jars still (times are on the C2 M3 cut, which opens with a 2 s lead-in)"
   },
   {
    "id": "M3-B03",
@@ -357,20 +359,20 @@
    "source_id": "M1-B22",
    "module": 3,
    "segment": 6,
-   "segment_window": "3:05–3:42",
-   "seconds": 7,
-   "script_line": "Now service, where this module is decided. Four principles, and they are hard. One: never rush a table. We are the antidote to the city, and the long meal is the ceremony of this place. The table under the stars, the second bottle, the conversation that stretches — protect that. Efficiency belongs to the kitchen; at the table, what counts is presence. Two: tell the chain. Every dish has a story and the story is true. Not a lecture, one line: “the courgettes are from the garden, picked this morning.” One line changes the meal.",
+   "segment_window": "3:04–3:15",
+   "seconds": 10.3,
+   "script_line": "One: never rush a table. We are the antidote to the city, and the long meal is the ceremony of this place. The table under the stars,",
    "visual_direction": "Two contrasting moments of the same restaurant table: first a rushed clearing of plates mid-conversation, hurried hands; then a calm pause, plates left, glasses refilled. No faces, torso and hands only. Warm candlelight. Palette: terracotta, amber, deep brown. 7 seconds. No text.",
    "onscreen": "",
-   "t": 185.0,
-   "end": 192.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 184.95,
+   "end": 195.23,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 8.3
+    "min_seconds": 11.6
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -385,7 +387,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "two contrasting moments of the same table in one shot is a staged edit"
+   "needs_ai_reason": "two contrasting moments of the same table in one shot is a staged edit",
+   "placement": "Belong C2 M3 cut 2026-10-23: S13 opens on it at 'One: never rush a table' (replaces the golden pergola table), then the night dinner at 'the table under the stars' (times are on the C2 M3 cut, which opens with a 2 s lead-in)"
   },
   {
    "id": "M3-B04",
@@ -393,20 +396,20 @@
    "source_id": "M1-B29",
    "module": 3,
    "segment": 7,
-   "segment_window": "3:42–4:19",
-   "seconds": 6,
-   "script_line": "Three: honesty about what we are. We are not a temple of tweezers and foams, but honest cooking, excellent and with soul, from a working farm. Own that with pride: anyone wanting a starred performance has other addresses; anyone wanting to taste a territory has us, and there are far more of them. Four: dietary requirements are hospitality, not a nuisance. Allergies, intolerances, vegetarians, the child who only eats pasta — each is a person hoping not to be a problem. A kitchen that improvises a beautiful vegetarian dish without sighing wins a family for good.",
+   "segment_window": "4:03–4:18",
+   "seconds": 15.0,
+   "script_line": "Four: dietary requirements are hospitality, not a nuisance. Allergies, intolerances, vegetarians, the child who only eats pasta — each is a person hoping not to be a problem. A kitchen that",
    "visual_direction": "A handwritten note on a small paper slip reading only “no gluten”, pinned to a rustic kitchen rail. Shallow focus, warm kitchen light behind. Palette: sand, steel, brown. 6 seconds. No people, no other text.",
    "onscreen": "",
-   "t": 222.0,
-   "end": 228.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 243.19,
+   "end": 258.16,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 16.3
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -421,7 +424,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "the note has to read exactly “no gluten”; stock cannot supply specific handwriting"
+   "needs_ai_reason": "the note has to read exactly “no gluten”; stock cannot supply specific handwriting",
+   "placement": "Belong C2 M3 cut 2026-10-23: S16 opens on it at 'Four: dietary requirements are hospitality' (replaces the child with the egg box) (times are on the C2 M3 cut, which opens with a 2 s lead-in)"
   },
   {
    "id": "M3-B05",
@@ -429,20 +433,20 @@
    "source_id": "M1-B37",
    "module": 3,
    "segment": 8,
-   "segment_window": "4:19–5:00",
-   "seconds": 6,
-   "script_line": "The FarmTable is not only this room. It is the same kitchen that goes to the weddings, the companies, and A Mesa do CAM in a museum in Lisbon. One kitchen philosophy, many tables. The gesture is always the same: bring the person who eats closer to the person who grows. A closing thought. Food is where trust becomes physical — the guest hands us their hunger three times a day, and there is something old and intimate in that. Feed people as if it mattered. Because here it does.",
+   "segment_window": "4:45–4:56",
+   "seconds": 11.2,
+   "script_line": "A closing thought. Food is where trust becomes physical — the guest hands us their hunger three times a day, and there is something old and intimate in that.",
    "visual_direction": "A plate being placed onto a linen tablecloth by unseen hands, then a second pair of hands receiving it. No faces, no identifiable food, warm evening light. Palette: linen white, terracotta, amber. 6 seconds. No text.",
    "onscreen": "",
-   "t": 259.0,
-   "end": 265.0,
-   "timing_source": "unrecorded",
-   "narration_recorded": false,
+   "t": 285.71,
+   "end": 296.89,
+   "timing_source": "narration",
+   "narration_recorded": true,
    "want": 7,
    "requirements": {
     "aspect": "16:9",
     "min_height": 1080,
-    "min_seconds": 7.3
+    "min_seconds": 12.5
    },
    "taste": [
     "16:9, at least 1080p on the real file, usable length at least the beat's seconds + 1.3 s",
@@ -756,7 +760,8 @@
     "usable": 1,
     "at": "2026-10-19T17:09:11Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M3 cut 2026-10-23: S18 'A closing thought — food is where trust becomes physical…' (replaces the hands-setting-a-table clip) (times are on the C2 M3 cut, which opens with a 2 s lead-in)"
   }
  ]
 }
