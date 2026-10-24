@@ -617,55 +617,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 2,
-    "at": {
-     "M5-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:01:27Z",
-      "added": 7
-     },
-     "M5-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:00Z",
-      "added": 4
-     },
-     "M5-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:26Z",
-      "added": 5
-     },
-     "M5-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:03:03Z",
-      "added": 6
-     },
-     "M5-B05": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "attempts": 35,
-      "last_attempt": "2026-10-24T14:50:00Z",
-      "fulfilled": "2026-10-24T18:20:50Z",
-      "added": 6
-     }
-    },
+    "at": "2026-10-24T18:22:22Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -967,55 +919,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 2,
-    "at": {
-     "M5-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:01:27Z",
-      "added": 7
-     },
-     "M5-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:00Z",
-      "added": 4
-     },
-     "M5-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:26Z",
-      "added": 5
-     },
-     "M5-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:03:03Z",
-      "added": 6
-     },
-     "M5-B05": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "attempts": 35,
-      "last_attempt": "2026-10-24T14:50:00Z",
-      "fulfilled": "2026-10-24T18:20:50Z",
-      "added": 6
-     }
-    },
+    "at": "2026-10-24T18:22:22Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -1433,14 +1337,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V13.strip.jpg",
      "title": "a person writing on a paper",
      "query": "handwritten reservation book",
-     "shot": "B",
+     "shot": "A",
      "src_id": "11025820",
      "download_url": "https://videos.pexels.com/video-files/11025820/11025820-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-24T18:20:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 9,
+     "brand_fit": 9,
+     "caption": "a hand writes an illegible line in a cream notebook",
+     "violation": "",
+     "shoot": "pexels-handwriting-cream-notebook",
+     "score": 9.0,
+     "rank": 1,
+     "judged_at": "2026-10-24T18:22:18Z"
     },
     {
      "id": "belong-action-m5-M5-B05-V14",
@@ -1460,8 +1372,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-24T18:20:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 7,
+     "brand_fit": 2,
+     "caption": "a hand writes legible words in a journal close up",
+     "violation": "readable text in frame",
+     "shoot": "pexels-handwriting-legible-journal",
+     "score": 5.25,
+     "rank": 5,
+     "judged_at": "2026-10-24T18:22:18Z"
     },
     {
      "id": "belong-action-m5-M5-B05-V15",
@@ -1481,8 +1401,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-24T18:20:36Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 0,
+     "caption": "a hand ticks a checklist beside a glowing data screen",
+     "violation": "monitor / recognisable office setting",
+     "shoot": "pexels-checklist-screen",
+     "score": 1.95,
+     "rank": 8,
+     "judged_at": "2026-10-24T18:22:18Z"
     },
     {
      "id": "belong-action-m5-M5-B05-V16",
@@ -1502,8 +1430,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-10-24T18:20:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 4,
+     "caption": "a hand writes with pencil in a grey sketchbook",
+     "violation": "",
+     "shoot": "pexels-pencil-grey-sketchbook",
+     "score": 5.95,
+     "rank": 3,
+     "judged_at": "2026-10-24T18:22:18Z"
     },
     {
      "id": "belong-action-m5-M5-B05-V17",
@@ -1517,7 +1453,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V17.strip.jpg",
      "title": "person turning notebook on the desk",
      "query": "pen writing on lined paper",
-     "shot": "B",
+     "shot": "C",
      "duration": 16,
      "src_id": "6186637",
      "download_url": "https://videos.pexels.com/video-files/6186637/6186637-hd_2048_1080_30fps.mp4",
@@ -1527,8 +1463,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-24T18:20:44Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a hand turns blank notebook pages beside stationery on a desk",
+     "violation": "",
+     "shoot": "pexels-stationery-desk",
+     "score": 3.0,
+     "rank": 7,
+     "judged_at": "2026-10-24T18:22:18Z"
     },
     {
      "id": "belong-action-m5-M5-B05-V18",
@@ -1552,8 +1496,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-24T18:20:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 6,
+     "brand_fit": 2,
+     "caption": "a fountain pen writes a legible greeting on lined paper",
+     "violation": "readable text in frame",
+     "shoot": "pexels-fountainpen-greeting",
+     "score": 4.6,
+     "rank": 6,
+     "judged_at": "2026-10-24T18:22:18Z"
     }
    ],
    "shots": [
@@ -1590,60 +1542,7 @@
     "signature contract"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z",
-   "stock_gap": {
-    "usable": 1,
-    "at": {
-     "M5-B01": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:01:27Z",
-      "added": 7
-     },
-     "M5-B02": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:00Z",
-      "added": 4
-     },
-     "M5-B03": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:02:26Z",
-      "added": 5
-     },
-     "M5-B04": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "fulfilled": "2026-10-19T17:03:03Z",
-      "added": 6
-     },
-     "M5-B05": {
-      "requested": "2026-10-19T15:58:28Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "abstract-rework",
-      "attempts": 35,
-      "last_attempt": "2026-10-24T14:50:00Z",
-      "fulfilled": "2026-10-24T18:20:50Z",
-      "added": 6
-     }
-    },
-    "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   "shots_at": "2026-10-19T15:58:28Z"
   }
  ]
 }
