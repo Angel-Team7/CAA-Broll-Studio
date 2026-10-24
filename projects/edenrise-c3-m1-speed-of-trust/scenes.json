@@ -1,0 +1,638 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Think about a person you really trust at work. When they say they'll do something, you believe them. You can speak openly with them. You don't waste time second-guessing their intentions. And when something goes wrong, you know you can have an honest conversation and move forward. Now imagine the opposite. Information gets withheld.",
+   "t": 0.0,
+   "end": 22.76,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two gardeners talking easily by a wheelbarrow in morning light",
+     "pexels": "two gardeners talking by wheelbarrow morning",
+     "pixabay": "gardener wheelbarrow morning",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman shaking hands with an apprentice after finishing a task",
+     "pexels": "foreman shaking hand with apprentice",
+     "pixabay": "foreman apprentice handshake",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two hands shaking in greeting",
+     "pexels": "close up hands shaking greeting",
+     "pixabay": "hands handshake close",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two crew members standing apart avoiding eye contact in a garden",
+     "pexels": "two workers standing apart avoiding eye contact",
+     "pixabay": "workers apart garden",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office handshake",
+    "boardroom",
+    "corporate suits",
+    "laptop",
+    "indoor silence shot"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Promises are made but not kept. Mistakes get hidden. People start checking up on each other, protecting themselves and questioning motives. Everything slows down. This is one of the central ideas in Stephen M. R. Covey's The Speed of Trust: When trust goes up, speed goes up and cost goes down. When trust goes down, speed goes down and cost goes up.",
+   "t": 22.76,
+   "end": 48.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "apprentice hiding a broken tool behind their back in a greenhouse",
+     "pexels": "worker hiding broken tool greenhouse",
+     "pixabay": "worker tool greenhouse hide",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "foreman looking concerned while checking an unfinished garden task",
+     "pexels": "foreman checking unfinished garden task",
+     "pixabay": "foreman garden inspect",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands covering a cracked plant pot",
+     "pexels": "hands covering cracked plant pot",
+     "pixabay": "hands pot crack",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two workers glancing warily at each other across an orchard",
+     "pexels": "two workers glancing warily across orchard",
+     "pixabay": "workers orchard distance",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "boardroom",
+    "corporate",
+    "shouting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Covey describes this as the difference between a Trust Dividend and a Trust Tax. In a high-trust environment, communication is faster. Decisions are easier. People collaborate more freely. Problems are raised earlier. But low-trust organisations pay a tax. More meetings. More checking. More misunderstandings. More delays. And more stress. Trust isn't simply a nice value to put on the wall.",
+   "t": 48.41,
+   "end": 74.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew working efficiently together in an orchard",
+     "pexels": "crew working efficiently together orchard",
+     "pixabay": "crew orchard teamwork",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman briefing two apprentices quickly as they nod and move fast",
+     "pexels": "foreman briefing apprentices quickly",
+     "pixabay": "foreman apprentice briefing",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "worker double-checking a colleague's work with a clipboard, frustrated",
+     "pexels": "worker double checking colleague work clipboard",
+     "pixabay": "worker clipboard check",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "close-up of hands filling out a repeated inspection checklist",
+     "pexels": "hands filling repeated checklist form",
+     "pixabay": "hands checklist form",
+     "scale": "close"
+    }
+   ],
+   "must_not": [
+    "office paperwork",
+    "boardroom",
+    "corporate meeting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It has a practical and economic impact. And every one of us contributes to it. So how do we build more trust? Here are six behaviours we can start practising immediately. Number one: talk straight. Say what you mean. Be honest about problems. Have the conversations that need to be had. Talking straight doesn't mean being aggressive or insensitive.",
+   "t": 74.07,
+   "end": 98.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman talking honestly with an apprentice beside a greenhouse",
+     "pexels": "foreman talking honestly with apprentice greenhouse",
+     "pixabay": "foreman apprentice talk",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a face listening attentively outdoors",
+     "pexels": "close up face listening attentively outdoors",
+     "pixabay": "face listening outdoor",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker pausing a task to speak directly to a colleague",
+     "pexels": "worker pausing to speak to colleague",
+     "pixabay": "worker colleague conversation",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers talking mid-conversation in a vineyard",
+     "pexels": "two workers talking in vineyard",
+     "pixabay": "workers vineyard talking",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office meeting room",
+    "aggressive pointing",
+    "shouting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It means being clear, respectful and truthful. Instead of allowing frustration to build, say: \"I think we may have a problem here. Can we talk about it?\" A short, honest conversation today can prevent a much larger problem tomorrow. Number two: create clarity. A surprising amount of conflict comes from unclear expectations. One person thinks success means one thing.",
+   "t": 98.48,
+   "end": 122.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman calmly explaining a problem to an apprentice by a toolshed",
+     "pexels": "foreman calmly explaining problem apprentice",
+     "pixabay": "foreman explain apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands gesturing calmly while talking",
+     "pexels": "hands gesturing calmly while talking",
+     "pixabay": "hands gesture talking",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice nodding, listening respectfully",
+     "pexels": "apprentice nodding listening respectfully",
+     "pixabay": "apprentice listening nod",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers talking quietly near a greenhouse at golden hour",
+     "pexels": "two workers talking quietly greenhouse golden hour",
+     "pixabay": "workers greenhouse golden hour",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "aggressive confrontation",
+    "raised fists"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Another thinks it means something completely different. Before important work begins, get clear. What are we trying to achieve? Who is responsible for what? When does it need to happen? And what does a successful result look like? Clarity builds confidence. Ambiguity creates distrust. Number three: keep commitments. Trust is built when our words and actions match.",
+   "t": 122.9,
+   "end": 146.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman pointing out tasks on a garden plan to an apprentice",
+     "pexels": "foreman pointing garden plan to apprentice",
+     "pixabay": "foreman plan apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands marking a planting schedule on paper",
+     "pexels": "hands marking planting schedule paper",
+     "pixabay": "hands schedule paper",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers nodding in agreement over a task list",
+     "pexels": "two workers agreeing over task list",
+     "pixabay": "workers task list agree",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "crew gathered around a wheelbarrow reviewing the day's jobs",
+     "pexels": "crew gathered reviewing day's jobs",
+     "pixabay": "crew gather jobs review",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office whiteboard",
+    "PowerPoint",
+    "boardroom"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "If you say you are going to do something, do everything you reasonably can to follow through. Sometimes circumstances change. The important thing is to communicate early. If you can no longer deliver what you promised, say: \"Something has changed. Here's the situation, and here's what I propose we do.\" Trust does not require perfection.",
+   "t": 146.48,
+   "end": 169.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker planting seedlings exactly as promised",
+     "pexels": "worker planting seedlings as promised",
+     "pixabay": "worker planting seedling",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands completing a repair exactly as discussed",
+     "pexels": "hands completing repair as discussed",
+     "pixabay": "hands repair tool",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice returning early to tell the foreman about a delay",
+     "pexels": "apprentice telling foreman about delay",
+     "pixabay": "apprentice foreman delay",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers shaking hands after a job finished on time",
+     "pexels": "two workers shaking hands job finished",
+     "pixabay": "workers handshake finished",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate contract signing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "It requires integrity. Number four: practise accountability. When something goes wrong, low-trust cultures ask: Who can we blame? High-trust cultures ask: What happened? What can we learn? And how do we fix it? If you made the mistake, own it. Imagine someone simply saying: \"That was my responsibility. I got it wrong. Here's what I'm doing to correct it.\"",
+   "t": 169.24,
+   "end": 194.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker admitting a mistake to the foreman, head bowed slightly",
+     "pexels": "worker admitting mistake to foreman",
+     "pixabay": "worker mistake foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands holding a broken garden tool",
+     "pexels": "hands holding broken garden tool",
+     "pixabay": "hands broken tool",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "foreman listening calmly without anger, nodding",
+     "pexels": "foreman listening calmly without anger",
+     "pixabay": "foreman calm listening",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker and foreman standing together looking at a damaged area",
+     "pexels": "worker foreman looking at damaged area",
+     "pixabay": "worker foreman damage",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shouting",
+    "blame pointing",
+    "aggressive gestures"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Taking responsibility doesn't weaken credibility. Very often, it strengthens it. Number five: listen first. Many trust problems begin with assumptions. We assume we know why someone behaved a certain way. We assume they don't care. We assume they had bad intentions. But assumptions are not facts. Instead, become curious. Ask: \"Help me understand what happened.\"",
+   "t": 194.48,
+   "end": 217.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman leaning in to listen closely to an apprentice",
+     "pexels": "foreman leaning in listening to apprentice",
+     "pixabay": "foreman listening apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a face listening with full attention",
+     "pexels": "close up face listening full attention",
+     "pixabay": "face listening attention",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers talking on a bench during a break",
+     "pexels": "two workers talking on bench break",
+     "pixabay": "workers bench break talk",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "worker approaching a colleague to ask what happened",
+     "pexels": "worker approaching colleague to ask",
+     "pixabay": "worker approach colleague",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office cubicle",
+    "interrogation lighting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Listen before defending. Understand before judging. People are far more likely to trust us when they feel genuinely heard. Number six: extend trust. Trust also has to be given. If capable people are constantly monitored and second-guessed, eventually they stop taking initiative. Strong leaders give people appropriate responsibility and allow them to own the result.",
+   "t": 217.24,
+   "end": 240.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman handing tools to an apprentice and stepping back",
+     "pexels": "foreman handing tools to apprentice stepping back",
+     "pixabay": "foreman tools apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "apprentice working independently on a task while the foreman watches from a distance",
+     "pexels": "apprentice working independently foreman distance",
+     "pixabay": "apprentice independent foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands confidently operating a tool unsupervised",
+     "pexels": "hands confidently using tool unsupervised",
+     "pixabay": "hands tool confident",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an apprentice completing a task alone in a greenhouse",
+     "pexels": "apprentice completing task alone greenhouse",
+     "pixabay": "apprentice greenhouse alone",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office supervisor hovering",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "That doesn't mean blind trust. It means what Covey describes as smart trust. Consider the situation. Consider the person's competence and character. Then give them enough trust to act. Responsibility grows when people are trusted with responsibility. So here is a simple challenge. During the next week, pay attention to the trust you create around you.",
+   "t": 240.41,
+   "end": 263.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman assessing an apprentice's work approvingly",
+     "pexels": "foreman assessing apprentice work approvingly",
+     "pixabay": "foreman apprentice approve",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "apprentice taking on a bigger task with visible confidence",
+     "pexels": "apprentice taking on bigger task confidently",
+     "pixabay": "apprentice task confident",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands passing a set of tools over to another worker",
+     "pexels": "hands passing tools over to worker",
+     "pixabay": "hands tools pass",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an apprentice leading a small task in a vineyard",
+     "pexels": "apprentice leading small task vineyard",
+     "pixabay": "apprentice lead vineyard",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate promotion ceremony",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S12",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Ask yourself: Do I speak honestly? Do I make expectations clear? Do I keep my commitments? Do I take responsibility for my mistakes? Do I genuinely listen? And do I give trustworthy people the opportunity to take ownership? Trust is not created by one big event. It is created through hundreds of small moments. A promise kept.",
+   "t": 263.59,
+   "end": 287.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing alone, looking out thoughtfully over the land",
+     "pexels": "worker pausing thoughtfully looking over land",
+     "pixabay": "worker thoughtful land",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands resting still on a tool",
+     "pexels": "close up hands resting on tool still",
+     "pixabay": "hands tool still",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers nodding to each other in quiet agreement",
+     "pexels": "two workers nodding quiet agreement",
+     "pixabay": "workers nod agreement",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a worker walking alone along a garden path at dusk",
+     "pexels": "worker walking alone garden path dusk",
+     "pixabay": "worker path dusk",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office window reflection",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S13",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A difficult truth spoken respectfully. A mistake acknowledged. A person listened to. A responsibility entrusted. Over time, those moments create something extremely valuable. A team where people can move quickly because they don't have to protect themselves from one another. A team where communication becomes easier. Where accountability becomes normal. And where more energy can be spent doing great work. So if you want better communication, stronger teamwork and better performance, start with trust. Because when trust increases, almost everything else becomes easier.",
+   "t": 287.17,
+   "end": 321.52,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "crew finishing the day's work together, relaxed and satisfied",
+     "pexels": "crew finishing day's work together relaxed",
+     "pixabay": "crew finish relaxed",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman and crew sharing a light moment at dusk",
+     "pexels": "foreman crew sharing light moment dusk",
+     "pixabay": "foreman crew dusk",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands brushing soil off after a finished job",
+     "pexels": "hands brushing soil off after work",
+     "pixabay": "hands soil brush",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "two workers walking back together carrying tools, talking easily",
+     "pexels": "two workers walking back carrying tools talking",
+     "pixabay": "workers walking tools talk",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office end of day",
+    "corporate handshake"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  }
+ ]
+}

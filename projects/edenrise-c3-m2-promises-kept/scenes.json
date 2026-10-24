@@ -1,0 +1,587 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "What is your word really worth? Not what you say it's worth. Not what you hope others believe it's worth. But what is it worth… to the people who depend on it? Think about that for a moment. Every time you make a promise, something invisible happens. Someone begins arranging a part of their life around your words.",
+   "t": 0.0,
+   "end": 24.0,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman making a promise to an apprentice with a handshake",
+     "pexels": "foreman making promise handshake apprentice",
+     "pixabay": "foreman promise handshake",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of two hands shaking in agreement",
+     "pexels": "close up hands shaking agreement",
+     "pixabay": "hands shake agreement",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice nodding seriously, taking a promise to heart",
+     "pexels": "apprentice nodding seriously taking promise",
+     "pixabay": "apprentice serious nod",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers standing in a greenhouse making an agreement",
+     "pexels": "two workers agreement greenhouse",
+     "pixabay": "workers greenhouse agreement",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "contract signing office",
+    "corporate handshake suits",
+    "boardroom"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Their time. Their energy. Their expectations. And often, their trust. But there's something even more important happening beneath the surface. Something that shapes the quality of every relationship you build. And it begins with the smallest promises. \"I'll call you tomorrow.\" \"I'll have it ready by Friday.\" \"I'll be there.\" Such simple words. Yet when those words aren't honoured, the consequences extend far beyond the promise itself.",
+   "t": 24.0,
+   "end": 51.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker checking a watch while waiting for someone who hasn't arrived",
+     "pexels": "worker checking watch waiting",
+     "pixabay": "worker watch waiting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "apprentice looking at an unfinished task left for another day",
+     "pexels": "apprentice looking at unfinished task",
+     "pixabay": "apprentice unfinished task",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands holding a note with a missed deadline",
+     "pexels": "hands holding note missed deadline",
+     "pixabay": "hands note deadline",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker standing alone by a gate waiting, no one else in sight",
+     "pexels": "worker standing alone waiting at gate",
+     "pixabay": "worker waiting gate",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office clock",
+    "corporate",
+    "indoor phone call"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Someone waits. Someone rearranges their day. Someone puts their own plans on hold. And perhaps the deepest cost isn't the inconvenience. It's the unspoken message: \"My time matters more than yours.\" Now, that may never have been your intention. Life happens. Circumstances change. We make mistakes. But here's the distinction that changes everything: Breaking a commitment isn't always a failure of character. Refusing to take responsibility for it can become one.",
+   "t": 51.72,
+   "end": 81.1,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker looking frustrated while waiting near a wheelbarrow",
+     "pexels": "worker frustrated waiting wheelbarrow",
+     "pixabay": "worker frustrated waiting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "apprentice putting away tools early after a wasted wait",
+     "pexels": "apprentice putting away tools early",
+     "pixabay": "apprentice tools put away",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands fidgeting with a tool while waiting",
+     "pexels": "close up hands fidgeting tool waiting",
+     "pixabay": "hands fidget tool",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an empty garden path where someone was expected",
+     "pexels": "empty garden path expected person",
+     "pixabay": "empty path garden",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office waiting room",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a different response. You realize you cannot deliver what you promised. Instead of disappearing, delaying, or waiting to be confronted, you reach out. \"I made a commitment to you. I haven't fulfilled it. I'm sorry. Here's what happened, and here's what I'm going to do.\" No elaborate excuses. No shifting blame. Just honesty, responsibility, and a genuine effort to make things right.",
+   "t": 81.1,
+   "end": 107.17,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker approaching the foreman to admit a missed task",
+     "pexels": "worker approaching foreman to admit mistake",
+     "pixabay": "worker foreman admit",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands open in an honest gesture while explaining",
+     "pexels": "hands open honest gesture explaining",
+     "pixabay": "hands open gesture",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "foreman nodding, accepting the explanation calmly",
+     "pexels": "foreman nodding accepting explanation calmly",
+     "pixabay": "foreman accept calm",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers standing together resolving an issue in a vineyard",
+     "pexels": "two workers resolving issue vineyard",
+     "pixabay": "workers resolve vineyard",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "shouting",
+    "aggressive confrontation",
+    "office HR room"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Researchers have a name for the alignment between our words and actions. Behavioural integrity. And studies of trust show that apologies can help repair damage, while consistent trustworthy actions are essential to rebuilding confidence. Because trust doesn't require perfection. It requires truthfulness. And the courage to face the moments when we've fallen short. But what happens when we stop doing even that?",
+   "t": 107.17,
+   "end": 132.83,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker following through exactly on a task just discussed",
+     "pexels": "worker following through task discussed",
+     "pixabay": "worker task follow",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands finishing a repair matching what was promised",
+     "pexels": "hands finishing repair as promised",
+     "pixabay": "hands repair promise",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice apologising to the foreman, both calm",
+     "pexels": "apprentice apologising to foreman calm",
+     "pixabay": "apprentice apology foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two crew members talking honestly in a greenhouse",
+     "pexels": "two workers talking honestly greenhouse",
+     "pixabay": "workers greenhouse honest",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "corporate apology statement",
+    "office"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Imagine a magnificent building. Beautiful architecture. Strong walls. Impressive foundations. From the outside, everything appears secure. But hidden within its structure, termites have begun quietly eating away at the timber. One tiny opening. Then another. And another. For years, the building might appear completely sound. Until one day, under pressure, the structure can no longer carry the weight it was designed to hold.",
+   "t": 132.83,
+   "end": 158.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a sturdy stone building on the resort grounds",
+     "pexels": "wide shot sturdy stone building grounds",
+     "pixabay": "stone building wide",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "close inspection of a wall showing small cracks",
+     "pexels": "close inspection wall small cracks",
+     "pixabay": "wall crack inspect",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a crumbling wooden beam",
+     "pexels": "close up crumbling wooden beam",
+     "pixabay": "wooden beam crumble",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker running a hand along a weathered wall, checking the damage",
+     "pexels": "worker hand along weathered wall checking",
+     "pixabay": "worker wall check",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "demolished building",
+    "collapsed structure",
+    "war ruins",
+    "debris"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Trust can erode in much the same way. One forgotten commitment. One unanswered message. One broken promise nobody acknowledges. And slowly, something begins to change. People stop relying on each other. They stop believing deadlines. They start protecting their own time because they can no longer trust others to respect it. And eventually, the behaviour spreads.",
+   "t": 158.9,
+   "end": 182.07,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "two workers passing each other without speaking, distant",
+     "pexels": "two workers passing without speaking distant",
+     "pixabay": "workers passing distant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker checking an unanswered message on a phone",
+     "pexels": "worker checking unanswered message phone",
+     "pixabay": "worker phone message",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands putting down tools, hesitant to ask for help",
+     "pexels": "hands putting down tools hesitant",
+     "pixabay": "hands tools hesitant",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of workers scattered across a field, not working together",
+     "pexels": "workers scattered field not together",
+     "pixabay": "workers scattered field",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office isolation",
+    "corporate layoffs",
+    "empty desks"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "\"If they don't keep their word, why should I?\" A family, a friendship, a team, even an entire organization can begin to lose its invisible foundation. Not through one dramatic betrayal. But through a thousand small moments of indifference. And the real tragedy? The damage may be happening long before anyone notices. Now imagine the opposite.",
+   "t": 182.07,
+   "end": 205.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker ignoring a colleague's request for help",
+     "pexels": "worker ignoring colleague request help",
+     "pixabay": "worker ignore colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two workers standing apart, one looking away",
+     "pexels": "two workers standing apart looking away",
+     "pixabay": "workers apart looking away",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands crossed in a closed-off posture",
+     "pexels": "close up hands crossed closed posture",
+     "pixabay": "hands crossed closed",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a quiet garden with workers spread far apart",
+     "pexels": "quiet garden workers spread far apart",
+     "pixabay": "garden workers apart",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office conflict",
+    "shouting match",
+    "corporate"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "A world where people do what they say. Where commitments carry meaning. Where someone who makes a mistake acknowledges it before being asked. Where a promise isn't simply something spoken. It's something honoured. Think how much energy that frees. Less chasing. Less checking. Less second-guessing. More trust. More collaboration. More possibility. And something extraordinary happens within you.",
+   "t": 205.24,
+   "end": 229.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman and apprentice completing a task together, relaxed",
+     "pexels": "foreman apprentice completing task relaxed",
+     "pixabay": "foreman apprentice relaxed",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two workers laughing lightly while finishing a job",
+     "pexels": "two workers laughing finishing job",
+     "pixabay": "workers laughing finish",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands shaking warmly after a job well done",
+     "pexels": "close up hands shaking warmly",
+     "pixabay": "hands shake warm",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a thriving garden with crew working smoothly together",
+     "pexels": "thriving garden crew working smoothly",
+     "pixabay": "garden crew smooth",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office celebration",
+    "corporate party"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Every promise you honour reinforces your own identity. Your actions begin to align with your values. You become someone who doesn't merely speak about integrity. You live it. Not for recognition. But because your word has become an expression of who you choose to be. So perhaps the question isn't simply: \"Do I keep my promises?\"",
+   "t": 229.24,
+   "end": 252.41,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker carefully tending a plant, taking pride in the work",
+     "pexels": "worker carefully tending plant pride",
+     "pixabay": "worker tending plant",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands gently placing a seedling in soil",
+     "pexels": "close up hands placing seedling soil",
+     "pixabay": "hands seedling soil",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "foreman observing an apprentice's consistent, careful work",
+     "pexels": "foreman observing apprentice careful work",
+     "pixabay": "foreman observe apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of an apprentice working steadily alone in early light",
+     "pexels": "apprentice working steadily early light",
+     "pixabay": "apprentice early light",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate ethics poster"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Perhaps the deeper question is: \"What happens to the people around me because of the way I honour my word?\" Do they feel respected? Can they depend on me? Does my presence create certainty… or uncertainty? Because every promise is an opportunity. To build trust. To show respect. To strengthen your integrity. And to become the kind of person whose words carry genuine weight.",
+   "t": 252.41,
+   "end": 278.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman checking in with an apprentice, warm and attentive",
+     "pexels": "foreman checking in apprentice warm",
+     "pixabay": "foreman check apprentice",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of two hands in a steady, reassuring handshake",
+     "pexels": "close up steady reassuring handshake",
+     "pixabay": "hands handshake steady",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "apprentice looking relieved and reassured after a conversation",
+     "pexels": "apprentice looking relieved reassured",
+     "pixabay": "apprentice relieved",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "two workers walking together through a vineyard, talking calmly",
+     "pexels": "two workers walking vineyard talking calmly",
+     "pixabay": "workers vineyard walk",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office",
+    "corporate trust seminar"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  },
+  {
+   "id": "S12",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Your word is more than a promise. It's a reflection of your character. It's the foundation of your relationships. And it's one of the most powerful gifts of respect you can give another human being. Promises kept. Your word matters.",
+   "t": 278.9,
+   "end": 295.45,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of the whole crew gathered together at the end of the day",
+     "pexels": "whole crew gathered together end of day",
+     "pixabay": "crew gathered day",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman and apprentice shaking hands, satisfied",
+     "pexels": "foreman apprentice shaking hands satisfied",
+     "pixabay": "foreman apprentice handshake",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands clasped together in a firm handshake",
+     "pexels": "close up hands clasped firm handshake",
+     "pixabay": "hands clasped handshake",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "crew walking off together into the fields at golden hour",
+     "pexels": "crew walking together fields golden hour",
+     "pixabay": "crew fields golden hour",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office group photo",
+    "corporate team building banner"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-10-24T13:26:05Z"
+  }
+ ]
+}
