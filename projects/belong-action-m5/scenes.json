@@ -617,7 +617,55 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 2,
-    "at": "2026-10-19T17:15:36Z",
+    "at": {
+     "M5-B01": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:01:27Z",
+      "added": 7
+     },
+     "M5-B02": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:00Z",
+      "added": 4
+     },
+     "M5-B03": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:26Z",
+      "added": 5
+     },
+     "M5-B04": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:03:03Z",
+      "added": 6
+     },
+     "M5-B05": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "attempts": 35,
+      "last_attempt": "2026-10-24T14:50:00Z",
+      "fulfilled": "2026-10-24T18:20:50Z",
+      "added": 6
+     }
+    },
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -919,7 +967,55 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 2,
-    "at": "2026-10-19T17:15:36Z",
+    "at": {
+     "M5-B01": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:01:27Z",
+      "added": 7
+     },
+     "M5-B02": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:00Z",
+      "added": 4
+     },
+     "M5-B03": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:26Z",
+      "added": 5
+     },
+     "M5-B04": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:03:03Z",
+      "added": 6
+     },
+     "M5-B05": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "attempts": 35,
+      "last_attempt": "2026-10-24T14:50:00Z",
+      "fulfilled": "2026-10-24T18:20:50Z",
+      "added": 6
+     }
+    },
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -1324,6 +1420,140 @@
      "rank": 1,
      "shown": true,
      "judged_at": "2026-10-19T16:06:10Z"
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V13",
+     "type": "video",
+     "source": "pexels",
+     "author": "ROMAN ODINTSOV",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-writing-on-a-paper-11025820/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__thumb__belong-module5-S02-V12.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module5/S02__preview__belong-module5-S02-V12.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V13.strip.jpg",
+     "title": "a person writing on a paper",
+     "query": "handwritten reservation book",
+     "shot": "B",
+     "src_id": "11025820",
+     "download_url": "https://videos.pexels.com/video-files/11025820/11025820-hd_2048_1080_30fps.mp4",
+     "fresh": true,
+     "added_by": "library",
+     "staged_at": "2026-10-24T18:20:33Z",
+     "judged": false,
+     "shown": false
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V14",
+     "type": "video",
+     "source": "pexels",
+     "author": "K",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/close-up-of-handwriting-in-a-journal-33350902/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S08__thumb__belong-module11-S08-V04.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-module11/S08__preview__belong-module11-S08-V04.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V14.strip.jpg",
+     "title": "close up of handwriting in a journal",
+     "query": "hand writing note fountain pen paper",
+     "shot": "B",
+     "src_id": "33350902",
+     "download_url": "https://videos.pexels.com/video-files/33350902/14201049_1920_1080_24fps.mp4",
+     "fresh": true,
+     "added_by": "library",
+     "staged_at": "2026-10-24T18:20:34Z",
+     "judged": false,
+     "shown": false
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V15",
+     "type": "video",
+     "source": "pexels",
+     "author": "Jakub Zerdzicki",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/hand-writing-checklist-in-notebook-for-task-management-36343656/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__thumb__edenrise-c2-winning-beliefs-S05-V15.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c2-winning-beliefs/S05__preview__edenrise-c2-winning-beliefs-S05-V15.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V15.strip.jpg",
+     "title": "hand writing checklist in notebook for task management",
+     "query": "checklist being written close",
+     "shot": "A",
+     "src_id": "36343656",
+     "download_url": "https://videos.pexels.com/video-files/36343656/15414996_1920_1080_25fps.mp4",
+     "fresh": true,
+     "added_by": "library",
+     "staged_at": "2026-10-24T18:20:36Z",
+     "judged": false,
+     "shown": false
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V16",
+     "type": "video",
+     "source": "pexels",
+     "author": "Ron Lach",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/a-person-writing-in-a-diary-10673308/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S13__thumb__edenrise-speed-of-trust-S13-V30.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-speed-of-trust-2/S13__preview__edenrise-speed-of-trust-S13-V30.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V16.strip.jpg",
+     "title": "a person writing in a diary",
+     "query": "pencil writing notebook close",
+     "shot": "A",
+     "src_id": "10673308",
+     "download_url": "https://videos.pexels.com/video-files/10673308/10673308-hd_2048_1080_25fps.mp4",
+     "fresh": true,
+     "added_by": "library",
+     "staged_at": "2026-10-24T18:20:38Z",
+     "judged": false,
+     "shown": false
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V17",
+     "type": "video",
+     "source": "pexels",
+     "author": "KATRIN  BOLOVTSOVA",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/person-turning-notebook-on-the-desk-6186637/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__thumb__belong-action-m5-M5-B05-V17.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__preview__belong-action-m5-M5-B05-V17.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V17.strip.jpg",
+     "title": "person turning notebook on the desk",
+     "query": "pen writing on lined paper",
+     "shot": "B",
+     "duration": 16,
+     "src_id": "6186637",
+     "download_url": "https://videos.pexels.com/video-files/6186637/6186637-hd_2048_1080_30fps.mp4",
+     "real_w": 2048,
+     "real_h": 1080,
+     "real_seconds": 16.43,
+     "fresh": true,
+     "added_by": "recall-v2",
+     "staged_at": "2026-10-24T18:20:44Z",
+     "judged": false,
+     "shown": false
+    },
+    {
+     "id": "belong-action-m5-M5-B05-V18",
+     "type": "video",
+     "source": "pexels",
+     "author": "Coverr",
+     "license": "Pexels License",
+     "page_url": "https://www.pexels.com/video/handwriting-854192/",
+     "thumb": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__thumb__belong-action-m5-M5-B05-V18.jpg",
+     "preview": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__preview__belong-action-m5-M5-B05-V18.mp4",
+     "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m5/M5-B05__strip__belong-action-m5-M5-B05-V18.strip.jpg",
+     "title": "handwriting",
+     "query": "pen writing on lined paper",
+     "shot": "B",
+     "duration": 15,
+     "src_id": "854192",
+     "download_url": "https://videos.pexels.com/video-files/854192/854192-hd_1920_1080_25fps.mp4",
+     "real_w": 1920,
+     "real_h": 1080,
+     "real_seconds": 14.65,
+     "fresh": true,
+     "added_by": "recall-v2",
+     "staged_at": "2026-10-24T18:20:50Z",
+     "judged": false,
+     "shown": false
     }
    ],
    "shots": [
@@ -1363,7 +1593,55 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-10-19T17:15:36Z",
+    "at": {
+     "M5-B01": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:01:27Z",
+      "added": 7
+     },
+     "M5-B02": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:00Z",
+      "added": 4
+     },
+     "M5-B03": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:02:26Z",
+      "added": 5
+     },
+     "M5-B04": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "fulfilled": "2026-10-19T17:03:03Z",
+      "added": 6
+     },
+     "M5-B05": {
+      "requested": "2026-10-19T15:58:28Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "abstract-rework",
+      "attempts": 35,
+      "last_attempt": "2026-10-24T14:50:00Z",
+      "fulfilled": "2026-10-24T18:20:50Z",
+      "added": 6
+     }
+    },
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   }

@@ -40,12 +40,13 @@
     "M5-B05": {
       "requested": "2026-10-19T15:58:28Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
       "by": "abstract-rework",
-      "error": "TypeError: '>' not supported between instances of 'str' and 'int'",
       "attempts": 35,
-      "last_attempt": "2026-10-24T14:50:00Z"
+      "last_attempt": "2026-10-24T14:50:00Z",
+      "fulfilled": "2026-10-24T18:20:50Z",
+      "added": 6
     }
   },
   "updated": "2026-10-19T15:58:28Z",
