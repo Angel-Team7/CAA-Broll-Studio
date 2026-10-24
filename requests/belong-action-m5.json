@@ -44,8 +44,8 @@
       "reason": "first-gather",
       "by": "abstract-rework",
       "error": "TypeError: '>' not supported between instances of 'str' and 'int'",
-      "attempts": 33,
-      "last_attempt": "2026-10-24T06:24:35Z"
+      "attempts": 34,
+      "last_attempt": "2026-10-24T11:31:53Z"
     }
   },
   "updated": "2026-10-19T15:58:28Z",
