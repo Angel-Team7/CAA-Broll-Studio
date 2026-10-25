@@ -1,6 +1,6 @@
 {
   "project": "belong-action-m2",
-  "updated": "2026-10-25T15:54:51.988Z",
+  "updated": "2026-10-25T15:54:53.624Z",
   "ready": false,
   "approved": {
     "M2-B02": [
@@ -8,7 +8,8 @@
     ]
   },
   "needs_broll": {
-    "M2-B01": ""
+    "M2-B01": "",
+    "M2-B04": ""
   },
   "topup_requests": {
     "S01": {
@@ -92,6 +93,19 @@
       "done": true,
       "fulfilled": "2026-10-21T15:49:20Z",
       "added": 7
+    },
+    "M2-B04": {
+      "requested": "2026-10-25T15:54:53.617Z",
+      "note": "",
+      "reason": "direction",
+      "avoid": [
+        "picking",
+        "hands",
+        "fallen",
+        "branch",
+        "tree"
+      ],
+      "done": false
     }
   }
 }
