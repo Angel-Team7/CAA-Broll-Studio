@@ -515,105 +515,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T14:16:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:51:06Z",
-      "added": 22
-     },
-     "S02": {
-      "requested": "2026-09-23T14:17:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:54:03Z",
-      "added": 22
-     },
-     "S03": {
-      "requested": "2026-09-23T14:18:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:56:51Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-09-23T14:19:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:59:16Z",
-      "added": 24
-     },
-     "S05": {
-      "requested": "2026-09-23T14:20:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:01:58Z",
-      "added": 22
-     },
-     "S06": {
-      "requested": "2026-09-23T14:21:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:04:17Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-10-07T15:44:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:08:17Z",
-      "added": 22
-     },
-     "S08": {
-      "requested": "2026-10-14T09:28:14Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-14T09:31:02Z",
-      "added": 24
-     },
-     "M2-B01": {
-      "requested": "2026-10-21T15:47:58.122Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "wooden",
-       "table",
-       "morning",
-       "talking",
-       "coffee",
-       "hands",
-       "close",
-       "holding"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-21T15:49:20Z",
-      "added": 7
-     },
-     "M2-B04": {
-      "requested": "2026-10-25T15:54:53.617Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "picking",
-       "hands",
-       "fallen",
-       "branch",
-       "tree"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-25T15:56:31Z",
-      "added": 7
-     }
-    },
+    "at": "2026-10-25T15:57:49Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
    "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): the guest's question at the counter — would replace the reception clip under 'A guest asks'"
@@ -920,105 +822,7 @@
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
     "usable": 1,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T14:16:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:51:06Z",
-      "added": 22
-     },
-     "S02": {
-      "requested": "2026-09-23T14:17:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:54:03Z",
-      "added": 22
-     },
-     "S03": {
-      "requested": "2026-09-23T14:18:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:56:51Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-09-23T14:19:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:59:16Z",
-      "added": 24
-     },
-     "S05": {
-      "requested": "2026-09-23T14:20:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:01:58Z",
-      "added": 22
-     },
-     "S06": {
-      "requested": "2026-09-23T14:21:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:04:17Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-10-07T15:44:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:08:17Z",
-      "added": 22
-     },
-     "S08": {
-      "requested": "2026-10-14T09:28:14Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-14T09:31:02Z",
-      "added": 24
-     },
-     "M2-B01": {
-      "requested": "2026-10-21T15:47:58.122Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "wooden",
-       "table",
-       "morning",
-       "talking",
-       "coffee",
-       "hands",
-       "close",
-       "holding"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-21T15:49:20Z",
-      "added": 7
-     },
-     "M2-B04": {
-      "requested": "2026-10-25T15:54:53.617Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "picking",
-       "hands",
-       "fallen",
-       "branch",
-       "tree"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-25T15:56:31Z",
-      "added": 7
-     }
-    },
+    "at": "2026-10-25T15:57:49Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
    "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): under 'Broken promises pile up in silence' (now a quiet bedroom photo)"
@@ -1334,8 +1138,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:55:47Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 5,
+     "caption": "a wooden boardwalk winds through a sunlit pine forest",
+     "violation": "",
+     "shoot": "pexels-forest-boardwalk",
+     "score": 3.7,
+     "rank": 4,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V08",
@@ -1349,7 +1161,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V08.strip.jpg",
      "title": "hands reaching avocados on tree in sunlight",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 24,
      "src_id": "36846238",
      "download_url": "https://videos.pexels.com/video-files/36846238/15611044_1920_1080_24fps.mp4",
@@ -1359,8 +1171,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:55:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand reaches up to pick fruit from a leafy tree",
+     "violation": "",
+     "shoot": "pexels-fruit-picking-backlit",
+     "score": 3.4,
+     "rank": 5,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V09",
@@ -1374,7 +1194,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V09.strip.jpg",
      "title": "serene forest pathway with glowing sunlight",
      "query": "pine branch on wooden boardwalk",
-     "shot": "C",
+     "shot": "",
      "duration": 50,
      "src_id": "35544406",
      "download_url": "https://videos.pexels.com/video-files/35544406/15058510_1920_1080_25fps.mp4",
@@ -1384,8 +1204,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:56:01Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "sunlight filters through a shadowed forest pathway",
+     "violation": "",
+     "shoot": "pexels-dark-forest-path",
+     "score": 2.05,
+     "rank": 9,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V10",
@@ -1399,7 +1227,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V10.strip.jpg",
      "title": "picking fresh lemons from tree in springtime",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 23,
      "src_id": "31269105",
      "download_url": "https://videos.pexels.com/video-files/31269105/13353448_1920_1080_30fps.mp4",
@@ -1409,8 +1237,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:56:09Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "a hand picks a ripe lemon from a tree branch",
+     "violation": "",
+     "shoot": "pexels-lemon-picking",
+     "score": 3.4,
+     "rank": 6,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V11",
@@ -1424,7 +1260,7 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-belong-action-m2/M2-B04__strip__belong-action-m2-M2-B04-V11.strip.jpg",
      "title": "apple picking on the orchard trees",
      "query": "hands picking up fallen branch",
-     "shot": "A",
+     "shot": "",
      "duration": 22,
      "src_id": "19666849",
      "download_url": "https://videos.pexels.com/video-files/19666849/19666849-hd_1920_1080_24fps.mp4",
@@ -1434,8 +1270,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:56:16Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 6,
+     "caption": "hands pick apples and place them in a basket",
+     "violation": "",
+     "shoot": "pexels-apple-orchard",
+     "score": 3.4,
+     "rank": 7,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V12",
@@ -1459,8 +1303,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:56:24Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 6,
+     "caption": "dew drops cling to a pine branch in daylight",
+     "violation": "",
+     "shoot": "pexels-pine-dew",
+     "score": 4.05,
+     "rank": 3,
+     "judged_at": "2026-10-25T15:57:44Z"
     },
     {
      "id": "belong-action-m2-M2-B04-V13",
@@ -1484,8 +1336,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-10-25T15:56:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 8,
+     "caption": "hands pick up pine cones from the forest floor",
+     "violation": "",
+     "shoot": "pexels-pinecone-picking",
+     "score": 6.7,
+     "rank": 1,
+     "judged_at": "2026-10-25T15:57:44Z"
     }
    ],
    "shots": [
@@ -1524,107 +1384,9 @@
    "shots_by": "claude",
    "shots_at": "2026-10-19T15:58:28Z",
    "stock_gap": {
-    "usable": 0,
-    "at": {
-     "S01": {
-      "requested": "2026-09-23T14:16:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:51:06Z",
-      "added": 22
-     },
-     "S02": {
-      "requested": "2026-09-23T14:17:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:54:03Z",
-      "added": 22
-     },
-     "S03": {
-      "requested": "2026-09-23T14:18:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:56:51Z",
-      "added": 22
-     },
-     "S04": {
-      "requested": "2026-09-23T14:19:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T11:59:16Z",
-      "added": 24
-     },
-     "S05": {
-      "requested": "2026-09-23T14:20:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:01:58Z",
-      "added": 22
-     },
-     "S06": {
-      "requested": "2026-09-23T14:21:02Z",
-      "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "fulfilled": "2026-09-24T12:04:17Z",
-      "added": 24
-     },
-     "S07": {
-      "requested": "2026-10-07T15:44:56Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-13T17:08:17Z",
-      "added": 22
-     },
-     "S08": {
-      "requested": "2026-10-14T09:28:14Z",
-      "note": "",
-      "done": true,
-      "reason": "shots-rewritten",
-      "fulfilled": "2026-10-14T09:31:02Z",
-      "added": 24
-     },
-     "M2-B01": {
-      "requested": "2026-10-21T15:47:58.122Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "wooden",
-       "table",
-       "morning",
-       "talking",
-       "coffee",
-       "hands",
-       "close",
-       "holding"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-21T15:49:20Z",
-      "added": 7
-     },
-     "M2-B04": {
-      "requested": "2026-10-25T15:54:53.617Z",
-      "note": "",
-      "reason": "direction",
-      "avoid": [
-       "picking",
-       "hands",
-       "fallen",
-       "branch",
-       "tree"
-      ],
-      "done": true,
-      "fulfilled": "2026-10-25T15:56:31Z",
-      "added": 7
-     }
-    },
-    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+    "usable": 1,
+    "at": "2026-10-25T15:57:49Z",
+    "reason": "only 1 clip(s) reached relevance 6 without a violation"
    },
    "placement": "Belong C2 M2 cut 2026-10-23 (video timeline incl. 2 s lead-in): under 'A test of character' — the fallen branch lifted off the boardwalk"
   }
