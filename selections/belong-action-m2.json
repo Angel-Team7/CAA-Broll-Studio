@@ -1,8 +1,12 @@
 {
   "project": "belong-action-m2",
-  "updated": "2026-10-21T15:47:58.125Z",
+  "updated": "2026-10-25T15:47:10.313Z",
   "ready": false,
-  "approved": {},
+  "approved": {
+    "M2-B02": [
+      "belong-action-m2-M2-B02-V04"
+    ]
+  },
   "needs_broll": {
     "M2-B01": ""
   },
