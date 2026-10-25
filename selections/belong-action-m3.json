@@ -1,8 +1,12 @@
 {
   "project": "belong-action-m3",
-  "updated": "2026-09-23T14:08:02Z",
+  "updated": "2026-10-25T16:11:58.107Z",
   "ready": false,
-  "approved": {},
+  "approved": {
+    "M3-B02": [
+      "belong-action-m3-S05-V10"
+    ]
+  },
   "needs_broll": {},
   "topup_requests": {
     "S01": {
