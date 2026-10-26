@@ -294,7 +294,8 @@
     "usable": 0,
     "at": "2026-10-19T17:19:08Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M7 cut 2026-10-26: NOT USED — every candidate flagged (faces/concert/boardroom); the four registers run as the signature sequence on Craveiral/12-module pictures (0:34–1:01, timeline incl. 2 s lead-in)"
   },
   {
    "id": "M7-B02",
@@ -604,7 +605,8 @@
     "usable": 2,
     "at": "2026-10-19T17:19:08Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M7 cut 2026-10-26: INSTALLED — V05 (one open palm of pebbles, another hand choosing; slowed 0.85x) under the 'Second rule: choice instead of a programme' card and 'the value a guest puts on an experience rises…', 1:51–2:01"
   },
   {
    "id": "M7-B03",
@@ -640,7 +642,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "herbs being placed into a car-door pocket is a specific staged action"
+   "needs_ai_reason": "herbs being placed into a car-door pocket is a specific staged action",
+   "placement": "Belong C2 M7 cut 2026-10-26: no candidates — the goodbye runs on B12_M12_s02 (walking off down the path at sunrise) then the Belong produce crate on 'a small gesture from the farm', 3:28–3:45"
   },
   {
    "id": "M7-B04",
@@ -676,7 +679,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "a script card set down and hands moving to the soil is a staged narrative"
+   "needs_ai_reason": "a script card set down and hands moving to the soil is a staged narrative",
+   "placement": "Belong C2 M7 cut 2026-10-26: no candidates — 'Fifth rule' runs on the man in the herb garden (B12_M01_b06), the rain, then a colleague who knows, 3:45–4:12"
   }
  ]
 }
