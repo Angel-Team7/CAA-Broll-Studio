@@ -380,7 +380,8 @@
     "usable": 2,
     "at": "2026-10-19T17:19:08Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M8 cut 2026-10-26: INSTALLED — pick V04 (dim light leaking past a sheer curtain) opens the sleep beat on 'the strongest wellbeing determinant' and holds through 'Total blackout verified, not assumed', 1:14–1:26 (timeline incl. 2 s lead-in)"
   },
   {
    "id": "M8-B02",
@@ -416,7 +417,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "a speaker cone going from vibrating to completely still is a constructed macro"
+   "needs_ai_reason": "a speaker cone going from vibrating to completely still is a constructed macro",
+   "placement": "Belong C2 M8 cut 2026-10-26: NOT USED — no candidates; 'Third lever: choice' plays on Craveiral's own photos (the bicycle at the door, the cat nobody wakes)"
   },
   {
    "id": "M8-B03",
@@ -714,7 +716,8 @@
     "usable": 1,
     "at": "2026-10-19T17:19:08Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M8 cut 2026-10-26: NOT USED — the candidates (a card payment at a counter) do not say 'waiting without knowing why'; the list is a slide built line by line on Pedro's words"
   },
   {
    "id": "M8-B04",
@@ -1012,7 +1015,8 @@
     "usable": 1,
     "at": "2026-10-19T17:19:08Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M8 cut 2026-10-26: INSTALLED — pick V13 (hands gathering broken pieces, calmly) under 'The protocol' and 'One: acknowledge', through 'you deal with it', 3:02–3:15 (timeline incl. 2 s lead-in)"
   },
   {
    "id": "M8-B05",
@@ -1048,7 +1052,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "bunches of flowers piling up until it looks excessive is a staged visual joke"
+   "needs_ai_reason": "bunches of flowers piling up until it looks excessive is a staged visual joke",
+   "placement": "Belong C2 M8 cut 2026-10-26: NOT USED — no candidates; the proportionate gesture plays on the 12-module clip of flowers set in a vase (B12_M12_s07)"
   }
  ]
 }
