@@ -36,7 +36,8 @@
    ],
    "clips": [],
    "needs_ai": true,
-   "needs_ai_reason": "a spotless glass beside a smudged one is a staged comparison"
+   "needs_ai_reason": "a spotless glass beside a smudged one is a staged comparison",
+   "placement": "Belong C2 M4 cut 2026-10-26: NOT USED — no candidates; the two bar drinks (CRV_PH_168 → 169 on 'it does not mean a badly washed glass') carry the idea, 0:35–1:00 (timeline incl. 2 s lead-in)"
   },
   {
    "id": "M4-B02",
@@ -313,7 +314,8 @@
     "usable": 1,
     "at": "2026-10-19T17:09:11Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M4 cut 2026-10-26: INSTALLED — V11 (someone at the beach-bar counter looking out to sea, slowed 0.7×) under 'to anyone walking off that beach… you are Craveiral', 1:08–1:23; V10 (people at ease by the sea, golden hour) on 'wellbeing on the beach', 3:36–3:43"
   },
   {
    "id": "M4-B03",
@@ -636,7 +638,8 @@
     "usable": 2,
     "at": "2026-10-19T17:09:11Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
-   }
+   },
+   "placement": "Belong C2 M4 cut 2026-10-26: INSTALLED — V09 (water poured over ice) on '“it is twenty minutes, shall I bring you water meanwhile?”', 3:11–3:19"
   },
   {
    "id": "M4-B04",
@@ -941,7 +944,8 @@
     "protest"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-10-19T15:58:28Z"
+   "shots_at": "2026-10-19T15:58:28Z",
+   "placement": "Belong C2 M4 cut 2026-10-26: INSTALLED — V07 (empty sand at dusk) opens the coherence beat 3:43–3:55 and closes it clean on 'we close the day' 3:57–4:02; V13 (gloved hand picks the plastic) on 'we collect what is ours', 3:54–3:58"
   }
  ]
 }
