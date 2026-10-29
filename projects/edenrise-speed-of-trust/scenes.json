@@ -3,12 +3,12 @@
  "scenes": [
   {
    "id": "S01",
-   "script_line": "Think about a person you really trust at work. When they say they'll do something, you believe them. You can speak openly with them. You don't waste time second-guessing their intentions. And when something goes wrong, you know you can have an honest conversation and move forward.",
+   "script_line": "Think about a person you really trust at work. When they say they'll do something, you believe them. You can speak openly with them.",
    "visual_direction": "Someone you trust at work: two grounds workers who clearly rely on each other — a tool handed over before it is asked for, easy eye contact, no hesitation.",
    "onscreen": "The Speed of Trust",
    "t": 0.0,
-   "end": 19.45,
-   "timing_source": "estimated",
+   "end": 7.78,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -1164,16 +1164,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:22:31Z"
+   "judged_at": "2026-09-15T15:22:31Z",
+   "pt_t": 0.0,
+   "pt_end": 9.86
   },
   {
    "id": "S02",
-   "script_line": "Now imagine the opposite. Information gets withheld. Promises are made but not kept. Mistakes get hidden. People start checking up on each other, protecting themselves and questioning motives. Everything slows down.",
+   "script_line": "Now imagine the opposite. Information gets withheld. Promises are made but not kept. Mistakes get hidden.",
    "visual_direction": "The opposite: work stalling. Someone quietly hiding a mistake, two people avoiding each other, a job half-done and left, a worker re-checking another's work behind their back.",
    "onscreen": "Withheld · Unkept · Hidden · Checked",
-   "t": 19.45,
-   "end": 32.28,
-   "timing_source": "estimated",
+   "t": 17.67,
+   "end": 26.11,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -2838,7 +2840,9 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T15:50:29Z",
-   "judged_at": "2026-09-15T16:06:57Z"
+   "judged_at": "2026-09-15T16:06:57Z",
+   "pt_t": 20.3,
+   "pt_end": 28.36
   },
   {
    "id": "S03",
@@ -2847,7 +2851,7 @@
    "onscreen": "Trust up → speed up, cost down.  Trust down → speed down, cost up.",
    "t": 32.28,
    "end": 48.0,
-   "timing_source": "estimated",
+   "timing_source": "narration 2026-10-29: not a footage beat",
    "quota": {
     "video": 7,
     "image": 3
@@ -5135,16 +5139,17 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-16T10:24:16Z"
+   "judged_at": "2026-09-16T10:24:16Z",
+   "note": "Not footage in the 2026-10-29 cut: lines 12–15 are carried by motion-graphics slides."
   },
   {
    "id": "S04",
-   "script_line": "Covey describes this as the difference between a Trust Dividend and a Trust Tax. In a high-trust environment, communication is faster. Decisions are easier. People collaborate more freely. Problems are raised earlier.",
+   "script_line": "Decisions are easier. People collaborate more freely. Problems are raised earlier.",
    "visual_direction": "The dividend: a short decision made on the spot between two workers, a problem pointed out early and calmly, hands working together on one task.",
    "onscreen": "Trust Dividend",
-   "t": 48.0,
-   "end": 61.24,
-   "timing_source": "estimated",
+   "t": 58.74,
+   "end": 64.74,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -6814,16 +6819,18 @@
     "at": "2026-10-14T16:04:54Z",
     "reason": "only 2 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T16:08:59Z"
+   "judged_at": "2026-09-15T16:08:59Z",
+   "pt_t": 66.25,
+   "pt_end": 74.24
   },
   {
    "id": "S05",
    "script_line": "But low-trust organisations pay a tax. More meetings. More checking. More misunderstandings. More delays. And more stress.",
    "visual_direction": "The tax: the same work weighed down — repeated checking, a job re-done, a worker waiting with nothing to do, visible fatigue at the end of the day.",
    "onscreen": "Trust Tax",
-   "t": 61.24,
-   "end": 68.28,
-   "timing_source": "estimated",
+   "t": 64.74,
+   "end": 74.88,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -8428,16 +8435,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T15:50:29Z",
-   "judged_at": "2026-09-15T16:10:20Z"
+   "judged_at": "2026-09-15T16:10:20Z",
+   "pt_t": 74.24,
+   "pt_end": 86.81
   },
   {
    "id": "S06",
-   "script_line": "Trust isn't simply a nice value to put on the wall. It has a practical and economic impact. And every one of us contributes to it. So how do we build more trust? Here are six behaviours we can start practising immediately.",
+   "script_line": "Trust isn't simply a nice value to put on the wall. It has a practical and economic impact. And every one of us contributes to it.",
    "visual_direction": "Not a poster but a practice: a values card pinned in a shed, then hands actually doing the work. Every person on the crew contributes.",
    "onscreen": "Six behaviours",
-   "t": 68.28,
-   "end": 85.66,
-   "timing_source": "estimated",
+   "t": 74.88,
+   "end": 83.73,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -9585,16 +9594,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:22:31Z"
+   "judged_at": "2026-09-15T15:22:31Z",
+   "pt_t": 86.81,
+   "pt_end": 95.47
   },
   {
    "id": "S07",
-   "script_line": "Number one: talk straight. Say what you mean. Be honest about problems. Have the conversations that need to be had. Talking straight doesn't mean being aggressive or insensitive. It means being clear, respectful and truthful. Instead of allowing frustration to build, say: \"I think we may have a problem here. Can we talk about it?\" A short, honest conversation today can prevent a much larger problem tomorrow.",
+   "script_line": "Say what you mean. Be honest about problems. Have the conversations that need to be had.",
    "visual_direction": "Talk straight: two workers having the honest conversation calmly, face to face beside the work — open hands, steady eye contact, no aggression.",
    "onscreen": "1 · Talk straight",
-   "t": 85.66,
-   "end": 113.38,
-   "timing_source": "estimated",
+   "t": 93.53,
+   "end": 99.42,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -11410,16 +11421,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T15:50:29Z",
-   "judged_at": "2026-09-15T16:12:23Z"
+   "judged_at": "2026-09-15T16:12:23Z",
+   "pt_t": 106.61,
+   "pt_end": 113.63
   },
   {
    "id": "S08",
-   "script_line": "Number two: create clarity. A surprising amount of conflict comes from unclear expectations. One person thinks success means one thing. Another thinks it means something completely different. Before important work begins, get clear. What are we trying to achieve? Who is responsible for what? When does it need to happen? And what does a successful result look like? Clarity builds confidence. Ambiguity creates distrust.",
+   "script_line": "Before important work begins, get clear. What are we trying to achieve? Who is responsible for what? When does it need to happen? And what does a successful result look like?",
    "visual_direction": "Create clarity: a foreman and crew around a plan on a tailgate before the work starts — pointing at the drawing, marking out the ground, agreeing who does what.",
    "onscreen": "2 · Create clarity",
-   "t": 113.38,
-   "end": 139.86,
-   "timing_source": "estimated",
+   "t": 135.1,
+   "end": 147.07,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -12545,16 +12558,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:22:31Z"
+   "judged_at": "2026-09-15T15:22:31Z",
+   "pt_t": 152.71,
+   "pt_end": 164.84
   },
   {
    "id": "S09",
-   "script_line": "Number three: keep commitments. Trust is built when our words and actions match. If you say you are going to do something, do everything you reasonably can to follow through. Sometimes circumstances change. The important thing is to communicate early. If you can no longer deliver what you promised, say: \"Something has changed. Here's the situation, and here's what I propose we do.\" Trust does not require perfection. It requires integrity.",
+   "script_line": "Trust is built when our words and actions match. If you say you are going to do something, do everything you reasonably can to follow through.",
    "visual_direction": "Keep commitments: a worker finishing the job they said they would, in the rain if needed; and telling a colleague early when something has changed.",
    "onscreen": "3 · Keep commitments",
-   "t": 139.86,
-   "end": 169.24,
-   "timing_source": "estimated",
+   "t": 155.67,
+   "end": 165.27,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -13559,16 +13574,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:22:32Z"
+   "judged_at": "2026-09-15T15:22:32Z",
+   "pt_t": 174.14,
+   "pt_end": 186.45
   },
   {
    "id": "S10",
-   "script_line": "Number four: practise accountability. When something goes wrong, low-trust cultures ask: Who can we blame? High-trust cultures ask: What happened? What can we learn? And how do we fix it? If you made the mistake, own it. Imagine someone simply saying: \"That was my responsibility. I got it wrong. Here's what I'm doing to correct it.\" Taking responsibility doesn't weaken credibility. Very often, it strengthens it.",
+   "script_line": "Taking responsibility doesn't weaken credibility. Very often, it strengthens it.",
    "visual_direction": "Accountability: a worker owning a mistake in front of the crew — hand on chest, calm face — then putting it right with their own hands.",
    "onscreen": "4 · Practise accountability",
-   "t": 169.24,
-   "end": 196.55,
-   "timing_source": "estimated",
+   "t": 210.21,
+   "end": 215.71,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -14754,16 +14771,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:29:20Z"
+   "judged_at": "2026-09-15T15:29:20Z",
+   "pt_t": 233.61,
+   "pt_end": 239.68
   },
   {
    "id": "S11",
-   "script_line": "Number five: listen first. Many trust problems begin with assumptions. We assume we know why someone behaved a certain way. We assume they don't care. We assume they had bad intentions. But assumptions are not facts. Instead, become curious. Ask: \"Help me understand what happened.\" Listen before defending. Understand before judging. People are far more likely to trust us when they feel genuinely heard.",
+   "script_line": "Listen before defending. Understand before judging. People are far more likely to trust us when they feel genuinely heard.",
    "visual_direction": "Listen first: one worker genuinely listening while another explains — leaning in, not interrupting, a nod of understanding.",
    "onscreen": "5 · Listen first",
-   "t": 196.55,
-   "end": 223.03,
-   "timing_source": "estimated",
+   "t": 239.69,
+   "end": 249.06,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -15408,16 +15427,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T14:30:54Z"
+   "judged_at": "2026-09-15T14:30:54Z",
+   "pt_t": 263.86,
+   "pt_end": 272.51
   },
   {
    "id": "S12",
-   "script_line": "Number six: extend trust. Trust also has to be given. If capable people are constantly monitored and second-guessed, eventually they stop taking initiative. Strong leaders give people appropriate responsibility and allow them to own the result. That doesn't mean blind trust. It means what Covey describes as smart trust. Consider the situation. Consider the person's competence and character. Then give them enough trust to act. Responsibility grows when people are trusted with responsibility.",
+   "script_line": "Strong leaders give people appropriate responsibility and allow them to own the result.",
    "visual_direction": "Extend trust: a foreman handing over the tool and the job and walking away, leaving a younger worker to finish it alone — and the worker rising to it.",
    "onscreen": "6 · Extend trust",
-   "t": 223.03,
-   "end": 253.24,
-   "timing_source": "estimated",
+   "t": 261.6,
+   "end": 266.39,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -17052,16 +17073,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T15:50:29Z",
-   "judged_at": "2026-09-15T16:13:53Z"
+   "judged_at": "2026-09-15T16:13:53Z",
+   "pt_t": 286.88,
+   "pt_end": 293.13
   },
   {
    "id": "S13",
-   "script_line": "So here is a simple challenge. During the next week, pay attention to the trust you create around you. Ask yourself: Do I speak honestly? Do I make expectations clear? Do I keep my commitments? Do I take responsibility for my mistakes? Do I genuinely listen? And do I give trustworthy people the opportunity to take ownership?",
+   "script_line": "So here is a simple challenge. During the next week, pay attention to the trust you create around you.",
    "visual_direction": "The challenge: a worker alone at the end of a shift, thinking it over and writing the questions down in a small notebook.",
    "onscreen": "Your week: honest · clear · committed · accountable · listening · trusting",
-   "t": 253.24,
-   "end": 276.83,
-   "timing_source": "estimated",
+   "t": 284.81,
+   "end": 290.88,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -18266,16 +18289,18 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:32:16Z"
+   "judged_at": "2026-09-15T15:32:16Z",
+   "pt_t": 315.18,
+   "pt_end": 323.19
   },
   {
    "id": "S14",
-   "script_line": "Trust is not created by one big event. It is created through hundreds of small moments. A promise kept. A difficult truth spoken respectfully. A mistake acknowledged. A person listened to. A responsibility entrusted.",
+   "script_line": "A promise kept. A difficult truth spoken respectfully. A mistake acknowledged. A person listened to. A responsibility entrusted.",
    "visual_direction": "Hundreds of small moments, shown as small moments: a hand shaking on a deal by the fence, a quiet word, a correction accepted, a key or tool passed over.",
    "onscreen": "Hundreds of small moments",
-   "t": 276.83,
-   "end": 290.9,
-   "timing_source": "estimated",
+   "t": 314.44,
+   "end": 324.73,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -19824,16 +19849,18 @@
     "at": "2026-10-14T16:04:54Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    },
-   "judged_at": "2026-09-15T16:15:15Z"
+   "judged_at": "2026-09-15T16:15:15Z",
+   "pt_t": 348.8,
+   "pt_end": 358.61
   },
   {
    "id": "S15",
-   "script_line": "Over time, those moments create something extremely valuable. A team where people can move quickly because they don't have to protect themselves from one another. A team where communication becomes easier. Where accountability becomes normal. And where more energy can be spent doing great work. So if you want better communication, stronger teamwork and better performance, start with trust. Because when trust increases, almost everything else becomes easier.",
+   "script_line": "So if you want better communication, stronger teamwork and better performance, start with trust. Because when trust increases, almost everything else becomes easier.",
    "visual_direction": "What it adds up to: a crew moving quickly and easily together, finishing well, and a wide closing shot of the finished work in good light.",
    "onscreen": "Start with trust",
-   "t": 290.9,
-   "end": 319.03,
-   "timing_source": "estimated",
+   "t": 345.21,
+   "end": 356.77,
+   "timing_source": "narration 2026-10-29 (Matilda EN / Miss Educator PT 4)",
    "quota": {
     "video": 7,
     "image": 3
@@ -20958,7 +20985,9 @@
    ],
    "shots_by": "claude",
    "shots_at": "2026-09-15T13:45:33Z",
-   "judged_at": "2026-09-15T15:34:25Z"
+   "judged_at": "2026-09-15T15:34:25Z",
+   "pt_t": 379.56,
+   "pt_end": 391.57
   }
  ]
 }
