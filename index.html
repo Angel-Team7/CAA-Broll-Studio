@@ -4,36 +4,54 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Edenrise B-roll Cockpit</title>
-<link rel="stylesheet" href="style.css?v=20261019b">
+<link rel="stylesheet" href="style.css?v=20261029a">
 </head>
 <body>
-<header>
+<header class="topbar">
   <div class="bar">
-    <h1>🎬 Edenrise B-roll Cockpit</h1>
-    <a class="cockpitlink" href="review.html">🎞 Review desk ▸</a>
-    <a class="cockpitlink" href="library.html">📚 Library ▸</a>
-    <div class="controls">
-      <select id="project"></select>
-      <span id="sectorchip" class="sectorchip" hidden></span>
-      <span id="stat" class="stat"></span>
-      <span id="syncstate" class="syncstate"></span>
-      <button id="save" class="primary">Save approvals</button>
-      <button id="send" class="send">Send to editor ▸</button>
-      <button id="finalise" class="finalise">✓ Mark finalised</button>
+    <button id="lessonbtn" class="lessonbtn" title="Choose a lesson (shortcut: L)">
+      <span class="lb-text">
+        <span class="lb-kicker" id="lbclient">Lesson</span>
+        <span class="lb-title" id="lbtitle">Loading…</span>
+      </span>
+      <span class="lb-caret">▾</span>
+    </button>
+    <div class="lessonprog">
+      <div class="lp-text" id="stat"></div>
+      <div class="lp-track"><div class="lp-fill" id="lpfill"></div></div>
+    </div>
+    <div class="spacer"></div>
+    <button id="conn" class="connpill" title="Where your ticks are saved">…</button>
+    <button id="finalise" class="finalise">✓ Mark finished</button>
+    <button id="send" class="send">Send to editor ▸</button>
+    <div class="more">
+      <button id="morebtn" class="morebtn" title="More">⋯</button>
+      <div id="moremenu" class="moremenu" hidden>
+        <a href="review.html">🎞 Review desk</a>
+        <a href="library.html">📚 Footage library</a>
+        <button id="download">⬇ Download my picks (file)</button>
+        <button id="connect">🔑 Change access key</button>
+      </div>
     </div>
   </div>
-  <div id="progressbar" class="progressbar"></div>
-  <div id="tokenbar" class="tokenbar">
-    <span class="muted">Saving to: <b id="savemode">local (browser)</b>.</span>
-    <span id="localwarn" class="localwarn" hidden>⚠️ Not connected — your ticks stay in this browser only. Ask Vic for an access key, or press <b>Send to editor</b> to download a file and email it.</span>
-    <button id="connect" class="link">Connect GitHub…</button>
-  </div>
+  <nav id="scenenav" class="scenenav" aria-label="Scenes"></nav>
 </header>
+
+<div id="drawerbg" class="drawerbg" hidden></div>
+<aside id="drawer" class="drawer" hidden aria-label="Lessons">
+  <div class="dr-head">
+    <div class="dr-top"><b>Lessons</b><button id="drawerx" class="linkbtn">close ✕</button></div>
+    <div class="dr-prog"><span id="drprogtxt"></span><div class="lp-track"><div class="lp-fill" id="drprogfill"></div></div></div>
+    <input id="lessonsearch" class="search" type="search" placeholder="Search lessons…" autocomplete="off">
+    <label class="dr-hide"><input type="checkbox" id="hidedone"> Hide finished lessons</label>
+  </div>
+  <div id="lessonlist" class="dr-list"></div>
+</aside>
 
 <main id="scenes"><p class="muted pad">Loading…</p></main>
 
 <div id="toast" class="toast"></div>
-<script src="app.js?v=20261019b"></script>
+<script src="app.js?v=20261029a"></script>
 
   <div id="connectdlg" class="dlg" hidden>
     <div class="dlgbox">

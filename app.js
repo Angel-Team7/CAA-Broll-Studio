@@ -45,7 +45,6 @@ async function loadProjects() {
   // cache-bust: GitHub Pages + the browser will happily serve a stale index for hours,
   // which makes a freshly published project look like it never arrived.
   const idx = await fetchData("projects.json").catch(() => null);
-  const sel = $("#project");
   if (!idx || !idx.projects.length) { $("#scenes").innerHTML =
     '<p class="pad muted">No projects published yet. Run <code>publish_cockpit.py &lt;slug&gt;</code>.</p>'; return; }
   state.projects = idx.projects;
@@ -58,14 +57,12 @@ async function loadProjects() {
   renderProjectSelect();
   renderProgress();
   refreshConnBanner();
-  sel.onchange = () => { loadProject(sel.value); setDeepLink(sel.value); };
   // DEEP LINK: ?p=<slug> or #<slug> opens that project directly, so a link can be
   // handed to someone and land on the right board instead of whatever sorts first.
   const want = new URLSearchParams(location.search).get("p")
             || decodeURIComponent(location.hash.replace(/^#/, ""));
   const hit = state.projects.find(p => p.slug === want);
   const start = hit ? hit.slug : idx.projects[0].slug;
-  sel.value = start;
   loadProject(start);
   syncAllWaiting(start);
 }
@@ -115,29 +112,70 @@ function sectorOf(slug) {
   return { id, cfg: state.sectors[id] || {} };
 }
 
+// The lesson picker is a drawer, not a <select>: 77 lessons in a native dropdown could not
+// be searched, and the "remaining" list that used to sit in the sticky header filled half
+// the screen on every scroll.
+// "Edenrise C3 — M2: Promises Kept" → kicker "Edenrise C3", name "M2: Promises Kept"
+function splitTitle(t) {
+  const i = t.indexOf(" — ");
+  return i > 0 ? [t.slice(0, i), t.slice(i + 3)] : ["", t];
+}
+function projectLabel(p) { return splitTitle(p.title)[1]; }
+// in the list the client is the group heading, but the course number must stay
+const rowName = t => t.startsWith("Edenrise ") ? t.slice(9).replace(/^—\s+/, "") : t;
+function openLesson(slug) {
+  closeDrawer();
+  if (slug === state.slug) return;
+  loadProject(slug); setDeepLink(slug); window.scrollTo(0, 0);
+}
 function renderProjectSelect() {
-  const sel = $("#project"); const cur = sel.value;
+  const list = $("#lessonlist"); if (!list) return;
+  const q = ($("#lessonsearch").value || "").trim().toLowerCase();
+  const hideDone = $("#hidedone").checked;
   const groups = {};
   for (const p of state.projects) {
+    const done = state.finalised.includes(p.slug);
+    if (hideDone && done && p.slug !== state.slug) continue;
+    if (q && !(p.title + " " + p.slug).toLowerCase().includes(q)) continue;
     const id = p.sector || (p.slug.startsWith("belong") ? "belong" : "edenrise");
     (groups[id] = groups[id] || []).push(p);
   }
-  sel.innerHTML = Object.keys(groups).sort().map(id => {
+  const ids = Object.keys(groups).sort();
+  list.innerHTML = ids.length ? ids.map(id => {
     const label = (state.sectors[id] && state.sectors[id].name) || id;
-    const opts = groups[id].map(p =>
-      `<option value="${p.slug}">${state.finalised.includes(p.slug) ? "✅ " : "◻︎ "}${p.title} — ${p.scenes} scenes</option>`).join("");
-    return `<optgroup label="${esc(label)}">${opts}</optgroup>`;
-  }).join("");
-  if (cur) sel.value = cur;
+    const rows = groups[id].map(p => {
+      const done = state.finalised.includes(p.slug);
+      return `<button class="dr-row ${p.slug === state.slug ? "cur" : ""} ${done ? "done" : ""}" data-slug="${p.slug}">
+        <span class="dr-mark">${done ? "✓" : ""}</span>
+        <span class="dr-name">${esc(rowName(p.title))}</span>
+        <span class="dr-n">${p.scenes} scenes</span></button>`;
+    }).join("");
+    return `<div class="dr-group"><div class="dr-glabel">${esc(label)}</div>${rows}</div>`;
+  }).join("") : '<p class="muted pad">No lesson matches.</p>';
+  list.querySelectorAll(".dr-row").forEach(b => b.onclick = () => openLesson(b.dataset.slug));
+  const cur = state.projects.find(p => p.slug === state.slug);
+  if (cur) {
+    const [kick, name] = splitTitle(cur.title);
+    $("#lbtitle").textContent = name;
+    if (kick) $("#lbclient").textContent = kick;
+  }
 }
+function openDrawer() {
+  $("#drawer").hidden = false; $("#drawerbg").hidden = false;
+  renderProjectSelect();
+  const s = $("#lessonsearch"); s.focus(); s.select();
+  const cur = document.querySelector(".dr-row.cur"); if (cur) cur.scrollIntoView({ block: "center" });
+}
+function closeDrawer() { $("#drawer").hidden = true; $("#drawerbg").hidden = true; }
 
 function renderSectorChip(slug) {
-  const el = document.getElementById("sectorchip");
+  const el = document.getElementById("lbclient");
   if (!el) return;
   const { id, cfg } = sectorOf(slug);
-  el.textContent = "🏷 " + (cfg.name || id);
-  el.title = (cfg.world || "") + (cfg.never ? "\n\nNever: " + cfg.never.join(", ") : "");
-  el.hidden = false;
+  const cur = state.projects.find(p => p.slug === slug);
+  el.textContent = (cur && splitTitle(cur.title)[0]) || (cfg.name || id).split(" — ")[0];
+  $("#lessonbtn").title = "Choose a lesson (shortcut: L)\n\n" + (cfg.world || "") +
+    (cfg.never ? "\n\nNever shown: " + cfg.never.join(", ") : "");
 }
 
 // ---- Finalised tracking (shared list in the repo, like selections) ----
@@ -155,29 +193,46 @@ async function saveFinalised() {
     catch (e) { toast("GitHub save failed: " + e.message); }
   }
 }
-function refreshConnBanner() {
-  const w = document.getElementById("localwarn");
-  if (w) w.hidden = !!(gh && gh.token);
+// One place that says where the ticks go. "Reconnect…" next to a working connection read
+// as an error, so the label is the state itself: green when saving to GitHub.
+function refreshConnBanner(sync) {
+  const b = document.getElementById("conn"); if (!b) return;
+  state.sync = sync || state.sync || "idle";
+  let cls, txt, tip;
+  if (!(gh && gh.token)) {
+    cls = "off"; txt = "Not connected — connect to save";
+    tip = "Your ticks stay in this browser only. Click to paste the access key.";
+  } else if (state.authFailed || state.sync === "error") {
+    cls = "bad"; txt = "⚠ Not saving — click to fix";
+    tip = "GitHub refused the last save. Your ticks are kept here and sent once this works.";
+  } else if (state.sync === "saving") {
+    cls = "busy"; txt = "Saving…"; tip = "Sending your ticks to GitHub";
+  } else {
+    cls = "ok"; txt = state.sync === "saved" ? "All changes saved" : "Connected";
+    tip = `Every tick saves itself to GitHub (${gh.owner}/${gh.repo}). Click to change the key.`;
+  }
+  b.className = "connpill " + cls; b.innerHTML = `<span class="dot"></span>${txt}`; b.title = tip;
 }
 
 function renderProgress() {
   const total = state.projects.length, done = state.finalised.filter(s => state.projects.some(p => p.slug === s)).length;
   const remaining = state.projects.filter(p => !state.finalised.includes(p.slug)).map(p => p.title);
-  $("#progressbar").innerHTML = `<b class="pdone">${done}/${total} finalised</b>` +
-    (remaining.length ? ` &nbsp;·&nbsp; <span class="muted">remaining: ${remaining.map(esc).join(" · ")}</span>`
-                      : ` &nbsp;·&nbsp; <span class="pdone">all lessons finalised 🎉</span>`);
+  $("#drprogtxt").textContent = remaining.length ? `${done} of ${total} lessons finished`
+                                                 : `All ${total} lessons finished 🎉`;
+  $("#drprogfill").style.width = (total ? (100 * done / total) : 0) + "%";
 }
 function updateFinaliseBtn() {
   const on = state.finalised.includes(state.slug);
   const b = $("#finalise"); if (!b) return;
-  b.textContent = on ? "✅ Finalised" : "✓ Mark finalised"; b.classList.toggle("on", on);
+  b.textContent = on ? "✅ Finished" : "✓ Mark finished"; b.classList.toggle("on", on);
+  b.title = on ? "This lesson is marked finished. Click to undo." : "Mark this lesson as finished once its picks are done";
 }
 async function toggleFinalise() {
   const i = state.finalised.indexOf(state.slug);
   if (i >= 0) state.finalised.splice(i, 1); else state.finalised.push(state.slug);
   updateFinaliseBtn(); renderProjectSelect(); renderProgress();
   await saveFinalised();
-  toast(state.finalised.includes(state.slug) ? "Marked finalised ✅" : "Unmarked");
+  toast(state.finalised.includes(state.slug) ? "Marked finished ✅" : "No longer marked finished");
 }
 
 async function loadProject(slug) {
@@ -186,10 +241,14 @@ async function loadProject(slug) {
   // browser served a cached scenes.json (2026-08-12).
   state.data = await fetchData(`projects/${slug}/scenes.json`);
   const sel = await loadSelections(slug);
+  // requests/<slug>.json is the maintenance queue (a new card's first gather). Read it so
+  // an empty scene can say "gathering" instead of a bare "No clips".
+  state.maint = await fetchData(`requests/${slug}.json`).then(x => (x && x.topup_requests) || {}).catch(() => ({}));
   state.approved = sel.approved || {};
   state.reshoot = sel.needs_broll || {};
   state.topup = sel.topup_requests || {};
   renderSectorChip(slug);
+  renderProjectSelect();
   render();
   if (state.needsSync && gh && gh.token && !state.authFailed) {
     save(false, true)
@@ -256,6 +315,7 @@ function authProblem(e) {
   const msg = String(e && e.message || e);
   const isAuth = /\b(401|403)\b/.test(msg);
   state.authFailed = true;
+  refreshConnBanner("error");
   let el = document.getElementById("authbanner");
   if (!el) {
     el = document.createElement("div");
@@ -274,6 +334,7 @@ function authProblem(e) {
 
 function authOk() {
   state.authFailed = false;
+  refreshConnBanner(state.sync === "error" ? "saved" : state.sync);
   const el = document.getElementById("authbanner");
   if (el) el.hidden = true;
 }
@@ -301,7 +362,7 @@ function render() {
     const visible = visibleClips(sc, appr);
     const cards = visible.shown.map(c => card(sc.id, c, appr.includes(c.id))).join("");
     const hiddenNote = clipStatus(sc, visible);
-    return `<section class="scene ${amber || searching ? "flagged" : ""} ${dirDone && !searching ? "ready" : ""}" data-scene="${sc.id}">
+    return `<section id="sc-${sc.id}" class="scene ${amber || searching ? "flagged" : ""} ${dirDone && !searching ? "ready" : ""}" data-scene="${sc.id}">
       <div class="scene-head">
         <span class="scene-id">${sc.id}</span>
         <div class="scene-meta">
@@ -342,7 +403,7 @@ function render() {
         </div>
       </div>
       ${hiddenNote}
-      <div class="grid">${cards || '<p class="muted">No clips.</p>'}</div>
+      <div class="grid">${cards || emptyState(sc)}</div>
     </section>`;
   }).join("");
   wrap.querySelectorAll(".heard-txt").forEach(el =>
@@ -359,11 +420,36 @@ function render() {
     el.onclick = e => { e.stopPropagation(); toggleReveal(el.dataset.scene); });
   wrap.querySelectorAll(".addbroll").forEach(el =>
     el.onclick = e => { e.stopPropagation(); startUpload(el.dataset.scene); });
-  wrap.querySelectorAll(".topup").forEach(el =>
+  wrap.querySelectorAll(".topup, .findnow").forEach(el =>
     el.onclick = e => { e.stopPropagation(); requestTopup(el.dataset.scene); });
+  renderSceneNav(ordered);
   wireDropZones(wrap);
   wrap.querySelectorAll(".media[data-preview]").forEach(m => wirePreview(m));
   updateStat();
+}
+
+// An empty scene must say what is going on — "No clips." on its own is how a lesson sat
+// unworked for five days with nobody knowing a gather had never been started.
+function emptyState(sc) {
+  if (sc.needs_ai) return '<div class="empty ai">This shot will be generated — there is nothing to pick here.</div>';
+  if (maintPending(sc.id) || pendingReq(sc.id) || pendingReq(sc.id, "direction"))
+    return '<div class="empty busy"><span class="spin"></span> Gathering footage for this scene. The first clips usually arrive within 15–30 minutes — this page updates itself.</div>';
+  return `<div class="empty">No footage yet. <button class="primary findnow" data-scene="${sc.id}">🔎 Find footage for ${sc.id}</button></div>`;
+}
+function renderSceneNav(ordered) {
+  const nav = $("#scenenav"); if (!nav) return;
+  nav.innerHTML = ordered.map(sc => {
+    const n = (state.approved[sc.id] || []).length;
+    const cls = sc.needs_ai ? "ai" : n ? "picked" : (sc.id in state.reshoot) ? "flag"
+              : !(sc.clips || []).length ? "nofoot" : "";
+    const tip = sc.needs_ai ? "generated shot" : n ? `${n} picked` : !(sc.clips || []).length ? "no footage yet" : `${sc.clips.length} to review`;
+    return `<a class="sn ${cls}" href="#sc-${sc.id}" data-scene="${sc.id}" title="${sc.id} · ${tip}">${esc(sc.id)}${n ? `<i>${n}</i>` : ""}</a>`;
+  }).join("") + `<span class="sn-key"><b class="k picked"></b>picked <b class="k"></b>to review <b class="k nofoot"></b>no footage <b class="k ai"></b>generated</span>`;
+  nav.querySelectorAll(".sn").forEach(a => a.onclick = e => {
+    e.preventDefault();
+    const el = document.getElementById("sc-" + a.dataset.scene);
+    if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 }
 
 // Judged clips first, by rank; approved clips always visible; unjudged and judge-hidden
@@ -399,8 +485,13 @@ function sceneCounts(data) {
   for (const s of (data.scenes || [])) m[s.id] = (s.clips || []).length;
   return m;
 }
+function maintPending(sid) {
+  const r = state.maint && state.maint[sid];
+  return !!(r && r.done === false);
+}
 function outstanding() {
-  return Object.keys(state.topup || {}).filter(sid => pendingReq(sid) || pendingReq(sid, "direction"));
+  const ids = new Set([...Object.keys(state.topup || {}), ...Object.keys(state.maint || {})]);
+  return [...ids].filter(sid => pendingReq(sid) || pendingReq(sid, "direction") || maintPending(sid));
 }
 function startWatch() {
   clearTimeout(watchTimer);
@@ -422,6 +513,7 @@ async function checkForArrivals() {
       const sel = await loadSelections(slug).catch(() => null);
       if (sel) { state.approved = sel.approved || state.approved; state.topup = sel.topup_requests || state.topup;
                  state.reshoot = sel.needs_broll || state.reshoot; }
+      state.maint = await fetchData(`requests/${slug}.json`).then(x => (x && x.topup_requests) || {}).catch(() => state.maint);
       render();
       announce(`${n} new clip${n > 1 ? "s" : ""} arrived for ${grew.join(", ")} — scroll down, they are on the card`);
       grew.forEach(id => {
@@ -563,12 +655,7 @@ function autosave() {
   }, 1500);
 }
 
-function setSyncState(k) {
-  const el = document.getElementById("syncstate");
-  if (!el) return;
-  el.textContent = { saving: "saving…", saved: "all changes saved ✓", error: "save failed — retry" }[k] || "";
-  el.className = "syncstate " + k;
-}
+function setSyncState(k) { refreshConnBanner(k); }
 
 function toggle(el) {
   const sid = el.dataset.scene, id = el.dataset.id;
@@ -599,7 +686,7 @@ async function toggleReshoot(sid) {
   if (gh && gh.token) {
     toast(`${sid}: finding a different direction…`);
     try { await save(false, true); toast(`${sid}: looking for 10 different options — the page will tell you when they land`); startWatch(); }
-    catch (e) { toast(`${sid}: flagged, but saving failed — hit Save approvals`); }
+    catch (e) { toast(`${sid}: flagged, but saving failed — click the red status at the top`); }
   } else {
     toast(`${sid}: flagged — connect GitHub to send it`);
   }
@@ -622,7 +709,7 @@ async function requestTopup(sid) {
   persistLocal(); render();
   if (gh && gh.token) {
     try { await save(false, true); toast(`${sid}: looking for 10 more — the page will tell you when they land`); startWatch(); }
-    catch (e) { toast(`${sid}: queued, but saving failed — hit Save approvals`); }
+    catch (e) { toast(`${sid}: queued, but saving failed — click the red status at the top`); }
   } else {
     toast(`${sid}: queued — connect GitHub to send it`);
   }
@@ -674,8 +761,11 @@ function updateStat() {
   const scenes = state.data.scenes.length;
   const covered = state.data.scenes.filter(s => (state.approved[s.id] || []).length).length;
   const flags = Object.keys(state.reshoot).length;
-  $("#stat").textContent = `${total} clips approved · ${covered}/${scenes} scenes covered` +
-    (flags ? ` · ${flags} flagged 🔁` : "");
+  const gen = state.data.scenes.filter(s => s.needs_ai).length;
+  const need = scenes - gen;
+  $("#stat").innerHTML = `<b>${covered}/${need}</b> scenes picked · ${total} clip${total === 1 ? "" : "s"}` +
+    (flags ? ` · ${flags} flagged` : "") + (gen ? ` · ${gen} generated` : "");
+  $("#lpfill").style.width = (need ? (100 * covered / need) : 0) + "%";
 }
 
 async function save(ready, quiet) {
@@ -903,9 +993,30 @@ function downloadJSON(name, obj) {
   a.download = name; a.click(); URL.revokeObjectURL(a.href);
 }
 
-$("#save").onclick = () => save(false);
 $("#send").onclick = () => { if (confirm("Send the approved B-roll to the editor?")) save(true); };
-$("#connect").onclick = connectGitHub;
 $("#finalise").onclick = toggleFinalise;
-if (gh && gh.token) { $("#savemode").textContent = `GitHub (${gh.owner}/${gh.repo})`; $("#connect").textContent = "Reconnect…"; }
+$("#connect").onclick = () => { $("#moremenu").hidden = true; connectGitHub(); };
+$("#conn").onclick = connectGitHub;
+$("#download").onclick = () => {
+  $("#moremenu").hidden = true;
+  downloadJSON(`${state.slug}.selection.json`, { project: state.slug, updated: new Date().toISOString(),
+    approved: state.approved, needs_broll: state.reshoot, topup_requests: state.topup || {} });
+};
+$("#morebtn").onclick = e => { e.stopPropagation(); $("#moremenu").hidden = !$("#moremenu").hidden; };
+document.addEventListener("click", e => { if (!e.target.closest(".more")) $("#moremenu").hidden = true; });
+$("#lessonbtn").onclick = openDrawer;
+$("#drawerx").onclick = closeDrawer;
+$("#drawerbg").onclick = closeDrawer;
+$("#lessonsearch").oninput = renderProjectSelect;
+$("#hidedone").onchange = () => { try { localStorage.setItem("hidedone", $("#hidedone").checked ? "1" : ""); } catch {} renderProjectSelect(); };
+try { $("#hidedone").checked = localStorage.getItem("hidedone") === "1"; } catch {}
+$("#lessonsearch").onkeydown = e => {
+  if (e.key === "Enter") { const first = document.querySelector(".dr-row"); if (first) first.click(); }
+};
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") { closeDrawer(); $("#moremenu").hidden = true; }
+  if ((e.key === "l" || e.key === "L") && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)
+      && $("#connectdlg").hidden) { e.preventDefault(); openDrawer(); }
+});
+refreshConnBanner();
 loadProjects();
