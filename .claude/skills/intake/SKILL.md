@@ -1,6 +1,6 @@
 ---
 name: intake
-description: Bring new or changed lesson scripts from the Google Drive folder onto cockpit cards (lines, briefs, timing, shot lists) and commit. Hourly routine; never gathers footage.
+description: Bring new or changed lesson scripts from the Google Drive folder onto cockpit cards (lines, briefs, timing, shot lists) and commit. Hourly routine; never gathers footage itself, but queues the first gather for every new card.
 ---
 
 # Intake
@@ -37,10 +37,19 @@ absent or newer. Record PT docs too, but only EN docs are carded for now.
    card carded without one silently inherits Edenrise's never-list.
 5. If any scene of that card has no `shots`, follow `.claude/skills/shot-list/SKILL.md`
    and apply the shot list — written in that card's sector world, not Edenrise's.
-6. Record the doc in `library/drive_seen.json`.
+6. **Queue the first gather for a NEW card.** Intake does not gather, and nothing else
+   starts a new card's gather — on 2026-10-24 Edenrise C3 M2 was carded with twelve shot
+   lists and sat at zero clips for five days until the reviewer opened it to an empty page.
+   For every scene of a card you just CREATED (not one you updated) that has `shots`, no
+   clips and no `needs_ai`, add a request to `requests/<slug>.json` (create it if missing:
+   `{"project": "<slug>", "topup_requests": {}}`):
+   `"<scene id>": {"requested": "<now UTC ISO>", "note": "", "done": false, "reason": "first-gather", "by": "intake"}`.
+   Never write `selections/` — that file is the reviewer's. Skip a lesson whose script says
+   its visuals are generated (shadow play, paper landscape, motion graphics) and say so.
+7. Record the doc in `library/drive_seen.json`.
 
 ## Commit
-Only `projects/**/scenes.json`, `projects.json`, `library/drive_seen.json`.
+Only `projects/**/scenes.json`, `projects.json`, `requests/*.json`, `library/drive_seen.json`.
 Never `sectors.json`. User
 `intake-bot <bot@edenrise.com>`. Message `[intake-bot] <n> script(s) from Drive: <slugs>`.
 Push to main; rebase and retry up to 5 times. Report one paragraph: docs seen, cards
