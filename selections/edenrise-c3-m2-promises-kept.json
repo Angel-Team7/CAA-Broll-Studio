@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c3-m2-promises-kept",
-  "updated": "2026-11-05T11:30:16.535Z",
+  "updated": "2026-11-05T11:30:42.652Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -28,7 +28,8 @@
   "needs_broll": {
     "S04": "",
     "S07": "",
-    "S08": ""
+    "S08": "",
+    "S10": ""
   },
   "topup_requests": {
     "S04": {
@@ -76,6 +77,22 @@
         "looking",
         "away",
         "standing"
+      ],
+      "done": false
+    },
+    "S10": {
+      "requested": "2026-11-05T11:30:42.631Z",
+      "note": "",
+      "reason": "direction",
+      "avoid": [
+        "plant",
+        "worker",
+        "hands",
+        "tending",
+        "soil",
+        "seedling",
+        "carefully",
+        "pride"
       ],
       "done": false
     }
