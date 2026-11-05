@@ -74,13 +74,11 @@
       "added": 19
     },
     "S09": {
-      "requested": "2026-10-29T15:54:05Z",
+      "requested": "2026-11-05T15:40:58Z",
       "note": "",
-      "done": true,
-      "reason": "first-gather",
-      "by": "maintenance",
-      "fulfilled": "2026-10-29T16:17:09Z",
-      "added": 14
+      "done": false,
+      "reason": "",
+      "by": "maintenance: speed check, 0 usable on S09"
     },
     "S10": {
       "requested": "2026-10-29T15:54:05Z",
