@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c3-m2-promises-kept",
-  "updated": "2026-10-29T16:50:49.987Z",
+  "updated": "2026-11-05T11:22:59.419Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -13,6 +13,25 @@
       "edenrise-c3-m2-promises-kept-S03-V17"
     ]
   },
-  "needs_broll": {},
-  "topup_requests": {}
+  "needs_broll": {
+    "S04": ""
+  },
+  "topup_requests": {
+    "S04": {
+      "requested": "2026-11-05T11:22:59.410Z",
+      "note": "",
+      "reason": "direction",
+      "avoid": [
+        "close",
+        "hands",
+        "explaining",
+        "open",
+        "honest",
+        "gesture",
+        "doing",
+        "hand"
+      ],
+      "done": false
+    }
+  }
 }
