@@ -18,6 +18,8 @@ import release_media
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 STAGE_N = int(os.environ.get("STAGE_N", "24"))
+CLICK_N = int(os.environ.get("CLICK_N", "12"))      # what a cockpit click stages
+STAGE_WORKERS = int(os.environ.get("STAGE_WORKERS", "4"))
 SOURCE_CAP = {"pexels": 14, "pixabay": 8, "coverr": 6}
 PAGES = {"pexels": 3, "pixabay": 2, "coverr": 1}
 MAX_DURATION = 60
@@ -344,6 +346,11 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     # a clip the judge already scored below usable does not count toward the beat's number
     held = [c for c in scene.get("clips") or [] if not c.get("violation") and not c.get("requirement_fail")
             and not (c.get("judged") is True and (c.get("relevance") or 0) < 6)]
+    # A reviewer's click ("Direction is wrong", "Need more") promises ten fresh options and
+    # someone is sitting there waiting: stage a dozen (a couple to spare for the judge),
+    # not the full 24 a first gather shops for. Half the work, half the wait.
+    if reason not in ("first-gather", "shots-rewritten") and not scene.get("want"):
+        want_n = CLICK_N
     target = max(0, want_n - len(held)) if reason == "first-gather" else want_n
     print(f"  recall v2: sector={sector}, {len(shots)} shots, direction={direction}, chase={want or '-'}, avoid={avoid or '-'}"
           + (f", want {want_n} (holding {len(held)}, staging up to {target})" if scene.get("want") else "")
@@ -479,9 +486,12 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
             })
             credits.append(tb.credit_line(a))
             added += 1
-        for c in picks:
-            stem = f"{slug}-{scene_id}-V{idx:02d}"
-            idx += 1
+        # Each candidate is a download, two ffmpeg passes and three uploads — almost all of
+        # it waiting on the network. One at a time, a dozen clips took ten minutes while a
+        # reviewer watched an unchanged card; four at a time it is a quarter of that.
+        # The release is looked up once first so the workers never race to create it.
+        def _stage_one(job):
+            c, stem = job
             master = td / f"{stem}.src.mp4"
             try:
                 with requests.get(c.get("stage_url") or c["download_url"], stream=True, timeout=90, headers={"User-Agent": tb.UA}) as r:
@@ -490,33 +500,54 @@ def stage_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
                         for chunk in r.iter_content(1 << 20):
                             fh.write(chunk)
             except Exception as e:
-                print(f"    download failed ({c['source']} {c['src_id']}): {str(e)[:70]}"); continue
-            if master.stat().st_size < 100_000:
+                print(f"    download failed ({c['source']} {c['src_id']}): {str(e)[:70]}"); return None
+            try:
+                if master.stat().st_size < 100_000:
+                    return None
+                pv, th, st = td / f"{stem}.mp4", td / f"{stem}.jpg", td / f"{stem}.strip.jpg"
+                if not tb.make_preview(master, pv, th):
+                    return None
+                if not make_strip(pv, st):
+                    print(f"    strip failed for {stem}"); return None
+                pv_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "preview", pv), pv)
+                th_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "thumb", th), th)
+                st_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "strip", st), st)
+                if not (pv_url and th_url and st_url):
+                    print(f"    upload failed for {stem}"); return None
+                return {
+                    "id": stem, "type": "video", "source": c["source"], "author": c.get("author", ""),
+                    "license": c.get("license", ""), "page_url": c.get("page_url", ""),
+                    "thumb": th_url, "preview": pv_url, "strip": st_url,
+                    "title": c.get("title", ""), "query": c.get("query", ""), "shot": c.get("shot", ""),
+                    "duration": c.get("duration", 0), "src_id": c.get("src_id", ""),
+                    "download_url": c.get("download_url", ""),
+                    **({"real_w": c["_real"]["w"], "real_h": c["_real"]["h"], "real_seconds": round(c["_real"]["s"], 2)}
+                       if c.get("_real") else {}),
+                    "fresh": True, "added_by": "recall-v2", "staged_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                    "judged": False, "shown": False,
+                }
+            except Exception as e:
+                print(f"    staging failed for {stem}: {str(e)[:70]}"); return None
+            finally:
+                master.unlink(missing_ok=True)
+                (td / f"{stem}.mp4").unlink(missing_ok=True)
+
+        jobs = []
+        for c in picks:
+            jobs.append((c, f"{slug}-{scene_id}-V{idx:02d}")); idx += 1
+        if jobs:
+            try:
+                release_media.ensure_release(slug)
+            except Exception as e:
+                print(f"    release lookup failed: {str(e)[:70]}")
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=max(1, STAGE_WORKERS)) as pool:
+            results = list(pool.map(_stage_one, jobs))
+        for (c, stem), clip in zip(jobs, results):
+            if not clip:
                 continue
-            pv, th, st = td / f"{stem}.mp4", td / f"{stem}.jpg", td / f"{stem}.strip.jpg"
-            if not tb.make_preview(master, pv, th):
-                continue
-            if not make_strip(pv, st):
-                print(f"    strip failed for {stem}"); continue
-            pv_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "preview", pv), pv)
-            th_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "thumb", th), th)
-            st_url = release_media.upload_for_slug(slug, release_media.asset_name(scene_id, "strip", st), st)
-            if not (pv_url and th_url and st_url):
-                print(f"    upload failed for {stem}"); continue
-            scene.setdefault("clips", []).append({
-                "id": stem, "type": "video", "source": c["source"], "author": c.get("author", ""),
-                "license": c.get("license", ""), "page_url": c.get("page_url", ""),
-                "thumb": th_url, "preview": pv_url, "strip": st_url,
-                "title": c.get("title", ""), "query": c.get("query", ""), "shot": c.get("shot", ""),
-                "duration": c.get("duration", 0), "src_id": c.get("src_id", ""),
-                "download_url": c.get("download_url", ""),
-                **({"real_w": c["_real"]["w"], "real_h": c["_real"]["h"], "real_seconds": round(c["_real"]["s"], 2)}
-                   if c.get("_real") else {}),
-                "fresh": True, "added_by": "recall-v2", "staged_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-                "judged": False, "shown": False,
-            })
+            scene.setdefault("clips", []).append(clip)
             credits.append(tb.credit_line(c))
-            master.unlink(missing_ok=True); pv.unlink(missing_ok=True)
             added += 1
     if added or backfilled or checked:
         json.dump(card, open(card_path, "w"), indent=1, ensure_ascii=False)

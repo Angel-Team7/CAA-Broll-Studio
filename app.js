@@ -392,7 +392,8 @@ function render() {
              <button class="linkbtn clearflag" data-scene="${sc.id}">clear flag</button></div>` : ""}
         </div>
         <div class="scene-side">
-          <div class="scene-count"><b class="c">${appr.length}</b> / ${sc.clips.length} approved</div>
+          <div class="scene-count" title="${sc.clips.length} clips on this scene: ${visible.shown.length} on screen${visible.hidden.length && !visible.open ? `, ${visible.hidden.length} ranked lower and hidden (use “show them”)` : ""}"><b class="c">${appr.length}</b> picked · ${
+            visible.hidden.length && !visible.open ? `showing ${visible.shown.length} of ${sc.clips.length}` : `${sc.clips.length} clips`}</div>
           <button class="reshoot ${searching || amber ? "on" : ""}" data-scene="${sc.id}"
             title="${flagged ? "Still not it — search again, steering away from everything shown" : "Not this kind of footage — search for a different direction"}">${
             searching ? "🔁 Searching…" : dirDone ? "🔁 Still wrong? Search again" : flagged ? "🔁 Still wrong — 10 more" : "🔁 Direction is wrong"}</button>

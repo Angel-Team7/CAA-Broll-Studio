@@ -629,7 +629,12 @@ def run_scene(slug, scene_id, note, sector, reason="", auto_avoid=None):
     return added
 
 
-def main():
+BULK = {"first-gather", "shots-rewritten"}
+RUN_BUDGET = int(os.environ.get("TOPUP_BUDGET_SECONDS", "1800"))
+
+
+def scan_pending():
+    """Every open request, cockpit clicks first (a reviewer is waiting), bulk work after."""
     # Two queues, one shape. selections/ belongs to the cockpit — the reviewer's ticks and
     # clicks — and nothing automated writes there. Maintenance work (a first gather on a
     # new card, a rewritten shot list) is queued in requests/<slug>.json instead, so the
@@ -644,19 +649,51 @@ def main():
         for sid, req in (sel.get("topup_requests") or {}).items():
             if isinstance(req, dict) and not req.get("done"):
                 pending.append((p, slug, sid, req.get("note", ""), req.get("reason", ""),
-                                req.get("avoid") or []))
+                                req.get("avoid") or [],
+                                (1 if req.get("reason") in BULK else 0, req.get("requested", ""))))
+    pending.sort(key=lambda x: x[6])
+    return [x[:6] for x in pending]
 
+
+def _push_now(message):
+    r = subprocess.run([sys.executable, str(ROOT / "tools" / "push_cards.py"), message],
+                       cwd=ROOT, capture_output=True, text=True)
+    out = ((r.stdout or "") + " " + (r.stderr or "")).strip()
+    print("  " + out[-300:].replace("\n", " "))
+    if r.returncode:
+        print("::warning::push_cards failed: " + out[-500:].replace("\n", " "))
+    return r.returncode == 0
+
+
+def _catch_up():
+    """Pick up clicks made since this run started. A run used to read the queue once, so a
+    'Direction is wrong' pressed two minutes in waited for the whole run (12–15 minutes on
+    2026-11-05) before anyone even looked at it. Between scenes, fetch origin; if the
+    reviewer's queue moved, bring this tree up to it — pushing what is staged first."""
+    if subprocess.run(["git", "fetch", "-q", "origin", "main"], cwd=ROOT).returncode:
+        return
+    moved = subprocess.run(["git", "diff", "--quiet", "HEAD", "origin/main", "--",
+                            "selections", "requests"], cwd=ROOT).returncode
+    if not moved:
+        return
+    dirty = subprocess.run(["git", "status", "--porcelain", "--", "projects", "selections",
+                            "requests", "library"], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+    if dirty:
+        _push_now("[topup-bot] staged so far (catching up with new clicks)")
+    else:
+        subprocess.run(["git", "reset", "-q", "--hard", "origin/main"], cwd=ROOT)
+
+
+def main():
+    pending = scan_pending()
     if not pending:
         print("no pending top-up requests")
         return 0
-    # A click from the cockpit means a reviewer is waiting on it. Bulk work queued by
-    # maintenance (a first gather, a rewritten shot list) can wait its turn behind them.
-    BULK = {"first-gather", "shots-rewritten"}
-    def _key(x):
-        r = (json.load(open(x[0])).get("topup_requests", {}).get(x[2], {}) or {})
-        return (1 if r.get("reason") in BULK else 0, r.get("requested", ""))
-    pending.sort(key=_key)
     print(f"pending top-ups: {[(s, i, r or 'more') for _, s, i, _, r, _a in pending]}")
+    started = time.time()
+    served = set()
+    processed = 0
+    last_click = None              # (slug, sid, n) of a cockpit click staged but not pushed
 
     total = 0
     # One scene must never take the run down with it. Before this guard, an exception on
@@ -665,7 +702,19 @@ def main():
     # lost — previews and strips already uploaded to Releases, orphaned. That is what
     # happened on 2026-10-13: twelve minutes of real work, discarded.
     failures, zeros = [], []
-    for path, slug, sid, note, reason, auto_avoid in pending[:MAX_SCENES_PER_RUN]:
+    while True:
+        # A reviewer's click goes live the moment its scene is staged, not at the end of
+        # the run — the cockpit polls GitHub and shows the clips within seconds of the push.
+        if last_click:
+            _push_now(f"[topup-bot] {last_click[0]} {last_click[1]}: +{last_click[2]} candidates")
+            last_click = None
+        _catch_up()
+        queue = [x for x in scan_pending() if (x[1], x[2]) not in served]
+        if not queue or processed >= MAX_SCENES_PER_RUN or time.time() - started > RUN_BUDGET:
+            pending = queue
+            break
+        path, slug, sid, note, reason, auto_avoid = queue[0]
+        served.add((slug, sid)); processed += 1
         sector = sectors.for_slug(slug)
         print(f"→ {slug} {sid}  ({note!r})")
         n = 0
@@ -751,9 +800,11 @@ def main():
             req["added"] = n
             req.pop("error", None)                 # it worked this time
             json.dump(sel, open(path, "w"), indent=2)
+            if reason not in BULK:
+                last_click = (slug, sid, n)
         total += n
 
-    left = len(pending) - min(len(pending), MAX_SCENES_PER_RUN)
+    left = len(pending)
     if total == 0 and left:
         # A run that added nothing must not re-queue itself: on 2026-10-19 that loop re-ran
         # every two minutes for an hour, added nothing, and spent the Pexels and Coverr

@@ -31,7 +31,7 @@ def check(cond, msg):
 src = (ROOT / "tools" / "topup_bot.py").read_text()
 
 # --- the guard is actually in the loop, not just imported -----------------------------
-loop = src[src.index("for path, slug, sid, note, reason, auto_avoid in pending"):
+loop = src[src.index("path, slug, sid, note, reason, auto_avoid = queue[0]"):
            src.index("print(f\"TOTAL_ADDED=")]
 check("try:" in loop, "the per-scene loop has no try/except — one bad beat kills the run")
 check("except Exception" in loop, "the loop does not catch scene failures")
