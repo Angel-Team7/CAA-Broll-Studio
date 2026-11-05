@@ -76,9 +76,11 @@
     "S09": {
       "requested": "2026-11-05T15:40:58Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "",
-      "by": "maintenance: speed check, 0 usable on S09"
+      "by": "maintenance: speed check, 0 usable on S09",
+      "fulfilled": "2026-11-05T15:42:00Z",
+      "added": 12
     },
     "S10": {
       "requested": "2026-10-29T15:54:05Z",
