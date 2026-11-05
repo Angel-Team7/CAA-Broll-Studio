@@ -1,6 +1,6 @@
 {
   "project": "edenrise-c3-m2-promises-kept",
-  "updated": "2026-11-05T11:23:20.691Z",
+  "updated": "2026-11-05T11:23:46.603Z",
   "ready": false,
   "approved": {
     "S01": [
@@ -14,6 +14,9 @@
     ],
     "S05": [
       "edenrise-c3-m2-promises-kept-S05-V05"
+    ],
+    "S06": [
+      "edenrise-c3-m2-promises-kept-S06-V03"
     ]
   },
   "needs_broll": {
