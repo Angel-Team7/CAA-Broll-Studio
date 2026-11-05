@@ -5972,7 +5972,26 @@
    "shots_at": "2026-10-24T13:26:05Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-05T11:28:34Z",
+    "at": {
+     "S04": {
+      "requested": "2026-11-05T11:22:59.410Z",
+      "note": "",
+      "reason": "direction",
+      "avoid": [
+       "close",
+       "hands",
+       "explaining",
+       "open",
+       "honest",
+       "gesture",
+       "doing",
+       "hand"
+      ],
+      "done": true,
+      "fulfilled": "2026-11-05T11:29:21Z",
+      "added": 14
+     }
+    },
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
