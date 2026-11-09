@@ -55,7 +55,9 @@
         "explanation",
         "calmly"
       ],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-11-09T12:31:22Z",
+      "added": 12
     },
     "S07": {
       "requested": "2026-11-05T11:25:33.644Z",
