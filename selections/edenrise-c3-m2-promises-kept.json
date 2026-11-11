@@ -44,7 +44,9 @@
     "S04": {
       "requested": "2026-11-11T14:14:08.898Z",
       "note": "",
-      "done": false
+      "done": true,
+      "fulfilled": "2026-11-11T14:15:29Z",
+      "added": 12
     },
     "S07": {
       "requested": "2026-11-05T11:25:33.644Z",
