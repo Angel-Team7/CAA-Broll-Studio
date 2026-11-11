@@ -22937,3 +22937,123 @@
 | pexels |  | Gabe H | Pexels License | https://www.pexels.com/video/woman-and-man-sitting-by-table-during-breakfast-11118798/ |
 | pexels |  | K | Pexels License | https://www.pexels.com/video/roof-of-building-12719797/ |
 | pixabay | cow  field  grass  cattle  green  drone  nature  landscape   | antonlukin | Pixabay Content License | https://pixabay.com/videos/id-187065/ |
+| pexels |  | Адам Аушев | Pexels License | https://www.pexels.com/video/butcher-wrapping-fresh-meat-on-stainless-steel-table-40652560/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-sitting-on-the-floor-with-boxes-around-her-4568750/ |
+| pexels |  | Адам Аушев | Pexels License | https://www.pexels.com/video/expert-butcher-wrapping-meat-cuts-efficiently-40652552/ |
+| pexels |  | Jabeer Alhassan | Pexels License | https://www.pexels.com/video/dramatic-library-scene-with-thoughtful-interaction-34677861/ |
+| pexels |  | Judas Isariot | Pexels License | https://www.pexels.com/video/a-person-is-holding-a-book-on-a-shelf-16839128/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/placing-discount-sign-on-store-products-6114654/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/paragliders-preparing-in-vast-green-field-40328533/ |
+| pexels |  | Unknown Author | Pexels License | https://www.pexels.com/video/kite-flying-in-the-sky-9099887/ |
+| pexels |  | dharmesh wadhwani | Pexels License | https://www.pexels.com/video/colorful-kite-festival-in-gujarat-skies-35617229/ |
+| pexels |  | Somogro Bangladesh | Pexels License | https://www.pexels.com/video/street-view-of-daily-life-in-bustling-market-40300916/ |
+| pexels |  | Saad Bin  Hasan | Pexels License | https://www.pexels.com/video/vibrant-street-market-with-fresh-vegetables-39396823/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-woman-working-in-a-flower-shop-8279679/ |
+| pexels |  | Engin Akyurt | Pexels License | https://www.pexels.com/video/tranquil-stream-flowing-through-forest-underbrush-30765809/ |
+| pexels |  | LUIS GALLARDO | Pexels License | https://www.pexels.com/video/landscape-nature-water-rocks-4803167/ |
+| pexels |  | shakeel akbar | Pexels License | https://www.pexels.com/video/unwanted-garbage-floating-along-the-bay-3095942/ |
+| pexels |  | Airam Dato-on | Pexels License | https://www.pexels.com/video/vibrant-indoor-market-scene-with-shoppers-36024384/ |
+| pexels |  | Airam Dato-on | Pexels License | https://www.pexels.com/video/bustling-meat-market-scene-with-customers-36024378/ |
+| pexels |  | Zeki Okur | Pexels License | https://www.pexels.com/video/vibrant-street-food-vendor-in-bustling-market-40577228/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-computer-desktop-on-the-table-6169980/ |
+| pexels |  | Tony Schnagl | Pexels License | https://www.pexels.com/video/a-young-man-taking-his-skateboard-after-closing-his-laptop-5527800/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/artist-hand-mixing-paint-with-spatula-6931946/ |
+| pixabay | semi circle rotation animation  counter animation  rotating  | cynator | Pixabay Content License | https://pixabay.com/videos/id-360252/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-biohazard-sign-posted-on-a-wall-6130563/ |
+| pexels |  | Shiny Diamond | Pexels License | https://www.pexels.com/video/moisturizing-hands-3763968/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-male-hand-9831124/ |
+| pixabay | man  knight  warrior  armor  medieval  history  fantasy  his | julientromeur | Pixabay Content License | https://pixabay.com/videos/id-190866/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/two-young-women-looking-at-dresses-in-a-store-8386980/ |
+| pexels |  | Julia M Cameron | Pexels License | https://www.pexels.com/video/volunteers-packing-clothes-6893822/ |
+| pexels |  | MART  PRODUCTION | Pexels License | https://www.pexels.com/video/a-woman-taking-pictures-of-a-green-long-sleeve-polo-shirt-7667417/ |
+| pexels |  | Alperen Bozkurt | Pexels License | https://www.pexels.com/video/a-dirt-road-with-trees-and-a-blue-sky-16943498/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-tractor-plowing-vast-farmland-33678329/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-expansive-grassland-landscape-34080550/ |
+| pexels |  | Stephen (Why Steve) Jacobs | Pexels License | https://www.pexels.com/video/close-up-shot-of-lemon-in-a-tree-3992083/ |
+| pexels |  | Engin Akyurt | Pexels License | https://www.pexels.com/video/tranquil-spring-day-in-leafy-park-setting-35748912/ |
+| pexels |  | Zuzanna Musial | Pexels License | https://www.pexels.com/video/amazing-cones-on-the-spruce-tree-1331374/ |
+| pexels |  | Polina Tankilevitch | Pexels License | https://www.pexels.com/video/unboxing-packages-4440948/ |
+| pexels |  | Davidson Free Media | Pexels License | https://www.pexels.com/video/sunrise-at-flaine-ski-resort-15434857/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/serene-waterfall-in-lush-green-forest-28638520/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/brownhill-reservoir-20399005/ |
+| pexels |  | Artem Podrez | Pexels License | https://www.pexels.com/video/a-man-getting-the-packages-from-the-panel-van-while-a-woman-doing-a-checklist-5043698/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-garage-door-opening-for-truck-6685041/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/workers-unloading-a-delivery-truck-6169113/ |
+| pexels |  | Val А | Pexels License | https://www.pexels.com/video/excavator-operating-at-construction-site-outdoors-35647500/ |
+| pexels |  | 23  Audiovisual | Pexels License | https://www.pexels.com/video/industrial-gravel-processing-on-construction-site-38814725/ |
+| pexels |  | Wolfgang Weiser | Pexels License | https://www.pexels.com/video/modern-tractors-tilling-german-farmland-36678913/ |
+| pixabay | shopping  online  payment  e-commerce  business  retail  pay | Mohamed_hassan | Pixabay Content License | https://pixabay.com/videos/id-40572/ |
+| pixabay | smartphone  touch screen  navigation  touch control  scrolli | DistillVideos | Pixabay Content License | https://pixabay.com/videos/id-1110/ |
+| pexels |  | Capture Point | Pexels License | https://www.pexels.com/video/elegant-dance-couple-on-green-field-40474034/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/a-man-picking-up-the-papers-8052483/ |
+| pexels |  | Michel Rothstein | Pexels License | https://www.pexels.com/video/a-boeing-737-800-about-to-land-5237592/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/packages-at-the-door-6994416/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-delivering-package-to-a-woman-8926178/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/man-wearing-cap-holding-a-box-8926182/ |
+| pexels |  | Sahil Hansda | Pexels License | https://www.pexels.com/video/aerial-view-of-sparse-greenfield-landscape-28679761/ |
+| pexels |  | Dean Diemert | Pexels License | https://www.pexels.com/video/a-field-with-purple-flowers-and-trees-27155927/ |
+| pexels |  | Tom Fisk | Pexels License | https://www.pexels.com/video/vegetation-and-foliage-in-overhead-view-14548329/ |
+| pexels |  | Nothing Ahead | Pexels License | https://www.pexels.com/video/dramatic-sunset-through-urban-landscape-35186939/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-a-tranquil-urban-landscape-at-sunset-39745416/ |
+| pexels |  | Samuel Sobrinho | Pexels License | https://www.pexels.com/video/view-of-sunset-over-landscape-3546271/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-picking-books-from-the-shelves-6344075/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/aerial-view-of-timber-storage-yard-31025305/ |
+| pexels |  | FÁBIO REIS DE ABREU (PORTUGA) | Pexels License | https://www.pexels.com/video/person-sorting-recyclables-at-cleanup-event-37997480/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-urban-industrial-area-40523484/ |
+| pexels |  | Altaf Shah | Pexels License | https://www.pexels.com/video/aerial-view-of-industrial-area-with-warehouses-31319208/ |
+| pexels |  | Toàn BDS | Pexels License | https://www.pexels.com/video/aerial-view-of-modern-industrial-complex-and-shipping-containers-29960101/ |
+| pexels |  | JIUN-JE LIN | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-farmland-landscape-31972487/ |
+| pexels |  | Marc Espejo | Pexels License | https://www.pexels.com/video/birds-eye-view-of-plain-terrain-13867921/ |
+| pexels |  | Hữu Thịnh 79 | Pexels License | https://www.pexels.com/video/aerial-view-of-man-in-forest-on-cliffside-31621494/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/couple-doing-unboxing-7288134/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/courier-boy-finding-correct-parcel-from-the-rack-6170330/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/man-closing-the-box-7464108/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-pathway-between-tall-trees-in-a-forest-5596928/ |
+| pexels |  | Thirdman | Pexels License | https://www.pexels.com/video/man-and-woman-collecting-trash-7655458/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/people-painting-the-street-with-black-lives-matter-4765894/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/close-up-of-an-empty-conveyor-3701070/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-empty-conveyor-3701054/ |
+| pexels |  | TimePRO TV | Pexels License | https://www.pexels.com/video/efficient-packaging-machine-in-action-32062725/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/man-reading-books-in-empty-room-6219762/ |
+| pexels |  | Ali  Alcántara | Pexels License | https://www.pexels.com/video/a-woman-sitting-on-a-ledge-looking-out-the-window-20451818/ |
+| pexels |  | Alena Darmel | Pexels License | https://www.pexels.com/video/a-man-smeared-with-colored-powders-7195023/ |
+| pexels |  | Gustavo Fring | Pexels License | https://www.pexels.com/video/a-person-checking-oil-level-in-a-car-6870339/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/a-person-testing-a-mechanism-6666287/ |
+| pexels |  | Md Amir Umar | Pexels License | https://www.pexels.com/video/close-up-video-of-a-running-machine-6017441/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/low-angle-shot-of-a-tree-8817617/ |
+| pexels |  | Kmeel.com Videos | Pexels License | https://www.pexels.com/video/close-up-video-of-a-tree-trunk-10224250/ |
+| pexels |  | Plato Terentev | Pexels License | https://www.pexels.com/video/a-close-up-shot-of-a-plant-6250415/ |
+| pexels |  | Tetrakis  Sphericon | Pexels License | https://www.pexels.com/video/aerial-footage-of-green-grass-field-11903488/ |
+| pexels |  | Oskar Gross | Pexels License | https://www.pexels.com/video/scenic-aerial-view-of-italian-countryside-36746035/ |
+| pexels |  | İsmail Ünlü | Pexels License | https://www.pexels.com/video/serene-sunlit-forest-park-scene-with-lens-flare-40194542/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/women-holding-hands-while-standing-on-dry-land-8239321/ |
+| pexels |  | Aamir Somewhere | Pexels License | https://www.pexels.com/video/footsteps-across-a-desert-landscape-29788912/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/high-angle-view-of-person-walking-with-hiking-boots-5447343/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/serene-day-at-green-lake-park-in-kunming-40792464/ |
+| pexels |  | Khanh Hoang Minh 2 | Pexels License | https://www.pexels.com/video/a-group-of-people-are-working-on-a-tree-19115716/ |
+| pexels |  | HARI KUMAR | Pexels License | https://www.pexels.com/video/carts-riding-in-park-13254574/ |
+| pexels |  | cnrdmroglu | Pexels License | https://www.pexels.com/video/traditional-tarhana-preparation-by-hand-39963096/ |
+| pexels |  | Jay's Photography | Pexels License | https://www.pexels.com/video/serene-green-forest-aerial-view-in-springtime-37110513/ |
+| pexels |  | Andrew Kota | Pexels License | https://www.pexels.com/video/man-walking-in-the-outdoors-with-dogs-6138681/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/food-wood-light-man-9373204/ |
+| pexels |  | Jean Pablo Silva | Pexels License | https://www.pexels.com/video/parked-cars-at-a-construction-site-15226323/ |
+| pexels |  | Declan Conor | Pexels License | https://www.pexels.com/video/an-aerial-view-of-a-city-with-a-large-square-25839537/ |
+| pexels |  | Jason Liquori | Pexels License | https://www.pexels.com/video/busy-town-aerial-18796469/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-walking-outdoors-5597043/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/little-girl-kicking-the-medicines-on-the-floor-6191838/ |
+| pexels |  | Sasha Poberailo | Pexels License | https://www.pexels.com/video/young-woman-strolling-in-autumn-forest-30298581/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/plumbers-wrench-hanged-on-wall-8488161/ |
+| pixabay | soul  sleep  body  out of body  experience  astral projectio | ChristianBodhi | Pixabay Content License | https://pixabay.com/videos/id-37275/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/person-putting-blade-on-a-razor-7697161/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/close-up-woman-writing-with-a-marker-6248645/ |
+| pexels |  | Progga Media | Pexels License | https://www.pexels.com/video/rebuilding-efforts-in-rohingya-refugee-camps-34596435/ |
+| pixabay | shopping  pedestrian  time lapse  city  consumption  pedestr | tmeier1964 | Pixabay Content License | https://pixabay.com/videos/id-2121/ |
+| pexels |  | Yaroslav Shuraev | Pexels License | https://www.pexels.com/video/crumpled-papers-thrown-in-a-trash-bin-7668507/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/close-up-shot-of-a-gray-rock-6611037/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/rocky-texture-7830746/ |
+| pexels |  | The Instagrapher | Pexels License | https://www.pexels.com/video/tracking-shot-of-the-citadel-of-qaitbay-7579787/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/couple-leaving-a-realtor-inside-of-an-unfinished-house-7816386/ |
+| pexels |  | George Morina | Pexels License | https://www.pexels.com/video/vibrant-nightlife-street-scene-in-city-center-34722598/ |
+| pexels |  | Ahimsa -  OM | Pexels License | https://www.pexels.com/video/passers-by-walk-along-the-black-sea-embankment-towards-each-other-during-the-day-19851182/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/women-s-cricket-training-in-australia-40592914/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-modern-residential-construction-site-34006437/ |
