@@ -78,7 +78,9 @@
         "crossed",
         "close"
       ],
-      "done": false
+      "done": true,
+      "fulfilled": "2026-11-11T14:16:10Z",
+      "added": 12
     },
     "S10": {
       "requested": "2026-11-05T11:30:42.631Z",
