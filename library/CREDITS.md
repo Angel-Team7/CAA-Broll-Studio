@@ -23417,3 +23417,123 @@
 | pexels |  | Curtis Adams | Pexels License | https://www.pexels.com/video/a-luminous-master-bedroom-15887129/ |
 | pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/food-on-the-bed-5353266/ |
 | pexels |  | KATRIN  BOLOVTSOVA | Pexels License | https://www.pexels.com/video/drinking-water-with-lemon-7144293/ |
+| pexels |  | Marcin P | Pexels License | https://www.pexels.com/video/a-jar-of-red-liquid-sitting-on-a-counter-15860431/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/a-person-making-coffee-5499724/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/close-up-view-of-a-dog-walking-7684119/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-woman-wearing-a-leather-jacket-walk-pass-the-lockers-3044695/ |
+| pexels |  | Hindustani  Lens | Pexels License | https://www.pexels.com/video/woman-interacting-with-waitress-in-cafe-19552321/ |
+| pexels |  | ALL IZ Well | Pexels License | https://www.pexels.com/video/database-storage-of-a-server-5028622/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/view-of-a-beach-resort-6434163/ |
+| pexels |  | Rafael  Castro | Pexels License | https://www.pexels.com/video/enjoying-the-shoreline-view-from-the-harbour-park-4091651/ |
+| pexels |  | Pixabay | Pexels License | https://www.pexels.com/video/floating-boat-856590/ |
+| pexels |  | olia danilevich | Pexels License | https://www.pexels.com/video/back-view-of-a-man-using-a-laptop-4974774/ |
+| pexels |  | Shutter  Break | Pexels License | https://www.pexels.com/video/close-up-of-code-installing-dependencies-35475096/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-woman-typing-while-sitting-on-the-floor-8720754/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/hand-putting-the-ice-and-coins-on-the-drinking-glass-5909911/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/dropping-a-strawberry-on-a-glass-of-water-8093480/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/a-woman-drinking-water-6707269/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/architect-sketching-in-a-book-6615047/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/notes-and-sketches-on-a-table-5846599/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/top-view-of-a-man-doing-architect-drawing-9617188/ |
+| pexels |  | Just For Music And Film | Pexels License | https://www.pexels.com/video/glass-jar-with-gold-coins-on-white-surface-32024410/ |
+| pexels |  | ArtHouse Studio | Pexels License | https://www.pexels.com/video/woman-having-her-hair-blow-dried-7575520/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/police-covering-camera-at-crime-scene-10464825/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/people-editing-videos-8103044/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/men-playing-foosball-and-working-at-the-office-6804658/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/group-discussing-charts-in-front-of-a-computer-6248600/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/women-opening-box-6612509/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-person-is-wrapping-a-brown-paper-bag-with-ribbon-3927678/ |
+| pexels |  | Phillip Dillow | Pexels License | https://www.pexels.com/video/person-tying-a-meat-5755914/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/car-vehicle-neon-fix-4488717/ |
+| pexels |  | Martin Enestedt | Pexels License | https://www.pexels.com/video/artisan-lip-balm-making-process-39360615/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-using-a-bar-soap-while-washing-dishes-10573435/ |
+| pexels |  | Jakub Zerdzicki | Pexels License | https://www.pexels.com/video/professional-camera-lens-cleaning-and-maintenance-35639262/ |
+| pexels |  | Ivan S | Pexels License | https://www.pexels.com/video/woman-talking-to-her-colleagues-7252818/ |
+| pexels |  | Darlene Alderson | Pexels License | https://www.pexels.com/video/people-working-at-the-office-7967331/ |
+| pexels |  | fauxels | Pexels License | https://www.pexels.com/video/a-group-of-people-are-seated-and-busy-doing-their-work-3255156/ |
+| pexels |  | Sergei Starostin | Pexels License | https://www.pexels.com/video/close-up-of-handwriting-in-a-journal-39425741/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-woman-writing-on-a-paper-4334115/ |
+| pexels |  | Lukholo Molose | Pexels License | https://www.pexels.com/video/a-man-writing-on-a-paper-4114225/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/coworkers-busy-working-6876438/ |
+| pexels |  | Theo  Decker | Pexels License | https://www.pexels.com/video/young-man-and-woman-working-in-modern-office-5944697/ |
+| pexels |  | Allan Mas | Pexels License | https://www.pexels.com/video/woman-tying-knot-in-rope-5378829/ |
+| pixabay | a ship  sea  summer  blue  sunny  las palmas  gran canaria   | slavikfi | Pixabay Content License | https://pixabay.com/videos/id-1601/ |
+| pexels |  | Ketut Subiyanto | Pexels License | https://www.pexels.com/video/a-close-up-shot-of-dried-leaves-4326407/ |
+| pexels |  | Shanto Debnath | Pexels License | https://www.pexels.com/video/silhouette-of-person-walking-through-library-aisle-39522943/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/realtor-showing-the-house-to-clients-7816384/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-couple-buying-a-new-home-7816373/ |
+| pexels |  | Los Muertos Crew | Pexels License | https://www.pexels.com/video/close-up-of-limes-and-mint-leaves-8477807/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/person-put-sewing-pin-on-a-cloth-7778219/ |
+| pexels |  | Ammad Rasool | Pexels License | https://www.pexels.com/video/happy-man-working-with-old-age-handloom-machine-20168286/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/man-washing-floor-with-water-pressure-machine-6160419/ |
+| pexels |  | Rob  Cot | Pexels License | https://www.pexels.com/video/footage-of-the-street-with-men-walking-3680684/ |
+| pexels |  | LayG Traveller | Pexels License | https://www.pexels.com/video/busy-urban-street-scene-with-pedestrians-and-vehicles-40844174/ |
+| pexels |  | Miguel Á. Padriñán | Pexels License | https://www.pexels.com/video/close-up-of-dripping-metal-faucet-30615535/ |
+| pexels |  | K | Pexels License | https://www.pexels.com/video/a-person-is-standing-in-the-middle-of-a-stream-20597711/ |
+| pexels |  | Ravi Kant | Pexels License | https://www.pexels.com/video/close-up-view-of-water-drops-5004211/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/a-woman-writing-on-the-sticky-note-in-the-office-7792182/ |
+| pexels |  | Tima Miroshnichenko | Pexels License | https://www.pexels.com/video/a-man-typing-on-his-laptop-while-a-woman-is-texting-on-her-phone-7579566/ |
+| pexels |  | Antoni Shkraba | Pexels License | https://www.pexels.com/video/man-using-a-tablet-7165702/ |
+| pexels |  | Kiwi and Camera | Pexels License | https://www.pexels.com/video/modern-retail-store-with-customers-browsing-39033852/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/leather-workshop-cut-handmade-4452790/ |
+| pexels |  | alleksana | Pexels License | https://www.pexels.com/video/a-ramen-burger-on-the-plate-6092272/ |
+| pexels |  | AP Vibes | Pexels License | https://www.pexels.com/video/bubbling-geyser-amidst-forested-scenery-32463199/ |
+| pexels |  | Colin Jones | Pexels License | https://www.pexels.com/video/vibrant-yellow-abstract-cosmic-explosion-34218441/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/woman-placing-dumplings-on-a-bamboo-plate-8094308/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/woman-holding-thank-you-card-7563970/ |
+| pexels |  | Zulfugar Karimov | Pexels License | https://www.pexels.com/video/tranquil-hand-touching-calm-lake-water-39106535/ |
+| pixabay | spring flowers  trail  roadside  wild flower  wildflower  wi | KIMDAEJEUNG | Pixabay Content License | https://pixabay.com/videos/id-113400/ |
+| pexels |  | Md muntasir Mamun | Pexels License | https://www.pexels.com/video/construction-workers-at-busy-outdoor-cement-site-40942779/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-sad-elderly-woman-sitting-on-an-armchair-8860993/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-standing-in-darkness-6756336/ |
+| pexels |  | Ron Lach | Pexels License | https://www.pexels.com/video/a-person-holding-a-pocket-watch-10284259/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/an-instructor-talking-to-a-student-in-class-7999581/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/group-of-serious-looking-lawyers-reviewing-documents-8731414/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/man-and-woman-getting-divorce-8135731/ |
+| pexels |  | Charlotte May | Pexels License | https://www.pexels.com/video/close-up-video-of-plants-5823704/ |
+| pexels |  | vdk musik | Pexels License | https://www.pexels.com/video/modern-living-room-with-large-glass-windows-37634863/ |
+| pexels |  | Teona Swift | Pexels License | https://www.pexels.com/video/a-cozy-room-with-indoor-plants-6841962/ |
+| pexels |  | David Pickup |  Advertising & Marketing  🇬🇧 | Pexels License | https://www.pexels.com/video/aerial-view-of-luxurious-villa-with-pool-39488484/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/drone-footage-of-natural-geological-formations-7038580/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/aerial-shot-of-a-woman-walking-out-the-door-and-jumps-on-a-pool-6942852/ |
+| pexels |  | Taryn Elliott | Pexels License | https://www.pexels.com/video/pedestal-shot-of-a-home-office-6183375/ |
+| pexels |  | Maurice Supple | Pexels License | https://www.pexels.com/video/majestic-lisbon-archway-under-blue-sky-31366924/ |
+| pexels |  | Necip Duman | Pexels License | https://www.pexels.com/video/serene-ferry-journey-with-scenic-water-views-40235557/ |
+| pexels |  | Imad Clicks | Pexels License | https://www.pexels.com/video/walking-through-a-blooming-field-at-dusk-36953567/ |
+| pexels |  | John Nickolls | Pexels License | https://www.pexels.com/video/heather-on-cannock-chase-18306371/ |
+| pexels |  | PureRaw: Camera & Film Grain | Pexels License | https://www.pexels.com/video/close-up-of-poppies-9196050/ |
+| pexels |  | Dr. Mohammad  Hoque | Pexels License | https://www.pexels.com/video/dramatic-coastal-exploration-on-rocky-shores-34974211/ |
+| pexels |  | urtimud.89 | Pexels License | https://www.pexels.com/video/aerial-view-of-the-beach-and-rocks-16544580/ |
+| pexels |  | Armando  H2 | Pexels License | https://www.pexels.com/video/aerial-view-of-ocean-waves-crashing-on-cliff-38995937/ |
+| pixabay | new year's day  new year's eve  2024  fireworks  new year | Ila700 | Pixabay Content License | https://pixabay.com/videos/id-145652/ |
+| pixabay | baby  child  new born  infant  nap  rest | fernando_Batista35 | Pixabay Content License | https://pixabay.com/videos/id-170134/ |
+| pexels |  | Mikhail Nilov | Pexels License | https://www.pexels.com/video/drone-footage-of-houses-on-a-remote-area-8419479/ |
+| pexels |  | Efrem  Efre | Pexels License | https://www.pexels.com/video/aerial-view-of-vast-green-forest-in-autumn-40536091/ |
+| pexels |  | Bhupal Das  Shrestha | Pexels License | https://www.pexels.com/video/aerial-view-of-roof-gathering-in-greenery-32120759/ |
+| pixabay | factory  industry  manufacturing  industrial  engineering  p | jcax2 | Pixabay Content License | https://pixabay.com/videos/id-6185/ |
+| pixabay | people  business  office  job  person  workers  building | LaDoncella | Pixabay Content License | https://pixabay.com/videos/id-273582/ |
+| pexels |  | Anastasia  Shuraeva | Pexels License | https://www.pexels.com/video/woman-opening-the-door-of-the-glamping-house-7663531/ |
+| pexels |  | NGUYỄN THÀNH NHƠN | Pexels License | https://www.pexels.com/video/aerial-view-of-rural-huts-surrounded-by-fields-35586073/ |
+| pexels |  | Midtrack - | Pexels License | https://www.pexels.com/video/forest-trees-house-lake-3945821/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-communicating-using-sign-language-6321908/ |
+| pexels |  | Monstera Production | Pexels License | https://www.pexels.com/video/man-and-woman-waring-face-mask-6980027/ |
+| pexels |  | Kindel Media | Pexels License | https://www.pexels.com/video/a-man-and-a-woman-in-an-argument-6773553/ |
+| pexels |  | Ivan Chumak | Pexels License | https://www.pexels.com/video/couple-walking-in-scenic-autumn-park-40905811/ |
+| pexels |  | Misha Malinovskiy | Pexels License | https://www.pexels.com/video/blond-woman-walking-through-field-under-clear-sky-10491731/ |
+| pexels |  | ROMAN ODINTSOV | Pexels License | https://www.pexels.com/video/woman-in-the-mountains-6664517/ |
+| pexels |  | Tom Shutkin | Pexels License | https://www.pexels.com/video/focused-freelancer-working-in-cozy-home-office-35331904/ |
+| pexels |  | https://kaboompics.com/ | Pexels License | https://www.pexels.com/video/men-consulting-to-a-woman-8135850/ |
+| pexels |  | Özgür Sürmeli | Pexels License | https://www.pexels.com/video/photographer-adjusting-camera-by-window-indoors-40261726/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/back-view-of-a-man-opening-the-curtains-and-staring-at-the-window-6944071/ |
+| pexels |  | Pavel Danilyuk | Pexels License | https://www.pexels.com/video/a-woman-touching-chandelier-6446118/ |
+| pexels |  | Vlada Karpovich | Pexels License | https://www.pexels.com/video/man-sewing-leather-pieces-4456118/ |
+| pexels |  | RDNE Stock project | Pexels License | https://www.pexels.com/video/barber-giving-a-haircut-to-a-customer-7697139/ |
+| pixabay | woman  mask  healthcare  young  epidemic  virus  pandemic  f | SYG_Anime | Pixabay Content License | https://pixabay.com/videos/id-63240/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/women-in-their-abaya-dress-7816222/ |
+| pexels |  | KoolShooters | Pexels License | https://www.pexels.com/video/a-couple-holding-hands-at-sunset-9756926/ |
+| pexels |  | cottonbro studio | Pexels License | https://www.pexels.com/video/crop-people-handling-a-flyer-6565775/ |
+| pexels |  | Yan Krukau | Pexels License | https://www.pexels.com/video/office-team-throwing-documents-in-the-air-7791927/ |
+| pexels |  | Kampus Production | Pexels License | https://www.pexels.com/video/people-working-together-6248629/ |
+| pixabay | couple  wedding  lovers  dance  bride  groom  wedding dress  | Engin_Akyurt | Pixabay Content License | https://pixabay.com/videos/id-77929/ |
+| pexels |  | Darlene Alderson | Pexels License | https://www.pexels.com/video/people-drinking-in-the-bar-7039141/ |
+| pexels |  | Edmond Dantès | Pexels License | https://www.pexels.com/video/man-meeting-with-his-client-4436878/ |
