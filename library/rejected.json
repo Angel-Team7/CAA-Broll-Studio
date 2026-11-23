@@ -4902,10 +4902,10 @@
   "reason": "dark industrial workshops"
  },
  "pexels:https://www.pexels.com/video/person-sanding-the-rim-of-a-glass-cup-7220979/": {
-  "sector": "edenrise",
-  "reason": "assembly",
-  "at": "2026-11-23T17:49:01Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
+  "at": "2026-09-09T17:46:20Z",
+  "brand": "belong",
+  "from": "belong-module12/S06",
+  "reason": "industrial machines"
  },
  "pexels:https://www.pexels.com/video/pretty-woman-talking-to-the-hotel-bell-man-5378939/": {
   "at": "2026-09-09T16:40:39Z",
@@ -12362,259 +12362,427 @@
  "pexels:7484287": {
   "sector": "edenrise",
   "reason": "camera-aware posing",
-  "at": "2026-11-23T17:44:12Z",
+  "at": "2026-11-23T17:42:21Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S02"
+ },
+ "pexels:4281402": {
+  "sector": "edenrise",
+  "reason": "factory",
+  "at": "2026-11-23T17:42:21Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S02"
  },
  "pexels:7804814": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-11-23T17:44:12Z",
+  "reason": "corporate attire",
+  "at": "2026-11-23T17:42:21Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S02"
  },
  "pexels:5282124": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-11-23T17:44:12Z",
+  "at": "2026-11-23T17:42:21Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S02"
  },
  "pexels:6285690": {
   "sector": "edenrise",
   "reason": "monitor",
-  "at": "2026-11-23T17:44:12Z",
+  "at": "2026-11-23T17:42:21Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S02"
  },
  "pexels:7981937": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-11-23T17:45:05Z",
+  "reason": "smiling crew / office setting",
+  "at": "2026-11-23T17:43:23Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S03"
  },
  "pexels:7581213": {
   "sector": "edenrise",
   "reason": "office",
-  "at": "2026-11-23T17:45:05Z",
+  "at": "2026-11-23T17:43:23Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S03"
+ },
+ "pexels:35650149": {
+  "sector": "edenrise",
+  "reason": "mining",
+  "at": "2026-11-23T17:43:23Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S03"
  },
  "pexels:6964252": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-11-23T17:45:05Z",
+  "at": "2026-11-23T17:43:23Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S03"
+ },
+ "pixabay:174008": {
+  "sector": "edenrise",
+  "reason": "smiling crew / camera-aware posing",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
+ },
+ "pexels:11951043": {
+  "sector": "edenrise",
+  "reason": "makeup",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
  "pexels:8865778": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-11-23T17:46:22Z",
+  "reason": "office / coworkers",
+  "at": "2026-11-23T17:44:54Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
  "pexels:7683413": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-11-23T17:46:22Z",
+  "reason": "office / coworkers",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
+ },
+ "pexels:9737898": {
+  "sector": "edenrise",
+  "reason": "romantic",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
+ },
+ "pexels:6531881": {
+  "sector": "edenrise",
+  "reason": "romantic",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
+ },
+ "pexels:9465399": {
+  "sector": "edenrise",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:44:54Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
+ },
+ "pexels:26837707": {
+  "sector": "edenrise",
+  "reason": "camera-aware posing",
+  "at": "2026-11-23T17:44:54Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
  "pexels:7414123": {
   "sector": "edenrise",
   "reason": "coworkers",
-  "at": "2026-11-23T17:46:22Z",
+  "at": "2026-11-23T17:44:54Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
  "pexels:7414174": {
   "sector": "edenrise",
-  "reason": "monitor",
-  "at": "2026-11-23T17:46:22Z",
+  "reason": "corporate",
+  "at": "2026-11-23T17:44:54Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
  "pexels:6952139": {
   "sector": "edenrise",
-  "reason": "suit",
-  "at": "2026-11-23T17:46:22Z",
+  "reason": "suit / tie",
+  "at": "2026-11-23T17:44:54Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S04"
  },
- "pexels:7541932": {
+ "pexels:33153696": {
   "sector": "edenrise",
-  "reason": "factory",
-  "at": "2026-11-23T17:49:01Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
- },
- "pexels:7220976": {
-  "sector": "edenrise",
-  "reason": "assembly",
-  "at": "2026-11-23T17:49:01Z",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:46:13Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
  },
  "pexels:8540432": {
   "sector": "edenrise",
-  "reason": "smiling",
-  "at": "2026-11-23T17:49:01Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
- },
- "pexels:7713912": {
-  "sector": "edenrise",
-  "reason": "intense stare into camera",
-  "at": "2026-11-23T17:49:01Z",
+  "reason": "smiling / camera-aware posing",
+  "at": "2026-11-23T17:46:13Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
  },
  "pexels:8963858": {
   "sector": "edenrise",
   "reason": "intense stare into camera",
-  "at": "2026-11-23T17:49:01Z",
+  "at": "2026-11-23T17:46:13Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
  },
  "pexels:6985690": {
   "sector": "edenrise",
-  "reason": "office",
-  "at": "2026-11-23T17:49:01Z",
+  "reason": "office / keyboard / monitor",
+  "at": "2026-11-23T17:46:13Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
  },
  "pixabay:39": {
   "sector": "edenrise",
   "reason": "factory",
-  "at": "2026-11-23T17:49:01Z",
+  "at": "2026-11-23T17:46:13Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S05"
+ },
+ "pexels:6390323": {
+  "sector": "edenrise",
+  "reason": "mask",
+  "at": "2026-11-23T17:47:38Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
+ },
+ "pexels:32082737": {
+  "sector": "edenrise",
+  "reason": "office",
+  "at": "2026-11-23T17:47:38Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:6406106": {
   "sector": "edenrise",
-  "reason": "masked",
-  "at": "2026-11-23T17:50:35Z",
+  "reason": "mask",
+  "at": "2026-11-23T17:47:38Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:6406112": {
   "sector": "edenrise",
-  "reason": "masked",
-  "at": "2026-11-23T17:50:35Z",
+  "reason": "mask / fashion",
+  "at": "2026-11-23T17:47:38Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:6406122": {
   "sector": "edenrise",
-  "reason": "masked",
-  "at": "2026-11-23T17:50:35Z",
+  "reason": "mask",
+  "at": "2026-11-23T17:47:38Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:6406170": {
   "sector": "edenrise",
-  "reason": "masked",
-  "at": "2026-11-23T17:50:35Z",
+  "reason": "mask",
+  "at": "2026-11-23T17:47:38Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:6170056": {
   "sector": "edenrise",
   "reason": "smiling crew",
-  "at": "2026-11-23T17:50:35Z",
+  "at": "2026-11-23T17:47:38Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
+ },
+ "pixabay:43658": {
+  "sector": "edenrise",
+  "reason": "factory",
+  "at": "2026-11-23T17:47:38Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
+ },
+ "pixabay:20458": {
+  "sector": "edenrise",
+  "reason": "decay",
+  "at": "2026-11-23T17:47:38Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
+ },
+ "pixabay:20462": {
+  "sector": "edenrise",
+  "reason": "abandoned",
+  "at": "2026-11-23T17:47:38Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S06"
  },
  "pexels:7490379": {
   "sector": "edenrise",
-  "reason": "corporate",
-  "at": "2026-11-23T17:52:19Z",
+  "reason": "fashion",
+  "at": "2026-11-23T17:49:01Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
+ },
+ "pexels:40774730": {
+  "sector": "edenrise",
+  "reason": "mask",
+  "at": "2026-11-23T17:49:01Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
  },
  "pexels:6474357": {
   "sector": "edenrise",
   "reason": "camera-aware posing",
-  "at": "2026-11-23T17:52:19Z",
+  "at": "2026-11-23T17:49:01Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
  },
  "pexels:4824102": {
   "sector": "edenrise",
-  "reason": "suits",
-  "at": "2026-11-23T17:52:19Z",
+  "reason": "suit / corporate",
+  "at": "2026-11-23T17:49:01Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
  },
  "pexels:7816378": {
   "sector": "edenrise",
-  "reason": "corporate meeting",
-  "at": "2026-11-23T17:52:19Z",
+  "reason": "suit / businesswoman",
+  "at": "2026-11-23T17:49:01Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
+ },
+ "pexels:9464475": {
+  "sector": "edenrise",
+  "reason": "office",
+  "at": "2026-11-23T17:49:01Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
  },
  "pexels:7490366": {
   "sector": "edenrise",
-  "reason": "businesswoman",
-  "at": "2026-11-23T17:52:19Z",
+  "reason": "suit / geometric",
+  "at": "2026-11-23T17:49:01Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S07"
  },
  "pexels:6913854": {
   "sector": "edenrise",
-  "reason": "office setting",
-  "at": "2026-11-23T17:53:43Z",
+  "reason": "office / corporate",
+  "at": "2026-11-23T17:50:32Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
+ },
+ "pexels:8275985": {
+  "sector": "edenrise",
+  "reason": "laptop",
+  "at": "2026-11-23T17:50:32Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:6787190": {
   "sector": "edenrise",
   "reason": "minimalist",
-  "at": "2026-11-23T17:53:43Z",
+  "at": "2026-11-23T17:50:32Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
+ },
+ "pexels:4292302": {
+  "sector": "edenrise",
+  "reason": "factory",
+  "at": "2026-11-23T17:50:32Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
+ },
+ "pexels:9391663": {
+  "sector": "edenrise",
+  "reason": "corporate attire",
+  "at": "2026-11-23T17:50:32Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:7252679": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-11-23T17:53:43Z",
+  "at": "2026-11-23T17:50:32Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:12283365": {
   "sector": "edenrise",
-  "reason": "laptop",
-  "at": "2026-11-23T17:53:43Z",
+  "reason": "keyboard / laptop",
+  "at": "2026-11-23T17:50:32Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
- "pexels:8321998": {
+ "pexels:4280746": {
   "sector": "edenrise",
-  "reason": "sewing",
-  "at": "2026-11-23T17:54:52Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S11"
+  "reason": "factory",
+  "at": "2026-11-23T17:50:32Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
- "pixabay:42408": {
+ "pexels:4292578": {
   "sector": "edenrise",
-  "reason": "camera-aware posing",
-  "at": "2026-11-23T17:56:21Z",
+  "reason": "factory",
+  "at": "2026-11-23T17:51:53Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S09"
+ },
+ "pexels:5977047": {
+  "sector": "edenrise",
+  "reason": "businessman / corporate",
+  "at": "2026-11-23T17:51:53Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S09"
+ },
+ "pexels:38496190": {
+  "sector": "edenrise",
+  "reason": "computer",
+  "at": "2026-11-23T17:54:15Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
+ },
+ "pexels:34812249": {
+  "sector": "edenrise",
+  "reason": "green screen",
+  "at": "2026-11-23T17:54:15Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
+ },
+ "pixabay:43040": {
+  "sector": "edenrise",
+  "reason": "war",
+  "at": "2026-11-23T17:54:15Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
+ },
+ "pexels:6893560": {
+  "sector": "edenrise",
+  "reason": "textile",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:7203414": {
+  "sector": "edenrise",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:8055710": {
+  "sector": "edenrise",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:8055703": {
+  "sector": "edenrise",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:8471105": {
+  "sector": "edenrise",
+  "reason": "corporate",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:7981934": {
+  "sector": "edenrise",
+  "reason": "romantic",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:7981938": {
+  "sector": "edenrise",
+  "reason": "office",
+  "at": "2026-11-23T17:56:31Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
  },
  "pexels:7647719": {
   "sector": "edenrise",
-  "reason": "romantic framing",
-  "at": "2026-11-23T17:56:21Z",
+  "reason": "romantic",
+  "at": "2026-11-23T17:56:31Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:9464298": {
+  "sector": "edenrise",
+  "reason": "minimalist",
+  "at": "2026-11-23T17:56:31Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
  },
  "pexels:6893156": {
   "sector": "edenrise",
-  "reason": "fashion",
-  "at": "2026-11-23T17:56:21Z",
+  "reason": "textile",
+  "at": "2026-11-23T17:56:31Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
  },
  "pixabay:5436": {
   "sector": "edenrise",
-  "reason": "corporate",
-  "at": "2026-11-23T17:56:21Z",
+  "reason": "office",
+  "at": "2026-11-23T17:56:31Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:8795663": {
+  "sector": "edenrise",
+  "reason": "romantic",
+  "at": "2026-11-23T17:57:35Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S13"
  },
  "pexels:6671768": {
   "sector": "edenrise",
-  "reason": "office setting",
-  "at": "2026-11-23T17:57:26Z",
+  "reason": "office",
+  "at": "2026-11-23T17:57:35Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S13"
  },
  "pexels:2981524": {
   "sector": "edenrise",
-  "reason": "applause or performance",
-  "at": "2026-11-23T17:58:24Z",
+  "reason": "camera-aware posing",
+  "at": "2026-11-23T17:58:30Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
  },
  "pexels:6668666": {
   "sector": "edenrise",
   "reason": "camera-aware posing",
-  "at": "2026-11-23T17:58:24Z",
+  "at": "2026-11-23T17:58:30Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
  },
  "pexels:10729079": {
   "sector": "edenrise",
   "reason": "makeup",
-  "at": "2026-11-23T17:58:24Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
- },
- "pexels:6195142": {
-  "sector": "edenrise",
-  "reason": "camera-aware posing",
-  "at": "2026-11-23T17:58:24Z",
+  "at": "2026-11-23T17:58:30Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
  }
 }
