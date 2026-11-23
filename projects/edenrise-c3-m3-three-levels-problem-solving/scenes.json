@@ -688,7 +688,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -1984,7 +1984,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -2751,7 +2751,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -3433,7 +3433,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -4205,7 +4205,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -4974,7 +4974,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7220,7 +7220,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7725,7 +7725,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:55:16Z",
+    "at": "2026-11-23T17:55:37Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7744,14 +7744,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V00.strip.jpg",
      "title": "a forklift is lifting a large stack of concrete",
      "query": "crew supporting each other heavy lift",
-     "shot": "B",
+     "shot": "",
      "src_id": "16112062",
      "download_url": "https://videos.pexels.com/video-files/16112062/16112062-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-11-23T17:37:12Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a forklift lifts a large concrete form at a construction yard",
+     "violation": "",
+     "shoot": "pexels-forklift-concrete",
+     "score": 0.35,
+     "rank": 17,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V01",
@@ -7765,14 +7773,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V01.strip.jpg",
      "title": "aerial view of bridge construction over water",
      "query": "crew supporting each other heavy lift",
-     "shot": "B",
+     "shot": "",
      "src_id": "32834586",
      "download_url": "https://videos.pexels.com/video-files/32834586/13995271_1920_1080_60fps.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-11-23T17:37:15Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "aerial view of a bridge under construction over water",
+     "violation": "",
+     "shoot": "pexels-bridge-aerial",
+     "score": 0.0,
+     "rank": 19,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V02",
@@ -7792,8 +7808,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-11-23T17:37:17Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 4,
+     "caption": "two workers guide a crane hook together outdoors",
+     "violation": "",
+     "shoot": "pexels-crane-hook-guide",
+     "score": 4.65,
+     "rank": 4,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V03",
@@ -7813,8 +7837,16 @@
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-11-23T17:37:19Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 3,
+     "caption": "a couple in bright raincoats stake a young tree in a field",
+     "violation": "",
+     "shoot": "pexels-raincoat-tree-stake",
+     "score": 3.0,
+     "rank": 8,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V04",
@@ -7828,14 +7860,22 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V04.strip.jpg",
      "title": "mobile phone  man  chat  dating  partner search  smartphone  app  fun  mobile  bed  internet  young  attractive  dialogue  sms  instagram  facebook  twitter  hands  digital",
      "query": "planting seedling bed",
-     "shot": "A",
+     "shot": "",
      "src_id": "42408",
      "download_url": "https://cdn.pixabay.com/video/2020/06/17/42408-431511624_large.mp4",
      "fresh": true,
      "added_by": "library",
      "staged_at": "2026-11-23T17:37:21Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a smiling man browses a dating app on his phone",
+     "violation": "",
+     "shoot": "pixabay-dating-app-smile",
+     "score": 0.0,
+     "rank": 20,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V05",
@@ -7849,15 +7889,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V05.strip.jpg",
      "title": "volunteers helping each other",
      "query": "colleagues helping lift crate together",
-     "shot": "B",
+     "shot": "",
      "duration": 13,
      "src_id": "6893560",
      "download_url": "https://videos.pexels.com/video-files/6893560/6893560-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "volunteers sort donated clothing inside a shop",
+     "violation": "",
+     "shoot": "pexels-clothing-donation-shop",
+     "score": 1.35,
+     "rank": 15,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V06",
@@ -7878,8 +7926,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:31Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 2,
+     "caption": "two men load cardboard boxes into a delivery van",
+     "violation": "",
+     "shoot": "pexels-van-box-load",
+     "score": 3.3,
+     "rank": 7,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V07",
@@ -7900,8 +7956,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:30Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 4,
+     "brand_fit": 1,
+     "caption": "two hands link pinky fingers against a plain grey backdrop",
+     "violation": "minimalist",
+     "shoot": "pexels-pinky-swear-studio",
+     "score": 2.95,
+     "rank": 9,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V08",
@@ -7922,8 +7986,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:29Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 7,
+     "brand_fit": 5,
+     "caption": "two hands clasp firmly in agreement against a warm backdrop",
+     "violation": "",
+     "shoot": "pexels-handclasp-warmstudio",
+     "score": 6.3,
+     "rank": 1,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V09",
@@ -7944,8 +8016,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:35Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 6,
+     "brand_fit": 5,
+     "caption": "two hands fist bump against a warm plain backdrop",
+     "violation": "",
+     "shoot": "pexels-handclasp-warmstudio",
+     "score": 5.65,
+     "rank": 2,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V10",
@@ -7959,15 +8039,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V10.strip.jpg",
      "title": "close up video of a person signing a document",
      "query": "hands clasping agreement task",
-     "shot": "C",
+     "shot": "",
      "duration": 25,
      "src_id": "8471105",
      "download_url": "https://videos.pexels.com/video-files/8471105/8471105-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "a man in a dress shirt signs a document outdoors",
+     "violation": "",
+     "shoot": "pexels-dressshirt-sign-outdoor",
+     "score": 2.7,
+     "rank": 10,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V11",
@@ -7988,8 +8076,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:39Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 2,
+     "brand_fit": 1,
+     "caption": "two people hold hands together over paperwork at a table",
+     "violation": "romantic framing",
+     "shoot": "pexels-handhold-paperwork",
+     "score": 1.65,
+     "rank": 14,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V12",
@@ -8003,15 +8099,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V12.strip.jpg",
      "title": "close up video of a person writing on a paper",
      "query": "hands clasping agreement task",
-     "shot": "C",
+     "shot": "",
      "duration": 9,
      "src_id": "7981938",
      "download_url": "https://videos.pexels.com/video-files/7981938/7981938-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:38Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "a manicured hand fills out an adoption form",
+     "violation": "",
+     "shoot": "pexels-adoptionform-write",
+     "score": 0.35,
+     "rank": 18,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V13",
@@ -8032,8 +8136,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "a smiling couple carries a heavy box into an apartment",
+     "violation": "romantic framing",
+     "shoot": "pexels-couple-movingbox",
+     "score": 2.65,
+     "rank": 11,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V14",
@@ -8054,8 +8166,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 5,
+     "brand_fit": 2,
+     "caption": "two hands shake against a plain grey backdrop",
+     "violation": "minimalist",
+     "shoot": "pexels-handshake-studio",
+     "score": 3.95,
+     "rank": 6,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V15",
@@ -8076,8 +8196,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:45Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 5,
+     "caption": "a man kneels planting vegetables by a picket fence",
+     "violation": "",
+     "shoot": "pexels-picketfence-planting",
+     "score": 4.35,
+     "rank": 5,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V16",
@@ -8091,15 +8219,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V16.strip.jpg",
      "title": "a little girl spraying water on a woman",
      "query": "foreman mentoring apprentice planting",
-     "shot": "A",
+     "shot": "",
      "duration": 8,
      "src_id": "7421686",
      "download_url": "https://videos.pexels.com/video-files/7421686/7421686-hd_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:46Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a girl sprays water playfully at a woman among potted plants",
+     "violation": "",
+     "shoot": "pexels-waterplay-plants",
+     "score": 0.7,
+     "rank": 16,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V17",
@@ -8120,8 +8256,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 5,
+     "caption": "a mother guides her daughter potting a small plant",
+     "violation": "",
+     "shoot": "pexels-mother-daughter-pot",
+     "score": 5.0,
+     "rank": 3,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V18",
@@ -8142,8 +8286,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 2,
+     "caption": "two volunteers pack folded clothes into a wooden crate",
+     "violation": "",
+     "shoot": "pexels-crate-clothes-pack",
+     "score": 2.65,
+     "rank": 12,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V19",
@@ -8157,15 +8309,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V19.strip.jpg",
      "title": "construction site  elevator  building  build  architecture  construction  industrial  industry  structure  concrete  engineering  safety  worker  cement  technology  heavy  lift  elevating  builder  machine  lifting",
      "query": "colleagues lifting crate",
-     "shot": "B",
+     "shot": "",
      "duration": 15,
      "src_id": "1009",
      "download_url": "https://cdn.pixabay.com/video/2015/10/16/1009-142621189_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:54Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a worker rides a hoist up a tall skyscraper under construction",
+     "violation": "",
+     "shoot": "pixabay-skyscraper-hoist",
+     "score": 0.0,
+     "rank": 21,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V20",
@@ -8179,15 +8339,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V20.strip.jpg",
      "title": "time zones  time  business  clock  management  schedule  work  deadline  strategy  working  world time",
      "query": "crew working garden wide",
-     "shot": "D",
+     "shot": "",
      "duration": 30,
      "src_id": "5436",
      "download_url": "https://cdn.pixabay.com/video/2016/09/21/5436-183788532_medium.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:56Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a row of office clocks shows different world time zones",
+     "violation": "office / corporate",
+     "shoot": "pixabay-timezone-clocks",
+     "score": 0.0,
+     "rank": 22,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V21",
@@ -8201,15 +8369,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V21.strip.jpg",
      "title": "chairlift  cable car  lift  alps  to ski  ski lift  cable railway  winter  skiing  winter landscape  pizol",
      "query": "colleagues lifting crate",
-     "shot": "B",
+     "shot": "",
      "duration": 7,
      "src_id": "13443",
      "download_url": "https://cdn.pixabay.com/video/2017/12/17/13443-248520516_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:57Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a chairlift carries skiers up a snowy mountain",
+     "violation": "",
+     "shoot": "pixabay-chairlift-ski",
+     "score": 0.0,
+     "rank": 23,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V22",
@@ -8223,15 +8399,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V22.strip.jpg",
      "title": "rocket launch  thrusters  nasa  space ship  rocket  space travel  power  space  explore  science  technology  boosters  usa  lift-off  gravitation  gravity  speed  accelerate  acceleration  fuel  altitude  astronautics  space exploration  propulsion  jets  fire  flame  heat",
      "query": "colleagues lifting crate",
-     "shot": "B",
+     "shot": "",
      "duration": 57,
      "src_id": "236",
      "download_url": "https://cdn.pixabay.com/video/2015/08/10/236-135863777_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:38:04Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 0,
+     "caption": "a rocket stands ready on its launch pad",
+     "violation": "",
+     "shoot": "pixabay-rocket-launchpad",
+     "score": 0.0,
+     "rank": 24,
+     "judged_at": "2026-11-23T17:55:35Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S12-V23",
@@ -8245,15 +8429,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S12__strip__edenrise-c3-m3-three-levels-problem-solving-S12-V23.strip.jpg",
      "title": "gondola ride  gondola ride trees  ski lift ride down  ski lift trees  ski lift  steamboat springs  thunderhead gondola  summer ski lift  summer gondola",
      "query": "colleagues lifting crate",
-     "shot": "B",
+     "shot": "D",
      "duration": 59,
      "src_id": "128574",
      "download_url": "https://cdn.pixabay.com/video/2022/08/20/128574-741747734_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:38:05Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "a wide forested mountainside overlooks a distant valley",
+     "violation": "",
+     "shoot": "pixabay-mountain-forest-wide",
+     "score": 1.7,
+     "rank": 13,
+     "judged_at": "2026-11-23T17:55:35Z"
     }
    ],
    "quota": {
@@ -8300,7 +8492,12 @@
     "camera-aware posing"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-11-23T17:22:45Z"
+   "shots_at": "2026-11-23T17:22:45Z",
+   "stock_gap": {
+    "usable": 2,
+    "at": "2026-11-23T17:55:37Z",
+    "reason": "only 2 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "S13",
