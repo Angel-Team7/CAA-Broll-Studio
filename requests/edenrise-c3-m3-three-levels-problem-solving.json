@@ -112,16 +112,20 @@
     "S13": {
       "requested": "2026-11-23T17:22:58Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "intake"
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:39:31Z",
+      "added": 18
     },
     "S14": {
       "requested": "2026-11-23T17:22:58Z",
       "note": "",
-      "done": false,
+      "done": true,
       "reason": "first-gather",
-      "by": "intake"
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:40:24Z",
+      "added": 16
     }
   }
 }
