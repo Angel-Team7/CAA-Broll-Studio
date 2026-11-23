@@ -688,7 +688,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -1984,7 +1984,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -2751,7 +2751,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -3433,7 +3433,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -4205,7 +4205,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -4974,7 +4974,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 1,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 1 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7220,7 +7220,7 @@
    "shots_at": "2026-11-23T17:22:45Z",
    "stock_gap": {
     "usable": 0,
-    "at": "2026-11-23T17:53:45Z",
+    "at": "2026-11-23T17:55:16Z",
     "reason": "only 0 clip(s) reached relevance 6 without a violation"
    }
   },
@@ -7246,8 +7246,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:33Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "calloused hands steadily turn a hand drill into a wooden board",
+     "violation": "",
+     "shoot": "pexels-hand-drill-calloused",
+     "score": 5.35,
+     "rank": 1,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V01",
@@ -7261,15 +7269,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V01.strip.jpg",
      "title": "pull out shot of a mini zen garden",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "8347908",
      "download_url": "https://videos.pexels.com/video-files/8347908/8347908-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 1,
+     "brand_fit": 2,
+     "caption": "a hand rakes sand in a small tabletop zen garden",
+     "violation": "",
+     "shoot": "pexels-mini-zen-garden",
+     "score": 1.35,
+     "rank": 11,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V02",
@@ -7290,8 +7306,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:34Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a lush garden with orange trees glows in late afternoon light",
+     "violation": "",
+     "shoot": "pexels-orchard-afternoon-light",
+     "score": 4.4,
+     "rank": 5,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V03",
@@ -7305,15 +7329,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V03.strip.jpg",
      "title": "close up of a person arranging stones in a mini zen garden",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 10,
      "src_id": "8347915",
      "download_url": "https://videos.pexels.com/video-files/8347915/8347915-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:32Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand arranges small stones in a miniature zen garden",
+     "violation": "",
+     "shoot": "pexels-mini-zen-garden",
+     "score": 0.7,
+     "rank": 12,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V04",
@@ -7327,15 +7359,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V04.strip.jpg",
      "title": "close up of a person using a rake in a mini zen garden",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "8347912",
      "download_url": "https://videos.pexels.com/video-files/8347912/8347912-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a hand draws a small rake through sand in a tabletop garden",
+     "violation": "",
+     "shoot": "pexels-mini-zen-garden",
+     "score": 0.7,
+     "rank": 13,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V05",
@@ -7349,15 +7389,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V05.strip.jpg",
      "title": "close up of a person using a rake in a mini zen garden",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "8347923",
      "download_url": "https://videos.pexels.com/video-files/8347923/8347923-hd_2048_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:41Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 2,
+     "caption": "a small rake traces lines through sand in a miniature garden",
+     "violation": "",
+     "shoot": "pexels-mini-zen-garden",
+     "score": 0.7,
+     "rank": 14,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V06",
@@ -7371,15 +7419,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V06.strip.jpg",
      "title": "tranquil bamboo garden scene",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 11,
      "src_id": "36802982",
      "download_url": "https://videos.pexels.com/video-files/36802982/15594897_1920_1080_50fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 3,
+     "caption": "bamboo leaves sway in a tranquil indoor garden setting",
+     "violation": "",
+     "shoot": "pexels-bamboo-garden-indoor",
+     "score": 1.7,
+     "rank": 10,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V07",
@@ -7400,8 +7456,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:42Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "a worker's hands adjust a bench plane on a workshop table",
+     "violation": "",
+     "shoot": "pexels-bench-plane-adjust",
+     "score": 4.7,
+     "rank": 3,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V08",
@@ -7415,15 +7479,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V08.strip.jpg",
      "title": "lush botanical pathway in sunlit indoors",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 38,
      "src_id": "32050109",
      "download_url": "https://videos.pexels.com/video-files/32050109/13662430_1920_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:50Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 1,
+     "brand_fit": 4,
+     "caption": "a stone pathway winds through a lush botanical walkway",
+     "violation": "",
+     "shoot": "pexels-botanical-pathway",
+     "score": 2.05,
+     "rank": 9,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V09",
@@ -7437,15 +7509,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V09.strip.jpg",
      "title": "incense sticks burning at a buddhist altar",
      "query": "calm garden worksite afternoon light",
-     "shot": "D",
+     "shot": "",
      "duration": 13,
      "src_id": "7170044",
      "download_url": "https://videos.pexels.com/video-files/7170044/7170044-hd_2048_1080_24fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:49Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": false,
+     "relevance": 0,
+     "brand_fit": 1,
+     "caption": "incense sticks burn at a buddhist altar statue",
+     "violation": "",
+     "shoot": "pexels-buddhist-altar-incense",
+     "score": 0.35,
+     "rank": 15,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V10",
@@ -7459,15 +7539,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V10.strip.jpg",
      "title": "close up view of a man sharpening an object",
      "query": "hands steadily working tool",
-     "shot": "B",
+     "shot": "",
      "duration": 18,
      "src_id": "8321998",
      "download_url": "https://videos.pexels.com/video-files/8321998/8321998-hd_2048_1080_25fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 3,
+     "caption": "a hand sharpens a small object on a cluttered workbench",
+     "violation": "",
+     "shoot": "pexels-sharpening-workbench",
+     "score": 2.35,
+     "rank": 8,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V11",
@@ -7488,8 +7576,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:51Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 5,
+     "brand_fit": 6,
+     "caption": "hands steadily plane a wooden board, curling shavings onto the table",
+     "violation": "",
+     "shoot": "pexels-hand-plane-wood",
+     "score": 5.35,
+     "rank": 2,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V12",
@@ -7510,8 +7606,16 @@
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:36:55Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 4,
+     "brand_fit": 6,
+     "caption": "calloused hands file a metal ring at a workbench",
+     "violation": "",
+     "shoot": "pexels-ring-filing-workbench",
+     "score": 4.7,
+     "rank": 4,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V13",
@@ -7525,15 +7629,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V13.strip.jpg",
      "title": "a man holding a stick in his hand",
      "query": "hands steadily working tool",
-     "shot": "B",
+     "shot": "A",
      "duration": 26,
      "src_id": "17746799",
      "download_url": "https://videos.pexels.com/video-files/17746799/17746799-hd_1920_1080_30fps.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 3,
+     "brand_fit": 7,
+     "caption": "a worker's hands grip a wooden tool handle in a garden",
+     "violation": "",
+     "shoot": "pexels-tool-handle-grip-garden",
+     "score": 4.4,
+     "rank": 6,
+     "judged_at": "2026-11-23T17:55:13Z"
     },
     {
      "id": "edenrise-c3-m3-three-levels-problem-solving-S11-V14",
@@ -7547,15 +7659,23 @@
      "strip": "https://github.com/Angel-Team7/CAA-Broll-Studio/releases/download/media-edenrise-c3-m3-three-levels-problem-solving/S11__strip__edenrise-c3-m3-three-levels-problem-solving-S11-V14.strip.jpg",
      "title": "tractor  role  field  meadow  nature  village  asparagus  the cultivation of  machine  farmer",
      "query": "workers swapping roles",
-     "shot": "C",
+     "shot": "D",
      "duration": 10,
      "src_id": "121982",
      "download_url": "https://cdn.pixabay.com/video/2022/06/24/121982-724732199_large.mp4",
      "fresh": true,
      "added_by": "recall-v2",
      "staged_at": "2026-11-23T17:37:00Z",
-     "judged": false,
-     "shown": false
+     "judged": true,
+     "shown": true,
+     "relevance": 2,
+     "brand_fit": 4,
+     "caption": "an aerial view of a tractor working a distant open field",
+     "violation": "",
+     "shoot": "pixabay-tractor-field-aerial",
+     "score": 2.7,
+     "rank": 7,
+     "judged_at": "2026-11-23T17:55:13Z"
     }
    ],
    "quota": {
@@ -7602,7 +7722,12 @@
     "office setting"
    ],
    "shots_by": "claude",
-   "shots_at": "2026-11-23T17:22:45Z"
+   "shots_at": "2026-11-23T17:22:45Z",
+   "stock_gap": {
+    "usable": 0,
+    "at": "2026-11-23T17:55:16Z",
+    "reason": "only 0 clip(s) reached relevance 6 without a violation"
+   }
   },
   {
    "id": "S12",
