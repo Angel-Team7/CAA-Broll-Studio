@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Music · Edenrise Cockpit</title>
+<link rel="stylesheet" href="style.css?v=20261123a">
+</head>
+<body class="musicpage">
+<header class="topbar">
+  <div class="bar">
+    <a class="backlink" href="index.html" title="Back to the B-roll cockpit">◂ Cockpit</a>
+    <div class="mu-title">
+      <span class="lb-kicker" id="mucoll">Music library</span>
+      <span class="lb-title">🎵 Music</span>
+    </div>
+    <input id="muq" class="search" type="search" placeholder="Search title, mood, artist…" autocomplete="off">
+    <div class="spacer"></div>
+    <span id="musave" class="connpill off"><span class="dot"></span>…</span>
+  </div>
+  <nav class="mu-filters" id="mufilters" aria-label="Filters"></nav>
+</header>
+
+<main class="mu-main">
+  <p id="musummary" class="mu-summary muted"></p>
+  <div id="mulist" class="mu-list"><p class="muted pad">Loading…</p></div>
+  <p class="mu-foot muted" id="mufoot"></p>
+</main>
+
+<div id="muplayer" class="mu-player" hidden>
+  <button id="mpplay" class="mp-play" title="Play / pause (space)">❚❚</button>
+  <div class="mp-meta"><b id="mptitle"></b><span id="mpartist" class="muted"></span></div>
+  <div class="mp-bar" id="mpbar"><div class="mp-fill" id="mpfill"></div></div>
+  <span id="mptime" class="mp-time">0:00</span>
+  <button id="mpnext" class="mp-next" title="Next track (↓)">⏭</button>
+</div>
+
+<div id="toast" class="toast"></div>
+<script src="music.js?v=20261123a"></script>
+</body>
+</html>

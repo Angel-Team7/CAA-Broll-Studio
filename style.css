@@ -424,3 +424,71 @@ header.topbar .bar{gap:12px;padding:10px 20px;flex-wrap:nowrap}
   .shots-txt .shot{display:block}
   .scene-id{font-size:13px}
 }
+
+/* ===== Music (2026-11-23): one clean list — play, see the shape, shortlist ===== */
+.backlink{color:var(--muted);text-decoration:none;font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:8px;white-space:nowrap}
+.backlink:hover{color:var(--text);border-color:var(--accent)}
+.mu-title{display:flex;flex-direction:column}
+.musicpage .search{min-width:260px}
+.mu-filters{display:flex;gap:6px;align-items:center;padding:0 20px 10px;overflow-x:auto;scrollbar-width:none}
+.mu-filters::-webkit-scrollbar{display:none}
+.mf{flex:none;font-size:12.5px;padding:4px 11px;border-radius:999px}
+.mf i{font-style:normal;margin-left:6px;color:var(--muted);font-size:11px}
+.mf.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.mf.on i{color:#dfe8ff}
+.mf-sep{width:1px;height:18px;background:var(--line);margin:0 4px;flex:none}
+.mu-main{max-width:1180px;padding-bottom:110px}
+.mu-summary{margin:4px 2px 14px;font-size:13.5px}
+.mu-summary b{color:var(--text)}
+.mu-list{display:flex;flex-direction:column;gap:8px}
+.trk{display:grid;grid-template-columns:44px minmax(180px,1.1fr) minmax(160px,1.3fr) 46px 150px 34px;
+  gap:14px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+.trk:hover{border-color:#36415a}
+.trk.playing{border-color:var(--accent);box-shadow:0 0 0 1px rgba(76,141,255,.35)}
+.trk.starred{background:linear-gradient(90deg,rgba(232,192,74,.06),var(--panel) 40%)}
+.tplay{width:40px;height:40px;border-radius:50%;padding:0;font-size:14px;background:var(--panel2);display:flex;align-items:center;justify-content:center}
+.trk.playing .tplay{background:var(--accent);border-color:var(--accent);color:#fff}
+.tinfo{min-width:0}
+.tname{font-weight:650;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tnum{color:var(--muted);font-weight:500;font-size:11.5px;margin-right:8px;font-variant-numeric:tabular-nums}
+.tsub{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tmood{color:#c4cdda}
+.tchips{display:flex;gap:5px;margin-top:5px;flex-wrap:wrap}
+.chip{font-size:10.5px;padding:1px 7px;border-radius:6px;border:1px solid var(--line);color:var(--muted);text-transform:lowercase}
+.chip.intro{color:#c9a8ff;border-color:#5c478c}
+.chip.bed{color:#5fd99a;border-color:#245f42}
+.chip.care{color:#e8c04a;border-color:#6b5a1d}
+.twave{position:relative;height:34px;cursor:pointer}
+.twave .wv{width:100%;height:34px;display:block}
+.twave .wv rect{fill:#3a4459}
+.trk.playing .twave .wv rect{fill:#4f5d7a}
+.tprog{position:absolute;inset:0 auto 0 0;width:0;background:rgba(76,141,255,.28);pointer-events:none;transition:width .25s linear}
+.tdur{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums;text-align:right}
+.tlic{display:flex;flex-direction:column;gap:3px;align-items:flex-start}
+.lic{font-size:11px;padding:2px 8px;border-radius:6px;white-space:nowrap}
+.lic.free{color:#5fd99a;background:rgba(57,217,138,.09);border:1px solid #245f42}
+.lic.credit{color:#e8c04a;background:rgba(232,192,74,.08);border:1px solid #6b5a1d}
+button.lic.credit:hover{background:rgba(232,192,74,.18)}
+.tsrc{font-size:11px;color:var(--muted)}
+.tstar{width:34px;height:34px;padding:0;font-size:17px;border-radius:8px;color:var(--muted)}
+.tstar.on{color:#f3c64a;border-color:#6b5a1d;background:rgba(232,192,74,.1)}
+.mu-foot{font-size:12px;margin-top:18px}
+.mu-player{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);width:min(760px,94vw);z-index:30;
+  display:flex;align-items:center;gap:12px;padding:10px 14px;border-radius:14px;
+  background:rgba(22,26,36,.96);border:1px solid #2f3a50;box-shadow:0 10px 30px rgba(0,0,0,.5);backdrop-filter:blur(8px)}
+.mp-play{width:38px;height:38px;border-radius:50%;padding:0;background:var(--accent);border-color:var(--accent);color:#fff;flex:none}
+.mp-meta{min-width:0;max-width:220px;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mp-bar{flex:1;height:6px;background:#2a3243;border-radius:3px;cursor:pointer;overflow:hidden}
+.mp-fill{height:100%;width:0;background:var(--accent)}
+.mp-time{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.mp-next{flex:none;padding:5px 9px}
+@media (max-width:900px){
+  .musicpage .search{min-width:0;flex:1 1 100%;order:5}
+  .trk{grid-template-columns:40px 1fr 34px;grid-template-areas:"p i s" "w w w" "d l l";row-gap:8px}
+  .tplay{grid-area:p}.tinfo{grid-area:i}.tstar{grid-area:s}.twave{grid-area:w}.tdur{grid-area:d;text-align:left}
+  .tlic{grid-area:l;flex-direction:row;align-items:center;gap:10px;justify-content:flex-end}
+  .mp-meta{max-width:110px}
+}
+.musiclink{color:var(--text);text-decoration:none;font-size:13px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;white-space:nowrap;background:var(--panel2)}
+.musiclink:hover{border-color:var(--accent)}
+.trk.playing .tprog{border-right:2px solid var(--accent)}
