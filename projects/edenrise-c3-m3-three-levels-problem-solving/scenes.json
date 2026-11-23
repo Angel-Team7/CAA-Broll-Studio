@@ -1,0 +1,713 @@
+{
+ "scenes": [
+  {
+   "id": "S01",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Every workplace faces challenges. Plans change. Equipment fails. Deadlines slip. Unexpected complications arise. These difficulties are a normal part of work. They’re also how people develop judgment, resilience, and competence. But two people can face exactly the same problem and respond in completely different ways. One creates anxiety, confusion, and additional work for everyone around them.",
+   "t": 0.0,
+   "end": 23.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a gardening crew working calmly on resort grounds in morning light",
+     "pexels": "gardening crew working resort grounds",
+     "pixabay": "garden crew morning work",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "foreman noticing a broken wheelbarrow wheel on a garden path",
+     "pexels": "foreman inspecting broken wheelbarrow",
+     "pixabay": "wheelbarrow broken wheel",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands tightening a loose bolt on a stalled garden cart",
+     "pexels": "hands tightening bolt cart",
+     "pixabay": "hands bolt tool",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "one worker looking tense beside stalled equipment",
+     "pexels": "worker tense broken equipment",
+     "pixabay": "worker frustrated equipment",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "a second worker calmly assessing the same stalled equipment",
+     "pexels": "worker calmly assessing equipment",
+     "pixabay": "worker calm inspecting tool",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "worker looking at camera",
+    "shouting or anger theatre",
+    "stock-photo posed smiling",
+    "gangster signifiers"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S02",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The other creates clarity, confidence, and progress. Same problem. Completely different response. And that difference matters. Because professional value isn’t measured by how difficult someone’s work appears to be. It’s measured by how effectively they respond to challenges and contribute to solutions. There are three distinct levels of problem-solving that help explain these differences.",
+   "t": 23.59,
+   "end": 47.59,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker calmly explaining a plan to a colleague beside laid-out garden tools",
+     "pexels": "worker explaining plan colleague",
+     "pixabay": "crew planning tools",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "wide shot of two gardeners standing by a greenhouse discussing next steps",
+     "pexels": "gardeners discussing greenhouse plan",
+     "pixabay": "greenhouse workers discussion",
+     "scale": "wide"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands sorting tools calmly into a toolbox",
+     "pexels": "hands sorting tools toolbox",
+     "pixabay": "hand tools toolbox",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "foreman reviewing a task list on a clipboard with quiet confidence",
+     "pexels": "foreman reviewing clipboard confident",
+     "pixabay": "foreman clipboard garden",
+     "scale": "medium"
+    }
+   ],
+   "must_not": [
+    "office whiteboard",
+    "corporate attire",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S03",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Level One: The Problem Amplifier. At Level One, the focus is on the difficulty itself. Something goes wrong, and the problem immediately becomes bigger through the way it’s communicated. “This is a disaster.” “You don’t understand how difficult this is.” “Everything is going wrong.” The individual may repeat the problem to several people, emphasizing the obstacles, frustration, and pressure involved.",
+   "t": 47.59,
+   "end": 73.24,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker gesturing with frustration while describing a problem to two colleagues",
+     "pexels": "worker frustrated describing problem",
+     "pixabay": "worker frustrated gesture",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two coworkers listening with concern as a worker repeats a complaint",
+     "pexels": "coworkers listening to complaint",
+     "pixabay": "workers listening concerned",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands gesturing emphatically near a broken tool",
+     "pexels": "hands gesturing broken tool",
+     "pixabay": "hands broken tool",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a worksite with scattered tools and an unfinished task",
+     "pexels": "unfinished worksite scattered tools",
+     "pixabay": "garden site unfinished tools",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "intense stare into camera",
+    "shouting",
+    "office setting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S04",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Sometimes the difficulty is genuine. But the defining characteristic is this: More energy is spent describing the problem than finding a solution. Sometimes this comes from feeling overwhelmed. But sometimes it comes from wanting recognition. People want others to appreciate how hard they’re working and how much responsibility they’re carrying. Without realizing it, difficulty becomes a way of demonstrating importance.",
+   "t": 73.24,
+   "end": 98.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker talking animatedly to a small group about a problem",
+     "pexels": "worker talking group problem",
+     "pixabay": "worker group talking",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of a worker's clasped hands, idle, mid-conversation",
+     "pexels": "hands clasped mid conversation",
+     "pixabay": "hands clasped worker",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two colleagues pausing their work to listen to a lengthy complaint",
+     "pexels": "colleagues pausing listen complaint",
+     "pixabay": "colleagues listening pause",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of idle tools left on the ground during a conversation",
+     "pexels": "idle tools ground conversation",
+     "pixabay": "tools ground idle",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "office setting",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S05",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The unspoken message becomes: “Look how much I’m dealing with. Surely that makes me valuable.” But the effect can be the opposite. Instead of inspiring confidence, repeated dramatization creates concern. Instead of reducing the burden on the organization, it increases it. Because now the team must manage not only the original problem, but also the unnecessary anxiety surrounding it.",
+   "t": 98.9,
+   "end": 123.72,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker throwing up hands in exaggerated frustration near stalled machinery",
+     "pexels": "worker exaggerated frustration machinery",
+     "pixabay": "worker frustration machine",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "foreman looking concerned, arms crossed, watching the exchange",
+     "pexels": "foreman concerned arms crossed",
+     "pixabay": "foreman concerned watching",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a tense hand gripping a tool handle tightly",
+     "pexels": "hand gripping tool tense",
+     "pixabay": "hand gripping tool tense",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a garden crew standing idle around one worker's complaint",
+     "pexels": "garden crew idle standing complaint",
+     "pixabay": "crew standing idle",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling",
+    "intense stare into camera",
+    "office setting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S06",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Level One amplifies difficulty rather than reducing it. Level Two: The Problem Reporter. At Level Two, the drama largely disappears. The person identifies the problem and communicates it clearly. “The delivery hasn’t arrived.” “The equipment isn’t working.” “We’re behind schedule. What should we do?” This is progress. But something important is missing.",
+   "t": 123.72,
+   "end": 146.48,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker calmly pointing at an empty delivery spot where materials should be",
+     "pexels": "worker pointing empty delivery spot",
+     "pixabay": "worker pointing empty space",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands checking a delivery note against empty crates",
+     "pexels": "hands checking delivery note crates",
+     "pixabay": "hands delivery note crates",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker calmly reporting a stalled mower to a foreman",
+     "pexels": "worker reporting broken mower foreman",
+     "pixabay": "worker reporting mower foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of empty crates stacked near a garden shed",
+     "pexels": "empty crates garden shed",
+     "pixabay": "empty crates shed",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "smiling crew",
+    "anger theatre",
+    "office setting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S07",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The individual has communicated the problem without taking responsibility for developing a solution. The thinking has effectively been transferred to somebody else. Now the manager must investigate, consider alternatives, and determine the next steps. And when this becomes a habit, it creates dependency rather than capability. Of course, safety concerns, serious risks, and decisions beyond someone’s authority must be escalated promptly.",
+   "t": 146.48,
+   "end": 172.14,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker handing off a problem report to a foreman and walking away",
+     "pexels": "worker handing report walking away",
+     "pixabay": "worker report foreman",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "foreman alone, reviewing a problem note left on a clipboard",
+     "pexels": "foreman reviewing note alone clipboard",
+     "pixabay": "foreman clipboard alone",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of a hard hat set down beside a hazard sign",
+     "pexels": "hard hat beside hazard sign",
+     "pixabay": "helmet hazard sign",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a foreman walking across the site to investigate alone",
+     "pexels": "foreman walking site investigate",
+     "pixabay": "foreman walking site",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "corporate meeting",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S08",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But for ordinary challenges, reporting the problem should be the beginning of the process, not the end. Level Two reports the problem but transfers responsibility for solving it. Level Three: The Solution Owner. Level Three represents a fundamental change in mindset. Instead of asking, “Who can solve this for me?” the person asks: “What can I do to move this toward a solution?”",
+   "t": 172.14,
+   "end": 198.21,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing thoughtfully while looking at a stalled task",
+     "pexels": "worker thoughtful pause stalled task",
+     "pixabay": "worker thinking garden",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "worker picking up tools and starting to work through a problem alone",
+     "pexels": "worker picking up tools problem solve",
+     "pixabay": "worker tools starting",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands flipping through a notebook of repair notes",
+     "pexels": "hands notebook repair notes",
+     "pixabay": "hands notebook tools",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a worker walking toward a toolshed with purpose",
+     "pexels": "worker walking toolshed purpose",
+     "pixabay": "worker walking toolshed",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "corporate attire",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S09",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "They investigate the problem, understand its causes, and explore alternatives. They use the resources available to them. They might use AI to research solutions, consult an experienced colleague, or seek guidance from their manager. And when they communicate, it sounds different. “We’ve encountered a delivery problem. I’ve contacted the supplier and identified two alternatives. One costs slightly more but keeps us on schedule. Here’s what I recommend. Can I have approval to proceed?”",
+   "t": 198.21,
+   "end": 229.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker consulting an experienced colleague over a spare part",
+     "pexels": "worker consulting colleague tool part",
+     "pixabay": "worker colleague consulting",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands comparing two spare parts side by side",
+     "pexels": "hands comparing spare parts",
+     "pixabay": "hands spare parts compare",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker on a phone call discussing a delivery with a supplier outdoors",
+     "pexels": "worker phone call supplier outdoor",
+     "pixabay": "worker phone call outdoor",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "foreman and worker looking at options together on a clipboard",
+     "pexels": "foreman worker clipboard options",
+     "pixabay": "foreman worker clipboard",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide shot of a worker walking toward a greenhouse carrying a replacement part",
+     "pexels": "worker carrying replacement part greenhouse",
+     "pixabay": "worker carrying part greenhouse",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "corporate meeting room",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S10",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "Notice the difference. The problem hasn’t disappeared. But the response has completely changed. There’s initiative, judgment, and a clear path forward. Instead of transferring the burden, the person creates progress. Ownership doesn’t mean knowing everything, working alone, or refusing help. It means accepting responsibility for moving things forward. Sometimes the first solution fails. Sometimes additional expertise is required.",
+   "t": 229.66,
+   "end": 254.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker confidently presenting a fixed solution to a foreman",
+     "pexels": "worker presenting solution foreman",
+     "pixabay": "worker foreman solution",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands fitting a correct replacement part into place",
+     "pexels": "hands fitting replacement part",
+     "pixabay": "hands fitting part",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker and colleague adjusting a plan together after a setback",
+     "pexels": "worker colleague adjusting plan",
+     "pixabay": "worker colleague plan",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a crew resuming work after a fix is in place",
+     "pexels": "crew resuming work after fix",
+     "pixabay": "crew resuming work",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "corporate attire",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S11",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But the underlying attitude remains: “I’ll find a way forward.” This is quiet competence. No unnecessary drama. No performance. No need for applause. The focus is on achieving the outcome, not advertising the difficulty. These levels are not permanent labels. People can move between them depending on the situation, their experience, and the pressure they’re facing.",
+   "t": 254.9,
+   "end": 278.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker quietly focused, working steadily without fuss",
+     "pexels": "worker quietly focused steady work",
+     "pixabay": "worker focused quiet",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of calloused hands steadily working a hand tool",
+     "pexels": "hands steadily working tool",
+     "pixabay": "hands tool steady",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "two workers calmly swapping roles on a task",
+     "pexels": "workers calmly swapping roles",
+     "pixabay": "workers swapping roles",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a calm garden worksite in late afternoon light",
+     "pexels": "calm garden worksite afternoon light",
+     "pixabay": "garden worksite calm",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "drama or performance",
+    "camera-aware posing",
+    "office setting"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S12",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The purpose is not to judge people, but to recognize our own patterns and improve. And Level Three is the standard we expect, develop, recognize, and reward. Because organizations become stronger when people take ownership, think independently, and help one another solve problems. The most valuable people are those who consistently turn obstacles into progress.",
+   "t": 278.9,
+   "end": 301.66,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "foreman mentoring an apprentice beside a planting bed",
+     "pexels": "foreman mentoring apprentice planting",
+     "pixabay": "foreman apprentice mentoring",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "two colleagues helping each other lift a heavy crate",
+     "pexels": "colleagues helping lift crate together",
+     "pixabay": "colleagues lifting crate",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of two hands clasping in agreement over a task",
+     "pexels": "hands clasping agreement task",
+     "pixabay": "hands agreement task",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a crew working independently across a large garden",
+     "pexels": "crew working independently garden",
+     "pixabay": "crew working garden wide",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "romantic framing",
+    "office setting",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S13",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "The goal is not to appear indispensable because everything is difficult. The goal is to become valuable because you make difficult things work. The next time a problem arises, ask yourself: Am I amplifying the problem? Am I simply reporting it? Or am I taking ownership and moving toward a solution? You don’t need to pretend everything is easy. You don’t need to hide genuine difficulties. And you certainly don’t need to solve everything alone.",
+   "t": 301.66,
+   "end": 333.93,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "worker pausing to reflect while looking at a finished task",
+     "pexels": "worker reflecting finished task",
+     "pixabay": "worker reflecting garden",
+     "scale": "medium"
+    },
+    {
+     "id": "B",
+     "text": "close-up of hands resting on a freshly repaired fence",
+     "pexels": "hands resting repaired fence",
+     "pixabay": "hands repaired fence",
+     "scale": "close"
+    },
+    {
+     "id": "C",
+     "text": "worker asking a colleague a quick question before continuing",
+     "pexels": "worker asking colleague question",
+     "pixabay": "worker asking colleague",
+     "scale": "medium"
+    },
+    {
+     "id": "D",
+     "text": "wide shot of a garden crew working together at midday",
+     "pexels": "garden crew working together midday",
+     "pixabay": "garden crew midday",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "camera-aware posing",
+    "corporate attire"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  },
+  {
+   "id": "S14",
+   "clips": [],
+   "quota": {
+    "video": 7,
+    "image": 3
+   },
+   "script_line": "But you do need to take responsibility for your response. Don’t seek admiration for how difficult your work is. Earn respect through how effectively you handle difficulty. Don’t become the person who needs everyone to know how hard things are. Become the person everyone knows they can trust when things get hard. That is the mindset of a solution owner. And that is the standard worth aspiring to.",
+   "t": 333.93,
+   "end": 362.9,
+   "timing_source": "estimated",
+   "shots": [
+    {
+     "id": "A",
+     "text": "wide shot of a respected foreman walking the finished grounds at golden hour",
+     "pexels": "foreman walking finished grounds golden hour",
+     "pixabay": "foreman golden hour grounds",
+     "scale": "wide"
+    },
+    {
+     "id": "B",
+     "text": "colleagues nodding quietly to a worker who solved a problem",
+     "pexels": "colleagues nodding worker quietly",
+     "pixabay": "colleagues nodding worker",
+     "scale": "medium"
+    },
+    {
+     "id": "C",
+     "text": "close-up of hands putting tools away neatly at day's end",
+     "pexels": "hands putting tools away dusk",
+     "pixabay": "hands tools away dusk",
+     "scale": "close"
+    },
+    {
+     "id": "D",
+     "text": "worker and foreman shaking hands briefly after a solved problem",
+     "pexels": "worker foreman shaking hands",
+     "pixabay": "worker foreman handshake",
+     "scale": "medium"
+    },
+    {
+     "id": "E",
+     "text": "wide shot of the crew walking home together across the grounds at dusk",
+     "pexels": "crew walking home grounds dusk",
+     "pixabay": "crew walking dusk grounds",
+     "scale": "wide"
+    }
+   ],
+   "must_not": [
+    "office setting",
+    "applause or performance",
+    "camera-aware posing"
+   ],
+   "shots_by": "claude",
+   "shots_at": "2026-11-23T17:22:45Z"
+  }
+ ]
+}
