@@ -12463,68 +12463,86 @@
  },
  "pexels:6913854": {
   "sector": "edenrise",
-  "reason": "office, corporate, laptop",
-  "at": "2026-11-23T17:53:50Z",
+  "reason": "office setting, corporate attire",
+  "at": "2026-11-23T17:52:11Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
+ },
+ "pexels:8275985": {
+  "sector": "edenrise",
+  "reason": "laptop",
+  "at": "2026-11-23T17:52:11Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:6787190": {
   "sector": "edenrise",
   "reason": "minimalist",
-  "at": "2026-11-23T17:53:50Z",
+  "at": "2026-11-23T17:52:11Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:7252679": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-11-23T17:53:50Z",
+  "at": "2026-11-23T17:52:11Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:12283365": {
   "sector": "edenrise",
   "reason": "laptop",
-  "at": "2026-11-23T17:53:50Z",
+  "at": "2026-11-23T17:52:11Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S08"
  },
  "pexels:5977047": {
   "sector": "edenrise",
-  "reason": "businessman",
-  "at": "2026-11-23T17:56:10Z",
+  "reason": "businessman, corporate",
+  "at": "2026-11-23T17:53:21Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S09"
- },
- "pixabay:24370": {
-  "sector": "edenrise",
-  "reason": "unrelated stock graphic",
-  "at": "2026-11-23T17:56:10Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S09"
- },
- "pexels:6755155": {
-  "sector": "edenrise",
-  "reason": "assembly",
-  "at": "2026-11-23T17:57:56Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
- },
- "pexels:34596375": {
-  "sector": "edenrise",
-  "reason": "refugee camp / crisis footage, inappropriate and unrelated",
-  "at": "2026-11-23T17:57:56Z",
-  "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
  },
  "pexels:38496190": {
   "sector": "edenrise",
   "reason": "computer",
-  "at": "2026-11-23T17:57:56Z",
+  "at": "2026-11-23T17:54:27Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
  },
  "pexels:34812249": {
   "sector": "edenrise",
   "reason": "green screen",
-  "at": "2026-11-23T17:57:56Z",
+  "at": "2026-11-23T17:54:27Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
  },
  "pixabay:43040": {
   "sector": "edenrise",
-  "reason": "weapons imagery",
-  "at": "2026-11-23T17:57:56Z",
+  "reason": "war",
+  "at": "2026-11-23T17:54:27Z",
   "from": "edenrise-c3-m3-three-levels-problem-solving/S10"
+ },
+ "pexels:7647719": {
+  "sector": "edenrise",
+  "reason": "romantic framing",
+  "at": "2026-11-23T17:56:35Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S12"
+ },
+ "pexels:6671768": {
+  "sector": "edenrise",
+  "reason": "office setting, minimalist",
+  "at": "2026-11-23T17:57:29Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S13"
+ },
+ "pexels:2981524": {
+  "sector": "edenrise",
+  "reason": "drama or performance",
+  "at": "2026-11-23T17:58:20Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
+ },
+ "pexels:6668666": {
+  "sector": "edenrise",
+  "reason": "camera-aware posing",
+  "at": "2026-11-23T17:58:20Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
+ },
+ "pexels:10729079": {
+  "sector": "edenrise",
+  "reason": "makeup",
+  "at": "2026-11-23T17:58:20Z",
+  "from": "edenrise-c3-m3-three-levels-problem-solving/S14"
  }
 }
