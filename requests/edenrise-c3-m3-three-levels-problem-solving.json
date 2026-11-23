@@ -1,103 +1,127 @@
 {
- "project": "edenrise-c3-m3-three-levels-problem-solving",
- "topup_requests": {
-  "S01": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S02": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S03": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S04": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S05": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S06": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S07": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S08": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S09": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S10": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S11": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S12": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S13": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
-  },
-  "S14": {
-   "requested": "2026-11-23T17:22:58Z",
-   "note": "",
-   "done": false,
-   "reason": "first-gather",
-   "by": "intake"
+  "project": "edenrise-c3-m3-three-levels-problem-solving",
+  "topup_requests": {
+    "S01": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:26:52Z",
+      "added": 21
+    },
+    "S02": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:27:56Z",
+      "added": 24
+    },
+    "S03": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:28:54Z",
+      "added": 16
+    },
+    "S04": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:29:58Z",
+      "added": 24
+    },
+    "S05": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:31:00Z",
+      "added": 21
+    },
+    "S06": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:32:04Z",
+      "added": 24
+    },
+    "S07": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:33:13Z",
+      "added": 24
+    },
+    "S08": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:34:07Z",
+      "added": 23
+    },
+    "S09": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:35:12Z",
+      "added": 24
+    },
+    "S10": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:36:14Z",
+      "added": 23
+    },
+    "S11": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:37:00Z",
+      "added": 15
+    },
+    "S12": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": true,
+      "reason": "first-gather",
+      "by": "intake",
+      "fulfilled": "2026-11-23T17:38:05Z",
+      "added": 24
+    },
+    "S13": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "intake"
+    },
+    "S14": {
+      "requested": "2026-11-23T17:22:58Z",
+      "note": "",
+      "done": false,
+      "reason": "first-gather",
+      "by": "intake"
+    }
   }
- }
 }
